@@ -16,6 +16,6 @@ If you have a technical focus and want to expand your repertoire, this section o
 
 ## Topics
 
-### [Palette of Throws](/technical/throws)
+### [Palette of Throws](/en/technical/throws)
 What are all the throws out there? A comprehensive overview of the technical possibilities in pétanque.
 

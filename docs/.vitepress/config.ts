@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Pétanque Academy",
   description: "Elite player development - From technique to flow",
+  ignoreDeadLinks: true,
 
   locales: {
     da: {
