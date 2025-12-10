@@ -5,6 +5,16 @@ export default defineConfig({
   description: "Elite player development - From technique to flow",
   ignoreDeadLinks: true,
 
+  head: [
+    ['script', { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-JG6034BPGE' }],
+    ['script', {}, `
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-JG6034BPGE');
+    `]
+  ],
+
   locales: {
     da: {
       label: 'Dansk',
