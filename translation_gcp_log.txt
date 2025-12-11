@@ -1,0 +1,267 @@
+Initializing Google Cloud Translation API...
+
+🌍 GCP Translation: 26 files × 9 languages = 234 translations
+
+[1/26] ambition.md
+  da... ✓
+  de... ✓
+  es... ✓
+  fr... ✓
+  it... ✓
+  nl... ✓
+  no... ✓
+  pt... ✓
+  sv... ✓
+[2/26] food.md
+  da... ✓
+  de... ✓
+  es... ✓
+  fr... ✓
+  it... ✓
+  nl... ✓
+  no... ✓
+  pt... ✓
+  sv... ✓
+[3/26] news/index.md
+  da... ✓
+  de... ✓
+  es... ✓
+  fr... ✓
+  it... ✓
+  nl... ✓
+  no... ✓
+  pt... ✓
+  sv... ✓
+[4/26] workshop.md
+  da... ✓
+  de... ✓
+  es... ✓
+  fr... ✓
+  it... ✓
+  nl... ✓
+  no... ✓
+  pt... ✓
+  sv... ✓
+[5/26] technical/index.md
+  da... ✓
+  de... ✓
+  es... ✓
+  fr... ✓
+  it... ✓
+  nl... ✓
+  no... ✓
+  pt... ✓
+  sv... ✓
+[6/26] technical/throws.md
+  da... ✓
+  de... ✓
+  es... ✓
+  fr... ✓
+  it... ✓
+  nl... ✓
+  no... ✓
+  pt... ✓
+  sv... ✓
+[7/26] education/index.md
+  da... ✓
+  de... ✓
+  es... ✓
+  fr... ✓
+  it... ✓
+  nl... ✓
+  no... ✓
+  pt... ✓
+  sv... ✓
+[8/26] education/goals/index.md
+  da... ✓
+  de... ✓
+  es... ✓
+  fr... ✓
+  it... ✓
+  nl... ✓
+  no... ✓
+  pt... ✓
+  sv... ✓
+[9/26] education/goals/smart-goals.md
+  da... ✓
+  de... ✓
+  es... ✓
+  fr... ✓
+  it... ✓
+  nl... ✓
+  no... ✓
+  pt... ✓
+  sv... ✓
+[10/26] education/goals/planning.md
+  da... ✓
+  de... ✓
+  es... ✓
+  fr... ✓
+  it... ✓
+  nl... ✓
+  no... ✓
+  pt... ✓
+  sv... ✓
+[11/26] education/team-player/index.md
+  da... ✓
+  de... ✓
+  es... ✓
+  fr... ✓
+  it... ✓
+  nl... ✓
+  no... ✓
+  pt... ✓
+  sv... ✓
+[12/26] education/team-player/communication.md
+  da... ✓
+  de... ✓
+  es... ✓
+  fr... ✓
+  it... ✓
+  nl... ✓
+  no... ✓
+  pt... ✓
+  sv... ✓
+[13/26] education/tactics/index.md
+  da... ✓
+  de... ✓
+  es... ✓
+  fr... ✓
+  it... ✓
+  nl... ✓
+  no... ✓
+  pt... ✓
+  sv... ✓
+[14/26] education/tactics/probability.md
+  da... ✓
+  de... ✓
+  es... ✓
+  fr... ✓
+  it... ✓
+  nl... ✓
+  no... ✓
+  pt... ✓
+  sv... ✓
+[15/26] education/training/index.md
+  da... ✓
+  de... ✓
+  es... ✓
+  fr... ✓
+  it... ✓
+  nl... ✓
+  no... ✓
+  pt... ✓
+  sv... ✓
+[16/26] education/training/drills.md
+  da... ✓
+  de... ✓
+  es... ✓
+  fr... ✓
+  it... ✓
+  nl... ✓
+  no... ✓
+  pt... ✓
+  sv... ✓
+[17/26] education/mindfulness/index.md
+  da... ✓
+  de... ✓
+  es... ✓
+  fr... ✓
+  it... ✓
+  nl... ✓
+  no... ✓
+  pt... ✓
+  sv... ✓
+[18/26] education/mindfulness/techniques.md
+  da... ✓
+  de... ✓
+  es... ✓
+  fr... ✓
+  it... ✓
+  nl... ✓
+  no... ✓
+  pt... ✓
+  sv... ✓
+[19/26] education/mindfulness/daily-practice.md
+  da... ✓
+  de... ✓
+  es... ✓
+  fr... ✓
+  it... ✓
+  nl... ✓
+  no... ✓
+  pt... ✓
+  sv... ✓
+[20/26] education/mental-strength/index.md
+  da... ✓
+  de... ✓
+  es... ✓
+  fr... ✓
+  it... ✓
+  nl... ✓
+  no... ✓
+  pt... ✓
+  sv... ✓
+[21/26] education/mental-strength/handling-pressure.md
+  da... ✓
+  de... ✓
+  es... ✓
+  fr... ✓
+  it... ✓
+  nl... ✓
+  no... ✓
+  pt... ✓
+  sv... ✓
+[22/26] education/mental-strength/pre-shot-routine.md
+  da... ✓
+  de... ✓
+  es... ✓
+  fr... ✓
+  it... ✓
+  nl... ✓
+  no... ✓
+  pt... ✓
+  sv... ✓
+[23/26] education/nutrition/index.md
+  da... ✓
+  de... ✓
+  es... ✓
+  fr... ✓
+  it... ✓
+  nl... ✓
+  no... ✓
+  pt... ✓
+  sv... ✓
+[24/26] education/the-zone/index.md
+  da... ✓
+  de... ✓
+  es... ✓
+  fr... ✓
+  it... ✓
+  nl... ✓
+  no... ✓
+  pt... ✓
+  sv... ✓
+[25/26] education/the-zone/entering-the-zone.md
+  da... ✓
+  de... ✓
+  es... ✓
+  fr... ✓
+  it... ✓
+  nl... ✓
+  no... ✓
+  pt... ✓
+  sv... ✓
+[26/26] education/the-zone/technical-vs-flow.md
+  da... ✓
+  de... ✓
+  es... ✓
+  fr... ✓
+  it... ✓
+  nl... ✓
+  no... ✓
+  pt... ✓
+  sv... ✓
+
+✅ Complete: 234/234
+

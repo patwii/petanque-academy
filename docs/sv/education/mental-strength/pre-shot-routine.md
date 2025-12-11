@@ -1,17 +1,17 @@
-# Bygga din rutin före fotografering
+# Bygg din pre-shot rutin
 
-Din rutiner före skottet är ett av de kraftfullaste verktygen i ditt mentala spel. Det är en konsekvent sekvens av handlingar som förbereder dig för varje kast och utlöser ditt bästa prestationstillstånd.
+Din pre-shot rutin är ett av de mest kraftfulla verktygen i ditt mentala spel. Det är en konsekvent sekvens av åtgärder som förbereder dig för varje kast och utlöser ditt bästa prestationsläge.
 
-::: tip Den stora idén
-**Din rutin är din inkörsport till zonen.** En konsekvent rutin före träning signalerar till din hjärna: &quot;Det är dags att prestera.&quot; Med upprepning blir det en automatisk utlösare för topprestationer.
+::: tips Den stora idén
+**Din rutin är din inkörsport till zonen.** En konsekvent pre-shot rutin signalerar din hjärna: "Det är dags att utföra." Med upprepning blir det en automatisk trigger för toppprestanda.
 :::
 
 ```mermaid
 graph LR
-    A[Starta rutinen] --> B[Hjärnan känner igen mönster]
-    B --> C[Automatisk tillståndsförskjutning]
-    C --> D[Exekveringsläge]
-    D --> E[Topprestanda]
+    A[Starta rutin] --> B[Hjärnan känner igen mönster]
+    B --> C[Automatiskt tillståndsskifte]
+    C --> D[Utförandeläge]
+    D --> E[Toppprestanda]
 
     style A fill:#e3f2fd
     style C fill:#e8f5e9
@@ -24,90 +24,90 @@ graph LR
 ### Konsekvens skapar förtroende
 När du gör samma sak varje gång tar du bort variabler. Din kropp vet vad som kommer. Detta skapar en känsla av kontroll och förtrogenhet, även i okända situationer.
 
-### Rutiners utlösande tillstånd
-Med repetition kopplas din rutin till ditt prestationstillstånd. Att starta rutinen inleder automatiskt den mentala övergången till utförandeläge.
+### Rutiner utlöser stater
+Med upprepning blir din rutin kopplad till ditt prestationsläge. Att starta rutinen börjar automatiskt det mentala skiftet till exekveringsläge.
 
 ### Rutiner blockerar distraktioner
-En rutin ger dig något att fokusera på. Det finns inget utrymme för oro för musiken, publiken eller vad som kan hända.
+En rutin ger ditt sinne något att fokusera på. Det finns inget utrymme för oro för partituren, publiken eller vad som kan hända.
 
-### Rutiner hanterar upphetsning
-En väl utformad rutin hjälper till att reglera din energinivå – den lugnar dig om du är för upphetsad och fokuserar dig om du är trött.
+### Rutiner Hantera upphetsning
+En väldesignad rutin hjälper till att reglera din energinivå - lugnar dig om du är för stark, fokuserar dig om du är platt.
 
-## Element i en effektiv rutin
+## Delar av en effektiv rutin
 
 ### Fas 1: Bedömning (utanför cirkeln)
 
-Innan du går in, samla information:
-- Läs terrängen (sluttningar, hinder, underlag)
-- Bedöm situationen (resultat, klotpositioner)
+Innan du kliver in, samla information:
+- Läs terrängen (backar, hinder, underlag)
+- Bedöm situationen (resultat, boulepositioner)
 - Välj ditt mål och landningsplats
-- Bestäm kasttyp (peka, skjut, lobb, rulla)
+- Bestäm kasttyp (peka, skjuta, lobba, kasta)
 
-**Det är här tänkandet sker.** Ta din tid här.
+**Det är här man tänker.** Ta dig tid här.
 
-### Fas 2: Övergång (Att komma in i cirkeln)
+### Fas 2: Övergång (att gå in i cirkeln)
 
-Övergången från att tänka till att göra:
-- Fysisk handling (gå in i cirkeln på ett konsekvent sätt)
-- Mental signal (ett ord eller en fras som signalerar &quot;utförandeläge&quot;)
-- Andning (ett medvetet andetag för att centrera dig)
+Skiftet från att tänka till att göra:
+- Fysisk handling (kliv in i cirkeln på ett konsekvent sätt)
+- Mental signal (ett ord eller en fras som signalerar "exekveringsläge")
+- Andning (ett medvetet andetag för att centrera dig själv)
 
-**Detta är strömbrytaren.** Analysen slutar här.
+**Detta är omkopplaren.** Analysen slutar här.
 
-### Fas 3: Uppställning (i cirkeln)
+### Fas 3: Installation (In the Circle)
 
 Förbered din kropp:
 - Konsekvent hållning (samma varje gång)
-- Greppkontroll (känn på klotet)
-- Anpassning till målet
+- Greppkontroll (känn boulen)
+- Inriktning mot målet
 - Fysisk trigger (en liten rörelse som är din)
 
 ### Fas 4: Visualisering (kortfattad)
 
-Se kastet innan du gör det:
-- Föreställ dig bollens bana (max 2–3 sekunder)
+Se kast innan du gör det:
+- Föreställ dig bollens väg (max 2-3 sekunder)
 - Känn det lyckade kastet
-- Få visuell kontakt med din målgrupp
+- Anslut visuellt till ditt mål
 
 ### Fas 5: Utförande
 
-Gör kastet:
+Gör kast:
 - Externt fokus (endast mål)
 - Lita på din kropp
-- Släpp utan tvekan
-- Följ upp naturligt
+- Släpp utan att tveka
+- Följ naturligt
 
-## Bygga din personliga rutin
+## Bygg din personliga rutin
 
 ### Steg 1: Observera vad du redan gör
 
-Du har förmodligen redan en viss rutin. Observera:
-- Vad gör man innan man gör bra kast?
+Du har förmodligen redan någon rutin. Varsel:
+- Vad gör du innan bra kast?
 - Vad känns naturligt för dig?
 - Vad hjälper dig att fokusera?
 
-### Steg 2: Utforma din rutin
+### Steg 2: Designa din rutin
 
 Skapa en sekvens som inkluderar:
 - [ ] Bedömningsfas
 - [ ] Tydligt övergångsmoment
-- [ ] Konsekvent fysisk uppställning
+- [ ] Konsekvent fysisk inställning
 - [ ] Kort visualisering
-- [ ] Exekveringsutlösare
+- [ ] Utförande utlösare
 
 ### Steg 3: Skriv ner det
 
 Var specifik. Exempel:
 
-1. **Bedöm:** Läs terrängen, välj landningsplats
-2. **Övergång:** Gå in i cirkeln med vänster fot först, säg &quot;lita på&quot;
-3. **Uppställning:** Fötterna axelbrett, greppkontroll, rikta axlarna
-4. **Visualisera:** Se vägen, känn befrielsen
-5. **Utför:** Blicken riktad mot målet, kast
+1. **Bedöm:** Läs terräng, välj landningsplats
+2. **Övergång:** Gå in i cirkeln med vänster fot först, säg "lita"
+3. **Inställning:** Fötter axelbredd, greppkontroll, justera axlarna
+4. **Visualisera:** Se vägen, känn frigörelsen
+5. **Utför:** Ögon mot målet, kasta
 
-### Steg 4: Utöva religiöst
+### Steg 4: Öva religiöst
 
-Använd din rutin på VARJE kast under träningen:
+Använd din rutin vid VARJE kast i träningen:
 - Enkla kast
 - Svåra kast
 - När du är trött
@@ -115,72 +115,72 @@ Använd din rutin på VARJE kast under träningen:
 
 Rutinen måste bli automatisk.
 
-### Steg 5: Förfina över tid
+### Steg 5: Förfina över tiden
 
-Din rutin kommer att utvecklas. Lägg märke till vad som fungerar och justera. Men ändra den inte under tävling – bara mellan evenemang.
+Din rutin kommer att utvecklas. Lägg märke till vad som fungerar och justera. Men ändra det inte under tävling – bara mellan evenemang.
 
-## Rutinmässig tidtagning
+## Rutinmässig timing
 
-Din rutin bör ta en jämn tid:
-- För fort: Du har bråttom, inte ordentligt förberedd
-- För långsamt: Du övertänker och tappar flödet
-- Precis lagom: Tillräckligt med tid att förbereda sig, inte så mycket att du tänker för mycket
+Din rutin bör ta konsekvent tid:
+- För snabbt: Du har bråttom, inte ordentligt förberedd
+- För långsamt: Du övertänker, tappar flyt
+- Helt rätt: Tillräckligt med tid att förbereda sig, inte så mycket att du tänker för mycket
 
 **Typisk tidpunkt:**
-- Bedömning: 5–10 sekunder
-- Övergång + Uppställning: 3–5 sekunder
-- Visualisering + Utförande: 3–5 sekunder
-- **Totalt: 10–20 sekunder**
+- Bedömning: 5-10 sekunder
+- Övergång + Inställning: 3-5 sekunder
+- Visualisering + Utförande: 3-5 sekunder
+- **Totalt: 10-20 sekunder**
 
 ## Vanliga rutinmässiga misstag
 
-| Misstag | Problem | Lösning |
-|---------|---------|----------|
-| Hoppning i praktiken | Rutin är inte automatisk | Använd den varje kast |
-| För komplicerat | Svårt att komma ihåg under press | Förenkla till det väsentliga |
-| Tänkande under utförandet | Stör automatisk prestanda | Tydlig övergångspunkt |
-| Inkonsekvent timing | Skapar osäkerhet | Öva med jämn takt |
-| Förändring mitt i tävlingen | Introducerar tvivel | Håll dig till det du vet |
+|  | Misstag | Problem | Lösning |  |
+|--------|--------|--------|
+|  | Hoppar i praktiken | Rutin är inte automatisk | Använd den varje kast |  |
+|  | För komplicerat | Svårt att komma ihåg under press | Förenkla till väsentligheter |  |
+|  | Tänker under utförandet | Stör automatisk prestanda | Tydlig övergångspunkt |  |
+|  | Inkonsekvent timing | Skapar osäkerhet | Träna i jämn takt |  |
+|  | Ändra mitt i tävlingen | Inför tvivel | Håll dig till det du vet |  |
 
 ## Rutinmässig felsökning
 
 **Om du har bråttom:**
 - Lägg till ett andetag vid övergången
-- Sakta ner dina uppställningsrörelser
+- Sakta ner dina inställningsrörelser
 - Pausa före visualisering
 
-**Om du övertänker:**
+**Om du tänker för mycket:**
 - Förkorta rutinen
 - Använd en starkare övergångssignal
 - Fokusera mer externt
 
 **Om du är inkonsekvent:**
-- Filma dig själv för att kontrollera
+- Video själv att kontrollera
 - Öva rutinen utan att kasta
 - Få feedback från en partner
 
-## Exempelrutiner
+## Exempel på rutiner
 
 ### Enkel rutin
 1. Välj mål
 2. Kliv in, andas
-3. Greppa, rikta in
+3. Grip, rikta in
 4. Se det, kasta det
 
 ### Detaljerad rutin
-1. Läs terrängen, välj landningsplats
-2. Steg först med vänster fot
-3. Säg &quot;smidig&quot; internt
-4. Ett andetag, axlarna sänks
-5. Fötterna satta, greppkontroll
+1. Läs terräng, välj landningsplats
+2. Kliv in vänster fot först
+3. Säg "smidig" internt
+4. Ett andetag, axlarna faller
+5. Fötter inställda, greppkontroll
 6. Rikta in axlarna mot målet
 7. Se vägen (2 sekunder)
-8. Ögonen låses på målet
+8. Ögonen låser sig på målet
 9. Kasta
 
-## Viktig slutsats
+## Key Takeaway
 
-> Din rutin är ditt ankare. I kaos är den din konstant.
+> Din rutin är ditt ankare. I kaos är det din konstant.
 
-Bygg det noggrant. Öva alltid. Lita helt och hållet på det.
+Bygg den noggrant. Öva det alltid. Lita helt på det.
 

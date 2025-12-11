@@ -1,23 +1,23 @@
-# Ernæring til præcisionspræstation
+# Ernæring til præcisionsydelse
 
-Petanque er en præcisionssport, ikke en udholdenhedssport. Dine ernæringsmæssige behov er anderledes end en maratonløbers eller en fodboldspillers. Det vigtigste er **hjernens brændstofstabilitet** - at holde dit sind skarpt og dine hænder stabile gennem en lang konkurrencedag.
+Petanque er en præcisionssport, ikke en udholdenhedssport. Dit ernæringsbehov er anderledes end en maratonløber eller en fodboldspiller. Det, der betyder mest, er **hjernebrændstofstabilitet** - at holde dit sind skarpt og dine hænder stabile gennem en lang konkurrencedag.
 
 ::: tip Den store idé
-**Din hjerne er dit vigtigste redskab i petanque. Giv den stabil brændstof, ikke rutsjebaneenergi.** Fokuser på protein, sunde fedtstoffer og at holde dig hydreret. Undgå sukkerstigninger.
+**Din hjerne er dit vigtigste værktøj i petanque. Giv den stabilt brændstof, ikke energi fra rutsjebane.** Fokuser på protein, sunde fedtstoffer og forbliv hydreret. Undgå sukkerspidser.
 :::
 
 ```mermaid
 graph LR
-    A[Sukker/Simple kulhydrater] --> B[Blodsukkerstigning]
+    A[Sukker/enkle kulhydrater] --> B[Blodsukkerspids]
     B --> C[Insulinfrigivelse]
-    C --> D[Blodsukkernedbrud]
+    C --> D[Blood Sugar Crash]
     D --> E[Adrenalinrespons]
-    E --> F[Rystelser og angst]
+    E --> F[Rysten & Angst]
 
     G[Protein og sunde fedtstoffer] --> H[Stabilt blodsukker]
     H --> I[Konsekvent energi]
     I --> J[Skarpt fokus]
-    J --> K[Rolige hænder]
+    J --> K[Faste hænder]
 
     style A fill:#ffebee
     style F fill:#ffebee
@@ -27,103 +27,103 @@ graph LR
 
 ## Præcisionsatletens udfordring
 
-I modsætning til højintensive sportsgrene kræver petanque ikke massive glykogenlagre eller hurtig energiopfyldning. Det, det kræver, er:
+I modsætning til højintensiv sport kræver petanque ikke massive glykogenlagre eller hurtig energigenopfyldning. Hvad det kræver er:
 
-- **Stabilt blodsukker** - ingen stigninger eller fald
-- **Konsekvent mental klarhed** - fokus der varer hele dagen
-- **Stille hænder** - ingen rystelser eller rystelser
-- **Rolige nerver** - lav angst og stressrespons
+- **Stabilt blodsukker** - ingen spidser eller styrt
+- **Konsekvent mental klarhed** - fokus, der varer hele dagen
+- **Stabile hænder** - ingen rystelser eller rystelser
+- **Rolige nerver** - lav angst- og stressreaktion
 
-Din ernæringsstrategi bør optimere efter disse faktorer, ikke efter rå energiproduktion.
+Din ernæringsstrategi bør optimere for disse faktorer, ikke for rå energiproduktion.
 
 ## Problemet med sukker og simple kulhydrater
 
-Mange atleter vælger som standard en kulhydratrig kost. For petanque-spillere kan dette faktisk skade præstationen.
+Mange idrætsudøvere vælger som standard diæter med højt kulhydratindhold. For petanquespillere kan dette faktisk skade præstationen.
 
-### Blodsukker-rutsjebanen
+### Blood Sugar rutsjebanen
 
 Når du spiser sukker eller simple kulhydrater:
 1. Blodsukkeret stiger hurtigt
-2. Insulin frigives for at sænke det
+2. Insulin frigives for at bringe det ned
 3. Blodsukkerfald (hypoglykæmi)
 4. Din krop frigiver adrenalin for at kompensere
-5. Du oplever rystelser, angst og dårlig fokus
+5. Du oplever rystelser, angst og dårligt fokus
 
-**Dette er det modsatte af, hvad du har brug for til præcision.**
+**Dette er det modsatte af, hvad du har brug for for præcision.**
 
-### Symptomer på ustabilitet i blodsukkeret
+### Symptomer på ustabilt blodsukker
 
-| Symptom | Indvirkning på ydeevne |
-|---------|----------------------|
-| Rystende hænder | Inkonsekvent udgivelse |
-| Koncentrationsbesvær | Dårlig beslutningstagning |
-| Irritabilitet | Teamkonflikt, dårlig ro |
-| Træthed efter måltider | Eftermiddagsnedtur |
-| Angst | Trykfølsomhed |
-| Hjernetåge | Langsom taktisk tænkning |
+|  | Symptom | Indvirkning på ydeevne |  |
+|--------|----------------------------|
+|  | Rystende hænder | Inkonsekvent udgivelse |  |
+|  | Besvær med at koncentrere sig | Dårlig beslutningstagning |  |
+|  | Irritabilitet | Teamkonflikt, dårlig ro |  |
+|  | Træthed efter måltider | Eftermiddagsnedgang |  |
+|  | Angst | Trykfølsomhed |  |
+|  | Hjernetåge | Langsom taktisk tænkning |  |
 
 ## En bedre tilgang: Stabil energi
 
-Målet er at forsyne din hjerne med regelmæssigt brændstof uden rutsjebanen.
+Målet er at give din hjerne ensartet brændstof uden rutsjebanen.
 
 ### Nøgleprincipper
 
 1. **Prioriter protein og sunde fedtstoffer** - De giver langsom, stabil energi
-2. **Vælg komplekse kulhydrater frem for simple** - Hvis du spiser kulhydrater, så vælg dem, der fordøjes langsomt
-3. **Undgå sukkerstigninger** - Især før og under konkurrence
-4. **Hold jer hydreret** - Dehydrering påvirker koncentrationen betydeligt
+2. **Vælg komplekse kulhydrater frem for simple** - Hvis du spiser kulhydrater, skal du vælge dem, der fordøjes langsomt
+3. **Undgå sukkerspidser** - Især før og under konkurrence
+4. **Forbliv hydreret** - Dehydrering påvirker koncentrationen betydeligt
 5. **Spis regelmæssigt** - Lad dig ikke blive for sulten
 
-### Madvarer der hjælper
+### Mad der hjælper
 
-| Madtype | Eksempler | Hvorfor det virker |
-|-----------|----------|--------------|
-| Protein | Æg, nødder, ost, kød | Langsom fordøjelse, stabil energi |
-| Sunde fedtstoffer | Avocado, olivenolie, nødder | Langtidsholdbart brændstof |
-| Komplekse kulhydrater | Grøntsager, bælgfrugter | Fiber forsinker absorptionen |
-| Frugt med lavt sukkerindhold | Bær, æbler | Næringsstoffer uden pigge |
+|  | Fødevaretype | Eksempler | Hvorfor det virker |  |
+|-----------|--------|-------------|
+|  | Protein | Æg, nødder, ost, kød | Langsom fordøjelse, stabil energi |  |
+|  | Sunde fedtstoffer | Avocado, olivenolie, nødder | Langtidsholdbart brændstof |  |
+|  | Komplekse kulhydrater | Grøntsager, bælgfrugter | Fiber bremser absorptionen |  |
+|  | Frugter med lavt sukkerindhold | Bær, æbler | Næringsstoffer uden spids |  |
 
-### Madvarer, der skal begrænses
+### Fødevarer at begrænse
 
-| Madtype | Eksempler | Hvorfor det er problematisk |
-|-----------|----------|---------------------|
-| Sukker | Slik, sodavand, kager | Hurtig stigning og styrt |
-| Hvidt brød/pasta | Sandwiches, pastaretter | Hurtig omdannelse til sukker |
-| Frugtjuice | Appelsinjuice, smoothies | Koncentreret sukker |
-| Energidrikke | De fleste kommercielle mærker | Sukker + koffein crash |
+|  | Fødevaretype | Eksempler | Hvorfor det er problematisk |  |
+|-----------|--------|------------------------|
+|  | Sukker | Slik, sodavand, kager | Hurtig stigning og nedbrud |  |
+|  | Hvidt brød/pasta | Sandwich, pastaretter | Hurtig omdannelse til sukker |  |
+|  | Frugtjuice | Appelsinjuice, smoothies | Koncentreret sukker |  |
+|  | Energidrikke | De fleste kommercielle mærker | Sukker + koffein crash |  |
 
-## Ernæring på konkurrencedagen
+## Konkurrencedag Ernæring
 
-### Før konkurrencen
+### Før konkurrence
 
 **2-3 timer før:**
-- Balanceret måltid med protein, fedt og grøntsager
+- Afbalanceret måltid med protein, fedt og grøntsager
 - Undgå tunge kulhydrater, der kan forårsage døsighed
 - Eksempel: Æg med grøntsager eller salat med kylling
 
 **1 time før:**
-- Let snack om nødvendigt
+- Let snack hvis nødvendigt
 - Nødder, ost eller en lille portion protein
 - Undgå alt sukkerholdigt
 
-### Under konkurrencen
+### Under konkurrence
 
-**Mellem kampene:**
+**Mellem spil:**
 - Vand (vigtigst)
 - Små proteinsnacks (nødder, ost, kød)
 - Undgå sukkerholdige snacks og drikkevarer
 
-**Tegn på, at du skal spise:**
-- Koncentrationsbesvær
+**Tegn, du skal spise:**
+- Besvær med at koncentrere sig
 - Irritabilitet
-- Følelse af rystelse
+- Føler sig rystende
 - Hovedpine
 
-### Efter konkurrencen
+### Efter konkurrence
 
-- Genopfyld med et afbalanceret måltid
+- Fyld op med et afbalanceret måltid
 - Rehydrer fuldt ud
-- &quot;Beløn&quot; ikke dig selv med sukker - det vil påvirke din restitution
+- Lad være med at "belønne" dig selv med sukker - det vil påvirke din restitution
 
 ## Hydrering
 
@@ -131,53 +131,53 @@ Dehydrering påvirker den kognitive funktion, før du føler dig tørstig.
 
 ### Retningslinier
 
-- **Start med at drikke væske** - Drik vand i løbet af dagen før konkurrencen
-- **Under leg** - Drik regelmæssigt vand, vent ikke til du er tørstig
-- **Undgå for meget koffein** - Det er vanddrivende
-- **Vær opmærksom på tegn** - Hovedpine, mørk urin, træthed
+- **Start hydreret** - Drik vand hele dagen før konkurrencen
+- **Under leg** - Sip vand regelmæssigt, vent ikke til du er tørstig
+- **Undgå overskydende koffein** - Det er et vanddrivende middel
+- **Se efter tegn** - Hovedpine, mørk urin, træthed
 
 ### Hvor meget?
 
-En generel retningslinje: Sigt efter en lysegul urin. Hvis den er mørk, har du brug for mere vand.
+En generel retningslinje: sigt efter bleggul urin. Hvis det er mørkt, skal du bruge mere vand.
 
-## Lavkulhydratmuligheden
+## Low-Carb muligheden
 
-Nogle præcisionsatleter følger lavkulhydrat- eller ketogene diæter. Teorien:
+Nogle præcisionsatleter vedtager diæter med lavt kulhydratindhold eller ketogene diæter. Teorien:
 
 **Potentielle fordele:**
-- Meget stabilt blodsukker (ingen mulige stigninger)
+- Meget stabilt blodsukker (ingen stigninger mulige)
 - Konsekvent mental klarhed
-- Reduceret angst og rystelser
-- Ingen energinedbrud eftermiddagen
+- Reduceret angst og rysten
+- Ingen eftermiddags energinedbrud
 
 **Overvejelser:**
-- Kræver tilvænningsperiode (1-2 uger)
+- Kræver tilpasningsperiode (1-2 uger)
 - Ikke egnet til alle
 - Kræver planlægning og engagement
-- Kontakt først en sundhedsudbyder
+- Rådfør dig med en sundhedsplejerske først
 
 Dette er en avanceret strategi - ikke nødvendig for alle, men værd at overveje, hvis blodsukkerstabilitet er et væsentligt problem for dig.
 
 ## Praktiske tips
 
-### Nemme konkurrencesnacks
+### Nem konkurrencesnacks
 - Blandede nødder (usaltede)
 - Hårdkogte æg
-- Osteterninger
-- Tørret oksekød eller kalkun
+- Ostetern
+- Oksekød eller kalkun jerky
 - Grøntsager med hummus
 - Oliven
 
-### Hvad skal man undgå
-- Snacks til automater
+### Hvad skal undgås
+- Automat snacks
 - Sukkerholdige sportsdrikke
-- Bagværk og kager
-- Slik- og chokoladebarer
-- De fleste &quot;energi&quot;-barer (tjek sukkerindholdet)
+- kager og bagværk
+- Slik og chokoladebarer
+- De fleste "energibarer" (tjek sukkerindhold)
 
-## Vigtig konklusion
+## Nøgle takeaway
 
-> Din hjerne er dit vigtigste redskab i petanque. Giv den stabil brændstof, ikke rutsjebaneenergi.
+> Din hjerne er dit vigtigste værktøj i petanque. Giv den stabilt brændstof, ikke rutsjebaneenergi.
 
-Fokuser på protein, sunde fedtstoffer og at holde dig hydreret. Undgå sukkerstigninger. Din koncentration, ro og rolige hænder vil takke dig.
+Fokuser på protein, sunde fedtstoffer og forblive hydreret. Undgå sukkerspidser. Din koncentration, ro og faste hænder vil takke dig.
 

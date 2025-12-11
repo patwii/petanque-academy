@@ -1,0 +1,199 @@
+
+🌍 Smart translation: 26 files × 9 languages = 234 translations
+
+[1/26] ambition.md
+  da... ✓
+  de...
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=de&sl=en&q=4.+Peer+Learning (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750935f90>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=de&sl=en&q=Ready+to+Take+the+Next+Step%3F (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f87509351d0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=de&sl=en&q=Explore+our+%5BEducation%5D%28%2Fen%2Feducation%2F%29+section+or+learn+about+our+%5BWorkshops%5D%28%2Fen%2Fworkshop%29. (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750936350>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+ ✓
+  es...
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=es&sl=en&q=Ambition (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f87509347d0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=es&sl=en&q=Our+mission+is+to+help+elite+players+take+the+next+step+in+their+development. (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750934690>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=es&sl=en&q=Our+Vision (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750934cd0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=es&sl=en&q=%2A%2ATransform+elite+players+from+technically+proficient+to+mentally+unstoppable.%2A%2A+We+help+you+access+the+flow+state+where+perfect+boules+become+a+natural+expression+of+your+mastery. (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750936710>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=es&sl=en&q=Traditional+training+focuses+heavily+on+technical+aspects+-+the+grip%2C+the+stance%2C+the+release.+While+these+fundamentals+are+important%2C+elite+players+have+already+mastered+them. (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750936990>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=es&sl=en&q=Traditional+Training (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750936710>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=es&sl=en&q=Plateau (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750934cd0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=es&sl=en&q=Mindfulness (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750934910>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=es&sl=en&q=What+We+Offer (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750935950>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=es&sl=en&q=Offering (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750934690>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=es&sl=en&q=Description (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750934a50>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=es&sl=en&q=Impact (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750936710>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=es&sl=en&q=%2A%2AWorkshops%2A%2A (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750936990>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=es&sl=en&q=Small+groups+of+elite+players+%286-8%29 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750935f90>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=es&sl=en&q=Deep+peer+learning+and+support (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f87509360d0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=es&sl=en&q=%2A%2AEducation%2A%2A (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750935bd0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=es&sl=en&q=Mental+aspects+of+peak+performance (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750936c10>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=es&sl=en&q=Practical+techniques+you+can+use+immediately (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750935590>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=es&sl=en&q=Accountability+and+shared+growth (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750935d10>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=es&sl=en&q=%2A%2AHolistic+Approach%2A%2A (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750936850>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=es&sl=en&q=Nutrition%2C+mindset%2C+and+mental+training (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750935e50>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=es&sl=en&q=Complete+performance+optimization (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750934cd0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=es&sl=en&q=Why+It+Works (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f87509347d0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=es&sl=en&q=Elite+players+already+have+the+technical+foundation.+What+separates+good+from+great+is+the+ability+to+access+your+best+performance+under+pressure.+That%27s+what+we+focus+on. (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750936490>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=es&sl=en&q=Our+Approach (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750934910>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=es&sl=en&q=Learn+to+enter+%22the+zone%22+consistently%2C+not+by+accident. (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750936350>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=es&sl=en&q=Develop+routines%2C+mindfulness%2C+and+pressure+management. (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750936d50>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=es&sl=en&q=Fuel+your+brain+for+stable+focus+and+steady+hands. (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750934b90>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=es&sl=en&q=4.+Peer+Learning (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f87509351d0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=es&sl=en&q=Share+experiences+with+other+elite+players+in+a+safe%2C+supportive+environment. (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750935810>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+ ✓
+  fr...
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=fr&sl=en&q=Plateau (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750935950>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=fr&sl=en&q=Flow+State+Focus (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750934690>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=fr&sl=en&q=The+Breakthrough (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750936490>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=fr&sl=en&q=%2A%2AThe+next+level+isn%27t+about+perfecting+technique+-+it%27s+about+entering+the+flow+state.%2A%2A (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f87509351d0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=fr&sl=en&q=We+help+players+transition+from+a+technical+training+perspective+to+a+%2A%2Aflow+%28in+the+zone%29+perspective%2A%2A%2C+where+perfect+boules+become+a+natural+expression+of+their+mastery+rather+than+a+conscious+effort. (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750934b90>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=fr&sl=en&q=Elite+Player (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750935590>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=fr&sl=en&q=Mental+Game (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750936c10>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=fr&sl=en&q=Flow+State (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750935bd0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=fr&sl=en&q=Nutrition (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750935f90>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=fr&sl=en&q=Mindfulness (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750936350>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=fr&sl=en&q=Impact (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750936210>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=fr&sl=en&q=Small+groups+of+elite+players+%286-8%29 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750934690>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=fr&sl=en&q=Deep+peer+learning+and+support (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750934a50>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=fr&sl=en&q=%2A%2AEducation%2A%2A (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750936850>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=fr&sl=en&q=Mental+aspects+of+peak+performance (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750935d10>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=fr&sl=en&q=Practical+techniques+you+can+use+immediately (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750937110>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=fr&sl=en&q=%2A%2ACommunity%2A%2A (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750936990>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+ ✓
+  it...
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=it&sl=en&q=Traditional+Training (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750936710>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=it&sl=en&q=Technical+Focus (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750934910>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=it&sl=en&q=Plateau (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750936c10>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=it&sl=en&q=Flow+State+Focus (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750936e90>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=it&sl=en&q=Next+Level+Performance (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750936d50>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=it&sl=en&q=The+Breakthrough (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750934f50>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=it&sl=en&q=%2A%2AThe+next+level+isn%27t+about+perfecting+technique+-+it%27s+about+entering+the+flow+state.%2A%2A (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750935d10>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=it&sl=en&q=We+help+players+transition+from+a+technical+training+perspective+to+a+%2A%2Aflow+%28in+the+zone%29+perspective%2A%2A%2C+where+perfect+boules+become+a+natural+expression+of+their+mastery+rather+than+a+conscious+effort. (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f87509351d0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=it&sl=en&q=The+Journey (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750936350>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=it&sl=en&q=Technical+Mastery (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750935590>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=it&sl=en&q=Mental+Game (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750936350>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=it&sl=en&q=Flow+State (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f87509351d0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=it&sl=en&q=Nutrition (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750935f90>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=it&sl=en&q=Mindfulness (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750935310>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=it&sl=en&q=Peak+Performance (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750936ad0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=it&sl=en&q=What+We+Offer (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750934550>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=it&sl=en&q=Offering (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750935090>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=it&sl=en&q=Description (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750936fd0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=it&sl=en&q=Impact (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750936490>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=it&sl=en&q=%2A%2AEducation%2A%2A (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750935810>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=it&sl=en&q=Mental+aspects+of+peak+performance (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750934690>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=it&sl=en&q=Practical+techniques+you+can+use+immediately (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750934cd0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=it&sl=en&q=%2A%2ACommunity%2A%2A (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750936210>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=it&sl=en&q=Like-minded+players+pushing+boundaries (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750936490>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=it&sl=en&q=Accountability+and+shared+growth (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750936fd0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=it&sl=en&q=%2A%2AHolistic+Approach%2A%2A (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750935090>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=it&sl=en&q=Nutrition%2C+mindset%2C+and+mental+training (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750934550>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=it&sl=en&q=Complete+performance+optimization (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750936ad0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=it&sl=en&q=Why+It+Works (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750935310>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=it&sl=en&q=Elite+players+already+have+the+technical+foundation.+What+separates+good+from+great+is+the+ability+to+access+your+best+performance+under+pressure.+That%27s+what+we+focus+on. (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750935f90>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=it&sl=en&q=Our+Approach (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f87509351d0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=it&sl=en&q=2.+Mental+Strength (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750936350>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=it&sl=en&q=Fuel+your+brain+for+stable+focus+and+steady+hands. (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750934a50>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=it&sl=en&q=4.+Peer+Learning (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750935590>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+ ✓
+  nl...
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=nl&sl=en&q=Technical+Focus (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750934b90>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=nl&sl=en&q=Plateau (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750935f90>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=nl&sl=en&q=%2A%2AEducation%2A%2A (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f87509351d0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=nl&sl=en&q=Practical+techniques+you+can+use+immediately (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750936350>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=nl&sl=en&q=Accountability+and+shared+growth (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750935950>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=nl&sl=en&q=%2A%2AHolistic+Approach%2A%2A (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750934f50>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=nl&sl=en&q=Nutrition%2C+mindset%2C+and+mental+training (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750936d50>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=nl&sl=en&q=Complete+performance+optimization (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750934910>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=nl&sl=en&q=Why+It+Works (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750936710>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=nl&sl=en&q=Elite+players+already+have+the+technical+foundation.+What+separates+good+from+great+is+the+ability+to+access+your+best+performance+under+pressure.+That%27s+what+we+focus+on. (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750936210>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+    Translation error: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=nl&sl=en&q=Our+Approach (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8750936490>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
