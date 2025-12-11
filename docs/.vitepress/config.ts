@@ -7,6 +7,9 @@ export default withMermaid(defineConfig({
   ignoreDeadLinks: true,
 
   head: [
+    // Google AdSense Verification Meta Tag
+    ['meta', { name: 'google-adsense-account', content: 'ca-pub-2291330857070799' }],
+
     // Google Analytics
     ['script', { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-JG6034BPGE' }],
     ['script', {}, `
@@ -15,6 +18,7 @@ export default withMermaid(defineConfig({
       gtag('js', new Date());
       gtag('config', 'G-JG6034BPGE');
     `],
+
     // Google AdSense
     ['script', {
       async: '',
