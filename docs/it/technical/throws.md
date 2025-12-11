@@ -120,7 +120,7 @@ graph LR
 | Intensità | Traiettoria | Quando usare |
 |-----------|------------|-------------|
 | **Tiro duro e piatto** | Diretto, potente, piatto | Linea libera, serve distanza al colpo |
-| **Mediamente duro** | Potenza e controllo bilanciati | Il più versatile |
+| **Mediamente dura** | Potenza e controllo bilanciati | Il più versatile |
 | **Morbido con arco alto** | Tiro a pallonetto, cade dall&#39;alto | Ostacoli, spazi ristretti |
 
 ## La tavolozza completa

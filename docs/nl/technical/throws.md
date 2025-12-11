@@ -4,7 +4,7 @@
 
 Dit is een overzicht van de worpen die je bij pétanque kunt gebruiken. Je hoeft ze niet allemaal te beheersen, maar als je weet welke worpen er zijn, begrijp je de volledige mogelijkheden van het spel beter.
 
-::: tip Het grote plaatje
+::: tip Het grote geheel
 **Inzicht in het volledige palet helpt je weloverwogen keuzes te maken over wat je wilt ontwikkelen.** Je hoeft niet alles te beheersen - focus op wat werkt voor jouw spel.
 :::
 
@@ -96,7 +96,7 @@ graph TD
 | Techniek | Franse term | Impactpunt | Kenmerken |
 |-----------|-------------|--------------|-----------------|
 | **IJzeren kogel** | Au fer | Een directe worp op de boule. | Meestal gaat het om schoon contact. |
-| **Vooraan** | Voorkant | Landing vlak voor het doel | Veiliger, minder precisie nodig |
+| **Vooraan** | Voorkant | Landing vlak voor het doel. | Veiliger, minder precisie nodig |
 | **Sprongschot** | Sautée | Met een stuiterende beweging richting het doel. | Gevorderd, voor obstakels |
 
 ### Qua intensiteit

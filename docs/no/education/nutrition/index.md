@@ -3,7 +3,7 @@
 Pétanque er en presisjonssport, ikke en utholdenhetssport. Dine ernæringsbehov er annerledes enn en maratonløper eller en fotballspiller. Det som betyr mest er **hjernens drivstoffstabilitet** – å holde hjernen skarp og hendene stødige gjennom en lang konkurransedag.
 
 ::: tip Den store ideen
-**Hjernen din er ditt viktigste verktøy i petanque. Gi den stabil drivstoff, ikke berg-og-dal-bane-energi.** Fokuser på protein, sunt fett og å holde deg hydrert. Unngå sukkertopper.
+**Your brain is your most important tool in pétanque. Feed it stable fuel, not roller coaster energy.** Focus on protein, healthy fats, and staying hydrated. Avoid sugar spikes.
 :::
 
 ```mermaid
@@ -29,10 +29,10 @@ graph LR
 
 I motsetning til høyintensitetssport krever ikke pétanque massive glykogenlagre eller rask energipåfylling. Det den krever er:
 
-- **Stabilt blodsukker** – ingen topper eller krasj
-- **Konsekvent mental klarhet** – fokus som varer hele dagen
-- **Stødige hender** - ingen skjelvinger eller risting
-- **Rolige nerver** – lav angst og stressrespons
+- **Stabilt blodsukker - ingen topper eller krasj**
+- **Konsekvent mental klarhet – fokus som varer hele dagen**
+- **Stødige hender - ingen skjelvinger eller risting**
+- **Rolige nerver - lav angst og stressrespons**
 
 Ernæringsstrategien din bør optimalisere for disse faktorene, ikke for rå energiproduksjon.
 
@@ -45,11 +45,11 @@ Mange idrettsutøvere går som standard til et karbohydratrikt kosthold. For pet
 Når du spiser sukker eller enkle karbohydrater:
 1. Blodsukkeret stiger raskt
 2. Insulin frigjøres for å senke det
-3. Blodsukkeret faller (hypoglykemi)
+3. Blodsukkerkrasj (hypoglykemi)
 4. Kroppen din frigjør adrenalin for å kompensere
 5. Du opplever skjelvinger, angst og dårlig fokus
 
-**Dette er det motsatte av hva du trenger for presisjon.**
+**This is the opposite of what you need for precision.**
 
 ### Symptomer på ustabilitet i blodsukkeret
 
@@ -96,24 +96,24 @@ Målet er å gi hjernen din jevnlig drivstoff uten berg-og-dal-banen.
 
 ### Før konkurransen
 
-**2–3 timer før:**
+**2-3 hours before:**
 - Balansert måltid med protein, fett og grønnsaker
 - Unngå tunge karbohydrater som kan forårsake døsighet
 - Eksempel: Egg med grønnsaker, eller salat med kylling
 
-**1 time før:**
+**1 hour before:**
 - Lett snacks om nødvendig
 - Nøtter, ost eller en liten porsjon protein
 - Unngå alt som er sukkerholdig
 
 ### Under konkurransen
 
-**Mellom kampene:**
+**Between games:**
 - Vann (viktigst)
 - Små proteinsnacks (nøtter, ost, kjøtt)
 - Unngå sukkerholdige snacks og drikker
 
-**Tegn på at du må spise:**
+**Signs you need to eat:**
 - Vanskeligheter med å konsentrere seg
 - Irritabilitet
 - Føler seg skjelven
@@ -131,10 +131,10 @@ Dehydrering påvirker kognitiv funksjon før du føler deg tørst.
 
 ### Retningslinjer
 
-- **Start med å drikke vann** - Drikk vann i løpet av dagen før konkurransen
-- **Under lek** - Drikk vann regelmessig, ikke vent til du er tørst
-- **Unngå for mye koffein** – Det er vanndrivende
-- **Se etter tegn** - Hodepine, mørk urin, tretthet
+- **Start med å drikke nok vann – Drikk vann i løpet av dagen før konkurransen**
+- **Under lek - Nipp til vann regelmessig, ikke vent til du er tørst**
+- **Unngå for mye koffein – det er vanndrivende**
+- **Se etter tegn - Hodepine, mørk urin, tretthet**
 
 ### Hvor mye?
 
@@ -144,19 +144,217 @@ En generell retningslinje: sikt mot blekgul urin. Hvis den er mørk, trenger du 
 
 Noen presisjonsutøvere følger lavkarbo- eller ketogene dietter. Teorien:
 
-**Potensielle fordeler:**
+**Potential benefits:**
 - Svært stabilt blodsukker (ingen topper mulig)
 - Konsekvent mental klarhet
 - Redusert angst og skjelvinger
 - Ingen energikrasj ettermiddagen
 
-**Hensyn:**
+**Considerations:**
 - Krever tilpasningsperiode (1–2 uker)
 - Ikke egnet for alle
 - Krever planlegging og engasjement
 - Rådfør deg med helsepersonell først
 
 Dette er en avansert strategi – ikke nødvendig for alle, men verdt å vurdere hvis blodsukkerstabilitet er et betydelig problem for deg.
+
+## Mat som øvelse: Tren kroppen din
+
+::: warning Kritisk konsept
+**Mat är inte bara bränsle - det är något du övar med.** Just like you practice your throw, you must practice your nutrition to get your body comfortable with competition-day eating.
+:::
+
+### Hvorfor matpraksis er viktig
+
+Fordøyelsessystemet ditt er trenbart. Det du spiser regelmessig blir det kroppen din forventer og håndterer best. Hvis du bare spiser protein og grønnsaker på konkurransedager, vil ikke kroppen din være tilpasset det.
+
+**The problem:**
+- Å spise ukjent mat på konkurransedagen kan forårsake fordøyelsesbesvær
+- Kroppen din trenger tid til å tilpasse seg nye spisemønstre
+- Stress + ukjent mat = potensielle mageproblemer
+- Prestasjonsangst er ille nok uten å legge til fordøyelsesangst
+
+**The solution:**
+- Øv på konkurranseernæring under trening
+- Gjør konkurransedagsmaten til en del av din vanlige rutine
+- Tren kroppen din til å bli komfortabel med mat med stabil energi
+
+### Tilpasningsprosessen
+
+```mermaid
+graph TD
+    A[Nåværende kosthold] --> B[Gradvise endringer]
+    B --> C[Kroppstilpasning<br/>2–4 uker]
+    C --> D[Ny normal]
+    D --> E[Konkurranseklar]
+
+    F[Plutselig endring<br/>Konkurransedagen] --> G[Fordøyelsesbesvær]
+    G --> H[Dårlig ytelse]
+
+    style A fill:#fff3e0
+    style E fill:#e8f5e9
+    style F fill:#ffebee
+    style H fill:#ffebee
+```
+
+Når du endrer kostholdet ditt:
+1. **Uke 1–2:** Kroppen din tilpasser seg ny mat, og den kan føles annerledes
+2. **Uke 3–4:** Tilpasning skjer, ny mat føles normal
+3. **Uke 5+:** Kroppen din er komfortabel og effektiv med disse matvarene
+
+**This is why you can't just "eat healthy" on competition day and expect optimal results.**
+
+### Slik praktiserer du ernæringen din
+
+#### 1. Start under trening
+
+**Practice your competition-day eating during training sessions:**
+- Spis det samme måltidet før trening som du ville spist før konkurranse
+- Ta med de samme snacksene som du ville tatt med til en turnering
+- Legg merke til hvordan kroppen din reagerer
+- Juster basert på hva som fungerer
+
+**Example training day:**
+```
+2-3 hours before: Eggs with vegetables (same as competition)
+During training: Water + nuts (same as competition)
+After training: Balanced meal with protein
+```
+
+#### 2. Gjør det til din normale
+
+**Don't have a "competition diet" and a "regular diet"** - this creates two problems:
+- Kroppen din tilpasser seg aldri helt til noen av delene
+- Konkurransemat føles uvant og stressende
+
+**Instead:**
+- Gjør mat med stabil energi til din daglige norm
+- Kroppen din blir effektiv til å bruke protein og fett
+- Konkurransedagen føles normal, ikke annerledes
+- Ingen fordøyelsesoverraskelser
+
+#### 3. Test og finjuster
+
+**Use training to experiment:**
+
+| Test | Hva du bør legge merke til | Justere |
+|------|----------------|--------|
+| Måltidspunkt før trening | Energinivåer, fokus | Finn ditt optimale vindu |
+| Ulike proteinkilder | Fordøyelse, komfort | Identifiser hva som fungerer best |
+| Snacktyper | Vedvarende energi | Finn dine favorittsnacks |
+| Hydreringsmengder | Konsentrasjon, toalettpauser | Balanseinntak |
+
+**Keep a simple log:**
+- Hva du spiste og når
+- Hvordan du følte deg under treningen
+- Energinivåer og fokus
+- Eventuelle fordøyelsesproblemer
+
+#### 4. Bygg komfort og selvtillit
+
+**The psychological benefit:**
+
+Når du har øvd på ernæringen din hundrevis av ganger på trening:
+- Du vet nøyaktig hvordan kroppen din vil reagere
+- Ingen bekymring for matvalg
+- Én ting mindre å bekymre seg for på konkurransedagen
+- Tillit til forberedelsene dine
+
+**This is the same principle as practicing your throw** - repetition builds comfort and reliability.
+
+### Vanlige tilpasningsutfordringer
+
+::: details Overgang fra høykarbohydratkosthold til stabilt energikosthold
+
+**Challenge:** You're used to bread, pasta, and sugary snacks
+
+**Adaptation period:** 2-4 weeks
+
+**What to expect:**
+- Uke 1: Kan føles annerledes, lyst på gammel mat
+- Uke 2: Energien stabiliserer seg, suget reduseres
+- Uke 3-4: Ny normal, kroppen effektiv med fett/protein
+
+**How to practice:**
+- Start med ett måltid om gangen
+- Bytt ut enkle karbohydrater med komplekse karbohydrater først
+- Øk gradvis protein og sunt fett
+- Øv først under trening med lav innsats
+:::
+
+::: details Finne matvarer som fungerer for deg
+
+**Challenge:** Not everyone digests the same foods well
+
+**What to test:**
+- Ulike proteinkilder (egg vs. kjøtt vs. nøtter)
+- Måltidspunkt (2 timer vs. 3 timer før)
+- Porsjonsstørrelser (for mye = treg, for lite = sulten)
+- Spesifikke matvarer som forårsaker ubehag
+
+**Practice approach:**
+- Prøv én variabel om gangen
+- Gi 2–3 treningsøkter til hver test
+- Merk deg hva som får deg til å føle deg best
+- Lag din personlige «konkurransemeny»
+:::
+
+::: details Håndtering av turneringsmatmiljøer
+
+**Challenge:** Tournaments often have limited food options
+
+**Practice solution:**
+- Ta alltid med egen snacks (øv på dette)
+- Undersøk steder på forhånd når det er mulig
+- Ha sikkerhetskopieringsalternativer du vet fungerer
+- Øv på å spise i forskjellige miljøer
+
+**Mental preparation:**
+- Ikke stol på maten på stedet
+- Behandle mat som en del av utstyret ditt
+- Pakk det slik du pakker boulene dine
+:::
+
+### 30-dagers ernæringspraksis-plan
+
+**Goal:** Make stable-energy eating your comfortable normal
+
+**Week 1-2: Foundation**
+- Erstatt ett måltid per dag med konkurranseinspirert kosthold
+- Øv på ernæring før trening
+- Begynn å ta med snacks på trening
+- Legg merke til hvordan kroppen din reagerer
+
+**Week 3-4: Expansion**
+- Gjør to måltider per dag stabilt energifokusert
+- Øv på å spise hele konkurransedagen på treningsdager
+- Avgrens snackvalgene dine
+- Lag din egen liste over matvarer
+
+**Week 5+: Mastery**
+- Stabil energispising er din nye normal
+- Kroppen er fullt tilpasset
+- Konkurransedagen føles rutinemessig
+- Tillit til ernæringen din
+
+### Ditt konkurransematsett
+
+**Practice packing this for every training session:**
+
+**Pre-competition (2-3 hours before):**
+- [ ] Proteinkilde (egg, kjøtt eller nøtter)
+- [ ] Grønnsaker eller salat
+- [ ] Sunt fett (avokado, olivenolje, ost)
+
+**During competition:**
+- [ ] Vannflaske (påfyllbar)
+- [ ] Blandede nøtter (små porsjoner)
+- [ ] Hardkokte egg (hvis du kan holde deg kjølig)
+- [ ] Ostebiter eller strengost
+- [ ] Jerky eller tørket kjøtt
+- [ ] Reservesnacks
+
+**The more you practice with this kit, the more automatic it becomes.**
 
 ## Praktiske tips
 
@@ -177,7 +375,9 @@ Dette er en avansert strategi – ikke nødvendig for alle, men verdt å vurdere
 
 ## Viktig konklusjon
 
-> Hjernen din er ditt viktigste verktøy i petanque. Gi den stabil drivstoff, ikke berg-og-dal-bane-energi.
+> Hjernen din er ditt viktigste verktøy i petanque. Gi den stabil drivstoff, ikke berg-og-dal-bane-energi. Og øv på ernæringen din akkurat som du øver på kastet ditt – repetisjon bygger komfort og pålitelighet.
 
-Fokuser på protein, sunt fett og å holde deg hydrert. Unngå sukkertopper. Konsentrasjonen, roen og de stødige hendene dine vil takke deg.
+Fokuser på protein, sunt fett og å holde deg hydrert. Unngå sukkertopper. **Viktigst av alt: gjør konkurransedagsnæringen din til din daglige ernæring.** Kroppen din trenger trening for å yte sitt beste.
+
+**Remember:** You wouldn't show up to a tournament with a throwing technique you've never practiced. Don't show up with a nutrition strategy you've never practiced either.
 

@@ -45,7 +45,7 @@ graph LR
 | Werfen | Französischer Begriff | Flugbahn | Wann verwenden? |
 |-------|-------------|------------|-------------|
 | **Rollend** | Roulette | Niedrig, rollt fast bis zum Ende | Glattes Gelände, kurze Distanz |
-| **Halb-Lob** | Demi-portée | Mittelgroß, landet auf halber Strecke | Am häufigsten verwendet, vielseitig |
+| **Halb-Lob** | Demi-portée | Mittelgroß, landet auf halber Strecke | Am häufigsten, vielseitig |
 | **Lob** | Portée | Hoch, landet nahe am Ziel | Hindernisse, unwegsames Gelände |
 | **Drop Shot** | Plombée | Sehr hoch, fällt senkrecht ab | Enge Räume, präzise Platzierung |
 
@@ -105,7 +105,7 @@ graph TD
 graph LR
     A[Schussintensität] --> B[Harte, ebene Fläche]
     A --> C[Mittelhart]
-    A --> D[Weicher, hoher Bogen]
+    A --> D[Weiches, hohes Fußgewölbe]
 
     B --> E[Kraft + Geschwindigkeit]
     C --> F[Gleichgewicht]

@@ -63,7 +63,7 @@ Quais são todos os tipos de arremesso que existem? Uma visão geral abrangente 
 
 ::: tip Depois da técnica, o que vem a seguir?
 Depois de dominar a técnica, o verdadeiro crescimento vem de:
-- **A Zona** - Acessando estados de fluxo
+- **[A Zona](/en/education/the-zone/)** - Acessando estados de fluxo
 - **[Força Mental](/en/education/mental-strength/)** - Lidar com a pressão
 - **[Métodos de Treinamento](/en/education/training/)** - Como praticar com eficácia
 :::

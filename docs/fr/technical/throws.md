@@ -71,7 +71,7 @@ graph LR
 |-----------|-------------------|-------------|
 | **Effet rétro** | S&#39;arrête ou recule à l&#39;atterrissage | Il faut s&#39;arrêter rapidement, éviter de dépasser |
 | **Demi-tour** | Effet rétro modéré, roulement contrôlé | Le plus polyvalent, le plus prévisible |
-| **Sans rotation** | Roulement neutre et naturel à l&#39;atterrissage | Laissez le terrain dicter le rythme. |
+| **Sans rotation** | Roulement neutre et naturel à l&#39;atterrissage | Laissez le terrain dicter le déroulement du jeu |
 
 ## Techniques de tir
 
@@ -127,7 +127,7 @@ graph LR
 
 ::: details Guide de référence rapide : Tous les lancers
 **Pointage :**
-- Roulette (roulant)
+- Roulette (rouler)
 - Demi-portée (half-lob)
 - Portée (lob)
 - Plombée (drop shot)
@@ -145,7 +145,7 @@ graph LR
 ```mermaid
 graph LR
     A[Apprendre les bases] --> B[Développer 2 à 3 lancers fiables]
-    B --> C[Fondations techniques]
+    B --> C[Fondation technique]
     C --> D[Entrer en état de flux]
     D --> E[Le corps choisit naturellement]
 

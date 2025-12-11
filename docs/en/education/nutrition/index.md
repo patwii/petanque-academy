@@ -158,6 +158,204 @@ Some precision athletes adopt low-carb or ketogenic diets. The theory:
 
 This is an advanced strategy - not necessary for everyone, but worth considering if blood sugar stability is a significant issue for you.
 
+## Food as Practice: Training Your Body
+
+::: warning Critical Concept
+**Food is not just fuel - it's something you practice with.** Just like you practice your throw, you must practice your nutrition to get your body comfortable with competition-day eating.
+:::
+
+### Why Food Practice Matters
+
+Your digestive system is trainable. What you eat regularly becomes what your body expects and handles best. If you only eat protein and vegetables on competition days, your body won't be adapted to it.
+
+**The problem:**
+- Eating unfamiliar foods on competition day can cause digestive discomfort
+- Your body needs time to adapt to new eating patterns
+- Stress + unfamiliar food = potential stomach issues
+- Performance anxiety is bad enough without adding digestive anxiety
+
+**The solution:**
+- Practice your competition nutrition during training
+- Make your competition-day foods part of your regular routine
+- Train your body to be comfortable with stable-energy foods
+
+### The Adaptation Process
+
+```mermaid
+graph TD
+    A[Current Diet] --> B[Gradual Changes]
+    B --> C[Body Adaptation<br/>2-4 weeks]
+    C --> D[New Normal]
+    D --> E[Competition Ready]
+
+    F[Sudden Change<br/>Competition Day] --> G[Digestive Discomfort]
+    G --> H[Poor Performance]
+
+    style A fill:#fff3e0
+    style E fill:#e8f5e9
+    style F fill:#ffebee
+    style H fill:#ffebee
+```
+
+When you change your diet:
+1. **Week 1-2:** Your body adjusts to new foods, may feel different
+2. **Week 3-4:** Adaptation occurs, new foods feel normal
+3. **Week 5+:** Your body is comfortable and efficient with these foods
+
+**This is why you can't just "eat healthy" on competition day and expect optimal results.**
+
+### How to Practice Your Nutrition
+
+#### 1. Start During Training
+
+**Practice your competition-day eating during training sessions:**
+- Eat the same pre-training meal you'd eat pre-competition
+- Bring the same snacks you'd bring to a tournament
+- Notice how your body responds
+- Adjust based on what works
+
+**Example training day:**
+```
+2-3 hours before: Eggs with vegetables (same as competition)
+During training: Water + nuts (same as competition)
+After training: Balanced meal with protein
+```
+
+#### 2. Make It Your Normal
+
+**Don't have a "competition diet" and a "regular diet"** - this creates two problems:
+- Your body never fully adapts to either
+- Competition food feels unfamiliar and stressful
+
+**Instead:**
+- Make stable-energy foods your daily norm
+- Your body becomes efficient at using protein and fats
+- Competition day feels normal, not different
+- No digestive surprises
+
+#### 3. Test and Refine
+
+**Use training to experiment:**
+
+| Test | What to Notice | Adjust |
+|------|----------------|--------|
+| Pre-training meal timing | Energy levels, focus | Find your optimal window |
+| Different protein sources | Digestion, comfort | Identify what works best |
+| Snack types | Sustained energy | Find your go-to snacks |
+| Hydration amounts | Concentration, bathroom breaks | Balance intake |
+
+**Keep a simple log:**
+- What you ate and when
+- How you felt during training
+- Energy levels and focus
+- Any digestive issues
+
+#### 4. Build Comfort and Confidence
+
+**The psychological benefit:**
+
+When you've practiced your nutrition hundreds of times in training:
+- You know exactly how your body will respond
+- No anxiety about food choices
+- One less thing to worry about on competition day
+- Confidence in your preparation
+
+**This is the same principle as practicing your throw** - repetition builds comfort and reliability.
+
+### Common Adaptation Challenges
+
+::: details Transitioning from High-Carb to Stable-Energy Diet
+
+**Challenge:** You're used to bread, pasta, and sugary snacks
+
+**Adaptation period:** 2-4 weeks
+
+**What to expect:**
+- Week 1: May feel different, cravings for old foods
+- Week 2: Energy stabilizes, cravings reduce
+- Week 3-4: New normal, body efficient with fats/protein
+
+**How to practice:**
+- Start with one meal at a time
+- Replace simple carbs with complex carbs first
+- Gradually increase protein and healthy fats
+- Practice during low-stakes training first
+:::
+
+::: details Finding Foods That Work for You
+
+**Challenge:** Not everyone digests the same foods well
+
+**What to test:**
+- Different protein sources (eggs vs. meat vs. nuts)
+- Timing of meals (2 hours vs. 3 hours before)
+- Portion sizes (too much = sluggish, too little = hungry)
+- Specific foods that cause discomfort
+
+**Practice approach:**
+- Try one variable at a time
+- Give each test 2-3 training sessions
+- Note what makes you feel best
+- Build your personal "competition menu"
+:::
+
+::: details Dealing with Tournament Food Environments
+
+**Challenge:** Tournaments often have limited food options
+
+**Practice solution:**
+- Always bring your own snacks (practice this)
+- Scout venues in advance when possible
+- Have backup options you know work
+- Practice eating in different environments
+
+**Mental preparation:**
+- Don't rely on venue food
+- Treat food as part of your equipment
+- Pack it like you pack your boules
+:::
+
+### The 30-Day Nutrition Practice Plan
+
+**Goal:** Make stable-energy eating your comfortable normal
+
+**Week 1-2: Foundation**
+- Replace one meal per day with competition-style eating
+- Practice pre-training nutrition
+- Start bringing snacks to training
+- Notice how your body responds
+
+**Week 3-4: Expansion**
+- Make two meals per day stable-energy focused
+- Practice full competition-day eating on training days
+- Refine your snack choices
+- Build your go-to food list
+
+**Week 5+: Mastery**
+- Stable-energy eating is your new normal
+- Body is fully adapted
+- Competition day feels routine
+- Confidence in your nutrition
+
+### Your Competition Food Kit
+
+**Practice packing this for every training session:**
+
+**Pre-competition (2-3 hours before):**
+- [ ] Protein source (eggs, meat, or nuts)
+- [ ] Vegetables or salad
+- [ ] Healthy fat (avocado, olive oil, cheese)
+
+**During competition:**
+- [ ] Water bottle (refillable)
+- [ ] Mixed nuts (small portions)
+- [ ] Hard-boiled eggs (if you can keep cool)
+- [ ] Cheese cubes or string cheese
+- [ ] Jerky or dried meat
+- [ ] Backup snacks
+
+**The more you practice with this kit, the more automatic it becomes.**
+
 ## Practical Tips
 
 ### Easy Competition Snacks
@@ -177,7 +375,9 @@ This is an advanced strategy - not necessary for everyone, but worth considering
 
 ## Key Takeaway
 
-> Your brain is your most important tool in pétanque. Feed it stable fuel, not roller coaster energy.
+> Your brain is your most important tool in pétanque. Feed it stable fuel, not roller coaster energy. And practice your nutrition just like you practice your throw - repetition builds comfort and reliability.
 
-Focus on protein, healthy fats, and staying hydrated. Avoid sugar spikes. Your concentration, composure, and steady hands will thank you.
+Focus on protein, healthy fats, and staying hydrated. Avoid sugar spikes. **Most importantly: make your competition-day nutrition your everyday nutrition.** Your body needs practice to perform at its best.
+
+**Remember:** You wouldn't show up to a tournament with a throwing technique you've never practiced. Don't show up with a nutrition strategy you've never practiced either.
 

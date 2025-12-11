@@ -12,7 +12,7 @@ Evite los picos de azúcar. Priorice las proteínas y las grasas saludables. Man
 
 ```mermaid
 graph TD
-    A[Estrategia de nutrición] --> B[Nivel de azúcar en sangre estable]
+    A[Estrategia nutricional] --> B[Nivel de azúcar en sangre estable]
     A --> C[Proteínas y grasas saludables]
     A --> D[Hidratación]
 
@@ -132,7 +132,7 @@ La energía basada en el azúcar actúa contra todos estos factores.
 Para conocer estrategias nutricionales detalladas, protocolos para el día de la competencia y la ciencia detrás de la energía estable:
 
 ::: tip Guía completa de nutrición
-→ **[Nutrición para un Rendimiento de Precisión](/es/educacion/nutricion/)** - Guía completa en nuestra sección de Educación
+→ **[Nutrición para un Rendimiento de Precisión](./education/nutrition/)** - Guía completa en nuestra sección de Educación
 
 Incluye:
 - Planificación detallada de comidas

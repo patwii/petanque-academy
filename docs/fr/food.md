@@ -132,7 +132,7 @@ Les énergies à base de sucre vont à l&#39;encontre de tous ces effets.
 Pour des stratégies nutritionnelles détaillées, des protocoles pour le jour de la compétition et la science derrière l&#39;énergie stable :
 
 ::: tip Guide nutritionnel complet
-→ **[Nutrition pour une performance de précision](/en/education/nutrition/)** - Guide complet dans notre section Éducation
+→ **[Nutrition pour une performance de précision](./education/nutrition/)** - Guide complet dans notre section Éducation
 
 Comprend :
 - Planification détaillée des repas

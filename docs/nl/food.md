@@ -1,4 +1,4 @@
-# Voedsel en voeding
+# Voeding en voedingswaarde
 
 ## Het stimuleren van precisieprestaties
 
@@ -132,7 +132,7 @@ Energie uit suiker werkt al deze effecten tegen.
 Voor gedetailleerde voedingsstrategieën, wedstrijdprotocollen en de wetenschap achter stabiele energie:
 
 ::: tip Complete voedingsgids
-→ **[Voeding voor optimale prestaties](/en/education/nutrition/)** - Complete handleiding in onze sectie Educatie
+→ **[Voeding voor optimale prestaties](./education/nutrition/)** - Complete handleiding in onze sectie Educatie
 
 Inclusief:
 - Gedetailleerde maaltijdplanning

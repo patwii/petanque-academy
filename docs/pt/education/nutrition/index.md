@@ -3,7 +3,7 @@
 A petanca é um esporte de precisão, não de resistência. Suas necessidades nutricionais são diferentes das de um maratonista ou de um jogador de futebol. O mais importante é a **estabilidade do combustível cerebral** — manter a mente afiada e as mãos firmes durante um longo dia de competição.
 
 ::: tip A Grande Ideia
-**Seu cérebro é sua ferramenta mais importante na petanca. Alimente-o com combustível estável, não com energia instável.** Concentre-se em proteínas, gorduras saudáveis e em manter-se hidratado. Evite picos de açúcar.
+**Your brain is your most important tool in pétanque. Feed it stable fuel, not roller coaster energy.** Focus on protein, healthy fats, and staying hydrated. Avoid sugar spikes.
 :::
 
 ```mermaid
@@ -29,10 +29,10 @@ graph LR
 
 Ao contrário de esportes de alta intensidade, a petanca não exige grandes reservas de glicogênio nem reposição rápida de energia. O que ela exige é:
 
-- **Níveis estáveis de açúcar no sangue** - sem picos ou quedas bruscas
-- **Clareza mental consistente** - foco que dura o dia todo
-- **Mãos firmes** - sem tremores ou abalos
-- **Nervos calmos** - baixa ansiedade e resposta ao estresse
+- **Níveis estáveis de açúcar no sangue - sem picos ou quedas bruscas.**
+- **Clareza mental constante - foco que dura o dia todo.**
+- **Mãos firmes - sem tremores ou abalos.**
+- **Nervos calmos - baixa ansiedade e resposta ao estresse**
 
 Sua estratégia nutricional deve otimizar esses fatores, e não a produção bruta de energia.
 
@@ -44,12 +44,12 @@ Muitos atletas optam por dietas ricas em carboidratos. Para jogadores de petanca
 
 Quando você consome açúcar ou carboidratos simples:
 1. O nível de açúcar no sangue aumenta rapidamente.
-2. A insulina é liberada para diminuir a concentração de insulina.
+2. A insulina é liberada para reduzi-lo.
 3. Queda brusca de açúcar no sangue (hipoglicemia)
 4. Seu corpo libera adrenalina para compensar.
 5. Você apresenta tremores, ansiedade e dificuldade de concentração.
 
-**Isso é o oposto do que você precisa para obter precisão.**
+**This is the opposite of what you need for precision.**
 
 ### Sintomas de instabilidade do açúcar no sangue
 
@@ -96,24 +96,24 @@ O objetivo é fornecer ao seu cérebro combustível constante, sem oscilações 
 
 ### Antes da competição
 
-**2 a 3 horas antes:**
+**2-3 hours before:**
 - Refeição balanceada com proteínas, gorduras e vegetais.
 - Evite carboidratos pesados que possam causar sonolência.
 - Exemplo: Ovos com legumes ou salada com frango
 
-**1 hora antes:**
+**1 hour before:**
 - Lanche leve, se necessário
 - Nozes, queijo ou uma pequena porção de proteína.
 - Evite tudo que seja açucarado
 
 ### Durante a competição
 
-**Entre os jogos:**
+**Between games:**
 - Água (a mais importante)
 - Pequenos lanches proteicos (nozes, queijo, carne)
 - Evite lanches e bebidas açucaradas.
 
-**Sinais de que você precisa comer:**
+**Signs you need to eat:**
 - Dificuldade de concentração
 - Irritabilidade
 - Sentindo-me trêmula
@@ -131,10 +131,10 @@ A desidratação afeta a função cognitiva antes mesmo de você sentir sede.
 
 ### Diretrizes
 
-- **Comece o dia hidratado** - Beba água ao longo do dia antes da competição.
-- **Durante o jogo** - Beba água regularmente, não espere até sentir sede.
-- **Evite o excesso de cafeína** - Ela é diurética.
-- **Fique atento aos sinais:** Dor de cabeça, urina escura, fadiga.
+- **Comece hidratado - Beba água ao longo do dia antes da competição.**
+- **Durante o jogo - Beba água regularmente, não espere até sentir sede.**
+- **Evite o excesso de cafeína - Ela é diurética.**
+- **Fique atento aos sinais: dor de cabeça, urina escura, fadiga.**
 
 ### Quanto?
 
@@ -144,19 +144,217 @@ Uma regra geral: o ideal é que a urina fique amarelo-clara. Se estiver escura, 
 
 Alguns atletas de precisão adotam dietas com baixo teor de carboidratos ou cetogênicas. A teoria:
 
-**Benefícios potenciais:**
+**Potential benefits:**
 - Níveis de açúcar no sangue muito estáveis (sem possibilidade de picos).
-- Clareza mental constante
+- Clareza mental consistente
 - Redução da ansiedade e dos tremores
 - Sem quedas bruscas de energia à tarde.
 
-**Considerações:**
+**Considerations:**
 - Requer período de adaptação (1-2 semanas)
 - Não é adequado para todos.
 - Requer planejamento e comprometimento.
 - Consulte primeiro um profissional de saúde
 
 Essa é uma estratégia avançada – não necessária para todos, mas que vale a pena considerar se a estabilidade do açúcar no sangue for uma questão importante para você.
+
+## Alimentação como prática: treinando seu corpo
+
+::: warning Conceito Crítico
+**Mat är inte bara bränsle - det är något du övar med.** Just like you practice your throw, you must practice your nutrition to get your body comfortable with competition-day eating.
+:::
+
+### Por que as práticas alimentares são importantes
+
+Seu sistema digestivo pode ser treinado. O que você come regularmente se torna aquilo que seu corpo espera e processa melhor. Se você consumir apenas proteínas e vegetais nos dias de competição, seu corpo não estará adaptado a isso.
+
+**The problem:**
+- Comer alimentos desconhecidos no dia da competição pode causar desconforto digestivo.
+- Seu corpo precisa de tempo para se adaptar a novos padrões alimentares.
+- Estresse + comida desconhecida = potenciais problemas estomacais
+- A ansiedade de desempenho já é ruim o suficiente sem adicionar a ansiedade digestiva.
+
+**The solution:**
+- Pratique a nutrição para competição durante o treino.
+- Incorpore os alimentos que você consome no dia da competição à sua rotina alimentar regular.
+- Treine seu corpo para se acostumar com alimentos de energia estável.
+
+### O Processo de Adaptação
+
+```mermaid
+graph TD
+    A[Dieta atual] --> B[Mudanças graduais]
+    B --> C[Adaptação Corporal<br/>2 a 4 semanas]
+    C --> D[Novo Normal]
+    D --> E[Pronto para a competição]
+
+    F[Mudança repentina<br/>Dia da Competição] --> G[Desconforto digestivo]
+    G --> H[Desempenho ruim]
+
+    style A fill:#fff3e0
+    style E fill:#e8f5e9
+    style F fill:#ffebee
+    style H fill:#ffebee
+```
+
+Ao mudar sua dieta:
+1. **Semanas 1-2:** Seu corpo se adapta aos novos alimentos e você pode sentir algumas diferenças.
+2. **Semanas 3-4:** Ocorre a adaptação, os novos alimentos parecem normais.
+3. **Semana 5+:** Seu corpo está confortável e funcionando de forma eficiente com esses alimentos.
+
+**This is why you can't just "eat healthy" on competition day and expect optimal results.**
+
+### Como praticar sua nutrição
+
+#### 1. Comece durante o treinamento
+
+**Practice your competition-day eating during training sessions:**
+- Coma a mesma refeição pré-treino que você comeria antes de uma competição.
+- Leve os mesmos lanches que você levaria para um torneio.
+- Observe como seu corpo reage.
+- Ajuste com base no que funciona.
+
+**Example training day:**
+```
+2-3 hours before: Eggs with vegetables (same as competition)
+During training: Water + nuts (same as competition)
+After training: Balanced meal with protein
+```
+
+#### 2. Faça disso o seu normal
+
+**Don't have a "competition diet" and a "regular diet"** - this creates two problems:
+- Seu corpo nunca se adapta completamente a nenhum dos dois.
+- A comida da competição parece estranha e estressante.
+
+**Instead:**
+- Faça dos alimentos com alto teor energético a sua norma diária.
+- Seu corpo se torna eficiente no uso de proteínas e gorduras.
+- O dia da competição parece normal, não diferente.
+- Sem surpresas digestivas
+
+#### 3. Testar e refinar
+
+**Use training to experiment:**
+
+| Teste | O que observar | Ajustar |
+|------|----------------|--------|
+| Horário da refeição pré-treino | Níveis de energia, foco | Encontre a sua janela ideal. |
+| Diferentes fontes de proteína | Digestão, conforto | Identifique o que funciona melhor |
+| Tipos de lanches | Energia sustentada | Encontre seus lanches favoritos |
+| Quantidades de hidratação | Concentração, pausas para ir ao banheiro | ingestão equilibrada |
+
+**Keep a simple log:**
+- O que você comeu e quando?
+- Como você se sentiu durante o treinamento?
+- Níveis de energia e concentração
+- Quaisquer problemas digestivos
+
+#### 4. Desenvolva conforto e confiança
+
+**The psychological benefit:**
+
+Quando você já praticou sua alimentação centenas de vezes durante o treinamento:
+- Você sabe exatamente como seu corpo reagirá.
+- Sem ansiedade em relação às opções alimentares.
+- Uma preocupação a menos no dia da competição.
+- Confiança na sua preparação
+
+**This is the same principle as practicing your throw** - repetition builds comfort and reliability.
+
+### Desafios comuns de adaptação
+
+::: details Transição de uma dieta rica em carboidratos para uma dieta com energia estável.
+
+**Challenge:** You're used to bread, pasta, and sugary snacks
+
+**Adaptation period:** 2-4 weeks
+
+**What to expect:**
+- Semana 1: Pode parecer diferente, com desejos por comidas antigas.
+- Semana 2: Os níveis de energia se estabilizam e os desejos diminuem.
+- Semanas 3-4: Novo normal, corpo eficiente com gorduras/proteínas
+
+**How to practice:**
+- Comece com uma refeição de cada vez.
+- Substitua primeiro os carboidratos simples por carboidratos complexos.
+- Aumente gradualmente a ingestão de proteínas e gorduras saudáveis.
+- Pratique primeiro durante treinos de baixo risco.
+:::
+
+::: details Encontrando alimentos que funcionam para você
+
+**Challenge:** Not everyone digests the same foods well
+
+**What to test:**
+- Diferentes fontes de proteína (ovos vs. carne vs. nozes)
+- Horário das refeições (2 horas ou 3 horas antes)
+- Tamanho das porções (muita = sensação de lentidão, pouca = fome)
+- Alimentos específicos que causam desconforto
+
+**Practice approach:**
+- Tente uma variável de cada vez.
+- Dê a cada teste de 2 a 3 sessões de treinamento.
+- Anote o que te faz sentir melhor
+- Monte seu &quot;cardápio de competição&quot; personalizado
+:::
+
+::: details Lidando com ambientes alimentares em torneios
+
+**Challenge:** Tournaments often have limited food options
+
+**Practice solution:**
+- Leve sempre seus próprios lanches (pratique isso).
+- Visite os locais com antecedência, sempre que possível.
+- Tenha opções de backup que você sabe que funcionam.
+- Pratique comer em diferentes ambientes.
+
+**Mental preparation:**
+- Não confie na comida do local.
+- Trate os alimentos como parte do seu equipamento.
+- Embale como você embala suas bolas de bocha.
+:::
+
+### Plano de Prática Nutricional de 30 Dias
+
+**Goal:** Make stable-energy eating your comfortable normal
+
+**Week 1-2: Foundation**
+- Substitua uma refeição por dia por uma alimentação no estilo de competição.
+- Pratique a nutrição pré-treino.
+- Comece a levar lanches para o treino.
+- Observe como seu corpo reage.
+
+**Week 3-4: Expansion**
+- Faça duas refeições por dia com foco em energia estável.
+- Pratique a alimentação completa do dia da competição nos dias de treino.
+- Aprimore suas opções de lanches
+- Crie sua lista de alimentos favoritos
+
+**Week 5+: Mastery**
+- Alimentação com níveis energéticos estáveis será o seu novo normal.
+- O corpo está totalmente adaptado.
+- O dia da competição parece rotineiro.
+- Confiança na sua nutrição
+
+### Seu kit de alimentos para competição
+
+**Practice packing this for every training session:**
+
+**Pre-competition (2-3 hours before):**
+- [ ] Fonte de proteína (ovos, carne ou nozes)
+- [ ] Legumes ou salada
+- [ ] Gorduras saudáveis (abacate, azeite, queijo)
+
+**During competition:**
+- [ ] Garrafa de água (reutilizável)
+- [ ] Mix de nozes (porções pequenas)
+- [ ] Ovos cozidos (se você conseguir mantê-los frescos)
+- [ ] Cubos de queijo ou queijo em tiras
+- [ ] carne seca ou carne desidratada
+- [ ] Lanches de reserva
+
+**The more you practice with this kit, the more automatic it becomes.**
 
 ## Dicas práticas
 
@@ -177,7 +375,9 @@ Essa é uma estratégia avançada – não necessária para todos, mas que vale 
 
 ## Ponto-chave
 
-> No jogo de petanca, seu cérebro é sua ferramenta mais importante. Alimente-o com combustível estável, não com energia instável.
+> Seu cérebro é sua ferramenta mais importante na petanca. Alimente-o com combustível estável, não com energia instável. E pratique sua nutrição assim como pratica seu arremesso — a repetição gera conforto e confiabilidade.
 
-Priorize proteínas, gorduras saudáveis e mantenha-se hidratado. Evite picos de açúcar. Sua concentração, compostura e firmeza nas mãos agradecerão.
+Priorize proteínas, gorduras saudáveis e mantenha-se hidratado. Evite picos de açúcar. **O mais importante: adote a nutrição do dia da competição como sua nutrição diária.** Seu corpo precisa de prática para atingir o máximo desempenho.
+
+**Remember:** You wouldn't show up to a tournament with a throwing technique you've never practiced. Don't show up with a nutrition strategy you've never practiced either.
 

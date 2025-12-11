@@ -132,7 +132,7 @@ Sugar-based energy works against all of these.
 For detailed nutrition strategies, competition day protocols, and the science behind stable energy:
 
 ::: tip Complete Nutrition Guide
-→ **[Nutrition for Precision Performance](/en/education/nutrition/)** - Complete guide in our Education section
+→ **[Nutrition for Precision Performance](./education/nutrition/)** - Complete guide in our Education section
 
 Includes:
 - Detailed meal planning

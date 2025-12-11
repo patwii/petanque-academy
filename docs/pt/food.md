@@ -132,7 +132,7 @@ Energia à base de açúcar contraria todos esses objetivos.
 Para estratégias nutricionais detalhadas, protocolos para o dia da competição e a ciência por trás da energia estável:
 
 ::: tip Guia completo de nutrição
-→ **[Nutrição para Desempenho de Precisão](/en/education/nutrition/)** - Guia completo em nossa seção de Educação
+→ **[Nutrição para Desempenho de Precisão](./education/nutrition/)** - Guia completo em nossa seção de Educação
 
 Inclui:
 - Planejamento detalhado de refeições

@@ -104,7 +104,7 @@ graph TD
 - 💬 Deling af personlige oplevelser og udfordringer
 - 🤝 Peer-støtte og ansvarlighed
 - 🛠️ Praktiske øvelser og teknikker
-- 👥 Et fællesskab af spillere, der er dedikeret til vækst
+- 👥 Et fællesskab af spillere, der er engagerede i vækst
 :::
 
 ## Hvem bør deltage?

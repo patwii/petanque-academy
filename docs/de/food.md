@@ -132,7 +132,7 @@ Zuckerbasierte Energie wirkt all dem entgegen.
 Detaillierte Ernährungsstrategien, Wettkampfprotokolle und die wissenschaftlichen Grundlagen stabiler Energieversorgung finden Sie hier:
 
 ::: tip Vollständiger Ernährungsleitfaden
-→ **[Ernährung für optimale Leistung](/en/education/nutrition/)** – Vollständiger Leitfaden in unserem Bildungsbereich
+→ **[Ernährung für optimale Leistung](./education/nutrition/)** – Vollständiger Leitfaden in unserem Bildungsbereich
 
 Beinhaltet:
 - Detaillierte Speiseplanung

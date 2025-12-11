@@ -11,7 +11,7 @@ Onze workshops zijn intieme fora waar topspelers ervaringen delen en openhartig 
 ```mermaid
 graph LR
     A[Workshopreis] --> B[IRL-bijeenkomst]
-    B --> C[Vertrouwen opbouwen]
+    B --> C[Bouw vertrouwen op]
     C --> D[Online sessies]
     D --> E[Doorlopende ondersteuning]
     E --> F[Aanhoudende groei]
@@ -41,7 +41,7 @@ graph TD
     A[Workshopindeling] --> B[Fase 1: Persoonlijke aanwezigheid]
     A --> C[Fase 2: Online]
 
-    B --> D[Vertrouwen opbouwen]
+    B --> D[Bouw vertrouwen op]
     B --> E[Dynamiek tot stand brengen]
     B --> F[Stel doelen]
 
@@ -87,7 +87,7 @@ graph TD
 - Voortdurend leren en groeien
 :::
 
-## Wat u kunt verwachten
+## Wat kun je verwachten?
 
 ### Onderwerpen die we onderzoeken
 
@@ -96,7 +96,7 @@ graph TD
 | **Mentale training** | Stroomtoestand, druk, focus | Constante topprestaties |
 | **Persoonlijke uitdagingen** | Angsten, blokkades, frustraties | Doorbraken en oplossingen |
 | **Leren van elkaar** | Gedeelde ervaringen | Nieuwe perspectieven en inzichten |
-| **Praktische hulpmiddelen** | Technieken en oefeningen | Directe aanvraag |
+| **Praktische hulpmiddelen** | Technieken en oefeningen | Directe sollicitatie |
 | **Gemeenschap** | Doorlopende ondersteuning | Groei op lange termijn |
 
 ::: tip Workshopervaring

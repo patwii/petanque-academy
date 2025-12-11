@@ -132,7 +132,7 @@ Sukkerbaseret energi virker mod alle disse.
 For detaljerede ernæringsstrategier, protokoller til konkurrencedagen og videnskaben bag stabil energi:
 
 ::: tip Komplet ernæringsguide
-→ **[Ernæring for præcisionspræstation](/da/uddannelse/ernæring/)** - Komplet guide i vores uddannelsessektion
+→ **[Ernæring for præcisionspræstation](./education/nutrition/)** - Komplet guide i vores uddannelsessektion
 
 Inkluderer:
 - Detaljeret måltidsplanlægning

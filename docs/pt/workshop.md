@@ -59,7 +59,7 @@ graph TD
 | **Primeiro Encontro** | Presencialmente (IRL) | Construir a base | Confiança, conexão, dinâmica de grupo |
 | **Sessões em andamento** | On-line | Mantenha o ritmo | Apoio regular, flexibilidade, responsabilidade |
 
-::: details Fase 1: Reunião presencial
+::: details Fase 1: Reunião Presencial
 **Por que começar presencialmente?**
 - Construir confiança e conexão cara a cara
 - Estabelecer dinâmicas de grupo e segurança

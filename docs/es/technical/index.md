@@ -53,7 +53,7 @@ graph LR
 ::: info El objetivo
 Si tiene un enfoque técnico y desea ampliar su repertorio, esta sección describe el objetivo final: la paleta completa de lanzamientos disponibles para un jugador de petanca.
 
-**Recuerda:** El objetivo no es dominarlo todo. Es tener la base técnica suficiente para entrar en la zona y dejar que tu cuerpo elija el lanzamiento correcto de forma natural.
+**Recuerda:** El objetivo no es dominarlo todo. Se trata de tener la base técnica suficiente para entrar en la zona y dejar que tu cuerpo elija el lanzamiento correcto de forma natural.
 :::
 
 ## Temas

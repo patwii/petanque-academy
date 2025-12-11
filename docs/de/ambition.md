@@ -16,7 +16,7 @@ graph LR
     B --> C[Plateau]
 
     D[Pétanque Academy] --> E[Fokus auf den Flow-Zustand]
-    E --> F[Leistung auf dem nächsten Level]
+    E --> F[Leistung auf nächstem Niveau]
 
     style A fill:#f5f5f5
     style C fill:#ffebee

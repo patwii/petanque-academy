@@ -5,7 +5,7 @@
 Sebbene il nostro obiettivo principale sia il gioco mentale e lo stato di flusso, riconosciamo che la tecnica è la base su cui si costruisce tutto il resto.
 
 ::: info La nostra filosofia
-**La tecnica è la base, ma il flusso è il limite.** Per raggiungere un livello d&#39;élite è necessaria una tecnica solida, ma è la padronanza mentale che ti porta oltre.
+**La tecnica è la base, ma il flusso è il limite.** Per raggiungere il livello d&#39;élite è necessaria una tecnica solida, ma la padronanza mentale è ciò che ti porta oltre.
 :::
 
 ```mermaid
@@ -61,7 +61,7 @@ Se hai un focus tecnico e vuoi ampliare il tuo repertorio, questa sezione deline
 ### [Tavolozza di lanci](/it/tecnico/lanci)
 Quali sono i lanci possibili? Una panoramica completa delle possibilità tecniche della pétanque.
 
-::: tip Dopo la tecnica, cosa succederà?
+::: tip Dopo la tecnica, cosa c&#39;è dopo?
 Una volta acquisita una tecnica solida, la vera crescita deriva da:
 - **[The Zone](/it/education/the-zone/)** - Accesso agli stati di flusso
 - **[Forza mentale](/it/educazione/forza-mentale/)** - Gestire la pressione

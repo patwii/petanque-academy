@@ -64,7 +64,7 @@ Mens du venter på annonceringer for workshops, kan du udforske vores omfattende
 |---------|-------------------|------------|
 | **Zonen** | Sådan indtaster du flowtilstande konsekvent | [Forståelse af flow](/da/uddannelse/zonen/) |
 | **Mental styrke** | Håndtering af pres og opbygning af rutiner | [Mentalt spil](/da/uddannelse/mental-styrke/) |
-| **Mindfulness** | Nutidsbevidsthed for præstation | [Mindfulness-praksis](/da/uddannelse/mindfulness/) |
+| **Mindfulness** | Bevidsthed i nuet for præstation | [Mindfulness-praksis](/da/uddannelse/mindfulness/) |
 | **Ernæring** | Giv din hjerne energi til et stabilt fokus | [Præcisionsernæring](/da/uddannelse/ernæring/) |
 | **Mål** | Sæt og nå meningsfulde mål | [Målsætning](/da/uddannelse/mål/) |
 

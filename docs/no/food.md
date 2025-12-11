@@ -132,7 +132,7 @@ Sukkerbasert energi virker mot alle disse.
 For detaljerte ernæringsstrategier, protokoller for konkurransedagen og vitenskapen bak stabil energi:
 
 ::: tip Komplett ernæringsguide
-→ **[Ernæring for presisjonsytelse](/no/utdanning/ernæring/)** - Komplett guide i vår utdanningsseksjon
+→ **[Ernæring for presisjonsytelse](./education/nutrition/)** - Komplett guide i vår utdanningsseksjon
 
 Inkluderer:
 - Detaljert måltidsplanlegging

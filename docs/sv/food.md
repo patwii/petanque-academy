@@ -132,7 +132,7 @@ Sockerbaserad energi motverkar alla dessa.
 För detaljerade näringsstrategier, tävlingsdagsprotokoll och vetenskapen bakom stabil energi:
 
 ::: tip Komplett näringsguide
-→ **[Näring för precisionsprestanda](/sv/utbildning/näring/)** - Komplett guide i vår utbildningssektion
+→ **[Näring för precisionsprestanda](./education/nutrition/)** - Komplett guide i vår utbildningssektion
 
 Innehåller:
 - Detaljerad måltidsplanering

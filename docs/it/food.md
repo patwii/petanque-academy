@@ -2,7 +2,7 @@
 
 ## Prestazioni di precisione
 
-La boccia è uno sport di precisione. Il tuo cervello è il tuo strumento più importante: alimentalo con carburante stabile, non con energia da montagne russe.
+La boccia è uno sport di precisione. Il tuo cervello è lo strumento più importante: alimentalo con carburante stabile, non con energia da montagne russe.
 
 ::: tip Il principio fondamentale
 **Glicemia stabile = Concentrazione nitida + Mani ferme**
@@ -132,7 +132,7 @@ L&#39;energia a base di zucchero agisce contro tutti questi fattori.
 Per strategie nutrizionali dettagliate, protocolli per i giorni di gara e la scienza alla base dell&#39;energia stabile:
 
 ::: tip Guida nutrizionale completa
-→ **[Nutrizione per prestazioni di precisione](/it/educazione/nutrizione/)** - Guida completa nella nostra sezione Formazione
+→ **[Nutrizione per prestazioni di precisione](./education/nutrition/)** - Guida completa nella nostra sezione Formazione
 
 Include:
 - Pianificazione dettagliata dei pasti
