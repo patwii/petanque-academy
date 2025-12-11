@@ -7,13 +7,20 @@ export default withMermaid(defineConfig({
   ignoreDeadLinks: true,
 
   head: [
+    // Google Analytics
     ['script', { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-JG6034BPGE' }],
     ['script', {}, `
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
       gtag('config', 'G-JG6034BPGE');
-    `]
+    `],
+    // Google AdSense
+    ['script', {
+      async: '',
+      src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2291330857070799',
+      crossorigin: 'anonymous'
+    }]
   ],
 
   locales: {
