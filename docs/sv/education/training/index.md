@@ -1,113 +1,173 @@
-# Träningsmetoder
+# Training Methods
 
-Att träna smart är lika viktigt som att träna hårt. Denna sektion hjälper dig strukturera din träning för maximal förbättring.
+When your technique is solid, what do you practice? This is where many players plateau - they keep drilling technique when the real growth lies elsewhere.
 
-## Principer för effektiv träning
+## Beyond Technical Repetition
 
-### 1. Intention
-Varje session måste ha ett tydligt mål. "Jag ska träna" räcker inte. "Jag ska arbeta på min skottträff på 8 meter" är bättre.
+Most players train by repeating throws. That's important for beginners, but advanced players need more:
 
-### 2. Mätning
-Det som mäts förbättras. Följ dina resultat för att se framsteg och identifiera svagheter.
+| Training Type | What It Develops | When to Use |
+|--------------|------------------|-------------|
+| Technical drills | Mechanics, form | Learning new skills, fixing issues |
+| Random practice | Adaptability, decision-making | Competition preparation |
+| Pressure simulation | Mental toughness | Before important events |
+| Mental training | Focus, recovery, confidence | Ongoing, often neglected |
 
-### 3. Progression
-Öka svårighetsgraden gradvis. Stanna i den optimala utmaningszonen - varken för lätt eller för svårt.
+## The Training Pyramid
 
-### 4. Variation
-Växla mellan olika övningstyper för att utveckla komplett spelförmåga och undvika tristess.
+```
+         Competition
+            ↑
+      Match Simulation
+            ↑
+    Pressure Practice
+            ↑
+   Random/Varied Practice
+            ↑
+  Blocked Technical Practice
+```
 
-### 5. Återhämtning
-Vila är en del av träningen. Din kropp och ditt sinne behöver tid för att integrera lärdomarna.
+Most players spend too much time at the bottom. Elite players work at all levels.
 
-## Typer av träning
+## Blocked vs. Random Practice
 
-### Teknisk träning
-Fokus på mekanik och form.
-- Upprepningar av samma rörelse
-- Uppmärksamhet på detaljer
-- Omedelbar feedback
-- Medvetna korrigeringar
+### Blocked Practice
+Repeat the same throw many times:
+- 20 points from 7 meters
+- 20 shots at the same target
+- Same distance, same throw
 
-### Tävlingsträning
-Simulering av matchförhållanden.
-- Övningar med insatser
-- Varierade situationer
-- Simulerad press
-- Taktiska beslut
+**Good for:** Initial learning, building confidence, warming up
+**Limitation:** Doesn't transfer well to competition
 
-### Mental träning
-Utveckling av psykologiska färdigheter.
-- Mindfulness
-- Visualisering
-- Rutiner
-- Presshantering
+### Random Practice
+Vary everything:
+- Different distances each throw
+- Alternate pointing and shooting
+- Change targets constantly
 
-### Fysisk träning
-Underhåll av fysisk kondition.
-- Rörlighet och smidighet
-- Balans och stabilitet
-- Uthållighet för långa turneringar
-- Skadeförebyggande
+**Good for:** Competition preparation, building adaptability
+**Feels:** Harder, more mistakes, less "productive"
+**Reality:** Better long-term retention and transfer
 
-## Struktur för en session
+### The Research
 
-### Uppvärmning (10-15 min)
-- Ledrörlighet
-- Några lätta kast
-- Mental övergång till träning
+Studies consistently show:
+- Blocked practice feels better (quick improvement visible)
+- Random practice produces better competition performance
+- The "struggle" of random practice is where learning happens
 
-### Huvuddel (30-60 min)
-- Huvudövningar
-- Fokus på dagens mål
-- Mätning av resultat
+## Pressure Simulation
 
-### Nedvarvning (5-10 min)
-- Några avslappnade kast
-- Stretching vid behov
-- Reflektion över sessionen
+You can't handle competition pressure if you never experience it in training.
 
-## Veckoplanering
+### Creating Practice Pressure
 
-### Exempel på balanserad vecka
+**Consequences:**
+- Push-ups for misses
+- Loser buys coffee
+- Points count toward something
 
-| Dag | Typ | Längd | Fokus |
-|-----|-----|-------|-------|
-| Måndag | Teknik | 60 min | Läggning |
-| Tisdag | Mental | 30 min | Mindfulness + visualisering |
-| Onsdag | Teknik | 60 min | Skott |
-| Torsdag | Vila | - | Återhämtning |
-| Fredag | Tävling | 45 min | Matchsimulering |
-| Lördag | Match | Varierar | Tillämpning |
-| Söndag | Reflektion | 20 min | Analys + planering |
+**Scenarios:**
+- "Must make" situations
+- Down 12-10, need to score
+- Last boule of the game
 
-## Medveten träning
+**Audience:**
+- Practice with people watching
+- Record yourself on video
+- Announce what you're trying to do
 
-Medveten träning är nyckeln till snabb förbättring:
+**Fatigue:**
+- Practice when tired
+- End of long session
+- After physical exercise
 
-### Egenskaper
-- Specifikt och tydligt mål
-- Total koncentration
-- Omedelbar feedback
-- Utanför komfortzonen
-- Upprepning med justering
+### The Shooting Ladder
 
-### Exempel
-❌ **Vanlig träning:** Kasta 50 kulor utan specifikt mål
+A classic pressure drill:
+1. Start at 6 meters
+2. Hit the target = move back one meter
+3. Miss = move forward one meter (or start over)
+4. Goal: Reach 10 meters
 
-✅ **Medveten träning:**
-- Mål: Förbättra precisionen på 8m
-- 10 serier om 5 kast
-- Notera varje resultat
-- Analysera misstagen
-- Justera mellan serierna
+This creates natural pressure as you progress.
 
-## I denna sektion
+## Mental Training Sessions
 
-- **[Träningsövningar](/sv/education/training/drills)** - Specifika övningar för att utveckla dina färdigheter
+Dedicate time specifically to mental skills:
 
-## Nyckelinsikt
+### Visualization Session (15-20 min)
+1. Find a quiet place
+2. Close your eyes
+3. Visualize yourself at a competition
+4. See successful throws in detail
+5. Feel the confidence and flow
+6. Practice handling pressure moments
 
-> Effektiv träning handlar inte om tid spenderad, utan om kvaliteten på uppmärksamheten och strukturen. En timmes medveten träning är bättre än tre timmars planlöst kastande.
+### Pre-Shot Routine Practice
+- Practice your routine without throwing
+- Focus on the mental transitions
+- Build the habit of consistent preparation
 
-Planera din träning. Mät dina framsteg. Justera konstant.
+### Recovery Practice
+- Intentionally make mistakes in practice
+- Practice your SOAS response
+- Build the habit of quick mental reset
+
+## Structuring Your Training Week
+
+### Example: Serious Amateur (6 hours/week)
+
+| Day | Duration | Focus |
+|-----|----------|-------|
+| Monday | 1.5 hr | Technical: Pointing drills |
+| Wednesday | 1.5 hr | Technical: Shooting drills |
+| Friday | 1 hr | Mental: Visualization, routine practice |
+| Saturday | 2 hr | Match play with pressure elements |
+
+### Example: Competitive Player (10 hours/week)
+
+| Day | Duration | Focus |
+|-----|----------|-------|
+| Monday | 2 hr | Technical: Pointing (blocked → random) |
+| Tuesday | 1 hr | Mental training + visualization |
+| Wednesday | 2 hr | Technical: Shooting (blocked → random) |
+| Thursday | 1 hr | Video review + mental work |
+| Friday | 2 hr | Pressure simulation, game scenarios |
+| Saturday | 2 hr | Competition or match play |
+
+## Training Principles
+
+### 1. Quality Over Quantity
+- 30 focused minutes beats 2 hours of mindless repetition
+- Stop when focus drops
+- Better to end early than practice bad habits
+
+### 2. Deliberate Practice
+- Have a specific goal for each session
+- Work at the edge of your ability
+- Get feedback (video, partner, results)
+- Adjust based on what you learn
+
+### 3. Recovery Matters
+- Rest days are part of training
+- Sleep affects performance significantly
+- Mental fatigue is real - respect it
+
+### 4. Track Everything
+- Keep a training log
+- Note what works and what doesn't
+- Review regularly
+- Adjust your plan based on data
+
+## In This Section
+
+- **[Training Drills](/sv/education/training/drills)** - Specific exercises for different skills
+
+## Key Takeaway
+
+> How you train determines how you perform. Train like you want to play.
+
+Mix your training. Include mental work. Create pressure. Track your progress.
 

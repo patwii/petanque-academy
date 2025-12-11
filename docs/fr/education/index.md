@@ -1,6 +1,6 @@
-# Formation
+# Éducation
 
-Bienvenue au programme de formation de la Pétanque Academy. C'est ici que les joueurs d'élite apprennent à maîtriser le jeu mental.
+Bienvenue au programme d'Éducation de la Pétanque Academy. C'est ici que les joueurs d'élite apprennent à maîtriser le jeu mental.
 
 ## Pourquoi l'entraînement mental est important
 
@@ -34,19 +34,19 @@ Entraînez-vous plus intelligemment, pas seulement plus dur. Apprenez à structu
 ### 🥗 [Nutrition](/fr/education/nutrition/)
 Alimentez votre cerveau pour la performance de précision. Apprenez à maintenir une énergie et une concentration stables tout au long de la compétition.
 
-## Le parcours de la technique au flow
+## The Journey from Technique to Flow
 
-À mesure que vous vous développez en tant que joueur, votre focus d'entraînement devrait évoluer :
+As you develop as a player, your training ratio inverts - mental training becomes more important, not less:
 
-| Niveau | Focus technique | Focus mental | Ratio |
-|--------|-----------------|--------------|-------|
-| **Débutant** | Instruction explicite, répétition | Visualisation de base, routines simples | 70:30 |
-| **Intermédiaire** | Raffinement, pratique variée | Développer des routines, contrôle émotionnel | 50:50 |
-| **Avancé** | Focus conscient minimal | Pleine conscience avancée, simulation de pression | 40:60 |
+| Level | Ratio (Tech:Mental) | Primary Objective |
+|-------|---------------------|-------------------|
+| **Beginner** | 90 : 10 | Build the Machine |
+| **Intermediate** | 70 : 30 | Stabilize the Skill |
+| **Advanced** | 50 : 50 | Trust the Machine |
+| **Expert** | 20 : 80 | Freedom of Performance |
 
-L'objectif est de construire une technique si solide qu'elle devient automatique, libérant votre esprit pour se concentrer sur la stratégie et rester dans la zone.
+Vous ne pouvez pas entraîner un Débutant comme un Expert (ils manquent les voies neuronales), et vous ne pouvez pas entraîner un Expert comme un Débutant (un volume technique élevé provoque la sur-réflexion).
 
 ## Commencez votre parcours
 
 Nous recommandons de commencer par [La Zone](/fr/education/the-zone/) pour comprendre les fondements de la performance d'élite, puis d'explorer [La pleine conscience](/fr/education/mindfulness/) pour des techniques pratiques que vous pouvez utiliser immédiatement.
-

@@ -1,161 +1,203 @@
-# Communication en équipe
+# Communication d'équipe
 
-La communication efficace est le ciment d'une équipe performante. Elle ne se limite pas aux mots - c'est aussi le ton, le timing et le langage corporel.
+Une communication efficace est ce qui transforme un groupe d'individus en équipe. À la pétanque, où la stratégie change constamment et la pression est élevée, votre façon de communiquer peut déterminer le résultat.
 
-## Principes de base
+## Le cycle de communication
 
-### 1. Clarté
-Dites ce que vous pensez de manière directe et compréhensible.
-- Évitez les sous-entendus
-- Soyez spécifique dans vos observations
-- Confirmez la compréhension mutuelle
+Une bonne communication d'équipe suit un cycle :
 
-### 2. Positivité
-Maintenez un ton constructif, même dans les moments difficiles.
-- Formulez en termes de solutions, pas de problèmes
-- Encouragez plus que vous ne critiquez
-- Gardez l'énergie de l'équipe haute
+```
+Observer → Partager → Discuter → Décider → Exécuter → Réviser
+```
 
-### 3. Timing
-Sachez quand parler et quand se taire.
-- Avant le lancer : informations tactiques brèves
-- Après le lancer : encouragement ou silence
-- Entre les mènes : discussions plus approfondies
+1. **Observer :** Remarquer ce qui se passe (terrain, positions, adversaires)
+2. **Partager :** Dire à vos coéquipiers ce que vous voyez
+3. **Discuter :** Échanger perspectives et idées
+4. **Décider :** S'accorder sur l'approche
+5. **Exécuter :** Le faire avec engagement
+6. **Réviser :** Apprendre du résultat
 
-### 4. Écoute
-La communication est bidirectionnelle.
-- Écoutez vraiment, ne préparez pas juste votre réponse
-- Posez des questions pour clarifier
-- Respectez les opinions différentes
+## Quand communiquer
 
-## Communication tactique
+### Avant chaque mène
+- Évaluer le terrain ensemble
+- Discuter de l'approche générale
+- Clarifier qui tire quand
+- Donner le ton (calme, concentré)
 
-### Avant le lancer
+### Pendant la mène
+- Partager les observations (« Le terrain penche à gauche là-bas »)
+- Coordonner la stratégie (« Devrais-je essayer de bloquer ou aller au point ? »)
+- Offrir du soutien (« Prends ton temps, tu l'as »)
+- Ajuster les plans selon l'évolution de la situation
 
-**Informations utiles à partager :**
-- Lecture du terrain (pentes, obstacles)
-- Suggestion de point d'atterrissage
-- Type de lancer recommandé
-- Position des boules adverses
+### Entre les mènes
+- Débriefing rapide (ce qui a marché, ce qui n'a pas marché)
+- Se réinitialiser mentalement
+- Se préparer pour la prochaine mène
+- Rester connectés en équipe
 
-**Comment le dire :**
-- Court et précis
-- Ton neutre, pas directif
-- Laisser la décision finale au lanceur
+### Après le jeu
+- Débriefing complet (quand approprié)
+- Reconnaître les contributions
+- Identifier les apprentissages
+- Maintenir la relation
 
-**Exemple :**
-✅ « Je vois une pente vers la gauche. Peut-être viser légèrement à droite ? »
-❌ « Tu dois absolument viser à droite sinon ça va partir. »
+## Comment communiquer
 
-### Après le lancer
+### Être clair et spécifique
 
-**Si c'est réussi :**
-- Félicitations sincères mais brèves
-- Pas besoin d'en faire trop
+**Vague :** « Essaie de t'approcher »
+**Clair :** « Vise le côté gauche du cochonnet, environ 20cm de distance »
 
-**Si c'est raté :**
-- Encouragement ou silence
-- Jamais de critique immédiate
-- « Pas grave, on continue »
+**Vague :** « Bon essai »
+**Clair :** « Bon poids, juste un peu à gauche de la ligne »
 
-## Communication émotionnelle
+### Être constructif
 
-### Lire vos coéquipiers
+Se concentrer sur les solutions, pas les problèmes :
 
-Observez les signes :
-- Langage corporel (épaules, posture)
-- Ton de voix
-- Niveau d'énergie
-- Comportement inhabituel
+**Axé sur le problème :** « Tu continues à rater à droite »
+**Axé sur la solution :** « Peut-être essaie de viser un peu plus à gauche pour compenser ? »
 
-### Adapter votre approche
+### Être solidaire
 
-| État du coéquipier | Votre réponse |
-|-------------------|---------------|
-| Frustré | Calme, espace, pas de conseils |
-| Nerveux | Rassurant, confiant, positif |
-| Découragé | Encourageant, rappel des forces |
-| Trop confiant | Recentrage subtil sur le processus |
-| Fatigué | Soutien, prise en charge de plus |
+Votre ton compte autant que vos mots :
+- Rester calme, même frustré
+- Utiliser un langage corporel encourageant
+- Reconnaître l'effort, pas seulement les résultats
+- Construire, ne pas détruire
 
-### Gérer vos propres émotions
+### Écouter activement
 
-Avant de communiquer sous émotion :
-1. Respirez
-2. Attendez quelques secondes
-3. Choisissez vos mots consciemment
-4. Parlez du comportement, pas de la personne
+La communication est bidirectionnelle :
+- Donner toute son attention quand les coéquipiers parlent
+- Poser des questions de clarification
+- Reconnaître ce que vous avez entendu
+- Ne pas interrompre ou rejeter
 
-## Situations délicates
+## Défis de communication
 
-### Désaccord tactique
+### Désaccord sur la stratégie
 
-**À faire :**
-- Exprimer votre point de vue calmement
-- Écouter l'autre perspective
-- Trouver un compromis ou accepter la décision
-- Soutenir la décision une fois prise
+**Mauvaise approche :**
+- Insister sur votre façon
+- Devenir défensif
+- Céder avec ressentiment
+- Se disputer pendant le jeu
 
-**À éviter :**
-- Insister si la décision est prise
-- Dire « je te l'avais dit » après
-- Créer des tensions visibles
+**Meilleure approche :**
+1. Partager votre perspective clairement
+2. Écouter la leur complètement
+3. Discuter brièvement des avantages et inconvénients
+4. Décider ensemble (ou différer au leader désigné)
+5. S'engager pleinement dans la décision
+6. Réviser après le jeu
 
-### Coéquipier en difficulté
+### Après l'erreur d'un coéquipier
 
-**À faire :**
-- Montrer de la confiance en lui
-- Réduire la pression (« pas grave si ça rate »)
-- Rappeler ses succès passés
-- Prendre plus de responsabilité si possible
+**Ce dont ils ont besoin :**
+- Reconnaissance rapide
+- Permission de passer à autre chose
+- Confiance que vous leur faites toujours confiance
+- Focus sur le prochain tir
 
-**À éviter :**
-- Montrer de l'inquiétude
-- Donner trop de conseils techniques
-- Le mettre plus sous pression
+**Quoi dire :**
+- « Pas de problème, le prochain »
+- « Dur coup, tu as le prochain »
+- « On est toujours dedans »
+- *Parfois juste un hochement de tête ou une tape suffit*
 
-### Conflit en cours de match
+**Quoi NE PAS dire :**
+- Rien (le silence ressemble à un jugement)
+- « C'est bon » (peut sembler condescendant)
+- Quoi que ce soit sur ce qui s'est mal passé (pas maintenant)
+- Frustration visible (le langage corporel compte)
 
-**À faire :**
-- Mettre de côté pour après le match
-- Se concentrer sur l'objectif commun
-- Rester professionnel
-- Résoudre après, à froid
+### Quand vous faites une erreur
 
-**À éviter :**
-- Régler les comptes pendant le match
-- Laisser le conflit affecter le jeu
-- Impliquer des spectateurs
+**Quoi faire :**
+- Reconnaissance brève (« Ma faute »)
+- Ne pas trop s'excuser
+- Ne pas faire d'excuses
+- Se réinitialiser et se concentrer sur le prochain tir
+- Faire confiance à vos coéquipiers pour vous soutenir
 
-## Langage corporel
+### Tension dans l'équipe
 
-Votre corps communique autant que vos mots :
+Si la tension monte pendant un jeu :
+1. Reconnaître que ça arrive
+2. Prendre une respiration avant de répondre
+3. Se concentrer sur le jeu, pas le conflit
+4. L'aborder correctement après le jeu
+5. Ne pas laisser ça affecter votre jeu
+
+## Communication non verbale
+
+Une grande partie de la communication d'équipe est non verbale :
 
 ### Signaux positifs
-- Contact visuel approprié
-- Posture ouverte
-- Hochements de tête
-- Sourires sincères
-- Proximité physique adaptée
+- Contact visuel
+- Hochement de tête
+- Pouce levé
+- Posture détendue
+- Se déplacer vers les coéquipiers
+- Sourire (quand approprié)
 
-### Signaux à éviter
-- Lever les yeux au ciel
-- Soupirs audibles
+### Signaux négatifs (Éviter ceux-ci)
+- Rouler des yeux
+- Se détourner
 - Bras croisés
-- Dos tourné
-- Expressions de frustration
+- Soupirer
+- Secouer la tête
+- Langage corporel tendu
 
-## Rituels d'équipe
+**Rappelez-vous :** Vos coéquipiers voient tout. Votre langage corporel affecte leur confiance et leur performance.
 
-Créez des rituels de communication :
-- Check avant le match
-- Célébration après les bons points
-- Mot d'encouragement entre les mènes
-- Débriefing après le match
+## Construire des habitudes de communication
+
+### Pratiquer la communication
+
+N'attendez pas la compétition pour communiquer :
+- Pratiquer les discussions stratégiques à l'entraînement
+- Se donner régulièrement des retours
+- Développer votre langage d'équipe
+- Construire le confort avec une conversation honnête
+
+### Développer des signaux d'équipe
+
+Certaines équipes développent une sténographie :
+- Signaux de main pour la stratégie
+- Mots de code pour les situations
+- Phrases rapides avec signification partagée
+
+### Vérifications régulières
+
+En dehors des jeux :
+- Comment travaillons-nous ensemble ?
+- Qu'est-ce qui va bien ?
+- Qu'est-ce qui pourrait être mieux ?
+- Des problèmes à aborder ?
+
+## Le rôle du capitaine
+
+Si votre équipe a un leader désigné :
+
+**Responsabilités du capitaine :**
+- Décision finale quand l'équipe n'est pas d'accord
+- Donner le ton et l'énergie
+- Gérer la dynamique d'équipe
+- Maintenir le focus pendant la pression
+
+**Tous les autres :**
+- Partager votre perspective
+- Soutenir la décision une fois prise
+- Aider à maintenir l'énergie de l'équipe
+- Prendre la responsabilité de votre rôle
 
 ## Point clé
 
-> La meilleure communication en équipe est celle qui renforce la confiance et maintient le focus. Moins c'est souvent plus - mais ce « moins » doit être de qualité.
+> Les grandes équipes se parlent entre elles, pas les unes des autres. Elles communiquent avec honnêteté, respect et un engagement partagé vers le succès.
 
-Pratiquez la communication comme vous pratiquez vos lancers. C'est une compétence qui s'améliore.
+Pratiquez la communication comme vous pratiquez le tir. C'est une compétence qui s'améliore avec l'attention.
 

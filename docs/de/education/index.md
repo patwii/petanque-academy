@@ -1,57 +1,52 @@
-# Ausbildung
+# Education
 
-Willkommen bei der Pétanque Academy Ausbildung. Hier finden Sie alles, was Sie brauchen, um ein kompletter Spieler zu werden - technisch, mental und taktisch.
+Welcome to the Pétanque Academy Education program. This is where elite players learn to master the mental game.
 
-## Lernpfade
+## Why Mental Training Matters
 
-### 🎯 [Die Zone](/de/education/the-zone/)
-Verstehen Sie den Flow-Zustand und wie Sie ihn erreichen können. Lernen Sie, warum Ihre besten Würfe mühelos erscheinen und wie Sie diesen Zustand häufiger reproduzieren können.
+At the elite level, technical skill is just the starting point. Research shows that mental attitude can be as important as physical skill in precision sports like pétanque. The difference between good players and great players is often in their minds.
 
-### 🧘 [Achtsamkeit](/de/education/mindfulness/)
-Entwickeln Sie die Fähigkeit, vollständig präsent zu sein. Achtsamkeit ist die Grundlage für Konzentration, Druckbewältigung und Zugang zur Zone.
+> "Sport is 100% mental. The mind is the driving force behind all physical abilities."
 
-### 🎯 [Zielsetzung](/de/education/goals/)
-Setzen Sie effektive Ziele, die Sie motivieren und leiten. Lernen Sie den Unterschied zwischen Ergebnis-, Leistungs- und Prozesszielen.
+## Our Learning Paths
 
-### 💪 [Mentale Stärke](/de/education/mental-strength/)
-Bauen Sie die psychologische Widerstandsfähigkeit auf, um unter Druck zu bestehen. Beherrschen Sie Ihre Vor-Wurf-Routine und erholen Sie sich von Fehlern.
+### 🎯 [The Zone (Flow State)](/de/education/the-zone/)
+Learn what "the zone" really is and how to access it. Understand the science behind flow states and discover practical techniques to perform at your best when it matters most.
 
-### 🤝 [Teamdynamik](/de/education/team-player/)
-Werden Sie der Teamkollege, den jeder haben möchte. Verstehen Sie die Qualitäten, die großartige Teams ausmachen.
+### 🧘 [Mindfulness](/de/education/mindfulness/)
+Master the art of being present. Learn scientifically-proven techniques to calm your mind, improve focus, and recover quickly from mistakes.
 
-### ♟️ [Taktik](/de/education/tactics/)
-Treffen Sie bessere Entscheidungen auf dem Spielfeld. Lernen Sie, in Wahrscheinlichkeiten zu denken und Risiken zu managen.
+### 📊 [Goal Setting](/de/education/goals/)
+Create a roadmap for your development. Learn the SMART framework adapted for pétanque and build a training plan that actually works.
 
-### 🏋️ [Trainingsmethoden](/de/education/training/)
-Strukturieren Sie Ihr Training für maximale Verbesserung. Qualität vor Quantität.
+### 💪 [Mental Strength](/de/education/mental-strength/)
+Build the mental toughness needed for competition. Learn to handle pressure, overcome anxiety, and develop routines that trigger peak performance.
 
-### 🥗 [Ernährung](/de/education/nutrition/)
-Verstehen Sie, wie Ernährung Ihre Konzentration und Leistung beeinflusst.
+### 🤝 [Team Dynamics](/de/education/team-player/)
+Become the teammate everyone wants to play with. Learn about communication, trust, and how to contribute to a winning team culture.
 
-## Wie Sie dieses Material nutzen
+### ♟️ [Tactics](/de/education/tactics/)
+Think strategically about every situation. Learn probability-based decision making and when to take risks.
 
-### Für Anfänger
-Beginnen Sie mit **Zielsetzung**, um Ihre Richtung festzulegen, dann gehen Sie zu **Trainingsmethoden** für die Struktur. Fügen Sie **Achtsamkeit** hinzu, wenn Sie bereit sind.
+### 🏋️ [Training Methods](/de/education/training/)
+Train smarter, not just harder. Learn how to structure your practice for maximum improvement.
 
-### Für Fortgeschrittene
-Konzentrieren Sie sich auf **Die Zone** und **Mentale Stärke**, um Ihre Leistung zu steigern. Integrieren Sie **Taktik** für bessere Entscheidungsfindung.
+### 🥗 [Nutrition](/de/education/nutrition/)
+Fuel your brain for precision performance. Learn how to maintain stable energy and focus throughout competition.
 
-### Für Wettkampfspieler
-Alle Abschnitte sind relevant. Achten Sie besonders auf **Mentale Stärke** und **Teamdynamik** für Wettkampfsituationen.
+## The Journey from Technique to Flow
 
-## Kernprinzipien
+As you develop as a player, your training ratio inverts - mental training becomes more important, not less:
 
-Während Sie dieses Material durcharbeiten, werden Sie wiederkehrende Themen bemerken:
+| Level | Ratio (Tech:Mental) | Primary Objective |
+|-------|---------------------|-------------------|
+| **Beginner** | 90 : 10 | Build the Machine |
+| **Intermediate** | 70 : 30 | Stabilize the Skill |
+| **Advanced** | 50 : 50 | Trust the Machine |
+| **Expert** | 20 : 80 | Freedom of Performance |
 
-1. **Präsenz** - Im Moment sein, nicht in der Vergangenheit oder Zukunft
-2. **Prozess über Ergebnis** - Konzentrieren Sie sich auf das, was Sie kontrollieren können
-3. **Absichtliches Üben** - Qualität und Struktur vor Quantität
-4. **Selbstbewusstsein** - Kennen Sie Ihre Stärken, Schwächen und Muster
-5. **Kontinuierliche Verbesserung** - Kleine, konsequente Fortschritte
+You cannot train a Beginner like an Expert (they lack the neural pathways), and you cannot train an Expert like a Beginner (high technical volume causes over-thinking).
 
-## Wichtige Erkenntnis
+## Start Your Journey
 
-> Exzellenz im Pétanque ist nicht nur technisch - sie ist mental, taktisch und menschlich. Entwickeln Sie alle Dimensionen, um Ihr volles Potenzial zu erreichen.
-
-Wählen Sie einen Lernpfad und beginnen Sie. Konsequenz schlägt Intensität.
-
+We recommend starting with [The Zone](/de/education/the-zone/) to understand the foundation of elite performance, then exploring [Mindfulness](/de/education/mindfulness/) for practical techniques you can use immediately.

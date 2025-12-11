@@ -1,124 +1,173 @@
-# Méthodes d'entraînement
+# Training Methods
 
-S'entraîner intelligemment est aussi important que s'entraîner dur. Cette section vous aide à structurer votre pratique pour une amélioration maximale.
+When your technique is solid, what do you practice? This is where many players plateau - they keep drilling technique when the real growth lies elsewhere.
 
-## Principes d'entraînement efficace
+## Beyond Technical Repetition
 
-### 1. Intention
-Chaque session doit avoir un objectif clair. « Je vais m'entraîner » n'est pas suffisant. « Je vais travailler ma précision au tir à 8 mètres » est mieux.
+Most players train by repeating throws. That's important for beginners, but advanced players need more:
 
-### 2. Mesure
-Ce qui se mesure s'améliore. Suivez vos résultats pour voir les progrès et identifier les faiblesses.
+| Training Type | What It Develops | When to Use |
+|--------------|------------------|-------------|
+| Technical drills | Mechanics, form | Learning new skills, fixing issues |
+| Random practice | Adaptability, decision-making | Competition preparation |
+| Pressure simulation | Mental toughness | Before important events |
+| Mental training | Focus, recovery, confidence | Ongoing, often neglected |
 
-### 3. Progression
-Augmentez graduellement la difficulté. Restez dans la zone de défi optimal - ni trop facile, ni trop difficile.
+## The Training Pyramid
 
-### 4. Variété
-Alternez les types d'exercices pour développer une compétence complète et éviter l'ennui.
+```
+         Competition
+            ↑
+      Match Simulation
+            ↑
+    Pressure Practice
+            ↑
+   Random/Varied Practice
+            ↑
+  Blocked Technical Practice
+```
 
-### 5. Récupération
-Le repos fait partie de l'entraînement. Votre corps et votre esprit ont besoin de temps pour intégrer les apprentissages.
+Most players spend too much time at the bottom. Elite players work at all levels.
 
-## Types d'entraînement
+## Blocked vs. Random Practice
 
-### Entraînement technique
-Focus sur la mécanique et la forme.
-- Répétitions du même geste
-- Attention aux détails
-- Feedback immédiat
-- Corrections conscientes
+### Blocked Practice
+Repeat the same throw many times:
+- 20 points from 7 meters
+- 20 shots at the same target
+- Same distance, same throw
 
-### Entraînement de compétition
-Simulation de conditions de match.
-- Exercices avec enjeux
-- Situations variées
-- Pression simulée
-- Décisions tactiques
+**Good for:** Initial learning, building confidence, warming up
+**Limitation:** Doesn't transfer well to competition
 
-### Entraînement mental
-Développement des compétences psychologiques.
-- Pleine conscience
-- Visualisation
-- Routines
-- Gestion de la pression
+### Random Practice
+Vary everything:
+- Different distances each throw
+- Alternate pointing and shooting
+- Change targets constantly
 
-### Entraînement physique
-Maintien de la condition physique.
-- Mobilité et souplesse
-- Équilibre et stabilité
-- Endurance pour les longs tournois
-- Prévention des blessures
+**Good for:** Competition preparation, building adaptability
+**Feels:** Harder, more mistakes, less "productive"
+**Reality:** Better long-term retention and transfer
 
-## Structure d'une session
+### The Research
 
-### Échauffement (10-15 min)
-- Mobilité articulaire
-- Quelques lancers légers
-- Transition mentale vers l'entraînement
+Studies consistently show:
+- Blocked practice feels better (quick improvement visible)
+- Random practice produces better competition performance
+- The "struggle" of random practice is where learning happens
 
-### Corps de session (30-60 min)
-- Exercices principaux
-- Focus sur l'objectif du jour
-- Mesure des résultats
+## Pressure Simulation
 
-### Retour au calme (5-10 min)
-- Quelques lancers détendus
-- Étirements si nécessaire
-- Réflexion sur la session
+You can't handle competition pressure if you never experience it in training.
 
-## Planification hebdomadaire
+### Creating Practice Pressure
 
-### Exemple de semaine équilibrée
+**Consequences:**
+- Push-ups for misses
+- Loser buys coffee
+- Points count toward something
 
-| Jour | Type | Durée | Focus |
-|------|------|-------|-------|
-| Lundi | Technique | 60 min | Pointage |
-| Mardi | Mental | 30 min | Pleine conscience + visualisation |
-| Mercredi | Technique | 60 min | Tir |
-| Jeudi | Repos | - | Récupération |
-| Vendredi | Compétition | 45 min | Simulation de match |
-| Samedi | Match | Variable | Application |
-| Dimanche | Réflexion | 20 min | Analyse + planification |
+**Scenarios:**
+- "Must make" situations
+- Down 12-10, need to score
+- Last boule of the game
 
-## Pratique délibérée
+**Audience:**
+- Practice with people watching
+- Record yourself on video
+- Announce what you're trying to do
 
-La pratique délibérée est la clé de l'amélioration rapide :
+**Fatigue:**
+- Practice when tired
+- End of long session
+- After physical exercise
 
-### Caractéristiques
-- Objectif spécifique et clair
-- Concentration totale
-- Feedback immédiat
-- Hors de la zone de confort
-- Répétition avec ajustement
+### The Shooting Ladder
 
-### Exemple
-❌ **Pratique ordinaire :** Lancer 50 boules sans but précis
+A classic pressure drill:
+1. Start at 6 meters
+2. Hit the target = move back one meter
+3. Miss = move forward one meter (or start over)
+4. Goal: Reach 10 meters
 
-✅ **Pratique délibérée :** 
-- Objectif : Améliorer la précision à 8m
-- 10 séries de 5 lancers
-- Noter chaque résultat
-- Analyser les erreurs
-- Ajuster entre les séries
+This creates natural pressure as you progress.
 
-## Éviter les pièges
+## Mental Training Sessions
 
-### Le piège du confort
-Pratiquer ce qu'on fait déjà bien est agréable mais peu productif. Travaillez vos faiblesses.
+Dedicate time specifically to mental skills:
 
-### Le piège de la quantité
-Plus n'est pas toujours mieux. La qualité de l'attention compte plus que le nombre de lancers.
+### Visualization Session (15-20 min)
+1. Find a quiet place
+2. Close your eyes
+3. Visualize yourself at a competition
+4. See successful throws in detail
+5. Feel the confidence and flow
+6. Practice handling pressure moments
 
-### Le piège de l'isolement
-S'entraîner seul est bien, mais le feedback externe est précieux. Filmez-vous ou entraînez-vous avec d'autres occasionnellement.
+### Pre-Shot Routine Practice
+- Practice your routine without throwing
+- Focus on the mental transitions
+- Build the habit of consistent preparation
 
-## Dans cette section
+### Recovery Practice
+- Intentionally make mistakes in practice
+- Practice your SOAS response
+- Build the habit of quick mental reset
 
-- **[Exercices d'entraînement](/fr/education/training/drills)** - Exercices spécifiques pour développer vos compétences
+## Structuring Your Training Week
 
-## Point clé
+### Example: Serious Amateur (6 hours/week)
 
-> L'entraînement efficace n'est pas une question de temps passé, mais de qualité d'attention et de structure. Une heure de pratique délibérée vaut mieux que trois heures de lancers sans but.
+| Day | Duration | Focus |
+|-----|----------|-------|
+| Monday | 1.5 hr | Technical: Pointing drills |
+| Wednesday | 1.5 hr | Technical: Shooting drills |
+| Friday | 1 hr | Mental: Visualization, routine practice |
+| Saturday | 2 hr | Match play with pressure elements |
 
-Planifiez votre entraînement. Mesurez vos progrès. Ajustez constamment.
+### Example: Competitive Player (10 hours/week)
+
+| Day | Duration | Focus |
+|-----|----------|-------|
+| Monday | 2 hr | Technical: Pointing (blocked → random) |
+| Tuesday | 1 hr | Mental training + visualization |
+| Wednesday | 2 hr | Technical: Shooting (blocked → random) |
+| Thursday | 1 hr | Video review + mental work |
+| Friday | 2 hr | Pressure simulation, game scenarios |
+| Saturday | 2 hr | Competition or match play |
+
+## Training Principles
+
+### 1. Quality Over Quantity
+- 30 focused minutes beats 2 hours of mindless repetition
+- Stop when focus drops
+- Better to end early than practice bad habits
+
+### 2. Deliberate Practice
+- Have a specific goal for each session
+- Work at the edge of your ability
+- Get feedback (video, partner, results)
+- Adjust based on what you learn
+
+### 3. Recovery Matters
+- Rest days are part of training
+- Sleep affects performance significantly
+- Mental fatigue is real - respect it
+
+### 4. Track Everything
+- Keep a training log
+- Note what works and what doesn't
+- Review regularly
+- Adjust your plan based on data
+
+## In This Section
+
+- **[Training Drills](/fr/education/training/drills)** - Specific exercises for different skills
+
+## Key Takeaway
+
+> How you train determines how you perform. Train like you want to play.
+
+Mix your training. Include mental work. Create pressure. Track your progress.
 

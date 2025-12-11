@@ -1,82 +1,167 @@
-# Lagdynamik
+# Att vara en fantastisk lagspelare
 
-Pétanque i dubbel eller trippel är inte bara en individuell sport som spelas tillsammans. Det är en riktig lagsport där dynamiken mellan spelarna kan göra skillnaden mellan att vinna och förlora.
+Pétanque spelas ofta i lag - dubbel (doublettes) eller trippel (triplettes). Individuell skicklighet spelar roll, men lagdynamik kan göra eller bryta dina resultat. De bästa lagen är inte alltid de mest skickliga - de är de som arbetar bäst tillsammans.
 
-## De tre egenskaperna hos den ideala lagkamraten
+## Vad gör en fantastisk lagkamrat?
 
-Forskning om högpresterande lag identifierar tre väsentliga egenskaper:
+Forskning och erfarenhet pekar på tre nyckelkvaliteter:
 
 ### 1. Ödmjuk
-- Erkänner sina misstag utan ursäkter
-- Firar andras framgångar
-- Söker inte vara centrum för uppmärksamheten
-- Accepterar konstruktiv kritik
-- Sätter laget före egot
+- Prioriterar lagets framgång över personlig ära
+- Erkänner andras bidrag
+- Erkänner misstag utan ursäkter
+- Öppen för feedback och lärande
+- Behöver inte vara stjärnan
 
 ### 2. Hungrig
-- Alltid redo att förbättras
-- Arbetar hårt även när ingen tittar
-- Söker ständigt att utvecklas
-- Nöjer sig inte med minimum
-- Bidrar med positiv energi
+- Självmotiverad och driven
+- Gör arbetet utan att bli ombedd
+- Söker alltid förbättring
+- Ger energi till laget
+- Vilar inte på talang
 
-### 3. Smart (emotionellt)
-- Läser lagkamraternas känslor
-- Vet när man ska prata och när man ska vara tyst
-- Anpassar sin kommunikation till situationen
+### 3. Smart (Emotionellt)
+- Läser situationer och människor väl
+- Vet när man ska tala och när man ska lyssna
 - Hanterar sina egna känslor
-- Skapar en positiv atmosfär
+- Stödjer lagkamrater på lämpligt sätt
+- Hanterar konflikt konstruktivt
 
-## Balansen mellan de tre egenskaperna
+## Grunderna för lagframgång
 
-| Profil | Beskrivning | Påverkan på laget |
-|--------|-------------|-------------------|
-| Ödmjuk + Hungrig - Smart | Hårt arbetande men socialt klumpig | Kan skapa oavsiktliga spänningar |
-| Ödmjuk + Smart - Hungrig | Trevlig men lite engagerad | Saknar driv, drar ner laget |
-| Hungrig + Smart - Ödmjuk | Skicklig politiker | Manipulativ, toxisk på lång sikt |
-| **Alla tre** | Ideal lagkamrat | Lyfter hela laget |
+### Delade mål och vision
 
-## Din roll i laget
+Starka lag har:
+- Tydliga, överenskomna mål
+- Individuella mål anpassade till lagmål
+- Delad förståelse för hur framgång ser ut
+- Engagemang för det kollektiva uppdraget
+
+**Frågor att diskutera med ditt lag:**
+- Vad försöker vi uppnå tillsammans?
+- Hur ser framgång ut för oss?
+- Hur stödjer våra individuella mål laget?
+
+### Effektiv kommunikation
+
+Kommunikation är livsnerven i lagprestationer.
+
+**Bra lagkommunikation:**
+- Öppen och ärlig
+- Respektfull, även i oenighet
+- Tydlig och specifik
+- Tvåvägs (tala OCH lyssna)
+- Aktuell (rätt information vid rätt tidpunkt)
+
+**Under matcher:**
+- Diskutera strategi före varje omgång
+- Dela observationer om terräng, motståndare
+- Koordinera vem som kastar när
+- Stöd varandra efter kast (bra eller dåliga)
+
+### Förtroende och respekt
+
+Utan förtroende faller lag isär under press.
+
+**Bygga förtroende:**
+- Var pålitlig (gör vad du säger)
+- Var kompetent (gör ditt jobb väl)
+- Var ärlig (även när det är svårt)
+- Visa sårbarhet (erkänn svårigheter)
+- Stöd andra konsekvent
+
+**Visa respekt:**
+- Värdera varje persons bidrag
+- Lyssna på olika perspektiv
+- Erkänn ansträngning, inte bara resultat
+- Behandla allas roll som viktig
+
+### Tydliga roller
+
+Alla bör förstå:
+- Deras primära ansvar
+- Hur de bidrar till laget
+- Vad andra räknar med dem för
+- När man ska kliva fram och när man ska kliva tillbaka
+
+**I trippel:**
+| Roll | Primärt fokus | Nyckelkvaliteter |
+|------|--------------|---------------|
+| Pekare | Placera kulor nära cochonnet | Precision, konsistens |
+| Mittfält | Anpassa till situation | Mångsidighet, läsa spelet |
+| Skytt | Ta bort motståndarkulor | Noggrannhet under press |
+
+Roller kan vara flexibla, men tydlighet hjälper.
+
+## Lagdynamik under tävling
 
 ### Före matchen
-- Kom förberedd och i tid
-- Bidra till gemensam uppvärmning
-- Delta i taktisk diskussion
-- Bidra med positiv energi
+- Ankomma tillsammans, värma upp tillsammans
+- Diskutera allmän strategi
+- Sätt tonen (positiv, fokuserad)
+- Kolla hur alla mår
 
 ### Under matchen
-- Stöd dina lagkamrater efter varje kast
-- Kommunicera tydligt och positivt
-- Förbli engagerad även när du inte spelar
-- Hantera dina känslor så de inte påverkar andra
+- Kommunicera mellan omgångar
+- Håll dig positiv oavsett poängställning
+- Stöd varandra efter misstag
+- Fira framgångar tillsammans (kort)
+- Håll fokus på process, inte utfall
+
+### Efter misstag
+Vad man INTE ska göra:
+- Visa frustration synligt
+- Kritisera eller skylla
+- Dra sig tillbaka eller bli tyst
+- Dröja kvar vid vad som hände
+
+Vad man ska göra:
+- Snabbt erkännande ("inget problem")
+- Flytta fokus till nästa kast
+- Upprätthåll positivt kroppsspråk
+- Lita på att din lagkamrat återhämtar sig
 
 ### Efter matchen
-- Analysera tillsammans, utan skuld
-- Erkänn allas bidrag
-- Lär av misstag kollektivt
-- Behåll sammanhållningen oavsett resultat
+- Debrief tillsammans (vad fungerade, vad gjorde inte)
+- Erkänn individuella bidrag
+- Diskutera förbättringar till nästa gång
+- Upprätthåll relationer oavsett resultat
 
-## Hantera svåra stunder
+## Kommunikationsmönster
 
-### När en lagkamrat missar
-- **Gör inte:** Sucka, himla med ögonen, kritisera
-- **Gör:** Uppmuntra, relativisera, gå vidare till nästa
+### Konstruktiv feedback
+**Dålig:** "Du fortsätter missa de kasten"
+**Bättre:** "Jag märkte att kasten går åt vänster - vill du prova att justera din hållning?"
 
-### När du missar
-- **Gör inte:** Ursäkta dig överdrivet, kollapsa
-- **Gör:** Erkänn kort, centrera dig, prestera på nästa
+### Stödjande respons på misstag
+**Dålig:** *Tystnad eller synlig frustration*
+**Bättre:** "Svår. Du har nästa."
 
-### När laget har det svårt
-- **Gör inte:** Skylla, bråka, ge upp mentalt
-- **Gör:** Förbli positiv, fokusera på nästa poäng, kommunicera
+### Strategisk diskussion
+**Dålig:** "Bara skjut det"
+**Bättre:** "Vad tänker du - peka för att blockera eller försöka skjuta? Jag ser för- och nackdelar med båda."
 
-## I denna sektion
+## Bygga lagkultur
 
-- **[Kommunikation](/sv/education/team-player/communication)** - Hur man kommunicerar effektivt i lag
+Fantastiska lag utvecklar delad:
+- **Värderingar:** Vad vi står för
+- **Normer:** Hur vi beter oss
+- **Språk:** Hur vi kommunicerar
+- **Ritualer:** Vad vi gör tillsammans
 
-## Nyckelinsikt
+**Exempel:**
+- Skaka alltid hand före och efter
+- Specifika uppmuntransfraser
+- Före-match rutin tillsammans
+- Efter-match måltid eller dryck
 
-> Ett lag av genomsnittliga spelare som fungerar bra tillsammans slår ofta ett lag av stjärnor som inte kommer överens. Lagkemi är en prestationsmultiplikator.
+## I detta avsnitt
 
-Arbeta på dig själv först. Bli den lagkamrat du skulle vilja ha.
+- **[Lagkommunikation](/sv/education/team-player/communication)** - Detaljerad guide för att kommunicera effektivt
+
+## Nyckelpunkt
+
+> Ditt lag är bara så starkt som dess svagaste relation, inte dess svagaste spelare.
+
+Investera i dina lagkamrater. Bygg förtroende. Kommunicera väl. Vinn tillsammans.
 

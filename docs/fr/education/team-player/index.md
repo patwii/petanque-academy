@@ -1,101 +1,167 @@
-# Dynamique d'équipe
+# Être un excellent coéquipier
 
-La pétanque en doublette ou triplette n'est pas seulement un sport individuel joué ensemble. C'est un vrai sport d'équipe où la dynamique entre les joueurs peut faire la différence entre gagner et perdre.
+La pétanque se joue souvent en équipe - doublettes ou triplettes. La compétence individuelle compte, mais la dynamique d'équipe peut faire ou défaire vos résultats. Les meilleures équipes ne sont pas toujours les plus habiles - ce sont celles qui travaillent le mieux ensemble.
 
-## Les trois qualités du coéquipier idéal
+## Qu'est-ce qui fait un excellent coéquipier ?
 
-La recherche sur les équipes performantes identifie trois qualités essentielles :
+La recherche et l'expérience pointent vers trois qualités clés :
 
 ### 1. Humble
-- Reconnaît ses erreurs sans excuses
-- Célèbre les succès des autres
-- Ne cherche pas à être le centre de l'attention
-- Accepte les critiques constructives
-- Met l'équipe avant l'ego
+- Priorise le succès de l'équipe sur la gloire personnelle
+- Reconnaît les contributions des autres
+- Admet les erreurs sans excuses
+- Ouvert aux retours et à l'apprentissage
+- N'a pas besoin d'être la star
 
-### 2. Affamé (Hungry)
-- Toujours prêt à s'améliorer
-- Travaille dur même quand personne ne regarde
-- Cherche constamment à progresser
-- Ne se satisfait pas du minimum
-- Apporte de l'énergie positive
+### 2. Affamé
+- Automotivé et déterminé
+- Fait le travail sans qu'on le lui demande
+- Cherche toujours à s'améliorer
+- Apporte de l'énergie à l'équipe
+- Ne se repose pas sur son talent
 
-### 3. Intelligent (émotionnellement)
-- Lit les émotions des coéquipiers
-- Sait quand parler et quand se taire
-- Adapte sa communication à la situation
+### 3. Intelligent (Émotionnellement)
+- Lit bien les situations et les gens
+- Sait quand parler et quand écouter
 - Gère ses propres émotions
-- Crée une atmosphère positive
+- Soutient les coéquipiers de manière appropriée
+- Gère les conflits de manière constructive
 
-## L'équilibre des trois qualités
+## Les fondements du succès d'équipe
 
-| Profil | Description | Impact sur l'équipe |
-|--------|-------------|---------------------|
-| Humble + Affamé - Intelligent | Travailleur mais maladroit socialement | Peut créer des tensions involontaires |
-| Humble + Intelligent - Affamé | Agréable mais peu engagé | Manque de drive, tire l'équipe vers le bas |
-| Affamé + Intelligent - Humble | Politicien habile | Manipulateur, toxique à long terme |
-| **Les trois** | Coéquipier idéal | Élève toute l'équipe |
+### Objectifs et vision partagés
 
-## Votre rôle dans l'équipe
+Les équipes fortes ont :
+- Des objectifs clairs et convenus
+- Des objectifs individuels alignés avec les objectifs d'équipe
+- Une compréhension partagée de ce à quoi ressemble le succès
+- Un engagement envers la mission collective
+
+**Questions à discuter avec votre équipe :**
+- Qu'essayons-nous d'accomplir ensemble ?
+- À quoi ressemble le succès pour nous ?
+- Comment nos objectifs individuels soutiennent-ils l'équipe ?
+
+### Communication efficace
+
+La communication est l'élément vital de la performance d'équipe.
+
+**Bonne communication d'équipe :**
+- Ouverte et honnête
+- Respectueuse, même en désaccord
+- Claire et spécifique
+- Bidirectionnelle (parler ET écouter)
+- Opportune (bonne information au bon moment)
+
+**Pendant les parties :**
+- Discuter de la stratégie avant chaque mène
+- Partager les observations sur le terrain, les adversaires
+- Coordonner qui lance quand
+- Se soutenir mutuellement après les lancers (bons ou mauvais)
+
+### Confiance et respect
+
+Sans confiance, les équipes s'effondrent sous la pression.
+
+**Construire la confiance :**
+- Être fiable (faire ce que vous dites)
+- Être compétent (bien faire votre travail)
+- Être honnête (même quand c'est difficile)
+- Montrer de la vulnérabilité (admettre les difficultés)
+- Soutenir les autres de manière cohérente
+
+**Montrer du respect :**
+- Valoriser la contribution de chaque personne
+- Écouter différentes perspectives
+- Reconnaître l'effort, pas seulement les résultats
+- Traiter le rôle de chacun comme important
+
+### Rôles clairs
+
+Chacun devrait comprendre :
+- Ses responsabilités principales
+- Comment il contribue à l'équipe
+- Ce sur quoi les autres comptent sur lui
+- Quand intervenir et quand se retirer
+
+**En triplettes :**
+| Rôle | Focus principal | Qualités clés |
+|------|--------------|---------------|
+| Pointeur | Placer les boules près du cochonnet | Précision, cohérence |
+| Milieu | S'adapter à la situation | Polyvalence, lire le jeu |
+| Tireur | Retirer les boules adverses | Précision sous pression |
+
+Les rôles peuvent être flexibles, mais la clarté aide.
+
+## Dynamique d'équipe pendant la compétition
 
 ### Avant le match
-- Arrivez préparé et à l'heure
-- Contribuez à l'échauffement collectif
-- Participez à la discussion tactique
-- Apportez une énergie positive
+- Arriver ensemble, s'échauffer ensemble
+- Discuter de la stratégie générale
+- Donner le ton (positif, concentré)
+- Vérifier comment chacun se sent
 
 ### Pendant le match
-- Soutenez vos coéquipiers après chaque lancer
-- Communiquez clairement et positivement
-- Restez engagé même quand vous ne jouez pas
-- Gérez vos émotions pour ne pas affecter les autres
+- Communiquer entre les mènes
+- Rester positif quel que soit le score
+- Se soutenir mutuellement après les erreurs
+- Célébrer les succès ensemble (brièvement)
+- Rester concentré sur le processus, pas sur le résultat
+
+### Après les erreurs
+Ce qu'il NE faut PAS faire :
+- Montrer de la frustration visiblement
+- Critiquer ou blâmer
+- Se retirer ou rester silencieux
+- S'attarder sur ce qui s'est passé
+
+Ce qu'il faut faire :
+- Reconnaissance rapide ("pas de problème")
+- Déplacer le focus sur le prochain lancer
+- Maintenir un langage corporel positif
+- Faire confiance à votre coéquipier pour se rétablir
 
 ### Après le match
-- Analysez ensemble, sans blâme
-- Reconnaissez les contributions de chacun
-- Apprenez des erreurs collectivement
-- Maintenez la cohésion quelle que soit le résultat
+- Débriefing ensemble (ce qui a fonctionné, ce qui n'a pas fonctionné)
+- Reconnaître les contributions individuelles
+- Discuter des améliorations pour la prochaine fois
+- Maintenir les relations quel que soit le résultat
 
-## Gérer les moments difficiles
+## Modèles de communication
 
-### Quand un coéquipier rate
-- **Ne faites pas :** Soupirer, lever les yeux, critiquer
-- **Faites :** Encourager, relativiser, passer au suivant
+### Retour constructif
+**Mauvais :** "Tu continues à rater ces tirs"
+**Meilleur :** "J'ai remarqué que les tirs vont à gauche - veux-tu essayer d'ajuster ta position ?"
 
-### Quand vous ratez
-- **Ne faites pas :** Vous excuser excessivement, vous effondrer
-- **Faites :** Reconnaître brièvement, vous recentrer, performer au prochain
+### Réponse de soutien aux erreurs
+**Mauvais :** *Silence ou frustration visible*
+**Meilleur :** "Difficile. Tu as le prochain."
 
-### Quand l'équipe est en difficulté
-- **Ne faites pas :** Blâmer, se disputer, abandonner mentalement
-- **Faites :** Rester positif, se concentrer sur le prochain point, communiquer
+### Discussion stratégique
+**Mauvais :** "Tire simplement"
+**Meilleur :** "Qu'en penses-tu - pointer pour bloquer ou essayer de tirer ? Je vois des avantages et des inconvénients des deux côtés."
 
-## Construire la confiance
+## Construire la culture d'équipe
 
-La confiance en équipe se construit par :
+Les grandes équipes développent :
+- **Valeurs :** Ce que nous représentons
+- **Normes :** Comment nous nous comportons
+- **Langage :** Comment nous communiquons
+- **Rituels :** Ce que nous faisons ensemble
 
-### Actions cohérentes
-- Faire ce que vous dites
-- Être fiable dans la préparation
-- Performer de manière constante
-
-### Communication ouverte
-- Partager vos pensées tactiques
-- Exprimer vos besoins
-- Écouter activement les autres
-
-### Soutien mutuel
-- Encourager dans les moments difficiles
-- Célébrer les succès ensemble
-- Défendre vos coéquipiers
+**Exemples :**
+- Toujours se serrer la main avant et après
+- Phrases d'encouragement spécifiques
+- Routine pré-match ensemble
+- Repas ou boisson après le match
 
 ## Dans cette section
 
-- **[Communication](/fr/education/team-player/communication)** - Comment communiquer efficacement en équipe
+- **[Communication d'équipe](/fr/education/team-player/communication)** - Guide détaillé pour communiquer efficacement
 
 ## Point clé
 
-> Une équipe de joueurs moyens qui fonctionnent bien ensemble battra souvent une équipe de stars qui ne s'entendent pas. La chimie d'équipe est un multiplicateur de performance.
+> Votre équipe n'est aussi forte que sa relation la plus faible, pas son joueur le plus faible.
 
-Travaillez sur vous-même d'abord. Devenez le coéquipier que vous voudriez avoir.
+Investissez dans vos coéquipiers. Construisez la confiance. Communiquez bien. Gagnez ensemble.
 

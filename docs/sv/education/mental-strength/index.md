@@ -1,82 +1,120 @@
 # Mental styrka
 
-Mental styrka är det som gör att du kan prestera under press, återhämta dig efter misstag och behålla fokus när det gäller. Det är en färdighet som utvecklas - inte en fast karaktärsegenskap.
+Mental styrka är det som skiljer spelare som presterar bra i träning från de som presterar bra när det räknas. Det är förmågan att hantera press, återhämta sig från motgångar och bibehålla fokus under långa tävlingar.
 
 ## Vad är mental styrka?
 
-Mental styrka omfattar:
-- **Resiliens** - Studsa tillbaka efter motgångar
-- **Fokus** - Behålla koncentrationen under press
-- **Självförtroende** - Tro på dina förmågor
-- **Känslokontroll** - Hantera toppar och dalar
-- **Engagemang** - Förbli beslutsam inför svårigheter
+Mental styrka inkluderar:
+- **Självförtroende:** Att tro på din förmåga
+- **Fokus:** Att bibehålla uppmärksamhet på det som räknas
+- **Motståndskraft:** Att återhämta sig från misstag
+- **Lugn:** Att förbli lugn under press
+- **Motivation:** Att upprätthålla ansträngning över tid
 
-## Varför det är avgörande i pétanque
+Dessa är inte fasta egenskaper - de är färdigheter du kan utveckla.
 
-Pétanque är en precisionssport med gott om tid att tänka. Den tiden kan vara:
-- **Din allierade** - För att planera, visualisera, förbereda
-- **Din fiende** - För att tvivla, oroa dig, överanalysera
+## De mentala kraven i pétanque
 
-Mental styrka avgör vilken det blir.
+Pétanque har unika mentala utmaningar:
 
-### Situationer som testar mental styrka:
-- Avgörande skott vid 12-12
-- Serie av dåliga kast
-- Motståndare som presterar exceptionellt
-- Svåra förhållanden (vind, bana)
-- Trötthet i slutet av turnering
-- Höga förväntningar (final, uttagning)
+| Utmaning | Varför det är svårt |
+|-----------|--------------|
+| Tid mellan kast | Möjlighet för negativa tankar |
+| Synliga resultat | Alla ser dina misstag |
+| Lagformat | Press att inte göra besvikna partners |
+| Långa tävlingar | Mental trötthet under många timmar |
+| Jämna matcher | Höga insatser på enskilda kast |
+| Momentum-svängningar | Emotionell berg-och-dalbana |
 
-## Pelarna i mental styrka
+## Bygga mental styrka
 
-### 1. Förberedelse
-Självförtroende kommer från förberedelse. När du vet att du har gjort jobbet minskar pressen.
+### 1. Utveckla självförtroende
 
-### 2. Rutiner
-Konsekventa rutiner skapar stabilitet i osäkerhet. Din pre-shot rutin är ditt ankare.
+Självförtroende kommer från:
+- **Förberedelse:** Att veta att du har gjort arbetet
+- **Tidigare framgång:** Att minnas tillfällen när du presterade bra
+- **Positivt självprat:** Hur du pratar till dig själv
+- **Kroppsspråk:** Att stå upprätt, röra dig med avsikt
 
-### 3. Perspektiv
-Se varje kast som en möjlighet, inte ett hot. Varje misstag som lärande, inte misslyckande.
+**Självförtroendebyggare:**
+- För en framgångsdagbok
+- Visualisera framgångsrika prestationer
+- Förbered dig noggrant för tävlingar
+- Använd självsäkert kroppsspråk (det påverkar ditt sinne)
 
-### 4. Närvaro
-Stanna i nuet. Det förra kastet är förbi. Nästa finns inte än. Bara detta räknas.
+### 2. Bemästra ditt självprat
 
-### 5. Acceptans
-Acceptera det du inte kan kontrollera (resultat, motståndare, förhållanden) och fokusera på det du kan kontrollera (din förberedelse, din attityd, din ansträngning).
+Rösten i ditt huvud spelar enorm roll.
 
-## Kontrollcirkeln
+**Destruktivt självprat:**
+- "Jag missar alltid dessa"
+- "Jag kommer att misslyckas"
+- "Mina lagkamrater räknar med mig" (press)
+- "Det var fruktansvärt"
+
+**Konstruktivt självprat:**
+- "Jag har gjort detta kast förut"
+- "Lita på min träning"
+- "Ett kast i taget"
+- "Nästa kast, ny start"
+
+**Ändra ditt självprat:**
+1. Lägg märke till vad du säger till dig själv
+2. Utmana negativa påståenden
+3. Ersätt med realistiska, hjälpsamma alternativ
+4. Öva tills det blir automatiskt
+
+### 3. Bygga motståndskraft
+
+Motståndskraft är förmågan att återhämta sig från motgångar.
+
+**Det motståndskraftiga tänkesättet:**
+- Misstag är information, inte misslyckande
+- Ett dåligt kast definierar dig inte
+- Motgångar är tillfälliga
+- Du kan alltid reagera bra på det som händer
+
+**Bygga motståndskraft:**
+- Öva på att återhämta dig från misstag i träning
+- Använd SOAS-metoden (Stoppa, Observera, Acceptera, Släpp)
+- Fokusera på respons, inte händelsen
+- Utveckla ett kort minne för dåliga kast
+
+### 4. Hantera din energi
+
+Mental styrka kräver energihantering:
+
+**Fysisk energi:**
+- Sov gott före tävlingar
+- Ät ordentligt (stabilt blodsocker)
+- Håll dig hydrerad
+- Rör dig mellan matcher (sitt inte för länge)
+
+**Mental energi:**
+- Ta pauser när det är möjligt
+- Överanalysera inte mellan kast
+- Spara intensivt fokus till när du behöver det
+- Ha återhämtningsrutiner
+
+## Självförtroende-kompetens-loopen
 
 ```
-┌─────────────────────────────────────┐
-│     Det du INTE kontrollerar        │
-│  • Slutresultat                     │
-│  • Motståndarnas prestation         │
-│  • Väder/banförhållanden            │
-│  • Domarbeslut                      │
-│  • Tur (studsar, etc.)              │
-│                                     │
-│  ┌─────────────────────────────┐    │
-│  │  Det du KONTROLLERAR        │    │
-│  │  • Din förberedelse         │    │
-│  │  • Din attityd              │    │
-│  │  • Din rutin                │    │
-│  │  • Din ansträngning         │    │
-│  │  • Din respons på           │    │
-│  │    händelser                │    │
-│  └─────────────────────────────┘    │
-└─────────────────────────────────────┘
+Bättre förberedelse → Mer självförtroende → Bättre prestation → Mer självförtroende → ...
 ```
 
-**Fokusera din energi på den inre cirkeln.**
+Denna loop fungerar åt båda hållen. Bygg den genom:
+1. Kvalitetsträning (bygger kompetens)
+2. Spårning av framsteg (bygger självförtroende)
+3. Framgångsrika prestationer (förstärker båda)
 
-## I denna sektion
+## I detta avsnitt
 
-- **[Hantera press](/sv/education/mental-strength/handling-pressure)** - Tekniker för kritiska ögonblick
-- **[Pre-shot rutin](/sv/education/mental-strength/pre-shot-routine)** - Ditt prestationsankare
+- **[Hantera press](/sv/education/mental-strength/handling-pressure)** - Tekniker för högtryckssituationer
+- **[Rutin före kast](/sv/education/mental-strength/pre-shot-routine)** - Bygga din prestationsutlösare
 
-## Nyckelinsikt
+## Nyckelpunkt
 
-> Mental styrka är inte frånvaron av tvivel eller rädsla. Det är förmågan att agera effektivt trots dem. Den byggs ett kast i taget.
+> Mental styrka handlar inte om att eliminera nervositet eller aldrig göra misstag. Det handlar om att prestera bra trots dem.
 
-Börja med din rutin. Gör den solid. Resten följer.
+Du kan inte kontrollera vad som händer. Du kan kontrollera hur du reagerar.
 

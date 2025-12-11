@@ -1,148 +1,224 @@
-# Träningsövningar
+# Training Drills
 
-Här är specifika övningar för att utveckla dina färdigheter. Varje övning inkluderar mål, instruktioner och poängsystem.
+Here are proven drills used by elite players. Each drill has a specific purpose - choose based on what you need to develop.
 
-## Läggningsövningar
+## Pointing Drills
 
-### Övning 1: Precisionscirklar
-**Mål:** Förbättra läggprecisionen
+### The Alley
+**Purpose:** Isolate release angle and line consistency
 
-**Uppställning:**
-- Placera lillen på 7 meter
-- Markera cirklar runt lillen: 20cm, 40cm, 60cm
+**Setup:**
+- Place two markers 30-40cm apart, about 1 meter from the circle
+- Target is 7-9 meters away
 
-**Utförande:**
-- 10 kast
-- Poäng: 3 poäng (innanför 20cm), 2 poäng (20-40cm), 1 poäng (40-60cm)
-- Max: 30 poäng
-
-**Progression:**
-- Nybörjare: Mål 15 poäng
-- Medel: Mål 20 poäng
-- Avancerad: Mål 25 poäng
-
-### Övning 2: Avståndsstege
-**Mål:** Anpassa sig till olika avstånd
-
-**Uppställning:**
-- Placera lillen på 6m, 7m, 8m, 9m, 10m
-
-**Utförande:**
-- 2 kast på varje avstånd
-- Mät avståndet till lillen
-- Notera genomsnittet per avstånd
+**Drill:**
+- Throw through the "alley" (between the markers)
+- Any throw that hits a marker is "dead"
+- Focus on consistent release point
 
 **Progression:**
-- Minska genomsnittsavståndet över tid
+- Narrow the alley as you improve
+- Vary the target distance
+- Add a specific landing zone
 
-### Övning 3: Hinderbana
-**Mål:** Utveckla anpassningsförmåga
+### Precision Zones
+**Purpose:** Develop accuracy to specific areas
 
-**Uppställning:**
-- Placera hinder (kulor, stenar) mellan dig och lillen
-- Variera positionerna
+**Setup:**
+- Mark zones around a target (e.g., circles at 20cm, 40cm, 60cm)
+- Or use natural markers on the terrain
 
-**Utförande:**
-- Hitta banan runt hindren
-- 10 kast med olika konfigurationer
-- Poäng: Inom 30cm = 1 poäng
+**Scoring:**
+- Inside 20cm: 3 points
+- Inside 40cm: 2 points
+- Inside 60cm: 1 point
+- Outside: 0 points
 
-## Skottövningar
+**Drill:**
+- Throw 10 boules, track your score
+- Goal: Consistent improvement over sessions
 
-### Övning 4: Precisionstest
-**Mål:** Mäta och förbättra skottträff
+### Distance Variation
+**Purpose:** Develop depth control
 
-**Uppställning:**
-- Placera en målkula på 8 meter
+**Setup:**
+- Place targets at 6m, 7m, 8m, 9m, 10m
 
-**Utförande:**
-- 10 skott
-- Poäng: Carreau = 3, Träff = 2, Nära miss (<10cm) = 1
-- Max: 30 poäng
+**Drill:**
+- Throw to each distance in random order
+- Partner calls out the distance
+- Focus on adjusting weight, not technique
 
-**Progression:**
-- Nybörjare: Mål 12 poäng
-- Medel: Mål 18 poäng
-- Avancerad: Mål 24 poäng
+**Variation:**
+- Add "short" and "long" calls after you release
+- Must adjust mid-flight (develops feel)
 
-### Övning 5: Rörligt mål
-**Mål:** Anpassa sig till olika positioner
+## Shooting Drills
 
-**Uppställning:**
-- Placera målkulor på olika avstånd (6m, 8m, 10m)
-- Variera vinklarna
+### The Shooting Ladder
+**Purpose:** Build accuracy under progressive pressure
 
-**Utförande:**
-- Skjut på varje mål i slumpmässig ordning
-- 2 försök per mål
-- Notera träffprocenten
+**Setup:**
+- Place a target boule at 6 meters
+- Mark distances at 7m, 8m, 9m, 10m
 
-### Övning 6: Pressimulering
-**Mål:** Träna skott under press
+**Drill:**
+- Start at 6 meters
+- Hit = move back one meter
+- Miss = move forward one meter (or restart)
+- Goal: Reach 10 meters
 
-**Uppställning:**
-- Placera en målkula på 8 meter
-- Sätt en insats (t.ex. 10 armhävningar vid miss)
+**Variations:**
+- Strict version: Any miss returns to 6m
+- Timed version: How far can you get in 10 minutes?
+- Team version: Alternate with partner
 
-**Utförande:**
-- 5 skott med insats
-- Notera skillnaden mot träning utan press
+### The Barrier (Blox)
+**Purpose:** Force high arc shooting
 
-## Kombinerade övningar
+**Setup:**
+- Place a barrier (stick, string, or obstacle) between you and target
+- Barrier should be high enough to require a lob
 
-### Övning 7: Matchsimulering
-**Mål:** Träna taktiska beslut
+**Drill:**
+- Must clear the barrier to hit the target
+- Any throw that hits the barrier is "dead"
+- Develops high release point
 
-**Uppställning:**
-- Skapa realistiska matchsituationer
-- Placera kulor som i en riktig match
+**Why it matters:**
+- Competition often requires shooting over obstacles
+- Builds versatility in your shooting
 
-**Utförande:**
-- Besluta: lägga eller skjuta?
-- Utför ditt val
-- Utvärdera beslutet efteråt
+### Obstacle Course
+**Purpose:** Develop shooting from different angles
 
-### Övning 8: Sekvensträning
-**Mål:** Utveckla flyt mellan olika kast
+**Setup:**
+- Place target boule in center
+- Add obstacles (other boules, markers) around it
 
-**Uppställning:**
-- Förbered 5 olika situationer
+**Drill:**
+- Shoot from different positions around the circle
+- Must find the angle that works
+- Develops reading of shooting lines
 
-**Utförande:**
-- Gå från situation till situation utan paus
-- Anpassa dig snabbt till varje ny utmaning
-- Fokus på övergången mellan kast
+## Mental Training Drills
 
-## Mental träning integrerad
+### Routine Repetition
+**Purpose:** Make your pre-shot routine automatic
 
-### Övning 9: Rutinträning
-**Mål:** Automatisera pre-shot rutinen
+**Drill:**
+- Practice your full routine without throwing
+- Go through every step deliberately
+- Do 10-20 repetitions
+- Then add the throw
 
-**Utförande:**
-- Utför din kompletta rutin på VARJE kast
-- Ingen förkortning, inga undantag
-- Notera när du hoppar över steg
+**Focus:**
+- Consistent timing
+- Clear transition from thinking to executing
+- Same routine every time
 
-### Övning 10: Återhämtningsträning
-**Mål:** Träna SOAS-metoden
+### Pressure Points
+**Purpose:** Practice performing under pressure
 
-**Utförande:**
-- Efter varje missat kast, tillämpa SOAS
-- Stoppa, Observera, Acceptera, Släpp
-- Notera hur snabbt du återhämtar dig
+**Setup:**
+- Create a "must make" scenario
+- Set consequences for missing
 
-## Träningsdagbok
+**Examples:**
+- "Make 3 in a row or start over"
+- "Miss and do 10 push-ups"
+- "Announce your target before throwing"
 
-För varje session, notera:
-- Datum och längd
-- Genomförda övningar
-- Poäng/resultat
-- Observationer
-- Punkter att arbeta på
+**Key:**
+- The pressure should feel real
+- Practice your mental response to pressure
+- Use your routine exactly as in competition
 
-## Nyckelinsikt
+### Recovery Practice
+**Purpose:** Build the habit of quick mental reset
 
-> Övningar är verktyg, inte mål i sig. Välj de som motsvarar dina nuvarande behov och anpassa dem till din nivå. Kvalitet före kvantitet.
+**Drill:**
+- Intentionally throw a bad boule
+- Immediately practice SOAS (Stop, Observe, Accept, Slip)
+- Throw the next boule with full commitment
 
-Börja med 2-3 övningar per session. Mästra dem innan du lägger till fler.
+**Focus:**
+- Don't dwell on the miss
+- Reset completely before next throw
+- Maintain positive body language
+
+## Game Simulation Drills
+
+### Millieu's Delight
+**Purpose:** Break rhythm lock, build versatility
+
+**Drill:**
+- Alternate between pointing and shooting every throw
+- No two consecutive throws of the same type
+- Develops ability to switch modes
+
+### Scenario Play
+**Purpose:** Practice tactical decision-making
+
+**Setup:**
+- Set up realistic game situations
+- Assign scores and boule counts
+
+**Examples:**
+- "You're down 10-8, opponent has 2 points, you have 2 boules"
+- "Tied 6-6, you have last boule, they have 1 point"
+
+**Drill:**
+- Decide what to do
+- Execute with full commitment
+- Review the decision afterward
+
+### Match Play with Rules
+**Purpose:** Competition simulation
+
+**Variations:**
+- Play to 13 (full game)
+- Play to 7 (shorter, more games)
+- "Pressure points" - certain ends worth double
+- "Sudden death" - first to lose an end loses the game
+
+## Tracking Your Drills
+
+Keep a log for each drill:
+
+| Date | Drill | Score/Result | Notes |
+|------|-------|--------------|-------|
+| | | | |
+
+**Track over time:**
+- Are you improving?
+- Which drills help most?
+- Where do you struggle?
+
+## Building a Drill Session
+
+### Warm-up (10 min)
+- Easy throws to loosen up
+- No pressure, just feel
+
+### Technical Focus (20-30 min)
+- One or two drills targeting specific skills
+- Blocked practice for new skills
+- Random practice for established skills
+
+### Pressure/Game Simulation (20-30 min)
+- Add consequences
+- Create realistic scenarios
+- Practice mental skills
+
+### Cool-down (10 min)
+- Easy throws
+- Reflect on the session
+- Note what to work on next
+
+## Key Takeaway
+
+> Drills are tools. Choose the right tool for what you need to build.
+
+Don't just throw boules. Train with purpose.
 

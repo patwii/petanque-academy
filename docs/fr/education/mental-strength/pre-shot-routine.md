@@ -1,130 +1,169 @@
-# Routine pré-tir
+# Construire votre routine pré-tir
 
-Votre routine pré-tir est votre outil le plus puissant pour une performance constante. C'est la séquence d'actions et de pensées qui vous prépare à chaque lancer.
+Votre routine pré-tir est l'un des outils les plus puissants de votre jeu mental. C'est une séquence cohérente d'actions qui vous prépare pour chaque lancer et déclenche votre meilleur état de performance.
 
-## Pourquoi une routine ?
+## Pourquoi les routines fonctionnent
 
-### Crée de la constance
-En compétition, tout change - adversaires, terrain, enjeux, météo. Votre routine reste la même. C'est votre ancre de stabilité.
+### La cohérence crée la confiance
+Quand vous faites la même chose à chaque fois, vous éliminez les variables. Votre corps sait ce qui arrive. Cela crée un sentiment de contrôle et de familiarité, même dans des situations inhabituelles.
 
-### Déclenche le mode performance
-Avec la répétition, votre routine devient un signal pour votre cerveau : « C'est le moment d'exécuter. » Elle facilite la transition vers l'état de flow.
+### Les routines déclenchent des états
+Avec la répétition, votre routine devient liée à votre état de performance. Commencer la routine commence automatiquement le changement mental vers le mode d'exécution.
 
-### Réduit l'anxiété
-Quand vous suivez une routine familière, vous n'avez pas à décider quoi faire. Cela libère de l'espace mental et réduit l'incertitude.
+### Les routines bloquent les distractions
+Une routine donne à votre esprit quelque chose sur quoi se concentrer. Il n'y a pas de place pour s'inquiéter du score, du public ou de ce qui pourrait arriver.
 
-### Améliore la concentration
-Chaque étape de la routine dirige votre attention vers le lancer à venir, éloignant les distractions.
+### Les routines gèrent l'excitation
+Une routine bien conçue aide à réguler votre niveau d'énergie - vous calmant si vous êtes trop excité, vous concentrant si vous êtes plat.
 
-## Les composantes d'une routine efficace
+## Éléments d'une routine efficace
 
-### 1. Évaluation (hors du cercle)
-Avant d'entrer dans le cercle :
-- Lisez le terrain (pentes, obstacles, texture)
-- Choisissez votre point d'atterrissage
-- Décidez du type de lancer
-- Visualisez la trajectoire
+### Phase 1 : Évaluation (En dehors du cercle)
 
-**Durée :** Variable selon la complexité
+Avant d'entrer, recueillez des informations :
+- Lisez le terrain (pentes, obstacles, surface)
+- Évaluez la situation (score, positions des boules)
+- Choisissez votre cible et point d'atterrissage
+- Décidez du type de lancer (pointer, tirer, lober, rouler)
 
-### 2. Transition (en entrant dans le cercle)
-Le moment où vous passez de la réflexion à l'action :
-- Prenez une respiration de recentrage
-- Lâchez l'analyse
-- Adoptez votre posture de lancer
+**C'est là que la réflexion se produit.** Prenez votre temps ici.
 
-**Durée :** 2-3 secondes
+### Phase 2 : Transition (Entrer dans le cercle)
 
-### 3. Préparation physique (dans le cercle)
-Établissez votre position :
-- Placement des pieds cohérent
-- Vérification de la prise
-- Alignement du corps vers la cible
-- Petit mouvement personnel (si vous en avez un)
+Le passage de la réflexion à l'action :
+- Action physique (entrer dans le cercle de manière cohérente)
+- Signal mental (un mot ou une phrase qui signale "mode d'exécution")
+- Respiration (une respiration consciente pour vous centrer)
 
-**Durée :** 3-5 secondes
+**C'est l'interrupteur.** L'analyse s'arrête ici.
 
-### 4. Visualisation finale
-Une image mentale brève et claire :
-- Voyez le trajet de la boule
+### Phase 3 : Installation (Dans le cercle)
+
+Préparez votre corps :
+- Posture cohérente (la même à chaque fois)
+- Vérification de la prise (sentez la boule)
+- Alignement vers la cible
+- Déclencheur physique (un petit mouvement qui est le vôtre)
+
+### Phase 4 : Visualisation (Brève)
+
+Voyez le lancer avant de le faire :
+- Imaginez le chemin de la boule (maximum 2-3 secondes)
 - Ressentez le lancer réussi
-- Connectez-vous avec votre cible
+- Connectez-vous visuellement avec votre cible
 
-**Durée :** 2-3 secondes
+### Phase 5 : Exécution
 
-### 5. Exécution
-Le lancer lui-même :
-- Focus uniquement sur la cible
+Faites le lancer :
+- Concentration externe (cible uniquement)
 - Faites confiance à votre corps
-- Lâchez sans hésitation
-- Suivez le mouvement naturellement
+- Relâchez sans hésitation
+- Suivez naturellement
 
 ## Construire votre routine personnelle
 
-### Étape 1 : Observer
-Remarquez ce que vous faites déjà naturellement quand vous lancez bien. Quels sont vos gestes instinctifs ?
+### Étape 1 : Observez ce que vous faites déjà
 
-### Étape 2 : Structurer
-Organisez ces éléments en une séquence logique. Ajoutez les composantes manquantes.
+Vous avez probablement déjà une routine. Remarquez :
+- Que faites-vous avant les bons lancers ?
+- Qu'est-ce qui vous semble naturel ?
+- Qu'est-ce qui vous aide à vous concentrer ?
 
-### Étape 3 : Simplifier
-Gardez-la courte et simple. Une routine trop longue devient un fardeau.
+### Étape 2 : Concevez votre routine
 
-### Étape 4 : Pratiquer
-Utilisez exactement la même routine sur CHAQUE lancer à l'entraînement. Pas d'exceptions.
+Créez une séquence qui inclut :
+- [ ] Phase d'évaluation
+- [ ] Moment de transition clair
+- [ ] Installation physique cohérente
+- [ ] Visualisation brève
+- [ ] Déclencheur d'exécution
 
-### Étape 5 : Affiner
-Ajustez au fil du temps. Gardez ce qui fonctionne, modifiez ce qui ne fonctionne pas.
+### Étape 3 : Écrivez-la
 
-## Exemple de routine
+Soyez spécifique. Exemple :
 
-1. **Hors du cercle :** Lire le terrain, choisir le point d'atterrissage
-2. **Approche :** Marcher vers le cercle avec intention
-3. **Entrée :** Une respiration profonde en entrant
-4. **Position :** Pieds placés, vérifier la prise
-5. **Regard :** Fixer le point d'atterrissage
-6. **Visualisation :** Voir la trajectoire (2 secondes)
-7. **Mot déclencheur :** « Fluide » (silencieusement)
-8. **Exécution :** Lancer en regardant la cible
+1. **Évaluer :** Lire le terrain, choisir le point d'atterrissage
+2. **Transition :** Entrer dans le cercle avec le pied gauche en premier, dire "confiance"
+3. **Installation :** Pieds écartés largeur d'épaules, vérifier la prise, aligner les épaules
+4. **Visualiser :** Voir le chemin, ressentir le relâchement
+5. **Exécuter :** Yeux sur la cible, lancer
 
-**Durée totale dans le cercle :** 8-12 secondes
+### Étape 4 : Pratiquez religieusement
 
-## Erreurs courantes
+Utilisez votre routine à CHAQUE lancer à l'entraînement :
+- Lancers faciles
+- Lancers difficiles
+- Quand vous êtes fatigué
+- Quand vous êtes frais
 
-### Routine trop longue
-- Crée de la tension
-- Laisse trop de temps pour douter
-- Fatigue mentale
+La routine doit devenir automatique.
 
-### Routine inconstante
-- Change selon l'humeur ou la situation
-- Ne crée pas d'automatisme
-- Pas de signal fiable pour le cerveau
+### Étape 5 : Affinez au fil du temps
 
-### Sauter la routine sous pression
-- C'est exactement quand vous en avez le plus besoin
-- La pression n'est pas une raison de changer
-- Faites confiance au processus
+Votre routine évoluera. Remarquez ce qui fonctionne et ajustez. Mais ne la changez pas pendant la compétition - seulement entre les événements.
 
-### Trop de pensées techniques
-- La routine n'est pas pour analyser
-- Gardez les pensées techniques pour l'entraînement
-- Dans la routine : confiance et exécution
+## Timing de la routine
 
-## Adapter sans changer
+Votre routine devrait prendre un temps cohérent :
+- Trop rapide : Vous vous précipitez, pas correctement préparé
+- Trop lent : Vous réfléchissez trop, perdez le flow
+- Juste bien : Assez de temps pour se préparer, pas trop pour trop penser
 
-Votre routine de base reste la même, mais vous pouvez l'adapter légèrement :
+**Timing typique :**
+- Évaluation : 5-10 secondes
+- Transition + Installation : 3-5 secondes
+- Visualisation + Exécution : 3-5 secondes
+- **Total : 10-20 secondes**
 
-| Situation | Adaptation |
-|-----------|------------|
-| Haute pression | Respiration plus longue |
-| Après une erreur | Réinitialisation physique ajoutée |
-| Fatigue | Simplifier au minimum essentiel |
-| Distraction | Focus externe renforcé |
+## Erreurs courantes de routine
+
+| Erreur | Problème | Solution |
+|---------|---------|----------|
+| Sauter à l'entraînement | La routine n'est pas automatique | L'utiliser à chaque lancer |
+| Trop compliquée | Difficile à retenir sous pression | Simplifier à l'essentiel |
+| Penser pendant l'exécution | Perturbe la performance automatique | Point de transition clair |
+| Timing incohérent | Crée de l'incertitude | Pratiquer avec un rythme cohérent |
+| Changer en pleine compétition | Introduit le doute | S'en tenir à ce que vous connaissez |
+
+## Dépannage de routine
+
+**Si vous vous précipitez :**
+- Ajoutez une respiration à la transition
+- Ralentissez vos mouvements d'installation
+- Pausez avant la visualisation
+
+**Si vous réfléchissez trop :**
+- Raccourcissez la routine
+- Utilisez un signal de transition plus fort
+- Concentrez-vous plus extérieurement
+
+**Si vous êtes incohérent :**
+- Filmez-vous pour vérifier
+- Pratiquez la routine sans lancer
+- Obtenez des retours d'un partenaire
+
+## Exemples de routines
+
+### Routine simple
+1. Choisir la cible
+2. Entrer, respirer
+3. Saisir, aligner
+4. Le voir, le lancer
+
+### Routine détaillée
+1. Lire le terrain, choisir le point d'atterrissage
+2. Entrer avec le pied gauche en premier
+3. Dire "fluide" intérieurement
+4. Une respiration, épaules tombent
+5. Pieds placés, vérifier la prise
+6. Aligner les épaules vers la cible
+7. Voir le chemin (2 secondes)
+8. Les yeux se fixent sur la cible
+9. Lancer
 
 ## Point clé
 
-> Votre routine est votre superpouvoir. Elle transforme l'incertitude en familiarité et la pression en processus. Construisez-la, pratiquez-la, faites-lui confiance.
+> Votre routine est votre ancre. Dans le chaos, c'est votre constante.
 
-Commencez à utiliser une routine cohérente dès votre prochain entraînement. Chaque lancer. Sans exception.
+Construisez-la soigneusement. Pratiquez-la toujours. Faites-lui entièrement confiance.
 

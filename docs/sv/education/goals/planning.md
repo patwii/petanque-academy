@@ -1,108 +1,165 @@
-# Planera din utveckling
+# Skapa din träningsplan
 
-Ett mål utan plan är bara en önskan. Denna sektion guidar dig genom att skapa en strukturerad utvecklingsplan.
+Mål utan en plan är bara önskningar. Denna guide hjälper dig att förvandla dina mål till en strukturerad träningsplan som faktiskt fungerar.
 
-## De 8 faserna för självständig utveckling
+## De 8 faserna av självledd utveckling
 
-### Fas 1: Målsättning
-Skapa din kompass med SMART-mål på flera nivåer:
-- Långsiktigt mål (1-2 år)
-- Årsmål
-- Kvartalsmål
-- Månadsmål
-- Veckomål
+### Fas 1: Sätt din kompass (mål)
+Du har redan lärt dig om SMART-mål. Sätt dem nu i en hierarki:
 
-### Fas 2: Resursanalys
-Utvärdera ärligt vad du har:
-- **Tid:** Hur många timmar per vecka kan du avsätta?
-- **Plats:** Har du tillgång till en kvalitetsbana?
-- **Utrustning:** Anpassade klot, lille, måttband?
-- **Färdigheter:** Vilka är dina styrkor och svagheter?
-- **Fysisk status:** Begränsningar eller särskilda behov?
+1. **Långsiktigt mål** (1-2 år): Din dröm
+2. **Årligt mål**: Årets mål
+3. **Kvartalsmål**: 3-månaders milstolpar
+4. **Månatliga mål**: Specifika fokusområden
+5. **Veckomål**: Träningsmål
 
-### Fas 3: Övningsval
-Välj övningar som:
-- Direkt motsvarar dina mål
-- Erbjuder mätbar progression
-- Balanserar teknik och mental träning
-- Inkluderar variation för att undvika tristess
+### Fas 2: Bedöm dina resurser
 
-### Fas 4: Tidsplanering
-Skapa ett realistiskt schema:
-- Blockera fasta tider i din vecka
-- Balansera teknisk träning, mental träning och återhämtning
-- Planera kortare men regelbundna sessioner
+Innan planering, utvärdera ärligt vad du har:
 
-### Fas 5: Förberedelse
-Före varje session:
-- Förbered din utrustning
-- Sätt en tydlig intention
-- Gör en lämplig uppvärmning
-- Skapa en mental övergångsritual
+| Resurs | Frågor att ställa |
+|----------|-----------------|
+| **Tid** | Hur många timmar per vecka kan du realistiskt träna? |
+| **Plats** | Har du tillgång till en ordentlig bana? Vad är ytkvaliteten? |
+| **Utrustning** | Har du lämpliga kulor? Mätverktyg? Videokapacitet? |
+| **Kunskap** | Vilka är dina tekniska styrkor och svagheter? |
+| **Fysisk kondition** | Några begränsningar? Områden som behöver arbete? |
 
-### Fas 6: Mätning och utvärdering
-Följ dina framsteg systematiskt:
-- Registrera övningsresultat
-- Håll en träningsdagbok
-- Notera känslor och observationer
-- Använd video för teknisk analys
+Var ärlig. En realistisk plan slår en ambitiös fantasi.
 
-### Fas 7: Motivation och disciplin
-Upprätthåll momentum:
-- Anslut till ditt djupa "varför"
-- Skapa rutiner som minskar motstånd
+### Fas 3: Välj dina övningar
+
+Välj övningar som direkt stödjer dina mål:
+
+**För förbättring av pekning:**
+- Precisionspek till markerade zoner
+- Avståndsvariationsövningar
+- Olika ytpraktik
+
+**För förbättring av skjutning:**
+- Skjutstege (progressiva avstånd)
+- Hinderskjutning (tvingad hög båge)
+- Rörligt målträning
+
+**För mental utveckling:**
+- Rutin före kast-praktik
+- Visualiseringssessioner
+- Trycksimulering
+
+**Balansera ditt program:**
+- Tekniskt arbete (pekning, skjutning)
+- Mental träning (mindfulness, visualisering)
+- Fysisk konditionering (balans, flexibilitet)
+- Matchspel (tillämpning av färdigheter)
+
+### Fas 4: Skapa ditt schema
+
+Bygg ett realistiskt veckoschema:
+
+| Dag | Morgon | Eftermiddag | Kväll | Fokus |
+|-----|---------|-----------|---------|-------|
+| Mån | - | Teknisk: Pekning | Lätt rörlighet | Precision |
+| Tis | - | Teknisk: Skjutning | - | Kraft/noggrannhet |
+| Ons | - | Mental träning | - | Mindfulness |
+| Tor | - | Blandat: Spelscenarier | Lätt rörlighet | Tillämpning |
+| Fre | - | Teknisk: Svaghet | - | Förbättring |
+| Lör | Matchspel eller tävling | - | - | Prestation |
+| Sön | Vila | Veckoöversikt | Planering | Återhämtning |
+
+**Nyckelprinciper:**
+- Prioritera mental träning (den försummas ofta)
+- Inkludera vilodagar
+- Balansera olika färdigheter
+- Lämna flexibilitet för livet
+
+### Fas 5: Förbered dig för hinder
+
+Saker kommer att gå fel. Planera för det.
+
+| Risk | Sannolikhet | Påverkan | Backup-plan |
+|------|------------|--------|-------------|
+| Tidsbrist | Hög | Medel | Ha en "minimumsession" redo (20 min) |
+| Dåligt väder | Medel | Medel | Inomhusvisualisering, videostudie |
+| Låg motivation | Hög | Medel | Återgå till "varför", mindre mål, ta en paus |
+| Mindre skada | Medel | Hög | Fokusera på mental träning, icke-påverkade färdigheter |
+| Ingen träningspartner | Medel | Låg | Soloövningar, video-självanalys |
+
+### Fas 6: Spåra dina framsteg
+
+Det som mäts blir hanterat.
+
+**För en träningsdagbok:**
+- Datum och varaktighet
+- Slutförda övningar
+- Poäng/resultat
+- Hur du kände dig (energi, fokus, flow)
+- Tekniska anteckningar
+- Väder/förhållanden
+
+**Veckovisa granskningsfrågor:**
+- Slutförde jag mina planerade sessioner?
+- Vilka poäng uppnådde jag?
+- Vad kändes bra? Vad var svårt?
+- Några flow-upplevelser?
+- Vad bör jag justera?
+
+### Fas 7: Håll dig motiverad
+
+Motivation fluktuerar. Bygg system för att upprätthålla den:
+
+**Intern motivation:**
+- Anslut till ditt "varför"
 - Fira små segrar
+- Lägg märke till förbättring över tid
 - Hitta glädje i processen
 
-### Fas 8: Plan B
-Förbered dig för hinder:
-- Tidsbrist → Minimumsession på 15 minuter
-- Dåligt väder → Mental träning eller teori
-- Skada → Fokus på icke-påverkade aspekter
-- Demotivation → Tillbaka till grunderna i spelglädje
+**Externt stöd:**
+- Träningspartners (även ibland)
+- Dela mål med någon
+- Gå med i online-gemenskaper
+- Spåra serier och konsistens
 
-## Exempel på veckoplan
+**När motivationen sjunker:**
+- Gör en minimumsession (något slår ingenting)
+- Ändra din miljö
+- Granska dina framsteg
+- Kom ihåg tidigare framgångar
+- Ta en planerad paus om nödvändigt
 
-| Dag | Aktivitet | Längd | Fokus |
-|-----|-----------|-------|-------|
-| Måndag | Teknik läggning | 60 min | Precision 6-8m |
-| Tisdag | Mental + rörlighet | 30 min | Mindfulness, stretching |
-| Onsdag | Teknik skott | 60 min | Precision au fer |
-| Torsdag | Aktiv vila | - | Återhämtning |
-| Fredag | Blandad session | 45 min | Matchscenarier |
-| Lördag | Match/tävling | Varierar | Tillämpning |
-| Söndag | Reflektion | 20 min | Utvärdering, planering |
+### Fas 8: Granska och anpassa
 
-## Träningsdagboken
+Din plan bör utvecklas:
 
-### Vad du ska notera:
-- Datum och längd
-- Genomförda övningar
-- Kvantitativa resultat
-- Känslor (energi, fokus, flow)
-- Tekniska observationer
-- Punkter att arbeta på
+**Veckovis:** Snabb granskning, mindre justeringar
+**Månadsvis:** Bedöm framsteg mot månatliga mål, justera fokus
+**Kvartalsvis:** Större granskning, sätt nästa kvartals mål
+**Årligen:** Full bedömning, ny årsplan
 
-## Revision och justering
+**Frågor för granskning:**
+- Gör jag framsteg mot mina mål?
+- Är min träning effektiv?
+- Behöver jag olika övningar?
+- Är mina mål fortfarande relevanta?
+- Vad har jag lärt mig?
 
-### Veckovis (15 min)
-- Vad fungerade bra?
-- Vad behöver ändras?
-- Mål för nästa vecka?
+## Exempel 8-veckorsplan
 
-### Månadsvis (30 min)
-- Framsteg mot månadsmål?
-- Trender i dagboken?
-- Nödvändiga justeringar av planen?
+**Mål:** Förbättra skjutprecision med 15%
 
-### Kvartalsvis (1 timme)
-- Fullständig utvärdering av framsteg
-- Revision av mål
-- Planering av nästa kvartal
+| Vecka | Fokus | Nyckelsessioner |
+|------|-------|--------------|
+| 1 | Baslinje | Testa nuvarande nivå, videoanalys |
+| 2 | Teknik | Identifiera och arbeta med nyckelproblem |
+| 3 | Upprepning | Hög volym skjutträning |
+| 4 | Test | Halvvägsbedömning, justera |
+| 5 | Variation | Olika avstånd och vinklar |
+| 6 | Tryck | Lägg till konsekvenser till övningar |
+| 7 | Integration | Spelliknande scenarier |
+| 8 | Sluttest | Mät förbättring |
 
-## Nyckelinsikt
+## Nyckelpunkt
 
-> Planering är inte en begränsning - det är en befrielse. Den förvandlar osäkerhet till riktning och ansträngning till mätbara framsteg.
+> Planera ditt arbete, arbeta sedan din plan. Men var redo att anpassa.
 
-Börja enkelt. Ett mål, en plan, en vecka. Justera allt eftersom. Perfektion är inte målet - progression är det.
+Den bästa planen är en du faktiskt kommer att följa. Börja enkelt, håll dig konsekvent och justera när du lär dig.
 

@@ -1,79 +1,125 @@
-# Målsättning
+# Målsättning för pétanque-spelare
 
-Mål är din kompass. Utan dem blir träningen slumpmässig och framsteg svåra att mäta. Med tydliga mål har varje session ett syfte och varje ansträngning för dig närmare din vision.
+Tydliga mål är din kompass. De ger riktning åt din träning, motivation när saker blir svåra, och ett sätt att mäta framsteg. Utan mål kastar du bara kulor. Med mål bygger du mot något.
 
-## Varför mål är viktiga
+## Varför mål spelar roll
 
-### För den självständige spelaren
-När du tränar ensam blir mål ännu mer kritiska:
-- De ger riktning och motivation
-- De hjälper dig mäta framsteg
-- De upprätthåller disciplin när ingen tittar
-- De förvandlar övning till avsiktlig utveckling
+Mål tjänar flera syften:
+- **Riktning:** Veta vad du ska arbeta med
+- **Motivation:** Ha något att sträva efter
+- **Mätning:** Spåra dina framsteg
+- **Fokus:** Prioritera din begränsade tid
 
-### Forskningen
-Studier visar att idrottare med tydliga, nedskrivna mål:
-- Utvecklas snabbare
-- Behåller motivationen längre
-- Återhämtar sig bättre från motgångar
-- Uppnår högre prestationsnivåer
+För den självstyrda spelaren är mål särskilt viktiga. Utan en tränare som driver dig blir dina mål din guide.
 
 ## De tre typerna av mål
 
-### 1. Resultatmål
-Vad du vill uppnå.
-- "Vinna distriktsmästerskapet"
-- "Sluta bland topp 10"
-- "Slå min rival"
+Alla mål är inte lika. Att förstå de olika typerna hjälper dig att sätta bättre.
 
-**Egenskaper:**
-- Motiverande och spännande
-- Inte helt under din kontroll
-- Beror på andra och omständigheter
+### 1. Resultatmål
+**Vad:** Slutresultatet du vill ha
+**Exempel:** "Vinna det regionala mästerskapet"
+**Kontrollnivå:** Låg - beror på motståndare, förhållanden, tur
 
 ### 2. Prestationsmål
-De standarder du vill uppnå.
-- "Träffa 70% av mina skott på 8 meter"
-- "Lägga inom 30 cm i genomsnitt"
-- "Behålla koncentrationen i 3 timmar"
-
-**Egenskaper:**
-- Mätbara och specifika
-- Huvudsakligen under din kontroll
-- Oberoende av motståndare
+**Vad:** Specifika prestationsstandarder
+**Exempel:** "Uppnå 80% noggrannhet på skjutövningar"
+**Kontrollnivå:** Medel - beror mest på dig
 
 ### 3. Processmål
-De dagliga handlingarna som leder till framgång.
-- "Öva min pre-shot rutin på varje kast"
-- "Göra 10 minuters mindfulness varje morgon"
-- "Analysera 3 kast efter varje session"
+**Vad:** Handlingar och beteenden du kontrollerar
+**Exempel:** "Slutför min rutin före kast vid varje kast"
+**Kontrollnivå:** Hög - helt upp till dig
 
-**Egenskaper:**
-- Helt under din kontroll
-- Konkreta, dagliga handlingar
-- Grunden för alla framsteg
-
-## Målhierarkin
+### Målhierarkin
 
 ```
-Resultatmål (Vision)
-        ↓
-Prestationsmål (Standarder)
-        ↓
+Resultatmål (Dröm)
+    ↓
+Prestationsmål (Milstolpar)
+    ↓
 Processmål (Dagliga handlingar)
 ```
 
-**Börja uppifrån** för motivation och riktning.
-**Fokusera på botten** för daglig handling.
+**Nyckelinsikt:** Fokusera merparten av din uppmärksamhet på processmål. De är vad du kontrollerar, och de leder till de resultat du vill ha.
 
-## I denna sektion
+## SMART-ramverket
 
-- **[SMART-mål](/sv/education/goals/smart-goals)** - Ramverket för effektiva mål
-- **[Planera din utveckling](/sv/education/goals/planning)** - Skapa din färdplan
+Gör dina mål SMART:
 
-## Nyckelinsikt
+### S - Specifikt
+❌ "Bli bättre på att skjuta"
+✅ "Förbättra min au fer (direkt träff) noggrannhet från 8 meter"
 
-> Mål utan plan är önskningar. Planer utan mål är irrande. Du behöver båda för att utvecklas avsiktligt.
+### M - Mätbart
+❌ "Skjuta mer noggrant"
+✅ "Få minst 24/30 på skjutstege-övningen"
 
-Börja med att definiera vart du vill. Bygg sedan vägen dit.
+### A - Uppnåeligt
+❌ "Aldrig missa ett skott" (omöjligt)
+✅ "Förbättra noggrannhet med 10% över 8 veckor" (utmanande men realistiskt)
+
+### R - Relevant
+❌ "Springa ett maraton" (inte direkt relaterat)
+✅ "Förbättra balans och stabilitet för bättre kastning" (stödjer ditt spel)
+
+### T - Tidsbestämt
+❌ "Någon dag kommer jag vara bättre"
+✅ "Senast 15 mars kommer jag att uppnå..."
+
+## Målexempel för pétanque
+
+| Typ | Dåligt mål | SMART-mål |
+|------|-----------|------------|
+| Resultat | "Vinna mer" | "Nå semifinalen i Vårturneringen" |
+| Prestation | "Peka bättre" | "Uppnå 70% av poäng inom 50cm på 8m avstånd" |
+| Process | "Träna mer" | "Slutföra 3 fokuserade träningspass per vecka" |
+
+## Bryta ner stora mål
+
+Stora mål kan kännas överväldigande. Bryt ner dem i mindre bitar:
+
+### Exempel: "Vinna klubbmästerskapet (12 månader bort)"
+
+**Årligt mål:** Vinna klubbmästerskap
+
+**Kvartalsmål:**
+- K1: Förbättra skjutnoggrannhet till 75%
+- K2: Utveckla konsekvent rutin före kast
+- K3: Bemästra trycksituationer
+- K4: Toppprestation och tävlingsförberedelse
+
+**Månadsmål (K1):**
+- Månad 1: Etablera baslinje, identifiera svagheter
+- Månad 2: Fokusera på skjutteknik
+- Månad 3: Lägg till tryck till skjutträning
+
+**Veckomål (Månad 2):**
+- Vecka 1: 3 skjutpass, videoanalys
+- Vecka 2: Arbeta med identifierat teknikproblem
+- Vecka 3: Öka avstånd gradvis
+- Vecka 4: Testa framsteg, justera plan
+
+## Koppla mål till ditt "Varför"
+
+Mål fungerar bättre när de är kopplade till djupare motivation.
+
+Fråga dig själv:
+- Varför vill jag uppnå detta?
+- Vad kommer det betyda för mig?
+- Hur kommer jag känna mig när jag lyckas?
+- Vad driver mig att förbättra mig?
+
+Skriv ner dina svar. Återvänd till dem när motivationen avtar.
+
+## I detta avsnitt
+
+- **[SMART-mål i detalj](/sv/education/goals/smart-goals)** - Djupdykning i att skapa effektiva mål
+- **[Skapa din träningsplan](/sv/education/goals/planning)** - Förvandla mål till handling
+
+## Nyckelpunkt
+
+> Ett mål utan en plan är bara en önskan.
+
+Sätt tydliga mål. Bryt ner dem. Fokusera på vad du kontrollerar. Spåra dina framsteg.
 
