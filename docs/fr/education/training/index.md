@@ -1,173 +1,173 @@
-# Training Methods
+# Méthodes d'entraînement
 
-When your technique is solid, what do you practice? This is where many players plateau - they keep drilling technique when the real growth lies elsewhere.
+Lorsque votre technique est solide, que pratiquez-vous ? C'est là que de nombreux joueurs plafonnent - ils continuent à travailler la technique alors que la vraie croissance se trouve ailleurs.
 
-## Beyond Technical Repetition
+## Au-delà de la répétition technique
 
-Most players train by repeating throws. That's important for beginners, but advanced players need more:
+La plupart des joueurs s'entraînent en répétant des lancers. C'est important pour les débutants, mais les joueurs avancés ont besoin de plus :
 
-| Training Type | What It Develops | When to Use |
+| Type d'entraînement | Ce qu'il développe | Quand l'utiliser |
 |--------------|------------------|-------------|
-| Technical drills | Mechanics, form | Learning new skills, fixing issues |
-| Random practice | Adaptability, decision-making | Competition preparation |
-| Pressure simulation | Mental toughness | Before important events |
-| Mental training | Focus, recovery, confidence | Ongoing, often neglected |
+| Exercices techniques | Mécanique, forme | Apprentissage de nouvelles compétences, correction de problèmes |
+| Pratique aléatoire | Adaptabilité, prise de décision | Préparation à la compétition |
+| Simulation de pression | Résistance mentale | Avant les événements importants |
+| Entraînement mental | Concentration, récupération, confiance | Continu, souvent négligé |
 
-## The Training Pyramid
+## La pyramide d'entraînement
 
 ```
-         Competition
+         Compétition
             ↑
-      Match Simulation
+      Simulation de match
             ↑
-    Pressure Practice
+    Pratique sous pression
             ↑
-   Random/Varied Practice
+   Pratique aléatoire/variée
             ↑
-  Blocked Technical Practice
+  Pratique technique bloquée
 ```
 
-Most players spend too much time at the bottom. Elite players work at all levels.
+La plupart des joueurs passent trop de temps en bas. Les joueurs d'élite travaillent à tous les niveaux.
 
-## Blocked vs. Random Practice
+## Pratique bloquée vs. aléatoire
 
-### Blocked Practice
-Repeat the same throw many times:
-- 20 points from 7 meters
-- 20 shots at the same target
-- Same distance, same throw
+### Pratique bloquée
+Répéter le même lancer plusieurs fois :
+- 20 points depuis 7 mètres
+- 20 tirs sur la même cible
+- Même distance, même lancer
 
-**Good for:** Initial learning, building confidence, warming up
-**Limitation:** Doesn't transfer well to competition
+**Bon pour :** Apprentissage initial, renforcement de la confiance, échauffement
+**Limitation :** Ne se transfère pas bien à la compétition
 
-### Random Practice
-Vary everything:
-- Different distances each throw
-- Alternate pointing and shooting
-- Change targets constantly
+### Pratique aléatoire
+Varier tout :
+- Distances différentes à chaque lancer
+- Alterner pointer et tirer
+- Changer de cibles constamment
 
-**Good for:** Competition preparation, building adaptability
-**Feels:** Harder, more mistakes, less "productive"
-**Reality:** Better long-term retention and transfer
+**Bon pour :** Préparation à la compétition, développement de l'adaptabilité
+**Sensation :** Plus difficile, plus d'erreurs, moins "productif"
+**Réalité :** Meilleure rétention à long terme et transfert
 
-### The Research
+### La recherche
 
-Studies consistently show:
-- Blocked practice feels better (quick improvement visible)
-- Random practice produces better competition performance
-- The "struggle" of random practice is where learning happens
+Les études montrent systématiquement :
+- La pratique bloquée se sent mieux (amélioration rapide visible)
+- La pratique aléatoire produit de meilleures performances en compétition
+- La "lutte" de la pratique aléatoire est là où l'apprentissage se produit
 
-## Pressure Simulation
+## Simulation de pression
 
-You can't handle competition pressure if you never experience it in training.
+Vous ne pouvez pas gérer la pression de la compétition si vous ne l'expérimentez jamais à l'entraînement.
 
-### Creating Practice Pressure
+### Créer de la pression à l'entraînement
 
-**Consequences:**
-- Push-ups for misses
-- Loser buys coffee
-- Points count toward something
+**Conséquences :**
+- Pompes pour les ratés
+- Le perdant paie le café
+- Les points comptent pour quelque chose
 
-**Scenarios:**
-- "Must make" situations
-- Down 12-10, need to score
-- Last boule of the game
+**Scénarios :**
+- Situations "doit réussir"
+- Mené 12-10, besoin de marquer
+- Dernière boule du jeu
 
-**Audience:**
-- Practice with people watching
-- Record yourself on video
-- Announce what you're trying to do
+**Public :**
+- Pratiquer avec des gens qui regardent
+- S'enregistrer en vidéo
+- Annoncer ce que vous essayez de faire
 
-**Fatigue:**
-- Practice when tired
-- End of long session
-- After physical exercise
+**Fatigue :**
+- Pratiquer quand fatigué
+- Fin de longue session
+- Après exercice physique
 
-### The Shooting Ladder
+### L'échelle de tir
 
-A classic pressure drill:
-1. Start at 6 meters
-2. Hit the target = move back one meter
-3. Miss = move forward one meter (or start over)
-4. Goal: Reach 10 meters
+Un exercice de pression classique :
+1. Commencer à 6 mètres
+2. Toucher la cible = reculer d'un mètre
+3. Rater = avancer d'un mètre (ou recommencer)
+4. Objectif : Atteindre 10 mètres
 
-This creates natural pressure as you progress.
+Cela crée une pression naturelle au fur et à mesure que vous progressez.
 
-## Mental Training Sessions
+## Séances d'entraînement mental
 
-Dedicate time specifically to mental skills:
+Consacrez du temps spécifiquement aux compétences mentales :
 
-### Visualization Session (15-20 min)
-1. Find a quiet place
-2. Close your eyes
-3. Visualize yourself at a competition
-4. See successful throws in detail
-5. Feel the confidence and flow
-6. Practice handling pressure moments
+### Séance de visualisation (15-20 min)
+1. Trouvez un endroit calme
+2. Fermez les yeux
+3. Visualisez-vous lors d'une compétition
+4. Voyez des lancers réussis en détail
+5. Ressentez la confiance et le flow
+6. Pratiquez la gestion des moments de pression
 
-### Pre-Shot Routine Practice
-- Practice your routine without throwing
-- Focus on the mental transitions
-- Build the habit of consistent preparation
+### Pratique de routine pré-lancer
+- Pratiquez votre routine sans lancer
+- Concentrez-vous sur les transitions mentales
+- Construisez l'habitude d'une préparation cohérente
 
-### Recovery Practice
-- Intentionally make mistakes in practice
-- Practice your SOAS response
-- Build the habit of quick mental reset
+### Pratique de récupération
+- Faites intentionnellement des erreurs à l'entraînement
+- Pratiquez votre réponse SOAS
+- Construisez l'habitude de réinitialisation mentale rapide
 
-## Structuring Your Training Week
+## Structurer votre semaine d'entraînement
 
-### Example: Serious Amateur (6 hours/week)
+### Exemple : Amateur sérieux (6 heures/semaine)
 
-| Day | Duration | Focus |
+| Jour | Durée | Focus |
 |-----|----------|-------|
-| Monday | 1.5 hr | Technical: Pointing drills |
-| Wednesday | 1.5 hr | Technical: Shooting drills |
-| Friday | 1 hr | Mental: Visualization, routine practice |
-| Saturday | 2 hr | Match play with pressure elements |
+| Lundi | 1,5 h | Technique : Exercices de pointer |
+| Mercredi | 1,5 h | Technique : Exercices de tir |
+| Vendredi | 1 h | Mental : Visualisation, pratique de routine |
+| Samedi | 2 h | Jeu de match avec éléments de pression |
 
-### Example: Competitive Player (10 hours/week)
+### Exemple : Joueur compétitif (10 heures/semaine)
 
-| Day | Duration | Focus |
+| Jour | Durée | Focus |
 |-----|----------|-------|
-| Monday | 2 hr | Technical: Pointing (blocked → random) |
-| Tuesday | 1 hr | Mental training + visualization |
-| Wednesday | 2 hr | Technical: Shooting (blocked → random) |
-| Thursday | 1 hr | Video review + mental work |
-| Friday | 2 hr | Pressure simulation, game scenarios |
-| Saturday | 2 hr | Competition or match play |
+| Lundi | 2 h | Technique : Pointer (bloqué → aléatoire) |
+| Mardi | 1 h | Entraînement mental + visualisation |
+| Mercredi | 2 h | Technique : Tirer (bloqué → aléatoire) |
+| Jeudi | 1 h | Revue vidéo + travail mental |
+| Vendredi | 2 h | Simulation de pression, scénarios de jeu |
+| Samedi | 2 h | Compétition ou jeu de match |
 
-## Training Principles
+## Principes d'entraînement
 
-### 1. Quality Over Quantity
-- 30 focused minutes beats 2 hours of mindless repetition
-- Stop when focus drops
-- Better to end early than practice bad habits
+### 1. Qualité plutôt que quantité
+- 30 minutes concentrées battent 2 heures de répétition sans réflexion
+- Arrêtez quand la concentration baisse
+- Mieux vaut finir tôt que pratiquer de mauvaises habitudes
 
-### 2. Deliberate Practice
-- Have a specific goal for each session
-- Work at the edge of your ability
-- Get feedback (video, partner, results)
-- Adjust based on what you learn
+### 2. Pratique délibérée
+- Ayez un objectif spécifique pour chaque session
+- Travaillez à la limite de votre capacité
+- Obtenez des retours (vidéo, partenaire, résultats)
+- Ajustez en fonction de ce que vous apprenez
 
-### 3. Recovery Matters
-- Rest days are part of training
-- Sleep affects performance significantly
-- Mental fatigue is real - respect it
+### 3. La récupération compte
+- Les jours de repos font partie de l'entraînement
+- Le sommeil affecte significativement la performance
+- La fatigue mentale est réelle - respectez-la
 
-### 4. Track Everything
-- Keep a training log
-- Note what works and what doesn't
-- Review regularly
-- Adjust your plan based on data
+### 4. Tout suivre
+- Tenez un journal d'entraînement
+- Notez ce qui fonctionne et ce qui ne fonctionne pas
+- Révisez régulièrement
+- Ajustez votre plan en fonction des données
 
-## In This Section
+## Dans cette section
 
-- **[Training Drills](/fr/education/training/drills)** - Specific exercises for different skills
+- **[Exercices d'entraînement](/fr/education/training/drills)** - Exercices spécifiques pour différentes compétences
 
-## Key Takeaway
+## Point clé
 
-> How you train determines how you perform. Train like you want to play.
+> Comment vous vous entraînez détermine comment vous performez. Entraînez-vous comme vous voulez jouer.
 
-Mix your training. Include mental work. Create pressure. Track your progress.
+Mélangez votre entraînement. Incluez le travail mental. Créez de la pression. Suivez vos progrès.
 

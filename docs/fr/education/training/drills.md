@@ -1,224 +1,224 @@
-# Training Drills
+# Exercices d'entraînement
 
-Here are proven drills used by elite players. Each drill has a specific purpose - choose based on what you need to develop.
+Voici des exercices éprouvés utilisés par les joueurs d'élite. Chaque exercice a un objectif spécifique - choisissez en fonction de ce que vous devez développer.
 
-## Pointing Drills
+## Exercices de pointer
 
-### The Alley
-**Purpose:** Isolate release angle and line consistency
+### L'allée
+**Objectif :** Isoler l'angle de lâcher et la cohérence de ligne
 
-**Setup:**
-- Place two markers 30-40cm apart, about 1 meter from the circle
-- Target is 7-9 meters away
+**Configuration :**
+- Placez deux marqueurs à 30-40cm l'un de l'autre, à environ 1 mètre du cercle
+- La cible est à 7-9 mètres
 
-**Drill:**
-- Throw through the "alley" (between the markers)
-- Any throw that hits a marker is "dead"
-- Focus on consistent release point
+**Exercice :**
+- Lancez à travers "l'allée" (entre les marqueurs)
+- Tout lancer qui touche un marqueur est "mort"
+- Concentrez-vous sur un point de lâcher cohérent
 
-**Progression:**
-- Narrow the alley as you improve
-- Vary the target distance
-- Add a specific landing zone
+**Progression :**
+- Rétrécissez l'allée au fur et à mesure que vous vous améliorez
+- Variez la distance de la cible
+- Ajoutez une zone d'atterrissage spécifique
 
-### Precision Zones
-**Purpose:** Develop accuracy to specific areas
+### Zones de précision
+**Objectif :** Développer la précision vers des zones spécifiques
 
-**Setup:**
-- Mark zones around a target (e.g., circles at 20cm, 40cm, 60cm)
-- Or use natural markers on the terrain
+**Configuration :**
+- Marquez des zones autour d'une cible (par ex., cercles à 20cm, 40cm, 60cm)
+- Ou utilisez des marqueurs naturels sur le terrain
 
-**Scoring:**
-- Inside 20cm: 3 points
-- Inside 40cm: 2 points
-- Inside 60cm: 1 point
-- Outside: 0 points
+**Notation :**
+- À l'intérieur de 20cm : 3 points
+- À l'intérieur de 40cm : 2 points
+- À l'intérieur de 60cm : 1 point
+- À l'extérieur : 0 point
 
-**Drill:**
-- Throw 10 boules, track your score
-- Goal: Consistent improvement over sessions
+**Exercice :**
+- Lancez 10 boules, suivez votre score
+- Objectif : Amélioration constante au fil des sessions
 
-### Distance Variation
-**Purpose:** Develop depth control
+### Variation de distance
+**Objectif :** Développer le contrôle de la profondeur
 
-**Setup:**
-- Place targets at 6m, 7m, 8m, 9m, 10m
+**Configuration :**
+- Placez des cibles à 6m, 7m, 8m, 9m, 10m
 
-**Drill:**
-- Throw to each distance in random order
-- Partner calls out the distance
-- Focus on adjusting weight, not technique
+**Exercice :**
+- Lancez vers chaque distance dans un ordre aléatoire
+- Le partenaire annonce la distance
+- Concentrez-vous sur l'ajustement du poids, pas de la technique
 
-**Variation:**
-- Add "short" and "long" calls after you release
-- Must adjust mid-flight (develops feel)
+**Variation :**
+- Ajoutez des appels "court" et "long" après le lâcher
+- Doit ajuster en plein vol (développe le ressenti)
 
-## Shooting Drills
+## Exercices de tir
 
-### The Shooting Ladder
-**Purpose:** Build accuracy under progressive pressure
+### L'échelle de tir
+**Objectif :** Construire la précision sous pression progressive
 
-**Setup:**
-- Place a target boule at 6 meters
-- Mark distances at 7m, 8m, 9m, 10m
+**Configuration :**
+- Placez une boule cible à 6 mètres
+- Marquez les distances à 7m, 8m, 9m, 10m
 
-**Drill:**
-- Start at 6 meters
-- Hit = move back one meter
-- Miss = move forward one meter (or restart)
-- Goal: Reach 10 meters
+**Exercice :**
+- Commencez à 6 mètres
+- Touché = reculez d'un mètre
+- Raté = avancez d'un mètre (ou recommencez)
+- Objectif : Atteindre 10 mètres
 
-**Variations:**
-- Strict version: Any miss returns to 6m
-- Timed version: How far can you get in 10 minutes?
-- Team version: Alternate with partner
+**Variations :**
+- Version stricte : Tout raté retourne à 6m
+- Version chronométrée : Jusqu'où pouvez-vous aller en 10 minutes ?
+- Version équipe : Alternez avec un partenaire
 
-### The Barrier (Blox)
-**Purpose:** Force high arc shooting
+### La barrière (Blox)
+**Objectif :** Forcer le tir en arc haut
 
-**Setup:**
-- Place a barrier (stick, string, or obstacle) between you and target
-- Barrier should be high enough to require a lob
+**Configuration :**
+- Placez une barrière (bâton, corde ou obstacle) entre vous et la cible
+- La barrière doit être assez haute pour nécessiter un lob
 
-**Drill:**
-- Must clear the barrier to hit the target
-- Any throw that hits the barrier is "dead"
-- Develops high release point
+**Exercice :**
+- Doit franchir la barrière pour toucher la cible
+- Tout lancer qui touche la barrière est "mort"
+- Développe un point de lâcher haut
 
-**Why it matters:**
-- Competition often requires shooting over obstacles
-- Builds versatility in your shooting
+**Pourquoi c'est important :**
+- La compétition nécessite souvent de tirer par-dessus des obstacles
+- Construit la polyvalence dans votre tir
 
-### Obstacle Course
-**Purpose:** Develop shooting from different angles
+### Parcours d'obstacles
+**Objectif :** Développer le tir sous différents angles
 
-**Setup:**
-- Place target boule in center
-- Add obstacles (other boules, markers) around it
+**Configuration :**
+- Placez la boule cible au centre
+- Ajoutez des obstacles (autres boules, marqueurs) autour
 
-**Drill:**
-- Shoot from different positions around the circle
-- Must find the angle that works
-- Develops reading of shooting lines
+**Exercice :**
+- Tirez depuis différentes positions autour du cercle
+- Doit trouver l'angle qui fonctionne
+- Développe la lecture des lignes de tir
 
-## Mental Training Drills
+## Exercices d'entraînement mental
 
-### Routine Repetition
-**Purpose:** Make your pre-shot routine automatic
+### Répétition de routine
+**Objectif :** Rendre votre routine pré-lancer automatique
 
-**Drill:**
-- Practice your full routine without throwing
-- Go through every step deliberately
-- Do 10-20 repetitions
-- Then add the throw
+**Exercice :**
+- Pratiquez votre routine complète sans lancer
+- Passez par chaque étape délibérément
+- Faites 10-20 répétitions
+- Puis ajoutez le lancer
 
-**Focus:**
-- Consistent timing
-- Clear transition from thinking to executing
-- Same routine every time
+**Focus :**
+- Timing cohérent
+- Transition claire de la réflexion à l'exécution
+- Même routine à chaque fois
 
-### Pressure Points
-**Purpose:** Practice performing under pressure
+### Points de pression
+**Objectif :** Pratiquer la performance sous pression
 
-**Setup:**
-- Create a "must make" scenario
-- Set consequences for missing
+**Configuration :**
+- Créez un scénario "doit réussir"
+- Définissez des conséquences pour rater
 
-**Examples:**
-- "Make 3 in a row or start over"
-- "Miss and do 10 push-ups"
-- "Announce your target before throwing"
+**Exemples :**
+- "Faites 3 d'affilée ou recommencez"
+- "Ratez et faites 10 pompes"
+- "Annoncez votre cible avant de lancer"
 
-**Key:**
-- The pressure should feel real
-- Practice your mental response to pressure
-- Use your routine exactly as in competition
+**Clé :**
+- La pression doit sembler réelle
+- Pratiquez votre réponse mentale à la pression
+- Utilisez votre routine exactement comme en compétition
 
-### Recovery Practice
-**Purpose:** Build the habit of quick mental reset
+### Pratique de récupération
+**Objectif :** Construire l'habitude de réinitialisation mentale rapide
 
-**Drill:**
-- Intentionally throw a bad boule
-- Immediately practice SOAS (Stop, Observe, Accept, Slip)
-- Throw the next boule with full commitment
+**Exercice :**
+- Lancez intentionnellement une mauvaise boule
+- Pratiquez immédiatement SOAS (Stop, Observe, Accept, Slip)
+- Lancez la boule suivante avec un engagement total
 
-**Focus:**
-- Don't dwell on the miss
-- Reset completely before next throw
-- Maintain positive body language
+**Focus :**
+- Ne vous attardez pas sur le raté
+- Réinitialisez complètement avant le prochain lancer
+- Maintenez un langage corporel positif
 
-## Game Simulation Drills
+## Exercices de simulation de jeu
 
 ### Millieu's Delight
-**Purpose:** Break rhythm lock, build versatility
+**Objectif :** Briser le verrouillage du rythme, construire la polyvalence
 
-**Drill:**
-- Alternate between pointing and shooting every throw
-- No two consecutive throws of the same type
-- Develops ability to switch modes
+**Exercice :**
+- Alternez entre pointer et tirer à chaque lancer
+- Pas deux lancers consécutifs du même type
+- Développe la capacité à changer de mode
 
-### Scenario Play
-**Purpose:** Practice tactical decision-making
+### Jeu de scénario
+**Objectif :** Pratiquer la prise de décision tactique
 
-**Setup:**
-- Set up realistic game situations
-- Assign scores and boule counts
+**Configuration :**
+- Mettez en place des situations de jeu réalistes
+- Attribuez des scores et des comptes de boules
 
-**Examples:**
-- "You're down 10-8, opponent has 2 points, you have 2 boules"
-- "Tied 6-6, you have last boule, they have 1 point"
+**Exemples :**
+- "Vous êtes mené 10-8, l'adversaire a 2 points, vous avez 2 boules"
+- "Égalité 6-6, vous avez la dernière boule, ils ont 1 point"
 
-**Drill:**
-- Decide what to do
-- Execute with full commitment
-- Review the decision afterward
+**Exercice :**
+- Décidez quoi faire
+- Exécutez avec un engagement total
+- Examinez la décision après
 
-### Match Play with Rules
-**Purpose:** Competition simulation
+### Jeu de match avec règles
+**Objectif :** Simulation de compétition
 
-**Variations:**
-- Play to 13 (full game)
-- Play to 7 (shorter, more games)
-- "Pressure points" - certain ends worth double
-- "Sudden death" - first to lose an end loses the game
+**Variations :**
+- Jouez jusqu'à 13 (jeu complet)
+- Jouez jusqu'à 7 (plus court, plus de jeux)
+- "Points de pression" - certaines manches valent double
+- "Mort subite" - le premier à perdre une manche perd le jeu
 
-## Tracking Your Drills
+## Suivi de vos exercices
 
-Keep a log for each drill:
+Tenez un journal pour chaque exercice :
 
-| Date | Drill | Score/Result | Notes |
+| Date | Exercice | Score/Résultat | Notes |
 |------|-------|--------------|-------|
 | | | | |
 
-**Track over time:**
-- Are you improving?
-- Which drills help most?
-- Where do you struggle?
+**Suivez dans le temps :**
+- Vous améliorez-vous ?
+- Quels exercices aident le plus ?
+- Où avez-vous des difficultés ?
 
-## Building a Drill Session
+## Construire une session d'exercices
 
-### Warm-up (10 min)
-- Easy throws to loosen up
-- No pressure, just feel
+### Échauffement (10 min)
+- Lancers faciles pour se détendre
+- Pas de pression, juste le ressenti
 
-### Technical Focus (20-30 min)
-- One or two drills targeting specific skills
-- Blocked practice for new skills
-- Random practice for established skills
+### Focus technique (20-30 min)
+- Un ou deux exercices ciblant des compétences spécifiques
+- Pratique bloquée pour les nouvelles compétences
+- Pratique aléatoire pour les compétences établies
 
-### Pressure/Game Simulation (20-30 min)
-- Add consequences
-- Create realistic scenarios
-- Practice mental skills
+### Pression/Simulation de jeu (20-30 min)
+- Ajoutez des conséquences
+- Créez des scénarios réalistes
+- Pratiquez les compétences mentales
 
-### Cool-down (10 min)
-- Easy throws
-- Reflect on the session
-- Note what to work on next
+### Retour au calme (10 min)
+- Lancers faciles
+- Réfléchissez sur la session
+- Notez ce sur quoi travailler ensuite
 
-## Key Takeaway
+## Point clé
 
-> Drills are tools. Choose the right tool for what you need to build.
+> Les exercices sont des outils. Choisissez le bon outil pour ce que vous devez construire.
 
-Don't just throw boules. Train with purpose.
+Ne lancez pas simplement des boules. Entraînez-vous avec un objectif.
 

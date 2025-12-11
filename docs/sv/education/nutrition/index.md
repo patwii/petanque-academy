@@ -1,160 +1,160 @@
-# Nutrition for Precision Performance
+# Näring för precisionsprestanda
 
-Pétanque is a precision sport, not an endurance sport. Your nutritional needs are different from a marathon runner or a football player. What matters most is **brain fuel stability** - keeping your mind sharp and your hands steady throughout a long competition day.
+Pétanque är en precisionssport, inte en uthållighetssport. Dina näringsbehov skiljer sig från en maratonlöpare eller fotbollsspelare. Det viktigaste är **hjärnbränslestabilitet** - att hålla ditt sinne skarpt och dina händer stadiga under en lång tävlingsdag.
 
-## The Precision Athlete's Challenge
+## Precisionsatletens utmaning
 
-Unlike high-intensity sports, pétanque doesn't require massive glycogen stores or rapid energy replenishment. What it requires is:
+Till skillnad från högintensiva sporter kräver pétanque inte massiva glykogenlager eller snabb energipåfyllning. Vad det kräver är:
 
-- **Stable blood sugar** - no spikes or crashes
-- **Consistent mental clarity** - focus that lasts all day
-- **Steady hands** - no tremors or shakes
-- **Calm nerves** - low anxiety and stress response
+- **Stabilt blodsocker** - inga toppar eller fall
+- **Konsekvent mental klarhet** - fokus som varar hela dagen
+- **Stadiga händer** - inga skakningar eller darr
+- **Lugna nerver** - låg ångest och stressrespons
 
-Your nutrition strategy should optimize for these factors, not for raw energy output.
+Din näringsstrategi bör optimera för dessa faktorer, inte för rå energiproduktion.
 
-## The Problem with Sugar and Simple Carbs
+## Problemet med socker och enkla kolhydrater
 
-Many athletes default to high-carbohydrate diets. For pétanque players, this can actually hurt performance.
+Många atleter väljer som standard kolhydratrika dieter. För pétanque-spelare kan detta faktiskt skada prestationen.
 
-### The Blood Sugar Roller Coaster
+### Blodsockerbergochdalbanan
 
-When you eat sugar or simple carbs:
-1. Blood sugar spikes rapidly
-2. Insulin is released to bring it down
-3. Blood sugar crashes (hypoglycemia)
-4. Your body releases adrenaline to compensate
-5. You experience tremors, anxiety, and poor focus
+När du äter socker eller enkla kolhydrater:
+1. Blodsockret stiger snabbt
+2. Insulin frisätts för att sänka det
+3. Blodsockret störtar (hypoglykemi)
+4. Din kropp frisätter adrenalin för att kompensera
+5. Du upplever skakningar, ångest och dåligt fokus
 
-**This is the opposite of what you need for precision.**
+**Detta är motsatsen till vad du behöver för precision.**
 
-### Symptoms of Blood Sugar Instability
+### Symtom på blodsockerinstabilitet
 
-| Symptom | Impact on Performance |
+| Symtom | Påverkan på prestanda |
 |---------|----------------------|
-| Trembling hands | Inconsistent release |
-| Difficulty concentrating | Poor decision-making |
-| Irritability | Team conflict, poor composure |
-| Fatigue after meals | Afternoon slump |
-| Anxiety | Pressure sensitivity |
-| Brain fog | Slow tactical thinking |
+| Skakande händer | Inkonsekvent släpp |
+| Koncentrationssvårigheter | Dåligt beslutsfattande |
+| Irritabilitet | Teamkonflikt, dålig hållning |
+| Trötthet efter måltider | Eftermiddagsdipp |
+| Ångest | Tryckkänslighet |
+| Hjärndimma | Långsamt taktiskt tänkande |
 
-## A Better Approach: Stable Energy
+## Ett bättre tillvägagångssätt: Stabil energi
 
-The goal is to provide your brain with consistent fuel without the roller coaster.
+Målet är att ge din hjärna konsekvent bränsle utan bergochdalbanan.
 
-### Key Principles
+### Nyckelprinciper
 
-1. **Prioritize protein and healthy fats** - They provide slow, steady energy
-2. **Choose complex carbs over simple** - If you eat carbs, choose ones that digest slowly
-3. **Avoid sugar spikes** - Especially before and during competition
-4. **Stay hydrated** - Dehydration affects concentration significantly
-5. **Eat regularly** - Don't let yourself get too hungry
+1. **Prioritera protein och nyttiga fetter** - De ger långsam, stadig energi
+2. **Välj komplexa kolhydrater framför enkla** - Om du äter kolhydrater, välj de som smälts långsamt
+3. **Undvik sockertoppar** - Särskilt före och under tävling
+4. **Håll dig hydrerad** - Dehydrering påverkar koncentrationen avsevärt
+5. **Ät regelbundet** - Låt dig inte bli för hungrig
 
-### Foods That Help
+### Livsmedel som hjälper
 
-| Food Type | Examples | Why It Works |
+| Livsmedelstyp | Exempel | Varför det fungerar |
 |-----------|----------|--------------|
-| Protein | Eggs, nuts, cheese, meat | Slow digestion, stable energy |
-| Healthy fats | Avocado, olive oil, nuts | Long-lasting fuel |
-| Complex carbs | Vegetables, legumes | Fiber slows absorption |
-| Low-sugar fruits | Berries, apples | Nutrients without spike |
+| Protein | Ägg, nötter, ost, kött | Långsam matsmältning, stabil energi |
+| Nyttiga fetter | Avokado, olivolja, nötter | Långvarigt bränsle |
+| Komplexa kolhydrater | Grönsaker, baljväxter | Fiber saktar absorption |
+| Lågsocker frukt | Bär, äpplen | Näringsämnen utan topp |
 
-### Foods to Limit
+### Livsmedel att begränsa
 
-| Food Type | Examples | Why It's Problematic |
+| Livsmedelstyp | Exempel | Varför det är problematiskt |
 |-----------|----------|---------------------|
-| Sugar | Candy, soda, pastries | Rapid spike and crash |
-| White bread/pasta | Sandwiches, pasta dishes | Quick conversion to sugar |
-| Fruit juice | Orange juice, smoothies | Concentrated sugar |
-| Energy drinks | Most commercial brands | Sugar + caffeine crash |
+| Socker | Godis, läsk, bakverk | Snabb topp och fall |
+| Vitt bröd/pasta | Smörgåsar, pastarätter | Snabb omvandling till socker |
+| Fruktjuice | Apelsinjuice, smoothies | Koncentrerat socker |
+| Energidrycker | De flesta kommersiella märken | Socker + koffein-fall |
 
-## Competition Day Nutrition
+## Tävlingsdag näring
 
-### Before Competition
+### Före tävling
 
-**2-3 hours before:**
-- Balanced meal with protein, fat, and vegetables
-- Avoid heavy carbs that might cause drowsiness
-- Example: Eggs with vegetables, or salad with chicken
+**2-3 timmar innan:**
+- Balanserad måltid med protein, fett och grönsaker
+- Undvik tunga kolhydrater som kan orsaka dåsighet
+- Exempel: Ägg med grönsaker, eller sallad med kyckling
 
-**1 hour before:**
-- Light snack if needed
-- Nuts, cheese, or a small portion of protein
-- Avoid anything sugary
+**1 timme innan:**
+- Lätt mellanmål om det behövs
+- Nötter, ost eller en liten portion protein
+- Undvik allt sött
 
-### During Competition
+### Under tävling
 
-**Between games:**
-- Water (most important)
-- Small protein snacks (nuts, cheese, meat)
-- Avoid sugary snacks and drinks
+**Mellan matcher:**
+- Vatten (viktigast)
+- Små proteinmellanmål (nötter, ost, kött)
+- Undvik söta mellanmål och drycker
 
-**Signs you need to eat:**
-- Difficulty concentrating
-- Irritability
-- Feeling shaky
-- Headache
+**Tecken på att du behöver äta:**
+- Koncentrationssvårigheter
+- Irritabilitet
+- Känsla av skakighet
+- Huvudvärk
 
-### After Competition
+### Efter tävling
 
-- Replenish with a balanced meal
-- Rehydrate fully
-- Don't "reward" yourself with sugar - it will affect your recovery
+- Påfyll med en balanserad måltid
+- Rehydrera fullständigt
+- "Belöna" dig inte med socker - det kommer påverka din återhämtning
 
-## Hydration
+## Hydrering
 
-Dehydration affects cognitive function before you feel thirsty.
+Dehydrering påverkar kognitiv funktion innan du känner dig törstig.
 
-### Guidelines
+### Riktlinjer
 
-- **Start hydrated** - Drink water throughout the day before competition
-- **During play** - Sip water regularly, don't wait until thirsty
-- **Avoid excess caffeine** - It's a diuretic
-- **Watch for signs** - Headache, dark urine, fatigue
+- **Börja hydrerad** - Drick vatten under hela dagen före tävling
+- **Under spel** - Sippa vatten regelbundet, vänta inte tills du är törstig
+- **Undvik för mycket koffein** - Det är ett diuretikum
+- **Håll utkik efter tecken** - Huvudvärk, mörk urin, trötthet
 
-### How Much?
+### Hur mycket?
 
-A general guideline: aim for pale yellow urine. If it's dark, you need more water.
+En allmän riktlinje: sikta på ljusgul urin. Om den är mörk behöver du mer vatten.
 
-## The Low-Carb Option
+## Lågkolhydrat-alternativet
 
-Some precision athletes adopt low-carb or ketogenic diets. The theory:
+Vissa precisionsatleter antar lågkolhydrat- eller ketogena dieter. Teorin:
 
-**Potential benefits:**
-- Very stable blood sugar (no spikes possible)
-- Consistent mental clarity
-- Reduced anxiety and tremors
-- No afternoon energy crashes
+**Potentiella fördelar:**
+- Mycket stabilt blodsocker (inga toppar möjliga)
+- Konsekvent mental klarhet
+- Minskad ångest och skakningar
+- Inga eftermiddags energifall
 
-**Considerations:**
-- Requires adaptation period (1-2 weeks)
-- Not suitable for everyone
-- Requires planning and commitment
-- Consult a healthcare provider first
+**Överväganden:**
+- Kräver anpassningsperiod (1-2 veckor)
+- Inte lämpligt för alla
+- Kräver planering och engagemang
+- Konsultera en vårdgivare först
 
-This is an advanced strategy - not necessary for everyone, but worth considering if blood sugar stability is a significant issue for you.
+Detta är en avancerad strategi - inte nödvändig för alla, men värt att överväga om blodsockerstabilitet är ett betydande problem för dig.
 
-## Practical Tips
+## Praktiska tips
 
-### Easy Competition Snacks
-- Mixed nuts (unsalted)
-- Hard-boiled eggs
-- Cheese cubes
-- Beef or turkey jerky
-- Vegetables with hummus
-- Olives
+### Enkla tävlingsmellanmål
+- Blandade nötter (osaltade)
+- Hårdkokta ägg
+- Osttärningar
+- Nöt- eller kalkonjärky
+- Grönsaker med hummus
+- Oliver
 
-### What to Avoid
-- Vending machine snacks
-- Sugary sports drinks
-- Pastries and baked goods
-- Candy and chocolate bars
-- Most "energy" bars (check sugar content)
+### Vad man ska undvika
+- Automatmellanmål
+- Söta sportdrycker
+- Bakverk och bakade varor
+- Godis och chokladkakor
+- De flesta "energi" barer (kontrollera sockerinnehåll)
 
-## Key Takeaway
+## Nyckelpunkt
 
-> Your brain is your most important tool in pétanque. Feed it stable fuel, not roller coaster energy.
+> Din hjärna är ditt viktigaste verktyg i pétanque. Mata den med stabilt bränsle, inte bergochdalbane-energi.
 
-Focus on protein, healthy fats, and staying hydrated. Avoid sugar spikes. Your concentration, composure, and steady hands will thank you.
+Fokusera på protein, nyttiga fetter och att hålla dig hydrerad. Undvik sockertoppar. Din koncentration, hållning och stadiga händer kommer tacka dig.
 

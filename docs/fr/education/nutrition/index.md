@@ -1,160 +1,160 @@
-# Nutrition for Precision Performance
+# Nutrition pour performance de précision
 
-Pétanque is a precision sport, not an endurance sport. Your nutritional needs are different from a marathon runner or a football player. What matters most is **brain fuel stability** - keeping your mind sharp and your hands steady throughout a long competition day.
+La pétanque est un sport de précision, pas un sport d'endurance. Vos besoins nutritionnels sont différents de ceux d'un marathonien ou d'un footballeur. Ce qui compte le plus est **la stabilité du carburant cérébral** - garder votre esprit vif et vos mains stables tout au long d'une longue journée de compétition.
 
-## The Precision Athlete's Challenge
+## Le défi de l'athlète de précision
 
-Unlike high-intensity sports, pétanque doesn't require massive glycogen stores or rapid energy replenishment. What it requires is:
+Contrairement aux sports de haute intensité, la pétanque ne nécessite pas de réserves massives de glycogène ou de reconstitution rapide d'énergie. Ce qu'elle nécessite est :
 
-- **Stable blood sugar** - no spikes or crashes
-- **Consistent mental clarity** - focus that lasts all day
-- **Steady hands** - no tremors or shakes
-- **Calm nerves** - low anxiety and stress response
+- **Glycémie stable** - pas de pics ni de chutes
+- **Clarté mentale constante** - concentration qui dure toute la journée
+- **Mains stables** - pas de tremblements ni de secousses
+- **Nerfs calmes** - faible anxiété et réponse au stress
 
-Your nutrition strategy should optimize for these factors, not for raw energy output.
+Votre stratégie nutritionnelle devrait optimiser ces facteurs, pas la production d'énergie brute.
 
-## The Problem with Sugar and Simple Carbs
+## Le problème avec le sucre et les glucides simples
 
-Many athletes default to high-carbohydrate diets. For pétanque players, this can actually hurt performance.
+Beaucoup d'athlètes optent par défaut pour des régimes riches en glucides. Pour les joueurs de pétanque, cela peut en fait nuire à la performance.
 
-### The Blood Sugar Roller Coaster
+### Les montagnes russes de la glycémie
 
-When you eat sugar or simple carbs:
-1. Blood sugar spikes rapidly
-2. Insulin is released to bring it down
-3. Blood sugar crashes (hypoglycemia)
-4. Your body releases adrenaline to compensate
-5. You experience tremors, anxiety, and poor focus
+Lorsque vous mangez du sucre ou des glucides simples :
+1. La glycémie augmente rapidement
+2. L'insuline est libérée pour la faire baisser
+3. La glycémie chute (hypoglycémie)
+4. Votre corps libère de l'adrénaline pour compenser
+5. Vous ressentez des tremblements, de l'anxiété et une mauvaise concentration
 
-**This is the opposite of what you need for precision.**
+**C'est l'opposé de ce dont vous avez besoin pour la précision.**
 
-### Symptoms of Blood Sugar Instability
+### Symptômes d'instabilité de la glycémie
 
-| Symptom | Impact on Performance |
+| Symptôme | Impact sur la performance |
 |---------|----------------------|
-| Trembling hands | Inconsistent release |
-| Difficulty concentrating | Poor decision-making |
-| Irritability | Team conflict, poor composure |
-| Fatigue after meals | Afternoon slump |
-| Anxiety | Pressure sensitivity |
-| Brain fog | Slow tactical thinking |
+| Mains tremblantes | Relâchement incohérent |
+| Difficulté à se concentrer | Mauvaise prise de décision |
+| Irritabilité | Conflit d'équipe, mauvaise contenance |
+| Fatigue après les repas | Baisse de l'après-midi |
+| Anxiété | Sensibilité à la pression |
+| Brouillard cérébral | Pensée tactique lente |
 
-## A Better Approach: Stable Energy
+## Une meilleure approche : Énergie stable
 
-The goal is to provide your brain with consistent fuel without the roller coaster.
+L'objectif est de fournir à votre cerveau un carburant constant sans les montagnes russes.
 
-### Key Principles
+### Principes clés
 
-1. **Prioritize protein and healthy fats** - They provide slow, steady energy
-2. **Choose complex carbs over simple** - If you eat carbs, choose ones that digest slowly
-3. **Avoid sugar spikes** - Especially before and during competition
-4. **Stay hydrated** - Dehydration affects concentration significantly
-5. **Eat regularly** - Don't let yourself get too hungry
+1. **Priorisez les protéines et les graisses saines** - Elles fournissent une énergie lente et régulière
+2. **Choisissez des glucides complexes plutôt que simples** - Si vous mangez des glucides, choisissez ceux qui se digèrent lentement
+3. **Évitez les pics de sucre** - Surtout avant et pendant la compétition
+4. **Restez hydraté** - La déshydratation affecte considérablement la concentration
+5. **Mangez régulièrement** - Ne vous laissez pas avoir trop faim
 
-### Foods That Help
+### Aliments qui aident
 
-| Food Type | Examples | Why It Works |
+| Type d'aliment | Exemples | Pourquoi ça marche |
 |-----------|----------|--------------|
-| Protein | Eggs, nuts, cheese, meat | Slow digestion, stable energy |
-| Healthy fats | Avocado, olive oil, nuts | Long-lasting fuel |
-| Complex carbs | Vegetables, legumes | Fiber slows absorption |
-| Low-sugar fruits | Berries, apples | Nutrients without spike |
+| Protéines | Œufs, noix, fromage, viande | Digestion lente, énergie stable |
+| Graisses saines | Avocat, huile d'olive, noix | Carburant durable |
+| Glucides complexes | Légumes, légumineuses | Les fibres ralentissent l'absorption |
+| Fruits à faible teneur en sucre | Baies, pommes | Nutriments sans pic |
 
-### Foods to Limit
+### Aliments à limiter
 
-| Food Type | Examples | Why It's Problematic |
+| Type d'aliment | Exemples | Pourquoi c'est problématique |
 |-----------|----------|---------------------|
-| Sugar | Candy, soda, pastries | Rapid spike and crash |
-| White bread/pasta | Sandwiches, pasta dishes | Quick conversion to sugar |
-| Fruit juice | Orange juice, smoothies | Concentrated sugar |
-| Energy drinks | Most commercial brands | Sugar + caffeine crash |
+| Sucre | Bonbons, sodas, pâtisseries | Pic et chute rapides |
+| Pain blanc/pâtes | Sandwichs, plats de pâtes | Conversion rapide en sucre |
+| Jus de fruits | Jus d'orange, smoothies | Sucre concentré |
+| Boissons énergétiques | La plupart des marques commerciales | Chute de sucre + caféine |
 
-## Competition Day Nutrition
+## Nutrition du jour de compétition
 
-### Before Competition
+### Avant la compétition
 
-**2-3 hours before:**
-- Balanced meal with protein, fat, and vegetables
-- Avoid heavy carbs that might cause drowsiness
-- Example: Eggs with vegetables, or salad with chicken
+**2-3 heures avant :**
+- Repas équilibré avec protéines, graisses et légumes
+- Évitez les glucides lourds qui pourraient causer de la somnolence
+- Exemple : Œufs avec légumes, ou salade avec poulet
 
-**1 hour before:**
-- Light snack if needed
-- Nuts, cheese, or a small portion of protein
-- Avoid anything sugary
+**1 heure avant :**
+- Collation légère si nécessaire
+- Noix, fromage ou une petite portion de protéines
+- Évitez tout ce qui est sucré
 
-### During Competition
+### Pendant la compétition
 
-**Between games:**
-- Water (most important)
-- Small protein snacks (nuts, cheese, meat)
-- Avoid sugary snacks and drinks
+**Entre les jeux :**
+- Eau (le plus important)
+- Petites collations protéinées (noix, fromage, viande)
+- Évitez les collations et boissons sucrées
 
-**Signs you need to eat:**
-- Difficulty concentrating
-- Irritability
-- Feeling shaky
-- Headache
+**Signes que vous devez manger :**
+- Difficulté à se concentrer
+- Irritabilité
+- Sensation de tremblement
+- Mal de tête
 
-### After Competition
+### Après la compétition
 
-- Replenish with a balanced meal
-- Rehydrate fully
-- Don't "reward" yourself with sugar - it will affect your recovery
+- Reconstituez avec un repas équilibré
+- Réhydratez-vous complètement
+- Ne vous "récompensez" pas avec du sucre - cela affectera votre récupération
 
-## Hydration
+## Hydratation
 
-Dehydration affects cognitive function before you feel thirsty.
+La déshydratation affecte la fonction cognitive avant que vous ne ressentiez la soif.
 
-### Guidelines
+### Directives
 
-- **Start hydrated** - Drink water throughout the day before competition
-- **During play** - Sip water regularly, don't wait until thirsty
-- **Avoid excess caffeine** - It's a diuretic
-- **Watch for signs** - Headache, dark urine, fatigue
+- **Commencez hydraté** - Buvez de l'eau tout au long de la journée avant la compétition
+- **Pendant le jeu** - Sirotez de l'eau régulièrement, n'attendez pas d'avoir soif
+- **Évitez l'excès de caféine** - C'est un diurétique
+- **Surveillez les signes** - Mal de tête, urine foncée, fatigue
 
-### How Much?
+### Combien ?
 
-A general guideline: aim for pale yellow urine. If it's dark, you need more water.
+Une directive générale : visez une urine jaune pâle. Si elle est foncée, vous avez besoin de plus d'eau.
 
-## The Low-Carb Option
+## L'option faible en glucides
 
-Some precision athletes adopt low-carb or ketogenic diets. The theory:
+Certains athlètes de précision adoptent des régimes faibles en glucides ou cétogènes. La théorie :
 
-**Potential benefits:**
-- Very stable blood sugar (no spikes possible)
-- Consistent mental clarity
-- Reduced anxiety and tremors
-- No afternoon energy crashes
+**Avantages potentiels :**
+- Glycémie très stable (pas de pics possibles)
+- Clarté mentale constante
+- Anxiété et tremblements réduits
+- Pas de chutes d'énergie l'après-midi
 
-**Considerations:**
-- Requires adaptation period (1-2 weeks)
-- Not suitable for everyone
-- Requires planning and commitment
-- Consult a healthcare provider first
+**Considérations :**
+- Nécessite une période d'adaptation (1-2 semaines)
+- Pas adapté à tout le monde
+- Nécessite planification et engagement
+- Consultez d'abord un professionnel de santé
 
-This is an advanced strategy - not necessary for everyone, but worth considering if blood sugar stability is a significant issue for you.
+C'est une stratégie avancée - pas nécessaire pour tout le monde, mais à considérer si la stabilité de la glycémie est un problème important pour vous.
 
-## Practical Tips
+## Conseils pratiques
 
-### Easy Competition Snacks
-- Mixed nuts (unsalted)
-- Hard-boiled eggs
-- Cheese cubes
-- Beef or turkey jerky
-- Vegetables with hummus
+### Collations faciles pour la compétition
+- Noix mélangées (non salées)
+- Œufs durs
+- Cubes de fromage
+- Viande séchée de bœuf ou de dinde
+- Légumes avec houmous
 - Olives
 
-### What to Avoid
-- Vending machine snacks
-- Sugary sports drinks
-- Pastries and baked goods
-- Candy and chocolate bars
-- Most "energy" bars (check sugar content)
+### Ce qu'il faut éviter
+- Collations de distributeurs automatiques
+- Boissons sportives sucrées
+- Pâtisseries et produits de boulangerie
+- Bonbons et barres de chocolat
+- La plupart des barres "énergétiques" (vérifiez la teneur en sucre)
 
-## Key Takeaway
+## Point clé
 
-> Your brain is your most important tool in pétanque. Feed it stable fuel, not roller coaster energy.
+> Votre cerveau est votre outil le plus important en pétanque. Nourrissez-le avec un carburant stable, pas une énergie de montagnes russes.
 
-Focus on protein, healthy fats, and staying hydrated. Avoid sugar spikes. Your concentration, composure, and steady hands will thank you.
+Concentrez-vous sur les protéines, les graisses saines et restez hydraté. Évitez les pics de sucre. Votre concentration, votre contenance et vos mains stables vous remercieront.
 

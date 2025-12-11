@@ -1,154 +1,154 @@
-# Probability-Based Decision Making
+# Sannolikhetsbaserat beslutsfattande
 
-Elite tactical thinking uses probability to make better decisions. Instead of guessing or going with gut feeling, you think systematically about your options.
+Elittaktiskt tänkande använder sannolikhet för att fatta bättre beslut. Istället för att gissa eller följa magkänslan, tänker du systematiskt över dina alternativ.
 
-## The Basic Framework
+## Det grundläggande ramverket
 
-Every throw has:
-- A **probability of success** (how likely you are to execute it)
-- A **reward if successful** (what you gain)
-- A **cost if unsuccessful** (what you lose or give up)
+Varje kast har:
+- En **sannolikhet för framgång** (hur sannolikt det är att du utför det)
+- En **belöning vid framgång** (vad du vinner)
+- En **kostnad vid misslyckande** (vad du förlorar eller ger upp)
 
-Good decisions maximize expected value over time.
+Goda beslut maximerar förväntat värde över tid.
 
-## Thinking in Probabilities
+## Tänka i sannolikheter
 
-When deciding between options, consider:
-- What's my realistic success rate for each option?
-- What do I gain if it works?
-- What's the cost if it fails?
-- How does the game situation affect my choice?
+När du beslutar mellan alternativ, överväg:
+- Vad är min realistiska framgångsgrad för varje alternativ?
+- Vad vinner jag om det fungerar?
+- Vad är kostnaden om det misslyckas?
+- Hur påverkar spelsituationen mitt val?
 
-The best option isn't always the most aggressive or the safest - it's the one that gives you the best outcome over many similar situations.
+Det bästa alternativet är inte alltid det mest aggressiva eller det säkraste - det är det som ger dig det bästa resultatet över många liknande situationer.
 
-## Know Your Numbers
+## Känn dina siffror
 
-To use probability thinking, you need to know your actual success rates:
+För att använda sannolikhetstänkande måste du känna dina faktiska framgångsgrader:
 
-| Throw Type | Distance | Your Success Rate |
+| Kasttyp | Avstånd | Din framgångsgrad |
 |------------|----------|-------------------|
-| Point (close) | 6-7m | ___% |
-| Point (medium) | 8-9m | ___% |
-| Point (long) | 10m+ | ___% |
-| Shoot (close) | 6-7m | ___% |
-| Shoot (medium) | 8-9m | ___% |
-| Shoot (long) | 10m+ | ___% |
+| Poäng (nära) | 6-7m | ___% |
+| Poäng (medel) | 8-9m | ___% |
+| Poäng (långt) | 10m+ | ___% |
+| Skjuta (nära) | 6-7m | ___% |
+| Skjuta (medel) | 8-9m | ___% |
+| Skjuta (långt) | 10m+ | ___% |
 
-Track these in practice. Be honest - most players overestimate their success rates.
+Spåra dessa i träning. Var ärlig - de flesta spelare överskattar sina framgångsgrader.
 
-## Adjusting for Conditions
+## Justera för förhållanden
 
-Your base rates change based on:
+Dina basgrader ändras baserat på:
 
-| Factor | Effect on Success Rate |
+| Faktor | Effekt på framgångsgrad |
 |--------|----------------------|
-| Unfamiliar terrain | -10 to -20% |
-| Pressure situation | -5 to -15% |
-| Fatigue | -5 to -10% |
-| Confidence (high) | +5 to +10% |
-| Recent success | +5% |
-| Recent failure | -5 to -10% |
+| Okänd terräng | -10 till -20% |
+| Trycksituation | -5 till -15% |
+| Trötthet | -5 till -10% |
+| Självförtroende (högt) | +5 till +10% |
+| Nylig framgång | +5% |
+| Nyligt misslyckande | -5 till -10% |
 
-Be realistic about these adjustments.
+Var realistisk om dessa justeringar.
 
-## The Boule Advantage Principle
+## Kulfördelsprincipen
 
-When you have more boules remaining than your opponent:
+När du har fler kulor kvar än din motståndare:
 
-**Priority 1: Secure the point**
-- First, ensure you're holding at least one point
-- Don't get greedy before you've secured the basics
+**Prioritet 1: Säkra poänget**
+- Först, se till att du håller minst ett poäng
+- Var inte girig innan du har säkrat grunderna
 
-**Priority 2: Maximize points with calculated risk**
-- Once you're holding, assess if you can add more points
-- Each additional throw is a risk/reward decision
-- Don't turn a safe 2-point win into a loss by overreaching
+**Prioritet 2: Maximera poäng med beräknad risk**
+- När du håller, bedöm om du kan lägga till fler poäng
+- Varje extra kast är ett risk/belöning beslut
+- Förvandla inte en säker 2-poängs vinst till en förlust genom att sträcka dig för långt
 
-**Fewer boules remaining:** You need to make each throw count. Safe plays might not be enough - consider higher-reward options to get back in the end.
+**Färre kulor kvar:** Du måste få varje kast att räknas. Säkra spel kanske inte räcker - överväg alternativ med högre belöning för att komma tillbaka i slutet.
 
-## The "Une Boule Devant" Principle
+## "Une Boule Devant" principen
 
-A boule in front of the jack (between jack and opponent) is extremely valuable:
-- It blocks direct pointing lines
-- It forces opponents to go around or over
-- It can deflect incoming boules
-- It's a "money boule" - worth protecting
+En kula framför cochonnet (mellan cochonnet och motståndare) är extremt värdefull:
+- Den blockerar direkta poänglinjer
+- Den tvingar motståndare att gå runt eller över
+- Den kan avleda inkommande kulor
+- Det är en "pengakula" - värd att skydda
 
-**Tactical implication:** Sometimes placing a blocking boule is better than trying to get closest.
+**Taktisk implikation:** Ibland är det bättre att placera en blockeringskula än att försöka komma närmast.
 
-## Risk Tolerance by Game State
+## Risktolerans per spelstatus
 
-### With Time Limit
+### Med tidsgräns
 
-When playing with a time limit, score differential matters:
+När du spelar med tidsgräns räknas poängskillnaden:
 
-| Score Situation | Risk Approach |
+| Poängsituation | Riskansats |
 |-----------------|---------------|
-| Leading by 4+ | Very conservative - protect lead, run the clock |
-| Leading by 1-3 | Conservative - don't give away points |
-| Tied | Balanced - calculated risks |
-| Behind by 1-3 | Aggressive - need to gain ground |
-| Behind by 4+ | Very aggressive - must take chances, time is running out |
+| Före med 4+ | Mycket konservativ - skydda försprång, kör ner klockan |
+| Före med 1-3 | Konservativ - ge inte bort poäng |
+| Lika | Balanserad - beräknade risker |
+| Efter med 1-3 | Aggressiv - måste vinna mark |
+| Efter med 4+ | Mycket aggressiv - måste ta chanser, tiden rinner ut |
 
-### Without Time Limit
+### Utan tidsgräns
 
-When there's no time pressure:
-- Stick to your game plan - don't change strategy just because of the score
-- The score will fluctuate - trust your approach
-- Only consider changing your game plan if it's clearly not working against this opponent
-- Panic changes when behind often make things worse
+När det inte finns tidspress:
+- Håll dig till din spelplan - ändra inte strategi bara på grund av poängen
+- Poängen kommer att fluktuera - lita på din ansats
+- Överväg bara att ändra din spelplan om den tydligt inte fungerar mot denna motståndare
+- Panikändringar när du är efter gör ofta saker värre
 
-### End-Game Adjustments
+### Slutspelsjusteringar
 
-**If winning this end wins the game:**
-- Be more conservative
-- Don't risk giving away multiple points
-- A single point might be enough
+**Om att vinna denna omgång vinner matchen:**
+- Var mer konservativ
+- Riskera inte att ge bort flera poäng
+- Ett enda poäng kan räcka
 
-**If losing this end loses the game:**
-- Take bigger risks
-- Need to score multiple points
-- Safe play won't save you
+**Om att förlora denna omgång förlorar matchen:**
+- Ta större risker
+- Måste göra flera poäng
+- Säkert spel kommer inte rädda dig
 
-## Common Probability Mistakes
+## Vanliga sannolikhetsfel
 
-### 1. Overconfidence
-"I can make that shot" - but can you make it 7 times out of 10? Be honest.
+### 1. Övermod
+"Jag kan göra det skottet" - men kan du göra det 7 gånger av 10? Var ärlig.
 
-### 2. Ignoring Base Rates
-Your shooting percentage doesn't change because the moment is important.
+### 2. Ignorera basgrader
+Din skjutprocent ändras inte för att ögonblicket är viktigt.
 
-### 3. Sunk Cost Fallacy
-"I've already missed twice, I should keep shooting" - each throw is independent.
+### 3. Sunk cost felslut
+"Jag har redan missat två gånger, jag borde fortsätta skjuta" - varje kast är oberoende.
 
-### 4. Outcome Bias
-A risky shot that worked was still risky. A safe play that failed was still correct.
+### 4. Resultatbias
+Ett riskabelt skott som fungerade var fortfarande riskabelt. Ett säkert spel som misslyckades var fortfarande korrekt.
 
-### 5. Ignoring Opponent's Options
-Consider what they'll do after your throw, successful or not.
+### 5. Ignorera motståndarens alternativ
+Överväg vad de kommer att göra efter ditt kast, framgångsrikt eller inte.
 
-## Practical Application
+## Praktisk tillämpning
 
-### Before Each Throw
+### Före varje kast
 
-1. **Identify options** (point, shoot, block, etc.)
-2. **Estimate success probability** for each
-3. **Consider outcomes** (success and failure)
-4. **Factor in game state** (score, boules remaining)
-5. **Choose** the option with best expected value
-6. **Commit fully** - no second-guessing during execution
+1. **Identifiera alternativ** (poäng, skjuta, blockera, osv.)
+2. **Uppskatta framgångssannolikhet** för varje
+3. **Överväg utfall** (framgång och misslyckande)
+4. **Faktorera in spelstatus** (poäng, kulor kvar)
+5. **Välj** alternativet med bästa förväntade värde
+6. **Engagera dig fullt** - ingen tvekan under utförande
 
-### Building Intuition
+### Bygga intuition
 
-Over time, probability thinking becomes intuitive:
-- Track your results honestly
-- Review decisions after games
-- Notice patterns in your success rates
-- Adjust your mental model
+Med tiden blir sannolikhetstänkande intuitivt:
+- Spåra dina resultat ärligt
+- Granska beslut efter matcher
+- Lägg märke till mönster i dina framgångsgrader
+- Justera din mentala modell
 
-## Key Takeaway
+## Nyckelpunkt
 
-> Good decisions don't always lead to good outcomes. But good decisions over time lead to better results.
+> Goda beslut leder inte alltid till goda resultat. Men goda beslut över tid leder till bättre resultat.
 
-Think in probabilities. Know your numbers. Make the smart play, not the hopeful one.
+Tänk i sannolikheter. Känn dina siffror. Gör det smarta spelet, inte det hoppfulla.
 

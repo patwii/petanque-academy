@@ -1,173 +1,175 @@
-# Training Methods
+# Träningsmetoder
 
-When your technique is solid, what do you practice? This is where many players plateau - they keep drilling technique when the real growth lies elsewhere.
+När din teknik är solid, vad tränar du? Det är här många spelare når en platå - de fortsätter att träna teknik när den verkliga tillväxten ligger någon annanstans.
 
-## Beyond Technical Repetition
+## Bortom teknisk upprepning
 
-Most players train by repeating throws. That's important for beginners, but advanced players need more:
+De flesta spelare tränar genom att upprepa kast. Det är viktigt för nybörjare, men avancerade spelare behöver mer:
 
-| Training Type | What It Develops | When to Use |
+| Träningstyp | Vad det utvecklar | När det används |
 |--------------|------------------|-------------|
-| Technical drills | Mechanics, form | Learning new skills, fixing issues |
-| Random practice | Adaptability, decision-making | Competition preparation |
-| Pressure simulation | Mental toughness | Before important events |
-| Mental training | Focus, recovery, confidence | Ongoing, often neglected |
+| Tekniska övningar | Mekanik, form | Lära nya färdigheter, åtgärda problem |
+| Slumpmässig träning | Anpassningsförmåga, beslutsfattande | Tävlingsförberedelse |
+| Trycksimulering | Mental seghet | Före viktiga händelser |
+| Mental träning | Fokus, återhämtning, självförtroende | Pågående, ofta försummad |
 
-## The Training Pyramid
+## Träningspyramiden
 
 ```
-         Competition
+         Tävling
             ↑
-      Match Simulation
+      Matchsimulering
             ↑
-    Pressure Practice
+    Tryckträning
             ↑
-   Random/Varied Practice
+   Slumpmässig/Varierad träning
             ↑
-  Blocked Technical Practice
+  Blockerad teknisk träning
 ```
 
-Most players spend too much time at the bottom. Elite players work at all levels.
+De flesta spelare spenderar för mycket tid i botten. Elitspelare arbetar på alla nivåer.
 
-## Blocked vs. Random Practice
+## Blockerad vs. slumpmässig träning
 
-### Blocked Practice
-Repeat the same throw many times:
-- 20 points from 7 meters
-- 20 shots at the same target
-- Same distance, same throw
+### Blockerad träning
+Upprepa samma kast många gånger:
+- 20 poäng från 7 meter
+- 20 skott på samma mål
+- Samma avstånd, samma kast
 
-**Good for:** Initial learning, building confidence, warming up
-**Limitation:** Doesn't transfer well to competition
+**Bra för:** Inledande inlärning, bygga självförtroende, uppvärmning
+**Begränsning:** Överförs inte väl till tävling
 
-### Random Practice
-Vary everything:
-- Different distances each throw
-- Alternate pointing and shooting
-- Change targets constantly
+### Slumpmässig träning
+Variera allt:
+- Olika avstånd vid varje kast
+- Växla mellan peka och skjuta
+- Byta mål konstant
 
-**Good for:** Competition preparation, building adaptability
-**Feels:** Harder, more mistakes, less "productive"
-**Reality:** Better long-term retention and transfer
+**Bra för:** Tävlingsförberedelse, bygga anpassningsförmåga
+**Känns:** Svårare, fler misstag, mindre "produktivt"
+**Verklighet:** Bättre långsiktig retention och överföring
 
-### The Research
+### Forskningen
 
-Studies consistently show:
-- Blocked practice feels better (quick improvement visible)
-- Random practice produces better competition performance
-- The "struggle" of random practice is where learning happens
+Studier visar konsekvent:
+- Blockerad träning känns bättre (snabb förbättring synlig)
+- Slumpmässig träning producerar bättre tävlingsprestanda
+- "Kampen" i slumpmässig träning är där inlärning sker
 
-## Pressure Simulation
+## Trycksimulering
 
-You can't handle competition pressure if you never experience it in training.
+Du kan inte hantera tävlingstryck om du aldrig upplever det i träning.
 
-### Creating Practice Pressure
+### Skapa trän
 
-**Consequences:**
-- Push-ups for misses
-- Loser buys coffee
-- Points count toward something
+ingstryck
 
-**Scenarios:**
-- "Must make" situations
-- Down 12-10, need to score
-- Last boule of the game
+**Konsekvenser:**
+- Armhävningar för missar
+- Förloraren köper kaffe
+- Poäng räknas mot något
 
-**Audience:**
-- Practice with people watching
-- Record yourself on video
-- Announce what you're trying to do
+**Scenarier:**
+- "Måste göra" situationer
+- Efter 12-10, behöver poängtera
+- Sista kulan i spelet
 
-**Fatigue:**
-- Practice when tired
-- End of long session
-- After physical exercise
+**Publik:**
+- Träna med folk som tittar
+- Spela in dig själv på video
+- Meddela vad du försöker göra
 
-### The Shooting Ladder
+**Trötthet:**
+- Träna när trött
+- Slutet av lång session
+- Efter fysisk träning
 
-A classic pressure drill:
-1. Start at 6 meters
-2. Hit the target = move back one meter
-3. Miss = move forward one meter (or start over)
-4. Goal: Reach 10 meters
+### Skjutstegen
 
-This creates natural pressure as you progress.
+En klassisk tryckövning:
+1. Börja vid 6 meter
+2. Träffa målet = flytta tillbaka en meter
+3. Missa = flytta fram en meter (eller börja om)
+4. Mål: Nå 10 meter
 
-## Mental Training Sessions
+Detta skapar naturligt tryck när du går framåt.
 
-Dedicate time specifically to mental skills:
+## Mentala träningspass
 
-### Visualization Session (15-20 min)
-1. Find a quiet place
-2. Close your eyes
-3. Visualize yourself at a competition
-4. See successful throws in detail
-5. Feel the confidence and flow
-6. Practice handling pressure moments
+Ägna tid specifikt åt mentala färdigheter:
 
-### Pre-Shot Routine Practice
-- Practice your routine without throwing
-- Focus on the mental transitions
-- Build the habit of consistent preparation
+### Visualiseringspass (15-20 min)
+1. Hitta en lugn plats
+2. Stäng ögonen
+3. Visualisera dig själv vid en tävling
+4. Se framgångsrika kast i detalj
+5. Känn självförtroendet och flödet
+6. Öva hantering av tryckstunder
 
-### Recovery Practice
-- Intentionally make mistakes in practice
-- Practice your SOAS response
-- Build the habit of quick mental reset
+### Före-kast rutin träning
+- Öva din rutin utan att kasta
+- Fokusera på de mentala övergångarna
+- Bygg vanan av konsekvent förberedelse
 
-## Structuring Your Training Week
+### Återhämtningsövning
+- Gör avsiktligt misstag i träning
+- Öva din SOAS respons
+- Bygg vanan av snabb mental återställning
 
-### Example: Serious Amateur (6 hours/week)
+## Strukturera din träningsvecka
 
-| Day | Duration | Focus |
+### Exempel: Seriös amatör (6 timmar/vecka)
+
+| Dag | Varaktighet | Fokus |
 |-----|----------|-------|
-| Monday | 1.5 hr | Technical: Pointing drills |
-| Wednesday | 1.5 hr | Technical: Shooting drills |
-| Friday | 1 hr | Mental: Visualization, routine practice |
-| Saturday | 2 hr | Match play with pressure elements |
+| Måndag | 1,5 t | Teknisk: Pekövningar |
+| Onsdag | 1,5 t | Teknisk: Skjutövningar |
+| Fredag | 1 t | Mental: Visualisering, rutinträning |
+| Lördag | 2 t | Matchspel med tryckelement |
 
-### Example: Competitive Player (10 hours/week)
+### Exempel: Tävlingsspelare (10 timmar/vecka)
 
-| Day | Duration | Focus |
+| Dag | Varaktighet | Fokus |
 |-----|----------|-------|
-| Monday | 2 hr | Technical: Pointing (blocked → random) |
-| Tuesday | 1 hr | Mental training + visualization |
-| Wednesday | 2 hr | Technical: Shooting (blocked → random) |
-| Thursday | 1 hr | Video review + mental work |
-| Friday | 2 hr | Pressure simulation, game scenarios |
-| Saturday | 2 hr | Competition or match play |
+| Måndag | 2 t | Teknisk: Peka (blockerad → slumpmässig) |
+| Tisdag | 1 t | Mental träning + visualisering |
+| Onsdag | 2 t | Teknisk: Skjuta (blockerad → slumpmässig) |
+| Torsdag | 1 t | Videogranskning + mentalt arbete |
+| Fredag | 2 t | Trycksimulering, spelscenarier |
+| Lördag | 2 t | Tävling eller matchspel |
 
-## Training Principles
+## Träningsprinciper
 
-### 1. Quality Over Quantity
-- 30 focused minutes beats 2 hours of mindless repetition
-- Stop when focus drops
-- Better to end early than practice bad habits
+### 1. Kvalitet över kvantitet
+- 30 fokuserade minuter slår 2 timmar av tanklös upprepning
+- Sluta när fokus faller
+- Bättre att sluta tidigt än att öva dåliga vanor
 
-### 2. Deliberate Practice
-- Have a specific goal for each session
-- Work at the edge of your ability
-- Get feedback (video, partner, results)
-- Adjust based on what you learn
+### 2. Medveten träning
+- Ha ett specifikt mål för varje pass
+- Arbeta vid kanten av din förmåga
+- Få feedback (video, partner, resultat)
+- Justera baserat på vad du lär dig
 
-### 3. Recovery Matters
-- Rest days are part of training
-- Sleep affects performance significantly
-- Mental fatigue is real - respect it
+### 3. Återhämtning spelar roll
+- Vilodagar är en del av träning
+- Sömn påverkar prestanda avsevärt
+- Mental trötthet är verklig - respektera den
 
-### 4. Track Everything
-- Keep a training log
-- Note what works and what doesn't
-- Review regularly
-- Adjust your plan based on data
+### 4. Spåra allt
+- För en träningslogg
+- Notera vad som fungerar och vad som inte gör det
+- Granska regelbundet
+- Justera din plan baserat på data
 
-## In This Section
+## I detta avsnitt
 
-- **[Training Drills](/sv/education/training/drills)** - Specific exercises for different skills
+- **[Träningsövningar](/sv/education/training/drills)** - Specifika övningar för olika färdigheter
 
-## Key Takeaway
+## Nyckelpunkt
 
-> How you train determines how you perform. Train like you want to play.
+> Hur du tränar bestämmer hur du presterar. Träna som du vill spela.
 
-Mix your training. Include mental work. Create pressure. Track your progress.
+Blanda din träning. Inkludera mentalt arbete. Skapa tryck. Spåra dina framsteg.
 

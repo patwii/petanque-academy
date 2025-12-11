@@ -1,224 +1,224 @@
-# Training Drills
+# Träningsövningar
 
-Here are proven drills used by elite players. Each drill has a specific purpose - choose based on what you need to develop.
+Här är beprövade övningar som används av elitspelare. Varje övning har ett specifikt syfte - välj baserat på vad du behöver utveckla.
 
-## Pointing Drills
+## Pekövningar
 
-### The Alley
-**Purpose:** Isolate release angle and line consistency
+### Gränden
+**Syfte:** Isolera släppvinkel och linjekonsekvens
 
-**Setup:**
-- Place two markers 30-40cm apart, about 1 meter from the circle
-- Target is 7-9 meters away
+**Uppställning:**
+- Placera två markörer 30-40cm från varandra, cirka 1 meter från cirkeln
+- Målet är 7-9 meter bort
 
-**Drill:**
-- Throw through the "alley" (between the markers)
-- Any throw that hits a marker is "dead"
-- Focus on consistent release point
+**Övning:**
+- Kasta genom "gränden" (mellan markörerna)
+- Varje kast som träffar en markör är "dött"
+- Fokusera på konsekvent släpppunkt
 
 **Progression:**
-- Narrow the alley as you improve
-- Vary the target distance
-- Add a specific landing zone
+- Smalna av gränden när du förbättras
+- Variera målavståndet
+- Lägg till en specifik landningszon
 
-### Precision Zones
-**Purpose:** Develop accuracy to specific areas
+### Precisionszoner
+**Syfte:** Utveckla noggrannhet till specifika områden
 
-**Setup:**
-- Mark zones around a target (e.g., circles at 20cm, 40cm, 60cm)
-- Or use natural markers on the terrain
+**Uppställning:**
+- Markera zoner runt ett mål (t.ex. cirklar vid 20cm, 40cm, 60cm)
+- Eller använd naturliga markörer på terrängen
 
-**Scoring:**
-- Inside 20cm: 3 points
-- Inside 40cm: 2 points
-- Inside 60cm: 1 point
-- Outside: 0 points
+**Poängsättning:**
+- Inom 20cm: 3 poäng
+- Inom 40cm: 2 poäng
+- Inom 60cm: 1 poäng
+- Utanför: 0 poäng
 
-**Drill:**
-- Throw 10 boules, track your score
-- Goal: Consistent improvement over sessions
+**Övning:**
+- Kasta 10 kulor, spåra din poäng
+- Mål: Konsekvent förbättring över sessioner
 
-### Distance Variation
-**Purpose:** Develop depth control
+### Avståndsvariering
+**Syfte:** Utveckla djupkontroll
 
-**Setup:**
-- Place targets at 6m, 7m, 8m, 9m, 10m
+**Uppställning:**
+- Placera mål vid 6m, 7m, 8m, 9m, 10m
 
-**Drill:**
-- Throw to each distance in random order
-- Partner calls out the distance
-- Focus on adjusting weight, not technique
+**Övning:**
+- Kasta till varje avstånd i slumpmässig ordning
+- Partner ropar ut avståndet
+- Fokusera på att justera vikt, inte teknik
 
 **Variation:**
-- Add "short" and "long" calls after you release
-- Must adjust mid-flight (develops feel)
+- Lägg till "kort" och "lång" rop efter du släpper
+- Måste justera mitt i flykten (utvecklar känsla)
 
-## Shooting Drills
+## Skjutövningar
 
-### The Shooting Ladder
-**Purpose:** Build accuracy under progressive pressure
+### Skjutstegen
+**Syfte:** Bygga noggrannhet under progressivt tryck
 
-**Setup:**
-- Place a target boule at 6 meters
-- Mark distances at 7m, 8m, 9m, 10m
+**Uppställning:**
+- Placera en målkula vid 6 meter
+- Markera avstånd vid 7m, 8m, 9m, 10m
 
-**Drill:**
-- Start at 6 meters
-- Hit = move back one meter
-- Miss = move forward one meter (or restart)
-- Goal: Reach 10 meters
+**Övning:**
+- Börja vid 6 meter
+- Träff = flytta tillbaka en meter
+- Miss = flytta fram en meter (eller börja om)
+- Mål: Nå 10 meter
 
-**Variations:**
-- Strict version: Any miss returns to 6m
-- Timed version: How far can you get in 10 minutes?
-- Team version: Alternate with partner
+**Variationer:**
+- Strikt version: Varje miss återgår till 6m
+- Tidsinställd version: Hur långt kan du komma på 10 minuter?
+- Lagversion: Växla med partner
 
-### The Barrier (Blox)
-**Purpose:** Force high arc shooting
+### Barriären (Blox)
+**Syfte:** Tvinga högt bågskytte
 
-**Setup:**
-- Place a barrier (stick, string, or obstacle) between you and target
-- Barrier should be high enough to require a lob
+**Uppställning:**
+- Placera en barriär (pinne, snöre eller hinder) mellan dig och målet
+- Barriären ska vara tillräckligt hög för att kräva en lobb
 
-**Drill:**
-- Must clear the barrier to hit the target
-- Any throw that hits the barrier is "dead"
-- Develops high release point
+**Övning:**
+- Måste passera barriären för att träffa målet
+- Varje kast som träffar barriären är "dött"
+- Utvecklar hög släpppunkt
 
-**Why it matters:**
-- Competition often requires shooting over obstacles
-- Builds versatility in your shooting
+**Varför det spelar roll:**
+- Tävling kräver ofta skytte över hinder
+- Bygger mångsidighet i ditt skytte
 
-### Obstacle Course
-**Purpose:** Develop shooting from different angles
+### Hinderbana
+**Syfte:** Utveckla skytte från olika vinklar
 
-**Setup:**
-- Place target boule in center
-- Add obstacles (other boules, markers) around it
+**Uppställning:**
+- Placera målkula i centrum
+- Lägg till hinder (andra kulor, markörer) runt den
 
-**Drill:**
-- Shoot from different positions around the circle
-- Must find the angle that works
-- Develops reading of shooting lines
+**Övning:**
+- Skjut från olika positioner runt cirkeln
+- Måste hitta vinkeln som fungerar
+- Utvecklar läsning av skjutlinjer
 
-## Mental Training Drills
+## Mentala träningsövningar
 
-### Routine Repetition
-**Purpose:** Make your pre-shot routine automatic
+### Rutinrepetition
+**Syfte:** Gör din före-kast rutin automatisk
 
-**Drill:**
-- Practice your full routine without throwing
-- Go through every step deliberately
-- Do 10-20 repetitions
-- Then add the throw
+**Övning:**
+- Öva din fullständiga rutin utan att kasta
+- Gå igenom varje steg medvetet
+- Gör 10-20 repetitioner
+- Lägg sedan till kastet
 
-**Focus:**
-- Consistent timing
-- Clear transition from thinking to executing
-- Same routine every time
+**Fokus:**
+- Konsekvent timing
+- Tydlig övergång från tänkande till utförande
+- Samma rutin varje gång
 
-### Pressure Points
-**Purpose:** Practice performing under pressure
+### Tryckpunkter
+**Syfte:** Öva prestation under tryck
 
-**Setup:**
-- Create a "must make" scenario
-- Set consequences for missing
+**Uppställning:**
+- Skapa ett "måste göra" scenario
+- Sätt konsekvenser för att missa
 
-**Examples:**
-- "Make 3 in a row or start over"
-- "Miss and do 10 push-ups"
-- "Announce your target before throwing"
+**Exempel:**
+- "Gör 3 i rad eller börja om"
+- "Missa och gör 10 armhävningar"
+- "Meddela ditt mål före kast"
 
-**Key:**
-- The pressure should feel real
-- Practice your mental response to pressure
-- Use your routine exactly as in competition
+**Nyckel:**
+- Trycket ska kännas verkligt
+- Öva din mentala respons på tryck
+- Använd din rutin exakt som i tävling
 
-### Recovery Practice
-**Purpose:** Build the habit of quick mental reset
+### Återhämtningsövning
+**Syfte:** Bygga vanan av snabb mental återställning
 
-**Drill:**
-- Intentionally throw a bad boule
-- Immediately practice SOAS (Stop, Observe, Accept, Slip)
-- Throw the next boule with full commitment
+**Övning:**
+- Kasta avsiktligt en dålig kula
+- Öva omedelbart SOAS (Stop, Observe, Accept, Slip)
+- Kasta nästa kula med fullt engagemang
 
-**Focus:**
-- Don't dwell on the miss
-- Reset completely before next throw
-- Maintain positive body language
+**Fokus:**
+- Dröj inte vid misset
+- Återställ helt före nästa kast
+- Behåll positivt kroppsspråk
 
-## Game Simulation Drills
+## Spelsimulering övningar
 
 ### Millieu's Delight
-**Purpose:** Break rhythm lock, build versatility
+**Syfte:** Bryt rytm lås, bygg mångsidighet
 
-**Drill:**
-- Alternate between pointing and shooting every throw
-- No two consecutive throws of the same type
-- Develops ability to switch modes
+**Övning:**
+- Växla mellan peka och skjuta vid varje kast
+- Inga två på varandra följande kast av samma typ
+- Utvecklar förmåga att byta läge
 
-### Scenario Play
-**Purpose:** Practice tactical decision-making
+### Scenariospel
+**Syfte:** Öva taktiskt beslutsfattande
 
-**Setup:**
-- Set up realistic game situations
-- Assign scores and boule counts
+**Uppställning:**
+- Ställ in realistiska spelsituationer
+- Tilldela poäng och kulantal
 
-**Examples:**
-- "You're down 10-8, opponent has 2 points, you have 2 boules"
-- "Tied 6-6, you have last boule, they have 1 point"
+**Exempel:**
+- "Du är efter 10-8, motståndaren har 2 poäng, du har 2 kulor"
+- "Oavgjort 6-6, du har sista kulan, de har 1 poäng"
 
-**Drill:**
-- Decide what to do
-- Execute with full commitment
-- Review the decision afterward
+**Övning:**
+- Bestäm vad du ska göra
+- Utför med fullt engagemang
+- Granska beslutet efteråt
 
-### Match Play with Rules
-**Purpose:** Competition simulation
+### Matchspel med regler
+**Syfte:** Tävlingssimulering
 
-**Variations:**
-- Play to 13 (full game)
-- Play to 7 (shorter, more games)
-- "Pressure points" - certain ends worth double
-- "Sudden death" - first to lose an end loses the game
+**Variationer:**
+- Spela till 13 (fullt spel)
+- Spela till 7 (kortare, fler spel)
+- "Tryckpunkter" - vissa omgångar är värda dubbelt
+- "Sudden death" - första att förlora en omgång förlorar spelet
 
-## Tracking Your Drills
+## Spårning av dina övningar
 
-Keep a log for each drill:
+För en logg för varje övning:
 
-| Date | Drill | Score/Result | Notes |
+| Datum | Övning | Poäng/Resultat | Anteckningar |
 |------|-------|--------------|-------|
 | | | | |
 
-**Track over time:**
-- Are you improving?
-- Which drills help most?
-- Where do you struggle?
+**Spåra över tid:**
+- Förbättras du?
+- Vilka övningar hjälper mest?
+- Var kämpar du?
 
-## Building a Drill Session
+## Bygga ett övningspass
 
-### Warm-up (10 min)
-- Easy throws to loosen up
-- No pressure, just feel
+### Uppvärmning (10 min)
+- Lätta kast för att lossa upp
+- Inget tryck, bara känsla
 
-### Technical Focus (20-30 min)
-- One or two drills targeting specific skills
-- Blocked practice for new skills
-- Random practice for established skills
+### Tekniskt fokus (20-30 min)
+- En eller två övningar riktade mot specifika färdigheter
+- Blockerad träning för nya färdigheter
+- Slumpmässig träning för etablerade färdigheter
 
-### Pressure/Game Simulation (20-30 min)
-- Add consequences
-- Create realistic scenarios
-- Practice mental skills
+### Tryck/Spelsimulering (20-30 min)
+- Lägg till konsekvenser
+- Skapa realistiska scenarier
+- Öva mentala färdigheter
 
-### Cool-down (10 min)
-- Easy throws
-- Reflect on the session
-- Note what to work on next
+### Nedkylning (10 min)
+- Lätta kast
+- Reflektera över passet
+- Notera vad du ska arbeta med nästa gång
 
-## Key Takeaway
+## Nyckelpunkt
 
-> Drills are tools. Choose the right tool for what you need to build.
+> Övningar är verktyg. Välj rätt verktyg för det du behöver bygga.
 
-Don't just throw boules. Train with purpose.
+Kasta inte bara kulor. Träna med syfte.
 
