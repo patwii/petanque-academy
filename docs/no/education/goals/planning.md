@@ -1,114 +1,132 @@
-# Lag din treningsplan
+# Lage treningsplanen din
 
-Mål uten en plan er bare ønsker. Denne guiden hjelper deg med å gjøre målene dine om til en strukturert treningsplan som faktisk virker.
+Mål uten en plan er bare ønsker. Denne veiledningen hjelper deg med å gjøre målene dine om til en strukturert treningsplan som faktisk fungerer.
 
-## De 8 fasene av selvledet utvikling
+::: tip Den store ideen
+**Mål uten en plan er bare ønsker.** En strukturert treningsplan forvandler målene dine til daglige handlinger som resulterer i reell fremgang.
+:::
 
-### Fase 1: Sett ditt kompass (mål)
-Du har allerede lært om SMART-mål. Sett dem nå i et hierarki:
+```mermaid
+graph TD
+    A[Mål] --> B[Treningsplan]
+    B --> C[Daglige handlinger]
+    C --> D[Konsekvent praksis]
+    D --> E[Målbar fremgang]
+    E --> F[Måloppnåelse]
 
-1. **Langsiktig mål** (1-2 år): Din drøm
+    style A fill:#e3f2fd
+    style B fill:#e8f5e9
+    style C fill:#fff4e1
+    style F fill:#fff4e1
+```
+
+## De 8 fasene av selvstyrt utvikling
+
+### Fase 1: Sett kompasset ditt (mål)
+Du har allerede lært om SMART-mål. Nå kan du sette dem i et hierarki:
+
+1. **Langsiktig mål** (1–2 år): Din drøm
 2. **Årlig mål**: Årets mål
-3. **Kvartalsmål**: 3-måneders milepæler
+3. **Kvartalsvise mål**: 3-måneders milepæler
 4. **Månedlige mål**: Spesifikke fokusområder
 5. **Ukentlige mål**: Treningsmål
 
-### Fase 2: Vurder dine ressurser
+### Fase 2: Vurder ressursene dine
 
-Før planlegging, vurder ærlig hva du har:
+Før du planlegger, bør du ærlig vurdere hva du har:
 
 | Ressurs | Spørsmål å stille |
 |----------|-----------------|
-| **Tid** | Hvor mange timer per uke kan du realistisk trene? |
-| **Lokasjon** | Har du tilgang til en ordentlig bane? Hva er overflatekvaliteten? |
-| **Utstyr** | Har du passende kuler? Måleverktøy? Videokapasitet? |
+| **Tid** | Hvor mange timer i uken kan du realistisk sett trene? |
+| **Sted** | Har du tilgang til en skikkelig løype? Hvordan er kvaliteten på underlaget? |
+| **Utstyr** | Har du passende boule? Måleverktøy? Videofunksjon? |
 | **Kunnskap** | Hva er dine tekniske styrker og svakheter? |
 | **Fysisk tilstand** | Noen begrensninger? Områder som trenger arbeid? |
 
 Vær ærlig. En realistisk plan slår en ambisiøs fantasi.
 
-### Fase 3: Velg dine øvelser
+### Fase 3: Velg øvelsene dine
 
 Velg øvelser som direkte støtter målene dine:
 
-**For forbedring av peking:**
-- Presisjonspek til markerte soner
+**For forbedring av poengsetting:**
+- Presisjonspekking til markerte soner
 - Avstandsvariasjonsøvelser
-- Forskjellig overflatetreningspraksis
+- Ulike overflateøvelser
 
 **For forbedring av skyting:**
-- Skytestige (progressive avstander)
-- Hinderskyting (tvungen høy bue)
-- Bevegelig måltrening
+- Skytestige (progressive distanser)
+- Hindringsskyting (tvungen høy bue)
+- Øving av bevegelige mål
 
 **For mental utvikling:**
-- Rutine før kast-praksis
+- Rutinemessig trening før skudd
 - Visualiseringsøkter
-- Pressimulering
+- Trykksimulering
 
-**Balancer programmet ditt:**
+**Balanser programmet ditt:**
 - Teknisk arbeid (peking, skyting)
 - Mental trening (mindfulness, visualisering)
-- Fysisk kondisjonering (balanse, fleksibilitet)
-- Kamptreningsspill (anvendelse av ferdigheter)
+- Fysisk kondisjon (balanse, fleksibilitet)
+- Matchspill (bruke ferdigheter)
 
-### Fase 4: Lag din timeplan
+### Fase 4: Lag timeplanen din
 
-Bygg en realistisk ukentlig timeplan:
+Lag en realistisk ukeplan:
 
 | Dag | Morgen | Ettermiddag | Kveld | Fokus |
 |-----|---------|-----------|---------|-------|
-| Man | - | Teknisk: Peking | Lett mobilitet | Presisjon |
-| Tir | - | Teknisk: Skyting | - | Kraft/nøyaktighet |
+| man | - | Teknisk: Peking | Lett mobilitet | Presisjon |
+| tirsdag | - | Teknisk: Skyting | - | Kraft/nøyaktighet |
 | Ons | - | Mental trening | - | Mindfulness |
-| Tor | - | Blandet: Kampscenarier | Lett mobilitet | Anvendelse |
+| Torsdag | - | Blandet: Spillscenarier | Lett mobilitet | Søknad |
 | Fre | - | Teknisk: Svakhet | - | Forbedring |
-| Lør | Kamptreningsspill eller konkurranse | - | - | Prestasjon |
-| Søn | Hvile | Ukentlig gjennomgang | Planlegging | Restitusjon |
+| Lør | Matchspill eller konkurranse | - | - | Ytelse |
+| Sol | Hvile | Ukentlig gjennomgang | Planlegging | Bedring |
 
 **Nøkkelprinsipper:**
-- Prioriter mental trening (den blir ofte forsømt)
+- Prioriter mental trening (det blir ofte neglisjert)
 - Inkluder hviledager
-- Balancer forskjellige ferdigheter
-- Etterlat fleksibilitet for livet
+- Balansere ulike ferdigheter
+- La fleksibilitet være der for livet
 
 ### Fase 5: Forbered deg på hindringer
 
 Ting vil gå galt. Planlegg for det.
 
-| Risiko | Sannsynlighet | Påvirkning | Backup-plan |
+| Fare | Sannsynlighet | Påvirkning | Sikkerhetskopieringsplan |
 |------|------------|--------|-------------|
-| Tidsmangel | Høy | Middels | Ha en "minimumsøkt" klar (20 min) |
-| Dårlig vær | Middels | Middels | Innendørs visualisering, videostudie |
-| Lav motivasjon | Høy | Middels | Gå tilbake til "hvorfor", mindre mål, ta en pause |
-| Mindre skade | Middels | Høy | Fokuser på mental trening, ikke-påvirkede ferdigheter |
-| Ingen treningspartner | Middels | Lav | Solo-øvelser, video-selvanalyse |
+| Tidsmangel | Høy | Medium | Ha en &quot;minimumsøkt&quot; klar (20 min) |
+| Dårlig vær | Medium | Medium | Innendørs visualisering, videostudie |
+| Lav motivasjon | Høy | Medium | Gå tilbake til «hvorfor», mindre mål, ta en pause |
+| Mindre skade | Medium | Høy | Fokus på mental trening, ikke-påvirkede ferdigheter |
+| Ingen øvingspartner | Medium | Lav | Soloøvelser, video selvanalyse |
 
-### Fase 6: Spor din fremgang
+### Fase 6: Spor fremgangen din
 
-Det som måles blir styrt.
+Det som blir målt, blir styrt.
 
-**Før en treningsdagbok:**
+**Før treningsdagbok:**
 - Dato og varighet
-- Fullførte øvelser
+- Øvelser fullført
 - Poeng/resultater
-- Hvordan du følte deg (energi, fokus, flow)
+- Hvordan du følte deg (energi, fokus, flyt)
 - Tekniske notater
 - Vær/forhold
 
-**Ukentlige gjennomgangsspørsmål:**
-- Fullførte jeg mine planlagte økter?
-- Hvilke poeng oppnådde jeg?
+**Ukentlige oppsummeringsspørsmål:**
+- Fullførte jeg de planlagte øktene mine?
+- Hvilke poengsummer oppnådde jeg?
 - Hva føltes bra? Hva var vanskelig?
-- Noen flow-opplevelser?
+- Noen erfaringer med flyt?
 - Hva bør jeg justere?
 
 ### Fase 7: Hold deg motivert
 
-Motivasjon svinger. Bygg systemer for å opprettholde den:
+Motivasjonen svinger. Bygg systemer for å opprettholde den:
 
-**Intern motivasjon:**
-- Koble til ditt "hvorfor"
+**Indre motivasjon:**
+- Koble deg til ditt «hvorfor»
 - Feir små seire
 - Legg merke til forbedring over tid
 - Finn glede i prosessen
@@ -116,50 +134,50 @@ Motivasjon svinger. Bygg systemer for å opprettholde den:
 **Ekstern støtte:**
 - Treningspartnere (selv av og til)
 - Del mål med noen
-- Bli med i online-samfunn
-- Spor serier og konsistens
+- Bli med i nettsamfunn
+- Sporstriper og konsistens
 
-**Når motivasjonen faller:**
+**Når motivasjonen synker:**
 - Gjør en minimumsøkt (noe slår ingenting)
 - Endre miljøet ditt
 - Gjennomgå fremgangen din
 - Husk tidligere suksesser
-- Ta en planlagt pause hvis nødvendig
+- Ta en planlagt pause om nødvendig
 
-### Fase 8: Gjennomgå og tilpass
+### Fase 8: Gjennomgang og tilpasning
 
 Planen din bør utvikle seg:
 
 **Ukentlig:** Rask gjennomgang, mindre justeringer
-**Månedlig:** Vurder fremgang mot månedlige mål, juster fokus
-**Kvartalsvis:** Større gjennomgang, sett neste kvartals mål
-**Årlig:** Full vurdering, ny årlig plan
+**Månedlig:** Vurder fremdriften mot månedlige mål, juster fokus
+**Kvartalsvis:** Stor gjennomgang, sett mål for neste kvartal
+**Årlig:** Full vurdering, ny årsplan
 
-**Spørsmål for gjennomgang:**
+**Spørsmål til gjennomgang:**
 - Gjør jeg fremskritt mot målene mine?
 - Er treningen min effektiv?
 - Trenger jeg forskjellige øvelser?
 - Er målene mine fortsatt relevante?
 - Hva har jeg lært?
 
-## Eksempel 8-ukers plan
+## Eksempel på 8-ukers plan
 
-**Mål:** Forbedre skytepresisjon med 15%
+**Mål:** Forbedre skytepresisjonen med 15 %
 
-| Uke | Fokus | Nøkkelsesjoner |
+| Uke | Fokus | Viktige økter |
 |------|-------|--------------|
-| 1 | Baseline | Test nåværende nivå, videoanalyse |
-| 2 | Teknikk | Identifiser og arbeid med nøkkelproblem |
-| 3 | Repetisjon | Høyt volum skytetrening |
-| 4 | Test | Midtpunktvurdering, juster |
-| 5 | Variasjon | Forskjellige avstander og vinkler |
-| 6 | Press | Legg til konsekvenser til øvelser |
-| 7 | Integrasjon | Kamplignende scenarier |
-| 8 | Endelig test | Mål forbedring |
+| 1 | Grunnlinje | Test strømnivå, videoanalyse |
+| 2 | Teknikk | Identifisere og jobbe med hovedproblemet |
+| 3 | Gjentakelse | Skyteøvelse med høyt volum |
+| 4 | Test | Midtveisvurdering, juster |
+| 5 | Variasjon | Ulike avstander og vinkler |
+| 6 | Trykk | Legg til konsekvenser for øvelser |
+| 7 | Integrering | Spilllignende scenarier |
+| 8 | Sluttprøve | Mål forbedring |
 
-## Nøkkelpunkt
+## Viktig konklusjon
 
-> Planlegg arbeidet ditt, arbeid deretter planen din. Men vær klar til å tilpasse.
+> Planlegg arbeidet ditt, og utarbeid deretter planen din. Men vær forberedt på å tilpasse deg.
 
-Den beste planen er en du faktisk vil følge. Start enkelt, hold deg konsistent, og juster etter hvert som du lærer.
+Den beste planen er en du faktisk følger. Start enkelt, vær konsekvent og juster etter hvert som du lærer.
 

@@ -2,6 +2,10 @@
 
 Clear goals are your compass. They give direction to your training, motivation when things get hard, and a way to measure progress. Without goals, you're just throwing boules. With goals, you're building toward something.
 
+::: tip The Core Principle
+**A goal without a plan is just a wish.** Set clear goals, break them down, focus on what you control, and track your progress.
+:::
+
 ## Why Goals Matter
 
 Goals serve multiple purposes:
@@ -33,19 +37,40 @@ Not all goals are equal. Understanding the different types helps you set better 
 
 ### The Goal Hierarchy
 
-```
-Outcome Goal (Dream)
-    ↓
-Performance Goals (Milestones)
-    ↓
-Process Goals (Daily Actions)
+```mermaid
+graph TD
+    A[Outcome Goal<br/>The Dream] --> B[Performance Goals<br/>Milestones]
+    B --> C[Process Goals<br/>Daily Actions]
+
+    A2["Win Regional Championship"] --> B2["80% shooting accuracy"]
+    B2 --> C2["Complete pre-shot routine<br/>every throw"]
+
+    style A fill:#e1f5ff
+    style B fill:#fff9c4
+    style C fill:#c8e6c9
+    style A2 fill:#e1f5ff
+    style B2 fill:#fff9c4
+    style C2 fill:#c8e6c9
 ```
 
-**Key insight:** Focus most of your attention on process goals. They're what you control, and they lead to the outcomes you want.
+::: warning Key Insight
+**Focus most of your attention on process goals.** They're what you control, and they lead to the outcomes you want.
+
+- **Outcome goals:** Low control, high motivation
+- **Performance goals:** Medium control, measurable progress
+- **Process goals:** High control, daily focus ← **Focus here**
+:::
 
 ## The SMART Framework
 
-Make your goals SMART:
+::: info SMART Goals Checklist
+Every goal should be:
+- ✅ **S**pecific - Clear and well-defined
+- ✅ **M**easurable - You can track progress
+- ✅ **A**chievable - Challenging but possible
+- ✅ **R**elevant - Aligned with your bigger picture
+- ✅ **T**ime-bound - Has a deadline
+:::
 
 ### S - Specific
 ❌ "Get better at shooting"
@@ -116,6 +141,28 @@ Write down your answers. Return to them when motivation fades.
 
 - **[SMART Goals in Detail](/en/education/goals/smart-goals)** - Deep dive into creating effective goals
 - **[Creating Your Training Plan](/en/education/goals/planning)** - Turn goals into action
+
+## Summary: Goal Setting Rules
+
+::: tip Rule #1: The Control Rule
+**Focus on process goals (what you control) over outcome goals.**
+Process goals lead to performance goals, which lead to outcome goals.
+:::
+
+::: tip Rule #2: The SMART Rule
+**Goals must be Specific, Measurable, Achievable, Relevant, Time-bound.**
+Vague goals produce vague results. SMART goals produce progress.
+:::
+
+::: tip Rule #3: The Breakdown Rule
+**Large goals need quarterly, monthly, and weekly milestones.**
+Break big goals into small, actionable steps you can complete this week.
+:::
+
+::: tip Rule #4: The Connection Rule
+**Connect goals to your deeper "why."**
+When motivation fades, your "why" keeps you going.
+:::
 
 ## Key Takeaway
 

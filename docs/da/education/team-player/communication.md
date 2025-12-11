@@ -1,203 +1,220 @@
-# Holdkommunikation
+# Teamkommunikation
 
-Effektiv kommunikation er det der forvandler en gruppe individer til et hold. I pétanque, hvor strategi skifter konstant og presset er højt, kan hvordan du kommunikerer bestemme resultatet.
+Effektiv kommunikation er det, der forvandler en gruppe individer til et hold. I petanque, hvor strategien konstant ændrer sig, og presset er højt, kan måden, du kommunikerer på, afgøre resultatet.
+
+::: tip Den store idé
+**Kommunikation er det, der forvandler individer til et team.** Klar, specifik og støttende kommunikation under pres adskiller gode teams fra fantastiske teams.
+:::
 
 ## Kommunikationscyklussen
 
-God holdkommunikation følger en cyklus:
+God teamkommunikation følger en cyklus:
 
-```
-Observér → Del → Diskutér → Beslut → Udfør → Gennemgå
+```mermaid
+graph LR
+    A[Observere] --> B[Dele]
+    B --> C[Drøfte]
+    C --> D[Beslutte]
+    D --> E[Udfør]
+    E --> F[Anmeldelse]
+    F --> A
+
+    style A fill:#e3f2fd
+    style D fill:#e8f5e9
+    style E fill:#fff4e1
+    style F fill:#f3e5f5
 ```
 
-1. **Observér:** Læg mærke til hvad der sker (terræn, positioner, modstandere)
-2. **Del:** Fortæl dine holdkammerater hvad du ser
-3. **Diskutér:** Udveksl perspektiver og ideer
-4. **Beslut:** Bliv enige om tilgangen
-5. **Udfør:** Gør det med engagement
-6. **Gennemgå:** Lær af resultatet
+| Trin | Handling | Eksempel |
+|------|--------|---------|
+| **Observere** | Læg mærke til hvad der sker | Terræn, positioner, modstandere |
+| **Dele** | Fortæl dine holdkammerater, hvad du ser | &quot;Jorden skråner derfra&quot; |
+| **Drøfte** | Udvekslingsperspektiver | &quot;Skal jeg blokere eller gå efter point?&quot; |
+| **Beslutte** | Enig om fremgangsmåde | &quot;Lad os prøve den høje lob&quot; |
+| **Udfør** | Gør det med engagement | Fuld fokus på kastet |
+| **Anmeldelse** | Lær af resultatet | &quot;Det virkede godt&quot; eller &quot;Næste gang...&quot; |
 
 ## Hvornår skal man kommunikere
 
 ### Før hver ende
 - Vurder terrænet sammen
-- Diskuter generel tilgang
+- Diskuter den generelle tilgang
 - Afklar hvem der kaster hvornår
 - Sæt tonen (rolig, fokuseret)
 
-### Under enden
-- Del observationer ("Jorden hælder til venstre der")
-- Koordiner strategi ("Skal jeg prøve at blokere eller gå efter pointet?")
-- Tilbyd støtte ("Tag din tid, du har det her")
+### Under slutningen
+- Del observationer (&quot;Jorden hælder derfra&quot;)
+- Koordinatstrategi (&quot;Skal jeg forsøge at blokere eller gå efter pointen?&quot;)
+- Tilbyd støtte (&quot;Tag dig god tid, du klarer det&quot;)
 - Juster planer efterhånden som situationen ændrer sig
 
-### Mellem ender
-- Hurtig debrief (hvad virkede, hvad gjorde ikke)
+### Mellem enderne
+- Kort opsummering (hvad virkede, hvad virkede ikke)
 - Nulstil mentalt
-- Forbered dig til næste ende
-- Forbliv forbundet som et hold
+- Gør dig klar til næste ende
+- Hold kontakten som et team
 
 ### Efter kampen
-- Fuld debrief (når det er passende)
+- Fuld debriefing (hvis relevant)
 - Anerkend bidrag
 - Identificer læring
-- Bevar relationen
+- Oprethold forholdet
 
-## Hvordan man kommunikerer
+## Sådan kommunikerer du
 
 ### Vær klar og specifik
 
-**Vag:** "Prøv at komme tæt på"
-**Klar:** "Sigt mod venstre side af cochonnet, omkring 20cm ude"
+**Vag:** &quot;Prøv at komme tæt på&quot;
+**Fjern:** &quot;Sig mod venstre side af donkraften, ca. 20 cm ude&quot;
 
-**Vag:** "Godt forsøg"
-**Klar:** "God vægt, bare lidt til venstre for linjen"
+**Vag:** &quot;Godt forsøg&quot;
+**Tydelig:** &quot;God vægt, lige lidt til venstre for linjen&quot;
 
 ### Vær konstruktiv
 
 Fokuser på løsninger, ikke problemer:
 
-**Problemfokuseret:** "Du bliver ved med at misse til højre"
-**Løsningsfokuseret:** "Måske prøv at sigte lidt mere til venstre for at kompensere?"
+**Problemfokuseret:** &quot;Du bliver ved med at bomme til højre&quot;
+**Løsningsfokuseret:** &quot;Måske prøve at sigte lidt mere til venstre for at kompensere?&quot;
 
 ### Vær støttende
 
-Din tone betyder lige så meget som dine ord:
-- Forbliv rolig, selv når frustreret
+Din tone er lige så vigtig som dine ord:
+- Bevar roen, selv når du er frustreret
 - Brug opmuntrende kropssprog
-- Anerkend indsats, ikke kun resultater
+- Anerkend indsatsen, ikke kun resultaterne
 - Byg op, riv ikke ned
 
 ### Lyt aktivt
 
 Kommunikation er tovejs:
-- Giv fuld opmærksomhed når holdkammerater taler
+- Vær fuld opmærksomhed, når holdkammerater taler
 - Stil afklarende spørgsmål
 - Anerkend hvad du har hørt
-- Afbryd ikke eller afvis
+- Afbryd eller afvis ikke
 
 ## Kommunikationsudfordringer
 
 ### Uenighed om strategi
 
 **Dårlig tilgang:**
-- Insister på din måde
-- Bliv defensiv
-- Giv efter modvilligt
-- Skændes under kampen
+- Insister på din vej
+- Vær defensiv
+- Giv efter vredt
+- Diskussion under spillet
 
-**Bedre tilgang:**
-1. Del dit perspektiv klart
-2. Lyt til deres fuldt ud
-3. Diskuter fordele og ulemper kort
-4. Beslut sammen (eller udskyd til udpeget leder)
-5. Forpligt dig fuldt til beslutningen
-6. Gennemgå efter kampen
+**Bedre fremgangsmåde:**
+1. Del dit perspektiv tydeligt
+2. Lyt fuldt ud til deres
+3. Diskuter kort fordele og ulemper
+4. Beslut fællesskab (eller overlad det til den udpegede leder)
+5. Forpligt dig fuldt ud til beslutningen
+6. Gennemgang efter kampen
 
 ### Efter en holdkammerats fejl
 
 **Hvad de har brug for:**
-- Hurtig anerkendelse
+- Hurtig bekræftelse
 - Tilladelse til at gå videre
-- Tillid til at du stadig stoler på dem
-- Fokus på næste kast
+- Tillid til, at du stadig har tillid til dem
+- Fokuser på det næste kast
 
-**Hvad man skal sige:**
-- "Intet problem, næste"
-- "Svært brud, du har den næste"
-- "Vi er stadig med"
-- *Nogle gange er bare et nik eller klap nok*
+**Hvad skal man sige:**
+- &quot;Intet problem, den næste&quot;
+- &quot;Hård pause, du har den næste&quot;
+- &quot;Vi er stadig i gang med det her&quot;
+- *Nogle gange er et nik eller klap nok*
 
 **Hvad man IKKE skal sige:**
-- Ingenting (tavshed føles som dom)
-- "Det er okay" (kan lyde afvisende)
-- Noget om hvad der gik galt (ikke nu)
+- Intet (stilhed føles som dom)
+- &quot;Det er okay&quot; (kan lyde afvisende)
+- Alt om hvad der gik galt (ikke nu)
 - Synlig frustration (kropssprog tæller)
 
 ### Når du laver en fejl
 
-**Hvad man skal gøre:**
-- Kort anerkendelse ("Min fejl")
-- Undskyl ikke for meget
-- Kom ikke med undskyldninger
+**Hvad skal man gøre:**
+- Kort takkeord (&quot;Min fejl&quot;)
+- Undskyld ikke for meget
+- Lav ikke undskyldninger
 - Nulstil og fokuser på næste kast
-- Stol på dine holdkammerater støtter dig
+- Stol på dine holdkammerater til at støtte dig
 
 ### Spænding i holdet
 
-Hvis spænding opbygges under en kamp:
-1. Erkend det sker
-2. Tag et åndedrag før du reagerer
-3. Fokuser på kampen, ikke konflikten
-4. Adresser det ordentligt efter kampen
+Hvis spændingen opbygges under et spil:
+1. Anerkend at det sker
+2. Tag en indånding før du svarer
+3. Fokuser på spillet, ikke konflikten
+4. Tag det ordentligt op efter kampen
 5. Lad det ikke påvirke dit spil
 
-## Ikke-verbal kommunikation
+## Nonverbal kommunikation
 
-Meget af holdkommunikation er ikke-verbal:
+Meget af teamkommunikationen er nonverbal:
 
 ### Positive signaler
 - Øjenkontakt
-- Nikke
-- Tommelfinger op
+- Nikker
+- Tommelfingeren op
 - Afslappet kropsholdning
-- Bevæge sig mod holdkammerater
-- Smile (når det er passende)
+- Bevæger sig mod holdkammerater
+- Smilende (når det er passende)
 
-### Negative signaler (Undgå disse)
-- Rulle med øjnene
-- Vende sig væk
+### Negative signaler (undgå disse)
+- Øjenrullende
+- Vender sig væk
 - Krydsede arme
-- Sukke
-- Ryste på hovedet
+- Sukkende
+- Ryster på hovedet
 - Anspændt kropssprog
 
 **Husk:** Dine holdkammerater ser alt. Dit kropssprog påvirker deres selvtillid og præstation.
 
 ## Opbygning af kommunikationsvaner
 
-### Øv kommunikation
+### Praksiskommunikation
 
-Vent ikke på konkurrence for at kommunikere:
+Vent ikke på, at konkurrenterne kommunikerer:
 - Øv strategiske diskussioner i træning
 - Giv hinanden feedback regelmæssigt
-- Udvikl jeres holdsprog
-- Byg komfort med ærlig samtale
+- Udvikl dit teamsprog
+- Skab tryghed med ærlig samtale
 
-### Udvikl holdsignaler
+### Udvikle teamsignaler
 
-Nogle hold udvikler stenografi:
-- Håndsignaler for strategi
+Nogle hold udvikler forkortelser:
+- Håndsignaler til strategi
 - Kodeord for situationer
-- Hurtige sætninger med delt betydning
+- Hurtige sætninger med fælles betydning
 
-### Regelmæssige tjek
+### Regelmæssige indtjekninger
 
-Uden for kampe:
+Uden for spil:
 - Hvordan arbejder vi sammen?
 - Hvad går godt?
 - Hvad kunne være bedre?
-- Nogen problemer at adressere?
+- Er der nogen problemer, der skal løses?
 
 ## Kaptajnens rolle
 
-Hvis dit hold har en udpeget leder:
+Hvis dit team har en udpeget leder:
 
-**Kaptajnansvar:**
-- Endelig beslutning når holdet er uenigt
-- Sætte tonen og energien
-- Håndtere holddynamik
-- Holde fokus under pres
+**Kaptajnens ansvar:**
+- Endelig beslutning, når holdet er uenigt
+- Sætter tonen og energien
+- Håndtering af teamdynamik
+- Holder fokus under pres
 
 **Alle andre:**
 - Del dit perspektiv
-- Støt beslutningen når den er truffet
-- Hjælp med at opretholde holdenergi
+- Støt beslutningen, når den er truffet
+- Hjælp med at bevare teamets energi
 - Tag ansvar for din rolle
 
-## Nøglepunkt
+## Vigtig konklusion
 
-> Fantastiske hold taler med hinanden, ikke om hinanden. De kommunikerer med ærlighed, respekt og et delt engagement i succes.
+> Gode teams taler med hinanden, ikke om hinanden. De kommunikerer med ærlighed, respekt og et fælles engagement i succes.
 
-Øv kommunikation som du øver kast. Det er en færdighed der forbedres med opmærksomhed.
+Øv kommunikation, ligesom du øver dig i at kaste. Det er en færdighed, der forbedres med opmærksomhed.
 

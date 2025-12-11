@@ -1,165 +1,183 @@
-# Créer votre plan d'entraînement
+# Élaborer votre plan d&#39;entraînement
 
-Les objectifs sans plan ne sont que des souhaits. Ce guide vous aide à transformer vos objectifs en un plan d'entraînement structuré qui fonctionne réellement.
+Des objectifs sans plan ne sont que des vœux pieux. Ce guide vous aide à transformer vos objectifs en un plan d&#39;entraînement structuré et efficace.
+
+::: tip La grande idée
+**Des objectifs sans plan ne sont que des vœux pieux.** Un plan d&#39;entraînement structuré transforme vos objectifs en actions quotidiennes qui, cumulées, se traduisent par de réels progrès.
+:::
+
+```mermaid
+graph TD
+    A[But] --> B[Plan de formation]
+    B --> C[Actions quotidiennes]
+    C --> D[Pratique cohérente]
+    D --> E[Progrès mesurables]
+    E --> F[Atteinte des objectifs]
+
+    style A fill:#e3f2fd
+    style B fill:#e8f5e9
+    style C fill:#fff4e1
+    style F fill:#fff4e1
+```
 
 ## Les 8 phases du développement autodirigé
 
-### Phase 1 : Définissez votre boussole (objectifs)
-Vous avez déjà appris les objectifs SMART. Maintenant, mettez-les dans une hiérarchie :
+### Phase 1 : Définir votre boussole (objectifs)
+Vous avez déjà appris ce qu&#39;est un objectif SMART. Maintenant, hiérarchisez-le :
 
-1. **Objectif à long terme** (1-2 ans) : Votre rêve
-2. **Objectif annuel** : La cible de cette année
-3. **Objectifs trimestriels** : Jalons de 3 mois
-4. **Objectifs mensuels** : Domaines de concentration spécifiques
-5. **Objectifs hebdomadaires** : Cibles d'entraînement
+1. **Objectif à long terme** (1 à 2 ans) : Votre rêve
+2. **Objectif annuel** : Objectif de cette année
+3. **Objectifs trimestriels** : étapes clés sur 3 mois
+4. **Objectifs mensuels** : Domaines d’intervention spécifiques
+5. **Objectifs hebdomadaires** : Objectifs d&#39;entraînement
 
-### Phase 2 : Évaluez vos ressources
+### Phase 2 : Évaluer vos ressources
 
 Avant de planifier, évaluez honnêtement ce que vous avez :
 
 | Ressource | Questions à poser |
 |----------|-----------------|
-| **Temps** | Combien d'heures par semaine pouvez-vous réalistement vous entraîner ? |
-| **Lieu** | Avez-vous accès à un terrain approprié ? Quelle est la qualité de la surface ? |
-| **Équipement** | Avez-vous des boules appropriées ? Outils de mesure ? Capacité vidéo ? |
-| **Connaissance** | Quelles sont vos forces et faiblesses techniques ? |
-| **Condition physique** | Des limitations ? Des domaines nécessitant du travail ? |
+| **Temps** | Combien d&#39;heures par semaine pouvez-vous raisonnablement vous entraîner ? |
+| **Emplacement** | Avez-vous accès à une piste en bon état ? Quel est l’état du revêtement ? |
+| **Équipement** | Disposez-vous de boules de boules appropriées ? D’outils de mesure ? D’un équipement vidéo ? |
+| **Connaissance** | Quels sont vos points forts et vos points faibles techniques ? |
+| **État physique** | Des limitations ? Des points à améliorer ? |
 
-Soyez honnête. Un plan réaliste bat une fantaisie ambitieuse.
+Soyez honnête. Un plan réaliste vaut mieux qu&#39;un fantasme ambitieux.
 
 ### Phase 3 : Choisissez vos exercices
 
-Sélectionnez des exercices qui soutiennent directement vos objectifs :
+Choisissez des exercices qui contribuent directement à vos objectifs :
 
-**Pour l'amélioration du pointage :**
-- Pointage de précision vers des zones marquées
-- Exercices de variation de distance
-- Pratique sur différentes surfaces
+**Pour améliorer la précision du pointage :**
+- Pointage précis vers les zones marquées
+- exercices de variation de distance
+- Pratique de différentes surfaces
 
-**Pour l'amélioration du tir :**
+**Pour améliorer son tir :**
 - Échelle de tir (distances progressives)
-- Tir avec obstacles (arc haut forcé)
-- Pratique de cible mobile
+- Tir d&#39;obstacle (arc élevé forcé)
+- entraînement à la cible mobile
 
 **Pour le développement mental :**
-- Pratique de routine pré-tir
-- Séances de visualisation
+- Exercices de routine avant le tir
+- séances de visualisation
 - Simulation de pression
 
 **Équilibrez votre programme :**
-- Travail technique (pointage, tir)
+- Travail technique (pointage, prise de vue)
 - Entraînement mental (pleine conscience, visualisation)
-- Conditionnement physique (équilibre, flexibilité)
-- Jeu de match (application des compétences)
+- Conditionnement physique (équilibre, souplesse)
+- Match play (application des compétences)
 
-### Phase 4 : Créez votre emploi du temps
+### Phase 4 : Établissez votre planning
 
-Construisez un emploi du temps hebdomadaire réaliste :
+Élaborez un planning hebdomadaire réaliste :
 
-| Jour | Matin | Après-midi | Soir | Focus |
+| Jour | Matin | Après-midi | Soirée | Se concentrer |
 |-----|---------|-----------|---------|-------|
-| Lun | - | Technique : Pointage | Mobilité légère | Précision |
-| Mar | - | Technique : Tir | - | Puissance/précision |
-| Mer | - | Entraînement mental | - | Pleine conscience |
-| Jeu | - | Mixte : Scénarios de jeu | Mobilité légère | Application |
+| Lun | - | Technique : Pointage | mobilité légère | Précision |
+| Mar | - | Technique : Prise de vue | - | Puissance/précision |
+| Épouser | - | entraînement mental | - | pleine conscience |
+| Jeu | - | Mixte : Scénarios de jeu | mobilité légère | Application |
 | Ven | - | Technique : Faiblesse | - | Amélioration |
-| Sam | Jeu de match ou compétition | - | - | Performance |
-| Dim | Repos | Révision hebdomadaire | Planification | Récupération |
+| Assis | Match play ou compétition | - | - | Performance |
+| Soleil | Repos | Revue hebdomadaire | Planification | Récupération |
 
 **Principes clés :**
-- Priorisez l'entraînement mental (il est souvent négligé)
-- Incluez des jours de repos
-- Équilibrez différentes compétences
-- Laissez de la flexibilité pour la vie
+- Priorisez l&#39;entraînement mental (il est souvent négligé).
+- Inclure les jours de repos
+- Équilibrer différentes compétences
+- Laissez la flexibilité pour la vie
 
-### Phase 5 : Préparez-vous aux obstacles
+### Phase 5 : Se préparer aux obstacles
 
-Les choses vont mal tourner. Planifiez pour cela.
+Les choses vont mal tourner. Préparez-vous-y.
 
 | Risque | Probabilité | Impact | Plan de secours |
 |------|------------|--------|-------------|
-| Manque de temps | Élevée | Moyen | Ayez une "session minimale" prête (20 min) |
-| Mauvais temps | Moyenne | Moyen | Visualisation intérieure, étude vidéo |
-| Faible motivation | Élevée | Moyen | Retour au "pourquoi", objectifs plus petits, faire une pause |
-| Blessure mineure | Moyenne | Élevé | Focus sur l'entraînement mental, compétences non affectées |
-| Pas de partenaire d'entraînement | Moyenne | Faible | Exercices en solo, auto-analyse vidéo |
+| Pénurie de temps | Haut | Moyen | Préparez une « session minimale » (20 min). |
+| Intempéries | Moyen | Moyen | Visualisation intérieure, étude vidéo |
+| Faible motivation | Haut | Moyen | Revenez au « pourquoi », fixez-vous des objectifs plus modestes, faites une pause |
+| Blessure mineure | Moyen | Haut | Concentrez-vous sur l&#39;entraînement mental et les compétences non affectées. |
+| Pas de partenaire d&#39;exercice | Moyen | Faible | Exercices individuels, auto-analyse vidéo |
 
 ### Phase 6 : Suivez vos progrès
 
-Ce qui est mesuré est géré.
+Ce qui se mesure se gère.
 
-**Tenez un journal d'entraînement :**
+**Tenez un journal d&#39;entraînement :**
 - Date et durée
-- Exercices complétés
+- Exercices terminés
 - Scores/résultats
-- Comment vous vous êtes senti (énergie, concentration, flow)
+- Comment vous vous sentiez (énergie, concentration, fluidité)
 - Notes techniques
 - Météo/conditions
 
-**Questions de révision hebdomadaire :**
-- Ai-je complété mes sessions planifiées ?
-- Quels scores ai-je atteints ?
-- Qu'est-ce qui s'est bien passé ? Qu'est-ce qui était difficile ?
+**Questions de révision hebdomadaires :**
+- Ai-je terminé toutes les séances prévues ?
+- Quels scores ai-je obtenus ?
+- Qu&#39;est-ce qui vous a plu ? Qu&#39;est-ce qui a été difficile ?
 - Des expériences de flow ?
 - Que dois-je ajuster ?
 
 ### Phase 7 : Restez motivé
 
-La motivation fluctue. Construisez des systèmes pour la maintenir :
+La motivation fluctue. Mettez en place des systèmes pour la maintenir :
 
 **Motivation interne :**
-- Connectez-vous à votre "pourquoi"
+- Connectez-vous à votre « pourquoi »
 - Célébrez les petites victoires
-- Remarquez l'amélioration au fil du temps
+- On constate une amélioration au fil du temps.
 - Trouvez de la joie dans le processus
 
 **Soutien externe :**
-- Partenaires d'entraînement (même occasionnellement)
-- Partagez vos objectifs avec quelqu'un
-- Rejoignez des communautés en ligne
-- Suivez les séries et la cohérence
+- partenaires d&#39;entraînement (même occasionnellement)
+- Partager ses objectifs avec quelqu&#39;un
+- Rejoignez les communautés en ligne
+- Suivi des séries et de la régularité
 
-**Quand la motivation baisse :**
-- Faites une session minimale (quelque chose bat rien)
+**Quand la motivation chute :**
+- Faites une séance minimale (mieux vaut quelque chose que rien du tout).
 - Changez votre environnement
-- Révisez vos progrès
-- Rappelez-vous les succès passés
-- Prenez une pause planifiée si nécessaire
+- Examinez vos progrès
+- Se souvenir des succès passés
+- Faites une pause planifiée si nécessaire
 
-### Phase 8 : Révisez et adaptez
+### Phase 8 : Révision et adaptation
 
-Votre plan doit évoluer :
+Votre plan doit évoluer :
 
 **Hebdomadaire :** Révision rapide, ajustements mineurs
-**Mensuel :** Évaluez les progrès vers les objectifs mensuels, ajustez le focus
-**Trimestriel :** Révision majeure, définissez les objectifs du prochain trimestre
-**Annuel :** Évaluation complète, nouveau plan annuel
+**Mensuel :** Évaluer les progrès accomplis vers les objectifs mensuels et ajuster les priorités.
+**Trimestriel :** Bilan important, définition des objectifs du trimestre suivant
+**Annuellement :** Évaluation complète, nouveau plan annuel
 
-**Questions pour la révision :**
+**Questions à revoir :**
 - Est-ce que je progresse vers mes objectifs ?
-- Mon entraînement est-il efficace ?
-- Ai-je besoin d'exercices différents ?
+- Ma formation est-elle efficace ?
+- Ai-je besoin d&#39;exercices différents ?
 - Mes objectifs sont-ils toujours pertinents ?
-- Qu'ai-je appris ?
+- Qu&#39;ai-je appris ?
 
-## Exemple de plan de 8 semaines
+## Exemple de plan sur 8 semaines
 
-**Objectif :** Améliorer la précision de tir de 15%
+**Objectif :** Améliorer la précision de tir de 15 %
 
-| Semaine | Focus | Sessions clés |
+| Semaine | Se concentrer | Séances clés |
 |------|-------|--------------|
-| 1 | Référence | Tester le niveau actuel, analyse vidéo |
-| 2 | Technique | Identifier et travailler sur le problème clé |
-| 3 | Répétition | Pratique de tir à haut volume |
+| 1 | Ligne de base | Test du niveau actuel, analyse vidéo |
+| 2 | Technique | Identifier et traiter les problèmes clés |
+| 3 | Répétition | entraînement au tir à volume élevé |
 | 4 | Test | Évaluation à mi-parcours, ajuster |
 | 5 | Variation | Différentes distances et angles |
 | 6 | Pression | Ajouter des conséquences aux exercices |
 | 7 | Intégration | Scénarios de type jeu |
-| 8 | Test final | Mesurer l'amélioration |
+| 8 | Test final | Amélioration des mesures |
 
-## Point clé
+## Points clés à retenir
 
-> Planifiez votre travail, puis travaillez votre plan. Mais soyez prêt à vous adapter.
+> Planifiez votre travail, puis travaillez selon votre plan. Mais soyez prêt à vous adapter.
 
-Le meilleur plan est celui que vous suivrez réellement. Commencez simple, restez cohérent et ajustez au fur et à mesure que vous apprenez.
+Le meilleur plan est celui que vous suivrez réellement. Commencez simplement, restez constant et ajustez-le au fur et à mesure que vous apprenez.
 

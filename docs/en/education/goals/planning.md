@@ -2,6 +2,24 @@
 
 Goals without a plan are just wishes. This guide helps you turn your goals into a structured training plan that actually works.
 
+::: tip The Big Idea
+**Goals without a plan are just wishes.** A structured training plan transforms your goals into daily actions that compound into real progress.
+:::
+
+```mermaid
+graph TD
+    A[Goal] --> B[Training Plan]
+    B --> C[Daily Actions]
+    C --> D[Consistent Practice]
+    D --> E[Measurable Progress]
+    E --> F[Goal Achievement]
+
+    style A fill:#e3f2fd
+    style B fill:#e8f5e9
+    style C fill:#fff4e1
+    style F fill:#fff4e1
+```
+
 ## The 8 Phases of Self-Directed Development
 
 ### Phase 1: Set Your Compass (Goals)

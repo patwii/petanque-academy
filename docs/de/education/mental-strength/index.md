@@ -1,120 +1,189 @@
 # Mentale Stärke
 
-Mentale Stärke ist das, was Spieler, die im Training gut abschneiden, von denen trennt, die gut abschneiden, wenn es darauf ankommt. Es ist die Fähigkeit, mit Druck umzugehen, sich von Rückschlägen zu erholen und während langer Wettkämpfe den Fokus zu behalten.
+Mentale Stärke ist das, was Spieler, die im Training gut abschneiden, von denen unterscheidet, die in entscheidenden Momenten ihr Bestes geben. Es ist die Fähigkeit, mit Druck umzugehen, Rückschläge zu verkraften und die Konzentration während langer Wettkämpfe aufrechtzuerhalten.
+
+::: tip Das Kernprinzip
+Mentale Stärke bedeutet nicht, Nervosität zu überwinden oder nie Fehler zu machen. Es geht darum, trotz Fehlern gute Leistungen zu erbringen. Du kannst nicht kontrollieren, was passiert. Du kannst kontrollieren, wie du reagierst.
+:::
+
+```mermaid
+graph TD
+    A[Drucksituation] --> B{Mental Strength?}
+    B -->|Weak| C[Negative Gedanken]
+    B -->|Strong| D[Routine vor der Impfung]
+
+    C --> E[Die Spannung steigt]
+    E --> F[Leistungsabfall]
+    F --> G[Mehr Druck]
+    G --> C
+
+    D --> H[Fokus auf den Prozess]
+    H --> I[Vertrauenstraining]
+    I --> J[Gut ausführen]
+    J --> K[Das Selbstvertrauen wächst]
+
+    style C fill:#ffcdd2
+    style E fill:#ffcdd2
+    style F fill:#ffcdd2
+    style G fill:#ffcdd2
+    style D fill:#c8e6c9
+    style H fill:#c8e6c9
+    style I fill:#c8e6c9
+    style J fill:#a5d6a7
+    style K fill:#a5d6a7
+```
 
 ## Was ist mentale Stärke?
 
 Mentale Stärke umfasst:
-- **Selbstvertrauen:** An Ihre Fähigkeit glauben
-- **Fokus:** Aufmerksamkeit auf das Wesentliche richten
-- **Resilienz:** Sich von Fehlern erholen
-- **Gelassenheit:** Unter Druck ruhig bleiben
-- **Motivation:** Anstrengung über Zeit aufrechterhalten
+- **Selbstvertrauen:** An die eigenen Fähigkeiten glauben.
+- **Fokus:** Die Aufmerksamkeit auf das Wesentliche richten.
+- **Resilienz:** Sich von Fehlern erholen.
+- **Gelassenheit:** Auch unter Druck ruhig bleiben
+- **Motivation:** Aufrechterhaltung der Anstrengung über einen längeren Zeitraum
 
-Dies sind keine festen Eigenschaften - sie sind Fähigkeiten, die Sie entwickeln können.
+Das sind keine festen Eigenschaften – es sind Fähigkeiten, die man entwickeln kann.
 
-## Die mentalen Anforderungen von Pétanque
+## Die mentalen Anforderungen beim Boule
 
 Pétanque hat einzigartige mentale Herausforderungen:
 
-| Herausforderung | Warum es schwer ist |
+| Herausforderung | Warum es schwierig ist |
 |-----------|--------------|
-| Zeit zwischen Würfen | Gelegenheit für negative Gedanken |
-| Sichtbare Ergebnisse | Jeder sieht Ihre Fehler |
-| Teamformat | Druck, Partner nicht zu enttäuschen |
-| Lange Wettkämpfe | Mentale Ermüdung über viele Stunden |
+| Zeit zwischen den Würfen | Gelegenheit für negative Gedanken |
+| Sichtbare Ergebnisse | Jeder sieht deine Fehler |
+| Teamformat | Druck, die Partner nicht zu enttäuschen |
+| Lange Wettbewerbe | Geistige Erschöpfung über viele Stunden |
 | Knappe Spiele | Hohe Einsätze bei einzelnen Würfen |
-| Momentum-Schwankungen | Emotionale Achterbahn |
+| Momentumschwünge | Emotionale Achterbahnfahrt |
 
-## Aufbau mentaler Stärke
+## Mentale Stärke aufbauen
 
 ### 1. Selbstvertrauen entwickeln
 
-Selbstvertrauen kommt von:
-- **Vorbereitung:** Wissen, dass Sie die Arbeit geleistet haben
-- **Vergangener Erfolg:** Sich an Zeiten erinnern, in denen Sie gut abgeschnitten haben
-- **Positive Selbstgespräche:** Wie Sie mit sich selbst sprechen
-- **Körpersprache:** Aufrecht stehen, sich mit Absicht bewegen
+Selbstvertrauen entsteht durch:
+- **Vorbereitung:** Zu wissen, dass man die Arbeit erledigt hat.
+- **Vergangene Erfolge:** Sich an Zeiten erinnern, in denen man gute Leistungen erbracht hat
+- **Positives Selbstgespräch:** Wie du mit dir selbst sprichst
+- **Körpersprache:** Aufrechte Haltung, zielgerichtete Bewegungen.
 
-**Selbstvertrauensbildner:**
-- Führen Sie ein Erfolgstagebuch
-- Visualisieren Sie erfolgreiche Leistungen
-- Bereiten Sie sich gründlich auf Wettkämpfe vor
-- Verwenden Sie selbstbewusste Körpersprache (sie beeinflusst Ihren Geist)
+**Selbstvertrauensfördernde Maßnahmen:**
+- Führe ein Erfolgstagebuch
+- Erfolgreiche Leistungen visualisieren
+- Bereiten Sie sich gründlich auf Wettkämpfe vor.
+- Setzen Sie eine selbstbewusste Körpersprache ein (sie beeinflusst Ihre Psyche).
 
-### 2. Meistern Sie Ihre Selbstgespräche
+### 2. Meistere deine Selbstgespräche
 
-Die Stimme in Ihrem Kopf ist enorm wichtig.
+Die Stimme in deinem Kopf ist von enormer Bedeutung.
 
-**Destruktive Selbstgespräche:**
-- "Ich verpasse diese immer"
-- "Ich werde versagen"
-- "Meine Teamkollegen zählen auf mich" (Druck)
-- "Das war schrecklich"
+**Destruktives Selbstgespräch:**
+- &quot;Ich verpasse die immer.&quot;
+- &quot;Ich werde ersticken.&quot;
+- „Meine Teamkollegen zählen auf mich“ (Druck).
+- &quot;Das war furchtbar.&quot;
 
-**Konstruktive Selbstgespräche:**
-- "Ich habe diesen Wurf schon gemacht"
-- "Vertraue meinem Training"
-- "Ein Wurf nach dem anderen"
-- "Nächster Wurf, Neuanfang"
+**Konstruktives Selbstgespräch:**
+- „Diesen Wurf habe ich schon einmal gemacht.“
+- &quot;Vertraue meinem Training&quot;
+- &quot;Ein Wurf nach dem anderen&quot;
+- &quot;Nächster Wurf, neuer Anfang&quot;
 
-**Ändern Sie Ihre Selbstgespräche:**
-1. Bemerken Sie, was Sie zu sich selbst sagen
+**Ihre innere Dialogweise verändern:**
+1. Achte darauf, was du zu dir selbst sagst
 2. Hinterfragen Sie negative Aussagen
-3. Ersetzen Sie durch realistische, hilfreiche Alternativen
-4. Üben Sie, bis es automatisch wird
+3. Durch realistische, hilfreiche Alternativen ersetzen
+4. Üben Sie so lange, bis es automatisch abläuft.
 
 ### 3. Resilienz aufbauen
 
 Resilienz ist die Fähigkeit, sich von Rückschlägen zu erholen.
 
 **Die resiliente Denkweise:**
-- Fehler sind Information, kein Versagen
-- Ein schlechter Wurf definiert Sie nicht
+- Fehler sind Informationen, kein Versagen.
+- Ein schlechter Wurf definiert dich nicht
 - Rückschläge sind vorübergehend
-- Sie können immer gut auf das reagieren, was passiert
+- Man kann immer gut auf das reagieren, was passiert.
 
-**Resilienz aufbauen:**
-- Üben Sie, sich von Fehlern im Training zu erholen
-- Verwenden Sie die SOAS-Methode (Stoppen, Beobachten, Akzeptieren, Loslassen)
-- Fokussieren Sie auf die Reaktion, nicht das Ereignis
-- Entwickeln Sie ein kurzes Gedächtnis für schlechte Würfe
+**Stärkung der Resilienz:**
+- Üben Sie, sich im Training von Fehlern zu erholen.
+- Wenden Sie die SOAS-Methode an (Stoppen, Beobachten, Akzeptieren, Aussetzen).
+- Konzentriere dich auf die Reaktion, nicht auf das Ereignis.
+- Entwickle ein kurzes Gedächtnis für schlechte Würfe
 
-### 4. Verwalten Sie Ihre Energie
+### 4. Gehen Sie sparsam mit Ihrer Energie um
 
 Mentale Stärke erfordert Energiemanagement:
 
-**Physische Energie:**
-- Schlafen Sie gut vor Wettkämpfen
-- Essen Sie richtig (stabiler Blutzucker)
+**Physikalische Energie:**
+- Schlaf gut vor Wettkämpfen.
+- Richtig essen (stabiler Blutzuckerspiegel)
 - Bleiben Sie hydratisiert
-- Bewegen Sie sich zwischen Spielen (sitzen Sie nicht zu lange)
+- Wechseln Sie zwischen den Spielen (bleiben Sie nicht zu lange sitzen).
 
 **Mentale Energie:**
-- Machen Sie Pausen, wenn möglich
-- Überanalysieren Sie nicht zwischen Würfen
-- Sparen Sie intensiven Fokus für wenn Sie ihn brauchen
-- Haben Sie Erholungsroutinen
+- Machen Sie Pausen, wann immer möglich
+- Analysiere die Würfe nicht übermäßig.
+- Konzentriere dich intensiv auf den Moment, in dem du es brauchst.
+- Pflegen Sie Erholungsroutinen.
 
-## Die Selbstvertrauen-Kompetenz-Schleife
+## Der Vertrauens-Kompetenz-Kreislauf
 
+::: info Der positive Kreislauf
+```mermaid
+graph LR
+    A[Bessere Vorbereitung] --> B[Mehr Selbstvertrauen]
+    B --> C[Bessere Leistung]
+    C --> D[Mehr Selbstvertrauen]
+    D --> A
+
+    style A fill:#e3f2fd
+    style B fill:#c8e6c9
+    style C fill:#fff9c4
+    style D fill:#c8e6c9
 ```
-Bessere Vorbereitung → Mehr Selbstvertrauen → Bessere Leistung → Mehr Selbstvertrauen → ...
-```
 
-Diese Schleife funktioniert in beide Richtungen. Bauen Sie sie auf durch:
-1. Qualitätstraining (baut Kompetenz auf)
-2. Fortschrittsverfolgung (baut Selbstvertrauen auf)
-3. Erfolgreiche Leistungen (verstärkt beides)
+**Bauen Sie es auf durch:**
+1. Qualitätspraxis (Kompetenzaufbau)
+2. Fortschrittskontrolle (stärkt das Selbstvertrauen)
+3. Erfolgreiche Auftritte (verstärkt beides)
+:::
 
 ## In diesem Abschnitt
 
-- **[Umgang mit Druck](/de/education/mental-strength/handling-pressure)** - Techniken für Hochdruck-Situationen
-- **[Vor-Wurf-Routine](/de/education/mental-strength/pre-shot-routine)** - Aufbau Ihres Leistungsauslösers
+- **[Umgang mit Druck](/en/education/mental-strength/handling-pressure)** – Techniken für Situationen mit hohem Einsatz
+- **[Routine vor dem Wurf](/en/education/mental-strength/pre-shot-routine)** – Den Leistungsauslöser aufbauen
 
-## Kernaussage
+## Zusammenfassung: Regeln für mentale Stärke
 
-> Mentale Stärke bedeutet nicht, Nervosität zu eliminieren oder nie Fehler zu machen. Es geht darum, trotzdem gut zu performen.
+::: tip Regel Nr. 1: Die Routineregel
+**Konsequente Vorbereitungsroutinen führen zu Höchstleistungen.**
+Immer die gleiche Routine = zuverlässiger Auslöser für den Flow-Zustand
+:::
 
-Sie können nicht kontrollieren, was passiert. Sie können kontrollieren, wie Sie reagieren.
+::: tip Regel Nr. 2: Die Reset-Regel
+**Entwickle eine 10-Sekunden-Routine zum Zurücksetzen nach Fehlern.**
+Körperliche Erholung (tief durchatmen, Schulterkreisen) + mentale Erholung (SOAS-Methode)
+:::
+
+::: tip Regel Nr. 3: Die Vertrauensschleifenregel
+**Bessere Vorbereitung → Mehr Selbstvertrauen → Bessere Leistung.**
+Der Kreislauf funktioniert in beide Richtungen. Man baut ihn durch qualitativ hochwertiges Üben und die Verfolgung des Fortschritts auf.
+:::
+
+::: tip Regel Nr. 4: Die Selbstgesprächsregel
+**Sprich mit dir selbst so, wie du mit einem Teamkollegen sprechen würdest.**
+Unterstützend, konstruktiv, fokussiert auf das, was zu tun ist (und nicht auf das, was schiefgelaufen ist).
+:::
+
+::: tip Regel Nr. 5: Die Energiemanagementregel
+**Heben Sie sich Ihre volle Konzentration für den Fall auf, dass Sie sie brauchen.**
+Analysiere die Würfe nicht übermäßig. Spare deine mentale Energie für die Ausführung.
+:::
+
+## Wichtigste Erkenntnis
+
+> Mentale Stärke bedeutet nicht, Nervosität zu unterdrücken oder nie Fehler zu machen. Es geht darum, trotz Fehlern gute Leistungen zu erbringen.
+
+Du kannst nicht kontrollieren, was passiert. Du kannst aber kontrollieren, wie du reagierst.
 

@@ -1,167 +1,197 @@
 # Een dagelijkse mindfulness-praktijk opbouwen
 
-De voordelen van mindfulness komen van consistente praktijk. Hier is hoe je het deel van je leven maakt.
+De voordelen van mindfulness komen voort uit consistente oefening. Zo maak je het onderdeel van je leven.
 
-## Waarom dagelijkse praktijk belangrijk is
+::: tip Het Grote Idee
+**Consistentie is belangrijker dan intensiteit.** Vijf minuten per dag is beter dan een uur per week. Begin klein, wees consequent en de voordelen stapelen zich na verloop van tijd op.
+:::
 
-Mindfulness is zoals fysieke fitness:
-- Je kunt niet fit worden van één sportschoolsessie
-- Regelmatige praktijk creëert blijvende verandering
-- De effecten stapelen zich op in de tijd
-- Het wordt gemakkelijker met consistentie
+```mermaid
+graph LR
+    A[Dagelijkse oefening] --> B[Neurale paden]
+    B --> C[Automatische vaardigheid]
+    C --> D[Competitieprestaties]
 
-Onderzoek toont aan dat zelfs **3 minuten per dag** meetbare voordelen creëert. Maar je moet het regelmatig doen.
+    style A fill:#e8f5e9
+    style B fill:#e3f2fd
+    style C fill:#fff4e1
+    style D fill:#fff4e1
+```
+
+## Waarom dagelijkse oefening belangrijk is
+
+::: info Mindfulness is net als fysieke fitheid.
+- ❌ Je wordt niet fit van één sportschoolsessie
+- ✅ Regelmatig oefenen zorgt voor blijvende verandering
+- ✅ De effecten stapelen zich op na verloop van tijd.
+- ✅ Met consistentie wordt het makkelijker
+:::
+
+```mermaid
+graph TD
+    A[Consistente praktijk] --> B[Week 1: Gewoonte opbouwen]
+    B --> C[Maand 1: Opzegtermijn]
+    C --> D[Maand 3: Natuurlijker]
+    D --> E[Groep 1+: Fundamentele vaardigheid]
+
+    style A fill:#e8f5e9
+    style E fill:#fff4e1
+```
+
+::: tip Onderzoeksonderbouwing
+Onderzoek toont aan dat zelfs **3 minuten per dag** meetbare voordelen oplevert. Maar je moet het wel regelmatig doen.
+:::
 
 ## Je routine creëren
 
-### Stap 1: Kies je tijd
+### Stap 1: Kies je tijdstip
 
-Kies een consistent tijdstip dat werkt voor je leven:
+Kies een vast tijdstip dat in jouw leven past:
 
 | Tijd | Voordelen | Overwegingen |
 |------|------------|----------------|
-| **Ochtend** | Zet de toon voor de dag, minder onderbrekingen | Moet eerder wakker worden |
-| **Middag** | Breekt de dag op, reset focus | Kan vergeten, schema conflicten |
-| **Avond** | Ontspannen, reflecteren op de dag | Kan moe zijn, minder alert |
-| **Voor training** | Directe verbinding met pétanque | Hangt af van trainingsschema |
+| **Ochtend** | Zet de toon voor de dag, minder onderbrekingen. | Ik moet vroeger opstaan. |
+| **Middag** | Het onderbreekt de dag, zorgt voor een goede concentratie. | Mogelijk vergeet ik het, planningsconflicten |
+| **Avond** | Kom tot rust en reflecteer op de dag. | Mogelijk moe en minder alert. |
+| **Voor de training** | Directe verbinding met jeu de boules | Afhankelijk van het trainingsschema |
 
-**Beste aanpak:** Koppel het aan een bestaande gewoonte (na koffie, voor lunch, enz.)
+**Beste aanpak:** Koppel het aan een bestaande gewoonte (na de koffie, voor de lunch, enz.)
 
 ### Stap 2: Begin klein
 
-Richt niet op 30 minuten op dag één.
+Streef er niet naar om het op de eerste dag al 30 minuten vol te houden.
 
-**Aanbevolen progressie:**
+**Aanbevolen vervolgstappen:**
 - Week 1-2: 3-5 minuten
 - Week 3-4: 5-10 minuten
 - Maand 2: 10-15 minuten
-- Maand 3+: 15-20 minuten
+- Vanaf maand 3: 15-20 minuten
 
-Het is beter om 5 minuten elke dag te doen dan 30 minuten één keer per week.
+Het is beter om elke dag 5 minuten te doen dan één keer per week 30 minuten.
 
-### Stap 3: Creëer je ruimte
+### Stap 3: Creëer je eigen ruimte
 
-Je hebt geen meditatieruimte nodig, maar een consistente plek helpt:
-- Ergens rustig (of gebruik koptelefoon)
-- Comfortabele zitplaats
+Je hebt geen aparte meditatieruimte nodig, maar een vaste plek is wel handig:
+- Zoek een rustige plek (of gebruik een koptelefoon).
+- Comfortabele zitplaatsen
 - Minimale afleiding
-- Dezelfde plek elke keer indien mogelijk
+- Indien mogelijk steeds naar dezelfde plek.
 
-### Stap 4: Verwijder barrières
+### Stap 4: Verwijder obstakels
 
-Maak het gemakkelijk om te oefenen:
-- Zet je telefoon op stil
-- Vertel familie/huisgenoten om niet te onderbreken
-- Heb alles klaar (kussen, timer)
-- Wacht niet op "perfecte" omstandigheden
+Maak het oefenen gemakkelijk:
+- Zet je telefoon op stil.
+- Zeg tegen familie/huisgenoten dat ze je niet mogen storen.
+- Zorg dat alles klaar ligt (kussen, timer).
+- Wacht niet op &quot;perfecte&quot; omstandigheden.
 
-## Voorbeelden van dagelijkse schema's
+## Voorbeelden van dagelijkse schema&#39;s
 
-### Minimale praktijk (5 minuten)
+### Minimale oefening (5 minuten)
 - Ochtend: 3 minuten bewust ademhalen
-- Gedurende de dag: 3 mindfulness-bel momenten
-- Avond: 2 minuten lichaamsbewustzijn voor het slapen
+- Gedurende de dag: 3 momenten van mindfulness met een bel
+- &#39;s Avonds: 2 minuten lichaamsbewustzijn voor het slapengaan
 
-### Standaard praktijk (15 minuten)
+### Standaard oefening (15 minuten)
 - Ochtend: 10 minuten zittende meditatie
 - Middag: 2 minuten bewust ademhalen
-- Avond: 3 minuten body scan
+- Avond: 3 minuten lichaamsscan
 
-### Intensieve praktijk (30 minuten)
+### Intensieve oefening (30 minuten)
 - Ochtend: 15 minuten zittende meditatie
 - Middag: 5 minuten wandelmeditatie
-- Avond: 10 minuten body scan
-- Plus: Mindful eten bij één maaltijd
+- Avond: 10 minuten lichaamsscan
+- Bovendien: bewust eten tijdens één maaltijd.
 
 ## Integratie met pétanque-training
 
-### Voor training
+### Voor de training
 - 5 minuten zittende meditatie
-- Stel een intentie voor de sessie
-- Body scan om spanning op te merken
+- Formuleer een doel voor de sessie.
+- Lichaamsscan om eventuele spanning op te merken.
 
-### Tijdens training
-- Gebruik pre-worp routine als mindfulness-praktijk
+### Tijdens de training
+- Gebruik de routine vóór de injectie als mindfulness-oefening.
 - Pas SOAS toe na fouten
-- Blijf aanwezig tussen worpen
+- Blijf in het moment tussen de worpen door.
 
-### Na training
+### Na de training
 - 3 minuten reflectie (zonder oordeel)
-- Noteer flow-momenten
-- Bewust ademhalen voor de overgang
+- Noteer eventuele flow-momenten.
+- Bewust ademen om de overgang te maken.
 
-## Je praktijk bijhouden
+## Uw praktijk bijhouden
 
-Bijhouden helpt consistentie te behouden:
+Door alles bij te houden, blijft de consistentie behouden:
 
 ### Eenvoudig logboek
 | Datum | Duur | Type | Notities |
 |------|----------|------|-------|
-| Ma | 10 min | Zittend | Geest erg druk |
-| Di | 10 min | Zittend | Kalmer vandaag |
-| Wo | 5 min | Body scan | Spanning in schouders gevonden |
+| ma | 10 min | Zittend | Mijn hoofd zit vol met gedachten |
+| di | 10 min | Zittend | Rustiger vandaag |
+| wo | 5 min | Lichaamsscan | Ik voelde spanning in mijn schouders. |
 
-### Wat bij te houden
+### Wat te volgen
 - Heb je geoefend? (Ja/Nee)
 - Hoe lang?
 - Welk type?
-- Korte notitie over ervaring (optioneel)
+- Korte toelichting op ervaring (optioneel)
 
 ### Apps die helpen
-- Headspace
-- Calm
-- Insight Timer
-- Eenvoudige gewoontetrackers
+- Hoofdruimte
+- Kalm
+- Inzicht Timer
+- Eenvoudige gewoonte-trackers
 
-## Veelvoorkomende obstakels overwinnen
+## Het overwinnen van veelvoorkomende obstakels
 
-### "Ik heb geen tijd"
+### &quot;Ik heb geen tijd&quot;
 - Je hebt 3 minuten
-- Het gaat om prioriteit, niet tijd
-- Probeer te koppelen aan bestaande activiteiten
+- Het gaat om prioriteiten, niet om tijd.
+- Probeer te linken naar bestaande activiteiten
 
-### "Ik blijf het vergeten"
-- Stel een dagelijks alarm in
-- Koppel aan bestaande gewoonte
-- Plaats een visuele herinnering waar je het zult zien
+### &quot;Ik vergeet het steeds&quot;
+- Stel een dagelijks alarm in.
+- Koppelen aan een bestaande gewoonte
+- Plaats een visuele herinnering op een plek waar je die kunt zien.
 
-### "Ik doe het niet goed"
-- Er is geen "goede" manier
-- Als je aandacht geeft, doe je het
-- Dwalende geest is normaal en verwacht
+### &quot;Ik doe het niet goed&quot;
+- Er bestaat geen &quot;juiste&quot; manier.
+- Als je oplet, doe je het al.
+- Afdwalende gedachten zijn normaal en te verwachten.
 
-### "Ik zie geen resultaten"
-- Voordelen zijn subtiel in het begin
-- Houd een dagboek bij om veranderingen op te merken
-- Vertrouw het onderzoek - het werkt
+### &quot;Ik zie geen resultaten&quot;
+- De voordelen zijn in eerste instantie subtiel.
+- Houd een dagboek bij om veranderingen in de loop van de tijd op te merken.
+- Vertrouw op het onderzoek - het werkt.
 
-### "Het is saai"
-- Verveling is gewoon een andere ervaring om te observeren
-- Probeer verschillende technieken
-- Herinner waarom je het doet
+### &quot;Het is saai&quot;
+- Verveling is gewoon weer een ervaring om te observeren.
+- Probeer verschillende technieken.
+- Onthoud waarom je het doet.
 
 ## Tekenen van vooruitgang
 
-Je merkt misschien geen dramatische veranderingen, maar let op:
-- Jezelf sneller betrappen wanneer geest dwaalt
-- Sneller herstellen van frustratie
-- Spanning opmerken voordat het zich opbouwt
-- Je meer aanwezig voelen tijdens wedstrijden
-- Betere slaap
+Je merkt misschien geen dramatische veranderingen, maar let op het volgende:
+- Jezelf betrappen wanneer je gedachten afdwalen (sneller)
+- Sneller herstellen van frustraties
+- Spanning signaleren voordat deze oploopt
+- Je meer aanwezig voelen tijdens de wedstrijden
+- Beter slapen
 - Minder reactief op slechte worpen
 
 ## Het lange spel
 
-Mindfulness is een levenslange praktijk. Elite-atleten zeggen vaak dat het de meest waardevolle vaardigheid is die ze hebben ontwikkeld.
+Mindfulness is een levenslange oefening. Topsporters zeggen vaak dat het de meest waardevolle vaardigheid is die ze ooit hebben ontwikkeld.
 
 **Maand 1:** De gewoonte opbouwen
-**Maanden 2-3:** Beginnen voordelen op te merken
+**Maanden 2-3:** Beginnen de voordelen te merken
 **Maanden 4-6:** Natuurlijker worden
-**Jaar 1+:** Fundamenteel deel van wie je bent
+**Vanaf het eerste jaar:** Een fundamenteel onderdeel van wie je bent
 
 ## Belangrijkste conclusie
 
-> Consistentie verslaat intensiteit. Vijf minuten elke dag verslaat een uur één keer per week.
+> Consistentie is belangrijker dan intensiteit. Vijf minuten per dag is beter dan een uur per week.
 
-Begin vandaag. Begin klein. Ga door.
+Begin vandaag nog. Begin klein. Houd vol.
 

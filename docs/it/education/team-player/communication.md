@@ -1,135 +1,152 @@
 # Comunicazione di squadra
 
-La comunicazione efficace è ciò che trasforma un gruppo di individui in una squadra. Nella pétanque, dove la strategia cambia costantemente e la pressione è alta, il modo in cui comunichi può determinare il risultato.
+Una comunicazione efficace è ciò che trasforma un gruppo di individui in una squadra. Nel gioco delle bocce, dove la strategia cambia costantemente e la pressione è alta, il modo in cui si comunica può determinare il risultato.
 
-## Il ciclo di comunicazione
+::: tip La grande idea
+**La comunicazione è ciò che trasforma gli individui in una squadra.** Una comunicazione chiara, specifica e di supporto sotto pressione distingue i buoni team da quelli eccellenti.
+:::
+
+## Il ciclo della comunicazione
 
 Una buona comunicazione di squadra segue un ciclo:
 
-```
-Osservare → Condividere → Discutere → Decidere → Eseguire → Rivedere
+```mermaid
+graph LR
+    A[Osservare] --> B[Condividere]
+    B --> C[Discutere]
+    C --> D[Decidere]
+    D --> E[Eseguire]
+    E --> F[Revisione]
+    F --> A
+
+    style A fill:#e3f2fd
+    style D fill:#e8f5e9
+    style E fill:#fff4e1
+    style F fill:#f3e5f5
 ```
 
-1. **Osservare:** Notare cosa sta succedendo (terreno, posizioni, avversari)
-2. **Condividere:** Dire ai tuoi compagni di squadra cosa vedi
-3. **Discutere:** Scambiare prospettive e idee
-4. **Decidere:** Concordare sull'approccio
-5. **Eseguire:** Farlo con impegno
-6. **Rivedere:** Imparare dal risultato
+| Fare un passo | Azione | Esempio |
+|------|--------|---------|
+| **Osservare** | Nota cosa sta succedendo | Terreno, posizioni, avversari |
+| **Condividere** | Racconta ai compagni di squadra cosa vedi | &quot;Il terreno pende lì&quot; |
+| **Discutere** | Scambio di prospettive | &quot;Devo bloccare o andare a segno?&quot; |
+| **Decidere** | Concordare l&#39;approccio | &quot;Proviamo il pallonetto alto&quot; |
+| **Eseguire** | Fallo con impegno | Concentrazione completa sul lancio |
+| **Revisione** | Impara dai risultati | &quot;Ha funzionato bene&quot; oppure &quot;La prossima volta...&quot; |
 
 ## Quando comunicare
 
-### Prima di ogni manche
-- Valutare il terreno insieme
-- Discutere l'approccio generale
-- Chiarire chi lancia quando
-- Impostare il tono (calmo, concentrato)
+### Prima di ogni fine
+- Valutare insieme il terreno
+- Discutere l&#39;approccio generale
+- Chiarire chi lancia e quando
+- Imposta il tono (calmo, concentrato)
 
-### Durante la manche
-- Condividere osservazioni ("Il terreno pende a sinistra lì")
-- Coordinare la strategia ("Dovrei provare a bloccare o andare per il punto?")
-- Offrire supporto ("Prenditi il tuo tempo, ce l'hai")
-- Adattare i piani man mano che la situazione cambia
+### Durante la fine
+- Condividi le osservazioni (&quot;Il terreno è rimasto lì in pendenza&quot;)
+- Coordinare la strategia (&quot;Devo provare a bloccare o andare al punto?&quot;)
+- Offri supporto (&quot;Prenditi il tuo tempo, ce la puoi fare&quot;)
+- Adattare i piani in base ai cambiamenti della situazione
 
-### Tra le manche
-- Debriefing rapido (cosa ha funzionato, cosa no)
-- Resettare mentalmente
-- Prepararsi per la prossima manche
-- Rimanere connessi come squadra
+### Tra le estremità
+- Breve debriefing (cosa ha funzionato e cosa no)
+- Ripristina mentalmente
+- Preparati per la prossima fine
+- Rimani connesso come una squadra
 
 ### Dopo la partita
 - Debriefing completo (quando appropriato)
-- Riconoscere i contributi
+- Riconosci i contributi
 - Identificare gli apprendimenti
 - Mantenere la relazione
 
 ## Come comunicare
 
-### Essere chiari e specifici
+### Sii chiaro e specifico
 
-**Vago:** "Prova ad avvicinarti"
-**Chiaro:** "Mira al lato sinistro del pallino, circa 20cm fuori"
+**Vago:** &quot;Cerca di avvicinarti&quot;
+**Clear:** &quot;Mira al lato sinistro del cric, a circa 20 cm di distanza&quot;
 
-**Vago:** "Bel tentativo"
-**Chiaro:** "Buon peso, solo un po' a sinistra della linea"
+**Vago:** &quot;Bel tentativo&quot;
+**Clear:** &quot;Buon peso, solo un po&#39; a sinistra della linea&quot;
 
-### Essere costruttivi
+### Sii costruttivo
 
-Concentrarsi sulle soluzioni, non sui problemi:
+Concentratevi sulle soluzioni, non sui problemi:
 
-**Focalizzato sul problema:** "Continui a mancare a destra"
-**Focalizzato sulla soluzione:** "Forse prova a mirare un po' più a sinistra per compensare?"
+**Incentrato sul problema:** &quot;Continui a sbagliare direzione a destra&quot;
+**Incentrato sulla soluzione:** &quot;Forse potresti provare a mirare un po&#39; più a sinistra per compensare?&quot;
 
-### Essere solidali
+### Sii di supporto
 
-Il tuo tono conta quanto le tue parole:
-- Rimanere calmi, anche quando frustrati
-- Usare un linguaggio del corpo incoraggiante
+Il tono è importante tanto quanto le parole:
+- Mantieni la calma, anche quando sei frustrato
+- Usa un linguaggio del corpo incoraggiante
 - Riconoscere lo sforzo, non solo i risultati
-- Costruire, non demolire
+- Costruisci, non demolire
 
 ### Ascoltare attivamente
 
 La comunicazione è bidirezionale:
-- Dare piena attenzione quando i compagni di squadra parlano
-- Fare domande chiarificatrici
-- Riconoscere ciò che hai sentito
-- Non interrompere o respingere
+- Prestare la massima attenzione quando parlano i compagni di squadra
+- Fai domande di chiarimento
+- Riconosci ciò che hai sentito
+- Non interrompere o ignorare
 
 ## Sfide di comunicazione
 
 ### Disaccordo sulla strategia
 
-**Approccio scarso:**
-- Insistere sul tuo modo
-- Diventare difensivo
+**Approccio scadente:**
+- Insisti sulla tua strada
+- Mettiti sulla difensiva
 - Cedere con risentimento
-- Litigare durante la partita
+- Discutere durante il gioco
 
 **Approccio migliore:**
-1. Condividere la tua prospettiva chiaramente
-2. Ascoltare la loro completamente
-3. Discutere brevemente pro e contro
-4. Decidere insieme (o deferire al leader designato)
-5. Impegnarsi completamente nella decisione
-6. Rivedere dopo la partita
+1. Condividi chiaramente la tua prospettiva
+2. Ascoltate attentamente i loro
+3. Discutere brevemente i pro e i contro
+4. Decidere insieme (o delegare al leader designato)
+5. Impegnarsi pienamente nella decisione
+6. Recensione dopo la partita
 
-### Dopo l'errore di un compagno di squadra
+### Dopo l&#39;errore di un compagno di squadra
 
-**Cosa hanno bisogno:**
+**Di cosa hanno bisogno:**
 - Riconoscimento rapido
 - Permesso di andare avanti
-- Fiducia che tu ancora ti fidi di loro
-- Focus sul prossimo lancio
+- La sicurezza che ti fidi ancora di loro
+- Concentrati sul prossimo lancio
 
 **Cosa dire:**
-- "Nessun problema, il prossimo"
-- "Sfortuna, hai il prossimo"
-- "Siamo ancora dentro"
-- *A volte basta solo un cenno o una pacca*
+- &quot;Nessun problema, il prossimo&quot;
+- &quot;Brutta sorpresa, ora tocca a te&quot;
+- &quot;Siamo ancora dentro&quot;
+- *A volte basta un cenno o una pacca*
 
 **Cosa NON dire:**
 - Niente (il silenzio sembra un giudizio)
-- "Va bene" (può sembrare sprezzante)
-- Qualsiasi cosa su cosa è andato storto (non ora)
+- &quot;Va bene&quot; (può sembrare sprezzante)
+- Tutto ciò che è andato storto (non ora)
 - Frustrazione visibile (il linguaggio del corpo conta)
 
-### Quando fai un errore
+### Quando commetti un errore
 
 **Cosa fare:**
-- Riconoscimento breve ("Colpa mia")
-- Non scusarsi eccessivamente
-- Non fare scuse
-- Resettare e concentrarsi sul prossimo lancio
-- Fidarsi che i tuoi compagni di squadra ti sosterranno
+- Breve riconoscimento (&quot;Colpa mia&quot;)
+- Non scusarti troppo
+- Non cercare scuse
+- Ripristina e concentrati sul prossimo lancio
+- Fidati dei tuoi compagni di squadra per farti supportare
 
 ### Tensione nella squadra
 
-Se la tensione aumenta durante una partita:
-1. Riconoscere che sta succedendo
-2. Prendere un respiro prima di rispondere
-3. Concentrarsi sulla partita, non sul conflitto
-4. Affrontarlo correttamente dopo la partita
+Se durante una partita la tensione aumenta:
+1. Riconosci che sta accadendo
+2. Fai un respiro prima di rispondere
+3. Concentrati sul gioco, non sul conflitto
+4. Affrontalo correttamente dopo la partita
 5. Non lasciare che influenzi il tuo gioco
 
 ## Comunicazione non verbale
@@ -138,66 +155,66 @@ Gran parte della comunicazione di squadra è non verbale:
 
 ### Segnali positivi
 - Contatto visivo
-- Annuire
-- Pollice in su
+- Annuendo
+- Pollice su
 - Postura rilassata
-- Muoversi verso i compagni di squadra
+- Muovendosi verso i compagni di squadra
 - Sorridere (quando appropriato)
 
-### Segnali negativi (Evita questi)
-- Alzare gli occhi al cielo
-- Voltarsi
-- Braccia incrociate
-- Sospirare
-- Scuotere la testa
+### Segnali negativi (da evitare)
+- Occhi al cielo
+- voltarsi
+- braccia incrociate
+- Sospirando
+- Scuotendo la testa
 - Linguaggio del corpo teso
 
-**Ricorda:** I tuoi compagni di squadra vedono tutto. Il tuo linguaggio del corpo influenza la loro fiducia e prestazione.
+**Ricorda:** I tuoi compagni di squadra vedono tutto. Il tuo linguaggio del corpo influenza la loro sicurezza e le loro prestazioni.
 
-## Costruire abitudini di comunicazione
+## Costruire abitudini comunicative
 
 ### Praticare la comunicazione
 
-Non aspettare la competizione per comunicare:
-- Praticare discussioni strategiche in allenamento
-- Darsi feedback regolarmente
-- Sviluppare il vostro linguaggio di squadra
-- Costruire comfort con conversazione onesta
+Non aspettare che sia la concorrenza a comunicare:
+- Praticare discussioni strategiche durante la formazione
+- Fornitevi feedback regolarmente
+- Sviluppa il linguaggio del tuo team
+- Costruisci conforto con una conversazione onesta
 
 ### Sviluppare segnali di squadra
 
-Alcune squadre sviluppano stenografia:
+Alcuni team sviluppano delle abbreviazioni:
 - Segnali manuali per la strategia
-- Parole in codice per situazioni
+- Parole in codice per le situazioni
 - Frasi rapide con significato condiviso
 
 ### Check-in regolari
 
-Fuori dalle partite:
+Fuori dai giochi:
 - Come stiamo lavorando insieme?
 - Cosa sta andando bene?
-- Cosa potrebbe essere meglio?
-- Problemi da affrontare?
+- Cosa potrebbe esserci di meglio?
+- Ci sono problemi da risolvere?
 
 ## Il ruolo del capitano
 
-Se la tua squadra ha un leader designato:
+Se il tuo team ha un leader designato:
 
 **Responsabilità del capitano:**
-- Decisione finale quando la squadra non è d'accordo
-- Impostare il tono e l'energia
-- Gestire la dinamica di squadra
-- Mantenere il focus durante la pressione
+- Decisione finale quando la squadra non è d&#39;accordo
+- Dare il tono e l&#39;energia
+- Gestire le dinamiche di squadra
+- Mantenere la concentrazione durante la pressione
 
 **Tutti gli altri:**
-- Condividere la tua prospettiva
-- Supportare la decisione una volta presa
-- Aiutare a mantenere l'energia della squadra
-- Assumersi la responsabilità del proprio ruolo
+- Condividi la tua prospettiva
+- Sostieni la decisione una volta presa
+- Aiuta a mantenere l&#39;energia del team
+- Assumiti la responsabilità del tuo ruolo
 
-## Punto chiave
+## Conclusione chiave
 
-> Le grandi squadre parlano tra loro, non degli altri. Comunicano con onestà, rispetto e un impegno condiviso verso il successo.
+> I grandi team parlano tra loro, non l&#39;uno dell&#39;altro. Comunicano con onestà, rispetto e un impegno condiviso per il successo.
 
-Pratica la comunicazione come pratichi il lancio. È un'abilità che migliora con l'attenzione.
+Esercitati a comunicare come ti eserciti a lanciare. È un&#39;abilità che migliora con l&#39;attenzione.
 

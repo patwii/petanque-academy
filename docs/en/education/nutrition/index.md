@@ -2,6 +2,29 @@
 
 Pétanque is a precision sport, not an endurance sport. Your nutritional needs are different from a marathon runner or a football player. What matters most is **brain fuel stability** - keeping your mind sharp and your hands steady throughout a long competition day.
 
+::: tip The Big Idea
+**Your brain is your most important tool in pétanque. Feed it stable fuel, not roller coaster energy.** Focus on protein, healthy fats, and staying hydrated. Avoid sugar spikes.
+:::
+
+```mermaid
+graph LR
+    A[Sugar/Simple Carbs] --> B[Blood Sugar Spike]
+    B --> C[Insulin Release]
+    C --> D[Blood Sugar Crash]
+    D --> E[Adrenaline Response]
+    E --> F[Tremors & Anxiety]
+
+    G[Protein & Healthy Fats] --> H[Stable Blood Sugar]
+    H --> I[Consistent Energy]
+    I --> J[Sharp Focus]
+    J --> K[Steady Hands]
+
+    style A fill:#ffebee
+    style F fill:#ffebee
+    style G fill:#e8f5e9
+    style K fill:#e8f5e9
+```
+
 ## The Precision Athlete's Challenge
 
 Unlike high-intensity sports, pétanque doesn't require massive glycogen stores or rapid energy replenishment. What it requires is:

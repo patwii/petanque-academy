@@ -1,16 +1,34 @@
 # Creare il tuo piano di allenamento
 
-Gli obiettivi senza un piano sono solo desideri. Questa guida ti aiuta a trasformare i tuoi obiettivi in un piano di allenamento strutturato che funziona davvero.
+Gli obiettivi senza un piano sono solo desideri. Questa guida ti aiuta a trasformare i tuoi obiettivi in un piano di allenamento strutturato che funzioni davvero.
+
+::: tip La grande idea
+**Gli obiettivi senza un piano sono solo desideri.** Un piano di allenamento strutturato trasforma i tuoi obiettivi in azioni quotidiane che si traducono in progressi concreti.
+:::
+
+```mermaid
+graph TD
+    A[Obiettivo] --> B[Piano di allenamento]
+    B --> C[Azioni quotidiane]
+    C --> D[Pratica coerente]
+    D --> E[Progresso misurabile]
+    E --> F[Raggiungimento dell&#39;obiettivo]
+
+    style A fill:#e3f2fd
+    style B fill:#e8f5e9
+    style C fill:#fff4e1
+    style F fill:#fff4e1
+```
 
 ## Le 8 fasi dello sviluppo autodiretto
 
 ### Fase 1: Imposta la tua bussola (obiettivi)
-Hai già imparato gli obiettivi SMART. Ora mettili in una gerarchia:
+Hai già imparato a conoscere gli obiettivi SMART. Ora gerarchizzali:
 
-1. **Obiettivo a lungo termine** (1-2 anni): Il tuo sogno
-2. **Obiettivo annuale**: L'obiettivo di quest'anno
-3. **Obiettivi trimestrali**: Traguardi di 3 mesi
-4. **Obiettivi mensili**: Aree di focus specifiche
+1. **Obiettivo a lungo termine** (1-2 anni): il tuo sogno
+2. **Obiettivo annuale**: Obiettivo di quest&#39;anno
+3. **Obiettivi trimestrali**: traguardi trimestrali
+4. **Obiettivi mensili**: Aree di interesse specifiche
 5. **Obiettivi settimanali**: Obiettivi di allenamento
 
 ### Fase 2: Valuta le tue risorse
@@ -19,72 +37,72 @@ Prima di pianificare, valuta onestamente ciò che hai:
 
 | Risorsa | Domande da porre |
 |----------|-----------------|
-| **Tempo** | Quante ore a settimana puoi realisticamente allenarti? |
-| **Luogo** | Hai accesso a un campo adeguato? Qual è la qualità della superficie? |
-| **Attrezzatura** | Hai bocce appropriate? Strumenti di misurazione? Capacità video? |
-| **Conoscenza** | Quali sono i tuoi punti di forza e debolezza tecnici? |
-| **Condizione fisica** | Qualche limitazione? Aree che necessitano lavoro? |
+| **Tempo** | Quante ore alla settimana puoi realisticamente allenarti? |
+| **Posizione** | Hai accesso a una pista adatta? Qual è la qualità della superficie? |
+| **Attrezzatura** | Hai le bocce adatte? Strumenti di misurazione? Capacità video? |
+| **Conoscenza** | Quali sono i tuoi punti di forza e di debolezza tecnici? |
+| **Condizioni fisiche** | Ci sono limitazioni? Aree che necessitano di lavori? |
 
-Sii onesto. Un piano realistico batte una fantasia ambiziosa.
+Siate onesti. Un piano realistico è meglio di una fantasia ambiziosa.
 
 ### Fase 3: Scegli i tuoi esercizi
 
-Seleziona esercizi che supportano direttamente i tuoi obiettivi:
+Seleziona gli esercizi che supportano direttamente i tuoi obiettivi:
 
-**Per il miglioramento del puntamento:**
-- Puntamento di precisione a zone marcate
+**Per migliorare la puntatura:**
+- Puntamento di precisione alle zone contrassegnate
 - Esercizi di variazione della distanza
-- Pratica su superfici diverse
+- Diverse pratiche di superficie
 
-**Per il miglioramento del tiro:**
+**Per migliorare le riprese:**
 - Scala di tiro (distanze progressive)
-- Tiro con ostacoli (arco alto forzato)
-- Pratica di bersaglio mobile
+- Tiro a ostacoli (arco alto forzato)
+- Pratica di tiro al bersaglio mobile
 
 **Per lo sviluppo mentale:**
-- Pratica di routine pre-tiro
+- Esercizi di routine pre-tiro
 - Sessioni di visualizzazione
-- Simulazione di pressione
+- Simulazione della pressione
 
 **Bilancia il tuo programma:**
 - Lavoro tecnico (puntamento, tiro)
-- Allenamento mentale (mindfulness, visualizzazione)
+- Allenamento mentale (consapevolezza, visualizzazione)
 - Condizionamento fisico (equilibrio, flessibilità)
-- Gioco di partita (applicazione delle abilità)
+- Match play (applicazione di abilità)
 
 ### Fase 4: Crea il tuo programma
 
-Costruisci un programma settimanale realistico:
+Crea un programma settimanale realistico:
 
-| Giorno | Mattina | Pomeriggio | Sera | Focus |
+| Giorno | Mattina | Pomeriggio | Sera | Messa a fuoco |
 |-----|---------|-----------|---------|-------|
-| Lun | - | Tecnico: Puntamento | Mobilità leggera | Precisione |
-| Mar | - | Tecnico: Tiro | - | Potenza/precisione |
-| Mer | - | Allenamento mentale | - | Mindfulness |
-| Gio | - | Misto: Scenari di gioco | Mobilità leggera | Applicazione |
+| lun | - | Tecnico: Puntamento | Mobilità leggera | Precisione |
+| Martedì | - | Tecnico: Riprese | - | Potenza/precisione |
+| Mercoledì | - | Allenamento mentale | - | Consapevolezza |
+| Giovedì | - | Misto: Scenari di gioco | Mobilità leggera | Applicazione |
 | Ven | - | Tecnico: Debolezza | - | Miglioramento |
-| Sab | Gioco di partita o competizione | - | - | Prestazione |
-| Dom | Riposo | Revisione settimanale | Pianificazione | Recupero |
+| Sab | Partita o competizione | - | - | Prestazione |
+| Sole | Riposo | Rassegna settimanale | Pianificazione | Recupero |
 
 **Principi chiave:**
-- Dai priorità all'allenamento mentale (è spesso trascurato)
-- Includi giorni di riposo
-- Bilancia diverse abilità
-- Lascia flessibilità per la vita
+- Dare priorità all&#39;allenamento mentale (spesso trascurato)
+- Includere i giorni di riposo
+- Bilanciare diverse abilità
+- Lascia la flessibilità per tutta la vita
 
-### Fase 5: Preparati agli ostacoli
+### Fase 5: Prepararsi agli ostacoli
 
-Le cose andranno male. Pianifica per questo.
+Le cose andranno male. Preparati.
 
-| Rischio | Probabilità | Impatto | Piano di riserva |
+| Rischio | Probabilità | Impatto | Piano di backup |
 |------|------------|--------|-------------|
-| Mancanza di tempo | Alta | Medio | Avere una "sessione minima" pronta (20 min) |
-| Maltempo | Media | Medio | Visualizzazione indoor, studio video |
-| Bassa motivazione | Alta | Medio | Ritorna al "perché", obiettivi più piccoli, fai una pausa |
-| Infortunio minore | Media | Alto | Focus sull'allenamento mentale, abilità non affette |
-| Nessun partner di allenamento | Media | Basso | Esercizi da solo, auto-analisi video |
+| mancanza di tempo | Alto | Medio | Preparare una &quot;seduta minima&quot; (20 min) |
+| Maltempo | Medio | Medio | Visualizzazione interna, studio video |
+| Bassa motivazione | Alto | Medio | Torna al &quot;perché&quot;, obiettivi più piccoli, prenditi una pausa |
+| Lesioni lievi | Medio | Alto | Concentrarsi sull&#39;allenamento mentale, sulle abilità non influenzate |
+| Nessun partner di pratica | Medio | Basso | Esercizi in solitaria, autoanalisi video |
 
-### Fase 6: Traccia i tuoi progressi
+### Fase 6: monitora i tuoi progressi
 
 Ciò che viene misurato viene gestito.
 
@@ -92,47 +110,47 @@ Ciò che viene misurato viene gestito.
 - Data e durata
 - Esercizi completati
 - Punteggi/risultati
-- Come ti sei sentito (energia, focus, flow)
+- Come ti sentivi (energia, concentrazione, flusso)
 - Note tecniche
 - Meteo/condizioni
 
-**Domande di revisione settimanale:**
-- Ho completato le mie sessioni pianificate?
-- Quali punteggi ho raggiunto?
-- Cosa è andato bene? Cosa è stato difficile?
-- Qualche esperienza di flow?
-- Cosa devo aggiustare?
+**Domande di ripasso settimanali:**
+- Ho completato le sessioni pianificate?
+- Quali punteggi ho ottenuto?
+- Cosa ti ha fatto sentire bene? Cosa ti ha fatto sentire difficile?
+- Avete esperienze di flow?
+- Cosa dovrei modificare?
 
 ### Fase 7: Rimani motivato
 
-La motivazione fluttua. Costruisci sistemi per mantenerla:
+La motivazione è fluttuante. Costruisci sistemi per mantenerla:
 
 **Motivazione interna:**
-- Connettiti al tuo "perché"
-- Celebra piccole vittorie
-- Nota il miglioramento nel tempo
+- Connettiti al tuo &quot;perché&quot;
+- Festeggia le piccole vittorie
+- Notare il miglioramento nel tempo
 - Trova gioia nel processo
 
 **Supporto esterno:**
-- Partner di allenamento (anche occasionalmente)
-- Condividi obiettivi con qualcuno
-- Unisciti a comunità online
-- Traccia serie e coerenza
+- Compagni di allenamento (anche occasionalmente)
+- Condividi gli obiettivi con qualcuno
+- Unisciti alle comunità online
+- Tracciare le serie e la coerenza
 
 **Quando la motivazione cala:**
-- Fai una sessione minima (qualcosa batte niente)
+- Fai una sessione minima (qualcosa è meglio di niente)
 - Cambia il tuo ambiente
 - Rivedi i tuoi progressi
 - Ricorda i successi passati
-- Prendi una pausa pianificata se necessario
+- Prenditi una pausa pianificata se necessario
 
-### Fase 8: Rivedi e adatta
+### Fase 8: Revisione e adattamento
 
 Il tuo piano dovrebbe evolversi:
 
-**Settimanalmente:** Revisione rapida, aggiustamenti minori
-**Mensilmente:** Valuta i progressi verso gli obiettivi mensili, aggiusta il focus
-**Trimestralmente:** Revisione maggiore, imposta gli obiettivi del prossimo trimestre
+**Settimanale:** Revisione rapida, piccoli aggiustamenti
+**Mensile:** Valuta i progressi verso gli obiettivi mensili, regola l&#39;attenzione
+**Trimestrale:** Revisione importante, definizione degli obiettivi del prossimo trimestre
 **Annualmente:** Valutazione completa, nuovo piano annuale
 
 **Domande per la revisione:**
@@ -142,24 +160,24 @@ Il tuo piano dovrebbe evolversi:
 - I miei obiettivi sono ancora rilevanti?
 - Cosa ho imparato?
 
-## Piano di esempio di 8 settimane
+## Esempio di piano di 8 settimane
 
-**Obiettivo:** Migliorare la precisione di tiro del 15%
+**Obiettivo:** Migliorare la precisione del tiro del 15%
 
-| Settimana | Focus | Sessioni chiave |
+| Settimana | Messa a fuoco | Sessioni chiave |
 |------|-------|--------------|
-| 1 | Baseline | Testare il livello attuale, analisi video |
-| 2 | Tecnica | Identificare e lavorare sul problema chiave |
+| 1 | Linea di base | Test del livello attuale, analisi video |
+| 2 | Tecnica | Identificare e lavorare sulle questioni chiave |
 | 3 | Ripetizione | Pratica di tiro ad alto volume |
-| 4 | Test | Valutazione a metà percorso, aggiustare |
+| 4 | Test | Valutazione intermedia, adeguamento |
 | 5 | Variazione | Diverse distanze e angoli |
-| 6 | Pressione | Aggiungere conseguenze agli esercizi |
-| 7 | Integrazione | Scenari simili al gioco |
-| 8 | Test finale | Misurare il miglioramento |
+| 6 | Pressione | Aggiungere conseguenze alle esercitazioni |
+| 7 | Integrazione | Scenari simili a giochi |
+| 8 | Prova finale | Misurare il miglioramento |
 
-## Punto chiave
+## Conclusione chiave
 
-> Pianifica il tuo lavoro, poi lavora il tuo piano. Ma sii pronto ad adattarti.
+> Pianifica il tuo lavoro, poi elabora il piano. Ma sii pronto ad adattarti.
 
-Il miglior piano è quello che seguirai davvero. Inizia semplice, rimani coerente e aggiusta mentre impari.
+Il piano migliore è quello che seguirai davvero. Inizia in modo semplice, sii coerente e adattalo man mano che impari.
 

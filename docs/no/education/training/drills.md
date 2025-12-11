@@ -1,71 +1,100 @@
 # Treningsøvelser
 
-Her er dokumenterte øvelser brukt av elitespillere. Hver øvelse har et spesifikt formål - velg basert på hva du trenger å utvikle.
+Her er velprøvde øvelser brukt av elitespillere. Hver øvelse har et spesifikt formål – velg basert på hva du trenger å utvikle.
 
-## Poengøvelser
+::: tip Den store ideen
+**Hver øvelse har et spesifikt formål.** Ikke kast bare kuler tilfeldig – velg øvelser som er rettet mot svakhetene dine og støtter målene dine. Spor fremgangen din for å se forbedring.
+:::
 
-### Gangen
-**Formål:** Isoler slippvinkel og linjekonsistens
+```mermaid
+graph TD
+    A[Treningsøvelser] --> B[Spissebor]
+    A --> C[Skyteøvelser]
+    A --> D[Mentale øvelser]
+    A --> E[Spillsimulering]
+
+    B --> F[Nøyaktighet]
+    B --> G[Avstandskontroll]
+
+    C --> H[Treffprosent]
+    C --> I[Pressskyting]
+
+    D --> J[Rutinemessig praksis]
+    D --> K[Visualisering]
+
+    E --> L[Konkurranseberedskap]
+
+    style A fill:#e8f5e9
+    style B fill:#e3f2fd
+    style C fill:#fff4e1
+    style D fill:#f3e5f5
+    style E fill:#fff4e1
+```
+
+## Spissebor
+
+### Smuget
+**Formål:** Isolere utløsningsvinkel og linjekonsistens
 
 **Oppsett:**
-- Plasser to markører 30-40cm fra hverandre, omtrent 1 meter fra sirkelen
-- Målet er 7-9 meter unna
+- Plasser to markører 30–40 cm fra hverandre, omtrent 1 meter fra sirkelen.
+- Målet er 7–9 meter unna
 
-**Øvelse:**
-- Kast gjennom "gangen" (mellom markørene)
-- Ethvert kast som treffer en markør er "dødt"
-- Fokuser på konsistent slipppunkt
+**Bore:**
+- Kast gjennom &quot;smug&quot; (mellom markørene)
+- Ethvert kast som treffer en markør er &quot;dødt&quot;
+- Fokuser på et konsistent utgivelsespunkt
 
 **Progresjon:**
-- Smalere gangen etter hvert som du forbedrer deg
-- Variere målavstanden
+- Gjør smuget smalere etter hvert som du forbedrer deg
+- Varier målavstanden
 - Legg til en spesifikk landingssone
 
 ### Presisjonssoner
-**Formål:** Utvikle nøyaktighet til spesifikke områder
+**Formål:** Utvikle nøyaktighet innen spesifikke områder
 
 **Oppsett:**
-- Marker soner rundt et mål (f.eks. sirkler ved 20cm, 40cm, 60cm)
-- Eller bruk naturlige markører på terrenget
+- Marker soner rundt et mål (f.eks. sirkler på 20 cm, 40 cm, 60 cm)
+- Eller bruk naturlige markører i terrenget
 
-**Poenggivning:**
-- Innenfor 20cm: 3 poeng
-- Innenfor 40cm: 2 poeng
-- Innenfor 60cm: 1 poeng
+**Poengsum:**
+- Innenfor 20 cm: 3 poeng
+- Innvendig 40 cm: 2 poeng
+- Inne 60 cm: 1 poeng
 - Utenfor: 0 poeng
 
-**Øvelse:**
-- Kast 10 kuler, spor poengsummen din
-- Mål: Konsistent forbedring over økter
+**Bore:**
+- Kast 10 kuler, og følg med på poengsummen din
+- Mål: Konsekvent forbedring over øktene
 
 ### Avstandsvariasjon
 **Formål:** Utvikle dybdekontroll
 
 **Oppsett:**
-- Plasser mål ved 6m, 7m, 8m, 9m, 10m
+- Plasser mål på 6m, 7m, 8m, 9m, 10m
 
-**Øvelse:**
-- Kast til hver avstand i tilfeldig rekkefølge
+**Bore:**
+- Kast til hver distanse i tilfeldig rekkefølge
 - Partner roper ut avstanden
-- Fokuser på å justere vekt, ikke teknikk
+- Fokuser på å justere vekten, ikke teknikken
 
 **Variasjon:**
-- Legg til "kort" og "lang" rop etter du slipper
-- Må justere midt i flukten (utvikler følelse)
+- Legg til «korte» og «lange» anrop etter at du har sluppet
+- Må justeres midt i flyvningen (utvikler følelse)
 
 ## Skyteøvelser
 
 ### Skytestigen
-**Formål:** Bygg nøyaktighet under progressivt press
+**Formål:** Bygge nøyaktighet under progressivt press
 
 **Oppsett:**
-- Plasser en målkule ved 6 meter
-- Marker avstander ved 7m, 8m, 9m, 10m
+- Plasser en målkule på 6 meters avstand
+- Merk avstander på 7m, 8m, 9m, 10m
 
-**Øvelse:**
-- Start ved 6 meter
-- Treff = flytt tilbake en meter
-- Bom = flytt frem en meter (eller start på nytt)
+**Bore:**
+- Start på 6 meter
+- Treffer = flytte seg tilbake én meter
+- Bomme = gå én meter fremover (eller starte på nytt)
 - Mål: Nå 10 meter
 
 **Variasjoner:**
@@ -74,151 +103,151 @@ Her er dokumenterte øvelser brukt av elitespillere. Hver øvelse har et spesifi
 - Lagversjon: Veksle med partner
 
 ### Barrieren (Blox)
-**Formål:** Tving høy bue skyting
+**Formål:** Tving frem skyting med høy lysbue
 
 **Oppsett:**
 - Plasser en barriere (pinne, snor eller hindring) mellom deg og målet
-- Barrieren skal være høy nok til å kreve en lobb
+- Barrieren bør være høy nok til å kreve en lob
 
-**Øvelse:**
-- Må passere barrieren for å treffe målet
-- Ethvert kast som treffer barrieren er "dødt"
-- Utvikler høyt slipppunkt
+**Bore:**
+- Må forsere barrieren for å treffe målet
+- Ethvert kast som treffer barrieren er &quot;dødt&quot;
+- Utvikler høyt frigjøringspunkt
 
-**Hvorfor det betyr noe:**
+**Hvorfor det er viktig:**
 - Konkurranse krever ofte skyting over hindringer
 - Bygger allsidighet i skytingen din
 
-### Hinderbane
+### Hindringsløype
 **Formål:** Utvikle skyting fra forskjellige vinkler
 
 **Oppsett:**
-- Plasser målkule i sentrum
+- Plasser målkulen i midten
 - Legg til hindringer (andre kuler, markører) rundt den
 
-**Øvelse:**
+**Bore:**
 - Skyt fra forskjellige posisjoner rundt sirkelen
 - Må finne vinkelen som fungerer
 - Utvikler lesing av skytelinjer
 
 ## Mentale treningsøvelser
 
-### Rutine repetisjon
-**Formål:** Gjør din før-kast rutine automatisk
+### Rutinemessig repetisjon
+**Formål:** Gjør rutinen din før bruk automatisk
 
-**Øvelse:**
-- Øv hele rutinen din uten å kaste
+**Bore:**
+- Øv på hele rutinen din uten å kaste
 - Gå gjennom hvert trinn bevisst
-- Gjør 10-20 repetisjoner
+- Gjør 10–20 repetisjoner
 - Legg deretter til kastet
 
 **Fokus:**
-- Konsistent timing
-- Klar overgang fra tenkning til utførelse
+- Konsekvent timing
+- Tydelig overgang fra tenkning til utførelse
 - Samme rutine hver gang
 
-### Presspunkter
-**Formål:** Øv prestasjon under press
+### Trykkpunkter
+**Formål:** Øv på å prestere under press
 
 **Oppsett:**
-- Lag et "må lage" scenario
-- Sett konsekvenser for å bomme
+- Lag et «må-gjøre»-scenario
+- Sett konsekvenser for manglende tilgang
 
 **Eksempler:**
-- "Lag 3 på rad eller start på nytt"
-- "Bom og gjør 10 armhevinger"
-- "Kunngjør målet ditt før kast"
+- &quot;Lag 3 på rad eller start på nytt&quot;
+- &quot;Bomme på og gjøre 10 armhevinger&quot;
+- &quot;Kunngjør målet ditt før du kaster&quot;
 
 **Nøkkel:**
 - Presset skal føles ekte
-- Øv din mentale respons på press
-- Bruk rutinen din nøyaktig som i konkurranse
+- Øv på din mentale respons på press
+- Bruk rutinen din akkurat som i konkurranse
 
-### Gjenopprettingsøvelse
-**Formål:** Bygg vanen med rask mental tilbakestilling
+### Restitusjonspraksis
+**Formål:** Bygg opp vanen med rask mental tilbakestilling
 
-**Øvelse:**
-- Kast bevisst en dårlig kule
-- Øv umiddelbart SOAS (Stop, Observe, Accept, Slip)
-- Kast neste kule med full forpliktelse
+**Bore:**
+- Med vilje kaste en dårlig kule
+- Øv umiddelbart på SOAS (Stopp, Observer, Aksepter, Slipp)
+- Kast neste kule med full innsats
 
 **Fokus:**
-- Ikke dvele ved bommet
-- Tilbakestill fullstendig før neste kast
-- Behold positivt kroppsspråk
+- Ikke dvel ved glippen
+- Tilbakestill helt før neste kast
+- Oppretthold positivt kroppsspråk
 
-## Spillsimulering øvelser
+## Spillsimuleringsøvelser
 
-### Millieu's Delight
-**Formål:** Bryt rytmelås, bygg allsidighet
+### Millieus glede
+**Formål:** Bryt rytmelåsen, bygg allsidighet
 
-**Øvelse:**
-- Veksle mellom poeng og skyting ved hvert kast
-- Ikke to påfølgende kast av samme type
+**Bore:**
+- Veksle mellom å peke og skyte ved hvert kast
+- Ingen to påfølgende kast av samme type
 - Utvikler evnen til å bytte modus
 
-### Scenariespill
-**Formål:** Øv taktisk beslutningstaking
+### Scenariospill
+**Formål:** Øve på taktisk beslutningstaking
 
 **Oppsett:**
 - Sett opp realistiske spillsituasjoner
-- Tildel poengsum og kuletall
+- Tildel poengsummer og antall boules
 
 **Eksempler:**
-- "Du er bak 10-8, motstanderen har 2 poeng, du har 2 kuler"
-- "Uavgjort 6-6, du har siste kule, de har 1 poeng"
+- «Du ligger under 10-8, motstanderen har 2 poeng, du har 2 kuler»
+- «Uavgjort 6-6, dere har siste kule, de har ett poeng»
 
-**Øvelse:**
+**Bore:**
 - Bestem hva du skal gjøre
 - Utfør med full forpliktelse
-- Gjennomgå beslutningen etterpå
+- Vurder avgjørelsen etterpå
 
-### Kampspill med regler
+### Matchspill med regler
 **Formål:** Konkurransesimulering
 
 **Variasjoner:**
-- Spill til 13 (fullt spill)
+- Spill til 13 (hele kampen)
 - Spill til 7 (kortere, flere spill)
-- "Presspunkter" - visse ender er verdt dobbelt
-- "Sudden death" - første til å tape en ende taper spillet
+- &quot;Trykkpunkter&quot; - visse ender verdt dobbelt
+- &quot;Plutselig død&quot; - den første som taper en omgang taper spillet
 
 ## Sporing av øvelsene dine
 
-Før en logg for hver øvelse:
+Før logg for hver øvelse:
 
-| Dato | Øvelse | Poengsum/Resultat | Notater |
+| Dato | Bore | Poengsum/Resultat | Notater |
 |------|-------|--------------|-------|
 | | | | |
 
 **Spor over tid:**
-- Forbedrer du deg?
+- Bedrer du deg?
 - Hvilke øvelser hjelper mest?
 - Hvor sliter du?
 
-## Bygge en øvelsesøkt
+## Å bygge en øvelsesøkt
 
 ### Oppvarming (10 min)
-- Lette kast for å løsne opp
-- Intet press, bare følelse
+- Enkle kast for å løsne opp
+- Ikke noe press, bare føl
 
-### Teknisk fokus (20-30 min)
+### Teknisk fokus (20–30 min)
 - En eller to øvelser rettet mot spesifikke ferdigheter
-- Blokkert trening for nye ferdigheter
-- Tilfeldig trening for etablerte ferdigheter
+- Blokkert øvelse for nye ferdigheter
+- Tilfeldig øvelse for etablerte ferdigheter
 
-### Press/Spillsimulering (20-30 min)
+### Press-/spillsimulering (20–30 min)
 - Legg til konsekvenser
 - Lag realistiske scenarier
-- Øv mentale ferdigheter
+- Øv på mentale ferdigheter
 
 ### Nedkjøling (10 min)
-- Lette kast
+- Enkle kast
 - Reflekter over økten
-- Merk hva du skal jobbe med neste gang
+- Merk hva du skal jobbe med videre
 
-## Nøkkelpunkt
+## Viktig konklusjon
 
-> Øvelser er verktøy. Velg riktig verktøy for det du trenger å bygge.
+> Borer er verktøy. Velg riktig verktøy for det du trenger å bygge.
 
-Ikke bare kast kuler. Tren med formål.
+Ikke bare kast boule. Tren med et formål.
 

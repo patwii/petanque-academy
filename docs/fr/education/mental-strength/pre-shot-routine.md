@@ -1,169 +1,186 @@
-# Construire votre routine pré-tir
+# Construire votre routine pré-shot
 
-Votre routine pré-tir est l'un des outils les plus puissants de votre jeu mental. C'est une séquence cohérente d'actions qui vous prépare pour chaque lancer et déclenche votre meilleur état de performance.
+Votre routine pré-shot est l’un des outils les plus puissants de votre jeu mental. Il s'agit d'une séquence cohérente d'actions qui vous prépare à chaque lancer et déclenche votre meilleur état de performance.
+
+::: Astuce La grande idée
+**Votre routine est votre porte d'entrée vers la zone.** Une routine pré-shot cohérente signale à votre cerveau : "Il est temps d'exécuter." Avec la répétition, cela devient un déclencheur automatique pour des performances optimales.
+:::
+
+```mermaid
+graph LR
+    A[Démarrer la routine] --> B[Le cerveau reconnaît un motif]
+    B --> C[Changement d'état automatique]
+    C --> D[Mode d'exécution]
+    D --> E[Performances maximales]
+
+    style A fill:#e3f2fd
+    style C fill:#e8f5e9
+    style D fill:#fff4e1
+    style E fill:#fff4e1
+```
 
 ## Pourquoi les routines fonctionnent
 
 ### La cohérence crée la confiance
-Quand vous faites la même chose à chaque fois, vous éliminez les variables. Votre corps sait ce qui arrive. Cela crée un sentiment de contrôle et de familiarité, même dans des situations inhabituelles.
+Lorsque vous faites la même chose à chaque fois, vous supprimez des variables. Votre corps sait ce qui s'en vient. Cela crée un sentiment de contrôle et de familiarité, même dans des situations inconnues.
 
-### Les routines déclenchent des états
-Avec la répétition, votre routine devient liée à votre état de performance. Commencer la routine commence automatiquement le changement mental vers le mode d'exécution.
+### États de déclenchement des routines
+Avec la répétition, votre routine devient liée à votre état de performance. Le démarrage de la routine déclenche automatiquement le passage mental en mode exécution.
 
 ### Les routines bloquent les distractions
-Une routine donne à votre esprit quelque chose sur quoi se concentrer. Il n'y a pas de place pour s'inquiéter du score, du public ou de ce qui pourrait arriver.
+Une routine donne à votre esprit quelque chose sur quoi se concentrer. Il n'y a pas de place pour s'inquiéter de la partition, du public ou de ce qui pourrait arriver.
 
-### Les routines gèrent l'excitation
-Une routine bien conçue aide à réguler votre niveau d'énergie - vous calmant si vous êtes trop excité, vous concentrant si vous êtes plat.
+### Les routines gèrent l’excitation
+Une routine bien conçue aide à réguler votre niveau d'énergie - en vous calmant si vous êtes trop excité, en vous concentrant si vous êtes à plat.
 
 ## Éléments d'une routine efficace
 
-### Phase 1 : Évaluation (En dehors du cercle)
+### Phase 1 : Évaluation (en dehors du cercle)
 
-Avant d'entrer, recueillez des informations :
-- Lisez le terrain (pentes, obstacles, surface)
-- Évaluez la situation (score, positions des boules)
-- Choisissez votre cible et point d'atterrissage
-- Décidez du type de lancer (pointer, tirer, lober, rouler)
+Avant d’intervenir, rassemblez des informations :
+- Lire le terrain (pentes, obstacles, surface)
+- Évaluer la situation (score, positions des boules)
+- Choisissez votre cible et votre point d'atterrissage
+- Décidez du type de lancer (pointer, tirer, lob, rouler)
 
-**C'est là que la réflexion se produit.** Prenez votre temps ici.
+**C'est ici que la réflexion se produit.** Prenez votre temps ici.
 
-### Phase 2 : Transition (Entrer dans le cercle)
+### Phase 2 : Transition (Entrée dans le cercle)
 
-Le passage de la réflexion à l'action :
-- Action physique (entrer dans le cercle de manière cohérente)
-- Signal mental (un mot ou une phrase qui signale "mode d'exécution")
+Le passage de la réflexion à l’action :
+- Action physique (entrer dans un cercle de manière cohérente)
+- Indice mental (un mot ou une phrase qui signale le « mode d'exécution »)
 - Respiration (une respiration consciente pour vous centrer)
 
-**C'est l'interrupteur.** L'analyse s'arrête ici.
+**C'est le changement.** L'analyse s'arrête ici.
 
-### Phase 3 : Installation (Dans le cercle)
+### Phase 3 : Installation (dans le cercle)
 
 Préparez votre corps :
-- Posture cohérente (la même à chaque fois)
-- Vérification de la prise (sentez la boule)
-- Alignement vers la cible
-- Déclencheur physique (un petit mouvement qui est le vôtre)
+- Position cohérente (la même à chaque fois)
+- Contrôle d'adhérence (toucher la boule)
+- Alignement sur la cible
+- Déclencheur physique (un petit mouvement qui vous appartient)
 
-### Phase 4 : Visualisation (Brève)
+### Phase 4 : Visualisation (bref)
 
-Voyez le lancer avant de le faire :
-- Imaginez le chemin de la boule (maximum 2-3 secondes)
+Regardez le lancer avant de le réaliser :
+- Imaginez la trajectoire de la balle (2-3 secondes maximum)
 - Ressentez le lancer réussi
 - Connectez-vous visuellement avec votre cible
 
-### Phase 5 : Exécution
+### Phase 5 : exécution
 
-Faites le lancer :
-- Concentration externe (cible uniquement)
+Faites le lancer :
+- Mise au point externe (cible uniquement)
 - Faites confiance à votre corps
-- Relâchez sans hésitation
+- Libérez sans hésiter
 - Suivez naturellement
 
 ## Construire votre routine personnelle
 
-### Étape 1 : Observez ce que vous faites déjà
+### Étape 1 : Observez ce que vous faites déjà
 
-Vous avez probablement déjà une routine. Remarquez :
-- Que faites-vous avant les bons lancers ?
-- Qu'est-ce qui vous semble naturel ?
-- Qu'est-ce qui vous aide à vous concentrer ?
+Vous avez probablement déjà une certaine routine. Avis:
+- Que faites-vous avant de bons lancers ?
+- Qu’est-ce qui vous semble naturel ?
+- Qu’est-ce qui vous aide à vous concentrer ?
 
-### Étape 2 : Concevez votre routine
+### Étape 2 : Concevez votre routine
 
-Créez une séquence qui inclut :
+Créez une séquence qui comprend :
 - [ ] Phase d'évaluation
 - [ ] Moment de transition clair
-- [ ] Installation physique cohérente
-- [ ] Visualisation brève
+- [ ] Configuration physique cohérente
+- [ ] Brève visualisation
 - [ ] Déclencheur d'exécution
 
-### Étape 3 : Écrivez-la
+### Étape 3 : Notez-le
 
-Soyez spécifique. Exemple :
+Soyez précis. Exemple:
 
-1. **Évaluer :** Lire le terrain, choisir le point d'atterrissage
-2. **Transition :** Entrer dans le cercle avec le pied gauche en premier, dire "confiance"
-3. **Installation :** Pieds écartés largeur d'épaules, vérifier la prise, aligner les épaules
-4. **Visualiser :** Voir le chemin, ressentir le relâchement
-5. **Exécuter :** Yeux sur la cible, lancer
+1. **Évaluez :** Lisez le terrain, choisissez le point d'atterrissage
+2. **Transition :** Entrez dans le cercle avec le pied gauche en premier, dites « confiance »
+3. **Configuration :** Pieds à la largeur des épaules, vérification de l'adhérence, aligner les épaules
+4. **Visualisez :** Voyez le chemin, ressentez la libération
+5. **Exécuter :** Les yeux sur la cible, lancez
 
-### Étape 4 : Pratiquez religieusement
+### Étape 4 : Pratiquer religieusement
 
-Utilisez votre routine à CHAQUE lancer à l'entraînement :
-- Lancers faciles
-- Lancers difficiles
-- Quand vous êtes fatigué
-- Quand vous êtes frais
+Utilisez votre routine à CHAQUE lancer en pratique :
+- Des lancers faciles
+- Des lancers difficiles
+- Quand tu es fatigué
+- Quand tu es frais
 
 La routine doit devenir automatique.
 
-### Étape 5 : Affinez au fil du temps
+### Étape 5 : Affiner au fil du temps
 
-Votre routine évoluera. Remarquez ce qui fonctionne et ajustez. Mais ne la changez pas pendant la compétition - seulement entre les événements.
+Votre routine va évoluer. Remarquez ce qui fonctionne et ajustez. Mais ne le changez pas pendant la compétition – uniquement entre les épreuves.
 
-## Timing de la routine
+## Calendrier de routine
 
-Votre routine devrait prendre un temps cohérent :
-- Trop rapide : Vous vous précipitez, pas correctement préparé
-- Trop lent : Vous réfléchissez trop, perdez le flow
-- Juste bien : Assez de temps pour se préparer, pas trop pour trop penser
+Votre routine devrait prendre un temps constant :
+- Trop vite : vous êtes pressé, pas bien préparé
+- Trop lent : vous réfléchissez trop et vous perdez le flux
+- Juste ce qu'il faut : suffisamment de temps pour se préparer, pas au point de trop réfléchir
 
-**Timing typique :**
-- Évaluation : 5-10 secondes
-- Transition + Installation : 3-5 secondes
-- Visualisation + Exécution : 3-5 secondes
-- **Total : 10-20 secondes**
+**Calendrier typique :**
+- Évaluation : 5 à 10 secondes
+- Transition + Configuration : 3 à 5 secondes
+- Visualisation + Exécution : 3-5 secondes
+- **Total : 10 à 20 secondes**
 
-## Erreurs courantes de routine
+## Erreurs de routine courantes
 
-| Erreur | Problème | Solution |
-|---------|---------|----------|
-| Sauter à l'entraînement | La routine n'est pas automatique | L'utiliser à chaque lancer |
-| Trop compliquée | Difficile à retenir sous pression | Simplifier à l'essentiel |
-| Penser pendant l'exécution | Perturbe la performance automatique | Point de transition clair |
-| Timing incohérent | Crée de l'incertitude | Pratiquer avec un rythme cohérent |
-| Changer en pleine compétition | Introduit le doute | S'en tenir à ce que vous connaissez |
+|  | Erreur | Problème | Solution |  |
+|---------|---------|--------------|
+|  | Sauter en pratique | La routine n'est pas automatique | Utilisez-le à chaque lancer |  |
+|  | Trop compliqué | Difficile de se souvenir sous pression | Simplifier à l'essentiel |  |
+|  | Réfléchir pendant l'exécution | Perturbe les performances automatiques | Point de transition clair |  |
+|  | Calendrier incohérent | Crée de l'incertitude | Entraînez-vous à un rythme constant |  |
+|  | Changer en pleine compétition | Introduit le doute | Restez fidèle à ce que vous savez |  |
 
 ## Dépannage de routine
 
-**Si vous vous précipitez :**
-- Ajoutez une respiration à la transition
-- Ralentissez vos mouvements d'installation
-- Pausez avant la visualisation
+**Si vous êtes pressé :**
+- Ajouter un souffle à la transition
+- Ralentissez vos mouvements de configuration
+- Pause avant la visualisation
 
-**Si vous réfléchissez trop :**
-- Raccourcissez la routine
+**Si vous réfléchissez trop :**
+- Raccourcir la routine
 - Utilisez un signal de transition plus fort
-- Concentrez-vous plus extérieurement
+- Concentrez-vous davantage sur l’extérieur
 
-**Si vous êtes incohérent :**
-- Filmez-vous pour vérifier
+**Si vous n'êtes pas cohérent :**
+- Vidéo vous-même pour vérifier
 - Pratiquez la routine sans lancer
-- Obtenez des retours d'un partenaire
+- Obtenir les commentaires d'un partenaire
 
 ## Exemples de routines
 
 ### Routine simple
-1. Choisir la cible
-2. Entrer, respirer
+1. Choisissez la cible
+2. Entrez, respirez
 3. Saisir, aligner
-4. Le voir, le lancer
+4. Voyez-le, jetez-le
 
 ### Routine détaillée
-1. Lire le terrain, choisir le point d'atterrissage
-2. Entrer avec le pied gauche en premier
-3. Dire "fluide" intérieurement
-4. Une respiration, épaules tombent
-5. Pieds placés, vérifier la prise
-6. Aligner les épaules vers la cible
+1. Lisez le terrain, choisissez le point d'atterrissage
+2. Entrez le pied gauche en premier
+3. Dites « en douceur » en interne
+4. Une respiration, les épaules tombent
+5. Pieds réglés, contrôle de l'adhérence
+6. Alignez les épaules sur la cible
 7. Voir le chemin (2 secondes)
 8. Les yeux se fixent sur la cible
 9. Lancer
 
-## Point clé
+## Clé à retenir
 
-> Votre routine est votre ancre. Dans le chaos, c'est votre constante.
+> Votre routine est votre point d’ancrage. Dans le chaos, c'est votre constante.
 
-Construisez-la soigneusement. Pratiquez-la toujours. Faites-lui entièrement confiance.
+Construisez-le avec soin. Pratiquez-le toujours. Faites-lui entièrement confiance.
 

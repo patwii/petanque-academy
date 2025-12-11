@@ -1,125 +1,172 @@
-# Definição de objetivos para jogadores de pétanque
+# Definição de metas para jogadores de petanca
 
-Objetivos claros são sua bússola. Eles dão direção ao seu treinamento, motivação quando as coisas ficam difíceis, e uma forma de medir o progresso. Sem objetivos, você está apenas lançando bolas. Com objetivos, você está construindo em direção a algo.
+Metas claras são a sua bússola. Elas dão direção ao seu treinamento, motivação quando as coisas ficam difíceis e uma maneira de medir o progresso. Sem metas, você está apenas jogando bolinhas. Com metas, você está construindo algo.
 
-## Por que os objetivos importam
+::: tip O princípio fundamental
+**Um objetivo sem um plano é apenas um desejo.** Defina metas claras, divida-as em etapas menores, concentre-se no que você controla e acompanhe seu progresso.
+:::
 
-Os objetivos servem múltiplos propósitos:
-- **Direção:** Saber no que trabalhar
+## Por que as metas são importantes
+
+Os objetivos servem a múltiplos propósitos:
+- **Instruções:** Saiba em que trabalhar
 - **Motivação:** Ter algo pelo qual lutar
-- **Medição:** Acompanhar seu progresso
-- **Foco:** Priorizar seu tempo limitado
+- **Medição:** Acompanhe seu progresso
+- **Foco:** Priorize seu tempo limitado
 
-Para o jogador autodirigido, os objetivos são especialmente importantes. Sem um treinador pressionando você, seus objetivos se tornam seu guia.
+Para o jogador autônomo, os objetivos são especialmente importantes. Sem um treinador para pressioná-lo, seus objetivos se tornam seu guia.
 
 ## Os três tipos de objetivos
 
-Nem todos os objetivos são iguais. Entender os diferentes tipos ajuda você a definir melhores.
+Nem todos os objetivos são iguais. Compreender os diferentes tipos ajuda você a definir objetivos melhores.
 
-### 1. Objetivos de resultado
-**O quê:** O resultado final que você quer
-**Exemplo:** "Ganhar o campeonato regional"
-**Nível de controle:** Baixo - depende de oponentes, condições, sorte
+### 1. Objetivos de Resultado
+**O quê:** O resultado final que você deseja
+**Exemplo:** &quot;Ganhar o campeonato regional&quot;
+**Nível de controle:** Baixo - depende dos oponentes, das condições e da sorte.
 
-### 2. Objetivos de desempenho
+### 2. Metas de desempenho
 **O quê:** Padrões de desempenho específicos
-**Exemplo:** "Alcançar 80% de precisão em exercícios de tiro"
+**Exemplo:** &quot;Alcançar 80% de precisão nos exercícios de arremesso&quot;
 **Nível de controle:** Médio - depende principalmente de você
 
-### 3. Objetivos de processo
+### 3. Objetivos do Processo
 **O quê:** Ações e comportamentos que você controla
-**Exemplo:** "Completar minha rotina pré-lançamento em cada arremesso"
-**Nível de controle:** Alto - totalmente com você
+**Exemplo:** &quot;Completar minha rotina pré-arremesso em todos os lançamentos&quot;
+**Nível de controle:** Alto - totalmente a seu critério
 
-### A hierarquia de objetivos
+### A Hierarquia de Objetivos
 
+```mermaid
+graph TD
+    A[Objetivo final <br/> O Sonho] --> B[Metas de desempenho <br/> Conquistas]
+    B --> C[Objetivos do Processo <br/> Ações diárias]
+
+    A2[&quot;Ganhar o Campeonato Regional&quot;] --> B2[&quot;80% de precisão nos disparos&quot;]
+    B2 --> C2[&quot;Rotina completa antes da filmagem <br/> cada arremesso&quot;]
+
+    style A fill:#e1f5ff
+    style B fill:#fff9c4
+    style C fill:#c8e6c9
+    style A2 fill:#e1f5ff
+    style B2 fill:#fff9c4
+    style C2 fill:#c8e6c9
 ```
-Objetivo de resultado (Sonho)
-    ↓
-Objetivos de desempenho (Marcos)
-    ↓
-Objetivos de processo (Ações diárias)
-```
 
-**Insight chave:** Foque a maior parte de sua atenção em objetivos de processo. Eles são o que você controla, e levam aos resultados que você quer.
+::: warning Principais conclusões
+**Concentre a maior parte da sua atenção nas metas de processo.** Elas são o que você controla e levam aos resultados que você deseja.
 
-## A estrutura SMART
+- **Objetivos de resultado:** Baixo controle, alta motivação
+- **Objetivos de desempenho:** Controle moderado, progresso mensurável
+- **Objetivos do processo:** Alto controle, foco diário ← **Foco aqui**
+:::
 
-Torne seus objetivos SMART:
+## O Quadro SMART
+
+::: info Lista de verificação para metas SMART
+Todo objetivo deve ser:
+- ✅ **E**specífico - Claro e bem definido
+- ✅ **M**ensurável - Você pode acompanhar o progresso
+- ✅ **Alcançável** - Desafiador, mas possível
+- ✅ **R**elevante - Alinhado com sua visão geral
+- ✅ **Com prazo definido - Possui uma data limite
+:::
 
 ### S - Específico
-❌ "Melhorar no tiro"
-✅ "Melhorar minha precisão au fer (acerto direto) de 8 metros"
+❌ &quot;Aprimore suas habilidades de tiro&quot;
+✅ &quot;Melhorar minha precisão de acerto direto a 8 metros&quot;
 
 ### M - Mensurável
-❌ "Atirar mais precisamente"
-✅ "Marcar pelo menos 24/30 no exercício de escada de tiro"
+❌ &quot;Atire com mais precisão&quot;
+✅ &quot;Acerte pelo menos 24/30 no exercício de arremesso em escada&quot;
 
-### A - Alcançável
-❌ "Nunca errar um tiro" (impossível)
-✅ "Melhorar precisão em 10% ao longo de 8 semanas" (desafiador mas realista)
+### A - Atingível
+❌ &quot;Nunca erre um tiro&quot; (impossível)
+✅ &quot;Aumentar a precisão em 10% ao longo de 8 semanas&quot; (desafiador, mas realista)
 
 ### R - Relevante
-❌ "Correr uma maratona" (não diretamente relacionado)
-✅ "Melhorar equilíbrio e estabilidade para melhor lançamento" (apoia seu jogo)
+❌ &quot;Correr uma maratona&quot; (sem relação direta)
+✅ &quot;Melhore o equilíbrio e a estabilidade para arremessos mais precisos&quot; (auxilia no seu jogo)
 
 ### T - Temporal
-❌ "Algum dia serei melhor"
-✅ "Até 15 de março, alcançarei..."
+❌ &quot;Um dia eu vou melhorar&quot;
+✅ &quot;Até 15 de março, eu terei alcançado...&quot;
 
-## Exemplos de objetivos para pétanque
+## Exemplos de gols para petanca
 
-| Tipo | Objetivo ruim | Objetivo SMART |
+| Tipo | Gol ruim | Meta SMART |
 |------|-----------|------------|
-| Resultado | "Ganhar mais" | "Alcançar as semifinais no Torneio de Primavera" |
-| Desempenho | "Apontar melhor" | "Alcançar 70% dos pontos dentro de 50cm a 8m de distância" |
-| Processo | "Praticar mais" | "Completar 3 sessões de treinamento focadas por semana" |
+| Resultado | &quot;Ganhe mais&quot; | &quot;Chegar às semifinais do Torneio de Primavera&quot; |
+| Desempenho | &quot;Aponte melhor&quot; | &quot;Atingir 70% dos pontos a uma distância de 50 cm e 8 m&quot; |
+| Processo | &quot;Pratique mais&quot; | &quot;Realize 3 sessões de treinamento focadas por semana&quot; |
 
-## Dividindo objetivos grandes
+## Desmembrando Grandes Objetivos
 
-Objetivos grandes podem parecer esmagadores. Divida-os em pedaços menores:
+Grandes objetivos podem parecer assustadores. Divida-os em partes menores:
 
-### Exemplo: "Ganhar o Campeonato do Clube (daqui a 12 meses)"
+### Exemplo: &quot;Ganhar o Campeonato do Clube (daqui a 12 meses)&quot;
 
-**Objetivo anual:** Ganhar campeonato do clube
+**Objetivo anual:** Vencer o campeonato do clube
 
-**Objetivos trimestrais:**
-- T1: Melhorar precisão de tiro para 75%
-- T2: Desenvolver rotina pré-lançamento consistente
-- T3: Dominar situações de pressão
-- T4: Desempenho máximo e preparação para competição
+**Metas trimestrais:**
+- Q1: Melhorar a precisão dos disparos para 75%
+- Q2: Desenvolver uma rotina pré-teste consistente
+- Q3: Domine as situações de pressão
+- 4º trimestre: Desempenho máximo e preparação para a competição
 
-**Objetivos mensais (T1):**
-- Mês 1: Estabelecer linha de base, identificar fraquezas
-- Mês 2: Focar em técnica de tiro
-- Mês 3: Adicionar pressão à prática de tiro
+**Metas mensais (1º trimestre):**
+- Mês 1: Estabelecer a linha de base, identificar as fragilidades.
+- Mês 2: Foco na técnica de tiro
+- Mês 3: Adicione pressão ao treino de arremesso
 
-**Objetivos semanais (Mês 2):**
-- Semana 1: 3 sessões de tiro, análise de vídeo
-- Semana 2: Trabalhar no problema de técnica identificado
-- Semana 3: Aumentar distância gradualmente
-- Semana 4: Testar progresso, ajustar plano
+**Metas semanais (Mês 2):**
+- Semana 1: 3 sessões de filmagem, análise de vídeo
+- Semana 2: Trabalhar na questão técnica identificada
+- Semana 3: Aumente a distância gradualmente
+- Semana 4: Avalie o progresso, ajuste o plano.
 
-## Conectando objetivos ao seu "Por quê"
+## Conectando metas ao seu &quot;porquê&quot;
 
-Os objetivos funcionam melhor quando conectados a uma motivação mais profunda.
+Os objetivos funcionam melhor quando estão conectados a uma motivação mais profunda.
 
 Pergunte a si mesmo:
-- Por que quero alcançar isso?
+- Por que eu quero alcançar isso?
 - O que isso significará para mim?
 - Como me sentirei quando tiver sucesso?
-- O que está me impulsionando a melhorar?
+- O que me motiva a melhorar?
 
-Escreva suas respostas. Retorne a elas quando a motivação diminuir.
+Anote suas respostas. Volte a elas quando a motivação diminuir.
 
 ## Nesta seção
 
-- **[Objetivos SMART em detalhes](/pt/education/goals/smart-goals)** - Mergulho profundo na criação de objetivos eficazes
-- **[Criando seu plano de treinamento](/pt/education/goals/planning)** - Transforme objetivos em ação
+- **[Metas SMART em Detalhe](/en/education/goals/smart-goals)** - Uma análise aprofundada da criação de metas eficazes
+- **[Criando seu Plano de Treinamento](/en/education/goals/planning)** - Transforme metas em ação
 
-## Conclusão principal
+## Resumo: Regras para definição de metas
+
+::: tip Regra nº 1: A Regra de Controle
+**Concentre-se nos objetivos de processo (aquilo que você controla) em vez dos objetivos de resultado.**
+Os objetivos de processo levam a objetivos de desempenho, que por sua vez levam a objetivos de resultado.
+:::
+
+::: tip Regra nº 2: A Regra SMART
+**Os objetivos devem ser Específicos, Mensuráveis, Atingíveis, Relevantes e Temporais.**
+Metas vagas produzem resultados vagos. Metas SMART produzem progresso.
+:::
+
+::: tip Regra nº 3: A Regra de Quebra
+**Grandes metas precisam de marcos trimestrais, mensais e semanais.**
+Divida grandes objetivos em pequenas etapas práticas que você possa concluir esta semana.
+:::
+
+::: tip Regra nº 4: A Regra da Conexão
+**Conecte seus objetivos ao seu &quot;porquê&quot; mais profundo.**
+Quando a motivação diminui, o seu &quot;porquê&quot; é o que te mantém firme.
+:::
+
+## Ponto-chave
 
 > Um objetivo sem um plano é apenas um desejo.
 
-Defina objetivos claros. Divida-os. Foque no que você controla. Acompanhe seu progresso.
+Defina metas claras. Divida-as em etapas menores. Concentre-se no que você controla. Acompanhe seu progresso.
 

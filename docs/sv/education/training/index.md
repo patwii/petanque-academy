@@ -1,69 +1,89 @@
 # Träningsmetoder
 
-När din teknik är solid, vad tränar du? Det är här många spelare når en platå - de fortsätter att träna teknik när den verkliga tillväxten ligger någon annanstans.
+När din teknik är stabil, vad övar du på? Det är här många spelare stannar av – de fortsätter att öva på sin teknik när den verkliga utvecklingen ligger någon annanstans.
 
-## Bortom teknisk upprepning
+::: tip Den stora idén
+**De flesta spelare stannar av eftersom de behåller sin träningsteknik när den verkliga utvecklingen ligger någon annanstans.** Elitspelare tränar anpassningsförmåga, beslutsfattande och mental styrka – inte bara mekanik.
+:::
+
+```mermaid
+graph TD
+    A[Träningsutveckling] --> B[Nybörjare: Tekniska övningar]
+    B --> C[Medel: Slumpmässig övning]
+    C --> D[Avancerat: Trycksimulering]
+    D --> E[Elit: Mental träning]
+
+    style A fill:#e3f2fd
+    style B fill:#f5f5f5
+    style C fill:#fff4e1
+    style D fill:#e8f5e9
+    style E fill:#fff4e1
+```
+
+## Bortom teknisk repetition
 
 De flesta spelare tränar genom att upprepa kast. Det är viktigt för nybörjare, men avancerade spelare behöver mer:
 
-| Träningstyp | Vad det utvecklar | När det används |
+| Utbildningstyp | Vad det utvecklar | När man ska använda |
 |--------------|------------------|-------------|
-| Tekniska övningar | Mekanik, form | Lära nya färdigheter, åtgärda problem |
-| Slumpmässig träning | Anpassningsförmåga, beslutsfattande | Tävlingsförberedelse |
-| Trycksimulering | Mental seghet | Före viktiga händelser |
+| Tekniska övningar | Mekanik, form | Lära sig nya färdigheter, lösa problem |
+| Slumpmässig övning | Anpassningsförmåga, beslutsfattande | Tävlingsförberedelser |
+| Trycksimulering | Mental styrka | Inför viktiga händelser |
 | Mental träning | Fokus, återhämtning, självförtroende | Pågående, ofta försummad |
 
 ## Träningspyramiden
 
+```mermaid
+graph TD
+    A[Konkurrens] --> B[Matchsimulering]
+    B --> C[Tryckövning]
+    C --> D[Slumpmässig/varierad övning]
+    D --> E[Blockerad teknisk övning]
+
+    style A fill:#fff4e1
+    style B fill:#e8f5e9
+    style C fill:#e3f2fd
+    style D fill:#f5f5f5
+    style E fill:#f5f5f5
 ```
-         Tävling
-            ↑
-      Matchsimulering
-            ↑
-    Tryckträning
-            ↑
-   Slumpmässig/Varierad träning
-            ↑
-  Blockerad teknisk träning
-```
 
-De flesta spelare spenderar för mycket tid i botten. Elitspelare arbetar på alla nivåer.
+::: warning Vanligt misstag
+**De flesta spelare tillbringar för mycket tid längst ner.** Elitspelare arbetar på alla nivåer i pyramiden, med fokus på de översta nivåerna allt eftersom de avancerar.
+:::
 
-## Blockerad vs. slumpmässig träning
+## Blockerad kontra slumpmässig övning
 
-### Blockerad träning
+### Blockerad övning
 Upprepa samma kast många gånger:
 - 20 poäng från 7 meter
-- 20 skott på samma mål
+- 20 skott mot samma måltavla
 - Samma avstånd, samma kast
 
-**Bra för:** Inledande inlärning, bygga självförtroende, uppvärmning
-**Begränsning:** Överförs inte väl till tävling
+**Bra för:** Inledande inlärning, bygga upp självförtroende, uppvärmning
+**Begränsning:** Överförs inte bra till tävling
 
-### Slumpmässig träning
+### Slumpmässig övning
 Variera allt:
-- Olika avstånd vid varje kast
-- Växla mellan peka och skjuta
-- Byta mål konstant
+- Olika avstånd per kast
+- Alternativ siktning och skjutning
+- Ändra mål ständigt
 
-**Bra för:** Tävlingsförberedelse, bygga anpassningsförmåga
-**Känns:** Svårare, fler misstag, mindre "produktivt"
+**Bra för:** Tävlingsförberedelser, bygga upp anpassningsförmåga
+**Känslor:** Svårare, fler misstag, mindre &quot;produktiv&quot;
 **Verklighet:** Bättre långsiktig retention och överföring
 
 ### Forskningen
 
 Studier visar konsekvent:
 - Blockerad träning känns bättre (snabb förbättring synlig)
-- Slumpmässig träning producerar bättre tävlingsprestanda
-- "Kampen" i slumpmässig träning är där inlärning sker
+- Slumpmässig träning ger bättre tävlingsprestationer
+- Det är i den slumpmässiga övningens &quot;kamp&quot; som lärandet sker.
 
 ## Trycksimulering
 
-Du kan inte hantera tävlingstryck om du aldrig upplever det i träning.
+Du klarar inte av tävlingspress om du aldrig upplever den på träning.
 
-### Skapa trän
-
-ingstryck
+### Skapa träningspress
 
 **Konsekvenser:**
 - Armhävningar för missar
@@ -71,51 +91,51 @@ ingstryck
 - Poäng räknas mot något
 
 **Scenarier:**
-- "Måste göra" situationer
-- Efter 12-10, behöver poängtera
-- Sista kulan i spelet
+- &quot;Måste göras&quot;-situationer
+- Underläge 12-10, måste göra mål
+- Sista klotet i matchen
 
 **Publik:**
-- Träna med folk som tittar
+- Öva med att titta på folk
 - Spela in dig själv på video
-- Meddela vad du försöker göra
+- Berätta vad du försöker göra
 
 **Trötthet:**
-- Träna när trött
-- Slutet av lång session
+- Övning när du är trött
+- Slut på lång session
 - Efter fysisk träning
 
 ### Skjutstegen
 
-En klassisk tryckövning:
-1. Börja vid 6 meter
+En klassisk tryckborr:
+1. Börja på 6 meter
 2. Träffa målet = flytta tillbaka en meter
-3. Missa = flytta fram en meter (eller börja om)
+3. Missa = gå framåt en meter (eller börja om)
 4. Mål: Nå 10 meter
 
-Detta skapar naturligt tryck när du går framåt.
+Detta skapar ett naturligt tryck allt eftersom du utvecklas.
 
 ## Mentala träningspass
 
-Ägna tid specifikt åt mentala färdigheter:
+Avsätt tid specifikt för mentala färdigheter:
 
-### Visualiseringspass (15-20 min)
+### Visualiseringssession (15–20 min)
 1. Hitta en lugn plats
-2. Stäng ögonen
-3. Visualisera dig själv vid en tävling
-4. Se framgångsrika kast i detalj
+2. Slut dina ögon
+3. Visualisera dig själv på en tävling
+4. Se lyckade kast i detalj
 5. Känn självförtroendet och flödet
-6. Öva hantering av tryckstunder
+6. Öva på att hantera tryckmoment
 
-### Före-kast rutin träning
+### Rutinövning före skott
 - Öva din rutin utan att kasta
 - Fokusera på de mentala övergångarna
-- Bygg vanan av konsekvent förberedelse
+- Bygg upp vanan att förbereda sig regelbundet
 
-### Återhämtningsövning
-- Gör avsiktligt misstag i träning
-- Öva din SOAS respons
-- Bygg vanan av snabb mental återställning
+### Återhämtningspraktik
+- Gör avsiktligt misstag i praktiken
+- Öva på ditt SOAS-svar
+- Bygg upp vanan med snabb mental återställning
 
 ## Strukturera din träningsvecka
 
@@ -123,53 +143,53 @@ Detta skapar naturligt tryck när du går framåt.
 
 | Dag | Varaktighet | Fokus |
 |-----|----------|-------|
-| Måndag | 1,5 t | Teknisk: Pekövningar |
-| Onsdag | 1,5 t | Teknisk: Skjutövningar |
-| Fredag | 1 t | Mental: Visualisering, rutinträning |
-| Lördag | 2 t | Matchspel med tryckelement |
+| måndag | 1,5 timmar | Tekniskt: Spetsborrar |
+| onsdag | 1,5 timmar | Tekniskt: Skjutövningar |
+| Fredag | 1 timme | Mental: Visualisering, rutinmässig övning |
+| Lördag | 2 timmar | Matchspel med presselement |
 
 ### Exempel: Tävlingsspelare (10 timmar/vecka)
 
 | Dag | Varaktighet | Fokus |
 |-----|----------|-------|
-| Måndag | 2 t | Teknisk: Peka (blockerad → slumpmässig) |
-| Tisdag | 1 t | Mental träning + visualisering |
-| Onsdag | 2 t | Teknisk: Skjuta (blockerad → slumpmässig) |
-| Torsdag | 1 t | Videogranskning + mentalt arbete |
-| Fredag | 2 t | Trycksimulering, spelscenarier |
-| Lördag | 2 t | Tävling eller matchspel |
+| måndag | 2 timmar | Teknisk: Pekning (blockerad → slumpmässig) |
+| tisdag | 1 timme | Mental träning + visualisering |
+| onsdag | 2 timmar | Tekniskt: Skottkast (blockerat → slumpmässigt) |
+| torsdag | 1 timme | Videorecension + mentalt arbete |
+| Fredag | 2 timmar | Trycksimulering, spelscenarier |
+| Lördag | 2 timmar | Tävling eller matchspel |
 
 ## Träningsprinciper
 
-### 1. Kvalitet över kvantitet
-- 30 fokuserade minuter slår 2 timmar av tanklös upprepning
-- Sluta när fokus faller
-- Bättre att sluta tidigt än att öva dåliga vanor
+### 1. Kvalitet framför kvantitet
+- 30 fokuserade minuter slår 2 timmar av tanklös repetition
+- Stanna när fokus tappas
+- Bättre att sluta tidigt än att ha dåliga vanor
 
-### 2. Medveten träning
-- Ha ett specifikt mål för varje pass
-- Arbeta vid kanten av din förmåga
+### 2. Avsiktlig praxis
+- Ha ett specifikt mål för varje session
+- Arbeta på gränsen till din förmåga
 - Få feedback (video, partner, resultat)
-- Justera baserat på vad du lär dig
+- Anpassa baserat på vad du lär dig
 
-### 3. Återhämtning spelar roll
-- Vilodagar är en del av träning
-- Sömn påverkar prestanda avsevärt
+### 3. Återhämtningsfrågor
+- Vilodagar är en del av träningen
+- Sömn påverkar prestationsförmågan avsevärt
 - Mental trötthet är verklig - respektera den
 
 ### 4. Spåra allt
-- För en träningslogg
-- Notera vad som fungerar och vad som inte gör det
+- För en träningsdagbok
+- Notera vad som fungerar och vad som inte fungerar
 - Granska regelbundet
-- Justera din plan baserat på data
+- Anpassa din plan baserat på data
 
 ## I detta avsnitt
 
-- **[Träningsövningar](/sv/education/training/drills)** - Specifika övningar för olika färdigheter
+- **[Träningsövningar](/sv/utbildning/träning/övningar)** - Specifika övningar för olika färdigheter
 
-## Nyckelpunkt
+## Viktig slutsats
 
-> Hur du tränar bestämmer hur du presterar. Träna som du vill spela.
+> Hur du tränar avgör hur du presterar. Träna som du vill spela.
 
-Blanda din träning. Inkludera mentalt arbete. Skapa tryck. Spåra dina framsteg.
+Variera din träning. Inkludera mentalt arbete. Skapa press. Följ dina framsteg.
 

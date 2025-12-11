@@ -1,224 +1,253 @@
 # Ejercicios de entrenamiento
 
-Aquí hay ejercicios probados utilizados por jugadores de élite. Cada ejercicio tiene un propósito específico - elija según lo que necesite desarrollar.
+Aquí tienes ejercicios probados que utilizan los jugadores de élite. Cada ejercicio tiene un propósito específico: elige según lo que necesites desarrollar.
 
-## Ejercicios de apuntar
+::: tip La gran idea
+**Cada ejercicio tiene un propósito específico.** No lances bolas al azar: elige ejercicios que se enfoquen en tus debilidades y contribuyan a tus objetivos. Monitorea tu progreso para ver si mejora.
+:::
+
+```mermaid
+graph TD
+    A[Ejercicios de entrenamiento] --> B[Ejercicios de señalización]
+    A --> C[Ejercicios de tiro]
+    A --> D[Ejercicios mentales]
+    A --> E[Simulación de juegos]
+
+    B --> F[Exactitud]
+    B --> G[Control de distancia]
+
+    C --> H[Tasa de aciertos]
+    C --> I[Disparos a presión]
+
+    D --> J[Práctica de rutina]
+    D --> K[Visualización]
+
+    E --> L[Preparación para la competencia]
+
+    style A fill:#e8f5e9
+    style B fill:#e3f2fd
+    style C fill:#fff4e1
+    style D fill:#f3e5f5
+    style E fill:#fff4e1
+```
+
+## Ejercicios de señalización
 
 ### El callejón
-**Propósito:** Aislar ángulo de liberación y consistencia de línea
+**Propósito:** Aislar el ángulo de liberación y la consistencia de la línea
 
 **Configuración:**
-- Coloque dos marcadores a 30-40cm de distancia, aproximadamente 1 metro del círculo
-- El objetivo está a 7-9 metros de distancia
+- Coloque dos marcadores separados entre 30 y 40 cm, aproximadamente a 1 metro del círculo.
+- El objetivo está a 7-9 metros de distancia.
 
-**Ejercicio:**
-- Lance a través del "callejón" (entre los marcadores)
-- Cualquier lanzamiento que golpee un marcador está "muerto"
-- Enfóquese en punto de liberación consistente
+**Perforar:**
+- Lanzar a través del &quot;callejón&quot; (entre los marcadores)
+- Cualquier lanzamiento que impacte un marcador está &quot;muerto&quot;.
+- Centrarse en un punto de liberación consistente
 
 **Progresión:**
-- Estreche el callejón a medida que mejora
-- Varíe la distancia del objetivo
-- Agregue una zona de aterrizaje específica
+- Estrecha el callejón a medida que mejoras
+- Varía la distancia del objetivo
+- Añadir una zona de aterrizaje específica
 
 ### Zonas de precisión
-**Propósito:** Desarrollar precisión a áreas específicas
+**Propósito:** Desarrollar la precisión en áreas específicas
 
 **Configuración:**
-- Marque zonas alrededor de un objetivo (p. ej., círculos a 20cm, 40cm, 60cm)
-- O use marcadores naturales en el terreno
+- Marcar zonas alrededor de un objetivo (por ejemplo, círculos a 20 cm, 40 cm, 60 cm)
+- O utilice marcadores naturales en el terreno.
 
-**Puntuación:**
+**Tanteo:**
 - Dentro de 20cm: 3 puntos
-- Dentro de 40cm: 2 puntos
-- Dentro de 60cm: 1 punto
-- Fuera: 0 puntos
+- Interior 40cm: 2 puntos
+- Interior 60cm: 1 punto
+- Exterior: 0 puntos
 
-**Ejercicio:**
-- Lance 10 bolas, rastree su puntuación
-- Objetivo: Mejora consistente a lo largo de las sesiones
+**Perforar:**
+- Lanza 10 bolas y sigue tu puntuación
+- Objetivo: Mejora constante a lo largo de las sesiones.
 
-### Variación de distancia
-**Propósito:** Desarrollar control de profundidad
+### Variación de la distancia
+**Propósito:** Desarrollar el control de la profundidad
 
 **Configuración:**
-- Coloque objetivos a 6m, 7m, 8m, 9m, 10m
+- Coloque objetivos a 6 m, 7 m, 8 m, 9 m, 10 m
 
-**Ejercicio:**
-- Lance a cada distancia en orden aleatorio
+**Perforar:**
+- Lanzar a cada distancia en orden aleatorio
 - El compañero anuncia la distancia
-- Enfóquese en ajustar el peso, no la técnica
+- Concéntrese en ajustar el peso, no la técnica.
 
 **Variación:**
-- Agregue llamadas de "corto" y "largo" después de soltar
-- Debe ajustar en pleno vuelo (desarrolla sensación)
+- Agregue llamadas &quot;cortas&quot; y &quot;largas&quot; después de publicar
+- Debe ajustarse en pleno vuelo (desarrolla sensibilidad)
 
 ## Ejercicios de tiro
 
 ### La escalera de tiro
-**Propósito:** Construir precisión bajo presión progresiva
+**Propósito:** Desarrollar la precisión bajo presión progresiva
 
 **Configuración:**
-- Coloque una bola objetivo a 6 metros
-- Marque distancias a 7m, 8m, 9m, 10m
+- Coloque una bola de diana a 6 metros
+- Marcar distancias a 7m, 8m, 9m, 10m
 
-**Ejercicio:**
-- Comience a 6 metros
-- Acierto = retroceda un metro
-- Fallo = avance un metro (o reinicie)
-- Objetivo: Alcanzar 10 metros
+**Perforar:**
+- Empezar a 6 metros
+- Golpear = retroceder un metro
+- Miss = avanzar un metro (o reiniciar)
+- Objetivo: alcanzar los 10 metros
 
 **Variaciones:**
-- Versión estricta: Cualquier fallo regresa a 6m
-- Versión cronometrada: ¿Qué tan lejos puede llegar en 10 minutos?
-- Versión de equipo: Alterne con compañero
+- Versión estricta: Cualquier fallo vuelve a 6 m.
+- Versión cronometrada: ¿Qué tan lejos puedes llegar en 10 minutos?
+- Versión de equipo: alternar con compañero
 
 ### La barrera (Blox)
-**Propósito:** Forzar tiro de arco alto
+**Propósito:** Forzar disparos de arco alto
 
 **Configuración:**
-- Coloque una barrera (palo, cuerda u obstáculo) entre usted y el objetivo
-- La barrera debe ser lo suficientemente alta para requerir un globo
+- Coloque una barrera (un palo, una cuerda o un obstáculo) entre usted y el objetivo.
+- La barrera debe ser lo suficientemente alta como para requerir un globo.
 
-**Ejercicio:**
-- Debe despejar la barrera para golpear el objetivo
-- Cualquier lanzamiento que golpee la barrera está "muerto"
-- Desarrolla punto de liberación alto
+**Perforar:**
+- Debes superar la barrera para alcanzar el objetivo.
+- Cualquier lanzamiento que golpee la barrera está &quot;muerto&quot;
+- Desarrolla un punto de liberación alto
 
-**Por qué importa:**
-- La competición a menudo requiere tirar sobre obstáculos
-- Construye versatilidad en su tiro
+**Por qué es importante:**
+- La competencia a menudo requiere disparar sobre obstáculos.
+- Aumenta la versatilidad en tus disparos.
 
-### Curso de obstáculos
-**Propósito:** Desarrollar tiro desde diferentes ángulos
+### Carrera de obstáculos
+**Propósito:** Desarrollar la fotografía desde diferentes ángulos.
 
 **Configuración:**
-- Coloque bola objetivo en el centro
-- Agregue obstáculos (otras bolas, marcadores) alrededor
+- Coloque la bola objetivo en el centro
+- Añade obstáculos (otras bolas, marcadores) a su alrededor.
 
-**Ejercicio:**
-- Dispare desde diferentes posiciones alrededor del círculo
-- Debe encontrar el ángulo que funciona
-- Desarrolla lectura de líneas de tiro
+**Perforar:**
+- Dispara desde diferentes posiciones alrededor del círculo.
+- Hay que encontrar el ángulo que funcione
+- Desarrolla la lectura de líneas de tiro.
 
 ## Ejercicios de entrenamiento mental
 
 ### Repetición de rutina
-**Propósito:** Hacer su rutina pre-lanzamiento automática
+**Propósito:** Automatizar tu rutina previa a la inyección
 
-**Ejercicio:**
-- Practique su rutina completa sin lanzar
-- Pase por cada paso deliberadamente
-- Haga 10-20 repeticiones
-- Luego agregue el lanzamiento
+**Perforar:**
+- Practica tu rutina completa sin tirar
+- Realice cada paso deliberadamente
+- Haz de 10 a 20 repeticiones
+- Luego añade el tiro
 
-**Enfoque:**
+**Enfocar:**
 - Tiempo consistente
-- Transición clara de pensar a ejecutar
-- Misma rutina cada vez
+- Transición clara del pensamiento a la ejecución
+- La misma rutina cada vez
 
 ### Puntos de presión
-**Propósito:** Practicar rendimiento bajo presión
+**Propósito:** Practicar el desempeño bajo presión
 
 **Configuración:**
-- Cree un escenario de "debe hacer"
-- Establezca consecuencias por fallar
+- Crear un escenario de &quot;obligación&quot;
+- Establecer consecuencias por faltar
 
 **Ejemplos:**
-- "Haga 3 seguidos o comience de nuevo"
-- "Falle y haga 10 flexiones"
-- "Anuncie su objetivo antes de lanzar"
+- &quot;Haz 3 seguidos o empieza de nuevo&quot;
+- &quot;Señorita, haga 10 flexiones&quot;
+- &quot;Anuncia tu objetivo antes de lanzar&quot;
 
-**Clave:**
+**Llave:**
 - La presión debe sentirse real
-- Practique su respuesta mental a la presión
-- Use su rutina exactamente como en competición
+- Practica tu respuesta mental a la presión
+- Utiliza tu rutina exactamente como en la competición
 
 ### Práctica de recuperación
-**Propósito:** Construir el hábito de reinicio mental rápido
+**Propósito:** Desarrollar el hábito del reinicio mental rápido
 
-**Ejercicio:**
-- Lance intencionalmente una mala bola
-- Practique inmediatamente SOAS (Stop, Observe, Accept, Slip)
-- Lance la siguiente bola con compromiso total
+**Perforar:**
+- Lanzar intencionalmente una bola mala
+- Practique inmediatamente SOAS (Detenerse, Observar, Aceptar, Deslizar)
+- Lanzar la siguiente bola con total compromiso
 
-**Enfoque:**
-- No se detenga en el fallo
-- Reinicie completamente antes del siguiente lanzamiento
-- Mantenga lenguaje corporal positivo
+**Enfocar:**
+- No te detengas en la señorita
+- Reiniciar completamente antes del próximo lanzamiento
+- Mantener un lenguaje corporal positivo
 
-## Ejercicios de simulación de juego
+## Ejercicios de simulación de juegos
 
-### Millieu's Delight
-**Propósito:** Romper bloqueo de ritmo, construir versatilidad
+### El deleite de Millieu
+**Propósito:** Romper el bloqueo del ritmo, desarrollar versatilidad
 
-**Ejercicio:**
-- Alterne entre apuntar y tirar en cada lanzamiento
-- No dos lanzamientos consecutivos del mismo tipo
-- Desarrolla capacidad de cambiar modos
+**Perforar:**
+- Alterna entre apuntar y disparar en cada lanzamiento.
+- No se permiten dos lanzamientos consecutivos del mismo tipo
+- Desarrolla la capacidad de cambiar de modo.
 
-### Juego de escenarios
-**Propósito:** Practicar toma de decisiones tácticas
+### Juego de escenario
+**Propósito:** Practicar la toma de decisiones tácticas
 
 **Configuración:**
-- Configure situaciones de juego realistas
-- Asigne puntuaciones y conteos de bolas
+- Establecer situaciones de juego realistas
+- Asignar puntuaciones y recuentos de bolas
 
 **Ejemplos:**
-- "Está abajo 10-8, el oponente tiene 2 puntos, usted tiene 2 bolas"
-- "Empatado 6-6, tiene la última bola, ellos tienen 1 punto"
+- &quot;Estás perdiendo 10-8, el oponente tiene 2 puntos, tú tienes 2 bolas&quot;
+- Empatados 6-6, tienes la última bola, ellos tienen 1 punto.
 
-**Ejercicio:**
-- Decida qué hacer
-- Ejecute con compromiso total
+**Perforar:**
+- Decidir qué hacer
+- Ejecutar con pleno compromiso
 - Revise la decisión después
 
-### Juego de partido con reglas
+### Match Play con reglas
 **Propósito:** Simulación de competición
 
 **Variaciones:**
-- Juegue a 13 (juego completo)
-- Juegue a 7 (más corto, más juegos)
-- "Puntos de presión" - ciertos finales valen doble
-- "Muerte súbita" - el primero en perder un final pierde el juego
+- Jugar hasta 13 (juego completo)
+- Jugar hasta 7 (más corto, más juegos)
+- &quot;Puntos de presión&quot;: ciertos fines que valen el doble
+- &quot;Muerte súbita&quot;: el primero en perder un final pierde el juego.
 
-## Rastreo de sus ejercicios
+## Seguimiento de sus ejercicios
 
-Mantenga un registro para cada ejercicio:
+Mantenga un registro de cada ejercicio:
 
-| Fecha | Ejercicio | Puntuación/Resultado | Notas |
+| Fecha | Perforar | Puntuación/Resultado | Notas |
 |------|-------|--------------|-------|
 | | | | |
 
-**Rastree con el tiempo:**
-- ¿Está mejorando?
+**Seguimiento a lo largo del tiempo:**
+- ¿Estás mejorando?
 - ¿Qué ejercicios ayudan más?
-- ¿Dónde tiene dificultades?
+- ¿Dónde tienes dificultades?
 
-## Construir una sesión de ejercicios
+## Construyendo una sesión de ejercicios
 
 ### Calentamiento (10 min)
-- Lanzamientos fáciles para aflojar
-- Sin presión, solo sensación
+- Lanzamientos fáciles para relajarse.
+- Sin presión, solo siente
 
 ### Enfoque técnico (20-30 min)
-- Uno o dos ejercicios dirigidos a habilidades específicas
+- Uno o dos ejercicios enfocados en habilidades específicas
 - Práctica bloqueada para nuevas habilidades
 - Práctica aleatoria para habilidades establecidas
 
-### Presión/Simulación de juego (20-30 min)
-- Agregue consecuencias
-- Cree escenarios realistas
-- Practique habilidades mentales
+### Simulación de presión/juego (20-30 min)
+- Añadir consecuencias
+- Crear escenarios realistas
+- Practica habilidades mentales
 
 ### Enfriamiento (10 min)
 - Lanzamientos fáciles
-- Reflexione sobre la sesión
-- Anote en qué trabajar a continuación
+- Reflexionar sobre la sesión
+- Tenga en cuenta en qué trabajar a continuación
 
 ## Conclusión clave
 
-> Los ejercicios son herramientas. Elija la herramienta correcta para lo que necesita construir.
+> Los taladros son herramientas. Elige la herramienta adecuada para lo que necesitas construir.
 
-No solo lance bolas. Entrene con propósito.
+No te limites a lanzar bolas. Entrena con un propósito.
 

@@ -1,169 +1,186 @@
-# Costruire la tua routine pre-lancio
+# Costruisci la tua routine pre-scatto
 
-La tua routine pre-lancio è uno degli strumenti più potenti nel tuo gioco mentale. È una sequenza coerente di azioni che ti prepara per ogni lancio e attiva il tuo migliore stato di performance.
+La tua routine pre-tiro è uno degli strumenti più potenti nel tuo gioco mentale. È una sequenza coerente di azioni che ti prepara per ogni lancio e innesca il tuo stato di prestazione migliore.
+
+::: suggerimento La grande idea
+**La tua routine è la tua porta d'accesso alla zona.** Una routine pre-tiro coerente segnala al tuo cervello: "È ora di eseguire". Con la ripetizione, diventa un trigger automatico per le massime prestazioni.
+:::
+
+```mermaid
+graph LR
+    A[Inizia la routine] --> B[Il cervello riconosce il modello]
+    B --> C[Cambio di stato automatico]
+    C --> D[Modalità di esecuzione]
+    D --> E[Massime prestazioni]
+
+    style A fill:#e3f2fd
+    style C fill:#e8f5e9
+    style D fill:#fff4e1
+    style E fill:#fff4e1
+```
 
 ## Perché le routine funzionano
 
 ### La coerenza crea fiducia
-Quando fai la stessa cosa ogni volta, elimini le variabili. Il tuo corpo sa cosa sta arrivando. Questo crea un senso di controllo e familiarità, anche in situazioni sconosciute.
+Quando fai la stessa cosa ogni volta, rimuovi le variabili. Il tuo corpo sa cosa sta succedendo. Ciò crea un senso di controllo e familiarità, anche in situazioni non familiari.
 
-### Le routine attivano stati
-Con la ripetizione, la tua routine diventa collegata al tuo stato di performance. Iniziare la routine inizia automaticamente il cambiamento mentale verso la modalità di esecuzione.
+### Stati di attivazione delle routine
+Con la ripetizione, la tua routine diventa collegata al tuo stato di prestazione. L'avvio della routine avvia automaticamente il passaggio mentale alla modalità di esecuzione.
 
 ### Le routine bloccano le distrazioni
-Una routine dà alla tua mente qualcosa su cui concentrarsi. Non c'è spazio per preoccuparsi del punteggio, del pubblico o di cosa potrebbe accadere.
+Una routine dà alla tua mente qualcosa su cui concentrarsi. Non c'è spazio per preoccuparsi della colonna sonora, del pubblico o di cosa potrebbe accadere.
 
 ### Le routine gestiscono l'eccitazione
-Una routine ben progettata aiuta a regolare il tuo livello di energia - calmandoti se sei troppo eccitato, concentrandoti se sei piatto.
+Una routine ben progettata aiuta a regolare il tuo livello di energia, calmandoti se sei troppo amplificato e concentrandoti se sei piatto.
 
 ## Elementi di una routine efficace
 
-### Fase 1: Valutazione (Fuori dal cerchio)
+### Fase 1: Valutazione (fuori dal cerchio)
 
-Prima di entrare, raccogli informazioni:
-- Leggi il terreno (pendenze, ostacoli, superficie)
-- Valuta la situazione (punteggio, posizioni delle bocce)
-- Scegli il tuo obiettivo e punto di atterraggio
-- Decidi il tipo di lancio (punto, tiro, lob, rotolamento)
+Prima di intervenire, raccogli informazioni:
+- Leggere il terreno (pendii, ostacoli, superficie)
+- Valutare la situazione (punteggio, posizioni delle bocce)
+- Scegli il tuo obiettivo e il punto di atterraggio
+- Decidi il tipo di lancio (punto, tiro, pallonetto, rotolamento)
 
-**Qui avviene il pensiero.** Prenditi il tuo tempo qui.
+**Qui è dove avviene il pensiero.** Prenditi il ​​tuo tempo qui.
 
-### Fase 2: Transizione (Entrare nel cerchio)
+### Fase 2: Transizione (Entrare nel Cerchio)
 
 Il passaggio dal pensare al fare:
-- Azione fisica (entra nel cerchio in modo coerente)
-- Segnale mentale (una parola o frase che segnala "modalità di esecuzione")
+- Azione fisica (entrare in cerchio in modo coerente)
+- Segnale mentale (una parola o una frase che segnala la "modalità di esecuzione")
 - Respiro (un respiro consapevole per centrarti)
 
 **Questo è l'interruttore.** L'analisi si ferma qui.
 
-### Fase 3: Impostazione (Nel cerchio)
+### Fase 3: Preparazione (Nel Cerchio)
 
 Prepara il tuo corpo:
-- Postura coerente (uguale ogni volta)
-- Controllo della presa (senti la boccia)
-- Allineamento all'obiettivo
+- Posizione coerente (uguale ogni volta)
+- Controllo della presa (sentire la boccia)
+- Allineamento al bersaglio
 - Trigger fisico (un piccolo movimento che è tuo)
 
-### Fase 4: Visualizzazione (Breve)
+### Fase 4: Visualizzazione (breve)
 
-Vedi il lancio prima di farlo:
-- Immagina il percorso della palla (massimo 2-3 secondi)
-- Senti il lancio riuscito
-- Connettiti visivamente con il tuo obiettivo
+Guarda il lancio prima di farlo:
+- Immagina il percorso della palla (2-3 secondi al massimo)
+- Senti il ​​lancio riuscito
+- Connettiti visivamente con il tuo target
 
-### Fase 5: Esecuzione
+### Fase 5: esecuzione
 
-Fai il lancio:
-- Concentrazione esterna (solo obiettivo)
+Effettua il tiro:
+- Focus esterno (solo target)
 - Fidati del tuo corpo
 - Rilascia senza esitazione
-- Segui naturalmente
+- Seguire in modo naturale
 
-## Costruire la tua routine personale
+## Costruisci la tua routine personale
 
-### Passo 1: Osserva cosa fai già
+### Passaggio 1: osserva ciò che già fai
 
-Probabilmente hai già una routine. Nota:
-- Cosa fai prima dei buoni lanci?
+Probabilmente hai già una certa routine. Avviso:
+- Cosa fai prima dei buoni tiri?
 - Cosa ti sembra naturale?
 - Cosa ti aiuta a concentrarti?
 
-### Passo 2: Progetta la tua routine
+### Passaggio 2: progetta la tua routine
 
-Crea una sequenza che include:
+Crea una sequenza che includa:
 - [ ] Fase di valutazione
-- [ ] Momento di transizione chiaro
-- [ ] Impostazione fisica coerente
-- [ ] Visualizzazione breve
+- [ ] Momento di transizione evidente
+- [ ] Configurazione fisica coerente
+- [ ] Breve visualizzazione
 - [ ] Trigger di esecuzione
 
-### Passo 3: Scrivila
+### Passaggio 3: scriverlo
 
 Sii specifico. Esempio:
 
-1. **Valutare:** Leggere il terreno, scegliere il punto di atterraggio
-2. **Transizione:** Entrare nel cerchio con il piede sinistro prima, dire "fiducia"
-3. **Impostazione:** Piedi larghezza spalle, controllo presa, allineare spalle
-4. **Visualizzare:** Vedere il percorso, sentire il rilascio
-5. **Eseguire:** Occhi sull'obiettivo, lanciare
+1. **Valutazione:** Leggi il terreno, scegli il punto di atterraggio
+2. **Transizione:** entra in cerchio prima con il piede sinistro, dì "fiducia"
+3. **Setup:** Piedi alla larghezza delle spalle, controllo della presa, allineamento delle spalle
+4. **Visualizza:** vedi il percorso, senti il ​​rilascio
+5. **Esegui:** Occhi sul bersaglio, lancia
 
 ### Passo 4: Pratica religiosamente
 
-Usa la tua routine ad OGNI lancio in allenamento:
-- Lanci facili
+Usa la tua routine su OGNI lancio in pratica:
+- Tiri facili
 - Lanci difficili
 - Quando sei stanco
 - Quando sei fresco
 
 La routine deve diventare automatica.
 
-### Passo 5: Affina nel tempo
+### Passaggio 5: perfezionare nel tempo
 
-La tua routine evolverà. Nota cosa funziona e aggiusta. Ma non cambiarla durante la competizione - solo tra gli eventi.
+La tua routine si evolverà. Nota cosa funziona e aggiusta. Ma non cambiarlo durante la competizione, solo tra un evento e l'altro.
 
-## Tempistica della routine
+## Tempistica di routine
 
-La tua routine dovrebbe richiedere un tempo coerente:
-- Troppo veloce: Ti stai affrettando, non sei preparato adeguatamente
-- Troppo lento: Stai pensando troppo, perdi il flusso
-- Giusto: Tempo sufficiente per prepararti, non così tanto da pensare troppo
+La tua routine dovrebbe richiedere una quantità costante di tempo:
+- Troppo veloce: stai correndo e non sei adeguatamente preparato
+- Troppo lento: stai pensando troppo, perdendo il flusso
+- Giusto: abbastanza tempo per prepararsi, non così tanto da pensare troppo
 
-**Tempistica tipica:**
+**Tempi tipici:**
 - Valutazione: 5-10 secondi
-- Transizione + Impostazione: 3-5 secondi
+- Transizione + configurazione: 3-5 secondi
 - Visualizzazione + Esecuzione: 3-5 secondi
 - **Totale: 10-20 secondi**
 
-## Errori comuni della routine
+## Errori comuni di routine
 
-| Errore | Problema | Soluzione |
+|  | Errore | Problema | Soluzione |  |
 |---------|---------|----------|
-| Saltare in allenamento | La routine non è automatica | Usala ad ogni singolo lancio |
-| Troppo complicata | Difficile da ricordare sotto pressione | Semplificare all'essenziale |
-| Pensare durante l'esecuzione | Interrompe la performance automatica | Punto di transizione chiaro |
-| Tempistica incoerente | Crea incertezza | Praticare con ritmo coerente |
-| Cambiare a metà competizione | Introduce dubbio | Attieniti a ciò che conosci |
+|  | Saltare in pratica | La routine non è automatica | Usalo ogni singolo lancio |  |
+|  | Troppo complicato | Difficile da ricordare sotto pressione | Semplificare all'essenziale |  |
+|  | Pensare durante l'esecuzione | Interrompe le prestazioni automatiche | Punto di transizione chiaro |  |
+|  | Tempistica incoerente | Crea incertezza | Esercitati con un ritmo costante |  |
+|  | Cambio a metà gara | Introduce il dubbio | Resta fedele a ciò che sai |  |
 
-## Risoluzione problemi della routine
+## Risoluzione dei problemi di routine
 
-**Se ti stai affrettando:**
-- Aggiungi un respiro alla transizione
-- Rallenta i tuoi movimenti di impostazione
+**Se sei di fretta:**
+- Aggiungi un respiro durante la transizione
+- Rallenta i movimenti di setup
 - Pausa prima della visualizzazione
 
 **Se stai pensando troppo:**
 - Accorcia la routine
 - Usa un segnale di transizione più forte
-- Concentrati più esternamente
+- Concentrati maggiormente sull'esterno
 
 **Se sei incoerente:**
-- Registrati in video per controllare
-- Pratica la routine senza lanciare
+- Riprenditi tu stesso per controllare
+- Esercitati nella routine senza lanciare
 - Ottieni feedback da un partner
 
 ## Routine di esempio
 
 ### Routine semplice
-1. Scegliere obiettivo
-2. Entrare, respirare
+1. Scegli l'obiettivo
+2. Entra, respira
 3. Afferrare, allineare
-4. Vederlo, lanciarlo
+4. Guardalo, lancialo
 
 ### Routine dettagliata
-1. Leggere terreno, scegliere punto di atterraggio
-2. Entrare con piede sinistro prima
-3. Dire "fluido" internamente
-4. Un respiro, spalle cadono
-5. Piedi posizionati, controllo presa
-6. Allineare spalle all'obiettivo
-7. Vedere il percorso (2 secondi)
-8. Occhi si fissano sull'obiettivo
-9. Lanciare
+1. Leggi il terreno, scegli il punto di atterraggio
+2. Entra per primo con il piede sinistro
+3. Di' "liscio" internamente
+4. Un respiro, le spalle cadono
+5. Regolazione dei piedi, controllo della presa
+6. Allineare le spalle al bersaglio
+7. Visualizza il percorso (2 secondi)
+8. Gli occhi si fissano sul bersaglio
+9. Lancia
 
-## Punto chiave
+## Chiave da asporto
 
 > La tua routine è la tua ancora. Nel caos, è la tua costante.
 
-Costruiscila attentamente. Praticala sempre. Fidati completamente di essa.
+Costruiscilo attentamente. Praticatelo sempre. Fidati completamente.
 

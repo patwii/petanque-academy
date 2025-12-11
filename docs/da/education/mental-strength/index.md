@@ -1,19 +1,50 @@
 # Mental styrke
 
-Mental styrke er det, der adskiller spillere, der præsterer godt i træning, fra dem, der præsterer godt, når det betyder noget. Det er evnen til at håndtere pres, komme sig efter tilbageslag og opretholde fokus gennem lange konkurrencer.
+Mental styrke er det, der adskiller spillere, der præsterer godt til træning, fra dem, der præsterer godt, når det gælder. Det er evnen til at håndtere pres, komme sig over tilbageslag og opretholde fokus gennem lange konkurrencer.
+
+::: tip Kerneprincippet
+**Mental styrke handler ikke om at eliminere nerver eller aldrig at begå fejl. Det handler om at præstere godt på trods af dem.** Du kan ikke kontrollere, hvad der sker. Du kan kontrollere, hvordan du reagerer.
+:::
+
+```mermaid
+graph TD
+    A[Pressituation] --> B{Mental Strength?}
+    B -->|Weak| C[Negative tanker]
+    B -->|Strong| D[Rutine før indtagelse]
+
+    C --> E[Spændingen stiger]
+    E --> F[Ydeevnen falder]
+    F --> G[Mere pres]
+    G --> C
+
+    D --> H[Fokus på processen]
+    H --> I[Tillidstræning]
+    I --> J[Udfør godt]
+    J --> K[Tilliden vokser]
+
+    style C fill:#ffcdd2
+    style E fill:#ffcdd2
+    style F fill:#ffcdd2
+    style G fill:#ffcdd2
+    style D fill:#c8e6c9
+    style H fill:#c8e6c9
+    style I fill:#c8e6c9
+    style J fill:#a5d6a7
+    style K fill:#a5d6a7
+```
 
 ## Hvad er mental styrke?
 
-Mental styrke inkluderer:
-- **Selvtillid:** At tro på din evne
-- **Fokus:** At opretholde opmærksomhed på det, der betyder noget
-- **Modstandsdygtighed:** At komme sig efter fejl
-- **Ro:** At forblive rolig under pres
-- **Motivation:** At opretholde indsats over tid
+Mental styrke omfatter:
+- **Selvtillid:** Tro på dine evner
+- **Fokus:** At holde fokus på det, der betyder noget
+- **Modstandsdygtighed:** At komme sig over fejltagelser
+- **Ro:** At bevare roen under pres
+- **Motivation:** Opretholdelse af indsats over tid
 
-Disse er ikke faste egenskaber - de er færdigheder, du kan udvikle.
+Dette er ikke faste egenskaber – det er færdigheder, du kan udvikle.
 
-## De mentale krav i pétanque
+## De mentale krav ved petanque
 
 Pétanque har unikke mentale udfordringer:
 
@@ -23,61 +54,61 @@ Pétanque har unikke mentale udfordringer:
 | Synlige resultater | Alle ser dine fejl |
 | Holdformat | Pres for ikke at skuffe partnere |
 | Lange konkurrencer | Mental træthed over mange timer |
-| Tætte kampe | Høje indsatser på enkelte kast |
-| Momentum-svingninger | Følelsesmæssig rutsjebane |
+| Lukkede spil | Høje indsatser på enkelte kast |
+| Momentumudsving | Følelsesmæssig rutsjebane |
 
 ## Opbygning af mental styrke
 
 ### 1. Udvikl selvtillid
 
 Selvtillid kommer fra:
-- **Forberedelse:** At vide, du har gjort arbejdet
-- **Tidligere succes:** At huske tidspunkter, hvor du præsterede godt
-- **Positiv selvtale:** Hvordan du taler til dig selv
-- **Kropssprog:** At stå rank, bevæge dig med formål
+- **Forberedelse:** Viden om, at du har gjort arbejdet
+- **Tidligere succeser:** Husker tidspunkter, hvor du klarede dig godt
+- **Positiv selvsnak:** Hvordan du taler til dig selv
+- **Kropssprog:** Stående oprejst, bevægelse med et formål
 
-**Selvtillidsbyggere:**
-- Før en succesdagbog
+**Tillidsskabere:**
+- Hold en succesdagbog
 - Visualiser succesfulde præstationer
 - Forbered dig grundigt til konkurrencer
-- Brug selvsikkert kropssprog (det påvirker dit sind)
+- Brug et selvsikkert kropssprog (det påvirker dit sind)
 
-### 2. Mestre din selvtale
+### 2. Mestre din selvsnak
 
 Stemmen i dit hoved betyder enormt meget.
 
-**Destruktiv selvtale:**
-- "Jeg misser altid disse"
-- "Jeg kommer til at fejle"
-- "Mine holdkammerater regner med mig" (pres)
-- "Det var forfærdeligt"
+**Destruktiv selvsnak:**
+- &quot;Jeg savner altid disse&quot;
+- &quot;Jeg kommer til at kvæles&quot;
+- &quot;Mine holdkammerater regner med mig&quot; (pres)
+- &quot;Det var forfærdeligt&quot;
 
-**Konstruktiv selvtale:**
-- "Jeg har lavet dette kast før"
-- "Stol på min træning"
-- "Et kast ad gangen"
-- "Næste kast, frisk start"
+**Konstruktiv selvsnak:**
+- &quot;Jeg har lavet dette kast før&quot;
+- &quot;Stol på min træning&quot;
+- &quot;Et kast ad gangen&quot;
+- &quot;Næste kast, en frisk start&quot;
 
-**Ændring af din selvtale:**
+**Ændring af din selvsnak:**
 1. Læg mærke til, hvad du siger til dig selv
 2. Udfordr negative udsagn
-3. Erstat med realistiske, hjælpsomme alternativer
-4. Øv, indtil det bliver automatisk
+3. Erstat med realistiske, nyttige alternativer
+4. Øv dig indtil det bliver automatisk
 
-### 3. Byg modstandsdygtighed
+### 3. Opbyg modstandsdygtighed
 
-Modstandsdygtighed er evnen til at komme sig efter tilbageslag.
+Modstandsdygtighed er evnen til at komme sig over tilbageslag.
 
-**Det modstandsdygtige mindset:**
+**Den robuste tankegang:**
 - Fejl er information, ikke fiasko
 - Et dårligt kast definerer dig ikke
 - Tilbageslag er midlertidige
-- Du kan altid reagere godt på det, der sker
+- Du kan altid reagere godt på, hvad der sker
 
 **Opbygning af modstandsdygtighed:**
-- Øv at komme dig efter fejl i træning
-- Brug SOAS-metoden (Stop, Observér, Acceptér, Slip)
-- Fokuser på respons, ikke begivenheden
+- Øv dig i at komme dig over fejl i træningen
+- Brug SOAS-metoden (Stop, Observer, Accepter, Slip)
+- Fokuser på responsen, ikke begivenheden
 - Udvikl en kort hukommelse for dårlige kast
 
 ### 4. Administrer din energi
@@ -88,33 +119,71 @@ Mental styrke kræver energistyring:
 - Sov godt før konkurrencer
 - Spis ordentligt (stabilt blodsukker)
 - Hold dig hydreret
-- Bevæg dig mellem kampe (sid ikke for længe)
+- Flyt mellem spil (sid ikke for længe)
 
 **Mental energi:**
-- Tag pauser, når det er muligt
-- Overanalysér ikke mellem kast
-- Gem intenst fokus til, når du har brug for det
-- Hav restitutionsrutiner
+- Tag pauser når det er muligt
+- Overanalyser ikke mellem kastene
+- Gem intenst fokus til når du har brug for det
+- Hav rutiner for restitution
 
-## Selvtillid-kompetence-løkken
+## Tillid-kompetence-løkken
 
+::: info Den positive cyklus
+```mermaid
+graph LR
+    A[Bedre forberedelse] --> B[Mere selvtillid]
+    B --> C[Bedre ydeevne]
+    C --> D[Mere selvtillid]
+    D --> A
+
+    style A fill:#e3f2fd
+    style B fill:#c8e6c9
+    style C fill:#fff9c4
+    style D fill:#c8e6c9
 ```
-Bedre forberedelse → Mere selvtillid → Bedre præstation → Mere selvtillid → ...
-```
 
-Denne løkke virker begge veje. Byg den gennem:
-1. Kvalitetstræning (opbygger kompetence)
-2. Sporing af fremgang (opbygger selvtillid)
+**Byg det igennem:**
+1. Kvalitetspraksis (opbygger kompetence)
+2. Sporing af fremskridt (opbygger selvtillid)
 3. Succesfulde præstationer (forstærker begge)
+:::
 
 ## I dette afsnit
 
-- **[Håndtering af pres](/da/education/mental-strength/handling-pressure)** - Teknikker til situationer med høje indsatser
-- **[Rutine før kast](/da/education/mental-strength/pre-shot-routine)** - Opbygning af din præstationsudløser
+- **[Håndtering af pres](/da/uddannelse/mental-styrke/håndtering-af-pres)** - Teknikker til situationer med høje indsatser
+- **[Rutine før skud](/da/uddannelse/mental-styrke/rutine-før-skud)** - Opbygning af din præstationstrigger
 
-## Nøglepunkt
+## Resumé: Regler for mental styrke
 
-> Mental styrke handler ikke om at eliminere nervøsitet eller aldrig lave fejl. Det handler om at præstere godt på trods af dem.
+::: tip Regel nr. 1: Rutinereglen
+**Konsekvente rutiner før indtagelse udløser optimal ydeevne.**
+Samme rutine hver gang = pålidelig trigger for flowtilstand
+:::
+
+::: tip Regel nr. 2: Nulstillingsreglen
+**Udvikl en 10-sekunders nulstillingsrutine efter fejl.**
+Fysisk nulstilling (dyb indånding, skulderrulning) + mental nulstilling (SOAS-metoden)
+:::
+
+::: tip Regel nr. 3: Reglen om tillidsløkken
+**Bedre forberedelse → Mere selvtillid → Bedre præstation.**
+Løkken fungerer begge veje. Byg den gennem kvalitetspraksis og sporing af fremskridt.
+:::
+
+::: tip Regel nr. 4: Reglen om selvsnak
+**Tal til dig selv, som du ville tale til en holdkammerat.**
+Støttende, konstruktiv, fokuseret på hvad der skulle gøres (ikke hvad der gik galt)
+:::
+
+::: tip Regel nr. 5: Energistyringsreglen
+**Gem intens fokus til når du har brug for det.**
+Overanalyser ikke mellem kastene. Spar mental energi til udførelse.
+:::
+
+## Vigtig konklusion
+
+> Mental styrke handler ikke om at eliminere nerver eller aldrig at lave fejl. Det handler om at præstere godt på trods af dem.
 
 Du kan ikke kontrollere, hvad der sker. Du kan kontrollere, hvordan du reagerer.
 

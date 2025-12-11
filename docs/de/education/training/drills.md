@@ -1,224 +1,253 @@
 # Trainingsübungen
 
-Hier sind bewährte Übungen, die von Elite-Spielern verwendet werden. Jede Übung hat einen spezifischen Zweck - wählen Sie basierend auf dem, was Sie entwickeln müssen.
+Hier findest du bewährte Übungen, die von Spitzenspielern eingesetzt werden. Jede Übung hat einen bestimmten Zweck – wähle diejenige aus, die du entwickeln möchtest.
 
-## Legeübungen
+::: tip Die große Idee
+**Jede Übung hat einen bestimmten Zweck.** Werfen Sie die Boulekugeln nicht einfach wahllos – wählen Sie Übungen, die Ihre Schwächen gezielt angehen und Sie bei der Erreichung Ihrer Ziele unterstützen. Verfolgen Sie Ihre Fortschritte, um Verbesserungen festzustellen.
+:::
+
+```mermaid
+graph TD
+    A[Trainingsübungen] --> B[Zeigeübungen]
+    A --> C[Schießübungen]
+    A --> D[Mentale Übungen]
+    A --> E[Spielsimulation]
+
+    B --> F[Genauigkeit]
+    B --> G[Distanzkontrolle]
+
+    C --> H[Trefferquote]
+    C --> I[Druckschießen]
+
+    D --> J[Routinepraxis]
+    D --> K[Visualisierung]
+
+    E --> L[Wettkampfbereitschaft]
+
+    style A fill:#e8f5e9
+    style B fill:#e3f2fd
+    style C fill:#fff4e1
+    style D fill:#f3e5f5
+    style E fill:#fff4e1
+```
+
+## Zeigeübungen
 
 ### Die Gasse
-**Zweck:** Isolieren Sie Freigabewinkel und Linienkonsistenz
+**Zweck:** Isolierung des Abwurfwinkels und der Linienkonsistenz.
 
-**Aufbau:**
-- Platzieren Sie zwei Markierungen 30-40cm auseinander, etwa 1 Meter vom Kreis entfernt
-- Ziel ist 7-9 Meter entfernt
+**Aufstellen:**
+- Platzieren Sie zwei Markierungen im Abstand von 30-40 cm, etwa 1 Meter vom Kreis entfernt.
+- Das Ziel ist 7-9 Meter entfernt.
 
-**Übung:**
-- Werfen Sie durch die "Gasse" (zwischen den Markierungen)
-- Jeder Wurf, der eine Markierung trifft, ist "tot"
-- Fokussieren Sie auf konsistenten Freigabepunkt
+**Bohren:**
+- Wirf durch die &quot;Gasse&quot; (zwischen den Markierungen)
+- Jeder Wurf, der eine Markierung trifft, ist &quot;tot&quot;.
+- Fokus auf einen einheitlichen Freigabepunkt
 
 **Progression:**
-- Verengen Sie die Gasse, wenn Sie sich verbessern
+- Verenge die Gasse, während du dich verbesserst
 - Variieren Sie die Zielentfernung
-- Fügen Sie eine spezifische Landezone hinzu
+- Füge eine spezifische Landezone hinzu
 
 ### Präzisionszonen
-**Zweck:** Entwickeln Sie Genauigkeit zu spezifischen Bereichen
+**Zweck:** Entwicklung von Genauigkeit in bestimmten Bereichen
 
-**Aufbau:**
-- Markieren Sie Zonen um ein Ziel (z.B. Kreise bei 20cm, 40cm, 60cm)
-- Oder verwenden Sie natürliche Markierungen auf dem Gelände
+**Aufstellen:**
+- Markieren Sie Zonen um ein Ziel herum (z. B. Kreise bei 20 cm, 40 cm, 60 cm).
+- Oder man nutzt natürliche Markierungen im Gelände.
 
-**Punktevergabe:**
-- Innerhalb 20cm: 3 Punkte
-- Innerhalb 40cm: 2 Punkte
-- Innerhalb 60cm: 1 Punkt
+**Wertung:**
+- Innerhalb von 20 cm: 3 Punkte
+- Innerhalb von 40 cm: 2 Punkte
+- Innerhalb von 60 cm: 1 Punkt
 - Außerhalb: 0 Punkte
 
-**Übung:**
-- Werfen Sie 10 Kugeln, verfolgen Sie Ihre Punktzahl
-- Ziel: Konsistente Verbesserung über Sitzungen
+**Bohren:**
+- Wirf 10 Boules und notiere deine Punktzahl.
+- Ziel: Kontinuierliche Verbesserung über die Trainingseinheiten hinweg
 
 ### Distanzvariation
-**Zweck:** Entwickeln Sie Tiefenkontrolle
+**Zweck:** Entwicklung der Tiefenkontrolle
 
-**Aufbau:**
-- Platzieren Sie Ziele bei 6m, 7m, 8m, 9m, 10m
+**Aufstellen:**
+- Platzieren Sie Ziele in 6 m, 7 m, 8 m, 9 m und 10 m Entfernung.
 
-**Übung:**
-- Werfen Sie zu jeder Distanz in zufälliger Reihenfolge
-- Partner ruft die Distanz aus
-- Fokussieren Sie auf Gewichtsanpassung, nicht Technik
+**Bohren:**
+- Werfen Sie in zufälliger Reihenfolge auf jede Entfernung.
+- Der Partner ruft die Entfernung an
+- Konzentriere dich auf die Gewichtsanpassung, nicht auf die Technik.
 
 **Variation:**
-- Fügen Sie "kurz" und "lang" Rufe nach der Freigabe hinzu
-- Muss im Flug anpassen (entwickelt Gefühl)
+- Fügen Sie nach der Freigabe die Aufrufe „short“ und „long“ hinzu.
+- Muss während des Fluges korrigiert werden (entwickelt ein Gefühl dafür)
 
 ## Schießübungen
 
 ### Die Schießleiter
-**Zweck:** Bauen Sie Genauigkeit unter progressivem Druck auf
+**Zweck:** Erhöhung der Genauigkeit unter progressivem Druck
 
-**Aufbau:**
-- Platzieren Sie eine Zielkugel bei 6 Metern
-- Markieren Sie Distanzen bei 7m, 8m, 9m, 10m
+**Aufstellen:**
+- Platziere eine Boule-Zielscheibe in 6 Metern Entfernung.
+- Markieren Sie Abstände bei 7 m, 8 m, 9 m, 10 m
 
-**Übung:**
-- Beginnen Sie bei 6 Metern
-- Treffer = einen Meter zurück
-- Verfehlt = einen Meter vor (oder Neustart)
+**Bohren:**
+- Beginnen Sie bei 6 Metern.
+- Treffer = einen Meter zurückweichen
+- Fehlschlag = einen Meter vorwärts (oder neu starten)
 - Ziel: 10 Meter erreichen
 
-**Variationen:**
-- Strenge Version: Jeder Fehlschuss kehrt zu 6m zurück
-- Zeitversion: Wie weit kommen Sie in 10 Minuten?
-- Teamversion: Wechseln Sie mit Partner
+**Varianten:**
+- Strenge Version: Jeder Fehlwurf führt zurück zu 6 m.
+- Zeitversion: Wie weit kommst du in 10 Minuten?
+- Teamversion: Wechseln Sie sich mit dem Partner ab.
 
-### Die Barriere (Blox)
-**Zweck:** Erzwingen Sie hohen Bogenschuss
+### The Barrier (Blox)
+**Zweck:** Erzwingen von Schüssen mit hohem Bogen
 
-**Aufbau:**
-- Platzieren Sie eine Barriere (Stock, Schnur oder Hindernis) zwischen Ihnen und dem Ziel
-- Barriere sollte hoch genug sein, um einen Lob zu erfordern
+**Aufstellen:**
+- Platzieren Sie eine Barriere (Stock, Schnur oder Hindernis) zwischen sich und dem Ziel.
+- Die Barriere sollte hoch genug sein, um einen Lob zu erfordern.
 
-**Übung:**
-- Muss die Barriere überwinden, um das Ziel zu treffen
-- Jeder Wurf, der die Barriere trifft, ist "tot"
-- Entwickelt hohen Freigabepunkt
+**Bohren:**
+- Um das Ziel zu treffen, muss die Barriere überwunden werden.
+- Jeder Wurf, der die Barriere trifft, ist &quot;tot&quot;.
+- Entwickelt einen hohen Auslösepunkt
 
-**Warum es wichtig ist:**
-- Wettkampf erfordert oft Schießen über Hindernisse
-- Baut Vielseitigkeit in Ihrem Schießen auf
+**Warum das wichtig ist:**
+- Bei Wettkämpfen ist es oft erforderlich, über Hindernisse hinweg zu schießen.
+- Verleiht Ihnen mehr Vielseitigkeit beim Fotografieren
 
 ### Hindernisparcours
-**Zweck:** Entwickeln Sie Schießen aus verschiedenen Winkeln
+**Zweck:** Entwicklung von Aufnahmen aus verschiedenen Blickwinkeln
 
-**Aufbau:**
-- Platzieren Sie Zielkugel in der Mitte
-- Fügen Sie Hindernisse (andere Kugeln, Markierungen) darum herum hinzu
+**Aufstellen:**
+- Platziere die Zielkugel in der Mitte
+- Füge Hindernisse (andere Boules, Markierungen) darum herum hinzu.
 
-**Übung:**
-- Schießen Sie von verschiedenen Positionen um den Kreis
-- Muss den Winkel finden, der funktioniert
-- Entwickelt Lesen von Schießlinien
+**Bohren:**
+- Schieße aus verschiedenen Positionen rund um den Kreis.
+- Man muss den passenden Winkel finden.
+- Entwickelt das Lesen von Schusslinien
 
 ## Mentale Trainingsübungen
 
 ### Routinewiederholung
-**Zweck:** Machen Sie Ihre Vor-Wurf-Routine automatisch
+**Zweck:** Automatisieren Sie Ihre Vorbereitungsroutine.
 
-**Übung:**
-- Üben Sie Ihre volle Routine ohne zu werfen
-- Gehen Sie jeden Schritt bewusst durch
-- Machen Sie 10-20 Wiederholungen
-- Dann fügen Sie den Wurf hinzu
+**Bohren:**
+- Übe deine gesamte Routine ohne zu werfen.
+- Gehen Sie jeden Schritt bewusst durch.
+- Führe 10-20 Wiederholungen durch.
+- Füge dann den Wurf hinzu.
 
 **Fokus:**
-- Konsistentes Timing
-- Klarer Übergang vom Denken zum Ausführen
-- Gleiche Routine jedes Mal
+- Konstantes Timing
+- Klarer Übergang vom Denken zur Ausführung
+- Immer die gleiche Routine
 
 ### Druckpunkte
-**Zweck:** Üben Sie Leistung unter Druck
+**Zweck:** Üben Sie das Auftreten unter Druck
 
-**Aufbau:**
-- Erstellen Sie ein "muss treffen" Szenario
-- Setzen Sie Konsequenzen für Verfehlen
+**Aufstellen:**
+- Erstellen Sie ein „Must-Machen“-Szenario
+- Strafen für das Versäumnis festlegen
 
 **Beispiele:**
-- "Machen Sie 3 in Folge oder beginnen Sie von vorne"
-- "Verfehlen und machen Sie 10 Liegestütze"
-- "Kündigen Sie Ihr Ziel vor dem Werfen an"
+- „Schaffe 3 in Folge oder fange von vorne an.“
+- &quot;Verpasse den Wurf und mach 10 Liegestütze.&quot;
+- &quot;Kündige dein Ziel an, bevor du wirfst.&quot;
 
 **Schlüssel:**
-- Der Druck sollte sich real anfühlen
+- Der Druck sollte sich real anfühlen.
 - Üben Sie Ihre mentale Reaktion auf Druck
-- Verwenden Sie Ihre Routine genau wie im Wettkampf
+- Setze deine Routine genau wie im Wettkampf ein.
 
-### Erholungsübung
-**Zweck:** Bauen Sie die Gewohnheit schneller mentaler Rücksetzung auf
+### Genesungspraxis
+**Zweck:** Die Gewohnheit entwickeln, mental schnell wieder in einen Normalzustand zu versetzen.
 
-**Übung:**
-- Werfen Sie absichtlich eine schlechte Kugel
-- Üben Sie sofort SOAS (Stop, Observe, Accept, Slip)
-- Werfen Sie die nächste Kugel mit voller Verpflichtung
+**Bohren:**
+- absichtlich einen schlechten Boule werfen
+- Wenden Sie sofort SOAS an (Stoppen, Beobachten, Akzeptieren, Ausrutschen).
+- Wirf die nächste Boule-Kugel mit vollem Einsatz.
 
 **Fokus:**
-- Verweilen Sie nicht beim Fehlschuss
-- Setzen Sie vollständig zurück vor dem nächsten Wurf
-- Behalten Sie positive Körpersprache bei
+- Grübele nicht über den Fehler nach.
+- Vor dem nächsten Wurf vollständig zurücksetzen.
+- Achten Sie auf eine positive Körpersprache.
 
 ## Spielsimulationsübungen
 
-### Millieu's Delight
-**Zweck:** Brechen Sie Rhythmussperre, bauen Sie Vielseitigkeit auf
+### Millieus Freude
+**Zweck:** Rhythmusblockaden durchbrechen, Vielseitigkeit aufbauen
 
-**Übung:**
-- Wechseln Sie zwischen Legen und Schießen bei jedem Wurf
-- Keine zwei aufeinanderfolgenden Würfe des gleichen Typs
-- Entwickelt Fähigkeit, Modi zu wechseln
+**Bohren:**
+- Wechsle bei jedem Wurf zwischen Zeigen und Werfen ab.
+- Keine zwei aufeinanderfolgenden Würfe der gleichen Art
+- Entwickelt die Fähigkeit, zwischen verschiedenen Modi zu wechseln
 
-### Szenariospiel
-**Zweck:** Üben Sie taktische Entscheidungsfindung
+### Szenario-Spiel
+**Zweck:** Übung taktischer Entscheidungsfindung
 
-**Aufbau:**
-- Richten Sie realistische Spielsituationen ein
-- Weisen Sie Punktzahlen und Kugelzahlen zu
+**Aufstellen:**
+- Realistische Spielsituationen schaffen
+- Punkte und Boule-Zählungen zuweisen
 
 **Beispiele:**
-- "Sie liegen 10-8 zurück, Gegner hat 2 Punkte, Sie haben 2 Kugeln"
-- "Unentschieden 6-6, Sie haben letzte Kugel, sie haben 1 Punkt"
+- &quot;Du liegst 10:8 hinten, dein Gegner hat 2 Punkte, du hast 2 Boules.&quot;
+- „Unentschieden 6:6, Sie haben die letzte Kugel, sie haben 1 Punkt.“
 
-**Übung:**
-- Entscheiden Sie, was zu tun ist
-- Führen Sie mit voller Verpflichtung aus
-- Überprüfen Sie die Entscheidung danach
+**Bohren:**
+- Entscheide, was du tun willst.
+- Mit vollem Engagement ausführen
+- Überprüfen Sie die Entscheidung anschließend.
 
-### Spielpraxis mit Regeln
-**Zweck:** Wettkampfsimulation
+### Matchplay mit Regeln
+**Zweck:** Wettbewerbssimulation
 
-**Variationen:**
-- Spielen Sie bis 13 (volles Spiel)
-- Spielen Sie bis 7 (kürzer, mehr Spiele)
-- "Druckpunkte" - bestimmte Enden sind doppelt wert
-- "Sudden Death" - Erster, der ein Ende verliert, verliert das Spiel
+**Varianten:**
+- Spiel bis 13 (vollständiges Spiel)
+- Spielt bis 7 (kürzer, mehr Spiele)
+- „Druckpunkte“ – bestimmte Ziele sind doppelt wertvoll
+- „Plötzlicher Tod“ – wer als Erster eine Runde verliert, verliert das Spiel.
 
-## Verfolgung Ihrer Übungen
+## Ihre Übungen verfolgen
 
-Führen Sie ein Protokoll für jede Übung:
+Führen Sie für jede Übung ein Protokoll:
 
-| Datum | Übung | Punktzahl/Ergebnis | Notizen |
+| Datum | Bohren | Ergebnis | Anmerkungen |
 |------|-------|--------------|-------|
 | | | | |
 
-**Verfolgen Sie über Zeit:**
-- Verbessern Sie sich?
+**Verlauf im Zeitverlauf:**
+- Machst du Fortschritte?
 - Welche Übungen helfen am meisten?
 - Wo haben Sie Schwierigkeiten?
 
-## Aufbau einer Übungssitzung
+## Aufbau einer Übungseinheit
 
-### Aufwärmen (10 Min)
-- Leichte Würfe zum Lockern
-- Kein Druck, nur Gefühl
+### Aufwärmen (10 Min.)
+- Einfache Würfe zum Aufwärmen
+- Kein Druck, einfach fühlen
 
-### Technischer Fokus (20-30 Min)
-- Eine oder zwei Übungen, die auf spezifische Fähigkeiten abzielen
-- Blockierte Praxis für neue Fähigkeiten
-- Zufällige Praxis für etablierte Fähigkeiten
+### Technischer Fokus (20-30 Min.)
+- Ein oder zwei Übungen zur Förderung spezifischer Fähigkeiten
+- Blockiertes Üben neuer Fähigkeiten
+- Zufälliges Üben für etablierte Fertigkeiten
 
-### Druck/Spielsimulation (20-30 Min)
-- Fügen Sie Konsequenzen hinzu
-- Erstellen Sie realistische Szenarien
-- Üben Sie mentale Fähigkeiten
+### Druck-/Spielsimulation (20-30 Min.)
+- Folgen hinzufügen
+- Realistische Szenarien erstellen
+- Mentale Fähigkeiten üben
 
-### Abkühlen (10 Min)
-- Leichte Würfe
-- Reflektieren Sie über die Sitzung
-- Notieren Sie, woran als nächstes gearbeitet werden soll
+### Abkühlphase (10 Min.)
+- Einfache Würfe
+- Reflektieren Sie die Sitzung
+- Notieren Sie sich, woran Sie als Nächstes arbeiten müssen.
 
-## Kernpunkt
+## Wichtigste Erkenntnis
 
-> Übungen sind Werkzeuge. Wählen Sie das richtige Werkzeug für das, was Sie aufbauen müssen.
+> Bohrmaschinen sind Werkzeuge. Wählen Sie das richtige Werkzeug für Ihr Projekt.
 
-Werfen Sie nicht einfach Kugeln. Trainieren Sie mit Zweck.
+Werfen Sie nicht einfach nur Boule-Kugeln. Trainieren Sie zielgerichtet.
 

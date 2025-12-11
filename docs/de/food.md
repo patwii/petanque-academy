@@ -1,44 +1,144 @@
-# Essen & Ernährung
+# Ernährung
 
-## Treibstoff für Präzisionsleistung
+## Präzisionskraft für optimale Leistung
 
-Pétanque ist ein Präzisionssport. Dein Gehirn ist dein wichtigstes Werkzeug - gib ihm stabilen Treibstoff, keine Achterbahn-Energie.
+Pétanque ist ein Präzisionssport. Ihr Gehirn ist Ihr wichtigstes Werkzeug – füttern Sie es mit stabiler Energie, nicht mit Achterbahnfahrten.
 
-## Schlüsselprinzipien
+::: tip Das Kernprinzip
+**Stabiler Blutzucker = Hohe Konzentration + Ruhige Hände**
 
-### Stabiler Blutzucker ist Alles
+Vermeiden Sie Blutzuckerspitzen. Setzen Sie auf Proteine und gesunde Fette. Achten Sie auf ausreichende Flüssigkeitszufuhr.
+:::
 
-Zucker und einfache Kohlenhydrate verursachen Blutzuckerspitzen und -abstürze, die direkt beeinflussen:
-- Mentale Fokussierung und Klarheit
-- Ruhige Hände (Zittern durch Blutzuckerabfall)
-- Entscheidungsqualität
-- Emotionale Stabilität und Gelassenheit
+```mermaid
+graph TD
+    A[Ernährungsstrategie] --> B[Stabiler Blutzucker]
+    A --> C[Protein und gesunde Fette]
+    A --> D[Flüssigkeitszufuhr]
 
-### Priorisiere Protein und Gesunde Fette
+    B --> E[Scharfer Fokus]
+    B --> F[Ruhige Hände]
+    B --> G[Nerven beruhigen]
 
-Fett und Protein liefern nachhaltige Energie ohne Abstürze:
-- Nüsse, Avocado, Olivenöl, Eier, Käse
-- Langsame Verdauung = konstante Energie den ganzen Tag
-- Kein Nachmittagstief während langer Turniere
+    C --> E
+    C --> F
 
-### Vermeide die Zuckerfalle
+    D --> E
+    D --> H[Körperliche Leistungsfähigkeit]
 
-Sei besonders vorsichtig mit:
-- "Energie"-Riegeln und -Getränken (oft zuckerreich)
-- Fruchtsaft und Smoothies (konzentrierter Zucker)
-- Weißbrot, Gebäck, Automatensnacks
+    style A fill:#e8f5e9
+    style E fill:#fff4e1
+    style F fill:#fff4e1
+    style G fill:#fff4e1
+```
 
-## Wettkampftag Schnellguide
+## Grundprinzipien
 
-**Vorher:** Ausgewogene Mahlzeit mit Protein, Fett, Gemüse (2-3 Stunden vorher)
+### Stabiler Blutzucker ist alles
 
-**Während:** Wasser + kleine Proteinsnacks (Nüsse, Käse, Trockenfleisch)
+```mermaid
+graph LR
+    A[Zucker/Einfache Kohlenhydrate] --> B[Spitze]
+    B --> C[Absturz]
+    C --> D[Zittern und Angstzustände]
 
-**Vermeiden:** Zuckerhaltige Snacks und Getränke um jeden Preis
+    E[Proteine und Fette] --> F[Stabil]
+    F --> G[Konstante Leistung]
 
-## Mehr Erfahren
+    style A fill:#ffebee
+    style D fill:#ffebee
+    style E fill:#e8f5e9
+    style G fill:#e8f5e9
+```
 
-Für detaillierte Ernährungsstrategien, Wettkampftag-Protokolle und die Wissenschaft hinter stabiler Energie:
+::: warning Auswirkungen von Blutzuckerschwankungen
+Zucker und einfache Kohlenhydrate verursachen Blutzuckerspitzen und -abfälle, die sich direkt auswirken auf:
+- ❌ Mentale Konzentration und Klarheit
+- ❌ Ruhige Hände (Zittern durch Blutzuckerabfall)
+- ❌ Qualität der Entscheidungsfindung
+- ❌ Emotionale Stabilität und Gelassenheit
+:::
 
-→ **[Ernährung für Präzisionsleistung](/de/education/nutrition/)** - Vollständiger Leitfaden in unserem Bildungsbereich
+### Priorisieren Sie Protein und gesunde Fette
+
+::: tip Die besten Lebensmittel für Präzisionsarbeit
+Fett und Eiweiß liefern anhaltende Energie ohne den anschließenden Energieabfall:
+- ✅ Nüsse, Avocado, Olivenöl, Eier, Käse
+- ✅ Langsame Verdauung = gleichmäßige Energie den ganzen Tag
+- ✅ Kein Nachmittagstief bei langen Turnieren
+:::
+
+### Vermeiden Sie die Zuckerfalle
+
+::: danger Zu vermeidende Lebensmittel
+Besondere Vorsicht ist geboten bei:
+- ❌ &quot;Energy&quot;-Riegel und -Getränke (oft zuckerhaltig)
+- ❌ Fruchtsäfte und Smoothies (konzentrierter Zucker)
+- ❌ Weißbrot, Gebäck, Snacks aus Automaten
+:::
+
+## Kurzanleitung für den Wettkampftag
+
+| Timing | Was man essen sollte | Warum |
+|--------|-------------|-----|
+| **2-3 Stunden vorher** | Ausgewogene Mahlzeit: Eiweiß, Fett, Gemüse | Stabile Energie ohne Müdigkeit |
+| **Während des Wettkampfs** | Wasser + kleine proteinreiche Snacks (Nüsse, Käse, Trockenfleisch) | Konzentriere dich und bewahre eine ruhige Hand |
+| **Ganztägig meiden** | Zuckerhaltige Snacks und Getränke | Unfälle und Erschütterungen verhindern |
+
+::: tip Schnelle Snacks für den Wettkampf
+**Bitte bringen Sie Folgendes mit:**
+- Gemischte Nüsse (ungesalzen)
+- Hartgekochte Eier
+- Käsewürfel
+- Trockenfleisch vom Rind oder Truthahn
+- Gemüse mit Hummus
+
+**Lassen Sie diese Dinge zu Hause:**
+- Süßigkeiten und Schokolade
+- Energy-Drinks
+- Gebäck
+- Fruchtsaft
+:::
+
+## Die Wissenschaft
+
+```mermaid
+graph TD
+    A[Zucker essen] --> B[Blutzuckerspitzen]
+    B --> C[Insulin wird freigesetzt]
+    C --> D[Blutzuckerabfälle]
+    D --> E[Adrenalinreaktion]
+    E --> F[Erschütterungen]
+    E --> G[Angst]
+    E --> H[Schwache Konzentration]
+
+    style A fill:#ffebee
+    style F fill:#ffebee
+    style G fill:#ffebee
+    style H fill:#ffebee
+```
+
+::: info Warum das für Pétanque wichtig ist
+Im Gegensatz zum Ausdauersport erfordert Pétanque:
+- **Präzision** – Ruhige Hände, kein Zittern
+- **Mentale Klarheit** – Den ganzen Tag über scharfe Entscheidungen treffen.
+- **Nerven beruhigen** – Geringe Angst unter Druck
+
+Zuckerbasierte Energie wirkt all dem entgegen.
+:::
+
+## Mehr erfahren
+
+Detaillierte Ernährungsstrategien, Wettkampfprotokolle und die wissenschaftlichen Grundlagen stabiler Energieversorgung finden Sie hier:
+
+::: tip Vollständiger Ernährungsleitfaden
+→ **[Ernährung für optimale Leistung](/en/education/nutrition/)** – Vollständiger Leitfaden in unserem Bildungsbereich
+
+Beinhaltet:
+- Detaillierte Speiseplanung
+- Wettkampftagsprotokoll
+- Die kohlenhydratarme Option für Leistungssportler
+- Hydratationsstrategien
+- Lebensmittel, die helfen vs. Lebensmittel, die schaden
+:::
 

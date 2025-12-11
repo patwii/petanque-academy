@@ -1,203 +1,220 @@
-# Communication d'équipe
+# Communication d&#39;équipe
 
-Une communication efficace est ce qui transforme un groupe d'individus en équipe. À la pétanque, où la stratégie change constamment et la pression est élevée, votre façon de communiquer peut déterminer le résultat.
+Une communication efficace transforme un groupe d&#39;individus en une équipe. À la pétanque, où la stratégie évolue constamment et où la pression est forte, la qualité de votre communication peut déterminer l&#39;issue du jeu.
+
+::: tip La grande idée
+**La communication est ce qui transforme les individus en une équipe.** Une communication claire, précise et encourageante, même sous pression, distingue les bonnes équipes des excellentes équipes.
+:::
 
 ## Le cycle de communication
 
-Une bonne communication d'équipe suit un cycle :
+Une bonne communication au sein d&#39;une équipe suit un cycle :
 
-```
-Observer → Partager → Discuter → Décider → Exécuter → Réviser
+```mermaid
+graph LR
+    A[Observer] --> B[Partager]
+    B --> C[Discuter]
+    C --> D[Décider]
+    D --> E[Exécuter]
+    E --> F[Revoir]
+    F --> A
+
+    style A fill:#e3f2fd
+    style D fill:#e8f5e9
+    style E fill:#fff4e1
+    style F fill:#f3e5f5
 ```
 
-1. **Observer :** Remarquer ce qui se passe (terrain, positions, adversaires)
-2. **Partager :** Dire à vos coéquipiers ce que vous voyez
-3. **Discuter :** Échanger perspectives et idées
-4. **Décider :** S'accorder sur l'approche
-5. **Exécuter :** Le faire avec engagement
-6. **Réviser :** Apprendre du résultat
+| Étape | Action | Exemple |
+|------|--------|---------|
+| **Observer** | Remarquez ce qui se passe | Terrain, positions, adversaires |
+| **Partager** | Signalez ce que vous voyez à vos coéquipiers. | « Le terrain est en pente à gauche. » |
+| **Discuter** | Perspectives d&#39;échange | « Dois-je bloquer ou tenter de marquer ? » |
+| **Décider** | Se mettre d&#39;accord sur l&#39;approche | &quot;Essayons le lob haut&quot; |
+| **Exécuter** | Faites-le avec engagement | Concentrez-vous pleinement sur le lancer |
+| **Revoir** | Tirer les leçons des résultats | « Ça a bien fonctionné » ou « La prochaine fois… » |
 
 ## Quand communiquer
 
-### Avant chaque mène
+### Avant chaque extrémité
 - Évaluer le terrain ensemble
-- Discuter de l'approche générale
-- Clarifier qui tire quand
+- Discuter de l&#39;approche générale
+- Précisez qui lance et quand.
 - Donner le ton (calme, concentré)
 
-### Pendant la mène
-- Partager les observations (« Le terrain penche à gauche là-bas »)
-- Coordonner la stratégie (« Devrais-je essayer de bloquer ou aller au point ? »)
-- Offrir du soutien (« Prends ton temps, tu l'as »)
-- Ajuster les plans selon l'évolution de la situation
+### Pendant la fin
+- Partager les observations (« Le terrain est en pente à gauche »)
+- Stratégie de coordination (« Dois-je essayer de bloquer ou de marquer ? »)
+- Offrez votre soutien (« Prends ton temps, tu peux le faire »)
+- Adaptez vos plans en fonction de l&#39;évolution de la situation.
 
-### Entre les mènes
-- Débriefing rapide (ce qui a marché, ce qui n'a pas marché)
+### Entre les extrémités
+- Débriefing rapide (ce qui a fonctionné, ce qui n&#39;a pas fonctionné)
 - Se réinitialiser mentalement
-- Se préparer pour la prochaine mène
-- Rester connectés en équipe
+- Préparez-vous pour la prochaine fin
+- Restez connectés en équipe
 
-### Après le jeu
-- Débriefing complet (quand approprié)
+### Après le match
+- Débriefing complet (le cas échéant)
 - Reconnaître les contributions
-- Identifier les apprentissages
-- Maintenir la relation
+- Identifier les enseignements
+- Maintenir les relations
 
 ## Comment communiquer
 
-### Être clair et spécifique
+### Soyez clair et précis
 
-**Vague :** « Essaie de t'approcher »
-**Clair :** « Vise le côté gauche du cochonnet, environ 20cm de distance »
+**Vague :** « Essayez de vous rapprocher »
+**Précisions :** « Visez le côté gauche du cric, à environ 20 cm de distance. »
 
-**Vague :** « Bon essai »
+**Vague :** « Bien essayé »
 **Clair :** « Bon poids, juste un peu à gauche de la ligne »
 
-### Être constructif
+### Soyez constructif
 
-Se concentrer sur les solutions, pas les problèmes :
+Concentrez-vous sur les solutions, pas sur les problèmes :
 
-**Axé sur le problème :** « Tu continues à rater à droite »
-**Axé sur la solution :** « Peut-être essaie de viser un peu plus à gauche pour compenser ? »
+**Axé sur le problème :** « Tu rates toujours tes tirs à droite. »
+**Axé sur la solution :** « Peut-être essayer de viser un peu plus à gauche pour compenser ? »
 
-### Être solidaire
+### Soyez solidaire
 
-Votre ton compte autant que vos mots :
-- Rester calme, même frustré
-- Utiliser un langage corporel encourageant
-- Reconnaître l'effort, pas seulement les résultats
-- Construire, ne pas détruire
+Votre ton compte autant que vos mots :
+- Gardez votre calme, même en cas de frustration.
+- Utilisez un langage corporel encourageant
+- Reconnaissez les efforts, pas seulement les résultats.
+- Construisez, ne détruisez pas
 
-### Écouter activement
+### Écoutez activement
 
 La communication est bidirectionnelle :
-- Donner toute son attention quand les coéquipiers parlent
-- Poser des questions de clarification
-- Reconnaître ce que vous avez entendu
-- Ne pas interrompre ou rejeter
+- Soyez pleinement attentif lorsque vos coéquipiers parlent.
+- Posez des questions de clarification
+- Accusez réception de ce que vous avez entendu
+- N&#39;interrompez pas et ne rejetez pas
 
 ## Défis de communication
 
 ### Désaccord sur la stratégie
 
-**Mauvaise approche :**
-- Insister sur votre façon
-- Devenir défensif
+**Mauvaise approche :**
+- Insistez pour suivre votre chemin
+- Adoptez une position défensive
 - Céder avec ressentiment
-- Se disputer pendant le jeu
+- Discutez pendant le jeu
 
-**Meilleure approche :**
-1. Partager votre perspective clairement
-2. Écouter la leur complètement
-3. Discuter brièvement des avantages et inconvénients
-4. Décider ensemble (ou différer au leader désigné)
-5. S'engager pleinement dans la décision
-6. Réviser après le jeu
+**Meilleure approche :**
+1. Exprimez clairement votre point de vue
+2. Écoutez-les en entier
+3. Discutez brièvement des avantages et des inconvénients.
+4. Décidez ensemble (ou reportez-vous au responsable désigné).
+5. Engagez-vous pleinement dans cette décision.
+6. Analyse après le match
 
-### Après l'erreur d'un coéquipier
+### Suite à une erreur d&#39;un coéquipier
 
 **Ce dont ils ont besoin :**
-- Reconnaissance rapide
-- Permission de passer à autre chose
-- Confiance que vous leur faites toujours confiance
-- Focus sur le prochain tir
+- Accusé de réception rapide
+- Autorisation de passer à autre chose
+- La confiance que vous leur faites encore confiance
+- Concentrez-vous sur le prochain lancer
 
-**Quoi dire :**
-- « Pas de problème, le prochain »
-- « Dur coup, tu as le prochain »
-- « On est toujours dedans »
-- *Parfois juste un hochement de tête ou une tape suffit*
+**Que dire :**
+- « Pas de problème, le suivant »
+- «Dur à toi, la suite t&#39;attend.»
+- «Nous sommes toujours dans le coup»
+- *Parfois, un simple signe de tête ou une tape suffit.*
 
-**Quoi NE PAS dire :**
-- Rien (le silence ressemble à un jugement)
-- « C'est bon » (peut sembler condescendant)
-- Quoi que ce soit sur ce qui s'est mal passé (pas maintenant)
+**Ce qu&#39;il ne faut PAS dire :**
+- Rien (le silence sonne comme un jugement)
+- &quot;Ça va&quot; (peut paraître dédaigneux)
+- Tout ce qui a mal tourné (pas maintenant)
 - Frustration visible (le langage corporel compte)
 
 ### Quand vous faites une erreur
 
-**Quoi faire :**
-- Reconnaissance brève (« Ma faute »)
-- Ne pas trop s'excuser
-- Ne pas faire d'excuses
-- Se réinitialiser et se concentrer sur le prochain tir
-- Faire confiance à vos coéquipiers pour vous soutenir
+**Ce qu&#39;il faut faire:**
+- Bref aveu (« Toutes mes excuses »)
+- Ne vous excusez pas excessivement.
+- Ne cherchez pas d&#39;excuses.
+- Réinitialisez-vous et concentrez-vous sur le prochain lancer.
+- Ayez confiance en vos coéquipiers pour vous soutenir.
 
-### Tension dans l'équipe
+### Tensions au sein de l&#39;équipe
 
-Si la tension monte pendant un jeu :
-1. Reconnaître que ça arrive
-2. Prendre une respiration avant de répondre
-3. Se concentrer sur le jeu, pas le conflit
-4. L'aborder correctement après le jeu
-5. Ne pas laisser ça affecter votre jeu
+Si la tension monte pendant un match :
+1. Prenez conscience que cela se produit.
+2. Respirez profondément avant de répondre.
+3. Concentrez-vous sur le jeu, pas sur le conflit.
+4. Abordez le sujet correctement après le match.
+5. Ne laissez pas cela affecter votre jeu
 
 ## Communication non verbale
 
-Une grande partie de la communication d'équipe est non verbale :
+Une grande partie de la communication au sein d&#39;une équipe est non verbale :
 
 ### Signaux positifs
-- Contact visuel
+- contact visuel
 - Hochement de tête
-- Pouce levé
+- J&#39;approuve
 - Posture détendue
-- Se déplacer vers les coéquipiers
-- Sourire (quand approprié)
+- Se rapprocher des coéquipiers
+- Sourire (le cas échéant)
 
-### Signaux négatifs (Éviter ceux-ci)
-- Rouler des yeux
-- Se détourner
+### Signaux négatifs (à éviter)
+- Levant les yeux au ciel
+- Se détournant
 - Bras croisés
-- Soupirer
-- Secouer la tête
-- Langage corporel tendu
+- Soupirs
+- Secouant la tête
+- langage corporel tendu
 
-**Rappelez-vous :** Vos coéquipiers voient tout. Votre langage corporel affecte leur confiance et leur performance.
+**N&#39;oubliez pas :** Vos coéquipiers voient tout. Votre langage corporel influence leur confiance et leurs performances.
 
-## Construire des habitudes de communication
+## Développer des habitudes de communication
 
 ### Pratiquer la communication
 
-N'attendez pas la compétition pour communiquer :
-- Pratiquer les discussions stratégiques à l'entraînement
-- Se donner régulièrement des retours
-- Développer votre langage d'équipe
-- Construire le confort avec une conversation honnête
+N’attendez pas que la concurrence communique :
+- Pratiquer les discussions stratégiques en formation
+- Donnez-vous régulièrement des retours constructifs.
+- Développez le langage de votre équipe
+- Instaurer un climat de confiance grâce à des conversations honnêtes
 
-### Développer des signaux d'équipe
+### Développer les signaux d&#39;équipe
 
-Certaines équipes développent une sténographie :
-- Signaux de main pour la stratégie
-- Mots de code pour les situations
-- Phrases rapides avec signification partagée
+Certaines équipes développent un langage abrégé :
+- Signaux manuels pour la stratégie
+- Des mots de code pour désigner des situations
+- Phrases courtes à signification partagée
 
-### Vérifications régulières
+### Contrôles réguliers
 
 En dehors des jeux :
 - Comment travaillons-nous ensemble ?
-- Qu'est-ce qui va bien ?
-- Qu'est-ce qui pourrait être mieux ?
-- Des problèmes à aborder ?
+- Qu&#39;est-ce qui se passe bien ?
+- Que demander de plus ?
+- Des problèmes à signaler ?
 
 ## Le rôle du capitaine
 
-Si votre équipe a un leader désigné :
+Si votre équipe a un chef désigné :
 
-**Responsabilités du capitaine :**
-- Décision finale quand l'équipe n'est pas d'accord
-- Donner le ton et l'énergie
-- Gérer la dynamique d'équipe
-- Maintenir le focus pendant la pression
+**Responsabilités du capitaine :**
+- Décision finale en cas de désaccord au sein de l&#39;équipe
+- Donner le ton et l&#39;énergie
+- Gérer la dynamique d&#39;équipe
+- Rester concentré sous pression
 
-**Tous les autres :**
-- Partager votre perspective
+**Tous les autres:**
+- Partagez votre point de vue
 - Soutenir la décision une fois prise
-- Aider à maintenir l'énergie de l'équipe
-- Prendre la responsabilité de votre rôle
+- Contribuer à maintenir l&#39;énergie de l&#39;équipe
+- Assumez votre rôle
 
-## Point clé
+## Points clés à retenir
 
-> Les grandes équipes se parlent entre elles, pas les unes des autres. Elles communiquent avec honnêteté, respect et un engagement partagé vers le succès.
+> Les grandes équipes communiquent entre elles, elles ne parlent pas les unes des autres. Elles communiquent avec honnêteté, respect et un engagement commun envers la réussite.
 
-Pratiquez la communication comme vous pratiquez le tir. C'est une compétence qui s'améliore avec l'attention.
+Entraînez-vous à communiquer comme vous vous entraînez à lancer des balles. C&#39;est une compétence qui s&#39;améliore avec l&#39;attention.
 

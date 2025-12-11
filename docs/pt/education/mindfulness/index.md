@@ -1,119 +1,195 @@
-# Mindfulness para jogadores de pétanque
+# Atenção plena para jogadores de petanca
 
-Mindfulness é uma das ferramentas mais poderosas disponíveis para atletas. Não é místico ou complicado - é simplesmente a prática de prestar atenção ao momento presente sem julgamento.
+A atenção plena é uma das ferramentas mais poderosas disponíveis para atletas. Não é algo místico ou complicado – é simplesmente a prática de prestar atenção ao momento presente sem julgamento.
 
-## O que é mindfulness?
+::: tip O princípio fundamental
+**A atenção plena não se trata de esvaziar a mente. Trata-se de escolher onde concentrar sua atenção.** Você não pode impedir que os pensamentos surjam, mas pode escolher não segui-los.
+:::
 
-Mindfulness significa estar completamente presente e consciente de:
+```mermaid
+graph TD
+    A[O pensamento surge] --> B{Notice it?}
+    B -->|No - Autopilot| C[Deixe-se levar pelos pensamentos]
+    B -->|Yes - Mindful| D[Observe sem julgar.]
+
+    C --> E[Reação emocional]
+    E --> F[O desempenho fica prejudicado]
+
+    D --> G[Deixa para lá]
+    G --> H[Voltar ao presente]
+    H --> I[Mantenha o foco]
+
+    style C fill:#ffcdd2
+    style E fill:#ffcdd2
+    style F fill:#ffcdd2
+    style D fill:#c8e6c9
+    style G fill:#c8e6c9
+    style I fill:#c8e6c9
+```
+
+## O que é Mindfulness?
+
+Mindfulness significa estar totalmente presente e consciente de:
 - Onde você está
 - O que você está fazendo
-- Como você está se sentindo
+- Como você está se sentindo?
 
-...sem ser sobrecarregado pelo que está acontecendo ao seu redor ou reagir a isso.
+...sem se sentir sobrecarregado pelo que está acontecendo ao seu redor ou reagir de forma impulsiva a isso.
 
-Para jogadores de pétanque, isso se traduz em:
-- Estar completamente presente para cada lançamento
-- Notar pensamentos sem ficar preso neles
+Para os jogadores de petanca, isso se traduz em:
+- Estar totalmente presente em cada arremesso.
+- Perceber os pensamentos sem se deixar levar por eles.
 - Recuperar-se rapidamente de erros
 - Manter a calma sob pressão
 
-## A ciência por trás
+## A ciência por trás disso
 
-Mindfulness não é apenas filosofia - é apoiado por pesquisa sólida:
+Mindfulness não é apenas filosofia – é respaldado por pesquisas sólidas:
 
 ### Efeitos no seu cérebro
 - **Reduz a atividade na amígdala** (o sistema de alarme do seu cérebro)
-- **Fortalece o córtex pré-frontal** (tomada de decisão e foco) - isso ajuda você a pensar claramente durante o planejamento
-- **Melhora sua capacidade de acalmar a mente** quando necessário - essencial para acessar o estado de flow durante a execução
-- **Melhora as conexões** entre regiões cerebrais
-- **Cria mudanças estruturais duradouras** com prática regular
+- **Fortalece o córtex pré-frontal** (tomada de decisões e foco) - isso ajuda você a pensar com clareza durante o planejamento.
+- **Aprimora sua capacidade de aquietar a mente** quando necessário - essencial para acessar o estado de fluxo durante a execução.
+- **Melhora as conexões** entre as regiões do cérebro
+- **Proporciona mudanças estruturais duradouras** com a prática regular.
 
 ### Efeitos no desempenho
-| Benefício | Como ajuda seu jogo |
+| Beneficiar | Como isso ajuda no seu jogo |
 |---------|----------------------|
-| Redução de estresse | Cortisol mais baixo, mãos mais firmes |
-| Melhor foco | Menos distrações, decisões mais claras |
-| Controle emocional | Não deixe lançamentos ruins piorarem |
-| Recuperação mais rápida | Recuperar-se de erros rapidamente |
-| Sono melhorado | Melhor descanso, melhor desempenho |
+| Redução do estresse | Cortisol mais baixo, mãos mais firmes |
+| Melhor foco | Menos distrações, decisões mais claras. |
+| Controle emocional | Não deixe que lançamentos ruins se agravem. |
+| Recuperação mais rápida | Recuperar-se rapidamente dos erros |
+| Melhora do sono | Melhor descanso, melhor desempenho. |
 
-## Por que jogadores de pétanque precisam de mindfulness
+## Por que os jogadores de petanca precisam de atenção plena?
 
-Pétanque tem desafios mentais únicos:
+A petanca tem desafios mentais únicos:
 
-1. **Tempo entre lançamentos** - Muita oportunidade para pensamentos negativos
-2. **Erros visíveis** - Todos veem quando você erra
-3. **Pressão da equipe** - Seu lançamento afeta seus parceiros
-4. **Competições longas** - Fadiga mental por muitas horas
-5. **Jogos apertados** - Alta pressão em momentos decisivos
+1. **Tempo entre os lançamentos** - Muitas oportunidades para pensamentos negativos.
+2. **Erros visíveis** - Todos percebem quando você erra.
+3. **Pressão da equipe** - Seu arremesso afeta seus parceiros
+4. **Competições longas** - Fadiga mental ao longo de muitas horas
+5. **Jogos equilibrados** - Alta pressão nos momentos decisivos
 
-Mindfulness ajuda você a lidar com tudo isso.
+A atenção plena ajuda você a lidar com tudo isso.
 
-## A habilidade central: consciência sem julgamento
+## A habilidade essencial: Consciência sem julgamento
 
-A palavra-chave é "sem julgamento."
+A palavra-chave é &quot;sem julgamento&quot;.
 
-**Pensamento com julgamento:**
-- "Esse foi um lançamento terrível"
-- "Eu sempre erro esses"
-- "Meus companheiros de equipe devem estar frustrados"
+::: danger Pensamento crítico (Acrescenta peso emocional)
+❌ &quot;Que arremesso terrível&quot;
+❌ &quot;Sempre sinto falta disso&quot;
+❌ &quot;Meus colegas de equipe devem estar frustrados&quot;
 
-**Consciência sem julgamento:**
-- "O lançamento foi à esquerda do alvo"
-- "Noto que estou me sentindo tenso"
-- "Minha mente está vagando para o placar"
+**Resultado:** Espiral de emoções negativas, tensão, pior desempenho
+:::
 
-A diferença? Julgamento adiciona peso emocional. Consciência apenas observa.
+::: tip Consciência sem julgamento (apenas observa)
+✅ &quot;O arremesso foi para a esquerda do alvo&quot;
+✅ &quot;Percebo que estou me sentindo tenso&quot;
+✅ &quot;Minha mente está divagando ao som da partitura&quot;
+
+**Resultado:** Observação clara, recuperação, manutenção do foco
+:::
+
+**Qual a diferença?** O julgamento adiciona peso emocional e desencadeia reações. A consciência apenas observa e permite que você responda com habilidade.
 
 ## Começando
 
 Você não precisa de horas de meditação. Comece com estas práticas simples:
 
-### 1. Respiração consciente (2 minutos)
-- Sente-se confortavelmente
-- Foque na sua respiração
-- Quando sua mente vagar (vai vagar), volte gentilmente à respiração
-- Sem julgamento sobre vagar - apenas volte
+### 1. Respiração Consciente (2 minutos)
+- Sente-se confortavelmente.
+- Concentre-se na sua respiração.
+- Quando sua mente divagar (e ela vai divagar), gentilmente retorne à respiração.
+- Sem julgamentos por se perder - apenas retorne.
 
-### 2. Varredura corporal (5 minutos)
-- Note sensações em seus pés
-- Mova lentamente a atenção para cima através do seu corpo
-- Apenas observe - não tente mudar nada
-- Note áreas de tensão sem lutar contra elas
+### 2. Escaneamento Corporal (5 minutos)
+- Preste atenção às sensações nos seus pés.
+- Mova lentamente a atenção para cima, percorrendo todo o seu corpo.
+- Apenas observe - não tente mudar nada.
+- Perceba as áreas de tensão sem lutar contra elas.
 
-### 3. Momentos mindful
-- Escolha uma atividade cotidiana (beber café, caminhar)
-- Faça com atenção total
-- Note todas as sensações envolvidas
-- Quando sua mente vagar, volte à atividade
+### 3. Momentos de Atenção Plena
+- Escolha uma atividade do dia a dia (tomar café, caminhar).
+- Faça isso com total atenção.
+- Preste atenção a todas as sensações envolvidas.
+- Quando sua mente divagar, retorne à atividade.
 
-## Mindfulness em competição
+## Atenção plena na competição
 
 ### Antes do jogo
-- Reserve 2-3 minutos para respiração consciente
-- Estabeleça uma intenção de como você quer jogar (não resultado, mas processo)
-- Note qualquer nervosismo sem tentar eliminá-lo
+- Reserve de 2 a 3 minutos para respirar conscientemente.
+- Defina uma intenção de como você quer jogar (não o resultado, mas o processo).
+- Observe qualquer sinal de nervosismo sem tentar eliminá-lo.
 
 ### Durante o jogo
-- Use sua rotina pré-lançamento como âncora de mindfulness
-- Entre lançamentos, retorne a atenção ao presente
-- Note pensamentos sobre placar/resultado, depois deixe-os ir
+- Use sua rotina pré-ensaio como uma âncora de atenção plena.
+- Entre os lançamentos, volte a atenção para o presente.
+- Observe os pensamentos sobre a pontuação/resultado e, em seguida, deixe-os ir.
 
 ### Após erros
-Use o **método SOAS**:
-- **S**top (Pare) - Pause antes de reagir
-- **O**bserve (Observe) - O que aconteceu? O que estou sentindo?
-- **A**ccept (Aceite) - Aconteceu. Está feito.
-- **S**lip (Solte) - Libere, volte ao agora
+
+::: warning O Método SOAS (Sua Ferramenta de Reinicialização)
+**Pare** - Faça uma pausa antes de reagir.
+**Observe** - O que aconteceu? O que estou sentindo?
+**A**ccept - Aconteceu. Está feito.
+**S**lip (Solte) - Liberte-se, retorne ao agora
+
+**Tempo necessário:** 10 segundos
+**Use-o:** Após cada erro, rebatida ruim ou momento frustrante.
+:::
+
+```mermaid
+graph LR
+    A[Erro] --> B[PARAR]
+    B --> C[OBSERVAR]
+    C --> D[ACEITAR]
+    D --> E[ESCORREGAR/Soltar]
+    E --> F[Voltar ao presente]
+    F --> G[Pronto para o próximo arremesso]
+
+    style A fill:#ffcdd2
+    style B fill:#fff9c4
+    style C fill:#fff9c4
+    style D fill:#fff9c4
+    style E fill:#c8e6c9
+    style F fill:#c8e6c9
+    style G fill:#a5d6a7
+```
 
 ## Nesta seção
 
-- **[Técnicas](/pt/education/mindfulness/techniques)** - Exercícios práticos que você pode usar
-- **[Prática diária](/pt/education/mindfulness/daily-practice)** - Incorporar mindfulness em sua vida
+- **[Técnicas](/en/education/mindfulness/techniques)** - Exercícios práticos que você pode usar
+- **[Prática Diária](/en/education/mindfulness/daily-practice)** - Incorporando a atenção plena à sua vida
 
-## Conclusão chave
+## Resumo: Regras da Atenção Plena
 
-> Mindfulness não é sobre esvaziar sua mente. É sobre escolher onde colocar sua atenção.
+::: tip Regra nº 1: A Regra da Consciência
+**Observe sem julgar.**
+Observe os pensamentos e sentimentos sem rotulá-los como bons ou ruins.
+:::
 
-Você não pode impedir que pensamentos surjam. Mas você pode escolher não segui-los pela toca do coelho.
+::: tip Regra nº 2: A Regra SOAS
+**Pare, observe, aceite, deslize (solte).**
+Sua pausa de 10 segundos após erros. Use-a sempre.
+:::
+
+::: tip Regra nº 3: A Regra Atual
+**Você só pode controlar este momento, este arremesso.**
+Os lançamentos passados já se foram. Os lançamentos futuros ainda não existem. Esteja aqui agora.
+:::
+
+::: tip Regra nº 4: A Regra da Prática
+**Comece devagar: 2 a 5 minutos por dia.**
+A consistência supera a duração. A prática diária aprimora a habilidade.
+:::
+
+## Ponto-chave
+
+> Mindfulness não significa esvaziar a mente. Significa escolher onde concentrar sua atenção.
+
+Você não pode impedir que os pensamentos surjam. Mas pode escolher não segui-los até o fundo do poço.
 

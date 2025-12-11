@@ -1,149 +1,172 @@
-# Att vara en fantastisk lagspelare
+# Att vara en bra lagspelare
 
-Pétanque spelas ofta i lag - dubbel (doublettes) eller trippel (triplettes). Individuell skicklighet spelar roll, men lagdynamik kan göra eller bryta dina resultat. De bästa lagen är inte alltid de mest skickliga - de är de som arbetar bäst tillsammans.
+Boule spelas ofta i lag – dubbel (dublettes) eller trippel (triplettes). Individuell skicklighet spelar roll, men lagdynamik kan avgöra resultatet. De bästa lagen är inte alltid de skickligaste – det är de som fungerar bäst tillsammans.
 
-## Vad gör en fantastisk lagkamrat?
+::: tip Den stora idén
+**De bästa lagen är inte alltid de skickligaste – det är de som fungerar bäst tillsammans.** Att vara ödmjuk, hungrig och känslomässigt smart gör dig till en bra lagkamrat.
+:::
 
-Forskning och erfarenhet pekar på tre nyckelkvaliteter:
+```mermaid
+graph TD
+    A[Bra lagkamrat] --> B[Ödmjuka]
+    A --> C[Hungrig]
+    A --> D[Smart]
+
+    B --> E[Lagets framgång]
+    C --> E
+    D --> E
+
+    E --> F[Mästerskapsprestanda]
+
+    style A fill:#e8f5e9
+    style B fill:#e3f2fd
+    style C fill:#fff4e1
+    style D fill:#f3e5f5
+    style F fill:#fff4e1
+```
+
+## Vad kännetecknar en bra lagkamrat?
+
+Forskning och erfarenhet pekar på tre viktiga egenskaper:
 
 ### 1. Ödmjuk
-- Prioriterar lagets framgång över personlig ära
-- Erkänner andras bidrag
+- Prioriterar lagets framgång framför personlig ära
+- Uppskattar andras bidrag
 - Erkänner misstag utan ursäkter
 - Öppen för feedback och lärande
 - Behöver inte vara stjärnan
 
 ### 2. Hungrig
 - Självmotiverad och driven
-- Gör arbetet utan att bli ombedd
-- Söker alltid förbättring
+- Gör jobbet utan att bli tillfrågad
+- Alltid strävar efter att förbättra
 - Ger energi till laget
-- Vilar inte på talang
+- Löser inte på talang
 
-### 3. Smart (Emotionellt)
+### 3. Smart (känslomässigt)
 - Läser situationer och människor väl
 - Vet när man ska tala och när man ska lyssna
 - Hanterar sina egna känslor
-- Stödjer lagkamrater på lämpligt sätt
-- Hanterar konflikt konstruktivt
+- Stödjer lagkamraterna på lämpligt sätt
+- Hanterar konflikter konstruktivt
 
-## Grunderna för lagframgång
+## Grunden för teamframgång
 
-### Delade mål och vision
+### Gemensamma mål och vision
 
 Starka lag har:
 - Tydliga, överenskomna mål
-- Individuella mål anpassade till lagmål
-- Delad förståelse för hur framgång ser ut
+- Individuella mål i linje med lagets mål
+- Gemensam förståelse för hur framgång ser ut
 - Engagemang för det kollektiva uppdraget
 
-**Frågor att diskutera med ditt lag:**
+**Frågor att diskutera med ditt team:**
 - Vad försöker vi uppnå tillsammans?
 - Hur ser framgång ut för oss?
 - Hur stödjer våra individuella mål laget?
 
 ### Effektiv kommunikation
 
-Kommunikation är livsnerven i lagprestationer.
+Kommunikation är livsnerven för ett lags prestation.
 
-**Bra lagkommunikation:**
+**Bra teamkommunikation:**
 - Öppen och ärlig
-- Respektfull, även i oenighet
+- Respektfull, även vid oenighet
 - Tydlig och specifik
-- Tvåvägs (tala OCH lyssna)
+- Tvåvägs (talar OCH lyssnar)
 - Aktuell (rätt information vid rätt tidpunkt)
 
 **Under matcher:**
 - Diskutera strategi före varje omgång
 - Dela observationer om terräng, motståndare
-- Koordinera vem som kastar när
+- Samordna vem som kastar när
 - Stöd varandra efter kast (bra eller dåliga)
 
 ### Förtroende och respekt
 
 Utan förtroende faller lag isär under press.
 
-**Bygga förtroende:**
+**Bygg förtroende:**
 - Var pålitlig (gör vad du säger)
-- Var kompetent (gör ditt jobb väl)
+- Var kompetent (gör ditt jobb bra)
 - Var ärlig (även när det är svårt)
 - Visa sårbarhet (erkänn svårigheter)
 - Stöd andra konsekvent
 
 **Visa respekt:**
-- Värdera varje persons bidrag
+- Värdesätt varje persons bidrag
 - Lyssna på olika perspektiv
-- Erkänn ansträngning, inte bara resultat
-- Behandla allas roll som viktig
+- Erkänn ansträngningar, inte bara resultat
+- Betrakta allas roll som viktig
 
 ### Tydliga roller
 
-Alla bör förstå:
-- Deras primära ansvar
+Alla borde förstå:
+- Deras primära ansvarsområden
 - Hur de bidrar till laget
 - Vad andra räknar med dem för
-- När man ska kliva fram och när man ska kliva tillbaka
+- När man ska ta ett steg framåt och när man ska ta ett steg tillbaka
 
 **I trippel:**
-| Roll | Primärt fokus | Nyckelkvaliteter |
+| Roll | Primärt fokus | Viktiga egenskaper |
 |------|--------------|---------------|
-| Pekare | Placera kulor nära cochonnet | Precision, konsistens |
-| Mittfält | Anpassa till situation | Mångsidighet, läsa spelet |
-| Skytt | Ta bort motståndarkulor | Noggrannhet under press |
+| Pekare | Placera boule nära jacken | Precision, konsekvens |
+| Mitten | Anpassa dig till situationen | Mångsidighet, lässpel |
+| Skjutskytte | Ta bort motståndarens klot | Noggrannhet under press |
 
 Roller kan vara flexibla, men tydlighet hjälper.
 
 ## Lagdynamik under tävling
 
 ### Före matchen
-- Ankomma tillsammans, värma upp tillsammans
-- Diskutera allmän strategi
+- Kom tillsammans, värm upp tillsammans
+- Diskutera den allmänna strategin
 - Sätt tonen (positiv, fokuserad)
-- Kolla hur alla mår
+- Kolla in hur alla mår
 
-### Under matchen
-- Kommunicera mellan omgångar
-- Håll dig positiv oavsett poängställning
-- Stöd varandra efter misstag
-- Fira framgångar tillsammans (kort)
-- Håll fokus på process, inte utfall
+### Under spelet
+- Kommunicera mellan ändarna
+- Var positiv oavsett poäng
+- Stödja varandra efter misstag
+- Fira framgångar tillsammans (kortfattat)
+- Håll fokus på processen, inte resultatet
 
 ### Efter misstag
 Vad man INTE ska göra:
-- Visa frustration synligt
-- Kritisera eller skylla
-- Dra sig tillbaka eller bli tyst
-- Dröja kvar vid vad som hände
+- Visa synligt frustration
+- Kritisera eller skylla på
+- Dra dig tillbaka eller bli tyst
+- Tänk på vad som hände
 
 Vad man ska göra:
-- Snabbt erkännande ("inget problem")
+- Snabb bekräftelse (&quot;inga problem&quot;)
 - Flytta fokus till nästa kast
-- Upprätthåll positivt kroppsspråk
+- Behåll ett positivt kroppsspråk
 - Lita på att din lagkamrat återhämtar sig
 
 ### Efter matchen
-- Debrief tillsammans (vad fungerade, vad gjorde inte)
+- Genomgång gemensamt (vad fungerade, vad fungerade inte)
 - Erkänn individuella bidrag
-- Diskutera förbättringar till nästa gång
-- Upprätthåll relationer oavsett resultat
+- Diskutera förbättringar inför nästa gång
+- Behåll relationer oavsett resultat
 
 ## Kommunikationsmönster
 
 ### Konstruktiv feedback
-**Dålig:** "Du fortsätter missa de kasten"
-**Bättre:** "Jag märkte att kasten går åt vänster - vill du prova att justera din hållning?"
+**Dåligt:** &quot;Du missar de där skotten hela tiden&quot;
+**Bättre:** &quot;Jag märkte att slagen går åt vänster – vill du försöka justera din hållning?&quot;
 
-### Stödjande respons på misstag
+### Stödjande svar på misstag
 **Dålig:** *Tystnad eller synlig frustration*
-**Bättre:** "Svår. Du har nästa."
+**Bättre:** &quot;Svårt. Du har nästa.&quot;
 
 ### Strategisk diskussion
-**Dålig:** "Bara skjut det"
-**Bättre:** "Vad tänker du - peka för att blockera eller försöka skjuta? Jag ser för- och nackdelar med båda."
+**Dåligt:** &quot;Skjut bara&quot;
+**Bättre:** &quot;Vad tycker du - att point blockera eller att försöka skjuta? Jag ser för- och nackdelar åt båda hållen.&quot;
 
 ## Bygga lagkultur
 
-Fantastiska lag utvecklar delad:
+Bra team utvecklas gemensamt:
 - **Värderingar:** Vad vi står för
 - **Normer:** Hur vi beter oss
 - **Språk:** Hur vi kommunicerar
@@ -151,15 +174,15 @@ Fantastiska lag utvecklar delad:
 
 **Exempel:**
 - Skaka alltid hand före och efter
-- Specifika uppmuntransfraser
-- Före-match rutin tillsammans
-- Efter-match måltid eller dryck
+- Specifika uppmuntrande fraser
+- Rutin tillsammans före matchen
+- Måltid eller dryck efter matchen
 
 ## I detta avsnitt
 
-- **[Lagkommunikation](/sv/education/team-player/communication)** - Detaljerad guide för att kommunicera effektivt
+- **[Teamkommunikation](/sv/utbildning/lagspelare/kommunikation)** - Detaljerad guide till effektiv kommunikation
 
-## Nyckelpunkt
+## Viktig slutsats
 
 > Ditt lag är bara så starkt som dess svagaste relation, inte dess svagaste spelare.
 

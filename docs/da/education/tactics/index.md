@@ -1,209 +1,300 @@
-# Taktisk tænkning i pétanque
+# Taktisk tænkning i petanque
 
-På eliteniveau antages teknisk færdighed. Det der adskiller vindere fra resten er taktisk intelligens - at vide hvilket kast man skal forsøge og hvornår. De bedste spillere læser spillet flere træk frem og udnytter enhver fordel.
+På eliteniveau forudsættes teknisk færdighed. Det, der adskiller vindere fra resten, er taktisk intelligens - at vide, hvilket kast man skal forsøge, og hvornår. De bedste spillere læser spillet flere træk fremad og udnytter enhver fordel.
+
+::: tip Kerneprincippet
+**På eliteniveau er forskellen sjældent teknikken - det er beslutningstagningen.** Det hold, der laver færrest taktiske fejl, vinder.
+:::
+
+## Hurtig beslutningsramme
+
+```mermaid
+graph TD
+    A[Din tur] --> B{Are you holding?}
+    B -->|Yes| C{Opponent has boules?}
+    B -->|No| D{Can you point closer?}
+
+    C -->|Yes| E[Vent og planlæg]
+    C -->|No| F{Safe to add points?}
+
+    F -->|Yes| G[Tilføj point omhyggeligt]
+    F -->|No| H[Spil sikkert/bloker]
+
+    D -->|Yes, high %| I[Punkt]
+    D -->|Måske| J{Can you shoot?}
+    D -->|No| K[Flyt donkraft eller blok]
+
+    J -->|Yes, >60%| L[Skud]
+    J -->|No| K
+
+    style B fill:#e3f2fd
+    style C fill:#e3f2fd
+    style D fill:#fff3e0
+    style F fill:#fff3e0
+    style J fill:#ffebee
+```
 
 ## Den taktiske tankegang
 
 ### Tænk i sandsynligheder
 
 Hvert kast har en sandsynlighed for succes. God taktik betyder at vælge kast hvor:
-- Succesandsynligheden er høj nok
+- Sandsynligheden for succes er høj nok
 - Belønningen retfærdiggør risikoen
-- Fiasko ikke gør for ondt
+- Fiasko gør ikke for ondt
 
-**Eksempel beslutning:**
-- Svært skud: 40% succes, vinder 3 point
-- Sikkert point: 80% succes, vinder 1 point
+**Eksempel på afgørelse:**
+- Svært skud: 40% succes, får 3 point
+- Sikkerhedspoint: 80% succes, opnår 1 point
 
-Hvilket er bedre? Det afhænger af scoren, situationen og dit selvtillid.
+Hvilken er bedst? Det afhænger af resultatet, situationen og din selvtillid.
 
 ### Overvej alle muligheder
 
-Før hvert kast, overvej:
-1. **Point:** Placer en kugle nær cochonnet
+Overvej følgende før hvert kast:
+1. **Point:** Placer en kugle nær målkuglen
 2. **Skyd:** Fjern en modstanders kugle
-3. **Bloker:** Placer en kugle for at obstruere
-4. **Flyt cochonnet:** Bevidst ramme cochonnet
-5. **Offer:** Accepter en dårlig position for at sætte op senere
+3. **Blokering:** Placer en kugle for at blokere
+4. **Flyt donkraften:** Ramte donkraften med vilje
+5. **Offer:** Accepter en dårlig position for at etablere dig senere
 
-Gå ikke automatisk til det åbenlyse valg. Tænk gennem alternativer.
+Vælg ikke det oplagte valg som standard. Tænk over alternativer.
 
 ### Læs situationen
 
 Faktorer at overveje:
 - Nuværende score (hvem er foran, med hvor meget)
-- Kugler tilbage (dine og deres)
+- Tilbageværende boules (dine og deres)
 - Position på terrænet
-- Modstander tendenser
+- Modstanderens tendenser
 - Dit holds styrker
 
 ## Kernetaktiske principper
 
-### Princip 1: Kontroller cochonnet
+::: tip De 6 taktiske principper
+1. **Kontroller donkraften** - Position er magt
+2. **Afstands- og overfladestrategi** - Tilpas dig til forholdene
+3. **Diktér spillestilen** - Tving dine styrker frem
+4. **Håndtér risiko vs. belønning** - Match risiko med situation
+5. **Brug boules klogt** - Giver nogle gange 1 bold væk for at undgå 3
+6. **Tænk fremad** - Visualiser de næste 2-3 træk
+:::
 
-Holdet der kontrollerer cochonnet positionen har en betydelig fordel.
+### Princip 1: Styr donkraften
+
+Holdet, der kontrollerer donkraftens position, har en betydelig fordel.
 
 **Måder at kontrollere:**
-- Vind retten til at kaste cochonnet
-- Flyt cochonnet til gunstigt terræn
-- Beskyt cochonnet mod at blive flyttet
+- Vind retten til at kaste målscoren
+- Flyt donkraften til et gunstigt terræn
+- Beskyt donkraften mod at blive flyttet
 
-**Cochonnet placeringsstrategi:**
-- Kort cochonnet: Favoriserer skydning, lettere at ramme mål på kort afstand
-- Langt cochonnet: Favoriserer pointing, skydning bliver sværere
+**Strategi for placering af knægte:**
+- Kort jack: Foretrækker at skyde, lettere at ramme mål på tæt hold
+- Langt stik: Foretrækker at pege, det bliver vanskeligere at skyde
 - Nær forhindringer: Skaber udfordringer for modstandere
 
-**Udnyt modstander svagheder:**
-- Observér deres pointing teknik - bruger de altid samme bue eller stil?
-- Hvis de ikke kan tilpasse sig (f.eks. kun rulle, kun lobbe), placer cochonnet for at tvinge ubehagelige kast
-- Placer cochonnet på afstande eller positioner der afslører deres begrænsninger
-- Udnyt kun en svaghed hvis du ikke deler den - overvej dit eget holds styrker først
+**Udnyt modstanderens svagheder:**
+- Observer deres pegeteknik - bruger de altid den samme bue eller stil?
+- Hvis de ikke kan tilpasse sig (f.eks. kun rulle, kun lobbe), så placer målgriben for at fremtvinge ubehagelige kast.
+- Placer donkraften i afstande eller positioner, der afdækker dens begrænsninger
+- Udnyt kun en svaghed, hvis du ikke deler den - overvej først dit eget teams styrker.
 
 ### Princip 2: Afstands- og overfladestrategi
 
-Den optimale balance mellem pointing og skydning afhænger stærkt af afstand og terræn:
+Den optimale balance mellem at sigte og skyde afhænger i høj grad af afstand og terræn:
 
-**Kort afstand (6-7m):**
-- Favoriser skydning oftere
-- Lettere at ramme mål på kort afstand
-- Pointing fordel er mindre
+::: info Afstandsstrategi
+**Kort (6-7m):** Foretrækker at skyde - lettere at ramme på tæt hold
+**Mellem (7-9 m):** Overfladen er vigtigst
+- Glat overflade → optag mere
+- Ru overflade → peg mere
 
-**Mellem afstand (7-9m):**
-- Overfladen betyder mest her
-- Let/glat overflade → skyd mere (godt fodfæste, forudsigelige hop)
-- Hård/ru overflade → point mere (skydning bliver mindre pålidelig)
+**Lang (9-11 m):** Foretrækker at pege - skudpræcisionen falder betydeligt
+:::
 
-**Lang afstand (9-11m):**
-- Favoriser pointing over skydning
-- Skydningsnøjagtighed falder betydeligt på afstand
-- Skyd kun hvis du har en meget høj succesrate eller ingen anden mulighed
+```mermaid
+graph LR
+    A[Afstand] --> B[6-7 m kort]
+    A --> C[7-9m Mellem]
+    A --> D[9-11 m lang]
 
-**Din personlige skydningsprocent:**
-- Hvis du skyder med 75%+ succesrate, skyd oftere
-- Overvej at skyde for at reducere modstanderens point (selv hvis ikke tager føringen)
-- Skydning for at reducere modstanderens scorende kugler (fra 3 ned til 1) er værdifuld skadeskontrol
+    B --> E[Skyd mere]
+    C --> F{Surface?}
+    D --> G[Point More]
 
-**Skydning som langsigtet strategi:**
-- Hvis du skyder med alle dine kugler, overvej din kumulative succesrate
-- Beregn: når du rammer alle skud, vinder du betydeligt flere point
+    F -->|Smooth| H[Skyd mere]
+    F -->|Rough| I[Point More]
+
+    style E fill:#ffcdd2
+    style H fill:#ffcdd2
+    style I fill:#c8e6c9
+    style G fill:#c8e6c9
+```
+
+**Din personlige skudprocent:**
+- Hvis du skyder med en succesrate på 75%+, så skyd oftere
+- Overvej at skyde for at reducere modstanderens point (selvom du ikke tager føringen)
+- At skyde for at reducere modstanderens scoringskugler (fra 3 ned til 1) er værdifuld skadekontrol.
+
+**Skydning som en langsigtet strategi:**
+- Hvis du skyder med alle dine kugler, så overvej din samlede succesrate
+- Beregn: Når du rammer alle slag, får du betydeligt flere point
 - Selv at misse nogle skud kan reducere modstanderens point
-- Eksempel: Miss 1-2 skud men fjern stadig trusler, vind derefter stort når du rammer alle
-- Dette er en beregnet risiko - accepter nogle tabte ender for større gevinster når det virker
+- Eksempel: Bom 1-2 skud, men fjern stadig trusler, og vind så stort, når du rammer alle
+- Dette er en kalkuleret risiko - accepter nogle tabte gevinster for større gevinster, når det virker
 
-### Princip 3: Dikter spillestilen
+### Princip 3: Diktér spillestilen
 
-På eliteniveau kan de fleste spillere både pointe og skyde godt. Nøglen er at tvinge spillet ind i dit holds stærkeste stil.
+På eliteniveau kan de fleste spillere både pege og skyde godt. Nøglen er at tvinge spillet ind i dit holds stærkeste stil.
 
 **Hvis dit hold har stærke skytter:**
-- Skyd så meget som muligt - brug din fordel
-- Spild ikke din styrke ved at pointe når du kan dominere ved at skyde
-- Kontroller spillet ved at fjerne trusler før de akkumuleres
-- Kort til mellem cochonnet holder skydning effektiv
+- Skyd så meget som muligt - udnyt din fordel
+- Spild ikke din styrke ved at pege, når du kan dominere ved at skyde
+- Styr spillet ved at fjerne trusler, før de ophobes
+- Kort til mellemstort stik sikrer effektiv optagelse
 
-**Mod lige stærke skytter:**
-- Nægt dem lette mål ved at skyde først
-- Spil på lang afstand for at reducere alles skydningsprocent
-- Holdet der skyder først kontrollerer ofte enden
+**Mod lige så stærke skytter:**
+- Negér dem som lette mål ved at skyde først
+- Spil på lang afstand for at reducere alles skudprocent
+- Det hold, der skyder først, styrer ofte slutningen
 
-**Hvis modstandere overskyder dig:**
-- Spil langt cochonnet konsekvent - selv elite skytter falder i procent ved 10m+
-- Tving en pointing kamp hvor du kan konkurrere
-- Få dem til at skyde i vanskelige vinkler eller gennem forhindringer
+**Hvis modstandere skyder bedre end dig:**
+- Spil konsekvent med long jack - selv eliteskytter taber procent ved 10m+
+- Tving en pointkamp frem, hvor du kan konkurrere
+- Få dem til at skyde fra vanskelige vinkler eller gennem forhindringer
 
 ### Princip 4: Håndter risiko vs. belønning
 
 | Situation | Risikotolerance |
 |-----------|---------------|
-| Foran komfortabelt | Lav - beskyt dit forspring |
-| Tæt kamp | Mellem - beregnede risici |
-| Bagud betydeligt | Høj - skal tage chancer |
-| Sidste ende | Afhænger af scoreforskel |
+| Komfortabelt fremad | Lav - beskyt din ledning |
+| Luk spillet | Mellemstore - beregnede risici |
+| Bagud betydeligt | Høj - behov for at tage chancer |
+| Endelig afslutning | Afhænger af scoreforskellen |
 
-### Princip 5: Brug dine kugler klogt
+### Princip 5: Brug dine boules klogt
 
-Kuglehåndtering adskiller elitespillere:
-- Når modstander løber tør for kugler, beslut omhyggeligt: tilføj point eller spil sikkert?
-- Når bagud, beregn om du realistisk kan tage pointet tilbage
-- Nogle gange er det bedre at indrømme 1 point end at spilde kugler og give 3
+Boule-ledelse adskiller elitespillere:
+- Når modstanderen løber tør for kugler, så vælg omhyggeligt: læg point til eller spil sikkert?
+- Når du er bagud, så beregn om du realistisk set kan tage pointet tilbage
+- Nogle gange er det bedre at give 1 point væk end at spilde kugler og give 3 væk
 - Hold styr på resterende kugler - dine og deres - til enhver tid
 
-### Princip 6: Tænk flere træk frem
+### Princip 6: Tænk flere skridt fremad
 
-Elite tænkning:
-- Før kast, visualiser de næste 2-3 kugler fra begge hold
-- Hvad er din modstanders bedste respons hvis du lykkes? Hvis du fejler?
-- Hvordan sætter dette kast dit næste op?
-- Overvej slutspilsscenarie fra nuværende position
+Elitetankegang:
+- Før du kaster, visualiser de næste 2-3 kugler fra begge hold
+- Hvad er din modstanders bedste reaktion, hvis du lykkes? Hvis du fejler?
+- Hvordan forbereder dette kast dig på dit næste?
+- Overvej slutspillets scenarie fra den nuværende position
 
 ## Almindelige taktiske situationer
 
-### Du holder og modstander har kugler tilbage
+### Du holder, og modstanderen har kugler tilbage
 
-Du skal vente - det er deres tur at kaste. Brug denne tid til at:
-- Analysere hvad de sandsynligvis vil gøre
-- Planlægge dit svar på deres mulige kast
-- Forblive fokuseret og klar
+Du skal vente - det er deres tur til at kaste. Brug denne tid til at:
+- Analyser hvad de sandsynligvis vil gøre
+- Planlæg din reaktion på deres mulige kast
+- Forbliv fokuseret og klar
 
-### Du holder og modstander er løbet tør for kugler
+### Du holder, og modstanderen har ikke flere boules
 
 Nu kan du spille dine resterende kugler. **Muligheder:**
-- Tilføj flere point hvis du kan gøre det sikkert
-- Bloker for at beskytte mod cochonnet bevægelse
-- Spil sikkert - risiker ikke at vende en 2-point sejr til et tab
+- Tilføj flere point, hvis du kan gøre det sikkert
+- Blok for at beskytte mod donkraftbevægelse
+- Spil sikkert - risiker ikke at forvandle en 2-points sejr til et nederlag
 
-**Nøglebeslutning:** Er risikoen ved at tilføje point værd potentielt at åbne spillet?
+**Vigtig beslutning:** Er risikoen ved at tilføje point værd at potentielt åbne spillet op for?
 
 ### Du holder ikke
 
 Du skal kaste. **Muligheder:**
 - Point tættere end deres bedste kugle
 - Skyd deres bedste kugle
-- Flyt cochonnet til dine kugler
-- Bloker for at begrænse deres scoring (hvis du ikke kan tage pointet)
+- Flyt målkuglen til dine kugler
+- Bloker for at begrænse deres point (hvis du ikke kan tage pointet)
 
-**Beslutningsfaktorer:** Din skydningsprocent, antal kugler tilbage (begge hold), nuværende score
+**Beslutningsfaktorer:** Din skudprocent, antal kugler tilbage (begge hold), nuværende score
 
-### Sidste kugle situationer
+### Sidste boule-situationer
 
 Når du har den sidste kugle:
-- Maksimalt pres men også maksimal kontrol
-- Tag din tid - vurder alle muligheder
-- Overvej: point, skyd, eller flyt cochonnet?
-- Udfør med fuld forpligtelse
+- Maksimalt tryk, men også maksimal kontrol
+- Tag dig god tid - vurder alle muligheder
+- Overvej: peg, skyd eller flyt donkraften?
+- Udfør med fuldt engagement
 
-Når modstander har sidste kugle:
-- Du har gjort hvad du kan - accepter resultatet
-- Hvis muligt, skab en situation uden let svar for dem
+Når modstanderen har den sidste kugle:
+- Du har gjort hvad du kunne - accepter resultatet
+- Hvis det er muligt, så skab en situation uden en nem løsning for dem
 - Flere trusler er bedre end én
 
-## Læsning af dine modstandere
+## At læse dine modstandere
 
-På eliteniveau betyder scouting noget. Kend dine modstandere før du spiller.
+På eliteniveau er scouting vigtig. Kend dine modstandere, før du spiller.
 
-### Før-kamp intelligens
-- Hvad er deres foretrukne spillestil (skydning vs pointing hold)?
-- Hvem er deres stærkeste skytte? Pointer?
+### Intelligens før kampen
+- Hvad er deres foretrukne spillestil (skydende vs. pegende hold)?
+- Hvem er deres stærkeste skytter? Pointer?
 - Hvilke afstande foretrækker de?
-- Hvordan præsterer de under pres i finaler?
+- Hvordan klarer de sig under pres i finalerne?
 
-### I-kamp observation
-- Spor deres succesrater gennem kampen
-- Læg mærke til om nogen har en dårlig dag
-- Identificer hvem der håndterer pres godt og hvem der ikke gør
-- Juster din cochonnet placering baseret på hvad du observerer
+### Observation under kampen
+- Spor deres succesrater gennem hele kampen
+- Læg mærke til om nogen har en fridag
+- Identificér hvem der håndterer pres godt, og hvem der ikke gør det
+- Juster din donkrafts placering baseret på, hvad du observerer
 
-### Udnyt hvad du finder
-- Målret de svagere spillere når muligt
-- Tving deres svage skytte til at skyde, eller deres svage pointer til at pointe
-- Hvis nogen kæmper, hold presset på dem
+### Udnyt det, du finder
+- Fokuser på de svagere spillere, når det er muligt
+- Tving deres svage skytter til at skyde, eller deres svage pointer til at pege
+- Hvis nogen har det svært, så hold presset på dem
 
-## I denne sektion
+## I dette afsnit
 
-- **[Sandsynlighedsbaserede beslutninger](/da/education/tactics/probability)** - Brug matematik til at træffe bedre valg
+- **[Sandsynlighedsbaserede beslutninger](/da/uddannelse/taktik/sandsynlighed)** - Brug af matematik til at træffe bedre valg
 
-## Nøglepunkt
+## Resumé: Alle taktiske regler
 
-> På eliteniveau er forskellen sjældent teknik - det er beslutningstagning. Holdet der laver færre taktiske fejl vinder.
+::: tip Regel nr. 1: Sandsynlighedsreglen
+**Vælg kast hvor sandsynligheden for succes retfærdiggør risikoen.**
+Overvej: succesrate, belønning hvis succes, omkostninger hvis mislykkes
+:::
+
+::: tip Regel nr. 2: Jack-kontrolreglen
+**Det hold, der kontrollerer donkraftens position, har fordelen.**
+Brug knægtens placering til at udnytte modstanderens svagheder og favorisere dine styrker
+:::
+
+::: tip Regel nr. 3: Afstandsreglen
+**Kort afstand favoriserer skud, lang afstand favoriserer pegning.**
+Mellemdistance: Underlagets kvalitet bestemmer balancen
+:::
+
+::: tip Regel nr. 4: Stilreglen
+**Tving spillet ind i dit holds stærkeste stil.**
+Hvis I er dygtige skytter, så skyd mere. Spild ikke jeres fordel.
+:::
+
+::: tip Regel nr. 5: Reglen for boulehåndtering
+**Nogle gange er det bedre at give 1 point ind end at risikere 3.**
+Vid, hvornår du skal begrænse dine tab, og gem dine kugler til næste omgang
+:::
+
+::: tip Regel nr. 6: Reglen om at tænke fremad
+**Visualiser de næste 2-3 træk fra begge hold.**
+Hvad er deres bedste svar? Hvordan forbereder dette dit næste kast?
+:::
+
+::: tip Regel nr. 7: Spejderreglen
+**Kend dine modstandere, før du spiller.**
+Spor deres præferencer, succesrater og presreaktioner
+:::
+
+## Vigtig konklusion
+
+> På eliteniveau er forskellen sjældent teknikken – det er beslutningstagningen. Det hold, der laver færrest taktiske fejl, vinder.
 
 Læs spillet. Kend dine styrker. Udnyt deres svagheder. Udfør med selvtillid.
 

@@ -1,83 +1,114 @@
 # Mental styrka
 
-Mental styrka är det som skiljer spelare som presterar bra i träning från de som presterar bra när det räknas. Det är förmågan att hantera press, återhämta sig från motgångar och bibehålla fokus under långa tävlingar.
+Mental styrka är det som skiljer spelare som presterar bra på träning från de som presterar bra när det gäller. Det är förmågan att hantera press, återhämta sig från motgångar och bibehålla fokus under långa tävlingar.
+
+::: tip Kärnprincipen
+**Mental styrka handlar inte om att bli av med nerverna eller att aldrig göra misstag. Det handlar om att prestera bra trots dem.** Du kan inte kontrollera vad som händer. Du kan kontrollera hur du reagerar.
+:::
+
+```mermaid
+graph TD
+    A[Trycksituation] --> B{Mental Strength?}
+    B -->|Weak| C[Negativa tankar]
+    B -->|Strong| D[Rutin före skott]
+
+    C --> E[Spänningen ökar]
+    E --> F[Prestandasänkningar]
+    F --> G[Mer tryck]
+    G --> C
+
+    D --> H[Fokusera på processen]
+    H --> I[Förtroendeträning]
+    I --> J[Utför väl]
+    J --> K[Förtroendet växer]
+
+    style C fill:#ffcdd2
+    style E fill:#ffcdd2
+    style F fill:#ffcdd2
+    style G fill:#ffcdd2
+    style D fill:#c8e6c9
+    style H fill:#c8e6c9
+    style I fill:#c8e6c9
+    style J fill:#a5d6a7
+    style K fill:#a5d6a7
+```
 
 ## Vad är mental styrka?
 
 Mental styrka inkluderar:
-- **Självförtroende:** Att tro på din förmåga
-- **Fokus:** Att bibehålla uppmärksamhet på det som räknas
-- **Motståndskraft:** Att återhämta sig från misstag
-- **Lugn:** Att förbli lugn under press
-- **Motivation:** Att upprätthålla ansträngning över tid
+- **Självförtroende:** Att tro på sin förmåga
+- **Fokus:** Att hålla fokus på det som är viktigt
+- **Motståndskraft:** Att studsa tillbaka från misstag
+- **Lugnsinne:** Att behålla lugnet under press
+- **Motivation:** Att fortsätta anstränga sig över tid
 
-Dessa är inte fasta egenskaper - de är färdigheter du kan utveckla.
+Det här är inga fasta egenskaper – det är färdigheter du kan utveckla.
 
-## De mentala kraven i pétanque
+## Boulespelets mentala krav
 
-Pétanque har unika mentala utmaningar:
+Petanque har unika mentala utmaningar:
 
 | Utmaning | Varför det är svårt |
 |-----------|--------------|
 | Tid mellan kast | Möjlighet för negativa tankar |
 | Synliga resultat | Alla ser dina misstag |
-| Lagformat | Press att inte göra besvikna partners |
+| Lagformat | Press att inte svika partners |
 | Långa tävlingar | Mental trötthet under många timmar |
-| Jämna matcher | Höga insatser på enskilda kast |
-| Momentum-svängningar | Emotionell berg-och-dalbana |
+| Stänga spel | Höga insatser på enskilda kast |
+| Momentumsvängningar | Känslomässig berg-och-dalbana |
 
 ## Bygga mental styrka
 
 ### 1. Utveckla självförtroende
 
 Självförtroende kommer från:
-- **Förberedelse:** Att veta att du har gjort arbetet
-- **Tidigare framgång:** Att minnas tillfällen när du presterade bra
-- **Positivt självprat:** Hur du pratar till dig själv
-- **Kroppsspråk:** Att stå upprätt, röra dig med avsikt
+- **Förberedelse:** Att veta att du har gjort jobbet
+- **Tidigare framgångar:** Att minnas gånger du presterade bra
+- **Positivt självprat:** Hur du pratar med dig själv
+- **Kroppsspråk:** Stå rak, röra sig med syfte
 
-**Självförtroendebyggare:**
+**Förtroendeskapare:**
 - För en framgångsdagbok
-- Visualisera framgångsrika prestationer
-- Förbered dig noggrant för tävlingar
+- Visualisera framgångsrika framträdanden
+- Förbered dig noggrant inför tävlingar
 - Använd självsäkert kroppsspråk (det påverkar ditt sinne)
 
 ### 2. Bemästra ditt självprat
 
-Rösten i ditt huvud spelar enorm roll.
+Rösten i ditt huvud spelar oerhört stor roll.
 
 **Destruktivt självprat:**
-- "Jag missar alltid dessa"
-- "Jag kommer att misslyckas"
-- "Mina lagkamrater räknar med mig" (press)
-- "Det var fruktansvärt"
+- &quot;Jag saknar alltid dessa&quot;
+- &quot;Jag kommer att kvävas&quot;
+- &quot;Mina lagkamrater räknar med mig&quot; (press)
+- &quot;Det var hemskt&quot;
 
 **Konstruktivt självprat:**
-- "Jag har gjort detta kast förut"
-- "Lita på min träning"
-- "Ett kast i taget"
-- "Nästa kast, ny start"
+- &quot;Jag har gjort det här kastet förut&quot;
+- &quot;Lita på min träning&quot;
+- &quot;Ett kast i taget&quot;
+- &quot;Nästa kast, nystart&quot;
 
 **Ändra ditt självprat:**
 1. Lägg märke till vad du säger till dig själv
 2. Utmana negativa påståenden
-3. Ersätt med realistiska, hjälpsamma alternativ
+3. Ersätt med realistiska, användbara alternativ
 4. Öva tills det blir automatiskt
 
-### 3. Bygga motståndskraft
+### 3. Bygg motståndskraft
 
 Motståndskraft är förmågan att återhämta sig från motgångar.
 
-**Det motståndskraftiga tänkesättet:**
-- Misstag är information, inte misslyckande
+**Den motståndskraftiga inställningen:**
+- Misstag är information, inte misslyckanden
 - Ett dåligt kast definierar dig inte
 - Motgångar är tillfälliga
-- Du kan alltid reagera bra på det som händer
+- Man kan alltid reagera bra på vad som händer
 
-**Bygga motståndskraft:**
-- Öva på att återhämta dig från misstag i träning
-- Använd SOAS-metoden (Stoppa, Observera, Acceptera, Släpp)
-- Fokusera på respons, inte händelsen
+**Bygger motståndskraft:**
+- Öva på att återhämta sig från misstag i träningen
+- Använd SOAS-metoden (Stoppa, Observera, Acceptera, Slipa)
+- Fokusera på responsen, inte händelsen
 - Utveckla ett kort minne för dåliga kast
 
 ### 4. Hantera din energi
@@ -85,36 +116,74 @@ Motståndskraft är förmågan att återhämta sig från motgångar.
 Mental styrka kräver energihantering:
 
 **Fysisk energi:**
-- Sov gott före tävlingar
+- Sov gott inför tävlingar
 - Ät ordentligt (stabilt blodsocker)
 - Håll dig hydrerad
-- Rör dig mellan matcher (sitt inte för länge)
+- Flytta mellan spelen (sitt inte för länge)
 
 **Mental energi:**
 - Ta pauser när det är möjligt
-- Överanalysera inte mellan kast
+- Överanalysera inte mellan kasten
 - Spara intensivt fokus till när du behöver det
 - Ha återhämtningsrutiner
 
-## Självförtroende-kompetens-loopen
+## Förtroende-kompetens-loopen
 
-```
-Bättre förberedelse → Mer självförtroende → Bättre prestation → Mer självförtroende → ...
+::: info Den positiva cykeln
+```mermaid
+graph LR
+    A[Bättre förberedelse] --> B[Mer självförtroende]
+    B --> C[Bättre prestanda]
+    C --> D[Mer självförtroende]
+    D --> A
+
+    style A fill:#e3f2fd
+    style B fill:#c8e6c9
+    style C fill:#fff9c4
+    style D fill:#c8e6c9
 ```
 
-Denna loop fungerar åt båda hållen. Bygg den genom:
-1. Kvalitetsträning (bygger kompetens)
-2. Spårning av framsteg (bygger självförtroende)
+**Bygg det igenom:**
+1. Kvalitetspraxis (bygger kompetens)
+2. Följa upp framsteg (bygger självförtroende)
 3. Framgångsrika prestationer (förstärker båda)
+:::
 
 ## I detta avsnitt
 
-- **[Hantera press](/sv/education/mental-strength/handling-pressure)** - Tekniker för högtryckssituationer
-- **[Rutin före kast](/sv/education/mental-strength/pre-shot-routine)** - Bygga din prestationsutlösare
+- **[Hantera press](/sv/utbildning/mental-styrka/hantera-press)** - Tekniker för situationer med höga insatser
+- **[Rutin före sprutning](/sv/utbildning/mental-styrka/rutin-före-sprutning)** - Bygg din prestationsfaktor
 
-## Nyckelpunkt
+## Sammanfattning: Regler för mental styrka
 
-> Mental styrka handlar inte om att eliminera nervositet eller aldrig göra misstag. Det handlar om att prestera bra trots dem.
+::: tip Regel nr 1: Rutinregeln
+**Konsekventa rutiner före behandlingen utlöser topprestationer.**
+Samma rutin varje gång = pålitlig utlösare för flödestillstånd
+:::
+
+::: tip Regel nr 2: Återställningsregeln
+**Utveckla en 10-sekunders återställningsrutin efter misstag.**
+Fysisk återställning (djupa andetag, axelrullning) + mental återställning (SOAS-metoden)
+:::
+
+::: tip Regel nr 3: Regeln om självförtroendeloopen
+**Bättre förberedelse → Mer självförtroende → Bättre prestation.**
+Loopen fungerar åt båda hållen. Bygg upp den genom kvalitetsövningar och uppföljning av framsteg.
+:::
+
+::: tip Regel nr 4: Regeln om självprat
+**Prata med dig själv som du skulle prata med en lagkamrat.**
+Stödjande, konstruktiv, fokuserad på vad som ska göras (inte vad som gick fel)
+:::
+
+::: tip Regel #5: Energihanteringsregeln
+**Spara intensivt fokus till när du behöver det.**
+Överanalysera inte mellan kasten. Spara mental energi för utförandet.
+:::
+
+## Viktig slutsats
+
+> Mental styrka handlar inte om att eliminera nerver eller att aldrig göra misstag. Det handlar om att prestera bra trots dem.
 
 Du kan inte kontrollera vad som händer. Du kan kontrollera hur du reagerar.
 

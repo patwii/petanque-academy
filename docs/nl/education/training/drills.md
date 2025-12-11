@@ -1,224 +1,253 @@
 # Trainingsoefeningen
 
-Hier zijn bewezen oefeningen gebruikt door elite spelers. Elke oefening heeft een specifiek doel - kies op basis van wat je moet ontwikkelen.
+Hieronder vind je beproefde oefeningen die door topspelers worden gebruikt. Elke oefening heeft een specifiek doel - kies de oefening die het beste aansluit bij jouw ontwikkelingsbehoeften.
 
-## Wijsoefeningen
+::: tip Het Grote Idee
+**Elke oefening heeft een specifiek doel.** Gooi niet zomaar willekeurig met de boules, maar kies oefeningen die je zwakke punten aanpakken en je doelen ondersteunen. Houd je voortgang bij om je verbetering te zien.
+:::
+
+```mermaid
+graph TD
+    A[Trainingsoefeningen] --> B[Aanwijsoefeningen]
+    A --> C[Schietoefeningen]
+    A --> D[Mentale oefeningen]
+    A --> E[Spelsimulatie]
+
+    B --> F[Nauwkeurigheid]
+    B --> G[Afstandsregeling]
+
+    C --> H[Trefpercentage]
+    C --> I[Drukschieten]
+
+    D --> J[Routinepraktijk]
+    D --> K[Visualisatie]
+
+    E --> L[Competitiebereidheid]
+
+    style A fill:#e8f5e9
+    style B fill:#e3f2fd
+    style C fill:#fff4e1
+    style D fill:#f3e5f5
+    style E fill:#fff4e1
+```
+
+## Aanwijsoefeningen
 
 ### De steeg
-**Doel:** Isoleer vrijgavehoek en lijnconsistentie
+**Doel:** Het isoleren van de afwerphoek en de lijnconsistentie.
 
-**Opzet:**
-- Plaats twee markeringen 30-40cm uit elkaar, ongeveer 1 meter van de cirkel
-- Doel is 7-9 meter verderop
+**Installatie:**
+- Plaats twee markeringen op 30-40 cm afstand van elkaar, op ongeveer 1 meter van de cirkel.
+- Het doel bevindt zich op 7-9 meter afstand.
 
 **Oefening:**
-- Werp door de "steeg" (tussen de markeringen)
-- Elke worp die een markering raakt is "dood"
-- Focus op consistent vrijgavepunt
+- Gooi door het &quot;steegje&quot; (tussen de markeringen)
+- Elke worp die een marker raakt, is &quot;dood&quot;.
+- Focus op een consistent afgiftepunt.
 
 **Progressie:**
-- Vernauw de steeg naarmate je verbetert
-- Varieer de doelafstand
+- Versmaller het steegje naarmate je beter wordt.
+- Varieer de afstand tot het doel.
 - Voeg een specifieke landingszone toe
 
 ### Precisiezones
-**Doel:** Ontwikkel nauwkeurigheid naar specifieke gebieden
+**Doel:** Nauwkeurigheid ontwikkelen op specifieke gebieden
 
-**Opzet:**
-- Markeer zones rond een doel (bijv. cirkels op 20cm, 40cm, 60cm)
-- Of gebruik natuurlijke markeringen op het terrein
+**Installatie:**
+- Markeer zones rond een doelwit (bijvoorbeeld cirkels op 20 cm, 40 cm, 60 cm).
+- Of gebruik natuurlijke markeringen in het terrein.
 
-**Scoring:**
-- Binnen 20cm: 3 punten
-- Binnen 40cm: 2 punten
-- Binnen 60cm: 1 punt
+**Score:**
+- Binnen 20 cm: 3 punten
+- Binnen 40 cm: 2 punten
+- Binnen 60 cm: 1 punt
 - Buiten: 0 punten
 
 **Oefening:**
-- Werp 10 ballen, volg je score
-- Doel: Consistente verbetering over sessies
+- Gooi 10 boules en houd je score bij.
+- Doel: Voortdurende verbetering gedurende de sessies
 
 ### Afstandsvariatie
-**Doel:** Ontwikkel dieptecontrole
+**Doel:** Dieptecontrole ontwikkelen
 
-**Opzet:**
-- Plaats doelen op 6m, 7m, 8m, 9m, 10m
+**Installatie:**
+- Plaats doelen op 6m, 7m, 8m, 9m en 10m afstand.
 
 **Oefening:**
-- Werp naar elke afstand in willekeurige volgorde
-- Partner roept de afstand
-- Focus op gewicht aanpassen, niet techniek
+- Gooi naar elke afstand in willekeurige volgorde.
+- Partner roept in de verte
+- Focus op het aanpassen van het gewicht, niet op de techniek.
 
 **Variatie:**
-- Voeg "kort" en "lang" oproepen toe na vrijgave
-- Moet aanpassen tijdens de vlucht (ontwikkelt gevoel)
+- Voeg &quot;korte&quot; en &quot;lange&quot; aanroepen toe nadat je ze hebt vrijgegeven.
+- Aanpassing tijdens de vlucht is noodzakelijk (ontwikkelt gevoel).
 
 ## Schietoefeningen
 
 ### De schietladder
-**Doel:** Bouw nauwkeurigheid op onder progressieve druk
+**Doel:** Nauwkeurigheid opbouwen onder steeds hogere druk
 
-**Opzet:**
-- Plaats een doelbal op 6 meter
+**Installatie:**
+- Plaats een doelboule op 6 meter afstand.
 - Markeer afstanden op 7m, 8m, 9m, 10m
 
 **Oefening:**
-- Begin op 6 meter
-- Raak = ga een meter terug
-- Mis = ga een meter vooruit (of herstart)
-- Doel: Bereik 10 meter
+- Begin op 6 meter afstand.
+- Geraakt = één meter achteruitgaan
+- Miss = één meter vooruitgaan (of opnieuw beginnen)
+- Doel: 10 meter bereiken
 
 **Variaties:**
-- Strikte versie: Elke misser keert terug naar 6m
-- Getimede versie: Hoe ver kom je in 10 minuten?
-- Teamversie: Wissel af met partner
+- Strikte versie: Bij elke misser moet je terug naar 6 meter.
+- Tijdsgebonden versie: Hoe ver kom je in 10 minuten?
+- Teamversie: Wissel af met je partner
 
-### De barrière (Blox)
-**Doel:** Forceer hoge boog schieten
+### De Barrière (Blox)
+**Doel:** Hoge boogschieten afdwingen
 
-**Opzet:**
-- Plaats een barrière (stok, touw of obstakel) tussen jou en doel
-- Barrière moet hoog genoeg zijn om een lob te vereisen
+**Installatie:**
+- Plaats een barrière (stok, touw of obstakel) tussen jou en het doelwit.
+- De barrière moet hoog genoeg zijn om een lob te vereisen.
 
 **Oefening:**
-- Moet de barrière vrijmaken om het doel te raken
-- Elke worp die de barrière raakt is "dood"
-- Ontwikkelt hoog vrijgavepunt
+- Je moet de hindernis passeren om het doel te raken.
+- Elke worp die de barrière raakt, is &quot;dood&quot;.
+- Ontwikkelt een hoog afgiftepunt
 
-**Waarom het belangrijk is:**
-- Wedstrijd vereist vaak schieten over obstakels
-- Bouwt veelzijdigheid in je schieten
+**Waarom dit belangrijk is:**
+- Bij wedstrijden is het vaak nodig om over obstakels heen te schieten.
+- Vergroot de veelzijdigheid van je schietvaardigheid.
 
 ### Hindernisbaan
-**Doel:** Ontwikkel schieten vanuit verschillende hoeken
+**Doel:** Het ontwikkelen van fotografie vanuit verschillende hoeken
 
-**Opzet:**
-- Plaats doelbal in centrum
-- Voeg obstakels toe (andere ballen, markeringen) eromheen
+**Installatie:**
+- Plaats de doelboule in het midden.
+- Voeg obstakels (andere boules, markeringen) eromheen toe.
 
 **Oefening:**
-- Schiet vanuit verschillende posities rond de cirkel
-- Moet de hoek vinden die werkt
-- Ontwikkelt lezen van schietlijnen
+- Fotografeer vanuit verschillende posities rondom de cirkel.
+- Je moet de invalshoek vinden die werkt.
+- Ontwikkelt het lezen van schietlijnen.
 
 ## Mentale trainingsoefeningen
 
-### Routine herhaling
-**Doel:** Maak je pre-worp routine automatisch
+### Routinematige herhaling
+**Doel:** Uw voorbereiding op de foto automatiseren
 
 **Oefening:**
-- Oefen je volledige routine zonder te werpen
-- Doorloop elke stap bewust
-- Doe 10-20 herhalingen
-- Voeg dan de worp toe
+- Oefen je volledige routine zonder te gooien.
+- Doorloop elke stap zorgvuldig.
+- Doe 10-20 herhalingen.
+- Voeg vervolgens de worp toe.
 
 **Focus:**
 - Consistente timing
 - Duidelijke overgang van denken naar uitvoeren
-- Zelfde routine elke keer
+- Steeds dezelfde routine.
 
 ### Drukpunten
-**Doel:** Oefen presteren onder druk
+**Doel:** Oefenen met presteren onder druk
 
-**Opzet:**
-- Creëer een "moet maken" scenario
-- Stel consequenties in voor missen
+**Installatie:**
+- Creëer een scenario dat absoluut noodzakelijk is.
+- Stel consequenties vast voor het niet nakomen van een afspraak.
 
 **Voorbeelden:**
-- "Maak 3 op rij of begin opnieuw"
-- "Mis en doe 10 push-ups"
-- "Kondig je doel aan voor werpen"
+- &quot;Maak er 3 op een rij of begin opnieuw&quot;
+- &quot;Mis de oefening en doe 10 push-ups&quot;
+- &quot;Maak je doelwit bekend voordat je gooit.&quot;
 
 **Sleutel:**
-- De druk moet echt voelen
-- Oefen je mentale reactie op druk
-- Gebruik je routine precies zoals in wedstrijd
+- De druk moet echt aanvoelen.
+- Oefen je mentale reactie op druk.
+- Volg je routine precies zoals tijdens de wedstrijd.
 
-### Hersteloefening
-**Doel:** Bouw de gewoonte van snelle mentale reset op
+### Herstelpraktijk
+**Doel:** De gewoonte ontwikkelen om snel mentaal te resetten.
 
 **Oefening:**
-- Werp opzettelijk een slechte bal
-- Oefen onmiddellijk SOAS (Stop, Observe, Accept, Slip)
-- Werp de volgende bal met volledige toewijding
+- Opzettelijk een slechte boule gooien
+- Pas direct de SOAS-methode toe (Stop, Observeer, Accepteer, Glijd door).
+- Gooi de volgende boule met volle overgave.
 
 **Focus:**
-- Blijf niet hangen bij de misser
-- Reset volledig voor volgende worp
-- Behoud positieve lichaamstaal
+- Sta niet te lang stil bij de gemiste kans.
+- Reset volledig voor de volgende worp.
+- Houd een positieve lichaamstaal aan.
 
-## Spelsimulatie oefeningen
+## Spelsimulatieoefeningen
 
-### Millieu's Delight
-**Doel:** Breek ritme vergrendeling, bouw veelzijdigheid
+### Het genot van het milieu
+**Doel:** Ritmeblokkades doorbreken, veelzijdigheid vergroten
 
 **Oefening:**
-- Wissel tussen wijzen en schieten bij elke worp
-- Geen twee opeenvolgende worpen van hetzelfde type
-- Ontwikkelt vermogen om van modus te wisselen
+- Wissel bij elke worp af tussen wijzen en schieten.
+- Geen twee opeenvolgende worpen van hetzelfde type.
+- Ontwikkelt het vermogen om van modus te wisselen.
 
-### Scenario spel
-**Doel:** Oefen tactische besluitvorming
+### Scenario spelen
+**Doel:** Het oefenen van tactische besluitvorming.
 
-**Opzet:**
-- Stel realistische spelsituaties in
-- Wijs scores en baltellingen toe
+**Installatie:**
+- Creëer realistische spelsituaties.
+- Ken scores en boule-tellingen toe.
 
 **Voorbeelden:**
-- "Je staat achter 10-8, tegenstander heeft 2 punten, jij hebt 2 ballen"
-- "Gelijk 6-6, jij hebt laatste bal, zij hebben 1 punt"
+- &quot;Je staat met 10-8 achter, de tegenstander heeft 2 punten, jij hebt nog 2 boules over.&quot;
+- &quot;Gelijkspel 6-6, jij hebt de laatste boule, zij hebben 1 punt&quot;
 
 **Oefening:**
-- Besluit wat te doen
-- Voer uit met volledige toewijding
-- Bekijk de beslissing achteraf
+- Beslis wat je gaat doen
+- Voer het met volledige toewijding uit.
+- Evalueer de beslissing achteraf.
 
-### Wedstrijdspel met regels
-**Doel:** Wedstrijdsimulatie
+### Wedstrijd spelen met regels
+**Doel:** Competitiesimulatie
 
 **Variaties:**
-- Speel tot 13 (vol spel)
+- Speel tot 13 (hele wedstrijd)
 - Speel tot 7 (korter, meer spellen)
-- "Drukpunten" - bepaalde ends zijn dubbel waard
-- "Sudden death" - eerste die een end verliest verliest het spel
+- &quot;Drukpunten&quot; - bepaalde doelen die dubbel zoveel waard zijn.
+- &quot;Sudden death&quot; - de eerste die een end verliest, verliest het spel.
 
-## Volgen van je oefeningen
+## Het bijhouden van je oefeningen
 
-Houd een logboek bij voor elke oefening:
+Houd voor elke oefening een logboek bij:
 
-| Datum | Oefening | Score/Resultaat | Notities |
+| Datum | Oefening | Score/Result | Notities |
 |------|-------|--------------|-------|
 | | | | |
 
-**Volg in de tijd:**
-- Verbeter je?
+**Volg de ontwikkeling over tijd:**
+- Gaat het beter met je?
 - Welke oefeningen helpen het meest?
-- Waar worstel je?
+- Waar loop je tegenaan?
 
 ## Een oefensessie opbouwen
 
 ### Opwarming (10 min)
-- Gemakkelijke worpen om los te komen
-- Geen druk, alleen gevoel
+- Eenvoudige worpen om los te komen
+- Geen druk, voel het gewoon
 
 ### Technische focus (20-30 min)
-- Een of twee oefeningen gericht op specifieke vaardigheden
+- Een of twee oefeningen gericht op specifieke vaardigheden.
 - Geblokkeerde oefening voor nieuwe vaardigheden
-- Willekeurige oefening voor gevestigde vaardigheden
+- Willekeurige oefening voor reeds verworven vaardigheden
 
-### Druk/Spelsimulatie (20-30 min)
+### Druk-/spelsimulatie (20-30 min)
 - Voeg consequenties toe
-- Creëer realistische scenario's
+- Creëer realistische scenario&#39;s
 - Oefen mentale vaardigheden
 
-### Afkoeling (10 min)
+### Afkoelen (10 min)
 - Gemakkelijke worpen
-- Reflecteer op de sessie
-- Noteer waaraan volgende keer te werken
+- Reflecteer op de sessie.
+- Noteer waaraan je vervolgens moet werken.
 
-## Kernpunt
+## Belangrijkste conclusie
 
-> Oefeningen zijn gereedschap. Kies het juiste gereedschap voor wat je moet bouwen.
+> Boormachines zijn gereedschappen. Kies het juiste gereedschap voor wat je wilt bouwen.
 
-Werp niet alleen ballen. Train met een doel.
+Gooi niet zomaar met de boules. Train met een doel.
 

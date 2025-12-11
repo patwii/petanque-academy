@@ -1,44 +1,68 @@
-# Håndtering av press
+# Håndtering av trykk
 
-Press er en del av konkurranse. Målet er ikke å eliminere det - det er umulig. Målet er å prestere godt til tross for det, og til og med bruke det til din fordel.
+Press er en del av konkurransen. Målet er ikke å eliminere det - det er umulig. Målet er å prestere bra til tross for det, og til og med bruke det til din fordel.
+
+::: tips The Big Idea
+**Press forsvinner ikke med erfaring - du blir bare bedre til å prestere med det.** De beste spillerne er ikke rolige; de er dyktige til å bruke sin opphisselse produktivt.
+:::
+
+```mermaid
+graph TD
+    A[Trykksituasjon] --> B{Your Response}
+    B -->|Anxiety| C[Ytelsesfall]
+    B -->|Excitement| D[Ytelsen stiger]
+
+    C --> E[Negative tanker]
+    C --> F[Spenning]
+    C --> G[Dårlig fokus]
+
+    D --> H[Energisert]
+    D --> I[Fokusert]
+    D --> J[Sikker på]
+
+    style A fill:#fff4e1
+    style B fill:#e3f2fd
+    style C fill:#ffebee
+    style D fill:#e8f5e9
+```
 
 ## Forstå press
 
 ### Hva skaper press?
-- Høye innsatser (viktig kamp, avgjørende kast)
-- Å bli sett (publikum, lagkamerater)
+- Høye innsatser (viktig spill, avgjørende kast)
+- Blir overvåket (publikum, lagkamerater)
 - Forventninger (dine og andres)
-- Usikkerhet (tett poengsum, ukjente motstandere)
+- Usikkerhet (nær poengsum, ukjente motstandere)
 - Tid (renner ut, venter for lenge)
 
 ### Hva press gjør med kroppen din
 Når du føler press, reagerer kroppen din:
 - Hjertefrekvensen øker
-- Pusten blir overfladisk
-- Musklene spenner seg
-- Hendene kan skjelve
-- Fokus innsnevres (noen ganger for mye)
+- Pusten blir grunt
+- Musklene er spente
+- Hendene kan riste
+- Fokus blir smalere (noen ganger for mye)
 
-Dette er kroppen din som forbereder seg på handling. Det er ikke dårlig - det er energi du kan bruke.
+Dette er kroppen din som forbereder seg på handling. Det er ikke dårlig – det er energi du kan bruke.
 
-## Omformulere press
+## Reframing Press
 
 ### Press som spenning
 
 De fysiske følelsene av angst og spenning er nesten identiske. Forskjellen er hvordan du tolker dem.
 
-**Angst-tolkning:** "Jeg er nervøs, noe dårlig kan skje"
-**Spennings-tolkning:** "Jeg er energisk, dette er viktig for meg"
+**Angsttolkning:** "Jeg er nervøs, noe ille kan skje"
+**Spenningstolkning:** "Jeg er energisk, dette er viktig for meg"
 
 **Prøv dette:** Når du føler press, si til deg selv: "Jeg er spent" i stedet for "Jeg er nervøs."
 
 ### Press som privilegium
 
-Bare viktige øyeblikk skaper press. Hvis du føler det, er du i en situasjon som betyr noe.
+Kun viktige øyeblikk skaper press. Hvis du føler det, er du i en situasjon som betyr noe.
 
-> "Press er et privilegium - det kommer bare til de som fortjener det." - Billie Jean King
+> "Press er et privilegium - det kommer bare til de som tjener det." - Billie Jean King
 
-## Teknikker for høypress-øyeblikk
+## Teknikker for høytrykksmomenter
 
 ### 1. Pustekontroll
 
@@ -51,21 +75,21 @@ Pusten din er den raskeste måten å endre tilstanden din på.
 4. Gjenta 2-3 ganger
 
 **Rask tilbakestilling (i sirkelen):**
-- Ett langsomt, dypt pust
+- En sakte, dyp pust
 - Kjenn føttene dine på bakken
-- Slipp skuldrene ved utpust
+- Slipp skuldrene på pusten
 
-### 2. Fysisk jordforbindelse
+### 2. Fysisk jording
 
-Koble til fysiske følelser for å komme ut av hodet ditt:
-- Kjenn vekten av kulen
+Koble til fysiske sensasjoner for å komme ut av hodet ditt:
+- Kjenn vekten av boulen
 - Legg merke til føttene dine på bakken
-- Klem og slipp hånden som ikke kaster
+- Klem og slipp hånden din som ikke kaster
 - Rull skuldrene tilbake
 
-### 3. Fokusinnsnevring
+### 3. Fokus Innsnevring
 
-I press-øyeblikk, fokuser bare på det som betyr noe:
+I pressede øyeblikk, fokuser kun på det som betyr noe:
 - Ikke poengsummen
 - Ikke publikum
 - Ikke hva som kan skje
@@ -78,90 +102,90 @@ I press-øyeblikk, fokuser bare på det som betyr noe:
 Skift fra resultat til prosess:
 
 **Resultatfokus (skaper press):**
-- "Jeg må klare dette"
+- "Jeg må lage dette"
 - "Hvis jeg bommer, taper vi"
 - "Alle ser på"
 
-**Prosessfokus (reduserer press):**
+**Prosessfokus (reduserer trykket):**
 - "Følg rutinen min"
 - "Se målet"
 - "Stol på treningen min"
 
-### 5. Venstre hånd-klem
+### 5. Venstrehåndsklem
 
-For høyrehendte spillere, å klemme venstre hånd i 10-15 sekunder:
+For høyrehendte spillere, klem venstre hånd i 10-15 sekunder:
 - Aktiverer høyre hjernehalvdel
-- Demper analytisk overtanke
+- Stiller analytisk overtenking
 - Hjelper med å få tilgang til automatisk utførelse
 
 Bruk dette når du merker at du overtenker.
 
-## Forberede seg på press
+## Forbereder seg på press
 
-### Simuler press i trening
+### Simuler trykk i praksis
 
-Du kan ikke håndtere konkurransepress hvis du aldri opplever det i trening.
+Du takler ikke konkurransepress hvis du aldri opplever det på trening.
 
-**Måter å skape treningspress:**
-- Sett konsekvenser (push-ups for bom, kjøp kaffe til partner)
-- Lag "må-klare"-scenarier
-- Øv med publikum
+**Måter å skape treningspress på:**
+- Sette konsekvenser (armhevinger for glipp, kjøp kaffe til partner)
+- Lag "må-make"-scenarier
+- Øv med et publikum
 - Tidspress (skuddklokke)
-- Tretthet (øv når du er sliten)
+- Tretthet (trene når du er trøtt)
 
 ### Visualisering
 
-Øv mentalt høypress-situasjoner:
+Mentalt øve på høytrykkssituasjoner:
 1. Lukk øynene
-2. Forestill deg et press-scenario i detalj
-3. Kjenn press-følelsene
+2. Se for deg et trykkscenario i detalj
+3. Kjenn på trykkfølelsene
 4. Se deg selv håndtere det godt
 5. Utfør vellykket i tankene dine
 
 Gjør dette regelmessig, ikke bare før konkurranser.
 
-### Bygg en press-historie
+### Bygg en trykkhistorie
 
-Hold oversikt over tidspunkter du har håndtert press godt:
+Hold styr på ganger du har taklet press godt:
 - Hva var situasjonen?
 - Hvordan følte du deg?
 - Hva gjorde du?
-- Hva var resultatet?
+- Hva ble resultatet?
 
-Gjennomgå dette før konkurranser for å minne deg selv: "Jeg har gjort dette før."
+Se gjennom dette før konkurranser for å minne deg selv på: "Jeg har gjort dette før."
 
 ## Under konkurranse
 
-### Før press-kastet
-1. Gå tilbake, ta et pust
-2. Minn deg selv om rutinen din
+### Før trykkkastet
+1. Gå tilbake, ta en pust
+2. Minn deg selv på rutinen din
 3. Fokuser på prosess, ikke resultat
-4. Bruk triggerordet eller signalet ditt
+4. Bruk triggerordet eller stikkordet ditt
 
 ### I sirkelen
-1. Fullfør rutinen din nøyaktig som øvd
+1. Fullfør rutinen akkurat som du har øvd på
 2. Fokuser eksternt (mål, ikke kropp)
 3. Stol på treningen din
-4. Slipp uten nøling
+4. Slipp uten å nøle
 
 ### Etter kastet
-- Aksepter resultatet uten dom
-- Hvis godt: kort anerkjennelse, gå videre
-- Hvis dårlig: SOAS-metode, tilbakestill for neste kast
+- Godta resultatet uten å dømme
+- Hvis det er bra: kort bekreftelse, gå videre
+- Hvis dårlig: SOAS-metoden, tilbakestill for neste kast
 
-## Vanlige press-feil
+## Vanlige trykkfeil
 
-| Feil | Bedre tilnærming |
-|---------|----------------|
-| Haste | Senk farten, bruk full rutine |
-| Overtenke | Eksternt fokus, stol på trening |
-| Endre teknikk | Hold deg til det du kjenner |
-| Fokusere på resultat | Fokuser på prosess |
-| Kjempe mot nervøsitet | Aksepter og bruk energien |
+|  | Feil | Bedre tilnærming |  |
+|--------|----------------|
+|  | rushing | Senk farten, bruk full rutine |  |
+|  | Overtenking | Ytre fokus, tillitstrening |  |
+|  | Endre teknikk | Hold deg til det du vet |  |
+|  | Fokus på resultat | Fokus på prosessen |  |
+|  | Kampnerver | Aksepter og bruk energien |  |
 
-## Nøkkelpunkt
+## Key Takeaway
 
-> Press forsvinner ikke med erfaring. Du blir bare bedre til å prestere med det.
+> Presset forsvinner ikke med erfaring. Du blir bare bedre til å prestere med det.
 
-De beste spillerne er ikke rolige - de er dyktige til å bruke sin opphisselse produktivt.
+De beste spillerne er ikke rolige – de er dyktige til å bruke sin opphisselse produktivt.
 

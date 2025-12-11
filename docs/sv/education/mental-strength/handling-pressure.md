@@ -1,167 +1,191 @@
-# Hantera press
+# Hantering av tryck
 
-Press är en del av tävling. Målet är inte att eliminera det - det är omöjligt. Målet är att prestera väl trots det, och till och med använda det till din fördel.
+Press är en del av konkurrensen. Målet är inte att eliminera det - det är omöjligt. Målet är att prestera bra trots det, och till och med använda det till din fördel.
 
-## Förstå press
+::: tips Den stora idén
+**Tryck försvinner inte med erfarenhet - du blir bara bättre på att prestera med den.** De bästa spelarna är inte lugna; de är skickliga på att använda sin upphetsning produktivt.
+:::
 
-### Vad skapar press?
-- Höga insatser (viktig match, avgörande kast)
-- Att bli bevakad (publik, lagkamrater)
+```mermaid
+graph TD
+    A[Trycksituation] --> B{Your Response}
+    B -->|Anxiety| C[Prestanda sjunker]
+    B -->|Excitement| D[Prestanda stiger]
+
+    C --> E[Negativa tankar]
+    C --> F[Spänning]
+    C --> G[Dåligt fokus]
+
+    D --> H[Energiserad]
+    D --> I[Fokuserad]
+    D --> J[Säker]
+
+    style A fill:#fff4e1
+    style B fill:#e3f2fd
+    style C fill:#ffebee
+    style D fill:#e8f5e9
+```
+
+## Förstå trycket
+
+### Vad skapar tryck?
+- Höga insatser (viktigt spel, avgörande kast)
+- Blir bevakad (publik, lagkamrater)
 - Förväntningar (dina och andras)
-- Osäkerhet (jämn poängställning, okända motståndare)
-- Tid (tar slut, väntar för länge)
+- Osäkerhet (nära poäng, okända motståndare)
+- Tiden (räknas ut, väntar för länge)
 
-### Vad press gör med din kropp
-När du känner press, reagerar din kropp:
-- Hjärtfrekvensen ökar
+### Vad tryck gör med din kropp
+När du känner press svarar din kropp:
+- Pulsen ökar
 - Andningen blir ytlig
 - Musklerna spänns
 - Händerna kan skaka
-- Fokus smalnar av (ibland för mycket)
+- Fokus minskar (ibland för mycket)
 
-Detta är din kropp som förbereder sig för handling. Det är inte dåligt - det är energi du kan använda.
+Det här är din kropp som förbereder sig för handling. Det är inte dåligt – det är energi du kan använda.
 
-## Omformulera press
+## Reframing Pressure
 
-### Press som spänning
+### Tryck som spänning
 
-De fysiska känslorna av ångest och spänning är nästan identiska. Skillnaden är hur du tolkar dem.
+De fysiska förnimmelserna av ångest och spänning är nästan identiska. Skillnaden är hur du tolkar dem.
 
-**Ångest-tolkning:** "Jag är nervös, något dåligt kan hända"
-**Spännings-tolkning:** "Jag är energisk, detta är viktigt för mig"
+**Ångesttolkning:** "Jag är nervös, något dåligt kan hända"
+**Spänningstolkning:** "Jag är pigg, det här är viktigt för mig"
 
-**Prova detta:** När du känner press, säg till dig själv: "Jag är spänd" istället för "Jag är nervös."
+**Prova detta:** När du känner press, säg till dig själv: "Jag är upphetsad" istället för "Jag är nervös."
 
-### Press som privilegium
+### Tryck som privilegium
 
-Endast viktiga ögonblick skapar press. Om du känner det, är du i en situation som betyder något.
+Endast viktiga ögonblick skapar press. Om du känner det är du i en situation som är viktig.
 
-> "Press är ett privilegium - det kommer bara till dem som förtjänar det." - Billie Jean King
+> "Tryck är ett privilegium - det kommer bara till dem som förtjänar det." - Billie Jean King
 
-## Tekniker för högpress-ögonblick
+## Tekniker för högtrycksmoment
 
 ### 1. Andningskontroll
 
-Din andning är det snabbaste sättet att ändra ditt tillstånd.
+Ditt andetag är det snabbaste sättet att ändra ditt tillstånd.
 
 **4-7-8-tekniken:**
-1. Andas in i 4 räkningar
+1. Andas in i 4 omgångar
 2. Håll i 7 räkningar
-3. Andas ut i 8 räkningar
+3. Andas ut i 8 punkter
 4. Upprepa 2-3 gånger
 
 **Snabb återställning (i cirkeln):**
 - Ett långsamt, djupt andetag
 - Känn dina fötter på marken
-- Släpp axlarna vid utandning
+- Släpp axlarna vid utandningen
 
 ### 2. Fysisk jordning
 
-Anslut till fysiska känslor för att komma ur ditt huvud:
-- Känn vikten av kulan
+Anslut med fysiska förnimmelser för att komma ur huvudet:
+- Känn tyngden av boulen
 - Lägg märke till dina fötter på marken
-- Krama och släpp din icke-kastande hand
+- Kläm och släpp din icke-kastande hand
 - Rulla axlarna bakåt
 
 ### 3. Fokusavsmalnande
 
-I press-ögonblick, fokusera bara på det som betyder något:
-- Inte poängställningen
+I pressade ögonblick, fokusera bara på det som betyder något:
+- Inte poängen
 - Inte publiken
 - Inte vad som kan hända
 - Bara detta kast, detta mål, detta ögonblick
 
-**Nyckelord:** "Här. Nu. Detta."
+**Uppord:** "Här. Nu. Det här."
 
 ### 4. Processfokus
 
-Skifta från resultat till process:
+Skift från resultat till process:
 
-**Resultatfokus (skapar press):**
-- "Jag måste klara detta"
-- "Om jag missar, förlorar vi"
+**Resultatfokus (skapar tryck):**
+- "Jag måste göra det här"
+- "Om jag missar så förlorar vi"
 - "Alla tittar"
 
-**Processfokus (minskar press):**
+**Processfokus (minskar trycket):**
 - "Följ min rutin"
 - "Se målet"
 - "Lita på min träning"
 
-### 5. Vänsterhand-knytet
+### 5. Vänsterhandsklämningen
 
-För högerhänta spelare, att knyta vänster hand i 10-15 sekunder:
-- Aktiverar höger hjärnhalva
-- Dämpar analytiskt övertänkande
-- Hjälper till att få tillgång till automatisk utförande
+För högerhänta spelare, klämma din vänstra hand i 10-15 sekunder:
+- Aktiverar den högra hjärnhalvan
+- Tystar analytiskt övertänkande
+- Hjälper åtkomst till automatisk exekvering
 
-Använd detta när du märker att du övertänker.
+Använd detta när du märker att du tänker över.
 
-## Förbereda sig för press
+## Förbereder sig för tryck
 
-### Simulera press i träning
+### Simulera tryck i praktiken
 
-Du kan inte hantera tävlingspress om du aldrig upplever det i träning.
+Du klarar inte av tävlingspress om du aldrig upplever det på träning.
 
-**Sätt att skapa träningspress:**
+**Sätt att skapa träningstryck:**
 - Sätt konsekvenser (armhävningar för missar, köp kaffe till partner)
-- Skapa "måste-klara"-scenarier
-- Öva med publik
+- Skapa "måste-göra"-scenarier
+- Träna med publik
 - Tidspress (skottklocka)
-- Trötthet (öva när du är trött)
+- Trötthet (träna när du är trött)
 
 ### Visualisering
 
-Öva mentalt högpress-situationer:
-1. Stäng dina ögon
-2. Föreställ dig ett press-scenario i detalj
-3. Känn press-känslorna
+Mentalt repetera högtryckssituationer:
+1. Blunda
+2. Föreställ dig ett tryckscenario i detalj
+3. Känn tryckkänslan
 4. Se dig själv hantera det väl
-5. Utför framgångsrikt i ditt sinne
+5. Kör framgångsrikt i ditt sinne
 
 Gör detta regelbundet, inte bara före tävlingar.
 
-### Bygg en press-historia
+### Bygg en presshistorik
 
-Håll koll på tillfällen du har hanterat press väl:
-- Vad var situationen?
+Håll reda på tider du har hanterat press väl:
+- Hur var läget?
 - Hur kände du dig?
 - Vad gjorde du?
 - Vad blev resultatet?
 
-Granska detta före tävlingar för att påminna dig själv: "Jag har gjort detta förut."
+Granska detta före tävlingar för att påminna dig själv: "Jag har gjort det här förut."
 
 ## Under tävling
 
-### Före press-kastet
-1. Gå tillbaka, ta ett andetag
+### Innan tryckkastningen
+1. Ta ett steg tillbaka, ta ett andetag
 2. Påminn dig själv om din rutin
-3. Fokusera på process, inte resultat
-4. Använd ditt triggerord eller signal
+3. Fokusera på processen, inte resultatet
+4. Använd ditt triggerord eller ledtråd
 
 ### I cirkeln
-1. Slutför din rutin exakt som övat
+1. Slutför din rutin precis som du har övat
 2. Fokusera externt (mål, inte kropp)
 3. Lita på din träning
-4. Släpp utan tvekan
+4. Släpp utan att tveka
 
-### Efter kastet
-- Acceptera resultatet utan bedömning
-- Om bra: kort erkännande, gå vidare
-- Om dåligt: SOAS-metod, återställ för nästa kast
+### Efter Kasten
+- Acceptera resultatet utan att döma
+- Om bra: kort bekräftelse, gå vidare
+- Om dåligt: ​​SOAS-metoden, återställ för nästa kast
 
-## Vanliga press-misstag
+## Vanliga tryckmisstag
 
-| Misstag | Bättre tillvägagångssätt |
-|---------|----------------|
-| Hasta | Sakta ner, använd full rutin |
-| Övertänka | Externt fokus, lita på träning |
-| Ändra teknik | Håll dig till det du känner |
-| Fokusera på resultat | Fokusera på process |
-| Kämpa mot nervositet | Acceptera och använd energin |
+|  | Misstag | Bättre tillvägagångssätt |  |
+|--------|----------------|
+|  | Rusar | Sakta ner, använd full rutin |  |
+|  | Övertänkande | Yttre fokus, förtroendeträning |  |
+|  | Ändra teknik | Håll dig till det du vet |  |
+|  | Fokus på resultatet | Fokusera på processen |  |
+|  | Kämpande nerver | Acceptera och använd energin |  |
 
-## Nyckelpunkt
+## Key Takeaway
 
-> Press försvinner inte med erfarenhet. Du blir bara bättre på att prestera med det.
+> Pressen försvinner inte med erfarenhet. Man blir bara bättre på att prestera med den.
 
-De bästa spelarna är inte lugna - de är skickliga på att använda sin upphetsning produktivt.
+De bästa spelarna är inte lugna – de är skickliga på att använda sin upphetsning produktivt.
 

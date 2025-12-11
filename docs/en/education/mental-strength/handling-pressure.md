@@ -2,6 +2,30 @@
 
 Pressure is part of competition. The goal isn't to eliminate it - that's impossible. The goal is to perform well despite it, and even use it to your advantage.
 
+::: tip The Big Idea
+**Pressure doesn't go away with experience - you just get better at performing with it.** The best players aren't calm; they're skilled at using their arousal productively.
+:::
+
+```mermaid
+graph TD
+    A[Pressure Situation] --> B{Your Response}
+    B -->|Anxiety| C[Performance Drops]
+    B -->|Excitement| D[Performance Rises]
+
+    C --> E[Negative Thoughts]
+    C --> F[Tension]
+    C --> G[Poor Focus]
+
+    D --> H[Energized]
+    D --> I[Focused]
+    D --> J[Confident]
+
+    style A fill:#fff4e1
+    style B fill:#e3f2fd
+    style C fill:#ffebee
+    style D fill:#e8f5e9
+```
+
 ## Understanding Pressure
 
 ### What Creates Pressure?

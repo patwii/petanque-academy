@@ -1,125 +1,172 @@
-# Målsättning för pétanque-spelare
+# Målsättning för boulespelare
 
-Tydliga mål är din kompass. De ger riktning åt din träning, motivation när saker blir svåra, och ett sätt att mäta framsteg. Utan mål kastar du bara kulor. Med mål bygger du mot något.
+Tydliga mål är din kompass. De ger riktning till din träning, motivation när det blir svårt och ett sätt att mäta framsteg. Utan mål kastar du bara boule. Med mål bygger du mot något.
 
-## Varför mål spelar roll
+::: tip Kärnprincipen
+**Ett mål utan en plan är bara en önskan.** Sätt tydliga mål, bryt ner dem, fokusera på det du kontrollerar och följ dina framsteg.
+:::
+
+## Varför mål är viktiga
 
 Mål tjänar flera syften:
 - **Riktning:** Veta vad du ska arbeta med
 - **Motivation:** Ha något att sträva efter
-- **Mätning:** Spåra dina framsteg
+- **Mätning:** Följ dina framsteg
 - **Fokus:** Prioritera din begränsade tid
 
-För den självstyrda spelaren är mål särskilt viktiga. Utan en tränare som driver dig blir dina mål din guide.
+För den självstyrda spelaren är målsättningar särskilt viktiga. Utan en tränare som pushar dig blir dina mål din vägledning.
 
 ## De tre typerna av mål
 
-Alla mål är inte lika. Att förstå de olika typerna hjälper dig att sätta bättre.
+Alla mål är inte likadana. Att förstå de olika typerna hjälper dig att sätta bättre mål.
 
 ### 1. Resultatmål
 **Vad:** Slutresultatet du vill ha
-**Exempel:** "Vinna det regionala mästerskapet"
-**Kontrollnivå:** Låg - beror på motståndare, förhållanden, tur
+**Exempel:** &quot;Vinn regionsmästerskapet&quot;
+**Kontrollnivå:** Låg – beror på motståndare, förhållanden och tur
 
 ### 2. Prestationsmål
 **Vad:** Specifika prestationsstandarder
-**Exempel:** "Uppnå 80% noggrannhet på skjutövningar"
-**Kontrollnivå:** Medel - beror mest på dig
+**Exempel:** &quot;Uppnå 80 % noggrannhet på skjutövningar&quot;
+**Kontrollnivå:** Medel – beror mest på dig
 
 ### 3. Processmål
 **Vad:** Handlingar och beteenden du kontrollerar
-**Exempel:** "Slutför min rutin före kast vid varje kast"
-**Kontrollnivå:** Hög - helt upp till dig
+**Exempel:** &quot;Slutför min rutinen före skottet vid varje kast&quot;
+**Kontrollnivå:** Hög – helt upp till dig
 
 ### Målhierarkin
 
-```
-Resultatmål (Dröm)
-    ↓
-Prestationsmål (Milstolpar)
-    ↓
-Processmål (Dagliga handlingar)
+```mermaid
+graph TD
+    A[Resultatmål <br/> Drömmen] --> B[Prestationsmål <br/> Milstolpar]
+    B --> C[Processmål <br/> Dagliga åtgärder]
+
+    A2[&quot;Vinn regionsmästerskapet&quot;] --> B2[&quot;80 % skottprecision&quot;]
+    B2 --> C2[&quot;Komplett rutin före skotttagning&quot; <br/> varje kast&quot;]
+
+    style A fill:#e1f5ff
+    style B fill:#fff9c4
+    style C fill:#c8e6c9
+    style A2 fill:#e1f5ff
+    style B2 fill:#fff9c4
+    style C2 fill:#c8e6c9
 ```
 
-**Nyckelinsikt:** Fokusera merparten av din uppmärksamhet på processmål. De är vad du kontrollerar, och de leder till de resultat du vill ha.
+::: warning Viktig insikt
+**Fokusera mestadels på processmål.** Det är de du kontrollerar, och de leder till de resultat du vill ha.
+
+- **Resultatmål:** Låg kontroll, hög motivation
+- **Prestationsmål:** Medelhög kontroll, mätbara framsteg
+- **Processmål:** Hög kontroll, dagligt fokus ← **Fokus här**
+:::
 
 ## SMART-ramverket
 
-Gör dina mål SMART:
+::: info Checklista för SMART-mål
+Varje mål bör vara:
+- ✅ **Specifik** - Tydlig och väldefinierad
+- ✅ **Mätbar** - Du kan följa framstegen
+- ✅ **Uppnåeligt - Utmanande men möjligt
+- ✅ **R**elevant - I linje med din större bild
+- ✅ **Tidsbunden - Har en deadline
+:::
 
-### S - Specifikt
-❌ "Bli bättre på att skjuta"
-✅ "Förbättra min au fer (direkt träff) noggrannhet från 8 meter"
+### S - Specifik
+❌ &quot;Bli bättre på att skjuta&quot;
+✅ &quot;Förbättra min precision i direktträff från 8 meter&quot;
 
-### M - Mätbart
-❌ "Skjuta mer noggrant"
-✅ "Få minst 24/30 på skjutstege-övningen"
+### M - Mätbar
+❌ &quot;Skjuta mer exakt&quot;
+✅ &quot;Gör minst 24/30 poäng på övningen med skjutstegen&quot;
 
-### A - Uppnåeligt
-❌ "Aldrig missa ett skott" (omöjligt)
-✅ "Förbättra noggrannhet med 10% över 8 veckor" (utmanande men realistiskt)
+### A - Uppnåelig
+❌ &quot;Missa aldrig ett skott&quot; (omöjligt)
+✅ &quot;Förbättra noggrannheten med 10 % under 8 veckor&quot; (utmanande men realistiskt)
 
 ### R - Relevant
-❌ "Springa ett maraton" (inte direkt relaterat)
-✅ "Förbättra balans och stabilitet för bättre kastning" (stödjer ditt spel)
+❌ &quot;Spring ett maraton&quot; (inte direkt relaterat)
+✅ &quot;Förbättra balans och stabilitet för bättre kastförmåga&quot; (stödjer ditt spel)
 
-### T - Tidsbestämt
-❌ "Någon dag kommer jag vara bättre"
-✅ "Senast 15 mars kommer jag att uppnå..."
+### T - Tidsbunden
+❌ &quot;En dag kommer jag att bli bättre&quot;
+✅ &quot;Senast den 15 mars kommer jag att uppnå...&quot;
 
-## Målexempel för pétanque
+## Målexempel för boule
 
 | Typ | Dåligt mål | SMART-mål |
 |------|-----------|------------|
-| Resultat | "Vinna mer" | "Nå semifinalen i Vårturneringen" |
-| Prestation | "Peka bättre" | "Uppnå 70% av poäng inom 50cm på 8m avstånd" |
-| Process | "Träna mer" | "Slutföra 3 fokuserade träningspass per vecka" |
+| Resultat | &quot;Vinn mer&quot; | &quot;Nå semifinal i vårturneringen&quot; |
+| Prestanda | &quot;Peka bättre&quot; | &quot;Uppnå 70 % av poängen inom 50 cm på 8 m avstånd&quot; |
+| Behandla | &quot;Öva mer&quot; | &quot;Slutför 3 fokuserade träningspass per vecka&quot; |
 
-## Bryta ner stora mål
+## Att bryta ner stora mål
 
 Stora mål kan kännas överväldigande. Bryt ner dem i mindre bitar:
 
-### Exempel: "Vinna klubbmästerskapet (12 månader bort)"
+### Exempel: &quot;Vinn klubbmästerskapet (om 12 månader)&quot;
 
-**Årligt mål:** Vinna klubbmästerskap
+**Årsmål:** Vinna klubbmästerskapet
 
 **Kvartalsmål:**
-- K1: Förbättra skjutnoggrannhet till 75%
-- K2: Utveckla konsekvent rutin före kast
-- K3: Bemästra trycksituationer
-- K4: Toppprestation och tävlingsförberedelse
+- Q1: Förbättra skottnoggrannheten till 75 %
+- Q2: Utveckla en konsekvent rutin före sprutning
+- Q3: Situationer med överlägsen press
+- Q4: Topprestation och tävlingsförberedelser
 
-**Månadsmål (K1):**
+**Månadsmål (Q1):**
 - Månad 1: Etablera baslinje, identifiera svagheter
-- Månad 2: Fokusera på skjutteknik
-- Månad 3: Lägg till tryck till skjutträning
+- Månad 2: Fokus på skjutteknik
+- Månad 3: Öka press på skytteträningen
 
-**Veckomål (Månad 2):**
-- Vecka 1: 3 skjutpass, videoanalys
+**Veckovisa mål (Månad 2):**
+- Vecka 1: 3 fotograferingstillfällen, videoanalys
 - Vecka 2: Arbeta med identifierat teknikproblem
-- Vecka 3: Öka avstånd gradvis
-- Vecka 4: Testa framsteg, justera plan
+- Vecka 3: Öka avståndet gradvis
+- Vecka 4: Testa framsteg, justera planen
 
-## Koppla mål till ditt "Varför"
+## Koppla mål till ditt &quot;varför&quot;
 
 Mål fungerar bättre när de är kopplade till djupare motivation.
 
 Fråga dig själv:
 - Varför vill jag uppnå detta?
-- Vad kommer det betyda för mig?
-- Hur kommer jag känna mig när jag lyckas?
+- Vad kommer det att betyda för mig?
+- Hur kommer jag att känna mig när jag lyckas?
 - Vad driver mig att förbättra mig?
 
 Skriv ner dina svar. Återvänd till dem när motivationen avtar.
 
 ## I detta avsnitt
 
-- **[SMART-mål i detalj](/sv/education/goals/smart-goals)** - Djupdykning i att skapa effektiva mål
-- **[Skapa din träningsplan](/sv/education/goals/planning)** - Förvandla mål till handling
+- **[SMARTA Mål i Detaljer](/sv/utbildning/mål/smarta-mål)** - Djupdykning i att skapa effektiva mål
+- **[Skapa din träningsplan](/sv/utbildning/mål/planering)** - Förvandla mål till handling
 
-## Nyckelpunkt
+## Sammanfattning: Regler för målsättning
+
+::: tip Regel nr 1: Kontrollregeln
+**Fokusera på processmål (vad du kontrollerar) framför resultatmål.**
+Processmål leder till prestationsmål, vilket leder till resultatmål.
+:::
+
+::: tip Regel #2: SMART-regeln
+**Mål måste vara specifika, mätbara, uppnåeliga, relevanta och tidsbundna.**
+Vaga mål ger vaga resultat. SMARTA mål ger framsteg.
+:::
+
+::: tip Regel nr 3: Uppdelningsregeln
+**Stora mål behöver delmål kvartalsvis, månatligen och veckovis.**
+Bryt ner stora mål i små, konkreta steg som du kan genomföra den här veckan.
+:::
+
+::: tip Regel nr 4: Kopplingsregeln
+**Koppla mål till ditt djupare &quot;varför&quot;.**
+När motivationen avtar är det ditt &quot;varför&quot; som håller dig igång.
+:::
+
+## Viktig slutsats
 
 > Ett mål utan en plan är bara en önskan.
 
-Sätt tydliga mål. Bryt ner dem. Fokusera på vad du kontrollerar. Spåra dina framsteg.
+Sätt tydliga mål. Bryt ner dem. Fokusera på det du kontrollerar. Följ dina framsteg.
 

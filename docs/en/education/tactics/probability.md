@@ -2,14 +2,63 @@
 
 Elite tactical thinking uses probability to make better decisions. Instead of guessing or going with gut feeling, you think systematically about your options.
 
+::: tip The Big Idea
+**Think in probabilities, not certainties.** The best decision isn't always the most aggressive or the safest - it's the one that gives you the best expected value over many similar situations.
+:::
+
+```mermaid
+graph TD
+    A[Decision Point] --> B[Option 1]
+    A --> C[Option 2]
+    A --> D[Option 3]
+
+    B --> E[Success Probability]
+    B --> F[Reward if Success]
+    B --> G[Cost if Failure]
+
+    C --> H[Success Probability]
+    C --> I[Reward if Success]
+    C --> J[Cost if Failure]
+
+    D --> K[Success Probability]
+    D --> L[Reward if Success]
+    D --> M[Cost if Failure]
+
+    E --> N[Expected Value]
+    F --> N
+    G --> N
+
+    H --> O[Expected Value]
+    I --> O
+    J --> O
+
+    K --> P[Expected Value]
+    L --> P
+    M --> P
+
+    N --> Q[Choose Best EV]
+    O --> Q
+    P --> Q
+
+    style A fill:#e3f2fd
+    style Q fill:#fff4e1
+```
+
 ## The Basic Framework
 
-Every throw has:
-- A **probability of success** (how likely you are to execute it)
-- A **reward if successful** (what you gain)
-- A **cost if unsuccessful** (what you lose or give up)
+Every throw has three components:
+
+| Component | Question | Example |
+|-----------|----------|---------|
+| **Probability of success** | How likely am I to execute this? | 70% success rate at this distance |
+| **Reward if successful** | What do I gain? | Win the point, gain position |
+| **Cost if unsuccessful** | What do I lose? | Give opponent easy point |
+
+::: info The Formula
+**Expected Value = (Probability × Reward) - ((1 - Probability) × Cost)**
 
 Good decisions maximize expected value over time.
+:::
 
 ## Thinking in Probabilities
 

@@ -2,6 +2,23 @@
 
 Your pre-shot routine is one of the most powerful tools in your mental game. It's a consistent sequence of actions that prepares you for each throw and triggers your best performance state.
 
+::: tip The Big Idea
+**Your routine is your gateway to the zone.** A consistent pre-shot routine signals your brain: "It's time to execute." With repetition, it becomes an automatic trigger for peak performance.
+:::
+
+```mermaid
+graph LR
+    A[Start Routine] --> B[Brain Recognizes Pattern]
+    B --> C[Automatic State Shift]
+    C --> D[Execution Mode]
+    D --> E[Peak Performance]
+
+    style A fill:#e3f2fd
+    style C fill:#e8f5e9
+    style D fill:#fff4e1
+    style E fill:#fff4e1
+```
+
 ## Why Routines Work
 
 ### Consistency Creates Confidence

@@ -1,149 +1,189 @@
-# Technische training vs flow-training
+# Technische training versus flowtraining
 
-Het begrijpen van het verschil tussen technische training en flow-training is essentieel voor elite-ontwikkeling. Beide zijn noodzakelijk, maar ze dienen verschillende doelen en vereisen verschillende benaderingen.
+Het is essentieel voor topsportontwikkeling om het verschil tussen technische training en flowtraining te begrijpen. Beide zijn nodig, maar ze dienen verschillende doelen en vereisen een andere aanpak.
+
+::: tip Het kernprincipe
+**Je kunt een beginner niet trainen zoals een expert** (beginners missen de benodigde neurale verbindingen), en **je kunt een expert niet trainen zoals een beginner** (een hoge technische belasting leidt tot overmatig nadenken).
+:::
+
+```mermaid
+graph LR
+    A[Beginner <br/> 90% Technologie] --> B[Tussenliggend <br/> 70% Technologie]
+    B --> C[Geavanceerd <br/> 50% Technologie]
+    C --> D[Deskundige <br/> 20% Technologie]
+
+    A2[10% Mentaal] --> B2[30% Mentaal]
+    B2 --> C2[50% Mentaal]
+    C2 --> D2[80% Mentaal]
+
+    style A fill:#ffcdd2
+    style B fill:#ffccbc
+    style C fill:#fff9c4
+    style D fill:#c8e6c9
+    style D2 fill:#a5d6a7
+```
 
 ## Twee soorten training
 
-### Technische training (expliciet leren)
-Dit is de training die de meeste spelers goed kennen:
-- Gericht op mechanica en vorm
-- Bewuste aandacht voor lichaamsbewegingen
-- Vaardigheden opsplitsen in componenten
-- Herhaalde oefening van specifieke technieken
+::: info Technische training (expliciet leren)
+**Focus:** Mechanica en vorm
+**Let op:** Bewuste lichaamsbewegingen
+**Methode:** Vaardigheden opsplitsen, herhaaldelijk oefenen
+**Ideaal voor:** Het leren van nieuwe vaardigheden, het corrigeren van slechte gewoonten, het leggen van een basis
 
-**Het beste voor:** Nieuwe vaardigheden leren, slechte gewoonten corrigeren, je fundament opbouwen
+**Voorbeeld:** Je loslaatpunt 50 keer oefenen met behulp van videoanalyse.
+:::
 
-### Flow-training (impliciet leren)
-Dit is training voor automatische uitvoering:
-- Gericht op resultaten, niet mechanica
-- Het onderbewustzijn laten overnemen
-- Gevarieerde, spelachtige oefening
-- Mentale technieken en visualisatie
+::: info Flowtraining (impliciet leren)
+**Focus:** Resultaten, niet de techniek
+**Let op:** Laat het onderbewustzijn het overnemen
+**Methode:** Gevarieerde, spelachtige oefening, visualisatie
+**Ideaal voor:** Wedstrijdvoorbereiding, zelfvertrouwen opbouwen, topprestaties
 
-**Het beste voor:** Wedstrijdvoorbereiding, vertrouwen opbouwen, topprestaties bereiken
+**Voorbeeld:** Oefenwedstrijden spelen onder druk, waarbij je je alleen concentreert op de doelen.
+:::
 
 ## Het dynamische inversiemodel
 
-De juiste trainingsverhouding is omgekeerd gecorreleerd met technische competentie. Naarmate je techniek beheerst, wordt mentale training belangrijker - niet minder.
+De juiste trainingsverhouding is omgekeerd evenredig met de technische bekwaamheid. Naarmate je de techniek beheerst, wordt mentale training belangrijker – niet minder belangrijk.
 
-### 1. Beginner (cognitieve fase)
-- Je denkt bewust na over *wat* te doen
-- Bewegingen voelen onhandig en vereisen inspanning
-- Hersenen zijn volledig verzadigd met mechanica
-- **Verhouding:** 90% technisch / 10% mentaal
-- **Mentale focus:** Plezier, externe focus (naar doel kijken), geen complexe visualisatie
+### 1. Beginner (cognitief stadium)
+- Je denkt bewust na over *wat* je moet doen.
+- De bewegingen voelen onhandig aan en vergen inspanning.
+- Het brein is volledig verzadigd met mechanica.
+- **Verhouding:** 90% Technisch / 10% Mentaal
+- **Mentale focus:** Plezier, externe focus (kijk naar het doel), geen complexe visualisatie
 
-### 2. Gevorderde (associatieve fase)
-- Je verfijnt de vaardigheid met minder bewuste gedachte
-- Bewegingen worden vloeiender, fouten nemen af
-- Je begint je eigen fouten te detecteren
-- **Verhouding:** 70% technisch / 30% mentaal
-- **Mentale focus:** Je pre-prestatie routine (PPR) ontwikkelen
+### 2. Tussenfase (associatieve fase)
+- Je verfijnt de vaardigheid met minder bewust nadenken.
+- Bewegingen verlopen soepeler, fouten nemen af.
+- Je begint je eigen fouten te herkennen.
+- **Verhouding:** 70% Technisch / 30% Mentaal
+- **Mentale focus:** Het ontwikkelen van je voorbereidingsroutine (PPR)
 
-### 3. Geavanceerd (drempel van autonomie)
-- De vaardigheid is grotendeels geautomatiseerd
-- Je zelfbeeld loopt vaak achter op je fysieke vermogen
-- Training richt zich op druksimulatie
-- **Verhouding:** 50% technisch / 50% mentaal
-- **Mentale focus:** Visualisatie, zelfbeeld, angstcontrole
+### 3. Gevorderd (Autonomiedrempel)
+- De vaardigheid is grotendeels geautomatiseerd.
+- Je zelfbeeld loopt vaak achter op je fysieke mogelijkheden.
+- De training richt zich op druksimulatie.
+- **Verhouding:** 50% Technisch / 50% Mentaal
+- **Mentale focus:** Visualisatie, zelfbeeld, angstbeheersing
 
-### 4. Expert (autonome fase)
-- Technische vaardigheden zijn volledig onderbewust
-- Bewuste aandacht voor mechanica verstoort prestatie
-- Onderhoudsvolume is alles wat je technisch nodig hebt
-- **Verhouding:** 20% technisch / 80% mentaal
-- **Mentale focus:** Flow-toestand, strategie, de geest kalmeren
+### 4. Expert (Autonome fase)
+- Technische vaardigheden zijn volledig onbewust.
+- Bewuste aandacht voor de mechanica verstoort de prestaties.
+- Het onderhoudsvolume is technisch gezien alles wat je nodig hebt.
+- **Verhouding:** 20% Technisch / 80% Mentaal
+- **Mentale focus:** Flow-toestand, strategie, het tot rust brengen van de geest
 
-## De progressietabel
+## De voortgangstabel
 
-| Niveau | Technisch : Mentaal | Primair doel |
+| Niveau | Technologie: Mentaal | Hoofddoel |
 |-------|---------------|-------------------|
 | Beginner | 90 : 10 | Bouw de machine |
-| Gevorderde | 70 : 30 | Stabiliseer de vaardigheid |
-| Geavanceerd | 50 : 50 | Vertrouw de machine |
-| Expert | 20 : 80 | Vrijheid van prestatie |
+| Tussenliggend | 70 : 30 | Stabiliseer de vaardigheid |
+| Geavanceerd | 50 : 50 | Vertrouw op de machine. |
+| Deskundige | 20:80 | Vrijheid van uitvoering |
 
-## De expertenval
+## De valstrik van de expert
 
-Voor geavanceerde en expert spelers is terugkeren naar hoge technische focus gevaarlijk.
+Voor gevorderde en ervaren spelers is terugvallen op een te sterke technische focus gevaarlijk.
 
-**Het probleem:** Wanneer je een vaardigheid hebt geautomatiseerd maar deze bewust monitort tijdens competitie, activeer je de bewuste geest en overschrijf je het onderbewustzijn. Dit veroorzaakt prestatieangst en "verstikking."
+**Het probleem:** Wanneer je een vaardigheid automatiseert maar deze tijdens een wedstrijd bewust in de gaten houdt, activeer je het bewuste denken en overschrijf je het onderbewuste. Dit leidt tot prestatieangst en &quot;blokkeren&quot;.
 
-**De wetenschap:** Het volume dat nodig is om een vaardigheid te behouden is aanzienlijk lager (vaak 1/3 tot 1/9) dan het volume dat nodig is om het op te bouwen. Experts hebben minimaal technisch werk nodig om hun gevoel te behouden.
+**De wetenschap erachter:** De hoeveelheid oefening die nodig is om een vaardigheid te onderhouden is aanzienlijk lager (vaak 1/3 tot 1/9e) dan de hoeveelheid die nodig is om die vaardigheid te ontwikkelen. Experts hoeven maar minimale technische inspanning te leveren om hun vaardigheden te behouden.
 
-**Elite voorbeeld:** Kampioenen zoals Philippe Quintais en Dylan Rocher richten zich sterk op tactische scenario's en kritieke momenten in plaats van mechanische oefeningen.
+**Voorbeeld van een topatleet:** Kampioenen zoals Philippe Quintais en Dylan Rocher richten zich sterk op tactische scenario&#39;s en cruciale momenten in plaats van op mechanische oefeningen.
 
-Tekenen dat je te veel nadenkt over techniek:
+Tekenen dat je te veel nadenkt (techniek):
 - Verlamming door analyse
-- Inconsistente prestatie ondanks goede techniek
-- Slechtere resultaten in competitie dan in training
-- Je "mechanisch" voelen in plaats van vloeiend
+- Wisselvallige prestaties ondanks goede techniek.
+- Slechtere resultaten in wedstrijden dan in de training.
+- Het voelt &quot;mechanisch&quot; aan in plaats van vloeiend.
 
-## Trainingsmethoden vergeleken
+## Vergelijking van trainingsmethoden
 
-| Aspect | Technische training | Flow-training |
+| Aspect | Technische training | Flowtraining |
 |--------|-------------------|---------------|
-| **Oefentype** | Geblokkeerd (zelfde vaardigheid herhaaldelijk) | Willekeurig (gevarieerde vaardigheden) |
-| **Feedback** | Onmiddellijk, gedetailleerd | Vertraagd, resultaatgericht |
+| **Oefentype** | Geblokkeerd (dezelfde vaardigheid herhaaldelijk uitvoeren) | Willekeurig (uiteenlopende vaardigheden) |
+| **Feedback** | Direct, gedetailleerd | Uitgesteld, resultaatgericht |
 | **Omgeving** | Gecontroleerd, voorspelbaar | Variabel, spelachtig |
 | **Mentale toestand** | Analytisch, bewust | Intuïtief, automatisch |
-| **Beste tijd** | Buiten seizoen, vaardigheden opbouwen | Pre-competitie, onderhoud |
+| **Beste tijd** | Buiten het seizoen, vaardigheden ontwikkelen | Voorbereiding op de wedstrijd, onderhoud |
 
-## Geblokkeerde vs willekeurige oefening
+## Geblokkeerde versus willekeurige oefening
 
-**Geblokkeerde oefening:** Herhaal dezelfde worp 20 keer
-- Voelt productief (je ziet snelle verbetering)
-- Goed voor initieel leren
-- Slecht voor langetermijnretentie
+**Oefening met blokken:** Herhaal dezelfde worp 20 keer.
+- Voelt productief aan (je ziet snel verbetering)
+- Goed voor de eerste kennismaking.
+- Slecht voor langdurige retentie
 
-**Willekeurige oefening:** Varieer afstand, doel en werptype
-- Voelt moeilijker (meer fouten)
-- Beter voor competitieoverdracht
-- Bouwt aanpassingsvermogen en besluitvorming op
+**Willekeurige oefening:** Varieer de afstand, het doel en het type worp.
+- Voelt moeilijker aan (meer fouten)
+- Beter voor de transfer van concurrentiemateriaal
+- Bevordert aanpassingsvermogen en besluitvorming.
 
 ## Praktische richtlijnen
 
 ### Voor technische sessies
-1. Focus op ÉÉN aspect tegelijk
+1. Concentreer je op ÉÉN aspect tegelijk.
 2. Gebruik videoanalyse
-3. Krijg feedback van een coach of trainingspartner
-4. Accepteer dat het in het begin onhandig zal voelen
-5. Houd sessies korter (kwaliteit boven kwantiteit)
+3. Vraag feedback aan een coach of trainingspartner.
+4. Accepteer dat het in het begin ongemakkelijk zal aanvoelen.
+5. Houd de sessies kort (kwaliteit boven kwantiteit).
 
-### Voor flow-sessies
-1. Creëer spelachtige druk
-2. Focus op het doel, niet op je lichaam
-3. Gebruik je pre-worp routine consistent
-4. Analyseer niet tijdens de sessie
-5. Vertrouw je training
+### Voor Flow-sessies
+1. Creëer spelachtige druk.
+2. Richt je op het doel, niet op je lichaam.
+3. Voer je voorbereidingsroutine consequent uit.
+4. Analyseer niet tijdens de sessie.
+5. Vertrouw op je training.
 
 ## De integratie-uitdaging
 
-De echte vaardigheid is weten wanneer elke modus te gebruiken:
+De ware kunst is weten wanneer je welke modus moet gebruiken:
 
-**Tijdens een competitiewedstrijd:**
-- Technisch denken: NOOIT tijdens uitvoering
-- Flow-modus: ALTIJD bij werpen
+**Tijdens een wedstrijd:**
+- Technisch denken: NOOIT tijdens de uitvoering.
+- Stroommodus: ALTIJD tijdens het gooien
 
-**Tijdens training:**
-- Technische sessies: Gepland, specifieke focus
-- Flow-sessies: Spelsimulatie, drukoefening
+**Tijdens de training:**
+- Technische sessies: Gepland, met een specifiek thema
+- Flowsessies: spelsimulatie, druktraining
 
-## Wekelijks balansvoorbeeld
+## Voorbeeld van een wekelijks saldo
 
 | Dag | Sessietype | Focus |
 |-----|-------------|-------|
-| Maandag | Technisch | Pointing precisie |
-| Dinsdag | Technisch | Shooting nauwkeurigheid |
-| Woensdag | Flow | Mentale training, visualisatie |
-| Donderdag | Gemengd | Spelscenario's met flow-focus |
-| Vrijdag | Technisch | Zwaktegebied |
-| Zaterdag | Flow | Wedstrijdspel, competitiesimulatie |
-| Zondag | Rust | Herstel, reflectie |
+| Maandag | Technisch | Richtingsnauwkeurigheid |
+| Dinsdag | Technisch | Schietnauwkeurigheid |
+| Woensdag | Stroom | Mentale training, visualisatie |
+| Donderdag | Gemengd | Spelscenario&#39;s met focus op flow |
+| Vrijdag | Technisch | Zwakke plek |
+| Zaterdag | Stroom | Wedstrijdsimulatie, competitiesimulatie |
+| Zondag | Rest | Herstel, reflectie |
+
+## Samenvatting: Regels voor trainingsbalans
+
+::: tip Regel #1: Stem de training af op het niveau.
+**Beginners (90/10):** Bouw de machine - focus op de techniek
+**Gemiddeld (70/30):** Stabiliseer de vaardigheid - voeg mentale inspanning toe
+**Geavanceerd (50/50):** Vertrouw op de machine - balanceer beide
+**Expert (20/80):** Vrijheid van prestatie - voornamelijk mentaal
+:::
+
+::: tip Regel #2: Geblokkeerde versus willekeurige oefening
+**Geblokkeerde oefening** (dezelfde worp herhaaldelijk uitvoeren): Goed voor het aanleren van de eerste stappen, slecht voor het onthouden van de oefening.
+**Willekeurige oefening** (gevarieerde worpen): Harder tijdens de training, beter in de wedstrijd
+:::
+
+::: tip Regel #3: De valkuil van de expert
+**Voor experts:** Een hoge technische werkdruk leidt tot overmatig nadenken en blokkeren.
+**Oplossing:** Minimaal technisch onderhoud, maximale mentale training
+:::
 
 ## Belangrijkste conclusie
 
-> Je kunt een beginner niet trainen als een expert (ze missen de neurale paden voor mentaal werk), en je kunt een expert niet trainen als een beginner (hoog technisch volume veroorzaakt burn-out en overdenken).
+> Je kunt een beginner niet trainen zoals een expert (beginners missen de neurale verbindingen voor mentaal werk), en je kunt een expert niet trainen zoals een beginner (een hoge technische werkdruk leidt tot burn-out en overmatig nadenken).
 
-De reis van techniek naar flow vereist strategische inversie. Pas je training aan je ontwikkelingsfase aan.
+De weg van techniek naar flow vereist een strategische omkering. Stem je training af op je ontwikkelingsfase.
 

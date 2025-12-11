@@ -2,6 +2,29 @@
 
 Pétanque is often played in teams - doubles (doublettes) or triples (triplettes). Individual skill matters, but team dynamics can make or break your results. The best teams aren't always the most skilled - they're the ones that work best together.
 
+::: tip The Big Idea
+**The best teams aren't always the most skilled - they're the ones that work best together.** Being humble, hungry, and emotionally smart makes you a great teammate.
+:::
+
+```mermaid
+graph TD
+    A[Great Teammate] --> B[Humble]
+    A --> C[Hungry]
+    A --> D[Smart]
+
+    B --> E[Team Success]
+    C --> E
+    D --> E
+
+    E --> F[Championship Performance]
+
+    style A fill:#e8f5e9
+    style B fill:#e3f2fd
+    style C fill:#fff4e1
+    style D fill:#f3e5f5
+    style F fill:#fff4e1
+```
+
 ## What Makes a Great Teammate?
 
 Research and experience point to three key qualities:

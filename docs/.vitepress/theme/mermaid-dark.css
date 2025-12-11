@@ -1,0 +1,108 @@
+/* Mermaid Diagram Styles - Same colors for both light and dark mode */
+
+/* Base styles */
+.mermaid {
+  background: transparent !important;
+  display: flex;
+  justify-content: center;
+  margin: 1.5rem 0;
+}
+
+.mermaid svg {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Same styling for BOTH light and dark modes - light blue boxes with dark text */
+.mermaid .node rect,
+.mermaid .node circle,
+.mermaid .node ellipse,
+.mermaid .node polygon,
+.mermaid .node path {
+  fill: #dbeafe !important;
+  stroke: #3b82f6 !important;
+  stroke-width: 2px !important;
+}
+
+.mermaid text,
+.mermaid .nodeLabel,
+.mermaid .edgeLabel,
+.mermaid tspan,
+.mermaid .label {
+  fill: #1e293b !important;
+  color: #1e293b !important;
+  font-weight: 500 !important;
+  font-size: 15px !important;
+}
+
+.mermaid .edgePath .path,
+.mermaid line {
+  stroke: #64748b !important;
+  stroke-width: 2px !important;
+}
+
+.mermaid .arrowheadPath,
+.mermaid marker path {
+  fill: #64748b !important;
+  stroke: #64748b !important;
+}
+
+/* Ensure text is always visible */
+.mermaid foreignObject {
+  color: #1e293b !important;
+}
+
+.mermaid .edgeLabel rect {
+  fill: #ffffff !important;
+}
+
+/* Sequence diagram specific styles */
+/* Note boxes in sequence diagrams */
+.mermaid .note,
+.mermaid .noteText,
+.mermaid .actor {
+  fill: #dbeafe !important;
+  stroke: #3b82f6 !important;
+  stroke-width: 2px !important;
+}
+
+/* Note text - ensure visibility in both light and dark mode */
+.mermaid .noteText tspan,
+.mermaid .labelText tspan {
+  fill: #1e293b !important;
+  color: #1e293b !important;
+  font-weight: 500 !important;
+  font-size: 14px !important;
+}
+
+/* Actor boxes */
+.mermaid .actor-box {
+  fill: #dbeafe !important;
+  stroke: #3b82f6 !important;
+}
+
+/* Sequence diagram messages/arrows */
+.mermaid .messageLine0,
+.mermaid .messageLine1 {
+  stroke: #64748b !important;
+  stroke-width: 2px !important;
+}
+
+/* Sequence diagram message text labels - make visible in dark mode */
+.mermaid .messageText,
+.mermaid .loopText,
+.mermaid .loopText tspan,
+.mermaid .labelBox {
+  fill: #1e293b !important;
+  color: #1e293b !important;
+  font-weight: 600 !important;
+  font-size: 15px !important;
+}
+
+/* Add background to message text for better visibility in dark mode */
+.dark .mermaid .messageText {
+  fill: #ffffff !important;
+  color: #ffffff !important;
+  font-weight: 600 !important;
+}
+

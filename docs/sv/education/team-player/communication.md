@@ -1,203 +1,220 @@
-# Lagkommunikation
+# Teamkommunikation
 
-Effektiv kommunikation är det som förvandlar en grupp individer till ett lag. I pétanque, där strategin ständigt skiftar och trycket är högt, kan hur du kommunicerar avgöra resultatet.
+Effektiv kommunikation är det som förvandlar en grupp individer till ett team. I boule, där strategin ständigt förändras och pressen är hög, kan hur du kommunicerar avgöra resultatet.
+
+::: tip Den stora idén
+**Kommunikation är det som förvandlar individer till ett team.** Tydlig, specifik och stödjande kommunikation under press skiljer bra team från fantastiska.
+:::
 
 ## Kommunikationscykeln
 
-God lagkommunikation följer en cykel:
+God teamkommunikation följer en cykel:
 
+```mermaid
+graph LR
+    A[Observera] --> B[Dela]
+    B --> C[Diskutera]
+    C --> D[Besluta]
+    D --> E[Utföra]
+    E --> F[Recension]
+    F --> A
+
+    style A fill:#e3f2fd
+    style D fill:#e8f5e9
+    style E fill:#fff4e1
+    style F fill:#f3e5f5
 ```
-Observera → Dela → Diskutera → Besluta → Utföra → Granska
-```
 
-1. **Observera:** Lägg märke till vad som händer (terräng, positioner, motståndare)
-2. **Dela:** Berätta för dina lagkamrater vad du ser
-3. **Diskutera:** Utbyta perspektiv och idéer
-4. **Besluta:** Komma överens om tillvägagångssättet
-5. **Utföra:** Gör det med engagemang
-6. **Granska:** Lär av resultatet
+| Steg | Handling | Exempel |
+|------|--------|---------|
+| **Observera** | Lägg märke till vad som händer | Terräng, positioner, motståndare |
+| **Dela** | Berätta för dina lagkamrater vad du ser | &quot;Marken sluttar därifrån&quot; |
+| **Diskutera** | Utbytesperspektiv | &quot;Ska jag blockera eller satsa på poäng?&quot; |
+| **Besluta** | Överens om tillvägagångssätt | &quot;Vi provar den höga lobben&quot; |
+| **Utföra** | Gör det med engagemang | Fullt fokus på kastet |
+| **Recension** | Lär dig av resultatet | &quot;Det fungerade bra&quot; eller &quot;Nästa gång...&quot; |
 
-## När att kommunicera
+## När man ska kommunicera
 
-### Före varje omgång
+### Före varje slut
 - Bedöm terrängen tillsammans
-- Diskutera allmän strategi
-- Klargör vem som kastar när
+- Diskutera den allmänna strategin
+- Förtydliga vem som kastar när
 - Sätt tonen (lugn, fokuserad)
 
-### Under omgången
-- Dela observationer ("Marken lutar åt vänster där")
-- Koordinera strategi ("Ska jag försöka blockera eller gå för poänget?")
-- Erbjud stöd ("Ta din tid, du har detta")
-- Justera planer när situationen förändras
+### Under slutet
+- Dela observationer (&quot;Marksluttningen som lämnas där&quot;)
+- Koordinationsstrategi (&quot;Ska jag försöka blockera eller gå för poängen?&quot;)
+- Erbjud stöd (&quot;Ta din tid, du klarar det här&quot;)
+- Anpassa planer när situationen förändras
 
-### Mellan omgångar
-- Snabb debrief (vad fungerade, vad gjorde inte)
+### Mellan ändarna
+- Snabb genomgång (vad fungerade, vad fungerade inte)
 - Återställ mentalt
-- Förbered för nästa omgång
-- Håll dig kopplad som ett lag
+- Förbered dig för nästa slut
+- Håll kontakten som ett team
 
 ### Efter matchen
-- Full debrief (när lämpligt)
+- Fullständig debriefing (vid behov)
 - Erkänn bidrag
 - Identifiera lärdomar
-- Upprätthåll relation
+- Upprätthåll relationen
 
 ## Hur man kommunicerar
 
 ### Var tydlig och specifik
 
-**Vag:** "Försök komma nära"
-**Tydlig:** "Sikta mot vänstra sidan av cochonnet, cirka 20cm ut"
+**Vagt:** &quot;Försök att komma nära&quot;
+**Klart:** &quot;Sikta mot vänster sida av domkraften, cirka 20 cm ut&quot;
 
-**Vag:** "Bra försök"
-**Tydlig:** "Bra vikt, bara lite till vänster om linjen"
+**Vagt:** &quot;Bra försök&quot;
+**Klart:** &quot;Bra vikt, bara en liten bit kvar av linjen&quot;
 
 ### Var konstruktiv
 
 Fokusera på lösningar, inte problem:
 
-**Problemfokuserad:** "Du fortsätter missa åt höger"
-**Lösningsfokuserad:** "Kanske försök sikta lite mer åt vänster för att kompensera?"
+**Problemfokuserad:** &quot;Du fortsätter att missa till höger&quot;
+**Lösningsfokuserad:** &quot;Kanske försöka sikta lite mer åt vänster för att kompensera?&quot;
 
 ### Var stödjande
 
-Din ton betyder lika mycket som dina ord:
-- Håll dig lugn, även när frustrerad
+Din ton är lika viktig som dina ord:
+- Behåll lugnet, även när du är frustrerad
 - Använd uppmuntrande kroppsspråk
-- Erkänn ansträngning, inte bara resultat
+- Erkänn ansträngningar, inte bara resultat
 - Bygg upp, riv inte ner
 
 ### Lyssna aktivt
 
 Kommunikation är tvåvägs:
-- Ge full uppmärksamhet när lagkamrater talar
+- Ge full uppmärksamhet när lagkamrater pratar
 - Ställ förtydligande frågor
-- Erkänn vad du har hört
+- Bekräfta vad du har hört
 - Avbryt inte eller avfärda
 
 ## Kommunikationsutmaningar
 
 ### Oenighet om strategi
 
-**Dålig strategi:**
-- Insistera på ditt sätt
+**Dåligt tillvägagångssätt:**
+- Insistera på din väg
 - Bli defensiv
-- Ge efter motvilligt
-- Bråka under matchen
+- Ge efter bittert
+- Bråka under spelets gång
 
-**Bättre strategi:**
+**Bättre tillvägagångssätt:**
 1. Dela ditt perspektiv tydligt
-2. Lyssna på deras fullt ut
-3. Diskutera för- och nackdelar kort
-4. Besluta tillsammans (eller skjut upp till utsedd ledare)
-5. Engagera dig fullt i beslutet
-6. Granska efter matchen
+2. Lyssna på deras helt
+3. Diskutera för- och nackdelar kortfattat
+4. Besluta tillsammans (eller låt det gå till utsedd ledare)
+5. Förbind dig helt och hållet till beslutet
+6. Recension efter matchen
 
 ### Efter en lagkamrats misstag
 
 **Vad de behöver:**
-- Snabbt erkännande
-- Tillåtelse att gå vidare
-- Förtroende att du fortfarande litar på dem
-- Fokus på nästa kast
+- Snabb bekräftelse
+- Tillstånd att gå vidare
+- Förtroendet att du fortfarande litar på dem
+- Fokusera på nästa kast
 
-**Vad att säga:**
-- "Inget problem, nästa"
-- "Svårt, du har nästa"
-- "Vi är fortfarande med"
-- *Ibland räcker bara en nick eller klapp*
+**Vad ska man säga:**
+- &quot;Inga problem, nästa&quot;
+- &quot;Tuff paus, du har nästa&quot;
+- &quot;Vi är fortfarande inne på det här&quot;
+- *Ibland räcker det med en nick eller klapp*
 
-**Vad INTE att säga:**
-- Ingenting (tystnad känns som dom)
-- "Det är okej" (kan låta avfärdande)
+**Vad man INTE ska säga:**
+- Ingenting (tystnad känns som en dom)
+- &quot;Det är okej&quot; (kan låta avfärdande)
 - Något om vad som gick fel (inte nu)
 - Synlig frustration (kroppsspråk räknas)
 
 ### När du gör ett misstag
 
-**Vad att göra:**
-- Kort erkännande ("Mitt fel")
-- Ursäkta dig inte för mycket
-- Kom inte med ursäkter
+**Vad man ska göra:**
+- Kort tack (&quot;Mitt fel&quot;)
+- Be inte om ursäkt för mycket
+- Hitta inte på ursäkter
 - Återställ och fokusera på nästa kast
-- Lita på att dina lagkamrater stödjer dig
+- Lita på att dina lagkamrater stöttar dig
 
-### Spänning i laget
+### Spänningen i laget
 
-Om spänning byggs upp under en match:
-1. Erkänn att det händer
+Om spänningen byggs upp under en match:
+1. Inse att det händer
 2. Ta ett andetag innan du svarar
-3. Fokusera på matchen, inte konflikten
-4. Ta upp det ordentligt efter matchen
-5. Låt det inte påverka ditt spel
+3. Fokusera på spelet, inte konflikten
+4. Ta itu med det ordentligt efter matchen
+5. Låt det inte påverka ditt spelande
 
 ## Icke-verbal kommunikation
 
-Mycket av lagkommunikation är icke-verbal:
+Mycket av teamets kommunikation är icke-verbal:
 
 ### Positiva signaler
 - Ögonkontakt
-- Nicka
+- Nickar
 - Tummen upp
 - Avslappnad hållning
-- Röra sig mot lagkamrater
-- Le (när lämpligt)
+- Rör sig mot lagkamrater
+- Leende (när det är lämpligt)
 
-### Negativa signaler (Undvik dessa)
-- Rulla med ögonen
-- Vända sig bort
+### Negativa signaler (undvik dessa)
+- Ögonrullning
+- Vändande bort
 - Korsade armar
-- Sucka
-- Skaka på huvudet
+- Suckande
+- Skakar på huvudet
 - Spänt kroppsspråk
 
 **Kom ihåg:** Dina lagkamrater ser allt. Ditt kroppsspråk påverkar deras självförtroende och prestation.
 
 ## Bygga kommunikationsvanor
 
-### Öva kommunikation
+### Praktikkommunikation
 
-Vänta inte på tävling för att kommunicera:
-- Öva strategiska diskussioner i träning
+Vänta inte på att konkurrenterna ska kommunicera:
+- Öva strategiska diskussioner i utbildningen
 - Ge varandra feedback regelbundet
 - Utveckla ert lagspråk
-- Bygg komfort med ärligt samtal
+- Bygg trygghet med ärliga samtal
 
-### Utveckla lagsignaler
+### Utveckla teamsignaler
 
-Vissa lag utvecklar stenografi:
+Vissa team utvecklar förkortningar:
 - Handsignaler för strategi
 - Kodord för situationer
-- Snabba fraser med delad betydelse
+- Snabba fraser med gemensam betydelse
 
-### Regelbundna check-ins
+### Regelbundna incheckningar
 
-Utanför matcher:
+Utanför spelen:
 - Hur arbetar vi tillsammans?
 - Vad går bra?
-- Vad kunde vara bättre?
-- Några problem att ta upp?
+- Vad kan vara bättre?
+- Några problem att åtgärda?
 
-## Kaptensrollen
+## Kaptenens roll
 
-Om ditt lag har en utsedd ledare:
+Om ert team har en utsedd ledare:
 
-**Kaptensansvar:**
-- Slutgiltigt beslut när laget är oenigt
-- Sätta tonen och energin
-- Hantera lagdynamik
-- Hålla fokus under press
+**Kaptenens ansvarsområden:**
+- Slutgiltigt beslut när laget är oense
+- Sätter tonen och energin
+- Hantera teamdynamik
+- Att hålla fokus under press
 
 **Alla andra:**
 - Dela ditt perspektiv
-- Stöd beslutet när det är fattat
-- Hjälp till att upprätthålla lagenergi
+- Stöd beslutet när det väl är fattat
+- Hjälp till att upprätthålla teamets energi
 - Ta ansvar för din roll
 
-## Nyckelpunkt
+## Viktig slutsats
 
-> Fantastiska lag pratar med varandra, inte om varandra. De kommunicerar med ärlighet, respekt och ett delat engagemang för framgång.
+> Bra team pratar med varandra, inte om varandra. De kommunicerar med ärlighet, respekt och ett gemensamt engagemang för framgång.
 
-Öva kommunikation som du övar kastning. Det är en färdighet som förbättras med uppmärksamhet.
+Öva kommunikation på samma sätt som du övar på att kasta. Det är en färdighet som förbättras med uppmärksamhet.
 

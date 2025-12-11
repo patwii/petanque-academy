@@ -1,149 +1,189 @@
-# Teknisk träning vs flow-träning
+# Teknisk träning kontra flödesträning
 
-Att förstå skillnaden mellan teknisk träning och flow-träning är avgörande för elitveckling. Båda är nödvändiga, men de tjänar olika syften och kräver olika tillvägagångssätt.
+Att förstå skillnaden mellan teknisk träning och flowträning är avgörande för elitutveckling. Båda är nödvändiga, men de tjänar olika syften och kräver olika tillvägagångssätt.
+
+::: tip Kärnprincipen
+**Du kan inte träna en nybörjare som en expert** (de saknar nervbanor), och **du kan inte träna en expert som en nybörjare** (hög teknisk volym orsakar övertänkande).
+:::
+
+```mermaid
+graph LR
+    A[Nybörjare <br/> 90 % teknik] --> B[Mellanliggande <br/> 70 % teknik]
+    B --> C[Avancerad <br/> 50 % teknik]
+    C --> D[Expert <br/> 20 % teknik]
+
+    A2[10 % Mental] --> B2[30 % Mental]
+    B2 --> C2[50 % Mental]
+    C2 --> D2[80 % mental]
+
+    style A fill:#ffcdd2
+    style B fill:#ffccbc
+    style C fill:#fff9c4
+    style D fill:#c8e6c9
+    style D2 fill:#a5d6a7
+```
 
 ## Två typer av träning
 
-### Teknisk träning (explicit inlärning)
-Detta är träningen som de flesta spelare känner väl till:
-- Fokuserad på mekanik och form
-- Medveten uppmärksamhet på kroppsrörelser
-- Nedbrytning av färdigheter i komponenter
-- Repetitiv övning av specifika tekniker
+::: info Teknisk utbildning (explicit lärande)
+**Fokus:** Mekanik och form
+**Uppmärksamhet:** Medvetna kroppsrörelser
+**Metod:** Nedbrytning av färdigheter, repetitiv övning
+**Bäst för:** Att lära sig nya färdigheter, korrigera dåliga vanor, bygga grunder
 
-**Bäst för:** Att lära sig nya färdigheter, korrigera dåliga vanor, bygga din grund
+**Exempel:** Öva din släpppunkt 50 gånger med videoanalys
+:::
 
-### Flow-träning (implicit inlärning)
-Detta är träning för automatisk utförande:
-- Fokuserad på resultat, inte mekanik
-- Låta det undermedvetna ta över
-- Varierad, spelliknande övning
-- Mentala tekniker och visualisering
+::: info Flödesträning (Implicit lärande)
+**Fokus:** Resultat, inte mekanik
+**Uppmärksamhet:** Att låta det undermedvetna ta över
+**Metod:** Varierad, spelliknande övning, visualisering
+**Bäst för:** Tävlingsförberedelser, bygga upp självförtroende, topprestationer
 
-**Bäst för:** Tävlingsförberedelse, bygga självförtroende, nå topprestanda
+**Exempel:** Att spela träningsmatcher med press, fokusera endast på måltavlor
+:::
 
 ## Den dynamiska inversionsmodellen
 
-Det korrekta träningsförhållandet är omvänt korrelerat med teknisk kompetens. När du bemästrar teknik blir mental träning viktigare - inte mindre.
+Rätt träningsförhållande är omvänt korrelerat med teknisk kompetens. Allt eftersom du bemästrar tekniken blir mental träning viktigare – inte mindre.
 
-### 1. Nybörjare (kognitiv fas)
+### 1. Nybörjare (kognitivt stadium)
 - Du tänker medvetet på *vad* du ska göra
-- Rörelser känns klumpiga och kräver ansträngning
+- Rörelserna känns obekväma och kräver ansträngning
 - Hjärnan är helt mättad med mekanik
-- **Förhållande:** 90% teknisk / 10% mental
+- **Förhållande:** 90 % teknisk / 10 % mental
 - **Mentalt fokus:** Njutning, externt fokus (titta på målet), inte komplex visualisering
 
-### 2. Medelnivå (associativ fas)
+### 2. Mellanstadiet (Associativt stadium)
 - Du förfinar färdigheten med mindre medveten tanke
-- Rörelser blir smidigare, fel minskar
-- Du börjar upptäcka dina egna fel
-- **Förhållande:** 70% teknisk / 30% mental
-- **Mentalt fokus:** Utveckla din pre-prestationsrutin (PPR)
+- Rörelserna blir smidigare, felen minskar
+- Du börjar upptäcka dina egna misstag
+- **Förhållande:** 70 % teknisk / 30 % mental
+- **Mental fokus:** Utveckla din rutiner före framträdandet (PPR)
 
 ### 3. Avancerad (tröskel för autonomi)
-- Färdigheten är i stort sett automatiserad
-- Din självbild ligger ofta efter din fysiska förmåga
-- Träning fokuserar på trycksimulering
-- **Förhållande:** 50% teknisk / 50% mental
+- Färdigheten är till stor del automatiserad
+- Din självbild släpar ofta efter din fysiska förmåga
+- Utbildningen fokuserar på trycksimulering
+- **Förhållande:** 50% Teknisk / 50% Mental
 - **Mentalt fokus:** Visualisering, självbild, ångestkontroll
 
-### 4. Expert (autonom fas)
+### 4. Expert (autonomt stadium)
 - Tekniska färdigheter är helt undermedvetna
-- Medveten uppmärksamhet på mekanik stör prestanda
-- Underhållsvolym är allt du behöver tekniskt
-- **Förhållande:** 20% teknisk / 80% mental
-- **Mentalt fokus:** Flow-tillstånd, strategi, lugna sinnet
+- Medveten uppmärksamhet på mekanik stör prestandan
+- Underhållsvolymen är allt du behöver tekniskt sett
+- **Förhållande:** 20 % teknisk / 80 % mental
+- **Mentalt fokus:** Flödestillstånd, strategi, att stilla sinnet
 
 ## Progressionstabellen
 
-| Nivå | Teknisk : Mental | Primärt mål |
+| Nivå | Teknik: Mental | Primärt mål |
 |-------|---------------|-------------------|
 | Nybörjare | 90 : 10 | Bygg maskinen |
-| Medelnivå | 70 : 30 | Stabilisera färdigheten |
-| Avancerad | 50 : 50 | Lita på maskinen |
-| Expert | 20 : 80 | Frihet i prestanda |
+| Mellanliggande | 70:30 | Stabilisera färdigheten |
+| Avancerad | 50:50 | Lita på maskinen |
+| Expert | 20:80 | Frihet att prestera |
 
 ## Expertfällan
 
-För avancerade och expertspelare är det farligt att återgå till högt tekniskt fokus.
+För avancerade och experter är det farligt att återgå till högt tekniskt fokus.
 
-**Problemet:** När du har automatiserat en färdighet men medvetet övervakar den under tävling, aktiverar du det medvetna sinnet och åsidosätter det undermedvetna. Detta orsakar prestationsångest och "kvävning."
+**Problemet:** När du har automatiserat en färdighet men medvetet övervakar den under tävling, engagerar du det medvetna sinnet och åsidosätter det undermedvetna. Detta orsakar prestationsångest och &quot;kvävningskänsla&quot;.
 
-**Vetenskapen:** Volymen som krävs för att upprätthålla en färdighet är betydligt lägre (ofta 1/3 till 1/9) än volymen som krävs för att bygga den. Experter behöver minimalt tekniskt arbete för att behålla sin känsla.
+**Vetenskapen:** Den volym som krävs för att upprätthålla en färdighet är betydligt lägre (ofta 1/3 till 1/9) än den volym som krävs för att bygga upp den. Experter behöver minimalt med tekniskt arbete för att behålla sin touch.
 
 **Elitexempel:** Mästare som Philippe Quintais och Dylan Rocher fokuserar starkt på taktiska scenarier och kritiska ögonblick snarare än mekaniska övningar.
 
 Tecken på att du övertänker teknik:
 - Förlamning genom analys
-- Inkonsekvent prestation trots god teknik
+- Inkonsekvent prestation trots bra teknik
 - Sämre resultat i tävling än i träning
-- Känna sig "mekanisk" istället för flytande
+- Känsla av &quot;mekanisk&quot; istället för flytande
 
-## Träningsmetoder jämförda
+## Jämförda träningsmetoder
 
-| Aspekt | Teknisk träning | Flow-träning |
+| Aspekt | Teknisk utbildning | Flödesträning |
 |--------|-------------------|---------------|
-| **Övningstyp** | Blockerad (samma färdighet upprepade gånger) | Slumpmässig (varierade färdigheter) |
-| **Feedback** | Omedelbar, detaljerad | Fördröjd, resultatfokuserad |
+| **Typ av övning** | Blockerad (samma färdighet upprepade gånger) | Slumpmässig (varierade färdigheter) |
+| **Feed-back** | Omedelbar, detaljerad | Fördröjd, resultatfokuserad |
 | **Miljö** | Kontrollerad, förutsägbar | Variabel, spelliknande |
 | **Mentalt tillstånd** | Analytisk, medveten | Intuitiv, automatisk |
-| **Bästa tid** | Off-season, färdighetsbyggande | Före tävling, underhåll |
+| **Bästa tid** | Lågsäsong, färdighetsbyggande | Förberedelser inför tävlingen, underhåll |
 
-## Blockerad vs slumpmässig övning
+## Blockerad vs. slumpmässig övning
 
 **Blockerad övning:** Upprepa samma kast 20 gånger
-- Känns produktivt (du ser snabb förbättring)
-- Bra för initial inlärning
-- Dåligt för långsiktig retention
+- Känns produktiv (du ser snabb förbättring)
+- Bra för inledande inlärning
+- Dålig för långsiktig retention
 
 **Slumpmässig övning:** Variera avstånd, mål och kasttyp
-- Känns svårare (fler fel)
+- Känns svårare (fler misstag)
 - Bättre för tävlingsöverföring
-- Bygger anpassningsförmåga och beslutsfattande
+- Bygger upp anpassningsförmåga och beslutsfattande
 
 ## Praktiska riktlinjer
 
-### För tekniska pass
-1. Fokusera på ETT aspekt i taget
+### För tekniska sessioner
+1. Fokusera på EN aspekt åt gången
 2. Använd videoanalys
-3. Få feedback från en tränare eller träningspartner
-4. Acceptera att det kommer kännas klumpigt i början
-5. Håll passen kortare (kvalitet över kvantitet)
+3. Få feedback från en coach eller träningspartner
+4. Acceptera att det kommer att kännas obekvämt till en början
+5. Håll sessionerna kortare (kvalitet framför kvantitet)
 
-### För flow-pass
-1. Skapa spelliknande tryck
+### För flödessessioner
+1. Skapa spelliknande press
 2. Fokusera på målet, inte din kropp
-3. Använd din rutin före kast konsekvent
-4. Analysera inte under passet
+3. Använd din rutin före sprutning konsekvent
+4. Analysera inte under sessionen
 5. Lita på din träning
 
 ## Integrationsutmaningen
 
-Den verkliga färdigheten är att veta när man ska använda varje läge:
+Den verkliga skickligheten är att veta när man ska använda varje läge:
 
 **Under en tävlingsmatch:**
 - Tekniskt tänkande: ALDRIG under utförande
-- Flow-läge: ALLTID när du kastar
+- Flödesläge: ALLTID vid kastning
 
 **Under träning:**
-- Tekniska pass: Schemalagda, specifikt fokus
-- Flow-pass: Spelsimulering, tryckövning
+- Tekniska sessioner: Schemalagda, specifikt fokus
+- Flödessessioner: Spelsimulering, tryckövning
 
-## Veckobalansexempel
+## Exempel på veckobalans
 
-| Dag | Passtyp | Fokus |
+| Dag | Sessionstyp | Fokus |
 |-----|-------------|-------|
-| Måndag | Teknisk | Pointing precision |
-| Tisdag | Teknisk | Shooting noggrannhet |
-| Onsdag | Flow | Mental träning, visualisering |
-| Torsdag | Blandat | Spelscenarier med flow-fokus |
-| Fredag | Teknisk | Svagområde |
-| Lördag | Flow | Matchspel, tävlingssimulering |
-| Söndag | Vila | Återhämtning, reflektion |
+| måndag | Teknisk | Pekningsprecision |
+| tisdag | Teknisk | Skottprecision |
+| onsdag | Flöde | Mental träning, visualisering |
+| torsdag | Blandad | Spelscenarier med fokus på flöde |
+| Fredag | Teknisk | Svaghetsområde |
+| Lördag | Flöde | Matchspel, tävlingssimulering |
+| söndag | Vila | Återhämtning, reflektion |
 
-## Nyckelpoäng
+## Sammanfattning: Regler för träningsbalans
 
-> Du kan inte träna en nybörjare som en expert (de saknar de neurala banorna för mentalt arbete), och du kan inte träna en expert som en nybörjare (hög teknisk volym orsakar utbrändhet och övertänkande).
+::: tip Regel nr 1: Matcha träningen till nivå
+**Nybörjare (90/10):** Bygg maskinen - fokusera på teknik
+**Medel (70/30):** Stabilisera färdigheten - lägg till mentalt arbete
+**Avancerad (50/50):** Lita på maskinen – balansera båda
+**Expert (20/80):** Prestationsfrihet - mestadels mental
+:::
 
-Resan från teknik till flow kräver strategisk inversion. Anpassa din träning till ditt utvecklingsstadium.
+::: tip Regel nr 2: Blockerad kontra slumpmässig övning
+**Blockerad övning** (samma kast upprepade gånger): Bra för initial inlärning, dålig för att hålla tillbaka
+**Slumpmässig övning** (varierade kast): Svårare på övning, bättre på tävling
+:::
+
+::: tip Regel nr 3: Expertfällan
+**För experter:** Hög teknisk volym orsakar övertänkande och kvävning
+**Lösning:** Minimalt tekniskt underhåll, maximal mental träning
+:::
+
+## Viktig slutsats
+
+> Du kan inte träna en nybörjare som en expert (de saknar neurala banor för mentalt arbete), och du kan inte träna en expert som en nybörjare (hög teknisk volym orsakar utbrändhet och övertänkande).
+
+Resan från teknik till flöde kräver strategisk inversion. Anpassa din träning till ditt utvecklingsstadium.
 

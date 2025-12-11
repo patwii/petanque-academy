@@ -1,167 +1,197 @@
-# Construire une pratique quotidienne de mindfulness
+# Développer une pratique quotidienne de la pleine conscience
 
-Les bénéfices de la mindfulness viennent d'une pratique constante. Voici comment en faire partie de votre vie.
+Les bienfaits de la pleine conscience proviennent d&#39;une pratique régulière. Voici comment l&#39;intégrer à votre vie.
 
-## Pourquoi la pratique quotidienne compte
+::: tip La grande idée
+**La régularité est plus efficace que l&#39;intensité.** Cinq minutes par jour valent mieux qu&#39;une heure une fois par semaine. Commencez petit à petit, soyez régulier, et les bienfaits se cumuleront au fil du temps.
+:::
 
-La mindfulness est comme la condition physique :
-- Vous ne pouvez pas être en forme après une séance de gym
-- La pratique régulière crée un changement durable
-- Les effets s'accumulent avec le temps
-- Cela devient plus facile avec la constance
+```mermaid
+graph LR
+    A[Pratique quotidienne] --> B[Voies neuronales]
+    B --> C[Compétence automatique]
+    C --> D[Performance en compétition]
 
-La recherche montre que même **3 minutes par jour** créent des bénéfices mesurables. Mais vous devez le faire régulièrement.
+    style A fill:#e8f5e9
+    style B fill:#e3f2fd
+    style C fill:#fff4e1
+    style D fill:#fff4e1
+```
 
-## Créer votre routine
+## Pourquoi la pratique quotidienne est importante
 
-### Étape 1 : Choisissez votre moment
+::: info La pleine conscience est comparable à la forme physique
+- ❌ On ne peut pas se mettre en forme en une seule séance de gym
+- ✅ Une pratique régulière engendre un changement durable
+- ✅ Les effets s&#39;accumulent avec le temps
+- ✅ Cela devient plus facile avec la régularité.
+:::
 
-Choisissez un moment cohérent qui fonctionne pour votre vie :
+```mermaid
+graph TD
+    A[Pratique cohérente] --> B[Semaine 1 : Créer des habitudes]
+    B --> C[Mois 1 : Préavis des prestations]
+    C --> D[Mois 3 : Plus naturel]
+    D --> E[Année 1+ : Compétences fondamentales]
 
-| Moment | Avantages | Considérations |
+    style A fill:#e8f5e9
+    style E fill:#fff4e1
+```
+
+::: tip Fondé sur la recherche
+Des études montrent que même **3 minutes par jour** apportent des bienfaits mesurables. Mais il faut le faire régulièrement.
+:::
+
+## Créer sa routine
+
+### Étape 1 : Choisissez votre heure
+
+Choisissez un horaire régulier qui convienne à votre vie :
+
+| Temps | Avantages | Considérations |
 |------|------------|----------------|
-| **Matin** | Donne le ton de la journée, moins d'interruptions | Besoin de se réveiller plus tôt |
-| **Midi** | Coupe la journée, réinitialise le focus | Peut oublier, conflits d'horaire |
-| **Soir** | Se détendre, réfléchir sur la journée | Peut être fatigué, moins alerte |
-| **Avant l'entraînement** | Connexion directe à la pétanque | Dépend du planning d'entraînement |
+| **Matin** | Donne le ton à la journée, moins d&#39;interruptions | Il faut se réveiller plus tôt |
+| **Midi** | Cela permet de faire une pause dans la journée et de se recentrer. | Risque d&#39;oubli, conflits d&#39;horaire |
+| **Soirée** | Détendez-vous, réfléchissez à votre journée. | Peut être fatigué, moins alerte |
+| **Avant l&#39;entraînement** | Connexion directe à la pétanque | Cela dépend du programme d&#39;entraînement |
 
-**Meilleure approche :** Liez-le à une habitude existante (après le café, avant le déjeuner, etc.)
+**Meilleure approche :** Liez-le à une habitude existante (après le café, avant le déjeuner, etc.).
 
-### Étape 2 : Commencez petit
+### Étape 2 : Commencez petit
 
 Ne visez pas 30 minutes le premier jour.
 
 **Progression recommandée :**
-- Semaine 1-2 : 3-5 minutes
-- Semaine 3-4 : 5-10 minutes
-- Mois 2 : 10-15 minutes
-- Mois 3+ : 15-20 minutes
+- Semaines 1 et 2 : 3 à 5 minutes
+- Semaines 3 et 4 : 5 à 10 minutes
+- Mois 2 : 10 à 15 minutes
+- Mois 3 et suivants : 15 à 20 minutes
 
-Il vaut mieux faire 5 minutes chaque jour que 30 minutes une fois par semaine.
+Il vaut mieux faire 5 minutes par jour que 30 minutes une fois par semaine.
 
 ### Étape 3 : Créez votre espace
 
-Vous n'avez pas besoin d'une salle de méditation, mais avoir un endroit cohérent aide :
-- Quelque part de calme (ou utilisez des écouteurs)
-- Siège confortable
+Vous n&#39;avez pas besoin d&#39;une salle de méditation, mais avoir un endroit régulier est utile :
+- Un endroit calme (ou utilisez des écouteurs)
+- Sièges confortables
 - Distractions minimales
-- Même endroit à chaque fois si possible
+- Si possible, toujours au même endroit.
 
-### Étape 4 : Supprimez les barrières
+### Étape 4 : Supprimer les barrières
 
-Facilitez la pratique :
-- Mettez votre téléphone en silencieux
-- Dites à la famille/colocataires de ne pas interrompre
-- Ayez tout prêt (coussin, minuteur)
-- N'attendez pas des conditions "parfaites"
+Facilitez la pratique :
+- Mettez votre téléphone en mode silencieux.
+- Dites à votre famille/vos colocataires de ne pas interrompre
+- Préparez tout (coussin, minuteur).
+- N’attendez pas les conditions « parfaites ».
 
-## Exemples de programmes quotidiens
+## Exemples d&#39;horaires quotidiens
 
 ### Pratique minimale (5 minutes)
 - Matin : 3 minutes de respiration consciente
-- Tout au long de la journée : 3 moments de cloche de mindfulness
-- Soir : 2 minutes de conscience corporelle avant le sommeil
+- Tout au long de la journée : 3 moments de pleine conscience
+- Soirée : 2 minutes de conscience corporelle avant de dormir
 
-### Pratique standard (15 minutes)
+### Exercice standard (15 minutes)
 - Matin : 10 minutes de méditation assise
 - Midi : 2 minutes de respiration consciente
-- Soir : 3 minutes de scan corporel
+- Soirée : 3 minutes de scan corporel
 
 ### Pratique intensive (30 minutes)
 - Matin : 15 minutes de méditation assise
-- Midi : 5 minutes de méditation marchée
-- Soir : 10 minutes de scan corporel
-- Plus : Alimentation consciente à un repas
+- Midi : 5 minutes de méditation en marchant
+- Soirée : 10 minutes de scan corporel
+- De plus : Manger en pleine conscience lors d&#39;un repas
 
-## Intégration avec l'entraînement de pétanque
+## Intégration avec l&#39;entraînement à la pétanque
 
-### Avant l'entraînement
+### Avant l&#39;entraînement
 - 5 minutes de méditation assise
-- Définir une intention pour la session
-- Scan corporel pour remarquer toute tension
+- Définissez une intention pour la séance
+- Scannez votre corps pour détecter toute tension.
 
-### Pendant l'entraînement
-- Utiliser la routine pré-tir comme pratique de mindfulness
+### Pendant l&#39;entraînement
+- Utilisez votre routine pré-injection comme exercice de pleine conscience
 - Appliquer SOAS après les erreurs
-- Rester présent entre les tirs
+- Restez concentré entre les lancers
 
-### Après l'entraînement
+### Après l&#39;entraînement
 - 3 minutes de réflexion (sans jugement)
-- Noter les moments de flow
-- Respiration consciente pour la transition
+- Notez les moments de fluidité.
+- Respiration consciente pour la transition vers la sortie
 
 ## Suivi de votre pratique
 
-Garder une trace aide à maintenir la constance :
+Le suivi permet de maintenir la cohérence :
 
 ### Journal simple
-| Date | Durée | Type | Notes |
+| Date | Durée | Taper | Notes |
 |------|----------|------|-------|
-| Lun | 10 min | Assise | Esprit très occupé |
-| Mar | 10 min | Assise | Plus calme aujourd'hui |
-| Mer | 5 min | Scan corporel | Trouvé tension dans les épaules |
+| Lun | 10 min | Assis | L&#39;esprit très occupé |
+| Mar | 10 min | Assis | Plus calme aujourd&#39;hui |
+| Épouser | 5 min | scan corporel | Tension ressentie dans les épaules |
 
-### Quoi suivre
+### Que suivre
 - Avez-vous pratiqué ? (Oui/Non)
-- Combien de temps ?
-- Quel type ?
-- Note brève sur l'expérience (optionnel)
+- Combien de temps?
+- De quel type ?
+- Brève note sur l&#39;expérience (facultatif)
 
-### Apps qui aident
+### Applications utiles
 - Headspace
-- Calm
-- Insight Timer
-- Trackers d'habitudes simples
+- Calme
+- Minuteur Insight
+- Suivi des habitudes simples
 
 ## Surmonter les obstacles courants
 
-### "Je n'ai pas le temps"
+### «Je n&#39;ai pas le temps»
 - Vous avez 3 minutes
-- C'est une question de priorité, pas de temps
-- Essayez de lier à des activités existantes
+- Il s&#39;agit de priorité, pas de temps.
+- Essayez de créer des liens vers des activités existantes
 
-### "J'oublie tout le temps"
-- Définissez une alarme quotidienne
-- Liez à une habitude existante
-- Mettez un rappel visuel quelque part où vous le verrez
+### « J&#39;oublie sans cesse »
+- Programmer une alarme quotidienne
+- Lien avec une habitude existante
+- Placez un rappel visuel à un endroit où vous le verrez.
 
-### "Je ne le fais pas correctement"
-- Il n'y a pas de "bonne" façon
-- Si vous êtes attentif, vous le faites
-- L'esprit vagabond est normal et attendu
+### «Je ne m&#39;y prends pas bien»
+- Il n&#39;y a pas de « bonne » façon
+- Si vous êtes attentif, vous le faites.
+- L&#39;esprit vagabonde est normal et attendu.
 
-### "Je ne vois pas de résultats"
-- Les bénéfices sont subtils au début
-- Tenez un journal pour remarquer les changements
-- Faites confiance à la recherche - ça marche
+### «Je ne vois pas de résultats»
+- Les bénéfices sont subtils au début.
+- Tenez un journal pour noter les changements au fil du temps
+- Faites confiance à la recherche : ça marche.
 
-### "C'est ennuyeux"
-- L'ennui est juste une autre expérience à observer
+### « C&#39;est ennuyeux »
+- L&#39;ennui n&#39;est qu&#39;une autre expérience à observer.
 - Essayez différentes techniques
-- Rappelez-vous pourquoi vous le faites
+- N&#39;oubliez pas pourquoi vous le faites.
 
 ## Signes de progrès
 
-Vous ne remarquerez peut-être pas de changements dramatiques, mais cherchez :
-- Vous rattraper quand l'esprit vagabonde (plus vite)
-- Récupérer de la frustration plus rapidement
-- Remarquer la tension avant qu'elle ne s'accumule
-- Se sentir plus présent pendant les parties
-- Meilleur sommeil
-- Moins réactif aux mauvais tirs
+Vous ne remarquerez peut-être pas de changements spectaculaires, mais soyez attentif à :
+- Se reprendre lorsqu&#39;on a l&#39;esprit qui vagabonde (plus rapidement)
+- Se remettre plus rapidement de la frustration
+- Détecter les tensions avant qu&#39;elles ne s&#39;installent
+- Se sentir plus présent pendant les jeux
+- Un meilleur sommeil
+- Moins réactif aux mauvais lancers
 
-## Le long terme
+## Le jeu à long terme
 
-La mindfulness est une pratique de toute une vie. Les athlètes d'élite disent souvent que c'est la compétence la plus précieuse qu'ils ont développée.
+La pleine conscience est une pratique qui dure toute la vie. Les athlètes de haut niveau affirment souvent que c&#39;est la compétence la plus précieuse qu&#39;ils aient développée.
 
-**Mois 1 :** Construire l'habitude
-**Mois 2-3 :** Commencer à remarquer les bénéfices
-**Mois 4-6 :** Devenir plus naturel
-**Année 1+ :** Partie fondamentale de qui vous êtes
+**Mois 1 :** Instaurer l&#39;habitude
+**Mois 2-3 :** On commence à constater les bienfaits
+**Mois 4 à 6 :** Devenir plus naturel
+**Année 1 et suivantes :** Une partie fondamentale de votre identité
 
-## Point clé
+## Points clés à retenir
 
-> La constance bat l'intensité. Cinq minutes chaque jour battent une heure une fois par semaine.
+> La régularité est plus importante que l&#39;intensité. Cinq minutes par jour valent mieux qu&#39;une heure une fois par semaine.
 
-Commencez aujourd'hui. Commencez petit. Continuez.
+Commencez dès aujourd&#39;hui. Commencez petit. Persévérez.
 

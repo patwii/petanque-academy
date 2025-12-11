@@ -1,6 +1,30 @@
-# Håndtering af pres
+# Håndtering af tryk
 
-Pres er en del af konkurrence. Målet er ikke at eliminere det - det er umuligt. Målet er at præstere godt på trods af det og endda bruge det til din fordel.
+Pres er en del af konkurrence. Målet er ikke at eliminere det - det er umuligt. Målet er at præstere godt på trods af det, og endda bruge det til din fordel.
+
+::: tip Den store idé
+**Pres forsvinder ikke med erfaring - man bliver bare bedre til at præstere med det.** De bedste spillere er ikke rolige; de er dygtige til at bruge deres ophidselse produktivt.
+:::
+
+```mermaid
+graph TD
+    A[Pressituation] --> B{Your Response}
+    B -->|Anxiety| C[Ydelsesfald]
+    B -->|Excitement| D[Ydelsen stiger]
+
+    C --> E[Negative tanker]
+    C --> F[Spænding]
+    C --> G[Dårlig fokus]
+
+    D --> H[Energigivende]
+    D --> I[Fokuseret]
+    D --> J[Overbevist]
+
+    style A fill:#fff4e1
+    style B fill:#e3f2fd
+    style C fill:#ffebee
+    style D fill:#e8f5e9
+```
 
 ## Forståelse af pres
 
@@ -8,160 +32,160 @@ Pres er en del af konkurrence. Målet er ikke at eliminere det - det er umuligt.
 - Høje indsatser (vigtig kamp, afgørende kast)
 - At blive set (publikum, holdkammerater)
 - Forventninger (dine og andres)
-- Usikkerhed (tæt score, ukendte modstandere)
-- Tid (løber ud, venter for længe)
+- Usikkerhed (tæt stilling, ukendte modstandere)
+- Tid (at løbe ud, for lang ventetid)
 
 ### Hvad pres gør ved din krop
 Når du føler pres, reagerer din krop:
 - Hjertefrekvensen stiger
 - Vejrtrækningen bliver overfladisk
-- Musklerne spænder
+- Musklerne spændes
 - Hænderne kan ryste
 - Fokus indsnævres (nogle gange for meget)
 
-Dette er din krop, der forbereder sig til handling. Det er ikke dårligt - det er energi, du kan bruge.
+Det er din krop, der forbereder sig på handling. Det er ikke dårligt – det er energi, du kan bruge.
 
-## Omformulering af pres
+## Omformningstryk
 
 ### Pres som spænding
 
-De fysiske fornemmelser af angst og spænding er næsten identiske. Forskellen er, hvordan du fortolker dem.
+De fysiske fornemmelser af angst og spænding er næsten identiske. Forskellen ligger i, hvordan du fortolker dem.
 
-**Angstfortolkning:** "Jeg er nervøs, noget dårligt kan ske"
-**Spændingsfortolkning:** "Jeg er energisk, dette er vigtigt for mig"
+**Angstfortolkning:** &quot;Jeg er nervøs, der kan ske noget slemt&quot;
+**Spændingsfortolkning:** &quot;Jeg er energisk, det her er vigtigt for mig&quot;
 
-**Prøv dette:** Når du føler pres, sig til dig selv: "Jeg er spændt" i stedet for "Jeg er nervøs."
+**Prøv dette:** Når du føler dig presset, så sig til dig selv: &quot;Jeg er spændt&quot; i stedet for &quot;Jeg er nervøs&quot;.
 
 ### Pres som privilegium
 
 Kun vigtige øjeblikke skaber pres. Hvis du føler det, er du i en situation, der betyder noget.
 
-> "Pres er et privilegium - det kommer kun til dem, der fortjener det." - Billie Jean King
+> &quot;Pres er et privilegium - det kommer kun til dem, der fortjener det.&quot; - Billie Jean King
 
-## Teknikker til højpres-øjeblikke
+## Teknikker til højtryksmomenter
 
-### 1. Åndedræts kontrol
+### 1. Åndedrætskontrol
 
 Dit åndedræt er den hurtigste måde at ændre din tilstand på.
 
 **4-7-8-teknikken:**
-1. Indånd i 4 tællinger
+1. Inhalér i 4 tællinger
 2. Hold i 7 tællinger
 3. Udånd i 8 tællinger
 4. Gentag 2-3 gange
 
 **Hurtig nulstilling (i cirklen):**
-- Et langsomt, dybt åndedrag
-- Mærk dine fødder på jorden
-- Slip dine skuldre ved udånding
+- En langsom, dyb indånding
+- Føl dine fødder på jorden
+- Sænk skuldrene ved udåndingen
 
 ### 2. Fysisk jordforbindelse
 
-Forbind med fysiske fornemmelser for at komme ud af dit hoved:
-- Mærk vægten af kulen
+Forbind dig med fysiske fornemmelser for at komme ud af dit hoved:
+- Mærk vægten af kuglen
 - Læg mærke til dine fødder på jorden
 - Klem og slip din ikke-kastende hånd
 - Rul dine skuldre tilbage
 
 ### 3. Fokusindsnævring
 
-I pres-øjeblikke, fokuser kun på det, der betyder noget:
+I pressede øjeblikke, fokuser kun på det, der betyder noget:
 - Ikke scoren
 - Ikke publikum
-- Ikke hvad der kan ske
+- Ikke hvad der kunne ske
 - Bare dette kast, dette mål, dette øjeblik
 
-**Stikord:** "Her. Nu. Dette."
+**Ledeord:** &quot;Her. Nu. Dette.&quot;
 
 ### 4. Procesfokus
 
 Skift fra resultat til proces:
 
 **Resultatfokus (skaber pres):**
-- "Jeg skal lave dette"
-- "Hvis jeg misser, taber vi"
-- "Alle ser på"
+- &quot;Jeg er nødt til at lave dette&quot;
+- &quot;Hvis jeg misser, taber vi&quot;
+- &quot;Alle ser på&quot;
 
 **Procesfokus (reducerer pres):**
-- "Følg min rutine"
-- "Se målet"
-- "Stol på min træning"
+- &quot;Følg min rutine&quot;
+- &quot;Se målet&quot;
+- &quot;Stol på min træning&quot;
 
-### 5. Venstre hånd-klem
+### 5. Venstrehåndsklem
 
-For højrehåndede spillere, at klemme din venstre hånd i 10-15 sekunder:
-- Aktiverer højre hjernehalvdel
-- Dæmper analytisk overtænkning
+For højrehåndede spillere, klem venstre hånd i 10-15 sekunder:
+- Aktiverer den højre hjernehalvdel
+- Stilner analytisk overtænkning
 - Hjælper med at få adgang til automatisk udførelse
 
 Brug dette, når du bemærker, at du overtænker.
 
 ## Forberedelse til pres
 
-### Simuler pres i træning
+### Simuler tryk i praksis
 
-Du kan ikke håndtere konkurrencepres, hvis du aldrig oplever det i træning.
+Du kan ikke håndtere konkurrencepres, hvis du aldrig oplever det til træning.
 
-**Måder at skabe træningstryk:**
-- Sæt konsekvenser (armstrækninger for fejl, køb kaffe til partner)
-- Skab "skal-lave"-scenarier
+**Måder at skabe træningspres på:**
+- Sæt konsekvenser (armstrækninger for fejl, køb kaffe til partneren)
+- Skab &quot;must-make&quot; scenarier
 - Øv med et publikum
-- Tidspres (skuduret)
-- Træthed (øv når du er træt)
+- Tidspres (skudur)
+- Træthed (øv dig når du er træt)
 
 ### Visualisering
 
-Øv mentalt højpres-situationer:
+Øv mentalt situationer med højt pres:
 1. Luk dine øjne
-2. Forestil dig et pres-scenarie i detaljer
-3. Mærk pres-fornemmelserne
-4. Se dig selv håndtere det godt
-5. Udfør succesfuldt i dit sind
+2. Forestil dig et presscenarie i detaljer
+3. Føl trykket
+4. Se dig selv klare det godt
+5. Udfør med succes i dit sind
 
 Gør dette regelmæssigt, ikke kun før konkurrencer.
 
-### Byg en pres-historie
+### Opbyg en trykhistorik
 
-Hold styr på tidspunkter, hvor du har håndteret pres godt:
+Hold styr på de gange, du har håndteret pres godt:
 - Hvad var situationen?
-- Hvordan følte du dig?
+- Hvordan havde du det?
 - Hvad gjorde du?
-- Hvad var resultatet?
+- Hvad blev resultatet?
 
-Gennemgå dette før konkurrencer for at minde dig selv: "Jeg har gjort dette før."
+Gennemgå dette før konkurrencer for at minde dig selv om: &quot;Jeg har gjort dette før.&quot;
 
-## Under konkurrence
+## Under konkurrencen
 
-### Før pres-kastet
-1. Træd tilbage, tag et åndedrag
+### Før trykkastet
+1. Træd tilbage, tag en indånding
 2. Mind dig selv om din rutine
-3. Fokuser på proces, ikke resultat
-4. Brug dit triggerord eller stikord
+3. Fokus på proces, ikke resultat
+4. Brug dit triggerord eller din ledetråd
 
 ### I cirklen
-1. Fuldfør din rutine præcis som øvet
+1. Gennemfør din rutine præcis som øvet
 2. Fokuser eksternt (mål, ikke krop)
 3. Stol på din træning
 4. Slip uden tøven
 
 ### Efter kastet
-- Accepter resultatet uden dom
-- Hvis godt: kort anerkendelse, gå videre
-- Hvis dårligt: SOAS-metode, nulstil til næste kast
+- Accepter resultatet uden at dømme
+- Hvis godt: kort takkeord, gå videre
+- Hvis defekt: SOAS-metode, nulstil til næste kast
 
-## Almindelige pres-fejl
+## Almindelige trykfejl
 
 | Fejl | Bedre tilgang |
 |---------|----------------|
-| At skynde sig | Sænk farten, brug fuld rutine |
-| Overtænkning | Eksternt fokus, stol på træning |
-| Ændring af teknik | Hold dig til det, du kender |
-| Fokusering på resultat | Fokuser på proces |
-| Kæmpe mod nervøsitet | Accepter og brug energien |
+| Rushing | Sæt farten ned, brug fuld rutine |
+| Overtænkning | Eksternt fokus, tillidstræning |
+| Ændring af teknik | Hold fast i det, du kender |
+| Fokus på resultat | Fokus på processen |
+| Bekæmpelse af nerver | Accepter og brug energien |
 
-## Nøglepunkt
+## Vigtig konklusion
 
-> Pres forsvinder ikke med erfaring. Du bliver bare bedre til at præstere med det.
+> Presset forsvinder ikke med erfaring. Man bliver bare bedre til at præstere med det.
 
 De bedste spillere er ikke rolige - de er dygtige til at bruge deres ophidselse produktivt.
 

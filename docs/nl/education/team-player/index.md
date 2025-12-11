@@ -1,31 +1,54 @@
 # Een geweldige teamspeler zijn
 
-Pétanque wordt vaak in teams gespeeld - dubbel (doublettes) of tripel (triplettes). Individuele vaardigheid is belangrijk, maar teamdynamiek kan je resultaten maken of breken. De beste teams zijn niet altijd de meest vaardige - het zijn degenen die het beste samenwerken.
+Pétanque wordt vaak in teams gespeeld - dubbels (doubles) of drietallen (triplettes). Individuele vaardigheid is belangrijk, maar de teamdynamiek kan het verschil maken tussen succes en falen. De beste teams zijn niet altijd de meest bekwame, maar juist de teams die het beste samenwerken.
 
-## Wat maakt een geweldige teamgenoot?
+::: tip Het Grote Idee
+**De beste teams zijn niet altijd de meest bekwame, maar de teams die het beste samenwerken.** Bescheiden, ambitieus en emotioneel intelligent zijn, maakt je een geweldige teamgenoot.
+:::
 
-Onderzoek en ervaring wijzen op drie sleutelkwaliteiten:
+```mermaid
+graph TD
+    A[Geweldige teamgenoot] --> B[Nederig]
+    A --> C[Hongerig]
+    A --> D[Slim]
 
-### 1. Nederig
-- Geeft prioriteit aan teamsucces boven persoonlijke roem
+    B --> E[Teamsucces]
+    C --> E
+    D --> E
+
+    E --> F[Kampioenschapsprestatie]
+
+    style A fill:#e8f5e9
+    style B fill:#e3f2fd
+    style C fill:#fff4e1
+    style D fill:#f3e5f5
+    style F fill:#fff4e1
+```
+
+## Wat maakt iemand een geweldige teamgenoot?
+
+Onderzoek en ervaring wijzen op drie belangrijke eigenschappen:
+
+### 1. Bescheiden
+- Geeft prioriteit aan teamsucces boven persoonlijke roem.
 - Erkent de bijdragen van anderen
-- Geeft fouten toe zonder excuses
-- Open voor feedback en leren
-- Hoeft niet de ster te zijn
+- Geeft fouten toe zonder excuses.
+- Openstaan voor feedback en leren.
+- Het hoeft niet per se de ster te zijn.
 
 ### 2. Hongerig
 - Zelfgemotiveerd en gedreven
-- Doet het werk zonder gevraagd te worden
+- Doet het werk zonder dat erom gevraagd wordt.
 - Altijd op zoek naar verbetering
-- Brengt energie naar het team
-- Rust niet op talent
+- Brengt energie in het team.
+- Het leunt niet alleen op talent.
 
-### 3. Slim (Emotioneel)
-- Leest situaties en mensen goed
+### 3. Slim (emotioneel)
+- Kan situaties en mensen goed inschatten.
 - Weet wanneer te spreken en wanneer te luisteren
-- Beheert eigen emoties
-- Ondersteunt teamgenoten op gepaste wijze
-- Gaat constructief om met conflicten
+- Beheerst zijn/haar eigen emoties
+- Biedt passende ondersteuning aan teamgenoten.
+- Gaat constructief om met conflicten.
 
 ## De fundamenten van teamsucces
 
@@ -35,133 +58,133 @@ Sterke teams hebben:
 - Duidelijke, overeengekomen doelstellingen
 - Individuele doelen afgestemd op teamdoelen
 - Gedeeld begrip van hoe succes eruitziet
-- Toewijding aan de collectieve missie
+- Toewijding aan de gezamenlijke missie
 
 **Vragen om met je team te bespreken:**
 - Wat proberen we samen te bereiken?
-- Hoe ziet succes eruit voor ons?
-- Hoe ondersteunen onze individuele doelen het team?
+- Hoe ziet succes er voor ons uit?
+- Hoe dragen onze individuele doelen bij aan het team?
 
 ### Effectieve communicatie
 
-Communicatie is de levensader van teamprestaties.
+Communicatie is essentieel voor goede teamprestaties.
 
 **Goede teamcommunicatie:**
 - Open en eerlijk
-- Respectvol, zelfs bij onenigheid
+- Respectvol, zelfs bij meningsverschillen.
 - Duidelijk en specifiek
-- Tweerichtingsverkeer (spreken EN luisteren)
-- Tijdig (juiste informatie op juiste moment)
+- Tweewegcommunicatie (spreken én luisteren)
+- Tijdig (de juiste informatie op het juiste moment)
 
 **Tijdens wedstrijden:**
-- Strategie bespreken voor elk einde
-- Observaties delen over terrein, tegenstanders
-- Coördineren wie wanneer werpt
-- Elkaar ondersteunen na worpen (goed of slecht)
+- Bespreek de strategie vóór elk einde.
+- Deel observaties over het terrein en de tegenstanders.
+- Stem af wie wanneer gooit.
+- Steun elkaar na worpen (goed of slecht).
 
 ### Vertrouwen en respect
 
-Zonder vertrouwen vallen teams uiteen onder druk.
+Zonder vertrouwen vallen teams onder druk uiteen.
 
 **Vertrouwen opbouwen:**
-- Betrouwbaar zijn (doen wat je zegt)
-- Competent zijn (je werk goed doen)
-- Eerlijk zijn (zelfs als het moeilijk is)
-- Kwetsbaarheid tonen (moeilijkheden toegeven)
-- Anderen consequent ondersteunen
+- Wees betrouwbaar (doe wat je zegt).
+- Wees competent (doe je werk goed).
+- Wees eerlijk (zelfs als het moeilijk is)
+- Toon kwetsbaarheid (geef toe dat je het moeilijk hebt)
+- Steun anderen consequent
 
 **Respect tonen:**
-- De bijdrage van elke persoon waarderen
-- Luisteren naar verschillende perspectieven
-- Inspanning erkennen, niet alleen resultaten
-- De rol van iedereen als belangrijk behandelen
+- Waardeer de bijdrage van ieder individu
+- Luister naar verschillende perspectieven.
+- Erken de inspanning, niet alleen de resultaten.
+- Beschouw ieders rol als belangrijk.
 
 ### Duidelijke rollen
 
-Iedereen moet begrijpen:
-- Hun primaire verantwoordelijkheden
-- Hoe ze bijdragen aan het team
+Iedereen moet het volgende begrijpen:
+- Hun voornaamste verantwoordelijkheden
+- Hoe zij bijdragen aan het team
 - Waar anderen op hen rekenen
-- Wanneer vooruit te stappen en wanneer terug te treden
+- Wanneer moet je ingrijpen en wanneer moet je een stap terug doen?
 
-**In tripels:**
-| Rol | Primaire focus | Sleutelkwaliteiten |
+**In drietallen:**
+| Rol | Primaire focus | Kernkwaliteiten |
 |------|--------------|---------------|
-| Legger | Ballen dicht bij cochonnet plaatsen | Precisie, consistentie |
-| Midden | Aanpassen aan situatie | Veelzijdigheid, spel lezen |
-| Schutter | Tegenstander ballen verwijderen | Nauwkeurigheid onder druk |
+| Wijzer | Plaats de jeu de boules in de buurt van Jack. | Nauwkeurigheid, consistentie |
+| Midden | Aanpassen aan de situatie | Veelzijdigheid, leesvaardigheid |
+| Schutter | Verwijder de boules van de tegenstander | Nauwkeurigheid onder druk |
 
-Rollen kunnen flexibel zijn, maar duidelijkheid helpt.
+Rollen kunnen flexibel zijn, maar duidelijkheid is belangrijk.
 
-## Teamdynamiek tijdens competitie
+## Teamdynamiek tijdens een wedstrijd
 
 ### Voor de wedstrijd
-- Samen aankomen, samen opwarmen
-- Algemene strategie bespreken
-- De toon zetten (positief, gefocust)
-- Checken hoe iedereen zich voelt
+- Kom samen aan, warm samen op.
+- Bespreek de algemene strategie
+- Geef de toon aan (positief, doelgericht)
+- Vraag eens hoe het met iedereen gaat.
 
 ### Tijdens de wedstrijd
-- Communiceren tussen einden
-- Positief blijven ongeacht de score
-- Elkaar ondersteunen na fouten
-- Successen samen vieren (kort)
-- Gefocust blijven op proces, niet op uitkomst
+- Communiceer tussen de betrokken partijen
+- Blijf positief, ongeacht de score.
+- Steun elkaar na gemaakte fouten
+- Vier samen (kort) de successen.
+- Focus je op het proces, niet op het resultaat.
 
 ### Na fouten
-Wat NIET te doen:
-- Frustratie zichtbaar tonen
-- Kritiseren of beschuldigen
-- Terugtrekken of stil worden
-- Blijven hangen bij wat gebeurde
+Wat je NIET moet doen:
+- Laat je frustratie duidelijk zien.
+- Kritiek geven of de schuld afschuiven
+- Trek je terug of zwijg.
+- Sta stil bij wat er is gebeurd.
 
-Wat WEL te doen:
-- Snelle erkenning ("geen probleem")
-- Focus verplaatsen naar volgende worp
-- Positieve lichaamstaal behouden
-- Vertrouwen dat je teamgenoot herstelt
+Wat te doen:
+- Snel bevestigen (&quot;geen probleem&quot;)
+- Richt je aandacht op de volgende worp.
+- Houd een positieve lichaamstaal aan.
+- Vertrouw erop dat je teamgenoot zich herstelt.
 
 ### Na de wedstrijd
-- Samen debriefing (wat werkte, wat niet)
-- Individuele bijdragen erkennen
-- Verbeteringen bespreken voor volgende keer
-- Relaties behouden ongeacht resultaat
+- Bespreek samen (wat werkte, wat niet)
+- Erken de individuele bijdragen
+- Bespreek verbeteringen voor de volgende keer.
+- Onderhoud relaties, ongeacht het resultaat.
 
 ## Communicatiepatronen
 
 ### Constructieve feedback
-**Slecht:** "Je blijft die worpen missen"
-**Beter:** "Ik merkte dat de worpen naar links gaan - wil je proberen je houding aan te passen?"
+**Arm:** &quot;Je mist steeds die schoten&quot;
+**Beter:** &quot;Ik merk dat de schoten naar links gaan - zou je je houding misschien willen aanpassen?&quot;
 
 ### Ondersteunende reactie op fouten
 **Slecht:** *Stilte of zichtbare frustratie*
-**Beter:** "Moeilijke. Je hebt de volgende."
+**Beter:** &quot;Een lastige. De volgende mag je hebben.&quot;
 
 ### Strategische discussie
-**Slecht:** "Gooi het gewoon"
-**Beter:** "Wat denk je - leggen om te blokkeren of proberen te schieten? Ik zie voor- en nadelen bij beide."
+**Arm:** &quot;Schiet er gewoon op&quot;
+**Beter:** &quot;Wat denk je - proberen te blokkeren of schieten? Ik zie voor- en nadelen aan beide kanten.&quot;
 
-## Teamcultuur opbouwen
+## Het opbouwen van een teamcultuur
 
-Geweldige teams ontwikkelen gedeelde:
-- **Waarden:** Waar we voor staan
+Geweldige teams ontwikkelen gedeelde eigenschappen:
+- **Waarden:** Waar wij voor staan
 - **Normen:** Hoe we ons gedragen
 - **Taal:** Hoe we communiceren
 - **Rituelen:** Wat we samen doen
 
 **Voorbeelden:**
-- Altijd handen schudden voor en na
-- Specifieke aanmoedigingszinnen
-- Pre-wedstrijd routine samen
-- Post-wedstrijd maaltijd of drankje
+- Geef elkaar altijd een hand voor en na.
+- Specifieke aanmoedigende zinnen
+- Samen de voorbereiding op de wedstrijd
+- Na de wedstrijd een maaltijd of drankje nuttigen
 
 ## In deze sectie
 
-- **[Teamcommunicatie](/nl/education/team-player/communication)** - Gedetailleerde gids voor effectief communiceren
+- **[Teamcommunicatie](/en/education/team-player/communication)** - Gedetailleerde handleiding voor effectieve communicatie
 
-## Kernpunt
+## Belangrijkste conclusie
 
-> Je team is alleen zo sterk als zijn zwakste relatie, niet zijn zwakste speler.
+> De sterkte van een team hangt af van de zwakste relatie, niet van de zwakste speler.
 
 Investeer in je teamgenoten. Bouw vertrouwen op. Communiceer goed. Win samen.
 

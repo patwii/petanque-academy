@@ -1,125 +1,172 @@
 # Zielsetzung für Pétanque-Spieler
 
-Klare Ziele sind Ihr Kompass. Sie geben Ihrer Ausbildung Richtung, Motivation wenn es schwierig wird, und eine Möglichkeit Fortschritt zu messen. Ohne Ziele werfen Sie nur Kugeln. Mit Zielen bauen Sie auf etwas hin.
+Klare Ziele sind dein Kompass. Sie geben deinem Training Richtung, motivieren dich in schwierigen Phasen und ermöglichen es dir, deine Fortschritte zu messen. Ohne Ziele wirfst du planlos Bälle. Mit Zielen arbeitest du auf etwas hin.
+
+::: tip Das Kernprinzip
+**Ein Ziel ohne Plan ist nur ein Wunsch.** Setzen Sie sich klare Ziele, unterteilen Sie diese in kleinere Schritte, konzentrieren Sie sich auf das, was Sie kontrollieren können, und verfolgen Sie Ihre Fortschritte.
+:::
 
 ## Warum Ziele wichtig sind
 
-Ziele dienen mehreren Zwecken:
-- **Richtung:** Wissen, woran man arbeiten soll
-- **Motivation:** Etwas haben, wonach man streben kann
-- **Messung:** Fortschritt verfolgen
-- **Fokus:** Begrenzte Zeit priorisieren
+Ziele erfüllen mehrere Zwecke:
+- **Anleitung:** Wissen, woran man arbeiten soll
+- **Motivation:** Ein Ziel haben, nach dem man streben kann
+- **Messung:** Verfolgen Sie Ihren Fortschritt
+- **Fokus:** Priorisieren Sie Ihre begrenzte Zeit
 
-Für den selbstgesteuerten Spieler sind Ziele besonders wichtig. Ohne einen Trainer, der Sie antreibt, werden Ihre Ziele Ihr Leitfaden.
+Für den selbstmotivierten Spieler sind Ziele besonders wichtig. Ohne einen Trainer, der einen antreibt, werden die eigenen Ziele zum Leitfaden.
 
-## Die drei Arten von Zielen
+## Die drei Zielarten
 
-Nicht alle Ziele sind gleich. Das Verständnis der verschiedenen Typen hilft Ihnen, bessere zu setzen.
+Nicht alle Ziele sind gleichwertig. Wenn man die verschiedenen Zieltypen versteht, kann man bessere Ziele setzen.
 
 ### 1. Ergebnisziele
-**Was:** Das Endergebnis, das Sie wollen
-**Beispiel:** "Die Regionalmeisterschaft gewinnen"
-**Kontrollniveau:** Niedrig - hängt von Gegnern, Bedingungen, Glück ab
+**Was:** Das gewünschte Endergebnis
+**Beispiel:** „Die Regionalmeisterschaft gewinnen“
+**Kontrollniveau:** Niedrig – abhängig von Gegnern, Bedingungen und Glück
 
 ### 2. Leistungsziele
 **Was:** Spezifische Leistungsstandards
-**Beispiel:** "80% Genauigkeit bei Schießübungen erreichen"
-**Kontrollniveau:** Mittel - hängt hauptsächlich von Ihnen ab
+**Beispiel:** „Erreiche eine Trefferquote von 80 % bei Schießübungen“
+**Kontrollgrad:** Mittel – hängt größtenteils von Ihnen ab.
 
 ### 3. Prozessziele
 **Was:** Handlungen und Verhaltensweisen, die Sie kontrollieren
-**Beispiel:** "Meine Routine vor dem Wurf bei jedem Wurf abschließen"
-**Kontrollniveau:** Hoch - liegt ganz bei Ihnen
+**Beispiel:** „Führe meine Vorbereitungsroutine vor jedem Wurf durch.“
+**Kontrollgrad:** Hoch – Sie haben die volle Kontrolle.
 
 ### Die Zielhierarchie
 
-```
-Ergebnisziel (Traum)
-    ↓
-Leistungsziele (Meilensteine)
-    ↓
-Prozessziele (Tägliche Handlungen)
+```mermaid
+graph TD
+    A[Ergebnisziel <br/> Der Traum] --> B[Leistungsziele <br/> Meilensteine]
+    B --> C[Prozessziele <br/> Tägliche Aktivitäten]
+
+    A2[&quot;Regionalmeisterschaft gewinnen&quot;] --> B2[&quot;80% Treffsicherheit&quot;]
+    B2 --> C2[„Vollständige Vorbereitungsroutine vor der Impfung“ <br/> „jeder Wurf“]
+
+    style A fill:#e1f5ff
+    style B fill:#fff9c4
+    style C fill:#c8e6c9
+    style A2 fill:#e1f5ff
+    style B2 fill:#fff9c4
+    style C2 fill:#c8e6c9
 ```
 
-**Wichtige Erkenntnis:** Konzentrieren Sie den Großteil Ihrer Aufmerksamkeit auf Prozessziele. Sie sind das, was Sie kontrollieren, und sie führen zu den Ergebnissen, die Sie wollen.
+::: warning Wichtigste Erkenntnis
+**Konzentrieren Sie sich vor allem auf die Prozessziele.** Diese haben Sie unter Kontrolle und sie führen zu den gewünschten Ergebnissen.
+
+- **Ergebnisziele:** Geringe Kontrolle, hohe Motivation
+- **Leistungsziele:** Mittlere Kontrolle, messbarer Fortschritt
+- **Prozessziele:** Hohe Kontrolle, täglicher Fokus ← **Fokus hier**
+:::
 
 ## Das SMART-Framework
 
-Machen Sie Ihre Ziele SMART:
+::: info SMART-Ziele-Checkliste
+Jedes Ziel sollte sein:
+- ✅ **Spezifisch** – Klar und präzise definiert
+- ✅ **Messbar** – Sie können Ihren Fortschritt verfolgen
+- ✅ **Erreichbar** – anspruchsvoll, aber möglich
+- ✅ **R**relevant – auf Ihr übergeordnetes Ziel ausgerichtet
+- ✅ **Zeitgebunden** - Hat eine Frist
+:::
 
 ### S - Spezifisch
-❌ "Besser im Schießen werden"
-✅ "Meine au fer (Direkttreffer) Genauigkeit aus 8 Metern verbessern"
+❌ &quot;Verbessere deine Schießkünste&quot;
+✅ „Meine Treffsicherheit bei Direktschüssen aus 8 Metern Entfernung verbessern“
 
-### M - Messbar
-❌ "Genauer schießen"
-✅ "Mindestens 24/30 bei der Schießleiter-Übung erzielen"
+### M – Messbar
+❌ „Genauer schießen“
+✅ „Erreiche mindestens 24 von 30 Punkten bei der Schießleiterübung“
 
-### A - Erreichbar
-❌ "Nie einen Schuss verpassen" (unmöglich)
-✅ "Genauigkeit um 10% über 8 Wochen verbessern" (herausfordernd aber realistisch)
+### A – Erreichbar
+❌ &quot;Nie einen Schuss verfehlen&quot; (unmöglich)
+✅ „Genauigkeit innerhalb von 8 Wochen um 10 % verbessern“ (anspruchsvoll, aber realistisch)
 
-### R - Relevant
-❌ "Einen Marathon laufen" (nicht direkt verwandt)
-✅ "Balance und Stabilität für besseres Werfen verbessern" (unterstützt Ihr Spiel)
+### R – Relevant
+❌ &quot;Einen Marathon laufen&quot; (nicht direkt verwandt)
+✅ „Verbessert Gleichgewicht und Stabilität für bessere Würfe“ (unterstützt dein Spiel)
 
-### T - Terminiert
-❌ "Irgendwann werde ich besser sein"
-✅ "Bis zum 15. März werde ich erreichen..."
+### T – Zeitgebunden
+❌ „Eines Tages wird es mir besser gehen.“
+✅ „Bis zum 15. März werde ich Folgendes erreichen…“
 
-## Zielbeispiele für Pétanque
+## Torbeispiele für Pétanque
 
-| Typ | Schlechtes Ziel | SMART-Ziel |
+| Typ | Schlechtes Tor | SMART-Ziel |
 |------|-----------|------------|
-| Ergebnis | "Mehr gewinnen" | "Das Halbfinale beim Frühlingsturnier erreichen" |
-| Leistung | "Besser legen" | "70% der Punkte innerhalb von 50cm bei 8m Entfernung erreichen" |
-| Prozess | "Mehr üben" | "3 fokussierte Trainingseinheiten pro Woche absolvieren" |
+| Ergebnis | &quot;Mehr gewinnen&quot; | „Das Halbfinale beim Frühlingsturnier erreichen“ |
+| Leistung | &quot;Besser punkten&quot; | &quot;Erreichen Sie 70 % der Punkte innerhalb von 50 cm auf eine Entfernung von 8 m.&quot; |
+| Verfahren | &quot;Übe mehr&quot; | &quot;Absolviere 3 gezielte Trainingseinheiten pro Woche&quot; |
 
-## Große Ziele aufschlüsseln
+## Große Ziele in ihre Einzelteile zerlegen
 
-Große Ziele können überwältigend wirken. Teilen Sie sie in kleinere Stücke auf:
+Große Ziele können überwältigend wirken. Teilen Sie sie in kleinere Teile auf:
 
-### Beispiel: "Die Clubmeisterschaft gewinnen (12 Monate entfernt)"
+### Beispiel: „Gewinne die Vereinsmeisterschaft (in 12 Monaten)“
 
-**Jahresziel:** Clubmeisterschaft gewinnen
+**Jahresziel:** Vereinsmeisterschaft gewinnen
 
 **Quartalsziele:**
-- Q1: Schießgenauigkeit auf 75% verbessern
-- Q2: Konsistente Routine vor dem Wurf entwickeln
-- Q3: Drucksituationen meistern
-- Q4: Spitzenleistung und Wettkampfvorbereitung
+- Frage 1: Verbesserung der Schussgenauigkeit auf 75 %
+- Frage 2: Entwickeln Sie eine konsistente Vorbereitungsroutine vor dem Schuss.
+- Frage 3: Drucksituationen meistern
+- Q4: Höchstleistung und Wettkampfvorbereitung
 
-**Monatsziele (Q1):**
-- Monat 1: Baseline etablieren, Schwächen identifizieren
-- Monat 2: Auf Schießtechnik fokussieren
-- Monat 3: Druck zum Schießtraining hinzufügen
+**Monatliche Ziele (1. Quartal):**
+- Monat 1: Ausgangslage festlegen, Schwächen identifizieren
+- Monat 2: Schwerpunkt auf der Aufnahmetechnik
+- Monat 3: Den Druck beim Schießtraining erhöhen
 
-**Wochenziele (Monat 2):**
-- Woche 1: 3 Schießsessions, Videoanalyse
-- Woche 2: An identifiziertem Technikproblem arbeiten
-- Woche 3: Entfernung schrittweise erhöhen
-- Woche 4: Fortschritt testen, Plan anpassen
+**Wöchentliche Ziele (Monat 2):**
+- Woche 1: 3 Schießsitzungen, Videoanalyse
+- Woche 2: Arbeit an dem identifizierten technischen Problem
+- Woche 3: Die Distanz schrittweise erhöhen
+- Woche 4: Fortschritte testen, Plan anpassen
 
-## Ziele mit Ihrem "Warum" verbinden
+## Ziele mit Ihrem „Warum“ verbinden
 
-Ziele funktionieren besser, wenn sie mit tieferer Motivation verbunden sind.
+Ziele funktionieren besser, wenn sie mit einer tieferen Motivation verbunden sind.
 
-Fragen Sie sich:
-- Warum möchte ich dies erreichen?
-- Was wird es für mich bedeuten?
-- Wie werde ich mich fühlen, wenn ich erfolgreich bin?
+Frage dich selbst:
+- Warum möchte ich das erreichen?
+- Was wird das für mich bedeuten?
+- Wie werde ich mich fühlen, wenn ich Erfolg habe?
 - Was treibt mich an, mich zu verbessern?
 
-Schreiben Sie Ihre Antworten auf. Kehren Sie zu ihnen zurück, wenn die Motivation nachlässt.
+Notieren Sie Ihre Antworten. Kehren Sie darauf zurück, wenn Ihre Motivation nachlässt.
 
 ## In diesem Abschnitt
 
-- **[SMART-Ziele im Detail](/de/education/goals/smart-goals)** - Tiefgang in die Erstellung effektiver Ziele
-- **[Erstellen Ihres Trainingsplans](/de/education/goals/planning)** - Ziele in Handlung umsetzen
+- **[SMART Goals im Detail](/en/education/goals/smart-goals)** – Ein detaillierter Einblick in die Erstellung effektiver Ziele
+- **[Erstellung deines Trainingsplans](/en/education/goals/planning)** – Ziele in die Tat umsetzen
+
+## Zusammenfassung: Regeln zur Zielsetzung
+
+::: tip Regel Nr. 1: Die Kontrollregel
+**Konzentrieren Sie sich auf Prozessziele (das, was Sie kontrollieren können) und nicht auf Ergebnisziele.**
+Prozessziele führen zu Leistungszielen, die wiederum zu Ergebniszielen führen.
+:::
+
+::: tip Regel Nr. 2: Die SMART-Regel
+**Ziele müssen spezifisch, messbar, erreichbar, relevant und terminiert sein.**
+Vage Ziele führen zu vagen Ergebnissen. SMART-Ziele führen zu Fortschritt.
+:::
+
+::: tip Regel Nr. 3: Die Aufschlüsselungsregel
+**Große Ziele erfordern vierteljährliche, monatliche und wöchentliche Meilensteine.**
+Große Ziele lassen sich in kleine, umsetzbare Schritte unterteilen, die Sie diese Woche erledigen können.
+:::
+
+::: tip Regel Nr. 4: Die Verbindungsregel
+Verbinde deine Ziele mit deinem tieferen „Warum“.
+Wenn die Motivation nachlässt, ist es dein „Warum“, das dich am Laufen hält.
+:::
 
 ## Wichtigste Erkenntnis
 
 > Ein Ziel ohne Plan ist nur ein Wunsch.
 
-Setzen Sie klare Ziele. Schlüsseln Sie sie auf. Fokussieren Sie sich auf das, was Sie kontrollieren. Verfolgen Sie Ihren Fortschritt.
+Setzen Sie sich klare Ziele. Unterteilen Sie diese in kleinere Schritte. Konzentrieren Sie sich auf das, was Sie beeinflussen können. Verfolgen Sie Ihre Fortschritte.
 

@@ -1,95 +1,118 @@
 # Essere un grande giocatore di squadra
 
-La pétanque si gioca spesso in squadra - doppio (doublettes) o triplo (triplettes). L'abilità individuale conta, ma la dinamica di squadra può fare o distruggere i tuoi risultati. Le migliori squadre non sono sempre le più abili - sono quelle che lavorano meglio insieme.
+La boccia si gioca spesso a squadre: in doppio (doublettes) o in triplo (triplettes). Le abilità individuali contano, ma le dinamiche di squadra possono fare la differenza. Le squadre migliori non sono sempre quelle più abili: sono quelle che lavorano meglio insieme.
 
-## Cosa rende un grande compagno di squadra?
+::: tip La grande idea
+**I team migliori non sono sempre quelli più abili: sono quelli che lavorano meglio insieme.** Essere umili, affamati ed emotivamente intelligenti ti rende un ottimo compagno di squadra.
+:::
 
-La ricerca e l'esperienza indicano tre qualità chiave:
+```mermaid
+graph TD
+    A[Ottimo compagno di squadra] --> B[Umile]
+    A --> C[Affamato]
+    A --> D[Accorto]
+
+    B --> E[Successo di squadra]
+    C --> E
+    D --> E
+
+    E --> F[Prestazioni da campionato]
+
+    style A fill:#e8f5e9
+    style B fill:#e3f2fd
+    style C fill:#fff4e1
+    style D fill:#f3e5f5
+    style F fill:#fff4e1
+```
+
+## Cosa rende un compagno di squadra eccezionale?
+
+La ricerca e l&#39;esperienza evidenziano tre qualità fondamentali:
 
 ### 1. Umile
 - Dà priorità al successo della squadra rispetto alla gloria personale
 - Riconosce i contributi degli altri
 - Ammette gli errori senza scuse
-- Aperto al feedback e all'apprendimento
-- Non ha bisogno di essere la star
+- Aperto al feedback e all&#39;apprendimento
+- Non deve essere la star
 
 ### 2. Affamato
-- Automotivato e determinato
+- Auto-motivato e determinato
 - Fa il lavoro senza che gli venga chiesto
-- Cerca sempre di migliorare
+- Sempre alla ricerca di migliorare
 - Porta energia alla squadra
-- Non si adagia sul talento
+- Non si affida al talento
 
-### 3. Intelligente (Emotivamente)
+### 3. Intelligente (emotivamente)
 - Legge bene le situazioni e le persone
 - Sa quando parlare e quando ascoltare
 - Gestisce le proprie emozioni
 - Supporta i compagni di squadra in modo appropriato
 - Gestisce i conflitti in modo costruttivo
 
-## Le fondamenta del successo di squadra
+## Le basi del successo di squadra
 
 ### Obiettivi e visione condivisi
 
 Le squadre forti hanno:
 - Obiettivi chiari e concordati
 - Obiettivi individuali allineati con gli obiettivi di squadra
-- Comprensione condivisa di come appare il successo
-- Impegno verso la missione collettiva
+- Comprensione condivisa di cosa significhi il successo
+- Impegno per la missione collettiva
 
-**Domande da discutere con la tua squadra:**
-- Cosa stiamo cercando di raggiungere insieme?
-- Come appare il successo per noi?
-- Come i nostri obiettivi individuali supportano la squadra?
+**Domande da discutere con il tuo team:**
+- Cosa stiamo cercando di realizzare insieme?
+- Come si manifesta il successo per noi?
+- In che modo i nostri obiettivi individuali supportano il team?
 
 ### Comunicazione efficace
 
-La comunicazione è la linfa vitale della performance di squadra.
+La comunicazione è la linfa vitale delle prestazioni di squadra.
 
 **Buona comunicazione di squadra:**
-- Aperta e onesta
-- Rispettosa, anche in disaccordo
-- Chiara e specifica
+- Aperto e onesto
+- Rispettoso, anche nel disaccordo
+- Chiaro e specifico
 - Bidirezionale (parlare E ascoltare)
-- Tempestiva (informazione giusta al momento giusto)
+- Tempestivo (informazioni giuste al momento giusto)
 
 **Durante le partite:**
-- Discutere la strategia prima di ogni mano
-- Condividere osservazioni su terreno, avversari
+- Discutere la strategia prima di ogni fine
+- Condividi osservazioni sul terreno, sugli avversari
 - Coordinare chi lancia quando
-- Supportarsi a vicenda dopo i lanci (buoni o cattivi)
+- Sostenetevi a vicenda dopo i lanci (buoni o cattivi)
 
 ### Fiducia e rispetto
 
-Senza fiducia, le squadre si sgretolano sotto pressione.
+Senza fiducia, i team si disgregano sotto pressione.
 
-**Costruire fiducia:**
-- Essere affidabili (fare ciò che dici)
-- Essere competenti (fare bene il proprio lavoro)
-- Essere onesti (anche quando è difficile)
-- Mostrare vulnerabilità (ammettere difficoltà)
+**Creare fiducia:**
+- Sii affidabile (fai quello che dici)
+- Sii competente (fai bene il tuo lavoro)
+- Sii onesto (anche quando è difficile)
+- Mostrare vulnerabilità (ammettere le difficoltà)
 - Supportare gli altri in modo coerente
 
 **Mostrare rispetto:**
 - Valorizzare il contributo di ogni persona
-- Ascoltare diverse prospettive
+- Ascolta diverse prospettive
 - Riconoscere lo sforzo, non solo i risultati
-- Trattare il ruolo di tutti come importante
+- Considerare importante il ruolo di tutti
 
 ### Ruoli chiari
 
 Tutti dovrebbero capire:
 - Le loro responsabilità principali
 - Come contribuiscono alla squadra
-- Su cosa gli altri contano su di loro
-- Quando farsi avanti e quando farsi indietro
+- Ciò per cui gli altri contano su di loro
+- Quando fare un passo avanti e quando fare un passo indietro
 
-**Nei tripli:**
-| Ruolo | Focus principale | Qualità chiave |
+**In triplette:**
+| Ruolo | Focus primario | Qualità chiave |
 |------|--------------|---------------|
-| Puntatore | Posizionare bocce vicino al pallino | Precisione, coerenza |
-| Centrale | Adattarsi alla situazione | Versatilità, leggere il gioco |
-| Tiratore | Rimuovere bocce avversarie | Precisione sotto pressione |
+| Puntatore | Posizionare le bocce vicino al jack | Precisione, coerenza |
+| Mezzo | Adattarsi alla situazione | Versatilità, gioco di lettura |
+| Tiratore | Rimuovi le bocce dell&#39;avversario | Precisione sotto pressione |
 
 I ruoli possono essere flessibili, ma la chiarezza aiuta.
 
@@ -98,70 +121,70 @@ I ruoli possono essere flessibili, ma la chiarezza aiuta.
 ### Prima della partita
 - Arrivare insieme, riscaldarsi insieme
 - Discutere la strategia generale
-- Dare il tono (positivo, concentrato)
-- Verificare come si sente ognuno
+- Imposta il tono (positivo, concentrato)
+- Controlla come si sente ognuno
 
-### Durante la partita
-- Comunicare tra le mani
-- Rimanere positivi indipendentemente dal punteggio
-- Supportarsi a vicenda dopo gli errori
-- Celebrare i successi insieme (brevemente)
-- Rimanere concentrati sul processo, non sul risultato
+### Durante il gioco
+- Comunicare tra le estremità
+- Rimani positivo indipendentemente dal punteggio
+- Sostenersi a vicenda dopo gli errori
+- Festeggiamo insieme i successi (brevemente)
+- Concentrati sul processo, non sul risultato
 
 ### Dopo gli errori
 Cosa NON fare:
-- Mostrare frustrazione visibilmente
+- Mostrare visibilmente la frustrazione
 - Criticare o incolpare
-- Ritirarsi o rimanere in silenzio
-- Soffermarsi su ciò che è successo
+- Ritirarsi o tacere
+- Soffermati su ciò che è successo
 
 Cosa fare:
-- Riconoscimento rapido ("nessun problema")
-- Spostare il focus sul prossimo lancio
+- Riconoscimento rapido (&quot;nessun problema&quot;)
+- Sposta l&#39;attenzione sul lancio successivo
 - Mantenere un linguaggio del corpo positivo
-- Fidarsi che il compagno di squadra si riprenderà
+- Fidati del tuo compagno di squadra per riprendersi
 
 ### Dopo la partita
 - Fare un debriefing insieme (cosa ha funzionato, cosa no)
 - Riconoscere i contributi individuali
-- Discutere miglioramenti per la prossima volta
+- Discutere i miglioramenti per la prossima volta
 - Mantenere le relazioni indipendentemente dal risultato
 
 ## Modelli di comunicazione
 
 ### Feedback costruttivo
-**Scarso:** "Continui a mancare quei tiri"
-**Migliore:** "Ho notato che i tiri vanno a sinistra - vuoi provare ad aggiustare la tua posizione?"
+**Povero:** &quot;Continui a sbagliare quei tiri&quot;
+**Meglio:** &quot;Ho notato che i tiri vanno verso sinistra: vuoi provare a modificare la tua posizione?&quot;
 
 ### Risposta di supporto agli errori
 **Scarso:** *Silenzio o frustrazione visibile*
-**Migliore:** "Difficile. Hai il prossimo."
+**Meglio:** &quot;Difficile. Hai già la prossima.&quot;
 
 ### Discussione strategica
-**Scarso:** "Tira e basta"
-**Migliore:** "Cosa ne pensi - puntare per bloccare o provare a tirare? Vedo pro e contro in entrambi."
+**Povero:** &quot;Spara e basta&quot;
+**Meglio:** &quot;Cosa ne pensi: puntare per bloccare o provare a tirare? Vedo pro e contro in entrambi i casi.&quot;
 
-## Costruire la cultura di squadra
+## Costruire una cultura di squadra
 
-Le grandi squadre sviluppano:
+I grandi team sviluppano in modo condiviso:
 - **Valori:** Ciò che rappresentiamo
 - **Norme:** Come ci comportiamo
-- **Linguaggio:** Come comunichiamo
+- **Lingua:** Come comunichiamo
 - **Rituali:** Cosa facciamo insieme
 
 **Esempi:**
-- Stringere sempre la mano prima e dopo
+- Stringetevi sempre la mano prima e dopo
 - Frasi di incoraggiamento specifiche
 - Routine pre-partita insieme
 - Pasto o bevanda dopo la partita
 
 ## In questa sezione
 
-- **[Comunicazione di squadra](/it/education/team-player/communication)** - Guida dettagliata per comunicare efficacemente
+- **[Comunicazione di squadra](/it/education/team-player/communication)** - Guida dettagliata per comunicare in modo efficace
 
-## Punto chiave
+## Conclusione chiave
 
-> La tua squadra è forte solo quanto la sua relazione più debole, non il suo giocatore più debole.
+> La forza della tua squadra è data solo dalla sua relazione più debole, non dal suo giocatore più debole.
 
 Investi nei tuoi compagni di squadra. Costruisci fiducia. Comunica bene. Vinci insieme.
 

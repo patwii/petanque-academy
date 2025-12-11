@@ -1,13 +1,36 @@
-# At være en fantastisk holdspiller
+# At være en god holdspiller
 
-Pétanque spilles ofte i hold - double (doublettes) eller triple (triplettes). Individuel færdighed betyder noget, men holddynamik kan gøre eller bryde dine resultater. De bedste hold er ikke altid de mest dygtige - de er dem der arbejder bedst sammen.
+Petanque spilles ofte i hold - double (dublettes) eller triples (triplettes). Individuelle færdigheder er vigtige, men holddynamik kan være afgørende for resultaterne. De bedste hold er ikke altid de dygtigste - det er dem, der arbejder bedst sammen.
 
-## Hvad gør en fantastisk holdkammerat?
+::: tip Den store idé
+**De bedste hold er ikke altid de dygtigste - det er dem, der fungerer bedst sammen.** At være ydmyg, sulten og følelsesmæssigt intelligent gør dig til en god holdkammerat.
+:::
+
+```mermaid
+graph TD
+    A[Fantastisk holdkammerat] --> B[Ydmyg]
+    A --> C[Sulten]
+    A --> D[Smart]
+
+    B --> E[Holdets succes]
+    C --> E
+    D --> E
+
+    E --> F[Mesterskabspræstation]
+
+    style A fill:#e8f5e9
+    style B fill:#e3f2fd
+    style C fill:#fff4e1
+    style D fill:#f3e5f5
+    style F fill:#fff4e1
+```
+
+## Hvad gør en god holdkammerat?
 
 Forskning og erfaring peger på tre nøglekvaliteter:
 
 ### 1. Ydmyg
-- Prioriterer holdets succes over personlig ære
+- Prioriterer holdets succes frem for personlig ære
 - Anerkender andres bidrag
 - Indrømmer fejl uden undskyldninger
 - Åben for feedback og læring
@@ -15,48 +38,48 @@ Forskning og erfaring peger på tre nøglekvaliteter:
 
 ### 2. Sulten
 - Selvmotiveret og drevet
-- Gør arbejdet uden at blive bedt
-- Søger altid at forbedre sig
+- Gør arbejdet uden at blive bedt om det
+- Altid på udkig efter forbedring
 - Bringer energi til holdet
-- Hviler ikke på talent
+- Løfter sig ikke på talent
 
-### 3. Smart (Emotionelt)
-- Læser situationer og mennesker godt
+### 3. Smart (følelsesmæssigt)
+- Læser situationer og personer godt
 - Ved hvornår man skal tale og hvornår man skal lytte
-- Håndterer egne følelser
-- Støtter holdkammerater passende
-- Håndterer konflikt konstruktivt
+- Håndterer sine egne følelser
+- Støtter holdkammeraterne passende
+- Håndterer konflikter konstruktivt
 
-## Fundamentet for holdsucces
+## Grundlaget for teamets succes
 
-### Delte mål og vision
+### Fælles mål og vision
 
 Stærke hold har:
 - Klare, aftalte mål
-- Individuelle mål tilpasset holdmål
-- Delt forståelse af hvordan succes ser ud
-- Engagement i den kollektive mission
+- Individuelle mål i overensstemmelse med holdets mål
+- Fælles forståelse af, hvad succes ser ud
+- Forpligtelse til den kollektive mission
 
-**Spørgsmål at diskutere med dit hold:**
-- Hvad forsøger vi at opnå sammen?
+**Spørgsmål til diskussion med dit team:**
+- Hvad prøver vi at opnå sammen?
 - Hvordan ser succes ud for os?
-- Hvordan støtter vores individuelle mål holdet?
+- Hvordan understøtter vores individuelle mål holdet?
 
 ### Effektiv kommunikation
 
-Kommunikation er livsnerven i holdpræstation.
+Kommunikation er livsnerven i et teams præstation.
 
-**God holdkommunikation:**
+**God teamkommunikation:**
 - Åben og ærlig
 - Respektfuld, selv i uenighed
 - Klar og specifik
 - Tovejs (tale OG lytte)
-- Rettidig (rigtig information på rette tid)
+- Rettidig (rigtig information på rette tidspunkt)
 
-**Under kampe:**
-- Diskuter strategi før hver ende
+**Under kampene:**
+- Diskuter strategi før hver omgang
 - Del observationer om terræn, modstandere
-- Koordiner hvem der kaster hvornår
+- Koordinér hvem der kaster hvornår
 - Støt hinanden efter kast (gode eller dårlige)
 
 ### Tillid og respekt
@@ -65,64 +88,64 @@ Uden tillid falder hold fra hinanden under pres.
 
 **Opbygning af tillid:**
 - Vær pålidelig (gør hvad du siger)
-- Vær kompetent (gør dit arbejde godt)
+- Vær kompetent (udfør dit arbejde godt)
 - Vær ærlig (selv når det er svært)
-- Vis sårbarhed (indrøm kampe)
+- Vis sårbarhed (indrøm dine udfordringer)
 - Støt andre konsekvent
 
-**Vise respekt:**
-- Værdsæt hver persons bidrag
+**Viser respekt:**
+- Værdsæt hver enkelt persons bidrag
 - Lyt til forskellige perspektiver
-- Anerkend indsats, ikke kun resultater
-- Behandl alles rolle som vigtig
+- Anerkend indsatsen, ikke kun resultaterne
+- Betragt alles rolle som vigtig
 
 ### Klare roller
 
-Alle bør forstå:
-- Deres primære ansvar
+Alle burde forstå:
+- Deres primære ansvarsområder
 - Hvordan de bidrager til holdet
 - Hvad andre regner med dem for
-- Hvornår man skal træde op og hvornår man skal træde tilbage
+- Hvornår skal man træde frem, og hvornår skal man træde tilbage
 
-**I triple:**
+**I tredobbelte:**
 | Rolle | Primært fokus | Nøglekvaliteter |
 |------|--------------|---------------|
-| Pointer | Placer kugler nær cochonnet | Præcision, konsistens |
-| Midtbane | Tilpas til situation | Alsidighed, læse spillet |
-| Skytte | Fjern modstanderkugler | Nøjagtighed under pres |
+| Peger | Placer boules nær målkuglen | Præcision, konsistens |
+| Midt | Tilpas dig til situationen | Alsidighed, læsespil |
+| Skytte | Fjern modstanderens kugler | Præcision under pres |
 
 Roller kan være fleksible, men klarhed hjælper.
 
-## Holddynamik under konkurrence
+## Holddynamik under konkurrencen
 
 ### Før kampen
-- Ankom sammen, varm op sammen
-- Diskuter generel strategi
+- Kom sammen, varm op sammen
+- Diskuter den generelle strategi
 - Sæt tonen (positiv, fokuseret)
 - Tjek hvordan alle har det
 
-### Under kampen
-- Kommuniker mellem ender
+### Under spillet
+- Kommuniker mellem enderne
 - Forbliv positiv uanset score
-- Støt hinanden efter fejl
+- Støt hinanden efter fejltagelser
 - Fejr succeser sammen (kort)
-- Forbliv fokuseret på proces, ikke resultat
+- Hold fokus på processen, ikke resultatet
 
 ### Efter fejl
 Hvad man IKKE skal gøre:
-- Vise frustration synligt
+- Vis synligt frustration
 - Kritisere eller bebrejde
-- Trække sig tilbage eller blive tavs
-- Dvæle ved hvad der skete
+- Træk dig tilbage eller bliv tavs
+- Dvæl ved, hvad der skete
 
-Hvad man SKAL gøre:
-- Hurtig anerkendelse ("intet problem")
+Hvad SKAL MAN GØRE:
+- Hurtig bekræftelse (&quot;intet problem&quot;)
 - Flyt fokus til næste kast
-- Bevar positivt kropssprog
-- Stol på din holdkammerat kommer sig
+- Bevar et positivt kropssprog
+- Stol på din holdkammerat til at komme sig
 
 ### Efter kampen
-- Debrief sammen (hvad virkede, hvad gjorde ikke)
+- Fælles debriefing (hvad virkede, hvad virkede ikke)
 - Anerkend individuelle bidrag
 - Diskuter forbedringer til næste gang
 - Bevar relationer uanset resultat
@@ -130,38 +153,38 @@ Hvad man SKAL gøre:
 ## Kommunikationsmønstre
 
 ### Konstruktiv feedback
-**Dårlig:** "Du bliver ved med at misse de skud"
-**Bedre:** "Jeg lagde mærke til skuddene går til venstre - vil du prøve at justere din holdning?"
+**Dårlig:** &quot;Du bliver ved med at misse de skud&quot;
+**Bedre:** &quot;Jeg bemærkede, at slagene går til venstre - vil du prøve at justere din holdning?&quot;
 
-### Støttende respons på fejl
+### Støttende reaktion på fejl
 **Dårlig:** *Tavshed eller synlig frustration*
-**Bedre:** "Svær en. Du har den næste."
+**Bedre:** &quot;Svært spørgsmål. Du har den næste.&quot;
 
 ### Strategisk diskussion
-**Dårlig:** "Bare skyd det"
-**Bedre:** "Hvad tænker du - point for at blokere eller prøve at skyde? Jeg ser fordele og ulemper begge veje."
+**Dårlig:** &quot;Bare skyd den&quot;
+**Bedre:** &quot;Hvad synes du - at pointte for at blokere eller forsøge at skyde? Jeg ser fordele og ulemper ved begge dele.&quot;
 
-## Opbygning af holdkultur
+## Opbygning af teamkultur
 
-Fantastiske hold udvikler delt:
+Gode teams udvikler sig delt:
 - **Værdier:** Hvad vi står for
 - **Normer:** Hvordan vi opfører os
 - **Sprog:** Hvordan vi kommunikerer
 - **Ritualer:** Hvad vi gør sammen
 
 **Eksempler:**
-- Giv altid hånd før og efter
-- Specifikke opmuntringsfraser
-- Før-kamp rutine sammen
-- Efter-kamp måltid eller drink
+- Giv altid hånden før og efter
+- Specifikke opmuntrende sætninger
+- Fælles rutine før kampen
+- Måltid eller drikkevare efter kampen
 
 ## I dette afsnit
 
-- **[Holdkommunikation](/da/education/team-player/communication)** - Detaljeret guide til effektiv kommunikation
+- **[Teamkommunikation](/da/uddannelse/teamspiller/kommunikation)** - Detaljeret guide til effektiv kommunikation
 
-## Nøglepunkt
+## Vigtig konklusion
 
 > Dit hold er kun så stærkt som dets svageste forhold, ikke dets svageste spiller.
 
-Invester i dine holdkammerater. Byg tillid. Kommuniker godt. Vind sammen.
+Investér i dine holdkammerater. Opbyg tillid. Kommunikér godt. Vind sammen.
 

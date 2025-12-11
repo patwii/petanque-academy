@@ -2,15 +2,45 @@
 
 The benefits of mindfulness come from consistent practice. Here's how to make it part of your life.
 
+::: tip The Big Idea
+**Consistency beats intensity.** Five minutes every day beats an hour once a week. Start small, be consistent, and the benefits compound over time.
+:::
+
+```mermaid
+graph LR
+    A[Daily Practice] --> B[Neural Pathways]
+    B --> C[Automatic Skill]
+    C --> D[Competition Performance]
+
+    style A fill:#e8f5e9
+    style B fill:#e3f2fd
+    style C fill:#fff4e1
+    style D fill:#fff4e1
+```
+
 ## Why Daily Practice Matters
 
-Mindfulness is like physical fitness:
-- You can't get fit from one gym session
-- Regular practice builds lasting change
-- The effects compound over time
-- It becomes easier with consistency
+::: info Mindfulness is Like Physical Fitness
+- ❌ You can't get fit from one gym session
+- ✅ Regular practice builds lasting change
+- ✅ The effects compound over time
+- ✅ It becomes easier with consistency
+:::
 
+```mermaid
+graph TD
+    A[Consistent Practice] --> B[Week 1: Building Habit]
+    B --> C[Month 1: Notice Benefits]
+    C --> D[Month 3: More Natural]
+    D --> E[Year 1+: Fundamental Skill]
+
+    style A fill:#e8f5e9
+    style E fill:#fff4e1
+```
+
+::: tip Research-Backed
 Research shows that even **3 minutes daily** creates measurable benefits. But you have to do it regularly.
+:::
 
 ## Creating Your Routine
 

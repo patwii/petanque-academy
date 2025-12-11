@@ -2,6 +2,24 @@
 
 When your technique is solid, what do you practice? This is where many players plateau - they keep drilling technique when the real growth lies elsewhere.
 
+::: tip The Big Idea
+**Most players plateau because they keep drilling technique when the real growth lies elsewhere.** Elite players train adaptability, decision-making, and mental toughness - not just mechanics.
+:::
+
+```mermaid
+graph TD
+    A[Training Evolution] --> B[Beginner: Technical Drills]
+    B --> C[Intermediate: Random Practice]
+    C --> D[Advanced: Pressure Simulation]
+    D --> E[Elite: Mental Training]
+
+    style A fill:#e3f2fd
+    style B fill:#f5f5f5
+    style C fill:#fff4e1
+    style D fill:#e8f5e9
+    style E fill:#fff4e1
+```
+
 ## Beyond Technical Repetition
 
 Most players train by repeating throws. That's important for beginners, but advanced players need more:
@@ -15,19 +33,23 @@ Most players train by repeating throws. That's important for beginners, but adva
 
 ## The Training Pyramid
 
-```
-         Competition
-            ↑
-      Match Simulation
-            ↑
-    Pressure Practice
-            ↑
-   Random/Varied Practice
-            ↑
-  Blocked Technical Practice
+```mermaid
+graph TD
+    A[Competition] --> B[Match Simulation]
+    B --> C[Pressure Practice]
+    C --> D[Random/Varied Practice]
+    D --> E[Blocked Technical Practice]
+
+    style A fill:#fff4e1
+    style B fill:#e8f5e9
+    style C fill:#e3f2fd
+    style D fill:#f5f5f5
+    style E fill:#f5f5f5
 ```
 
-Most players spend too much time at the bottom. Elite players work at all levels.
+::: warning Common Mistake
+**Most players spend too much time at the bottom.** Elite players work at all levels of the pyramid, with emphasis on the top levels as they advance.
+:::
 
 ## Blocked vs. Random Practice
 

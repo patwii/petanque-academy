@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
+import { withMermaid } from 'vitepress-plugin-mermaid'
 
-export default defineConfig({
+export default withMermaid(defineConfig({
   title: "Pétanque Academy",
   description: "Elite player development - From technique to flow",
   ignoreDeadLinks: true,
@@ -184,8 +185,37 @@ export default defineConfig({
     ],
 
     sidebar: getSidebar()
+  },
+
+  // Mermaid configuration
+  mermaid: {
+    theme: 'base',
+    themeVariables: {
+      primaryColor: '#3b82f6',
+      primaryTextColor: '#fff',
+      primaryBorderColor: '#2563eb',
+      lineColor: '#64748b',
+      secondaryColor: '#8b5cf6',
+      tertiaryColor: '#f59e0b',
+      background: '#1e293b',
+      mainBkg: '#3b82f6',
+      secondBkg: '#8b5cf6',
+      tertiaryBkg: '#f59e0b',
+      textColor: '#fff',
+      border1: '#2563eb',
+      border2: '#1e40af',
+      fontFamily: 'ui-sans-serif, system-ui, sans-serif',
+      fontSize: '16px'
+    },
+    flowchart: {
+      htmlLabels: true,
+      useMaxWidth: true
+    }
+  },
+  mermaidPlugin: {
+    class: "mermaid"
   }
-})
+}))
 
 function getSidebar() {
   return {

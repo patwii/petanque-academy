@@ -1,224 +1,253 @@
 # Esercizi di allenamento
 
-Ecco esercizi comprovati utilizzati da giocatori d'élite. Ogni esercizio ha uno scopo specifico - scegli in base a ciò che devi sviluppare.
+Ecco alcuni esercizi collaudati e utilizzati dai giocatori d&#39;élite. Ogni esercizio ha uno scopo specifico: scegli in base a ciò che vuoi sviluppare.
 
-## Esercizi di puntare
+::: tip La grande idea
+**Ogni esercizio ha uno scopo specifico.** Non lanciare bocce a caso: scegli esercizi che puntino sui tuoi punti deboli e che supportino i tuoi obiettivi. Monitora i tuoi progressi per vedere i miglioramenti.
+:::
+
+```mermaid
+graph TD
+    A[Esercizi di allenamento] --> B[Trapani di puntamento]
+    A --> C[Esercizi di tiro]
+    A --> D[Esercizi mentali]
+    A --> E[Simulazione di gioco]
+
+    B --> F[Precisione]
+    B --> G[Controllo della distanza]
+
+    C --> H[Tasso di successo]
+    C --> I[Tiro a pressione]
+
+    D --> J[Pratica di routine]
+    D --> K[Visualizzazione]
+
+    E --> L[Prontezza alla competizione]
+
+    style A fill:#e8f5e9
+    style B fill:#e3f2fd
+    style C fill:#fff4e1
+    style D fill:#f3e5f5
+    style E fill:#fff4e1
+```
+
+## Trapani di puntamento
 
 ### Il vicolo
-**Scopo:** Isolare angolo di rilascio e coerenza di linea
+**Scopo:** Isolare l&#39;angolo di rilascio e la coerenza della linea
 
-**Configurazione:**
-- Posiziona due marcatori a 30-40cm di distanza, circa 1 metro dal cerchio
+**Impostare:**
+- Posizionare due marcatori a 30-40 cm di distanza, a circa 1 metro dal cerchio
 - Il bersaglio è a 7-9 metri di distanza
 
-**Esercizio:**
-- Lancia attraverso il "vicolo" (tra i marcatori)
-- Qualsiasi lancio che colpisce un marcatore è "morto"
-- Concentrati su punto di rilascio coerente
+**Trapano:**
+- Lanciare attraverso il &quot;vicolo&quot; (tra i marcatori)
+- Ogni lancio che colpisce un marcatore è &quot;morto&quot;
+- Concentrarsi su un punto di rilascio coerente
 
 **Progressione:**
 - Restringi il vicolo man mano che migliori
-- Varia la distanza del bersaglio
+- Variare la distanza del bersaglio
 - Aggiungi una zona di atterraggio specifica
 
 ### Zone di precisione
-**Scopo:** Sviluppare precisione verso aree specifiche
+**Scopo:** Sviluppare la precisione in aree specifiche
 
-**Configurazione:**
-- Segna zone attorno a un bersaglio (es., cerchi a 20cm, 40cm, 60cm)
-- O usa marcatori naturali sul terreno
+**Impostare:**
+- Segna le zone attorno a un bersaglio (ad esempio, cerchi a 20 cm, 40 cm, 60 cm)
+- Oppure utilizzare i marcatori naturali sul terreno
 
 **Punteggio:**
-- Dentro 20cm: 3 punti
-- Dentro 40cm: 2 punti
-- Dentro 60cm: 1 punto
-- Fuori: 0 punti
+- All&#39;interno di 20 cm: 3 punti
+- All&#39;interno di 40 cm: 2 punti
+- All&#39;interno di 60 cm: 1 punto
+- Esterno: 0 punti
 
-**Esercizio:**
-- Lancia 10 bocce, traccia il tuo punteggio
-- Obiettivo: Miglioramento costante nelle sessioni
+**Trapano:**
+- Lancia 10 bocce e tieni traccia del tuo punteggio
+- Obiettivo: Miglioramento costante nel corso delle sessioni
 
-### Variazione di distanza
-**Scopo:** Sviluppare controllo della profondità
+### Variazione della distanza
+**Scopo:** Sviluppare il controllo della profondità
 
-**Configurazione:**
-- Posiziona bersagli a 6m, 7m, 8m, 9m, 10m
+**Impostare:**
+- Posizionare i bersagli a 6 m, 7 m, 8 m, 9 m, 10 m
 
-**Esercizio:**
+**Trapano:**
 - Lancia a ogni distanza in ordine casuale
-- Il partner annuncia la distanza
-- Concentrati sull'aggiustare il peso, non la tecnica
+- Il partner chiama la distanza
+- Concentrati sulla regolazione del peso, non sulla tecnica
 
 **Variazione:**
-- Aggiungi chiamate "corto" e "lungo" dopo il rilascio
-- Deve aggiustare a metà volo (sviluppa sensibilità)
+- Aggiungi chiamate &quot;brevi&quot; e &quot;lunghe&quot; dopo aver rilasciato
+- È necessario regolare a metà volo (sviluppa la sensibilità)
 
 ## Esercizi di tiro
 
 ### La scala di tiro
-**Scopo:** Costruire precisione sotto pressione progressiva
+**Scopo:** Aumentare la precisione sotto pressione progressiva
 
-**Configurazione:**
-- Posiziona una boccia bersaglio a 6 metri
-- Segna distanze a 7m, 8m, 9m, 10m
+**Impostare:**
+- Posizionare una boccia bersaglio a 6 metri
+- Segna le distanze a 7m, 8m, 9m, 10m
 
-**Esercizio:**
+**Trapano:**
 - Inizia a 6 metri
-- Colpito = indietreggia di un metro
-- Mancato = avanza di un metro (o ricomincia)
-- Obiettivo: Raggiungere 10 metri
+- Colpire = spostarsi indietro di un metro
+- Manca = avanza di un metro (o ricomincia)
+- Obiettivo: raggiungere i 10 metri
 
-**Variazioni:**
-- Versione rigorosa: Qualsiasi mancato ritorna a 6m
-- Versione a tempo: Quanto lontano puoi arrivare in 10 minuti?
-- Versione di squadra: Alterna con partner
+**Varianti:**
+- Versione rigorosa: qualsiasi errore torna a 6m
+- Versione cronometrata: Quanto lontano puoi arrivare in 10 minuti?
+- Versione di squadra: alternarsi con il partner
 
 ### La barriera (Blox)
-**Scopo:** Forzare tiro ad arco alto
+**Scopo:** Forzare il tiro ad arco alto
 
-**Configurazione:**
-- Posiziona una barriera (bastone, corda o ostacolo) tra te e il bersaglio
-- La barriera dovrebbe essere abbastanza alta da richiedere un pallonetto
+**Impostare:**
+- Posiziona una barriera (un bastone, una corda o un ostacolo) tra te e il bersaglio
+- La barriera dovrebbe essere abbastanza alta da richiedere un lancio
 
-**Esercizio:**
-- Deve superare la barriera per colpire il bersaglio
-- Qualsiasi lancio che colpisce la barriera è "morto"
-- Sviluppa punto di rilascio alto
+**Trapano:**
+- Bisogna superare la barriera per colpire il bersaglio
+- Ogni lancio che colpisce la barriera è &quot;morto&quot;
+- Sviluppa un punto di rilascio elevato
 
 **Perché è importante:**
-- La competizione spesso richiede tiro sopra ostacoli
-- Costruisce versatilità nel tuo tiro
+- La competizione spesso richiede di sparare oltre gli ostacoli
+- Aumenta la versatilità nelle tue riprese
 
 ### Percorso a ostacoli
-**Scopo:** Sviluppare tiro da angoli diversi
+**Scopo:** Sviluppare riprese da diverse angolazioni
 
-**Configurazione:**
-- Posiziona boccia bersaglio al centro
-- Aggiungi ostacoli (altre bocce, marcatori) attorno
+**Impostare:**
+- Posizionare la boccia bersaglio al centro
+- Aggiungi ostacoli (altre bocce, segnalini) attorno ad esso
 
-**Esercizio:**
-- Tira da posizioni diverse attorno al cerchio
-- Deve trovare l'angolo che funziona
-- Sviluppa lettura delle linee di tiro
+**Trapano:**
+- Spara da diverse posizioni attorno al cerchio
+- Bisogna trovare l&#39;angolazione che funziona
+- Sviluppa la lettura delle linee di tiro
 
 ## Esercizi di allenamento mentale
 
 ### Ripetizione di routine
-**Scopo:** Rendere automatica la tua routine pre-lancio
+**Scopo:** Rendi automatica la tua routine pre-tiro
 
-**Esercizio:**
+**Trapano:**
 - Pratica la tua routine completa senza lanciare
-- Passa attraverso ogni passo deliberatamente
+- Eseguire ogni passaggio con attenzione
 - Fai 10-20 ripetizioni
 - Poi aggiungi il lancio
 
-**Focus:**
-- Tempistica coerente
-- Transizione chiara dal pensare all'eseguire
-- Stessa routine ogni volta
+**Messa a fuoco:**
+- Tempi coerenti
+- Chiara transizione dal pensiero all&#39;esecuzione
+- La stessa routine ogni volta
 
 ### Punti di pressione
-**Scopo:** Praticare prestazione sotto pressione
+**Scopo:** Esercitarsi a esibirsi sotto pressione
 
-**Configurazione:**
-- Crea uno scenario "devi fare"
-- Imposta conseguenze per mancare
+**Impostare:**
+- Crea uno scenario &quot;da non perdere&quot;
+- Stabilisci le conseguenze per la mancanza
 
 **Esempi:**
-- "Fai 3 di fila o ricomincia"
-- "Manca e fai 10 flessioni"
-- "Annuncia il tuo bersaglio prima di lanciare"
+- &quot;Fai 3 di fila o ricomincia&quot;
+- &quot;Manca e fai 10 flessioni&quot;
+- &quot;Annuncia il tuo bersaglio prima di lanciare&quot;
 
 **Chiave:**
-- La pressione dovrebbe sembrare reale
-- Pratica la tua risposta mentale alla pressione
-- Usa la tua routine esattamente come in competizione
+- La pressione dovrebbe essere reale
+- Esercita la tua risposta mentale alla pressione
+- Utilizza la tua routine esattamente come in gara
 
 ### Pratica di recupero
-**Scopo:** Costruire l'abitudine di reset mentale rapido
+**Scopo:** Creare l&#39;abitudine di un rapido reset mentale
 
-**Esercizio:**
-- Lancia intenzionalmente una boccia cattiva
-- Pratica immediatamente SOAS (Stop, Observe, Accept, Slip)
-- Lancia la boccia successiva con impegno totale
+**Trapano:**
+- Lanciare intenzionalmente una boccia sbagliata
+- Praticare immediatamente SOAS (Stop, Observe, Accept, Slip)
+- Lancia la prossima boccia con il massimo impegno
 
-**Focus:**
-- Non soffermarti sul mancato
-- Resetta completamente prima del prossimo lancio
-- Mantieni linguaggio del corpo positivo
+**Messa a fuoco:**
+- Non soffermarti sulla mancanza
+- Ripristinare completamente prima del lancio successivo
+- Mantenere un linguaggio del corpo positivo
 
 ## Esercizi di simulazione di gioco
 
-### Millieu's Delight
-**Scopo:** Rompere blocco del ritmo, costruire versatilità
+### La delizia di Millieu
+**Scopo:** Rompere il blocco del ritmo, sviluppare la versatilità
 
-**Esercizio:**
-- Alterna tra puntare e tirare ad ogni lancio
-- Nessun due lanci consecutivi dello stesso tipo
-- Sviluppa capacità di cambiare modalità
+**Trapano:**
+- Alternare tra puntamento e tiro a ogni lancio
+- Non sono ammessi due lanci consecutivi dello stesso tipo
+- Sviluppa la capacità di cambiare modalità
 
-### Gioco di scenario
-**Scopo:** Praticare processo decisionale tattico
+### Scenario di gioco
+**Scopo:** Esercitare il processo decisionale tattico
 
-**Configurazione:**
-- Imposta situazioni di gioco realistiche
-- Assegna punteggi e conteggi di bocce
+**Impostare:**
+- Impostare situazioni di gioco realistiche
+- Assegnare punteggi e conteggi delle bocce
 
 **Esempi:**
-- "Sei sotto 10-8, l'avversario ha 2 punti, tu hai 2 bocce"
-- "Pareggio 6-6, hai l'ultima boccia, loro hanno 1 punto"
+- &quot;Sei sotto 10-8, l&#39;avversario ha 2 punti, tu hai 2 bocce&quot;
+- &quot;Pareggio 6-6, tu hai l&#39;ultima boccia, loro hanno 1 punto&quot;
 
-**Esercizio:**
+**Trapano:**
 - Decidi cosa fare
-- Esegui con impegno totale
-- Rivedi la decisione dopo
+- Eseguire con pieno impegno
+- Rivedere la decisione in seguito
 
-### Gioco di partita con regole
+### Gioco di abbinamento con regole
 **Scopo:** Simulazione di competizione
 
-**Variazioni:**
-- Gioca a 13 (gioco completo)
-- Gioca a 7 (più corto, più giochi)
-- "Punti di pressione" - certi finali valgono doppio
-- "Morte improvvisa" - il primo a perdere un finale perde il gioco
+**Varianti:**
+- Gioca fino a 13 (partita completa)
+- Gioca fino a 7 (più breve, più partite)
+- &quot;Punti di pressione&quot; - certe estremità valgono il doppio
+- &quot;Morte improvvisa&quot; - il primo a perdere una partita perde la partita
 
-## Tracciamento dei tuoi esercizi
+## Monitoraggio delle esercitazioni
 
-Tieni un registro per ogni esercizio:
+Tieni un registro per ogni esercitazione:
 
-| Data | Esercizio | Punteggio/Risultato | Note |
+| Data | Trapano | Punteggio/Risultato | Note |
 |------|-------|--------------|-------|
 | | | | |
 
-**Traccia nel tempo:**
+**Monitoraggio nel tempo:**
 - Stai migliorando?
-- Quali esercizi aiutano di più?
+- Quali esercizi sono più utili?
 - Dove hai difficoltà?
 
-## Costruire una sessione di esercizi
+## Creare una sessione di esercizi
 
 ### Riscaldamento (10 min)
-- Lanci facili per sciogliersi
-- Nessuna pressione, solo sensazione
+- Lanci facili per sciogliere
+- Nessuna pressione, senti e basta
 
 ### Focus tecnico (20-30 min)
-- Uno o due esercizi mirati a abilità specifiche
-- Pratica bloccata per nuove abilità
-- Pratica casuale per abilità consolidate
+- Uno o due esercizi mirati ad abilità specifiche
+- Pratica bloccata per nuove competenze
+- Pratica casuale per competenze consolidate
 
-### Pressione/Simulazione di gioco (20-30 min)
+### Simulazione di pressione/gioco (20-30 min)
 - Aggiungi conseguenze
 - Crea scenari realistici
-- Pratica abilità mentali
+- Praticare le abilità mentali
 
-### Raffreddamento (10 min)
+### Defaticamento (10 min)
 - Lanci facili
 - Rifletti sulla sessione
-- Annota su cosa lavorare dopo
+- Prendi nota di cosa dovrai lavorare dopo
 
-## Punto chiave
+## Conclusione chiave
 
-> Gli esercizi sono strumenti. Scegli lo strumento giusto per ciò che devi costruire.
+> I trapani sono strumenti. Scegli lo strumento giusto per ciò che devi costruire.
 
-Non lanciare solo bocce. Allenati con uno scopo.
+Non limitarti a lanciare bocce. Allenati con uno scopo.
 

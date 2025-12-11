@@ -1,53 +1,81 @@
 # Mindfulness-teknikker
 
-Her er praktiske teknikker du kan bruge til at udvikle mindfulness. Start med en eller to og byg derfra.
+Her er praktiske teknikker, du kan bruge til at udvikle mindfulness. Start med en eller to, og byg derfra.
 
-## Formelle praksisser
+::: tip Den store idé
+**Mindfulness er en færdighed, ikke et talent.** Ligesom at pege eller skyde forbedres det med øvelse. Start småt, vær konsekvent, og fordelene forstærkes over tid.
+:::
 
-Dette er dedikerede mindfulness-sessioner - tid afsat specifikt til praksis.
+```mermaid
+graph TD
+    A[Mindfulness-praksis] --> B[Formel praksis]
+    A --> C[Uformelle praksisser]
+    A --> D[Konkurrencespecifik]
+
+    B --> E[Siddende meditation]
+    B --> F[Kropsscanning]
+    B --> G[Gående meditation]
+
+    C --> H[Bevidst vejrtrækning]
+    C --> I[SOAS-metoden]
+    C --> J[Mindful spisning]
+
+    D --> K[Pre-shot åndedræt]
+    D --> L[Nulstilling mellem kast]
+    D --> M[Mindfulness-klokke]
+
+    style A fill:#e8f5e9
+    style B fill:#e3f2fd
+    style C fill:#fff4e1
+    style D fill:#f3e5f5
+```
+
+## Formel praksis
+
+Disse er dedikerede mindfulness-sessioner - tid afsat specifikt til øvelse.
 
 ### Siddende meditation
 
 Fundamentet for mindfulness-praksis.
 
-**Sådan gør du:**
-1. Sid komfortabelt (stol eller gulv)
-2. Luk dine øjne eller blødgør dit blik
-3. Fokuser på din vejrtrækning - fornemmelsen af luft der kommer ind og ud
-4. Når tanker opstår, bemærk dem uden dømmekraft
-5. Vend blidt opmærksomheden tilbage til vejrtrækningen
-6. Start med 5 minutter, byg op til 15-20
+**Sådan gør du det:**
+1. Sid behageligt (på stol eller gulv)
+2. Luk øjnene eller blødgør dit blik
+3. Fokuser på dit åndedræt - fornemmelsen af luft, der kommer ind og ud
+4. Når tanker opstår, så læg mærke til dem uden at dømme
+5. Vend blidt opmærksomheden tilbage til åndedrættet
+6. Start med 5 minutter, øg til 15-20
 
 **Tips:**
 - Tanker vil komme - det er normalt
-- Hver gang du bemærker at du har vandret og vender tilbage, bygger du færdigheden
+- Hver gang du bemærker, at du har vandret og vender tilbage, opbygger du færdigheden
 - Døm ikke dig selv for at vandre
-- Konsistens betyder mere end varighed
+- Konsistens er vigtigere end varighed
 
-### Kropsskanning
+### Kropsscanning
 
-Udvikler opmærksomhed på fysiske fornemmelser.
+Udvikler bevidsthed om fysiske sanseindtryk.
 
-**Sådan gør du:**
-1. Læg dig ned eller sid komfortabelt
-2. Start ved dine fødder - bemærk eventuelle fornemmelser
-3. Flyt langsomt opmærksomheden op: ankler, lægge, knæ...
-4. Bemærk uden at prøve at ændre noget
-5. Hvis du finder spænding, ånd ind i det område
+**Sådan gør du det:**
+1. Lig ned eller sid behageligt
+2. Start ved dine fødder - læg mærke til eventuelle fornemmelser
+3. Bevæg langsomt opmærksomheden opad: ankler, lægge, knæ...
+4. Læg mærke til uden at forsøge at ændre noget
+5. Hvis du oplever spændinger, så træk vejret ind i det område
 6. Fortsæt til toppen af dit hoved
 7. Tager 10-20 minutter
 
-**For pétanque:** Hjælper dig med at bemærke spænding før det påvirker dit kast.
+**Til petanque:** Hjælper dig med at bemærke spændinger, før de påvirker dit kast.
 
-### Gå-meditation
+### Gående meditation
 
-Mindfulness i bevægelse - god forberedelse til banen.
+Mindfulness i bevægelse - god forberedelse til pisten.
 
-**Sådan gør du:**
+**Sådan gør du det:**
 1. Gå langsomt og bevidst
-2. Mærk hver del af trinnet: løft, flyt, placer
-3. Bemærk fornemmelserne i dine fødder og ben
-4. Når dit sind vandrer, vend tilbage til de fysiske fornemmelser
+2. Mærk hver del af skridtet: løft, bevæg, placer
+3. Læg mærke til fornemmelserne i dine fødder og ben
+4. Når dine tanker vandrer, så vend tilbage til de fysiske fornemmelser
 5. 5-10 minutter er nok
 
 ## Uformelle praksisser
@@ -56,118 +84,118 @@ Disse integrerer mindfulness i daglige aktiviteter.
 
 ### Bevidst vejrtrækning
 
-Den simpleste teknik - tilgængelig når som helst.
+Den enkleste teknik - tilgængelig når som helst.
 
-**Praksis:**
-- Tag 3 langsomme, bevidste vejrtrækninger
-- Fokuser fuldstændigt på fornemmelsen
-- Brug det som en nulstillingsknap gennem dagen
+**Øvelsen:**
+- Tag 3 langsomme, bevidste indåndinger
+- Fokuser fuldt ud på sansningen
+- Brug den som en nulstillingsknap hele dagen
 
-**Hvornår skal du bruge det:**
-- Før du træder ind i cirklen
-- Når du bemærker stress bygger op
-- Mellem kampe
-- Ethvert overgangsøjeblik
+**Hvornår skal det bruges:**
+- Før man træder ind i cirklen
+- Når du bemærker ophobning af stress
+- Mellem kampene
+- Ethvert overgangsmoment
 
 ### SOAS-metoden
 
-Dit værktøj til at håndtere vanskelige øjeblikke.
+Dit værktøj til at håndtere svære øjeblikke.
 
 | Trin | Handling | Eksempel |
 |------|--------|---------|
-| **S**top | Pause, reagér ikke | Kast ikke hænderne op efter et miss |
-| **O**bserver | Bemærk hvad der sker | "Jeg føler mig frustreret. Min kæbe er stram." |
-| **A**ccepter | Anerkend uden at kæmpe | "Sådan har jeg det lige nu." |
-| **S**lip | Slip det, gå videre | Frigør spændingen, vend tilbage til nuet |
+| **Stop | Pause, reager ikke | Kast ikke hænderne op efter en forbipasserende |
+| **Observere | Læg mærke til hvad der sker | &quot;Jeg føler mig frustreret. Min kæbe er stram.&quot; |
+| **Acceptere | Anerkend uden at kæmpe | &quot;Sådan har jeg det lige nu.&quot; |
+| **Glide | Lad det gå, kom videre | Slip spændingen, vend tilbage til nutiden |
 
-**Øv dette i dagligdagen** så det bliver automatisk i konkurrence.
+**Øv dette i hverdagen**, så det sker automatisk i konkurrencer.
 
 ### Mindful spisning
 
 En overraskende kraftfuld praksis.
 
-**Sådan gør du:**
-- Spis et måltid uden distraktioner (ingen telefon, TV)
-- Bemærk farverne, duftene, teksturerne
-- Tyg langsomt, smag fuldt ud
-- Bemærk når du er mæt
+**Sådan gør du det:**
+- Spis ét måltid uden distraktioner (ingen telefon, tv)
+- Læg mærke til farverne, duftene, teksturerne
+- Tyg langsomt, smag grundigt
+- Læg mærke til, hvornår du er tilfreds
 
-**Hvorfor det betyder noget:** Bygger den generelle færdighed at være opmærksom.
+**Hvorfor det er vigtigt:** Opbygger den generelle færdighed i at være opmærksom.
 
-### Sensorisk opmærksomhed
+### Sensorisk bevidsthed
 
-Engagere dig fuldt ud med dit miljø.
+Fuldstændig engagement i dine omgivelser.
 
-**5-4-3-2-1 teknikken:**
-- Bemærk 5 ting du kan se
-- Bemærk 4 ting du kan høre
-- Bemærk 3 ting du kan mærke
-- Bemærk 2 ting du kan lugte
-- Bemærk 1 ting du kan smage
+**5-4-3-2-1-teknikken:**
+- Læg mærke til 5 ting, du kan se
+- Læg mærke til 4 ting, du kan høre
+- Læg mærke til 3 ting, du kan mærke
+- Læg mærke til 2 ting du kan lugte
+- Læg mærke til én ting du kan smage
 
-**Brug dette:** Når dit sind racer før en stor kamp.
+**Brug dette:** Når dine tanker er på jagt før en stor kamp.
 
-## Konkurrence-specifikke teknikker
+## Konkurrencespecifikke teknikker
 
-### Vejrtrækningen før kastet
+### Pre-shot-åndedrættet
 
-Integrer vejrtrækning i din rutine:
+Integrer vejrtrækningen i din rutine:
 
-1. Før du træder ind i cirklen, tag en bevidst vejrtrækning
-2. Mærk dine fødder på jorden
-3. Lad dine skuldre falde ved udåndingen
-4. Begynd derefter din rutine
+1. Tag et bevidst åndedrag, inden du går ind i cirklen
+2. Føl dine fødder på jorden
+3. Lad dine skuldre sænke sig ved udåndingen
+4. Så start din rutine
 
 ### Nulstilling mellem kast
 
-Hvad skal du gøre mens du venter:
+Hvad skal man gøre, mens man venter:
 
-- Bemærk hvor din opmærksomhed går hen
-- Hvis den går til score/resultat, anerkend og vend tilbage til nuet
-- Fokuser på noget neutralt (din vejrtrækning, fornemmelsen af en boule)
+- Læg mærke til, hvor din opmærksomhed går hen
+- Hvis det går til score/resultat, anerkend og vend tilbage til præsentationen
+- Fokuser på noget neutralt (din vejrtrækning, følelsen af en boule)
 - Forbliv fysisk afslappet
 
-### "Mindfulness-klokken"
+### &quot;Mindfulness-klokken&quot;
 
 Brug triggere til at minde dig om at være til stede:
 
-- Hver gang du tager en boule op
-- Når du hører cochonnet blive kastet
+- Hver gang du tager en kugle op
+- Når du hører donkraften blive kastet
 - Når du træder ind i cirklen
-- Når en kamp slutter
+- Når et spil slutter
 
-Hver trigger = en bevidst vejrtrækning.
+Hver trigger = ét bevidst åndedrag.
 
 ## Opbygning af din praksis
 
-### Uge 1-2: Fundament
+### Uge 1-2: Grundlæggende
 - 5 minutters siddende meditation dagligt
 - 3 bevidste vejrtrækninger før hvert måltid
-- Øv SOAS en gang når noget mindre går galt
+- Øv SOAS én gang, når noget mindre går galt
 
 ### Uge 3-4: Udvidelse
-- Øg meditation til 10 minutter
-- Tilføj kropsskanning to gange om ugen
-- Brug mindfulness-klokke triggere i træning
+- Øg meditationen til 10 minutter
+- Tilføj kropsscanning to gange om ugen
+- Brug mindfulness-klokkeudløsere i praksis
 
 ### Uge 5+: Integration
-- 15-20 minutters daglig praksis
-- Fuld integration i rutine før kast
-- SOAS bliver automatisk respons på fejl
+- 15-20 minutters daglig træning
+- Fuld integration i rutinen før indtagelse
+- SOAS bliver automatisk reaktion på fejl
 
 ## Almindelige udfordringer
 
 | Udfordring | Løsning |
 |-----------|----------|
-| "Jeg kan ikke stoppe med at tænke" | Det skal du heller ikke. Bare bemærk og vend tilbage. |
-| "Jeg har ikke tid" | Start med 3 minutter. Alle har 3 minutter. |
-| "Jeg falder i søvn" | Prøv at sidde i stedet for at ligge, eller øv tidligere på dagen. |
-| "Det føles meningsløst" | Fordele kommer med konsistens. Stol på processen. |
-| "Jeg glemmer at øve" | Sæt en daglig påmindelse. Forbind det med en eksisterende vane. |
+| &quot;Jeg kan ikke holde op med at tænke&quot; | Det skal du ikke. Bare læg mærke til det og vend tilbage. |
+| &quot;Jeg har ikke tid&quot; | Start med 3 minutter. Alle har 3 minutter. |
+| &quot;Jeg falder i søvn&quot; | Prøv at sidde i stedet for at ligge ned, eller øv dig tidligere på dagen. |
+| &quot;Det føles meningsløst&quot; | Fordele kommer med konsistens. Stol på processen. |
+| &quot;Jeg glemmer at øve mig&quot; | Indstil en daglig påmindelse. Forbind den med en eksisterende vane. |
 
-## Nøglepointe
+## Vigtig konklusion
 
-> Mindfulness er en færdighed. Som enhver færdighed forbedres den med praksis.
+> Mindfulness er en færdighed. Ligesom enhver anden færdighed forbedres den med øvelse.
 
-Start småt. Vær konsistent. Fordelene sammensættes over tid.
+Start småt. Vær konsekvent. Fordelene forstærkes over tid.
 

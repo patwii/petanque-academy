@@ -2,20 +2,37 @@
 
 Effective communication is what transforms a group of individuals into a team. In pétanque, where strategy shifts constantly and pressure runs high, how you communicate can determine the outcome.
 
+::: tip The Big Idea
+**Communication is what transforms individuals into a team.** Clear, specific, and supportive communication under pressure separates good teams from great ones.
+:::
+
 ## The Communication Cycle
 
 Good team communication follows a cycle:
 
-```
-Observe → Share → Discuss → Decide → Execute → Review
+```mermaid
+graph LR
+    A[Observe] --> B[Share]
+    B --> C[Discuss]
+    C --> D[Decide]
+    D --> E[Execute]
+    E --> F[Review]
+    F --> A
+
+    style A fill:#e3f2fd
+    style D fill:#e8f5e9
+    style E fill:#fff4e1
+    style F fill:#f3e5f5
 ```
 
-1. **Observe:** Notice what's happening (terrain, positions, opponents)
-2. **Share:** Tell your teammates what you see
-3. **Discuss:** Exchange perspectives and ideas
-4. **Decide:** Agree on the approach
-5. **Execute:** Do it with commitment
-6. **Review:** Learn from the result
+| Step | Action | Example |
+|------|--------|---------|
+| **Observe** | Notice what's happening | Terrain, positions, opponents |
+| **Share** | Tell teammates what you see | "The ground slopes left there" |
+| **Discuss** | Exchange perspectives | "Should I block or go for point?" |
+| **Decide** | Agree on approach | "Let's try the high lob" |
+| **Execute** | Do it with commitment | Full focus on the throw |
+| **Review** | Learn from result | "That worked well" or "Next time..." |
 
 ## When to Communicate
 

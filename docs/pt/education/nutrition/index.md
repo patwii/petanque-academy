@@ -1,160 +1,183 @@
-# Nutrição para desempenho de precisão
+# Nutrição para um Desempenho Preciso
 
-A petanca é um desporto de precisão, não um desporto de resistência. As suas necessidades nutricionais são diferentes das de um maratonista ou jogador de futebol. O mais importante é **a estabilidade do combustível cerebral** - manter a sua mente afiada e as suas mãos firmes durante um longo dia de competição.
+A petanca é um esporte de precisão, não de resistência. Suas necessidades nutricionais são diferentes das de um maratonista ou de um jogador de futebol. O mais importante é a **estabilidade do combustível cerebral** — manter a mente afiada e as mãos firmes durante um longo dia de competição.
 
-## O desafio do atleta de precisão
+::: tip A Grande Ideia
+**Seu cérebro é sua ferramenta mais importante na petanca. Alimente-o com combustível estável, não com energia instável.** Concentre-se em proteínas, gorduras saudáveis e em manter-se hidratado. Evite picos de açúcar.
+:::
 
-Ao contrário dos desportos de alta intensidade, a petanca não requer reservas massivas de glicogénio ou reposição rápida de energia. O que requer é:
+```mermaid
+graph LR
+    A[Açúcar/Carboidratos Simples] --> B[Pico de açúcar no sangue]
+    B --> C[Liberação de insulina]
+    C --> D[Queda de açúcar no sangue]
+    D --> E[Resposta da Adrenalina]
+    E --> F[Tremores e Ansiedade]
 
-- **Açúcar no sangue estável** - sem picos ou quedas
-- **Clareza mental consistente** - foco que dura todo o dia
+    G[Proteínas e gorduras saudáveis] --> H[Níveis estáveis de açúcar no sangue]
+    H --> I[Energia constante]
+    I --> J[Foco nítido]
+    J --> K[Mãos firmes]
+
+    style A fill:#ffebee
+    style F fill:#ffebee
+    style G fill:#e8f5e9
+    style K fill:#e8f5e9
+```
+
+## O Desafio do Atleta de Precisão
+
+Ao contrário de esportes de alta intensidade, a petanca não exige grandes reservas de glicogênio nem reposição rápida de energia. O que ela exige é:
+
+- **Níveis estáveis de açúcar no sangue** - sem picos ou quedas bruscas
+- **Clareza mental consistente** - foco que dura o dia todo
 - **Mãos firmes** - sem tremores ou abalos
-- **Nervos calmos** - baixa ansiedade e resposta ao stress
+- **Nervos calmos** - baixa ansiedade e resposta ao estresse
 
-A sua estratégia nutricional deve otimizar estes fatores, não a produção de energia bruta.
+Sua estratégia nutricional deve otimizar esses fatores, e não a produção bruta de energia.
 
-## O problema com o açúcar e os hidratos de carbono simples
+## O problema com o açúcar e os carboidratos simples
 
-Muitos atletas optam por dietas ricas em hidratos de carbono. Para jogadores de petanca, isto pode prejudicar o desempenho.
+Muitos atletas optam por dietas ricas em carboidratos. Para jogadores de petanca, isso pode, na verdade, prejudicar o desempenho.
 
-### A montanha-russa do açúcar no sangue
+### A Montanha-Russa do Açúcar no Sangue
 
-Quando come açúcar ou hidratos de carbono simples:
-1. O açúcar no sangue aumenta rapidamente
-2. A insulina é libertada para baixá-lo
-3. O açúcar no sangue cai (hipoglicemia)
-4. O seu corpo liberta adrenalina para compensar
-5. Experimenta tremores, ansiedade e foco fraco
+Quando você consome açúcar ou carboidratos simples:
+1. O nível de açúcar no sangue aumenta rapidamente.
+2. A insulina é liberada para diminuir a concentração de insulina.
+3. Queda brusca de açúcar no sangue (hipoglicemia)
+4. Seu corpo libera adrenalina para compensar.
+5. Você apresenta tremores, ansiedade e dificuldade de concentração.
 
-**Isto é o oposto do que precisa para precisão.**
+**Isso é o oposto do que você precisa para obter precisão.**
 
 ### Sintomas de instabilidade do açúcar no sangue
 
 | Sintoma | Impacto no desempenho |
 |---------|----------------------|
-| Mãos trémulas | Libertação inconsistente |
-| Dificuldade em concentrar | Má tomada de decisões |
-| Irritabilidade | Conflito de equipa, má compostura |
-| Fadiga após refeições | Queda da tarde |
+| mãos trêmulas | Lançamento inconsistente |
+| Dificuldade de concentração | Tomada de decisões ruins |
+| Irritabilidade | Conflito de equipe, falta de compostura |
+| Fadiga após as refeições | moleza da tarde |
 | Ansiedade | Sensibilidade à pressão |
-| Névoa cerebral | Pensamento tático lento |
+| Névoa mental | Pensamento tático lento |
 
-## Uma melhor abordagem: Energia estável
+## Uma abordagem melhor: energia estável
 
-O objetivo é fornecer ao seu cérebro combustível consistente sem a montanha-russa.
+O objetivo é fornecer ao seu cérebro combustível constante, sem oscilações bruscas.
 
 ### Princípios-chave
 
-1. **Priorize proteínas e gorduras saudáveis** - Fornecem energia lenta e constante
-2. **Escolha hidratos de carbono complexos em vez de simples** - Se comer hidratos de carbono, escolha os que digerem lentamente
-3. **Evite picos de açúcar** - Especialmente antes e durante a competição
-4. **Mantenha-se hidratado** - A desidratação afeta significativamente a concentração
-5. **Coma regularmente** - Não se deixe ficar com demasiada fome
+1. **Priorize proteínas e gorduras saudáveis** - Elas fornecem energia lenta e constante.
+2. **Prefira carboidratos complexos aos simples** - Se for consumir carboidratos, escolha aqueles que são digeridos lentamente.
+3. **Evite picos de açúcar** - Especialmente antes e durante a competição.
+4. **Mantenha-se hidratado** - A desidratação afeta significativamente a concentração.
+5. **Alimente-se regularmente** - Não deixe a fome chegar a um ponto em que você não consegue se controlar.
 
 ### Alimentos que ajudam
 
 | Tipo de alimento | Exemplos | Por que funciona |
 |-----------|----------|--------------|
 | Proteína | Ovos, nozes, queijo, carne | Digestão lenta, energia estável |
-| Gorduras saudáveis | Abacate, azeite, nozes | Combustível duradouro |
-| Hidratos de carbono complexos | Vegetais, leguminosas | A fibra retarda a absorção |
-| Frutas com baixo teor de açúcar | Bagas, maçãs | Nutrientes sem pico |
+| Gorduras saudáveis | Abacate, azeite, nozes | Combustível de longa duração |
+| Carboidratos complexos | Vegetais, leguminosas | A fibra retarda a absorção. |
+| Frutas com baixo teor de açúcar | Frutas vermelhas, maçãs | Nutrientes sem picos |
 
 ### Alimentos a limitar
 
-| Tipo de alimento | Exemplos | Por que é problemático |
+| Tipo de alimento | Exemplos | Por que isso é problemático |
 |-----------|----------|---------------------|
-| Açúcar | Doces, refrigerantes, pastelaria | Pico e queda rápidos |
+| Açúcar | Doces, refrigerantes, bolos | Pico e queda rápidos |
 | Pão branco/massa | Sanduíches, pratos de massa | Conversão rápida em açúcar |
-| Sumo de fruta | Sumo de laranja, batidos | Açúcar concentrado |
-| Bebidas energéticas | A maioria das marcas comerciais | Queda de açúcar + cafeína |
+| Suco de frutas | Suco de laranja, smoothies | Açúcar concentrado |
+| Bebidas energéticas | A maioria das marcas comerciais | Açúcar + cafeína |
 
-## Nutrição do dia de competição
+## Nutrição para o dia da competição
 
 ### Antes da competição
 
-**2-3 horas antes:**
-- Refeição equilibrada com proteína, gordura e vegetais
-- Evite hidratos de carbono pesados que possam causar sonolência
-- Exemplo: Ovos com vegetais, ou salada com frango
+**2 a 3 horas antes:**
+- Refeição balanceada com proteínas, gorduras e vegetais.
+- Evite carboidratos pesados que possam causar sonolência.
+- Exemplo: Ovos com legumes ou salada com frango
 
 **1 hora antes:**
-- Lanche leve se necessário
-- Nozes, queijo ou uma pequena porção de proteína
-- Evite qualquer coisa açucarada
+- Lanche leve, se necessário
+- Nozes, queijo ou uma pequena porção de proteína.
+- Evite tudo que seja açucarado
 
 ### Durante a competição
 
-**Entre jogos:**
-- Água (mais importante)
-- Pequenos lanches de proteína (nozes, queijo, carne)
-- Evite lanches e bebidas açucaradas
+**Entre os jogos:**
+- Água (a mais importante)
+- Pequenos lanches proteicos (nozes, queijo, carne)
+- Evite lanches e bebidas açucaradas.
 
-**Sinais de que precisa comer:**
-- Dificuldade em concentrar
+**Sinais de que você precisa comer:**
+- Dificuldade de concentração
 - Irritabilidade
-- Sensação de tremor
+- Sentindo-me trêmula
 - Dor de cabeça
 
 ### Após a competição
 
-- Reabasteça com uma refeição equilibrada
-- Reidrate completamente
-- Não se "recompense" com açúcar - afetará a sua recuperação
+- Reponha as energias com uma refeição equilibrada.
+- Reidrate-se completamente.
+- Não se &quot;recompense&quot; com açúcar - isso afetará sua recuperação.
 
 ## Hidratação
 
-A desidratação afeta a função cognitiva antes de sentir sede.
+A desidratação afeta a função cognitiva antes mesmo de você sentir sede.
 
 ### Diretrizes
 
-- **Comece hidratado** - Beba água ao longo do dia antes da competição
-- **Durante o jogo** - Beba água regularmente, não espere até ter sede
-- **Evite excesso de cafeína** - É um diurético
-- **Observe os sinais** - Dor de cabeça, urina escura, fadiga
+- **Comece o dia hidratado** - Beba água ao longo do dia antes da competição.
+- **Durante o jogo** - Beba água regularmente, não espere até sentir sede.
+- **Evite o excesso de cafeína** - Ela é diurética.
+- **Fique atento aos sinais:** Dor de cabeça, urina escura, fadiga.
 
 ### Quanto?
 
-Uma diretriz geral: aponte para urina amarelo pálido. Se estiver escura, precisa de mais água.
+Uma regra geral: o ideal é que a urina fique amarelo-clara. Se estiver escura, você precisa beber mais água.
 
-## A opção de baixo teor de hidratos de carbono
+## A opção com baixo teor de carboidratos
 
-Alguns atletas de precisão adotam dietas com baixo teor de hidratos de carbono ou cetogénicas. A teoria:
+Alguns atletas de precisão adotam dietas com baixo teor de carboidratos ou cetogênicas. A teoria:
 
 **Benefícios potenciais:**
-- Açúcar no sangue muito estável (sem picos possíveis)
-- Clareza mental consistente
-- Ansiedade e tremores reduzidos
-- Sem quedas de energia à tarde
+- Níveis de açúcar no sangue muito estáveis (sem possibilidade de picos).
+- Clareza mental constante
+- Redução da ansiedade e dos tremores
+- Sem quedas bruscas de energia à tarde.
 
 **Considerações:**
 - Requer período de adaptação (1-2 semanas)
-- Não adequado para todos
-- Requer planeamento e compromisso
+- Não é adequado para todos.
+- Requer planejamento e comprometimento.
 - Consulte primeiro um profissional de saúde
 
-Esta é uma estratégia avançada - não necessária para todos, mas vale a pena considerar se a estabilidade do açúcar no sangue é um problema significativo para si.
+Essa é uma estratégia avançada – não necessária para todos, mas que vale a pena considerar se a estabilidade do açúcar no sangue for uma questão importante para você.
 
 ## Dicas práticas
 
 ### Lanches fáceis para competição
-- Nozes mistas (sem sal)
+- Mix de frutos secos (sem sal)
 - Ovos cozidos
 - Cubos de queijo
-- Carne seca de vaca ou peru
-- Vegetais com hummus
+- Carne seca de boi ou de peru
+- Legumes com húmus
 - Azeitonas
 
 ### O que evitar
-- Lanches de máquinas de venda automática
-- Bebidas desportivas açucaradas
-- Pastelaria e produtos de padaria
-- Doces e barras de chocolate
-- A maioria das barras "energéticas" (verifique o teor de açúcar)
+- salgadinhos de máquina de venda automática
+- bebidas esportivas açucaradas
+- Pastéis e produtos de panificação
+- Barras de chocolate e doces
+- A maioria das barras &quot;energéticas&quot; (verifique o teor de açúcar)
 
-## Conclusão-chave
+## Ponto-chave
 
-> O seu cérebro é a sua ferramenta mais importante na petanca. Alimente-o com combustível estável, não com energia de montanha-russa.
+> No jogo de petanca, seu cérebro é sua ferramenta mais importante. Alimente-o com combustível estável, não com energia instável.
 
-Concentre-se em proteínas, gorduras saudáveis e mantenha-se hidratado. Evite picos de açúcar. A sua concentração, compostura e mãos firmes agradecerão.
+Priorize proteínas, gorduras saudáveis e mantenha-se hidratado. Evite picos de açúcar. Sua concentração, compostura e firmeza nas mãos agradecerão.
 

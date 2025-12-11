@@ -1,169 +1,186 @@
-# Construindo sua rotina pré-lançamento
+# Como montar sua rotina pré-injeção
 
-Sua rotina pré-lançamento é uma das ferramentas mais poderosas no seu jogo mental. É uma sequência consistente de ações que prepara você para cada lançamento e ativa seu melhor estado de desempenho.
+Sua rotina pré-arremesso é uma das ferramentas mais poderosas do seu jogo mental. É uma sequência consistente de ações que prepara você para cada arremesso e ativa seu melhor estado de desempenho.
+
+::: tip A Grande Ideia
+**Sua rotina é a porta de entrada para o estado de fluxo.** Uma rotina consistente antes da sessão de fotos sinaliza para o seu cérebro: &quot;É hora de executar.&quot; Com a repetição, ela se torna um gatilho automático para o máximo desempenho.
+:::
+
+```mermaid
+graph LR
+    A[Comece a rotina] --> B[O cérebro reconhece padrões]
+    B --> C[Mudança automática de estado]
+    C --> D[Modo de execução]
+    D --> E[Desempenho máximo]
+
+    style A fill:#e3f2fd
+    style C fill:#e8f5e9
+    style D fill:#fff4e1
+    style E fill:#fff4e1
+```
 
 ## Por que as rotinas funcionam
 
-### Consistência cria confiança
-Quando você faz a mesma coisa toda vez, remove variáveis. Seu corpo sabe o que está vindo. Isso cria uma sensação de controle e familiaridade, mesmo em situações desconhecidas.
+### A consistência gera confiança.
+Ao fazer sempre a mesma coisa, você elimina as variáveis. Seu corpo sabe o que esperar. Isso cria uma sensação de controle e familiaridade, mesmo em situações desconhecidas.
 
-### Rotinas ativam estados
-Com repetição, sua rotina se torna ligada ao seu estado de desempenho. Iniciar a rotina começa automaticamente a mudança mental para o modo de execução.
+### Rotinas desencadeiam estados
+Com a repetição, sua rotina se torna associada ao seu desempenho. Iniciar a rotina automaticamente desencadeia a mudança mental para o modo de execução.
 
 ### Rotinas bloqueiam distrações
-Uma rotina dá à sua mente algo em que focar. Não há espaço para preocupação com a pontuação, o público ou o que pode acontecer.
+Uma rotina dá à sua mente algo em que se concentrar. Não há espaço para se preocupar com a pontuação, o público ou o que pode acontecer.
 
-### Rotinas gerenciam excitação
-Uma rotina bem projetada ajuda a regular seu nível de energia - acalmando você se estiver muito excitado, focando você se estiver plano.
+### Rotinas Controlam a Excitação
+Uma rotina bem planejada ajuda a regular seu nível de energia – acalmando você se estiver muito agitado e concentrando você se estiver sem energia.
 
 ## Elementos de uma rotina eficaz
 
-### Fase 1: Avaliação (Fora do círculo)
+### Fase 1: Avaliação (Fora do Círculo)
 
-Antes de entrar, reúna informações:
-- Leia o terreno (inclinações, obstáculos, superfície)
+Antes de agir, reúna informações:
+- Analise o terreno (inclinações, obstáculos, superfície)
 - Avalie a situação (pontuação, posições das bolas)
-- Escolha seu alvo e ponto de aterrissagem
-- Decida o tipo de lançamento (ponto, tiro, lob, rolar)
+- Escolha seu alvo e local de pouso
+- Decida o tipo de arremesso (apontar, chutar, lançar, rolar)
 
-**É aqui que o pensamento acontece.** Tome seu tempo aqui.
+**É aqui que a reflexão acontece.** Reserve um tempo para isso.
 
-### Fase 2: Transição (Entrando no círculo)
+### Fase 2: Transição (Entrando no Círculo)
 
-A mudança de pensar para fazer:
-- Ação física (entre no círculo de forma consistente)
-- Sinal mental (uma palavra ou frase que sinaliza "modo de execução")
+A transição do pensar para o agir:
+- Ação física (entrar no círculo de forma consistente)
+- Sinal mental (uma palavra ou frase que indica o &quot;modo de execução&quot;)
 - Respiração (uma respiração consciente para se centrar)
 
-**Este é o interruptor.** A análise para aqui.
+**Este é o interruptor.** A análise termina aqui.
 
-### Fase 3: Configuração (No círculo)
+### Fase 3: Preparação (No Círculo)
 
 Prepare seu corpo:
-- Postura consistente (igual toda vez)
-- Verificação de pegada (sinta a bola)
-- Alinhamento ao alvo
-- Gatilho físico (um pequeno movimento que é seu)
+- Postura consistente (sempre a mesma)
+- Teste de aderência (sinta a bola)
+- Alinhamento com o objetivo
+- Gatilho físico (um pequeno movimento seu)
 
 ### Fase 4: Visualização (Breve)
 
-Veja o lançamento antes de fazê-lo:
-- Imagine o caminho da bola (máximo 2-3 segundos)
-- Sinta o lançamento bem-sucedido
-- Conecte-se visualmente com seu alvo
+Veja o arremesso antes de fazê-lo:
+- Imagine a trajetória da bola (2-3 segundos no máximo)
+- Sinta o arremesso bem-sucedido
+- Conecte-se visualmente com seu público-alvo.
 
 ### Fase 5: Execução
 
-Faça o lançamento:
+Faça o arremesso:
 - Foco externo (apenas alvo)
-- Confie no seu corpo
-- Solte sem hesitação
-- Siga naturalmente
+- Confie no seu corpo.
+- Liberte sem hesitação
+- Siga em frente naturalmente
 
 ## Construindo sua rotina pessoal
 
 ### Passo 1: Observe o que você já faz
 
-Você provavelmente já tem alguma rotina. Note:
-- O que você faz antes de bons lançamentos?
-- O que parece natural para você?
-- O que ajuda você a focar?
+Você provavelmente já tem alguma rotina. Observação:
+- O que você faz antes de bons arremessos?
+- O que lhe parece natural?
+- O que te ajuda a se concentrar?
 
-### Passo 2: Projete sua rotina
+### Passo 2: Elabore sua rotina
 
 Crie uma sequência que inclua:
 - [ ] Fase de avaliação
 - [ ] Momento de transição claro
 - [ ] Configuração física consistente
-- [ ] Visualização breve
+- [ ] Breve visualização
 - [ ] Gatilho de execução
 
-### Passo 3: Escreva
+### Passo 3: Anote
 
 Seja específico. Exemplo:
 
-1. **Avaliar:** Ler terreno, escolher ponto de aterrissagem
-2. **Transição:** Entrar no círculo com pé esquerdo primeiro, dizer "confie"
-3. **Configuração:** Pés largura dos ombros, verificar pegada, alinhar ombros
-4. **Visualizar:** Ver o caminho, sentir a liberação
-5. **Executar:** Olhos no alvo, lançar
+1. **Avalie:** Leia o terreno, escolha o local de pouso
+2. **Transição:** Entre no círculo com o pé esquerdo primeiro e diga &quot;confiança&quot;.
+3. **Configuração:** Pés afastados na largura dos ombros, verifique a pegada, alinhe os ombros.
+4. **Visualize:** Veja o caminho, sinta a libertação
+5. **Executar:** Olhos no alvo, arremessar
 
 ### Passo 4: Pratique religiosamente
 
-Use sua rotina em CADA lançamento no treino:
+Use sua rotina em TODOS os arremessos durante o treino:
 - Lançamentos fáceis
 - Lançamentos difíceis
-- Quando estiver cansado
-- Quando estiver fresco
+- Quando você está cansado
+- Quando você está fresco
 
-A rotina deve se tornar automática.
+A rotina precisa se tornar automática.
 
-### Passo 5: Refine ao longo do tempo
+### Etapa 5: Aprimorar ao longo do tempo
 
-Sua rotina evoluirá. Note o que funciona e ajuste. Mas não a mude durante a competição - apenas entre eventos.
+Sua rotina vai evoluir. Observe o que funciona e ajuste. Mas não a altere durante a competição — apenas entre os eventos.
 
-## Tempo da rotina
+## Horário de rotina
 
 Sua rotina deve levar uma quantidade consistente de tempo:
-- Muito rápido: Você está se apressando, não está preparado adequadamente
-- Muito lento: Você está pensando demais, perdendo o fluxo
-- Certo: Tempo suficiente para se preparar, não tanto que você pense demais
+- Muito rápido: Você está com pressa, sem a devida preparação.
+- Muito lento: você está pensando demais e perdendo o ritmo.
+- Na medida certa: tempo suficiente para se preparar, mas não tanto a ponto de você pensar demais.
 
-**Tempo típico:**
-- Avaliação: 5-10 segundos
-- Transição + Configuração: 3-5 segundos
+**Horário típico:**
+- Avaliação: 5 a 10 segundos
+- Transição + Preparação: 3-5 segundos
 - Visualização + Execução: 3-5 segundos
 - **Total: 10-20 segundos**
 
-## Erros comuns de rotina
+## Erros comuns na rotina
 
 | Erro | Problema | Solução |
 |---------|---------|----------|
-| Pular no treino | Rotina não é automática | Use em cada lançamento |
-| Muito complicada | Difícil de lembrar sob pressão | Simplificar ao essencial |
-| Pensar durante execução | Interrompe desempenho automático | Ponto de transição claro |
-| Tempo inconsistente | Cria incerteza | Praticar com ritmo consistente |
-| Mudar no meio da competição | Introduz dúvida | Fique com o que você conhece |
+| Pular corda na prática | A rotina não é automática. | Use-o em todos os arremessos. |
+| Muito complicado | Difícil de lembrar sob pressão. | Simplifique ao essencial |
+| Pensar durante a execução | Interrompe o desempenho automático | Ponto de transição claro |
+| Horários inconsistentes | Cria incerteza | Pratique em ritmo constante |
+| Mudança no meio da competição | Introduz dúvidas | Apegue-se ao que você conhece. |
 
 ## Solução de problemas de rotina
 
-**Se você está se apressando:**
-- Adicione uma respiração na transição
-- Desacelere seus movimentos de configuração
-- Pause antes da visualização
+**Se você estiver com pressa:**
+- Adicione uma pausa na transição.
+- Diminua a velocidade dos seus movimentos de preparação.
+- Faça uma pausa antes da visualização.
 
 **Se você está pensando demais:**
 - Encurte a rotina
-- Use um sinal de transição mais forte
-- Foque mais externamente
+- Use uma deixa de transição mais forte.
+- Foque mais no exterior
 
-**Se você está inconsistente:**
-- Grave-se em vídeo para verificar
-- Pratique a rotina sem lançar
+**Se você for inconsistente:**
+- Grave um vídeo de si mesmo para verificar.
+- Pratique a rotina sem arremessar
 - Obtenha feedback de um parceiro
 
 ## Rotinas de exemplo
 
 ### Rotina simples
-1. Escolher alvo
-2. Entrar, respirar
-3. Pegar, alinhar
-4. Ver, lançar
+1. Selecione o alvo
+2. Entre, respire.
+3. Segure firme, alinhe
+4. Veja, jogue fora
 
 ### Rotina detalhada
-1. Ler terreno, escolher ponto de aterrissagem
-2. Entrar com pé esquerdo primeiro
-3. Dizer "suave" internamente
-4. Uma respiração, ombros caem
-5. Pés posicionados, verificar pegada
-6. Alinhar ombros ao alvo
-7. Ver o caminho (2 segundos)
-8. Olhos travam no alvo
+1. Leia o terreno, escolha o local de pouso
+2. Dê o primeiro passo com o pé esquerdo.
+3. Diga &quot;suave&quot; mentalmente
+4. Uma respiração, ombros relaxam
+5. Pés posicionados, verificação de aderência
+6. Alinhe os ombros ao alvo.
+7. Veja o caminho (2 segundos)
+8. Olhos fixos no alvo
 9. Lançar
 
-## Conclusão principal
+## Ponto-chave
 
-> Sua rotina é sua âncora. No caos, é sua constante.
+> Sua rotina é sua âncora. No caos, ela é sua constante.
 
-Construa-a cuidadosamente. Pratique-a sempre. Confie nela completamente.
+Construa com cuidado. Pratique sempre. Confie plenamente.
 

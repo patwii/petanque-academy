@@ -1,34 +1,174 @@
-# Paleta de Lançamentos
+# Paleta de Mantas
 
 ## O Repertório Técnico Completo
 
-Esta é uma visão geral dos lançamentos disponíveis na pétanque. Você não precisa dominar todos eles, mas saber o que existe ajuda você a entender o escopo completo do jogo.
+Esta é uma visão geral dos lançamentos disponíveis na petanca. Você não precisa dominar todos eles, mas saber quais existem ajuda a compreender a amplitude do jogo.
 
-## Técnicas de Apontar
+::: tip O panorama geral
+Compreender toda a paleta de recursos ajuda você a tomar decisões mais informadas sobre o que desenvolver. Você não precisa dominar tudo — concentre-se no que funciona para o seu jogo.
+:::
+
+```mermaid
+graph TD
+    A[Lançamentos de petanca] --> B[Apontando]
+    A --> C[Tiroteio]
+
+    B --> D[Por Trajetória]
+    B --> E[Por Spin]
+
+    C --> F[Por Ponto de Impacto]
+    C --> G[Por intensidade]
+
+    style A fill:#e8f5e9
+    style B fill:#e3f2fd
+    style C fill:#fff4e1
+```
+
+## Técnicas de apontamento
 
 ### Por Trajetória
-- **Roulette** (rolando) - Trajetória baixa, rola a maior parte do caminho
-- **Demi-portée** (meio-lob) - Trajetória média, pousa no meio do caminho
-- **Portée** (lob) - Trajetória alta, pousa perto do alvo
-- **Plombée** (tiro de queda) - Muito alto, cai quase verticalmente
 
-### Por Rotação
-- **Rotação completa (backspin)** - Máximo backspin, para ou puxa para trás no pouso
-- **Meia rotação** - Backspin moderado, rolagem controlada após o pouso
-- **Sem rotação** - Neutro, rolagem natural no pouso
+```mermaid
+graph LR
+    A[Apontando trajetórias] --> B[Roleta <br/> Rolante]
+    A --> C[Demi-portée <br/> Meio-lobo]
+    A --> D[Portée <br/> Lob]
+    A --> E[Plombée <br/> Drop shot]
+
+    style A fill:#e3f2fd
+    style B fill:#f5f5f5
+    style C fill:#f5f5f5
+    style D fill:#f5f5f5
+    style E fill:#f5f5f5
+```
+
+| Lançar | Termo francês | Trajetória | Quando usar |
+|-------|-------------|------------|-------------|
+| **Em movimento** | Roleta | Baixo, rola quase o tempo todo | Terreno plano, curta distância |
+| **Meio-lobo** | Demi-portée | Médio, pousa na metade do caminho | Mais comum, versátil |
+| **Lob** | Portée | Alto, aterrissa perto do alvo | Obstáculos, terreno acidentado |
+| **Drop shot** | Plombée | Muito alto, cai verticalmente | Espaços apertados, posicionamento preciso |
+
+### Por Spin
+
+```mermaid
+graph LR
+    A[Controle de rotação] --> B[Rotação completa para trás]
+    A --> C[Meia volta]
+    A --> D[Sem rotação]
+
+    B --> E[Para/Recua]
+    C --> F[Rolamento controlado]
+    D --> G[Rolamento natural]
+
+    style A fill:#e8f5e9
+    style B fill:#f5f5f5
+    style C fill:#f5f5f5
+    style D fill:#f5f5f5
+```
+
+| Tipo de rotação | Efeito na aterrissagem | Quando usar |
+|-----------|-------------------|-------------|
+| **Rotação completa (spin reverso)** | Para ou recua ao aterrissar. | Precisa parar rapidamente, evite passar direto. |
+| **Meia volta** | Rotação para trás moderada, rolamento controlado | Mais versátil e previsível. |
+| **Sem rotação** | Rolamento neutro e natural na aterrissagem | Deixe o terreno ditar o ritmo |
 
 ## Técnicas de Tiro
 
 ### Por Ponto de Impacto
-- **Au fer** (tiro de ferro) - Acerto direto na bola
-- **Devant** (na frente) - Pouso logo antes do alvo
-- **Sautée** (tiro de salto) - Quicando no alvo
 
-### Por Intensidade
-- **Tiro plano duro** - Acerto direto e poderoso com trajetória plana
-- **Médio duro** - Potência e controle equilibrados
-- **Suave com arco alto** - Tiro de lob, cai sobre o alvo de cima
+```mermaid
+graph TD
+    A[Métodos de disparo] --> B[Au fer <br/> Tiro de ferro]
+    A --> C[Devant <br/> Em frente]
+    A --> D[refogado <br/> Arremesso em salto]
+
+    B --> E[Golpe direto]
+    C --> F[Aterrissar antes do alvo]
+    D --> G[Saltar em direção ao alvo]
+
+    style A fill:#fff4e1
+    style B fill:#f5f5f5
+    style C fill:#f5f5f5
+    style D fill:#f5f5f5
+```
+
+| Técnica | Termo francês | Ponto de impacto | Características |
+|-----------|-------------|--------------|-----------------|
+| **Tiro de ferro** | Au fer | Acerto direto na bola | Contato limpo mais comum |
+| **Na frente** | Devant | Aterrissagem pouco antes do alvo | Mais seguro, requer menos precisão |
+| **Arremesso em suspensão** | refogado | Saltando em direção ao alvo | Avançado, para obstáculos |
+
+### Por intensidade
+
+```mermaid
+graph LR
+    A[Intensidade do disparo] --> B[Plano e duro]
+    A --> C[Médio-duro]
+    A --> D[Arco alto e macio]
+
+    B --> E[Potência + Velocidade]
+    C --> F[Equilíbrio]
+    D --> G[Precisão]
+
+    style A fill:#fff4e1
+    style B fill:#f5f5f5
+    style C fill:#f5f5f5
+    style D fill:#f5f5f5
+```
+
+| Intensidade | Trajetória | Quando usar |
+|-----------|------------|-------------|
+| **Tiro plano e duro** | Direto, poderoso, plano | Linha livre, precisa de distância no golpe |
+| **Dificuldade média** | Potência e controle equilibrados | Mais versátil |
+| **Macio com arco alto** | Arremesso por cima, cai de cima | Obstáculos, espaços apertados |
+
+## A Paleta Completa
+
+::: details Referência rápida: Todos os lançamentos
+**Apontando:**
+- Roleta (rolando)
+- Demi-portée (meio-lobo)
+- Portée (lob)
+- Plombée (drop shot)
+- Giro completo / Meio giro / Sem giro
+
+**Tiroteio:**
+- Au fer (chumbo de ferro)
+- Devant (na frente)
+- Saltear (tiro de salto)
+- Arco plano rígido / Médio / Arco alto macio
+:::
 
 ## Caminho da Maestria
 
-Lembre-se: O objetivo não é dominar tudo. É ter base técnica suficiente para que você possa entrar na zona e deixar seu corpo escolher o lançamento certo naturalmente.
+```mermaid
+graph LR
+    A[Aprenda o básico] --> B[Desenvolva 2 a 3 arremessos confiáveis.]
+    B --> C[Fundamentos técnicos]
+    C --> D[Entrar em estado de fluxo]
+    D --> E[O corpo escolhe naturalmente]
+
+    style A fill:#e3f2fd
+    style C fill:#e8f5e9
+    style D fill:#fff4e1
+    style E fill:#fff4e1
+```
+
+::: tip Lembrar
+**O objetivo não é dominar tudo.** É ter uma base técnica suficiente para que você consiga entrar no estado de fluxo e deixar seu corpo escolher o arremesso certo naturalmente.
+
+Focar em:
+1. **2 a 3 técnicas de apontamento** em que você pode confiar.
+2. **1-2 métodos de disparo** que funcionam para você
+3. **Execução consistente** sob pressão
+4. **Jogo mental** para acessar o estado de fluxo
+:::
+
+::: info Próximos passos
+Depois de dominar a técnica, o verdadeiro crescimento vem de:
+- **A Zona** - Acessando estados de fluxo de forma consistente
+- **[Métodos de Treinamento](/en/education/training/)** - Como praticar com eficácia
+- **[Força Mental](/en/education/mental-strength/)** - Desempenho sob pressão
+:::
+

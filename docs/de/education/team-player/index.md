@@ -1,167 +1,190 @@
-# Ein großartiger Teamspieler sein
+# Ein großartiger Teamplayer sein
 
-Pétanque wird oft in Teams gespielt - Doppel (Doublettes) oder Tripel (Triplettes). Individuelle Fähigkeiten sind wichtig, aber Teamdynamik kann über Ihre Ergebnisse entscheiden. Die besten Teams sind nicht immer die geschicktesten - sie sind diejenigen, die am besten zusammenarbeiten.
+Pétanque wird oft in Teams gespielt – Doppel- oder Dreierteams. Individuelles Können ist wichtig, aber die Teamdynamik kann über Erfolg oder Misserfolg entscheiden. Die besten Teams sind nicht immer die technisch versiertesten – sie sind diejenigen, die am besten zusammenarbeiten.
 
-## Was macht einen großartigen Teamkollegen aus?
+::: tip Die große Idee
+**Die besten Teams sind nicht immer die technisch versiertesten – sie sind diejenigen, die am besten zusammenarbeiten.** Bescheidenheit, Ehrgeiz und emotionale Intelligenz machen dich zu einem großartigen Teammitglied.
+:::
 
-Forschung und Erfahrung weisen auf drei Schlüsselqualitäten hin:
+```mermaid
+graph TD
+    A[Toller Teamkollege] --> B[Bescheiden]
+    A --> C[Hungrig]
+    A --> D[Schlau]
+
+    B --> E[Teamerfolg]
+    C --> E
+    D --> E
+
+    E --> F[Meisterschaftsleistung]
+
+    style A fill:#e8f5e9
+    style B fill:#e3f2fd
+    style C fill:#fff4e1
+    style D fill:#f3e5f5
+    style F fill:#fff4e1
+```
+
+## Was zeichnet einen großartigen Teamkollegen aus?
+
+Forschung und Erfahrung weisen auf drei Schlüsseleigenschaften hin:
 
 ### 1. Bescheiden
-- Priorisiert Teamerfolg über persönlichen Ruhm
-- Erkennt die Beiträge anderer an
-- Gibt Fehler ohne Ausreden zu
+- Stellt den Erfolg des Teams über den persönlichen Ruhm.
+- Würdigt die Beiträge anderer
+- Gibt Fehler ohne Ausreden zu.
 - Offen für Feedback und Lernen
-- Muss nicht der Star sein
+- Er muss nicht der Star sein.
 
 ### 2. Hungrig
-- Selbstmotiviert und engagiert
-- Erledigt die Arbeit ohne Aufforderung
-- Sucht immer nach Verbesserung
+- Selbstmotiviert und zielstrebig
+- Erledigt die Arbeit, ohne dazu aufgefordert zu werden.
+- Wir sind stets bestrebt, uns zu verbessern
 - Bringt Energie ins Team
-- Ruht sich nicht auf Talent aus
+- Verlässt sich nicht auf Talent.
 
-### 3. Klug (Emotional)
-- Liest Situationen und Menschen gut
-- Weiß, wann man sprechen und wann man zuhören sollte
-- Managt eigene Emotionen
-- Unterstützt Teamkollegen angemessen
+### 3. Intelligent (emotional)
+- Kann Situationen und Menschen gut einschätzen
+- Weiß, wann er sprechen und wann er zuhören soll.
+- Sie kontrollieren ihre eigenen Emotionen
+- Unterstützt Teammitglieder angemessen
 - Geht konstruktiv mit Konflikten um
 
-## Die Grundlagen des Teamerfolgs
+## Die Grundlagen für den Erfolg eines Teams
 
 ### Gemeinsame Ziele und Vision
 
-Starke Teams haben:
+Starke Teams zeichnen sich durch Folgendes aus:
 - Klare, vereinbarte Ziele
-- Individuelle Ziele, die mit Teamzielen übereinstimmen
+- Individuelle Ziele im Einklang mit den Teamzielen
 - Gemeinsames Verständnis davon, wie Erfolg aussieht
-- Engagement für die kollektive Mission
+- Engagement für die gemeinsame Mission
 
-**Fragen zur Diskussion mit Ihrem Team:**
-- Was versuchen wir gemeinsam zu erreichen?
+**Fragen zur Besprechung mit Ihrem Team:**
+- Was wollen wir gemeinsam erreichen?
 - Wie sieht Erfolg für uns aus?
-- Wie unterstützen unsere individuellen Ziele das Team?
+- Wie tragen unsere individuellen Ziele zum Erfolg des Teams bei?
 
 ### Effektive Kommunikation
 
-Kommunikation ist die Lebensader der Teamleistung.
+Kommunikation ist das Lebenselixier der Teamleistung.
 
 **Gute Teamkommunikation:**
 - Offen und ehrlich
-- Respektvoll, auch bei Meinungsverschiedenheiten
-- Klar und spezifisch
-- Zweiseitig (Sprechen UND Zuhören)
-- Rechtzeitig (richtige Information zur richtigen Zeit)
+- Respektvoll, auch bei Meinungsverschiedenheiten.
+- Klar und präzise
+- Zwei-Wege-Kommunikation (Sprechen UND Hören)
+- Zeitnah (die richtigen Informationen zur richtigen Zeit)
 
 **Während der Spiele:**
-- Strategie vor jedem Ende besprechen
-- Beobachtungen über Gelände, Gegner teilen
-- Koordinieren, wer wann wirft
-- Einander nach Würfen unterstützen (gut oder schlecht)
+- Besprechen Sie die Strategie vor jedem Ende
+- Beobachtungen zum Gelände und zu den Gegnern austauschen
+- Koordinieren, wer wann wirft.
+- Unterstützt euch gegenseitig nach Würfen (ob gut oder schlecht).
 
 ### Vertrauen und Respekt
 
-Ohne Vertrauen brechen Teams unter Druck auseinander.
+Ohne Vertrauen zerfallen Teams unter Druck.
 
-**Vertrauen aufbauen:**
-- Zuverlässig sein (tun, was man sagt)
-- Kompetent sein (seine Arbeit gut machen)
-- Ehrlich sein (auch wenn es schwer ist)
-- Verletzlichkeit zeigen (Schwierigkeiten zugeben)
-- Andere konsequent unterstützen
+**Vertrauensbildung:**
+- Sei zuverlässig (halte deine Versprechen).
+- Sei kompetent (erledige deine Arbeit gut).
+- Sei ehrlich (auch wenn es schwerfällt).
+- Verletzlichkeit zeigen (Schwierigkeiten eingestehen)
+- Unterstütze andere konsequent
 
 **Respekt zeigen:**
-- Den Beitrag jeder Person wertschätzen
-- Verschiedene Perspektiven anhören
-- Anstrengung anerkennen, nicht nur Ergebnisse
-- Die Rolle jedes Einzelnen als wichtig behandeln
+- Wertschätzen Sie den Beitrag jedes Einzelnen.
+- Hören Sie sich verschiedene Perspektiven an.
+- Würdigen Sie den Einsatz, nicht nur die Ergebnisse.
+- Behandeln Sie die Rolle jedes Einzelnen als wichtig
 
 ### Klare Rollen
 
-Jeder sollte verstehen:
-- Seine Hauptverantwortlichkeiten
-- Wie er zum Team beiträgt
-- Wofür andere auf ihn zählen
-- Wann man vortreten und wann man zurücktreten sollte
+Jeder sollte Folgendes verstehen:
+- Ihre Hauptaufgaben
+- Wie sie zum Team beitragen
+- Worauf andere sie hoffen
+- Wann man die Initiative ergreifen und wann man sich zurückziehen sollte
 
-**In Tripeln:**
-| Rolle | Hauptfokus | Schlüsselqualitäten |
+**Im Dreiergespann:**
+| Rolle | Hauptfokus | Wichtigste Eigenschaften |
 |------|--------------|---------------|
-| Leger | Kugeln nahe am Schweinchen platzieren | Präzision, Konsistenz |
-| Mitte | An Situation anpassen | Vielseitigkeit, Spiel lesen |
-| Schießer | Gegnerkugeln entfernen | Genauigkeit unter Druck |
+| Zeiger | Platziere die Boules in der Nähe des Ziels. | Präzision, Konsistenz |
+| Mitte | Der Situation anpassen | Vielseitigkeit, Lesespiel |
+| Schütze | Gegnerische Boules entfernen | Genauigkeit unter Druck |
 
-Rollen können flexibel sein, aber Klarheit hilft.
+Die Rollen können flexibel gestaltet werden, aber Klarheit ist hilfreich.
 
 ## Teamdynamik während des Wettbewerbs
 
 ### Vor dem Spiel
 - Gemeinsam ankommen, gemeinsam aufwärmen
 - Allgemeine Strategie besprechen
-- Den Ton setzen (positiv, fokussiert)
-- Nachfragen, wie es allen geht
+- Den Ton angeben (positiv, fokussiert)
+- Erkundige dich, wie es allen geht.
 
 ### Während des Spiels
-- Zwischen den Enden kommunizieren
-- Positiv bleiben unabhängig vom Punktestand
-- Einander nach Fehlern unterstützen
-- Erfolge gemeinsam feiern (kurz)
-- Auf Prozess fokussiert bleiben, nicht auf Ergebnis
+- Kommunikation zwischen den Enden
+- Bleiben Sie unabhängig vom Ergebnis positiv.
+- Unterstützt euch gegenseitig nach Fehlern
+- Gemeinsam Erfolge feiern (kurz)
+- Konzentriere dich auf den Prozess, nicht auf das Ergebnis.
 
 ### Nach Fehlern
-Was man NICHT tun sollte:
-- Frustration sichtbar zeigen
+Was Sie NICHT tun sollten:
+- Zeigen Sie Ihre Frustration sichtbar
 - Kritisieren oder beschuldigen
 - Sich zurückziehen oder schweigen
-- Bei dem Geschehenen verweilen
+- Denken Sie darüber nach, was passiert ist.
 
-Was man tun sollte:
-- Schnelle Anerkennung ("kein Problem")
-- Fokus auf nächsten Wurf verschieben
-- Positive Körpersprache beibehalten
-- Darauf vertrauen, dass sich der Teamkollege erholt
+Was zu tun:
+- Schnelle Bestätigung („kein Problem“)
+- Konzentriere dich auf den nächsten Wurf.
+- Achten Sie auf eine positive Körpersprache.
+- Vertraue darauf, dass dein Teamkollege sich erholt.
 
 ### Nach dem Spiel
-- Gemeinsam nachbesprechen (was funktionierte, was nicht)
+- Gemeinsame Nachbesprechung (was funktioniert hat, was nicht)
 - Individuelle Beiträge anerkennen
-- Verbesserungen für nächstes Mal besprechen
+- Besprechen Sie Verbesserungen für das nächste Mal
 - Beziehungen unabhängig vom Ergebnis pflegen
 
 ## Kommunikationsmuster
 
 ### Konstruktives Feedback
-**Schlecht:** "Du verfehlst diese Schüsse ständig"
-**Besser:** "Ich habe bemerkt, die Schüsse gehen nach links - möchtest du versuchen, deine Haltung anzupassen?"
+**Schlecht:** &quot;Du verfehlst diese Schüsse immer wieder.&quot;
+**Besser:** „Mir ist aufgefallen, dass die Schüsse nach links gehen – möchten Sie Ihre Haltung anpassen?“
 
 ### Unterstützende Reaktion auf Fehler
 **Schlecht:** *Schweigen oder sichtbare Frustration*
-**Besser:** "Schwieriger. Du schaffst den nächsten."
+**Besser:** „Schwierige Frage. Du bist als Nächste dran.“
 
 ### Strategische Diskussion
-**Schlecht:** "Schieß einfach"
-**Besser:** "Was denkst du - legen zum Blockieren oder versuchen zu schießen? Ich sehe Vor- und Nachteile bei beiden."
+**Schlecht:** &quot;Schieß einfach drauf&quot;
+**Besser:** „Was meinst du – mit dem Finger blocken oder versuchen zu schießen? Ich sehe Vor- und Nachteile auf beiden Wegen.“
 
-## Teamkultur aufbauen
+## Aufbau einer Teamkultur
 
-Großartige Teams entwickeln gemeinsame:
+Großartige Teams entwickeln Gemeinsamkeiten:
 - **Werte:** Wofür wir stehen
-- **Normen:** Wie wir uns verhalten
+- **Normen:** Unser Verhalten
 - **Sprache:** Wie wir kommunizieren
-- **Rituale:** Was wir zusammen tun
+- **Rituale:** Was wir gemeinsam tun
 
 **Beispiele:**
-- Immer vor und nach dem Spiel Hände schütteln
-- Spezifische Ermutigungsphrasen
-- Gemeinsame Vor-Spiel-Routine
-- Gemeinsames Essen oder Trinken nach dem Spiel
+- Vor und nach dem Essen immer die Hand schütteln
+- Konkrete Ermutigungsformulierungen
+- gemeinsames Ritual vor dem Spiel
+- Mahlzeit oder Getränk nach dem Spiel
 
 ## In diesem Abschnitt
 
-- **[Teamkommunikation](/de/education/team-player/communication)** - Detaillierter Leitfaden zur effektiven Kommunikation
+- **[Teamkommunikation](/en/education/team-player/communication)** – Ausführlicher Leitfaden für effektive Kommunikation
 
-## Kernpunkt
+## Wichtigste Erkenntnis
 
-> Ihr Team ist nur so stark wie seine schwächste Beziehung, nicht sein schwächster Spieler.
+> Ihr Team ist nur so stark wie seine schwächste Beziehung, nicht wie sein schwächstes Mitglied.
 
-Investieren Sie in Ihre Teamkollegen. Bauen Sie Vertrauen auf. Kommunizieren Sie gut. Gewinnen Sie zusammen.
+Investiere in deine Teammitglieder. Baue Vertrauen auf. Kommuniziere gut. Gewinnt gemeinsam.
 

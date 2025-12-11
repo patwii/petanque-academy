@@ -1,74 +1,93 @@
-# SMART-mål för pétanque
+# SMARTA mål för boule
 
-SMART-ramverket förvandlar vaga önskningar till handlingsbara mål. Låt oss titta på varje element i detalj, med specifika exempel för pétanque.
+SMART-ramverket omvandlar vaga önskningar till handlingsbara mål. Låt oss titta på varje element i detalj, med specifika exempel för boule.
 
-## S - Specifikt
+::: tip Den stora idén
+**Vaga mål leder till vaga resultat.** SMARTA mål skapar tydlighet, handling och mätbara framsteg. Förvandla &quot;Jag vill bli bättre&quot; till specifika mål som du faktiskt kan uppnå.
+:::
 
-Ett specifikt mål svarar på dessa frågor:
+```mermaid
+graph LR
+    A[Vagt mål] --> B[Ingen tydlig åtgärd]
+    B --> C[Inga framsteg]
+
+    D[SMART-mål] --> E[Tydlig handlingsplan]
+    E --> F[Mätbara framsteg]
+    F --> G[Prestation]
+
+    style A fill:#ffebee
+    style C fill:#ffebee
+    style D fill:#e8f5e9
+    style G fill:#fff4e1
+```
+
+## S - Specifik
+
+Ett specifikt mål besvarar dessa frågor:
 - **Vad** exakt vill jag uppnå?
 - **Var** kommer detta att hända?
-- **Vilka** aspekter är involverade?
+- **Vilka** aspekter är inblandade?
 
-### Göra mål specifika
+### Gör mål specifika
 
-| Vagt | Specifikt |
+| Vag | Specifik |
 |-------|----------|
-| "Förbättra min pekning" | "Förbättra min pekningsnoggrannhet på grusytor på 7-9 meters avstånd" |
-| "Bli mentalt starkare" | "Utveckla en konsekvent rutin före kast som jag använder för varje kast" |
-| "Vinna fler matcher" | "Vinna minst 60% av mina tävlingsmatcher denna säsong" |
+| &quot;Förbättra min pekning&quot; | &quot;Förbättra min peknoggrannhet på grusytor på 7–9 meters avstånd&quot; |
+| &quot;Bli mentalt starkare&quot; | &quot;Utveckla en konsekvent rutine före skottet som jag använder för varje kast&quot; |
+| &quot;Vinn fler matcher&quot; | &quot;Vinn minst 60 % av mina tävlingsmatcher den här säsongen&quot; |
 
 ### Specificitetschecklista
 - [ ] Kan någon annan förstå exakt vad jag försöker göra?
-- [ ] Har jag definierat förhållandena (avstånd, yta, situation)?
+- [ ] Har jag definierat förutsättningarna (avstånd, yta, situation)?
 - [ ] Finns det bara en tolkning av detta mål?
 
-## M - Mätbart
+## M - Mätbar
 
-Om du inte kan mäta det, kan du inte hantera det. Mätbara mål låter dig spåra framsteg och veta när du har lyckats.
+Om du inte kan mäta det, kan du inte hantera det. Mätbara mål låter dig följa framsteg och veta när du har lyckats.
 
-### Sätt att mäta pétanque-mål
+### Sätt att mäta boulemål
 
 **Kvantitativa mått:**
-- Poäng som gjorts i övningar (t.ex. 24/30)
-- Procentuell noggrannhet (t.ex. 75% träffprocent)
-- Avstånd från mål (t.ex. genomsnitt 30cm från grisen)
-- Konsistens (t.ex. 3 framgångsrika sessioner i rad)
+- Poäng gjorda i övningar (t.ex. 24/30)
+- Procentuell noggrannhet (t.ex. 75 % träfffrekvens)
+- Avstånd från målet (t.ex. i genomsnitt 30 cm från domkraften)
+- Konsekvens (t.ex. 3 lyckade sessioner i rad)
 
-**Användning av träningsövningar som mått:**
+**Använda träningsövningar som mått:**
 
-| Övning | Vad den mäter | Målexempel |
+| Borra | Vad den mäter | Målexempel |
 |-------|-----------------|----------------|
-| Skjutstege | Skjutnoggrannhet under press | Nå 10m inom 30 kulor |
-| Pekningsprecision | Pekningsnoggrannhet till zon | 24/30 poäng |
-| Avståndsvariering | Djupkontroll | 80% inom 50cm |
+| Skjutstege | Skjutprecision under press | Nå 10m inom 30 boules |
+| Pekprecision | Pekningsnoggrannhet mot zon | 24/30 poäng |
+| Avståndsvariation | Djupkontroll | 80 % inom 50 cm |
 
 ### Spåra dina mätningar
-Håll en enkel logg:
+För en enkel logg:
 - Datum
-- Övning
+- Övning/träning
 - Poäng/resultat
 - Förhållanden (yta, väder)
 - Anteckningar
 
 ## A - Uppnåeligt (men utmanande)
 
-Mål bör sträcka dig utan att vara omöjliga.
+Mål ska utmana dig utan att vara omöjliga.
 
-### Hitta rätt nivå
+### Att hitta rätt nivå
 
-**För lätt:** "Träna en gång denna månad"
+**För lätt:** &quot;Öva en gång den här månaden&quot;
 - Ingen tillväxt, ingen motivation
 
-**För svårt:** "Aldrig missa ett skott"
+**För svårt:** &quot;Missa aldrig ett skott&quot;
 - Omöjligt, leder till frustration
 
-**Precis lagom:** "Förbättra skjutnoggrannhet med 15% på 8 veckor"
-- Utmanande men realistiskt med ansträngning
+**Precis lagom:** &quot;Förbättra skottnoggrannheten med 15 % på 8 veckor&quot;
+- Utmanande men realistisk med ansträngning
 
-### Frågor för att testa uppnåelighet
+### Frågor för att testa uppnåbarhet
 - Har andra på min nivå uppnått detta?
-- Har jag tiden och resurserna som behövs?
-- Är detta (mestadels) under min kontroll?
+- Har jag den tid och de resurser som behövs?
+- Ligger detta inom min kontroll (mestadels)?
 - Är jag villig att göra vad som krävs?
 
 ### Sträckmål
@@ -80,93 +99,93 @@ Dina mål bör stämma överens med din större bild.
 
 ### Relevansfrågor
 - Stödjer detta mål min övergripande utveckling?
-- Är detta rätt prioritet just nu?
+- Är detta rätt prioritering just nu?
 - Passar detta med min tillgängliga tid och resurser?
-- Är jag genuint motiverad av detta mål?
+- Är jag verkligen motiverad av detta mål?
 
-### Exempel: Kontrollera relevans
+### Exempel: Kontroll av relevans
 
 **Situation:** Du vill tävla på nationell nivå
 
 **Relevanta mål:**
-- Förbättra skjutnoggrannhet (påverkar direkt resultat)
-- Utveckla mentala rutiner (hjälper i trycksituationer)
-- Öka träningsfrekvens (bygger färdigheter snabbare)
+- Förbättra skottprecisionen (påverkar direkt resultaten)
+- Utveckla mentala rutiner (hjälper i pressade situationer)
+- Öka träningsfrekvensen (bygg upp färdigheter snabbare)
 
 **Mindre relevanta mål:**
-- Lära sig trickskott (roligt men inte tävlingsprioritet)
-- Köpa dyra nya kulor (utrustning är inte din begränsande faktor)
+- Lär dig trickslag (kul men inte tävlingsinriktat)
+- Köp dyra nya boulebollar (utrustning är inte din begränsande faktor)
 
-## T - Tidsbestämt
+## T - Tidsbunden
 
 Deadlines skapar brådska och möjliggör planering.
 
-### Sätta tidsramar
+### Ställa in tidsramar
 
 | Måltyp | Typisk tidsram |
 |-----------|------------------|
-| Långsiktig | 1-3 år |
+| Långsiktig | 1–3 år |
 | Årlig | 12 månader |
 | Kvartalsvis | 3 månader |
 | Månatlig | 4 veckor |
-| Veckovis | 7 dagar |
-| Session | Enskild träning |
+| Varje vecka | 7 dagar |
+| Session | Enskild praktik |
 
-### Exempel tidslinje
+### Exempel på tidslinje
 
-**Långsiktig (2 år):** Kvalificera för landslagsuttagning
+**Långsiktig (2 år):** Kvalificera sig för landslagsuttagning
 
-**Årlig:** Avsluta topp 10 i regionala rankningar
+**Årlig:** Kom bland de 10 bästa i regionala rankningar
 
-**Kvartalsvis (K1):**
-- Etablera konsekvent träningsrutin
-- Förbättra skjutning till 70% noggrannhet
+**Kvartalsvis (Q1):**
+- Upprätta en konsekvent träningsrutin
+- Förbättra skyttenoggrannheten till 70 %
 
-**Månatlig (januari):**
-- Vecka 1: Bedöma nuvarande nivå, sätta baslinjer
-- Vecka 2-3: Fokusera på skjutteknik
-- Vecka 4: Testa och mäta framsteg
+**Månadsvis (januari):**
+- Vecka 1: Bedöm nuvarande nivå, sätt baslinjer
+- Vecka 2-3: Fokus på skjutteknik
+- Vecka 4: Testa och mät framsteg
 
-**Veckovis:**
-- Måndag: Teknisk skjutsession
-- Onsdag: Pekning och spelsituationer
+**Varje vecka:**
+- Måndag: Tekniskt skjutpass
+- Onsdag: Poängsättning och spelsituationer
 - Fredag: Mental träning och visualisering
 - Helg: Tävling eller matchträning
 
-## Sätta ihop allt
+## Att sätta ihop allt
 
-### Målsättningsformulär
+### Målsättningsarbetsblad
 
-**Mitt mål (första utkast):**
+**Mitt mål (första utkastet):**
 _________________________________
 
 **Specifikt - Vad exakt?**
 _________________________________
 
-**Mätbart - Hur kommer jag att veta?**
+**Mätbar - Hur vet jag det?**
 _________________________________
 
 **Uppnåeligt - Är det realistiskt?**
 _________________________________
 
-**Relevant - Varför spelar detta roll?**
+**Relevant - Varför är detta viktigt?**
 _________________________________
 
-**Tidsbestämt - Till när?**
+**Tidsbunden - När?**
 _________________________________
 
-**Mitt SMART-mål (slutlig version):**
+**Mitt SMART-mål (slutgiltig version):**
 _________________________________
 
 ### Exempel slutfört
 
-**Första utkast:** "Bli bättre på att skjuta"
+**Första utkastet:** &quot;Bli bättre på att skjuta&quot;
 
-**SMART-version:** "Senast 30 april kommer jag att uppnå en poäng på 24/30 eller högre på Skjutstege-övningen (6-10m med hinder) i tre på varandra följande träningssessioner, mätt genom min träningslogg."
+**SMART-version:** &quot;Senast den 30 april ska jag uppnå en poäng på 24/30 eller högre på Shooting Ladder-övningen (6–10 m med hinder) under tre träningspass i rad, mätt med min träningslogg.&quot;
 
-## Nyckelpunkt
+## Viktig slutsats
 
-> SMART-mål förvandlar drömmar till planer och planer till resultat.
+> SMARTA mål förvandlar drömmar till planer och planer till resultat.
 
-Ta dig tid att utforma dina mål ordentligt. Ett väldefinierat mål är halva resan.
+Ta dig tid att formulera dina mål ordentligt. Ett väldefinierat mål är halva resan.
 

@@ -1,71 +1,99 @@
-# Técnicas de mindfulness
+# Técnicas de atención plena
 
-Aquí hay técnicas prácticas que puedes usar para desarrollar mindfulness. Comienza con una o dos y construye desde ahí.
+Aquí tienes técnicas prácticas que puedes usar para desarrollar la atención plena. Empieza con una o dos y ve progresando a partir de ahí.
+
+::: tip La gran idea
+**La atención plena es una habilidad, no un talento.** Al igual que apuntar o disparar, mejora con la práctica. Empieza poco a poco, sé constante y los beneficios se acumulan con el tiempo.
+:::
+
+```mermaid
+graph TD
+    A[Práctica de atención plena] --> B[Prácticas formales]
+    A --> C[Prácticas informales]
+    A --> D[Específico de la competencia]
+
+    B --> E[Meditación sentada]
+    B --> F[Escaneo corporal]
+    B --> G[Meditación caminando]
+
+    C --> H[Respiración consciente]
+    C --> I[Método SOAS]
+    C --> J[Alimentación consciente]
+
+    D --> K[Respiración antes de la inyección]
+    D --> L[Reinicio entre lanzamientos]
+    D --> M[Campana de atención plena]
+
+    style A fill:#e8f5e9
+    style B fill:#e3f2fd
+    style C fill:#fff4e1
+    style D fill:#f3e5f5
+```
 
 ## Prácticas formales
 
-Estas son sesiones dedicadas de mindfulness - tiempo reservado específicamente para la práctica.
+Se trata de sesiones dedicadas a la atención plena: tiempo reservado específicamente para la práctica.
 
 ### Meditación sentada
 
-La base de la práctica de mindfulness.
+La base de la práctica de la atención plena.
 
 **Cómo hacerlo:**
-1. Siéntate cómodamente (silla o suelo)
-2. Cierra los ojos o suaviza tu mirada
-3. Concéntrate en tu respiración - la sensación del aire entrando y saliendo
-4. Cuando surjan pensamientos, obsérvalos sin juzgar
-5. Regresa suavemente la atención a la respiración
-6. Comienza con 5 minutos, aumenta a 15-20
+1. Siéntese cómodamente (silla o suelo)
+2. Cierra los ojos o suaviza la mirada.
+3. Concéntrese en su respiración: la sensación del aire que entra y sale.
+4. Cuando surjan pensamientos, obsérvelos sin juzgarlos.
+5. Regrese suavemente la atención a la respiración.
+6. Comience con 5 minutos y aumente a 15-20
 
 **Consejos:**
-- Los pensamientos vendrán - eso es normal
-- Cada vez que notes que has divagado y regresas, estás construyendo la habilidad
-- No te juzgues por divagar
+- Los pensamientos vendrán, eso es normal.
+- Cada vez que notas que te has desviado y regresas, estás desarrollando la habilidad
+- No te juzgues por vagar
 - La consistencia importa más que la duración
 
 ### Escaneo corporal
 
-Desarrolla conciencia de las sensaciones físicas.
+Desarrolla la conciencia de las sensaciones físicas.
 
 **Cómo hacerlo:**
-1. Acuéstate o siéntate cómodamente
-2. Comienza en tus pies - nota cualquier sensación
-3. Mueve lentamente la atención hacia arriba: tobillos, pantorrillas, rodillas...
+1. Acuéstese o siéntese cómodamente
+2. Comience por sus pies: observe cualquier sensación.
+3. Mueva lentamente la atención hacia arriba: tobillos, pantorrillas, rodillas...
 4. Observa sin intentar cambiar nada
-5. Si encuentras tensión, respira en esa área
+5. Si encuentras tensión, respira hacia esa zona.
 6. Continúa hasta la parte superior de tu cabeza
-7. Toma 10-20 minutos
+7. Tarda entre 10 y 20 minutos
 
-**Para pétanque:** Te ayuda a notar la tensión antes de que afecte tu lanzamiento.
+**Para petanca:** Te ayuda a notar la tensión antes de que afecte tu lanzamiento.
 
 ### Meditación caminando
 
-Mindfulness en movimiento - gran preparación para la pista.
+Atención plena en movimiento: una excelente preparación para la pista.
 
 **Cómo hacerlo:**
-1. Camina lenta y deliberadamente
+1. Camine lenta y deliberadamente
 2. Siente cada parte del paso: levantar, mover, colocar
-3. Nota las sensaciones en tus pies y piernas
-4. Cuando tu mente divague, regresa a las sensaciones físicas
-5. 5-10 minutos es suficiente
+3. Observa las sensaciones en tus pies y piernas.
+4. Cuando tu mente divague, vuelve a las sensaciones físicas.
+5. 5-10 minutos son suficientes
 
 ## Prácticas informales
 
-Estas integran mindfulness en actividades diarias.
+Estos integran la atención plena en las actividades diarias.
 
 ### Respiración consciente
 
-La técnica más simple - disponible en cualquier momento.
+La técnica más sencilla, disponible en cualquier momento.
 
 **La práctica:**
-- Toma 3 respiraciones lentas y deliberadas
-- Concéntrate completamente en la sensación
-- Úsalo como un botón de reinicio durante el día
+- Tome 3 respiraciones lentas y deliberadas
+- Concéntrese completamente en la sensación.
+- Úselo como botón de reinicio durante todo el día.
 
 **Cuándo usarlo:**
-- Antes de entrar al círculo
-- Cuando notes que el estrés aumenta
+- Antes de entrar en el círculo
+- Cuando notas que el estrés aumenta
 - Entre juegos
 - Cualquier momento de transición
 
@@ -75,99 +103,99 @@ Tu herramienta para manejar momentos difíciles.
 
 | Paso | Acción | Ejemplo |
 |------|--------|---------|
-| **S**top (Detente) | Pausa, no reacciones | No levantes las manos después de un fallo |
-| **O**bserva | Nota lo que está pasando | "Me siento frustrado. Mi mandíbula está tensa." |
-| **A**cepta | Reconoce sin luchar | "Así es como me siento ahora." |
-| **S**uelta | Déjalo ir, sigue adelante | Libera la tensión, regresa al presente |
+| **Detener | Pausa, no reacciones | No te rindas después de un fallo |
+| **Observar | Observa lo que está pasando | &quot;Me siento frustrado. Tengo la mandíbula apretada.&quot; |
+| **Aceptar | Reconocer sin luchar | &quot;Así es como me siento ahora mismo.&quot; |
+| **Deslizar | Déjalo ir, sigue adelante | Libera la tensión, vuelve al presente |
 
-**Practica esto en la vida diaria** para que sea automático en competición.
+**Practica esto en la vida diaria** para que sea automático en la competencia.
 
 ### Alimentación consciente
 
 Una práctica sorprendentemente poderosa.
 
 **Cómo hacerlo:**
-- Come una comida sin distracciones (sin teléfono, TV)
-- Nota los colores, olores, texturas
-- Mastica lentamente, saborea completamente
-- Nota cuando estés satisfecho
+- Coma una comida sin distracciones (sin teléfono, televisión)
+- Observa los colores, los olores y las texturas.
+- Mastica lentamente y saborea completamente.
+- Aviso cuando estés satisfecho
 
-**Por qué importa:** Construye la habilidad general de prestar atención.
+**Por qué es importante:** Desarrolla la habilidad general de prestar atención.
 
 ### Conciencia sensorial
 
-Comprometerse completamente con tu entorno.
+Involucrarse plenamente con su entorno.
 
 **La técnica 5-4-3-2-1:**
-- Nota 5 cosas que puedes ver
-- Nota 4 cosas que puedes oír
-- Nota 3 cosas que puedes sentir
-- Nota 2 cosas que puedes oler
-- Nota 1 cosa que puedes saborear
+- Observa 5 cosas que puedes ver
+- Observa 4 cosas que puedes oír
+- Observa 3 cosas que puedes sentir
+- Observa 2 cosas que puedes oler
+- Observa una cosa que puedas saborear
 
-**Usa esto:** Cuando tu mente esté acelerada antes de un gran juego.
+**Usa esto:** Cuando tu mente esté acelerada antes de un juego importante.
 
-## Técnicas específicas para competición
+## Técnicas específicas de la competición
 
-### La respiración pre-lanzamiento
+### La respiración antes de la inyección
 
 Integra la respiración en tu rutina:
 
-1. Antes de entrar al círculo, toma una respiración consciente
+1. Antes de entrar al círculo, toma una respiración consciente.
 2. Siente tus pies en el suelo
-3. Deja caer tus hombros al exhalar
-4. Luego comienza tu rutina
+3. Deja que tus hombros caigan al exhalar.
+4. Entonces comienza tu rutina
 
 ### Reinicio entre lanzamientos
 
-Qué hacer mientras esperas:
+Qué hacer mientras espera:
 
-- Nota hacia dónde va tu atención
-- Si va al marcador/resultado, reconócelo y regresa al presente
-- Concéntrate en algo neutral (tu respiración, la sensación de una bola)
-- Mantente físicamente relajado
+- Observa hacia dónde va tu atención
+- Si va a puntuación/resultado, reconocer y volver al presente
+- Concéntrese en algo neutral (su respiración, la sensación de una bola)
+- Manténgase físicamente relajado
 
-### La "campana de mindfulness"
+### La &quot;campana de la atención plena&quot;
 
-Usa disparadores para recordarte estar presente:
+Utilice activadores que le recuerden que debe estar presente:
 
-- Cada vez que recoges una bola
-- Cuando escuchas lanzar el boliche
-- Cuando entras al círculo
+- Cada vez que coges una bola
+- Cuando escuchas que se lanza el gato
+- Cuando entras en el círculo
 - Cuando termina un juego
 
 Cada disparador = una respiración consciente.
 
-## Construyendo tu práctica
+## Construyendo su práctica
 
-### Semana 1-2: Fundamento
-- 5 minutos de meditación sentada diariamente
+### Semana 1-2: Fundación
+- 5 minutos de meditación sentada al día
 - 3 respiraciones conscientes antes de cada comida
-- Practica SOAS una vez cuando algo menor salga mal
+- Practique SOAS una vez cuando algo menor salga mal
 
 ### Semana 3-4: Expansión
-- Aumenta la meditación a 10 minutos
-- Añade escaneo corporal dos veces por semana
-- Usa disparadores de campana de mindfulness en la práctica
+- Aumentar la meditación a 10 minutos.
+- Añadir escaneo corporal dos veces por semana
+- Utilice los disparadores de campana de atención plena en la práctica
 
 ### Semana 5+: Integración
-- 15-20 minutos de práctica diaria
-- Integración completa en la rutina pre-lanzamiento
-- SOAS se convierte en respuesta automática a errores
+- Práctica diaria de 15 a 20 minutos
+- Integración completa en la rutina previa al disparo
+- SOAS se convierte en una respuesta automática a los errores
 
 ## Desafíos comunes
 
 | Desafío | Solución |
 |-----------|----------|
-| "No puedo dejar de pensar" | No se supone que debas. Solo nota y regresa. |
-| "No tengo tiempo" | Comienza con 3 minutos. Todos tienen 3 minutos. |
-| "Me quedo dormido" | Intenta sentarte en lugar de acostarte, o practica más temprano en el día. |
-| "Se siente inútil" | Los beneficios vienen con la consistencia. Confía en el proceso. |
-| "Olvido practicar" | Establece un recordatorio diario. Vincúlalo a un hábito existente. |
+| &quot;No puedo dejar de pensar&quot; | No deberías hacerlo. Solo date cuenta y regresa. |
+| &quot;No tengo tiempo&quot; | Empieza con 3 minutos. Todos tienen 3 minutos. |
+| &quot;Me quedo dormido&quot; | Intente sentarse en lugar de acostarse o practique más temprano durante el día. |
+| &quot;Parece que no tiene sentido&quot; | Los beneficios vienen con la constancia. Confía en el proceso. |
+| &quot;Me olvido de practicar&quot; | Establece un recordatorio diario. Vincúlalo con un hábito existente. |
 
 ## Conclusión clave
 
-> Mindfulness es una habilidad. Como cualquier habilidad, mejora con la práctica.
+> La atención plena es una habilidad. Como cualquier habilidad, mejora con la práctica.
 
-Comienza pequeño. Sé consistente. Los beneficios se acumulan con el tiempo.
+Empieza poco a poco. Sé constante. Los beneficios se acumulan con el tiempo.
 

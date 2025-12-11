@@ -1,149 +1,189 @@
-# Entraînement technique vs entraînement flow
+# Formation technique vs formation en situation réelle
 
-Comprendre la différence entre l'entraînement technique et l'entraînement flow est essentiel pour le développement d'élite. Les deux sont nécessaires, mais ils servent des objectifs différents et nécessitent des approches différentes.
+Comprendre la différence entre l&#39;entraînement technique et l&#39;entraînement à la fluidité est essentiel pour le développement des athlètes de haut niveau. Les deux sont nécessaires, mais ils servent des objectifs différents et requièrent des approches différentes.
 
-## Deux types d'entraînement
+::: tip Le principe fondamental
+**On ne peut pas former un débutant comme un expert** (il lui manque les voies neuronales), et **on ne peut pas former un expert comme un débutant** (un volume technique élevé entraîne une réflexion excessive).
+:::
 
-### Entraînement technique (apprentissage explicite)
-C'est l'entraînement que la plupart des joueurs connaissent bien :
-- Axé sur la mécanique et la forme
-- Attention consciente aux mouvements du corps
-- Décomposition des compétences en composants
-- Pratique répétitive de techniques spécifiques
+```mermaid
+graph LR
+    A[Débutant <br/> 90% Tech] --> B[Intermédiaire <br/> 70% Tech]
+    B --> C[Avancé <br/> 50% Technologie]
+    C --> D[Expert <br/> 20 % Technologie]
 
-**Meilleur pour :** Apprendre de nouvelles compétences, corriger les mauvaises habitudes, construire votre fondation
+    A2[10 % Mental] --> B2[30% Mental]
+    B2 --> C2[50% Mental]
+    C2 --> D2[80% Mental]
 
-### Entraînement flow (apprentissage implicite)
-C'est l'entraînement pour l'exécution automatique :
-- Axé sur les résultats, pas la mécanique
-- Laisser le subconscient prendre le relais
-- Pratique variée, semblable au jeu
-- Techniques mentales et visualisation
+    style A fill:#ffcdd2
+    style B fill:#ffccbc
+    style C fill:#fff9c4
+    style D fill:#c8e6c9
+    style D2 fill:#a5d6a7
+```
 
-**Meilleur pour :** Préparation à la compétition, renforcer la confiance, accéder à la performance maximale
+## Deux types de formation
 
-## Le modèle d'inversion dynamique
+::: info Formation technique (apprentissage explicite)
+**Sujet principal :** Mécanique et forme
+**Attention :** Mouvements corporels conscients
+**Méthode :** Décomposition des compétences, pratique répétitive
+**Idéal pour :** Apprendre de nouvelles compétences, corriger de mauvaises habitudes, acquérir des bases solides
 
-Le bon ratio d'entraînement est inversement corrélé à la compétence technique. À mesure que vous maîtrisez la technique, l'entraînement mental devient plus important - pas moins.
+**Exemple :** S&#39;entraîner 50 fois à son point de relâchement avec analyse vidéo
+:::
 
-### 1. Débutant (stade cognitif)
-- Vous pensez consciemment à *quoi* faire
-- Les mouvements semblent maladroits et nécessitent un effort
-- Le cerveau est entièrement saturé de mécanique
-- **Ratio :** 90% technique / 10% mental
-- **Focus mental :** Plaisir, focus externe (regarder la cible), pas de visualisation complexe
+::: info Formation en flux (apprentissage implicite)
+**Priorité :** aux résultats, pas aux mécanismes
+**Attention :** Laissez votre subconscient prendre le dessus
+**Méthode :** Pratique variée, ludique, visualisation
+**Idéal pour :** la préparation aux compétitions, le développement de la confiance en soi et l&#39;atteinte de performances optimales
 
-### 2. Intermédiaire (stade associatif)
-- Vous affinez la compétence avec moins de pensée consciente
-- Les mouvements deviennent plus fluides, les erreurs diminuent
-- Vous commencez à détecter vos propres erreurs
-- **Ratio :** 70% technique / 30% mental
-- **Focus mental :** Développer votre routine pré-performance (RPP)
+**Exemple :** Jouer des matchs d&#39;entraînement sous pression, en se concentrant uniquement sur les cibles
+:::
 
-### 3. Avancé (seuil d'autonomie)
-- La compétence est largement automatisée
-- Votre image de soi est souvent en retard sur votre capacité physique
-- L'entraînement se concentre sur la simulation de pression
-- **Ratio :** 50% technique / 50% mental
-- **Focus mental :** Visualisation, image de soi, contrôle de l'anxiété
+## Le modèle d&#39;inversion dynamique
 
-### 4. Expert (stade autonome)
-- Les compétences techniques sont entièrement subconscientes
-- L'attention consciente à la mécanique perturbe la performance
-- Le volume de maintenance est tout ce dont vous avez besoin techniquement
-- **Ratio :** 20% technique / 80% mental
-- **Focus mental :** État de flow, stratégie, calmer l'esprit
+Le ratio d&#39;entraînement optimal est inversement proportionnel à la compétence technique. À mesure que la technique se maîtrise, l&#39;entraînement mental devient plus important, et non moins.
 
-## Le tableau de progression
+### 1. Débutant (Stade cognitif)
+- Vous réfléchissez consciemment à ce que vous devez faire.
+- Les mouvements sont maladroits et demandent des efforts.
+- Le cerveau est complètement saturé de mécanique.
+- **Répartition :** 90 % Technique / 10 % Mental
+- **Concentration mentale :** Plaisir, concentration externe (regarder la cible), visualisation simple.
 
-| Niveau | Technique : Mental | Objectif principal |
+### 2. Stade intermédiaire (stade associatif)
+- Vous perfectionnez cette compétence par une réflexion moins consciente.
+- Les mouvements deviennent plus fluides, les erreurs diminuent.
+- Vous commencez à déceler vos propres erreurs.
+- **Répartition :** 70 % Technique / 30 % Mental
+- **Concentration mentale :** Élaborer votre routine de pré-performance (RPP)
+
+### 3. Avancé (Seuil d&#39;autonomie)
+- Cette compétence est en grande partie automatisée.
+- Votre image de vous-même est souvent en retard par rapport à vos capacités physiques.
+- La formation est axée sur la simulation de pression
+- **Répartition :** 50 % technique / 50 % mental
+- **Concentration mentale :** Visualisation, image de soi, gestion de l’anxiété
+
+### 4. Expert (étape autonome)
+- Les compétences techniques sont entièrement inconscientes.
+- L&#39;attention consciente portée aux mécanismes perturbe les performances
+- Le volume de maintenance est tout ce dont vous avez besoin techniquement.
+- **Répartition :** 20 % Technique / 80 % Mental
+- **Concentration mentale :** État de flow, stratégie, apaisement de l’esprit
+
+## Tableau de progression
+
+| Niveau | Technologie : Mentale | Objectif principal |
 |-------|---------------|-------------------|
-| Débutant | 90 : 10 | Construire la machine |
+| Débutant | 90 : 10 | Construisez la machine |
 | Intermédiaire | 70 : 30 | Stabiliser la compétence |
-| Avancé | 50 : 50 | Faire confiance à la machine |
-| Expert | 20 : 80 | Liberté de performance |
+| Avancé | 50 : 50 | Faites confiance à la machine |
+| Expert | 20 : 80 | Liberté d&#39;expression |
 
-## Le piège de l'expert
+## Le piège de l&#39;expert
 
-Pour les joueurs avancés et experts, revenir à un focus technique élevé est dangereux.
+Pour les joueurs confirmés et experts, revenir à une approche trop technique est dangereux.
 
-**Le problème :** Lorsque vous avez automatisé une compétence mais que vous la surveillez consciemment pendant la compétition, vous engagez l'esprit conscient et annulez le subconscient. Cela provoque de l'anxiété de performance et de "l'étouffement."
+**Le problème :** Lorsqu’on automatise une compétence mais qu’on la surveille consciemment pendant la compétition, on sollicite l’esprit conscient et on court-circuite le subconscient. Cela provoque du stress et un blocage psychologique.
 
-**La science :** Le volume requis pour maintenir une compétence est significativement inférieur (souvent 1/3 à 1/9) au volume requis pour la construire. Les experts ont besoin d'un travail technique minimal pour conserver leur toucher.
+**Conclusion scientifique :** Le volume d’activité nécessaire au maintien d’une compétence est nettement inférieur (souvent de 1/3 à 1/9) à celui requis pour l’acquérir. Les experts ont besoin d’un minimum d’efforts techniques pour conserver leur savoir-faire.
 
-**Exemple d'élite :** Les champions comme Philippe Quintais et Dylan Rocher se concentrent fortement sur les scénarios tactiques et les moments critiques plutôt que sur les exercices mécaniques.
+**Exemple d&#39;élite :** Des champions comme Philippe Quintais et Dylan Rocher privilégient les scénarios tactiques et les moments critiques plutôt que les exercices mécaniques.
 
-Signes que vous sur-réfléchissez la technique :
-- Paralysie par l'analyse
-- Performance incohérente malgré une bonne technique
-- Pires résultats en compétition qu'à l'entraînement
-- Se sentir "mécanique" au lieu de fluide
+Signes que vous réfléchissez trop à votre technique :
+- Paralysie par l&#39;analyse
+- Performances irrégulières malgré une bonne technique
+- Des résultats moins bons en compétition qu&#39;à l&#39;entraînement
+- Sensation « mécanique » plutôt que fluide
 
-## Méthodes d'entraînement comparées
+## Comparaison des méthodes de formation
 
-| Aspect | Entraînement technique | Entraînement flow |
+| Aspect | Formation technique | Formation Flow |
 |--------|-------------------|---------------|
-| **Type de pratique** | Bloquée (même compétence répétée) | Aléatoire (compétences variées) |
-| **Feedback** | Immédiat, détaillé | Retardé, axé sur le résultat |
-| **Environnement** | Contrôlé, prévisible | Variable, semblable au jeu |
+| **Type de pratique** | Bloqué (même compétence répétée) | Aléatoire (compétences variées) |
+| **Retour** | Immédiat, détaillé | Retardé, axé sur les résultats |
+| **Environnement** | Contrôlé, prévisible | Variable, comme un jeu |
 | **État mental** | Analytique, conscient | Intuitif, automatique |
-| **Meilleur moment** | Hors saison, construction de compétences | Pré-compétition, maintenance |
+| **Meilleur moment** | Hors saison, développement des compétences | Avant la compétition, entretien |
 
-## Pratique bloquée vs aléatoire
+## Entraînement bloqué vs aléatoire
 
-**Pratique bloquée :** Répéter le même tir 20 fois
-- Semble productif (vous voyez une amélioration rapide)
-- Bon pour l'apprentissage initial
+**Exercice bloqué :** Répétez le même lancer 20 fois.
+- On se sent productif (on constate une amélioration rapide).
+- Idéal pour l&#39;apprentissage initial
 - Mauvais pour la rétention à long terme
 
-**Pratique aléatoire :** Varier la distance, la cible et le type de tir
-- Semble plus difficile (plus d'erreurs)
-- Meilleur pour le transfert en compétition
-- Développe l'adaptabilité et la prise de décision
+**Exercice aléatoire :** Variez la distance, la cible et le type de lancer
+- Cela semble plus difficile (plus d&#39;erreurs)
+- Meilleur pour les transferts en compétition
+- Développe l&#39;adaptabilité et la prise de décision
 
-## Directives pratiques
+## Conseils pratiques
 
 ### Pour les sessions techniques
 1. Concentrez-vous sur UN aspect à la fois
-2. Utilisez l'analyse vidéo
-3. Obtenez des retours d'un entraîneur ou partenaire d'entraînement
-4. Acceptez que cela semblera maladroit au début
-5. Gardez les sessions plus courtes (qualité plutôt que quantité)
+2. Utiliser l&#39;analyse vidéo
+3. Obtenez des commentaires d&#39;un entraîneur ou d&#39;un partenaire d&#39;entraînement
+4. Acceptez que cela puisse paraître bizarre au début.
+5. Privilégiez les séances plus courtes (la qualité à la quantité).
 
-### Pour les sessions flow
-1. Créez une pression semblable au jeu
-2. Concentrez-vous sur la cible, pas sur votre corps
-3. Utilisez votre routine pré-tir de manière cohérente
-4. N'analysez pas pendant la session
-5. Faites confiance à votre entraînement
+### Pour les séances de flow
+1. Créer une pression similaire à celle d&#39;un jeu
+2. Concentrez-vous sur la cible, pas sur votre corps.
+3. Suivez votre routine pré-injection de façon constante.
+4. N&#39;analysez pas pendant la session
+5. Faites confiance à votre formation
 
-## Le défi d'intégration
+## Le défi de l&#39;intégration
 
-La vraie compétence est de savoir quand utiliser chaque mode :
+Le véritable savoir-faire réside dans la capacité à savoir quand utiliser chaque mode :
 
-**Pendant un jeu de compétition :**
-- Pensée technique : JAMAIS pendant l'exécution
-- Mode flow : TOUJOURS en tirant
+**Pendant un match de compétition :**
+- Réflexion technique : JAMAIS pendant l&#39;exécution
+- Mode flux : TOUJOURS lors du lancer
 
-**Pendant l'entraînement :**
-- Sessions techniques : Programmées, focus spécifique
-- Sessions flow : Simulation de jeu, pratique sous pression
+**Pendant l&#39;entraînement :**
+- Sessions techniques : programmées et axées sur des points précis
+- Séances de flow : simulation de jeu, pratique de la pression
 
-## Exemple d'équilibre hebdomadaire
+## Exemple de solde hebdomadaire
 
-| Jour | Type de session | Focus |
+| Jour | Type de session | Se concentrer |
 |-----|-------------|-------|
-| Lundi | Technique | Précision du pointing |
-| Mardi | Technique | Précision du tir |
-| Mercredi | Flow | Entraînement mental, visualisation |
-| Jeudi | Mixte | Scénarios de jeu avec focus flow |
-| Vendredi | Technique | Zone de faiblesse |
-| Samedi | Flow | Jeu de match, simulation de compétition |
-| Dimanche | Repos | Récupération, réflexion |
+| Lundi | Technique | Précision de pointage |
+| Mardi | Technique | précision de tir |
+| Mercredi | Couler | Entraînement mental, visualisation |
+| Jeudi | Mixte | Scénarios de jeu axés sur le flux |
+| Vendredi | Technique | Point faible |
+| Samedi | Couler | Match play, simulation de compétition |
+| Dimanche | Repos | Rétablissement, réflexion |
 
-## Point clé à retenir
+## Résumé : Règles d&#39;équilibre de l&#39;entraînement
 
-> Vous ne pouvez pas entraîner un débutant comme un expert (ils manquent les voies neuronales pour le travail mental), et vous ne pouvez pas entraîner un expert comme un débutant (un volume technique élevé cause l'épuisement et la sur-réflexion).
+::: tip Règle n° 1 : Adapter l&#39;entraînement au niveau
+**Débutants (90/10) :** Construire la machine - se concentrer sur la technique
+**Niveau intermédiaire (70/30) :** Stabiliser la compétence – ajouter un travail mental
+**Avancé (50/50) :** Faites confiance à la machine - équilibrez les deux
+**Expert (20/80) :** Liberté d&#39;exécution - principalement mentale
+:::
 
-Le voyage de la technique au flow nécessite une inversion stratégique. Adaptez votre entraînement à votre stade de développement.
+::: tip Règle n° 2 : Entraînement bloqué vs aléatoire
+**Exercice bloqué** (répéter le même lancer) : Idéal pour l’apprentissage initial, mais peu efficace pour la mémorisation.
+**Entraînement aléatoire** (lancers variés) : Plus difficile à l’entraînement, meilleur en compétition
+:::
+
+::: tip Règle n° 3 : Le piège de l’expert
+**Pour les experts :** Un volume technique élevé provoque une réflexion excessive et un blocage.
+**Solution :** Maintenance technique minimale, entraînement mental maximal
+:::
+
+## Points clés à retenir
+
+> On ne peut pas former un débutant comme un expert (il lui manque les voies neuronales nécessaires au travail mental), et on ne peut pas former un expert comme un débutant (un volume technique élevé provoque l&#39;épuisement professionnel et la suranalyse).
+
+Le passage de la technique à la fluidité exige une inversion stratégique. Adaptez votre entraînement à votre stade de développement.
 

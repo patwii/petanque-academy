@@ -1,169 +1,186 @@
-# Aufbau Ihrer Vor-Wurf-Routine
+# Erstellen Sie Ihre Pre-Shot-Routine
 
-Ihre Vor-Wurf-Routine ist eines der mächtigsten Werkzeuge in Ihrem mentalen Spiel. Es ist eine konsistente Abfolge von Handlungen, die Sie auf jeden Wurf vorbereitet und Ihren besten Leistungszustand auslöst.
+Ihre Pre-Shot-Routine ist eines der mächtigsten Werkzeuge in Ihrem mentalen Spiel. Es ist eine konsistente Abfolge von Aktionen, die Sie auf jeden Wurf vorbereitet und Ihren besten Leistungszustand auslöst.
+
+::: Tipp Die große Idee
+**Ihre Routine ist Ihr Tor zur Zone.** Eine konsistente Routine vor dem Schlag signalisiert Ihrem Gehirn: „Es ist Zeit zum Ausführen.“ Mit der Wiederholung wird es zum automatischen Auslöser für Höchstleistungen.
+:::
+
+```mermaid
+graph LR
+    A[Starten Sie die Routine] --> B[Gehirn erkennt Muster]
+    B --> C[Automatischer Zustandswechsel]
+    C --> D[Ausführungsmodus]
+    D --> E[Spitzenleistung]
+
+    style A fill:#e3f2fd
+    style C fill:#e8f5e9
+    style D fill:#fff4e1
+    style E fill:#fff4e1
+```
 
 ## Warum Routinen funktionieren
 
-### Konsistenz schafft Vertrauen
-Wenn Sie jedes Mal dasselbe tun, entfernen Sie Variablen. Ihr Körper weiß, was kommt. Dies schafft ein Gefühl von Kontrolle und Vertrautheit, selbst in ungewohnten Situationen.
+### Beständigkeit schafft Vertrauen
+Wenn Sie jedes Mal das Gleiche tun, entfernen Sie Variablen. Ihr Körper weiß, was auf Sie zukommt. Dadurch entsteht ein Gefühl der Kontrolle und Vertrautheit, auch in ungewohnten Situationen.
 
 ### Routinen lösen Zustände aus
-Mit Wiederholung wird Ihre Routine mit Ihrem Leistungszustand verknüpft. Das Starten der Routine beginnt automatisch die mentale Verschiebung in den Ausführungsmodus.
+Durch die Wiederholung wird Ihre Routine mit Ihrem Leistungszustand verknüpft. Mit dem Starten der Routine beginnt automatisch der mentale Wechsel in den Ausführungsmodus.
 
 ### Routinen blockieren Ablenkungen
-Eine Routine gibt Ihrem Geist etwas, worauf er sich konzentrieren kann. Es gibt keinen Raum für Sorgen über die Punktzahl, das Publikum oder was passieren könnte.
+Eine Routine gibt Ihrem Geist etwas, auf das er sich konzentrieren kann. Es besteht kein Grund zur Sorge um die Partitur, das Publikum oder das, was passieren könnte.
 
-### Routinen regulieren Erregung
-Eine gut gestaltete Routine hilft, Ihr Energieniveau zu regulieren - beruhigt Sie, wenn Sie zu aufgeregt sind, fokussiert Sie, wenn Sie flach sind.
+### Routinen verwalten die Erregung
+Eine gut durchdachte Routine hilft dabei, Ihr Energieniveau zu regulieren – sie beruhigt Sie, wenn Sie zu überfordert sind, und konzentriert Sie, wenn Sie flach sind.
 
 ## Elemente einer effektiven Routine
 
-### Phase 1: Bewertung (Außerhalb des Kreises)
+### Phase 1: Beurteilung (außerhalb des Kreises)
 
-Bevor Sie eintreten, sammeln Sie Informationen:
-- Lesen Sie das Gelände (Hänge, Hindernisse, Oberfläche)
-- Bewerten Sie die Situation (Punktzahl, Boule-Positionen)
+Sammeln Sie Informationen, bevor Sie eingreifen:
+- Lesen Sie das Gelände (Steigungen, Hindernisse, Untergrund)
+- Bewerten Sie die Situation (Ergebnis, Boule-Positionen)
 - Wählen Sie Ihr Ziel und Ihren Landeplatz
-- Entscheiden Sie über den Wurftyp (Punkt, Schießen, Lob, Rollen)
+- Entscheiden Sie sich für die Wurfart (Punkt, Schuss, Schlag, Rolle).
 
-**Hier findet das Denken statt.** Nehmen Sie sich hier Zeit.
+**Hier geschieht das Denken.** Nehmen Sie sich hier Zeit.
 
-### Phase 2: Übergang (Betreten des Kreises)
+### Phase 2: Übergang (Eintritt in den Kreis)
 
-Der Wechsel vom Denken zum Handeln:
-- Physische Aktion (auf konsistente Weise in den Kreis treten)
-- Mentales Signal (ein Wort oder Satz, der "Ausführungsmodus" signalisiert)
-- Atem (ein bewusster Atemzug, um sich zu zentrieren)
+Der Wandel vom Denken zum Handeln:
+- Körperliche Aktion (konsequent in den Kreis treten)
+- Mentaler Hinweis (ein Wort oder eine Phrase, die den „Ausführungsmodus“ signalisiert)
+- Atem (ein bewusster Atemzug, um dich zu zentrieren)
 
-**Dies ist der Schalter.** Die Analyse endet hier.
+**Das ist der Schalter.** Die Analyse endet hier.
 
-### Phase 3: Einrichtung (Im Kreis)
+### Phase 3: Aufbau (im Kreis)
 
 Bereiten Sie Ihren Körper vor:
-- Konsistente Haltung (jedes Mal gleich)
-- Griffkontrolle (fühlen Sie die Boule)
-- Ausrichtung zum Ziel
+- Konsistente Haltung (jedes Mal die gleiche)
+- Griffkontrolle (die Kugel spüren)
+- Ausrichtung auf das Ziel
 - Physischer Auslöser (eine kleine Bewegung, die Ihnen gehört)
 
-### Phase 4: Visualisierung (Kurz)
+### Phase 4: Visualisierung (kurz)
 
-Sehen Sie den Wurf, bevor Sie ihn machen:
-- Stellen Sie sich den Weg des Balls vor (maximal 2-3 Sekunden)
-- Fühlen Sie den erfolgreichen Wurf
+Sehen Sie sich den Wurf an, bevor Sie ihn schaffen:
+- Stellen Sie sich die Flugbahn des Balls vor (maximal 2-3 Sekunden)
+- Spüren Sie den gelungenen Wurf
 - Verbinden Sie sich visuell mit Ihrem Ziel
 
 ### Phase 5: Ausführung
 
 Machen Sie den Wurf:
 - Externer Fokus (nur Ziel)
-- Vertrauen Sie Ihrem Körper
-- Loslassen ohne Zögern
-- Natürlich durchziehen
+- Vertraue deinem Körper
+- Ohne zu zögern loslassen
+- Gehen Sie auf natürliche Weise vor
 
-## Aufbau Ihrer persönlichen Routine
+## Bauen Sie Ihre persönliche Routine auf
 
 ### Schritt 1: Beobachten Sie, was Sie bereits tun
 
-Sie haben wahrscheinlich bereits eine Routine. Beachten Sie:
-- Was tun Sie vor guten Würfen?
+Wahrscheinlich haben Sie bereits eine gewisse Routine. Beachten:
+- Was macht man vor guten Würfen?
 - Was fühlt sich für Sie natürlich an?
 - Was hilft Ihnen, sich zu konzentrieren?
 
-### Schritt 2: Gestalten Sie Ihre Routine
+### Schritt 2: Entwerfen Sie Ihre Routine
 
 Erstellen Sie eine Sequenz, die Folgendes umfasst:
 - [ ] Bewertungsphase
 - [ ] Klarer Übergangsmoment
-- [ ] Konsistente physische Einrichtung
+- [ ] Konsistenter physischer Aufbau
 - [ ] Kurze Visualisierung
 - [ ] Ausführungsauslöser
 
 ### Schritt 3: Schreiben Sie es auf
 
-Seien Sie spezifisch. Beispiel:
+Seien Sie konkret. Beispiel:
 
-1. **Bewerten:** Gelände lesen, Landeplatz wählen
-2. **Übergang:** Mit linkem Fuß zuerst in den Kreis treten, "Vertrauen" sagen
-3. **Einrichtung:** Füße schulterbreit, Griffkontrolle, Schultern ausrichten
-4. **Visualisieren:** Den Weg sehen, die Freigabe fühlen
-5. **Ausführen:** Augen auf Ziel, werfen
+1. **Bewerten:** Gelände ablesen, Landeplatz auswählen
+2. **Übergang:** Treten Sie mit dem linken Fuß zuerst in den Kreis und sagen Sie „Vertrauen“.
+3. **Aufbau:** Füße schulterbreit, Griff prüfen, Schultern ausrichten
+4. **Visualisieren:** Sehen Sie den Weg, spüren Sie die Befreiung
+5. **Ausführen:** Ziel im Auge behalten, werfen
 
-### Schritt 4: Üben Sie religiös
+### Schritt 4: Religiös praktizieren
 
-Verwenden Sie Ihre Routine bei JEDEM Wurf im Training:
+Nutzen Sie Ihre Routine bei JEDEM Wurf in der Praxis:
 - Einfache Würfe
 - Schwierige Würfe
-- Wenn Sie müde sind
-- Wenn Sie frisch sind
+- Wenn du müde bist
+- Wenn du frisch bist
 
 Die Routine muss automatisch werden.
 
 ### Schritt 5: Im Laufe der Zeit verfeinern
 
-Ihre Routine wird sich entwickeln. Beachten Sie, was funktioniert, und passen Sie an. Aber ändern Sie sie nicht während des Wettbewerbs - nur zwischen Veranstaltungen.
+Ihre Routine wird sich weiterentwickeln. Beachten Sie, was funktioniert, und passen Sie es an. Aber ändern Sie es nicht während des Wettkampfs, sondern nur zwischen den Wettkämpfen.
 
-## Routine-Timing
+## Routinemäßiges Timing
 
-Ihre Routine sollte eine konsistente Zeit in Anspruch nehmen:
-- Zu schnell: Sie hetzen, nicht richtig vorbereitet
-- Zu langsam: Sie überdenken, verlieren den Flow
-- Genau richtig: Genug Zeit zum Vorbereiten, nicht so viel, dass Sie zu viel denken
+Ihre Routine sollte eine konstante Zeitspanne in Anspruch nehmen:
+- Zu schnell: Sie sind in Eile und nicht richtig vorbereitet
+- Zu langsam: Sie denken zu viel nach und verlieren den Fluss
+- Genau richtig: Genug Zeit für die Vorbereitung, nicht so viel, dass man zu viel nachdenkt
 
-**Typisches Timing:**
+**Typischer Zeitpunkt:**
 - Bewertung: 5-10 Sekunden
-- Übergang + Einrichtung: 3-5 Sekunden
+- Übergang + Einrichtung: 3–5 Sekunden
 - Visualisierung + Ausführung: 3-5 Sekunden
 - **Gesamt: 10-20 Sekunden**
 
-## Häufige Routine-Fehler
+## Häufige Routinefehler
 
-| Fehler | Problem | Lösung |
+|  | Fehler | Problem | Lösung |  |
 |---------|---------|----------|
-| Im Training überspringen | Routine ist nicht automatisch | Bei jedem einzelnen Wurf verwenden |
-| Zu kompliziert | Schwer zu merken unter Druck | Auf das Wesentliche vereinfachen |
-| Denken während der Ausführung | Stört automatische Leistung | Klarer Übergangspunkt |
-| Inkonsistentes Timing | Schafft Unsicherheit | Mit konsistentem Tempo üben |
-| Während des Wettbewerbs ändern | Führt Zweifel ein | Bei dem bleiben, was Sie kennen |
+|  | Überspringen in der Praxis | Routine ist kein Automatismus | Benutze es bei jedem einzelnen Wurf |  |
+|  | Zu kompliziert | Unter Druck ist es schwer, sich daran zu erinnern | Vereinfachen Sie sich auf das Wesentliche |  |
+|  | Denken während der Ausführung | Unterbricht die automatische Leistung | Klarer Übergangspunkt |  |
+|  | Inkonsistentes Timing | Schafft Unsicherheit | Üben Sie mit gleichmäßigem Tempo |  |
+|  | Wechsel mitten im Wettbewerb | Führt Zweifel ein | Bleiben Sie bei dem, was Sie wissen |  |
 
-## Routine-Fehlerbehebung
+## Routinemäßige Fehlerbehebung
 
-**Wenn Sie hetzen:**
-- Fügen Sie einen Atemzug beim Übergang hinzu
-- Verlangsamen Sie Ihre Einrichtungsbewegungen
-- Pausieren Sie vor der Visualisierung
+**Wenn Sie es eilig haben:**
+- Fügen Sie beim Übergang einen Atemzug hinzu
+- Verlangsamen Sie Ihre Setup-Bewegungen
+- Pause vor der Visualisierung
 
-**Wenn Sie überdenken:**
+**Wenn Sie zu viel nachdenken:**
 - Verkürzen Sie die Routine
-- Verwenden Sie ein stärkeres Übergangssignal
-- Fokussieren Sie mehr extern
+- Verwenden Sie einen stärkeren Übergangshinweis
+- Konzentrieren Sie sich mehr nach außen
 
 **Wenn Sie inkonsistent sind:**
-- Filmen Sie sich selbst zur Überprüfung
-- Üben Sie die Routine ohne zu werfen
-- Holen Sie Feedback von einem Partner
+- Machen Sie selbst ein Video, um es zu überprüfen
+- Üben Sie die Routine, ohne zu werfen
+- Holen Sie sich Feedback von einem Partner
 
-## Beispiel-Routinen
+## Beispielroutinen
 
 ### Einfache Routine
-1. Ziel wählen
-2. Eintreten, atmen
+1. Ziel auswählen
+2. Treten Sie ein, atmen Sie ein
 3. Greifen, ausrichten
-4. Sehen, werfen
+4. Sehen Sie es, werfen Sie es
 
 ### Detaillierte Routine
-1. Gelände lesen, Landeplatz wählen
-2. Mit linkem Fuß zuerst eintreten
-3. Intern "glatt" sagen
-4. Ein Atemzug, Schultern fallen lassen
-5. Füße setzen, Griffkontrolle
-6. Schultern zum Ziel ausrichten
-7. Den Weg sehen (2 Sekunden)
-8. Augen fixieren Ziel
+1. Lesen Sie das Gelände ab und wählen Sie den Landeplatz aus
+2. Treten Sie zuerst mit dem linken Fuß auf
+3. Sagen Sie intern „glatt“.
+4. Ein Atemzug, Schultern fallen
+5. Füße einstellen, Griff prüfen
+6. Richten Sie die Schultern auf das Ziel aus
+7. Sehen Sie sich den Pfad an (2 Sekunden)
+8. Der Blick richtet sich auf das Ziel
 9. Werfen
 
-## Kernpunkt
+## Schlüssel zum Mitnehmen
 
-> Ihre Routine ist Ihr Anker. Im Chaos ist sie Ihre Konstante.
+> Ihre Routine ist Ihr Anker. Im Chaos ist es deine Konstante.
 
-Bauen Sie sie sorgfältig auf. Üben Sie sie immer. Vertrauen Sie ihr vollständig.
+Bauen Sie es sorgfältig auf. Übe es immer. Vertraue ihm voll und ganz.
 

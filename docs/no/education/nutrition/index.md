@@ -1,106 +1,129 @@
-# Ernæring for presisjonsprestasjon
+# Ernæring for presisjonsytelse
 
-Pétanque er en presisjonssport, ikke en utholdenhetssport. Dine ernæringsbehov er forskjellige fra en maratonløper eller fotballspiller. Det som betyr mest er **hjernedrivstoffstabilitet** - å holde sinnet skarpt og hendene stabile gjennom en lang konkurransedag.
+Pétanque er en presisjonssport, ikke en utholdenhetssport. Dine ernæringsbehov er annerledes enn en maratonløper eller en fotballspiller. Det som betyr mest er **hjernens drivstoffstabilitet** – å holde hjernen skarp og hendene stødige gjennom en lang konkurransedag.
 
-## Presisjonsatletens utfordring
+::: tip Den store ideen
+**Hjernen din er ditt viktigste verktøy i petanque. Gi den stabil drivstoff, ikke berg-og-dal-bane-energi.** Fokuser på protein, sunt fett og å holde deg hydrert. Unngå sukkertopper.
+:::
 
-I motsetning til høyintensive idretter krever ikke pétanque massive glykogenlagre eller rask energipåfylling. Det det krever er:
+```mermaid
+graph LR
+    A[Sukker/enkle karbohydrater] --> B[Blodsukkertopp]
+    B --> C[Insulinfrigjøring]
+    C --> D[Blodsukkerkrasj]
+    D --> E[Adrenalinrespons]
+    E --> F[Tremor og angst]
 
-- **Stabilt blodsukker** - ingen topper eller fall
-- **Konsekvent mental klarhet** - fokus som varer hele dagen
-- **Stabile hender** - ingen skjelving eller risting
-- **Rolige nerver** - lav angst og stressrespons
+    G[Protein og sunt fett] --> H[Stabilt blodsukker]
+    H --> I[Konsekvent energi]
+    I --> J[Skarpt fokus]
+    J --> K[Stødige hender]
 
-Din ernæringsstrategi bør optimalisere for disse faktorene, ikke for rå energiproduksjon.
+    style A fill:#ffebee
+    style F fill:#ffebee
+    style G fill:#e8f5e9
+    style K fill:#e8f5e9
+```
+
+## Presisjonsutøverens utfordring
+
+I motsetning til høyintensitetssport krever ikke pétanque massive glykogenlagre eller rask energipåfylling. Det den krever er:
+
+- **Stabilt blodsukker** – ingen topper eller krasj
+- **Konsekvent mental klarhet** – fokus som varer hele dagen
+- **Stødige hender** - ingen skjelvinger eller risting
+- **Rolige nerver** – lav angst og stressrespons
+
+Ernæringsstrategien din bør optimalisere for disse faktorene, ikke for rå energiproduksjon.
 
 ## Problemet med sukker og enkle karbohydrater
 
-Mange atleter velger som standard karbohydratrike dietter. For pétanque-spillere kan dette faktisk skade prestasjonen.
+Mange idrettsutøvere går som standard til et karbohydratrikt kosthold. For petanque-spillere kan dette faktisk gå utover prestasjonene.
 
-### Blodsukkerrutsjebanen
+### Blodsukkerberg-og-dal-banen
 
 Når du spiser sukker eller enkle karbohydrater:
 1. Blodsukkeret stiger raskt
-2. Insulin frigjøres for å bringe det ned
-3. Blodsukkeret styrter (hypoglykemi)
+2. Insulin frigjøres for å senke det
+3. Blodsukkeret faller (hypoglykemi)
 4. Kroppen din frigjør adrenalin for å kompensere
-5. Du opplever skjelving, angst og dårlig fokus
+5. Du opplever skjelvinger, angst og dårlig fokus
 
 **Dette er det motsatte av hva du trenger for presisjon.**
 
-### Symptomer på blodsukkerinstabilitet
+### Symptomer på ustabilitet i blodsukkeret
 
-| Symptom | Innvirkning på prestasjon |
+| Symptom | Innvirkning på ytelse |
 |---------|----------------------|
-| Skjelvende hender | Inkonsekvent slipp |
-| Konsentrasjonsvansker | Dårlig beslutningstaking |
-| Irritabilitet | Teamkonflikt, dårlig fatning |
-| Tretthet etter måltider | Ettermiddagsdyp |
+| Skjelvende hender | Inkonsekvent utgivelse |
+| Vanskeligheter med å konsentrere seg | Dårlig beslutningstaking |
+| Irritabilitet | Lagkonflikt, dårlig ro |
+| Tretthet etter måltider | Ettermiddagsnedgang |
 | Angst | Trykkfølsomhet |
 | Hjernetåke | Langsom taktisk tenkning |
 
 ## En bedre tilnærming: Stabil energi
 
-Målet er å gi hjernen din konsistent drivstoff uten rutsjebanen.
+Målet er å gi hjernen din jevnlig drivstoff uten berg-og-dal-banen.
 
-### Nøkkelprinsipper
+### Viktige prinsipper
 
-1. **Prioriter protein og sunne fettstoffer** - De gir langsom, jevn energi
-2. **Velg komplekse karbohydrater fremfor enkle** - Hvis du spiser karbohydrater, velg de som fordøyes langsomt
-3. **Unngå sukkertopper** - Spesielt før og under konkurranse
+1. **Prioriter protein og sunt fett** – De gir langsom, jevn energi
+2. **Velg komplekse karbohydrater fremfor enkle** – Hvis du spiser karbohydrater, velg de som fordøyes sakte
+3. **Unngå sukkertopper** – Spesielt før og under konkurranse
 4. **Hold deg hydrert** - Dehydrering påvirker konsentrasjonen betydelig
 5. **Spis regelmessig** - Ikke la deg bli for sulten
 
 ### Matvarer som hjelper
 
-| Matvaretype | Eksempler | Hvorfor det virker |
+| Mattype | Eksempler | Hvorfor det fungerer |
 |-----------|----------|--------------|
 | Protein | Egg, nøtter, ost, kjøtt | Langsom fordøyelse, stabil energi |
-| Sunne fettstoffer | Avokado, olivenolje, nøtter | Langvarig drivstoff |
-| Komplekse karbohydrater | Grønnsaker, belgfrukter | Fiber bremser absorpsjon |
-| Lavsukkerfrukt | Bær, epler | Næringsstoffer uten topp |
+| Sunne fettsyrer | Avokado, olivenolje, nøtter | Langvarig drivstoff |
+| Komplekse karbohydrater | Grønnsaker, belgfrukter | Fiber forsinker absorpsjonen |
+| Frukt med lavt sukkerinnhold | Bær, epler | Næringsstoffer uten pigg |
 
 ### Matvarer å begrense
 
-| Matvaretype | Eksempler | Hvorfor det er problematisk |
+| Mattype | Eksempler | Hvorfor det er problematisk |
 |-----------|----------|---------------------|
-| Sukker | Godteri, brus, bakverk | Rask topp og fall |
+| Sukker | Godteri, brus, bakverk | Rask topp og krasj |
 | Hvitt brød/pasta | Smørbrød, pastaretter | Rask omdannelse til sukker |
-| Fruktjuice | Appelsinjuice, smoothier | Konsentrert sukker |
-| Energidrikker | De fleste kommersielle merker | Sukker + koffein-fall |
+| Fruktjuice | Appelsinjuice, smoothies | Konsentrert sukker |
+| Energidrikker | De fleste kommersielle merkene | Sukker + koffein-krasj |
 
-## Konkurransedag ernæring
+## Ernæring på konkurransedagen
 
-### Før konkurranse
+### Før konkurransen
 
-**2-3 timer før:**
+**2–3 timer før:**
 - Balansert måltid med protein, fett og grønnsaker
 - Unngå tunge karbohydrater som kan forårsake døsighet
 - Eksempel: Egg med grønnsaker, eller salat med kylling
 
 **1 time før:**
-- Lett snacks hvis nødvendig
+- Lett snacks om nødvendig
 - Nøtter, ost eller en liten porsjon protein
-- Unngå noe søtt
+- Unngå alt som er sukkerholdig
 
-### Under konkurranse
+### Under konkurransen
 
-**Mellom kamper:**
+**Mellom kampene:**
 - Vann (viktigst)
 - Små proteinsnacks (nøtter, ost, kjøtt)
-- Unngå søte snacks og drikker
+- Unngå sukkerholdige snacks og drikker
 
 **Tegn på at du må spise:**
-- Konsentrasjonsvansker
+- Vanskeligheter med å konsentrere seg
 - Irritabilitet
-- Følelse av skjelving
+- Føler seg skjelven
 - Hodepine
 
-### Etter konkurranse
+### Etter konkurransen
 
-- Påfyll med et balansert måltid
+- Fyll på med et balansert måltid
 - Rehydrer fullstendig
-- Ikke "belønn" deg selv med sukker - det vil påvirke din restitusjon
+- Ikke «belønn» deg selv med sukker – det vil påvirke restitusjonen din.
 
 ## Hydrering
 
@@ -108,53 +131,53 @@ Dehydrering påvirker kognitiv funksjon før du føler deg tørst.
 
 ### Retningslinjer
 
-- **Start hydrert** - Drikk vann gjennom dagen før konkurranse
-- **Under spill** - Drikk vann regelmessig, ikke vent til du er tørst
-- **Unngå for mye koffein** - Det er vanndrivende
+- **Start med å drikke vann** - Drikk vann i løpet av dagen før konkurransen
+- **Under lek** - Drikk vann regelmessig, ikke vent til du er tørst
+- **Unngå for mye koffein** – Det er vanndrivende
 - **Se etter tegn** - Hodepine, mørk urin, tretthet
 
 ### Hvor mye?
 
-En generell retningslinje: sikte mot blek gul urin. Hvis den er mørk, trenger du mer vann.
+En generell retningslinje: sikt mot blekgul urin. Hvis den er mørk, trenger du mer vann.
 
 ## Lavkarbo-alternativet
 
-Noen presisjonsatleter adopterer lavkarbo- eller ketogene dietter. Teorien:
+Noen presisjonsutøvere følger lavkarbo- eller ketogene dietter. Teorien:
 
 **Potensielle fordeler:**
-- Veldig stabilt blodsukker (ingen topper mulig)
+- Svært stabilt blodsukker (ingen topper mulig)
 - Konsekvent mental klarhet
-- Redusert angst og skjelving
-- Ingen ettermiddags energifall
+- Redusert angst og skjelvinger
+- Ingen energikrasj ettermiddagen
 
 **Hensyn:**
-- Krever tilpasningsperiode (1-2 uker)
+- Krever tilpasningsperiode (1–2 uker)
 - Ikke egnet for alle
-- Krever planlegging og forpliktelse
-- Konsulter en helsepersonell først
+- Krever planlegging og engasjement
+- Rådfør deg med helsepersonell først
 
-Dette er en avansert strategi - ikke nødvendig for alle, men verdt å vurdere hvis blodsukker stabilitet er et betydelig problem for deg.
+Dette er en avansert strategi – ikke nødvendig for alle, men verdt å vurdere hvis blodsukkerstabilitet er et betydelig problem for deg.
 
 ## Praktiske tips
 
 ### Enkle konkurransesnacks
-- Blandede nøtter (usaltede)
+- Blandede nøtter (usaltet)
 - Hardkokte egg
 - Osteterninger
-- Okse- eller kalkunjerky
+- Jerky av oksekjøtt eller kalkun
 - Grønnsaker med hummus
 - Oliven
 
-### Hva man skal unngå
-- Automatsnacks
-- Søte sportsdrikker
+### Hva du bør unngå
+- Salgsautomat snacks
+- Sukkerholdige sportsdrikker
 - Bakverk og bakevarer
 - Godteri og sjokoladebarer
-- De fleste "energi" barer (sjekk sukkerinnhold)
+- De fleste «energi»-barer (sjekk sukkerinnholdet)
 
-## Nøkkelpunkt
+## Viktig konklusjon
 
-> Hjernen din er ditt viktigste verktøy i pétanque. Gi den stabilt drivstoff, ikke rutsjebane-energi.
+> Hjernen din er ditt viktigste verktøy i petanque. Gi den stabil drivstoff, ikke berg-og-dal-bane-energi.
 
-Fokuser på protein, sunne fettstoffer og å holde deg hydrert. Unngå sukkertopper. Din konsentrasjon, fatning og stabile hender vil takke deg.
+Fokuser på protein, sunt fett og å holde deg hydrert. Unngå sukkertopper. Konsentrasjonen, roen og de stødige hendene dine vil takke deg.
 

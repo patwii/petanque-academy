@@ -1,160 +1,183 @@
-# Ernährung für Präzisionsleistung
+# Ernährung für präzise Leistungen
 
-Pétanque ist ein Präzisionssport, kein Ausdauersport. Ihre Ernährungsbedürfnisse unterscheiden sich von denen eines Marathonläufers oder Fußballspielers. Am wichtigsten ist **Gehirntreibstoffstabilität** - Ihren Geist scharf und Ihre Hände während eines langen Wettkampftages stabil zu halten.
+Pétanque ist ein Präzisionssport, kein Ausdauersport. Ihre Ernährungsbedürfnisse unterscheiden sich von denen eines Marathonläufers oder Fußballspielers. Am wichtigsten ist eine **stabile Energieversorgung des Gehirns** – damit Sie den ganzen Wettkampftag über konzentriert und ruhig bleiben.
 
-## Die Herausforderung des Präzisionsathleten
+::: tip Die große Idee
+**Ihr Gehirn ist Ihr wichtigstes Werkzeug beim Boule. Versorgen Sie es mit stabiler Energie, nicht mit Achterbahnfahrten.** Achten Sie auf Eiweiß, gesunde Fette und ausreichend Flüssigkeitszufuhr. Vermeiden Sie Blutzuckerspitzen.
+:::
 
-Im Gegensatz zu hochintensiven Sportarten erfordert Pétanque keine massiven Glykogenspeicher oder schnelle Energieauffüllung. Was es erfordert ist:
+```mermaid
+graph LR
+    A[Zucker/Einfache Kohlenhydrate] --> B[Blutzuckeranstieg]
+    B --> C[Insulinfreisetzung]
+    C --> D[Blutzuckerabfall]
+    D --> E[Adrenalinreaktion]
+    E --> F[Zittern und Angstzustände]
 
-- **Stabiler Blutzucker** - keine Spitzen oder Abstürze
-- **Konstante geistige Klarheit** - Fokus, der den ganzen Tag anhält
-- **Ruhige Hände** - kein Zittern oder Schütteln
-- **Ruhige Nerven** - geringe Angst und Stressreaktion
+    G[Protein und gesunde Fette] --> H[Stabiler Blutzucker]
+    H --> I[Konstante Energie]
+    I --> J[Scharfer Fokus]
+    J --> K[Ruhige Hände]
 
-Ihre Ernährungsstrategie sollte für diese Faktoren optimieren, nicht für rohe Energieabgabe.
+    style A fill:#ffebee
+    style F fill:#ffebee
+    style G fill:#e8f5e9
+    style K fill:#e8f5e9
+```
+
+## Die Herausforderung für Präzisionsathleten
+
+Im Gegensatz zu Hochleistungssportarten benötigt Pétanque keine großen Glykogenspeicher oder eine schnelle Energiezufuhr. Was es erfordert, ist Folgendes:
+
+- **Stabiler Blutzucker** – keine Spitzen oder Abfälle
+- **Konstante geistige Klarheit** – Konzentration, die den ganzen Tag anhält.
+- **Ruhige Hände** – kein Zittern oder Beben
+- **Beruhigte Nerven** – geringe Angst- und Stressreaktion
+
+Ihre Ernährungsstrategie sollte diese Faktoren optimieren, nicht die reine Energieausbeute.
 
 ## Das Problem mit Zucker und einfachen Kohlenhydraten
 
-Viele Athleten greifen standardmäßig zu kohlenhydratreichen Diäten. Für Pétanque-Spieler kann dies tatsächlich die Leistung beeinträchtigen.
+Viele Sportler greifen standardmäßig auf kohlenhydratreiche Ernährung zurück. Für Boule-Spieler kann dies die Leistung sogar beeinträchtigen.
 
 ### Die Blutzucker-Achterbahn
 
 Wenn Sie Zucker oder einfache Kohlenhydrate essen:
-1. Blutzucker steigt schnell an
-2. Insulin wird freigesetzt, um es zu senken
-3. Blutzucker stürzt ab (Hypoglykämie)
-4. Ihr Körper setzt Adrenalin frei, um zu kompensieren
-5. Sie erleben Zittern, Angst und schlechten Fokus
+1. Der Blutzuckerspiegel steigt rapide an
+2. Insulin wird freigesetzt, um den Spiegel zu senken.
+3. Blutzuckerabfall (Hypoglykämie)
+4. Ihr Körper schüttet Adrenalin aus, um dies auszugleichen.
+5. Sie leiden unter Zittern, Angstzuständen und Konzentrationsschwierigkeiten.
 
-**Dies ist das Gegenteil von dem, was Sie für Präzision brauchen.**
+Das ist genau das Gegenteil von dem, was Sie für Präzision benötigen.
 
-### Symptome von Blutzuckerinstabilität
+### Symptome einer Blutzuckerinstabilität
 
-| Symptom | Auswirkung auf Leistung |
+| Symptom | Auswirkungen auf die Leistung |
 |---------|----------------------|
-| Zitternde Hände | Inkonsistente Freigabe |
+| Zitternde Hände | Uneinheitliche Veröffentlichung |
 | Konzentrationsschwierigkeiten | Schlechte Entscheidungsfindung |
-| Reizbarkeit | Teamkonflikt, schlechte Fassung |
-| Müdigkeit nach Mahlzeiten | Nachmittagstief |
+| Reizbarkeit | Teamkonflikte, mangelnde Gelassenheit |
+| Müdigkeit nach dem Essen | Nachmittagstief |
 | Angst | Druckempfindlichkeit |
 | Gehirnnebel | Langsames taktisches Denken |
 
 ## Ein besserer Ansatz: Stabile Energie
 
-Das Ziel ist es, Ihrem Gehirn konsistenten Treibstoff ohne die Achterbahn zu liefern.
+Das Ziel ist es, Ihrem Gehirn gleichmäßig Energie zuzuführen, ohne die üblichen Schwankungen.
 
-### Schlüsselprinzipien
+### Grundprinzipien
 
-1. **Priorisieren Sie Protein und gesunde Fette** - Sie liefern langsame, stetige Energie
-2. **Wählen Sie komplexe Kohlenhydrate statt einfacher** - Wenn Sie Kohlenhydrate essen, wählen Sie solche, die langsam verdaut werden
-3. **Vermeiden Sie Zuckerspitzen** - Besonders vor und während des Wettkampfs
-4. **Bleiben Sie hydratisiert** - Dehydrierung beeinträchtigt die Konzentration erheblich
-5. **Essen Sie regelmäßig** - Lassen Sie sich nicht zu hungrig werden
+1. **Eiweiß und gesunde Fette sollten Vorrang haben** – sie liefern langsame, gleichmäßige Energie.
+2. **Wählen Sie komplexe Kohlenhydrate statt einfacher Kohlenhydrate** – Wenn Sie Kohlenhydrate essen, wählen Sie solche, die langsam verdaut werden.
+3. **Vermeiden Sie Blutzuckerspitzen** – insbesondere vor und während des Wettkampfs
+4. **Achten Sie auf ausreichende Flüssigkeitszufuhr** – Flüssigkeitsmangel beeinträchtigt die Konzentration erheblich.
+5. **Essen Sie regelmäßig** – Lassen Sie es nicht zu, dass Sie zu hungrig werden.
 
 ### Lebensmittel, die helfen
 
-| Lebensmitteltyp | Beispiele | Warum es funktioniert |
+| Lebensmittelart | Beispiele | Warum es funktioniert |
 |-----------|----------|--------------|
 | Protein | Eier, Nüsse, Käse, Fleisch | Langsame Verdauung, stabile Energie |
-| Gesunde Fette | Avocado, Olivenöl, Nüsse | Langanhaltender Treibstoff |
-| Komplexe Kohlenhydrate | Gemüse, Hülsenfrüchte | Ballaststoffe verlangsamen Absorption |
-| Zuckerarme Früchte | Beeren, Äpfel | Nährstoffe ohne Spitze |
+| Gesunde Fette | Avocado, Olivenöl, Nüsse | Langlebiger Kraftstoff |
+| Komplexe Kohlenhydrate | Gemüse, Hülsenfrüchte | Ballaststoffe verlangsamen die Absorption |
+| zuckerarme Früchte | Beeren, Äpfel | Nährstoffe ohne Spitzenwerte |
 
-### Lebensmittel zu begrenzen
+### Lebensmittel, die man einschränken sollte
 
-| Lebensmitteltyp | Beispiele | Warum es problematisch ist |
+| Lebensmittelart | Beispiele | Warum das problematisch ist |
 |-----------|----------|---------------------|
-| Zucker | Süßigkeiten, Limonade, Gebäck | Schnelle Spitze und Absturz |
-| Weißbrot/Pasta | Sandwiches, Nudelgerichte | Schnelle Umwandlung in Zucker |
+| Zucker | Süßigkeiten, Limonade, Gebäck | Rasanter Anstieg und Absturz |
+| Weißbrot/Nudeln | Sandwiches, Pastagerichte | Schnelle Umwandlung in Zucker |
 | Fruchtsaft | Orangensaft, Smoothies | Konzentrierter Zucker |
-| Energy-Drinks | Die meisten kommerziellen Marken | Zucker + Koffein-Absturz |
+| Energy-Drinks | Die meisten Handelsmarken | Zucker- und Koffein-Crash |
 
-## Wettkampftag Ernährung
+## Ernährung am Wettkampftag
 
-### Vor dem Wettkampf
+### Vor dem Wettbewerb
 
 **2-3 Stunden vorher:**
-- Ausgewogene Mahlzeit mit Protein, Fett und Gemüse
-- Vermeiden Sie schwere Kohlenhydrate, die Schläfrigkeit verursachen könnten
+- Ausgewogene Mahlzeit mit Eiweiß, Fett und Gemüse
+- Vermeiden Sie kohlenhydratreiche Lebensmittel, die Schläfrigkeit verursachen könnten.
 - Beispiel: Eier mit Gemüse oder Salat mit Hähnchen
 
 **1 Stunde vorher:**
-- Leichter Snack bei Bedarf
-- Nüsse, Käse oder eine kleine Portion Protein
-- Vermeiden Sie alles Süße
+- Bei Bedarf einen kleinen Snack.
+- Nüsse, Käse oder eine kleine Portion Eiweiß
+- Vermeiden Sie alles Zuckerische
 
-### Während des Wettkampfs
+### Während des Wettbewerbs
 
 **Zwischen den Spielen:**
 - Wasser (am wichtigsten)
-- Kleine Protein-Snacks (Nüsse, Käse, Fleisch)
-- Vermeiden Sie zuckerhaltige Snacks und Getränke
+- Kleine proteinreiche Snacks (Nüsse, Käse, Fleisch)
+- Vermeiden Sie zuckerhaltige Snacks und Getränke.
 
-**Anzeichen, dass Sie essen müssen:**
+**Anzeichen dafür, dass Sie etwas essen müssen:**
 - Konzentrationsschwierigkeiten
 - Reizbarkeit
-- Zittriges Gefühl
+- Ich fühle mich zittrig
 - Kopfschmerzen
 
-### Nach dem Wettkampf
+### Nach dem Wettbewerb
 
-- Auffüllen mit einer ausgewogenen Mahlzeit
+- Stärken Sie Ihre Energiespeicher mit einer ausgewogenen Mahlzeit.
 - Vollständig rehydrieren
-- "Belohnen" Sie sich nicht mit Zucker - es wird Ihre Erholung beeinträchtigen
+- Belohnen Sie sich nicht mit Zucker – das beeinträchtigt Ihre Genesung.
 
-## Hydratation
+## Flüssigkeitszufuhr
 
-Dehydrierung beeinträchtigt die kognitive Funktion, bevor Sie Durst verspüren.
+Dehydrierung beeinträchtigt die kognitive Funktion, bevor man Durst verspürt.
 
 ### Richtlinien
 
-- **Starten Sie hydratisiert** - Trinken Sie den ganzen Tag vor dem Wettkampf Wasser
-- **Während des Spiels** - Nippen Sie regelmäßig Wasser, warten Sie nicht bis Sie durstig sind
-- **Vermeiden Sie übermäßiges Koffein** - Es ist ein Diuretikum
-- **Achten Sie auf Anzeichen** - Kopfschmerzen, dunkler Urin, Müdigkeit
+- **Gut hydriert in den Wettkampf starten** - Trinken Sie den ganzen Tag über vor dem Wettkampf Wasser.
+- **Während des Spielens** – Trinken Sie regelmäßig kleine Schlucke Wasser, warten Sie nicht, bis Sie durstig sind.
+- **Übermäßigen Koffeinkonsum vermeiden** – Koffein wirkt harntreibend.
+- **Achten Sie auf folgende Anzeichen:** – Kopfschmerzen, dunkler Urin, Müdigkeit
 
 ### Wie viel?
 
-Eine allgemeine Richtlinie: Streben Sie nach blassgelben Urin. Wenn er dunkel ist, brauchen Sie mehr Wasser.
+Als allgemeine Richtlinie gilt: Der Urin sollte hellgelb sein. Ist er dunkel, benötigen Sie mehr Wasser.
 
-## Die Low-Carb-Option
+## Die kohlenhydratarme Option
 
-Einige Präzisionsathleten übernehmen kohlenhydratarme oder ketogene Diäten. Die Theorie:
+Manche Präzisionssportler setzen auf kohlenhydratarme oder ketogene Diäten. Die Theorie:
 
-**Potenzielle Vorteile:**
-- Sehr stabiler Blutzucker (keine Spitzen möglich)
+**Mögliche Vorteile:**
+- Sehr stabiler Blutzucker (keine Blutzuckerspitzen möglich)
 - Konstante geistige Klarheit
-- Reduzierte Angst und Zittern
-- Keine Nachmittags-Energieabstürze
+- Verringerte Angstzustände und Zittern
+- Kein Energietief am Nachmittag
 
-**Überlegungen:**
-- Erfordert Anpassungszeit (1-2 Wochen)
+**Zu berücksichtigen:**
+- Erfordert eine Eingewöhnungszeit (1-2 Wochen).
 - Nicht für jeden geeignet
 - Erfordert Planung und Engagement
-- Konsultieren Sie zuerst einen Gesundheitsdienstleister
+- Konsultieren Sie zuerst einen Arzt oder eine andere medizinische Fachkraft.
 
-Dies ist eine fortgeschrittene Strategie - nicht für jeden notwendig, aber erwägenswert, wenn Blutzuckerstabilität ein erhebliches Problem für Sie ist.
+Dies ist eine fortgeschrittene Strategie – nicht für jeden notwendig, aber eine Überlegung wert, wenn die Blutzuckerstabilität für Sie ein wichtiges Thema ist.
 
 ## Praktische Tipps
 
-### Einfache Wettkampf-Snacks
+### Einfache Snacks für Wettbewerbe
 - Gemischte Nüsse (ungesalzen)
 - Hartgekochte Eier
 - Käsewürfel
-- Rind- oder Putenfleisch-Jerky
+- Trockenfleisch vom Rind oder Truthahn
 - Gemüse mit Hummus
 - Oliven
 
-### Was zu vermeiden ist
-- Automaten-Snacks
+### Was man vermeiden sollte
+- Snacks aus dem Verkaufsautomaten
 - Zuckerhaltige Sportgetränke
 - Gebäck und Backwaren
-- Süßigkeiten und Schokoladenriegel
-- Die meisten "Energie"-Riegel (Zuckergehalt prüfen)
+- Süßigkeiten und Schokoriegel
+- Die meisten „Energieriegel“ (Zuckergehalt prüfen)
 
 ## Wichtigste Erkenntnis
 
-> Ihr Gehirn ist Ihr wichtigstes Werkzeug im Pétanque. Füttern Sie es mit stabilem Treibstoff, nicht mit Achterbahn-Energie.
+> Beim Boule ist dein Gehirn dein wichtigstes Werkzeug. Gib ihm beständige Energie, keine Achterbahnfahrt der Gefühle.
 
-Konzentrieren Sie sich auf Protein, gesunde Fette und bleiben Sie hydratisiert. Vermeiden Sie Zuckerspitzen. Ihre Konzentration, Fassung und ruhigen Hände werden es Ihnen danken.
+Setzen Sie auf Eiweiß, gesunde Fette und ausreichend Flüssigkeit. Vermeiden Sie Blutzuckerspitzen. Ihre Konzentration, Ihre Gelassenheit und Ihre ruhige Hand werden es Ihnen danken.
 

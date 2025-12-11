@@ -2,6 +2,38 @@
 
 At the elite level, technical skill is assumed. What separates winners from the rest is tactical intelligence - knowing which throw to attempt and when. The best players read the game several moves ahead and exploit every advantage.
 
+::: tip The Core Principle
+**At elite level, the difference is rarely technique - it's decision-making.** The team that makes fewer tactical errors wins.
+:::
+
+## Quick Decision Framework
+
+```mermaid
+graph TD
+    A[Your Turn] --> B{Are you holding?}
+    B -->|Yes| C{Opponent has boules?}
+    B -->|No| D{Can you point closer?}
+
+    C -->|Yes| E[Wait & Plan]
+    C -->|No| F{Safe to add points?}
+
+    F -->|Yes| G[Add points carefully]
+    F -->|No| H[Play safe/block]
+
+    D -->|Yes, high %| I[Point]
+    D -->|Maybe| J{Can you shoot?}
+    D -->|No| K[Move jack or block]
+
+    J -->|Yes, >60%| L[Shoot]
+    J -->|No| K
+
+    style B fill:#e3f2fd
+    style C fill:#e3f2fd
+    style D fill:#fff3e0
+    style F fill:#fff3e0
+    style J fill:#ffebee
+```
+
 ## The Tactical Mindset
 
 ### Think in Probabilities
@@ -39,6 +71,15 @@ Factors to consider:
 
 ## Core Tactical Principles
 
+::: tip The 6 Tactical Principles
+1. **Control the Jack** - Position is power
+2. **Distance & Surface Strategy** - Adapt to conditions
+3. **Dictate the Game Style** - Force your strengths
+4. **Manage Risk vs. Reward** - Match risk to situation
+5. **Use Boules Wisely** - Sometimes concede 1 to avoid 3
+6. **Think Ahead** - Visualize next 2-3 moves
+:::
+
 ### Principle 1: Control the Jack
 
 The team that controls the jack position has a significant advantage.
@@ -63,20 +104,33 @@ The team that controls the jack position has a significant advantage.
 
 The optimal balance between pointing and shooting depends heavily on distance and terrain:
 
-**Short distance (6-7m):**
-- Favor shooting more often
-- Easier to hit targets at close range
-- Pointing advantage is smaller
+::: info Distance Strategy
+**Short (6-7m):** Favor shooting - easier to hit at close range
+**Medium (7-9m):** Surface matters most
+- Smooth surface → shoot more
+- Rough surface → point more
 
-**Medium distance (7-9m):**
-- Surface matters most here
-- Easy/smooth surface → shoot more (good footing, predictable bounces)
-- Hard/rough surface → point more (shooting becomes less reliable)
+**Long (9-11m):** Favor pointing - shooting accuracy drops significantly
+:::
 
-**Long distance (9-11m):**
-- Favor pointing over shooting
-- Shooting accuracy drops significantly at distance
-- Only shoot if you have a very high success rate or no other option
+```mermaid
+graph LR
+    A[Distance] --> B[6-7m Short]
+    A --> C[7-9m Medium]
+    A --> D[9-11m Long]
+
+    B --> E[Shoot More]
+    C --> F{Surface?}
+    D --> G[Point More]
+
+    F -->|Smooth| H[Shoot More]
+    F -->|Rough| I[Point More]
+
+    style E fill:#ffcdd2
+    style H fill:#ffcdd2
+    style I fill:#c8e6c9
+    style G fill:#c8e6c9
+```
 
 **Your personal shooting percentage:**
 - If you shoot at 75%+ success rate, shoot more often
@@ -200,6 +254,43 @@ At elite level, scouting matters. Know your opponents before you play.
 ## In This Section
 
 - **[Probability-Based Decisions](/en/education/tactics/probability)** - Using math to make better choices
+
+## Summary: All Tactical Rules
+
+::: tip Rule #1: The Probability Rule
+**Choose throws where success probability justifies the risk.**
+Consider: success rate, reward if successful, cost if failed
+:::
+
+::: tip Rule #2: The Jack Control Rule
+**The team that controls jack position has the advantage.**
+Use jack placement to exploit opponent weaknesses and favor your strengths
+:::
+
+::: tip Rule #3: The Distance Rule
+**Short distance favors shooting, long distance favors pointing.**
+Medium distance: surface quality determines the balance
+:::
+
+::: tip Rule #4: The Style Rule
+**Force the game into your team's strongest style.**
+If you're strong shooters, shoot more. Don't waste your advantage.
+:::
+
+::: tip Rule #5: The Boule Management Rule
+**Sometimes conceding 1 point is better than risking 3.**
+Know when to cut your losses and save boules for the next end
+:::
+
+::: tip Rule #6: The Thinking Ahead Rule
+**Visualize the next 2-3 moves from both teams.**
+What's their best response? How does this set up your next throw?
+:::
+
+::: tip Rule #7: The Scouting Rule
+**Know your opponents before you play.**
+Track their preferences, success rates, and pressure responses
+:::
 
 ## Key Takeaway
 

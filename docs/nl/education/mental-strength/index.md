@@ -1,120 +1,189 @@
 # Mentale kracht
 
-Mentale kracht is wat spelers die goed presteren tijdens training scheidt van degenen die goed presteren wanneer het ertoe doet. Het is het vermogen om met druk om te gaan, terug te veren van tegenslagen en focus te behouden tijdens lange competities.
+Mentale kracht is wat spelers die goed presteren tijdens de training onderscheidt van spelers die goed presteren wanneer het erop aankomt. Het is het vermogen om met druk om te gaan, tegenslagen te verwerken en de focus te behouden tijdens lange wedstrijden.
+
+::: tip Het kernprincipe
+**Mentale kracht gaat niet over het uitschakelen van zenuwen of het nooit maken van fouten. Het gaat erom goed te presteren ondanks die fouten.** Je kunt niet controleren wat er gebeurt. Je kunt wel controleren hoe je erop reageert.
+:::
+
+```mermaid
+graph TD
+    A[Druksituatie] --> B{Mental Strength?}
+    B -->|Weak| C[Negatieve gedachten]
+    B -->|Strong| D[Voorbereidingsroutine]
+
+    C --> E[De spanning neemt toe]
+    E --> F[Prestaties dalen]
+    F --> G[Meer druk]
+    G --> C
+
+    D --> H[Focus op het proces]
+    H --> I[Vertrouwenstraining]
+    I --> J[Voer het goed uit.]
+    J --> K[Het zelfvertrouwen groeit.]
+
+    style C fill:#ffcdd2
+    style E fill:#ffcdd2
+    style F fill:#ffcdd2
+    style G fill:#ffcdd2
+    style D fill:#c8e6c9
+    style H fill:#c8e6c9
+    style I fill:#c8e6c9
+    style J fill:#a5d6a7
+    style K fill:#a5d6a7
+```
 
 ## Wat is mentale kracht?
 
 Mentale kracht omvat:
-- **Zelfvertrouwen:** Geloven in je vermogen
-- **Focus:** Aandacht behouden op wat ertoe doet
-- **Veerkracht:** Terugveren van fouten
-- **Kalmte:** Kalm blijven onder druk
-- **Motivatie:** Inspanning volhouden in de tijd
+- **Zelfvertrouwen:** Geloven in je eigen kunnen.
+- **Focus:** De aandacht gericht houden op wat belangrijk is.
+- **Veerkracht:** Herstellen van fouten
+- **Kalmte bewaren:** Rustig blijven onder druk
+- **Motivatie:** Het volhouden van inspanning gedurende langere tijd
 
-Dit zijn geen vaste eigenschappen - het zijn vaardigheden die je kunt ontwikkelen.
+Dit zijn geen vaststaande eigenschappen, maar vaardigheden die je kunt ontwikkelen.
 
 ## De mentale eisen van pétanque
 
-Pétanque heeft unieke mentale uitdagingen:
+Petanque kent unieke mentale uitdagingen:
 
 | Uitdaging | Waarom het moeilijk is |
 |-----------|--------------|
 | Tijd tussen worpen | Gelegenheid voor negatieve gedachten |
 | Zichtbare resultaten | Iedereen ziet je fouten |
-| Teamformaat | Druk om partners niet teleur te stellen |
-| Lange competities | Mentale vermoeidheid gedurende vele uren |
-| Spannende wedstrijden | Hoge inzet bij enkele worpen |
-| Momentum-schommelingen | Emotionele achtbaan |
+| Teamopstelling | De druk om partners niet teleur te stellen |
+| Lange wedstrijden | Mentale vermoeidheid gedurende vele uren |
+| Spannende wedstrijden | Er staat veel op het spel bij individuele worpen. |
+| Momentumschommelingen | Een emotionele achtbaan. |
 
 ## Mentale kracht opbouwen
 
-### 1. Zelfvertrouwen ontwikkelen
+### 1. Ontwikkel zelfvertrouwen
 
-Zelfvertrouwen komt van:
-- **Voorbereiding:** Weten dat je het werk hebt gedaan
-- **Eerder succes:** Je momenten herinneren waarop je goed presteerde
+Zelfvertrouwen komt voort uit:
+- **Voorbereiding:** Weten dat je het werk al gedaan hebt
+- **Succes uit het verleden:** Terugdenken aan momenten waarop je goed presteerde
 - **Positieve zelfspraak:** Hoe je tegen jezelf praat
-- **Lichaamstaal:** Rechtop staan, bewegen met doel
+- **Lichaamstaal:** Rechtop staan, doelgericht bewegen
 
-**Zelfvertrouwensbouwers:**
-- Houd een succesjournaal bij
+**Vertrouwensversterkers:**
+- Houd een succesdagboek bij
 - Visualiseer succesvolle prestaties
-- Bereid je grondig voor op competities
-- Gebruik zelfverzekerde lichaamstaal (het beïnvloedt je geest)
+- Bereid je grondig voor op wedstrijden.
+- Gebruik zelfverzekerde lichaamstaal (het heeft invloed op je gemoedstoestand).
 
 ### 2. Beheers je zelfspraak
 
-De stem in je hoofd is enorm belangrijk.
+De stem in je hoofd is ontzettend belangrijk.
 
 **Destructieve zelfspraak:**
-- "Ik mis deze altijd"
-- "Ik ga falen"
-- "Mijn teamgenoten rekenen op mij" (druk)
-- "Dat was verschrikkelijk"
+- &quot;Ik mis deze altijd.&quot;
+- &quot;Ik ga stikken&quot;
+- &quot;Mijn teamgenoten rekenen op me&quot; (druk)
+- &quot;Dat was vreselijk&quot;
 
 **Constructieve zelfspraak:**
-- "Ik heb deze worp eerder gemaakt"
-- "Vertrouw op mijn training"
-- "Eén worp tegelijk"
-- "Volgende worp, nieuwe start"
+- &quot;Ik heb deze worp al eerder gemaakt.&quot;
+- &quot;Vertrouw op mijn training&quot;
+- &quot;Eén worp tegelijk&quot;
+- &quot;Volgende worp, een nieuwe start&quot;
 
-**Je zelfspraak veranderen:**
-1. Merk op wat je tegen jezelf zegt
-2. Daag negatieve uitspraken uit
-3. Vervang door realistische, nuttige alternatieven
-4. Oefen totdat het automatisch wordt
+**Verander je innerlijke dialoog:**
+1. Let op wat je tegen jezelf zegt.
+2. Betwist negatieve beweringen.
+3. Vervang door realistische, nuttige alternatieven.
+4. Oefen tot het automatisch gaat.
 
-### 3. Veerkracht opbouwen
+### 3. Bouw veerkracht op
 
 Veerkracht is het vermogen om te herstellen van tegenslagen.
 
-**De veerkrachtige mindset:**
-- Fouten zijn informatie, geen falen
-- Eén slechte worp definieert je niet
-- Tegenslagen zijn tijdelijk
-- Je kunt altijd goed reageren op wat er gebeurt
+**De veerkrachtige mentaliteit:**
+- Fouten zijn informatie, geen mislukking.
+- Eén slechte worp bepaalt niet wie je bent.
+- Tegenslagen zijn tijdelijk.
+- Je kunt altijd goed reageren op wat er gebeurt.
 
-**Veerkracht opbouwen:**
-- Oefen herstel van fouten tijdens training
-- Gebruik de SOAS-methode (Stop, Observeer, Accepteer, Laat los)
-- Focus op reactie, niet op de gebeurtenis
-- Ontwikkel een kort geheugen voor slechte worpen
+**Het opbouwen van veerkracht:**
+- Oefen het herstellen van fouten tijdens de training.
+- Gebruik de SOAS-methode (Stop, Observe, Accept, Slip).
+- Focus op de reactie, niet op de gebeurtenis.
+- Ontwikkel een kort geheugen voor slechte worpen.
 
 ### 4. Beheer je energie
 
-Mentale kracht vereist energiebeheer:
+Mentale kracht vereist energiemanagement:
 
 **Fysieke energie:**
-- Slaap goed voor competities
-- Eet goed (stabiele bloedsuiker)
+- Slaap goed voor wedstrijden.
+- Eet gezond (stabiele bloedsuikerspiegel)
 - Blijf gehydrateerd
-- Beweeg tussen wedstrijden (zit niet te lang)
+- Beweeg tussen de spellen (blijf niet te lang zitten).
 
 **Mentale energie:**
-- Neem pauzes wanneer mogelijk
-- Analyseer niet te veel tussen worpen
-- Bewaar intense focus voor wanneer je het nodig hebt
-- Heb herstelroutines
+- Neem pauzes wanneer dat mogelijk is.
+- Analyseer de situatie tussen de worpen niet te veel.
+- Bewaar je intense concentratie voor de momenten dat je het echt nodig hebt.
+- Volg herstelroutines.
 
-## De zelfvertrouwen-competentie-lus
+## De vertrouwen-competentie-cyclus
 
+::: info De positieve cyclus
+```mermaid
+graph LR
+    A[Betere voorbereiding] --> B[Meer vertrouwen]
+    B --> C[Betere prestaties]
+    C --> D[Meer vertrouwen]
+    D --> A
+
+    style A fill:#e3f2fd
+    style B fill:#c8e6c9
+    style C fill:#fff9c4
+    style D fill:#c8e6c9
 ```
-Betere voorbereiding → Meer zelfvertrouwen → Betere prestatie → Meer zelfvertrouwen → ...
-```
 
-Deze lus werkt beide kanten op. Bouw het op door:
-1. Kwaliteitstraining (bouwt competentie op)
-2. Voortgang bijhouden (bouwt zelfvertrouwen op)
+**Bouw het als volgt op:**
+1. Kwalitatief hoogwaardige praktijk (bouwt competentie op)
+2. Voortgang bijhouden (vergroot het zelfvertrouwen)
 3. Succesvolle prestaties (versterkt beide)
+:::
 
-## In dit gedeelte
+## In deze sectie
 
-- **[Omgaan met druk](/nl/education/mental-strength/handling-pressure)** - Technieken voor situaties met hoge inzet
-- **[Pre-worp routine](/nl/education/mental-strength/pre-shot-routine)** - Je prestatie-trigger opbouwen
+- **[Omgaan met druk](/en/education/mental-strength/handling-pressure)** - Technieken voor situaties met hoge inzet
+- **[Voorbereidingsroutine](/en/education/mental-strength/pre-shot-routine)** - Je prestatietrigger opbouwen
 
-## Kernpunt
+## Samenvatting: Regels voor mentale kracht
 
-> Mentale kracht gaat niet over het elimineren van zenuwen of nooit fouten maken. Het gaat over goed presteren ondanks hen.
+::: tip Regel #1: De routineregel
+**Consistente voorbereidingsroutines leiden tot topprestaties.**
+Steeds dezelfde routine = betrouwbare trigger voor een flowtoestand
+:::
 
-Je kunt niet controleren wat er gebeurt. Je kunt controleren hoe je reageert.
+::: tip Regel #2: De resetregel
+**Ontwikkel een routine van 10 seconden om na een fout de situatie te herstellen.**
+Fysieke reset (diep ademhalen, schouderrollen) + mentale reset (SOAS-methode)
+:::
+
+::: tip Regel #3: De vertrouwenslusregel
+**Betere voorbereiding → Meer zelfvertrouwen → Betere prestaties.**
+De cyclus werkt twee kanten op. Bouw hem op door kwalitatief goede oefening en het bijhouden van de voortgang.
+:::
+
+::: tip Regel #4: De zelfspraakregel
+**Praat tegen jezelf zoals je tegen een teamgenoot zou praten.**
+Ondersteunend, constructief, gericht op wat er moet gebeuren (niet op wat er mis is gegaan).
+:::
+
+::: tip Regel nr. 5: De regel voor energiebeheer
+**Bewaar je intense concentratie voor de momenten dat je die nodig hebt.**
+Analyseer niet te veel tussen de worpen door. Spaar je mentale energie voor de uitvoering.
+:::
+
+## Belangrijkste conclusie
+
+> Mentale kracht gaat niet over het uitschakelen van zenuwen of het nooit maken van fouten. Het gaat erom goed te presteren ondanks die zenuwen.
+
+Je kunt niet bepalen wat er gebeurt. Je kunt wel bepalen hoe je erop reageert.
 

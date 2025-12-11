@@ -1,173 +1,195 @@
 # Métodos de entrenamiento
 
-Cuando tu técnica es sólida, ¿qué practicas? Aquí es donde muchos jugadores se estancan: siguen practicando técnica cuando el crecimiento real está en otra parte.
+Cuando tu técnica es sólida, ¿qué practicas? Aquí es donde muchos jugadores se estancan: siguen practicando la técnica cuando el verdadero crecimiento reside en otra área.
+
+::: tip La gran idea
+**La mayoría de los jugadores se estancan porque siguen practicando la técnica cuando el verdadero crecimiento está en otra parte.** Los jugadores de élite entrenan la adaptabilidad, la toma de decisiones y la fortaleza mental, no solo la mecánica.
+:::
+
+```mermaid
+graph TD
+    A[Evolución del entrenamiento] --> B[Principiante: ejercicios técnicos]
+    B --> C[Intermedio: Práctica aleatoria]
+    C --> D[Avanzado: Simulación de presión]
+    D --> E[Élite: Entrenamiento mental]
+
+    style A fill:#e3f2fd
+    style B fill:#f5f5f5
+    style C fill:#fff4e1
+    style D fill:#e8f5e9
+    style E fill:#fff4e1
+```
 
 ## Más allá de la repetición técnica
 
-La mayoría de los jugadores entrenan repitiendo lanzamientos. Eso es importante para principiantes, pero los jugadores avanzados necesitan más:
+La mayoría de los jugadores entrenan repitiendo lanzamientos. Esto es importante para los principiantes, pero los jugadores avanzados necesitan más:
 
-| Tipo de entrenamiento | Qué desarrolla | Cuándo usar |
+| Tipo de entrenamiento | Lo que desarrolla | Cuándo usarlo |
 |--------------|------------------|-------------|
-| Ejercicios técnicos | Mecánica, forma | Aprender nuevas habilidades, corregir problemas |
-| Práctica aleatoria | Adaptabilidad, toma de decisiones | Preparación para competición |
+| ejercicios técnicos | Mecánica, forma | Aprender nuevas habilidades, solucionar problemas |
+| Práctica aleatoria | Adaptabilidad, toma de decisiones | Preparación para la competición |
 | Simulación de presión | Fortaleza mental | Antes de eventos importantes |
-| Entrenamiento mental | Enfoque, recuperación, confianza | Continuo, a menudo descuidado |
+| Entrenamiento mental | Concentración, recuperación y confianza | En curso, a menudo descuidado |
 
 ## La pirámide de entrenamiento
 
-```
-         Competición
-            ↑
-      Simulación de partido
-            ↑
-    Práctica bajo presión
-            ↑
-   Práctica aleatoria/variada
-            ↑
-  Práctica técnica bloqueada
+```mermaid
+graph TD
+    A[Competencia] --> B[Simulación de partidos]
+    B --> C[Práctica de presión]
+    C --> D[Práctica aleatoria/variada]
+    D --> E[Práctica técnica bloqueada]
+
+    style A fill:#fff4e1
+    style B fill:#e8f5e9
+    style C fill:#e3f2fd
+    style D fill:#f5f5f5
+    style E fill:#f5f5f5
 ```
 
-La mayoría de los jugadores pasan demasiado tiempo en la base. Los jugadores de élite trabajan en todos los niveles.
+::: warning Error común
+**La mayoría de los jugadores pasan demasiado tiempo en la base.** Los jugadores de élite trabajan en todos los niveles de la pirámide, con énfasis en los niveles superiores a medida que avanzan.
+:::
 
-## Práctica bloqueada vs. aleatoria
+## Práctica bloqueada vs. práctica aleatoria
 
 ### Práctica bloqueada
-Repetir el mismo lanzamiento muchas veces:
+Repite el mismo lanzamiento muchas veces:
 - 20 puntos desde 7 metros
-- 20 tiros al mismo objetivo
+- 20 disparos al mismo objetivo
 - Misma distancia, mismo lanzamiento
 
-**Bueno para:** Aprendizaje inicial, construir confianza, calentamiento
-**Limitación:** No se transfiere bien a la competición
+**Bueno para:** Aprendizaje inicial, desarrollo de confianza, calentamiento.
+**Limitación:** No se transfiere bien a la competencia.
 
 ### Práctica aleatoria
-Variar todo:
+Varía todo:
 - Diferentes distancias en cada lanzamiento
-- Alternar apuntar y tirar
+- Apuntar y disparar alternativamente
 - Cambiar objetivos constantemente
 
-**Bueno para:** Preparación para competición, construir adaptabilidad
-**Se siente:** Más difícil, más errores, menos "productivo"
-**Realidad:** Mejor retención a largo plazo y transferencia
+**Bueno para:** Preparación para competiciones, desarrollo de adaptabilidad.
+**Sensación:** Más difícil, más errores, menos &quot;productivo&quot;
+**Realidad:** Mejor retención y transferencia a largo plazo
 
 ### La investigación
 
-Los estudios muestran consistentemente:
+Los estudios muestran consistentemente que:
 - La práctica bloqueada se siente mejor (mejora rápida visible)
-- La práctica aleatoria produce mejor rendimiento en competición
-- La "lucha" de la práctica aleatoria es donde ocurre el aprendizaje
+- La práctica aleatoria produce un mejor rendimiento en la competición
+- La &quot;lucha&quot; de la práctica aleatoria es donde ocurre el aprendizaje.
 
 ## Simulación de presión
 
-No puedes manejar la presión de la competición si nunca la experimentas en el entrenamiento.
+No puedes manejar la presión de la competencia si nunca la experimentas en el entrenamiento.
 
-### Crear presión en la práctica
+### Creando presión en la práctica
 
 **Consecuencias:**
-- Flexiones por fallos
-- El perdedor paga el café
+- Flexiones para los fallos
+- El perdedor compra café
 - Los puntos cuentan para algo
 
 **Escenarios:**
-- Situaciones de "debe hacer"
-- Abajo 12-10, necesita anotar
-- Última bola del juego
+- Situaciones &quot;imprescindibles&quot;
+- Abajo 12-10, necesitamos anotar
+- Última bola del partido
 
 **Audiencia:**
-- Practicar con gente mirando
-- Grabarte en video
-- Anunciar lo que intentas hacer
+- Practica observando a la gente
+- Grábate en vídeo
+- Anuncia lo que estás intentando hacer
 
 **Fatiga:**
-- Practicar cuando estás cansado
-- Final de sesión larga
-- Después de ejercicio físico
+- Practica cuando estés cansado
+- Fin de una larga sesión
+- Después del ejercicio físico
 
 ### La escalera de tiro
 
-Un ejercicio de presión clásico:
-1. Comenzar a 6 metros
-2. Golpear el objetivo = retroceder un metro
-3. Fallar = avanzar un metro (o empezar de nuevo)
-4. Objetivo: Alcanzar 10 metros
+Un clásico taladro de presión:
+1. Empezar a 6 metros
+2. Dar en el objetivo = retroceder un metro
+3. Señorita = avanzar un metro (o empezar de nuevo)
+4. Objetivo: alcanzar los 10 metros
 
-Esto crea presión natural a medida que progresas.
+Esto crea una presión natural a medida que avanzas.
 
 ## Sesiones de entrenamiento mental
 
-Dedica tiempo específicamente a habilidades mentales:
+Dedica tiempo específicamente a las habilidades mentales:
 
 ### Sesión de visualización (15-20 min)
 1. Encuentra un lugar tranquilo
 2. Cierra los ojos
 3. Visualízate en una competición
-4. Ve lanzamientos exitosos en detalle
+4. Ver lanzamientos exitosos en detalle
 5. Siente la confianza y el flujo
-6. Practica manejar momentos de presión
+6. Practica el manejo de momentos de presión
 
-### Práctica de rutina pre-lanzamiento
-- Practica tu rutina sin lanzar
-- Enfócate en las transiciones mentales
-- Construye el hábito de preparación consistente
+### Práctica de rutina previa al disparo
+- Practica tu rutina sin tirar
+- Centrarse en las transiciones mentales
+- Desarrollar el hábito de la preparación constante
 
 ### Práctica de recuperación
-- Comete errores intencionalmente en la práctica
+- Cometer errores intencionalmente en la práctica
 - Practica tu respuesta SOAS
-- Construye el hábito de reinicio mental rápido
+- Desarrolla el hábito del reinicio mental rápido
 
-## Estructurar tu semana de entrenamiento
+## Estructurando tu semana de entrenamiento
 
-### Ejemplo: Amateur serio (6 horas/semana)
+### Ejemplo: Aficionado serio (6 horas/semana)
 
-| Día | Duración | Enfoque |
+| Día | Duración | Enfocar |
 |-----|----------|-------|
-| Lunes | 1,5 h | Técnico: Ejercicios de apuntar |
-| Miércoles | 1,5 h | Técnico: Ejercicios de tiro |
-| Viernes | 1 h | Mental: Visualización, práctica de rutina |
-| Sábado | 2 h | Juego de partido con elementos de presión |
+| Lunes | 1,5 horas | Técnico: Ejercicios de apuntamiento |
+| Miércoles | 1,5 horas | Técnico: Ejercicios de tiro |
+| Viernes | 1 hora | Mental: Visualización, práctica rutinaria |
+| Sábado | 2 horas | Juego de partidos con elementos de presión |
 
 ### Ejemplo: Jugador competitivo (10 horas/semana)
 
-| Día | Duración | Enfoque |
+| Día | Duración | Enfocar |
 |-----|----------|-------|
-| Lunes | 2 h | Técnico: Apuntar (bloqueado → aleatorio) |
-| Martes | 1 h | Entrenamiento mental + visualización |
-| Miércoles | 2 h | Técnico: Tirar (bloqueado → aleatorio) |
-| Jueves | 1 h | Revisión de video + trabajo mental |
-| Viernes | 2 h | Simulación de presión, escenarios de juego |
-| Sábado | 2 h | Competición o juego de partido |
+| Lunes | 2 horas | Técnico: Apuntar (bloqueado → aleatorio) |
+| Martes | 1 hora | Entrenamiento mental + visualización |
+| Miércoles | 2 horas | Técnico: Disparo (bloqueado → aleatorio) |
+| Jueves | 1 hora | Revisión de vídeo + trabajo mental |
+| Viernes | 2 horas | Simulación de presión, escenarios de juego. |
+| Sábado | 2 horas | Competición o juego de partidos |
 
 ## Principios de entrenamiento
 
 ### 1. Calidad sobre cantidad
-- 30 minutos enfocados superan 2 horas de repetición sin sentido
-- Detente cuando el enfoque cae
-- Mejor terminar temprano que practicar malos hábitos
+- 30 minutos de concentración superan 2 horas de repetición sin sentido
+- Detenerse cuando el enfoque disminuye
+- Es mejor terminar temprano que practicar malos hábitos.
 
 ### 2. Práctica deliberada
-- Ten un objetivo específico para cada sesión
-- Trabaja en el límite de tu habilidad
-- Obtén retroalimentación (video, compañero, resultados)
-- Ajusta basándote en lo que aprendes
+- Tenga un objetivo específico para cada sesión
+- Trabaja al límite de tus capacidades
+- Obtener retroalimentación (video, socio, resultados)
+- Ajuste en función de lo que aprenda
 
 ### 3. La recuperación importa
-- Los días de descanso son parte del entrenamiento
-- El sueño afecta el rendimiento significativamente
-- La fatiga mental es real - respétala
+- Los días de descanso son parte del entrenamiento.
+- El sueño afecta significativamente el rendimiento
+- La fatiga mental es real: respétala
 
-### 4. Rastrea todo
-- Lleva un registro de entrenamiento
-- Anota qué funciona y qué no
-- Revisa regularmente
-- Ajusta tu plan basándote en datos
+### 4. Seguimiento de todo
+- Mantenga un registro de entrenamiento
+- Tenga en cuenta lo que funciona y lo que no.
+- Revisar periódicamente
+- Ajuste su plan en función de los datos
 
 ## En esta sección
 
-- **[Ejercicios de entrenamiento](/es/education/training/drills)** - Ejercicios específicos para diferentes habilidades
+- **[Ejercicios de entrenamiento](/es/educacion/entrenamiento/ejercicios)** - Ejercicios específicos para diferentes habilidades
 
 ## Conclusión clave
 
-> Cómo entrenas determina cómo rindes. Entrena como quieres jugar.
+> Tu entrenamiento determina tu rendimiento. Entrena como quieres jugar.
 
-Mezcla tu entrenamiento. Incluye trabajo mental. Crea presión. Rastrea tu progreso.
+Combina tu entrenamiento. Incluye trabajo mental. Crea presión. Monitorea tu progreso.
 

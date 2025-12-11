@@ -2,6 +2,25 @@
 
 The SMART framework transforms vague wishes into actionable goals. Let's look at each element in detail, with specific examples for pétanque.
 
+::: tip The Big Idea
+**Vague goals lead to vague results.** SMART goals create clarity, action, and measurable progress. Transform "I want to get better" into specific targets you can actually achieve.
+:::
+
+```mermaid
+graph LR
+    A[Vague Goal] --> B[No Clear Action]
+    B --> C[No Progress]
+
+    D[SMART Goal] --> E[Clear Action Plan]
+    E --> F[Measurable Progress]
+    F --> G[Achievement]
+
+    style A fill:#ffebee
+    style C fill:#ffebee
+    style D fill:#e8f5e9
+    style G fill:#fff4e1
+```
+
 ## S - Specific
 
 A specific goal answers these questions:

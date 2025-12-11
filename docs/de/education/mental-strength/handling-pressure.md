@@ -1,167 +1,191 @@
-# Umgang mit Druck
+# Handhabungsdruck
 
-Druck ist Teil des Wettbewerbs. Das Ziel ist nicht, ihn zu eliminieren - das ist unmöglich. Das Ziel ist, trotzdem gut zu performen und ihn sogar zu Ihrem Vorteil zu nutzen.
+Druck gehört zum Wettbewerb dazu. Es geht nicht darum, ihn zu eliminieren – das ist unmöglich. Es geht darum, trotz des Drucks gute Leistungen zu erbringen und ihn sogar zu seinem Vorteil zu nutzen.
+
+::: tip Die große Idee
+**Der Druck verschwindet nicht mit der Erfahrung – man lernt nur besser damit umzugehen.** Die besten Spieler sind nicht ruhig; sie verstehen es, ihre Erregung produktiv zu nutzen.
+:::
+
+```mermaid
+graph TD
+    A[Drucksituation] --> B{Your Response}
+    B -->|Anxiety| C[Leistungseinbrüche]
+    B -->|Excitement| D[Die Leistung steigt]
+
+    C --> E[Negative Gedanken]
+    C --> F[Spannung]
+    C --> G[Schwache Konzentration]
+
+    D --> H[Energetisiert]
+    D --> I[Fokussiert]
+    D --> J[Zuversichtlich]
+
+    style A fill:#fff4e1
+    style B fill:#e3f2fd
+    style C fill:#ffebee
+    style D fill:#e8f5e9
+```
 
 ## Druck verstehen
 
-### Was erzeugt Druck?
-- Hohe Einsätze (wichtiges Spiel, entscheidender Wurf)
+### Wodurch wird Druck erzeugt?
+- Hoher Einsatz (wichtiges Spiel, entscheidender Wurf)
 - Beobachtet werden (Publikum, Teamkollegen)
 - Erwartungen (Ihre und die anderer)
-- Unsicherheit (knappe Punktzahl, unbekannte Gegner)
-- Zeit (läuft ab, zu langes Warten)
+- Unsicherheit (knappes Ergebnis, unbekannte Gegner)
+- Zeit (läuft ab, wartet zu lange)
 
 ### Was Druck mit Ihrem Körper macht
-Wenn Sie Druck spüren, reagiert Ihr Körper:
+Wenn Sie Druck verspüren, reagiert Ihr Körper:
 - Herzfrequenz steigt
-- Atmung wird flach
-- Muskeln spannen sich an
-- Hände können zittern
-- Fokus verengt sich (manchmal zu sehr)
+- Die Atmung wird flach
+- Muskeln angespannt
+- Die Hände können zittern
+- Der Fokus verengt sich (manchmal zu sehr).
 
-Dies ist Ihr Körper, der sich auf Aktion vorbereitet. Es ist nicht schlecht - es ist Energie, die Sie nutzen können.
+Dein Körper bereitet sich auf eine Belastung vor. Das ist nichts Schlechtes – es ist Energie, die du nutzen kannst.
 
-## Druck neu rahmen
+## Umstrukturierungsdruck
 
-### Druck als Aufregung
+### Druck als Erregung
 
-Die körperlichen Empfindungen von Angst und Aufregung sind fast identisch. Der Unterschied liegt darin, wie Sie sie interpretieren.
+Die körperlichen Empfindungen von Angst und Aufregung sind nahezu identisch. Der Unterschied liegt in der Interpretation dieser Empfindungen.
 
-**Angst-Interpretation:** "Ich bin nervös, etwas Schlimmes könnte passieren"
-**Aufregung-Interpretation:** "Ich bin energiegeladen, das ist mir wichtig"
+**Interpretation der Angst:** „Ich bin nervös, es könnte etwas Schlimmes passieren.“
+**Interpretation der Begeisterung:** „Ich bin voller Energie, das ist mir wichtig.“
 
-**Versuchen Sie dies:** Wenn Sie Druck spüren, sagen Sie zu sich selbst: "Ich bin aufgeregt" statt "Ich bin nervös."
+**Versuchen Sie Folgendes:** Wenn Sie sich unter Druck gesetzt fühlen, sagen Sie zu sich selbst: „Ich bin aufgeregt“ anstatt „Ich bin nervös“.
 
 ### Druck als Privileg
 
-Nur wichtige Momente erzeugen Druck. Wenn Sie ihn spüren, befinden Sie sich in einer Situation, die zählt.
+Nur wichtige Momente erzeugen Druck. Wenn du ihn spürst, befindest du dich in einer Situation, die von Bedeutung ist.
 
-> "Druck ist ein Privileg - er kommt nur zu denen, die ihn verdienen." - Billie Jean King
+> „Druck ist ein Privileg – er wird nur denen zuteil, die ihn sich verdienen.“ – Billie Jean King
 
-## Techniken für Hochdruck-Momente
+## Techniken für Hochdruckmomente
 
 ### 1. Atemkontrolle
 
-Ihr Atem ist der schnellste Weg, Ihren Zustand zu ändern.
+Dein Atem ist der schnellste Weg, deinen Zustand zu verändern.
 
 **Die 4-7-8-Technik:**
-1. Einatmen für 4 Zählungen
-2. Halten für 7 Zählungen
-3. Ausatmen für 8 Zählungen
+1. Vier Sekunden lang einatmen.
+2. Halten Sie die Position für 7 Sekunden.
+3. Atmen Sie 8 Sekunden lang aus.
 4. 2-3 Mal wiederholen
 
-**Schneller Reset (im Kreis):**
+**Schnellreset (im Kreis):**
 - Ein langsamer, tiefer Atemzug
-- Spüren Sie Ihre Füße auf dem Boden
-- Lassen Sie Ihre Schultern beim Ausatmen fallen
+- Spüre deine Füße auf dem Boden
+- Lassen Sie beim Ausatmen die Schultern sinken.
 
 ### 2. Physische Erdung
 
-Verbinden Sie sich mit körperlichen Empfindungen, um aus Ihrem Kopf herauszukommen:
-- Spüren Sie das Gewicht der Kugel
-- Bemerken Sie Ihre Füße auf dem Boden
-- Drücken und lösen Sie Ihre nicht-werfende Hand
+Verbinde dich mit körperlichen Empfindungen, um aus deinen Gedanken herauszukommen:
+- Spüre das Gewicht des Balles
+- Spüre deine Füße auf dem Boden
+- Drücken Sie Ihre Nicht-Wurfhand zusammen und lassen Sie sie wieder los.
 - Rollen Sie Ihre Schultern zurück
 
-### 3. Fokus-Verengung
+### 3. Fokusverengung
 
-In Druck-Momenten fokussieren Sie sich nur auf das Wesentliche:
-- Nicht die Punktzahl
+In Drucksituationen sollten Sie sich nur auf das Wesentliche konzentrieren:
+- Nicht das Ergebnis
 - Nicht das Publikum
-- Nicht was passieren könnte
+- Nicht das, was passieren könnte
 - Nur dieser Wurf, dieses Ziel, dieser Moment
 
-**Stichwörter:** "Hier. Jetzt. Dies."
+**Schlüsselworte:** „Hier. Jetzt. Dies.“
 
-### 4. Prozess-Fokus
+### 4. Prozessorientierung
 
-Wechseln Sie vom Ergebnis zum Prozess:
+Verlagerung vom Ergebnis zum Prozess:
 
-**Ergebnis-Fokus (erzeugt Druck):**
-- "Ich muss das schaffen"
-- "Wenn ich verfehle, verlieren wir"
-- "Alle schauen zu"
+**Ergebnisorientierung (erzeugt Druck):**
+- &quot;Ich muss das machen.&quot;
+- „Wenn ich verfehle, verlieren wir.“
+- &quot;Alle schauen zu.&quot;
 
-**Prozess-Fokus (reduziert Druck):**
-- "Folge meiner Routine"
-- "Sehe das Ziel"
-- "Vertraue meinem Training"
+**Prozessfokus (reduziert Druck):**
+- &quot;Folge meiner Routine&quot;
+- &quot;Ziel im Auge behalten&quot;
+- &quot;Vertraue meinem Training&quot;
 
-### 5. Das Linke-Hand-Drücken
+### 5. Der Linkshänder-Griff
 
-Für Rechtshänder, die linke Hand für 10-15 Sekunden drücken:
+Für Rechtshänder: Drücken Sie Ihre linke Hand 10-15 Sekunden lang zusammen.
 - Aktiviert die rechte Gehirnhälfte
-- Beruhigt analytisches Überdenken
-- Hilft beim Zugang zur automatischen Ausführung
+- Beruhigt analytisches Grübeln
+- Hilft beim Zugriff auf die automatische Ausführung
 
-Verwenden Sie dies, wenn Sie bemerken, dass Sie zu viel nachdenken.
+Nutze dies, wenn du merkst, dass du zu viel nachdenkst.
 
-## Vorbereitung auf Druck
+## Vorbereitung auf den Druck
 
-### Druck im Training simulieren
+### Druck in der Praxis simulieren
 
-Sie können Wettkampfdruck nicht bewältigen, wenn Sie ihn nie im Training erleben.
+Man kann dem Druck im Wettkampf nicht standhalten, wenn man ihn im Training nie erlebt hat.
 
-**Wege, Trainingsdruck zu erzeugen:**
-- Konsequenzen setzen (Liegestütze für Fehler, Kaffee für Partner kaufen)
-- "Muss-schaffen"-Szenarien erstellen
-- Mit Publikum üben
+**Möglichkeiten, um Übungsdruck zu erzeugen:**
+- Konsequenzen festlegen (Liegestütze bei Fehlern, Kaffee für den Partner/die Partnerin ausgeben)
+- Erstellen Sie „unbedingt umsetzbare“ Szenarien
+- Üben Sie vor Publikum
 - Zeitdruck (Schussuhr)
-- Ermüdung (üben wenn müde)
+- Ermüdung (Üben im müden Zustand)
 
 ### Visualisierung
 
-Proben Sie mental Hochdruck-Situationen:
-1. Schließen Sie Ihre Augen
-2. Stellen Sie sich ein Druck-Szenario detailliert vor
-3. Fühlen Sie die Druck-Empfindungen
-4. Sehen Sie sich selbst, wie Sie es gut bewältigen
-5. Führen Sie erfolgreich in Ihrem Geist aus
+Stresssituationen mental durchspielen:
+1. Schließe deine Augen
+2. Stellen Sie sich ein Druckszenario im Detail vor
+3. Spüre die Druckempfindungen
+4. Sieh dich selbst dabei, wie du gut damit umgehst
+5. In Gedanken erfolgreich ausführen
 
 Tun Sie dies regelmäßig, nicht nur vor Wettkämpfen.
 
-### Bauen Sie eine Druck-Geschichte auf
+### Aufbau einer Druckgeschichte
 
-Verfolgen Sie Zeiten, in denen Sie Druck gut bewältigt haben:
-- Was war die Situation?
+Notieren Sie sich Situationen, in denen Sie gut mit Druck umgegangen sind:
+- Wie war die Situation?
 - Wie haben Sie sich gefühlt?
-- Was haben Sie getan?
+- Was hast du gemacht?
 - Was war das Ergebnis?
 
-Überprüfen Sie dies vor Wettkämpfen, um sich zu erinnern: "Ich habe das schon gemacht."
+Lies dir das vor Wettkämpfen noch einmal durch, um dich daran zu erinnern: „Das habe ich schon einmal gemacht.“
 
-## Während des Wettkampfs
+## Während des Wettbewerbs
 
-### Vor dem Druck-Wurf
-1. Treten Sie zurück, atmen Sie
-2. Erinnern Sie sich an Ihre Routine
-3. Fokussieren Sie auf Prozess, nicht Ergebnis
-4. Verwenden Sie Ihr Triggerwort oder Stichwort
+### Vor dem Druckwurf
+1. Treten Sie einen Schritt zurück, atmen Sie tief durch
+2. Erinnere dich an deine Routine
+3. Konzentriere dich auf den Prozess, nicht auf das Ergebnis.
+4. Verwenden Sie Ihr Auslösewort oder Ihren Hinweis.
 
 ### Im Kreis
-1. Vollenden Sie Ihre Routine genau wie geübt
-2. Fokussieren Sie extern (Ziel, nicht Körper)
-3. Vertrauen Sie Ihrem Training
-4. Loslassen ohne Zögern
+1. Führen Sie Ihr Übungsprogramm genau wie geübt durch.
+2. Fokus nach außen (Ziel, nicht Körper).
+3. Vertraue deinem Training
+4. Ohne Zögern freigeben
 
 ### Nach dem Wurf
-- Akzeptieren Sie das Ergebnis ohne Urteil
-- Wenn gut: kurze Anerkennung, weitermachen
-- Wenn schlecht: SOAS-Methode, Reset für nächsten Wurf
+- Akzeptiere das Ergebnis ohne Wertung.
+- Wenn gut: kurze Bestätigung, weiter geht&#39;s.
+- Bei Fehler: SOAS-Methode, für den nächsten Durchlauf zurücksetzen.
 
-## Häufige Druck-Fehler
+## Häufige Fehler bei der Druckbeaufschlagung
 
 | Fehler | Besserer Ansatz |
 |---------|----------------|
-| Hetzen | Verlangsamen, volle Routine verwenden |
-| Überdenken | Externer Fokus, Training vertrauen |
-| Technik ändern | Bei dem bleiben, was Sie kennen |
-| Auf Ergebnis fokussieren | Auf Prozess fokussieren |
-| Gegen Nervosität kämpfen | Akzeptieren und Energie nutzen |
+| Eile | Langsamer vorgehen, die volle Routine nutzen |
+| Überdenken | Externer Fokus, Vertrauenstraining |
+| Technikwechsel | Bleib bei dem, was du kennst. |
+| Fokus auf das Ergebnis | Fokus auf den Prozess |
+| Nerven bekämpfen | Nimm die Energie an und nutze sie. |
 
-## Kernaussage
+## Wichtigste Erkenntnis
 
-> Druck verschwindet nicht mit Erfahrung. Sie werden nur besser darin, damit zu performen.
+> Der Druck verschwindet nicht mit der Erfahrung. Man lernt nur, besser damit umzugehen.
 
-Die besten Spieler sind nicht ruhig - sie sind geschickt darin, ihre Erregung produktiv zu nutzen.
+Die besten Spieler sind nicht ruhig – sie verstehen es, ihre Erregung produktiv einzusetzen.
 

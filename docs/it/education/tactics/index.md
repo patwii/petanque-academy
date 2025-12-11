@@ -1,13 +1,45 @@
-# Pensiero tattico nella pétanque
+# Pensiero tattico nella boccia
 
-A livello élite, l'abilità tecnica è data per scontata. Ciò che separa i vincitori dal resto è l'intelligenza tattica - sapere quale tiro tentare e quando. I migliori giocatori leggono il gioco diverse mosse in anticipo e sfruttano ogni vantaggio.
+A livello d&#39;élite, l&#39;abilità tecnica è un requisito fondamentale. Ciò che distingue i vincitori dagli altri è l&#39;intelligenza tattica: sapere quale tiro tentare e quando. I giocatori migliori leggono la partita con diverse mosse di anticipo e sfruttano ogni vantaggio.
+
+::: tip Il principio fondamentale
+**A livello d&#39;élite, la differenza raramente è la tecnica, ma la capacità decisionale.** Vince la squadra che commette meno errori tattici.
+:::
+
+## Quadro decisionale rapido
+
+```mermaid
+graph TD
+    A[Il tuo turno] --> B{Are you holding?}
+    B -->|Yes| C{Opponent has boules?}
+    B -->|No| D{Can you point closer?}
+
+    C -->|Yes| E[Aspetta e pianifica]
+    C -->|No| F{Safe to add points?}
+
+    F -->|Yes| G[Aggiungi punti con attenzione]
+    F -->|No| H[Gioca in sicurezza/blocca]
+
+    D -->|Yes, high %| I[Punto]
+    D -->|Forse| J{Can you shoot?}
+    D -->|No| K[Spostare il cricco o il blocco]
+
+    J -->|Yes, >60%| L[Sparare]
+    J -->|No| K
+
+    style B fill:#e3f2fd
+    style C fill:#e3f2fd
+    style D fill:#fff3e0
+    style F fill:#fff3e0
+    style J fill:#ffebee
+```
 
 ## La mentalità tattica
 
-### Pensare in probabilità
+### Pensa in termini di probabilità
 
-Ogni tiro ha una probabilità di successo. Buona tattica significa scegliere tiri dove:
-- La probabilità di successo è abbastanza alta
+Ogni lancio ha una probabilità di successo. Una buona tattica significa scegliere lanci in cui:
+- La probabilità di successo è sufficientemente alta
 - La ricompensa giustifica il rischio
 - Il fallimento non fa troppo male
 
@@ -15,195 +47,254 @@ Ogni tiro ha una probabilità di successo. Buona tattica significa scegliere tir
 - Tiro difficile: 40% di successo, guadagna 3 punti
 - Punto sicuro: 80% di successo, guadagna 1 punto
 
-Quale è meglio? Dipende dal punteggio, dalla situazione e dalla tua fiducia.
+Qual è la scelta migliore? Dipende dal punteggio, dalla situazione e dalla tua sicurezza.
 
-### Considerare tutte le opzioni
+### Considera tutte le opzioni
 
-Prima di ogni tiro, considera:
-1. **Puntare:** Posizionare una boccia vicino al pallino
-2. **Tirare:** Rimuovere una boccia avversaria
-3. **Bloccare:** Posizionare una boccia per ostruire
-4. **Muovere il pallino:** Colpire intenzionalmente il pallino
-5. **Sacrificare:** Accettare una cattiva posizione per preparare dopo
+Prima di ogni lancio, considera:
+1. **Punto:** Posiziona una boccia vicino al jack
+2. **Tiro:** Rimuovi la boccia di un avversario
+3. **Blocco:** Posiziona una boccia per ostacolare
+4. **Spostare il cric:** Colpire intenzionalmente il cric
+5. **Sacrificio:** Accettare una brutta posizione da impostare in seguito
 
-Non scegliere automaticamente l'opzione ovvia. Pensa alle alternative.
+Non affidarti alla scelta ovvia. Valuta le alternative.
 
-### Leggere la situazione
+### Leggi la situazione
 
 Fattori da considerare:
 - Punteggio attuale (chi è in vantaggio, di quanto)
 - Bocce rimanenti (tue e loro)
 - Posizione sul terreno
-- Tendenze dell'avversario
-- Punti di forza della tua squadra
+- Tendenze opposte
+- I punti di forza del tuo team
 
 ## Principi tattici fondamentali
 
-### Principio 1: Controllare il pallino
+::: tip I 6 principi tattici
+1. **Controlla il Jack** - La posizione è potenza
+2. **Strategia di distanza e superficie** - Adattarsi alle condizioni
+3. **Detta lo stile di gioco** - Forza i tuoi punti di forza
+4. **Gestisci il rischio rispetto alla ricompensa** - Adatta il rischio alla situazione
+5. **Usa le bocce con saggezza** - A volte concedi 1 per evitarne 3
+6. **Pensa al futuro** - Visualizza le prossime 2-3 mosse
+:::
 
-La squadra che controlla la posizione del pallino ha un vantaggio significativo.
+### Principio 1: Controllare il Jack
+
+La squadra che controlla la posizione del cricco ha un vantaggio significativo.
 
 **Modi per controllare:**
-- Vincere il diritto di lanciare il pallino
-- Muovere il pallino su terreno favorevole
-- Proteggere il pallino dall'essere mosso
+- Vinci il diritto di lanciare il jack
+- Spostare il cric su un terreno favorevole
+- Proteggere il cric da eventuali spostamenti
 
-**Strategia di posizionamento del pallino:**
-- Pallino corto: Favorisce il tiro, più facile colpire bersagli a breve distanza
-- Pallino lungo: Favorisce il punto, il tiro diventa più difficile
-- Vicino a ostacoli: Crea sfide per gli avversari
+**Strategia di posizionamento del jack:**
+- Jack corto: favorisce il tiro, è più facile colpire i bersagli a distanza ravvicinata
+- Jack lungo: favorisce la puntatura, il tiro diventa più difficile
+- Ostacoli vicini: crea sfide per gli avversari
 
-**Sfruttare le debolezze avversarie:**
-- Osserva la loro tecnica di punto - usano sempre lo stesso arco o stile?
-- Se non possono adattarsi (es. solo rotolare, solo lanciare alto), posiziona il pallino per forzare tiri scomodi
-- Posiziona il pallino a distanze o posizioni che espongono le loro limitazioni
-- Sfrutta una debolezza solo se non la condividi - considera prima i punti di forza della tua squadra
+**Sfrutta le debolezze dell&#39;avversario:**
+- Osserva la loro tecnica di puntamento: usano sempre lo stesso arco o stile?
+- Se non riescono ad adattarsi (ad esempio, solo rotolare, solo lanciare), posizionare il jack per forzare lanci scomodi
+- Posizionare il cric a distanze o posizioni che ne espongano i limiti
+- Sfrutta una debolezza solo se non la condividi: considera prima i punti di forza del tuo team
 
 ### Principio 2: Strategia di distanza e superficie
 
-L'equilibrio ottimale tra puntare e tirare dipende fortemente da distanza e terreno:
+L&#39;equilibrio ottimale tra puntamento e tiro dipende fortemente dalla distanza e dal terreno:
 
-**Distanza breve (6-7m):**
-- Favorire il tiro più spesso
-- Più facile colpire bersagli a breve distanza
-- Il vantaggio del punto è minore
+::: info Strategia della distanza
+**Corto (6-7 m):** Favorisce il tiro: è più facile colpire a distanza ravvicinata
+**Media (7-9 m):** La superficie è ciò che conta di più
+- Superficie liscia → spara di più
+- Superficie ruvida → punta di più
 
-**Distanza media (7-9m):**
-- La superficie conta di più qui
-- Superficie facile/liscia → tirare di più (buon appoggio, rimbalzi prevedibili)
-- Superficie dura/ruvida → puntare di più (il tiro diventa meno affidabile)
+**Lungo (9-11 m):** Puntamento favorevole: la precisione del tiro diminuisce significativamente
+:::
 
-**Distanza lunga (9-11m):**
-- Favorire il punto sul tiro
-- La precisione del tiro cala significativamente a distanza
-- Tirare solo se hai un tasso di successo molto alto o nessun'altra opzione
+```mermaid
+graph LR
+    A[Distanza] --> B[6-7m Corto]
+    A --> C[7-9m Medio]
+    A --> D[9-11 m di lunghezza]
 
-**La tua percentuale personale di tiro:**
-- Se tiri con 75%+ di tasso di successo, tira più spesso
-- Considera di tirare per ridurre i punti avversari (anche se non prendi il comando)
-- Tirare per ridurre le bocce segnanti avversarie (da 3 a 1) è un prezioso controllo dei danni
+    B --> E[Spara di più]
+    C --> F{Surface?}
+    D --> G[Punta di più]
 
-**Tirare come strategia a lungo termine:**
-- Se tiri con tutte le tue bocce, considera il tuo tasso di successo cumulativo
-- Calcola: quando colpisci tutti i tiri, guadagni significativamente più punti
-- Anche mancare alcuni tiri può ridurre i punti avversari
-- Esempio: Manca 1-2 tiri ma rimuovi comunque le minacce, poi guadagna molto quando colpisci tutti
-- Questo è un rischio calcolato - accetta alcune manche perse per vittorie più grandi quando funziona
+    F -->|Smooth| H[Spara di più]
+    F -->|Rough| I[Punta di più]
+
+    style E fill:#ffcdd2
+    style H fill:#ffcdd2
+    style I fill:#c8e6c9
+    style G fill:#c8e6c9
+```
+
+**La tua percentuale di tiri personale:**
+- Se spari con una percentuale di successo del 75%+, spara più spesso
+- Valutare la possibilità di tirare per ridurre i punti dell&#39;avversario (anche se non si è in vantaggio)
+- Tirare per ridurre il punteggio delle bocce dell&#39;avversario (da 3 a 1) è un prezioso metodo per controllare i danni
+
+**Sparare come strategia a lungo termine:**
+- Se spari con tutte le tue bocce, considera il tuo tasso di successo cumulativo
+- Calcola: quando colpisci tutti i tiri, guadagni molti più punti
+- Anche sbagliare qualche tiro può ridurre i punti dell&#39;avversario
+- Esempio: Manca 1-2 colpi ma rimuovi comunque le minacce, quindi ottieni un grande guadagno quando colpisci tutti
+- Questo è un rischio calcolato: accetta alcune estremità perse per ottenere vittorie più grandi quando funziona
 
 ### Principio 3: Dettare lo stile di gioco
 
-A livello élite, la maggior parte dei giocatori può sia puntare che tirare bene. La chiave è forzare il gioco nello stile più forte della tua squadra.
+A livello d&#39;élite, la maggior parte dei giocatori sa sia puntare che tirare bene. La chiave è forzare il gioco nello stile più forte della propria squadra.
 
 **Se la tua squadra ha tiratori forti:**
-- Tira il più possibile - usa il tuo vantaggio
-- Non sprecare la tua forza puntando quando puoi dominare tirando
+- Spara il più possibile - usa il tuo vantaggio
+- Non sprecare la tua forza puntando quando puoi dominare sparando
 - Controlla il gioco rimuovendo le minacce prima che si accumulino
-- Pallino corto-medio mantiene il tiro efficace
+- Il jack corto-medio mantiene efficace lo sparo
 
-**Contro tiratori ugualmente forti:**
-- Nega loro bersagli facili tirando per primo
-- Gioca a lunga distanza per ridurre la percentuale di tiro di tutti
-- La squadra che tira per prima spesso controlla la manche
+**Contro tiratori altrettanto forti:**
+- Impedisci loro di diventare bersagli facili sparando per primi
+- Giocare a lunga distanza per ridurre la percentuale di tiro di tutti
+- La squadra che tira per prima spesso controlla la fine
 
-**Se gli avversari ti superano nel tiro:**
-- Gioca pallino lungo costantemente - anche i tiratori élite calano in percentuale a 10m+
-- Forza una battaglia di punto dove puoi competere
-- Falli tirare ad angoli difficili o attraverso ostacoli
+**Se gli avversari ti superano nei tiri:**
+- Gioca a lungo jack in modo coerente: anche i tiratori d&#39;élite calano la percentuale a 10m+
+- Forza una battaglia di puntamento in cui puoi competere
+- Fateli sparare da angoli difficili o attraverso ostacoli
 
-### Principio 4: Gestire rischio vs. ricompensa
+### Principio 4: Gestire il rischio rispetto alla ricompensa
 
 | Situazione | Tolleranza al rischio |
 |-----------|---------------|
-| In vantaggio comodamente | Bassa - proteggi il tuo vantaggio |
-| Partita stretta | Media - rischi calcolati |
-| Significativamente indietro | Alta - bisogno di correre rischi |
-| Ultima manche | Dipende dal differenziale di punteggio |
+| Avanti comodamente | Basso - proteggi il tuo vantaggio |
+| Chiudi il gioco | Medio - rischi calcolati |
+| Significativamente indietro | Alto - bisogna correre dei rischi |
+| Fine finale | Dipende dalla differenza di punteggio |
 
-### Principio 5: Usa le tue bocce saggiamente
+### Principio 5: Usa le tue bocce con saggezza
 
-La gestione delle bocce separa i giocatori élite:
-- Quando l'avversario finisce le bocce, decidi attentamente: aggiungere punti o giocare sicuro?
-- Quando sei indietro, calcola se puoi realisticamente riprendere il punto
-- A volte concedere 1 punto è meglio che sprecare bocce e cederne 3
-- Tieni traccia delle bocce rimanenti - tue e loro - in ogni momento
+La gestione delle bocce distingue i giocatori d&#39;élite:
+- Quando l&#39;avversario finisce le bocce, bisogna decidere attentamente: aggiungere punti o giocare sul sicuro?
+- Quando sei in svantaggio, calcola se puoi realisticamente riprendere il punto
+- A volte concedere 1 punto è meglio che sprecare bocce e concederne 3
+- Tieni sempre traccia delle bocce rimanenti, tue e loro.
 
-### Principio 6: Pensare diverse mosse in anticipo
+### Principio 6: Pensa a più mosse in anticipo
 
-Pensiero élite:
-- Prima di tirare, visualizza le prossime 2-3 bocce di entrambe le squadre
-- Qual è la migliore risposta del tuo avversario se hai successo? Se fallisci?
-- Come prepara questo tiro il tuo prossimo?
-- Considera lo scenario di fine gioco dalla posizione attuale
+Pensiero d&#39;élite:
+- Prima di lanciare, visualizza le prossime 2-3 bocce di entrambe le squadre
+- Qual è la risposta migliore del tuo avversario se hai successo? E se fallisci?
+- In che modo questo lancio prepara il tuo prossimo?
+- Considera lo scenario finale dalla posizione attuale
 
 ## Situazioni tattiche comuni
 
-### Stai vincendo e l'avversario ha bocce rimanenti
+### Stai tenendo la palla e l&#39;avversario ha ancora delle bocce
 
-Devi aspettare - è il loro turno di tirare. Usa questo tempo per:
-- Analizzare cosa probabilmente faranno
-- Pianificare la tua risposta ai loro possibili tiri
-- Rimanere concentrato e pronto
+Devi aspettare: è il loro turno di lanciare. Usa questo tempo per:
+- Analizza cosa è probabile che facciano
+- Pianifica la tua risposta ai loro possibili lanci
+- Rimani concentrato e pronto
 
-### Stai vincendo e l'avversario ha finito le bocce
+### Stai tenendo e l&#39;avversario è senza bocce
 
-Ora puoi giocare le tue bocce rimanenti. **Opzioni:**
-- Aggiungere più punti se puoi farlo in sicurezza
-- Bloccare per proteggere contro il movimento del pallino
-- Giocare sicuro - non rischiare di trasformare una vittoria di 2 punti in una sconfitta
+Ora puoi giocare le bocce rimanenti. **Opzioni:**
+- Aggiungi altri punti se puoi farlo in sicurezza
+- Blocco per proteggere dal movimento del martinetto
+- Gioca in sicurezza: non rischiare di trasformare una vittoria di 2 punti in una sconfitta
 
-**Decisione chiave:** Il rischio di aggiungere punti vale potenzialmente aprire il gioco?
+**Decisione chiave:** Vale la pena rischiare di aggiungere punti aprendo potenzialmente il gioco?
 
-### Non stai vincendo
+### Non stai trattenendo
 
-Devi tirare. **Opzioni:**
-- Puntare più vicino della loro boccia migliore
-- Tirare la loro boccia migliore
-- Muovere il pallino verso le tue bocce
-- Bloccare per limitare il loro punteggio (se non puoi prendere il punto)
+Devi lanciare. **Opzioni:**
+- Punta più vicino della loro migliore boccia
+- Tirano la loro boccia migliore
+- Sposta il jack sulle tue bocce
+- Blocca per limitare il loro punteggio (se non puoi prendere il punto)
 
-**Fattori di decisione:** La tua percentuale di tiro, numero di bocce rimanenti (entrambe le squadre), punteggio attuale
+**Fattori decisionali:** La tua percentuale di tiri, il numero di bocce rimanenti (entrambe le squadre), il punteggio attuale
 
-### Situazioni di ultima boccia
+### Situazioni dell&#39;ultima boccia
 
-Quando hai l'ultima boccia:
-- Pressione massima ma anche controllo massimo
-- Prenditi il tuo tempo - valuta tutte le opzioni
-- Considera: puntare, tirare o muovere il pallino?
-- Esegui con pieno impegno
+Quando hai l&#39;ultima palla:
+- Massima pressione ma anche massimo controllo
+- Prenditi il tuo tempo: valuta tutte le opzioni
+- Considera: puntare, sparare o spostare il cricco?
+- Eseguire con pieno impegno
 
-Quando l'avversario ha l'ultima boccia:
-- Hai fatto quello che potevi - accetta il risultato
-- Se possibile, crea una situazione senza risposta facile per loro
-- Minacce multiple sono meglio di una
+Quando l&#39;avversario ha l&#39;ultima boccia:
+- Hai fatto quello che potevi: accetta il risultato
+- Se possibile, crea una situazione in cui non ci sia una risposta facile per loro
+- Più minacce sono meglio di una
 
 ## Leggere i tuoi avversari
 
-A livello élite, lo scouting conta. Conosci i tuoi avversari prima di giocare.
+A livello d&#39;élite, lo scouting è importante. Conosci i tuoi avversari prima di giocare.
 
 ### Intelligence pre-partita
-- Qual è il loro stile di gioco preferito (squadra di tiro vs punto)?
-- Chi è il loro tiratore più forte? Puntatore?
+- Qual è il loro stile di gioco preferito (squadra che spara contro squadra che punta)?
+- Chi è il loro tiratore più forte? Il Pointer?
 - Quali distanze preferiscono?
 - Come si comportano sotto pressione nelle finali?
 
 ### Osservazione in partita
-- Traccia i loro tassi di successo durante tutta la partita
+- Tieni traccia dei loro tassi di successo durante la partita
 - Nota se qualcuno sta avendo una giornata no
 - Identifica chi gestisce bene la pressione e chi no
-- Aggiusta il tuo posizionamento del pallino in base a ciò che osservi
+- Regola il posizionamento del jack in base a ciò che osservi
 
 ### Sfrutta ciò che trovi
-- Prendi di mira i giocatori più deboli quando possibile
-- Forza il loro tiratore debole a tirare, o il loro puntatore debole a puntare
-- Se qualcuno è in difficoltà, mantieni la pressione su di loro
+- Quando possibile, puntare ai giocatori più deboli
+- Costringere il loro tiratore debole a sparare, o il loro puntatore debole a puntare
+- Se qualcuno è in difficoltà, continua a fargli pressione
 
 ## In questa sezione
 
-- **[Decisioni basate sulla probabilità](/it/education/tactics/probability)** - Usare la matematica per fare scelte migliori
+- **[Decisioni basate sulla probabilità](/it/educazione/tattiche/probabilità)** - Usare la matematica per fare scelte migliori
 
-## Punto chiave
+## Riepilogo: Tutte le regole tattiche
 
-> A livello élite, la differenza è raramente la tecnica - è il processo decisionale. La squadra che fa meno errori tattici vince.
+::: tip Regola n. 1: la regola della probabilità
+**Scegli i lanci in cui la probabilità di successo giustifica il rischio.**
+Considera: tasso di successo, ricompensa in caso di successo, costo in caso di fallimento
+:::
 
-Leggi il gioco. Conosci i tuoi punti di forza. Sfrutta le loro debolezze. Esegui con fiducia.
+::: tip Regola n. 2: la regola del controllo del jack
+**La squadra che controlla la posizione del jack è avvantaggiata.**
+Usa il posizionamento del jack per sfruttare i punti deboli dell&#39;avversario e favorire i tuoi punti di forza
+:::
+
+::: tip Regola n. 3: la regola della distanza
+**La distanza corta favorisce il tiro, la distanza lunga favorisce la mira.**
+Distanza media: la qualità della superficie determina l&#39;equilibrio
+:::
+
+::: tip Regola n. 4: la regola dello stile
+**Imponi al gioco lo stile più forte della tua squadra.**
+Se siete tiratori forti, tirate di più. Non sprecate il vostro vantaggio.
+:::
+
+::: tip Regola n. 5: La regola della gestione delle bocce
+**A volte è meglio concedere 1 punto che rischiarne 3.**
+Sappi quando tagliare le perdite e salvare le bocce per la prossima manche
+:::
+
+::: tip Regola n. 6: La regola del pensare in anticipo
+**Visualizza le prossime 2-3 mosse di entrambe le squadre.**
+Qual è la loro risposta migliore? Come si preannuncia il tuo prossimo lancio?
+:::
+
+::: tip Regola n. 7: La regola dello scouting
+**Conosci i tuoi avversari prima di giocare.**
+Tieni traccia delle loro preferenze, dei tassi di successo e delle risposte alla pressione
+:::
+
+## Conclusione chiave
+
+> A livello d&#39;élite, la differenza raramente è la tecnica, ma la capacità decisionale. Vince la squadra che commette meno errori tattici.
+
+Leggi il gioco. Conosci i tuoi punti di forza. Sfrutta i loro punti deboli. Agisci con sicurezza.
 

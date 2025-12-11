@@ -2,6 +2,35 @@
 
 Here are proven drills used by elite players. Each drill has a specific purpose - choose based on what you need to develop.
 
+::: tip The Big Idea
+**Each drill has a specific purpose.** Don't just throw boules randomly - choose drills that target your weaknesses and support your goals. Track your progress to see improvement.
+:::
+
+```mermaid
+graph TD
+    A[Training Drills] --> B[Pointing Drills]
+    A --> C[Shooting Drills]
+    A --> D[Mental Drills]
+    A --> E[Game Simulation]
+
+    B --> F[Accuracy]
+    B --> G[Distance Control]
+
+    C --> H[Hit Rate]
+    C --> I[Pressure Shooting]
+
+    D --> J[Routine Practice]
+    D --> K[Visualization]
+
+    E --> L[Competition Readiness]
+
+    style A fill:#e8f5e9
+    style B fill:#e3f2fd
+    style C fill:#fff4e1
+    style D fill:#f3e5f5
+    style E fill:#fff4e1
+```
+
 ## Pointing Drills
 
 ### The Alley

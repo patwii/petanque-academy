@@ -1,173 +1,195 @@
 # Treningsmetoder
 
-Når teknikken din er solid, hva trener du? Det er her mange spillere når et platå - de fortsetter å trene teknikk når den virkelige veksten ligger andre steder.
+Når teknikken din er solid, hva øver du på? Det er her mange spillere flater ut – de fortsetter å øve på teknikken når den virkelige veksten ligger et annet sted.
+
+::: tip Den store ideen
+**De fleste spillere stagner fordi de beholder drillteknikken når den virkelige veksten ligger et annet sted.** Elitespillere trener tilpasningsevne, beslutningstaking og mental styrke – ikke bare mekanikk.
+:::
+
+```mermaid
+graph TD
+    A[Treningsevolusjon] --> B[Nybegynner: Tekniske øvelser]
+    B --> C[Middels: Tilfeldig øvelse]
+    C --> D[Avansert: Trykksimulering]
+    D --> E[Elite: Mental trening]
+
+    style A fill:#e3f2fd
+    style B fill:#f5f5f5
+    style C fill:#fff4e1
+    style D fill:#e8f5e9
+    style E fill:#fff4e1
+```
 
 ## Utover teknisk repetisjon
 
 De fleste spillere trener ved å gjenta kast. Det er viktig for nybegynnere, men avanserte spillere trenger mer:
 
-| Treningstype | Hva det utvikler | Når det brukes |
+| Treningstype | Hva den utvikler | Når du skal bruke |
 |--------------|------------------|-------------|
-| Tekniske øvelser | Mekanikk, form | Læring av nye ferdigheter, retting av problemer |
-| Tilfeldig trening | Tilpasningsevne, beslutningstaking | Konkurranseforberedelse |
-| Pressimulering | Mental seighet | Før viktige hendelser |
-| Mental trening | Fokus, gjenoppretting, selvtillit | Løpende, ofte forsømt |
+| Tekniske øvelser | Mekanikk, form | Lære nye ferdigheter, løse problemer |
+| Tilfeldig øvelse | Tilpasningsevne, beslutningstaking | Konkurranseforberedelser |
+| Trykksimulering | Mental styrke | Før viktige hendelser |
+| Mental trening | Fokus, gjenoppretting, selvtillit | Pågående, ofte neglisjert |
 
 ## Treningspyramiden
 
+```mermaid
+graph TD
+    A[Konkurranse] --> B[Kampsimulering]
+    B --> C[Trykkøvelse]
+    C --> D[Tilfeldig/variert øvelse]
+    D --> E[Blokkert teknisk øvelse]
+
+    style A fill:#fff4e1
+    style B fill:#e8f5e9
+    style C fill:#e3f2fd
+    style D fill:#f5f5f5
+    style E fill:#f5f5f5
 ```
-         Konkurranse
-            ↑
-      Kampsimulering
-            ↑
-    Presstrening
-            ↑
-   Tilfeldig/Variert trening
-            ↑
-  Blokkert teknisk trening
-```
 
-De fleste spillere bruker for mye tid i bunnen. Elitespillere jobber på alle nivåer.
+::: warning Vanlig feil
+**De fleste spillere bruker for mye tid nederst.** Elitespillere jobber på alle nivåer i pyramiden, med vekt på de øverste nivåene etter hvert som de avanserer.
+:::
 
-## Blokkert vs. tilfeldig trening
+## Blokkert vs. tilfeldig øvelse
 
-### Blokkert trening
-Gjenta samme kast mange ganger:
+### Blokkert praksis
+Gjenta det samme kastet mange ganger:
 - 20 poeng fra 7 meter
-- 20 skudd på samme mål
+- 20 skudd mot samme mål
 - Samme avstand, samme kast
 
 **Bra for:** Innledende læring, bygge selvtillit, oppvarming
-**Begrensning:** Overfører ikke godt til konkurranse
+**Begrensning:** Overføres ikke godt til konkurranse
 
-### Tilfeldig trening
-Variere alt:
-- Forskjellige avstander ved hvert kast
-- Veksle mellom poeng og skyting
-- Bytte mål konstant
+### Tilfeldig øvelse
+Varier alt:
+- Ulike avstander per kast
+- Alternativ peking og skyting
+- Endre mål stadig
 
-**Bra for:** Konkurranseforberedelse, bygge tilpasningsevne
-**Føles:** Vanskeligere, flere feil, mindre "produktivt"
-**Virkelighet:** Bedre langsiktig bevaring og overføring
+**Bra for:** Konkurranseforberedelse, utvikling av tilpasningsevne
+**Følelser:** Vanskeligere, flere feil, mindre «produktiv»
+**Realitet:** Bedre langsiktig oppbevaring og overføring
 
 ### Forskningen
 
 Studier viser konsekvent:
 - Blokkert trening føles bedre (rask forbedring synlig)
-- Tilfeldig trening produserer bedre konkurranseprestasjon
-- "Kampen" i tilfeldig trening er hvor læring skjer
+- Tilfeldig trening gir bedre konkurranseprestasjon
+- Det er i «kampen» med tilfeldig øvelse at læring skjer.
 
-## Pressimulering
+## Trykksimulering
 
-Du kan ikke håndtere konkurransepress hvis du aldri opplever det i trening.
+Du takler ikke konkurransepress hvis du aldri opplever det på trening.
 
-### Skape treningspress
+### Skaper øvingspress
 
 **Konsekvenser:**
-- Armhevinger for bomskudd
+- Push-ups for bom
 - Taperen kjøper kaffe
 - Poeng teller mot noe
 
-**Scenarier:**
-- "Må lage" situasjoner
-- Bak 12-10, må score
-- Siste kule i kampen
+**Scenarioer:**
+- «Må gjøres»-situasjoner
+- Under 12-10, må score
+- Kampens siste kuppel
 
 **Publikum:**
-- Trene med folk som ser på
-- Ta opp deg selv på video
-- Kunngjøre hva du prøver å gjøre
+- Øv med å se på folk
+- Spill inn deg selv på video
+- Annonser hva du prøver å gjøre
 
-**Tretthet:**
-- Trene når du er sliten
-- Slutten av lang økt
+**Utmattelse:**
+- Tren når du er sliten
+- Slutt på lang økt
 - Etter fysisk trening
 
 ### Skytestigen
 
-En klassisk pressøvelse:
-1. Start ved 6 meter
-2. Treffer målet = flytt tilbake en meter
-3. Bommer = flytt frem en meter (eller start på nytt)
+En klassisk trykkboremaskin:
+1. Start på 6 meter
+2. Treffe målet = gå tilbake én meter
+3. Bomme = gå én meter fremover (eller starte på nytt)
 4. Mål: Nå 10 meter
 
-Dette skaper naturlig press etter hvert som du går fremover.
+Dette skaper et naturlig press etter hvert som du utvikler deg.
 
 ## Mentale treningsøkter
 
-Dediker tid spesifikt til mentale ferdigheter:
+Sett spesielt av tid til mentale ferdigheter:
 
-### Visualiseringsøkt (15-20 min)
-1. Finn et rolig sted
+### Visualiseringsøkt (15–20 min)
+1. Finn et stille sted
 2. Lukk øynene
-3. Visualiser deg selv ved en konkurranse
+3. Visualiser deg selv i en konkurranse
 4. Se vellykkede kast i detalj
-5. Kjenn selvtilliten og flyten
-6. Øv håndtering av pressøyeblikk
+5. Føl selvtilliten og flyten
+6. Øv på å håndtere pressmomenter
 
-### Før-kast rutine trening
-- Øv rutinen din uten å kaste
+### Rutinemessig øvelse før skyting
+- Øv på rutinen din uten å kaste
 - Fokuser på de mentale overgangene
-- Bygg vanen med konsistent forberedelse
+- Bygg opp vanen med regelmessig forberedelse
 
-### Gjenopprettingsøvelse
-- Gjør bevisst feil i trening
-- Øv din SOAS respons
-- Bygg vanen med rask mental tilbakestilling
+### Restitusjonspraksis
+- Gjør bevisst feil i praksis
+- Øv på SOAS-svaret ditt
+- Bygg opp vanen med rask mental tilbakestilling
 
-## Strukturere din treningsuke
+## Strukturering av treningsuken din
 
 ### Eksempel: Seriøs amatør (6 timer/uke)
 
 | Dag | Varighet | Fokus |
 |-----|----------|-------|
-| Mandag | 1,5 t | Teknisk: Poengøvelser |
-| Onsdag | 1,5 t | Teknisk: Skyteøvelser |
-| Fredag | 1 t | Mental: Visualisering, rutine trening |
-| Lørdag | 2 t | Kampspill med presselementer |
+| mandag | 1,5 time | Teknisk: Spissebor |
+| onsdag | 1,5 time | Teknisk: Skyteøvelser |
+| fredag | 1 time | Mental: Visualisering, rutinetrening |
+| lørdag | 2 timer | Matchspill med presselementer |
 
 ### Eksempel: Konkurransespiller (10 timer/uke)
 
 | Dag | Varighet | Fokus |
 |-----|----------|-------|
-| Mandag | 2 t | Teknisk: Poeng (blokkert → tilfeldig) |
-| Tirsdag | 1 t | Mental trening + visualisering |
-| Onsdag | 2 t | Teknisk: Skyting (blokkert → tilfeldig) |
-| Torsdag | 1 t | Videogjennomgang + mentalt arbeid |
-| Fredag | 2 t | Pressimulering, kampscenarier |
-| Lørdag | 2 t | Konkurranse eller kampspill |
+| mandag | 2 timer | Teknisk: Peking (blokkert → tilfeldig) |
+| tirsdag | 1 time | Mental trening + visualisering |
+| onsdag | 2 timer | Teknisk: Skyting (blokkert → tilfeldig) |
+| torsdag | 1 time | Videoanmeldelse + mentalt arbeid |
+| fredag | 2 timer | Trykksimulering, spillscenarier |
+| lørdag | 2 timer | Konkurranse eller kampspill |
 
 ## Treningsprinsipper
 
-### 1. Kvalitet over kvantitet
+### 1. Kvalitet fremfor kvantitet
 - 30 fokuserte minutter slår 2 timer med tankeløs repetisjon
-- Stopp når fokus faller
-- Bedre å slutte tidlig enn å øve dårlige vaner
+- Stopp når fokuset faller
+- Bedre å slutte tidlig enn å praktisere dårlige vaner
 
-### 2. Bevisst trening
+### 2. Bevisst praksis
 - Ha et spesifikt mål for hver økt
-- Jobb ved kanten av din evne
-- Få tilbakemelding (video, partner, resultater)
+- Jobb på grensen av din evne
+- Få tilbakemeldinger (video, partner, resultater)
 - Juster basert på hva du lærer
 
-### 3. Gjenoppretting betyr noe
-- Hviledager er en del av trening
-- Søvn påvirker prestasjon betydelig
-- Mental tretthet er reell - respekter den
+### 3. Gjenoppretting er viktig
+- Hviledager er en del av treningen
+- Søvn påvirker ytelsen betydelig
+- Mental utmattelse er reell – respekter det
 
 ### 4. Spor alt
-- Før en treningslogg
-- Merk hva som fungerer og hva som ikke gjør det
+- Hold en treningslogg
+- Legg merke til hva som fungerer og hva som ikke fungerer
 - Gjennomgå regelmessig
 - Juster planen din basert på data
 
-## I denne seksjonen
+## I denne delen
 
-- **[Treningsøvelser](/no/education/training/drills)** - Spesifikke øvelser for forskjellige ferdigheter
+- **[Treningsøvelser](/no/utdanning/trening/øvelser)** - Spesifikke øvelser for ulike ferdigheter
 
-## Nøkkelpunkt
+## Viktig konklusjon
 
-> Hvordan du trener bestemmer hvordan du presterer. Tren som du vil spille.
+> Hvordan du trener avgjør hvordan du presterer. Tren slik du vil spille.
 
-Bland treningen din. Inkluder mentalt arbeid. Skap press. Spor fremgangen din.
+Varier treningen din. Inkluder mentalt arbeid. Skap press. Følg fremgangen din.
 

@@ -1,0 +1,173 @@
+/* Custom Container Styles - Better visibility in light mode */
+
+/* TIP containers - Green theme */
+:not(.dark) .tip {
+  background-color: #f0fdf4 !important;
+  border-color: #22c55e !important;
+  border-width: 2px !important;
+}
+
+:not(.dark) .tip .custom-block-title {
+  color: #15803d !important;
+  font-weight: 700 !important;
+}
+
+:not(.dark) .tip p,
+:not(.dark) .tip strong {
+  color: #166534 !important;
+}
+
+/* WARNING containers - Yellow/Orange theme */
+:not(.dark) .warning {
+  background-color: #fffbeb !important;
+  border-color: #f59e0b !important;
+  border-width: 2px !important;
+}
+
+:not(.dark) .warning .custom-block-title {
+  color: #d97706 !important;
+  font-weight: 700 !important;
+}
+
+:not(.dark) .warning p,
+:not(.dark) .warning strong {
+  color: #92400e !important;
+}
+
+/* DANGER containers - Red theme */
+:not(.dark) .danger {
+  background-color: #fef2f2 !important;
+  border-color: #ef4444 !important;
+  border-width: 2px !important;
+}
+
+:not(.dark) .danger .custom-block-title {
+  color: #dc2626 !important;
+  font-weight: 700 !important;
+}
+
+:not(.dark) .danger p,
+:not(.dark) .danger strong {
+  color: #991b1b !important;
+}
+
+/* INFO containers - Blue theme */
+:not(.dark) .info {
+  background-color: #eff6ff !important;
+  border-color: #3b82f6 !important;
+  border-width: 2px !important;
+}
+
+:not(.dark) .info .custom-block-title {
+  color: #1d4ed8 !important;
+  font-weight: 700 !important;
+}
+
+:not(.dark) .info p,
+:not(.dark) .info strong {
+  color: #1e40af !important;
+}
+
+/* DETAILS containers - Gray theme */
+:not(.dark) .details {
+  background-color: #f9fafb !important;
+  border-color: #6b7280 !important;
+  border-width: 2px !important;
+}
+
+:not(.dark) .details .custom-block-title {
+  color: #374151 !important;
+  font-weight: 700 !important;
+}
+
+:not(.dark) .details p,
+:not(.dark) .details strong {
+  color: #1f2937 !important;
+}
+
+/* Dark mode - enhance visibility */
+.dark .tip {
+  background-color: #064e3b !important;
+  border-color: #10b981 !important;
+  border-width: 2px !important;
+}
+
+.dark .tip .custom-block-title {
+  color: #6ee7b7 !important;
+  font-weight: 700 !important;
+}
+
+.dark .tip p,
+.dark .tip strong {
+  color: #d1fae5 !important;
+}
+
+.dark .warning {
+  background-color: #451a03 !important;
+  border-color: #f59e0b !important;
+  border-width: 2px !important;
+}
+
+.dark .warning .custom-block-title {
+  color: #fbbf24 !important;
+  font-weight: 700 !important;
+}
+
+.dark .warning p,
+.dark .warning strong {
+  color: #fef3c7 !important;
+}
+
+.dark .danger {
+  background-color: #450a0a !important;
+  border-color: #ef4444 !important;
+  border-width: 2px !important;
+}
+
+.dark .danger .custom-block-title {
+  color: #fca5a5 !important;
+  font-weight: 700 !important;
+}
+
+.dark .danger p,
+.dark .danger strong {
+  color: #fecaca !important;
+}
+
+.dark .info {
+  background-color: #1e3a8a !important;
+  border-color: #3b82f6 !important;
+  border-width: 2px !important;
+}
+
+.dark .info .custom-block-title {
+  color: #93c5fd !important;
+  font-weight: 700 !important;
+}
+
+.dark .info p,
+.dark .info strong {
+  color: #dbeafe !important;
+}
+
+.dark .details {
+  background-color: #1f2937 !important;
+  border-color: #9ca3af !important;
+  border-width: 2px !important;
+}
+
+.dark .details .custom-block-title {
+  color: #e5e7eb !important;
+  font-weight: 700 !important;
+}
+
+.dark .details p,
+.dark .details strong,
+.dark .details li {
+  color: #f3f4f6 !important;
+}
+
+.dark .custom-block-title {
+  font-weight: 700 !important;
+}
+

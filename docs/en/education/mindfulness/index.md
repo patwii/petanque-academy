@@ -2,6 +2,31 @@
 
 Mindfulness is one of the most powerful tools available to athletes. It's not mystical or complicated - it's simply the practice of paying attention to the present moment without judgment.
 
+::: tip The Core Principle
+**Mindfulness isn't about emptying your mind. It's about choosing where to put your attention.** You can't stop thoughts from arising, but you can choose not to follow them.
+:::
+
+```mermaid
+graph TD
+    A[Thought Arises] --> B{Notice it?}
+    B -->|No - Autopilot| C[Get caught in thought]
+    B -->|Yes - Mindful| D[Observe without judgment]
+
+    C --> E[Emotional reaction]
+    E --> F[Performance suffers]
+
+    D --> G[Let it go]
+    G --> H[Return to present]
+    H --> I[Stay focused]
+
+    style C fill:#ffcdd2
+    style E fill:#ffcdd2
+    style F fill:#ffcdd2
+    style D fill:#c8e6c9
+    style G fill:#c8e6c9
+    style I fill:#c8e6c9
+```
+
 ## What is Mindfulness?
 
 Mindfulness means being fully present and aware of:
@@ -51,19 +76,25 @@ Mindfulness helps you handle all of these.
 
 ## The Core Skill: Non-Judgmental Awareness
 
-The key word is "non-judgmental." 
+The key word is "non-judgmental."
 
-**Judgmental thinking:**
-- "That was a terrible throw"
-- "I always miss these"
-- "My teammates must be frustrated"
+::: danger Judgmental Thinking (Adds Emotional Weight)
+❌ "That was a terrible throw"
+❌ "I always miss these"
+❌ "My teammates must be frustrated"
 
-**Non-judgmental awareness:**
-- "The throw went left of target"
-- "I notice I'm feeling tense"
-- "My mind is wandering to the score"
+**Result:** Spiral of negative emotions, tension, worse performance
+:::
 
-The difference? Judgment adds emotional weight. Awareness just observes.
+::: tip Non-Judgmental Awareness (Just Observes)
+✅ "The throw went left of target"
+✅ "I notice I'm feeling tense"
+✅ "My mind is wandering to the score"
+
+**Result:** Clear observation, quick recovery, maintain focus
+:::
+
+**The difference?** Judgment adds emotional weight and triggers reactions. Awareness just observes and allows you to respond skillfully.
 
 ## Getting Started
 
@@ -100,16 +131,61 @@ You don't need hours of meditation. Start with these simple practices:
 - Notice thoughts about score/outcome, then let them go
 
 ### After Mistakes
-Use the **SOAS Method**:
-- **S**top - Pause before reacting
-- **O**bserve - What happened? What am I feeling?
-- **A**ccept - It happened. It's done.
-- **S**lip (Let go) - Release it, return to now
+
+::: warning The SOAS Method (Your Reset Tool)
+**S**top - Pause before reacting
+**O**bserve - What happened? What am I feeling?
+**A**ccept - It happened. It's done.
+**S**lip (Let go) - Release it, return to now
+
+**Time needed:** 10 seconds
+**Use it:** After every mistake, bad bounce, or frustrating moment
+:::
+
+```mermaid
+graph LR
+    A[Mistake] --> B[STOP]
+    B --> C[OBSERVE]
+    C --> D[ACCEPT]
+    D --> E[SLIP/Let Go]
+    E --> F[Return to Present]
+    F --> G[Ready for Next Throw]
+
+    style A fill:#ffcdd2
+    style B fill:#fff9c4
+    style C fill:#fff9c4
+    style D fill:#fff9c4
+    style E fill:#c8e6c9
+    style F fill:#c8e6c9
+    style G fill:#a5d6a7
+```
 
 ## In This Section
 
 - **[Techniques](/en/education/mindfulness/techniques)** - Practical exercises you can use
 - **[Daily Practice](/en/education/mindfulness/daily-practice)** - Building mindfulness into your life
+
+## Summary: Mindfulness Rules
+
+::: tip Rule #1: The Awareness Rule
+**Observe without judgment.**
+Notice thoughts and feelings without labeling them as good or bad.
+:::
+
+::: tip Rule #2: The SOAS Rule
+**Stop, Observe, Accept, Slip (let go).**
+Your 10-second reset after mistakes. Use it every time.
+:::
+
+::: tip Rule #3: The Present Rule
+**You can only control this moment, this throw.**
+Past throws are done. Future throws don't exist yet. Be here now.
+:::
+
+::: tip Rule #4: The Practice Rule
+**Start small: 2-5 minutes daily.**
+Consistency beats duration. Daily practice builds the skill.
+:::
 
 ## Key Takeaway
 

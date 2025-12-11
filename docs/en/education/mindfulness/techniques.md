@@ -2,6 +2,34 @@
 
 Here are practical techniques you can use to develop mindfulness. Start with one or two and build from there.
 
+::: tip The Big Idea
+**Mindfulness is a skill, not a talent.** Like pointing or shooting, it improves with practice. Start small, be consistent, and the benefits compound over time.
+:::
+
+```mermaid
+graph TD
+    A[Mindfulness Practice] --> B[Formal Practices]
+    A --> C[Informal Practices]
+    A --> D[Competition-Specific]
+
+    B --> E[Seated Meditation]
+    B --> F[Body Scan]
+    B --> G[Walking Meditation]
+
+    C --> H[Conscious Breathing]
+    C --> I[SOAS Method]
+    C --> J[Mindful Eating]
+
+    D --> K[Pre-Shot Breath]
+    D --> L[Between-Throw Reset]
+    D --> M[Mindfulness Bell]
+
+    style A fill:#e8f5e9
+    style B fill:#e3f2fd
+    style C fill:#fff4e1
+    style D fill:#f3e5f5
+```
+
 ## Formal Practices
 
 These are dedicated mindfulness sessions - time set aside specifically for practice.

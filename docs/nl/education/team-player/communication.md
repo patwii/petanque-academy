@@ -1,203 +1,220 @@
 # Teamcommunicatie
 
-Effectieve communicatie is wat een groep individuen transformeert in een team. In pétanque, waar strategie constant verschuift en de druk hoog is, kan hoe je communiceert de uitkomst bepalen.
+Effectieve communicatie is wat een groep individuen in een team verandert. Bij pétanque, waar de strategie voortdurend verandert en de druk hoog is, kan de manier waarop je communiceert de uitkomst bepalen.
+
+::: tip Het Grote Idee
+**Communicatie is wat individuen in een team verandert.** Duidelijke, specifieke en ondersteunende communicatie onder druk onderscheidt goede teams van geweldige teams.
+:::
 
 ## De communicatiecyclus
 
 Goede teamcommunicatie volgt een cyclus:
 
-```
-Observeren → Delen → Bespreken → Beslissen → Uitvoeren → Evalueren
+```mermaid
+graph LR
+    A[Observeren] --> B[Deel]
+    B --> C[Bespreken]
+    C --> D[Beslissen]
+    D --> E[Uitvoeren]
+    E --> F[Beoordeling]
+    F --> A
+
+    style A fill:#e3f2fd
+    style D fill:#e8f5e9
+    style E fill:#fff4e1
+    style F fill:#f3e5f5
 ```
 
-1. **Observeren:** Opmerken wat er gebeurt (terrein, posities, tegenstanders)
-2. **Delen:** Vertel je teamgenoten wat je ziet
-3. **Bespreken:** Perspectieven en ideeën uitwisselen
-4. **Beslissen:** Overeenkomen over de aanpak
-5. **Uitvoeren:** Het doen met toewijding
-6. **Evalueren:** Leren van het resultaat
+| Stap | Actie | Voorbeeld |
+|------|--------|---------|
+| **Observeer** | Let op wat er gebeurt. | Terrein, posities, tegenstanders |
+| **Deel** | Vertel je teamgenoten wat je ziet. | &quot;De grond loopt daar schuin naar links af.&quot; |
+| **Bespreken** | Wissel perspectieven uit | &quot;Moet ik blokkeren of voor het punt gaan?&quot; |
+| **Beslissen** | Overeenstemming bereiken over de aanpak | &quot;Laten we de hoge lob eens proberen.&quot; |
+| **Uitvoeren** | Doe het met toewijding. | Volledige concentratie op de worp |
+| **Beoordeling** | Leer van het resultaat | &quot;Dat werkte prima&quot; of &quot;Volgende keer...&quot; |
 
-## Wanneer communiceren
+## Wanneer te communiceren
 
 ### Voor elk einde
-- Terrein samen beoordelen
-- Algemene aanpak bespreken
-- Verduidelijken wie wanneer werpt
-- De toon zetten (kalm, gefocust)
+- Beoordeel samen het terrein.
+- Bespreek de algemene aanpak.
+- Maak duidelijk wie er wanneer gooit.
+- Zet de toon (rustig, geconcentreerd)
 
 ### Tijdens het einde
-- Observaties delen ("De grond helt daar naar links")
-- Strategie coördineren ("Moet ik proberen te blokkeren of voor het punt gaan?")
-- Ondersteuning bieden ("Neem je tijd, je hebt dit")
-- Plannen aanpassen naarmate de situatie verandert
+- Deel observaties (&quot;De grond helt daar naar links af&quot;)
+- Coördineer de strategie (&quot;Moet ik proberen te blokkeren of voor het punt gaan?&quot;)
+- Bied steun (&quot;Neem de tijd, je kunt dit&quot;).
+- Pas plannen aan naarmate de situatie verandert.
 
-### Tussen einden
-- Snelle debrief (wat werkte, wat niet)
-- Mentaal resetten
-- Voorbereiden op volgend einde
-- Verbonden blijven als team
+### Tussen de uiteinden
+- Korte nabespreking (wat werkte, wat niet)
+- Mentale reset
+- Bereid je voor op het volgende einde
+- Blijf als team in contact.
 
 ### Na de wedstrijd
-- Volledige debrief (wanneer gepast)
-- Bijdragen erkennen
-- Leerpunten identificeren
-- Relatie behouden
+- Uitgebreide nabespreking (indien van toepassing)
+- Erken de bijdragen
+- Identificeer leerpunten
+- Onderhoud de relatie
 
 ## Hoe te communiceren
 
-### Wees duidelijk en specifiek
+### Wees duidelijk en specifiek.
 
-**Vaag:** "Probeer dichtbij te komen"
-**Duidelijk:** "Richt op de linkerkant van het cochonnet, ongeveer 20cm eruit"
+**Vage omschrijving:** &quot;Probeer dichterbij te komen&quot;
+**Clear:** &quot;Richt op de linkerkant van de jack, ongeveer 20 cm naar buiten&quot;
 
-**Vaag:** "Goede poging"
-**Duidelijk:** "Goed gewicht, net iets links van de lijn"
+**Vage opmerking:** &quot;Goed geprobeerd&quot;
+**Duidelijk:** &quot;Goed gewicht, net iets links van de lijn&quot;
 
 ### Wees constructief
 
-Focus op oplossingen, niet problemen:
+Focus op oplossingen, niet op problemen:
 
-**Probleemgericht:** "Je blijft naar rechts missen"
-**Oplossingsgericht:** "Misschien probeer je iets meer naar links te richten om te compenseren?"
+**Probleemgericht:** &quot;Je schiet steeds naar rechts naast&quot;
+**Oplossingsgericht:** &quot;Misschien iets meer naar links mikken om dat te compenseren?&quot;
 
 ### Wees ondersteunend
 
 Je toon is net zo belangrijk als je woorden:
-- Blijf kalm, zelfs wanneer gefrustreerd
-- Gebruik aanmoedigend lichaamstaal
-- Erken inspanning, niet alleen resultaten
-- Bouw op, breek niet af
+- Blijf kalm, zelfs als je gefrustreerd bent.
+- Gebruik aanmoedigende lichaamstaal.
+- Erken de inspanning, niet alleen de resultaten.
+- Bouw op, breek niet af.
 
-### Luister actief
+### Luister aandachtig
 
-Communicatie is tweerichtingsverkeer:
-- Geef volledige aandacht wanneer teamgenoten spreken
-- Stel verduidelijkende vragen
-- Erken wat je hebt gehoord
-- Onderbreek niet of wijs niet af
+Communicatie is een tweewegsverkeer:
+- Luister aandachtig wanneer teamgenoten spreken.
+- Stel verduidelijkende vragen.
+- Erken wat je hebt gehoord.
+- Niet onderbreken of afwijzen.
 
 ## Communicatie-uitdagingen
 
-### Onenigheid over strategie
+### Meningsverschil over de strategie
 
 **Slechte aanpak:**
-- Aandringen op jouw manier
-- Defensief worden
-- Met tegenzin toegeven
-- Ruziën tijdens de wedstrijd
+- Sta erop dat je je eigen weg volgt.
+- Ga de verdediging in
+- Geef met tegenzin toe
+- Ruzie maken tijdens het spel
 
 **Betere aanpak:**
-1. Deel je perspectief duidelijk
-2. Luister naar het hunne volledig
-3. Bespreek voor- en nadelen kort
-4. Besluit samen (of stel uit naar aangewezen leider)
-5. Verbind je volledig aan de beslissing
-6. Evalueer na de wedstrijd
+1. Deel je perspectief duidelijk.
+2. Luister volledig naar die van hen.
+3. Bespreek de voor- en nadelen kort.
+4. Neem gezamenlijk een besluit (of laat de beslissing over aan de aangewezen leider).
+5. Ga volledig achter de beslissing staan.
+6. Nabespreking na de wedstrijd
 
 ### Na een fout van een teamgenoot
 
 **Wat ze nodig hebben:**
-- Snelle erkenning
+- Snelle bevestiging
 - Toestemming om verder te gaan
-- Vertrouwen dat je hen nog steeds vertrouwt
-- Focus op de volgende worp
+- Het vertrouwen dat je ze nog steeds vertrouwt.
+- Concentreer je op de volgende worp.
 
 **Wat te zeggen:**
-- "Geen probleem, volgende"
-- "Moeilijk, je hebt de volgende"
-- "We zitten er nog in"
-- *Soms is alleen een knikje of klopje genoeg*
+- &quot;Geen probleem, de volgende.&quot;
+- &quot;Jammer dan, maar je krijgt de volgende.&quot;
+- &quot;We zitten er nog steeds middenin.&quot;
+- *Soms is een knikje of een aai al genoeg.*
 
-**Wat NIET te zeggen:**
+**Wat je NIET moet zeggen:**
 - Niets (stilte voelt als oordeel)
-- "Het is oké" (kan afwijzend klinken)
-- Iets over wat er mis ging (niet nu)
-- Zichtbare frustratie (lichaamstaal telt)
+- &quot;Het is oké&quot; (kan afwijzend klinken)
+- Alles over wat er misging (niet nu)
+- Zichtbare frustratie (lichaamstaal is belangrijk)
 
 ### Wanneer je een fout maakt
 
 **Wat te doen:**
-- Korte erkenning ("Mijn fout")
-- Verontschuldig je niet overdreven
-- Maak geen excuses
-- Reset en focus op volgende worp
-- Vertrouw erop dat je teamgenoten je ondersteunen
+- Korte erkenning (&quot;Mijn excuses&quot;)
+- Verontschuldig je niet te vaak.
+- Maak geen excuses.
+- Reset en concentreer je op de volgende worp.
+- Vertrouw erop dat je teamgenoten je steunen.
 
-### Spanning in het team
+### Spanning binnen het team
 
-Als spanning opbouwt tijdens een wedstrijd:
+Als de spanning tijdens een wedstrijd oploopt:
 1. Erken dat het gebeurt
-2. Neem een ademhaling voordat je reageert
-3. Focus op de wedstrijd, niet het conflict
-4. Pak het goed aan na de wedstrijd
+2. Haal even diep adem voordat je antwoordt.
+3. Focus op het spel, niet op het conflict.
+4. Pak het na de wedstrijd op de juiste manier aan.
 5. Laat het je spel niet beïnvloeden
 
-## Niet-verbale communicatie
+## Non-verbale communicatie
 
-Veel teamcommunicatie is niet-verbaal:
+Een groot deel van de teamcommunicatie is non-verbaal:
 
 ### Positieve signalen
 - Oogcontact
 - Knikken
 - Duim omhoog
 - Ontspannen houding
-- Bewegen naar teamgenoten
-- Glimlachen (wanneer gepast)
+- Zich naar teamgenoten toe bewegen
+- Glimlachen (indien gepast)
 
-### Negatieve signalen (Vermijd deze)
+### Negatieve signalen (vermijd deze)
 - Ogen rollen
-- Wegdraaien
+- Zich afwenden
 - Gekruiste armen
 - Zuchten
-- Hoofd schudden
+- Hoofdschudden
 - Gespannen lichaamstaal
 
-**Onthoud:** Je teamgenoten zien alles. Je lichaamstaal beïnvloedt hun vertrouwen en prestatie.
+**Onthoud dit:** Je teamgenoten zien alles. Jouw lichaamstaal beïnvloedt hun zelfvertrouwen en prestaties.
 
-## Communicatiegewoonten opbouwen
+## Communicatievaardigheden ontwikkelen
 
 ### Oefen communicatie
 
-Wacht niet op competitie om te communiceren:
-- Oefen strategische discussies in training
-- Geef elkaar regelmatig feedback
-- Ontwikkel je teamtaal
-- Bouw comfort op met eerlijk gesprek
+Wacht niet tot de concurrentie communiceert:
+- Oefen strategische discussies tijdens de training.
+- Geef elkaar regelmatig feedback.
+- Ontwikkel de teamtaal
+- Creëer een comfortabele sfeer door open en eerlijke gesprekken te voeren.
 
-### Ontwikkel teamsignalen
+### Teamsignalen ontwikkelen
 
-Sommige teams ontwikkelen stenografie:
-- Handsignalen voor strategie
+Sommige teams ontwikkelen een soort steno:
+- Handgebaren voor strategie
 - Codewoorden voor situaties
-- Snelle zinnen met gedeelde betekenis
+- Korte zinnen met een gedeelde betekenis
 
 ### Regelmatige check-ins
 
-Buiten wedstrijden:
+Buiten de wedstrijden om:
 - Hoe werken we samen?
-- Wat gaat goed?
-- Wat zou beter kunnen?
-- Problemen om aan te pakken?
+- Wat gaat er goed?
+- Wat is er nou beter?
+- Zijn er nog zaken die we moeten aanpakken?
 
 ## De rol van de kapitein
 
-Als je team een aangewezen leider heeft:
+Als uw team een aangewezen leider heeft:
 
-**Kapitein verantwoordelijkheden:**
-- Definitieve beslissing wanneer team het niet eens is
-- De toon en energie zetten
-- Teamdynamiek beheren
-- Focus houden tijdens druk
+**Verantwoordelijkheden van de kapitein:**
+- Definitieve beslissing wanneer het team het oneens is.
+- De toon en energie bepalen
+- Het managen van teamdynamiek
+- Geconcentreerd blijven onder druk
 
-**Iedereen anders:**
+**Alle anderen:**
 - Deel je perspectief
-- Ondersteun de beslissing zodra genomen
-- Help teamenergie te behouden
+- Steun de genomen beslissing.
+- Help de teamenergie te behouden.
 - Neem verantwoordelijkheid voor je rol
 
-## Kernpunt
+## Belangrijkste conclusie
 
-> Geweldige teams praten met elkaar, niet over elkaar. Ze communiceren met eerlijkheid, respect en een gedeelde toewijding aan succes.
+> Goede teams praten mét elkaar, niet óver elkaar. Ze communiceren met eerlijkheid, respect en een gezamenlijke inzet voor succes.
 
-Oefen communicatie zoals je werpen oefent. Het is een vaardigheid die verbetert met aandacht.
+Oefen communicatie zoals je werpen oefent. Het is een vaardigheid die verbetert door aandacht.
 

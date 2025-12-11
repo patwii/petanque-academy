@@ -1,224 +1,253 @@
 # Træningsøvelser
 
-Her er dokumenterede øvelser brugt af elitespillere. Hver øvelse har et specifikt formål - vælg baseret på hvad du har brug for at udvikle.
+Her er gennemprøvede øvelser, der bruges af elitespillere. Hver øvelse har et specifikt formål - vælg ud fra, hvad du har brug for at udvikle.
 
-## Point øvelser
+::: tip Den store idé
+**Hver øvelse har et specifikt formål.** Kast ikke bare tilfældigt med kugler - vælg øvelser, der er rettet mod dine svagheder og understøtter dine mål. Spor dine fremskridt for at se forbedringer.
+:::
 
-### Gangen
-**Formål:** Isoler udgivelsesvinkel og liniekonsistens
+```mermaid
+graph TD
+    A[Træningsøvelser] --> B[Spidsboremaskiner]
+    A --> C[Skydeøvelser]
+    A --> D[Mentale øvelser]
+    A --> E[Spilsimulering]
+
+    B --> F[Nøjagtighed]
+    B --> G[Afstandskontrol]
+
+    C --> H[Hitrate]
+    C --> I[Trykskydning]
+
+    D --> J[Rutinemæssig praksis]
+    D --> K[Visualisering]
+
+    E --> L[Konkurrenceparathed]
+
+    style A fill:#e8f5e9
+    style B fill:#e3f2fd
+    style C fill:#fff4e1
+    style D fill:#f3e5f5
+    style E fill:#fff4e1
+```
+
+## Spidsboremaskiner
+
+### Gyden
+**Formål:** Isolering af udløsningsvinkel og linjekonsistens
 
 **Opsætning:**
-- Placer to markører 30-40cm fra hinanden, cirka 1 meter fra cirklen
+- Placer to markører 30-40 cm fra hinanden, cirka 1 meter fra cirklen
 - Målet er 7-9 meter væk
 
-**Øvelse:**
-- Kast gennem "gangen" (mellem markørerne)
-- Ethvert kast der rammer en markør er "dødt"
-- Fokuser på konsistent udgivelsespunkt
+**Bore:**
+- Kast gennem &quot;gyden&quot; (mellem markørerne)
+- Ethvert kast, der rammer en markør, er &quot;dødt&quot;
+- Fokuser på et ensartet udløsningspunkt
 
 **Progression:**
-- Gør gangen smallere efterhånden som du forbedrer dig
-- Variere målafstanden
+- Indsnævre gyden, efterhånden som du forbedrer dig
+- Varier målafstanden
 - Tilføj en specifik landingszone
 
 ### Præcisionszoner
-**Formål:** Udvikl nøjagtighed til specifikke områder
+**Formål:** Udvikle præcision inden for specifikke områder
 
 **Opsætning:**
-- Marker zoner omkring et mål (f.eks. cirkler ved 20cm, 40cm, 60cm)
-- Eller brug naturlige markører på terrænet
+- Marker zoner omkring et mål (f.eks. cirkler ved 20 cm, 40 cm, 60 cm)
+- Eller brug naturlige markører i terrænet
 
-**Pointgivning:**
-- Inden for 20cm: 3 point
-- Inden for 40cm: 2 point
-- Inden for 60cm: 1 point
+**Scoring:**
+- Indenfor 20 cm: 3 point
+- Indenfor 40 cm: 2 point
+- Indenfor 60 cm: 1 point
 - Udenfor: 0 point
 
-**Øvelse:**
-- Kast 10 kugler, spor din score
-- Mål: Konsistent forbedring over sessioner
+**Bore:**
+- Kast 10 kugler, og hold styr på din score
+- Mål: Konsekvent forbedring i løbet af sessionerne
 
 ### Afstandsvariation
-**Formål:** Udvikl dybdekontrol
+**Formål:** Udvikle dybdekontrol
 
 **Opsætning:**
-- Placer mål ved 6m, 7m, 8m, 9m, 10m
+- Placer mål på 6m, 7m, 8m, 9m, 10m
 
-**Øvelse:**
+**Bore:**
 - Kast til hver afstand i tilfældig rækkefølge
-- Partner råber afstanden
-- Fokuser på at justere vægt, ikke teknik
+- Partneren råber afstanden
+- Fokuser på at justere vægten, ikke teknikken
 
 **Variation:**
-- Tilføj "kort" og "lang" kald efter du slipper
-- Skal justere midt i flugten (udvikler fornemmelse)
+- Tilføj &quot;korte&quot; og &quot;lange&quot; opkald, når du har sluppet
+- Skal justeres midt i flyvningen (udvikler følelse)
 
-## Skyde øvelser
+## Skydeøvelser
 
 ### Skydestigen
-**Formål:** Byg nøjagtighed under progressivt pres
+**Formål:** Opbyg nøjagtighed under progressivt pres
 
 **Opsætning:**
-- Placer en målkugle ved 6 meter
+- Placer en målkugle på 6 meters afstand
 - Marker afstande ved 7m, 8m, 9m, 10m
 
-**Øvelse:**
+**Bore:**
 - Start ved 6 meter
-- Rammer = flyt tilbage en meter
-- Misser = flyt frem en meter (eller genstart)
+- Hit = gå en meter tilbage
+- Misser = gå en meter frem (eller genstart)
 - Mål: Nå 10 meter
 
 **Variationer:**
-- Streng version: Enhver miss returnerer til 6m
+- Streng version: Enhver misser vender tilbage til 6m
 - Tidsbestemt version: Hvor langt kan du komme på 10 minutter?
 - Holdversion: Skift med partner
 
 ### Barrieren (Blox)
-**Formål:** Tving høj bue skydning
+**Formål:** Tving høj bueoptagelse
 
 **Opsætning:**
 - Placer en barriere (pind, snor eller forhindring) mellem dig og målet
 - Barrieren skal være høj nok til at kræve en lob
 
-**Øvelse:**
-- Skal passere barrieren for at ramme målet
-- Ethvert kast der rammer barrieren er "dødt"
-- Udvikler højt udgivelsespunkt
+**Bore:**
+- Skal rydde barrieren for at ramme målet
+- Ethvert kast, der rammer barrieren, er &quot;dødt&quot;
+- Udvikler et højt frigivelsespunkt
 
-**Hvorfor det betyder noget:**
+**Hvorfor det er vigtigt:**
 - Konkurrence kræver ofte skydning over forhindringer
-- Bygger alsidighed i din skydning
+- Skaber alsidighed i din skydning
 
 ### Forhindringsbane
-**Formål:** Udvikl skydning fra forskellige vinkler
+**Formål:** Udvikle skydning fra forskellige vinkler
 
 **Opsætning:**
-- Placer målkugle i centrum
+- Placer målkuglen i midten
 - Tilføj forhindringer (andre kugler, markører) omkring den
 
-**Øvelse:**
-- Skyd fra forskellige positioner omkring cirklen
-- Skal finde vinklen der virker
+**Bore:**
+- Skyd fra forskellige positioner rundt om cirklen
+- Skal finde den vinkel, der fungerer
 - Udvikler læsning af skydelinjer
 
 ## Mentale træningsøvelser
 
-### Rutine gentagelse
-**Formål:** Gør din før-kast rutine automatisk
+### Rutinemæssig gentagelse
+**Formål:** Gør din rutine før indtagelse automatisk
 
-**Øvelse:**
+**Bore:**
 - Øv din fulde rutine uden at kaste
-- Gå gennem hvert trin bevidst
+- Gå bevidst igennem hvert trin
 - Lav 10-20 gentagelser
 - Tilføj derefter kastet
 
 **Fokus:**
-- Konsistent timing
+- Konsekvent timing
 - Klar overgang fra tænkning til udførelse
 - Samme rutine hver gang
 
-### Prespunkter
-**Formål:** Øv præstation under pres
+### Trykpunkter
+**Formål:** Øv dig i at præstere under pres
 
 **Opsætning:**
-- Skab et "skal lave" scenarie
-- Sæt konsekvenser for at misse
+- Skab et &quot;must make&quot;-scenarie
+- Sæt konsekvenser for manglende adgang
 
 **Eksempler:**
-- "Lav 3 i træk eller start forfra"
-- "Miss og lav 10 armstrækninger"
-- "Annoncer dit mål før kast"
+- &quot;Lav 3 i træk eller start forfra&quot;
+- &quot;Gå glip af og lav 10 armbøjninger&quot;
+- &quot;Annoncer dit mål før du kaster&quot;
 
 **Nøgle:**
-- Presset skal føles ægte
-- Øv din mentale respons på pres
-- Brug din rutine præcis som i konkurrence
+- Presset skal føles reelt
+- Øv din mentale reaktion på pres
+- Brug din rutine præcis som i konkurrencen
 
-### Genopretningsøvelse
-**Formål:** Byg vanen med hurtig mental nulstilling
+### Genopretningspraksis
+**Formål:** Skab en vane med hurtig mental nulstilling
 
-**Øvelse:**
-- Kast bevidst en dårlig kugle
-- Øv straks SOAS (Stop, Observér, Acceptér, Slip)
-- Kast næste kugle med fuld forpligtelse
+**Bore:**
+- Kastede med vilje en dårlig kugle
+- Øv dig straks i SOAS (Stop, Observer, Accepter, Slip)
+- Kast den næste kugle med fuld dedikation
 
 **Fokus:**
-- Dvæl ikke ved misset
-- Nulstil fuldstændigt før næste kast
-- Bevar positivt kropssprog
+- Dvæl ikke ved missen
+- Nulstil helt før næste kast
+- Bevar et positivt kropssprog
 
-## Spilsimulerings øvelser
+## Spilsimuleringsøvelser
 
-### Millieu's Delight
-**Formål:** Bryd rytmelås, byg alsidighed
+### Millieus glæde
+**Formål:** Bryd rytmelåsen, opbyg alsidighed
 
-**Øvelse:**
-- Skift mellem point og skydning ved hvert kast
-- Ikke to på hinanden følgende kast af samme type
+**Bore:**
+- Skift mellem at pege og skyde ved hvert kast
+- Ingen to på hinanden følgende kast af samme type
 - Udvikler evnen til at skifte tilstand
 
-### Scenarie spil
-**Formål:** Øv taktisk beslutningstagning
+### Scenarieafspilning
+**Formål:** Øvelse i taktisk beslutningstagning
 
 **Opsætning:**
-- Sæt realistiske spilsituationer op
-- Tildel scores og kugleantal
+- Opret realistiske spilsituationer
+- Tildel point og kugletællinger
 
 **Eksempler:**
-- "Du er bagud 10-8, modstanderen har 2 point, du har 2 kugler"
-- "Uafgjort 6-6, du har sidste kugle, de har 1 point"
+- &quot;Du er bagud 10-8, modstanderen har 2 point, du har 2 kugler&quot;
+- &quot;Uafgjort 6-6, I har den sidste kugle, de har 1 point&quot;
 
-**Øvelse:**
+**Bore:**
 - Beslut hvad du skal gøre
-- Udfør med fuld forpligtelse
+- Udfør med fuldt engagement
 - Gennemgå beslutningen bagefter
 
-### Kampspil med regler
+### Matchspil med regler
 **Formål:** Konkurrencesimulering
 
 **Variationer:**
-- Spil til 13 (fuldt spil)
+- Spil til 13 (hele kampen)
 - Spil til 7 (kortere, flere spil)
-- "Prespunkter" - visse ender er dobbelt værd
-- "Pludselig død" - første til at tabe en ende taber spillet
+- &quot;Trykpunkter&quot; - visse ender er dobbelt værd
+- &quot;Pludselig død&quot; - den første til at tabe en ende taber spillet
 
 ## Sporing af dine øvelser
 
-Før en log for hver øvelse:
+Hold en logbog for hver øvelse:
 
-| Dato | Øvelse | Score/Resultat | Noter |
+| Dato | Bore | Score/Resultat | Noter |
 |------|-------|--------------|-------|
 | | | | |
 
 **Spor over tid:**
-- Forbedrer du dig?
+- Er du ved at forbedre dig?
 - Hvilke øvelser hjælper mest?
 - Hvor kæmper du?
 
 ## Opbygning af en øvelsessession
 
 ### Opvarmning (10 min)
-- Lette kast for at løsne op
-- Intet pres, bare fornemmelse
+- Nemme kast til at løsne op
+- Intet pres, bare føl
 
 ### Teknisk fokus (20-30 min)
 - En eller to øvelser rettet mod specifikke færdigheder
-- Blokeret træning for nye færdigheder
-- Tilfældig træning for etablerede færdigheder
+- Blokeret øvelse for nye færdigheder
+- Tilfældig øvelse for etablerede færdigheder
 
-### Pres/Spilsimulering (20-30 min)
+### Pres/spilsimulering (20-30 min)
 - Tilføj konsekvenser
 - Skab realistiske scenarier
 - Øv mentale færdigheder
 
 ### Nedkøling (10 min)
-- Lette kast
+- Nemme kast
 - Reflekter over sessionen
-- Notér hvad der skal arbejdes på næste gang
+- Bemærk hvad du skal arbejde med bagefter
 
-## Nøglepunkt
+## Vigtig konklusion
 
-> Øvelser er værktøjer. Vælg det rigtige værktøj til hvad du har brug for at bygge.
+> Boremaskiner er værktøjer. Vælg det rigtige værktøj til det, du skal bygge.
 
-Kast ikke bare kugler. Træn med formål.
+Kast ikke bare boules. Træn med et formål.
 

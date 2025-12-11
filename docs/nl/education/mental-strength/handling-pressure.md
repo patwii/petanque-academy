@@ -1,53 +1,77 @@
 # Omgaan met druk
 
-Druk is onderdeel van competitie. Het doel is niet om het te elimineren - dat is onmogelijk. Het doel is om goed te presteren ondanks de druk, en het zelfs in je voordeel te gebruiken.
+Druk is onderdeel van competitie. Het doel is niet om het te elimineren; dat is onmogelijk. Het doel is om desondanks goed te presteren en het zelfs in je voordeel te gebruiken.
+
+::: tip Het grote idee
+**Druk verdwijnt niet met ervaring; je wordt er alleen maar beter in.** De beste spelers zijn niet kalm; ze zijn bedreven in het productief gebruiken van hun opwinding.
+:::
+
+```mermaid
+graph TD
+    A[Druk situatie] --> B{Your Response}
+    B -->|Anxiety| C[Prestaties dalen]
+    B -->|Excitement| D[Prestaties stijgen]
+
+    C --> E[Negatieve gedachten]
+    C --> F[Spanning]
+    C --> G[Slechte focus]
+
+    D --> H[Energiek]
+    D --> I[Gefocust]
+    D --> J[Vol vertrouwen]
+
+    style A fill:#fff4e1
+    style B fill:#e3f2fd
+    style C fill:#ffebee
+    style D fill:#e8f5e9
+```
 
 ## Druk begrijpen
 
-### Wat creëert druk?
-- Hoge inzet (belangrijke wedstrijd, beslissende worp)
+### Wat zorgt voor druk?
+- Hoge inzet (belangrijk spel, beslissende worp)
 - Bekeken worden (publiek, teamgenoten)
-- Verwachtingen (van jou en anderen)
-- Onzekerheid (krappe score, onbekende tegenstanders)
-- Tijd (die opraakt, te lang wachten)
+- Verwachtingen (die van jou en die van anderen)
+- Onzekerheid (close score, onbekende tegenstanders)
+- Tijd (raakt op, te lang wachten)
 
 ### Wat druk met je lichaam doet
-Wanneer je druk voelt, reageert je lichaam:
-- Hartslag neemt toe
-- Ademhaling wordt oppervlakkig
-- Spieren spannen zich aan
+Wanneer u druk voelt, reageert uw lichaam:
+- De hartslag neemt toe
+- De ademhaling wordt oppervlakkig
+- Spieren gespannen
 - Handen kunnen trillen
 - Focus vernauwt (soms te veel)
 
-Dit is je lichaam dat zich voorbereidt op actie. Het is niet slecht - het is energie die je kunt gebruiken.
+Dit is je lichaam dat zich voorbereidt op actie. Het is niet slecht – het is energie die je kunt gebruiken.
 
-## Druk herkaderen
+## Druk herformuleren
 
 ### Druk als opwinding
 
-De fysieke sensaties van angst en opwinding zijn bijna identiek. Het verschil is hoe je ze interpreteert.
+De fysieke sensaties van angst en opwinding zijn vrijwel identiek. Het verschil is hoe je ze interpreteert.
 
-**Angst-interpretatie:** "Ik ben nerveus, er kan iets slechts gebeuren"
-**Opwindings-interpretatie:** "Ik ben energiek, dit is belangrijk voor mij"
+**Angstinterpretatie:** "Ik ben nerveus, er kan iets ergs gebeuren"
+**Opwinding interpretatie:** "Ik heb energie, dit is belangrijk voor mij"
 
-**Probeer dit:** Wanneer je druk voelt, zeg tegen jezelf: "Ik ben opgewonden" in plaats van "Ik ben nerveus."
+**Probeer dit:** Als je druk voelt, zeg dan tegen jezelf: "Ik ben opgewonden" in plaats van "Ik ben nerveus."
 
 ### Druk als voorrecht
 
-Alleen belangrijke momenten creëren druk. Als je het voelt, ben je in een situatie die ertoe doet.
+Alleen belangrijke momenten creëren druk. Als je het voelt, zit je in een situatie die er toe doet.
 
-> "Druk is een voorrecht - het komt alleen naar degenen die het verdienen." - Billie Jean King
+> "Druk is een voorrecht; het komt alleen degenen toe die het verdienen." -Billie Jean King
 
-## Technieken voor momenten met hoge druk
+## Technieken voor hogedrukmomenten
 
-### 1. Ademhalingscontrole
+### 1. Adembeheersing
 
 Je ademhaling is de snelste manier om je toestand te veranderen.
 
-**De 4-7-8-techniek:**
-1. Inademen gedurende 4 tellingen
-2. Vasthouden gedurende 7 tellingen
-3. Uitademen gedurende 8 tellingen
+**De 4-7-8 techniek:**
+1. Adem in gedurende 4 tellen
+2. Houd 7 tellen vast
+3. Adem uit gedurende 8 tellen
 4. Herhaal 2-3 keer
 
 **Snelle reset (in de cirkel):**
@@ -55,31 +79,31 @@ Je ademhaling is de snelste manier om je toestand te veranderen.
 - Voel je voeten op de grond
 - Laat je schouders zakken bij het uitademen
 
-### 2. Fysieke grounding
+### 2. Fysieke aarding
 
-Verbind met fysieke sensaties om uit je hoofd te komen:
-- Voel het gewicht van de bal
-- Merk je voeten op de grond op
-- Knijp en laat je niet-werpende hand los
+Maak contact met fysieke sensaties om uit je hoofd te komen:
+- Voel het gewicht van de boule
+- Let op je voeten op de grond
+- Knijp in de niet-werpende hand en laat deze weer los
 - Rol je schouders naar achteren
 
-### 3. Focus vernauwing
+### 3. Focusvernauwing
 
-In drukmomenten, focus alleen op wat ertoe doet:
-- Niet de score
+Concentreer u op drukmomenten alleen op wat belangrijk is:
+- Niet de uitslag
 - Niet het publiek
 - Niet wat er zou kunnen gebeuren
 - Alleen deze worp, dit doel, dit moment
 
-**Sleutelwoorden:** "Hier. Nu. Dit."
+**Betekeniswoorden:** "Hier. Nu. Dit."
 
 ### 4. Procesfocus
 
-Verschuif van resultaat naar proces:
+Verschuiving van uitkomst naar proces:
 
-**Resultaatfocus (creëert druk):**
+** Resultaatgerichtheid (creëert druk):**
 - "Ik moet dit maken"
-- "Als ik mis, verliezen we"
+- ‘Als ik mis, verliezen we’
 - "Iedereen kijkt"
 
 **Procesfocus (vermindert druk):**
@@ -87,81 +111,81 @@ Verschuif van resultaat naar proces:
 - "Zie het doel"
 - "Vertrouw op mijn training"
 
-### 5. De linkerhand-knijp
+### 5. De linkerknijp
 
-Voor rechtshandige spelers, je linkerhand knijpen gedurende 10-15 seconden:
+Voor rechtshandige spelers: knijp 10-15 seconden in uw linkerhand:
 - Activeert de rechter hersenhelft
-- Kalmeert analytisch overdenken
-- Helpt toegang tot automatische uitvoering
+- Vermindert analytisch overdenken
+- Helpt toegang te krijgen tot automatische uitvoering
 
-Gebruik dit wanneer je merkt dat je te veel nadenkt.
+Gebruik dit als je merkt dat je te veel nadenkt.
 
 ## Voorbereiden op druk
 
-### Simuleer druk in training
+### Simuleer druk in de praktijk
 
-Je kunt competitiedruk niet aan als je het nooit ervaart in training.
+Je kunt niet tegen wedstrijddruk als je die tijdens de training nooit ervaart.
 
-**Manieren om trainingsdruk te creëren:**
-- Stel consequenties in (push-ups voor missers, koffie kopen voor partner)
-- Creëer "moet-maken"-scenario's
+**Manieren om oefendruk te creëren:**
+- Gevolgen instellen (push-ups bij missers, koffie kopen voor partner)
+- Creëer ‘must-make’-scenario’s
 - Oefen met een publiek
 - Tijdsdruk (schotklok)
-- Vermoeidheid (oefen wanneer moe)
+- Vermoeidheid (oefenen als je moe bent)
 
 ### Visualisatie
 
-Oefen mentaal situaties met hoge druk:
+Repeteer mentaal situaties onder hoge druk:
 1. Sluit je ogen
 2. Stel je een drukscenario in detail voor
 3. Voel de druksensaties
-4. Zie jezelf het goed afhandelen
-5. Voer succesvol uit in je geest
+4. Zie jezelf er goed mee omgaan
+5. Voer het succesvol uit in gedachten
 
-Doe dit regelmatig, niet alleen voor competities.
+Doe dit regelmatig, niet alleen vóór wedstrijden.
 
 ### Bouw een drukgeschiedenis op
 
-Houd bij wanneer je druk goed hebt aangepakt:
+Houd bij hoe vaak u goed met druk omging:
 - Wat was de situatie?
 - Hoe voelde je je?
-- Wat deed je?
+- Wat heb je gedaan?
 - Wat was het resultaat?
 
-Bekijk dit voor competities om jezelf te herinneren: "Ik heb dit eerder gedaan."
+Bekijk dit vóór de wedstrijden om jezelf eraan te herinneren: "Ik heb dit eerder gedaan."
 
-## Tijdens competitie
+## Tijdens de competitie
 
-### Voor de drukworp
-1. Stap terug, adem
+### Vóór de drukworp
+1. Doe een stap achteruit, haal diep adem
 2. Herinner jezelf aan je routine
-3. Focus op proces, niet resultaat
-4. Gebruik je triggerwoord of signaal
+3. Focus op het proces, niet op het resultaat
+4. Gebruik uw triggerwoord of signaal
 
-### In de cirkel
-1. Voltooi je routine precies zoals geoefend
+### In de Cirkel
+1. Voltooi je routine precies zoals je oefent
 2. Focus extern (doel, niet lichaam)
 3. Vertrouw op je training
 4. Laat los zonder aarzeling
 
 ### Na de worp
 - Accepteer het resultaat zonder oordeel
-- Als goed: korte erkenning, ga verder
-- Als slecht: SOAS-methode, reset voor volgende worp
+- Indien goed: korte bevestiging, verder gaan
+- Indien slecht: SOAS-methode, resetten voor de volgende worp
 
-## Veelvoorkomende drukfouten
+## Veel voorkomende drukfouten
 
-| Fout | Betere benadering |
+|  | Fout | Betere aanpak |  |
 |---------|----------------|
-| Haasten | Vertraag, gebruik volledige routine |
-| Overdenken | Externe focus, vertrouw training |
-| Techniek veranderen | Blijf bij wat je kent |
-| Focussen op resultaat | Focus op proces |
-| Vechten tegen zenuwen | Accepteer en gebruik de energie |
+|  | Haasten | Vertraag, gebruik volledige routine |  |
+|  | Overdenken | Externe focus, vertrouwenstraining |  |
+|  | Veranderende techniek | Blijf bij wat je weet |  |
+|  | Gericht op resultaat | Focus op proces |  |
+|  | Vechten tegen zenuwen | Accepteer en gebruik de energie |  |
 
-## Kernpunt
+## Sleutel afhaalmaaltijd
 
-> Druk verdwijnt niet met ervaring. Je wordt alleen beter in presteren ermee.
+> Druk verdwijnt niet met ervaring. Je wordt er alleen maar beter in om ermee te presteren.
 
-De beste spelers zijn niet kalm - ze zijn bedreven in het productief gebruiken van hun opwinding.
+De beste spelers zijn niet kalm; ze zijn bedreven in het productief gebruiken van hun opwinding.
 

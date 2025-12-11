@@ -1,224 +1,253 @@
-# Exercices d'entraînement
+# Exercices d&#39;entraînement
 
-Voici des exercices éprouvés utilisés par les joueurs d'élite. Chaque exercice a un objectif spécifique - choisissez en fonction de ce que vous devez développer.
+Voici des exercices éprouvés, utilisés par les joueurs de haut niveau. Chaque exercice a un objectif précis ; choisissez celui qui correspond à vos besoins.
 
-## Exercices de pointer
+::: tip La grande idée
+Chaque exercice a un objectif précis. Ne lancez pas les boules au hasard : choisissez des exercices qui ciblent vos points faibles et vous aident à atteindre vos objectifs. Suivez vos progrès pour constater vos améliorations.
+:::
 
-### L'allée
-**Objectif :** Isoler l'angle de lâcher et la cohérence de ligne
+```mermaid
+graph TD
+    A[Exercices d&#39;entraînement] --> B[Forets de pointage]
+    A --> C[Exercices de tir]
+    A --> D[Exercices mentaux]
+    A --> E[Simulation de jeu]
 
-**Configuration :**
-- Placez deux marqueurs à 30-40cm l'un de l'autre, à environ 1 mètre du cercle
-- La cible est à 7-9 mètres
+    B --> F[Précision]
+    B --> G[Contrôle de distance]
 
-**Exercice :**
-- Lancez à travers "l'allée" (entre les marqueurs)
-- Tout lancer qui touche un marqueur est "mort"
-- Concentrez-vous sur un point de lâcher cohérent
+    C --> H[Taux de réussite]
+    C --> I[Tir sous pression]
 
-**Progression :**
-- Rétrécissez l'allée au fur et à mesure que vous vous améliorez
-- Variez la distance de la cible
-- Ajoutez une zone d'atterrissage spécifique
+    D --> J[Pratique de routine]
+    D --> K[Visualisation]
+
+    E --> L[Préparation à la compétition]
+
+    style A fill:#e8f5e9
+    style B fill:#e3f2fd
+    style C fill:#fff4e1
+    style D fill:#f3e5f5
+    style E fill:#fff4e1
+```
+
+## Forets de pointage
+
+### La ruelle
+**Objectif :** Isoler l’angle de déclenchement et la régularité de la ligne
+
+**Installation:**
+- Placez deux marqueurs à 30-40 cm de distance, à environ 1 mètre du cercle.
+- La cible se trouve à une distance de 7 à 9 mètres.
+
+**Percer:**
+- Lancer à travers la « ruelle » (entre les marqueurs)
+- Tout lancer qui touche un marqueur est « mort ».
+- Concentrez-vous sur un point de relâchement constant
+
+**Progression:**
+- Réduisez la largeur de l&#39;allée au fur et à mesure de votre amélioration.
+- Faites varier la distance cible
+- Ajouter une zone d&#39;atterrissage spécifique
 
 ### Zones de précision
-**Objectif :** Développer la précision vers des zones spécifiques
+**Objectif :** Développer la précision dans des domaines spécifiques
 
-**Configuration :**
-- Marquez des zones autour d'une cible (par ex., cercles à 20cm, 40cm, 60cm)
-- Ou utilisez des marqueurs naturels sur le terrain
+**Installation:**
+- Marquer des zones autour d&#39;une cible (par exemple, des cercles à 20 cm, 40 cm, 60 cm).
+- Ou utilisez des repères naturels sur le terrain.
 
-**Notation :**
-- À l'intérieur de 20cm : 3 points
-- À l'intérieur de 40cm : 2 points
-- À l'intérieur de 60cm : 1 point
-- À l'extérieur : 0 point
+**Score :**
+- À l&#39;intérieur de 20 cm : 3 points
+- À l&#39;intérieur de 40 cm : 2 points
+- À l&#39;intérieur de 60 cm : 1 point
+- Extérieur : 0 point
 
-**Exercice :**
-- Lancez 10 boules, suivez votre score
-- Objectif : Amélioration constante au fil des sessions
+**Percer:**
+- Lancez 10 boules, notez votre score
+- Objectif : Amélioration constante au fil des séances
 
 ### Variation de distance
 **Objectif :** Développer le contrôle de la profondeur
 
-**Configuration :**
-- Placez des cibles à 6m, 7m, 8m, 9m, 10m
+**Installation:**
+- Placer les cibles à 6 m, 7 m, 8 m, 9 m et 10 m.
 
-**Exercice :**
-- Lancez vers chaque distance dans un ordre aléatoire
+**Percer:**
+- Lancer à chaque distance dans un ordre aléatoire
 - Le partenaire annonce la distance
-- Concentrez-vous sur l'ajustement du poids, pas de la technique
+- Concentrez-vous sur l&#39;ajustement du poids, pas sur la technique.
 
-**Variation :**
-- Ajoutez des appels "court" et "long" après le lâcher
-- Doit ajuster en plein vol (développe le ressenti)
+**Variation:**
+- Ajoutez des appels « courts » et « longs » après la publication.
+- Doit ajuster en cours de vol (développe le ressenti)
 
 ## Exercices de tir
 
-### L'échelle de tir
-**Objectif :** Construire la précision sous pression progressive
+### L&#39;échelle de tir
+**Objectif :** Améliorer la précision sous une pression progressive
 
-**Configuration :**
-- Placez une boule cible à 6 mètres
-- Marquez les distances à 7m, 8m, 9m, 10m
+**Installation:**
+- Placez une boule cible à 6 mètres.
+- Marquer les distances à 7m, 8m, 9m, 10m
 
-**Exercice :**
-- Commencez à 6 mètres
-- Touché = reculez d'un mètre
-- Raté = avancez d'un mètre (ou recommencez)
-- Objectif : Atteindre 10 mètres
+**Percer:**
+- Commencez à 6 mètres.
+- Toucher = reculer d&#39;un mètre
+- Échec = avancer d&#39;un mètre (ou recommencer)
+- Objectif : atteindre 10 mètres
 
-**Variations :**
-- Version stricte : Tout raté retourne à 6m
-- Version chronométrée : Jusqu'où pouvez-vous aller en 10 minutes ?
-- Version équipe : Alternez avec un partenaire
+**Variantes :**
+- Version stricte : Tout échec ramène à 6 m
+- Version chronométrée : Quelle distance pouvez-vous parcourir en 10 minutes ?
+- Version en équipe : Alterner avec un partenaire
 
-### La barrière (Blox)
-**Objectif :** Forcer le tir en arc haut
+### La Barrière (Bloox)
+**Objectif :** Forcer le tir en cloche
 
-**Configuration :**
-- Placez une barrière (bâton, corde ou obstacle) entre vous et la cible
-- La barrière doit être assez haute pour nécessiter un lob
+**Installation:**
+- Placez une barrière (bâton, ficelle ou obstacle) entre vous et la cible.
+- La barrière doit être suffisamment haute pour nécessiter un lob.
 
-**Exercice :**
-- Doit franchir la barrière pour toucher la cible
-- Tout lancer qui touche la barrière est "mort"
-- Développe un point de lâcher haut
+**Percer:**
+- Il faut franchir l&#39;obstacle pour atteindre la cible.
+- Tout lancer qui touche la barrière est « mort ».
+- Développe un point de libération élevé
 
-**Pourquoi c'est important :**
-- La compétition nécessite souvent de tirer par-dessus des obstacles
-- Construit la polyvalence dans votre tir
+**Pourquoi c&#39;est important :**
+- La compétition exige souvent de tirer par-dessus des obstacles.
+- Développe la polyvalence de votre tir
 
-### Parcours d'obstacles
-**Objectif :** Développer le tir sous différents angles
+### Parcours du combattant
+**Objectif :** Développer les compétences en matière de prise de vue sous différents angles
 
-**Configuration :**
+**Installation:**
 - Placez la boule cible au centre
-- Ajoutez des obstacles (autres boules, marqueurs) autour
+- Ajoutez des obstacles (autres boules, marqueurs) autour.
 
-**Exercice :**
+**Percer:**
 - Tirez depuis différentes positions autour du cercle
-- Doit trouver l'angle qui fonctionne
+- Il faut trouver l&#39;angle qui fonctionne
 - Développe la lecture des lignes de tir
 
-## Exercices d'entraînement mental
+## Exercices d&#39;entraînement mental
 
 ### Répétition de routine
-**Objectif :** Rendre votre routine pré-lancer automatique
+**Objectif :** Automatiser votre routine avant la prise de vue
 
-**Exercice :**
-- Pratiquez votre routine complète sans lancer
-- Passez par chaque étape délibérément
-- Faites 10-20 répétitions
-- Puis ajoutez le lancer
+**Percer:**
+- Répétez votre routine complète sans lancer
+- Suivez chaque étape attentivement.
+- Faites 10 à 20 répétitions.
+- Ajoutez ensuite le lancer.
 
-**Focus :**
-- Timing cohérent
-- Transition claire de la réflexion à l'exécution
+**Se concentrer:**
+- Un timing régulier
+- Transition claire de la réflexion à l&#39;exécution
 - Même routine à chaque fois
 
 ### Points de pression
-**Objectif :** Pratiquer la performance sous pression
+**Objectif :** S’entraîner à jouer sous pression
 
-**Configuration :**
-- Créez un scénario "doit réussir"
-- Définissez des conséquences pour rater
+**Installation:**
+- Créez un scénario « incontournable ».
+- Définir des conséquences en cas de non-respect des règles
 
 **Exemples :**
-- "Faites 3 d'affilée ou recommencez"
-- "Ratez et faites 10 pompes"
-- "Annoncez votre cible avant de lancer"
+- &quot;Réalisez-en 3 d&#39;affilée ou recommencez&quot;
+- &quot;Rompez et faites 10 pompes&quot;
+- « Annoncez votre cible avant de lancer »
 
-**Clé :**
-- La pression doit sembler réelle
-- Pratiquez votre réponse mentale à la pression
-- Utilisez votre routine exactement comme en compétition
+**Clé:**
+- La pression devrait être ressentie comme réelle.
+- Entraînez-vous à réagir mentalement à la pression.
+- Utilisez votre routine exactement comme en compétition.
 
-### Pratique de récupération
-**Objectif :** Construire l'habitude de réinitialisation mentale rapide
+### Pratique de rétablissement
+**Objectif :** Développer l’habitude d’une réinitialisation mentale rapide
 
-**Exercice :**
-- Lancez intentionnellement une mauvaise boule
-- Pratiquez immédiatement SOAS (Stop, Observe, Accept, Slip)
-- Lancez la boule suivante avec un engagement total
+**Percer:**
+- Lancer intentionnellement une mauvaise boule
+- Pratiquez immédiatement la méthode SOAS (Stop, Observe, Accept, Slip).
+- Lancez la prochaine boule avec un engagement total.
 
-**Focus :**
-- Ne vous attardez pas sur le raté
+**Se concentrer:**
+- Ne vous attardez pas sur l&#39;échec
 - Réinitialisez complètement avant le prochain lancer
-- Maintenez un langage corporel positif
+- Adoptez un langage corporel positif
 
 ## Exercices de simulation de jeu
 
-### Millieu's Delight
-**Objectif :** Briser le verrouillage du rythme, construire la polyvalence
+### Le Délice de Millieu
+**Objectif :** Briser le rythme, développer la polyvalence
 
-**Exercice :**
+**Percer:**
 - Alternez entre pointer et tirer à chaque lancer
-- Pas deux lancers consécutifs du même type
+- Deux lancers consécutifs du même type ne sont pas autorisés.
 - Développe la capacité à changer de mode
 
 ### Jeu de scénario
-**Objectif :** Pratiquer la prise de décision tactique
+**Objectif :** S’exercer à la prise de décision tactique
 
-**Configuration :**
+**Installation:**
 - Mettez en place des situations de jeu réalistes
-- Attribuez des scores et des comptes de boules
+- Attribuer les scores et le nombre de boules
 
 **Exemples :**
-- "Vous êtes mené 10-8, l'adversaire a 2 points, vous avez 2 boules"
-- "Égalité 6-6, vous avez la dernière boule, ils ont 1 point"
+- « Vous êtes mené 10-8, votre adversaire a 2 points, vous avez 2 boules. »
+- « Égalité 6-6, vous avez la dernière boule, ils ont 1 point »
 
-**Exercice :**
-- Décidez quoi faire
-- Exécutez avec un engagement total
-- Examinez la décision après
+**Percer:**
+- Décidez de ce que vous allez faire
+- Exécuter avec un engagement total
+- Réexaminer la décision ultérieurement
 
-### Jeu de match avec règles
+### Match Play avec règles
 **Objectif :** Simulation de compétition
 
-**Variations :**
-- Jouez jusqu'à 13 (jeu complet)
-- Jouez jusqu'à 7 (plus court, plus de jeux)
-- "Points de pression" - certaines manches valent double
-- "Mort subite" - le premier à perdre une manche perd le jeu
+**Variantes :**
+- Jouer jusqu&#39;à 13 (partie complète)
+- Jouer en 7 parties (plus court, plus de parties)
+- Points de pression - certaines extrémités valent le double
+- « Mort subite » : le premier à perdre une manche perd la partie.
 
 ## Suivi de vos exercices
 
-Tenez un journal pour chaque exercice :
+Tenez un registre pour chaque exercice :
 
-| Date | Exercice | Score/Résultat | Notes |
+| Date | Percer | Score/Résultat | Notes |
 |------|-------|--------------|-------|
 | | | | |
 
-**Suivez dans le temps :**
-- Vous améliorez-vous ?
-- Quels exercices aident le plus ?
-- Où avez-vous des difficultés ?
+**Suivi au fil du temps :**
+- Vous progressez ?
+- Quels exercices sont les plus efficaces ?
+- Où rencontrez-vous des difficultés ?
 
-## Construire une session d'exercices
+## Création d&#39;une séance d&#39;entraînement
 
 ### Échauffement (10 min)
-- Lancers faciles pour se détendre
-- Pas de pression, juste le ressenti
+- Des lancers faciles pour se détendre
+- Pas de pression, juste ressentir
 
 ### Focus technique (20-30 min)
 - Un ou deux exercices ciblant des compétences spécifiques
 - Pratique bloquée pour les nouvelles compétences
-- Pratique aléatoire pour les compétences établies
+- Pratique aléatoire pour les compétences acquises
 
-### Pression/Simulation de jeu (20-30 min)
-- Ajoutez des conséquences
-- Créez des scénarios réalistes
-- Pratiquez les compétences mentales
+### Simulation de pression/jeu (20-30 min)
+- Ajouter des conséquences
+- Créer des scénarios réalistes
+- Pratiquer les compétences mentales
 
 ### Retour au calme (10 min)
-- Lancers faciles
-- Réfléchissez sur la session
-- Notez ce sur quoi travailler ensuite
+- lancers faciles
+- Réfléchissez à la session
+- Notez ce sur quoi travailler ensuite.
 
-## Point clé
+## Points clés à retenir
 
-> Les exercices sont des outils. Choisissez le bon outil pour ce que vous devez construire.
+> Les perceuses sont des outils. Choisissez l&#39;outil adapté à vos besoins.
 
-Ne lancez pas simplement des boules. Entraînez-vous avec un objectif.
+Ne vous contentez pas de lancer des boules. Entraînez-vous avec un objectif précis.
 

@@ -2,25 +2,46 @@
 
 Understanding the difference between technical training and flow training is essential for elite development. Both are necessary, but they serve different purposes and require different approaches.
 
+::: tip The Core Principle
+**You cannot train a Beginner like an Expert** (they lack the neural pathways), and **you cannot train an Expert like a Beginner** (high technical volume causes over-thinking).
+:::
+
+```mermaid
+graph LR
+    A[Beginner<br/>90% Tech] --> B[Intermediate<br/>70% Tech]
+    B --> C[Advanced<br/>50% Tech]
+    C --> D[Expert<br/>20% Tech]
+
+    A2[10% Mental] --> B2[30% Mental]
+    B2 --> C2[50% Mental]
+    C2 --> D2[80% Mental]
+
+    style A fill:#ffcdd2
+    style B fill:#ffccbc
+    style C fill:#fff9c4
+    style D fill:#c8e6c9
+    style D2 fill:#a5d6a7
+```
+
 ## Two Types of Training
 
-### Technical Training (Explicit Learning)
-This is the training most players know well:
-- Focused on mechanics and form
-- Conscious attention to body movements
-- Breaking down skills into components
-- Repetitive practice of specific techniques
+::: info Technical Training (Explicit Learning)
+**Focus:** Mechanics and form
+**Attention:** Conscious body movements
+**Method:** Breaking down skills, repetitive practice
+**Best for:** Learning new skills, correcting bad habits, building foundation
 
-**Best for:** Learning new skills, correcting bad habits, building your foundation
+**Example:** Practicing your release point 50 times with video analysis
+:::
 
-### Flow Training (Implicit Learning)
-This is training for automatic execution:
-- Focused on outcomes, not mechanics
-- Letting the subconscious take over
-- Varied, game-like practice
-- Mental techniques and visualization
+::: info Flow Training (Implicit Learning)
+**Focus:** Outcomes, not mechanics
+**Attention:** Letting subconscious take over
+**Method:** Varied, game-like practice, visualization
+**Best for:** Competition preparation, building confidence, peak performance
 
-**Best for:** Competition preparation, building confidence, accessing peak performance
+**Example:** Playing practice games with pressure, focusing only on targets
+:::
 
 ## The Dynamic Inversion Model
 
@@ -140,6 +161,25 @@ The real skill is knowing when to use each mode:
 | Friday | Technical | Weakness area |
 | Saturday | Flow | Match play, competition simulation |
 | Sunday | Rest | Recovery, reflection |
+
+## Summary: Training Balance Rules
+
+::: tip Rule #1: Match Training to Level
+**Beginners (90/10):** Build the machine - focus on technique
+**Intermediate (70/30):** Stabilize the skill - add mental work
+**Advanced (50/50):** Trust the machine - balance both
+**Expert (20/80):** Freedom of performance - mostly mental
+:::
+
+::: tip Rule #2: Blocked vs Random Practice
+**Blocked practice** (same throw repeatedly): Good for initial learning, poor for retention
+**Random practice** (varied throws): Harder in practice, better in competition
+:::
+
+::: tip Rule #3: The Expert Trap
+**For experts:** High technical volume causes over-thinking and choking
+**Solution:** Minimal technical maintenance, maximum mental training
+:::
 
 ## Key Takeaway
 

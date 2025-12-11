@@ -1,44 +1,93 @@
-# Toma de decisiones basada en probabilidad
+# Toma de decisiones basada en la probabilidad
 
-El pensamiento táctico de élite usa la probabilidad para tomar mejores decisiones. En lugar de adivinar o seguir la intuición, piensas sistemáticamente sobre tus opciones.
+El pensamiento táctico de élite utiliza la probabilidad para tomar mejores decisiones. En lugar de adivinar o dejarse llevar por la intuición, se piensa sistemáticamente en las opciones.
+
+::: tip La gran idea
+**Piense en probabilidades, no en certezas.** La mejor decisión no siempre es la más agresiva ni la más segura: es la que le ofrece el mejor valor esperado en muchas situaciones similares.
+:::
+
+```mermaid
+graph TD
+    A[Punto de decisión] --> B[Opción 1]
+    A --> C[Opción 2]
+    A --> D[Opción 3]
+
+    B --> E[Probabilidad de éxito]
+    B --> F[Recompensa si tiene éxito]
+    B --> G[Costo en caso de falla]
+
+    C --> H[Probabilidad de éxito]
+    C --> I[Recompensa si tiene éxito]
+    C --> J[Costo en caso de falla]
+
+    D --> K[Probabilidad de éxito]
+    D --> L[Recompensa si tiene éxito]
+    D --> M[Costo en caso de falla]
+
+    E --> N[Valor esperado]
+    F --> N
+    G --> N
+
+    H --> O[Valor esperado]
+    I --> O
+    J --> O
+
+    K --> P[Valor esperado]
+    L --> P
+    M --> P
+
+    N --> Q[Elija el mejor vehículo eléctrico]
+    O --> Q
+    P --> Q
+
+    style A fill:#e3f2fd
+    style Q fill:#fff4e1
+```
 
 ## El marco básico
 
-Cada lanzamiento tiene:
-- Una **probabilidad de éxito** (qué tan probable es que lo ejecutes)
-- Una **recompensa si tiene éxito** (lo que ganas)
-- Un **costo si no tiene éxito** (lo que pierdes o renuncias)
+Cada lanzamiento tiene tres componentes:
 
-Las buenas decisiones maximizan el valor esperado con el tiempo.
+| Componente | Pregunta | Ejemplo |
+|-----------|----------|---------|
+| **Probabilidad de éxito** | ¿Qué probabilidad hay de que ejecute esto? | 70% de tasa de éxito a esta distancia |
+| **Recompensa si tiene éxito** | ¿Qué gano? | Gana el punto, gana posición |
+| **Costo en caso de fracaso** | ¿Qué pierdo? | Darle un punto fácil al oponente |
 
-## Pensar en probabilidades
+::: info La fórmula
+**Valor esperado = (Probabilidad × Recompensa) - ((1 - Probabilidad) × Costo)**
 
-Al decidir entre opciones, considera:
+Las buenas decisiones maximizan el valor esperado a lo largo del tiempo.
+:::
+
+## Pensando en probabilidades
+
+Al decidir entre las opciones, considere:
 - ¿Cuál es mi tasa de éxito realista para cada opción?
 - ¿Qué gano si funciona?
 - ¿Cuál es el costo si falla?
-- ¿Cómo afecta la situación del juego mi elección?
+- ¿Cómo afecta la situación del juego a mi elección?
 
-La mejor opción no siempre es la más agresiva o la más segura: es la que te da el mejor resultado en muchas situaciones similares.
+La mejor opción no siempre es la más agresiva ni la más segura: es la que ofrece el mejor resultado en muchas situaciones similares.
 
-## Conoce tus números
+## Conozca sus números
 
-Para usar el pensamiento de probabilidad, necesitas conocer tus tasas de éxito reales:
+Para utilizar el pensamiento probabilístico, necesita conocer sus tasas de éxito reales:
 
-| Tipo de lanzamiento | Distancia | Tu tasa de éxito |
+| Tipo de lanzamiento | Distancia | Su tasa de éxito |
 |------------|----------|-------------------|
-| Apuntar (cerca) | 6-7m | ___% |
-| Apuntar (medio) | 8-9m | ___% |
-| Apuntar (largo) | 10m+ | ___% |
-| Tirar (cerca) | 6-7m | ___% |
-| Tirar (medio) | 8-9m | ___% |
-| Tirar (largo) | 10m+ | ___% |
+| Punto (cerrar) | 6-7 meses | ___% |
+| Punto (medio) | 8-9 meses | ___% |
+| Punto (largo) | 10 m+ | ___% |
+| Disparar (cerrar) | 6-7 meses | ___% |
+| Disparar (medio) | 8-9 meses | ___% |
+| Disparar (largo) | 10 m+ | ___% |
 
-Rastrea estos en la práctica. Sé honesto: la mayoría de los jugadores sobreestiman sus tasas de éxito.
+Monitorea esto en la práctica. Sé honesto: la mayoría de los jugadores sobreestiman sus probabilidades de éxito.
 
-## Ajustar por condiciones
+## Ajuste a las condiciones
 
-Tus tasas base cambian según:
+Sus tarifas base cambian en función de:
 
 | Factor | Efecto en la tasa de éxito |
 |--------|----------------------|
@@ -47,108 +96,108 @@ Tus tasas base cambian según:
 | Fatiga | -5 a -10% |
 | Confianza (alta) | +5 a +10% |
 | Éxito reciente | +5% |
-| Fracaso reciente | -5 a -10% |
+| Fallo reciente | -5 a -10% |
 
-Sé realista sobre estos ajustes.
+Sea realista acerca de estos ajustes.
 
-## El principio de ventaja de bola
+## El principio de la ventaja de Boule
 
-Cuando tienes más bolas restantes que tu oponente:
+Cuando te quedan más bolas que a tu oponente:
 
 **Prioridad 1: Asegurar el punto**
-- Primero, asegúrate de que estás sosteniendo al menos un punto
+- Primero, asegúrate de tener al menos un punto
 - No seas codicioso antes de haber asegurado lo básico
 
 **Prioridad 2: Maximizar puntos con riesgo calculado**
-- Una vez que estés sosteniendo, evalúa si puedes agregar más puntos
-- Cada lanzamiento adicional es una decisión de riesgo/recompensa
+- Una vez que tengas la posesión, evalúa si puedes sumar más puntos.
+- Cada lanzamiento adicional es una decisión de riesgo/recompensa.
 - No conviertas una victoria segura de 2 puntos en una derrota por excederte
 
-**Menos bolas restantes:** Necesitas que cada lanzamiento cuente. Las jugadas seguras pueden no ser suficientes: considera opciones de mayor recompensa para volver al final.
+**Menos bolas restantes:** Debes aprovechar cada lanzamiento. Las jugadas seguras podrían no ser suficientes; considera opciones con mayor recompensa para recuperar la apuesta al final.
 
-## El principio "Une Boule Devant"
+## El principio &quot;Une Boule Devant&quot;
 
-Una bola frente al boliche (entre el boliche y el oponente) es extremadamente valiosa:
-- Bloquea líneas de apuntar directas
-- Obliga a los oponentes a rodear o pasar por encima
-- Puede desviar bolas entrantes
-- Es una "bola de dinero": vale la pena protegerla
+Una bola delante del boliche (entre el boliche y el oponente) es extremadamente valiosa:
+- Bloquea líneas de señalización directa.
+- Obliga a los oponentes a rodearlos o pasarlos por encima.
+- Puede desviar las bolas entrantes
+- Es una &quot;bola de dinero&quot; que vale la pena proteger.
 
-**Implicación táctica:** A veces colocar una bola de bloqueo es mejor que intentar acercarse más.
+**Implicación táctica:** A veces, colocar una bola de bloqueo es mejor que intentar acercarse más.
 
-## Tolerancia al riesgo por estado del juego
+## Tolerancia al riesgo según el estado del juego
 
 ### Con límite de tiempo
 
-Cuando juegas con límite de tiempo, la diferencia de puntuación importa:
+Al jugar con un límite de tiempo, la diferencia de puntuación importa:
 
 | Situación de puntuación | Enfoque de riesgo |
 |-----------------|---------------|
-| Liderando por 4+ | Muy conservador - proteger ventaja, correr el reloj |
-| Liderando por 1-3 | Conservador - no regalar puntos |
-| Empatado | Equilibrado - riesgos calculados |
-| Atrás por 1-3 | Agresivo - necesita ganar terreno |
-| Atrás por 4+ | Muy agresivo - debe arriesgarse, el tiempo se acaba |
+| Liderando por 4+ | Muy conservador: proteger el liderazgo y hacer correr el reloj. |
+| Liderando por 1-3 | Conservador: no regalas puntos |
+| Atado | Riesgos equilibrados y calculados |
+| Por detrás por 1-3 | Agresivo: necesidad de ganar terreno |
+| Detrás por 4+ | Muy agresivo: hay que arriesgarse, el tiempo se acaba. |
 
 ### Sin límite de tiempo
 
 Cuando no hay presión de tiempo:
-- Mantente en tu plan de juego: no cambies de estrategia solo por la puntuación
-- La puntuación fluctuará: confía en tu enfoque
-- Solo considera cambiar tu plan de juego si claramente no está funcionando contra este oponente
-- Los cambios de pánico cuando estás atrás a menudo empeoran las cosas
+- Mantén tu plan de juego: no cambies la estrategia solo por el marcador.
+- La puntuación fluctuará: confíe en su enfoque
+- Solo considere cambiar su plan de juego si claramente no está funcionando contra este oponente.
+- Los cambios de pánico cuando uno se queda atrás a menudo empeoran las cosas
 
-### Ajustes de final de juego
+### Ajustes del final del juego
 
-**Si ganar este final gana el juego:**
-- Sé más conservador
-- No arriesgues regalar múltiples puntos
+**Si al ganar este final se gana el juego:**
+- Sea más conservador
+- No te arriesgues a ceder varios puntos
 - Un solo punto podría ser suficiente
 
-**Si perder este final pierde el juego:**
-- Toma mayores riesgos
-- Necesitas anotar múltiples puntos
+**Si pierdes este final pierdes el juego:**
+- Tomar riesgos mayores
+- Necesitas sumar varios puntos
 - El juego seguro no te salvará
 
 ## Errores comunes de probabilidad
 
 ### 1. Exceso de confianza
-"Puedo hacer ese tiro" - pero ¿puedes hacerlo 7 de cada 10 veces? Sé honesto.
+&quot;Puedo encestar ese tiro&quot;, pero ¿lo harás 7 de cada 10 veces? Sé honesto.
 
-### 2. Ignorar tasas base
-Tu porcentaje de tiro no cambia porque el momento es importante.
+### 2. Ignorar las tasas base
+Tu porcentaje de tiro no cambia porque el momento sea importante.
 
 ### 3. Falacia del costo hundido
-"Ya he fallado dos veces, debería seguir tirando" - cada lanzamiento es independiente.
+&quot;Ya fallé dos veces, debería seguir disparando&quot; - cada lanzamiento es independiente.
 
 ### 4. Sesgo de resultado
 Un tiro arriesgado que funcionó seguía siendo arriesgado. Una jugada segura que falló seguía siendo correcta.
 
 ### 5. Ignorar las opciones del oponente
-Considera lo que harán después de tu lanzamiento, exitoso o no.
+Piensa en lo que harán después de tu lanzamiento, tenga éxito o no.
 
 ## Aplicación práctica
 
 ### Antes de cada lanzamiento
 
-1. **Identificar opciones** (apuntar, tirar, bloquear, etc.)
-2. **Estimar probabilidad de éxito** para cada una
-3. **Considerar resultados** (éxito y fracaso)
-4. **Factorizar estado del juego** (puntuación, bolas restantes)
-5. **Elegir** la opción con mejor valor esperado
-6. **Comprometerse completamente** - sin dudas durante la ejecución
+1. **Identificar opciones** (apuntar, disparar, bloquear, etc.)
+2. **Estimar la probabilidad de éxito** para cada uno
+3. **Considere los resultados** (éxito y fracaso)
+4. **Tenga en cuenta el estado del juego** (puntuación, bolas restantes)
+5. **Elija** la opción con el mejor valor esperado
+6. **Comprometerse plenamente** - sin dudas durante la ejecución
 
-### Construir intuición
+### Desarrollando la intuición
 
-Con el tiempo, el pensamiento de probabilidad se vuelve intuitivo:
-- Rastrea tus resultados honestamente
-- Revisa decisiones después de los juegos
-- Nota patrones en tus tasas de éxito
+Con el tiempo, el pensamiento probabilístico se vuelve intuitivo:
+- Realice un seguimiento honesto de sus resultados
+- Revisar las decisiones después de los partidos
+- Observe patrones en sus tasas de éxito
 - Ajusta tu modelo mental
 
 ## Conclusión clave
 
-> Las buenas decisiones no siempre conducen a buenos resultados. Pero las buenas decisiones con el tiempo conducen a mejores resultados.
+> Las buenas decisiones no siempre conducen a buenos resultados. Pero las buenas decisiones, con el tiempo, conducen a mejores resultados.
 
-Piensa en probabilidades. Conoce tus números. Haz la jugada inteligente, no la esperanzadora.
+Piensa en probabilidades. Conoce tus números. Haz la jugada inteligente, no la optimista.
 

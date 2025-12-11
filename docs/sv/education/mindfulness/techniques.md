@@ -1,173 +1,201 @@
 # Mindfulness-tekniker
 
-Här är praktiska tekniker du kan använda för att utveckla mindfulness. Börja med en eller två och bygg därifrån.
+Här är praktiska tekniker du kan använda för att utveckla mindfulness. Börja med en eller två och bygg vidare därifrån.
 
-## Formella praktiker
+::: tip Den stora idén
+**Mindfulness är en färdighet, inte en talang.** Precis som att sikta eller skjuta förbättras det med övning. Börja smått, var konsekvent, och fördelarna ökar med tiden.
+:::
 
-Dessa är dedikerade mindfulness-sessioner - tid avsatt specifikt för praktik.
+```mermaid
+graph TD
+    A[Mindfulness-övning] --> B[Formella metoder]
+    A --> C[Informella metoder]
+    A --> D[Tävlingsspecifik]
+
+    B --> E[Sittande meditation]
+    B --> F[Kroppsskanning]
+    B --> G[Vandringsmeditation]
+
+    C --> H[Medveten andning]
+    C --> I[SOAS-metoden]
+    C --> J[Medveten ätning]
+
+    D --> K[Andning före sprutning]
+    D --> L[Återställning mellan kast]
+    D --> M[Mindfulnessklocka]
+
+    style A fill:#e8f5e9
+    style B fill:#e3f2fd
+    style C fill:#fff4e1
+    style D fill:#f3e5f5
+```
+
+## Formella metoder
+
+Det här är dedikerade mindfulness-pass – tid avsatt specifikt för övning.
 
 ### Sittande meditation
 
 Grunden för mindfulness-praktik.
 
-**Hur man gör:**
+**Hur man gör det:**
 1. Sitt bekvämt (stol eller golv)
-2. Stäng ögonen eller mjuka blicken
-3. Fokusera på din andning - känslan av luft som kommer in och ut
+2. Slut ögonen eller mjuka upp blicken
+3. Fokusera på din andning – känslan av luft som kommer in och ut
 4. När tankar uppstår, lägg märke till dem utan att döma
-5. Återvänd försiktigt uppmärksamheten till andningen
-6. Börja med 5 minuter, bygg upp till 15-20
+5. Återvänd försiktigt till andetaget
+6. Börja med 5 minuter, öka till 15-20
 
 **Tips:**
-- Tankar kommer att komma - det är normalt
-- Varje gång du märker att du har vandrat och återvänder, bygger du färdigheten
-- Döm inte dig själv för att vandra
-- Konsistens betyder mer än varaktighet
+- Tankar kommer – det är normalt
+- Varje gång du märker att du har vandrat och återvänder, bygger du upp färdigheten.
+- Döm inte dig själv för att du vandrar
+- Konsekvens är viktigare än varaktighet
 
-### Kroppsscanning
+### Kroppsskanning
 
 Utvecklar medvetenhet om fysiska förnimmelser.
 
-**Hur man gör:**
+**Hur man gör det:**
 1. Ligg ner eller sitt bekvämt
-2. Börja vid dina fötter - lägg märke till eventuella förnimmelser
-3. Flytta långsamt uppmärksamheten uppåt: anklar, vader, knän...
+2. Börja vid dina fötter – lägg märke till eventuella förnimmelser
+3. Flytta långsamt uppmärksamheten uppåt: vrister, vader, knän...
 4. Lägg märke till utan att försöka ändra något
-5. Om du hittar spänning, andas in i det området
+5. Om du känner spänning, andas in i det området
 6. Fortsätt till toppen av ditt huvud
-7. Tar 10-20 minuter
+7. Tar 10–20 minuter
 
-**För pétanque:** Hjälper dig att lägga märke till spänning innan det påverkar ditt kast.
+**För boule:** Hjälper dig att märka spänningar innan de påverkar ditt kast.
 
-### Gå-meditation
+### Vandringsmeditation
 
-Mindfulness i rörelse - utmärkt förberedelse för banan.
+Mindfulness i rörelse – bra förberedelse inför pisten.
 
-**Hur man gör:**
+**Hur man gör det:**
 1. Gå långsamt och medvetet
-2. Känn varje del av steget: lyfta, flytta, placera
-3. Lägg märke till förnimmelserna i dina fötter och ben
-4. När ditt sinne vandrar, återvänd till de fysiska förnimmelserna
+2. Känn varje del av steget: lyft, flytta, placera
+3. Lägg märke till känslorna i dina fötter och ben
+4. När dina tankar vandrar, återvänd till de fysiska förnimmelserna
 5. 5-10 minuter räcker
 
-## Informella praktiker
+## Informella metoder
 
 Dessa integrerar mindfulness i dagliga aktiviteter.
 
 ### Medveten andning
 
-Den enklaste tekniken - tillgänglig när som helst.
+Den enklaste tekniken – tillgänglig när som helst.
 
-**Praktiken:**
-- Ta 3 långsamma, medvetna andetag
+**Övningen:**
+- Ta 3 långsamma, avsiktliga andetag
 - Fokusera helt på känslan
-- Använd det som en återställningsknapp genom dagen
+- Använd den som en återställningsknapp under hela dagen
 
-**När att använda det:**
-- Innan du går in i cirkeln
-- När du märker att stress bygger upp
-- Mellan matcher
-- Varje övergångsögonblick
+**När ska det användas:**
+- Innan man kliver in i cirkeln
+- När du märker att stressen ökar
+- Mellan spelen
+- Vilket övergångsmoment som helst
 
 ### SOAS-metoden
 
-Ditt verktyg för att hantera svåra ögonblick.
+Ditt verktyg för att hantera svåra stunder.
 
 | Steg | Handling | Exempel |
 |------|--------|---------|
-| **S**topp | Pausa, reagera inte | Kasta inte upp händerna efter en miss |
-| **O**bservera | Lägg märke till vad som händer | "Jag känner mig frustrerad. Min käke är spänd." |
-| **A**cceptera | Erkänn utan att kämpa | "Så här känner jag mig just nu." |
-| **S**läpp | Släpp det, gå vidare | Släpp spänningen, återvänd till nuet |
+| **Stopp | Pausa, reagera inte | Räck inte upp händerna efter en miss |
+| **Observera | Lägg märke till vad som händer | &quot;Jag känner mig frustrerad. Jag har spänt i käken.&quot; |
+| **Acceptera | Erkänn utan att kämpa | &quot;Så här känner jag mig just nu.&quot; |
+| **Glida | Släpp det, gå vidare | Släpp spänningen, återvänd till nuet |
 
-**Öva detta i dagliga livet** så att det blir automatiskt i tävling.
+**Öva på detta i vardagen** så att det sker automatiskt i tävling.
 
-### Mindful ätande
+### Medveten ätning
 
-En överraskande kraftfull praktik.
+En förvånansvärt kraftfull övning.
 
-**Hur man gör:**
+**Hur man gör det:**
 - Ät en måltid utan distraktioner (ingen telefon, TV)
-- Lägg märke till färgerna, lukterna, texturerna
-- Tugga långsamt, smaka fullt ut
-- Lägg märke till när du är nöjd
+- Lägg märke till färgerna, dofterna, texturerna
+- Tugga långsamt, smaka noggrant
+- Märk ut när du är nöjd
 
-**Varför det spelar roll:** Bygger den allmänna färdigheten att vara uppmärksam.
+**Varför det är viktigt:** Bygger upp den allmänna förmågan att vara uppmärksam.
 
 ### Sensorisk medvetenhet
 
-Engagera dig fullt ut med din omgivning.
+Att engagera sig fullt ut i din omgivning.
 
-**5-4-3-2-1 tekniken:**
+**5-4-3-2-1-tekniken:**
 - Lägg märke till 5 saker du kan se
 - Lägg märke till 4 saker du kan höra
 - Lägg märke till 3 saker du kan känna
-- Lägg märke till 2 saker du kan lukta
+- Lägg märke till 2 saker du kan känna lukten av
 - Lägg märke till 1 sak du kan smaka
 
-**Använd detta:** När ditt sinne rasar innan en stor match.
+**Använd detta:** När dina tankar rusar inför en stor match.
 
 ## Tävlingsspecifika tekniker
 
-### Andningen före kastet
+### Andningen före sprutan
 
-Integrera andning i din rutin:
+Integrera andningen i din rutin:
 
 1. Innan du går in i cirkeln, ta ett medvetet andetag
 2. Känn dina fötter på marken
-3. Låt dina axlar falla vid utandningen
-4. Börja sedan din rutin
+3. Låt axlarna sänkas vid utandningen
+4. Börja sedan med din rutin
 
 ### Återställning mellan kast
 
-Vad att göra medan du väntar:
+Vad man ska göra medan man väntar:
 
 - Lägg märke till vart din uppmärksamhet går
-- Om den går till poäng/resultat, erkänn och återvänd till nuet
-- Fokusera på något neutralt (din andning, känslan av en boule)
+- Om det går till poäng/resultat, bekräfta och återgå till presentationen
+- Fokusera på något neutralt (din andning, känslan av att spela boule)
 - Håll dig fysiskt avslappnad
 
-### "Mindfulness-klockan"
+### &quot;Mindfulnessklockan&quot;
 
 Använd triggers för att påminna dig om att vara närvarande:
 
-- Varje gång du plockar upp en boule
-- När du hör cochonneten kastas
-- När du går in i cirkeln
-- När en match slutar
+- Varje gång du plockar upp ett klot
+- När du hör att jacken kastas
+- När du kliver in i cirkeln
+- När ett spel slutar
 
 Varje trigger = ett medvetet andetag.
 
 ## Bygga din praktik
 
-### Vecka 1-2: Grund
-- 5 minuters sittande meditation dagligen
+### Vecka 1-2: Grunden
+- 5 minuter sittande meditation dagligen
 - 3 medvetna andetag före varje måltid
-- Öva SOAS en gång när något mindre går fel
+- Öva på SOAS en gång när något mindre går fel
 
 ### Vecka 3-4: Expansion
-- Öka meditation till 10 minuter
-- Lägg till kroppsscanning två gånger per vecka
-- Använd mindfulness-klocka triggers i träning
+- Öka meditationen till 10 minuter
+- Lägg till kroppsskanning två gånger per vecka
+- Använd mindfulness-klockutlösare i praktiken
 
 ### Vecka 5+: Integration
-- 15-20 minuters daglig praktik
-- Full integration i rutin före kast
+- 15–20 minuters daglig träning
+- Fullständig integration i rutinen för behandling före sprutning
 - SOAS blir automatisk respons på misstag
 
 ## Vanliga utmaningar
 
 | Utmaning | Lösning |
 |-----------|----------|
-| "Jag kan inte sluta tänka" | Det ska du inte heller. Lägg bara märke till och återvänd. |
-| "Jag har inte tid" | Börja med 3 minuter. Alla har 3 minuter. |
-| "Jag somnar" | Försök sitta istället för att ligga, eller öva tidigare på dagen. |
-| "Det känns meningslöst" | Fördelar kommer med konsistens. Lita på processen. |
-| "Jag glömmer att öva" | Sätt en daglig påminnelse. Koppla det till en befintlig vana. |
+| &quot;Jag kan inte sluta tänka&quot; | Det ska du inte. Lägg bara märke till och kom tillbaka. |
+| &quot;Jag har inte tid&quot; | Börja med 3 minuter. Alla har 3 minuter. |
+| &quot;Jag somnar&quot; | Försök att sitta istället för att ligga ner, eller öva tidigare på dagen. |
+| &quot;Det känns meningslöst&quot; | Fördelar kommer med konsekvens. Lita på processen. |
+| &quot;Jag glömmer att öva&quot; | Ställ in en daglig påminnelse. Koppla den till en befintlig vana. |
 
-## Nyckelpoäng
+## Viktig slutsats
 
-> Mindfulness är en färdighet. Som alla färdigheter förbättras den med övning.
+> Mindfulness är en färdighet. Liksom alla färdigheter förbättras den med övning.
 
 Börja smått. Var konsekvent. Fördelarna ökar med tiden.
 

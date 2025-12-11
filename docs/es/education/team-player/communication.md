@@ -1,203 +1,220 @@
-# Comunicación de equipo
+# Comunicación en equipo
 
-La comunicación efectiva es lo que transforma un grupo de individuos en un equipo. En petanca, donde la estrategia cambia constantemente y la presión es alta, cómo te comunicas puede determinar el resultado.
+La comunicación eficaz es lo que transforma a un grupo de personas en un equipo. En la petanca, donde la estrategia cambia constantemente y la presión es alta, la forma de comunicarse puede determinar el resultado.
 
-## El ciclo de comunicación
+::: tip La gran idea
+**La comunicación es lo que transforma a los individuos en un equipo.** Una comunicación clara, específica y de apoyo bajo presión separa a los buenos equipos de los excelentes.
+:::
 
-La buena comunicación de equipo sigue un ciclo:
+## El ciclo de la comunicación
 
+La buena comunicación en equipo sigue un ciclo:
+
+```mermaid
+graph LR
+    A[Observar] --> B[Compartir]
+    B --> C[Conversar]
+    C --> D[Decidir]
+    D --> E[Ejecutar]
+    E --> F[Revisar]
+    F --> A
+
+    style A fill:#e3f2fd
+    style D fill:#e8f5e9
+    style E fill:#fff4e1
+    style F fill:#f3e5f5
 ```
-Observar → Compartir → Discutir → Decidir → Ejecutar → Revisar
-```
 
-1. **Observar:** Notar lo que está sucediendo (terreno, posiciones, oponentes)
-2. **Compartir:** Decir a tus compañeros lo que ves
-3. **Discutir:** Intercambiar perspectivas e ideas
-4. **Decidir:** Acordar el enfoque
-5. **Ejecutar:** Hacerlo con compromiso
-6. **Revisar:** Aprender del resultado
+| Paso | Acción | Ejemplo |
+|------|--------|---------|
+| **Observar** | Observa lo que está pasando | Terreno, posiciones, oponentes |
+| **Compartir** | Cuéntales a tus compañeros lo que ves | &quot;El terreno se inclina hacia la izquierda allí&quot; |
+| **Conversar** | Intercambio de perspectivas | &quot;¿Debería bloquear o ir por el punto?&quot; |
+| **Decidir** | Acordar el enfoque | &quot;Vamos a probar el globo alto&quot; |
+| **Ejecutar** | Hazlo con compromiso | Concentración total en el lanzamiento |
+| **Revisar** | Aprender de los resultados | &quot;Eso funcionó bien&quot; o &quot;La próxima vez...&quot; |
 
-## Cuándo comunicar
+## Cuándo comunicarse
 
-### Antes de cada final
+### Antes de cada fin
 - Evaluar el terreno juntos
-- Discutir enfoque general
-- Aclarar quién lanza cuándo
-- Establecer el tono (calmado, enfocado)
+- Discutir el enfoque general
+- Aclarar quién lanza y cuándo
+- Establezca el tono (tranquilo, centrado)
 
 ### Durante el final
-- Compartir observaciones ("El suelo se inclina a la izquierda allí")
-- Coordinar estrategia ("¿Debería intentar bloquear o ir por el punto?")
-- Ofrecer apoyo ("Tómate tu tiempo, lo tienes")
-- Ajustar planes a medida que cambia la situación
+- Compartir observaciones (&quot;El terreno se inclina hacia la izquierda&quot;)
+- Coordinar la estrategia (&quot;¿Debería intentar bloquear o ir por el punto?&quot;)
+- Ofrecer apoyo (&quot;Tómate tu tiempo, tú puedes&quot;)
+- Ajustar los planes a medida que cambia la situación
 
-### Entre finales
-- Informe rápido (qué funcionó, qué no)
+### Entre extremos
+- Breve informe (qué funcionó y qué no)
 - Reiniciar mentalmente
-- Prepararse para el siguiente final
-- Permanecer conectados como equipo
+- Prepárate para el próximo final
+- Manténgase conectado como equipo
 
 ### Después del juego
-- Informe completo (cuando sea apropiado)
+- Informe completo (cuando corresponda)
 - Reconocer contribuciones
 - Identificar aprendizajes
 - Mantener la relación
 
-## Cómo comunicar
+## Cómo comunicarse
 
-### Ser claro y específico
+### Sea claro y específico
 
-**Vago:** "Intenta acercarte"
-**Claro:** "Apunta al lado izquierdo del boliche, unos 20cm fuera"
+**Vago:** &quot;Intenta acercarte&quot;
+**Despejado:** &quot;Apunta al lado izquierdo del gato, a unos 20 cm hacia afuera&quot;
 
-**Vago:** "Buen intento"
-**Claro:** "Buen peso, solo un poco a la izquierda de la línea"
+**Vago:** &quot;Buen intento&quot;
+**Claro:** &quot;Buen peso, un poco a la izquierda de la línea&quot;
 
-### Ser constructivo
+### Sea constructivo
 
-Enfócate en soluciones, no en problemas:
+Centrarse en las soluciones, no en los problemas:
 
-**Enfocado en problemas:** "Sigues fallando a la derecha"
-**Enfocado en soluciones:** "¿Tal vez intenta apuntar un poco más a la izquierda para compensar?"
+**Enfocado en el problema:** &quot;Sigues fallando hacia la derecha&quot;
+**Enfocado en la solución:** &quot;¿Quizás podrías intentar apuntar un poco más hacia la izquierda para compensar?&quot;
 
-### Ser solidario
+### Sea solidario
 
 Tu tono importa tanto como tus palabras:
-- Mantén la calma, incluso cuando estés frustrado
-- Usa lenguaje corporal alentador
-- Reconoce el esfuerzo, no solo los resultados
+- Mantén la calma, incluso cuando te sientas frustrado
+- Utilice un lenguaje corporal alentador
+- Reconozca el esfuerzo, no sólo los resultados
 - Construye, no destruyas
 
 ### Escuchar activamente
 
 La comunicación es bidireccional:
-- Presta toda tu atención cuando los compañeros hablan
-- Haz preguntas aclaratorias
+- Preste toda su atención cuando sus compañeros de equipo hablen.
+- Haga preguntas aclaratorias
 - Reconoce lo que has escuchado
-- No interrumpas ni desestimes
+- No interrumpir ni despedir
 
-## Desafíos de comunicación
+## Desafíos de la comunicación
 
-### Desacuerdo sobre estrategia
+### Desacuerdo sobre la estrategia
 
-**Enfoque pobre:**
-- Insistir en tu manera
+**Mal enfoque:**
+- Insiste en tu camino
 - Ponerse a la defensiva
 - Ceder con resentimiento
 - Discutir durante el juego
 
 **Mejor enfoque:**
 1. Comparte tu perspectiva claramente
-2. Escucha la suya completamente
-3. Discute pros y contras brevemente
-4. Decide juntos (o difiere al líder designado)
-5. Comprométete completamente con la decisión
-6. Revisa después del juego
+2. Escuchenlos completamente
+3. Discuta brevemente los pros y los contras
+4. Decidir juntos (o dejar la decisión en manos del líder designado)
+5. Comprometerse plenamente con la decisión
+6. Reseña después del partido
 
-### Después del error de un compañero
+### Después del error de un compañero de equipo
 
 **Lo que necesitan:**
 - Reconocimiento rápido
 - Permiso para seguir adelante
-- Confianza de que aún confías en ellos
-- Enfoque en el siguiente lanzamiento
+- Confianza en que todavía confías en ellos
+- Concéntrese en el siguiente lanzamiento
 
 **Qué decir:**
-- "Sin problema, el siguiente"
-- "Mala suerte, tienes el siguiente"
-- "Todavía estamos en esto"
-- *A veces solo un gesto o palmada es suficiente*
+- &quot;No hay problema, el siguiente&quot;
+- &quot;Buena suerte, te toca el siguiente&quot;
+- &quot;Seguimos en esto&quot;
+- *A veces basta con un gesto o una palmadita*
 
 **Qué NO decir:**
-- Nada (el silencio se siente como juicio)
-- "Está bien" (puede sonar desdeñoso)
-- Cualquier cosa sobre lo que salió mal (no ahora)
+- Nada (el silencio parece un juicio)
+- &quot;Está bien&quot; (puede sonar despectivo)
+- ¿Algo sobre lo que salió mal? (no ahora)
 - Frustración visible (el lenguaje corporal cuenta)
 
 ### Cuando cometes un error
 
 **Qué hacer:**
-- Reconocimiento breve ("Mi culpa")
-- No te disculpes en exceso
+- Breve reconocimiento (&quot;Mi error&quot;)
+- No te disculpes demasiado
 - No pongas excusas
-- Reinicia y enfócate en el siguiente lanzamiento
-- Confía en que tus compañeros te apoyarán
+- Reiniciar y concentrarse en el siguiente lanzamiento
+- Confía en que tus compañeros de equipo te apoyarán
 
 ### Tensión en el equipo
 
-Si la tensión aumenta durante un juego:
+Si aumenta la tensión durante un juego:
 1. Reconoce que está sucediendo
 2. Respira antes de responder
-3. Enfócate en el juego, no en el conflicto
-4. Abórdalo adecuadamente después del juego
+3. Concéntrese en el juego, no en el conflicto.
+4. Abordarlo adecuadamente después del juego
 5. No dejes que afecte tu juego
 
 ## Comunicación no verbal
 
-Gran parte de la comunicación de equipo es no verbal:
+Gran parte de la comunicación en equipo es no verbal:
 
 ### Señales positivas
 - Contacto visual
-- Asentir
-- Pulgar arriba
+- Cabeceo
+- Pulgares hacia arriba
 - Postura relajada
-- Moverse hacia los compañeros
-- Sonreír (cuando sea apropiado)
+- Moviéndose hacia los compañeros de equipo
+- Sonriendo (cuando sea apropiado)
 
-### Señales negativas (Evita estas)
-- Poner los ojos en blanco
-- Darse la vuelta
+### Señales negativas (evítelas)
+- Poniendo los ojos en blanco
+- Dándose la vuelta
 - Brazos cruzados
-- Suspirar
-- Sacudir la cabeza
+- Suspirando
+- Sacudiendo la cabeza
 - Lenguaje corporal tenso
 
-**Recuerda:** Tus compañeros ven todo. Tu lenguaje corporal afecta su confianza y rendimiento.
+**Recuerda:** Tus compañeros lo ven todo. Tu lenguaje corporal influye en su confianza y rendimiento.
 
-## Construir hábitos de comunicación
+## Desarrollando hábitos de comunicación
 
-### Practicar la comunicación
+### Comunicación práctica
 
-No esperes a la competencia para comunicarte:
-- Practica discusiones estratégicas en el entrenamiento
-- Dense retroalimentación regularmente
-- Desarrolla tu lenguaje de equipo
-- Construye comodidad con conversación honesta
+No esperes a que la competencia se comunique:
+- Practicar debates estratégicos en la formación
+- Darnos retroalimentación regularmente
+- Desarrolla el lenguaje de tu equipo
+- Genere comodidad con una conversación honesta
 
 ### Desarrollar señales de equipo
 
 Algunos equipos desarrollan taquigrafía:
-- Señales de mano para estrategia
+- Señales manuales para la estrategia
 - Palabras clave para situaciones
 - Frases rápidas con significado compartido
 
-### Chequeos regulares
+### Registros regulares
 
 Fuera de los juegos:
 - ¿Cómo estamos trabajando juntos?
 - ¿Qué va bien?
 - ¿Qué podría ser mejor?
-- ¿Algún problema que abordar?
+- ¿Hay algún problema que abordar?
 
 ## El papel del capitán
 
-Si tu equipo tiene un líder designado:
+Si su equipo tiene un líder designado:
 
 **Responsabilidades del capitán:**
 - Decisión final cuando el equipo no está de acuerdo
-- Establecer el tono y la energía
-- Gestionar la dinámica del equipo
-- Mantener el enfoque durante la presión
+- Estableciendo el tono y la energía
+- Gestión de la dinámica del equipo
+- Mantener la concentración bajo presión
 
 **Todos los demás:**
 - Comparte tu perspectiva
-- Apoya la decisión una vez tomada
+- Apoyar la decisión una vez tomada
 - Ayuda a mantener la energía del equipo
-- Asume responsabilidad por tu papel
+- Asume la responsabilidad de tu rol
 
 ## Conclusión clave
 
 > Los grandes equipos hablan entre sí, no sobre los demás. Se comunican con honestidad, respeto y un compromiso compartido con el éxito.
 
-Practica la comunicación como practicas el lanzamiento. Es una habilidad que mejora con atención.
+Practica la comunicación como si lanzaras. Es una habilidad que mejora con la atención.
 

@@ -1,167 +1,190 @@
-# Ser um grande jogador de equipe
+# Ser um ótimo jogador de equipe
 
-A petanca é frequentemente jogada em equipes - duplas (doublettes) ou triplas (triplettes). A habilidade individual importa, mas a dinâmica de equipe pode fazer ou quebrar seus resultados. As melhores equipes nem sempre são as mais habilidosas - são aquelas que trabalham melhor juntas.
+A petanca é frequentemente jogada em equipes — duplas (doubletes) ou trios (tripletes). A habilidade individual é importante, mas a dinâmica da equipe pode determinar o sucesso ou o fracasso. As melhores equipes nem sempre são as mais habilidosas, mas sim aquelas que melhor trabalham juntas.
 
-## O que faz um grande companheiro de equipe?
+::: tip A Grande Ideia
+**As melhores equipes nem sempre são as mais habilidosas, mas sim aquelas que trabalham melhor juntas.** Ser humilde, ambicioso e emocionalmente inteligente faz de você um ótimo membro de equipe.
+:::
 
-Pesquisa e experiência apontam para três qualidades-chave:
+```mermaid
+graph TD
+    A[Ótimo companheiro de equipe] --> B[Humilde]
+    A --> C[Com fome]
+    A --> D[Inteligente]
+
+    B --> E[Sucesso da Equipe]
+    C --> E
+    D --> E
+
+    E --> F[Desempenho de campeão]
+
+    style A fill:#e8f5e9
+    style B fill:#e3f2fd
+    style C fill:#fff4e1
+    style D fill:#f3e5f5
+    style F fill:#fff4e1
+```
+
+## O que define um ótimo companheiro de equipe?
+
+Pesquisas e experiências apontam para três qualidades principais:
 
 ### 1. Humilde
-- Prioriza o sucesso da equipe sobre a glória pessoal
-- Reconhece as contribuições dos outros
-- Admite erros sem desculpas
+- Prioriza o sucesso da equipe em detrimento da glória pessoal.
+- Reconhece as contribuições dos outros.
+- Admite os erros sem dar desculpas.
 - Aberto a feedback e aprendizado
-- Não precisa ser a estrela
+- Não precisa ser a estrela.
 
-### 2. Faminto
+### 2. Com fome
 - Automotivado e determinado
-- Faz o trabalho sem ser solicitado
-- Sempre procurando melhorar
-- Traz energia para a equipe
-- Não se apoia apenas no talento
+- Executa o trabalho sem que lhe peçam.
+- Sempre em busca de melhorias.
+- Traz energia para a equipe.
+- Não se apoia apenas no talento.
 
-### 3. Inteligente (Emocionalmente)
-- Lê bem situações e pessoas
-- Sabe quando falar e quando ouvir
+### 3. Inteligente (emocionalmente)
+- Sabe ler situações e pessoas.
+- Sabe quando falar e quando ouvir.
 - Gerencia suas próprias emoções
-- Apoia companheiros de equipe apropriadamente
-- Lida com conflitos construtivamente
+- Apoia os colegas de equipe de forma adequada.
+- Lida com conflitos de forma construtiva.
 
-## Os fundamentos do sucesso da equipe
+## Os fundamentos do sucesso em equipe
 
 ### Objetivos e visão compartilhados
 
-Equipes fortes têm:
+Equipes fortes possuem:
 - Objetivos claros e acordados
-- Metas individuais alinhadas com metas da equipe
-- Compreensão compartilhada de como é o sucesso
+- Metas individuais alinhadas com as metas da equipe
+- Entendimento compartilhado sobre o que significa sucesso.
 - Compromisso com a missão coletiva
 
 **Perguntas para discutir com sua equipe:**
 - O que estamos tentando alcançar juntos?
-- Como é o sucesso para nós?
-- Como nossos objetivos individuais apoiam a equipe?
+- O que significa sucesso para nós?
+- De que forma nossos objetivos individuais contribuem para o sucesso da equipe?
 
 ### Comunicação eficaz
 
-A comunicação é a alma do desempenho da equipe.
+A comunicação é a essência do desempenho da equipe.
 
-**Boa comunicação de equipe:**
-- Aberta e honesta
-- Respeitosa, mesmo em desacordo
-- Clara e específica
-- Bidirecional (falar E ouvir)
-- Oportuna (informação certa na hora certa)
+**Boa comunicação em equipe:**
+- Aberto e honesto
+- Respeitoso, mesmo em discordância.
+- Claro e específico
+- Comunicação bidirecional (fala E escuta)
+- Oportuno (informação correta no momento certo)
 
 **Durante os jogos:**
-- Discutir estratégia antes de cada final
-- Compartilhar observações sobre terreno, oponentes
-- Coordenar quem lança quando
-- Apoiar-se mutuamente após lançamentos (bons ou ruins)
+- Discuta a estratégia antes de cada final.
+- Compartilhe observações sobre o terreno e os oponentes.
+- Coordenar quem arremessa e quando.
+- Apoiem-se mutuamente após os lançamentos (bons ou ruins).
 
-### Confiança e respeito
+### Confiança e Respeito
 
-Sem confiança, as equipes desmoronam sob pressão.
+Sem confiança, as equipes se desfazem sob pressão.
 
-**Construir confiança:**
-- Ser confiável (fazer o que diz)
-- Ser competente (fazer bem seu trabalho)
-- Ser honesto (mesmo quando é difícil)
-- Mostrar vulnerabilidade (admitir lutas)
-- Apoiar outros consistentemente
+**Construindo confiança:**
+- Seja confiável (faça o que você diz)
+- Seja competente (faça bem o seu trabalho)
+- Seja honesto (mesmo quando for difícil)
+- Demonstre vulnerabilidade (admita as dificuldades)
+- Apoie os outros de forma consistente.
 
-**Mostrar respeito:**
-- Valorizar a contribuição de cada pessoa
-- Ouvir diferentes perspectivas
-- Reconhecer esforço, não apenas resultados
-- Tratar o papel de todos como importante
+**Demonstrando respeito:**
+- Valorize a contribuição de cada pessoa.
+- Ouça diferentes perspectivas.
+- Reconheça o esforço, não apenas os resultados.
+- Trate o papel de cada um como importante.
 
-### Papéis claros
+### Funções claras
 
 Todos devem entender:
-- Suas responsabilidades principais
-- Como contribuem para a equipe
-- Para o que outros contam com eles
-- Quando dar um passo à frente e quando recuar
+- Suas principais responsabilidades
+- Como eles contribuem para a equipe
+- O que os outros esperam deles.
+- Quando avançar e quando recuar.
 
-**Em triplas:**
-| Papel | Foco principal | Qualidades-chave |
+**Em trios:**
+| Papel | Foco principal | Qualidades Essenciais |
 |------|--------------|---------------|
-| Apontador | Colocar bolas perto do bolim | Precisão, consistência |
-| Meio | Adaptar à situação | Versatilidade, ler o jogo |
-| Atirador | Remover bolas do oponente | Precisão sob pressão |
+| Ponteiro | Coloque as bolas perto do jack | Precisão, consistência |
+| Meio | Adapte-se à situação. | Versatilidade, jogo de leitura |
+| Atirador | Remova as bolas do oponente | Precisão sob pressão |
 
-Os papéis podem ser flexíveis, mas a clareza ajuda.
+As funções podem ser flexíveis, mas a clareza ajuda.
 
 ## Dinâmica de equipe durante a competição
 
 ### Antes do jogo
 - Chegar juntos, aquecer juntos
-- Discutir estratégia geral
-- Definir o tom (positivo, focado)
-- Verificar como todos estão se sentindo
+- Discutir a estratégia geral
+- Defina o tom (positivo, focado)
+- Veja como todos estão se sentindo.
 
 ### Durante o jogo
-- Comunicar entre finais
-- Permanecer positivo independentemente da pontuação
-- Apoiar-se mutuamente após erros
-- Celebrar sucessos juntos (brevemente)
-- Permanecer focado no processo, não no resultado
+- Comunicação entre as extremidades
+- Mantenha uma atitude positiva, independentemente do placar.
+- Apoiem-se mutuamente após erros.
+- Comemorem juntos as conquistas (brevemente)
+- Mantenha o foco no processo, não no resultado.
 
 ### Após erros
 O que NÃO fazer:
-- Mostrar frustração visivelmente
+- Demonstre frustração visivelmente
 - Criticar ou culpar
 - Retirar-se ou ficar em silêncio
-- Demorar-se no que aconteceu
+- Reflita sobre o que aconteceu.
 
 O que fazer:
-- Reconhecimento rápido ("sem problema")
-- Mover o foco para o próximo lançamento
-- Manter linguagem corporal positiva
-- Confiar que seu companheiro de equipe se recuperará
+- Resposta rápida (&quot;sem problema&quot;)
+- Concentre-se no próximo arremesso.
+- Mantenha uma linguagem corporal positiva.
+- Confie que seu companheiro de equipe se recuperará.
 
 ### Após o jogo
-- Fazer debriefing juntos (o que funcionou, o que não funcionou)
-- Reconhecer contribuições individuais
-- Discutir melhorias para a próxima vez
-- Manter relacionamentos independentemente do resultado
+- Analisar juntos o resultado (o que funcionou, o que não funcionou).
+- Reconhecer as contribuições individuais
+- Discutir melhorias para a próxima vez.
+- Mantenha os relacionamentos independentemente do resultado.
 
 ## Padrões de comunicação
 
 ### Feedback construtivo
-**Ruim:** "Você continua errando esses lançamentos"
-**Melhor:** "Notei que os lançamentos estão indo para a esquerda - quer tentar ajustar sua postura?"
+**Pobre:** &quot;Você continua errando esses arremessos&quot;
+**Melhor:** &quot;Notei que os golpes estão indo para a esquerda - quer tentar ajustar sua postura?&quot;
 
-### Resposta de apoio a erros
+### Resposta de apoio aos erros
 **Ruim:** *Silêncio ou frustração visível*
-**Melhor:** "Difícil. Você tem o próximo."
+**Melhor:** &quot;Essa foi difícil. Você consegue lidar com a próxima.&quot;
 
 ### Discussão estratégica
-**Ruim:** "Apenas atire"
-**Melhor:** "O que você acha - apontar para bloquear ou tentar atirar? Vejo prós e contras em ambos."
+**Pobre:** &quot;Apenas atire&quot;
+**Melhor:** &quot;O que você acha: apontar para bloquear ou tentar chutar? Vejo prós e contras nas duas opções.&quot;
 
-## Construir cultura de equipe
+## Construindo uma Cultura de Equipe
 
-Grandes equipes desenvolvem:
-- **Valores:** O que representamos
+Grandes equipes desenvolvem habilidades compartilhadas:
+- **Valores:** Aquilo que defendemos
 - **Normas:** Como nos comportamos
 - **Linguagem:** Como nos comunicamos
 - **Rituais:** O que fazemos juntos
 
 **Exemplos:**
-- Sempre apertar as mãos antes e depois
-- Frases de encorajamento específicas
+- Aperte sempre as mãos antes e depois.
+- Frases específicas de incentivo
 - Rotina pré-jogo juntos
 - Refeição ou bebida pós-jogo
 
 ## Nesta seção
 
-- **[Comunicação de equipe](/pt/education/team-player/communication)** - Guia detalhado para comunicar eficazmente
+- **[Comunicação em Equipe](/en/education/team-player/communication)** - Guia detalhado para se comunicar de forma eficaz
 
-## Conclusão principal
+## Ponto-chave
 
-> Sua equipe é apenas tão forte quanto seu relacionamento mais fraco, não seu jogador mais fraco.
+> A força de uma equipe é medida pelo seu elo mais frágil, não pelo seu jogador mais fraco.
 
-Invista em seus companheiros de equipe. Construa confiança. Comunique bem. Vença juntos.
+Invista em seus companheiros de equipe. Construa confiança. Comunique-se bem. Vençam juntos.
 

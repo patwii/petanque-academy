@@ -1,125 +1,172 @@
-# Doelen stellen voor pétanque-spelers
+# Doelstellingen formuleren voor pétanque-spelers
 
-Duidelijke doelen zijn je kompas. Ze geven richting aan je training, motivatie wanneer dingen moeilijk worden, en een manier om vooruitgang te meten. Zonder doelen gooi je alleen maar ballen. Met doelen bouw je naar iets toe.
+Duidelijke doelen zijn je kompas. Ze geven richting aan je training, motiveren je wanneer het moeilijk wordt en stellen je in staat je vooruitgang te meten. Zonder doelen gooi je maar wat rond. Met doelen werk je ergens naartoe.
+
+::: tip Het kernprincipe
+**Een doel zonder plan is slechts een wens.** Stel duidelijke doelen, verdeel ze in kleinere stappen, focus op wat je wél kunt beïnvloeden en houd je voortgang bij.
+:::
 
 ## Waarom doelen belangrijk zijn
 
 Doelen dienen meerdere doeleinden:
-- **Richting:** Weten waaraan te werken
+- **Aanwijzingen:** Weet waaraan je moet werken
 - **Motivatie:** Iets hebben om naar te streven
-- **Meting:** Je vooruitgang volgen
-- **Focus:** Je beperkte tijd prioriteren
+- **Meten:** Houd je voortgang bij
+- **Aandachtspunt:** Geef prioriteit aan je beperkte tijd.
 
-Voor de zelfgestuurde speler zijn doelen bijzonder belangrijk. Zonder een coach die je aanspoort, worden je doelen je gids.
+Voor de zelfstandige speler zijn doelen bijzonder belangrijk. Zonder een coach die je aanspoort, worden je doelen je leidraad.
 
 ## De drie soorten doelen
 
-Niet alle doelen zijn gelijk. Het begrijpen van de verschillende types helpt je betere te stellen.
+Niet alle doelen zijn gelijk. Inzicht in de verschillende soorten doelen helpt je betere doelen te stellen.
 
 ### 1. Resultaatdoelen
-**Wat:** Het eindresultaat dat je wilt
-**Voorbeeld:** "Win het regionale kampioenschap"
-**Controleniveau:** Laag - hangt af van tegenstanders, omstandigheden, geluk
+**Wat:** Het gewenste eindresultaat
+**Voorbeeld:** &quot;Win het regionale kampioenschap&quot;
+**Controleniveau:** Laag - afhankelijk van tegenstanders, omstandigheden en geluk.
 
 ### 2. Prestatiedoelen
 **Wat:** Specifieke prestatienormen
-**Voorbeeld:** "Bereik 80% nauwkeurigheid bij schietoefeningen"
-**Controleniveau:** Gemiddeld - hangt voornamelijk van jou af
+**Voorbeeld:** &quot;Behaal een nauwkeurigheid van 80% bij schietoefeningen&quot;
+**Controleniveau:** Gemiddeld - hangt grotendeels van jou af.
 
 ### 3. Procesdoelen
-**Wat:** Acties en gedragingen die je controleert
-**Voorbeeld:** "Voltooi mijn routine voor de worp bij elke worp"
-**Controleniveau:** Hoog - volledig aan jou
+**Wat:** Handelingen en gedragingen die je zelf in de hand hebt
+**Voorbeeld:** &quot;Voltooi mijn voorbereidingsroutine bij elke worp&quot;
+**Controleniveau:** Hoog - geheel naar uw eigen keuze.
 
 ### De doelhiërarchie
 
+```mermaid
+graph TD
+    A[Resultaatdoel <br/> De droom] --> B[Prestatiedoelen <br/> Mijlpalen]
+    B --> C[Procesdoelen <br/> Dagelijkse acties]
+
+    A2[&quot;Win het regionale kampioenschap&quot;] --> B2[&quot;Schietnauwkeurigheid van 80%&quot;]
+    B2 --> C2[&quot;Volledige voorbereiding op de opname <br/> elke worp]
+
+    style A fill:#e1f5ff
+    style B fill:#fff9c4
+    style C fill:#c8e6c9
+    style A2 fill:#e1f5ff
+    style B2 fill:#fff9c4
+    style C2 fill:#c8e6c9
 ```
-Resultaatdoel (Droom)
-    ↓
-Prestatiedoelen (Mijlpalen)
-    ↓
-Procesdoelen (Dagelijkse acties)
-```
 
-**Belangrijk inzicht:** Richt het grootste deel van je aandacht op procesdoelen. Ze zijn wat je controleert, en ze leiden tot de resultaten die je wilt.
+::: warning Kerninzicht
+**Richt je aandacht vooral op de procesdoelen.** Die heb je zelf in de hand en leiden tot de gewenste resultaten.
 
-## Het SMART-kader
+- **Resultaatdoelen:** Weinig controle, veel motivatie
+- **Prestatiedoelen:** Gemiddelde controle, meetbare vooruitgang
+- **Procesdoelen:** Hoge mate van controle, dagelijkse focus ← **Focus hier**
+:::
 
-Maak je doelen SMART:
+## Het SMART-raamwerk
+
+::: info Checklist voor SMART-doelen
+Elk doel zou moeten zijn:
+- ✅ **Specifiek** - Duidelijk en goed gedefinieerd
+- ✅ **M**emetbaar - Je kunt je voortgang bijhouden
+- ✅ **A**haalbaar - Uitdagend maar mogelijk
+- ✅ **R**elevant - Afgestemd op je grotere geheel
+- ✅ **Tijdgebonden** - Heeft een deadline
+:::
 
 ### S - Specifiek
-❌ "Beter worden in schieten"
-✅ "Mijn au fer (directe treffer) nauwkeurigheid vanaf 8 meter verbeteren"
+❌ &quot;Word beter in schieten&quot;
+✅ &quot;Verbeter mijn nauwkeurigheid bij directe treffers vanaf 8 meter&quot;
 
 ### M - Meetbaar
-❌ "Nauwkeuriger schieten"
-✅ "Minstens 24/30 scoren bij de schietladder-oefening"
+❌ &quot;Schiet nauwkeuriger&quot;
+✅ &quot;Behaal minimaal 24/30 punten bij de schietoefening met de ladder&quot;
 
 ### A - Haalbaar
-❌ "Nooit een schot missen" (onmogelijk)
-✅ "Nauwkeurigheid met 10% verbeteren over 8 weken" (uitdagend maar realistisch)
+❌ &quot;Mis nooit een schot&quot; (onmogelijk)
+✅ &quot;Verbeter je nauwkeurigheid met 10% in 8 weken&quot; (uitdagend maar realistisch)
 
 ### R - Relevant
-❌ "Een marathon lopen" (niet direct gerelateerd)
-✅ "Balans en stabiliteit verbeteren voor beter werpen" (ondersteunt je spel)
+❌ &quot;Een marathon lopen&quot; (niet direct gerelateerd)
+✅ &quot;Verbeter je balans en stabiliteit voor een betere worp&quot; (ondersteunt je spel)
 
-### T - Tijdgebonden
-❌ "Op een dag zal ik beter zijn"
-✅ "Tegen 15 maart zal ik bereiken..."
+### T - Tijdsgebonden
+❌ &quot;Ooit zal het beter met me gaan&quot;
+✅ &quot;Voor 15 maart zal ik bereiken...&quot;
 
-## Doelvoorbeelden voor pétanque
+## Voorbeelden van doelen bij pétanque
 
 | Type | Slecht doel | SMART-doel |
 |------|-----------|------------|
-| Resultaat | "Meer winnen" | "De halve finale bereiken bij het Voorjaarstoernooi" |
-| Prestatie | "Beter mikken" | "70% van de punten binnen 50cm op 8m afstand bereiken" |
-| Proces | "Meer oefenen" | "3 gerichte trainingssessies per week voltooien" |
+| Resultaat | &quot;Win meer&quot; | &quot;Bereik de halve finales van het voorjaarstoernooi&quot; |
+| Prestatie | &quot;Beter aanwijzen&quot; | &quot;Behaal 70% van de punten binnen 50 cm op een afstand van 8 m&quot; |
+| Proces | &quot;Oefen meer&quot; | &quot;Voltooi 3 gerichte trainingssessies per week&quot; |
 
-## Grote doelen opsplitsen
+## Het opdelen van grote doelen
 
-Grote doelen kunnen overweldigend aanvoelen. Splits ze op in kleinere stukken:
+Grote doelen kunnen overweldigend aanvoelen. Verdeel ze in kleinere stappen:
 
-### Voorbeeld: "Win het Clubkampioenschap (12 maanden weg)"
+### Voorbeeld: &quot;Win het clubkampioenschap (over 12 maanden)&quot;
 
 **Jaardoel:** Clubkampioenschap winnen
 
-**Kwartaaldoelen:**
-- K1: Schietnauwkeurigheid verbeteren naar 75%
-- K2: Consistente routine voor de worp ontwikkelen
-- K3: Druksituaties beheersen
-- K4: Topprestatie en wedstrijdvoorbereiding
+**Doelstellingen per kwartaal:**
+- Vraag 1: Verbeter de schietnauwkeurigheid tot 75%.
+- Vraag 2: Ontwikkel een consistente routine vóór de opname.
+- Vraag 3: Beheers situaties onder druk
+- Vraag 4: Topprestaties en wedstrijdvoorbereiding
 
-**Maanddoelen (K1):**
-- Maand 1: Basislijn vaststellen, zwakke punten identificeren
-- Maand 2: Focussen op schiettechniek
-- Maand 3: Druk toevoegen aan schietoefening
+**Maandelijkse doelen (Q1):**
+- Maand 1: Stel de basislijn vast en identificeer de zwakke punten.
+- Maand 2: Focus op de schiettechniek
+- Maand 3: Verhoog de druk tijdens schietoefeningen
 
-**Weekdoelen (Maand 2):**
+**Wekelijkse doelen (maand 2):**
 - Week 1: 3 schietsessies, videoanalyse
-- Week 2: Werken aan geïdentificeerd techniekprobleem
-- Week 3: Afstand geleidelijk verhogen
-- Week 4: Vooruitgang testen, plan aanpassen
+- Week 2: Werken aan het geïdentificeerde technische probleem
+- Week 3: De afstand geleidelijk vergroten
+- Week 4: Test de voortgang en pas het plan aan.
 
-## Doelen verbinden met je "Waarom"
+## Je doelen verbinden met je &#39;waarom&#39;.
 
-Doelen werken beter wanneer ze verbonden zijn met diepere motivatie.
+Doelen werken beter wanneer ze verbonden zijn met een dieperliggende motivatie.
 
-Vraag jezelf:
+Stel jezelf de volgende vraag:
 - Waarom wil ik dit bereiken?
 - Wat zal het voor mij betekenen?
-- Hoe zal ik me voelen als ik slaag?
-- Wat drijft me om te verbeteren?
+- Hoe zal ik me voelen als het me lukt?
+- Wat motiveert mij om te verbeteren?
 
-Schrijf je antwoorden op. Keer terug naar ze wanneer motivatie vervaagt.
+Schrijf je antwoorden op. Kijk er nog eens naar terug als je motivatie afneemt.
 
 ## In deze sectie
 
-- **[SMART-doelen in detail](/nl/education/goals/smart-goals)** - Diepgaand in het creëren van effectieve doelen
-- **[Je trainingsplan creëren](/nl/education/goals/planning)** - Doelen omzetten in actie
+- **[SMART-doelen in detail](/en/education/goals/smart-goals)** - Een diepgaande analyse van het formuleren van effectieve doelen
+- **[Je trainingsplan opstellen](/en/education/goals/planning)** - Zet doelen om in actie
+
+## Samenvatting: Regels voor het stellen van doelen
+
+::: tip Regel #1: De controleregel
+**Richt je op procesdoelen (wat je kunt beïnvloeden) in plaats van op resultaatdoelen.**
+Procesdoelen leiden tot prestatiedoelen, die op hun beurt leiden tot resultaatdoelen.
+:::
+
+::: tip Regel #2: De SMART-regel
+**Doelen moeten specifiek, meetbaar, haalbaar, relevant en tijdgebonden zijn.**
+Vage doelen leiden tot vage resultaten. SMART-doelen zorgen voor vooruitgang.
+:::
+
+::: tip Regel #3: De ineenstortingsregel
+**Grote doelen vereisen mijlpalen op kwartaal-, maand- en weekniveau.**
+Deel grote doelen op in kleine, uitvoerbare stappen die je deze week kunt voltooien.
+:::
+
+::: tip Regel #4: De verbindingsregel
+**Verbind je doelen met je diepere &quot;waarom&quot;.**
+Als je motivatie verdwijnt, houdt je &quot;waarom&quot; je op de been.
+:::
 
 ## Belangrijkste conclusie
 
 > Een doel zonder plan is slechts een wens.
 
-Stel duidelijke doelen. Splits ze op. Focus op wat je controleert. Volg je vooruitgang.
+Stel duidelijke doelen. Verdeel ze in kleinere stappen. Concentreer je op wat je wél kunt beïnvloeden. Houd je voortgang bij.
 
