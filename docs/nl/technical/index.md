@@ -1,4 +1,6 @@
 # Technisch advies
+<AdBanner />
+
 
 ## Een opmerking over techniek
 
@@ -28,6 +30,8 @@ graph TD
 ```
 
 ## Ons perspectief
+
+<AdInArticle />
 
 ::: tip Je hoeft niet alles te beheersen.
 **Je hoeft niet alle technieken te beheersen**, maar inzicht in alle mogelijkheden helpt je wel:
@@ -68,3 +72,4 @@ Als je eenmaal een solide techniek beheerst, komt de echte groei voort uit:
 - **[Trainingsmethoden](/en/education/training/)** - Hoe effectief te oefenen
 :::
 
+<AdBanner />

@@ -1,4 +1,6 @@
 # Bygg din pre-shot-rutine
+<AdBanner />
+
 
 Din pre-shot rutine er et av de kraftigste verktøyene i ditt mentale spill. Det er en konsistent sekvens av handlinger som forbereder deg på hvert kast og trigger din beste ytelsestilstand.
 
@@ -76,6 +78,8 @@ Gjør kastet:
 - Stol på kroppen din
 - Slipp uten å nøle
 - Følg gjennom naturlig
+
+<AdInArticle />
 
 ## Bygg din personlige rutine
 
@@ -184,3 +188,4 @@ Rutinen din bør ta en jevn mengde tid:
 
 Bygg den nøye. Øv det alltid. Stol helt på det.
 
+<AdBanner />

@@ -1,4 +1,6 @@
 # Een geweldige teamspeler zijn
+<AdBanner />
+
 
 Pétanque wordt vaak in teams gespeeld - dubbels (doubles) of drietallen (triplettes). Individuele vaardigheid is belangrijk, maar de teamdynamiek kan het verschil maken tussen succes en falen. De beste teams zijn niet altijd de meest bekwame, maar juist de teams die het beste samenwerken.
 
@@ -75,6 +77,8 @@ Communicatie is essentieel voor goede teamprestaties.
 - Duidelijk en specifiek
 - Tweewegcommunicatie (spreken én luisteren)
 - Tijdig (de juiste informatie op het juiste moment)
+
+<AdInArticle />
 
 **Tijdens wedstrijden:**
 - Bespreek de strategie vóór elk einde.
@@ -188,3 +192,4 @@ Geweldige teams ontwikkelen gedeelde eigenschappen:
 
 Investeer in je teamgenoten. Bouw vertrouwen op. Communiceer goed. Win samen.
 
+<AdBanner />

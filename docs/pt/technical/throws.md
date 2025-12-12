@@ -1,4 +1,6 @@
 # Paleta de Mantas
+<AdBanner />
+
 
 ## O Repertório Técnico Completo
 
@@ -72,6 +74,8 @@ graph LR
 | **Rotação completa (spin reverso)** | Para ou recua ao aterrissar. | Precisa parar rapidamente, evite passar direto. |
 | **Meia volta** | Rotação para trás moderada, rolamento controlado | Mais versátil e previsível. |
 | **Sem rotação** | Rolamento neutro e natural na aterrissagem | Deixe o terreno ditar o ritmo |
+
+<AdInArticle />
 
 ## Técnicas de Tiro
 
@@ -172,3 +176,4 @@ Depois de dominar a técnica, o verdadeiro crescimento vem de:
 - **[Força Mental](/en/education/mental-strength/)** - Desempenho sob pressão
 :::
 
+<AdBanner />

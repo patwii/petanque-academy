@@ -1,4 +1,5 @@
 # Educação
+<AdBanner />
 
 Bem-vindo ao programa educacional da Academia de Pétanque. Aqui, jogadores de elite aprendem a dominar o jogo mental.
 
@@ -152,3 +153,8 @@ Este é o seu guia de referência rápida. Adicione esta seção aos seus favori
 ::: tip Ponto de partida recomendado
 Comece com [The Zone](/en/education/the-zone/) para entender a base do desempenho de elite, depois explore [Mindfulness](/en/education/mindfulness/) para técnicas práticas que você pode usar imediatamente.
 :::
+
+<AdBanner />
+:::
+
+<AdBanner />

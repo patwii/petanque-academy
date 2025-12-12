@@ -1,4 +1,6 @@
 # Nutrição para um Desempenho Preciso
+<AdBanner />
+
 
 A petanca é um esporte de precisão, não de resistência. Suas necessidades nutricionais são diferentes das de um maratonista ou de um jogador de futebol. O mais importante é a **estabilidade do combustível cerebral** — manter a mente afiada e as mãos firmes durante um longo dia de competição.
 
@@ -155,6 +157,8 @@ Alguns atletas de precisão adotam dietas com baixo teor de carboidratos ou ceto
 - Não é adequado para todos.
 - Requer planejamento e comprometimento.
 - Consulte primeiro um profissional de saúde
+
+<AdInArticle />
 
 Essa é uma estratégia avançada – não necessária para todos, mas que vale a pena considerar se a estabilidade do açúcar no sangue for uma questão importante para você.
 
@@ -381,3 +385,4 @@ Priorize proteínas, gorduras saudáveis e mantenha-se hidratado. Evite picos de
 
 **Remember:** You wouldn't show up to a tournament with a throwing technique you've never practiced. Don't show up with a nutrition strategy you've never practiced either.
 
+<AdBanner />

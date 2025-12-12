@@ -1,4 +1,6 @@
 # Pensamiento táctico en la petanca
+<AdBanner />
+
 
 En la élite, se da por sentado la habilidad técnica. Lo que distingue a los ganadores del resto es la inteligencia táctica: saber qué lanzamiento intentar y cuándo. Los mejores jugadores anticipan el juego con varias jugadas de antelación y aprovechan cada ventaja.
 
@@ -122,6 +124,8 @@ graph LR
     B --> E[Dispara más]
     C --> F{Surface?}
     D --> G[Punto más]
+
+<AdInArticle />
 
     F -->|Smooth| H[Dispara más]
     F -->|Rough| I[Punto más]
@@ -298,3 +302,4 @@ Realice un seguimiento de sus preferencias, tasas de éxito y respuestas a la pr
 
 Analiza el juego. Conoce tus fortalezas. Aprovecha sus debilidades. Ejecuta con confianza.
 
+<AdBanner />

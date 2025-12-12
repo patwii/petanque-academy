@@ -1,4 +1,6 @@
 # Entrando no Estado de Fluxo: Técnicas Práticas
+<AdBanner />
+
 
 O estado de fluxo não é algo que simplesmente acontece. Com prática, você pode aprender a acessá-lo com mais consistência. Aqui estão algumas técnicas comprovadas usadas por atletas de elite.
 
@@ -110,6 +112,8 @@ Sua rotina se torna um &quot;sino da atenção plena&quot; - um sinal que altera
 ::: tip Dica prática
 Use sua rotina em TODOS os lançamentos durante o treino, não apenas nas competições. A rotina precisa se tornar automática.
 :::
+
+<AdInArticle />
 
 ## Técnica 2: Foco Externo
 
@@ -276,3 +280,4 @@ Essas técnicas só funcionam se você as praticar:
 Comece com sua rotina pré-tirada. Seja consistente. Confie nela. O estado de concentração virá naturalmente.
 :::
 
+<AdBanner />

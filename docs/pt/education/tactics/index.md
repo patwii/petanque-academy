@@ -1,4 +1,6 @@
 # Pensamento tático na petanca
+<AdBanner />
+
 
 No nível de elite, a habilidade técnica é pressuposta. O que diferencia os vencedores dos demais é a inteligência tática — saber qual lance tentar e quando. Os melhores jogadores antecipam o jogo em várias jogadas e exploram todas as vantagens.
 
@@ -122,6 +124,8 @@ graph LR
     B --> E[Atire Mais]
     C --> F{Surface?}
     D --> G[Ponto Mais]
+
+<AdInArticle />
 
     F -->|Smooth| H[Atire Mais]
     F -->|Rough| I[Ponto Mais]
@@ -298,3 +302,4 @@ Acompanhe suas preferências, taxas de sucesso e respostas à pressão.
 
 Estude o jogo. Conheça seus pontos fortes. Explore as fraquezas do adversário. Execute com confiança.
 
+<AdBanner />

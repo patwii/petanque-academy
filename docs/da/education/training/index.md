@@ -1,4 +1,6 @@
 # Træningsmetoder
+<AdBanner />
+
 
 Når din teknik er solid, hvad øver du dig så på? Det er her, mange spillere stagner - de fortsætter med at øve teknikken, når den virkelige vækst ligger et andet sted.
 
@@ -78,6 +80,8 @@ Studier viser konsekvent:
 - Blokeret træning føles bedre (hurtig forbedring synlig)
 - Tilfældig træning giver bedre konkurrencepræstation
 - Det er i den tilfældige praksiss &quot;kamp&quot; at lære.
+
+<AdInArticle />
 
 ## Tryksimulering
 
@@ -193,3 +197,4 @@ Dediker specifikt tid til mentale færdigheder:
 
 Bland din træning. Inkluder mentalt arbejde. Skab pres. Følg dine fremskridt.
 
+<AdBanner />

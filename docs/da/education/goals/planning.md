@@ -1,4 +1,6 @@
 # Oprettelse af din træningsplan
+<AdBanner />
+
 
 Mål uden en plan er blot ønsker. Denne guide hjælper dig med at forvandle dine mål til en struktureret træningsplan, der rent faktisk virker.
 
@@ -73,6 +75,8 @@ Vælg øvelser, der direkte understøtter dine mål:
 ### Fase 4: Opret din tidsplan
 
 Lav en realistisk ugentlig plan:
+
+<AdInArticle />
 
 | Dag | Morgen | Eftermiddag | Aften | Fokus |
 |-----|---------|-----------|---------|-------|
@@ -181,3 +185,4 @@ Din plan bør udvikle sig:
 
 Den bedste plan er en, du rent faktisk følger. Start simpelt, vær konsekvent, og juster, efterhånden som du lærer.
 
+<AdBanner />

@@ -1,4 +1,6 @@
 # Att komma in i zonen: Praktiska tekniker
+<AdBanner />
+
 
 Zonen är inte något som bara händer. Med övning kan du lära dig att använda den mer regelbundet. Här är beprövade tekniker som används av elitidrottare.
 
@@ -110,6 +112,8 @@ Din rutin blir en &quot;mindfulnessklocka&quot; – en signal som förändrar di
 ::: tip Övningstips
 Använd din rutin på VARJE kast under träning – inte bara tävlingar. Rutinen måste bli automatisk.
 :::
+
+<AdInArticle />
 
 ## Teknik 2: Externt fokus
 
@@ -276,3 +280,4 @@ Dessa tekniker fungerar bara om du övar på dem:
 Börja med din rutin före sprutan. Gör den konsekvent. Lita på den. Zonen kommer att följa.
 :::
 
+<AdBanner />

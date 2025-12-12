@@ -1,4 +1,6 @@
 # Nieuws
+<AdBanner />
+
 
 ## Welkom bij de Pétanque Academie
 
@@ -28,6 +30,8 @@ graph TD
     style C fill:#e8f5e9
     style D fill:#f3e5f5
 ```
+
+<AdInArticle />
 
 ## Wat staat ons te wachten?
 
@@ -72,3 +76,4 @@ Terwijl u wacht op aankondigingen van workshops, kunt u onze uitgebreide educati
 Dit is nog maar het begin. We bouwen iets bijzonders voor topspelers die de volgende stap willen zetten. Welkom bij de Pétanque Academy.
 :::
 
+<AdBanner />

@@ -1,4 +1,6 @@
 # Probability-Based Decision Making
+<AdBanner />
+
 
 Elite tactical thinking uses probability to make better decisions. Instead of guessing or going with gut feeling, you think systematically about your options.
 
@@ -82,6 +84,8 @@ To use probability thinking, you need to know your actual success rates:
 | Shoot (close) | 6-7m | ___% |
 | Shoot (medium) | 8-9m | ___% |
 | Shoot (long) | 10m+ | ___% |
+
+<AdInArticle />
 
 Track these in practice. Be honest - most players overestimate their success rates.
 
@@ -201,3 +205,4 @@ Over time, probability thinking becomes intuitive:
 
 Think in probabilities. Know your numbers. Make the smart play, not the hopeful one.
 
+<AdBanner />

@@ -1,4 +1,6 @@
 # Creating Your Training Plan
+<AdBanner />
+
 
 Goals without a plan are just wishes. This guide helps you turn your goals into a structured training plan that actually works.
 
@@ -73,6 +75,8 @@ Select exercises that directly support your goals:
 ### Phase 4: Create Your Schedule
 
 Build a realistic weekly schedule:
+
+<AdInArticle />
 
 | Day | Morning | Afternoon | Evening | Focus |
 |-----|---------|-----------|---------|-------|
@@ -181,3 +185,4 @@ Your plan should evolve:
 
 The best plan is one you'll actually follow. Start simple, stay consistent, and adjust as you learn.
 
+<AdBanner />

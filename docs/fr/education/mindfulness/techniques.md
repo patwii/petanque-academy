@@ -1,4 +1,6 @@
 # Techniques de pleine conscience
+<AdBanner />
+
 
 Voici des techniques pratiques pour développer la pleine conscience. Commencez par une ou deux et progressez ensuite.
 
@@ -79,6 +81,8 @@ La pleine conscience en mouvement – une excellente préparation pour les piste
 5. 5 à 10 minutes suffisent
 
 ## Pratiques informelles
+
+<AdInArticle />
 
 Ces méthodes intègrent la pleine conscience aux activités quotidiennes.
 
@@ -199,3 +203,4 @@ Chaque déclencheur = une respiration consciente.
 
 Commencez petit. Soyez régulier. Les bénéfices s&#39;accumulent avec le temps.
 
+<AdBanner />

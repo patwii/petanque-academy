@@ -1,4 +1,6 @@
 # Palette of Throws
+<AdBanner />
+
 
 ## The Complete Technical Repertoire
 
@@ -72,6 +74,8 @@ graph LR
 | **Full spin (backspin)** | Stops or pulls back on landing | Need to stop quickly, avoid rolling past |
 | **Half spin** | Moderate backspin, controlled roll | Most versatile, predictable |
 | **No spin** | Neutral, natural roll on landing | Let terrain dictate roll |
+
+<AdInArticle />
 
 ## Shooting Techniques
 
@@ -172,3 +176,4 @@ Once you have solid technique, the real growth comes from:
 - **[Mental Strength](/en/education/mental-strength/)** - Performing under pressure
 :::
 
+<AdBanner />

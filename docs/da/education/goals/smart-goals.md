@@ -1,4 +1,6 @@
 # SMART-mål for petanque
+<AdBanner />
+
 
 SMART-rammen omdanner vage ønsker til handlingsrettede mål. Lad os se nærmere på hvert element med specifikke eksempler til petanque.
 
@@ -77,6 +79,8 @@ Mål skal udfordre dig uden at være umulige.
 
 **For let:** &quot;Øv én gang i denne måned&quot;
 - Ingen vækst, ingen motivation
+
+<AdInArticle />
 
 **For svært:** &quot;Gå aldrig glip af et skud&quot;
 - Umuligt, fører til frustration
@@ -189,3 +193,4 @@ _________________________________
 
 Tag dig tid til at formulere dine mål ordentligt. Et veldefineret mål er halvdelen af rejsen.
 
+<AdBanner />

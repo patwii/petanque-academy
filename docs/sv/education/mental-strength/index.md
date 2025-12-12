@@ -1,4 +1,6 @@
 # Mental styrka
+<AdBanner />
+
 
 Mental styrka är det som skiljer spelare som presterar bra på träning från de som presterar bra när det gäller. Det är förmågan att hantera press, återhämta sig från motgångar och bibehålla fokus under långa tävlingar.
 
@@ -74,6 +76,8 @@ Självförtroende kommer från:
 - Använd självsäkert kroppsspråk (det påverkar ditt sinne)
 
 ### 2. Bemästra ditt självprat
+
+<AdInArticle />
 
 Rösten i ditt huvud spelar oerhört stor roll.
 
@@ -187,3 +191,4 @@ Stödjande, konstruktiv, fokuserad på vad som ska göras (inte vad som gick fel
 
 Du kan inte kontrollera vad som händer. Du kan kontrollera hur du reagerar.
 
+<AdBanner />

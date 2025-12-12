@@ -1,4 +1,6 @@
 # Taktiskt tänkande i boule
+<AdBanner />
+
 
 På elitnivå förutsätts teknisk skicklighet. Det som skiljer vinnare från resten är taktisk intelligens – att veta vilket kast man ska försöka och när. De bästa spelarna läser spelet flera drag framåt och utnyttjar varje fördel.
 
@@ -122,6 +124,8 @@ graph LR
     B --> E[Skjut mer]
     C --> F{Surface?}
     D --> G[Peka mer]
+
+<AdInArticle />
 
     F -->|Smooth| H[Skjut mer]
     F -->|Rough| I[Peka mer]
@@ -298,3 +302,4 @@ Spåra deras preferenser, framgångsfrekvens och pressreaktioner
 
 Läs spelet. Känn dina styrkor. Utnyttja deras svagheter. Utför med självförtroende.
 
+<AdBanner />

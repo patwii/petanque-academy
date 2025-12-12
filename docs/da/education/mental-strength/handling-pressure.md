@@ -1,4 +1,6 @@
 # Håndtering af tryk
+<AdBanner />
+
 
 Pres er en del af konkurrence. Målet er ikke at eliminere det - det er umuligt. Målet er at præstere godt på trods af det, og endda bruge det til din fordel.
 
@@ -78,6 +80,8 @@ Dit åndedræt er den hurtigste måde at ændre din tilstand på.
 - En langsom, dyb indånding
 - Føl dine fødder på jorden
 - Sænk skuldrene ved udåndingen
+
+<AdInArticle />
 
 ### 2. Fysisk jordforbindelse
 
@@ -189,3 +193,4 @@ Gennemgå dette før konkurrencer for at minde dig selv om: &quot;Jeg har gjort 
 
 De bedste spillere er ikke rolige - de er dygtige til at bruge deres ophidselse produktivt.
 
+<AdBanner />

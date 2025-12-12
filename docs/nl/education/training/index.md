@@ -1,4 +1,6 @@
 # Trainingsmethoden
+<AdBanner />
+
 
 Als je techniek eenmaal goed is, wat oefen je dan? Dit is waar veel spelers stagneren: ze blijven maar techniek oefenen, terwijl de echte groei ergens anders ligt.
 
@@ -78,6 +80,8 @@ Onderzoek toont consequent aan:
 - Geblokkeerde oefening voelt beter aan (snelle verbetering zichtbaar)
 - Willekeurige oefening leidt tot betere wedstrijdprestaties.
 - Het &#39;worstelen&#39; van willekeurige oefening is waar het leren plaatsvindt.
+
+<AdInArticle />
 
 ## Druksimulatie
 
@@ -193,3 +197,4 @@ Besteed specifiek tijd aan mentale vaardigheden:
 
 Varieer je training. Voeg mentale oefeningen toe. Creëer druk. Houd je voortgang bij.
 
+<AdBanner />

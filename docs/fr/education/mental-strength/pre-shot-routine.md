@@ -1,4 +1,6 @@
 # Construire votre routine pré-shot
+<AdBanner />
+
 
 Votre routine pré-shot est l’un des outils les plus puissants de votre jeu mental. Il s'agit d'une séquence cohérente d'actions qui vous prépare à chaque lancer et déclenche votre meilleur état de performance.
 
@@ -76,6 +78,8 @@ Faites le lancer :
 - Faites confiance à votre corps
 - Libérez sans hésiter
 - Suivez naturellement
+
+<AdInArticle />
 
 ## Construire votre routine personnelle
 
@@ -184,3 +188,4 @@ Votre routine devrait prendre un temps constant :
 
 Construisez-le avec soin. Pratiquez-le toujours. Faites-lui entièrement confiance.
 
+<AdBanner />

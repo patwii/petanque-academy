@@ -1,4 +1,6 @@
 # Atención plena para jugadores de petanca
+<AdBanner />
+
 
 La atención plena es una de las herramientas más poderosas disponibles para los atletas. No es mística ni compleja; es simplemente la práctica de prestar atención al momento presente sin juzgar.
 
@@ -77,6 +79,8 @@ La atención plena te ayuda a manejar todos estos problemas.
 ## La habilidad central: Conciencia sin prejuicios
 
 La palabra clave es &quot;sin prejuicios&quot;.
+
+<AdInArticle />
 
 ::: danger Pensamiento crítico (añade peso emocional)
 ❌ &quot;Ese fue un lanzamiento terrible&quot;
@@ -193,3 +197,4 @@ La constancia supera a la duración. La práctica diaria desarrolla la habilidad
 
 No puedes evitar que surjan pensamientos. Pero sí puedes elegir no seguirlos por el camino equivocado.
 
+<AdBanner />

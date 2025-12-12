@@ -1,4 +1,6 @@
 # Die Zone: Den Flow-Zustand verstehen
+<AdBanner />
+
 
 Hattest du jemals ein Spiel, bei dem einfach alles lief? Wo du nicht über deine Technik nachgedacht hast und jede Kugel genau da landete, wo du sie haben wolltest? Das ist der „Flow“ – und ihn konstant abrufen zu können, unterscheidet die Elite von den anderen.
 
@@ -60,6 +62,8 @@ Ihr Gehirn arbeitet in zwei verschiedenen Modi:
 | **Gehirnaktivität** | Hohes analytisches Denkvermögen | Leise, automatisch |
 | **Fokus** | Interne (Körpermechanik) | Extern (Ziel) |
 | **Gefühl** | Mühevoll, bewusst | Mühelos, natürlich |
+
+<AdInArticle />
 
 Die wichtigste Fähigkeit besteht darin, zu lernen, **zum richtigen Zeitpunkt** zwischen diesen Modi zu wechseln.
 
@@ -140,3 +144,4 @@ Vertraue deinem Training. Konzentriere dich auf das Ziel, nicht auf deine Techni
 
 Deine Technik ist das Fundament. Die Zone ist der Ort, an dem dieses Fundament zur Kunst wird.
 
+<AdBanner />

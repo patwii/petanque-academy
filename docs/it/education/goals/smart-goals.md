@@ -1,4 +1,6 @@
 # Obiettivi SMART per la boccia
+<AdBanner />
+
 
 Il framework SMART trasforma desideri vaghi in obiettivi realizzabili. Esaminiamo ogni elemento in dettaglio, con esempi specifici per la pétanque.
 
@@ -77,6 +79,8 @@ Gli obiettivi dovrebbero metterti alla prova senza essere impossibili.
 
 **Troppo facile:** &quot;Esercitati una volta questo mese&quot;
 - Nessuna crescita, nessuna motivazione
+
+<AdInArticle />
 
 **Troppo difficile:** &quot;Non sbagliare mai un colpo&quot;
 - Impossibile, porta alla frustrazione
@@ -189,3 +193,4 @@ _________________________________
 
 Prenditi il tempo necessario per definire correttamente i tuoi obiettivi. Un obiettivo ben definito è già metà del percorso.
 
+<AdBanner />

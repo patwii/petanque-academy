@@ -1,4 +1,6 @@
 # SMARTA mål för boule
+<AdBanner />
+
 
 SMART-ramverket omvandlar vaga önskningar till handlingsbara mål. Låt oss titta på varje element i detalj, med specifika exempel för boule.
 
@@ -77,6 +79,8 @@ Mål ska utmana dig utan att vara omöjliga.
 
 **För lätt:** &quot;Öva en gång den här månaden&quot;
 - Ingen tillväxt, ingen motivation
+
+<AdInArticle />
 
 **För svårt:** &quot;Missa aldrig ett skott&quot;
 - Omöjligt, leder till frustration
@@ -189,3 +193,4 @@ _________________________________
 
 Ta dig tid att formulera dina mål ordentligt. Ett väldefinierat mål är halva resan.
 
+<AdBanner />

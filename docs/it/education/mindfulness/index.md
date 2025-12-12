@@ -1,4 +1,6 @@
 # Mindfulness per i giocatori di bocce
+<AdBanner />
+
 
 La consapevolezza è uno degli strumenti più potenti a disposizione degli atleti. Non è mistica o complicata: è semplicemente la pratica di prestare attenzione al momento presente senza giudizio.
 
@@ -77,6 +79,8 @@ La consapevolezza ti aiuta a gestire tutto questo.
 ## L&#39;abilità fondamentale: consapevolezza non giudicante
 
 La parola chiave è &quot;non giudicante&quot;.
+
+<AdInArticle />
 
 ::: danger Pensiero giudicante (aggiunge peso emotivo)
 ❌ &quot;È stato un lancio terribile&quot;
@@ -193,3 +197,4 @@ La costanza è meglio della durata. La pratica quotidiana sviluppa l&#39;abilit�
 
 Non puoi impedire ai pensieri di sorgere. Ma puoi scegliere di non seguirli nella tana del Bianconiglio.
 
+<AdBanner />

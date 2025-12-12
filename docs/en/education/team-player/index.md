@@ -1,4 +1,6 @@
 # Being a Great Team Player
+<AdBanner />
+
 
 Pétanque is often played in teams - doubles (doublettes) or triples (triplettes). Individual skill matters, but team dynamics can make or break your results. The best teams aren't always the most skilled - they're the ones that work best together.
 
@@ -75,6 +77,8 @@ Communication is the lifeblood of team performance.
 - Clear and specific
 - Two-way (speaking AND listening)
 - Timely (right information at right time)
+
+<AdInArticle />
 
 **During games:**
 - Discuss strategy before each end
@@ -188,3 +192,4 @@ Great teams develop shared:
 
 Invest in your teammates. Build trust. Communicate well. Win together.
 
+<AdBanner />

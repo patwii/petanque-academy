@@ -1,4 +1,6 @@
 # Mentale kracht
+<AdBanner />
+
 
 Mentale kracht is wat spelers die goed presteren tijdens de training onderscheidt van spelers die goed presteren wanneer het erop aankomt. Het is het vermogen om met druk om te gaan, tegenslagen te verwerken en de focus te behouden tijdens lange wedstrijden.
 
@@ -74,6 +76,8 @@ Zelfvertrouwen komt voort uit:
 - Gebruik zelfverzekerde lichaamstaal (het heeft invloed op je gemoedstoestand).
 
 ### 2. Beheers je zelfspraak
+
+<AdInArticle />
 
 De stem in je hoofd is ontzettend belangrijk.
 
@@ -187,3 +191,4 @@ Analyseer niet te veel tussen de worpen door. Spaar je mentale energie voor de u
 
 Je kunt niet bepalen wat er gebeurt. Je kunt wel bepalen hoe je erop reageert.
 
+<AdBanner />

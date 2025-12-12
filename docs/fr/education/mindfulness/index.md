@@ -1,4 +1,6 @@
 # La pleine conscience pour les joueurs de pétanque
+<AdBanner />
+
 
 La pleine conscience est l&#39;un des outils les plus puissants à la disposition des athlètes. Elle n&#39;a rien de mystique ni de compliqué : il s&#39;agit simplement de porter son attention sur le moment présent sans jugement.
 
@@ -77,6 +79,8 @@ La pleine conscience vous aide à gérer tout cela.
 ## La compétence fondamentale : la conscience sans jugement
 
 Le mot clé est « sans jugement ».
+
+<AdInArticle />
 
 ::: danger Pensée critique (Ajoute un poids émotionnel)
 ❌ « C&#39;était un lancer lamentable »
@@ -193,3 +197,4 @@ La régularité est plus importante que la durée. La pratique quotidienne perme
 
 On ne peut empêcher les pensées de surgir. Mais on peut choisir de ne pas se laisser entraîner dans leurs méandres.
 
+<AdBanner />

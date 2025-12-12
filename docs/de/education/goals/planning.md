@@ -1,4 +1,6 @@
 # Erstellung Ihres Trainingsplans
+<AdBanner />
+
 
 Ziele ohne Plan sind nur Wünsche. Dieser Leitfaden hilft Ihnen, Ihre Ziele in einen strukturierten Trainingsplan umzusetzen, der tatsächlich funktioniert.
 
@@ -73,6 +75,8 @@ Wählen Sie Übungen, die Ihre Ziele direkt unterstützen:
 ### Phase 4: Erstellen Sie Ihren Zeitplan
 
 Erstellen Sie einen realistischen Wochenplan:
+
+<AdInArticle />
 
 | Tag | Morgen | Nachmittag | Abend | Fokus |
 |-----|---------|-----------|---------|-------|
@@ -181,3 +185,4 @@ Ihr Plan sollte sich weiterentwickeln:
 
 Der beste Plan ist der, den man auch wirklich befolgt. Fang einfach an, bleib konsequent und passe ihn an, während du dazulernst.
 
+<AdBanner />

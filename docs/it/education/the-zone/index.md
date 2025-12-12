@@ -1,4 +1,6 @@
 # La zona: comprendere lo stato di flusso
+<AdBanner />
+
 
 Hai mai giocato una partita in cui tutto è andato a posto? In cui non hai pensato alla tecnica e ogni boccia è atterrata esattamente dove volevi? Questa è &quot;la zona&quot; - e imparare ad accedervi con costanza è ciò che distingue i giocatori d&#39;élite dagli altri.
 
@@ -60,6 +62,8 @@ Il tuo cervello funziona in due modalità diverse:
 | **Attività cerebrale** | Pensiero altamente analitico | Silenzioso, automatico |
 | **Messa a fuoco** | Interno (meccanica del corpo) | Esterno (bersaglio) |
 | **Sensazione** | Impegnativo, consapevole | Senza sforzo, naturale |
+
+<AdInArticle />
 
 L&#39;abilità fondamentale è imparare a **passare** da una modalità all&#39;altra al momento giusto.
 
@@ -140,3 +144,4 @@ Fidati del tuo allenamento. Concentrati sul bersaglio, non sulla tecnica.
 
 La tua tecnica è la base. La zona è il luogo in cui quella base diventa arte.
 
+<AdBanner />

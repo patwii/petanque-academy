@@ -1,4 +1,6 @@
 # Op waarschijnlijkheid gebaseerde besluitvorming
+<AdBanner />
+
 
 Bij tactisch denken op topniveau wordt gebruikgemaakt van waarschijnlijkheid om betere beslissingen te nemen. In plaats van te gokken of op je gevoel af te gaan, denk je systematisch na over je opties.
 
@@ -82,6 +84,8 @@ Om kansrekening te kunnen toepassen, moet je je werkelijke succespercentages ken
 | Fotografeer (van dichtbij) | 6-7m | ___% |
 | Schieten (medium) | 8-9m | ___% |
 | Schieten (lang) | 10m+ | ___% |
+
+<AdInArticle />
 
 Houd dit in de praktijk bij. Wees eerlijk: de meeste spelers overschatten hun succespercentage.
 
@@ -201,3 +205,4 @@ Na verloop van tijd wordt het denken in termen van waarschijnlijkheid intuïtief
 
 Denk in waarschijnlijkheden. Ken je getallen. Maak een verstandige keuze, geen hoopvolle.
 
+<AdBanner />

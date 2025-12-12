@@ -1,4 +1,6 @@
 # Technische Beratung
+<AdBanner />
+
 
 ## Eine Anmerkung zur Technik
 
@@ -28,6 +30,8 @@ graph TD
 ```
 
 ## Unsere Perspektive
+
+<AdInArticle />
 
 ::: tip Man muss nicht alles beherrschen.
 **Sie müssen nicht alle Techniken beherrschen**, aber das Verständnis des gesamten Spektrums an Möglichkeiten hilft Ihnen dabei:
@@ -68,3 +72,4 @@ Sobald man über eine solide Technik verfügt, kommt das eigentliche Wachstum vo
 - **[Trainingsmethoden](/en/education/training/)** – Wie man effektiv übt
 :::
 
+<AdBanner />

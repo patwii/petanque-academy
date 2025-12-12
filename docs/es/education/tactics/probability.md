@@ -1,4 +1,6 @@
 # Toma de decisiones basada en la probabilidad
+<AdBanner />
+
 
 El pensamiento táctico de élite utiliza la probabilidad para tomar mejores decisiones. En lugar de adivinar o dejarse llevar por la intuición, se piensa sistemáticamente en las opciones.
 
@@ -82,6 +84,8 @@ Para utilizar el pensamiento probabilístico, necesita conocer sus tasas de éxi
 | Disparar (cerrar) | 6-7 meses | ___% |
 | Disparar (medio) | 8-9 meses | ___% |
 | Disparar (largo) | 10 m+ | ___% |
+
+<AdInArticle />
 
 Monitorea esto en la práctica. Sé honesto: la mayoría de los jugadores sobreestiman sus probabilidades de éxito.
 
@@ -201,3 +205,4 @@ Con el tiempo, el pensamiento probabilístico se vuelve intuitivo:
 
 Piensa en probabilidades. Conoce tus números. Haz la jugada inteligente, no la optimista.
 
+<AdBanner />

@@ -1,4 +1,6 @@
 # Costruisci la tua routine pre-scatto
+<AdBanner />
+
 
 La tua routine pre-tiro è uno degli strumenti più potenti nel tuo gioco mentale. È una sequenza coerente di azioni che ti prepara per ogni lancio e innesca il tuo stato di prestazione migliore.
 
@@ -76,6 +78,8 @@ Effettua il tiro:
 - Fidati del tuo corpo
 - Rilascia senza esitazione
 - Seguire in modo naturale
+
+<AdInArticle />
 
 ## Costruisci la tua routine personale
 
@@ -184,3 +188,4 @@ La tua routine dovrebbe richiedere una quantità costante di tempo:
 
 Costruiscilo attentamente. Praticatelo sempre. Fidati completamente.
 
+<AdBanner />

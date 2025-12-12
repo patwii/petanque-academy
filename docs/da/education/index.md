@@ -1,4 +1,5 @@
 # Undervisning
+<AdBanner />
 
 Velkommen til Pétanque Academys uddannelsesprogram. Det er her, elitespillere lærer at mestre det mentale spil.
 
@@ -49,6 +50,8 @@ graph TD
 
 ## Vores læringsstier
 
+<AdInArticle />
+
 ### 🎯 [Zonen (Flowtilstand)](/da/uddannelse/zonen/)
 Lær, hvad &quot;zonen&quot; egentlig er, og hvordan du får adgang til den. Forstå videnskaben bag flowtilstande, og opdag praktiske teknikker til at præstere bedst muligt, når det gælder mest.
 
@@ -72,6 +75,8 @@ Træn smartere, ikke bare hårdere. Lær hvordan du strukturerer din træning fo
 
 ### 🥗 [Ernæring](/da/uddannelse/ernæring/)
 Giv din hjerne brændstof til præcisionspræstationer. Lær hvordan du opretholder stabil energi og fokus under hele konkurrencen.
+
+<AdInArticle />
 
 ## Rejsen fra teknik til flow
 
@@ -151,4 +156,7 @@ Dette er din hurtige referenceguide. Gem dette afsnit som bogmærke, og vend til
 
 ::: tip Anbefalet udgangspunkt
 Start med [Zonen](/da/uddannelse/zonen/) for at forstå grundlaget for elitepræstation, og udforsk derefter [Mindfulness](/da/uddannelse/mindfulness/) for praktiske teknikker, du kan bruge med det samme.
+:::
+
+<AdBanner />
 :::

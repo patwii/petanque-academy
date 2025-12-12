@@ -1,4 +1,6 @@
 # SMART Goals for Pétanque
+<AdBanner />
+
 
 The SMART framework transforms vague wishes into actionable goals. Let's look at each element in detail, with specific examples for pétanque.
 
@@ -77,6 +79,8 @@ Goals should stretch you without being impossible.
 
 **Too easy:** "Practice once this month"
 - No growth, no motivation
+
+<AdInArticle />
 
 **Too hard:** "Never miss a shot"
 - Impossible, leads to frustration
@@ -189,3 +193,4 @@ _________________________________
 
 Take time to craft your goals properly. A well-defined goal is half the journey.
 
+<AdBanner />

@@ -1,4 +1,6 @@
 # Nyheter
+<AdBanner />
+
 
 ## Välkommen till Bouleakademin
 
@@ -28,6 +30,8 @@ graph TD
     style C fill:#e8f5e9
     style D fill:#f3e5f5
 ```
+
+<AdInArticle />
 
 ## Vad som kommer
 
@@ -72,3 +76,4 @@ Medan du väntar på meddelanden om workshops kan du utforska vår omfattande ut
 Det här är bara början. Vi bygger något speciellt för elitspelare som vill ta nästa steg. Välkommen till Pétanque Academy.
 :::
 
+<AdBanner />

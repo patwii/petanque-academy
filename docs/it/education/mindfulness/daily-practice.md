@@ -1,4 +1,6 @@
 # Costruire una pratica quotidiana di consapevolezza
+<AdBanner />
+
 
 I benefici della mindfulness derivano dalla pratica costante. Ecco come integrarla nella tua vita.
 
@@ -78,6 +80,8 @@ Non hai bisogno di una stanza per la meditazione, ma avere un posto fisso aiuta:
 - Se possibile, sempre nello stesso posto
 
 ### Fase 4: rimuovere le barriere
+
+<AdInArticle />
 
 Rendi facile la pratica:
 - Metti il telefono in modalità silenziosa
@@ -195,3 +199,4 @@ La consapevolezza è una pratica che dura tutta la vita. Gli atleti professionis
 
 Inizia oggi. Inizia in piccolo. Continua.
 
+<AdBanner />

@@ -1,4 +1,6 @@
 # Palett av pledd
+<AdBanner />
+
 
 ## Det komplette tekniske repertoaret
 
@@ -72,6 +74,8 @@ graph LR
 | **Full spinn (bakspinn)** | Stopper eller trekker seg tilbake ved landing | Må stoppe raskt, unngå å rulle forbi |
 | **Halv spinn** | Moderat bakspinn, kontrollert rulling | Mest allsidig, forutsigbar |
 | **Ingen spinn** | Nøytral, naturlig rulling ved landing | La terrenget bestemme rulling |
+
+<AdInArticle />
 
 ## Skyteteknikker
 
@@ -172,3 +176,4 @@ Når du har en solid teknikk, kommer den virkelige veksten fra:
 - **[Mental styrke](/no/utdanning/mental-styrke/)** - Prestere under press
 :::
 
+<AdBanner />

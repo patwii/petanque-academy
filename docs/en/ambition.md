@@ -1,5 +1,7 @@
 # Ambition
 
+<AdBanner />
+
 Our mission is to help elite players take the next step in their development.
 
 ::: tip Our Vision
@@ -82,4 +84,6 @@ Share experiences with other elite players in a safe, supportive environment.
 ::: info Ready to Take the Next Step?
 Explore our [Education](/en/education/) section or learn about our [Workshops](/en/workshop).
 :::
+
+<AdBanner />
 

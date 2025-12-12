@@ -1,4 +1,6 @@
 # Erstellen Sie Ihre Pre-Shot-Routine
+<AdBanner />
+
 
 Ihre Pre-Shot-Routine ist eines der mächtigsten Werkzeuge in Ihrem mentalen Spiel. Es ist eine konsistente Abfolge von Aktionen, die Sie auf jeden Wurf vorbereitet und Ihren besten Leistungszustand auslöst.
 
@@ -76,6 +78,8 @@ Machen Sie den Wurf:
 - Vertraue deinem Körper
 - Ohne zu zögern loslassen
 - Gehen Sie auf natürliche Weise vor
+
+<AdInArticle />
 
 ## Bauen Sie Ihre persönliche Routine auf
 
@@ -184,3 +188,4 @@ Ihre Routine sollte eine konstante Zeitspanne in Anspruch nehmen:
 
 Bauen Sie es sorgfältig auf. Übe es immer. Vertraue ihm voll und ganz.
 
+<AdBanner />

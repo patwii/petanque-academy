@@ -1,4 +1,6 @@
 # Nutrition pour une performance de précision
+<AdBanner />
+
 
 La pétanque est un sport de précision, pas d&#39;endurance. Vos besoins nutritionnels diffèrent de ceux d&#39;un marathonien ou d&#39;un footballeur. L&#39;essentiel est de maintenir une bonne concentration et une bonne motricité tout au long d&#39;une longue journée de compétition.
 
@@ -155,6 +157,8 @@ Certains athlètes de précision adoptent des régimes pauvres en glucides ou c�
 - Ne convient pas à tout le monde
 - Exige de la planification et de l&#39;engagement
 - Consultez d&#39;abord un professionnel de la santé.
+
+<AdInArticle />
 
 Il s&#39;agit d&#39;une stratégie avancée, pas nécessaire pour tout le monde, mais qui mérite d&#39;être envisagée si la stabilité de la glycémie est un problème important pour vous.
 
@@ -381,3 +385,4 @@ Privilégiez les protéines, les bons gras et une bonne hydratation. Évitez les
 
 **Remember:** You wouldn't show up to a tournament with a throwing technique you've never practiced. Don't show up with a nutrition strategy you've never practiced either.
 
+<AdBanner />

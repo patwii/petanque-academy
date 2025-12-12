@@ -1,4 +1,6 @@
 # Asesoramiento técnico
+<AdBanner />
+
 
 ## Una nota sobre la técnica
 
@@ -28,6 +30,8 @@ graph TD
 ```
 
 ## Nuestra perspectiva
+
+<AdInArticle />
 
 ::: tip No necesitas dominarlo todo
 **No es necesario que domines todas las técnicas**, pero comprender la paleta completa de posibilidades te ayudará a:
@@ -68,3 +72,4 @@ Una vez que tienes una técnica sólida, el verdadero crecimiento proviene de:
 - **[Métodos de entrenamiento](/es/educacion/entrenamiento/)** - Cómo practicar eficazmente
 :::
 
+<AdBanner />

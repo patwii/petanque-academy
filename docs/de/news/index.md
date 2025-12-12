@@ -1,4 +1,6 @@
 # Nachricht
+<AdBanner />
+
 
 ## Willkommen bei der Pétanque-Akademie
 
@@ -28,6 +30,8 @@ graph TD
     style C fill:#e8f5e9
     style D fill:#f3e5f5
 ```
+
+<AdInArticle />
 
 ## Was kommt
 
@@ -72,3 +76,4 @@ Während Sie auf die Ankündigung der Workshops warten, erkunden Sie unseren umf
 Dies ist erst der Anfang. Wir bauen etwas Besonderes für Spitzenspieler, die den nächsten Schritt machen wollen. Willkommen an der Pétanque-Akademie.
 :::
 
+<AdBanner />

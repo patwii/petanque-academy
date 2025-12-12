@@ -1,4 +1,5 @@
 # Utdannelse
+<AdBanner />
 
 Velkommen til Pétanque Academys utdanningsprogram. Det er her elitespillere lærer å mestre det mentale spillet.
 
@@ -48,6 +49,8 @@ graph TD
 5. **Optimalisering:** Finjustering med ernæring
 
 ## Våre læringsstier
+
+<AdInArticle />
 
 ### 🎯 [Sonen (Flow State)](/no/utdanning/sonen/)
 Lær hva «sonen» egentlig er og hvordan du får tilgang til den. Forstå vitenskapen bak flyttilstander og oppdag praktiske teknikker for å prestere best mulig når det gjelder som mest.
@@ -151,4 +154,7 @@ Dette er din hurtigreferanseguide. Bokmerk denne delen og kom tilbake til den re
 
 ::: tip Anbefalt utgangspunkt
 Begynn med [Sonen](/no/utdanning/sonen/) for å forstå grunnlaget for eliteprestasjoner, og utforsk deretter [Mindfulness](/no/utdanning/mindfulness/) for praktiske teknikker du kan bruke umiddelbart.
+:::
+
+<AdBanner />
 :::

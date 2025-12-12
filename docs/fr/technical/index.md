@@ -1,4 +1,6 @@
 # Conseils techniques
+<AdBanner />
+
 
 ## Note sur la technique
 
@@ -28,6 +30,8 @@ graph TD
 ```
 
 ## Notre perspective
+
+<AdInArticle />
 
 ::: tip Vous n&#39;avez pas besoin de tout maîtriser.
 **Vous n’avez pas besoin de maîtriser toutes les techniques**, mais comprendre l’ensemble des possibilités vous aide à :
@@ -68,3 +72,4 @@ Une fois que vous maîtrisez la technique, la véritable progression provient de
 - **[Méthodes de formation](/en/education/training/)** - Comment pratiquer efficacement
 :::
 
+<AdBanner />

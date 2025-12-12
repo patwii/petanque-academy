@@ -1,4 +1,6 @@
 # Mindfulness for petanquespillere
+<AdBanner />
+
 
 Mindfulness er et af de mest kraftfulde værktøjer, der er tilgængelige for atleter. Det er ikke mystisk eller kompliceret - det er simpelthen øvelsen i at være opmærksom på nuet uden at dømme.
 
@@ -77,6 +79,8 @@ Mindfulness hjælper dig med at håndtere alt dette.
 ## Kernefærdigheden: Ikke-dømmende bevidsthed
 
 Nøgleordet er &quot;ikke-dømmende&quot;.
+
+<AdInArticle />
 
 ::: danger Dømmende tænkning (tilføjer følelsesmæssig vægt)
 ❌ &quot;Det var et forfærdeligt kast&quot;
@@ -193,3 +197,4 @@ Konsistens er bedre end varighed. Daglig træning opbygger færdigheden.
 
 Du kan ikke forhindre tanker i at opstå. Men du kan vælge ikke at følge dem ned i kaninhullet.
 
+<AdBanner />

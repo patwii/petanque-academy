@@ -1,4 +1,6 @@
 # Teknisk trening kontra flyttrening
+<AdBanner />
+
 
 Det er viktig å forstå forskjellen mellom teknisk trening og flyttrening for eliteutvikling. Begge er nødvendige, men de tjener forskjellige formål og krever forskjellige tilnærminger.
 
@@ -74,6 +76,8 @@ Riktig treningsforhold er omvendt korrelert med teknisk kompetanse. Etter hvert 
 - Vedlikeholdsvolum er alt du trenger teknisk sett
 - **Forhold:** 20 % teknisk / 80 % mental
 - **Mentalt fokus:** Flyttilstand, strategi, roe ned sinnet
+
+<AdInArticle />
 
 ## Progresjonstabellen
 
@@ -187,3 +191,4 @@ Den virkelige ferdigheten er å vite når man skal bruke hver modus:
 
 Reisen fra teknikk til flyt krever strategisk inversjon. Tilpass treningen din til utviklingsstadiet ditt.
 
+<AdBanner />

@@ -1,4 +1,6 @@
 # Träningsövningar
+<AdBanner />
+
 
 Här är beprövade övningar som används av elitspelare. Varje övning har ett specifikt syfte – välj utifrån vad du behöver utveckla.
 
@@ -101,6 +103,8 @@ graph TD
 - Strikt version: Varje miss återgår till 6m
 - Tidsbegränsad version: Hur långt kan du komma på 10 minuter?
 - Lagversion: Växla med partner
+
+<AdInArticle />
 
 ### Barriären (Blox)
 **Syfte:** Tvinga fram hög ljusbågstagning
@@ -251,3 +255,4 @@ För en logg för varje övning:
 
 Kasta inte bara boule. Träna med syfte.
 
+<AdBanner />

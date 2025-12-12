@@ -1,4 +1,6 @@
 # Notizia
+<AdBanner />
+
 
 ## Benvenuti alla Pétanque Academy
 
@@ -28,6 +30,8 @@ graph TD
     style C fill:#e8f5e9
     style D fill:#f3e5f5
 ```
+
+<AdInArticle />
 
 ## Cosa sta arrivando
 
@@ -72,3 +76,4 @@ Mentre aspetti gli annunci dei workshop, esplora la nostra sezione didattica com
 Questo è solo l&#39;inizio. Stiamo creando qualcosa di speciale per i giocatori d&#39;élite che vogliono fare il passo successivo. Benvenuti alla Pétanque Academy.
 :::
 
+<AdBanner />

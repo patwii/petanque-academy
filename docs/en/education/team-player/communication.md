@@ -1,4 +1,6 @@
 # Team Communication
+<AdBanner />
+
 
 Effective communication is what transforms a group of individuals into a team. In pétanque, where strategy shifts constantly and pressure runs high, how you communicate can determine the outcome.
 
@@ -92,6 +94,8 @@ Communication is two-way:
 - Ask clarifying questions
 - Acknowledge what you've heard
 - Don't interrupt or dismiss
+
+<AdInArticle />
 
 ## Communication Challenges
 
@@ -218,3 +222,4 @@ If your team has a designated leader:
 
 Practice communication like you practice throwing. It's a skill that improves with attention.
 
+<AdBanner />

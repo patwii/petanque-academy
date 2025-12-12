@@ -1,4 +1,5 @@
 # Éducation
+<AdBanner />
 
 Bienvenue au programme éducatif de l&#39;Académie de Pétanque. C&#39;est ici que les joueurs d&#39;élite apprennent à maîtriser l&#39;aspect mental du jeu.
 
@@ -72,6 +73,8 @@ Entraînez-vous plus intelligemment, pas seulement plus intensément. Apprenez �
 
 ### 🥗 [Nutrition](/en/education/nutrition/)
 Optimisez votre performance cérébrale pour une précision maximale. Apprenez à maintenir une énergie et une concentration stables tout au long de la compétition.
+
+<AdInArticle />
 
 ## Le chemin de la technique au flow
 
@@ -151,4 +154,7 @@ Voici votre guide de référence rapide. Ajoutez cette section à vos favoris et
 
 ::: tip Point de départ recommandé
 Commencez par [The Zone](/en/education/the-zone/) pour comprendre les fondements de la performance d&#39;élite, puis explorez [Mindfulness](/en/education/mindfulness/) pour des techniques pratiques que vous pouvez utiliser immédiatement.
+:::
+
+<AdBanner />
 :::

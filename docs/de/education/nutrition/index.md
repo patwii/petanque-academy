@@ -1,4 +1,6 @@
 # Ernährung für präzise Leistungen
+<AdBanner />
+
 
 Pétanque ist ein Präzisionssport, kein Ausdauersport. Ihre Ernährungsbedürfnisse unterscheiden sich von denen eines Marathonläufers oder Fußballspielers. Am wichtigsten ist eine **stabile Energieversorgung des Gehirns** – damit Sie den ganzen Wettkampftag über konzentriert und ruhig bleiben.
 
@@ -155,6 +157,8 @@ Manche Präzisionssportler setzen auf kohlenhydratarme oder ketogene Diäten. Di
 - Nicht für jeden geeignet
 - Erfordert Planung und Engagement
 - Konsultieren Sie zuerst einen Arzt oder eine andere medizinische Fachkraft.
+
+<AdInArticle />
 
 Dies ist eine fortgeschrittene Strategie – nicht für jeden notwendig, aber eine Überlegung wert, wenn die Blutzuckerstabilität für Sie ein wichtiges Thema ist.
 
@@ -381,3 +385,4 @@ Konzentriere dich auf Proteine, gesunde Fette und ausreichend Flüssigkeit. Verm
 
 **Remember:** You wouldn't show up to a tournament with a throwing technique you've never practiced. Don't show up with a nutrition strategy you've never practiced either.
 
+<AdBanner />

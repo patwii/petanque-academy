@@ -1,4 +1,6 @@
 # Teknisk rådgivning
+<AdBanner />
+
 
 ## En merknad om teknikk
 
@@ -28,6 +30,8 @@ graph TD
 ```
 
 ## Vårt perspektiv
+
+<AdInArticle />
 
 ::: tip Du trenger ikke å mestre alt
 **Du trenger ikke å mestre alle teknikkene**, men å forstå hele paletten av muligheter hjelper deg med å:
@@ -68,3 +72,4 @@ Når du har en solid teknikk, kommer den virkelige veksten fra:
 - **[Opplæringsmetoder](/no/utdanning/opplæring/)** - Hvordan øve effektivt
 :::
 
+<AdBanner />

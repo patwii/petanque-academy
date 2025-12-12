@@ -1,4 +1,5 @@
 # Utbildning
+<AdBanner />
 
 Välkommen till Pétanque Academys utbildningsprogram. Det är här elitspelare lär sig att bemästra det mentala spelet.
 
@@ -152,3 +153,8 @@ Detta är din snabbreferensguide. Bokmärk det här avsnittet och återvänd til
 ::: tip Rekommenderad startpunkt
 Börja med [Zonen](/sv/utbildning/zonen/) för att förstå grunden för elitprestationer, utforska sedan [Mindfulness](/sv/utbildning/mindfulness/) för praktiska tekniker som du kan använda omedelbart.
 :::
+
+<AdBanner />
+:::
+
+<AdBanner />

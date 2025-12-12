@@ -1,5 +1,7 @@
 # Food & Nutrition
 
+<AdBanner />
+
 ## Fueling Precision Performance
 
 Pétanque is a precision sport. Your brain is your most important tool - feed it stable fuel, not roller coaster energy.
@@ -76,6 +78,8 @@ Be especially careful with:
 - ❌ Fruit juice and smoothies (concentrated sugar)
 - ❌ White bread, pastries, vending machine snacks
 :::
+
+<AdInArticle />
 
 ## Competition Day Quick Guide
 

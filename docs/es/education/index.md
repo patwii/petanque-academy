@@ -1,4 +1,5 @@
 # Educación
+<AdBanner />
 
 Bienvenidos al programa educativo de la Academia de Petanca. Aquí, los jugadores de élite aprenden a dominar el juego mental.
 
@@ -152,3 +153,8 @@ Esta es tu guía de referencia rápida. Guarda esta sección en tus favoritos y 
 ::: tip Punto de partida recomendado
 Comience con [La Zona](/es/education/the-zone/) para comprender los fundamentos del rendimiento de élite, luego explore [Mindfulness](/es/education/mindfulness/) para obtener técnicas prácticas que puede usar de inmediato.
 :::
+
+<AdBanner />
+:::
+
+<AdBanner />

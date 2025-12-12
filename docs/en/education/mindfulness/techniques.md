@@ -1,4 +1,6 @@
 # Mindfulness Techniques
+<AdBanner />
+
 
 Here are practical techniques you can use to develop mindfulness. Start with one or two and build from there.
 
@@ -79,6 +81,8 @@ Mindfulness in motion - great preparation for the piste.
 5. 5-10 minutes is enough
 
 ## Informal Practices
+
+<AdInArticle />
 
 These integrate mindfulness into daily activities.
 
@@ -199,3 +203,4 @@ Each trigger = one conscious breath.
 
 Start small. Be consistent. The benefits compound over time.
 
+<AdBanner />

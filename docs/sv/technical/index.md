@@ -1,4 +1,6 @@
 # Teknisk rådgivning
+<AdBanner />
+
 
 ## En anmärkning om teknik
 
@@ -28,6 +30,8 @@ graph TD
 ```
 
 ## Vårt perspektiv
+
+<AdInArticle />
 
 ::: tip Du behöver inte bemästra allt
 **Du behöver inte behärska alla tekniker**, men att förstå hela paletten av möjligheter hjälper dig att:
@@ -68,3 +72,4 @@ När du väl har en gedigen teknik kommer den verkliga utvecklingen från:
 - **[Träningsmetoder](/sv/utbildning/träning/)** - Hur man övar effektivt
 :::
 
+<AdBanner />

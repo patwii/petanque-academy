@@ -1,4 +1,6 @@
 # Criando seu plano de treinamento
+<AdBanner />
+
 
 Metas sem um plano são apenas desejos. Este guia ajuda você a transformar suas metas em um plano de treinamento estruturado que realmente funciona.
 
@@ -73,6 +75,8 @@ Selecione exercícios que contribuam diretamente para seus objetivos:
 ### Fase 4: Crie seu cronograma
 
 Elabore um cronograma semanal realista:
+
+<AdInArticle />
 
 | Dia | Manhã | Tarde | Noite | Foco |
 |-----|---------|-----------|---------|-------|
@@ -181,3 +185,4 @@ Seu plano deve evoluir:
 
 O melhor plano é aquele que você realmente segue. Comece com algo simples, mantenha a consistência e ajuste conforme for aprendendo.
 
+<AdBanner />

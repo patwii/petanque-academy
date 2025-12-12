@@ -1,4 +1,6 @@
 # De zone betreden: praktische technieken
+<AdBanner />
+
 
 De zone is niet iets wat je zomaar overkomt. Met oefening kun je leren om er consistent in te komen. Hier zijn beproefde technieken die door topsporters worden gebruikt.
 
@@ -110,6 +112,8 @@ Je routine wordt een &#39;mindfulness-bel&#39; - een signaal dat je hersentoesta
 ::: tip Praktische tip
 Gebruik je routine bij ELKE worp tijdens de training, niet alleen bij wedstrijden. De routine moet automatisch gaan.
 :::
+
+<AdInArticle />
 
 ## Techniek 2: Externe focus
 
@@ -276,3 +280,4 @@ Deze technieken werken alleen als je ze oefent:
 Begin met je voorbereiding op de shot. Voer deze routine consequent uit. Vertrouw erop. De flow volgt vanzelf.
 :::
 
+<AdBanner />

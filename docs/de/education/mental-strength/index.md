@@ -1,4 +1,6 @@
 # Mentale Stärke
+<AdBanner />
+
 
 Mentale Stärke ist das, was Spieler, die im Training gut abschneiden, von denen unterscheidet, die in entscheidenden Momenten ihr Bestes geben. Es ist die Fähigkeit, mit Druck umzugehen, Rückschläge zu verkraften und die Konzentration während langer Wettkämpfe aufrechtzuerhalten.
 
@@ -74,6 +76,8 @@ Selbstvertrauen entsteht durch:
 - Setzen Sie eine selbstbewusste Körpersprache ein (sie beeinflusst Ihre Psyche).
 
 ### 2. Meistere deine Selbstgespräche
+
+<AdInArticle />
 
 Die Stimme in deinem Kopf ist von enormer Bedeutung.
 
@@ -187,3 +191,4 @@ Analysiere die Würfe nicht übermäßig. Spare deine mentale Energie für die A
 
 Du kannst nicht kontrollieren, was passiert. Du kannst aber kontrollieren, wie du reagierst.
 
+<AdBanner />

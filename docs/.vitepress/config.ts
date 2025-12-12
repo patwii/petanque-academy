@@ -37,10 +37,20 @@ export default withMermaid(defineConfig({
           { text: 'Home', link: '/en/' },
           { text: 'Ambition', link: '/en/ambition' },
           { text: 'News', link: '/en/news/' },
-          { text: 'Workshop', link: '/en/workshop' },
+          {
+            text: 'Tools',
+            items: [
+              { text: 'Workshop', link: '/en/workshop' },
+              { text: 'Training Camp', link: '/en/training-camp' },
+              { text: 'Training Session', link: '/en/training-session' },
+              { text: 'Goal Template', link: '/en/goal-template' },
+              { text: 'Diary Template', link: '/en/diary-template' }
+            ]
+          },
           { text: 'Education', link: '/en/education/' },
           { text: 'Technical Advice', link: '/en/technical/' },
-          { text: 'Food', link: '/en/food' }
+          { text: 'Food', link: '/en/food' },
+          { text: 'About', link: '/en/about' }
         ]
       }
     },
@@ -53,10 +63,20 @@ export default withMermaid(defineConfig({
           { text: 'Hjem', link: '/da/' },
           { text: 'Ambition', link: '/da/ambition' },
           { text: 'Nyheder', link: '/da/news/' },
-          { text: 'Workshop', link: '/da/workshop' },
+          {
+            text: 'Værktøjer',
+            items: [
+              { text: 'Workshop', link: '/da/workshop' },
+              { text: 'Træningslejr', link: '/da/training-camp' },
+              { text: 'Træningssession', link: '/da/training-session' },
+              { text: 'Målskabelon', link: '/da/goal-template' },
+              { text: 'Dagbogsskabelon', link: '/da/diary-template' }
+            ]
+          },
           { text: 'Uddannelse', link: '/da/education/' },
           { text: 'Teknisk Rådgivning', link: '/da/technical/' },
-          { text: 'Mad', link: '/da/food' }
+          { text: 'Mad', link: '/da/food' },
+          { text: 'Om', link: '/da/about' }
         ]
       }
     },
@@ -69,10 +89,20 @@ export default withMermaid(defineConfig({
           { text: 'Startseite', link: '/de/' },
           { text: 'Ambition', link: '/de/ambition' },
           { text: 'Neuigkeiten', link: '/de/news/' },
-          { text: 'Workshop', link: '/de/workshop' },
+          {
+            text: 'Werkzeuge',
+            items: [
+              { text: 'Workshop', link: '/de/workshop' },
+              { text: 'Trainingslager', link: '/de/training-camp' },
+              { text: 'Trainingseinheit', link: '/de/training-session' },
+              { text: 'Zielvorlage', link: '/de/goal-template' },
+              { text: 'Tagebuchvorlage', link: '/de/diary-template' }
+            ]
+          },
           { text: 'Bildung', link: '/de/education/' },
           { text: 'Technische Beratung', link: '/de/technical/' },
-          { text: 'Ernährung', link: '/de/food' }
+          { text: 'Ernährung', link: '/de/food' },
+          { text: 'Über', link: '/de/about' }
         ]
       }
     },
@@ -85,10 +115,20 @@ export default withMermaid(defineConfig({
           { text: 'Inicio', link: '/es/' },
           { text: 'Ambición', link: '/es/ambition' },
           { text: 'Noticias', link: '/es/news/' },
-          { text: 'Taller', link: '/es/workshop' },
+          {
+            text: 'Herramientas',
+            items: [
+              { text: 'Taller', link: '/es/workshop' },
+              { text: 'Campamento de Entrenamiento', link: '/es/training-camp' },
+              { text: 'Sesión de Entrenamiento', link: '/es/training-session' },
+              { text: 'Plantilla de Objetivos', link: '/es/goal-template' },
+              { text: 'Plantilla de Diario', link: '/es/diary-template' }
+            ]
+          },
           { text: 'Educación', link: '/es/education/' },
           { text: 'Consejo Técnico', link: '/es/technical/' },
-          { text: 'Comida', link: '/es/food' }
+          { text: 'Comida', link: '/es/food' },
+          { text: 'Acerca de', link: '/es/about' }
         ]
       }
     },
@@ -101,10 +141,20 @@ export default withMermaid(defineConfig({
           { text: 'Accueil', link: '/fr/' },
           { text: 'Ambition', link: '/fr/ambition' },
           { text: 'Actualités', link: '/fr/news/' },
-          { text: 'Atelier', link: '/fr/workshop' },
+          {
+            text: 'Outils',
+            items: [
+              { text: 'Atelier', link: '/fr/workshop' },
+              { text: 'Stage d\'Entraînement', link: '/fr/training-camp' },
+              { text: 'Séance d\'Entraînement', link: '/fr/training-session' },
+              { text: 'Modèle d\'Objectifs', link: '/fr/goal-template' },
+              { text: 'Modèle de Journal', link: '/fr/diary-template' }
+            ]
+          },
           { text: 'Éducation', link: '/fr/education/' },
           { text: 'Conseils Techniques', link: '/fr/technical/' },
-          { text: 'Alimentation', link: '/fr/food' }
+          { text: 'Alimentation', link: '/fr/food' },
+          { text: 'À propos', link: '/fr/about' }
         ]
       }
     },
@@ -117,10 +167,20 @@ export default withMermaid(defineConfig({
           { text: 'Home', link: '/it/' },
           { text: 'Ambizione', link: '/it/ambition' },
           { text: 'Notizie', link: '/it/news/' },
-          { text: 'Workshop', link: '/it/workshop' },
+          {
+            text: 'Strumenti',
+            items: [
+              { text: 'Workshop', link: '/it/workshop' },
+              { text: 'Campo di Allenamento', link: '/it/training-camp' },
+              { text: 'Sessione di Allenamento', link: '/it/training-session' },
+              { text: 'Modello di Obiettivi', link: '/it/goal-template' },
+              { text: 'Modello di Diario', link: '/it/diary-template' }
+            ]
+          },
           { text: 'Educazione', link: '/it/education/' },
           { text: 'Consigli Tecnici', link: '/it/technical/' },
-          { text: 'Cibo', link: '/it/food' }
+          { text: 'Cibo', link: '/it/food' },
+          { text: 'Chi siamo', link: '/it/about' }
         ]
       }
     },
@@ -133,7 +193,16 @@ export default withMermaid(defineConfig({
           { text: 'Home', link: '/nl/' },
           { text: 'Ambitie', link: '/nl/ambition' },
           { text: 'Nieuws', link: '/nl/news/' },
-          { text: 'Workshop', link: '/nl/workshop' },
+          {
+            text: 'Hulpmiddelen',
+            items: [
+              { text: 'Workshop', link: '/nl/workshop' },
+              { text: 'Trainingskamp', link: '/nl/training-camp' },
+              { text: 'Trainingssessie', link: '/nl/training-session' },
+              { text: 'Doelsjabloon', link: '/nl/goal-template' },
+              { text: 'Dagboeksjabloon', link: '/nl/diary-template' }
+            ]
+          },
           { text: 'Educatie', link: '/nl/education/' },
           { text: 'Technisch Advies', link: '/nl/technical/' },
           { text: 'Voeding', link: '/nl/food' }
@@ -149,10 +218,20 @@ export default withMermaid(defineConfig({
           { text: 'Hjem', link: '/no/' },
           { text: 'Ambisjon', link: '/no/ambition' },
           { text: 'Nyheter', link: '/no/news/' },
-          { text: 'Workshop', link: '/no/workshop' },
+          {
+            text: 'Verktøy',
+            items: [
+              { text: 'Workshop', link: '/no/workshop' },
+              { text: 'Treningsleir', link: '/no/training-camp' },
+              { text: 'Treningsøkt', link: '/no/training-session' },
+              { text: 'Målmal', link: '/no/goal-template' },
+              { text: 'Dagbokmal', link: '/no/diary-template' }
+            ]
+          },
           { text: 'Utdanning', link: '/no/education/' },
           { text: 'Teknisk Råd', link: '/no/technical/' },
-          { text: 'Mat', link: '/no/food' }
+          { text: 'Mat', link: '/no/food' },
+          { text: 'Om', link: '/no/about' }
         ]
       }
     },
@@ -165,10 +244,20 @@ export default withMermaid(defineConfig({
           { text: 'Início', link: '/pt/' },
           { text: 'Ambição', link: '/pt/ambition' },
           { text: 'Notícias', link: '/pt/news/' },
-          { text: 'Workshop', link: '/pt/workshop' },
+          {
+            text: 'Ferramentas',
+            items: [
+              { text: 'Workshop', link: '/pt/workshop' },
+              { text: 'Campo de Treinamento', link: '/pt/training-camp' },
+              { text: 'Sessão de Treinamento', link: '/pt/training-session' },
+              { text: 'Modelo de Objetivos', link: '/pt/goal-template' },
+              { text: 'Modelo de Diário', link: '/pt/diary-template' }
+            ]
+          },
           { text: 'Educação', link: '/pt/education/' },
           { text: 'Conselho Técnico', link: '/pt/technical/' },
-          { text: 'Comida', link: '/pt/food' }
+          { text: 'Comida', link: '/pt/food' },
+          { text: 'Sobre', link: '/pt/about' }
         ]
       }
     },
@@ -181,20 +270,26 @@ export default withMermaid(defineConfig({
           { text: 'Hem', link: '/sv/' },
           { text: 'Ambition', link: '/sv/ambition' },
           { text: 'Nyheter', link: '/sv/news/' },
-          { text: 'Workshop', link: '/sv/workshop' },
+          {
+            text: 'Verktyg',
+            items: [
+              { text: 'Workshop', link: '/sv/workshop' },
+              { text: 'Träningsläger', link: '/sv/training-camp' },
+              { text: 'Träningspass', link: '/sv/training-session' },
+              { text: 'Målmall', link: '/sv/goal-template' },
+              { text: 'Dagboksmall', link: '/sv/diary-template' }
+            ]
+          },
           { text: 'Utbildning', link: '/sv/education/' },
           { text: 'Teknisk Rådgivning', link: '/sv/technical/' },
-          { text: 'Mat', link: '/sv/food' }
+          { text: 'Mat', link: '/sv/food' },
+          { text: 'Om', link: '/sv/about' }
         ]
       }
     }
   },
 
   themeConfig: {
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/your-org/petanque-academy' }
-    ],
-
     sidebar: getSidebar()
   },
 

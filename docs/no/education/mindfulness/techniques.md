@@ -1,4 +1,6 @@
 # Mindfulness-teknikker
+<AdBanner />
+
 
 Her er praktiske teknikker du kan bruke for å utvikle mindfulness. Start med én eller to og bygg videre derfra.
 
@@ -79,6 +81,8 @@ Mindfulness i bevegelse – god forberedelse til løypa.
 5. 5–10 minutter er nok
 
 ## Uformell praksis
+
+<AdInArticle />
 
 Disse integrerer mindfulness i daglige aktiviteter.
 
@@ -199,3 +203,4 @@ Hver trigger = ett bevisst åndedrag.
 
 Begynn i det små. Vær konsekvent. Fordelene øker over tid.
 
+<AdBanner />

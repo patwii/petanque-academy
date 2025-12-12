@@ -1,4 +1,6 @@
 # Pression de manutention
+<AdBanner />
+
 
 La pression fait partie intégrante de la compétition. L&#39;objectif n&#39;est pas de l&#39;éliminer, c&#39;est impossible. L&#39;objectif est de bien performer malgré elle, voire de l&#39;utiliser à son avantage.
 
@@ -78,6 +80,8 @@ La respiration est le moyen le plus rapide de changer d&#39;état.
 - Une respiration lente et profonde
 - Sentez vos pieds sur le sol
 - Relâchez vos épaules à l&#39;expiration.
+
+<AdInArticle />
 
 ### 2. Enracinement physique
 
@@ -189,3 +193,4 @@ Relisez ceci avant les compétitions pour vous rappeler : « J&#39;ai déjà fai
 
 Les meilleurs joueurs ne sont pas calmes – ils savent utiliser leur excitation de manière productive.
 
+<AdBanner />

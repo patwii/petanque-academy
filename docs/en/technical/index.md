@@ -1,4 +1,6 @@
 # Technical Advice
+<AdBanner />
+
 
 ## A Note on Technique
 
@@ -28,6 +30,8 @@ graph TD
 ```
 
 ## Our Perspective
+
+<AdInArticle />
 
 ::: tip You Don't Need to Master Everything
 **You don't need to master all techniques**, but understanding the full palette of possibilities helps you:
@@ -68,3 +72,4 @@ Once you have solid technique, the real growth comes from:
 - **[Training Methods](/en/education/training/)** - How to practice effectively
 :::
 
+<AdBanner />

@@ -1,4 +1,6 @@
 # Élaborer votre plan d&#39;entraînement
+<AdBanner />
+
 
 Des objectifs sans plan ne sont que des vœux pieux. Ce guide vous aide à transformer vos objectifs en un plan d&#39;entraînement structuré et efficace.
 
@@ -73,6 +75,8 @@ Choisissez des exercices qui contribuent directement à vos objectifs :
 ### Phase 4 : Établissez votre planning
 
 Élaborez un planning hebdomadaire réaliste :
+
+<AdInArticle />
 
 | Jour | Matin | Après-midi | Soirée | Se concentrer |
 |-----|---------|-----------|---------|-------|
@@ -181,3 +185,4 @@ Votre plan doit évoluer :
 
 Le meilleur plan est celui que vous suivrez réellement. Commencez simplement, restez constant et ajustez-le au fur et à mesure que vous apprenez.
 
+<AdBanner />

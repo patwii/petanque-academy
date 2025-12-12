@@ -1,4 +1,6 @@
 # Een dagelijkse mindfulness-praktijk opbouwen
+<AdBanner />
+
 
 De voordelen van mindfulness komen voort uit consistente oefening. Zo maak je het onderdeel van je leven.
 
@@ -78,6 +80,8 @@ Je hebt geen aparte meditatieruimte nodig, maar een vaste plek is wel handig:
 - Indien mogelijk steeds naar dezelfde plek.
 
 ### Stap 4: Verwijder obstakels
+
+<AdInArticle />
 
 Maak het oefenen gemakkelijk:
 - Zet je telefoon op stil.
@@ -195,3 +199,4 @@ Mindfulness is een levenslange oefening. Topsporters zeggen vaak dat het de mees
 
 Begin vandaag nog. Begin klein. Houd vol.
 
+<AdBanner />

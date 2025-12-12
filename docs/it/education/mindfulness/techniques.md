@@ -1,4 +1,6 @@
 # Tecniche di consapevolezza
+<AdBanner />
+
 
 Ecco alcune tecniche pratiche che puoi utilizzare per sviluppare la consapevolezza. Inizia con una o due e procedi da lì.
 
@@ -79,6 +81,8 @@ Mindfulness in movimento: un&#39;ottima preparazione per la pista.
 5. 5-10 minuti sono sufficienti
 
 ## Pratiche informali
+
+<AdInArticle />
 
 Integrano la consapevolezza nelle attività quotidiane.
 
@@ -199,3 +203,4 @@ Ogni innesco = un respiro consapevole.
 
 Inizia in piccolo. Sii costante. I benefici si accumulano nel tempo.
 
+<AdBanner />

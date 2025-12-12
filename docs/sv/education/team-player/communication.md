@@ -1,4 +1,6 @@
 # Teamkommunikation
+<AdBanner />
+
 
 Effektiv kommunikation är det som förvandlar en grupp individer till ett team. I boule, där strategin ständigt förändras och pressen är hög, kan hur du kommunicerar avgöra resultatet.
 
@@ -92,6 +94,8 @@ Kommunikation är tvåvägs:
 - Ställ förtydligande frågor
 - Bekräfta vad du har hört
 - Avbryt inte eller avfärda
+
+<AdInArticle />
 
 ## Kommunikationsutmaningar
 
@@ -218,3 +222,4 @@ Om ert team har en utsedd ledare:
 
 Öva kommunikation på samma sätt som du övar på att kasta. Det är en färdighet som förbättras med uppmärksamhet.
 
+<AdBanner />

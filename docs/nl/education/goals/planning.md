@@ -1,4 +1,6 @@
 # Je trainingsplan opstellen
+<AdBanner />
+
 
 Doelen zonder plan blijven slechts wensen. Deze gids helpt je om je doelen om te zetten in een gestructureerd trainingsplan dat daadwerkelijk werkt.
 
@@ -73,6 +75,8 @@ Kies oefeningen die direct aansluiten bij je doelen:
 ### Fase 4: Stel je planning samen
 
 Stel een realistisch weekschema op:
+
+<AdInArticle />
 
 | Dag | Ochtend | Middag | Avond | Focus |
 |-----|---------|-----------|---------|-------|
@@ -181,3 +185,4 @@ Je plan moet zich ontwikkelen:
 
 Het beste plan is een plan dat je ook daadwerkelijk volgt. Begin eenvoudig, blijf consequent en pas het aan naarmate je meer leert.
 
+<AdBanner />

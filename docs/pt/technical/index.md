@@ -1,4 +1,6 @@
 # Assessoria técnica
+<AdBanner />
+
 
 ## Uma nota sobre técnica
 
@@ -28,6 +30,8 @@ graph TD
 ```
 
 ## Nossa Perspectiva
+
+<AdInArticle />
 
 ::: tip Você não precisa dominar tudo.
 **Você não precisa dominar todas as técnicas**, mas entender toda a gama de possibilidades ajuda você a:
@@ -68,3 +72,4 @@ Depois de dominar a técnica, o verdadeiro crescimento vem de:
 - **[Métodos de Treinamento](/en/education/training/)** - Como praticar com eficácia
 :::
 
+<AdBanner />

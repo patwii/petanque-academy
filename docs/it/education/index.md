@@ -1,4 +1,5 @@
 # Istruzione
+<AdBanner />
 
 Benvenuti al programma educativo della Pétanque Academy. È qui che i giocatori d&#39;élite imparano a padroneggiare il gioco mentale.
 
@@ -152,3 +153,8 @@ Questa è la tua guida di riferimento rapido. Aggiungi questa sezione ai preferi
 ::: tip Punto di partenza consigliato
 Inizia con [The Zone](/it/education/the-zone/) per comprendere le basi delle prestazioni d&#39;élite, quindi esplora [Mindfulness](/it/education/mindfulness/) per tecniche pratiche che puoi utilizzare immediatamente.
 :::
+
+<AdBanner />
+:::
+
+<AdBanner />

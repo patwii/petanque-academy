@@ -1,4 +1,6 @@
 # Ernæring til præcisionspræstation
+<AdBanner />
+
 
 Petanque er en præcisionssport, ikke en udholdenhedssport. Dine ernæringsmæssige behov er anderledes end en maratonløbers eller en fodboldspillers. Det vigtigste er **hjernens brændstofstabilitet** - at holde dit sind skarpt og dine hænder stabile gennem en lang konkurrencedag.
 
@@ -155,6 +157,8 @@ Nogle præcisionsatleter følger lavkulhydrat- eller ketogene diæter. Teorien:
 - Ikke egnet til alle
 - Kræver planlægning og engagement
 - Kontakt først en sundhedsudbyder
+
+<AdInArticle />
 
 Dette er en avanceret strategi - ikke nødvendig for alle, men værd at overveje, hvis blodsukkerstabilitet er et væsentligt problem for dig.
 
@@ -381,3 +385,4 @@ Fokuser på protein, sunde fedtstoffer og at holde dig hydreret. Undgå sukkerst
 
 **Remember:** You wouldn't show up to a tournament with a throwing technique you've never practiced. Don't show up with a nutrition strategy you've never practiced either.
 
+<AdBanner />

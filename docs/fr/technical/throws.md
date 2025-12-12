@@ -1,4 +1,6 @@
 # Palette de jetés
+<AdBanner />
+
 
 ## Le répertoire technique complet
 
@@ -72,6 +74,8 @@ graph LR
 | **Effet rétro** | S&#39;arrête ou recule à l&#39;atterrissage | Il faut s&#39;arrêter rapidement, éviter de dépasser |
 | **Demi-tour** | Effet rétro modéré, roulement contrôlé | Le plus polyvalent, le plus prévisible |
 | **Sans rotation** | Roulement neutre et naturel à l&#39;atterrissage | Laissez le terrain dicter le déroulement du jeu |
+
+<AdInArticle />
 
 ## Techniques de tir
 
@@ -172,3 +176,4 @@ Une fois que vous maîtrisez la technique, la véritable progression provient de
 - **[Force mentale](/en/education/mental-strength/)** - Performance sous pression
 :::
 
+<AdBanner />

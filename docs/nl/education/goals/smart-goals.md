@@ -1,4 +1,6 @@
 # SMART-doelen voor pétanque
+<AdBanner />
+
 
 Het SMART-raamwerk zet vage wensen om in concrete doelen. Laten we elk element eens nader bekijken, met specifieke voorbeelden voor pétanque.
 
@@ -77,6 +79,8 @@ Doelen moeten je uitdagen, maar niet onmogelijk zijn.
 
 **Te makkelijk:** &quot;Oefen één keer deze maand&quot;
 - Geen groei, geen motivatie
+
+<AdInArticle />
 
 **Te moeilijk:** &quot;Mis nooit een schot&quot;
 - Onmogelijk, leidt tot frustratie
@@ -189,3 +193,4 @@ _________________________________
 
 Neem de tijd om je doelen goed te formuleren. Een duidelijk omschreven doel is al het halve werk.
 
+<AdBanner />

@@ -1,4 +1,6 @@
 # Prise de décision fondée sur les probabilités
+<AdBanner />
+
 
 La pensée tactique de haut niveau utilise les probabilités pour prendre de meilleures décisions. Au lieu de deviner ou de se fier à son intuition, on analyse systématiquement ses options.
 
@@ -82,6 +84,8 @@ Pour utiliser le raisonnement probabiliste, vous devez connaître vos taux de r�
 | Tir (rapprochement) | 6-7 m | ___% |
 | Tir (moyen) | 8-9 m | ___% |
 | Tourner (long) | 10 m+ | ___% |
+
+<AdInArticle />
 
 Suivez ces indicateurs en pratique. Soyez honnête : la plupart des joueurs surestiment leurs chances de réussite.
 
@@ -201,3 +205,4 @@ Avec le temps, le raisonnement probabiliste devient intuitif :
 
 Réfléchissez en termes de probabilités. Maîtrisez vos chiffres. Faites le choix judicieux, pas celui qui repose sur l&#39;espoir.
 
+<AdBanner />

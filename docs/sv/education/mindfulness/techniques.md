@@ -1,4 +1,6 @@
 # Mindfulness-tekniker
+<AdBanner />
+
 
 Här är praktiska tekniker du kan använda för att utveckla mindfulness. Börja med en eller två och bygg vidare därifrån.
 
@@ -79,6 +81,8 @@ Mindfulness i rörelse – bra förberedelse inför pisten.
 5. 5-10 minuter räcker
 
 ## Informella metoder
+
+<AdInArticle />
 
 Dessa integrerar mindfulness i dagliga aktiviteter.
 
@@ -199,3 +203,4 @@ Varje trigger = ett medvetet andetag.
 
 Börja smått. Var konsekvent. Fördelarna ökar med tiden.
 
+<AdBanner />

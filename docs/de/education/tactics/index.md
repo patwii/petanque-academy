@@ -1,4 +1,6 @@
 # Taktisches Denken beim Boule
+<AdBanner />
+
 
 Auf höchstem Niveau wird technisches Können vorausgesetzt. Was die Gewinner von den anderen unterscheidet, ist taktische Intelligenz – zu wissen, welchen Wurf man wann versucht. Die besten Spieler lesen das Spiel mehrere Züge voraus und nutzen jeden Vorteil.
 
@@ -122,6 +124,8 @@ graph LR
     B --> E[Schieß mehr]
     C --> F{Surface?}
     D --> G[Punkt mehr]
+
+<AdInArticle />
 
     F -->|Smooth| H[Schieß mehr]
     F -->|Rough| I[Punkt mehr]
@@ -298,3 +302,4 @@ Verfolgen Sie ihre Präferenzen, Erfolgsquoten und Reaktionen auf Druck.
 
 Lies das Spiel. Kenne deine Stärken. Nutze ihre Schwächen aus. Handle selbstbewusst.
 
+<AdBanner />

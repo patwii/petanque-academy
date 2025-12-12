@@ -1,4 +1,6 @@
 # Palette di lanci
+<AdBanner />
+
 
 ## Il repertorio tecnico completo
 
@@ -72,6 +74,8 @@ graph LR
 | **Rotazione completa (backspin)** | Si ferma o tira indietro all&#39;atterraggio | Bisogna fermarsi velocemente, evitare di passare oltre |
 | **Mezzo giro** | Backspin moderato, rollio controllato | Il più versatile, prevedibile |
 | **Nessuna rotazione** | Rotolamento neutro e naturale all&#39;atterraggio | Lascia che sia il terreno a dettare il rollio |
+
+<AdInArticle />
 
 ## Tecniche di tiro
 
@@ -172,3 +176,4 @@ Una volta acquisita una tecnica solida, la vera crescita deriva da:
 - **[Forza mentale](/it/educazione/forza-mentale/)** - Rendimento sotto pressione
 :::
 
+<AdBanner />

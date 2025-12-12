@@ -1,4 +1,6 @@
 # Zonen: Forståelse af flowtilstand
+<AdBanner />
+
 
 Har du nogensinde haft et spil, hvor alt bare faldt på plads? Hvor du ikke tænkte over din teknik, og hver kugle landede præcis, hvor du ville? Det er &quot;zonen&quot; - og det at lære at spille den konsekvent er det, der adskiller elitespillere fra resten.
 
@@ -60,6 +62,8 @@ Din hjerne fungerer i to forskellige tilstande:
 | **Hjerneaktivitet** | Høj analytisk tænkning | Stille, automatisk |
 | **Fokus** | Intern (kropsmekanik) | Ekstern (mål) |
 | **Følelse** | Anstrengende, bevidst | Ubesværet, naturlig |
+
+<AdInArticle />
 
 Den vigtigste færdighed er at lære at **skifte** mellem disse tilstande på det rigtige tidspunkt.
 
@@ -140,3 +144,4 @@ Stol på din træning. Fokuser på målet, ikke din teknik.
 
 Din teknik er fundamentet. Zonen er, hvor fundamentet bliver til kunst.
 
+<AdBanner />

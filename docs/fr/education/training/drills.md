@@ -1,4 +1,6 @@
 # Exercices d&#39;entraînement
+<AdBanner />
+
 
 Voici des exercices éprouvés, utilisés par les joueurs de haut niveau. Chaque exercice a un objectif précis ; choisissez celui qui correspond à vos besoins.
 
@@ -101,6 +103,8 @@ graph TD
 - Version stricte : Tout échec ramène à 6 m
 - Version chronométrée : Quelle distance pouvez-vous parcourir en 10 minutes ?
 - Version en équipe : Alterner avec un partenaire
+
+<AdInArticle />
 
 ### La Barrière (Bloox)
 **Objectif :** Forcer le tir en cloche
@@ -251,3 +255,4 @@ Tenez un registre pour chaque exercice :
 
 Ne vous contentez pas de lancer des boules. Entraînez-vous avec un objectif précis.
 
+<AdBanner />

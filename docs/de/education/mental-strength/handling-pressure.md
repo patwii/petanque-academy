@@ -1,4 +1,6 @@
 # Handhabungsdruck
+<AdBanner />
+
 
 Druck gehört zum Wettbewerb dazu. Es geht nicht darum, ihn zu eliminieren – das ist unmöglich. Es geht darum, trotz des Drucks gute Leistungen zu erbringen und ihn sogar zu seinem Vorteil zu nutzen.
 
@@ -78,6 +80,8 @@ Dein Atem ist der schnellste Weg, deinen Zustand zu verändern.
 - Ein langsamer, tiefer Atemzug
 - Spüre deine Füße auf dem Boden
 - Lassen Sie beim Ausatmen die Schultern sinken.
+
+<AdInArticle />
 
 ### 2. Physische Erdung
 
@@ -189,3 +193,4 @@ Lies dir das vor Wettkämpfen noch einmal durch, um dich daran zu erinnern: „D
 
 Die besten Spieler sind nicht ruhig – sie verstehen es, ihre Erregung produktiv einzusetzen.
 
+<AdBanner />

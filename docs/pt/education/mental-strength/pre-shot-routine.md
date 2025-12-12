@@ -1,4 +1,6 @@
 # Construindo sua rotina pré-filmagem
+<AdBanner />
+
 
 Sua rotina de pré-lançamento é uma das ferramentas mais poderosas do seu jogo mental. É uma sequência consistente de ações que prepara você para cada lançamento e desencadeia seu melhor estado de desempenho.
 
@@ -76,6 +78,8 @@ Faça o lançamento:
 - Confie no seu corpo
 - Solte sem hesitação
 - Siga naturalmente
+
+<AdInArticle />
 
 ## Construindo sua rotina pessoal
 
@@ -184,3 +188,4 @@ Sua rotina deve levar um tempo consistente:
 
 Construa-o com cuidado. Pratique sempre. Confie completamente.
 
+<AdBanner />

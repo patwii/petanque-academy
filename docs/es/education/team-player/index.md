@@ -1,4 +1,6 @@
 # Ser un gran jugador de equipo
+<AdBanner />
+
 
 La petanca se juega a menudo en equipos: dobles (dobles) o triples (tripletes). La habilidad individual importa, pero la dinámica del equipo puede determinar el resultado. Los mejores equipos no siempre son los más hábiles, sino los que mejor trabajan juntos.
 
@@ -75,6 +77,8 @@ La comunicación es el elemento vital del rendimiento del equipo.
 - Claro y específico
 - Bidireccional (hablar y escuchar)
 - Oportuno (información correcta en el momento correcto)
+
+<AdInArticle />
 
 **Durante los juegos:**
 - Discuta la estrategia antes de cada final
@@ -188,3 +192,4 @@ Los grandes equipos desarrollan compartido:
 
 Invierte en tus compañeros. Genera confianza. Comunícate bien. Triunfen juntos.
 
+<AdBanner />

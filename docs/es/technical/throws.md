@@ -1,4 +1,6 @@
 # Paleta de mantas
+<AdBanner />
+
 
 ## El repertorio técnico completo
 
@@ -72,6 +74,8 @@ graph LR
 | **Giro completo (backspin)** | Se detiene o retrocede al aterrizar | Es necesario detenerse rápidamente, evitando pasar de largo. |
 | **Medio giro** | Efecto retroceso moderado, balanceo controlado | El más versátil y predecible. |
 | **Sin giro** | Balanceo natural y neutral al aterrizar | Deja que el terreno dicte el rumbo |
+
+<AdInArticle />
 
 ## Técnicas de tiro
 
@@ -172,3 +176,4 @@ Una vez que tienes una técnica sólida, el verdadero crecimiento proviene de:
 - **[Fuerza mental](/es/educacion/fuerza-mental/)** - Rendimiento bajo presión
 :::
 
+<AdBanner />

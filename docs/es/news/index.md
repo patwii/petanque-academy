@@ -1,4 +1,6 @@
 # Noticias
+<AdBanner />
+
 
 ## Bienvenido a la Academia de Petanca
 
@@ -28,6 +30,8 @@ graph TD
     style C fill:#e8f5e9
     style D fill:#f3e5f5
 ```
+
+<AdInArticle />
 
 ## Lo que viene
 
@@ -72,3 +76,4 @@ Mientras espera los anuncios de los talleres, explore nuestra sección de educac
 Esto es solo el comienzo. Estamos construyendo algo especial para jugadores de élite que quieren dar el siguiente paso. Bienvenidos a la Academia de Petanca.
 :::
 
+<AdBanner />

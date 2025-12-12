@@ -1,4 +1,6 @@
 # Håndtering av trykk
+<AdBanner />
+
 
 Press er en del av konkurransen. Målet er ikke å eliminere det - det er umulig. Målet er å prestere bra til tross for det, og til og med bruke det til din fordel.
 
@@ -78,6 +80,8 @@ Pusten din er den raskeste måten å endre tilstanden din på.
 - En sakte, dyp pust
 - Kjenn føttene dine på bakken
 - Slipp skuldrene på pusten
+
+<AdInArticle />
 
 ### 2. Fysisk jording
 
@@ -189,3 +193,4 @@ Se gjennom dette før konkurranser for å minne deg selv på: "Jeg har gjort det
 
 De beste spillerne er ikke rolige – de er dyktige til å bruke sin opphisselse produktivt.
 
+<AdBanner />

@@ -1,4 +1,6 @@
 # Forza mentale
+<AdBanner />
+
 
 La forza mentale è ciò che distingue i giocatori che danno il massimo in allenamento da quelli che danno il massimo quando conta. È la capacità di gestire la pressione, riprendersi dalle battute d&#39;arresto e mantenere la concentrazione durante le lunghe competizioni.
 
@@ -74,6 +76,8 @@ La fiducia deriva da:
 - Usa un linguaggio del corpo sicuro (influenza la tua mente)
 
 ### 2. Padroneggia il tuo dialogo interiore
+
+<AdInArticle />
 
 La voce nella tua testa è estremamente importante.
 
@@ -187,3 +191,4 @@ Non analizzare troppo tra un lancio e l&#39;altro. Conserva l&#39;energia mental
 
 Non puoi controllare cosa succede. Puoi controllare come reagisci.
 
+<AdBanner />

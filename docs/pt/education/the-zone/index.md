@@ -1,4 +1,6 @@
 # A Zona: Compreendendo o Estado de Fluxo
+<AdBanner />
+
 
 Você já teve uma partida em que tudo simplesmente se encaixou? Em que você não pensou na sua técnica e cada bola caiu exatamente onde você queria? Isso é &quot;estar no fluxo&quot; - e aprender a acessá-lo consistentemente é o que diferencia os jogadores de elite dos demais.
 
@@ -60,6 +62,8 @@ Seu cérebro opera em dois modos diferentes:
 | **Atividade cerebral** | Alto nível de pensamento analítico | Silencioso, automático |
 | **Foco** | Mecânica interna (corporal) | Externo (alvo) |
 | **Sentimento** | Esforçado, consciente | Sem esforço, natural |
+
+<AdInArticle />
 
 A habilidade fundamental é aprender a **alternar** entre esses modos no momento certo.
 
@@ -140,3 +144,4 @@ Confie no seu treinamento. Concentre-se no alvo, não na sua técnica.
 
 Sua técnica é a base. A zona é onde essa base se transforma em arte.
 
+<AdBanner />

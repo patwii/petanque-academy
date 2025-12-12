@@ -1,4 +1,6 @@
 # Entrar en la zona: técnicas prácticas
+<AdBanner />
+
 
 La zona no es algo que simplemente te sucede. Con la práctica, puedes aprender a acceder a ella con mayor consistencia. Aquí tienes técnicas probadas que utilizan los atletas de élite.
 
@@ -110,6 +112,8 @@ Tu rutina se convierte en una señal de atención plena: una señal que cambia t
 ::: tip Consejo práctico
 Usa tu rutina en CADA lanzamiento durante los entrenamientos, no solo en las competiciones. La rutina debe volverse automática.
 :::
+
+<AdInArticle />
 
 ## Técnica 2: Enfoque externo
 
@@ -276,3 +280,4 @@ Estas técnicas sólo funcionan si las practicas:
 Empieza con tu rutina previa a la inyección. Sé constante. Confía en ella. La zona llegará sola.
 :::
 
+<AdBanner />

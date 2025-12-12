@@ -1,4 +1,6 @@
 # Bygg din pre-shot rutin
+<AdBanner />
+
 
 Din pre-shot rutin är ett av de mest kraftfulla verktygen i ditt mentala spel. Det är en konsekvent sekvens av åtgärder som förbereder dig för varje kast och utlöser ditt bästa prestationsläge.
 
@@ -76,6 +78,8 @@ Gör kast:
 - Lita på din kropp
 - Släpp utan att tveka
 - Följ naturligt
+
+<AdInArticle />
 
 ## Bygg din personliga rutin
 
@@ -184,3 +188,4 @@ Din rutin bör ta konsekvent tid:
 
 Bygg den noggrant. Öva det alltid. Lita helt på det.
 
+<AdBanner />

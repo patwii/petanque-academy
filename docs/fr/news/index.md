@@ -1,4 +1,6 @@
 # Nouvelles
+<AdBanner />
+
 
 ## Bienvenue à l&#39;Académie de Pétanque
 
@@ -28,6 +30,8 @@ graph TD
     style C fill:#e8f5e9
     style D fill:#f3e5f5
 ```
+
+<AdInArticle />
 
 ## Ce qui arrive
 
@@ -72,3 +76,4 @@ En attendant les annonces concernant les ateliers, explorez notre section compl�
 Ce n&#39;est que le début. Nous créons quelque chose d&#39;exceptionnel pour les joueurs d&#39;élite qui souhaitent franchir un cap. Bienvenue à la Pétanque Academy.
 :::
 
+<AdBanner />

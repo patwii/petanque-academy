@@ -1,4 +1,6 @@
 # Opbygning af din pre-shot-rutine
+<AdBanner />
+
 
 Your pre-shot routine is one of the most powerful tools in your mental game. It's a consistent sequence of actions that prepares you for each throw and triggers your best performance state.
 
@@ -76,6 +78,8 @@ Lav kastet:
 - Stol på din krop
 - Slip uden tøven
 - Følg naturligt igennem
+
+<AdInArticle />
 
 ## Opbygning af din personlige rutine
 
@@ -184,3 +188,4 @@ Din rutine bør tage en ensartet tid:
 
 Byg det omhyggeligt. Øv det altid. Stol helt på det.
 
+<AdBanner />

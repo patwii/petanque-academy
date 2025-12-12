@@ -1,4 +1,6 @@
 # Être un excellent joueur d&#39;équipe
+<AdBanner />
+
 
 La pétanque se joue souvent en équipes : en doublettes ou en triplettes. Si les compétences individuelles comptent, la dynamique d&#39;équipe est déterminante pour le résultat. Les meilleures équipes ne sont pas toujours les plus talentueuses ; ce sont celles qui jouent le mieux ensemble.
 
@@ -75,6 +77,8 @@ La communication est essentielle à la performance d&#39;une équipe.
 - Clair et précis
 - Communication bidirectionnelle (parler ET écouter)
 - En temps opportun (la bonne information au bon moment)
+
+<AdInArticle />
 
 **Pendant les matchs :**
 - Discutez de la stratégie avant chaque fin
@@ -188,3 +192,4 @@ Les grandes équipes développent des compétences partagées :
 
 Investissez dans vos coéquipiers. Instaurez la confiance. Communiquez efficacement. Gagnez ensemble.
 
+<AdBanner />

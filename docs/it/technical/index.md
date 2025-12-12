@@ -1,4 +1,6 @@
 # Consulenza tecnica
+<AdBanner />
+
 
 ## Una nota sulla tecnica
 
@@ -28,6 +30,8 @@ graph TD
 ```
 
 ## La nostra prospettiva
+
+<AdInArticle />
 
 ::: tip Non è necessario padroneggiare tutto
 **Non è necessario padroneggiare tutte le tecniche**, ma comprendere l&#39;intera gamma di possibilità ti aiuta a:
@@ -68,3 +72,4 @@ Una volta acquisita una tecnica solida, la vera crescita deriva da:
 - **[Metodi di allenamento](/it/educazione/formazione/)** - Come esercitarsi in modo efficace
 :::
 
+<AdBanner />

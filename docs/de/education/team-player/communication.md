@@ -1,4 +1,6 @@
 # Teamkommunikation
+<AdBanner />
+
 
 Effektive Kommunikation ist das, was aus einer Gruppe von Einzelpersonen ein Team macht. Beim Boule, wo sich die Strategie ständig ändert und der Druck hoch ist, kann die Art der Kommunikation über den Ausgang entscheiden.
 
@@ -92,6 +94,8 @@ Die Kommunikation ist wechselseitig:
 - Stellen Sie klärende Fragen
 - Bestätige, was du gehört hast
 - Unterbrechen oder abweisen Sie nicht
+
+<AdInArticle />
 
 ## Kommunikationsherausforderungen
 
@@ -218,3 +222,4 @@ Wenn Ihr Team einen designierten Leiter hat:
 
 Üben Sie die Kommunikation wie das Werfen. Es ist eine Fähigkeit, die sich durch Übung verbessert.
 
+<AdBanner />

@@ -1,4 +1,6 @@
 # Nyheter
+<AdBanner />
+
 
 ## Velkommen til Pétanque-akademiet
 
@@ -28,6 +30,8 @@ graph TD
     style C fill:#e8f5e9
     style D fill:#f3e5f5
 ```
+
+<AdInArticle />
 
 ## Hva kommer
 
@@ -72,3 +76,4 @@ Mens du venter på kunngjøringer om workshopen, kan du utforske vår omfattende
 Dette er bare begynnelsen. Vi bygger noe spesielt for elitespillere som ønsker å ta det neste steget. Velkommen til Pétanque Academy.
 :::
 
+<AdBanner />

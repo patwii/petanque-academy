@@ -1,4 +1,6 @@
 # Mindfulness-teknikker
+<AdBanner />
+
 
 Her er praktiske teknikker, du kan bruge til at udvikle mindfulness. Start med en eller to, og byg derfra.
 
@@ -79,6 +81,8 @@ Mindfulness i bevægelse - god forberedelse til pisten.
 5. 5-10 minutter er nok
 
 ## Uformelle praksisser
+
+<AdInArticle />
 
 Disse integrerer mindfulness i daglige aktiviteter.
 
@@ -199,3 +203,4 @@ Hver trigger = ét bevidst åndedrag.
 
 Start småt. Vær konsekvent. Fordelene forstærkes over tid.
 
+<AdBanner />

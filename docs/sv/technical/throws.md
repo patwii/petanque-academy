@@ -1,4 +1,6 @@
 # Palett av plädar
+<AdBanner />
+
 
 ## Den kompletta tekniska repertoaren
 
@@ -72,6 +74,8 @@ graph LR
 | **Full spinn (bakspinn)** | Stannar eller drar sig tillbaka vid landning | Behöver stanna snabbt, undvik att rulla förbi |
 | **Halv snurrning** | Måttlig bakspinn, kontrollerad rullning | Mest mångsidig, förutsägbar |
 | **Ingen snurrning** | Neutral, naturlig roll vid landning | Låt terrängen diktera rullning |
+
+<AdInArticle />
 
 ## Skjuttekniker
 
@@ -172,3 +176,4 @@ När du väl har en gedigen teknik kommer den verkliga utvecklingen från:
 - **[Mental styrka](/sv/utbildning/mental-styrka/)** - Prestera under press
 :::
 
+<AdBanner />

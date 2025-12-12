@@ -1,4 +1,6 @@
 # Tomada de decisão baseada em probabilidade
+<AdBanner />
+
 
 O pensamento tático de elite utiliza a probabilidade para tomar decisões melhores. Em vez de adivinhar ou seguir a intuição, você pensa sistematicamente sobre suas opções.
 
@@ -82,6 +84,8 @@ Para usar o raciocínio probabilístico, você precisa conhecer suas taxas de su
 | Atirar (de perto) | 6-7m | ___% |
 | Tiro (médio) | 8-9m | ___% |
 | Tiro (longo) | 10m+ | ___% |
+
+<AdInArticle />
 
 Acompanhe isso na prática. Seja honesto: a maioria dos jogadores superestima suas taxas de sucesso.
 
@@ -201,3 +205,4 @@ Com o tempo, o pensamento probabilístico torna-se intuitivo:
 
 Pense em probabilidades. Conheça os números. Faça a jogada inteligente, não a jogada baseada na esperança.
 
+<AdBanner />

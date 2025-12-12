@@ -1,4 +1,6 @@
 # Mental styrke
+<AdBanner />
+
 
 Mental styrke er det som skiller spillere som presterer bra på trening fra de som presterer bra når det gjelder. Det er evnen til å håndtere press, komme seg etter tilbakeslag og opprettholde fokus gjennom lange konkurranser.
 
@@ -74,6 +76,8 @@ Selvtillit kommer fra:
 - Bruk selvsikkert kroppsspråk (det påvirker tankene dine)
 
 ### 2. Mestre din egenprat
+
+<AdInArticle />
 
 Stemmen i hodet ditt betyr enormt mye.
 
@@ -187,3 +191,4 @@ Ikke overanalyser mellom kastene. Spar mental energi til utførelse.
 
 Du kan ikke kontrollere hva som skjer. Du kan kontrollere hvordan du reagerer.
 
+<AdBanner />

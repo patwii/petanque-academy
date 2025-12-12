@@ -1,4 +1,6 @@
 # Taktisk tænkning i petanque
+<AdBanner />
+
 
 På eliteniveau forudsættes teknisk færdighed. Det, der adskiller vindere fra resten, er taktisk intelligens - at vide, hvilket kast man skal forsøge, og hvornår. De bedste spillere læser spillet flere træk fremad og udnytter enhver fordel.
 
@@ -122,6 +124,8 @@ graph LR
     B --> E[Skyd mere]
     C --> F{Surface?}
     D --> G[Point More]
+
+<AdInArticle />
 
     F -->|Smooth| H[Skyd mere]
     F -->|Rough| I[Point More]
@@ -298,3 +302,4 @@ Spor deres præferencer, succesrater og presreaktioner
 
 Læs spillet. Kend dine styrker. Udnyt deres svagheder. Udfør med selvtillid.
 
+<AdBanner />

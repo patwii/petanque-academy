@@ -1,4 +1,6 @@
 # Exercícios de treinamento
+<AdBanner />
+
 
 Aqui estão exercícios comprovados usados por jogadores de elite. Cada exercício tem um propósito específico - escolha com base no que você precisa desenvolver.
 
@@ -101,6 +103,8 @@ graph TD
 - Versão rigorosa: Qualquer erro retorna a 6m
 - Versão cronometrada: Até onde você consegue chegar em 10 minutos?
 - Versão em equipe: Alternar com o parceiro
+
+<AdInArticle />
 
 ### A Barreira (Blox)
 **Objetivo:** Forçar disparos em arco alto
@@ -251,3 +255,4 @@ Mantenha um registro para cada exercício:
 
 Não se limite a lançar bolas aleatoriamente. Treine com propósito.
 
+<AdBanner />

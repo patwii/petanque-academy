@@ -1,4 +1,6 @@
 # Zonen: Att förstå flödestillståndet
+<AdBanner />
+
 
 Har du någonsin spelat ett spel där allt bara klickade? Där du inte tänkte på din teknik, och varje klot landade precis där du ville? Det är &quot;zonen&quot; – och att lära sig att använda den konsekvent är det som skiljer elitspelare från resten.
 
@@ -60,6 +62,8 @@ Din hjärna fungerar i två olika lägen:
 | **Hjärnaktivitet** | Högt analytiskt tänkande | Tyst, automatisk |
 | **Fokus** | Intern (kroppsmekanik) | Extern (mål) |
 | **Känsla** | Ansträngande, medveten | Enkel, naturlig |
+
+<AdInArticle />
 
 Den viktigaste färdigheten är att lära sig att **växla** mellan dessa lägen vid rätt tidpunkt.
 
@@ -140,3 +144,4 @@ Lita på din träning. Fokusera på målet, inte din teknik.
 
 Din teknik är grunden. Zonen är där grunden blir konst.
 
+<AdBanner />

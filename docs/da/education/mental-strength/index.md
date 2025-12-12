@@ -1,4 +1,6 @@
 # Mental styrke
+<AdBanner />
+
 
 Mental styrke er det, der adskiller spillere, der præsterer godt til træning, fra dem, der præsterer godt, når det gælder. Det er evnen til at håndtere pres, komme sig over tilbageslag og opretholde fokus gennem lange konkurrencer.
 
@@ -74,6 +76,8 @@ Selvtillid kommer fra:
 - Brug et selvsikkert kropssprog (det påvirker dit sind)
 
 ### 2. Mestre din selvsnak
+
+<AdInArticle />
 
 Stemmen i dit hoved betyder enormt meget.
 
@@ -187,3 +191,4 @@ Overanalyser ikke mellem kastene. Spar mental energi til udførelse.
 
 Du kan ikke kontrollere, hvad der sker. Du kan kontrollere, hvordan du reagerer.
 
+<AdBanner />

@@ -1,4 +1,6 @@
 # Técnicas de atención plena
+<AdBanner />
+
 
 Aquí tienes técnicas prácticas que puedes usar para desarrollar la atención plena. Empieza con una o dos y ve progresando a partir de ahí.
 
@@ -79,6 +81,8 @@ Atención plena en movimiento: una excelente preparación para la pista.
 5. 5-10 minutos son suficientes
 
 ## Prácticas informales
+
+<AdInArticle />
 
 Estos integran la atención plena en las actividades diarias.
 
@@ -199,3 +203,4 @@ Cada disparador = una respiración consciente.
 
 Empieza poco a poco. Sé constante. Los beneficios se acumulan con el tiempo.
 
+<AdBanner />

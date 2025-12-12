@@ -1,4 +1,6 @@
 # Treningsøvelser
+<AdBanner />
+
 
 Her er velprøvde øvelser brukt av elitespillere. Hver øvelse har et spesifikt formål – velg basert på hva du trenger å utvikle.
 
@@ -101,6 +103,8 @@ graph TD
 - Streng versjon: Enhver bom returnerer til 6m
 - Tidsbestemt versjon: Hvor langt kan du komme på 10 minutter?
 - Lagversjon: Veksle med partner
+
+<AdInArticle />
 
 ### Barrieren (Blox)
 **Formål:** Tving frem skyting med høy lysbue
@@ -251,3 +255,4 @@ Før logg for hver øvelse:
 
 Ikke bare kast boule. Tren med et formål.
 
+<AdBanner />

@@ -1,4 +1,6 @@
 # Goal Setting for Pétanque Players
+<AdBanner />
+
 
 Clear goals are your compass. They give direction to your training, motivation when things get hard, and a way to measure progress. Without goals, you're just throwing boules. With goals, you're building toward something.
 
@@ -71,6 +73,8 @@ Every goal should be:
 - ✅ **R**elevant - Aligned with your bigger picture
 - ✅ **T**ime-bound - Has a deadline
 :::
+
+<AdInArticle />
 
 ### S - Specific
 ❌ "Get better at shooting"
@@ -170,3 +174,4 @@ When motivation fades, your "why" keeps you going.
 
 Set clear goals. Break them down. Focus on what you control. Track your progress.
 
+<AdBanner />

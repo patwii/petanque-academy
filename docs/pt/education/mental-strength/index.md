@@ -1,4 +1,6 @@
 # Força Mental
+<AdBanner />
+
 
 A força mental é o que diferencia os jogadores que têm um bom desempenho nos treinos daqueles que têm um bom desempenho quando a coisa fica séria. É a capacidade de lidar com a pressão, se recuperar de contratempos e manter o foco durante longas competições.
 
@@ -74,6 +76,8 @@ A confiança vem de:
 - Use uma linguagem corporal confiante (ela afeta sua mente).
 
 ### 2. Domine seu diálogo interno
+
+<AdInArticle />
 
 A voz na sua cabeça importa muito.
 
@@ -187,3 +191,4 @@ Não fique analisando demais entre os lançamentos. Conserve sua energia mental 
 
 Você não pode controlar o que acontece. Você pode controlar como reage.
 
+<AdBanner />

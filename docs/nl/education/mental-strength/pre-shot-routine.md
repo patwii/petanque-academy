@@ -1,4 +1,6 @@
 # Bouw uw pre-shot-routine op
+<AdBanner />
+
 
 Je pre-shot-routine is een van de krachtigste hulpmiddelen in je mentale spel. Het is een consistente reeks acties die je op elke worp voorbereidt en je beste prestatiestatus activeert.
 
@@ -76,6 +78,8 @@ Maak de worp:
 - Vertrouw op je lichaam
 - Laat het zonder aarzeling los
 - Volg het op natuurlijke wijze
+
+<AdInArticle />
 
 ## Bouw uw persoonlijke routine op
 
@@ -184,3 +188,4 @@ Je routine moet een consistente hoeveelheid tijd in beslag nemen:
 
 Bouw het zorgvuldig op. Oefen het altijd. Vertrouw er volledig op.
 
+<AdBanner />

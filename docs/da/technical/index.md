@@ -1,4 +1,6 @@
 # Teknisk rådgivning
+<AdBanner />
+
 
 ## En bemærkning om teknik
 
@@ -28,6 +30,8 @@ graph TD
 ```
 
 ## Vores perspektiv
+
+<AdInArticle />
 
 ::: tip Du behøver ikke at mestre alt
 **Du behøver ikke at mestre alle teknikker**, men at forstå hele paletten af muligheder hjælper dig med at:
@@ -68,3 +72,4 @@ Når du først har en solid teknik, kommer den virkelige vækst fra:
 - **[Træningsmetoder](/da/uddannelse/træning/)** - Sådan træner du effektivt
 :::
 
+<AdBanner />

@@ -1,4 +1,6 @@
 # Palet af tæpper
+<AdBanner />
+
 
 ## Det komplette tekniske repertoire
 
@@ -72,6 +74,8 @@ graph LR
 | **Fuld spin (bagspin)** | Stopper eller trækker sig tilbage ved landing | Skal stoppe hurtigt, undgå at rulle forbi |
 | **Halv centrifugering** | Moderat bagspin, kontrolleret rulning | Mest alsidig, forudsigelig |
 | **Ingen spin** | Neutral, naturlig rulning ved landing | Lad terrænet diktere rulning |
+
+<AdInArticle />
 
 ## Skydeteknikker
 
@@ -172,3 +176,4 @@ Når du først har en solid teknik, kommer den virkelige vækst fra:
 - **[Mental styrke](/da/uddannelse/mental-styrke/)** - Præsterer under pres
 :::
 
+<AdBanner />

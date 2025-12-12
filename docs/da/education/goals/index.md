@@ -1,4 +1,6 @@
 # Målsætning for petanquespillere
+<AdBanner />
+
 
 Klare mål er dit kompas. De giver retning til din træning, motivation når det bliver svært, og en måde at måle fremskridt på. Uden mål kaster du bare kugler. Med mål bygger du hen imod noget.
 
@@ -71,6 +73,8 @@ Ethvert mål bør være:
 - ✅ **R**elevant - Afstemt med dit større billede
 - ✅ **Tidsbundet - Har en deadline
 :::
+
+<AdInArticle />
 
 ### S - Specifik
 ❌ &quot;Bliv bedre til at skyde&quot;
@@ -170,3 +174,4 @@ Når motivationen svinder ind, er det dit &quot;hvorfor&quot;, der holder dig i 
 
 Sæt klare mål. Nedbryd dem. Fokuser på det, du kontrollerer. Spor dine fremskridt.
 
+<AdBanner />

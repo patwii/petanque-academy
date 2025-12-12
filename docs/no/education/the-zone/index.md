@@ -1,4 +1,6 @@
 # Sonen: Forstå strømningstilstanden
+<AdBanner />
+
 
 Har du noen gang hatt et spill der alt bare falt på plass? Der du ikke tenkte på teknikken din, og hver kule landet akkurat der du ville? Det er «sonen» – og det å lære å bruke den konsekvent er det som skiller elitespillere fra resten.
 
@@ -60,6 +62,8 @@ Hjernen din opererer i to forskjellige moduser:
 | **Hjerneaktivitet** | Høy analytisk tenkning | Stillegående, automatisk |
 | **Fokus** | Intern (kroppsmekanikk) | Ekstern (mål) |
 | **Følelse** | Innsatssfull, bevisst | Uanstrengt, naturlig |
+
+<AdInArticle />
 
 Den viktigste ferdigheten er å lære å **bytte** mellom disse modusene til riktig tid.
 
@@ -140,3 +144,4 @@ Stol på treningen din. Fokuser på målet, ikke teknikken din.
 
 Teknikken din er fundamentet. Sonen er der fundamentet blir til kunst.
 
+<AdBanner />

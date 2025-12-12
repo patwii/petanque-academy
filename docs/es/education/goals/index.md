@@ -1,4 +1,6 @@
 # Establecimiento de objetivos para los jugadores de petanca
+<AdBanner />
+
 
 Las metas claras son tu brújula. Te guían en tu entrenamiento, te motivan cuando las cosas se ponen difíciles y te permiten medir tu progreso. Sin metas, solo estás jugando. Con metas, avanzas hacia algo.
 
@@ -71,6 +73,8 @@ Todo objetivo debe ser:
 - ✅ **R**elevante - Alineado con tu panorama general
 - ✅ **Límite temporal: tiene una fecha límite
 :::
+
+<AdInArticle />
 
 ### S - Específico
 ❌ &quot;Mejora tus tiros&quot;
@@ -170,3 +174,4 @@ Cuando la motivación se desvanece, tu “por qué” te mantiene en marcha.
 
 Establece metas claras. Desglósalas. Céntrate en lo que controlas. Monitorea tu progreso.
 
+<AdBanner />

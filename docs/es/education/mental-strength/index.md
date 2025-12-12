@@ -1,4 +1,6 @@
 # Fuerza mental
+<AdBanner />
+
 
 La fortaleza mental es lo que distingue a los jugadores que rinden bien en los entrenamientos de los que lo hacen cuando es crucial. Es la capacidad de manejar la presión, recuperarse de los contratiempos y mantener la concentración durante largas competiciones.
 
@@ -74,6 +76,8 @@ La confianza proviene de:
 - Utilice un lenguaje corporal seguro (afecta su mente)
 
 ### 2. Domina tu diálogo interno
+
+<AdInArticle />
 
 La voz en tu cabeza importa enormemente.
 
@@ -187,3 +191,4 @@ No analices demasiado entre lanzamientos. Conserva la energía mental para la ej
 
 No puedes controlar lo que sucede. Puedes controlar cómo respondes.
 
+<AdBanner />

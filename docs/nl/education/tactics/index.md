@@ -1,4 +1,6 @@
 # Tactisch denken bij pétanque
+<AdBanner />
+
 
 Op topniveau wordt technische vaardigheid als vanzelfsprekend beschouwd. Wat winnaars onderscheidt van de rest is tactische intelligentie: weten welke worp te proberen en wanneer. De beste spelers lezen het spel meerdere zetten vooruit en benutten elk voordeel optimaal.
 
@@ -122,6 +124,8 @@ graph LR
     B --> E[Schiet meer]
     C --> F{Surface?}
     D --> G[Punt Meer]
+
+<AdInArticle />
 
     F -->|Smooth| H[Schiet meer]
     F -->|Rough| I[Punt Meer]
@@ -298,3 +302,4 @@ Houd hun voorkeuren, succespercentages en reacties onder druk bij.
 
 Analyseer het spel. Ken je sterke punten. Benut hun zwakke punten. Voer je acties vol vertrouwen uit.
 
+<AdBanner />

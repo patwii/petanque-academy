@@ -1,4 +1,6 @@
 # Å være en god lagspiller
+<AdBanner />
+
 
 Pétanque spilles ofte i lag – double (dublettes) eller triples (triplettes). Individuelle ferdigheter teller, men lagdynamikk kan avgjøre om du får resultater eller ikke. De beste lagene er ikke alltid de dyktigste – det er de som jobber best sammen.
 
@@ -75,6 +77,8 @@ Kommunikasjon er livsnerven i teamets ytelse.
 - Tydelig og spesifikk
 - Toveis (snakking OG lytting)
 - Rettidig (riktig informasjon til rett tid)
+
+<AdInArticle />
 
 **Under kampene:**
 - Diskuter strategi før hver omgang
@@ -188,3 +192,4 @@ Gode team utvikler seg delt:
 
 Invester i lagkameratene dine. Bygg tillit. Kommuniser godt. Vinn sammen.
 
+<AdBanner />

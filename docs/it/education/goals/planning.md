@@ -1,4 +1,6 @@
 # Creare il tuo piano di allenamento
+<AdBanner />
+
 
 Gli obiettivi senza un piano sono solo desideri. Questa guida ti aiuta a trasformare i tuoi obiettivi in un piano di allenamento strutturato che funzioni davvero.
 
@@ -73,6 +75,8 @@ Seleziona gli esercizi che supportano direttamente i tuoi obiettivi:
 ### Fase 4: Crea il tuo programma
 
 Crea un programma settimanale realistico:
+
+<AdInArticle />
 
 | Giorno | Mattina | Pomeriggio | Sera | Messa a fuoco |
 |-----|---------|-----------|---------|-------|
@@ -181,3 +185,4 @@ Il tuo piano dovrebbe evolversi:
 
 Il piano migliore è quello che seguirai davvero. Inizia in modo semplice, sii coerente e adattalo man mano che impari.
 
+<AdBanner />

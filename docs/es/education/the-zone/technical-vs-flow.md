@@ -1,4 +1,6 @@
 # Capacitación técnica vs. capacitación de flujo
+<AdBanner />
+
 
 Comprender la diferencia entre el entrenamiento técnico y el entrenamiento de flujo es esencial para el desarrollo de élite. Ambos son necesarios, pero tienen propósitos diferentes y requieren enfoques distintos.
 
@@ -74,6 +76,8 @@ Una proporción correcta de entrenamiento está inversamente relacionada con la 
 - El volumen de mantenimiento es todo lo que necesitas técnicamente
 - **Ratio:** 20% Técnico / 80% Mental
 - **Enfoque mental:** Estado de flujo, estrategia, aquietar la mente.
+
+<AdInArticle />
 
 ## La tabla de progresión
 
@@ -187,3 +191,4 @@ La verdadera habilidad es saber cuándo utilizar cada modo:
 
 El paso de la técnica al flujo requiere una inversión estratégica. Adapta tu entrenamiento a tu etapa de desarrollo.
 
+<AdBanner />

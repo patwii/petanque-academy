@@ -1,4 +1,6 @@
 # Målsetting for petanquespillere
+<AdBanner />
+
 
 Tydelige mål er kompasset ditt. De gir retning til treningen din, motivasjon når ting blir vanskelige, og en måte å måle fremgang på. Uten mål kaster du bare boccia. Med mål bygger du mot noe.
 
@@ -71,6 +73,8 @@ Hvert mål bør være:
 - ✅ **Relevant – i tråd med ditt større bilde
 - ✅ **Tidsbundet - Har en frist
 :::
+
+<AdInArticle />
 
 ### S - Spesifikk
 ❌ &quot;Bli bedre til å skyte&quot;
@@ -170,3 +174,4 @@ Når motivasjonen forsvinner, er det «hvorfor»-en din som holder deg i gang.
 
 Sett deg klare mål. Bryt dem ned. Fokuser på det du kontrollerer. Spor fremgangen din.
 
+<AdBanner />

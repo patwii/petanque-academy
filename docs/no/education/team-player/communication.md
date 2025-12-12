@@ -1,4 +1,6 @@
 # Teamkommunikasjon
+<AdBanner />
+
 
 Effektiv kommunikasjon er det som forvandler en gruppe individer til et team. I petanque, hvor strategien stadig endres og presset er høyt, kan måten du kommuniserer på avgjøre resultatet.
 
@@ -92,6 +94,8 @@ Kommunikasjon er toveis:
 - Still oppklarende spørsmål
 - Anerkjenn det du har hørt
 - Ikke avbryt eller avvis
+
+<AdInArticle />
 
 ## Kommunikasjonsutfordringer
 
@@ -218,3 +222,4 @@ Hvis teamet ditt har en utpekt leder:
 
 Øv på kommunikasjon slik du øver på å kaste. Det er en ferdighet som forbedres med oppmerksomhet.
 
+<AdBanner />

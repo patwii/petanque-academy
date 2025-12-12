@@ -1,4 +1,6 @@
 # Zielsetzung für Pétanque-Spieler
+<AdBanner />
+
 
 Klare Ziele sind dein Kompass. Sie geben deinem Training Richtung, motivieren dich in schwierigen Phasen und ermöglichen es dir, deine Fortschritte zu messen. Ohne Ziele wirfst du planlos Bälle. Mit Zielen arbeitest du auf etwas hin.
 
@@ -71,6 +73,8 @@ Jedes Ziel sollte sein:
 - ✅ **R**relevant – auf Ihr übergeordnetes Ziel ausgerichtet
 - ✅ **Zeitgebunden** - Hat eine Frist
 :::
+
+<AdInArticle />
 
 ### S - Spezifisch
 ❌ &quot;Verbessere deine Schießkünste&quot;
@@ -170,3 +174,4 @@ Wenn die Motivation nachlässt, ist es dein „Warum“, das dich am Laufen häl
 
 Setzen Sie sich klare Ziele. Unterteilen Sie diese in kleinere Schritte. Konzentrieren Sie sich auf das, was Sie beeinflussen können. Verfolgen Sie Ihre Fortschritte.
 
+<AdBanner />

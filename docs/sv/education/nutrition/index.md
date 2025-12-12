@@ -1,4 +1,6 @@
 # Näring för precisionsprestanda
+<AdBanner />
+
 
 Boule är en precisionssport, inte en uthållighetssport. Dina näringsbehov skiljer sig från en maratonlöpares eller en fotbollsspelares. Det som är viktigast är **stabilitet i hjärnans bränsle** – att hålla ditt sinne skarpt och dina händer stadiga under en lång tävlingsdag.
 
@@ -155,6 +157,8 @@ Vissa precisionsidrottare använder sig av lågkolhydratkost eller ketogen kost.
 - Inte lämplig för alla
 - Kräver planering och engagemang
 - Rådfråga en vårdgivare först
+
+<AdInArticle />
 
 Detta är en avancerad strategi – inte nödvändig för alla, men värd att överväga om blodsockrets stabilitet är ett betydande problem för dig.
 
@@ -381,3 +385,4 @@ Fokusera på protein, hälsosamma fetter och att hålla dig hydrerad. Undvik soc
 
 **Remember:** You wouldn't show up to a tournament with a throwing technique you've never practiced. Don't show up with a nutrition strategy you've never practiced either.
 
+<AdBanner />

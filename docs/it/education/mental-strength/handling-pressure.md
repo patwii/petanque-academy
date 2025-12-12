@@ -1,4 +1,6 @@
 # Gestione della pressione
+<AdBanner />
+
 
 La pressione fa parte della competizione. L&#39;obiettivo non è eliminarla, è impossibile. L&#39;obiettivo è ottenere buoni risultati nonostante la pressione, e persino sfruttarla a proprio vantaggio.
 
@@ -78,6 +80,8 @@ Il respiro è il modo più veloce per cambiare il tuo stato.
 - Un respiro lento e profondo
 - Senti i tuoi piedi per terra
 - Abbassa le spalle durante l&#39;espirazione
+
+<AdInArticle />
 
 ### 2. Radicamento fisico
 
@@ -189,3 +193,4 @@ Rileggi questo prima delle gare per ricordarti: &quot;L&#39;ho già fatto prima&
 
 I giocatori migliori non sono calmi: sono abili nell&#39;usare la loro eccitazione in modo produttivo.
 
+<AdBanner />

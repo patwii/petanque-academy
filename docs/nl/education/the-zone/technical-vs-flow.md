@@ -1,4 +1,6 @@
 # Technische training versus flowtraining
+<AdBanner />
+
 
 Het is essentieel voor topsportontwikkeling om het verschil tussen technische training en flowtraining te begrijpen. Beide zijn nodig, maar ze dienen verschillende doelen en vereisen een andere aanpak.
 
@@ -74,6 +76,8 @@ De juiste trainingsverhouding is omgekeerd evenredig met de technische bekwaamhe
 - Het onderhoudsvolume is technisch gezien alles wat je nodig hebt.
 - **Verhouding:** 20% Technisch / 80% Mentaal
 - **Mentale focus:** Flow-toestand, strategie, het tot rust brengen van de geest
+
+<AdInArticle />
 
 ## De voortgangstabel
 
@@ -187,3 +191,4 @@ De ware kunst is weten wanneer je welke modus moet gebruiken:
 
 De weg van techniek naar flow vereist een strategische omkering. Stem je training af op je ontwikkelingsfase.
 
+<AdBanner />
