@@ -1,29 +1,31 @@
-# Noticias
-<AdBanner />
+# Noticias y actualizaciones
 
+<AdBanner />
 
 ## Bienvenido a la Academia de Petanca
 
-::: tip ¡Lanzamiento emocionante! 🎉
-**¡Esta es la primera startup!**
+::: tip ¡La plataforma ya está disponible! 🎉
+**¡La Academia de Petanca ya está en pleno funcionamiento!**
 
-Estamos entusiasmados de lanzar Pétanque Academy, una nueva iniciativa dedicada a ayudar a los jugadores de petanca de élite a alcanzar su máximo potencial.
+Hemos lanzado una plataforma integral dedicada a ayudar a los jugadores de petanca de élite a alcanzar su máximo potencial a través del dominio del juego mental, entrenamiento estructurado y herramientas prácticas.
 :::
 
 ```mermaid
 graph TD
-    A[Lanzamiento de la Academia de Petanca] --> B[Plataforma Educativa]
-    A --> C[Programa del taller]
-    A --> D[Construcción de comunidad]
+    A[Pétanque Academy] --> B[Education Platform]
+    A --> C[Training Tools]
+    A --> D[Workshop Programs]
 
-    B --> E[Contenido del juego mental]
-    B --> F[Guías de nutrición]
-    B --> G[Métodos de entrenamiento]
+    B --> E[8 Complete Modules]
+    B --> F[Mental Game Mastery]
+    B --> G[Technical Foundations]
 
-    C --> H[Foros de jugadores de élite]
-    C --> I[Aprendizaje entre pares]
+    C --> H[Goal Templates]
+    C --> I[Diary Templates]
+    C --> J[Training Plans]
 
-    D --> J[Crecimiento compartido]
+    D --> K[Elite Player Forums]
+    D --> L[Training Camps]
 
     style A fill:#fff4e1
     style B fill:#e3f2fd
@@ -33,47 +35,135 @@ graph TD
 
 <AdInArticle />
 
-## Lo que viene
+## Qué hay disponible ahora
 
-::: info Mantente atento para
-- 📅 **Próximos talleres** - Sesiones en grupos pequeños para jugadores de élite
-- 📚 **Nuevo contenido educativo** - Juego mental, nutrición, métodos de entrenamiento
-- 🎯 **Eventos comunitarios**: conéctate con jugadores con ideas afines
-- 💡 **Historias y perspectivas de los jugadores**: aprende de las experiencias de otros
-:::
+### 📚 Plataforma Educativa Completa
+
+Hemos lanzado **8 módulos educativos integrales** que cubren todo, desde los estados de flujo hasta la nutrición:
+
+| Módulo | ¿Qué hay dentro? | Características principales |
+|--------|---------------|---------------|
+| **[The Zone](/en/education/the-zone/)** | Dominio del estado de flujo | 4 guías detalladas sobre cómo ingresar y mantener el flujo |
+| **[Mental Strength](/en/education/mental-strength/)** | Manejo de presión | Rutinas previas al disparo, gestión de la crítica interna |
+| **[Mindfulness](/en/education/mindfulness/)** | Conciencia del momento presente | Prácticas diarias, técnicas de competición. |
+| **[Goals](/en/education/goals/)** | Planificación estratégica | Objetivos SMART, jerarquía, sistemas de seguimiento |
+| **[Tactics](/en/education/tactics/)** | Estrategia de juego | Toma de decisiones, probabilidad, posicionamiento |
+| **[Team Player](/en/education/team-player/)** | Habilidades de colaboración | Comunicación, confianza, dinámica de equipo. |
+| **[Training](/en/education/training/)** | Métodos de práctica | Ejercicios, práctica deliberada, progresión. |
+| **[Nutrition](/en/education/nutrition/)** | Combustible de alto rendimiento | Manejo del azúcar en sangre, nutrición para competición |
+
+### 🛠️ Herramientas prácticas
+
+**Plantillas y programas listos para usar:**
+
+- **[Taller](/es/taller)** - Sesiones estructuradas de 3 horas para el desarrollo del juego mental
+- **[Training Camp](/es/training-camp)** - Programas intensivos de fin de semana para jugadores de élite
+- **[Sesión de capacitación](/es/sesion-de-capacitacion)** - Marcos de práctica de 2 a 3 horas
+- **[Plantilla de objetivos](/es/plantilla-de-objetivos)** - Sistema completo de establecimiento y seguimiento de objetivos
+- **[Plantilla de diario](/es/diary-template)** - Diario de práctica y reflexión diaria
+
+### 🎯 Orientación técnica
+
+La sección **[Asesoramiento técnico](/es/technical/)** incluye:
+- Guía completa de todos los lanzamientos de petanca
+- Estrategias de selección de trayectorias
+- Técnicas de control de giro
+- Marcos de selección de tomas
+
+### 🍽️ Nutrición para el rendimiento
+
+**[Comida](/es/comida)** - Guía completa para:
+- Control del azúcar en sangre para un enfoque estable
+- Estrategias de nutrición precompetitivas
+- Optimización energética para torneos
 
 ## Nuestra misión
 
 ```mermaid
 graph LR
-    A[Dominio técnico] --> B[Juego mental]
-    B --> C[Estado de flujo]
-    C --> D[Máximo rendimiento]
+    A[Technical Mastery] --> B[Mental Game]
+    B --> C[Flow State]
+    C --> D[Peak Performance]
+    D --> E[Consistent Excellence]
 
     style A fill:#e3f2fd
     style B fill:#fff4e1
     style C fill:#e8f5e9
-    style D fill:#fff4e1
+    style D fill:#fff9c4
+    style E fill:#f3e5f5
 ```
 
 ::: tip El siguiente nivel
-Los jugadores de élite ya dominan la técnica. El siguiente avance proviene del juego mental: aprender a acceder a estados de fluidez, manejar la presión y rendir al máximo constantemente.
+Los jugadores de élite ya dominan la técnica. El siguiente avance proviene del **juego mental**: aprender a acceder a estados de fluidez, manejar la presión y rendir al máximo de forma constante.
+
+**La Academia de Petanca proporciona la hoja de ruta completa.**
 :::
 
-## Empezar
+## Estadísticas de la plataforma
 
-Mientras espera los anuncios de los talleres, explore nuestra sección de educación integral:
+::: info Lo que hemos construido
+- ✅ **8 módulos educativos** con más de 30 guías detalladas
+- ✅ **5 herramientas prácticas** listas para usar
+- ✅ **10 idiomas** - accesible en todo el mundo
+- ✅ **Más de 100 páginas** de contenido de nivel élite
+- ✅ **Diagramas de sirena** para el aprendizaje visual
+- ✅ **Plantillas para copiar y pegar** para uso inmediato
+:::
 
-| Sección | Lo que aprenderás | Empieza aquí |
-|---------|-------------------|------------|
-| **La Zona** | Cómo ingresar a estados de flujo de manera consistente | [Entendiendo el Flujo](/es/educacion/la-zona/) |
-| **Fuerza mental** | Manejo de la presión y creación de rutinas | [Juego Mental](/es/educacion/fuerza-mental/) |
-| **Consciencia** | Conciencia del momento presente para el rendimiento | [Práctica de atención plena](/es/educación/atención/) |
-| **Nutrición** | Alimenta tu cerebro para un enfoque estable | [Nutrición de precisión](/es/educación/nutrición/) |
-| **Objetivos** | Establecer y alcanzar objetivos significativos | [Establecimiento de metas](/es/educacion/metas/) |
+## Cómo empezar
 
-::: info Únete al viaje
-Esto es solo el comienzo. Estamos construyendo algo especial para jugadores de élite que quieren dar el siguiente paso. Bienvenidos a la Academia de Petanca.
+### Para nuevos visitantes
+
+**Comienza con lo fundamental:**
+
+1. **[Ambición](/es/ambición)** - Comprender la filosofía detrás del desarrollo de élite
+2. **[La Zona](/es/educacion/la-zona/)** - Aprende sobre los estados de flujo
+3. **[Plantilla de objetivos](/es/goal-template)** - Establece tus primeros objetivos estructurados
+
+### Para jugadores experimentados
+
+**Profundice en temas avanzados:**
+
+1. **[Fuerza Mental](/es/educacion/fuerza-mental/)** - Domina las situaciones de presión
+2. **[Tácticas](/es/educación/tácticas/)** - Refinar la toma de decisiones estratégicas
+3. **[Taller](/es/taller)** - Implementar sesiones de juego mental estructuradas
+
+### Para equipos
+
+**Construir la excelencia colectiva:**
+
+1. **[Jugador de equipo](/es/education/team-player/)** - Mejora la dinámica del equipo
+2. **[Training Camp](/es/training-camp)** - Organiza intensivos de fin de semana
+3. **[Sesión de capacitación](/es/sesion-de-capacitacion)** - Estructurar las prácticas del equipo
+
+## ¿Qué hace que esto sea diferente?
+
+::: warning Por qué destaca la Academia de Petanca
+**La mayor parte del entrenamiento se centra en la técnica. Nos centramos en lo que realmente necesitan los jugadores de élite:**
+
+1. **Dominio del juego mental**: el verdadero diferenciador en los niveles altos
+2. **Herramientas prácticas**: no solo teoría, sino plantillas listas para usar.
+3. **Programas estructurados** - Marcos claros para talleres y campamentos
+4. **Basado en evidencia**: basado en la psicología deportiva y la investigación del estado de flujo.
+5. **Enfocado en la élite** - Diseñado para jugadores que ya dominan los conceptos básicos
+:::
+
+## Complicarse
+
+**¿Quieres contribuir o brindar comentarios?**
+
+Visita nuestra página **[Acerca de](/es/acerca de)** para:
+- Conozca más sobre la plataforma
+- Comparte tus comentarios
+- Solicitar contenido específico
+- Conéctate con nosotros
+
+---
+
+::: tip Empieza tu viaje hoy
+Todo lo que necesitas para llevar tu juego al siguiente nivel ya está aquí. Elige un módulo, descarga una plantilla y empieza a implementar.
+
+**Bienvenido a la Academia de Petanca, donde los jugadores de élite se vuelven excepcionales.**
 :::
 
 <AdBanner />

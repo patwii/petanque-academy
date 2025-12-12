@@ -1,29 +1,31 @@
-# Notizia
-<AdBanner />
+# Notizie e aggiornamenti
 
+<AdBanner />
 
 ## Benvenuti alla Pétanque Academy
 
-::: tip Lancio entusiasmante! 🎉
-**Questa è la prima startup!**
+::: tip La piattaforma è ora attiva! 🎉
+**La Pétanque Academy è ora pienamente operativa!**
 
-Siamo entusiasti di lanciare la Pétanque Academy, una nuova iniziativa volta ad aiutare i giocatori di pétanque d&#39;élite a raggiungere il loro pieno potenziale.
+Abbiamo lanciato una piattaforma completa dedicata ad aiutare i giocatori di pétanque d&#39;élite a raggiungere il loro pieno potenziale attraverso la padronanza del gioco mentale, un allenamento strutturato e strumenti pratici.
 :::
 
 ```mermaid
 graph TD
-    A[Lancio dell&#39;Accademia di Bocce] --> B[Piattaforma educativa]
-    A --> C[Programma del workshop]
-    A --> D[Costruzione della comunità]
+    A[Pétanque Academy] --> B[Education Platform]
+    A --> C[Training Tools]
+    A --> D[Workshop Programs]
 
-    B --> E[Contenuto del gioco mentale]
-    B --> F[Guide nutrizionali]
-    B --> G[Metodi di allenamento]
+    B --> E[8 Complete Modules]
+    B --> F[Mental Game Mastery]
+    B --> G[Technical Foundations]
 
-    C --> H[Forum dei giocatori d&#39;élite]
-    C --> I[Apprendimento tra pari]
+    C --> H[Goal Templates]
+    C --> I[Diary Templates]
+    C --> J[Training Plans]
 
-    D --> J[Crescita condivisa]
+    D --> K[Elite Player Forums]
+    D --> L[Training Camps]
 
     style A fill:#fff4e1
     style B fill:#e3f2fd
@@ -33,47 +35,135 @@ graph TD
 
 <AdInArticle />
 
-## Cosa sta arrivando
+## Cosa è disponibile ora
 
-::: info Rimani sintonizzato per
-- 📅 **Prossimi workshop** - Sessioni in piccoli gruppi per giocatori d&#39;élite
-- 📚 **Nuovi contenuti didattici** - Mental game, alimentazione, metodi di allenamento
-- 🎯 **Eventi della community** - Entra in contatto con giocatori che la pensano come te
-- 💡 **Storie e approfondimenti dei giocatori** - Impara dalle esperienze degli altri
-:::
+### 📚 Piattaforma educativa completa
+
+Abbiamo lanciato **8 moduli didattici completi** che coprono tutto, dagli stati di flusso alla nutrizione:
+
+| Modulo | Cosa c&#39;è dentro | Caratteristiche principali |
+|------------|---------------|-------------|
+| **[The Zone](/en/education/the-zone/)** | Padronanza dello stato di flusso | 4 guide dettagliate su come inserire e mantenere il flusso |
+| **[Mental Strength](/en/education/mental-strength/)** | Gestione della pressione | Routine pre-tiro, gestione del critico interiore |
+| **[Mindfulness](/en/education/mindfulness/)** | Consapevolezza del momento presente | Pratiche quotidiane, tecniche di competizione |
+| **[Goals](/en/education/goals/)** | Pianificazione strategica | Obiettivi SMART, gerarchia, sistemi di monitoraggio |
+| **[Tactics](/en/education/tactics/)** | Strategia di gioco | Decisione, probabilità, posizionamento |
+| **[Team Player](/en/education/team-player/)** | capacità di collaborazione | Comunicazione, fiducia, dinamiche di squadra |
+| **[Training](/en/education/training/)** | Metodi di pratica | Esercizi, pratica deliberata, progressione |
+| **[Nutrition](/en/education/nutrition/)** | Carburante ad alte prestazioni | Gestione della glicemia, nutrizione per la competizione |
+
+### 🛠️ Strumenti pratici
+
+**Modelli e programmi pronti all&#39;uso:**
+
+- **[Workshop](/it/workshop)** - Sessioni strutturate di 3 ore per lo sviluppo del gioco mentale
+- **[Training Camp](/it/training-camp)** - Programmi intensivi del fine settimana per giocatori d&#39;élite
+- **[Sessione di formazione](/it/training-session)** - Framework di pratica da 2-3 ore
+- **[Modello di obiettivo](/it/goal-template)** - Sistema completo di definizione e monitoraggio degli obiettivi
+- **[Modello di diario](/it/diary-template)** - Diario di pratica e riflessione quotidiana
+
+### 🎯 Guida tecnica
+
+La sezione **[Consigli tecnici](/it/technical/)** include:
+- Guida completa a tutti i lanci di bocce
+- Strategie di selezione della traiettoria
+- Tecniche di controllo dello spin
+- Quadri di selezione degli scatti
+
+### 🍽️ Nutrizione per le prestazioni
+
+**[Cibo](/it/cibo)** - Guida completa a:
+- Gestione della glicemia per una concentrazione stabile
+- Strategie nutrizionali pre-gara
+- Ottimizzazione energetica per i tornei
 
 ## La nostra missione
 
 ```mermaid
 graph LR
-    A[Padronanza tecnica] --> B[Gioco mentale]
-    B --> C[Stato di flusso]
-    C --> D[Massima prestazione]
+    A[Technical Mastery] --> B[Mental Game]
+    B --> C[Flow State]
+    C --> D[Peak Performance]
+    D --> E[Consistent Excellence]
 
     style A fill:#e3f2fd
     style B fill:#fff4e1
     style C fill:#e8f5e9
-    style D fill:#fff4e1
+    style D fill:#fff9c4
+    style E fill:#f3e5f5
 ```
 
 ::: tip Il livello successivo
-I giocatori d&#39;élite hanno già padroneggiato la tecnica. La prossima svolta arriva dal gioco mentale: imparare ad accedere a stati di flusso, gestire la pressione e dare sempre il massimo.
+I giocatori d&#39;élite hanno già padroneggiato la tecnica. La prossima svolta arriva dal **gioco mentale**: imparare ad accedere a stati di flusso, gestire la pressione e dare costantemente il massimo.
+
+**La Pétanque Academy fornisce la tabella di marcia completa.**
 :::
 
-## Per iniziare
+## Statistiche della piattaforma
 
-Mentre aspetti gli annunci dei workshop, esplora la nostra sezione didattica completa:
+::: info Cosa abbiamo costruito
+- ✅ **8 moduli didattici** con oltre 30 guide dettagliate
+- ✅ **5 strumenti pratici** pronti all&#39;uso
+- ✅ **10 lingue** - accessibile in tutto il mondo
+- ✅ **Oltre 100 pagine** di contenuti di livello élite
+- ✅ **Diagrammi a sirena** per l&#39;apprendimento visivo
+- ✅ **Copia e incolla i modelli** per un utilizzo immediato
+:::
 
-| Sezione | Cosa imparerai | Inizia qui |
-|---------|-------------------|------------|
-| **La Zona** | Come entrare negli stati di flusso in modo coerente | [Comprendere il flusso](/it/educazione/la-zona/) |
-| **Forza mentale** | Gestire la pressione e creare routine | [Gioco mentale](/it/educazione/forza-mentale/) |
-| **Consapevolezza** | Consapevolezza del momento presente per la performance | [Pratica della consapevolezza](/it/educazione/consapevolezza/) |
-| **Nutrizione** | Alimenta il tuo cervello per una concentrazione stabile | [Nutrizione di precisione](/it/educazione/nutrizione/) |
-| **Obiettivi** | Stabilire e raggiungere obiettivi significativi | [Fissazione degli obiettivi](/it/istruzione/obiettivi/) |
+## Come iniziare
 
-::: info Unisciti al viaggio
-Questo è solo l&#39;inizio. Stiamo creando qualcosa di speciale per i giocatori d&#39;élite che vogliono fare il passo successivo. Benvenuti alla Pétanque Academy.
+### Per i nuovi visitatori
+
+**Iniziamo dalle basi:**
+
+1. **[Ambizione](/en/ambition)** - Comprendere la filosofia alla base dello sviluppo delle élite
+2. **[The Zone](/it/education/the-zone/)** - Scopri gli stati di flusso
+3. **[Modello di obiettivo](/it/goal-template)** - Definisci i tuoi primi obiettivi strutturati
+
+### Per giocatori esperti
+
+**Approfondisci argomenti avanzati:**
+
+1. **[Forza mentale](/it/educazione/forza-mentale/)** - Gestire le situazioni di pressione
+2. **[Tattiche](/it/educazione/tattiche/)** - Affinare il processo decisionale strategico
+3. **[Workshop](/it/workshop)** - Implementare sessioni di gioco mentale strutturate
+
+### Per i team
+
+**Costruire l&#39;eccellenza collettiva:**
+
+1. **[Giocatore di squadra](/it/education/team-player/)** - Migliora le dinamiche di squadra
+2. **[Training Camp](/it/training-camp)** - Organizzare intensivi nel fine settimana
+3. **[Sessione di formazione](/it/training-session)** - Strutturare le pratiche di squadra
+
+## Cosa rende questo diverso
+
+::: warning Perché la Pétanque Academy si distingue
+**La maggior parte degli allenamenti si concentra sulla tecnica. Noi ci concentriamo su ciò di cui i giocatori d&#39;élite hanno realmente bisogno:**
+
+1. **Padronanza del gioco mentale** - Il vero elemento differenziante ad alti livelli
+2. **Strumenti pratici** - Non solo teoria, ma modelli pronti all&#39;uso
+3. **Programmi strutturati** - Strutture chiare per workshop e campi
+4. **Basato su prove** - Basato sulla psicologia dello sport e sulla ricerca sullo stato di flusso
+5. **Incentrato sull&#39;élite** - Progettato per i giocatori che hanno già padroneggiato le basi
+:::
+
+## Partecipa
+
+**Vuoi contribuire o fornire un feedback?**
+
+Visita la nostra pagina **[Informazioni](/it/about)** per:
+- Scopri di più sulla piattaforma
+- Condividi il tuo feedback
+- Richiedi contenuti specifici
+- Connettiti con noi
+
+---
+
+::: tip Inizia il tuo viaggio oggi
+Tutto ciò che ti serve per portare il tuo gioco al livello successivo è già qui. Scegli un modulo, scarica un modello e inizia a implementarlo.
+
+**Benvenuti alla Pétanque Academy, dove i giocatori d&#39;élite diventano eccezionali.**
 :::
 
 <AdBanner />
