@@ -64,7 +64,6 @@ Your feedback is invaluable! This site is constantly evolving based on what elit
 - **What content would you like to see more of?**
   - More mental game techniques?
   - More practical templates?
-  - Video demonstrations?
   - Case studies from elite players?
 
 - **What's missing from the site?**

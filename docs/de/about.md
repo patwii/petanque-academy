@@ -64,7 +64,6 @@ Ihr Feedback ist unschätzbar wertvoll! Diese Seite wird ständig weiterentwicke
 - **Welche Inhalte würden Sie gerne häufiger sehen?**
   - Weitere Techniken für mentale Spiele?
   - Mehr praktische Vorlagen?
-  - Videodemonstrationen?
   - Fallstudien von Spitzenspielern?
 
 - **Was fehlt auf der Website?**

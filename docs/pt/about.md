@@ -64,7 +64,6 @@ Adoraria ouvir sua opinião sobre:
 - **Que tipo de conteúdo você gostaria de ver mais?**
   - Mais técnicas de jogo mental?
   - Mais modelos práticos?
-  - Demonstrações em vídeo?
   - Estudos de caso de jogadores de elite?
 
 - **O que está faltando no site?**

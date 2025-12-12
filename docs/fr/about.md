@@ -64,7 +64,6 @@ Vos commentaires sont précieux ! Ce site évolue constamment en fonction des be
 - **Quel type de contenu aimeriez-vous voir davantage ?**
   - Davantage de techniques de jeu mental ?
   - Des modèles plus pratiques ?
-  - Démonstrations vidéo ?
   - Des études de cas de joueurs d&#39;élite ?
 
 - **Que manque-t-il au site ?**

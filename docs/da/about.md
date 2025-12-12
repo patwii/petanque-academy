@@ -64,7 +64,6 @@ Din feedback er uvurderlig! Denne side udvikler sig konstant baseret på, hvad e
 - **Hvilket indhold vil du gerne se mere af?**
   - Flere mentale spilteknikker?
   - Flere praktiske skabeloner?
-  - Videodemonstrationer?
   - Casestudier fra elitespillere?
 
 - **Hvad mangler der på siden?**

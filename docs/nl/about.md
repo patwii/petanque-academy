@@ -64,7 +64,6 @@ Ik hoor graag van u over:
 - **Welke soorten content zou je graag vaker willen zien?**
   - Meer mentale speltechnieken?
   - Meer praktische sjablonen?
-  - Videodemonstraties?
   - Casestudies van topspelers?
 
 - **Wat ontbreekt er op de site?**

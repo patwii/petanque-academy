@@ -64,7 +64,6 @@ Este sitio existe para cambiar eso. Todo el contenido está diseñado para ser p
 - **¿Qué contenido te gustaría ver más?**
   - ¿Más técnicas de juego mental?
   - ¿Plantillas más prácticas?
-  - ¿Demostraciones en vídeo?
   - ¿Estudios de caso de jugadores de élite?
 
 - **¿Qué falta en el sitio?**

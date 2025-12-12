@@ -64,7 +64,6 @@ Din feedback är ovärderlig! Den här webbplatsen utvecklas ständigt baserat p
 - **Vilket innehåll skulle du vilja se mer av?**
   - Fler mentala speltekniker?
   - Fler praktiska mallar?
-  - Videodemonstrationer?
   - Fallstudier från elitspelare?
 
 - **Vad saknas på webbplatsen?**

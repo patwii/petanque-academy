@@ -64,7 +64,6 @@ Din tilbakemelding er uvurderlig! Denne nettsiden er i stadig utvikling basert p
 - **Hvilket innhold ønsker du å se mer av?**
   - Flere mentale spillteknikker?
   - Flere praktiske maler?
-  - Videodemonstrasjoner?
   - Casestudier fra elitespillere?
 
 - **Hva mangler på nettstedet?**

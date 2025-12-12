@@ -64,7 +64,6 @@ Il tuo feedback è prezioso! Questo sito è in continua evoluzione, in base alle
 - **Quali contenuti vorresti vedere di più?**
   - Altre tecniche di gioco mentale?
   - Modelli più pratici?
-  - Dimostrazioni video?
   - Casi di studio di giocatori d&#39;élite?
 
 - **Cosa manca nel sito?**
