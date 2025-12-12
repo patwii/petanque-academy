@@ -385,9 +385,3 @@ Gebruik dit raamwerk om uw doelen specifiek en haalbaar te maken:
 :::
 
 ---
-
-## Progress Tracking Sheet
-
-### Copy This to Excel/Google Sheets
-
-

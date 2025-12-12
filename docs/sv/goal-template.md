@@ -385,9 +385,3 @@ Använd detta ramverk för att göra dina mål specifika och uppnåeliga:
 :::
 
 ---
-
-## Progress Tracking Sheet
-
-### Copy This to Excel/Google Sheets
-
-

@@ -385,9 +385,3 @@ Brug denne ramme til at gøre dine mål specifikke og opnåelige:
 :::
 
 ---
-
-## Progress Tracking Sheet
-
-### Copy This to Excel/Google Sheets
-
-

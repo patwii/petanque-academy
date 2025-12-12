@@ -385,9 +385,3 @@ Use essa estrutura para tornar seus objetivos específicos e alcançáveis:
 :::
 
 ---
-
-## Progress Tracking Sheet
-
-### Copy This to Excel/Google Sheets
-
-

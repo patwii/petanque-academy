@@ -385,9 +385,3 @@ Utilice este marco para hacer que sus objetivos sean específicos y alcanzables:
 :::
 
 ---
-
-## Progress Tracking Sheet
-
-### Copy This to Excel/Google Sheets
-
-

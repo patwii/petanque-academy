@@ -385,9 +385,3 @@ Use this framework to make your goals specific and achievable:
 :::
 
 ---
-
-## Progress Tracking Sheet
-
-### Copy This to Excel/Google Sheets
-
-

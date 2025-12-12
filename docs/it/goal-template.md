@@ -385,9 +385,3 @@ Utilizza questo schema per rendere i tuoi obiettivi specifici e raggiungibili:
 :::
 
 ---
-
-## Progress Tracking Sheet
-
-### Copy This to Excel/Google Sheets
-
-

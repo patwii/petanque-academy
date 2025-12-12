@@ -385,9 +385,3 @@ Nutzen Sie dieses Rahmenwerk, um Ihre Ziele konkret und erreichbar zu gestalten:
 :::
 
 ---
-
-## Progress Tracking Sheet
-
-### Copy This to Excel/Google Sheets
-
-
