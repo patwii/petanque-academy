@@ -44,8 +44,8 @@ graph TD
     A[Objetivo final <br/> O Sonho] --> B[Metas de desempenho <br/> Conquistas]
     B --> C[Objetivos do Processo <br/> Ações diárias]
 
-    A2[&quot;Ganhar o Campeonato Regional&quot;] --> B2[&quot;80% de precisão nos disparos&quot;]
-    B2 --> C2[&quot;Rotina completa antes da filmagem <br/> cada arremesso&quot;]
+    A2["Ganhar o Campeonato Regional"] --> B2["80% de precisão nos disparos"]
+    B2 --> C2["Rotina completa antes da filmagem <br/> cada arremesso"]
 
     style A fill:#e1f5ff
     style B fill:#fff9c4

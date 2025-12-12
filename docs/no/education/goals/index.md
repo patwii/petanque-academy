@@ -44,8 +44,8 @@ graph TD
     A[Resultatmål <br/> Drømmen] --> B[Ytelsesmål <br/> Milepæler]
     B --> C[Prosess mål <br/> Daglige handlinger]
 
-    A2[&quot;Vinn regionmesterskapet&quot;] --> B2[&quot;80 % skytepresisjon&quot;]
-    B2 --> C2[&quot;Komplett rutine før inntak&quot; <br/> hvert kast&quot;]
+    A2["Vinn regionmesterskapet"] --> B2["80 % skytepresisjon"]
+    B2 --> C2["Komplett rutine før inntak<br/>hvert kast"]
 
     style A fill:#e1f5ff
     style B fill:#fff9c4

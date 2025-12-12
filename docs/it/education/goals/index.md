@@ -44,8 +44,8 @@ graph TD
     A[Obiettivo del risultato <br/> Il sogno] --> B[Obiettivi di prestazione <br/> Pietre miliari]
     B --> C[Obiettivi del processo <br/> Azioni quotidiane]
 
-    A2[&quot;Vinci il campionato regionale&quot;] --> B2[&quot;Precisione di tiro dell&#39;80%&quot;]
-    B2 --> C2[&quot;Routine completa pre-tiro <br/> ogni lancio&quot;]
+    A2["Vinci il campionato regionale"] --> B2["Precisione di tiro dell&#39;80%"]
+    B2 --> C2["Routine completa pre-tiro <br/> ogni lancio"]
 
     style A fill:#e1f5ff
     style B fill:#fff9c4
