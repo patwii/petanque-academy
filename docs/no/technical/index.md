@@ -29,9 +29,75 @@ graph TD
     style G fill:#fff4e1
 ```
 
-## Vårt perspektiv
+## Den vanligste feilen i teknisk trening
 
 <AdInArticle />
+
+::: info Denne seksjonen er for erfarne spillere
+Hvis du er nybegynner innen petanque, må du naturligvis utvikle den grunnleggende teknikken din fra bunnen av – og det er en annen reise.
+
+**Dette rådet er for spillere som har spilt i årevis** og allerede har en etablert teknikk som føles naturlig, avslappet og pålitelig. Du har funnet din måte å kaste på. Nå er spørsmålet: hvordan utvikler du deg videre herfra?
+:::
+
+::: warning Den vanlige fellen
+Når erfarne spillere ønsker å forbedre seg, går de ofte tilbake til det grunnleggende – justerer grepet, armsvingen, utløsningspunktet, kroppsposisjonen. Timer med øvelse. Endeløs finjustering.
+
+**Men de har hoppet over det viktigste spørsmålet:** Hva er det egentlig du vil at kulen skal gjøre?
+:::
+
+Før du berører teknikken din, trenger du å være klar over **resultatet** du prøver å oppnå. Ikke «Jeg vil slå mer» eller «Jeg vil være mer konsekvent» – det er ikke resultater, det er ønsker.
+
+Et reelt resultat ser slik ut:
+- «Jeg vil ha en lob med høy bue som stopper innenfor 20 cm fra der den lander»
+- «Jeg vil ha et rullende skudd som svinger til venstre i denne typen terreng.»
+- «Jeg vil ha et mykt, devantslag som så vidt berører målkulen»
+
+**Først bør du utforske [Kastpaletten](/no/technical/throws)** for å forstå hva som er mulig. Deretter bør du bestemme hvilket spesifikt kast du vil legge til i repertoaret ditt. Først da bør du begynne å jobbe med hvordan armen, håndleddet og kroppen din må bevege seg for å skape det resultatet.
+
+## Den riktige måten å jobbe med teknikk på
+
+Vi sier ikke at du aldri skal jobbe med arm, håndledd, avlastning eller kroppsstilling. **Teknisk arbeid med utførelse er absolutt gyldig** – men det må ha riktig formål.
+
+::: info Det riktige formålet med teknisk arbeid
+**Riktig formål:** «Jeg vil legge til et nytt pledd i paletten min»
+
+**Feil formål:** «Jeg vil slå flere slag» eller «Jeg vil være mer konsekvent»
+:::
+
+Her er prosessen:
+
+1. **Utforsk [Kastpaletten](/no/teknisk/kast)** — Identifiser hvilket kast eller hvilken teknikk du vil legge til i repertoaret ditt
+2. **Visualiser resultatet** – Hva skal kulen gjøre? Hvilken bane, landing, spinn og oppførsel trenger du?
+3. **Jobb deretter med utførelse** – Nå kan du fokusere på arm, håndledd, kroppsposisjon og slipp for å oppnå det spesifikke resultatet
+
+Denne tilnærmingen gir den tekniske treningen din **klar retning og målbar fremgang**. Du «øver» ikke bare – du utvider bevisst dine evner.
+
+::: tip Eksempel: Legge til en Plombée
+**Mål:** Legg til et drop shot (plombée) i pekerrepertoaret ditt
+
+**Resultatvisualisering:** Kulen skal bue seg høyt, lande mykt med bakspinn og stoppe nesten umiddelbart
+
+**Teknisk fokus:** Høyere utløserpunkt, mer håndleddsbevegelse for bakspinn, mykere grep
+
+**Suksessmåling:** Kan du utføre dette kastet når du vil? Det er målet.
+:::
+
+## Hvorfor «slå mer» er feil mål
+
+Hvis du justerer teknikken din til å «slå oftere» eller «være mer konsekvent», tar du sannsynligvis opp feil problem.
+
+**Her er sannheten:** Hvis du kan slå bra på trening, men sliter i konkurranse, er ikke problemet teknikken din – det er det mentale. Armen din vet hva den skal gjøre. Spørsmålet er om hjernen din tillater det.
+
+::: tip Den mentale forbindelsen
+Inkonsekvens under press er sjelden et teknisk problem – det er et mentalt problem.
+
+**For konsistens og ytelse under press, utforsk vår [Utdanning](/no/utdanning/) seksjon**, spesielt:
+- [Sonen](/no/utdanning/sonen/) — Skaper forutsetninger for topp ytelse
+- [Mental styrke](/no/utdanning/mental-styrke/) — Prestere når det gjelder
+- [Teknisk vs. flyt](/no/utdanning/sonen/teknisk-vs-flyt) — Når man skal fokusere på teknikk vs. tillit
+:::
+
+## Vårt perspektiv
 
 ::: tip Du trenger ikke å mestre alt
 **Du trenger ikke å mestre alle teknikkene**, men å forstå hele paletten av muligheter hjelper deg med å:

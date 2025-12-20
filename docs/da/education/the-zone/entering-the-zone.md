@@ -35,7 +35,7 @@ graph TD
 | **Balance mellem udfordring/færdigheder** | Opgaven udfordrer dig, men er opnåelig | Konkurrence på dit niveau, hverken for let eller umuligt |
 | **Klare mål** | Du ved præcis, hvad du prøver at gøre | Specifikt mål, klar intention for hvert kast |
 | **Øjeblikkelig feedback** | Du ser resultaterne af dine handlinger | Bolden lander, du ved, om den virkede |
-| **Total fokus** | Fuld opmærksomhed på opgaven | Ingen distraktioner, kun nuet |
+| **Totalt fokus** | Fuld opmærksomhed på opgaven | Ingen distraktioner, kun nuet |
 | **Tab af selvbevidsthed** | Ikke bekymret for, hvordan du ser ud | Ligegyldigt hvem der ser med |
 | **Kontrolfølelse** | Føler mig i stand til at håndtere det | Stol på din træning og dine evner |
 

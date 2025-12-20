@@ -52,7 +52,7 @@ Scegli un orario coerente che si adatti alla tua vita:
 
 | Tempo | Vantaggi | Considerazioni |
 |------|------------|----------------|
-| **Mattina** | Dà il tono alla giornata, meno interruzioni | Bisogna svegliarsi prima |
+| **Mattina** | Dà il tono alla giornata, meno interruzioni | Bisogno di svegliarsi prima |
 | **Mezzogiorno** | Spezza la giornata, ripristina la concentrazione | Potrebbe dimenticare, conflitti di programmazione |
 | **Sera** | Rilassati, rifletti sulla giornata | Potrebbe essere stanco, meno vigile |
 | **Prima dell&#39;allenamento** | Collegamento diretto a bocce | Dipende dal programma di allenamento |
@@ -73,7 +73,7 @@ Non puntare a 30 minuti il primo giorno.
 
 ### Fase 3: Crea il tuo spazio
 
-Non hai bisogno di una stanza per la meditazione, ma avere un posto fisso aiuta:
+Non è necessario avere una stanza per la meditazione, ma avere un posto fisso aiuta:
 - Un posto tranquillo (oppure usa le cuffie)
 - Seduta comoda
 - Distrazioni minime

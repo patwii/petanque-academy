@@ -91,7 +91,7 @@ Lag en realistisk ukeplan:
 **Nøkkelprinsipper:**
 - Prioriter mental trening (det blir ofte neglisjert)
 - Inkluder hviledager
-- Balansere ulike ferdigheter
+- Balanser ulike ferdigheter
 - La fleksibilitet være der for livet
 
 ### Fase 5: Forbered deg på hindringer
@@ -103,7 +103,7 @@ Ting vil gå galt. Planlegg for det.
 | Tidsmangel | Høy | Medium | Ha en &quot;minimumsøkt&quot; klar (20 min) |
 | Dårlig vær | Medium | Medium | Innendørs visualisering, videostudie |
 | Lav motivasjon | Høy | Medium | Gå tilbake til «hvorfor», mindre mål, ta en pause |
-| Mindre skade | Medium | Høy | Fokus på mental trening, ikke-påvirkede ferdigheter |
+| Mindre skade | Medium | Høy | Fokus på mental trening, upåvirkede ferdigheter |
 | Ingen øvingspartner | Medium | Lav | Soloøvelser, video selvanalyse |
 
 ### Fase 6: Spor fremgangen din

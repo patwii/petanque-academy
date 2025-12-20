@@ -47,7 +47,7 @@ Varje kast har en sannolikhet att lyckas. Bra taktik innebär att välja kast d�
 
 **Exempel på beslut:**
 - Svårt skott: 40% framgång, vinner 3 poäng
-- Säkerhetspoäng: 80 % framgång, vinner 1 poäng
+- Säker poäng: 80 % framgång, vinner 1 poäng
 
 Vilket är bäst? Det beror på resultatet, situationen och ditt självförtroende.
 
@@ -190,7 +190,7 @@ Boulehantering skiljer elitspelare åt:
 Elittänkande:
 - Innan du kastar, visualisera de nästa 2-3 kloten från båda lagen
 - Vad är din motståndares bästa svar om du lyckas? Om du misslyckas?
-- Hur lägger det här kastet upp din nästa?
+- Hur lägger det här kastet upp planen för ditt nästa?
 - Tänk på slutspelsscenariot från nuvarande position
 
 ## Vanliga taktiska situationer
@@ -248,7 +248,7 @@ På elitnivå är scouting viktigt. Känn dina motståndare innan du spelar.
 - Spåra deras framgångsfrekvens under matchen
 - Lägg märke till om någon har en ledig dag
 - Identifiera vem som hanterar press bra och vem som inte gör det
-- Justera din domkrafts placering baserat på vad du observerar
+- Justera din domkraftsplacering baserat på vad du observerar
 
 ### Utnyttja det du hittar
 - Rikta in dig på de svagare spelarna när det är möjligt

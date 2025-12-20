@@ -48,7 +48,7 @@ Dette er ikke faste egenskaber – det er færdigheder, du kan udvikle.
 
 ## De mentale krav ved petanque
 
-Pétanque har unikke mentale udfordringer:
+Petanque har unikke mentale udfordringer:
 
 | Udfordring | Hvorfor det er svært |
 |-----------|--------------|
@@ -123,7 +123,7 @@ Mental styrke kræver energistyring:
 - Sov godt før konkurrencer
 - Spis ordentligt (stabilt blodsukker)
 - Hold dig hydreret
-- Flyt mellem spil (sid ikke for længe)
+- Bevæg dig mellem spil (sid ikke for længe)
 
 **Mental energi:**
 - Tag pauser når det er muligt

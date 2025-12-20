@@ -147,7 +147,7 @@ Integrera andningen i din rutin:
 
 1. Innan du går in i cirkeln, ta ett medvetet andetag
 2. Känn dina fötter på marken
-3. Låt axlarna sänkas vid utandningen
+3. Låt axlarna sänkas vid utandning
 4. Börja sedan med din rutin
 
 ### Återställning mellan kast

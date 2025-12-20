@@ -2,7 +2,7 @@
 <AdBanner />
 
 
-Petanque spilles ofte i hold - double (dublettes) eller triples (triplettes). Individuelle færdigheder er vigtige, men holddynamik kan være afgørende for resultaterne. De bedste hold er ikke altid de dygtigste - det er dem, der arbejder bedst sammen.
+Pétanque spilles ofte i hold - double (dublettes) eller triples (triplettes). Individuelle færdigheder betyder noget, men holddynamik kan være afgørende for resultaterne. De bedste hold er ikke altid de dygtigste - det er dem, der arbejder bedst sammen.
 
 ::: tip Den store idé
 **De bedste hold er ikke altid de dygtigste - det er dem, der fungerer bedst sammen.** At være ydmyg, sulten og følelsesmæssigt intelligent gør dig til en god holdkammerat.

@@ -2,7 +2,7 @@
 <AdBanner />
 
 
-Pétanque spilles ofte i lag – double (dublettes) eller triples (triplettes). Individuelle ferdigheter teller, men lagdynamikk kan avgjøre om du får resultater eller ikke. De beste lagene er ikke alltid de dyktigste – det er de som jobber best sammen.
+Pétanque spilles ofte i lag – double (dublettes) eller triple (triplettes). Individuelle ferdigheter teller, men lagdynamikk kan avgjøre om du får resultater eller ikke. De beste lagene er ikke alltid de dyktigste – det er de som jobber best sammen.
 
 ::: tip Den store ideen
 **De beste lagene er ikke alltid de dyktigste – det er de som jobber best sammen.** Å være ydmyk, sulten og følelsesmessig smart gjør deg til en god lagkamerat.
@@ -18,7 +18,7 @@ graph TD
     C --> E
     D --> E
 
-    E --> F[Mesterskapsprestasjoner]
+    E --> F[Mesterskapsytelse]
 
     style A fill:#e8f5e9
     style B fill:#e3f2fd

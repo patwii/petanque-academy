@@ -37,7 +37,7 @@ graph TD
 | **Directe feedback** | Je ziet de resultaten van je acties. | Als de bal landt, weet je of het gelukt is. |
 | **Volledige focus** | Concentreer je volledig op de taak. | Geen afleiding, alleen het hier en nu. |
 | **Verlies van zelfbewustzijn** | Ik maak me geen zorgen over hoe je eruitziet. | Het maakt me niet uit wie er kijkt. |
-| **Gevoel van controle** | Voel je in staat om ermee om te gaan | Vertrouw op je training en je vaardigheden. |
+| **Sense of Control** | Voel je in staat om ermee om te gaan | Vertrouw op je training en je vaardigheden. |
 
 ::: info Kerninzicht
 Wanneer aan deze zes voorwaarden is voldaan, wordt flow mogelijk. Jouw taak is om deze voorwaarden bewust te creëren.

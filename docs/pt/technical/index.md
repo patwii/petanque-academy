@@ -29,9 +29,75 @@ graph TD
     style G fill:#fff4e1
 ```
 
-## Nossa Perspectiva
+## O erro mais comum no treinamento técnico
 
 <AdInArticle />
+
+::: info Esta seção é destinada a jogadores experientes.
+Se você é iniciante na petanca, naturalmente precisará desenvolver sua técnica básica desde o início — e essa é uma jornada diferente.
+
+**Esta dica é para jogadores que jogam há anos** e já possuem uma técnica consolidada que lhes parece natural, relaxada e confiável. Você encontrou seu jeito de arremessar. Agora a questão é: como evoluir a partir daqui?
+:::
+
+::: warning A Armadilha Comum
+Quando jogadores experientes querem melhorar, muitas vezes voltam ao básico — ajustando a pegada, o movimento do braço, o ponto de liberação, a posição do corpo. Horas de treino. Ajustes intermináveis.
+
+**Mas eles ignoraram a pergunta mais importante:** O que exatamente você quer que a bola de boliche faça?
+:::
+
+Antes de mexer na sua técnica, você precisa ter clareza sobre o **resultado** que deseja alcançar. Não pense &quot;Quero bater mais vezes&quot; ou &quot;Quero ser mais consistente&quot; — esses não são resultados, são apenas desejos.
+
+Um resultado real se parece com isto:
+- &quot;Quero um lob alto que pare a 20 cm do ponto de aterrissagem.&quot;
+- &quot;Quero uma tomada rolando que faça uma curva para a esquerda nesse tipo de terreno.&quot;
+- &quot;Quero um golpe devant suave que mal toque na bola alvo.&quot;
+
+**Primeiro, explore a [Paleta de Arremessos](/en/technical/throws)** para entender o que é possível. Depois, decida qual arremesso específico você deseja adicionar ao seu repertório. Só então você deve começar a trabalhar em como seu braço, pulso e corpo precisam se mover para criar esse resultado.
+
+## A maneira correta de trabalhar a técnica
+
+Não estamos dizendo que você nunca deve trabalhar o braço, o pulso, a liberação ou a posição do corpo. **O trabalho técnico na execução é absolutamente válido** — mas deve ter o propósito certo.
+
+::: info O propósito certo para o trabalho técnico
+**Objetivo correto:** &quot;Quero adicionar uma nova cor à minha paleta&quot;
+
+**Objetivo errado:** &quot;Quero acertar mais arremessos&quot; ou &quot;Quero ser mais consistente&quot;
+:::
+
+Eis o processo:
+
+1. **Explore a [Paleta de Arremessos](/en/technical/throws)** — Identifique qual arremesso ou técnica você deseja adicionar ao seu repertório.
+2. **Visualize o resultado** — O que a bola deve fazer? Qual trajetória, aterrissagem, rotação e comportamento você precisa?
+3. **Em seguida, trabalhe na execução** — Agora você pode se concentrar na posição do braço, do pulso e do corpo, e na liberação para alcançar esse resultado específico.
+
+Essa abordagem proporciona ao seu treinamento técnico **direção clara e progresso mensurável**. Você não está apenas &quot;praticando&quot; — você está expandindo suas capacidades de forma deliberada.
+
+::: tip Exemplo: Adicionando um Plombée
+**Objetivo:** Adicionar um drop shot (plombée) ao seu repertório de apontamento
+
+**Visualização do resultado:** A bola deve descrever um arco alto, aterrissar suavemente com rotação para trás e parar quase imediatamente.
+
+**Foco técnico:** Ponto de liberação mais alto, maior movimento do pulso para gerar efeito reverso, empunhadura mais macia
+
+**Critério de sucesso:** Você consegue executar esse arremesso quando quiser? Esse é o objetivo.
+:::
+
+## Por que &quot;bater mais&quot; é o objetivo errado
+
+Se você está ajustando sua técnica para &quot;acertar com mais frequência&quot; ou &quot;ser mais consistente&quot;, provavelmente está abordando o problema errado.
+
+**Eis a verdade:** Se você consegue bater bem nos treinos, mas tem dificuldades nas competições, o problema não é a sua técnica — é mental. Seu braço sabe o que fazer. A questão é se a sua mente permite.
+
+::: tip A Conexão Mental
+A inconsistência sob pressão raramente é um problema técnico — é um problema mental.
+
+**Para consistência e desempenho sob pressão, explore nossa seção [Educação](/en/education/)**, em particular:
+- [A Zona](/en/education/the-zone/) — Criando condições para o máximo desempenho
+- [Força Mental](/en/education/mental-strength/) — Ter um bom desempenho quando importa
+- [Técnica vs. Fluxo](/en/education/the-zone/technical-vs-flow) — Quando focar na técnica em vez da confiança
+:::
+
+## Nossa Perspectiva
 
 ::: tip Você não precisa dominar tudo.
 **Você não precisa dominar todas as técnicas**, mas entender toda a gama de possibilidades ajuda você a:

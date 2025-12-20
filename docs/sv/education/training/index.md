@@ -105,7 +105,7 @@ Du klarar inte av tävlingspress om du aldrig upplever den på träning.
 - Berätta vad du försöker göra
 
 **Trötthet:**
-- Övning när du är trött
+- Träna när du är trött
 - Slut på lång session
 - Efter fysisk träning
 
@@ -150,7 +150,7 @@ Avsätt tid specifikt för mentala färdigheter:
 | måndag | 1,5 timmar | Tekniskt: Spetsborrar |
 | onsdag | 1,5 timmar | Tekniskt: Skjutövningar |
 | Fredag | 1 timme | Mental: Visualisering, rutinmässig övning |
-| Lördag | 2 timmar | Matchspel med presselement |
+| lördag | 2 timmar | Matchspel med presselement |
 
 ### Exempel: Tävlingsspelare (10 timmar/vecka)
 
@@ -161,14 +161,14 @@ Avsätt tid specifikt för mentala färdigheter:
 | onsdag | 2 timmar | Tekniskt: Skottkast (blockerat → slumpmässigt) |
 | torsdag | 1 timme | Videorecension + mentalt arbete |
 | Fredag | 2 timmar | Trycksimulering, spelscenarier |
-| Lördag | 2 timmar | Tävling eller matchspel |
+| lördag | 2 timmar | Tävling eller matchspel |
 
 ## Träningsprinciper
 
 ### 1. Kvalitet framför kvantitet
 - 30 fokuserade minuter slår 2 timmar av tanklös repetition
 - Stanna när fokus tappas
-- Bättre att sluta tidigt än att ha dåliga vanor
+- Bättre att sluta tidigt än att utveckla dåliga vanor
 
 ### 2. Avsiktlig praxis
 - Ha ett specifikt mål för varje session

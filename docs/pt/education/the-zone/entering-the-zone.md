@@ -102,7 +102,7 @@ Uma boa rotina possui estes elementos:
 - Confie no seu corpo.
 - Liberte sem hesitação
 
-**Foco apenas no exterior.** Alvo, não técnica.
+**Foco apenas no ambiente externo.** Alvo, não técnica.
 :::
 
 ### Por que as rotinas funcionam

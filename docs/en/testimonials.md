@@ -4,8 +4,8 @@
 
 Real feedback from elite pétanque players who have used Pétanque Academy resources to improve their mental game and competition performance.
 
-::: tip Authentic Experiences
-These testimonials represent genuine feedback from players at various competitive levels. Some names have been changed at the request of the players to maintain privacy.
+::: tip Authentic & Anonymous
+These testimonials represent genuine feedback from players at various competitive levels. All testimonials are anonymous to protect player privacy and encourage honest sharing.
 :::
 
 ## Regional & National Competitors
@@ -16,7 +16,7 @@ These testimonials represent genuine feedback from players at various competitiv
 >
 > *Within two months, my teammates noticed the difference. I was calmer, recovered faster from bad throws, and actually enjoyed competition again. Placed 3rd in regionals this year—my best result ever."*
 
-**— Marie D., Regional Champion, France**
+**— Regional Champion, France**
 
 ---
 
@@ -28,7 +28,7 @@ These testimonials represent genuine feedback from players at various competitiv
 >
 > *This is the first resource I've found that actually addresses the mental game at an elite level."*
 
-**— Lars S., National Team Player, Sweden**
+**— National Team Player, Sweden**
 
 ---
 
@@ -38,7 +38,7 @@ These testimonials represent genuine feedback from players at various competitiv
 >
 > *Players opened up about their inner critics, their pressure responses, their team communication challenges. It was incredibly powerful. We now run these sessions monthly, and the team culture has completely changed."*
 
-**— Thomas B., Club Coach, Germany**
+**— Club Coach, Germany**
 
 <AdInArticle />
 
@@ -50,9 +50,9 @@ These testimonials represent genuine feedback from players at various competitiv
 
 > *"I've read sports psychology books before, but they're always too general or too academic. The Goal Template and Diary Template from Pétanque Academy are exactly what I needed—practical, specific to pétanque, and immediately usable.*
 >
-> *I printed the goal template, filled it out, and had a clear 3-month development plan in 30 minutes. The diary template helps me track not just results but mental performance. These tools are gold."*
+> *I used the goal template and had a clear 3-month development plan in 30 minutes. The diary template helps me track not just results but mental performance. These tools are gold."*
 
-**— Carlos R., Tournament Player, Spain**
+**— Tournament Player, Spain**
 
 ---
 
@@ -62,7 +62,7 @@ These testimonials represent genuine feedback from players at various competitiv
 >
 > *I practice 10 minutes every morning, and I can now use these techniques during competition. When I feel pressure building, I have tools to manage it. This has made a measurable difference in my performance."*
 
-**— Anna K., Tournament Player, Netherlands**
+**— Tournament Player, Netherlands**
 
 ---
 
@@ -72,7 +72,7 @@ These testimonials represent genuine feedback from players at various competitiv
 >
 > *Learning about transient hypofrontality, understanding the switch between planning and execution, practicing flow triggers—this knowledge has made those peak performance states much more accessible. I'm playing my best pétanque ever."*
 
-**— Jean-Pierre M., Regional Player, France**
+**— Regional Player, France**
 
 ---
 
@@ -84,7 +84,7 @@ These testimonials represent genuine feedback from players at various competitiv
 >
 > *I learned to verbalize trust, to communicate strategy clearly, to support teammates after mistakes. Within a few months, I went from being avoided to being sought after as a partner. Won regional team championship this year."*
 
-**— Marco V., Team Player, Italy**
+**— Team Player, Italy**
 
 ---
 
@@ -94,7 +94,7 @@ These testimonials represent genuine feedback from players at various competitiv
 >
 > *We learned about communication patterns, about building trust, about creating psychological safety. We had honest conversations using the workshop format. Our partnership is stronger than ever, and our results show it."*
 
-**— Henrik & Sofia, Doubles Team, Norway**
+**— Doubles Team, Norway**
 
 ---
 
@@ -106,7 +106,7 @@ These testimonials represent genuine feedback from players at various competitiv
 >
 > *The Training Camp guide helped me structure a weekend program that combined technical work with mental game training. The feedback from players was incredible—they said it was the most valuable training they'd ever attended."*
 
-**— Pierre L., Coach, France**
+**— Coach, France**
 
 ---
 
@@ -116,7 +116,7 @@ These testimonials represent genuine feedback from players at various competitiv
 >
 > *I use these modules as the foundation for mental game coaching with my elite players. The structured approach, the clear frameworks, the practical exercises—this is professional-level content."*
 
-**— Dr. Emma W., Sports Psychologist & Pétanque Coach, UK**
+**— Sports Psychologist & Pétanque Coach, UK**
 
 <AdBanner />
 

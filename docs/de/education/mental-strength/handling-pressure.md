@@ -33,7 +33,7 @@ graph TD
 ### Wodurch wird Druck erzeugt?
 - Hoher Einsatz (wichtiges Spiel, entscheidender Wurf)
 - Beobachtet werden (Publikum, Teamkollegen)
-- Erwartungen (Ihre und die anderer)
+- Erwartungen (Ihre eigenen und die anderer)
 - Unsicherheit (knappes Ergebnis, unbekannte Gegner)
 - Zeit (läuft ab, wartet zu lange)
 

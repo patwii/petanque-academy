@@ -33,7 +33,7 @@ graph TD
 ```mermaid
 graph LR
     A[Pekningsbanor] --> B[Roulett <br/> Rullande]
-    A --> C[Halvporté <br/> Halv lob]
+    A --> C[Halvportée <br/> Halv lob]
     A --> D[Portée <br/> Lobb]
     A --> E[Plombée <br/> Drop shot]
 
@@ -47,7 +47,7 @@ graph LR
 | Kasta | Fransk term | Bana | När man ska använda |
 |-------|-------------|------------|-------------|
 | **Rullande** | Roulett | Låg, rullar större delen av vägen | Slät terräng, kort avstånd |
-| **Halv lob** | Halvporté | Medel, landar halvvägs | Vanligast, mångsidigast |
+| **Halv lob** | Halvportée | Medel, landar halvvägs | Vanligast, mångsidigast |
 | **Lobb** | Portée | Hög, landar nära målet | Hinder, ojämn terräng |
 | **Drop shot** | Plombée | Mycket högt, faller vertikalt | Trånga utrymmen, precisionsplacering |
 
@@ -59,7 +59,7 @@ graph LR
     A --> C[Halv snurrning]
     A --> D[Ingen snurrning]
 
-    B --> E[Stoppar/drar tillbaka]
+    B --> E[Stoppar/Dra tillbaka]
     C --> F[Kontrollerad rulle]
     D --> G[Naturlig rulle]
 
@@ -73,7 +73,7 @@ graph LR
 |-----------|-------------------|-------------|
 | **Full spinn (bakspinn)** | Stannar eller drar sig tillbaka vid landning | Behöver stanna snabbt, undvik att rulla förbi |
 | **Halv snurrning** | Måttlig bakspinn, kontrollerad rullning | Mest mångsidig, förutsägbar |
-| **Ingen snurrning** | Neutral, naturlig roll vid landning | Låt terrängen diktera rullning |
+| **Ingen snurrning** | Neutral, naturlig rullning vid landning | Låt terrängen diktera rullning |
 
 <AdInArticle />
 
@@ -125,7 +125,7 @@ graph LR
 |-----------|------------|-------------|
 | **Hårt plattskott** | Direkt, kraftfull, platt | Tydlig linje, behöver avstånd vid träff |
 | **Medelhård** | Balanserad kraft och kontroll | Mest mångsidig |
-| **Mjuk med hög hålfot** | Lobbskott, faller uppifrån | Hinder, trånga utrymmen |
+| **Mjuk med högt fotvalv** | Lobbskott, faller uppifrån | Hinder, trånga utrymmen |
 
 ## Den kompletta paletten
 

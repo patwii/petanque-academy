@@ -94,7 +94,7 @@ Para jogadores avançados e experientes, voltar a concentrar-se excessivamente n
 
 **O problema:** Quando você automatiza uma habilidade, mas a monitora conscientemente durante a competição, você ativa a mente consciente e sobrepõe-se ao subconsciente. Isso causa ansiedade de desempenho e &quot;travamento&quot;.
 
-**A ciência:** O volume necessário para manter uma habilidade é significativamente menor (geralmente de 1/3 a 1/9) do que o volume necessário para desenvolvê-la. Os especialistas precisam de um trabalho técnico mínimo para manter sua destreza.
+**A ciência:** O volume de prática necessário para manter uma habilidade é significativamente menor (geralmente de 1/3 a 1/9) do que o volume necessário para desenvolvê-la. Os especialistas precisam de um trabalho técnico mínimo para manter sua destreza.
 
 **Exemplo de elite:** Campeões como Philippe Quintais e Dylan Rocher focam-se intensamente em cenários táticos e momentos críticos, em vez de exercícios mecânicos.
 
@@ -146,7 +146,7 @@ Sinais de que você está pensando demais na técnica:
 
 A verdadeira habilidade está em saber quando usar cada modo:
 
-**Durante um jogo competitivo:**
+**Durante uma partida competitiva:**
 - Pensamento técnico: NUNCA durante a execução.
 - Modo de fluxo: SEMPRE ao lançar
 

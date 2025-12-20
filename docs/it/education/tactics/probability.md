@@ -102,7 +102,7 @@ Le tariffe base variano in base a:
 | Successo recente | +5% |
 | fallimento recente | -5 a -10% |
 
-Siate realistici riguardo a questi aggiustamenti.
+Siate realistici riguardo a questi adattamenti.
 
 ## Il principio del vantaggio di Boule
 
@@ -117,7 +117,7 @@ Quando hai più bocce rimanenti del tuo avversario:
 - Ogni lancio aggiuntivo è una decisione rischio/ricompensa
 - Non trasformare una vittoria sicura di 2 punti in una sconfitta esagerando
 
-**Meno bocce rimanenti:** Devi far sì che ogni tiro conti. Le giocate sicure potrebbero non essere sufficienti: considera opzioni con ricompense più elevate per recuperare alla fine.
+**Meno bocce rimanenti:** Devi far sì che ogni tiro conti. Le giocate sicure potrebbero non essere sufficienti: prendi in considerazione opzioni con ricompense più elevate per recuperare alla fine.
 
 ## Il principio &quot;Une Boule Devant&quot;.
 
@@ -160,7 +160,7 @@ Quando non c&#39;è pressione di tempo:
 
 **Se si perde questa estremità si perde la partita:**
 - Prendi rischi più grandi
-- È necessario segnare più punti
+- Bisogno di segnare più punti
 - Il gioco sicuro non ti salverà
 
 ## Errori comuni di probabilità

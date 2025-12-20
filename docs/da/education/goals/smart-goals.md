@@ -152,7 +152,7 @@ Deadlines skaber hastværk og muliggør planlægning.
 
 **Ugentlig:**
 - Mandag: Teknisk skydesession
-- Onsdag: Pointgivning og kampsituationer
+- Onsdag: Pointing og spilsituationer
 - Fredag: Mental træning og visualisering
 - Weekend: Konkurrence- eller kamptræning
 

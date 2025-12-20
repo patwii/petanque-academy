@@ -2,7 +2,7 @@
 
 <AdBanner />
 
-*Published: December 2024 | Reading time: 8 minutes*
+*Reading time: 8 minutes*
 
 If you've been playing pétanque for years and have solid technique, this article will challenge everything you think you know about training. The uncomfortable truth is: **more technical practice might be holding you back.**
 

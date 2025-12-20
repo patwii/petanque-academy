@@ -1,14 +1,50 @@
-# Workshop: Theoretical Session Guide
+# Workshop: Advanced Mental Game Session (3-4 Hours)
 
 <AdBanner />
 
-## A Comprehensive Guide for Coordinators
+## Overview
 
-This guide helps you conduct a 3-4 hour theoretical workshop with 6-8 elite players. As the **Mental Performance Coordinator (MPC)**, you'll facilitate deep discussions about the mental game, creating psychological safety that translates to performance on the piste.
+This workshop is an advanced 3-4 hour theoretical session for 6-8 elite players, focusing on deep psychological work and vulnerability-based learning. It goes beyond basic mental skills to explore the inner game at a profound level.
 
-::: warning Critical Concept
-**You are not a technical coach or therapist.** Your role is to facilitate vulnerability-based learning that helps players understand the connection between their inner thoughts and their performance.
+::: tip Two Sections in This Guide
+- **[For Participants](#for-participants)** - What players will experience and learn
+- **[For Facilitators](#for-facilitators)** - How to conduct the workshop as a Mental Performance Coordinator
 :::
+
+**Difference from Beginner Session:**
+- **Beginner (2-3h):** Introduction to mental game concepts → [See Mental Journey Guide](/en/mental-journey/session-guide)
+- **Advanced (3-4h):** Deep psychological work with vulnerability exercises (this page)
+
+## Quick Access
+
+| Section | Purpose | Access |
+|---------|---------|--------|
+| **For Participants** | What to expect and how to prepare | [View Section](#for-participants) |
+| **For Facilitators** | Complete session guide and exercises | [View Section](#for-facilitators) |
+| **Session Materials** | Exercises and worksheets | [View Materials](#facilitator-materials) |
+| **Related Guides** | Other training formats | [Mental Journey](/en/mental-journey/) • [Training Camp](/en/training-camp) |
+
+---
+
+## For Participants
+
+### What to Expect
+
+This is not a typical training session. You'll engage in deep discussions about the mental and emotional aspects of pétanque that rarely get talked about openly.
+
+**This Workshop Is:**
+- ✅ A safe space to explore inner thoughts and fears
+- ✅ Vulnerability-based learning with teammates
+- ✅ Connecting mental patterns to performance
+- ✅ Building team psychological intelligence
+
+**This Workshop Is NOT:**
+- ❌ Technical coaching or tactics training
+- ❌ Therapy or counseling
+- ❌ Positive thinking or motivation speeches
+- ❌ Judgment or criticism
+
+### Session Structure
 
 ```mermaid
 graph LR
@@ -24,17 +60,109 @@ graph LR
     style E fill:#f3e5f5
 ```
 
-## Pre-Workshop Preparation
+**Total Duration:** 3-4 hours
+**Group Size:** 6-8 players
+**Format:** Circle discussion with structured exercises
 
-### The Coordinator's Role
+### What You'll Learn
 
-::: info Your Responsibilities
+#### Phase 1: Foundation (60 min)
+- Ground rules for psychological safety
+- The "Check-In Matrix" - acknowledging your current state
+- The "Iceberg of Pétanque" - exploring hidden thoughts
+
+#### Phase 2: Deep Work (90 min)
+- Creating your "User Manual" for teammates
+- Connecting mental patterns to performance
+- "Fear in a Hat" - breaking isolation through shared vulnerability
+
+#### Phase 3: Integration (45 min)
+- Reframing your Inner Critic to Inner Coach
+- Creating team protocols for competition
+- Actionable takeaways for the piste
+
+#### Phase 4: Closing (15 min)
+- Reflection and commitment
+- Follow-up support
+
+### Ground Rules
+
+Before the session begins, all participants agree to:
+
+::: tip The Container - Essential Ground Rules
+1. **Confidentiality** - What's said here, stays here
+2. **The Vegas Rule** - Lessons leave the room, stories stay
+3. **No Fixing** - Witness and understand, don't try to solve
+4. **Right to Pass** - Vulnerability cannot be coerced
+5. **Respect the Process** - Trust the discomfort
+:::
+
+### What to Bring
+
+**Required:**
+- Open mind and willingness to share
+- Your own experiences and challenges
+- Respect for others' vulnerability
+
+**Optional:**
+- Notebook for personal reflections
+- Questions about specific mental challenges
+
+### Key Activities You'll Experience
+
+#### The Check-In Matrix
+Place yourself on a grid of energy and mood. Normalize that we all have different states.
+
+#### The Iceberg of Pétanque
+Explore what's happening below the surface - the thoughts and fears nobody sees.
+
+#### The User Manual
+Create an operating manual for yourself so teammates understand how to support you.
+
+#### Fear in a Hat
+Anonymously share deep fears and hear them validated by peers. Break the isolation.
+
+#### Inner Critic Reframing
+Transform harsh self-talk into supportive coaching language.
+
+### After the Workshop
+
+You'll leave with:
+- Deeper understanding of your mental patterns
+- Team protocols for supporting each other
+- Reframed Inner Coach phrases
+- Connection to teammates through shared vulnerability
+- Actionable tools for competition
+
+::: warning Vulnerability Hangover
+After deep sharing, you might feel exposed or regretful. This is normal. The facilitator will check in with you within 24 hours. Remember: what you shared helped everyone.
+:::
+
+<AdInArticle />
+
+---
+
+## For Facilitators
+
+### Your Role as Mental Performance Coordinator
+
+As the **Mental Performance Coordinator (MPC)**, you facilitate deep discussions about the mental game, creating psychological safety that translates to performance on the piste.
+
+::: warning Critical Concept
+**You are not a technical coach or therapist.** Your role is to facilitate vulnerability-based learning that helps players understand the connection between their inner thoughts and their performance.
+:::
+
+### Your Responsibilities
+
+::: info Key Responsibilities
 - **Facilitate, don't lecture** - You guide discussion, not teach technique
 - **Hold the space** - Create and maintain psychological safety
 - **Bridge theory to practice** - Connect website content to inner experience
 - **Monitor group dynamics** - Notice who's engaged, who's resistant
 - **Maintain boundaries** - Know when to refer to professional help
 :::
+
+### Pre-Workshop Preparation
 
 ### Essential Competencies
 

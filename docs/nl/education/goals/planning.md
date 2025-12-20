@@ -37,13 +37,13 @@ Je hebt al geleerd over SMART-doelen. Plaats ze nu in een hiërarchie:
 
 Voordat je begint met plannen, moet je eerlijk evalueren wat je hebt:
 
-| Hulpbron | Vragen om te stellen |
+| Bron | Vragen om te stellen |
 |----------|-----------------|
 | **Tijd** | Hoeveel uur per week kun je realistisch gezien trainen? |
 | **Locatie** | Heb je toegang tot een goede piste? Hoe is de kwaliteit van het oppervlak? |
 | **Apparatuur** | Beschikt u over geschikte boules? Meetinstrumenten? Video-opnameapparatuur? |
 | **Kennis** | Wat zijn je technische sterke en zwakke punten? |
-| **Fysieke conditie** | Zijn er beperkingen? Zijn er gebieden die verbetering behoeven? |
+| **Fysieke conditie** | Zijn er beperkingen? Gebieden die verbetering behoeven? |
 
 Wees eerlijk. Een realistisch plan is beter dan een ambitieuze fantasie.
 
@@ -82,7 +82,7 @@ Stel een realistisch weekschema op:
 |-----|---------|-----------|---------|-------|
 | ma | - | Technisch: Aanwijzen | Lichte mobiliteit | Precisie |
 | di | - | Technisch: Opnames | - | Vermogen/nauwkeurigheid |
-| wo | - | Mentale training | - | Mindfulness |
+| woensdag | - | Mentale training | - | Mindfulness |
 | Do | - | Gemengd: Spelscenario&#39;s | Lichte mobiliteit | Sollicitatie |
 | vr | - | Technisch: Zwakte | - | Verbetering |
 | Zat | Wedstrijd of competitie | - | - | Prestatie |

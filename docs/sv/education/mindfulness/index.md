@@ -108,7 +108,7 @@ Du behöver inte timmar av meditation. Börja med dessa enkla övningar:
 - Sitt bekvämt
 - Fokusera på din andning
 - När dina tankar vandrar iväg (det kommer att göra det), återvänd försiktigt till andetaget
-- Ingen dom om att vandra – bara återvänd
+- Ingen dom om vandring - bara återvänd
 
 ### 2. Kroppsskanning (5 minuter)
 - Lägg märke till känslor i dina fötter

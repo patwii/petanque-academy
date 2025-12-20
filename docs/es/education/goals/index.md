@@ -5,7 +5,7 @@
 Las metas claras son tu brújula. Te guían en tu entrenamiento, te motivan cuando las cosas se ponen difíciles y te permiten medir tu progreso. Sin metas, solo estás jugando. Con metas, avanzas hacia algo.
 
 ::: tip El principio fundamental
-**Un objetivo sin un plan es solo un deseo.** Establece objetivos claros, divídelos, concéntrate en lo que controlas y realiza un seguimiento de tu progreso.
+**Una meta sin un plan es solo un deseo.** Establece metas claras, divídelas en partes, concéntrate en lo que controlas y realiza un seguimiento de tu progreso.
 :::
 
 ## Por qué son importantes los objetivos
@@ -13,7 +13,7 @@ Las metas claras son tu brújula. Te guían en tu entrenamiento, te motivan cuan
 Los objetivos sirven para múltiples propósitos:
 - **Dirección:** Saber en qué trabajar
 - **Motivación:** Tener algo por lo que luchar
-- **Medición:** Realice un seguimiento de su progreso
+- **Medición:** Sigue tu progreso
 - **Enfoque:** Prioriza tu tiempo limitado
 
 Para el jugador autodidacta, las metas son especialmente importantes. Sin un entrenador que te presione, tus metas se convierten en tu guía.
@@ -44,8 +44,8 @@ graph TD
     A[Objetivo de resultado <br/> El sueño] --> B[Metas de desempeño <br/> Hitos]
     B --> C[Objetivos del proceso <br/> Acciones diarias]
 
-    A2["Gana el Campeonato Regional"] --> B2["80% de precisión de tiro"]
-    B2 --> C2["Rutina completa previa al disparo <br/> cada lanzamiento"]
+    A2[&quot;Gana el Campeonato Regional&quot;] --> B2[&quot;80% de precisión de tiro&quot;]
+    B2 --> C2[&quot;Rutina completa previa al disparo <br/> cada lanzamiento&quot;]
 
     style A fill:#e1f5ff
     style B fill:#fff9c4

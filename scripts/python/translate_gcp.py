@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Translation using Google Cloud Translation API with authentication
+Translation using Google Cloud Translation API with authentication and caching
 """
 
 from pathlib import Path
@@ -8,6 +8,8 @@ import re
 import time
 import os
 import sys
+import json
+import hashlib
 
 # Set up GCP credentials
 os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'private_keys/credentials.json'
@@ -21,14 +23,59 @@ except ImportError:
     subprocess.check_call([sys.executable, "-m", "pip", "install", "google-cloud-translate", "-q"])
     from google.cloud import translate_v2 as translate
 
+# Translation cache file
+CACHE_FILE = Path('scripts/python/.translation_cache.json')
+
+# Global cache
+_translation_cache = {}
+_cache_hits = 0
+_cache_misses = 0
+
+def load_cache():
+    """Load translation cache from disk"""
+    global _translation_cache
+    if CACHE_FILE.exists():
+        try:
+            with open(CACHE_FILE, 'r', encoding='utf-8') as f:
+                _translation_cache = json.load(f)
+            print(f"📦 Loaded {len(_translation_cache)} cached translations", flush=True)
+        except Exception as e:
+            print(f"⚠️  Could not load cache: {e}", flush=True)
+            _translation_cache = {}
+    else:
+        _translation_cache = {}
+
+def save_cache():
+    """Save translation cache to disk"""
+    global _translation_cache
+    try:
+        CACHE_FILE.parent.mkdir(parents=True, exist_ok=True)
+        with open(CACHE_FILE, 'w', encoding='utf-8') as f:
+            json.dump(_translation_cache, f, ensure_ascii=False, indent=2)
+        print(f"💾 Saved {len(_translation_cache)} translations to cache", flush=True)
+    except Exception as e:
+        print(f"⚠️  Could not save cache: {e}", flush=True)
+
+def get_cache_key(text, target_language):
+    """Generate a cache key for a translation"""
+    # Use hash to handle long texts and special characters
+    text_hash = hashlib.md5(text.encode('utf-8')).hexdigest()[:16]
+    return f"{target_language}:{text_hash}:{text[:50]}"  # Include prefix for debugging
+
 FILES = [
     # Main pages
     'ambition.md',
     'food.md',
     'news/index.md',
     'workshop.md',
+    'case-studies.md',
+    'testimonials.md',
     'technical/index.md',
     'technical/throws.md',
+    # Mental Journey section (beginner guide)
+    'mental-journey/index.md',
+    'mental-journey/materials.md',
+    'mental-journey/session-guide.md',
     # Education main
     'education/index.md',
     # Goals section
@@ -58,6 +105,22 @@ FILES = [
     'education/the-zone/index.md',
     'education/the-zone/entering-the-zone.md',
     'education/the-zone/technical-vs-flow.md',
+    # Blog/Articles section
+    'blog/index.md',
+    'blog/mental-vs-technical.md',
+    'blog/inner-critic.md',
+    'blog/pre-shot-routines.md',
+    'blog/pressure-management.md',
+    'blog/flow-state-science.md',
+    'blog/mindfulness-competition.md',
+    'blog/elite-goal-setting.md',
+    'blog/mental-resilience.md',
+    'blog/team-communication.md',
+    'blog/team-chemistry.md',
+    'blog/team-leadership.md',
+    'blog/mental-training-mistakes.md',
+    'blog/practice-structure.md',
+    'blog/competition-prep.md',
 ]
 
 LANGUAGES = {
@@ -73,18 +136,33 @@ LANGUAGES = {
 }
 
 def translate_text_gcp(text, target_language, translate_client):
-    """Translate text using GCP Translation API"""
+    """Translate text using GCP Translation API with caching"""
+    global _translation_cache, _cache_hits, _cache_misses
+
     if not text or len(text) < 2:
         return text
-    
+
     # Don't translate certain terms
     no_translate = ['Pétanque Academy', 'SMART', 'OK', 'Yes', 'No']
     if text in no_translate:
         return text
-    
+
+    # Check cache first
+    cache_key = get_cache_key(text, target_language)
+    if cache_key in _translation_cache:
+        _cache_hits += 1
+        return _translation_cache[cache_key]
+
+    _cache_misses += 1
+
     try:
         result = translate_client.translate(text, target_language=target_language, source_language='en')
-        return result['translatedText']
+        translated = result['translatedText']
+
+        # Store in cache
+        _translation_cache[cache_key] = translated
+
+        return translated
     except Exception as e:
         print(f"\n    Error: {e}", flush=True)
         return text
@@ -230,15 +308,20 @@ def translate_file(source_path, target_path, lang_code, translate_client):
     in_mermaid_block = False
     frontmatter_count = 0
 
-    for line in lines:
+    for line_num, line in enumerate(lines):
         stripped = line.strip()
 
-        # Track frontmatter
+        # Track frontmatter (only at the very beginning of the file)
         if stripped == '---':
             frontmatter_count += 1
             translated_lines.append(line)
-            if frontmatter_count <= 2:
-                in_frontmatter = not in_frontmatter
+            # Only treat as frontmatter if it's the first or second --- at the start of the file
+            # First --- must be on line 0 (or after empty lines)
+            if frontmatter_count == 1 and line_num == 0:
+                in_frontmatter = True
+            elif frontmatter_count == 2 and in_frontmatter:
+                in_frontmatter = False
+            # Otherwise, it's just a horizontal rule separator, not frontmatter
             continue
 
         # Don't translate frontmatter content
@@ -330,6 +413,11 @@ def translate_file(source_path, target_path, lang_code, translate_client):
         f.writelines(translated_lines)
 
 def main():
+    global _cache_hits, _cache_misses
+
+    # Load translation cache
+    load_cache()
+
     # Initialize GCP Translation client
     print("Initializing Google Cloud Translation API...", flush=True)
     translate_client = translate.Client()
@@ -340,24 +428,34 @@ def main():
 
     print(f"\n🌍 GCP Translation: {len(FILES)} files × {len(LANGUAGES)} languages = {total} translations\n", flush=True)
 
-    for idx, file_path in enumerate(FILES, 1):
-        print(f"[{idx}/{len(FILES)}] {file_path}", flush=True)
-        source_file = docs_dir / 'en' / file_path
+    try:
+        for idx, file_path in enumerate(FILES, 1):
+            print(f"[{idx}/{len(FILES)}] {file_path}", flush=True)
+            source_file = docs_dir / 'en' / file_path
 
-        if not source_file.exists():
-            print(f"  ⚠️  Not found", flush=True)
-            continue
+            if not source_file.exists():
+                print(f"  ⚠️  Not found", flush=True)
+                continue
 
-        for lang_code in LANGUAGES.keys():
-            target_file = docs_dir / lang_code / file_path
-            print(f"  {lang_code}...", end='', flush=True)
+            for lang_code in LANGUAGES.keys():
+                target_file = docs_dir / lang_code / file_path
+                print(f"  {lang_code}...", end='', flush=True)
 
-            try:
-                translate_file(source_file, target_file, lang_code, translate_client)
-                completed += 1
-                print(" ✓", flush=True)
-            except Exception as e:
-                print(f" ✗ {e}", flush=True)
+                try:
+                    translate_file(source_file, target_file, lang_code, translate_client)
+                    completed += 1
+                    print(" ✓", flush=True)
+                except Exception as e:
+                    print(f" ✗ {e}", flush=True)
+    finally:
+        # Always save cache, even if interrupted
+        save_cache()
+
+        # Print cache statistics
+        total_lookups = _cache_hits + _cache_misses
+        if total_lookups > 0:
+            hit_rate = (_cache_hits / total_lookups) * 100
+            print(f"\n📊 Cache stats: {_cache_hits} hits, {_cache_misses} misses ({hit_rate:.1f}% hit rate)", flush=True)
 
     print(f"\n✅ Complete: {completed}/{total}\n", flush=True)
 

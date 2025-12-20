@@ -1,5 +1,7 @@
 # Alimentation et nutrition
 
+<AdBanner />
+
 ## Énergie pour des performances de précision
 
 La pétanque est un sport de précision. Votre cerveau est votre outil le plus précieux : nourrissez-le d’énergie stable, pas d’énergie en dents de scie.
@@ -76,6 +78,8 @@ Soyez particulièrement prudent avec :
 - ❌ Jus de fruits et smoothies (sucre concentré)
 - ❌ Pain blanc, viennoiseries, en-cas de distributeurs automatiques
 :::
+
+<AdInArticle />
 
 ## Guide rapide du jour de compétition
 

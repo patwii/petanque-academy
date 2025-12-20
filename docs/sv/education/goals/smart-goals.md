@@ -158,7 +158,7 @@ Deadlines skapar brådska och möjliggör planering.
 
 ## Att sätta ihop allt
 
-### Målsättningsarbetsblad
+### Arbetsblad för målsättning
 
 **Mitt mål (första utkastet):**
 _________________________________

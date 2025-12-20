@@ -12,20 +12,20 @@ We hebben een uitgebreid platform gelanceerd dat is ontworpen om top-pétanquesp
 
 ```mermaid
 graph TD
-    A[Pétanque Academy] --> B[Education Platform]
-    A --> C[Training Tools]
-    A --> D[Workshop Programs]
+    A[Pétanque Academy] --> B[Onderwijsplatform]
+    A --> C[Trainingsinstrumenten]
+    A --> D[Workshopprogramma&#39;s]
 
-    B --> E[8 Complete Modules]
-    B --> F[Mental Game Mastery]
-    B --> G[Technical Foundations]
+    B --> E[8 complete modules]
+    B --> F[Mentale spelbeheersing]
+    B --> G[Technische grondbeginselen]
 
-    C --> H[Goal Templates]
-    C --> I[Diary Templates]
-    C --> J[Training Plans]
+    C --> H[Doelsjablonen]
+    C --> I[Dagboeksjablonen]
+    C --> J[Trainingsplannen]
 
-    D --> K[Elite Player Forums]
-    D --> L[Training Camps]
+    D --> K[Elite spelersforums]
+    D --> L[Trainingskampen]
 
     style A fill:#fff4e1
     style B fill:#e3f2fd
@@ -43,14 +43,14 @@ We hebben **8 uitgebreide educatieve modules** gelanceerd die alles behandelen, 
 
 | Module | Wat zit erin? | Belangrijkste kenmerken |
 |--------|---------------|--------------|
-| **[The Zone](/en/education/the-zone/)** | Beheersing van de flowtoestand | 4 gedetailleerde handleidingen voor het bereiken en behouden van een flow-ervaring. |
-| **[Mental Strength](/en/education/mental-strength/)** | Drukbehandeling | Voorbereidingsroutines, omgaan met je innerlijke criticus |
+| **[De Zone](/en/education/the-zone/)** | Beheersing van de flowtoestand | 4 gedetailleerde handleidingen voor het bereiken en behouden van een flow. |
+| **[Mentale kracht](/en/education/mental-strength/)** | Drukbehandeling | Voorbereidingsroutines, omgaan met je innerlijke criticus |
 | **[Mindfulness](/en/education/mindfulness/)** | Bewustzijn van het huidige moment | Dagelijkse oefeningen, wedstrijdtechnieken |
-| **[Goals](/en/education/goals/)** | Strategische planning | SMART-doelen, hiërarchie, volgsystemen |
-| **[Tactics](/en/education/tactics/)** | Spelstrategie | Besluitvorming, waarschijnlijkheid, positionering |
-| **[Team Player](/en/education/team-player/)** | Samenwerkingsvaardigheden | Communicatie, vertrouwen, teamdynamiek |
+| **[Doelen](/nl/onderwijs/doelen/)** | Strategische planning | SMART-doelen, hiërarchie, volgsystemen |
+| **[Tactieken](/en/education/tactics/)** | Spelstrategie | Besluitvorming, waarschijnlijkheid, positionering |
+| **[Teamspeler](/en/education/team-player/)** | Samenwerkingsvaardigheden | Communicatie, vertrouwen, teamdynamiek |
 | **[Training](/en/education/training/)** | Praktische methoden | Oefeningen, doelgerichte oefening, progressie |
-| **[Nutrition](/en/education/nutrition/)** | Prestatiebrandstof | Bloedsuikerregulatie, wedstrijdvoeding |
+| **[Voeding](/en/education/nutrition/)** | Prestatiebrandstof | Bloedsuikerregulatie, wedstrijdvoeding |
 
 ### 🛠️ Praktische hulpmiddelen
 
@@ -77,14 +77,36 @@ De sectie **[Technisch advies](/en/technical/)** bevat:
 - Voedingsstrategieën voorafgaand aan de wedstrijd
 - Energieoptimalisatie voor toernooien
 
+### 📝 Artikelen &amp; inzichten
+
+**NIEUW: 14 diepgaande artikelen** over mentale aspecten van het spel:
+
+| Categorie | Artikelen |
+|----------|----------|
+| **De innerlijke criticus begrijpen** | [Inner Critic](/en/blog/inner-critic) - Beheers je innerlijke dialoog |
+| **Het opbouwen van routines vóór de opname** | [Voorbereidende routines](/en/blog/pre-shot-routines) - Zorg voor consistentie |
+| **Drukbeheersing** | [Drukmanagement](/en/blog/pressure-management) - Presteren onder stress |
+| **Prestatiepsychologie** | [Flow-toestanden](/en/blog/flow-state-science) • [Mindfulness](/en/blog/mindfulness-competition) • [Doelstellingen stellen](/en/blog/elite-goal-setting) • [Mentale veerkracht](/en/blog/mental-resilience) |
+| **Teamdynamiek** | [Communicatie](/en/blog/team-communication) • [Teamchemie](/en/blog/team-chemistry) • [Leiderschap](/en/blog/team-leadership) |
+| **Training en ontwikkeling** | [Fouten bij mentale training](/en/blog/mental-training-mistakes) • [Trainingsstructuur](/en/blog/practice-structure) • [Wedstrijdvoorbereiding](/en/blog/competition-prep) |
+
+➡️ **[Bekijk alle artikelen](/en/blog/)**
+
+### 📖 Bronnen
+
+**Casusvoorbeelden en getuigenissen:**
+
+- **[Casusstudies](/en/case-studies)** - Echte voorbeelden van topspelers die mentale training toepassen.
+- **[Getuigenissen](/en/testimonials)** - Feedback van spelers die deze methoden hebben toegepast
+
 ## Onze missie
 
 ```mermaid
 graph LR
-    A[Technical Mastery] --> B[Mental Game]
-    B --> C[Flow State]
-    C --> D[Peak Performance]
-    D --> E[Consistent Excellence]
+    A[Technische beheersing] --> B[Mentaal spel]
+    B --> C[Flow-toestand]
+    C --> D[Maximale prestaties]
+    D --> E[Constante uitmuntendheid]
 
     style A fill:#e3f2fd
     style B fill:#fff4e1
@@ -118,14 +140,14 @@ Topspelers beheersen de techniek al. De volgende doorbraak komt in het **mentale
 
 1. **[Ambitie](/en/ambitie)** - Begrijp de filosofie achter elite-ontwikkeling
 2. **[De Zone](/en/education/the-zone/)** - Leer meer over flowtoestanden
-3. **[Doelsjabloon](/en/goal-template)** - Stel je eerste gestructureerde doelen vast
+3. **[Doelsjabloon](/en/goal-template)** - Stel je eerste gestructureerde doelen
 
 ### Voor ervaren spelers
 
 **Duik in geavanceerde onderwerpen:**
 
-1. **[Mentale kracht](/en/education/mental-strength/)** - Beheers situaties onder druk
-2. **[Tactiek](/en/education/tactics/)** - Verfijn strategische besluitvorming
+1. **[Mentale kracht](/en/education/mental-strength/)** - Beheers stressvolle situaties
+2. **[Tactieken](/en/education/tactics/)** - Verfijn strategische besluitvorming
 3. **[Workshop](/en/workshop)** - Implementeer gestructureerde mentale spelsessies
 
 ### Voor teams
@@ -145,7 +167,7 @@ Topspelers beheersen de techniek al. De volgende doorbraak komt in het **mentale
 2. **Praktische hulpmiddelen** - Niet alleen theorie, maar ook direct bruikbare sjablonen
 3. **Gestructureerde programma&#39;s** - Duidelijke kaders voor workshops en kampen
 4. **Op bewijs gebaseerd** - Gebaseerd op onderzoek naar sportpsychologie en flow-states.
-5. **Gericht op de elite** - Ontworpen voor spelers die de basis al beheersen.
+5. **Speciaal ontworpen voor topspelers** - Voor spelers die de basis al beheersen.
 :::
 
 ## Doe mee!

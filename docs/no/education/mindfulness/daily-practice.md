@@ -117,7 +117,7 @@ Gjør det enkelt å øve:
 ### Under øvelsen
 - Bruk preshot-rutinen som mindfulness-øvelse
 - Bruk SOAS etter feil
-- Vær tilstede mellom kastene
+- Vær til stede mellom kastene
 
 ### Etter trening
 - 3 minutters refleksjon (uten dom)
@@ -136,7 +136,7 @@ Gjør det enkelt å øve:
 | Ons | 5 minutter | Kroppsskanning | Fant spenninger i skuldrene |
 
 ### Hva du skal spore
-- Har du trent? (Ja/Nei)
+- Har du øvd? (Ja/Nei)
 - Hvor lenge?
 - Hvilken type?
 - Kort om erfaring (valgfritt)

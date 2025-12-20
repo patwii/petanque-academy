@@ -137,7 +137,7 @@ Bei Spielen mit Zeitlimit ist die Punktedifferenz entscheidend:
 
 | Spielstand | Risikoansatz |
 |-----------------|---------------|
-| Führung mit 4+ | Sehr konservativ – Blei schützen, Zeit stoppen |
+| mit 4+ Punkten Vorsprung | Sehr konservativ – Blei schützen, Zeit stoppen |
 | Führung mit 1:3 | Konservativ – keine Punkte verschenken |
 | Gebunden | Ausgewogene – kalkulierte Risiken |
 | Rückstand 1-3 | Aggressiv – Bedürfnis, Boden gutzumachen |
@@ -171,7 +171,7 @@ Wenn kein Zeitdruck besteht:
 ### 2. Ignorieren der Basiszinssätze
 Deine Trefferquote ändert sich nicht, nur weil der Moment wichtig ist.
 
-### 3. Sunk-Cost-Fallacy (Fallacy der versunkenen Kosten)
+### 3. Sunk-Cost-Fallacy (Versunkene-Kosten-Trugschluss)
 „Ich habe schon zweimal daneben geworfen, ich sollte weiterwerfen“ – jeder Wurf ist unabhängig.
 
 ### 4. Ergebnisverzerrung

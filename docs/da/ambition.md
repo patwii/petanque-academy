@@ -1,5 +1,7 @@
 # Ambition
 
+<AdBanner />
+
 Vores mission er at hjælpe elitespillere med at tage det næste skridt i deres udvikling.
 
 ::: tip Vores vision
@@ -82,4 +84,6 @@ Del oplevelser med andre elitespillere i et trygt og støttende miljø.
 ::: info Klar til at tage det næste skridt?
 Udforsk vores [Uddannelse](/da/uddannelse/) sektion eller lær mere om vores [Workshops](/da/workshop).
 :::
+
+<AdBanner />
 

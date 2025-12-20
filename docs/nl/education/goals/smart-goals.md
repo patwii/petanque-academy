@@ -130,7 +130,7 @@ Deadlines creëren urgentie en maken planning mogelijk.
 |-----------|------------------|
 | Lange termijn | 1-3 jaar |
 | Jaarlijks | 12 maanden |
-| Kwartaal | 3 maanden |
+| Driemaandelijks | 3 maanden |
 | Maandelijks | 4 weken |
 | Wekelijks | 7 dagen |
 | Sessie | Individuele praktijk |

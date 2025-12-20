@@ -106,7 +106,7 @@ Elk doel zou moeten zijn:
 
 ## Het opdelen van grote doelen
 
-Grote doelen kunnen overweldigend aanvoelen. Verdeel ze in kleinere stappen:
+Grote doelen kunnen overweldigend aanvoelen. Verdeel ze in kleinere onderdelen:
 
 ### Voorbeeld: &quot;Win het clubkampioenschap (over 12 maanden)&quot;
 

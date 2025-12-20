@@ -41,7 +41,7 @@ Estas são sessões dedicadas à atenção plena - tempo reservado especificamen
 Os fundamentos da prática da atenção plena.
 
 **Como fazer:**
-1. Sente-se confortavelmente (em uma cadeira ou no chão).
+1. Sente-se confortavelmente (na cadeira ou no chão).
 2. Feche os olhos ou suavize o olhar.
 3. Concentre-se na sua respiração – na sensação do ar entrando e saindo.
 4. Quando os pensamentos surgirem, observe-os sem julgá-los.

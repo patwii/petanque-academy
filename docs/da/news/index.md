@@ -12,20 +12,20 @@ Vi har lanceret en omfattende platform dedikeret til at hjælpe elite-petanquesp
 
 ```mermaid
 graph TD
-    A[Pétanque Academy] --> B[Education Platform]
-    A --> C[Training Tools]
-    A --> D[Workshop Programs]
+    A[Pétanque Academy] --> B[Uddannelsesplatform]
+    A --> C[Træningsværktøjer]
+    A --> D[Workshopprogrammer]
 
-    B --> E[8 Complete Modules]
-    B --> F[Mental Game Mastery]
-    B --> G[Technical Foundations]
+    B --> E[8 komplette moduler]
+    B --> F[Mental spilmestring]
+    B --> G[Tekniske fundamenter]
 
-    C --> H[Goal Templates]
-    C --> I[Diary Templates]
-    C --> J[Training Plans]
+    C --> H[Målskabeloner]
+    C --> I[Dagbogsskabeloner]
+    C --> J[Træningsplaner]
 
-    D --> K[Elite Player Forums]
-    D --> L[Training Camps]
+    D --> K[Elitespillerfora]
+    D --> L[Træningslejre]
 
     style A fill:#fff4e1
     style B fill:#e3f2fd
@@ -42,15 +42,15 @@ graph TD
 Vi har lanceret **8 omfattende uddannelsesmoduler**, der dækker alt fra flowtilstande til ernæring:
 
 | Modul | Hvad er der indeni | Nøglefunktioner |
-|--------|----------------|--------------|
-| **[The Zone](/en/education/the-zone/)** | Flowtilstandsstyring | 4 detaljerede vejledninger til at komme ind i og opretholde flow |
-| **[Mental Strength](/en/education/mental-strength/)** | Trykhåndtering | Rutiner før optagelser, håndtering af indre kritiker |
-| **[Mindfulness](/en/education/mindfulness/)** | Bevidsthed i nuet | Daglig træning, konkurrenceteknikker |
-| **[Goals](/en/education/goals/)** | Strategisk planlægning | SMART-mål, hierarki, sporingssystemer |
-| **[Tactics](/en/education/tactics/)** | Spilstrategi | Beslutningstagning, sandsynlighed, positionering |
-| **[Team Player](/en/education/team-player/)** | Samarbejdsevner | Kommunikation, tillid, teamdynamik |
-| **[Training](/en/education/training/)** | Øvelsesmetoder | Øvelser, bevidst øvelse, progression |
-| **[Nutrition](/en/education/nutrition/)** | Ydelsesbrændstof | Blodsukkerstyring, konkurrenceernæring |
+|--------|---------------|--------------|
+| **[Zonen](/da/uddannelse/zonen/)** | Flowtilstandsstyring | 4 detaljerede vejledninger til at komme ind i og opretholde flow |
+| **[Mental styrke](/da/uddannelse/mental-styrke/)** | Trykhåndtering | Rutiner før optagelser, håndtering af indre kritiker |
+| **[Mindfulness](/da/uddannelse/mindfulness/)** | Bevidsthed i nuet | Daglig træning, konkurrenceteknikker |
+| **[Goals](/da/education/goals/)** | Strategisk planlægning | SMART-mål, hierarki, sporingssystemer |
+| **[Taktik](/da/uddannelse/taktik/)** | Spilstrategi | Beslutningstagning, sandsynlighed, positionering |
+| **[Holdspiller](/da/uddannelse/holdspiller/)** | Samarbejdsevner | Kommunikation, tillid, teamdynamik |
+| **[Uddannelse](/da/uddannelse/uddannelse/)** | Øvelsesmetoder | Øvelser, bevidst øvelse, progression |
+| **[Ernæring](/da/uddannelse/ernæring/)** | Ydelsesbrændstof | Blodsukkerstyring, konkurrenceernæring |
 
 ### 🛠️ Praktiske værktøjer
 
@@ -77,14 +77,36 @@ Vi har lanceret **8 omfattende uddannelsesmoduler**, der dækker alt fra flowtil
 - Ernæringsstrategier før konkurrence
 - Energioptimering til turneringer
 
+### 📝 Artikler og indsigt
+
+**NYT: 14 dybdegående artikler**, der dækker emner inden for mentale spil:
+
+| Kategori | Artikler |
+|----------|----------|
+| **Forstå den indre kritiker** | [Indre kritiker](/da/blog/indre-kritiker) - Mestre din indre dialog |
+| **Opbygning af rutiner før optagelser** | [Rutiner før optagelse](/da/blog/rutiner-før-optagelse) - Skab konsistens |
+| **Trykhåndtering** | [Preshåndtering](/da/blog/preshåndtering) - Præster under stress |
+| **Præstationspsykologi** | [Flowtilstande](/da/blog/flow-state-science) • [Mindfulness](/da/blog/mindfulness-konkurrence) • [Målsætning](/da/blog/elite-målsætning) • [Mental modstandsdygtighed](/da/blog/mental-modstandsdygtighed) |
+| **Teamdynamik** | [Kommunikation](/da/blog/teamkommunikation) • [Teamkemi](/da/blog/teamkemi) • [Ledelse](/da/blog/teamledelse) |
+| **Uddannelse og udvikling** | [Fejl i mental træning](/da/blog/fejl i mental træning) • [Træningsstruktur](/da/blog/træningsstruktur) • [Konkurrenceforberedelse](/da/blog/konkurrenceforberedelse) |
+
+➡️ **[Gennemse alle artikler](/da/blog/)**
+
+### 📖 Ressourcer
+
+**Casestudier og udtalelser:**
+
+- **[Casestudier](/da/casestudier)** - Virkelige eksempler på elitespillere, der bruger mental spiltræning
+- **[Udtalelser](/da/udtalelser)** - Feedback fra spillere, der har implementeret disse metoder
+
 ## Vores mission
 
 ```mermaid
 graph LR
-    A[Technical Mastery] --> B[Mental Game]
-    B --> C[Flow State]
+    A[Teknisk mestring] --> B[Mentalt spil]
+    B --> C[Flowtilstand]
     C --> D[Peak Performance]
-    D --> E[Consistent Excellence]
+    D --> E[Konsekvent ekspertise]
 
     style A fill:#e3f2fd
     style B fill:#fff4e1
@@ -125,7 +147,7 @@ Elitespillere har allerede mestret teknikken. Det næste gennembrud kommer fra d
 **Dyk ned i avancerede emner:**
 
 1. **[Mental styrke](/da/uddannelse/mental-styrke/)** - Mestre pressede situationer
-2. **[Taktik](/da/uddannelse/taktik/)** - Forfine strategisk beslutningstagning
+2. **[Taktik](/da/uddannelse/taktik/)** - Forfinelse af strategisk beslutningstagning
 3. **[Workshop](/da/workshop)** - Implementer strukturerede mentale spilsessioner
 
 ### For hold
@@ -143,9 +165,9 @@ Elitespillere har allerede mestret teknikken. Det næste gennembrud kommer fra d
 
 1. **Mental spilmestring** - Den virkelige differentiator på høje niveauer
 2. **Praktiske værktøjer** - Ikke bare teori, men også brugervenlige skabeloner
-3. **Strukturerede programmer** - Klare rammer for workshops og lejre
+3. **Strukturerede programmer** - Tydelige rammer for workshops og lejre
 4. **Evidensbaseret** - Bygget på sportspsykologi og flow state-forskning
-5. **Elitefokuseret** - Designet til spillere, der allerede har mestret det grundlæggende
+5. **Elitefokuseret** - Designet til spillere, der allerede har styr på det grundlæggende
 :::
 
 ## Bliv involveret

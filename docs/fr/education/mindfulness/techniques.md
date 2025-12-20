@@ -67,7 +67,7 @@ Développe la conscience des sensations physiques.
 6. Continuez jusqu&#39;au sommet de votre tête
 7. Cela prend 10 à 20 minutes
 
-**Pour la pétanque :** Vous aide à repérer les tensions avant qu&#39;elles n&#39;affectent votre lancer.
+**Pour la pétanque :** Permet de repérer les tensions avant qu&#39;elles n&#39;affectent votre lancer.
 
 ### Méditation en marchant
 
@@ -201,6 +201,6 @@ Chaque déclencheur = une respiration consciente.
 
 > La pleine conscience est une compétence. Comme toute compétence, elle s&#39;améliore avec la pratique.
 
-Commencez petit. Soyez régulier. Les bénéfices s&#39;accumulent avec le temps.
+Commencez modestement. Soyez constant. Les bénéfices s&#39;accumulent avec le temps.
 
 <AdBanner />

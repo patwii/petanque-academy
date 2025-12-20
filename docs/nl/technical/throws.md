@@ -151,7 +151,7 @@ graph LR
     A[Leer de basisbeginselen] --> B[Ontwikkel 2-3 betrouwbare worpen.]
     B --> C[Technische basis]
     C --> D[Ga naar de flowtoestand.]
-    D --> E[Het lichaam maakt natuurlijke keuzes.]
+    D --> E[Het lichaam kiest op natuurlijke wijze.]
 
     style A fill:#e3f2fd
     style C fill:#e8f5e9

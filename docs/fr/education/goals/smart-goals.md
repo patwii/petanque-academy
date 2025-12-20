@@ -26,7 +26,7 @@ graph LR
 ## S - Spécifique
 
 Un objectif spécifique répond à ces questions :
-- **Quel** est exactement ce que je souhaite réaliser ?
+- **Quel est exactement ce que je souhaite réaliser ?
 - **Où** cela se passera-t-il ?
 - **Quels** aspects sont concernés ?
 

@@ -58,7 +58,7 @@ graph LR
 
 ### Após o jogo
 - Debriefing completo (quando apropriado)
-- Reconhecer as contribuições
+- Agradecer as contribuições
 - Identificar aprendizados
 - Manter relacionamento
 
@@ -85,7 +85,7 @@ Seu tom de voz importa tanto quanto suas palavras:
 - Mantenha a calma, mesmo quando estiver frustrado.
 - Use linguagem corporal encorajadora.
 - Reconheça o esforço, não apenas os resultados.
-- Construir, não destruir.
+- Construa, não destrua.
 
 ### Escute ativamente
 
@@ -181,7 +181,7 @@ Grande parte da comunicação em equipe é não verbal:
 
 Não espere que a concorrência se comunique:
 - Praticar discussões estratégicas em treinamentos
-- Dêem feedback uns aos outros regularmente.
+- Dêem feedback uns aos outros regularmente
 - Desenvolva a linguagem da sua equipe.
 - Construa um relacionamento confortável através de conversas honestas.
 
@@ -213,7 +213,7 @@ Se sua equipe tiver um líder designado:
 **Todos os outros:**
 - Compartilhe sua perspectiva.
 - Apoie a decisão tomada.
-- Ajude a manter a energia da equipe
+- Ajude a manter a energia da equipe.
 - Assuma a responsabilidade pelo seu papel.
 
 ## Ponto-chave

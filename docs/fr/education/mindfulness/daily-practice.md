@@ -65,7 +65,7 @@ Ne visez pas 30 minutes le premier jour.
 
 **Progression recommandée :**
 - Semaines 1 et 2 : 3 à 5 minutes
-- Semaines 3 et 4 : 5 à 10 minutes
+- Semaines 3-4 : 5 à 10 minutes
 - Mois 2 : 10 à 15 minutes
 - Mois 3 et suivants : 15 à 20 minutes
 
@@ -159,14 +159,14 @@ Le suivi permet de maintenir la cohérence :
 - Lien avec une habitude existante
 - Placez un rappel visuel à un endroit où vous le verrez.
 
-### «Je ne m&#39;y prends pas bien»
+### «Je ne m&#39;y prends pas bien.»
 - Il n&#39;y a pas de « bonne » façon
 - Si vous êtes attentif, vous le faites.
 - L&#39;esprit vagabonde est normal et attendu.
 
 ### «Je ne vois pas de résultats»
 - Les bénéfices sont subtils au début.
-- Tenez un journal pour noter les changements au fil du temps
+- Tenez un journal pour noter les changements au fil du temps.
 - Faites confiance à la recherche : ça marche.
 
 ### « C&#39;est ennuyeux »

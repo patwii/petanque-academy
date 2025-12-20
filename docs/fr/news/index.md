@@ -12,20 +12,20 @@ Nous avons lancé une plateforme complète dédiée à aider les joueurs de pét
 
 ```mermaid
 graph TD
-    A[Pétanque Academy] --> B[Education Platform]
-    A --> C[Training Tools]
-    A --> D[Workshop Programs]
+    A[Pétanque Academy] --> B[Plateforme éducative]
+    A --> C[Outils de formation]
+    A --> D[Programmes d&#39;ateliers]
 
-    B --> E[8 Complete Modules]
-    B --> F[Mental Game Mastery]
-    B --> G[Technical Foundations]
+    B --> E[8 modules complets]
+    B --> F[Maîtrise mentale du jeu]
+    B --> G[Fondements techniques]
 
-    C --> H[Goal Templates]
-    C --> I[Diary Templates]
-    C --> J[Training Plans]
+    C --> H[Modèles d&#39;objectifs]
+    C --> I[Modèles de journal intime]
+    C --> J[Plans de formation]
 
-    D --> K[Elite Player Forums]
-    D --> L[Training Camps]
+    D --> K[Forums des joueurs d&#39;élite]
+    D --> L[camps d&#39;entraînement]
 
     style A fill:#fff4e1
     style B fill:#e3f2fd
@@ -43,13 +43,13 @@ Nous avons lancé **8 modules de formation complets** couvrant tous les sujets, 
 
 | Module | Contenu | Caractéristiques principales |
 |--------|---------------|--------------|
-| **[The Zone](/en/education/the-zone/)** | maîtrise de l&#39;état de flow | 4 guides détaillés sur l&#39;entrée et le maintien du flux |
-| **[Mental Strength](/en/education/mental-strength/)** | Gestion de la pression | Routines avant le tournage, gestion de la critique intérieure |
-| **[Mindfulness](/en/education/mindfulness/)** | conscience du moment présent | Entraînements quotidiens, techniques de compétition |
-| **[Goals](/en/education/goals/)** | planification stratégique | Objectifs SMART, hiérarchie, systèmes de suivi |
-| **[Tactics](/en/education/tactics/)** | Stratégie de jeu | Prise de décision, probabilité, positionnement |
-| **[Team Player](/en/education/team-player/)** | compétences en collaboration | Communication, confiance, dynamique d&#39;équipe |
-| **[Training](/en/education/training/)** | Méthodes pratiques | Exercices, pratique délibérée, progression |
+| **[La Zone](/en/education/the-zone/)** | maîtrise de l&#39;état de flow | 4 guides détaillés sur l&#39;entrée et le maintien du flux |
+| **[Force mentale](/en/education/mental-strength/)** | Gestion de la pression | Routines avant le tournage, gestion de la critique intérieure |
+| **[Pleine conscience](/en/education/mindfulness/)** | conscience du moment présent | Entraînements quotidiens, techniques de compétition |
+| **[Objectifs](/fr/education/goals/)** | planification stratégique | Objectifs SMART, hiérarchie, systèmes de suivi |
+| **[Tactiques](/en/education/tactics/)** | Stratégie de jeu | Prise de décision, probabilité, positionnement |
+| **[Esprit d&#39;équipe](/en/education/team-player/)** | compétences en collaboration | Communication, confiance, dynamique d&#39;équipe |
+| **[Formation](/en/education/training/)** | Méthodes pratiques | Exercices, pratique délibérée, progression |
 | **[Nutrition](/en/education/nutrition/)** | Carburant de performance | Gestion de la glycémie, nutrition de compétition |
 
 ### 🛠️ Outils pratiques
@@ -77,14 +77,36 @@ La section **[Conseils techniques](/en/technical/)** comprend :
 - Stratégies nutritionnelles pré-compétition
 - Optimisation énergétique pour les tournois
 
+### 📝 Articles et analyses
+
+**NOUVEAU : 14 articles approfondis** couvrant divers sujets liés au mental dans le jeu :
+
+| Catégorie | Articles |
+|----------|----------|
+| **Comprendre la voix critique intérieure** | [Le critique intérieur](/en/blog/inner-critic) - Maîtrisez votre dialogue intérieur |
+| **Élaboration de routines d&#39;avant-prise de vue** | [Routines de pré-prise de vue](/en/blog/pre-shot-routines) - Créer de la cohérence |
+| **Gestion de la pression** | Gestion de la pression - Performance sous pression |
+| **Psychologie de la performance** | [États de flow](/en/blog/flow-state-science) • [Pleine conscience](/en/blog/mindfulness-competition) • [Fixation d&#39;objectifs](/en/blog/elite-goal-setting) • [Résilience mentale](/en/blog/mental-resilience) |
+| **Dynamique d&#39;équipe** | Communication d&#39;équipe • Cohésion d&#39;équipe • Leadership |
+| **Formation et perfectionnement** | [Erreurs d&#39;entraînement mental](/en/blog/mental-training-mistakes) • [Structure de l&#39;entraînement](/en/blog/practice-structure) • [Préparation à la compétition](/en/blog/competition-prep) |
+
+➡️ **[Parcourir tous les articles](/en/blog/)**
+
+### 📖 Ressources
+
+**Études de cas et témoignages :**
+
+- **Études de cas** - Exemples concrets de joueurs de haut niveau utilisant l&#39;entraînement mental
+- **[Témoignages](/en/testimonials)** - Retours de joueurs ayant mis en œuvre ces méthodes
+
 ## Notre mission
 
 ```mermaid
 graph LR
-    A[Technical Mastery] --> B[Mental Game]
-    B --> C[Flow State]
-    C --> D[Peak Performance]
-    D --> E[Consistent Excellence]
+    A[Maîtrise technique] --> B[Jeu mental]
+    B --> C[État de flux]
+    C --> D[Performance optimale]
+    D --> E[Excellence constante]
 
     style A fill:#e3f2fd
     style B fill:#fff4e1
@@ -117,7 +139,7 @@ Les joueurs d&#39;élite maîtrisent déjà la technique. La prochaine étape cr
 **Commencez par les fondamentaux :**
 
 1. **[Ambition](/en/ambition)** - Comprendre la philosophie qui sous-tend le développement des élites
-2. **[La Zone](/en/education/the-zone/)** - Découvrir les états de flow
+2. **[La Zone](/en/education/the-zone/)** - Découvrez les états de flow
 3. **[Modèle d&#39;objectif](/en/goal-template)** - Définissez vos premiers objectifs structurés
 
 ### Pour les joueurs expérimentés
@@ -126,15 +148,15 @@ Les joueurs d&#39;élite maîtrisent déjà la technique. La prochaine étape cr
 
 1. **[Force mentale](/en/education/mental-strength/)** - Maîtriser les situations de pression
 2. **[Tactiques](/en/education/tactics/)** - Améliorer la prise de décision stratégique
-3. **[Atelier](/en/workshop)** - Mettre en œuvre des séances structurées de jeu mental
+3. **Atelier** - Mettre en œuvre des séances structurées de préparation mentale
 
 ### Pour les équipes
 
 **Développer l&#39;excellence collective :**
 
 1. **[Esprit d&#39;équipe](/en/education/team-player/)** - Améliorer la dynamique d&#39;équipe
-2. **[Stage d&#39;entraînement](/en/training-camp)** - Organiser des stages intensifs de week-end
-3. **[Séance de formation](/en/training-session)** - Structurer les pratiques d&#39;équipe
+2. **[Training Camp](/en/training-camp)** - Organiser des stages intensifs de week-end
+3. **[Séance de formation](/en/training-session)** - Pratiques de structuration d&#39;équipe
 
 ## Qu&#39;est-ce qui rend cela différent ?
 
@@ -145,7 +167,7 @@ Les joueurs d&#39;élite maîtrisent déjà la technique. La prochaine étape cr
 2. **Outils pratiques** - Pas seulement de la théorie, mais des modèles prêts à l&#39;emploi
 3. **Programmes structurés** - Cadres clairs pour les ateliers et les camps
 4. **Fondé sur des preuves** - S&#39;appuyant sur la psychologie du sport et la recherche sur l&#39;état de flow
-5. **Conçu pour les joueurs d&#39;élite** - Destiné aux joueurs qui maîtrisent déjà les bases
+5. **Conçu pour les joueurs d&#39;élite** - Destiné à ceux qui maîtrisent déjà les bases
 :::
 
 ## Impliquez-vous

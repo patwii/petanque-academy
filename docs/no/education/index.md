@@ -50,8 +50,6 @@ graph TD
 
 ## Våre læringsstier
 
-<AdInArticle />
-
 ### 🎯 [Sonen (Flow State)](/no/utdanning/sonen/)
 Lær hva «sonen» egentlig er og hvordan du får tilgang til den. Forstå vitenskapen bak flyttilstander og oppdag praktiske teknikker for å prestere best mulig når det gjelder som mest.
 
@@ -75,6 +73,8 @@ Tren smartere, ikke bare hardere. Lær hvordan du strukturerer treningen din for
 
 ### 🥗 [Ernæring](/no/utdanning/ernæring/)
 Gi hjernen din drivstoff for presisjonsytelser. Lær hvordan du opprettholder stabil energi og fokus gjennom hele konkurransen.
+
+<AdInArticle />
 
 ## Reisen fra teknikk til flyt
 
@@ -157,4 +157,3 @@ Begynn med [Sonen](/no/utdanning/sonen/) for å forstå grunnlaget for elitepres
 :::
 
 <AdBanner />
-:::

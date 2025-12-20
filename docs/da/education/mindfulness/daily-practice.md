@@ -52,7 +52,7 @@ Vælg et fast tidspunkt, der passer til dit liv:
 
 | Tid | Fordele | Overvejelser |
 |------|------------|----------------|
-| **Morgen** | Sætter tonen for dagen, færre afbrydelser | Skal vågne tidligere |
+| **Morgen** | Sætter tonen for dagen, færre afbrydelser | Har brug for at vågne tidligere |
 | **Middag** | Bryder dagen op, nulstiller fokus | Kan glemme, planlægge konflikter |
 | **Aften** | Slap af, reflekter over dagen | Kan være træt, mindre vågen |
 | **Før træning** | Direkte forbindelse til petanque | Afhænger af træningsplanen |

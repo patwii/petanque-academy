@@ -92,7 +92,7 @@ Den enkleste teknikken – tilgjengelig når som helst.
 
 **Øvelsen:**
 - Ta 3 langsomme, bevisste åndedrag
-- Fokuser fullstendig på følelsen
+- Fokuser fullt og helt på følelsen
 - Bruk den som en tilbakestillingsknapp gjennom dagen
 
 **Når skal det brukes:**
@@ -128,7 +128,7 @@ En overraskende kraftig praksis.
 
 ### Sensorisk bevissthet
 
-Engasjerer deg fullt ut i omgivelsene dine.
+Å engasjere seg fullt ut i omgivelsene dine.
 
 **5-4-3-2-1-teknikken:**
 - Legg merke til 5 ting du kan se

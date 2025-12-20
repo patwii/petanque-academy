@@ -29,9 +29,75 @@ graph TD
     style G fill:#fff4e1
 ```
 
-## Our Perspective
+## The Most Common Mistake in Technical Training
 
 <AdInArticle />
+
+::: info This Section Is For Experienced Players
+If you're new to pétanque, you'll naturally need to develop your basic technique from the ground up — and that's a different journey.
+
+**This advice is for players who have played for years** and already have an established technique that feels natural, relaxed, and reliable. You've found your way of throwing. Now the question is: how do you grow from here?
+:::
+
+::: warning The Common Trap
+When experienced players want to improve, they often go back to basics — adjusting their grip, arm swing, release point, body position. Hours of drilling. Endless tweaking.
+
+**But they've skipped the most important question:** What exactly do you want the boule to do?
+:::
+
+Before you touch your technique, you need clarity on the **result** you're trying to achieve. Not "I want to hit more" or "I want to be more consistent" — those aren't results, they're wishes.
+
+A real result looks like this:
+- "I want a high-arc lob that stops within 20cm of where it lands"
+- "I want a rolling shot that curves left on this type of terrain"
+- "I want a soft devant shot that barely touches the target boule"
+
+**First, explore the [Palette of Throws](/en/technical/throws)** to understand what's possible. Then decide which specific throw you want to add to your repertoire. Only then should you start working on how your arm, wrist, and body need to move to create that result.
+
+## The Right Way to Work on Technique
+
+We're not saying you should never work on your arm, wrist, release, or body position. **Technical work on execution is absolutely valid** — but it must have the right purpose.
+
+::: info The Right Purpose for Technical Work
+**Correct purpose:** "I want to add a new throw to my palette"
+
+**Wrong purpose:** "I want to hit more shots" or "I want to be more consistent"
+:::
+
+Here's the process:
+
+1. **Explore the [Palette of Throws](/en/technical/throws)** — Identify what throw or technique you want to add to your repertoire
+2. **Visualize the result** — What should the boule do? What trajectory, landing, spin, and behavior do you need?
+3. **Then work on execution** — Now you can focus on arm, wrist, body position, and release to achieve that specific result
+
+This approach gives your technical training **clear direction and measurable progress**. You're not just "practicing" — you're deliberately expanding your capabilities.
+
+::: tip Example: Adding a Plombée
+**Goal:** Add a drop shot (plombée) to your pointing repertoire
+
+**Result visualization:** The boule should arc high, land softly with backspin, and stop almost immediately
+
+**Technical focus:** Higher release point, more wrist action for backspin, softer grip
+
+**Success measure:** Can you execute this throw when you choose to? That's the goal.
+:::
+
+## Why "Hit More" Is the Wrong Goal
+
+If you're adjusting your technique to "hit more often" or "be more consistent," you're likely addressing the wrong problem.
+
+**Here's the truth:** If you can hit well in practice but struggle in competition, the issue isn't your technique — it's mental. Your arm knows what to do. The question is whether your mind lets it.
+
+::: tip The Mental Connection
+Inconsistency under pressure is rarely a technical issue — it's a mental one.
+
+**For consistency and performance under pressure, explore our [Education](/en/education/) section**, particularly:
+- [The Zone](/en/education/the-zone/) — Creating conditions for peak performance
+- [Mental Strength](/en/education/mental-strength/) — Performing when it matters
+- [Technical vs Flow](/en/education/the-zone/technical-vs-flow) — When to focus on technique vs. trust
+:::
+
+## Our Perspective
 
 ::: tip You Don't Need to Master Everything
 **You don't need to master all techniques**, but understanding the full palette of possibilities helps you:

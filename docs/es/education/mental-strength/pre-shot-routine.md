@@ -1,16 +1,16 @@
-# Construyendo su rutina previa al disparo
+# Construyendo tu rutina previa al disparo
 <AdBanner />
 
 
-Tu rutina previa al tiro es una de las herramientas más poderosas de tu juego mental. Es una secuencia constante de acciones que te prepara para cada lanzamiento y desencadena tu mejor estado de rendimiento.
+Tu rutina previa al lanzamiento es una de las herramientas más poderosas de tu juego mental. Es una secuencia constante de acciones que te prepara para cada lanzamiento y te permite alcanzar tu mejor rendimiento.
 
-::: Consejo La gran idea
-**Tu rutina es tu puerta de entrada a la zona.** Una rutina previa al disparo consistente le indica a tu cerebro: "Es hora de ejecutar". Con la repetición, se convierte en un disparador automático para el máximo rendimiento.
+::: tip La gran idea
+**Tu rutina es tu puerta de entrada a la zona.** Una rutina constante antes de disparar le indica a tu cerebro: &quot;Es hora de ejecutar&quot;. Con la repetición, se convierte en un detonante automático para alcanzar el máximo rendimiento.
 :::
 
 ```mermaid
 graph LR
-    A[Iniciar rutina] --> B[El cerebro reconoce el patrón]
+    A[Iniciar rutina] --> B[El cerebro reconoce patrones]
     B --> C[Cambio de estado automático]
     C --> D[Modo de ejecución]
     D --> E[Máximo rendimiento]
@@ -23,35 +23,35 @@ graph LR
 
 ## Por qué funcionan las rutinas
 
-### La coherencia crea confianza
-Cuando haces lo mismo cada vez, eliminas variables. Tu cuerpo sabe lo que viene. Esto crea una sensación de control y familiaridad, incluso en situaciones desconocidas.
+### La consistencia crea confianza
+Al hacer siempre lo mismo, se eliminan las variables. El cuerpo sabe lo que viene. Esto crea una sensación de control y familiaridad, incluso en situaciones desconocidas.
 
-### Estados de activación de rutinas
-Con la repetición, su rutina se vincula con su estado de rendimiento. Al iniciar la rutina se inicia automáticamente el cambio mental al modo de ejecución.
+### Las rutinas desencadenan estados
+Con la repetición, tu rutina se vincula con tu rendimiento. Al comenzar la rutina, se inicia automáticamente el cambio mental al modo de ejecución.
 
 ### Las rutinas bloquean las distracciones
-Una rutina le da a tu mente algo en qué concentrarse. No hay lugar para preocuparse por la partitura, el público o lo que pueda pasar.
+Una rutina te da algo en qué concentrarte. No hay lugar para preocuparse por la partitura, el público ni por lo que pueda pasar.
 
-### Las rutinas controlan la excitación
-Una rutina bien diseñada ayuda a regular tu nivel de energía, calmándote si estás demasiado activo y concentrándote si estás aburrido.
+### Las rutinas gestionan la excitación
+Una rutina bien diseñada ayuda a regular tu nivel de energía: te tranquiliza si estás demasiado excitado y te concentra si estás desanimado.
 
 ## Elementos de una rutina eficaz
 
-### Fase 1: Evaluación (fuera del círculo)
+### Fase 1: Evaluación (Fuera del Círculo)
 
-Antes de intervenir, recopile información:
+Antes de entrar, recopile información:
 - Leer el terreno (pendientes, obstáculos, superficie)
-- Evaluar la situación (puntuación, posiciones de bola)
+- Evaluar la situación (puntuación, posiciones de las bolas)
 - Elige tu objetivo y lugar de aterrizaje
-- Decidir el tipo de lanzamiento (apuntar, disparar, lanzar, rodar)
+- Decide el tipo de lanzamiento (apuntar, disparar, bombear, rodar)
 
 **Aquí es donde ocurre el pensamiento.** Tómate tu tiempo aquí.
 
-### Fase 2: Transición (Entrando al Círculo)
+### Fase 2: Transición (Entrada al Círculo)
 
 El paso del pensamiento al hacer:
-- Acción física (entrar en el círculo de manera constante)
-- Señal mental (una palabra o frase que indica "modo de ejecución")
+- Acción física (entrar en círculo de manera consistente)
+- Señal mental (una palabra o frase que indica &quot;modo de ejecución&quot;)
 - Respiración (una respiración consciente para centrarse)
 
 **Este es el cambio.** El análisis termina aquí.
@@ -59,8 +59,8 @@ El paso del pensamiento al hacer:
 ### Fase 3: Configuración (en el círculo)
 
 Prepara tu cuerpo:
-- Postura consistente (la misma siempre)
-- Comprobación de agarre (sentir la bola)
+- Postura consistente (la misma cada vez)
+- Comprobación del agarre (sentir la bola)
 - Alineación con el objetivo
 - Disparador físico (un pequeño movimiento que es tuyo)
 
@@ -69,66 +69,66 @@ Prepara tu cuerpo:
 Mira el lanzamiento antes de realizarlo:
 - Imagina la trayectoria de la pelota (2-3 segundos máximo)
 - Siente el lanzamiento exitoso
-- Conéctate visualmente con tu target
+- Conéctate visualmente con tu objetivo
 
 ### Fase 5: Ejecución
 
-Realiza el lanzamiento:
-- Enfoque externo (solo objetivo)
+Realizar el lanzamiento:
+- Enfoque externo (sólo objetivo)
 - Confía en tu cuerpo
-- Liberar sin dudarlo
-- Siga naturalmente
+- Liberación sin dudarlo
+- Seguir adelante con naturalidad
 
 <AdInArticle />
 
-## Construyendo su rutina personal
+## Construyendo tu rutina personal
 
-### Paso 1: observe lo que ya hace
+### Paso 1: Observa lo que ya haces
 
-Probablemente ya tengas alguna rutina. Aviso:
-- ¿Qué haces antes de buenos lanzamientos?
+Probablemente ya tengas alguna rutina. Nota:
+- ¿Qué haces antes de un buen lanzamiento?
 - ¿Qué te parece natural?
 - ¿Qué te ayuda a concentrarte?
 
-### Paso 2: diseña tu rutina
+### Paso 2: Diseña tu rutina
 
 Crea una secuencia que incluya:
 - [ ] Fase de evaluación
 - [ ] Momento de transición claro
 - [ ] Configuración física consistente
-- [ ] Breve visualización
-- [ ] Activador de ejecución
+- [ ] Visualización breve
+- [ ] Desencadenante de ejecución
 
-### Paso 3: escríbalo
+### Paso 3: Escríbelo
 
 Sea específico. Ejemplo:
 
 1. **Evaluar:** Leer el terreno, elegir el lugar de aterrizaje
-2. **Transición:** Entre al círculo con el pie izquierdo primero, diga "confiar"
-3. **Configuración:** Pies al ancho de los hombros, comprobar el agarre, alinear los hombros.
-4. **Visualizar:** Mira el camino, siente la liberación.
-5. **Ejecutar:** Mira al objetivo, lanza
+2. **Transición:** Da un paso hacia el círculo con el pie izquierdo primero y di &quot;confía&quot;.
+3. **Preparación:** Pies separados al ancho de los hombros, verificar el agarre, alinear los hombros
+4. **Visualizar:** Ver el camino, sentir la liberación
+5. **Ejecutar:** Ojos en el objetivo, lanzar
 
 ### Paso 4: Practica religiosamente
 
 Utilice su rutina en CADA lanzamiento en la práctica:
-- tiros fáciles
+- Lanzamientos fáciles
 - Lanzamientos difíciles
-- cuando estés cansado
-- cuando estés fresco
+- Cuando estás cansado
+- Cuando estas fresco
 
 La rutina debe volverse automática.
 
-### Paso 5: refinar con el tiempo
+### Paso 5: Refinar con el tiempo
 
-Tu rutina evolucionará. Observe lo que funciona y ajústelo. Pero no lo cambies durante la competición, sólo entre eventos.
+Tu rutina evolucionará. Observa qué funciona y ajústala. Pero no la cambies durante la competición, solo entre eventos.
 
-## Cronometraje de rutina
+## Tiempo de rutina
 
-Tu rutina debe tomar una cantidad constante de tiempo:
-- Demasiado rápido: estás apurado y no estás preparado adecuadamente.
-- Demasiado lento: estás pensando demasiado y perdiendo el flujo
-- Perfecto: suficiente tiempo para prepararse, no tanto como para pensar demasiado
+Tu rutina debe tomar una cantidad de tiempo constante:
+- Demasiado rápido: estás corriendo, no estás preparado adecuadamente
+- Demasiado lento: estás pensando demasiado y perdiendo el ritmo.
+- Justo: tiempo suficiente para prepararse, pero no tanto como para pensar demasiado
 
 **Tiempo típico:**
 - Evaluación: 5-10 segundos
@@ -138,54 +138,54 @@ Tu rutina debe tomar una cantidad constante de tiempo:
 
 ## Errores rutinarios comunes
 
-|  | Error | Problema | Solución |  |
+| Error | Problema | Solución |
 |---------|---------|----------|
-|  | Saltarse en la práctica | La rutina no es automática | Úselo en cada lanzamiento |  |
-|  | demasiado complicado | Difícil de recordar bajo presión | Simplifica a lo esencial |  |
-|  | Pensando durante la ejecución | Interrumpe el rendimiento automático | Punto de transición claro |  |
-|  | Momento inconsistente | Crea incertidumbre | Practica con ritmo constante. |  |
-|  | Cambiar a mitad de competición | Introduce dudas | Quédate con lo que sabes |  |
+| Saltar en la práctica | La rutina no es automática | Úselo en cada lanzamiento |
+| Demasiado complicado | Difícil de recordar bajo presión | Simplificar a lo esencial |
+| Pensar durante la ejecución | Interrumpe el rendimiento automático | Punto de transición claro |
+| Tiempo inconsistente | Crea incertidumbre | Practica con un ritmo constante |
+| Cambios a mitad de la competición | Introduce dudas | Quédate con lo que sabes |
 
 ## Solución de problemas de rutina
 
 **Si tienes prisa:**
-- Añade un respiro en la transición.
-- Ralentiza tus movimientos de preparación
-- Pausa antes de la visualización.
+- Añade una respiración en la transición
+- Disminuya la velocidad de sus movimientos de configuración
+- Pausa antes de la visualización
 
 **Si estás pensando demasiado:**
 - Acortar la rutina
 - Utilice una señal de transición más fuerte
-- Centrarse más en el exterior
+- Centrarse más en lo externo
 
 **Si eres inconsistente:**
-- Vídeo usted mismo para comprobarlo
-- Practica la rutina sin tirar
-- Obtener comentarios de un socio
+- Grábate en vídeo para comprobarlo
+- Practica la rutina sin lanzar
+- Obtenga comentarios de un socio
 
 ## Rutinas de muestra
 
-### Rutina sencilla
-1. Elige el objetivo
+### Rutina simple
+1. Elija el objetivo
 2. Entra, respira
-3. Agarre, alinee
+3. Agarrar, alinear
 4. Míralo, tíralo
 
 ### Rutina detallada
-1. Lea el terreno, elija el lugar de aterrizaje
-2. Pise primero el pie izquierdo
-3. Di "suave" internamente
-4. Un respiro, los hombros caen
-5. Pies colocados, control de agarre.
-6. Alinee los hombros con el objetivo
+1. Leer el terreno, elegir el lugar de aterrizaje
+2. Primero, el pie izquierdo
+3. Di &quot;suave&quot; internamente
+4. Una respiración, los hombros caen
+5. Pies ajustados, comprobación de agarre
+6. Alinear los hombros al objetivo
 7. Ver el camino (2 segundos)
-8. Los ojos se fijan en el objetivo.
-9. tirar
+8. Los ojos se fijan en el objetivo
+9. Tirar
 
 ## Conclusión clave
 
 > Tu rutina es tu ancla. En el caos, es tu constante.
 
-Constrúyalo con cuidado. Practícalo siempre. Confía completamente en ello.
+Constrúyelo con cuidado. Practícalo siempre. Confía plenamente en él.
 
 <AdBanner />

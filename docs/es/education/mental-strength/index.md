@@ -161,7 +161,7 @@ graph LR
 ## Resumen: Reglas de fortaleza mental
 
 ::: tip Regla n.° 1: La regla de la rutina
-**Las rutinas consistentes previas al disparo desencadenan el máximo rendimiento.**
+**Las rutinas consistentes previas al disparo generan el máximo rendimiento.**
 La misma rutina cada vez = disparador confiable para el estado de flujo
 :::
 

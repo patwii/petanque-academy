@@ -47,7 +47,7 @@ graph LR
 | Lançar | Termo francês | Trajetória | Quando usar |
 |-------|-------------|------------|-------------|
 | **Em movimento** | Roleta | Baixo, rola quase o tempo todo | Terreno plano, curta distância |
-| **Meio-lobo** | Demi-portée | Médio, pousa na metade do caminho | Mais comum, versátil |
+| **Meio-lobo** | Demi-portée | Médio, pousa na metade do caminho | Mais comum e versátil. |
 | **Lob** | Portée | Alto, aterrissa perto do alvo | Obstáculos, terreno acidentado |
 | **Drop shot** | Plombée | Muito alto, cai verticalmente | Espaços apertados, posicionamento preciso |
 

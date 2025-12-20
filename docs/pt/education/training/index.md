@@ -68,7 +68,7 @@ Repita o mesmo arremesso várias vezes:
 Varie tudo:
 - Distâncias diferentes a cada lançamento
 - Alternar apontar e disparar
-- Mude os objetivos constantemente.
+- Alterar metas constantemente
 
 **Indicado para:** Preparação para competições, desenvolvimento da adaptabilidade
 **Sensações:** Mais difícil, mais erros, menos &quot;produtivo&quot;

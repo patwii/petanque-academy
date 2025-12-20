@@ -137,7 +137,7 @@ Você não precisa de horas de meditação. Comece com estas práticas simples:
 ### Após erros
 
 ::: warning O Método SOAS (Sua Ferramenta de Reinicialização)
-**Pare** - Faça uma pausa antes de reagir.
+**Pare** - Faça uma pausa antes de reagir
 **Observe** - O que aconteceu? O que estou sentindo?
 **A**ccept - Aconteceu. Está feito.
 **S**lip (Solte) - Liberte-se, retorne ao agora

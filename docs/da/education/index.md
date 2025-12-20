@@ -50,8 +50,6 @@ graph TD
 
 ## Vores læringsstier
 
-<AdInArticle />
-
 ### 🎯 [Zonen (Flowtilstand)](/da/uddannelse/zonen/)
 Lær, hvad &quot;zonen&quot; egentlig er, og hvordan du får adgang til den. Forstå videnskaben bag flowtilstande, og opdag praktiske teknikker til at præstere bedst muligt, når det gælder mest.
 
@@ -159,4 +157,3 @@ Start med [Zonen](/da/uddannelse/zonen/) for at forstå grundlaget for elitepræ
 :::
 
 <AdBanner />
-:::

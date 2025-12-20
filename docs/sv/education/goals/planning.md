@@ -81,7 +81,7 @@ Skapa ett realistiskt veckoschema:
 | Dag | Morgon | Eftermiddag | Kväll | Fokus |
 |-----|---------|-----------|---------|-------|
 | mån | - | Teknisk: Pekning | Lätt rörlighet | Precision |
-| Tis | - | Teknisk: Skytte | - | Effekt/noggrannhet |
+| Tis | - | Teknisk: Skytte | - | Kraft/noggrannhet |
 | ons | - | Mental träning | - | Mindfulness |
 | tors | - | Blandat: Spelscenarier | Lätt rörlighet | Ansökan |
 | fre | - | Teknisk: Svaghet | - | Förbättring |

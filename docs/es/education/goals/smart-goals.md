@@ -64,7 +64,7 @@ Si no puedes medirlo, no puedes gestionarlo. Los objetivos medibles te permiten 
 | Variación de la distancia | Control de profundidad | 80% dentro de 50 cm |
 
 ### Seguimiento de sus medidas
-Mantenga un registro sencillo:
+Mantenga un registro simple:
 - Fecha
 - Ejercicio/simulacro
 - Puntuación/resultado

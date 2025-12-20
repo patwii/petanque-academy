@@ -8,7 +8,7 @@ Heb je wel eens een spel gehad waarbij alles gewoon perfect verliep? Waarbij je 
 **In een flowtoestand kom je tot rust, terwijl je analytische brein het overneemt.** Je kunt niet door na te denken in die toestand komen - je moet loslaten.
 :::
 
-## Wat is de Zone?
+## Wat is de zone?
 
 De zone, ook wel &#39;flow-toestand&#39; genoemd, is een mentale toestand waarin je volledig opgaat in wat je doet. De tijd lijkt te vertragen. Je bewegingen voelen moeiteloos aan. Je denkt niet na over techniek - je bent gewoon aan het *doen*.
 
@@ -61,7 +61,7 @@ Je hersenen werken in twee verschillende modi:
 | **Wanneer te gebruiken** | Training, het leren van nieuwe vaardigheden | Concurrentie, uitvoering |
 | **Hersenactiviteit** | Sterk analytisch denkvermogen | Stil, automatisch |
 | **Focus** | Intern (lichaamsmechanica) | Extern (doelwit) |
-| **Gevoel** | Met veel moeite en bewustzijn | Moeiteloos, natuurlijk |
+| **Gevoel** | Met inspanning, bewust | Moeiteloos, natuurlijk |
 
 <AdInArticle />
 

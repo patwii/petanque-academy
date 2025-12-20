@@ -121,7 +121,7 @@ Signes que vous réfléchissez trop à votre technique :
 - Idéal pour l&#39;apprentissage initial
 - Mauvais pour la rétention à long terme
 
-**Exercice aléatoire :** Variez la distance, la cible et le type de lancer
+**Exercices aléatoires :** Variez la distance, la cible et le type de lancer
 - Cela semble plus difficile (plus d&#39;erreurs)
 - Meilleur pour les transferts en compétition
 - Développe l&#39;adaptabilité et la prise de décision
@@ -146,7 +146,7 @@ Signes que vous réfléchissez trop à votre technique :
 
 Le véritable savoir-faire réside dans la capacité à savoir quand utiliser chaque mode :
 
-**Pendant un match de compétition :**
+**Pendant un match de compétition :**
 - Réflexion technique : JAMAIS pendant l&#39;exécution
 - Mode flux : TOUJOURS lors du lancer
 

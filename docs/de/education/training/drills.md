@@ -82,7 +82,7 @@ graph TD
 
 **Variation:**
 - Fügen Sie nach der Freigabe die Aufrufe „short“ und „long“ hinzu.
-- Muss während des Fluges korrigiert werden (entwickelt ein Gefühl dafür)
+- Muss während des Fluges korrigiert werden (entwickelt ein Gefühl dafür).
 
 ## Schießübungen
 
@@ -90,7 +90,7 @@ graph TD
 **Zweck:** Erhöhung der Genauigkeit unter progressivem Druck
 
 **Aufstellen:**
-- Platziere eine Boule-Zielscheibe in 6 Metern Entfernung.
+- Platziere eine Zielkugel in 6 Metern Entfernung.
 - Markieren Sie Abstände bei 7 m, 8 m, 9 m, 10 m
 
 **Bohren:**
@@ -116,7 +116,7 @@ graph TD
 **Bohren:**
 - Um das Ziel zu treffen, muss die Barriere überwunden werden.
 - Jeder Wurf, der die Barriere trifft, ist &quot;tot&quot;.
-- Entwickelt einen hohen Auslösepunkt
+- Entwickelt einen hohen Ablösepunkt
 
 **Warum das wichtig ist:**
 - Bei Wettkämpfen ist es oft erforderlich, über Hindernisse hinweg zu schießen.
@@ -155,7 +155,7 @@ graph TD
 
 **Aufstellen:**
 - Erstellen Sie ein „Must-Machen“-Szenario
-- Strafen für das Versäumnis festlegen
+- Konsequenzen für das Versäumnis festlegen
 
 **Beispiele:**
 - „Schaffe 3 in Folge oder fange von vorne an.“
@@ -212,10 +212,10 @@ graph TD
 **Varianten:**
 - Spiel bis 13 (vollständiges Spiel)
 - Spielt bis 7 (kürzer, mehr Spiele)
-- „Druckpunkte“ – bestimmte Ziele sind doppelt wertvoll
+- „Druckpunkte“ – bestimmte Ziele sind doppelt so viel wert
 - „Plötzlicher Tod“ – wer als Erster eine Runde verliert, verliert das Spiel.
 
-## Ihre Übungen verfolgen
+## Protokollierung Ihrer Übungen
 
 Führen Sie für jede Übung ein Protokoll:
 
@@ -234,7 +234,7 @@ Führen Sie für jede Übung ein Protokoll:
 - Einfache Würfe zum Aufwärmen
 - Kein Druck, einfach fühlen
 
-### Technischer Fokus (20-30 Min.)
+### Technischer Schwerpunkt (20-30 Min.)
 - Ein oder zwei Übungen zur Förderung spezifischer Fähigkeiten
 - Blockiertes Üben neuer Fähigkeiten
 - Zufälliges Üben für etablierte Fertigkeiten
@@ -251,7 +251,7 @@ Führen Sie für jede Übung ein Protokoll:
 
 ## Wichtigste Erkenntnis
 
-> Bohrmaschinen sind Werkzeuge. Wählen Sie das richtige Werkzeug für Ihr Projekt.
+> Bohrmaschinen sind Werkzeuge. Wählen Sie das richtige Werkzeug für Ihr Bauvorhaben.
 
 Werfen Sie nicht einfach nur Boule-Kugeln. Trainieren Sie zielgerichtet.
 

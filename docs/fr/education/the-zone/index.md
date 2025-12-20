@@ -77,7 +77,7 @@ La compétence essentielle consiste à apprendre à **basculer** entre ces modes
 
 La transition s&#39;opère lorsqu&#39;on entre dans le cercle. C&#39;est la compétence la plus importante en pétanque de haut niveau.
 
-Voyez les choses ainsi : votre esprit conscient est le **stratège** qui élabore le plan, et votre esprit subconscient est le **technicien** qui l’exécute. Le stratège doit se mettre en retrait et laisser le technicien travailler.
+Voyez les choses ainsi : votre esprit conscient est le **stratège** qui élabore le plan, et votre subconscient est le **technicien** qui l’exécute. Le stratège doit se mettre en retrait et laisser le technicien travailler.
 
 ```mermaid
 sequenceDiagram

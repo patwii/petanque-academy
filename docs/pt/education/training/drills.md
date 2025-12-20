@@ -247,7 +247,7 @@ Mantenha um registro para cada exercício:
 ### Resfriamento (10 min)
 - Lançamentos fáceis
 - Reflita sobre a sessão.
-- Anote o que trabalhar a seguir.
+- Anote em que trabalhar a seguir.
 
 ## Ponto-chave
 

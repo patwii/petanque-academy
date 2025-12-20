@@ -47,7 +47,7 @@ Et spesifikt mål svarer på disse spørsmålene:
 
 Hvis du ikke kan måle det, kan du ikke styre det. Målbare mål lar deg spore fremgang og vite når du har lykkes.
 
-### Måter å måle pétanque-mål på
+### Måter å måle petanque-mål på
 
 **Kvantitative målinger:**
 - Poeng scoret i øvelser (f.eks. 24/30)
@@ -55,7 +55,7 @@ Hvis du ikke kan måle det, kan du ikke styre det. Målbare mål lar deg spore f
 - Avstand fra målet (f.eks. gjennomsnittlig 30 cm fra jekken)
 - Konsistens (f.eks. 3 vellykkede økter på rad)
 
-**Bruk av treningsøvelser som målinger:**
+**Bruk av treningsøvelser som målestokker:**
 
 | Bore | Hva den måler | Måleksempel |
 |-------|-----------------|----------------|
@@ -143,7 +143,7 @@ Frister skaper hastverk og muliggjør planlegging.
 
 **Kvartalsvis (Q1):**
 - Etabler en fast treningsrutine
-- Forbedre skytingen til 70 % nøyaktighet
+- Forbedre skytingen til 70 % presisjon
 
 **Månedlig (januar):**
 - Uke 1: Vurder nåværende nivå, sett grunnlinjer

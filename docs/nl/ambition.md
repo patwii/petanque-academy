@@ -1,5 +1,7 @@
 # Ambitie
 
+<AdBanner />
+
 Onze missie is om topspelers te helpen de volgende stap in hun ontwikkeling te zetten.
 
 ::: tip Onze visie
@@ -27,7 +29,7 @@ graph LR
 ::: info De doorbraak
 **Het volgende niveau draait niet om het perfectioneren van de techniek, maar om het bereiken van een flow-toestand.**
 
-We helpen spelers de overstap te maken van een technische trainingsaanpak naar een **flow (in de zone) aanpak**, waarbij perfecte boules een natuurlijke uiting worden van hun beheersing in plaats van een bewuste inspanning.
+We helpen spelers de overstap te maken van een technische trainingsaanpak naar een **flow (in de zone) aanpak**, waarbij perfecte boules een natuurlijke uiting van hun beheersing worden in plaats van een bewuste inspanning.
 :::
 
 ## De reis
@@ -82,4 +84,6 @@ Deel ervaringen met andere topspelers in een veilige en ondersteunende omgeving.
 ::: info Klaar voor de volgende stap?
 Verken onze sectie [Onderwijs](/en/education/) of kom meer te weten over onze [Workshops](/en/workshop).
 :::
+
+<AdBanner />
 

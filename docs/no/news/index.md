@@ -12,20 +12,20 @@ Vi har lansert en omfattende plattform dedikert til å hjelpe elite-petanquespil
 
 ```mermaid
 graph TD
-    A[Pétanque Academy] --> B[Education Platform]
-    A --> C[Training Tools]
-    A --> D[Workshop Programs]
+    A[Pétanque Academy] --> B[Utdanningsplattform]
+    A --> C[Treningsverktøy]
+    A --> D[Workshopprogrammer]
 
-    B --> E[8 Complete Modules]
-    B --> F[Mental Game Mastery]
-    B --> G[Technical Foundations]
+    B --> E[8 komplette moduler]
+    B --> F[Mental spillmestring]
+    B --> G[Tekniske grunnlag]
 
-    C --> H[Goal Templates]
-    C --> I[Diary Templates]
-    C --> J[Training Plans]
+    C --> H[Målmaler]
+    C --> I[Dagbokmaler]
+    C --> J[Treningsplaner]
 
-    D --> K[Elite Player Forums]
-    D --> L[Training Camps]
+    D --> K[Elitespillerforum]
+    D --> L[Treningsleirer]
 
     style A fill:#fff4e1
     style B fill:#e3f2fd
@@ -42,15 +42,15 @@ graph TD
 Vi har lansert **8 omfattende opplæringsmoduler** som dekker alt fra flyttilstander til ernæring:
 
 | Modul | Hva er inni | Viktige funksjoner |
-|--------|----------------|--------------|
-| **[The Zone](/en/education/the-zone/)** | Flyttilstandsmestring | 4 detaljerte veiledninger om hvordan man starter og opprettholder flyt |
-| **[Mental Strength](/en/education/mental-strength/)** | Trykkhåndtering | Rutiner før opptak, håndtering av indre kritiker |
-| **[Mindfulness](/en/education/mindfulness/)** | Bevissthet i nåtiden | Daglig trening, konkurranseteknikker |
+|--------|---------------|--------------|
+| **[Sonen](/no/utdanning/sonen/)** | Flyttilstandsmestring | 4 detaljerte veiledninger om hvordan man starter og opprettholder flyt |
+| **[Mental styrke](/no/utdanning/mental-styrke/)** | Trykkhåndtering | Rutiner før opptak, håndtering av indre kritiker |
+| **[Mindfulness](/no/utdanning/mindfulness/)** | Bevissthet i nåtiden | Daglig trening, konkurranseteknikker |
 | **[Goals](/en/education/goals/)** | Strategisk planlegging | SMART-mål, hierarki, sporingssystemer |
-| **[Tactics](/en/education/tactics/)** | Spillstrategi | Beslutningstaking, sannsynlighet, posisjonering |
-| **[Team Player](/en/education/team-player/)** | Samarbeidsevner | Kommunikasjon, tillit, teamdynamikk |
-| **[Training](/en/education/training/)** | Øvingsmetoder | Øvelser, bevisst øving, progresjon |
-| **[Nutrition](/en/education/nutrition/)** | Ytelsesdrivstoff | Blodsukkerhåndtering, konkurranseernæring |
+| **[Taktikk](/no/utdanning/taktikk/)** | Spillstrategi | Beslutningstaking, sannsynlighet, posisjonering |
+| **[Lagspiller](/no/utdanning/lagspiller/)** | Samarbeidsevner | Kommunikasjon, tillit, teamdynamikk |
+| **[Opplæring](/no/utdanning/opplæring/)** | Øvingsmetoder | Øvelser, bevisst øving, progresjon |
+| **[Ernæring](/no/utdanning/ernæring/)** | Ytelsesdrivstoff | Blodsukkerhåndtering, konkurranseernæring |
 
 ### 🛠️ Praktiske verktøy
 
@@ -77,14 +77,36 @@ Vi har lansert **8 omfattende opplæringsmoduler** som dekker alt fra flyttilsta
 - Ernæringsstrategier før konkurranse
 - Energioptimalisering for turneringer
 
+### 📝 Artikler og innsikt
+
+**NYTT: 14 dyptgående artikler** som dekker emner innen mentale spill:
+
+| Kategori | Artikler |
+|----------|----------|
+| **Å forstå den indre kritikeren** | [Indre kritiker](/no/blogg/indre-kritiker) - Mestre din indre dialog |
+| **Bygge rutiner før innspilling** | [Rutiner før fotografering](/no/blogg/rutiner-før-fotografering) - Skap konsistens |
+| **Trykkhåndtering** | [Presshåndtering](/no/blogg/presshåndtering) - Prestere under stress |
+| **Ytelsespsykologi** | [Flyttilstander](/no/blogg/flyttilstandsvitenskap) • [Mindfulness](/no/blogg/mindfulness-konkurranse) • [Målsetting](/no/blogg/elitemålsetting) • [Mental motstandskraft](/no/blogg/mental-motstandskraft) |
+| **Teamdynamikk** | [Kommunikasjon](/no/blogg/teamkommunikasjon) • [Teamkjemi](/no/blogg/teamkjemi) • [Ledelse](/no/blogg/teamledelse) |
+| **Opplæring og utvikling** | [Feil i mental trening](/no/blogg/feil i mental trening) • [Øvingsstruktur](/no/blogg/øvingsstruktur) • [Konkurranseforberedelse](/no/blogg/konkurranseforberedelse) |
+
+➡️ **[Bla gjennom alle artikler](/no/blogg/)**
+
+### 📖 Ressurser
+
+**Casestudier og attester:**
+
+- **[Casestudier](/no/casestudier)** - Ekte eksempler på elitespillere som bruker mental spilltrening
+- **[Anbefalinger](/no/anbefalinger)** - Tilbakemeldinger fra spillere som har implementert disse metodene
+
 ## Vårt oppdrag
 
 ```mermaid
 graph LR
-    A[Technical Mastery] --> B[Mental Game]
-    B --> C[Flow State]
-    C --> D[Peak Performance]
-    D --> E[Consistent Excellence]
+    A[Teknisk mestring] --> B[Mentalt spill]
+    B --> C[Flyttilstand]
+    C --> D[Topp ytelse]
+    D --> E[Konsekvent fortreffelighet]
 
     style A fill:#e3f2fd
     style B fill:#fff4e1
@@ -107,7 +129,7 @@ Elitespillere har allerede mestret teknikken. Det neste gjennombruddet kommer fr
 - ✅ **10 språk** – tilgjengelig over hele verden
 - ✅ **100+ sider** med innhold på elitenivå
 - ✅ **Havfruediagrammer** for visuell læring
-- ✅ **Kopiér-lim-maler** for umiddelbar bruk
+- ✅ **Kopier-lim-maler** for umiddelbar bruk
 :::
 
 ## Slik kommer du i gang
@@ -134,7 +156,7 @@ Elitespillere har allerede mestret teknikken. Det neste gjennombruddet kommer fr
 
 1. **[Lagspiller](/no/utdanning/lagspiller/)** - Forbedre lagdynamikken
 2. **[Treningsleir](/no/treningsleir)** - Organiser helgeintensivkurs
-3. **[Treningsøkt](/no/treningsøkt)** - Strukturer teamøvelser
+3. **[Treningsøkt](/no/treningsøkt)** - Strukturere teamøvelser
 
 ## Hva gjør dette annerledes
 
@@ -142,10 +164,10 @@ Elitespillere har allerede mestret teknikken. Det neste gjennombruddet kommer fr
 **Mesteparten av treningen fokuserer på teknikk. Vi fokuserer på hva elitespillere faktisk trenger:**
 
 1. **Mental spillmestring** – Den virkelige differensiatoren på høye nivåer
-2. **Praktiske verktøy** – Ikke bare teori, men bruksklare maler
+2. **Praktiske verktøy** – Ikke bare teori, men også ferdige maler
 3. **Strukturerte programmer** - Tydelige rammer for workshops og leirer
 4. **Evidensbasert** – Bygget på idrettspsykologi og forskning på flyttilstander
-5. **Elitefokusert** – Utviklet for spillere som allerede har mestret det grunnleggende
+5. **Elitefokusert** – Utviklet for spillere som allerede mestrer det grunnleggende
 :::
 
 ## Bli involvert

@@ -44,7 +44,7 @@ graph TD
 **Sequência recomendada:**
 1. **Fundamentos:** Comece com o Método Zone e Mindfulness.
 2. **Estrutura:** Adicionar definição de metas e métodos de treinamento
-3. **Competição:** Desenvolva Força Mental e Táticas
+3. **Competição:** Desenvolva força mental e táticas
 4. **Jogo em Equipe:** Domine a Dinâmica de Equipe
 5. **Otimização:** Ajuste fino com a Nutrição
 
@@ -73,6 +73,8 @@ Treine de forma inteligente, não apenas com mais intensidade. Aprenda a estrutu
 
 ### 🥗 [Nutrição](/en/education/nutrition/)
 Abasteça seu cérebro para um desempenho preciso. Aprenda a manter energia e foco estáveis durante toda a competição.
+
+<AdInArticle />
 
 ## A Jornada da Técnica ao Fluidez
 
@@ -152,9 +154,6 @@ Este é o seu guia de referência rápida. Adicione esta seção aos seus favori
 
 ::: tip Ponto de partida recomendado
 Comece com [The Zone](/en/education/the-zone/) para entender a base do desempenho de elite, depois explore [Mindfulness](/en/education/mindfulness/) para técnicas práticas que você pode usar imediatamente.
-:::
-
-<AdBanner />
 :::
 
 <AdBanner />

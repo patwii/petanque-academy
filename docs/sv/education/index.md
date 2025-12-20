@@ -74,6 +74,8 @@ Träna smartare, inte bara hårdare. Lär dig hur du strukturerar din träning f
 ### 🥗 [Näring](/sv/utbildning/näring/)
 Ge din hjärna bränsle för precisionsprestationer. Lär dig hur du bibehåller stabil energi och fokus under hela tävlingen.
 
+<AdInArticle />
+
 ## Resan från teknik till flöde
 
 Allt eftersom du utvecklas som spelare inverteras din träningskvot – mental träning blir viktigare, inte mindre:
@@ -112,7 +114,7 @@ Detta är din snabbreferensguide. Bokmärk det här avsnittet och återvänd til
 
 ### Mindfulnessregler
 1. **Medvetenhetsregeln:** Observera utan att döma
-2. **SOAS-regeln:** Stanna, observera, acceptera, glida (släppa taget)
+2. **SOAS-regeln:** Stanna, Observera, Acceptera, Halka (släppa taget)
 3. **Nuvarande regel:** Du kan bara kontrollera detta ögonblick, detta kast
 
 ### Regler för målsättning
@@ -152,9 +154,6 @@ Detta är din snabbreferensguide. Bokmärk det här avsnittet och återvänd til
 
 ::: tip Rekommenderad startpunkt
 Börja med [Zonen](/sv/utbildning/zonen/) för att förstå grunden för elitprestationer, utforska sedan [Mindfulness](/sv/utbildning/mindfulness/) för praktiska tekniker som du kan använda omedelbart.
-:::
-
-<AdBanner />
 :::
 
 <AdBanner />

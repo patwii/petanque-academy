@@ -120,7 +120,7 @@ O que é medido é gerenciado.
 
 **Questões de revisão semanais:**
 - Concluí as sessões que havia planejado?
-- Que notas eu obtive?
+- Que pontuação eu obtive?
 - O que foi agradável? O que foi difícil?
 - Alguém já passou por uma experiência de estado de fluxo?
 - O que devo ajustar?

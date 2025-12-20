@@ -1,14 +1,38 @@
-# Training Camp: Weekend Guide
+# Training Camp: Weekend Mental Game Intensive
 
 <AdBanner />
 
-## How to Conduct a Weekend Training Camp for 10-20 Players
+## Overview
 
-This comprehensive guide helps you organize and run a weekend training camp that combines theory, practice, and competition. Mix the mental game content from this site with on-piste application for maximum impact.
+A comprehensive weekend training camp (Friday-Sunday) for 10-20 players that combines mental game theory, on-piste practice, and competitive application. This intensive format creates transformational learning through integration of all three elements.
+
+::: tip Two Sections in This Guide
+- **[For Participants](#for-participants)** - What players will experience during the weekend
+- **[For Organizers](#for-organizers)** - How to plan and run the training camp
+:::
 
 ::: tip The Training Camp Philosophy
 **Theory without practice is just information. Practice without theory is just repetition. Competition without reflection is just playing.** This weekend integrates all three for transformational learning.
 :::
+
+## Quick Access
+
+| Section | Purpose | Access |
+|---------|---------|--------|
+| **For Participants** | Weekend schedule and what to bring | [View Section](#for-participants) |
+| **For Organizers** | Complete planning and facilitation guide | [View Section](#for-organizers) |
+| **Daily Schedules** | Detailed timing and activities | [Friday](#friday-evening-mental-game-foundation-3-4-hours) • [Saturday](#saturday-practice-application-full-day) • [Sunday](#sunday-competition-integration-full-day) |
+| **Related Guides** | Other training formats | [Mental Journey](/en/mental-journey/) • [Workshop](/en/workshop) |
+
+---
+
+## For Participants
+
+### What to Expect
+
+This is an intensive weekend that will challenge you mentally, physically, and emotionally. You'll learn mental game concepts, practice them on the piste, and apply them in competition - all while building deep connections with fellow players.
+
+**Weekend Structure:**
 
 ```mermaid
 graph LR
@@ -24,7 +48,146 @@ graph LR
     style E fill:#f3e5f5
 ```
 
-## Pre-Camp Planning
+### Daily Breakdown
+
+#### Friday Evening: Mental Game Foundation (3-4 hours)
+**What:** Theory session on mental game concepts
+**Where:** Indoor meeting room
+**Format:** Circle discussion and exercises
+
+**You'll Learn:**
+- The Zone and flow states
+- Inner Critic vs Inner Coach
+- Pressure response patterns
+- Pre-shot routine fundamentals
+
+**Activities:**
+- Check-in and ground rules
+- The Iceberg of Pétanque
+- User Manual creation
+- Fear in a Hat exercise
+
+#### Saturday: Practice & Application (Full Day)
+**Morning (3 hours):** Structured practice with mental focus
+**Afternoon (3 hours):** Pressure simulation drills
+**Evening (2 hours):** Reflection and integration
+
+**You'll Practice:**
+- Pre-shot routines in real throws
+- Reset techniques after mistakes
+- Focus anchors under pressure
+- Team communication protocols
+
+**Format:**
+- Small group drills (3-4 players)
+- Video analysis of mental patterns
+- Pressure scenarios
+- Evening debrief session
+
+#### Sunday: Competition & Integration (Full Day)
+**Morning (3 hours):** Tournament play
+**Afternoon (2 hours):** Final rounds
+**Evening (1 hour):** Closing reflection
+
+**You'll Apply:**
+- All mental tools in competition
+- Team protocols under pressure
+- Mistake recovery in real time
+- Post-game reflection process
+
+### What to Bring
+
+**Required:**
+- Your boules and equipment
+- Comfortable clothing for all weather
+- Notebook and pen
+- Open mind and willingness to share
+- Water bottle
+
+**Optional:**
+- Training diary
+- Questions about specific mental challenges
+- Examples of pressure situations you face
+
+**Not Needed:**
+- Technical coaching requests (this is mental game focused)
+- Ego or need to prove yourself
+- Judgment of others
+
+### Ground Rules for the Weekend
+
+::: tip The Container
+All participants agree to:
+1. **Confidentiality** - What's shared stays here
+2. **Respect** - Honor others' vulnerability
+3. **Participation** - Engage fully in all activities
+4. **Growth Mindset** - Embrace discomfort as learning
+5. **Support** - Help teammates apply concepts
+:::
+
+### What You'll Leave With
+
+**Knowledge:**
+- Deep understanding of your mental patterns
+- Practical tools for pressure management
+- Team protocols for competition
+- Personalized pre-shot routine
+
+**Skills:**
+- Ability to access flow states
+- Mistake recovery techniques
+- Inner Coach reframing
+- Focus anchors
+
+**Connection:**
+- Deeper bonds with teammates
+- Shared language for mental game
+- Support network for continued growth
+
+**Materials:**
+- Completed worksheets and exercises
+- Video analysis of your mental patterns
+- Action plan for next 30 days
+- Access to all education modules
+
+### Typical Schedule
+
+**Friday:**
+- 18:00 - Arrival and check-in
+- 19:00 - Dinner
+- 20:00 - Opening session (theory)
+- 23:00 - Free time / rest
+
+**Saturday:**
+- 08:00 - Breakfast
+- 09:00 - Morning practice session
+- 12:00 - Lunch
+- 13:30 - Afternoon practice session
+- 17:00 - Break
+- 18:00 - Dinner
+- 19:30 - Evening reflection session
+- 21:00 - Free time / rest
+
+**Sunday:**
+- 08:00 - Breakfast
+- 09:00 - Tournament begins
+- 12:00 - Lunch
+- 13:00 - Final rounds
+- 15:00 - Awards and recognition
+- 16:00 - Closing circle
+- 17:00 - Departure
+
+<AdInArticle />
+
+---
+
+## For Organizers
+
+### Planning Overview
+
+This section provides everything you need to organize and run a successful weekend training camp for 10-20 players.
+
+### Pre-Camp Planning (6-8 Weeks Before)
 
 ### Group Size & Structure
 

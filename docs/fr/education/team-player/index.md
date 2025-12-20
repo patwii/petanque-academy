@@ -114,7 +114,7 @@ Tout le monde devrait comprendre :
 **En trios :**
 | Rôle | Objectif principal | Qualités clés |
 |------|--------------|---------------|
-| Aiguille | Placez les boules près du cochon | Précision, constance |
+| Aiguille | Placez les boules près du cochonnet | Précision, constance |
 | Milieu | S&#39;adapter à la situation | Polyvalence, jeu de lecture |
 | Tireur | Retirer les boules adverses | Précision sous pression |
 
@@ -146,7 +146,7 @@ Ce qu&#39;il faut faire:
 - Accusé de réception rapide (« pas de problème »)
 - Concentrez-vous sur le prochain lancer.
 - Adoptez un langage corporel positif
-- Faites confiance à votre coéquipier pour se rétablir
+- Faites confiance à votre coéquipier pour récupérer.
 
 ### Après le match
 - Débriefing collectif (ce qui a fonctionné, ce qui n&#39;a pas fonctionné)

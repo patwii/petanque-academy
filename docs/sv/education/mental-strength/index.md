@@ -161,7 +161,7 @@ graph LR
 ## Sammanfattning: Regler för mental styrka
 
 ::: tip Regel nr 1: Rutinregeln
-**Konsekventa rutiner före behandlingen utlöser topprestationer.**
+**Konsekventa rutiner före behandlingen ger maximal prestanda.**
 Samma rutin varje gång = pålitlig utlösare för flödestillstånd
 :::
 

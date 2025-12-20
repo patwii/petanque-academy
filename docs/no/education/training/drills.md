@@ -251,7 +251,7 @@ Før logg for hver øvelse:
 
 ## Viktig konklusjon
 
-> Borer er verktøy. Velg riktig verktøy for det du trenger å bygge.
+> Driller er verktøy. Velg riktig verktøy for det du trenger å bygge.
 
 Ikke bare kast boule. Tren med et formål.
 

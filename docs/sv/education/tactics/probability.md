@@ -189,7 +189,7 @@ Tänk på vad de kommer att göra efter ditt kast, oavsett om det lyckades eller
 3. **Beakta resultat** (framgång och misslyckande)
 4. **Faktor i spelets tillstånd** (resultat, återstående klot)
 5. **Välj** alternativet med bäst förväntat värde
-6. **Fullständigt engagerande** - inga tvivel under utförandet
+6. **Fullständigt förbindelsekrav** - inga tveksamheter under utförandet
 
 ### Bygga intuition
 

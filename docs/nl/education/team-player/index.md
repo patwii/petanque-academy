@@ -59,7 +59,7 @@ Onderzoek en ervaring wijzen op drie belangrijke eigenschappen:
 Sterke teams hebben:
 - Duidelijke, overeengekomen doelstellingen
 - Individuele doelen afgestemd op teamdoelen
-- Gedeeld begrip van hoe succes eruitziet
+- Een gedeeld begrip van hoe succes eruitziet.
 - Toewijding aan de gezamenlijke missie
 
 **Vragen om met je team te bespreken:**
@@ -138,7 +138,7 @@ Rollen kunnen flexibel zijn, maar duidelijkheid is belangrijk.
 ### Na fouten
 Wat je NIET moet doen:
 - Laat je frustratie duidelijk zien.
-- Kritiek geven of de schuld afschuiven
+- Kritiek geven of de schuld geven
 - Trek je terug of zwijg.
 - Sta stil bij wat er is gebeurd.
 
@@ -162,7 +162,7 @@ Wat te doen:
 
 ### Ondersteunende reactie op fouten
 **Slecht:** *Stilte of zichtbare frustratie*
-**Beter:** &quot;Een lastige. De volgende mag je hebben.&quot;
+**Beter:** &quot;Een lastige. De volgende krijg je.&quot;
 
 ### Strategische discussie
 **Arm:** &quot;Schiet er gewoon op&quot;

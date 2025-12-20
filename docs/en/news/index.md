@@ -77,6 +77,28 @@ We've launched **8 comprehensive education modules** covering everything from fl
 - Pre-competition nutrition strategies
 - Energy optimization for tournaments
 
+### 📝 Articles & Insights
+
+**NEW: 14 in-depth articles** covering mental game topics:
+
+| Category | Articles |
+|----------|----------|
+| **Understanding the Inner Critic** | [Inner Critic](/en/blog/inner-critic) - Master your internal dialogue |
+| **Building Pre-Shot Routines** | [Pre-Shot Routines](/en/blog/pre-shot-routines) - Create consistency |
+| **Pressure Management** | [Pressure Management](/en/blog/pressure-management) - Perform under stress |
+| **Performance Psychology** | [Flow States](/en/blog/flow-state-science) • [Mindfulness](/en/blog/mindfulness-competition) • [Goal Setting](/en/blog/elite-goal-setting) • [Mental Resilience](/en/blog/mental-resilience) |
+| **Team Dynamics** | [Communication](/en/blog/team-communication) • [Team Chemistry](/en/blog/team-chemistry) • [Leadership](/en/blog/team-leadership) |
+| **Training & Development** | [Mental Training Mistakes](/en/blog/mental-training-mistakes) • [Practice Structure](/en/blog/practice-structure) • [Competition Prep](/en/blog/competition-prep) |
+
+➡️ **[Browse All Articles](/en/blog/)**
+
+### 📖 Resources
+
+**Case Studies & Testimonials:**
+
+- **[Case Studies](/en/case-studies)** - Real examples of elite players using mental game training
+- **[Testimonials](/en/testimonials)** - Feedback from players who've implemented these methods
+
 ## Our Mission
 
 ```mermaid

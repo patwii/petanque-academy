@@ -1,21 +1,57 @@
-# Workshop: Teoretisk øktguide
+# Workshop: Avansert mental spilløkt (3–4 timer)
 
 <AdBanner />
 
-## En omfattende veiledning for koordinatorer
+## Oversikt
 
-Denne guiden hjelper deg med å gjennomføre en 3–4 timers teoretisk workshop med 6–8 elitespillere. Som **Mental Performance Coordinator (MPC)** vil du legge til rette for dype diskusjoner om det mentale spillet, og skape psykologisk trygghet som oversettes til ytelse i løypa.
+Denne workshopen er en avansert teoretisk økt på 3–4 timer for 6–8 elitespillere, med fokus på dyppsykologisk arbeid og sårbarhetsbasert læring. Den går utover grunnleggende mentale ferdigheter for å utforske det indre spillet på et dypt nivå.
 
-::: warning Kritisk konsept
-**Du er ikke en teknisk trener eller terapeut.** Din rolle er å legge til rette for sårbarhetsbasert læring som hjelper spillerne å forstå sammenhengen mellom deres indre tanker og deres prestasjoner.
+::: tip To deler i denne veiledningen
+- **[For deltakere](#for-deltakere)** – Hva spillerne vil oppleve og lære
+- **[For fasilitatorer](#for-fasilitatorer)** - Hvordan gjennomføre workshopen som koordinator for mental ytelse
 :::
+
+**Forskjell fra nybegynnerkurs:**
+- **Nybegynner (2–3 timer):** Introduksjon til mentale spillkonsepter → [Se guide til mental reise](/no/mental-reise/øktguide)
+- **Avansert (3–4 timer):** Dyptgående psykologisk arbeid med sårbarhetsøvelser (denne siden)
+
+## Hurtigtilgang
+
+| Del | Hensikt | Adgang |
+|---------|---------|--------|
+| **For deltakere** | Hva du kan forvente og hvordan du skal forberede deg | [Vis seksjon](#for-deltakere) |
+| **For fasilitatorer** | Komplett øktguide og øvelser | [Vis seksjon](#for-tilretteleggere) |
+| **Materialer for økten** | Øvelser og arbeidsark | [Se materialer](#materialer-for-tilretteleggere) |
+| **Relaterte guider** | Andre treningsformater | [Mental reise](/no/mental-reise/) • [Treningsleir](/no/treningsleir) |
+
+---
+
+## For deltakere
+
+### Hva du kan forvente
+
+Dette er ikke en typisk treningsøkt. Du vil delta i dype diskusjoner om de mentale og emosjonelle aspektene ved petanque, noe som sjelden blir snakket åpent om.
+
+**Denne workshopen er:**
+- ✅ Et trygt rom for å utforske indre tanker og frykt
+- ✅ Sårbarhetsbasert læring med lagkamerater
+- ✅ Koble mentale mønstre til prestasjon
+- ✅ Bygge teamets psykologiske intelligens
+
+**Denne workshopen er IKKE:**
+- ❌ Teknisk coaching eller taktikktrening
+- ❌ Terapi eller rådgivning
+- ❌ Positiv tenkning eller motivasjonstaler
+- ❌ Dømmelse eller kritikk
+
+### Øktstruktur
 
 ```mermaid
 graph LR
-    A[Workshop Session] --> B[Foundation 60min]
-    B --> C[Deep Work 90min]
-    C --> D[Integration 45min]
-    D --> E[Closing 15min]
+    A[Workshop-sesjon] --> B[Grunnleggende 60 min]
+    B --> C[Dypt arbeid 90 min]
+    C --> D[Integrasjon 45 min]
+    D --> E[Lukker 15 min]
 
     style A fill:#e8f5e9
     style B fill:#fff4e1
@@ -24,30 +60,122 @@ graph LR
     style E fill:#f3e5f5
 ```
 
-## Forberedelser før workshopen
+**Total varighet:** 3–4 timer
+**Gruppestørrelse:** 6–8 spillere
+**Format:** Sirkeldiskusjon med strukturerte øvelser
 
-### Koordinatorens rolle
+### Hva du vil lære
 
-::: info Dine ansvarsområder
+#### Fase 1: Grunnleggende (60 min)
+- Grunnregler for psykologisk trygghet
+- «Innsjekkingsmatrisen» – en bekreftelse på din nåværende tilstand
+- «Pétanqueens isfjell» – en utforskning av skjulte tanker
+
+#### Fase 2: Dybdearbeid (90 min)
+- Lage din «brukermanual» for lagkamerater
+- Kobler mentale mønstre til ytelse
+- «Frykt i en hatt» – å bryte isolasjon gjennom delt sårbarhet
+
+#### Fase 3: Integrering (45 min)
+- Omformulering av din indre kritiker til indre coach
+- Lage lagprotokoller for konkurranser
+- Praktiske tips for løypa
+
+#### Fase 4: Avslutning (15 min)
+- Refleksjon og engasjement
+- Oppfølgingsstøtte
+
+### Grunnregler
+
+Før økten begynner, samtykker alle deltakerne til å:
+
+::: tip Containeren - Viktige grunnregler
+1. **Konfidensialitet** – Det som blir sagt her, forblir her
+2. **Vegas-regelen** - Leksjoner forlater rommet, historier blir værende
+3. **Ingen reparasjon** - Vær vitne til og forstå, ikke prøv å løse
+4. **Rett til å passere** - Sårbarhet kan ikke tvinges frem
+5. **Respekter prosessen** - Stol på ubehaget
+:::
+
+### Hva du skal ta med
+
+**Påkrevd:**
+- Åpent sinn og vilje til å dele
+- Dine egne erfaringer og utfordringer
+- Respekt for andres sårbarhet
+
+**Valgfri:**
+- Notatbok for personlige refleksjoner
+- Spørsmål om spesifikke mentale utfordringer
+
+### Viktige aktiviteter du vil oppleve
+
+#### Innsjekkingsmatrisen
+Plasser deg selv på et rutenett av energi og humør. Normaliser at vi alle har forskjellige tilstander.
+
+#### Isfjellet i petanque
+Utforsk hva som skjer under overflaten – tankene og frykten ingen ser.
+
+#### Brukerhåndboken
+Lag en bruksanvisning for deg selv, slik at lagkameratene forstår hvordan de kan støtte deg.
+
+#### Frykt i en hatt
+Del dype frykter anonymt og hør dem bekreftet av jevnaldrende. Bryt isolasjonen.
+
+#### Indre kritiker omformulering
+Forvandle hard selvsnakk til støttende coachingspråk.
+
+### Etter workshopen
+
+Du drar av gårde med:
+- Dypere forståelse av dine mentale mønstre
+- Teamprotokoller for å støtte hverandre
+- Omformulerte indre coach-fraser
+- Forbindelse med lagkamerater gjennom delt sårbarhet
+- Brukbare verktøy for konkurranse
+
+::: warning Sårbarhet Bakrus
+Etter dyp deling kan du føle deg avslørt eller angre. Dette er normalt. Tilretteleggeren vil ta kontakt med deg innen 24 timer. Husk: det du delte hjalp alle.
+:::
+
+<AdInArticle />
+
+---
+
+## For fasilitatorer
+
+### Din rolle som koordinator for mental ytelse
+
+Som **Mental Performance Coordinator (MPC)** legger du til rette for dype diskusjoner om det mentale spillet, og skaper psykologisk trygghet som omsettes til prestasjon i løypa.
+
+::: warning Kritisk konsept
+**Du er ikke en teknisk trener eller terapeut.** Din rolle er å legge til rette for sårbarhetsbasert læring som hjelper spillerne å forstå sammenhengen mellom deres indre tanker og deres prestasjoner.
+:::
+
+### Ditt ansvar
+
+::: info Viktige ansvarsområder
 - **Lede til, ikke foreles** - Du leder diskusjonen, ikke lærer bort teknikk
 - **Hold rommet** - Skap og oppretthold psykologisk trygghet
 - **Bro mellom teori og praksis** - Koble nettsidens innhold til indre erfaring
 - **Overvåk gruppedynamikk** - Legg merke til hvem som er engasjert, hvem som er motstandsdyktig
-- **Oppretthold grenser** - Vit når du skal oppsøke profesjonell hjelp
+- **Hold grenser** - Vit når du skal oppsøke profesjonell hjelp
 :::
+
+### Forberedelse før workshopen
 
 ### Essensielle kompetanser
 
 | Kompetanse | Hva det betyr | Hvordan utvikle |
-|------------|----------------|----------------|
-| **Emosjonell intelligens** | Oppdage mikrouttrykk av ubehag | Øve aktiv observasjon |
-| **Nøytral autoritet** | Skap respekt uten teknisk makt | Etabler troverdighet gjennom tilstedeværelse |
+|------------|---------------|----------------|
+| **Emosjonell intelligens** | Oppdag mikrouttrykk av ubehag | Øv aktiv observasjon |
+| **Nøytral myndighet** | Bekjemp respekt uten teknisk makt | Skape troverdighet gjennom tilstedeværelse |
 | **Sportskontekst** | Forstå trykkmekanikk | Lær petanque-terminologi og -kultur |
-| **Verbal Aikido** | Innrett deg for motstand, ikke kjemp imot den | Øv på ikke-defensiv kommunikasjon |
+| **Verbal Aikido** | Still deg inn i motstanden, ikke kjemp imot den | Øv på ikke-defensiv kommunikasjon |
 
-::: details Viktige petanque-begreper du bør kjenne til
+::: details Viktige petanque-begreper å kjenne til
 - **Carreau** - Perfekt skudd som forskyver motstanderens kule
-- **Bibber** - «Jips» - ufrivillig skjelving under utløsning
+- **Bibber** - «Jipp» - ufrivillig skjelving under utløsning
 - **Donnée** - Det «gitte» - å akseptere terrenget som det er
 - **Portée** - Kasting uten sprett
 - **Rulett** - Rullende skudd
@@ -63,7 +191,7 @@ graph LR
 
 Krav:
 - ✅ Lydisolert eller privat
-- ✅ Behagelig temperatur
+- ✅ Komfortabel temperatur
 - ✅ Ingen distraksjoner (telefonene er av)
 - ✅ Naturlig lys hvis mulig
 - ✅ Separat fra treningsområdet
@@ -74,7 +202,7 @@ Krav:
 **Sitteplasser:**
 - Perfekt sirkel av stoler
 - **INGEN BORD** - Bord skaper barrierer og skjuler kroppsspråk
-- Alle stoler i samme høyde (ingen elektriske posisjoner)
+- Alle stoler i samme høyde (ingen elektriske stillinger)
 - Koordinator sitter som en del av sirkelen (ikke foran)
 
 **Sentergjenstander:**
@@ -84,11 +212,11 @@ Krav:
 
 ```mermaid
 graph TD
-    A[Physical Space] --> B[Signals Mental Shift]
-    A --> C[No Barriers]
-    A --> D[Equal Positioning]
+    A[Fysisk rom] --> B[Signalerer mentalt skifte]
+    A --> C[Ingen barrierer]
+    A --> D[Lik posisjonering]
 
-    B --> E[Psychological Safety]
+    B --> E[Psykologisk sikkerhet]
     C --> E
     D --> E
 
@@ -104,18 +232,18 @@ graph TD
 
 **Den sosiale kontrakten:**
 
-::: tipping av beholderen - Viktige grunnregler
+::: tip Containeren - Viktige grunnregler
 Før noen deling starter, MÅ gruppen godta følgende:
 
 1. **Konfidensialitet** – Det som blir sagt her, forblir her
 2. **Vegas-regelen** - Leksjoner forlater rommet, historier blir værende
-3. **Ingen fiksing** - Vær vitne til og forstå, ikke prøv å løse
+3. **Ingen reparasjon** - Vær vitne til og forstå, ikke prøv å løse
 4. **Rett til å passere** - Sårbarhet kan ikke tvinges frem
-5. **Respekter prosessen** – Stol på ubehaget
+5. **Respekter prosessen** - Stol på ubehaget
 :::
 
 **Manuset ditt:**
-&gt; «Velkommen. Dette området er annerledes enn løypa. Her utforsker vi hva som skjer *inne* når du står over det bildet. Alt som deles her er konfidensielt. Lærdommene du lærer kan forsvinne, men de personlige historiene blir værende. Dere er ikke her for å fikse hverandre – bare for å forstå. Og dere kan alltids si nei. Kan alle bli enige om dette?»
+> «Velkommen. Dette området er annerledes enn løypa. Her utforsker vi hva som skjer *inne* når du står over det bildet. Alt som deles her er konfidensielt. Lærdommene du lærer kan forsvinne, men de personlige historiene blir værende. Dere er ikke her for å fikse hverandre – bare for å forstå. Og dere kan alltids si nei. Kan alle bli enige om dette?»
 
 #### 2. Aktivitet: Innsjekkingsmatrisen (20 min)
 
@@ -124,19 +252,19 @@ Før noen deling starter, MÅ gruppen godta følgende:
 **Materialer:** Tavle eller flippover, klistrelapper
 
 **Prosedyre:**
-1. Tegn en 2x2-matrise: Høy/lav energi (vertikal), positiv/negativ (horisontal)
+1. Tegn 2x2-matrise: Høy/lav energi (vertikal), positiv/negativ (horisontal)
 2. Hver spiller skriver navnet sitt på en lapp
-3. Plasser noten i sin nåværende kvadrant
+3. Plasser notatet i deres nåværende kvadrant
 4. Diskuter: «Vi har tre personer i «Lav energi/negativ». Hvordan påvirker dette økten vår i dag?»
 
 ```mermaid
 graph TD
-    A[Check-In Matrix] --> B[High Energy + Positive]
-    A --> C[High Energy + Negative]
-    A --> D[Low Energy + Positive]
-    A --> E[Low Energy + Negative]
+    A[Innsjekkingsmatrise] --> B[Høy energi + positiv]
+    A --> C[Høy energi + negativ]
+    A --> D[Lav energi + positiv]
+    A --> E[Lav energi + negativ]
 
-    B --> F[Acknowledge All States]
+    B --> F[Anerkjenn alle stater]
     C --> F
     D --> F
     E --> F
@@ -147,8 +275,8 @@ graph TD
 
 **Tips for tilrettelegging:**
 - Ikke døm noen kvadrant som «dårlig»
-– Spør: «Hva trenger kroppen din akkurat nå?»
-– Legg merke til mønstre: «Tre av dere er i samme rom – hva handler det om?»
+- Spør: «Hva trenger kroppen din akkurat nå?»
+- Legg merke til mønstre: «Tre av dere er i samme rom – hva handler det om?»
 
 #### 3. Aktivitet: Pétanque-isfjellet (25 min)
 
@@ -157,28 +285,28 @@ graph TD
 **Materialer:** Stort papir, tusjer
 
 **Prosedyre:**
-1. Tegn et isfjell på papir
+1. Tegn isfjell på papir
 2. **Over vann:** Skriv «Teknikk, Kastet, Resultatet»
 3. **Under vann:** Spør: «Hva skjer i tankene dine som ingen ser?»
 
 **Oppfordringer:**
-– «Hva er du redd for når du skal skyte?»
-– «Hvilken dom er du bekymret for?»
-– «Hva sier din indre stemme når du bommer?»
+- «Hva er du redd for når du skal skyte?»
+- &quot;Hvilken dom er du bekymret for?&quot;
+- «Hva sier din indre stemme når du bommer?»
 
 **Innsiktsspørsmålet:**
-&gt; «Hva skjer med kastearmen din når «undervanns»-greiene blir for tunge?»
+> «Hva skjer med kastearmen din når «undervanns»-greiene blir for tunge?»
 
 Dette knytter mental belastning til fysisk spenning (bibberen/yipsen).
 
 ::: details Vanlige svar på «under vann»
 - Frykt for å skuffe laget
 - Bekymre deg for å se dum ut
-- Tvil om evner
+- Tvil om evne
 - Sammenligning med andre
-– Press for å bevise sin verdi
+- Press for å bevise sin verdi
 - Frykt for å bli dømt av trener/lagkamerater
-- Impostorsyndrom
+- Impostor-syndrom
 :::
 
 <AdInArticle />
@@ -194,21 +322,21 @@ Dette knytter mental belastning til fysisk spenning (bibberen/yipsen).
 
 **Brukerhåndbokmal:**
 
-| Seksjon | Spørsmål | Eksempel |
+| Del | Spørsmål | Eksempel |
 |---------|--------|---------|
-| **Min stresssignatur** | &quot;Når jeg er engstelig,...&quot; | &quot;...blir jeg helt stille&quot; |
+| **Min stresssignatur** | &quot;Når jeg er engstelig, så...&quot; | &quot;...bli helt stille&quot; |
 | **Hvordan håndtere meg** | &quot;Når jeg bommer på et avgjørende skudd, trenger jeg...&quot; | &quot;...stillhet, ikke oppmuntring&quot; |
 | **Min indre tanke** | &quot;Løgnen jeg forteller meg selv er...&quot; | &quot;...at jeg ikke er god nok&quot; |
-| **Min trigger** | &quot;Jeg blir defensiv når...&quot; | &quot;...noen stiller spørsmål ved slagvalget mitt&quot; |
+| **Min utløser** | «Jeg blir defensiv når ...» | &quot;...noen stiller spørsmål ved mitt valg av skudd&quot; |
 
 **Prosedyre:**
 1. Gi spillerne 10 minutter til å fullføre i stillhet
 2. Gå rundt sirkelen – hver person deler ÉN seksjon
-3. Andre kan stille oppklarende spørsmål (ikke råd!)
+3. Andre kan stille oppklarende spørsmål (ikke råd!).
 4. Koordinator validerer hver deling
 
 **Tilretteleggingsmanus:**
-&gt; «Dette er bruksanvisningen din. Når lagkameraten din vet at du blir stille når du er engstelig, vil de ikke ta det personlig. Når de vet at du trenger stillhet etter en bom, vil de ikke prøve å «fikse» deg. Slik bygger vi teamintelligens.»
+> «Dette er bruksanvisningen din. Når lagkameraten din vet at du blir stille når du er engstelig, vil de ikke ta det personlig. Når de vet at du trenger stillhet etter en bom, vil de ikke prøve å «fikse» deg. Slik bygger vi teamintelligens.»
 
 #### 5. Koble nettsidens innhold til indre tanker (30 min)
 
@@ -219,25 +347,25 @@ Velg 2–3 seksjoner fra akademiets nettside og utforsk det indre spillet:
 **Eksempel 1: Teknikk - Grep og slipp**
 
 **Tillitsspørsmålet:**
-&gt; «Når du er på 12-12 i en turnering, *føles* hånden din som teknikkbeskrivelsen? Er det musklene som forandrer seg, eller tanken «Ikke slipp den» som endrer grepet ditt?»
+> «Når du er på 12-12 i en turnering, *føles* hånden din som teknikkbeskrivelsen? Er det musklene som forandrer seg, eller tanken «Ikke slipp den» som endrer grepet ditt?»
 
 **Mikroskjelvingen:**
-&gt; «Hvem her føler angstens &#39;mikroskjelv&#39;? Hvilken indre tanke utløser det?»
+> «Hvem her føler angstens &#39;mikroskjelv&#39;? Hvilken indre tanke utløser det?»
 
 **Eksempel 2: Taktikk - Peking vs. Skyting**
 
 **Risikoprofil:**
-&gt; «Når guiden sier «Skyt for å vinne», er reaksjonen din begeistring eller frykt? Hva forteller det deg om ditt forhold til risiko?»
+> «Når guiden sier «Skyt for å vinne», er reaksjonen din begeistring eller frykt? Hva forteller det deg om ditt forhold til risiko?»
 
 **Bedrageren:**
-&gt; «Peker du noen gang når du *vet* at du burde skyte, bare for å unngå å bomme? Hva koster den sikringen?»
+> «Peker du noen gang når du *vet* at du burde skyte, bare for å unngå å bomme? Hva koster den sikringen?»
 
 **Eksempel 3: Ernæring - Konkurransedag**
 
 **Trøstematfellen:**
-&gt; &quot;Spiser du det kroppen din trenger eller det angsten din vil ha? Hvordan vet du forskjellen?&quot;
+> «Spiser du det kroppen din trenger, eller det angsten din vil ha? Hvordan vet du forskjellen?»
 
-::: tip for tilretteleggingsteknikk
+::: tip Tilretteleggingsteknikk
 Ikke foreles om innholdet. Still spørsmål som knytter den tekniske informasjonen til deres levede erfaringer. Innsikten kommer fra DEM, ikke deg.
 :::
 
@@ -248,17 +376,17 @@ Ikke foreles om innholdet. Still spørsmål som knytter den tekniske informasjon
 **Materialer:** Papir, penn, hatt/veske
 
 **Prosedyre:**
-1. Alle skriver en dyp karriere-/lagfrykt anonymt
-2. Brett papirene og bland dem inn i hatten
+1. Alle skriver en dyp karriere-/lagsfrykt anonymt
+2. Brett papirer og bland inn hatten
 3. Hver spiller trekker en lapp (ikke sin egen)
 4. Les det høyt
-5. Bekreft det: «Jeg kan forstå hvorfor noen ville føle det slik fordi...»
+5. Bekreft det: «Jeg kan forstå hvorfor noen føler det slik fordi ...»
 
 **Eksempel på frykt:**
-– «Jeg er redd jeg har nådd toppen og aldri vil bli bedre»
-– «Jeg er bekymret for at lagkameratene mine synes jeg er overvurdert»
-– «Jeg er redd jeg skal kveles i det store øyeblikket»
-– Jeg er redd for å bli erstattet av yngre spillere.
+- «Jeg er redd jeg har nådd toppen og aldri vil bli bedre»
+- «Jeg er bekymret for at lagkameratene mine synes jeg er overvurdert»
+- «Jeg frykter at jeg skal kveles i det store øyeblikket»
+- «Jeg er redd for å bli erstattet av yngre spillere»
 
 **Kraften:**
 Når spillerne hører sin hemmelige frykt bli lest høyt og bekreftet av jevnaldrende, forsvinner skammen. De innser: «Jeg er ikke alene. Dette er normalt.»
@@ -266,15 +394,15 @@ Når spillerne hører sin hemmelige frykt bli lest høyt og bekreftet av jevnald
 **Koordinatorens rolle:**
 - Valider ALLE frykter som legitime
 - Ikke bagatellisere: «Det er ikke sant!» ugyldiggjør følelsen.
-– Spør: «Hvor mange av dere har følt noe lignende?»
+- Spør: «Hvor mange av dere har følt noe lignende?»
 
 ```mermaid
 graph TD
-    A[Fear in a Hat] --> B[Anonymous Sharing]
-    B --> C[Peer Validation]
-    C --> D[Shame Dissolves]
-    D --> E[Isolation Breaks]
-    E --> F[Psychological Safety]
+    A[Frykt i en hatt] --> B[Anonym deling]
+    B --> C[Fagfellevalidering]
+    C --> D[Skam oppløses]
+    D --> E[Isolasjonspauser]
+    E --> F[Psykologisk sikkerhet]
 
     style A fill:#ffe4e1
     style F fill:#e8f5e9
@@ -291,24 +419,24 @@ graph TD
 **Prosedyre:**
 
 **Trinn 1: Identifiser kritikeren (10 min)**
-&gt; «Skriv ned den EKSAKT setningen din indre kritiker sier etter en bom. Ikke den høflige versjonen – den brutale.»
+> «Skriv ned den EKSAKT setningen din indre kritiker sier etter en bom. Ikke den høflige versjonen – den brutale.»
 
 Eksempler:
-– «Du kveles alltid»
-– «Alle ser på at du mislykkes»
-– «Du gjør deg selv flau»
-– «Du hører ikke hjemme her»
+- &quot;Du kveles alltid&quot;
+- «Alle ser deg mislykkes»
+- &quot;Du gjør deg selv flau&quot;
+- &quot;Du hører ikke hjemme her&quot;
 
 **Trinn 2: Omformuler som indre coach (10 min)**
-&gt; «Omskriv det nå som din indre coach – bestemt, men støttende.»
+> «Omskriv det nå som din indre coach – bestemt, men støttende.»
 
 Eksempler:
-– Kritiker: «Du kveles alltid» → Trener: «Tilbakestill og pust. Neste skudd.»
+- Kritiker: «Du kveles alltid» → Trener: «Tilbakestill og pust. Neste skudd.»
 - Kritiker: «Alle ser deg mislykkes» → Trener: «Fokuser på målet, ikke publikum»
 - Kritiker: «Du gjør deg selv flau» → Trener: «Én sjanse om gangen. Du har gjort dette før.»
 
 **Trinn 3: Partnerøving (5 min)**
-&gt; «Del Coach-frasen din med en partner. De vil minne deg på den når de ser Kritikeren dukke opp.»
+> «Del Coach-frasen din med en partner. De vil minne deg på den når de ser Kritikeren dukke opp.»
 
 #### 8. Bro til løypa (20 min)
 
@@ -317,16 +445,16 @@ Eksempler:
 **Diskusjonsspørsmål:**
 1. «Hva er ÉN ting fra i dag du vil bruke i din neste konkurranse?»
 2. «Hvordan vil lagkameratene dine vite at du trenger støtte?»
-3. «Hva er signalet ditt for at &#39;jeg trenger en mental nullstilling&#39;?»
+3. «Hva er signalet ditt for at jeg trenger en mental omstart?»
 
 **Opprett teamprotokoller:**
 
 | Situasjon | Protokoll | Eksempel |
 |-----------|----------|---------|
-| **Etter en bom** | Sjekk brukerhåndboken | &quot;Marc trenger stillhet, Lisa trenger en knyttnevestøt&quot; |
-| **Føler press** | Bruk coachfrasen | «Tilbakestill og pust» |
-| **Lagspenning** | Timeout for samtale | &quot;La oss ta 2 minutter&quot; |
-| **Indre kritiker høylytt** | Fysisk tilbakestilling | Berøringsboule, dyp pust |
+| **Etter en bom** | Sjekk brukerhåndboken | «Marc trenger stillhet, Lisa trenger en knyttnevestøt.» |
+| **Føler press** | Bruk Coach-frasen | &quot;Tilbakestill og pust&quot; |
+| **Spenning i laget** | Tidsavbrudd for samtale | &quot;La oss ta 2 minutter&quot; |
+| **Høylydende indre kritiker** | Fysisk tilbakestilling | Berør boule, pust dypt |
 
 ### Fase 4: Avslutning (15 minutter)
 
@@ -334,7 +462,7 @@ Eksempler:
 
 **Prosedyre:**
 Gå rundt sirkelen, hver person deler:
-1. **Én ting du tar med deg:** «Hvilken innsikt eller hvilket verktøy går du ut med?»
+1. **Én ting du tar med deg:** «Hvilken innsikt eller hvilket verktøy tar du med deg?»
 2. **Én ting du legger bak deg:** «Hva gir du slipp på?»
 
 **Koordinatorens rolle:**
@@ -344,21 +472,21 @@ Gå rundt sirkelen, hver person deler:
 
 #### 10. Oppfølgingsprotokoll (5 min)
 
-::: warning Kritisk: Forhindre sårbarhet Bakrus
+::: warning Kritisk: Forhindre bakrus ved sårbarhet
 Dypt arbeid forårsaker en «sårbarhetsbakrus» – anger eller skam over å dele.
 
 **Din 24-timers protokoll:**
-- Send tekstmelding til alle som delte mye innen 24 timer
-– Melding: «Takk for motet ditt i går. Det du delte hjalp alle.»
-– Sjekk inn: «Hvordan synes du det er om økten?»
+- Send SMS til alle som delte mye innen 24 timer
+- Melding: «Takk for motet ditt i går. Det du delte hjalp alle.»
+- Sjekk inn: «Hvordan føler du deg om økten?»
 :::
 
 **Avslutningsmanus:**
-&gt; «Det som skjedde her i dag krevde mot. Du møtte opp, du åpnet deg, du stolte på prosessen. Det samme motet er det du vil ta med deg ut i løypa. Husk: lærdommene forlater dette rommet, men historiene blir værende. Takk.»
+> «Det som skjedde her i dag krevde mot. Du møtte opp, du åpnet deg, du stolte på prosessen. Det samme motet er det du vil ta med deg ut i løypa. Husk: lærdommene forlater dette rommet, men historiene blir værende. Takk.»
 
 <AdInArticle />
 
-## Håndteringsmotstand
+## Håndtering av motstand
 
 ### Den «for kule» idrettsutøveren
 
@@ -367,7 +495,7 @@ Dypt arbeid forårsaker en «sårbarhetsbakrus» – anger eller skam over å de
 **Strategi:** Verbal Aikido (Align og Pivot)
 
 **Manus:**
-&gt; «Jeg ser den reaksjonen, [Navn]. Ærlig talt, jeg forstår det. Å snakke om følelser føles mykt. Men løypa er ubehagelig. Hvis vi ikke takler ubehaget i dette rommet, trener vi ikke toleransen vår for ubehaget i spillet. Kan du stole på meg i 20 minutter?»
+> «Jeg ser den reaksjonen, [Navn]. Ærlig talt, jeg forstår det. Å snakke om følelser føles mykt. Men løypa er ubehagelig. Hvis vi ikke takler ubehaget i dette rommet, trener vi ikke toleransen vår for ubehaget i spillet. Kan du stole på meg i 20 minutter?»
 
 ### Den stille deltakeren
 
@@ -376,7 +504,7 @@ Dypt arbeid forårsaker en «sårbarhetsbakrus» – anger eller skam over å de
 **Strategi:** Lag et inngangspunkt med lav innsats
 
 **Manus:**
-&gt; «[Navn], jeg ser at du tar alt inn. Hva er én ting som resonnerer med deg så langt? Bare et ord.»
+> «[Navn], jeg ser at du tar alt inn. Hva er én ting som resonnerer med deg så langt? Bare et ord.»
 
 ### Overdeleren
 
@@ -385,7 +513,7 @@ Dypt arbeid forårsaker en «sårbarhetsbakrus» – anger eller skam over å de
 **Strategi:** Forsiktig omdirigering
 
 **Manus:**
-&gt; «Takk for det, [Navn]. Jeg vil sørge for at alle har plass. La oss høre fra noen som ikke har delt ennå.»
+> «Takk for det, [Navn]. Jeg vil sørge for at alle har plass. La oss høre fra noen som ikke har delt ennå.»
 
 ### Fikseren
 
@@ -394,7 +522,7 @@ Dypt arbeid forårsaker en «sårbarhetsbakrus» – anger eller skam over å de
 **Strategi:** Forsterk grunnreglene
 
 **Manus:**
-&gt; «Jeg setter pris på at du vil hjelpe, men husk regelen vår: vær vitne til og forstå, ikke fiks. [Originaltaler], hva trenger du akkurat nå?»
+> «Jeg setter pris på at du vil hjelpe, men husk regelen vår: vær vitne til og forstå, ikke fiks. [Originaltaler], hva trenger du akkurat nå?»
 
 ## Sjekkliste for materialer
 
@@ -402,12 +530,12 @@ Dypt arbeid forårsaker en «sårbarhetsbakrus» – anger eller skam over å de
 **Fysisk oppsett:**
 - [ ] Stoler (6–8, ingen bord)
 - [ ] Boule og cochonett for senter
-- [ ] Flippover eller tavle
+- [ ] Flipover eller tavle
 - [ ] Markører
 
 **Aktiviteter:**
-- [ ] Klistrelapper (Innsjekkingsmatrise)
-- [ ] Stort papir (Isfjellaktivitet)
+- [ ] Klistrelapper (innsjekkingsmatrise)
+- [ ] Stort papir (isfjellaktivitet)
 - [ ] Brukerhåndbok arbeidsark
 - [ ] Papir og penner (Frykt i en hatt)
 - [ ] Indre kritiker/coach-arbeidsark
@@ -426,7 +554,7 @@ Dypt arbeid forårsaker en «sårbarhetsbakrus» – anger eller skam over å de
 
 **Etter workshopen:**
 - Oppsummering med en kollega eller veileder
-- Skriv en loggbok om hva som skjedde med deg
+- Journal om hva som skjedde med deg
 - Ta en spasertur eller en fysisk pause
 - Ikke ta med deg historiene deres hjem
 :::
@@ -442,17 +570,17 @@ Til slutt, spør:
 ### Langsiktig sporing
 
 Oppfølging etter 2–4 uker:
-– «Har du brukt noen verktøy fra verkstedet?»
-– «Hvordan har forholdet ditt til din indre kritiker endret seg?»
-– «Hva er annerledes i konkurransementaliteten din?»
+- &quot;Har du brukt noen verktøy fra verkstedet?&quot;
+- «Hvordan har forholdet ditt til din indre kritiker endret seg?»
+- &quot;Hva er annerledes i konkurransementaliteten din?&quot;
 
-## Neste steg
+## Neste trinn
 
-::: tip Bygge videre på dette fundamentet
+::: tip Bygger på dette fundamentet
 Denne workshopen er fase 1. Vurder:
 - **Oppfølgingssamtaler** (på nett eller personlig)
 - **Integrering i løypa** (se veiledning for treningsøkt)
-- **Lagprotokoller** (implementere brukermanualer i konkurranser)
+- **Lagprotokoller** (implementer brukermanualer i konkurranse)
 - **Individuelle innsjekkinger** (for spillere som trenger mer støtte)
 :::
 

@@ -133,7 +133,7 @@ Door alles bij te houden, blijft de consistentie behouden:
 |------|----------|------|-------|
 | ma | 10 min | Zittend | Mijn hoofd zit vol met gedachten |
 | di | 10 min | Zittend | Rustiger vandaag |
-| wo | 5 min | Lichaamsscan | Ik voelde spanning in mijn schouders. |
+| woensdag | 5 min | Lichaamsscan | Ik voelde spanning in mijn schouders. |
 
 ### Wat te volgen
 - Heb je geoefend? (Ja/Nee)

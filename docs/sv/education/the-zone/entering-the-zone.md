@@ -50,7 +50,7 @@ Din rutiner före träningen är din inkörsport till zonen. Det är en konsekve
 ```mermaid
 graph LR
     A[Värdering <br/> Yttre cirkeln] --> B[Övergång <br/> Gå in i cirkeln]
-    B --> C[Fysisk installation <br/> I cirkeln]
+    B --> C[Fysisk uppställning <br/> I cirkeln]
     C --> D[Visualisering <br/> 2–3 sekunder]
     D --> E[Utförande <br/> Kasta]
 

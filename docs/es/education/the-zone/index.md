@@ -10,7 +10,7 @@
 
 ## ¿Qué es La Zona?
 
-La zona, también llamada &quot;estado de fluidez&quot;, es un estado mental en el que te absorbes por completo en lo que haces. El tiempo parece ralentizarse. Tus movimientos se sienten sin esfuerzo. No piensas en la técnica; simplemente *haces*.
+La zona, también llamada &quot;estado de fluidez&quot;, es un estado mental en el que te absorbes por completo en lo que haces. El tiempo parece ralentizarse. Tus movimientos se sienten sin esfuerzo. No piensas en la técnica; simplemente estás *haciendo*.
 
 Los científicos llaman a este estado **hipofrontalidad transitoria**. En pocas palabras, la parte analítica del cerebro (la corteza prefrontal) se aquieta, permitiendo que los instintos entrenados tomen el control.
 

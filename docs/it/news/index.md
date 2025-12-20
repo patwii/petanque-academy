@@ -12,20 +12,20 @@ Abbiamo lanciato una piattaforma completa dedicata ad aiutare i giocatori di pé
 
 ```mermaid
 graph TD
-    A[Pétanque Academy] --> B[Education Platform]
-    A --> C[Training Tools]
-    A --> D[Workshop Programs]
+    A[Pétanque Academy] --> B[Piattaforma educativa]
+    A --> C[Strumenti di formazione]
+    A --> D[Programmi di workshop]
 
-    B --> E[8 Complete Modules]
-    B --> F[Mental Game Mastery]
-    B --> G[Technical Foundations]
+    B --> E[8 moduli completi]
+    B --> F[Padronanza del gioco mentale]
+    B --> G[Fondamenti tecnici]
 
-    C --> H[Goal Templates]
-    C --> I[Diary Templates]
-    C --> J[Training Plans]
+    C --> H[Modelli di obiettivi]
+    C --> I[Modelli di diario]
+    C --> J[Piani di allenamento]
 
-    D --> K[Elite Player Forums]
-    D --> L[Training Camps]
+    D --> K[Forum dei giocatori d&#39;élite]
+    D --> L[Campi di addestramento]
 
     style A fill:#fff4e1
     style B fill:#e3f2fd
@@ -42,15 +42,15 @@ graph TD
 Abbiamo lanciato **8 moduli didattici completi** che coprono tutto, dagli stati di flusso alla nutrizione:
 
 | Modulo | Cosa c&#39;è dentro | Caratteristiche principali |
-|------------|---------------|-------------|
-| **[The Zone](/en/education/the-zone/)** | Padronanza dello stato di flusso | 4 guide dettagliate su come inserire e mantenere il flusso |
-| **[Mental Strength](/en/education/mental-strength/)** | Gestione della pressione | Routine pre-tiro, gestione del critico interiore |
-| **[Mindfulness](/en/education/mindfulness/)** | Consapevolezza del momento presente | Pratiche quotidiane, tecniche di competizione |
-| **[Goals](/en/education/goals/)** | Pianificazione strategica | Obiettivi SMART, gerarchia, sistemi di monitoraggio |
-| **[Tactics](/en/education/tactics/)** | Strategia di gioco | Decisione, probabilità, posizionamento |
-| **[Team Player](/en/education/team-player/)** | capacità di collaborazione | Comunicazione, fiducia, dinamiche di squadra |
-| **[Training](/en/education/training/)** | Metodi di pratica | Esercizi, pratica deliberata, progressione |
-| **[Nutrition](/en/education/nutrition/)** | Carburante ad alte prestazioni | Gestione della glicemia, nutrizione per la competizione |
+|--------|---------------|--------------|
+| **[La Zona](/it/educazione/la-zona/)** | Padronanza dello stato di flusso | 4 guide dettagliate su come inserire e mantenere il flusso |
+| **[Forza mentale](/it/educazione/forza-mentale/)** | Gestione della pressione | Routine pre-tiro, gestione del critico interiore |
+| **[Mindfulness](/it/educazione/mindfulness/)** | Consapevolezza del momento presente | Pratiche quotidiane, tecniche di competizione |
+| **[Obiettivi](/it/istruzione/obiettivi/)** | Pianificazione strategica | Obiettivi SMART, gerarchia, sistemi di monitoraggio |
+| **[Tattiche](/it/educazione/tattiche/)** | Strategia di gioco | Decisione, probabilità, posizionamento |
+| **[Giocatore di squadra](/it/istruzione/giocatore-di-squadra/)** | capacità di collaborazione | Comunicazione, fiducia, dinamiche di squadra |
+| **[Formazione](/it/istruzione/formazione/)** | Metodi di pratica | Esercizi, pratica deliberata, progressione |
+| **[Nutrizione](/it/educazione/nutrizione/)** | Carburante ad alte prestazioni | Gestione della glicemia, nutrizione per la competizione |
 
 ### 🛠️ Strumenti pratici
 
@@ -77,14 +77,36 @@ La sezione **[Consigli tecnici](/it/technical/)** include:
 - Strategie nutrizionali pre-gara
 - Ottimizzazione energetica per i tornei
 
+### 📝 Articoli e approfondimenti
+
+**NOVITÀ: 14 articoli approfonditi** che trattano argomenti sui giochi mentali:
+
+| Categoria | Articoli |
+|----------|----------|
+| **Comprendere il critico interiore** | [Critico Interiore](/it/blog/critico-interiore) - Padroneggia il tuo dialogo interiore |
+| **Creazione di routine pre-tiro** | [Routine pre-tiro](/it/blog/pre-shot-routines) - Crea coerenza |
+| **Gestione della pressione** | [Gestione della pressione](/it/blog/pressure-management) - Agire sotto stress |
+| **Psicologia della prestazione** | [Stati di flusso](/it/blog/flow-state-science) • [Mindfulness](/it/blog/mindfulness-competition) • [Fissazione degli obiettivi](/it/blog/elite-goal-setting) • [Resilienza mentale](/it/blog/mental-resilience) |
+| **Dinamiche di squadra** | [Comunicazione](/it/blog/team-communication) • [Chimica di squadra](/it/blog/team-chemistry) • [Leadership](/it/blog/team-leadership) |
+| **Formazione e sviluppo** | [Errori nell&#39;allenamento mentale](/it/blog/mental-training-mistakes) • [Struttura dell&#39;allenamento](/it/blog/practice-structure) • [Preparazione alla competizione](/it/blog/competition-prep) |
+
+➡️ **[Sfoglia tutti gli articoli](/it/blog/)**
+
+### 📖 Risorse
+
+**Casi di studio e testimonianze:**
+
+- **[Casi di studio](/it/casi-di-studio)** - Esempi reali di giocatori d&#39;élite che utilizzano l&#39;allenamento del gioco mentale
+- **[Testimonianze](/it/testimonianze)** - Feedback dei giocatori che hanno implementato questi metodi
+
 ## La nostra missione
 
 ```mermaid
 graph LR
-    A[Technical Mastery] --> B[Mental Game]
-    B --> C[Flow State]
-    C --> D[Peak Performance]
-    D --> E[Consistent Excellence]
+    A[Padronanza tecnica] --> B[Gioco mentale]
+    B --> C[Stato di flusso]
+    C --> D[Massima prestazione]
+    D --> E[Eccellenza costante]
 
     style A fill:#e3f2fd
     style B fill:#fff4e1
@@ -116,9 +138,9 @@ I giocatori d&#39;élite hanno già padroneggiato la tecnica. La prossima svolta
 
 **Iniziamo dalle basi:**
 
-1. **[Ambizione](/en/ambition)** - Comprendere la filosofia alla base dello sviluppo delle élite
+1. **[Ambizione](/it/ambizione)** - Comprendere la filosofia alla base dello sviluppo delle élite
 2. **[The Zone](/it/education/the-zone/)** - Scopri gli stati di flusso
-3. **[Modello di obiettivo](/it/goal-template)** - Definisci i tuoi primi obiettivi strutturati
+3. **[Modello di obiettivo](/it/goal-template)** - Imposta i tuoi primi obiettivi strutturati
 
 ### Per giocatori esperti
 

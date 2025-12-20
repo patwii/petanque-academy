@@ -1,19 +1,19 @@
-# Construire votre routine pré-shot
+# Élaborer sa routine d&#39;avant-tir
 <AdBanner />
 
 
-Votre routine pré-shot est l’un des outils les plus puissants de votre jeu mental. Il s'agit d'une séquence cohérente d'actions qui vous prépare à chaque lancer et déclenche votre meilleur état de performance.
+Votre routine d&#39;avant-lancer est l&#39;un des outils les plus puissants de votre préparation mentale. Il s&#39;agit d&#39;une séquence d&#39;actions régulières qui vous prépare à chaque lancer et vous permet d&#39;atteindre votre performance optimale.
 
-::: Astuce La grande idée
-**Votre routine est votre porte d'entrée vers la zone.** Une routine pré-shot cohérente signale à votre cerveau : "Il est temps d'exécuter." Avec la répétition, cela devient un déclencheur automatique pour des performances optimales.
+::: tip La grande idée
+**Votre routine est la clé de votre performance optimale.** Une routine d&#39;avant-tir régulière signale à votre cerveau : « C&#39;est le moment de passer à l&#39;action. » Avec la répétition, elle devient un déclencheur automatique pour une performance maximale.
 :::
 
 ```mermaid
 graph LR
-    A[Démarrer la routine] --> B[Le cerveau reconnaît un motif]
-    B --> C[Changement d'état automatique]
-    C --> D[Mode d'exécution]
-    D --> E[Performances maximales]
+    A[Début de la routine] --> B[Le cerveau reconnaît un schéma]
+    B --> C[Changement d&#39;état automatique]
+    C --> D[Mode d&#39;exécution]
+    D --> E[Performance optimale]
 
     style A fill:#e3f2fd
     style C fill:#e8f5e9
@@ -23,169 +23,169 @@ graph LR
 
 ## Pourquoi les routines fonctionnent
 
-### La cohérence crée la confiance
-Lorsque vous faites la même chose à chaque fois, vous supprimez des variables. Votre corps sait ce qui s'en vient. Cela crée un sentiment de contrôle et de familiarité, même dans des situations inconnues.
+### La constance engendre la confiance
+En répétant systématiquement les mêmes gestes, on élimine les variables. Le corps sait à quoi s&#39;attendre. Cela crée un sentiment de contrôle et de familiarité, même dans des situations inédites.
 
-### États de déclenchement des routines
-Avec la répétition, votre routine devient liée à votre état de performance. Le démarrage de la routine déclenche automatiquement le passage mental en mode exécution.
+### Les routines déclenchent des états
+Avec la répétition, votre routine s&#39;intègre à votre état de performance. Le simple fait de commencer la routine amorce automatiquement le passage mental en mode exécution.
 
 ### Les routines bloquent les distractions
-Une routine donne à votre esprit quelque chose sur quoi se concentrer. Il n'y a pas de place pour s'inquiéter de la partition, du public ou de ce qui pourrait arriver.
+Une routine permet à l&#39;esprit de se concentrer sur quelque chose. Il n&#39;y a plus de place pour s&#39;inquiéter du score, du public ou de ce qui pourrait arriver.
 
-### Les routines gèrent l’excitation
-Une routine bien conçue aide à réguler votre niveau d'énergie - en vous calmant si vous êtes trop excité, en vous concentrant si vous êtes à plat.
+### Les routines gèrent l&#39;excitation
+Une routine bien conçue aide à réguler votre niveau d&#39;énergie : elle vous calme si vous êtes trop excité, elle vous aide à vous concentrer si vous manquez d&#39;énergie.
 
-## Éléments d'une routine efficace
+## Éléments d&#39;une routine efficace
 
-### Phase 1 : Évaluation (en dehors du cercle)
+### Phase 1 : Évaluation (Hors du cercle)
 
-Avant d’intervenir, rassemblez des informations :
-- Lire le terrain (pentes, obstacles, surface)
+Avant d&#39;intervenir, rassemblez des informations :
+- Analysez le terrain (pentes, obstacles, surface).
 - Évaluer la situation (score, positions des boules)
-- Choisissez votre cible et votre point d'atterrissage
-- Décidez du type de lancer (pointer, tirer, lob, rouler)
+- Choisissez votre cible et votre point d&#39;atterrissage
+- Choisissez le type de lancer (pointer, tirer, lober, rouler)
 
-**C'est ici que la réflexion se produit.** Prenez votre temps ici.
+**C&#39;est ici que se produit la réflexion.** Prenez votre temps.
 
-### Phase 2 : Transition (Entrée dans le cercle)
+### Phase 2 : Transition (Entrée dans le cercle)
 
-Le passage de la réflexion à l’action :
-- Action physique (entrer dans un cercle de manière cohérente)
-- Indice mental (un mot ou une phrase qui signale le « mode d'exécution »)
-- Respiration (une respiration consciente pour vous centrer)
+Le passage de la réflexion à l&#39;action :
+- Action physique (entrer dans le cercle de manière régulière)
+- Signal mental (un mot ou une phrase qui signale le « mode d&#39;exécution »)
+- Respiration (une respiration consciente pour se recentrer)
 
-**C'est le changement.** L'analyse s'arrête ici.
+**C&#39;est le point de bascule.** L&#39;analyse s&#39;arrête ici.
 
-### Phase 3 : Installation (dans le cercle)
+### Phase 3 : Installation (Dans le cercle)
 
 Préparez votre corps :
-- Position cohérente (la même à chaque fois)
-- Contrôle d'adhérence (toucher la boule)
+- Position constante (la même à chaque fois)
+- Vérification de la prise en main (sentir la boule)
 - Alignement sur la cible
-- Déclencheur physique (un petit mouvement qui vous appartient)
+- Déclencheur physique (un petit mouvement qui vous est propre)
 
-### Phase 4 : Visualisation (bref)
+### Phase 4 : Visualisation (Bref)
 
-Regardez le lancer avant de le réaliser :
-- Imaginez la trajectoire de la balle (2-3 secondes maximum)
+Visualisez le lancer avant de l&#39;effectuer :
+- Visualisez la trajectoire de la balle (2 à 3 secondes maximum).
 - Ressentez le lancer réussi
-- Connectez-vous visuellement avec votre cible
+- Établissez un lien visuel avec votre cible
 
-### Phase 5 : exécution
+### Phase 5 : Exécution
 
-Faites le lancer :
+Effectuez le lancer :
 - Mise au point externe (cible uniquement)
 - Faites confiance à votre corps
-- Libérez sans hésiter
-- Suivez naturellement
+- Libérer sans hésitation
+- Suivre naturellement
 
 <AdInArticle />
 
-## Construire votre routine personnelle
+## Créer sa routine personnelle
 
-### Étape 1 : Observez ce que vous faites déjà
+### Étape 1 : Observez ce que vous faites déjà
 
-Vous avez probablement déjà une certaine routine. Avis:
-- Que faites-vous avant de bons lancers ?
-- Qu’est-ce qui vous semble naturel ?
-- Qu’est-ce qui vous aide à vous concentrer ?
+Vous avez probablement déjà une routine. Remarque :
+- Que fais-tu avant de réussir de bons lancers ?
+- Qu&#39;est-ce qui vous semble naturel ?
+- Qu&#39;est-ce qui vous aide à vous concentrer ?
 
 ### Étape 2 : Concevez votre routine
 
 Créez une séquence qui comprend :
-- [ ] Phase d'évaluation
+- [ ] Phase d&#39;évaluation
 - [ ] Moment de transition clair
 - [ ] Configuration physique cohérente
-- [ ] Brève visualisation
-- [ ] Déclencheur d'exécution
+- [ ] brève visualisation
+- [ ] Déclencheur d&#39;exécution
 
-### Étape 3 : Notez-le
+### Étape 3 : Notez-le
 
-Soyez précis. Exemple:
+Soyez précis. Exemple :
 
-1. **Évaluez :** Lisez le terrain, choisissez le point d'atterrissage
-2. **Transition :** Entrez dans le cercle avec le pied gauche en premier, dites « confiance »
-3. **Configuration :** Pieds à la largeur des épaules, vérification de l'adhérence, aligner les épaules
-4. **Visualisez :** Voyez le chemin, ressentez la libération
-5. **Exécuter :** Les yeux sur la cible, lancez
+1. **Évaluation :** Analyser le terrain, choisir le point d&#39;atterrissage
+2. **Transition :** Entrez dans le cercle en commençant par le pied gauche, dites « confiance ».
+3. **Préparation :** Pieds écartés à la largeur des épaules, vérification de la prise en main, alignement des épaules
+4. **Visualisez :** Voyez le chemin, ressentez la libération
+5. **Exécution :** Gardez la cible en ligne de mire, lancez.
 
 ### Étape 4 : Pratiquer religieusement
 
-Utilisez votre routine à CHAQUE lancer en pratique :
-- Des lancers faciles
-- Des lancers difficiles
-- Quand tu es fatigué
+Utilisez votre routine à CHAQUE lancer à l&#39;entraînement :
+- lancers faciles
+- lancers difficiles
+- Quand on est fatigué
 - Quand tu es frais
 
 La routine doit devenir automatique.
 
-### Étape 5 : Affiner au fil du temps
+### Étape 5 : Améliorer au fil du temps
 
-Votre routine va évoluer. Remarquez ce qui fonctionne et ajustez. Mais ne le changez pas pendant la compétition – uniquement entre les épreuves.
+Votre routine évoluera. Observez ce qui fonctionne et adaptez-la. Mais ne la modifiez pas pendant la compétition ; seulement entre les épreuves.
 
-## Calendrier de routine
+## Horaire de routine
 
-Votre routine devrait prendre un temps constant :
-- Trop vite : vous êtes pressé, pas bien préparé
-- Trop lent : vous réfléchissez trop et vous perdez le flux
-- Juste ce qu'il faut : suffisamment de temps pour se préparer, pas au point de trop réfléchir
+Votre routine doit prendre un temps constant :
+- Trop rapide : vous vous précipitez, vous n&#39;êtes pas suffisamment préparé.
+- Trop lent : vous réfléchissez trop, vous perdez le fil.
+- Juste ce qu&#39;il faut : assez de temps pour se préparer, pas trop pour ne pas trop réfléchir.
 
-**Calendrier typique :**
-- Évaluation : 5 à 10 secondes
-- Transition + Configuration : 3 à 5 secondes
-- Visualisation + Exécution : 3-5 secondes
-- **Total : 10 à 20 secondes**
+**Délai habituel :**
+- Évaluation : 5 à 10 secondes
+- Transition + Préparation : 3 à 5 secondes
+- Visualisation + Exécution : 3 à 5 secondes
+- **Durée totale : 10 à 20 secondes**
 
 ## Erreurs de routine courantes
 
-|  | Erreur | Problème | Solution |  |
-|---------|---------|--------------|
-|  | Sauter en pratique | La routine n'est pas automatique | Utilisez-le à chaque lancer |  |
-|  | Trop compliqué | Difficile de se souvenir sous pression | Simplifier à l'essentiel |  |
-|  | Réfléchir pendant l'exécution | Perturbe les performances automatiques | Point de transition clair |  |
-|  | Calendrier incohérent | Crée de l'incertitude | Entraînez-vous à un rythme constant |  |
-|  | Changer en pleine compétition | Introduit le doute | Restez fidèle à ce que vous savez |  |
+| Erreur | Problème | Solution |
+|---------|---------|----------|
+| Sauter à la corde à sauter en entraînement | La routine n&#39;est pas automatique | Utilisez-le à chaque lancer |
+| Trop compliqué | Difficile à retenir sous pression | Simplifier à l&#39;essentiel |
+| Réflexion pendant l&#39;exécution | Perturbe les performances automatiques | Point de transition clair |
+| Temporisation incohérente | Crée de l&#39;incertitude | Pratiquez à un rythme constant |
+| Changement en cours de compétition | Introduit le doute | Restez fidèle à ce que vous connaissez. |
 
 ## Dépannage de routine
 
-**Si vous êtes pressé :**
-- Ajouter un souffle à la transition
-- Ralentissez vos mouvements de configuration
+**Si vous êtes pressé :**
+- Ajoutez une respiration à la transition
+- Ralentissez vos mouvements de préparation
 - Pause avant la visualisation
 
-**Si vous réfléchissez trop :**
+**Si vous réfléchissez trop :**
 - Raccourcir la routine
-- Utilisez un signal de transition plus fort
-- Concentrez-vous davantage sur l’extérieur
+- Utilisez un signal de transition plus marqué.
+- Concentrez-vous davantage sur l&#39;extérieur
 
-**Si vous n'êtes pas cohérent :**
-- Vidéo vous-même pour vérifier
-- Pratiquez la routine sans lancer
-- Obtenir les commentaires d'un partenaire
+**Si vous êtes incohérent :**
+- Filmez-vous vous-même pour vérifier
+- Répétez la routine sans lancer
+- Obtenez un retour d&#39;information de votre partenaire
 
 ## Exemples de routines
 
 ### Routine simple
-1. Choisissez la cible
+1. Choisir la cible
 2. Entrez, respirez
 3. Saisir, aligner
-4. Voyez-le, jetez-le
+4. Tu le vois, tu le jettes
 
 ### Routine détaillée
-1. Lisez le terrain, choisissez le point d'atterrissage
-2. Entrez le pied gauche en premier
-3. Dites « en douceur » en interne
-4. Une respiration, les épaules tombent
-5. Pieds réglés, contrôle de l'adhérence
+1. Analysez le terrain, choisissez votre point d&#39;atterrissage
+2. Avancez d&#39;abord le pied gauche.
+3. Prononcez « lisse » intérieurement
+4. Une respiration, les épaules s&#39;affaissent
+5. Pieds positionnés, vérification de l&#39;adhérence
 6. Alignez les épaules sur la cible
 7. Voir le chemin (2 secondes)
 8. Les yeux se fixent sur la cible
 9. Lancer
 
-## Clé à retenir
+## Points clés à retenir
 
-> Votre routine est votre point d’ancrage. Dans le chaos, c'est votre constante.
+> Votre routine est votre point d&#39;ancrage. Dans le chaos, c&#39;est votre constante.
 
-Construisez-le avec soin. Pratiquez-le toujours. Faites-lui entièrement confiance.
+Construisez-le avec soin. Entraînez-vous sans cesse. Ayez une confiance absolue en lui.
 
 <AdBanner />

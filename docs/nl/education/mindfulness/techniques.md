@@ -128,7 +128,7 @@ Een verrassend krachtige methode.
 
 ### Zintuiglijke waarneming
 
-Je volledig verbinden met je omgeving.
+Volledig betrokken zijn bij je omgeving.
 
 **De 5-4-3-2-1-techniek:**
 - Let op 5 dingen die je kunt zien.
@@ -145,7 +145,7 @@ Je volledig verbinden met je omgeving.
 
 Integreer ademhalingsoefeningen in je routine:
 
-1. Voordat je de cirkel betreedt, haal je één keer bewust adem.
+1. Haal één keer bewust adem voordat je de cirkel betreedt.
 2. Voel je voeten op de grond.
 3. Laat je schouders zakken tijdens het uitademen.
 4. Begin dan met je routine.
@@ -156,8 +156,8 @@ Wat te doen tijdens het wachten:
 
 - Let op waar je aandacht naartoe gaat.
 - Als het over de score/het resultaat gaat, bevestig dit dan en ga terug naar de huidige situatie.
-- Richt je aandacht op iets neutraals (je ademhaling, het gevoel van een jeu de boules-bal).
-- Blijf fysiek ontspannen.
+- Richt je aandacht op iets neutraals (je ademhaling, het gevoel van een boule).
+- Blijf fysiek ontspannen
 
 ### De &quot;Mindfulnessbel&quot;
 

@@ -29,9 +29,75 @@ graph TD
     style G fill:#fff4e1
 ```
 
-## Vårt perspektiv
+## Det vanligaste misstaget i teknisk träning
 
 <AdInArticle />
+
+::: info Denna sektion är för erfarna spelare
+Om du är nybörjare på boule behöver du naturligtvis utveckla din grundteknik från grunden – och det är en annan resa.
+
+**Detta råd är för spelare som har spelat i flera år** och redan har en etablerad teknik som känns naturlig, avslappnad och pålitlig. Du har hittat ditt sätt att kasta. Nu är frågan: hur utvecklas du härifrån?
+:::
+
+::: warning Den vanliga fällan
+När erfarna spelare vill förbättra sig går de ofta tillbaka till grunderna – justera greppet, armsvingen, släpppunkten, kroppspositionen. Timmar av övning. Oändliga finjusteringar.
+
+**Men de har hoppat över den viktigaste frågan:** Vad exakt vill du att klotet ska göra?
+:::
+
+Innan du rör vid din teknik behöver du vara tydlig med vilket **resultat** du försöker uppnå. Inte &quot;Jag vill slå mer&quot; eller &quot;Jag vill vara mer konsekvent&quot; – det är inte resultat, det är önskningar.
+
+Ett verkligt resultat ser ut så här:
+- &quot;Jag vill ha en högbågig lob som stannar inom 20 cm från där den landar&quot;
+- &quot;Jag vill ha ett rullande skott som svänger åt vänster i den här typen av terräng&quot;
+- &quot;Jag vill ha ett mjukt, devanterat skott som knappt nuddar målklotet&quot;
+
+**Först, utforska [Paletten av kast](/sv/tekniska/kast)** för att förstå vad som är möjligt. Bestäm sedan vilket specifikt kast du vill lägga till i din repertoar. Först då bör du börja arbeta med hur din arm, handled och kropp behöver röra sig för att skapa det resultatet.
+
+## Rätt sätt att arbeta med teknik
+
+Vi säger inte att du aldrig ska arbeta med din arm, handled, frigörelse eller kroppsposition. **Tekniskt arbete med utförande är absolut giltigt** — men det måste ha rätt syfte.
+
+::: info Rätt syfte för tekniskt arbete
+**Rätt syfte:** &quot;Jag vill lägga till en ny pläd i min palett&quot;
+
+**Fel syfte:** &quot;Jag vill slå fler slag&quot; eller &quot;Jag vill vara mer konsekvent&quot;
+:::
+
+Här är processen:
+
+1. **Utforska [Kastpaletten](/sv/tekniska/kast)** — Identifiera vilket kast eller vilken teknik du vill lägga till i din repertoar
+2. **Visualisera resultatet** — Vad ska klotet göra? Vilken bana, landning, snurr och beteende behöver du?
+3. **Arbeta sedan med utförandet** — Nu kan du fokusera på arm, handled, kroppsposition och släpp för att uppnå det specifika resultatet
+
+Denna metod ger din tekniska träning **tydlig riktning och mätbara framsteg**. Du &quot;övar&quot; inte bara – du utökar medvetet dina förmågor.
+
+::: tip Exempel: Lägga till en Plombée
+**Mål:** Lägg till ett drop shot (plombée) i din pointing repertoar
+
+**Resultatvisualisering:** Klotet ska böja sig högt, landa mjukt med bakåtsnurr och stanna nästan omedelbart
+
+**Tekniskt fokus:** Högre utlösningspunkt, mer handledsaktion för bakåtspinning, mjukare grepp
+
+**Framgångsmått:** Kan du utföra detta kast när du vill? Det är målet.
+:::
+
+## Varför &quot;att slå mer&quot; är fel mål
+
+Om du justerar din teknik för att &quot;slå oftare&quot; eller &quot;vara mer konsekvent&quot;, tar du förmodligen itu med fel problem.
+
+**Sanningen är den här:** Om du kan slå bra på träning men kämpar på tävling, är problemet inte din teknik – det är det mentala. Din arm vet vad den ska göra. Frågan är om ditt sinne tillåter det.
+
+::: tip Den mentala kopplingen
+Inkonsekvens under press är sällan ett tekniskt problem – det är ett mentalt.
+
+**För konsekvens och prestation under press, utforska vår sektion [Utbildning](/sv/utbildning/), särskilt:
+- [Zonen](/sv/utbildning/zonen/) — Skapar förutsättningar för topprestationer
+- [Mental styrka](/sv/utbildning/mental-styrka/) — Prestera när det gäller
+- [Teknisk vs Flöde](/sv/utbildning/zonen/teknisk-vs-flöde) — När man ska fokusera på teknik kontra förtroende
+:::
+
+## Vårt perspektiv
 
 ::: tip Du behöver inte bemästra allt
 **Du behöver inte behärska alla tekniker**, men att förstå hela paletten av möjligheter hjälper dig att:

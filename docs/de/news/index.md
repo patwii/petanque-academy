@@ -1,4 +1,4 @@
-# Neuigkeiten & Updates
+# Neuigkeiten &amp; Updates
 
 <AdBanner />
 
@@ -12,20 +12,20 @@ Wir haben eine umfassende Plattform ins Leben gerufen, die Elite-Pétanque-Spiel
 
 ```mermaid
 graph TD
-    A[Pétanque Academy] --> B[Education Platform]
-    A --> C[Training Tools]
-    A --> D[Workshop Programs]
+    A[Pétanque Academy] --> B[Bildungsplattform]
+    A --> C[Schulungsmaterialien]
+    A --> D[Workshop-Programme]
 
-    B --> E[8 Complete Modules]
-    B --> F[Mental Game Mastery]
-    B --> G[Technical Foundations]
+    B --> E[8 vollständige Module]
+    B --> F[Mentale Spielbeherrschung]
+    B --> G[Technische Grundlagen]
 
-    C --> H[Goal Templates]
-    C --> I[Diary Templates]
-    C --> J[Training Plans]
+    C --> H[Zielvorlagen]
+    C --> I[Tagebuchvorlagen]
+    C --> J[Trainingspläne]
 
-    D --> K[Elite Player Forums]
-    D --> L[Training Camps]
+    D --> K[Elite-Spielerforen]
+    D --> L[Trainingslager]
 
     style A fill:#fff4e1
     style B fill:#e3f2fd
@@ -43,14 +43,14 @@ Wir haben **8 umfassende Schulungsmodule** eingeführt, die alles von Flow-Zust�
 
 | Modul | Was ist drin? | Hauptmerkmale |
 |--------|---------------|--------------|
-| **[The Zone](/en/education/the-zone/)** | Flow-Zustandsbeherrschung | 4 detaillierte Anleitungen zum Einstieg und zur Aufrechterhaltung des Arbeitsflusses |
-| **[Mental Strength](/en/education/mental-strength/)** | Druckhandhabung | Vorbereitungsroutinen vor dem Dreh, Umgang mit dem inneren Kritiker |
-| **[Mindfulness](/en/education/mindfulness/)** | Gegenwärtiges Bewusstsein | Tägliche Übungen, Wettkampftechniken |
-| **[Goals](/en/education/goals/)** | Strategische Planung | SMART-Ziele, Hierarchie, Trackingsysteme |
-| **[Tactics](/en/education/tactics/)** | Spielstrategie | Entscheidungsfindung, Wahrscheinlichkeit, Positionierung |
-| **[Team Player](/en/education/team-player/)** | Teamfähigkeit | Kommunikation, Vertrauen, Teamdynamik |
-| **[Training](/en/education/training/)** | Übungsmethoden | Übungen, gezieltes Üben, Fortschritt |
-| **[Nutrition](/en/education/nutrition/)** | Hochleistungskraftstoff | Blutzuckermanagement, Wettkampfernährung |
+| **[Die Zone](/en/education/the-zone/)** | Flow-Zustandsbeherrschung | 4 detaillierte Anleitungen zum Einstieg und zur Aufrechterhaltung des Arbeitsflusses |
+| **[Mentale Stärke](/en/education/mental-strength/)** | Druckhandhabung | Vorbereitungsroutinen vor dem Dreh, Umgang mit dem inneren Kritiker |
+| **[Achtsamkeit](/en/education/mindfulness/)** | Gegenwärtiges Bewusstsein | Tägliche Übungen, Wettkampftechniken |
+| **[Ziele](/de/bildung/ziele/)** | Strategische Planung | SMART-Ziele, Hierarchie, Trackingsysteme |
+| **[Taktiken](/en/education/tactics/)** | Spielstrategie | Entscheidungsfindung, Wahrscheinlichkeit, Positionierung |
+| **[Teamspieler](/en/education/team-player/)** | Teamfähigkeit | Kommunikation, Vertrauen, Teamdynamik |
+| **[Schulung](/en/education/training/)** | Übungsmethoden | Übungen, gezieltes Üben, Fortschritt |
+| **[Ernährung](/en/education/nutrition/)** | Hochleistungskraftstoff | Blutzuckermanagement, Wettkampfernährung |
 
 ### 🛠️ Praktische Werkzeuge
 
@@ -77,14 +77,36 @@ Wir haben **8 umfassende Schulungsmodule** eingeführt, die alles von Flow-Zust�
 - Ernährungsstrategien vor dem Wettkampf
 - Energieoptimierung für Turniere
 
+### 📝 Artikel &amp; Einblicke
+
+**NEU: 14 ausführliche Artikel** zu Themen der mentalen Strategie:
+
+| Kategorie | Artikel |
+|----------|----------|
+| **Den inneren Kritiker verstehen** | [Innerer Kritiker](/en/blog/inner-critic) – Meistere deinen inneren Dialog |
+| **Aufbau von Vorbereitungsroutinen vor dem Spritzen** | [Vorbereitungsroutinen](/en/blog/pre-shot-routines) – Für mehr Konstanz sorgen |
+| **Druckmanagement** | [Druckmanagement](/en/blog/pressure-management) – Leistung unter Stress |
+| **Leistungspsychologie** | [Flow-Zustände](/en/blog/flow-state-science) • [Achtsamkeit](/en/blog/mindfulness-competition) • [Zielsetzung](/en/blog/elite-goal-setting) • [Mentale Resilienz](/en/blog/mental-resilience) |
+| **Teamdynamik** | [Kommunikation](/en/blog/team-communication) • [Teamchemie](/en/blog/team-chemistry) • [Führung](/en/blog/team-leadership) |
+| **Ausbildung &amp; Weiterbildung** | [Fehler im mentalen Training](/en/blog/mental-training-mistakes) • [Trainingsstruktur](/en/blog/practice-structure) • [Wettkampfvorbereitung](/en/blog/competition-prep) |
+
+➡️ **[Alle Artikel ansehen](/en/blog/)**
+
+### 📖 Ressourcen
+
+**Fallstudien &amp; Erfahrungsberichte:**
+
+- **[Fallstudien](/en/case-studies)** – Beispiele aus der Praxis von Spitzenspielern, die mentales Training nutzen.
+- **[Testimonials](/en/testimonials)** - Feedback von Spielern, die diese Methoden angewendet haben
+
 ## Unsere Mission
 
 ```mermaid
 graph LR
-    A[Technical Mastery] --> B[Mental Game]
-    B --> C[Flow State]
-    C --> D[Peak Performance]
-    D --> E[Consistent Excellence]
+    A[Technische Beherrschung] --> B[Mentales Spiel]
+    B --> C[Strömungszustand]
+    C --> D[Spitzenleistung]
+    D --> E[Konsequente Exzellenz]
 
     style A fill:#e3f2fd
     style B fill:#fff4e1
@@ -117,7 +139,7 @@ Spitzenspieler beherrschen die Technik bereits. Der nächste Durchbruch liegt im
 **Beginnen Sie mit den Grundlagen:**
 
 1. **[Ambition](/en/ambition)** – Die Philosophie hinter der Eliteentwicklung verstehen
-2. **[Die Zone](/en/education/the-zone/)** – Lerne mehr über Flow-Zustände.
+2. **[Die Zone](/en/education/the-zone/)** – Erfahre mehr über Flow-Zustände
 3. **[Zielvorlage](/en/goal-template)** – Setzen Sie sich Ihre ersten strukturierten Ziele
 
 ### Für erfahrene Spieler
@@ -132,9 +154,9 @@ Spitzenspieler beherrschen die Technik bereits. Der nächste Durchbruch liegt im
 
 **Gemeinsame Exzellenz aufbauen:**
 
-1. **[Teamplayer](/en/education/team-player/)** - Verbesserung der Teamdynamik
+1. **[Teamplayer](/en/education/team-player/)** - Teamdynamik verbessern
 2. **[Trainingslager](/en/training-camp)** - Wochenend-Intensivkurse organisieren
-3. **[Trainingssitzung](/en/training-session)** - Strukturierte Teamübungen
+3. **[Training Session](/en/training-session)** - Strukturierte Teamübungen
 
 ## Was macht dieses Produkt anders?
 
@@ -144,8 +166,8 @@ Spitzenspieler beherrschen die Technik bereits. Der nächste Durchbruch liegt im
 1. **Mentale Spielbeherrschung** – Der entscheidende Unterschied auf hohem Niveau
 2. **Praktische Werkzeuge** – Nicht nur Theorie, sondern sofort einsatzbereite Vorlagen
 3. **Strukturierte Programme** – Klare Rahmenbedingungen für Workshops und Camps
-4. **Evidenzbasiert** – Basierend auf sportpsychologischer Forschung und Flow-Erkrankungen
-5. **Für Elite-Spieler** - Entwickelt für Spieler, die die Grundlagen bereits beherrschen
+4. **Evidenzbasiert** – Basierend auf Sportpsychologie und Flow-Forschung
+5. **Für Elite-Spieler** – Entwickelt für Spieler, die die Grundlagen bereits beherrschen
 :::
 
 ## Mach mit!

@@ -1,5 +1,7 @@
 # Ambição
 
+<AdBanner />
+
 Nossa missão é ajudar jogadores de elite a darem o próximo passo em seu desenvolvimento.
 
 ::: tip Nossa visão
@@ -71,7 +73,7 @@ Jogadores de elite já possuem a base técnica. O que diferencia os bons dos exc
 Aprenda a entrar &quot;no estado de fluxo&quot; de forma consistente, não por acaso.
 
 ### 2. Força Mental
-Desenvolva rotinas, pratique a atenção plena e aprenda a gerenciar o estresse.
+Desenvolva rotinas, pratique a atenção plena e aprenda a gerenciar a pressão.
 
 ### 3. Nutrição Inteligente
 Alimente seu cérebro para ter foco estável e mãos firmes.
@@ -82,4 +84,6 @@ Compartilhe experiências com outros jogadores de elite em um ambiente seguro e 
 ::: info Pronto para dar o próximo passo?
 Explore a nossa secção [Educação](/en/education/) ou saiba mais sobre os nossos [Workshops](/en/workshop).
 :::
+
+<AdBanner />
 

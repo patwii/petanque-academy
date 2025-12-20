@@ -64,7 +64,7 @@ Das richtige Trainingsverhältnis verhält sich umgekehrt proportional zur techn
 - **Mentaler Fokus:** Entwicklung Ihrer Vorbereitungsroutine (Pre-Performance Routine, PPR)
 
 ### 3. Fortgeschritten (Schwelle der Autonomie)
-- Der Prozess ist weitgehend automatisiert.
+- Die Fertigkeit ist weitgehend automatisiert.
 - Ihr Selbstbild hinkt oft Ihren körperlichen Fähigkeiten hinterher.
 - Das Training konzentriert sich auf die Drucksimulation.
 - **Verhältnis:** 50 % Technik / 50 % Mental

@@ -50,8 +50,6 @@ graph TD
 
 ## Unsere Lernwege
 
-<AdInArticle />
-
 ### 🎯 [Die Zone (Flow-Zustand)](/en/education/the-zone/)
 Lerne, was der „Flow“ wirklich ist und wie du ihn erreichst. Verstehe die Wissenschaft hinter diesen Zuständen und entdecke praktische Techniken, um in entscheidenden Momenten Höchstleistungen zu erbringen.
 
@@ -159,4 +157,3 @@ Beginnen Sie mit [The Zone](/en/education/the-zone/), um die Grundlagen von Höc
 :::
 
 <AdBanner />
-:::

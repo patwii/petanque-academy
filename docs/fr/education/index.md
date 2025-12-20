@@ -80,7 +80,7 @@ Optimisez votre performance cérébrale pour une précision maximale. Apprenez �
 
 À mesure que vous progressez en tant que joueur, votre ratio d&#39;entraînement s&#39;inverse : l&#39;entraînement mental devient plus important, et non moins :
 
-| Niveau | Ratio (Technologique:Mental) | Objectif principal |
+| Niveau | Ratio (Technologie:Mental) | Objectif principal |
 |-------|---------------------|-------------------|
 | **Débutant** | 90 : 10 | Construisez la machine |
 | **Intermédiaire** | 70 : 30 | Stabiliser la compétence |
@@ -113,7 +113,7 @@ Voici votre guide de référence rapide. Ajoutez cette section à vos favoris et
 3. **La règle de la confiance :** Votre esprit conscient planifie, votre subconscient exécute
 
 ### Règles de la pleine conscience
-1. **La règle de la conscience :** Observer sans juger
+1. **La règle de la pleine conscience :** Observer sans juger
 2. **La règle SOAS :** Arrêtez, observez, acceptez, laissez tomber (lâchez prise)
 3. **La règle du présent :** Vous ne pouvez contrôler que cet instant, ce lancer
 
@@ -157,4 +157,3 @@ Commencez par [The Zone](/en/education/the-zone/) pour comprendre les fondements
 :::
 
 <AdBanner />
-:::

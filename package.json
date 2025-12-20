@@ -4,6 +4,7 @@
   "description": "Pétanque Academy - Elite player development",
   "type": "module",
   "scripts": {
+    "dev": "./dev.sh",
     "docs:dev": "vitepress dev docs",
     "docs:build": "node scripts/generate-sitemap.js && vitepress build docs",
     "docs:preview": "vitepress preview docs",
@@ -11,6 +12,7 @@
   },
   "devDependencies": {
     "mermaid": "^11.12.2",
+    "terser": "^5.44.1",
     "vitepress": "^1.5.0",
     "vitepress-plugin-mermaid": "^2.0.17"
   }

@@ -74,6 +74,8 @@ Allenati in modo più intelligente, non solo più duramente. Impara a strutturar
 ### 🥗 [Nutrizione](/it/educazione/nutrizione/)
 Alimenta il tuo cervello per prestazioni di precisione. Impara a mantenere energia e concentrazione stabili durante la gara.
 
+<AdInArticle />
+
 ## Il viaggio dalla tecnica al flusso
 
 Man mano che cresci come giocatore, il tuo rapporto di allenamento si inverte: l&#39;allenamento mentale diventa più importante, non meno:
@@ -106,7 +108,7 @@ Non puoi addestrare un principiante come un esperto (mancano i percorsi neurali)
 Questa è la tua guida di riferimento rapido. Aggiungi questa sezione ai preferiti e consultala regolarmente.
 
 ### Le regole della zona
-1. **La regola dello scambio:** Analizzare prima del cerchio, eseguire nel cerchio, osservare dopo
+1. **La regola dello scambio:** Analizza prima del cerchio, esegui nel cerchio, osserva dopo
 2. **La regola dell&#39;inversione:** Man mano che l&#39;abilità aumenta, l&#39;allenamento mentale diventa più importante dell&#39;allenamento tecnico
 3. **La regola della fiducia:** La tua mente cosciente pianifica, il tuo subconscio esegue
 
@@ -152,9 +154,6 @@ Questa è la tua guida di riferimento rapido. Aggiungi questa sezione ai preferi
 
 ::: tip Punto di partenza consigliato
 Inizia con [The Zone](/it/education/the-zone/) per comprendere le basi delle prestazioni d&#39;élite, quindi esplora [Mindfulness](/it/education/mindfulness/) per tecniche pratiche che puoi utilizzare immediatamente.
-:::
-
-<AdBanner />
 :::
 
 <AdBanner />

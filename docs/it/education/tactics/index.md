@@ -41,7 +41,7 @@ graph TD
 ### Pensa in termini di probabilità
 
 Ogni lancio ha una probabilità di successo. Una buona tattica significa scegliere lanci in cui:
-- La probabilità di successo è sufficientemente alta
+- La probabilità di successo è abbastanza alta
 - La ricompensa giustifica il rischio
 - Il fallimento non fa troppo male
 
@@ -104,7 +104,7 @@ La squadra che controlla la posizione del cricco ha un vantaggio significativo.
 
 ### Principio 2: Strategia di distanza e superficie
 
-L&#39;equilibrio ottimale tra puntamento e tiro dipende fortemente dalla distanza e dal terreno:
+L&#39;equilibrio ottimale tra puntamento e tiro dipende molto dalla distanza e dal terreno:
 
 ::: info Strategia della distanza
 **Corto (6-7 m):** Favorisce il tiro: è più facile colpire a distanza ravvicinata
@@ -179,7 +179,7 @@ A livello d&#39;élite, la maggior parte dei giocatori sa sia puntare che tirare
 
 ### Principio 5: Usa le tue bocce con saggezza
 
-La gestione delle bocce distingue i giocatori d&#39;élite:
+La gestione del bocce distingue i giocatori d&#39;élite:
 - Quando l&#39;avversario finisce le bocce, bisogna decidere attentamente: aggiungere punti o giocare sul sicuro?
 - Quando sei in svantaggio, calcola se puoi realisticamente riprendere il punto
 - A volte concedere 1 punto è meglio che sprecare bocce e concederne 3
@@ -226,7 +226,7 @@ Devi lanciare. **Opzioni:**
 Quando hai l&#39;ultima palla:
 - Massima pressione ma anche massimo controllo
 - Prenditi il tuo tempo: valuta tutte le opzioni
-- Considera: puntare, sparare o spostare il cricco?
+- Considera: puntare, sparare o muovere il cricco?
 - Eseguire con pieno impegno
 
 Quando l&#39;avversario ha l&#39;ultima boccia:

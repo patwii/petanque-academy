@@ -25,7 +25,7 @@ graph TD
     D --> E[Mentale kracht]
     E --> F[Teamdynamiek]
 
-    B --> G[Tactiek]
+    B --> G[Tactieken]
     G --> H[Trainingsmethoden]
 
     C --> I[Voeding]
@@ -49,8 +49,6 @@ graph TD
 5. **Optimalisatie:** Fijn afstellen met voeding
 
 ## Onze leerroutes
-
-<AdInArticle />
 
 ### 🎯 [De Zone (Flow State)](/en/education/the-zone/)
 Leer wat &quot;de zone&quot; werkelijk is en hoe je die kunt bereiken. Begrijp de wetenschap achter flowtoestanden en ontdek praktische technieken om optimaal te presteren wanneer het er het meest toe doet.
@@ -86,7 +84,7 @@ Naarmate je je als speler ontwikkelt, keert de verhouding tussen training en men
 |-------|---------------------|-------------------|
 | **Beginner** | 90 : 10 | Bouw de machine |
 | **Tussenliggend** | 70 : 30 | Stabiliseer de vaardigheid |
-| **Geavanceerd** | 50 : 50 | Vertrouw op de machine |
+| **Geavanceerd** | 50 : 50 | Vertrouw op de machine. |
 | **Deskundige** | 20:80 | Vrijheid van uitvoering |
 
 Je kunt een beginner niet trainen zoals een expert (beginners missen de benodigde neurale verbindingen), en je kunt een expert niet trainen zoals een beginner (een hoge technische belasting leidt tot overmatig nadenken).
@@ -120,7 +118,7 @@ Dit is uw beknopte handleiding. Voeg dit gedeelte toe aan uw bladwijzers en raad
 3. **De huidige regel:** Je kunt alleen dit moment, deze worp, beheersen.
 
 ### Regels voor het stellen van doelen
-1. **De Controleregel:** Focus op procesdoelen (wat je kunt beheersen) in plaats van op resultaatdoelen.
+1. **De Controleregel:** Richt je op procesdoelen (wat je kunt beheersen) in plaats van op resultaatdoelen.
 2. **De SMART-regel:** Doelen moeten specifiek, meetbaar, haalbaar, relevant en tijdgebonden zijn.
 3. **De opdelingsregel:** Grote doelen vereisen mijlpalen op kwartaal-, maand- en weekniveau.
 
@@ -159,4 +157,3 @@ Begin met [The Zone](/en/education/the-zone/) om de basis van topprestaties te b
 :::
 
 <AdBanner />
-:::

@@ -187,7 +187,7 @@ Overvej hvad de vil gøre efter dit kast, uanset om det er vellykket eller ej.
 1. **Identificér muligheder** (peg, skyd, bloker osv.)
 2. **Estimer sandsynligheden for succes** for hver
 3. **Overvej resultater** (succes og fiasko)
-4. **Faktor i spillets tilstand** (score, kugler tilbage)
+4. **Faktor i spillets tilstand** (score, resterende kugler)
 5. **Vælg** muligheden med den bedste forventede værdi
 6. **Forpligt dig fuldt ud** - ingen tvivl under udførelsen
 

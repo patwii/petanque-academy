@@ -216,7 +216,7 @@ Ahora puedes jugar tus bolas restantes. **Opciones:**
 Debes lanzar. **Opciones:**
 - Apunta más cerca que su mejor bola
 - Dispara su mejor bola
-- Mueve el gato a tus bolas
+- Mueve el gato hacia tus bolas
 - Bloquear para limitar su puntuación (si no puedes tomar el punto)
 
 **Factores de decisión:** Su porcentaje de tiro, número de bolas restantes (ambos equipos), puntuación actual
@@ -262,7 +262,7 @@ En la élite, la exploración es fundamental. Conoce a tus oponentes antes de ju
 ## Resumen: Todas las reglas tácticas
 
 ::: tip Regla n.° 1: La regla de la probabilidad
-**Elige lanzamientos en los que la probabilidad de éxito justifique el riesgo.**
+**Elija lanzamientos en los que la probabilidad de éxito justifique el riesgo.**
 Considere: tasa de éxito, recompensa si tiene éxito, costo si falla
 :::
 

@@ -210,7 +210,7 @@ graph TD
 **Scopo:** Simulazione di competizione
 
 **Varianti:**
-- Gioca fino a 13 (partita completa)
+- Gioca fino a 13 (gioco completo)
 - Gioca fino a 7 (più breve, più partite)
 - &quot;Punti di pressione&quot; - certe estremità valgono il doppio
 - &quot;Morte improvvisa&quot; - il primo a perdere una partita perde la partita

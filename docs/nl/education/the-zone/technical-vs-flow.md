@@ -73,7 +73,7 @@ De juiste trainingsverhouding is omgekeerd evenredig met de technische bekwaamhe
 ### 4. Expert (Autonome fase)
 - Technische vaardigheden zijn volledig onbewust.
 - Bewuste aandacht voor de mechanica verstoort de prestaties.
-- Het onderhoudsvolume is technisch gezien alles wat je nodig hebt.
+- Technisch gezien is het onderhoudsvolume alles wat je nodig hebt.
 - **Verhouding:** 20% Technisch / 80% Mentaal
 - **Mentale focus:** Flow-toestand, strategie, het tot rust brengen van de geest
 

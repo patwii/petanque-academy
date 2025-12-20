@@ -87,7 +87,7 @@ graph TD
 ## Ejercicios de tiro
 
 ### La escalera de tiro
-**Propósito:** Desarrollar la precisión bajo presión progresiva
+**Propósito:** Desarrollar precisión bajo presión progresiva
 
 **Configuración:**
 - Coloque una bola de diana a 6 metros
@@ -231,7 +231,7 @@ Mantenga un registro de cada ejercicio:
 ## Construyendo una sesión de ejercicios
 
 ### Calentamiento (10 min)
-- Lanzamientos fáciles para relajarse.
+- Lanzamientos fáciles para relajarse
 - Sin presión, solo siente
 
 ### Enfoque técnico (20-30 min)

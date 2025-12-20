@@ -40,7 +40,7 @@ graph LR
 
 ### Vor jedem Ende
 - Das Gelände gemeinsam beurteilen
-- Allgemeine Vorgehensweise diskutieren
+- Allgemeine Vorgehensweise erörtern
 - Klären Sie, wer wann wirft.
 - Die richtige Atmosphäre schaffen (ruhig, konzentriert).
 
@@ -126,7 +126,7 @@ Die Kommunikation ist wechselseitig:
 **Was Sie sagen sollten:**
 - &quot;Kein Problem, der nächste.&quot;
 - „Pech gehabt, aber du bist dran.“
-- „Wir stecken immer noch mittendrin.“
+- &quot;Wir stecken immer noch mittendrin.&quot;
 - Manchmal genügt schon ein Nicken oder ein Klaps.
 
 **Was Sie NICHT sagen sollten:**
@@ -141,7 +141,7 @@ Die Kommunikation ist wechselseitig:
 - Kurze Bestätigung („Mein Fehler“)
 - Übermäßiges Entschuldigen
 - Mach keine Ausreden.
-- Zurücksetzen und sich auf den nächsten Wurf konzentrieren.
+- Neu ausrichten und sich auf den nächsten Wurf konzentrieren.
 - Vertraue darauf, dass deine Teamkollegen dich unterstützen.
 
 ### Spannungen im Team

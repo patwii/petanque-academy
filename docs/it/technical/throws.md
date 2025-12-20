@@ -32,7 +32,7 @@ graph TD
 
 ```mermaid
 graph LR
-    A[Traiettorie di puntamento] --> B[Roulette <br/> Rotolamento]
+    A[Traiettorie di puntamento] --> B[Roulette <br/> rotolamento]
     A --> C[Demi-portée <br/> Mezzo pallonetto]
     A --> D[Portée <br/> Pallonetto]
     A --> E[Piombata <br/> Tiro a cascata]
@@ -71,7 +71,7 @@ graph LR
 
 | Tipo di rotazione | Effetto sull&#39;atterraggio | Quando usare |
 |-----------|-------------------|-------------|
-| **Rotazione completa (backspin)** | Si ferma o tira indietro all&#39;atterraggio | Bisogna fermarsi velocemente, evitare di passare oltre |
+| **Gioco completo (backspin)** | Si ferma o tira indietro all&#39;atterraggio | Bisogna fermarsi velocemente, evitare di passare oltre |
 | **Mezzo giro** | Backspin moderato, rollio controllato | Il più versatile, prevedibile |
 | **Nessuna rotazione** | Rotolamento neutro e naturale all&#39;atterraggio | Lascia che sia il terreno a dettare il rollio |
 

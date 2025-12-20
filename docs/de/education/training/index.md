@@ -167,7 +167,7 @@ Widmen Sie sich gezielt Zeit für mentale Fähigkeiten:
 
 ### 1. Qualität vor Quantität
 - 30 konzentrierte Minuten sind besser als 2 Stunden sinnloses Wiederholen.
-- Stoppen, wenn die Konzentration nachlässt
+- Stoppen, sobald die Konzentration nachlässt
 - Besser frühzeitig aufhören, als schlechte Gewohnheiten zu pflegen.
 
 ### 2. Bewusstes Üben

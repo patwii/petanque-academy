@@ -1,9 +1,11 @@
 # Ambition
 
+<AdBanner />
+
 Vårt uppdrag är att hjälpa elitspelare att ta nästa steg i sin utveckling.
 
 ::: tip Vår vision
-**Förvandla elitspelare från tekniskt skickliga till mentalt ostoppbara.** Vi hjälper dig att nå det flow-tillstånd där perfekta boulespel blir ett naturligt uttryck för din mästerskapsförmåga.
+**Förvandla elitspelare från tekniskt skickliga till mentalt ostoppbara.** Vi hjälper dig att nå ett flow-tillstånd där perfekta boulespel blir ett naturligt uttryck för din mästerskapsförmåga.
 :::
 
 ## Att gå bortom tekniken
@@ -82,4 +84,6 @@ Dela erfarenheter med andra elitspelare i en trygg och stödjande miljö.
 ::: info Redo att ta nästa steg?
 Utforska vår sektion [Utbildning](/sv/utbildning/) eller läs mer om våra [Workshops](/sv/workshop).
 :::
+
+<AdBanner />
 

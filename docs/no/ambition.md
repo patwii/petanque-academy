@@ -1,5 +1,7 @@
 # Ambisjon
 
+<AdBanner />
+
 Vårt oppdrag er å hjelpe elitespillere med å ta det neste steget i sin utvikling.
 
 ::: tip Vår visjon
@@ -82,4 +84,6 @@ Del erfaringer med andre elitespillere i et trygt og støttende miljø.
 ::: info Klar til å ta neste steg?
 Utforsk vår [Utdanning](/no/utdanning/)-seksjon eller lær om våre [Workshops](/no/workshop).
 :::
+
+<AdBanner />
 

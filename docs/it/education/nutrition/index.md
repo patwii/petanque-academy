@@ -5,7 +5,7 @@
 La boccia è uno sport di precisione, non di resistenza. Le tue esigenze nutrizionali sono diverse da quelle di un maratoneta o di un calciatore. Ciò che conta di più è la **stabilità del carburante per il cervello**: mantenere la mente attiva e le mani ferme durante una lunga giornata di gara.
 
 ::: tip La grande idea
-**Your brain is your most important tool in pétanque. Feed it stable fuel, not roller coaster energy.** Focus on protein, healthy fats, and staying hydrated. Avoid sugar spikes.
+**Il tuo cervello è lo strumento più importante nel gioco delle bocce. Forniscigli carburante stabile, non energia da montagne russe.** Concentrati su proteine, grassi sani e sull&#39;idratazione. Evita i picchi di zucchero.
 :::
 
 ```mermaid
@@ -31,10 +31,10 @@ graph LR
 
 A differenza degli sport ad alta intensità, la pétanque non richiede grandi riserve di glicogeno o un rapido reintegro energetico. Ciò che richiede è:
 
-- **Glicemia stabile: senza picchi o crolli**
-- **Chiarezza mentale costante: concentrazione che dura tutto il giorno**
-- **Mani ferme - niente tremori o scosse**
-- **Nervi calmi - bassa risposta all&#39;ansia e allo stress**
+- **Glicemia stabile** - senza picchi o crolli
+- **Chiarezza mentale costante** - concentrazione che dura tutto il giorno
+- **Mani ferme** - niente tremori o scosse
+- **Calma i nervi** - bassa risposta all&#39;ansia e allo stress
 
 La tua strategia nutrizionale dovrebbe essere ottimizzata in base a questi fattori e non in base alla produzione di energia pura.
 
@@ -46,12 +46,12 @@ Molti atleti optano per diete ricche di carboidrati. Per i giocatori di pétanqu
 
 Quando mangi zucchero o carboidrati semplici:
 1. La glicemia aumenta rapidamente
-2. L&#39;insulina viene rilasciata per abbassarla
+2. L&#39;insulina viene rilasciata per abbassarlo
 3. Crollo della glicemia (ipoglicemia)
 4. Il tuo corpo rilascia adrenalina per compensare
-5. Avverti tremori, ansia e scarsa concentrazione
+5. Si avvertono tremori, ansia e scarsa concentrazione
 
-**This is the opposite of what you need for precision.**
+**Questo è l&#39;opposto di ciò di cui hai bisogno per la precisione.**
 
 ### Sintomi di instabilità della glicemia
 
@@ -98,24 +98,24 @@ L&#39;obiettivo è fornire al cervello un carburante costante, senza le montagne
 
 ### Prima della competizione
 
-**2-3 hours before:**
+**2-3 ore prima:**
 - Pasto equilibrato con proteine, grassi e verdure
 - Evitare i carboidrati pesanti che potrebbero causare sonnolenza
 - Esempio: Uova con verdure o insalata con pollo
 
-**1 hour before:**
+**1 ora prima:**
 - Spuntino leggero se necessario
 - Noci, formaggio o una piccola porzione di proteine
 - Evita tutto ciò che è zuccherato
 
 ### Durante la competizione
 
-**Between games:**
+**Tra le partite:**
 - Acqua (la più importante)
 - Piccoli spuntini proteici (noci, formaggio, carne)
 - Evitare snack e bevande zuccherate
 
-**Signs you need to eat:**
+**Segnali che indicano che devi mangiare:**
 - Difficoltà di concentrazione
 - Irritabilità
 - Mi sento tremante
@@ -133,10 +133,10 @@ La disidratazione influisce sulle funzioni cognitive prima ancora di avvertire l
 
 ### Linee guida
 
-- **Inizia idratato: bevi acqua durante il giorno prima della gara**
-- **Durante il gioco - Sorseggia acqua regolarmente, non aspettare di avere sete**
-- **Evitare l&#39;eccesso di caffeina: è un diuretico**
-- **Fai attenzione ai segnali: mal di testa, urine scure, stanchezza**
+- **Inizia idratato** - Bevi acqua durante il giorno prima della gara
+- **Durante il gioco** - Sorseggia acqua regolarmente, non aspettare di avere sete
+- **Evitare l&#39;eccesso di caffeina** - È un diuretico
+- **Fai attenzione ai segnali** - Mal di testa, urine scure, stanchezza
 
 ### Quanto?
 
@@ -146,13 +146,13 @@ Una regola generale: cerca di ottenere un&#39;urina di colore giallo chiaro. Se 
 
 Alcuni atleti di precisione adottano diete a basso contenuto di carboidrati o chetogeniche. La teoria:
 
-**Potential benefits:**
+**Potenziali benefici:**
 - Glicemia molto stabile (nessun picco possibile)
 - Chiarezza mentale costante
 - Riduzione dell&#39;ansia e dei tremori
 - Nessun crollo energetico pomeridiano
 
-**Considerations:**
+**Considerazioni:**
 - Richiede un periodo di adattamento (1-2 settimane)
 - Non adatto a tutti
 - Richiede pianificazione e impegno
@@ -165,20 +165,20 @@ Si tratta di una strategia avanzata, non necessaria per tutti, ma che vale la pe
 ## Cibo come pratica: allenare il corpo
 
 ::: warning Concetto critico
-**Mat är inte bara bränsle - det är något du övar med.** Just like you practice your throw, you must practice your nutrition to get your body comfortable with competition-day eating.
+**Il cibo non è solo carburante, è qualcosa con cui ti alleni.** Proprio come ti alleni per il lancio, devi allenare la tua alimentazione per far sì che il tuo corpo si senta a suo agio con l&#39;alimentazione del giorno della gara.
 :::
 
 ### Perché la pratica alimentare è importante
 
 Il tuo sistema digestivo è allenabile. Ciò che mangi regolarmente diventa ciò che il tuo corpo si aspetta e gestisce meglio. Se mangi solo proteine e verdure nei giorni di gara, il tuo corpo non si adatterà.
 
-**The problem:**
+**Il problema:**
 - Mangiare cibi non familiari il giorno della gara può causare disturbi digestivi
 - Il tuo corpo ha bisogno di tempo per adattarsi alle nuove abitudini alimentari
 - Stress + cibo sconosciuto = potenziali problemi di stomaco
 - L&#39;ansia da prestazione è già abbastanza grave senza aggiungere l&#39;ansia digestiva
 
-**The solution:**
+**La soluzione:**
 - Metti in pratica la tua alimentazione da competizione durante l&#39;allenamento
 - Rendi i tuoi cibi preferiti per il giorno della gara parte della tua routine quotidiana
 - Allena il tuo corpo ad abituarsi ad alimenti con energia stabile
@@ -188,11 +188,11 @@ Il tuo sistema digestivo è allenabile. Ciò che mangi regolarmente diventa ciò
 ```mermaid
 graph TD
     A[Dieta attuale] --> B[Cambiamenti graduali]
-    B --> C[Adattamento del corpo<br/>2-4 settimane]
+    B --> C[Adattamento del corpo <br/> 2-4 settimane]
     C --> D[Nuova normalità]
     D --> E[Pronto per la competizione]
 
-    F[Cambiamento improvviso<br/>Giorno della competizione] --> G[Disturbi digestivi]
+    F[Cambiamento improvviso <br/> Giorno della competizione] --> G[Disturbi digestivi]
     G --> H[Scarsa prestazione]
 
     style A fill:#fff3e0
@@ -202,23 +202,23 @@ graph TD
 ```
 
 Quando cambi la tua dieta:
-1. **Settimana 1-2:** Il tuo corpo si adatta ai nuovi alimenti, potrebbe sentirsi diverso
+1. **Settimana 1-2:** Il tuo corpo si adatta ai nuovi alimenti, potrebbe avere sensazioni diverse
 2. **Settimana 3-4:** Avviene l&#39;adattamento, i nuovi alimenti sembrano normali
 3. **Settimana 5+:** Il tuo corpo è a suo agio ed efficiente con questi alimenti
 
-**This is why you can't just "eat healthy" on competition day and expect optimal results.**
+**Ecco perché non puoi semplicemente &quot;mangiare sano&quot; il giorno della gara e aspettarti risultati ottimali.**
 
 ### Come praticare la tua nutrizione
 
 #### 1. Inizia durante l&#39;allenamento
 
-**Practice your competition-day eating during training sessions:**
+**Esercitati a mangiare come ti aspetti in gara durante le sessioni di allenamento:**
 - Mangia lo stesso pasto pre-allenamento che mangeresti prima di una gara
 - Porta gli stessi snack che porteresti a un torneo
 - Nota come risponde il tuo corpo
 - Adatta in base a ciò che funziona
 
-**Example training day:**
+**Esempio di giornata di formazione:**
 ```
 2-3 hours before: Eggs with vegetables (same as competition)
 During training: Water + nuts (same as competition)
@@ -227,19 +227,19 @@ After training: Balanced meal with protein
 
 #### 2. Rendila la tua normalità
 
-**Don't have a "competition diet" and a "regular diet"** - this creates two problems:
+**Non seguire una &quot;dieta da competizione&quot; e una &quot;dieta normale&quot;** - questo crea due problemi:
 - Il tuo corpo non si adatta mai completamente a nessuno dei due
 - Il cibo da competizione sembra insolito e stressante
 
-**Instead:**
-- Fai in modo che gli alimenti a energia stabile diventino la tua norma quotidiana
+**Invece:**
+- Rendi gli alimenti a energia stabile la tua norma quotidiana
 - Il tuo corpo diventa efficiente nell&#39;utilizzare proteine e grassi
 - Il giorno della gara sembra normale, non diverso
 - Nessuna sorpresa digestiva
 
 #### 3. Testare e perfezionare
 
-**Use training to experiment:**
+**Utilizzare l&#39;addestramento per sperimentare:**
 
 | Test | Cosa notare | Regolare |
 |------|----------------|--------|
@@ -248,7 +248,7 @@ After training: Balanced meal with protein
 | Tipi di snack | Energia sostenuta | Trova i tuoi snack preferiti |
 | Quantità di idratazione | Concentrazione, pause bagno | Assunzione di equilibrio |
 
-**Keep a simple log:**
+**Tieni un registro semplice:**
 - Cosa hai mangiato e quando
 - Come ti sei sentito durante l&#39;allenamento
 - Livelli di energia e concentrazione
@@ -256,7 +256,7 @@ After training: Balanced meal with protein
 
 #### 4. Costruisci comfort e sicurezza
 
-**The psychological benefit:**
+**Il beneficio psicologico:**
 
 Quando hai messo in pratica la tua alimentazione centinaia di volte durante l&#39;allenamento:
 - Sai esattamente come risponderà il tuo corpo
@@ -264,22 +264,22 @@ Quando hai messo in pratica la tua alimentazione centinaia di volte durante l&#3
 - Una cosa in meno di cui preoccuparsi il giorno della gara
 - Fiducia nella tua preparazione
 
-**This is the same principle as practicing your throw** - repetition builds comfort and reliability.
+**Questo è lo stesso principio dell&#39;allenamento al lancio**: la ripetizione aumenta il comfort e l&#39;affidabilità.
 
 ### Sfide comuni di adattamento
 
 ::: details Passaggio da una dieta ricca di carboidrati a una dieta a energia stabile
 
-**Challenge:** You're used to bread, pasta, and sugary snacks
+**Sfida:** Sei abituato a pane, pasta e snack zuccherati
 
-**Adaptation period:** 2-4 weeks
+**Periodo di adattamento:** 2-4 settimane
 
-**What to expect:**
+**Cosa aspettarsi:**
 - Settimana 1: Potrebbe sembrare diverso, desiderio di cibi vecchi
 - Settimana 2: L&#39;energia si stabilizza, le voglie si riducono
 - Settimana 3-4: Nuova normalità, corpo efficiente con grassi/proteine
 
-**How to practice:**
+**Come esercitarsi:**
 - Inizia con un pasto alla volta
 - Sostituisci prima i carboidrati semplici con carboidrati complessi
 - Aumentare gradualmente le proteine e i grassi sani
@@ -288,15 +288,15 @@ Quando hai messo in pratica la tua alimentazione centinaia di volte durante l&#3
 
 ::: details Trovare gli alimenti che funzionano per te
 
-**Challenge:** Not everyone digests the same foods well
+**Sfida:** Non tutti digeriscono bene gli stessi alimenti
 
-**What to test:**
+**Cosa testare:**
 - Diverse fonti proteiche (uova vs. carne vs. noci)
 - Orario dei pasti (2 ore prima vs. 3 ore prima)
 - Porzioni (troppo = pigrizia, troppo poco = fame)
 - Alimenti specifici che causano disagio
 
-**Practice approach:**
+**Approccio pratico:**
 - Prova una variabile alla volta
 - Fornire a ciascun test 2-3 sessioni di allenamento
 - Nota cosa ti fa sentire meglio
@@ -305,15 +305,15 @@ Quando hai messo in pratica la tua alimentazione centinaia di volte durante l&#3
 
 ::: details Come gestire gli ambienti alimentari dei tornei
 
-**Challenge:** Tournaments often have limited food options
+**Sfida:** I tornei spesso hanno opzioni alimentari limitate
 
-**Practice solution:**
+**Soluzione pratica:**
 - Porta sempre con te i tuoi spuntini (mettilo in pratica)
 - Individuare i luoghi in anticipo, quando possibile
 - Avere opzioni di backup che sai funzionare
 - Esercitati a mangiare in ambienti diversi
 
-**Mental preparation:**
+**Preparazione mentale:**
 - Non fare affidamento sul cibo del locale
 - Considera il cibo come parte della tua attrezzatura
 - Imballalo come imballi le tue palle
@@ -321,21 +321,21 @@ Quando hai messo in pratica la tua alimentazione centinaia di volte durante l&#3
 
 ### Il piano di pratica nutrizionale di 30 giorni
 
-**Goal:** Make stable-energy eating your comfortable normal
+**Obiettivo:** Rendere l&#39;alimentazione a energia stabile la tua normalità confortevole
 
-**Week 1-2: Foundation**
+**Settimana 1-2: Fondazione**
 - Sostituisci un pasto al giorno con un&#39;alimentazione in stile competizione
 - Praticare l&#39;alimentazione pre-allenamento
 - Inizia a portare degli spuntini all&#39;allenamento
 - Nota come risponde il tuo corpo
 
-**Week 3-4: Expansion**
+**Settimana 3-4: Espansione**
 - Prepara due pasti al giorno a base di energia stabile
 - Praticare un&#39;alimentazione completa nei giorni di gara nei giorni di allenamento
 - Affina le tue scelte di snack
 - Crea la tua lista di cibi preferiti
 
-**Week 5+: Mastery**
+**Settimana 5+: Padronanza**
 - Mangiare a energia stabile è la tua nuova normalità
 - Il corpo è completamente adattato
 - Il giorno della gara sembra una routine
@@ -343,14 +343,14 @@ Quando hai messo in pratica la tua alimentazione centinaia di volte durante l&#3
 
 ### Il tuo kit alimentare per la competizione
 
-**Practice packing this for every training session:**
+**Esercitati a portare questo bagaglio per ogni sessione di allenamento:**
 
-**Pre-competition (2-3 hours before):**
+**Pre-gara (2-3 ore prima):**
 - [ ] Fonte proteica (uova, carne o noci)
 - [ ] Verdure o insalata
 - [ ] Grassi sani (avocado, olio d&#39;oliva, formaggio)
 
-**During competition:**
+**Durante la competizione:**
 - [ ] Bottiglia d&#39;acqua (ricaricabile)
 - [ ] Frutta secca mista (piccole porzioni)
 - [ ] Uova sode (se riesci a tenerle al fresco)
@@ -358,7 +358,7 @@ Quando hai messo in pratica la tua alimentazione centinaia di volte durante l&#3
 - [ ] Carne secca o essiccata
 - [ ] Snack di riserva
 
-**The more you practice with this kit, the more automatic it becomes.**
+**Più ti eserciti con questo kit, più diventerà automatico.**
 
 ## Consigli pratici
 
@@ -381,8 +381,8 @@ Quando hai messo in pratica la tua alimentazione centinaia di volte durante l&#3
 
 > Il cervello è lo strumento più importante nella pétanque. Offritegli un carburante stabile, non un&#39;energia da montagne russe. E allenate la vostra alimentazione proprio come vi allenate per il lancio: la ripetizione crea comfort e affidabilità.
 
-Concentratevi su proteine, grassi sani e sull&#39;idratazione. Evitate i picchi di zucchero. **La cosa più importante: fate in modo che l&#39;alimentazione del giorno della gara diventi la vostra alimentazione quotidiana.** Il vostro corpo ha bisogno di allenamento per dare il massimo.
+Concentratevi su proteine, grassi sani e sull&#39;idratazione. Evitate i picchi di zucchero. **La cosa più importante: fate in modo che la vostra alimentazione per il giorno della gara sia la vostra alimentazione quotidiana.** Il vostro corpo ha bisogno di allenamento per dare il massimo.
 
-**Remember:** You wouldn't show up to a tournament with a throwing technique you've never practiced. Don't show up with a nutrition strategy you've never practiced either.
+**Ricorda:** Non ti presenteresti a un torneo con una tecnica di lancio che non hai mai provato. Non presentarti nemmeno con una strategia nutrizionale che non hai mai provato.
 
 <AdBanner />

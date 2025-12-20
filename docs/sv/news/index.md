@@ -5,27 +5,27 @@
 ## Välkommen till Bouleakademin
 
 ::: tip Plattformen är nu live! 🎉
-**Petanque Academy är nu i full drift!**
+**Bouljonakademin är nu i full drift!**
 
 Vi har lanserat en omfattande plattform dedikerad till att hjälpa elitboulespelare att nå sin fulla potential genom mental spelbehärskning, strukturerad träning och praktiska verktyg.
 :::
 
 ```mermaid
 graph TD
-    A[Pétanque Academy] --> B[Education Platform]
-    A --> C[Training Tools]
-    A --> D[Workshop Programs]
+    A[Pétanque Academy] --> B[Utbildningsplattform]
+    A --> C[Träningsverktyg]
+    A --> D[Workshopprogram]
 
-    B --> E[8 Complete Modules]
-    B --> F[Mental Game Mastery]
-    B --> G[Technical Foundations]
+    B --> E[8 kompletta moduler]
+    B --> F[Mental spelbehärskning]
+    B --> G[Tekniska grunder]
 
-    C --> H[Goal Templates]
-    C --> I[Diary Templates]
-    C --> J[Training Plans]
+    C --> H[Målmallar]
+    C --> I[Dagboksmallar]
+    C --> J[Träningsplaner]
 
     D --> K[Elite Player Forums]
-    D --> L[Training Camps]
+    D --> L[Träningsläger]
 
     style A fill:#fff4e1
     style B fill:#e3f2fd
@@ -42,15 +42,15 @@ graph TD
 Vi har lanserat **8 omfattande utbildningsmoduler** som täcker allt från flödestillstånd till näring:
 
 | Modul | Vad som finns inuti | Viktiga funktioner |
-|--------|----------------|--------------|
-| **[The Zone](/en/education/the-zone/)** | Flödeslägeskontroll | 4 detaljerade guider för att komma in i och bibehålla flödet |
-| **[Mental Strength](/en/education/mental-strength/)** | Tryckhantering | Rutiner före tagning, hantering av inre kritiker |
-| **[Mindfulness](/en/education/mindfulness/)** | Medvetenhet i nuet | Dagliga träningar, tävlingstekniker |
-| **[Goals](/en/education/goals/)** | Strategisk planering | SMART-mål, hierarki, uppföljningssystem |
-| **[Tactics](/en/education/tactics/)** | Spelstrategi | Beslutsfattande, sannolikhet, positionering |
-| **[Team Player](/en/education/team-player/)** | Samarbetsförmåga | Kommunikation, förtroende, teamdynamik |
-| **[Training](/en/education/training/)** | Övningsmetoder | Övningar, avsiktlig övning, progression |
-| **[Nutrition](/en/education/nutrition/)** | Prestandabränsle | Blodsockerhantering, tävlingsnäring |
+|--------|---------------|--------------|
+| **[Zonen](/sv/utbildning/zonen/)** | Flödeslägeskontroll | 4 detaljerade guider för att komma in i och bibehålla flödet |
+| **[Mental styrka](/sv/utbildning/mental-styrka/)** | Tryckhantering | Rutiner före tagning, hantering av inre kritiker |
+| **[Mindfulness](/sv/utbildning/mindfulness/)** | Medvetenhet i nuet | Dagliga träningar, tävlingstekniker |
+| **[Goals](/sv/education/goals/)** | Strategisk planering | SMART-mål, hierarki, uppföljningssystem |
+| **[Taktik](/sv/utbildning/taktik/)** | Spelstrategi | Beslutsfattande, sannolikhet, positionering |
+| **[Lagspelare](/sv/utbildning/lagspelare/)** | Samarbetsförmåga | Kommunikation, förtroende, teamdynamik |
+| **[Utbildning](/sv/utbildning/utbildning/)** | Övningsmetoder | Övningar, avsiktlig övning, progression |
+| **[Näring](/sv/utbildning/näring/)** | Prestandabränsle | Blodsockerhantering, tävlingsnäring |
 
 ### 🛠️ Praktiska verktyg
 
@@ -77,14 +77,36 @@ Vi har lanserat **8 omfattande utbildningsmoduler** som täcker allt från flöd
 - Näringsstrategier före tävling
 - Energioptimering för turneringar
 
+### 📝 Artiklar och insikter
+
+**NYTT: 14 djupgående artiklar** som täcker ämnen inom mentala spel:
+
+| Kategori | Artiklar |
+|----------|----------|
+| **Att förstå den inre kritikern** | [Inre kritiker](/sv/blogg/inre-kritiker) - Bemästra din inre dialog |
+| **Bygg rutiner före inspelning** | [Rutiner före fotografering](/sv/blogg/rutiner-för-tagning) - Skapa konsekvens |
+| **Tryckhantering** | [Presshantering](/sv/blogg/presshantering) - Prestera under stress |
+| **Prestationspsykologi** | [Flödestillstånd](/sv/blogg/flödestillståndsvetenskap) • [Mindfulness](/sv/blogg/mindfulness-tävling) • [Målsättning](/sv/blogg/elitmålsättning) • [Mental motståndskraft](/sv/blogg/mental-motståndskraft) |
+| **Teamdynamik** | [Kommunikation](/sv/blogg/teamkommunikation) • [Teamkemi](/sv/blogg/teamkemi) • [Ledarskap](/sv/blogg/teamledarskap) |
+| **Utbildning och utveckling** | [Misstag i mental träning](/sv/blogg/misstag i mental träning) • [Träningsstruktur](/sv/blogg/träningsstruktur) • [Tävlingsförberedelse](/sv/blogg/tävlingsförberedelse) |
+
+➡️ **[Bläddra bland alla artiklar](/sv/blogg/)**
+
+### 📖 Resurser
+
+**Fallstudier och vittnesmål:**
+
+- **[Fallstudier](/sv/fallstudier)** - Verkliga exempel på elitspelare som använder mental spelträning
+- **[Referenser](/sv/referenser)** - Feedback från spelare som har implementerat dessa metoder
+
 ## Vårt uppdrag
 
 ```mermaid
 graph LR
-    A[Technical Mastery] --> B[Mental Game]
-    B --> C[Flow State]
-    C --> D[Peak Performance]
-    D --> E[Consistent Excellence]
+    A[Teknisk mästerskap] --> B[Mentalt spel]
+    B --> C[Flödesstatus]
+    C --> D[Topprestanda]
+    D --> E[Konsekvent excellens]
 
     style A fill:#e3f2fd
     style B fill:#fff4e1
@@ -126,14 +148,14 @@ Elitspelare har redan bemästrat tekniken. Nästa genombrott kommer från det **
 
 1. **[Mental styrka](/sv/utbildning/mental-styrka/)** - Bemästra pressade situationer
 2. **[Taktik](/sv/utbildning/taktik/)** - Förfina strategiskt beslutsfattande
-3. **[Workshop](/sv/workshop)** - Implementera strukturerade mentala spelsessioner
+3. **[Workshop](/sv/workshop)** - Genomför strukturerade mentala spelsessioner
 
 ### För lag
 
 **Bygg kollektiv excellens:**
 
 1. **[Lagspelare](/sv/utbildning/lagspelare/)** - Förbättra lagdynamiken
-2. **[Träningsläger](/sv/träningsläger)** - Organisera intensivkurser under helgen
+2. **[Träningsläger](/sv/träningsläger)** - Organisera helgintensivkurser
 3. **[Träningssession](/sv/träningssession)** - Strukturera teamövningar
 
 ## Vad som gör detta annorlunda

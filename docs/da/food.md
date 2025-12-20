@@ -1,5 +1,7 @@
 # Mad og ernæring
 
+<AdBanner />
+
 ## Brændstof til præcisionsydelse
 
 Pétanque er en præcisionssport. Din hjerne er dit vigtigste værktøj - giv den stabil brændstof, ikke rutsjebaneenergi.
@@ -70,12 +72,14 @@ Fedt og protein giver vedvarende energi uden nedbrud:
 
 ### Undgå sukkerfælden
 
-::: danger Fødevarer, der skal undgås
+::: danger Madvarer, der skal undgås
 Vær særligt forsigtig med:
 - ❌ &quot;Energi&quot;-barer og -drikke (ofte sukkerrige)
 - ❌ Frugtjuice og smoothies (koncentreret sukker)
 - ❌ Hvidt brød, kager, snacks fra automater
 :::
+
+<AdInArticle />
 
 ## Hurtigguide til konkurrencedagen
 

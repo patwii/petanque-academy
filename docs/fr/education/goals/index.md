@@ -113,7 +113,7 @@ Les objectifs ambitieux peuvent paraître insurmontables. Décomposez-les en ét
 **Objectif annuel :** Remporter le championnat du club
 
 **Objectifs trimestriels :**
-- Q1 : Améliorer la précision de tir à 75 %
+- Q1 : Améliorer la précision de tir à 75 %
 - Q2 : Mettre en place une routine d’avant-tir régulière
 - Q3 : Situations de pression principale
 - Q4 : Performance optimale et préparation à la compétition
@@ -121,11 +121,11 @@ Les objectifs ambitieux peuvent paraître insurmontables. Décomposez-les en ét
 **Objectifs mensuels (T1) :**
 - Mois 1 : Établir la situation de référence, identifier les points faibles
 - Mois 2 : Se concentrer sur la technique de tir
-- Mois 3 : Augmenter la pression lors des séances d’entraînement au tir
+- Mois 3 : Augmenter la pression lors des entraînements de tir
 
 **Objectifs hebdomadaires (Mois 2) :**
 - Semaine 1 : 3 séances de tir, analyse vidéo
-- Semaine 2 : Travailler sur le problème technique identifié
+- Semaine 2 : Travail sur le problème technique identifié
 - Semaine 3 : Augmenter progressivement la distance
 - Semaine 4 : Évaluation des progrès, ajustement du plan
 

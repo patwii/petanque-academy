@@ -159,7 +159,7 @@ graph TD
 
 **Voorbeelden:**
 - &quot;Maak er 3 op een rij of begin opnieuw&quot;
-- &quot;Mis de oefening en doe 10 push-ups&quot;
+- &quot;Mis en doe 10 push-ups&quot;
 - &quot;Maak je doelwit bekend voordat je gooit.&quot;
 
 **Sleutel:**

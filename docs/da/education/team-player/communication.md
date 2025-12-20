@@ -111,7 +111,7 @@ Kommunikation er tovejs:
 1. Del dit perspektiv tydeligt
 2. Lyt fuldt ud til deres
 3. Diskuter kort fordele og ulemper
-4. Beslut fællesskab (eller overlad det til den udpegede leder)
+4. Beslut sammen (eller overlad det til den udpegede leder)
 5. Forpligt dig fuldt ud til beslutningen
 6. Gennemgang efter kampen
 

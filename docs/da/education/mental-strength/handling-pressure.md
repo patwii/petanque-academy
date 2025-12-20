@@ -18,7 +18,7 @@ graph TD
     C --> F[Spænding]
     C --> G[Dårlig fokus]
 
-    D --> H[Energigivende]
+    D --> H[Energifyldt]
     D --> I[Fokuseret]
     D --> J[Overbevist]
 
@@ -35,7 +35,7 @@ graph TD
 - At blive set (publikum, holdkammerater)
 - Forventninger (dine og andres)
 - Usikkerhed (tæt stilling, ukendte modstandere)
-- Tid (at løbe ud, for lang ventetid)
+- Tid (at løbe ud, venter for længe)
 
 ### Hvad pres gør ved din krop
 Når du føler pres, reagerer din krop:

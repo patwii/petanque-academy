@@ -5,7 +5,7 @@
 Pétanque ist ein Präzisionssport, kein Ausdauersport. Ihre Ernährungsbedürfnisse unterscheiden sich von denen eines Marathonläufers oder Fußballspielers. Am wichtigsten ist eine **stabile Energieversorgung des Gehirns** – damit Sie den ganzen Wettkampftag über konzentriert und ruhig bleiben.
 
 ::: tip Die große Idee
-**Your brain is your most important tool in pétanque. Feed it stable fuel, not roller coaster energy.** Focus on protein, healthy fats, and staying hydrated. Avoid sugar spikes.
+**Ihr Gehirn ist Ihr wichtigstes Werkzeug beim Boule. Versorgen Sie es mit stabiler Energie, nicht mit Achterbahnfahrten.** Achten Sie auf Eiweiß, gesunde Fette und ausreichend Flüssigkeitszufuhr. Vermeiden Sie Blutzuckerspitzen.
 :::
 
 ```mermaid
@@ -31,10 +31,10 @@ graph LR
 
 Im Gegensatz zu Hochleistungssportarten benötigt Pétanque keine großen Glykogenspeicher oder eine schnelle Energiezufuhr. Was es erfordert, ist Folgendes:
 
-- **Stabiler Blutzucker – keine Spitzen oder Abfälle**
-- **Konstante geistige Klarheit – Konzentration, die den ganzen Tag anhält**
-- **Ruhige Hände – kein Zittern oder Beben**
-- **Beruhigte Nerven – geringe Angst- und Stressreaktion**
+- **Stabiler Blutzucker** – keine Spitzen oder Abfälle
+- **Konstante geistige Klarheit** – Konzentration, die den ganzen Tag anhält.
+- **Ruhige Hände** – kein Zittern oder Beben
+- **Beruhigte Nerven** – geringe Angst- und Stressreaktion
 
 Ihre Ernährungsstrategie sollte diese Faktoren optimieren, nicht die reine Energieausbeute.
 
@@ -51,7 +51,7 @@ Wenn Sie Zucker oder einfache Kohlenhydrate essen:
 4. Ihr Körper schüttet Adrenalin aus, um dies auszugleichen.
 5. Sie leiden unter Zittern, Angstzuständen und Konzentrationsschwierigkeiten.
 
-**This is the opposite of what you need for precision.**
+Das ist genau das Gegenteil von dem, was Sie für Präzision benötigen.
 
 ### Symptome einer Blutzuckerinstabilität
 
@@ -71,7 +71,7 @@ Das Ziel ist es, Ihrem Gehirn gleichmäßig Energie zuzuführen, ohne die üblic
 ### Grundprinzipien
 
 1. **Eiweiß und gesunde Fette sollten Vorrang haben** – sie liefern langsame, gleichmäßige Energie.
-2. **Bevorzugen Sie komplexe Kohlenhydrate gegenüber einfachen** – Wenn Sie Kohlenhydrate essen, wählen Sie solche, die langsam verdaut werden.
+2. **Wählen Sie komplexe Kohlenhydrate statt einfacher Kohlenhydrate** – Wenn Sie Kohlenhydrate essen, wählen Sie solche, die langsam verdaut werden.
 3. **Vermeiden Sie Blutzuckerspitzen** – insbesondere vor und während des Wettkampfs
 4. **Achten Sie auf ausreichende Flüssigkeitszufuhr** – Flüssigkeitsmangel beeinträchtigt die Konzentration erheblich.
 5. **Essen Sie regelmäßig** – Lassen Sie es nicht zu, dass Sie zu hungrig werden.
@@ -98,24 +98,24 @@ Das Ziel ist es, Ihrem Gehirn gleichmäßig Energie zuzuführen, ohne die üblic
 
 ### Vor dem Wettbewerb
 
-**2-3 hours before:**
+**2-3 Stunden vorher:**
 - Ausgewogene Mahlzeit mit Eiweiß, Fett und Gemüse
 - Vermeiden Sie kohlenhydratreiche Lebensmittel, die Schläfrigkeit verursachen könnten.
 - Beispiel: Eier mit Gemüse oder Salat mit Hähnchen
 
-**1 hour before:**
+**1 Stunde vorher:**
 - Bei Bedarf einen kleinen Snack.
 - Nüsse, Käse oder eine kleine Portion Eiweiß
 - Vermeiden Sie alles Zuckerische
 
 ### Während des Wettbewerbs
 
-**Between games:**
+**Zwischen den Spielen:**
 - Wasser (am wichtigsten)
 - Kleine proteinreiche Snacks (Nüsse, Käse, Fleisch)
 - Vermeiden Sie zuckerhaltige Snacks und Getränke.
 
-**Signs you need to eat:**
+**Anzeichen dafür, dass Sie etwas essen müssen:**
 - Konzentrationsschwierigkeiten
 - Reizbarkeit
 - Ich fühle mich zittrig
@@ -133,10 +133,10 @@ Dehydrierung beeinträchtigt die kognitive Funktion, bevor man Durst verspürt.
 
 ### Richtlinien
 
-- **Gut hydriert in den Wettkampf starten – Trinken Sie den ganzen Tag über Wasser, bevor es losgeht.**
-- **Während des Spielens – Trinken Sie regelmäßig kleine Schlucke Wasser, warten Sie nicht, bis Sie durstig sind.**
-- **Vermeiden Sie übermäßigen Koffeinkonsum – es wirkt harntreibend.**
-- **Achten Sie auf folgende Anzeichen: Kopfschmerzen, dunkler Urin, Müdigkeit**
+- **Gut hydriert in den Wettkampf starten** - Trinken Sie den ganzen Tag über vor dem Wettkampf Wasser.
+- **Während des Spielens** – Trinken Sie regelmäßig kleine Schlucke Wasser, warten Sie nicht, bis Sie durstig sind.
+- **Übermäßigen Koffeinkonsum vermeiden** – Koffein wirkt harntreibend.
+- **Achten Sie auf folgende Anzeichen:** – Kopfschmerzen, dunkler Urin, Müdigkeit
 
 ### Wie viel?
 
@@ -146,13 +146,13 @@ Als allgemeine Richtlinie gilt: Der Urin sollte hellgelb sein. Ist er dunkel, be
 
 Manche Präzisionssportler setzen auf kohlenhydratarme oder ketogene Diäten. Die Theorie:
 
-**Potential benefits:**
+**Mögliche Vorteile:**
 - Sehr stabiler Blutzucker (keine Blutzuckerspitzen möglich)
 - Konstante geistige Klarheit
 - Verringerte Angstzustände und Zittern
-- Kein Nachmittagstief
+- Kein Energietief am Nachmittag
 
-**Considerations:**
+**Zu berücksichtigen:**
 - Erfordert eine Eingewöhnungszeit (1-2 Wochen).
 - Nicht für jeden geeignet
 - Erfordert Planung und Engagement
@@ -165,20 +165,20 @@ Dies ist eine fortgeschrittene Strategie – nicht für jeden notwendig, aber ei
 ## Essen als Training: Trainiere deinen Körper
 
 ::: warning Kritisches Konzept
-**Food is not just fuel - it's something you practice with.** Just like you practice your throw, you must practice your nutrition to get your body comfortable with competition-day eating.
+**Essen ist nicht nur Treibstoff – es ist etwas, mit dem man übt.** Genau wie du deinen Wurf übst, musst du auch deine Ernährung üben, damit sich dein Körper an die Nahrungsaufnahme am Wettkampftag gewöhnt.
 :::
 
 ### Warum Ernährungsgewohnheiten wichtig sind
 
 Dein Verdauungssystem ist trainierbar. Was du regelmäßig isst, wird zu dem, was dein Körper erwartet und am besten verarbeitet. Wenn du an Wettkampftagen nur Eiweiß und Gemüse zu dir nimmst, gewöhnt sich dein Körper nicht daran.
 
-**The problem:**
+**Das Problem:**
 - Der Verzehr ungewohnter Speisen am Wettkampftag kann Verdauungsbeschwerden verursachen.
 - Ihr Körper braucht Zeit, sich an neue Ernährungsmuster anzupassen.
 - Stress + ungewohntes Essen = mögliche Magenprobleme
 - Leistungsangst ist schon schlimm genug, ohne dass noch Verdauungsangst hinzukommt.
 
-**The solution:**
+**Die Lösung:**
 - Setze deine Wettkampfernährung während des Trainings um.
 - Integriere die Speisen, die du am Wettkampftag zu dir nimmst, in deine normale Ernährung.
 - Trainieren Sie Ihren Körper, sich an Nahrungsmittel mit gleichmäßiger Energiezufuhr zu gewöhnen.
@@ -188,11 +188,11 @@ Dein Verdauungssystem ist trainierbar. Was du regelmäßig isst, wird zu dem, wa
 ```mermaid
 graph TD
     A[Aktuelle Ernährung] --> B[Allmähliche Veränderungen]
-    B --> C[Körperanpassung<br/>2-4 Wochen]
+    B --> C[Körperanpassung <br/> 2-4 Wochen]
     C --> D[Neue Normalität]
     D --> E[Wettbewerbsbereit]
 
-    F[Plötzliche Veränderung<br/>Wettkampftag] --> G[Verdauungsbeschwerden]
+    F[Plötzliche Veränderung <br/> Wettkampftag] --> G[Verdauungsbeschwerden]
     G --> H[Schlechte Leistung]
 
     style A fill:#fff3e0
@@ -204,21 +204,21 @@ graph TD
 Wenn Sie Ihre Ernährung umstellen:
 1. **Woche 1-2:** Ihr Körper gewöhnt sich an neue Nahrungsmittel, Sie fühlen sich möglicherweise anders.
 2. **Woche 3-4:** Die Anpassung erfolgt, neue Lebensmittel werden als normal empfunden.
-3. **Woche 5+:** Ihr Körper hat sich an diese Lebensmittel gewöhnt und verträgt sie gut.
+3. **Woche 5+:** Ihr Körper hat sich an diese Lebensmittel gewöhnt und verträgt sie optimal.
 
-**This is why you can't just "eat healthy" on competition day and expect optimal results.**
+**Deshalb reicht es nicht, sich am Wettkampftag einfach nur &quot;gesund zu ernähren&quot; und optimale Ergebnisse zu erwarten.**
 
 ### Wie Sie Ihre Ernährung in die Praxis umsetzen
 
 #### 1. Beginnen Sie während des Trainings
 
-**Practice your competition-day eating during training sessions:**
+**Übe deine Wettkampf-Ernährung während der Trainingseinheiten:**
 - Iss vor dem Training die gleiche Mahlzeit wie vor dem Wettkampf.
 - Bring die gleichen Snacks mit, die du auch zu einem Turnier mitbringen würdest.
 - Beobachte, wie dein Körper reagiert.
 - Passen Sie die Einstellungen an das an, was funktioniert.
 
-**Example training day:**
+**Beispielhafter Trainingstag:**
 ```
 2-3 hours before: Eggs with vegetables (same as competition)
 During training: Water + nuts (same as competition)
@@ -227,11 +227,11 @@ After training: Balanced meal with protein
 
 #### 2. Mach es zu deiner Normalität
 
-**Don't have a "competition diet" and a "regular diet"** - this creates two problems:
+**Man sollte keine separate &quot;Wettkampfdiät&quot; und &quot;normale Diät&quot; einführen** – das führt zu zwei Problemen:
 - Ihr Körper passt sich an beides nie vollständig an
 - Das Essen im Wettkampf fühlt sich ungewohnt und stressig an.
 
-**Instead:**
+**Stattdessen:**
 - Machen Sie Lebensmittel mit stabiler Energiezufuhr zu Ihrer täglichen Norm
 - Ihr Körper lernt, Proteine und Fette effizienter zu verwerten.
 - Der Wettkampftag fühlt sich normal an, nicht anders.
@@ -239,7 +239,7 @@ After training: Balanced meal with protein
 
 #### 3. Testen und Optimieren
 
-**Use training to experiment:**
+**Nutzen Sie das Training zum Experimentieren:**
 
 | Prüfen | Worauf man achten sollte | Anpassen |
 |------|----------------|--------|
@@ -248,7 +248,7 @@ After training: Balanced meal with protein
 | Snackarten | Anhaltende Energie | Finde deine Lieblingssnacks |
 | Hydratationsmengen | Konzentration, Toilettenpausen | Ausgewogene Zufuhr |
 
-**Keep a simple log:**
+**Führen Sie ein einfaches Protokoll:**
 - Was du gegessen hast und wann
 - Wie Sie sich während des Trainings gefühlt haben
 - Energieniveau und Konzentration
@@ -256,7 +256,7 @@ After training: Balanced meal with protein
 
 #### 4. Wohlbefinden und Selbstvertrauen aufbauen
 
-**The psychological benefit:**
+**Der psychologische Nutzen:**
 
 Wenn du deine Ernährung im Training hunderte Male geübt hast:
 - Du weißt genau, wie dein Körper reagieren wird.
@@ -264,22 +264,22 @@ Wenn du deine Ernährung im Training hunderte Male geübt hast:
 - Eine Sorge weniger am Wettkampftag
 - Vertrauen in Ihre Vorbereitung
 
-**This is the same principle as practicing your throw** - repetition builds comfort and reliability.
+**Dies ist das gleiche Prinzip wie beim Üben Ihres Wurfs** - Wiederholung schafft Sicherheit und Zuverlässigkeit.
 
 ### Gemeinsame Anpassungsherausforderungen
 
 ::: details Übergang von einer kohlenhydratreichen zu einer energiestabilen Ernährung
 
-**Challenge:** You're used to bread, pasta, and sugary snacks
+**Herausforderung:** Du bist an Brot, Nudeln und zuckerhaltige Snacks gewöhnt.
 
-**Adaptation period:** 2-4 weeks
+**Eingewöhnungszeit:** 2-4 Wochen
 
-**What to expect:**
+**Was Sie erwartet:**
 - Woche 1: Möglicherweise fühlen Sie sich anders, Heißhunger auf alte Speisen
 - Woche 2: Energieniveau stabilisiert sich, Heißhungerattacken nehmen ab
-- Woche 3-4: Neue Normalität, der Körper verwertet Fette/Proteine effizienter.
+- Woche 3-4: Neue Normalität, der Körper verarbeitet Fette/Proteine effizienter.
 
-**How to practice:**
+**So üben Sie:**
 - Beginnen Sie mit einer Mahlzeit nach der anderen.
 - Ersetzen Sie zunächst einfache Kohlenhydrate durch komplexe Kohlenhydrate.
 - Erhöhen Sie schrittweise die Zufuhr von Protein und gesunden Fetten.
@@ -288,15 +288,15 @@ Wenn du deine Ernährung im Training hunderte Male geübt hast:
 
 ::: details Lebensmittel finden, die Ihnen guttun
 
-**Challenge:** Not everyone digests the same foods well
+**Herausforderung:** Nicht jeder verträgt die gleichen Lebensmittel gut.
 
-**What to test:**
+**Was zu testen ist:**
 - Verschiedene Proteinquellen (Eier vs. Fleisch vs. Nüsse)
 - Zeitpunkt der Mahlzeiten (2 Stunden vs. 3 Stunden vorher)
 - Portionsgrößen (zu viel = träge, zu wenig = hungrig)
 - Bestimmte Lebensmittel, die Beschwerden verursachen
 
-**Practice approach:**
+**Praktische Vorgehensweise:**
 - Versuchen Sie jeweils nur eine Variable.
 - Für jeden Test sollten 2-3 Trainingseinheiten vorgesehen werden.
 - Notiere dir, was dir am besten gefällt.
@@ -305,15 +305,15 @@ Wenn du deine Ernährung im Training hunderte Male geübt hast:
 
 ::: details Umgang mit der Verpflegung bei Turnieren
 
-**Challenge:** Tournaments often have limited food options
+**Herausforderung:** Bei Turnieren ist das Speisenangebot oft begrenzt.
 
-**Practice solution:**
+**Übungslösung:**
 - Bringen Sie immer Ihre eigenen Snacks mit (üben Sie das).
 - Erkunden Sie die Veranstaltungsorte nach Möglichkeit im Voraus.
 - Halten Sie Backup-Optionen bereit, von denen Sie wissen, dass sie funktionieren.
 - Üben Sie das Essen in verschiedenen Umgebungen
 
-**Mental preparation:**
+**Mentale Vorbereitung:**
 - Verlassen Sie sich nicht auf das Essen im Veranstaltungsort.
 - Behandeln Sie Lebensmittel als Teil Ihrer Ausrüstung.
 - Pack es so ein, wie du deine Boules einpackst.
@@ -321,21 +321,21 @@ Wenn du deine Ernährung im Training hunderte Male geübt hast:
 
 ### Der 30-Tage-Ernährungsübungsplan
 
-**Goal:** Make stable-energy eating your comfortable normal
+**Ziel:** Eine Ernährung mit gleichmäßiger Energiezufuhr soll zu Ihrer gewohnten Routine werden.
 
-**Week 1-2: Foundation**
+**Woche 1-2: Grundlagen**
 - Ersetzen Sie eine Mahlzeit pro Tag durch eine wettkampfgerechte Ernährung.
 - Üben Sie die Ernährung vor dem Training
 - Fangt an, Snacks zum Training mitzubringen.
 - Beobachte, wie dein Körper reagiert.
 
-**Week 3-4: Expansion**
+**Woche 3-4: Expansion**
 - Zwei Mahlzeiten pro Tag mit Fokus auf stabile Energiezufuhr.
 - Übe an Trainingstagen die Ernährung wie am Wettkampftag.
 - Verfeinern Sie Ihre Snackauswahl
 - Stelle deine Lieblingslebensmittelliste zusammen
 
-**Week 5+: Mastery**
+**Woche 5+: Meisterschaft**
 - Eine Ernährung mit stabiler Energiezufuhr ist Ihre neue Normalität
 - Der Körper ist vollständig angepasst
 - Der Wettkampftag verläuft routinemäßig.
@@ -343,14 +343,14 @@ Wenn du deine Ernährung im Training hunderte Male geübt hast:
 
 ### Ihr Wettkampf-Verpflegungsset
 
-**Practice packing this for every training session:**
+**Üben Sie, dies für jede Trainingseinheit einzupacken:**
 
-**Pre-competition (2-3 hours before):**
+**Vor dem Wettkampf (2-3 Stunden vorher):**
 - [ ] Proteinquelle (Eier, Fleisch oder Nüsse)
 - [ ] Gemüse oder Salat
 - [ ] Gesunde Fette (Avocado, Olivenöl, Käse)
 
-**During competition:**
+**Während des Wettkampfs:**
 - [ ] Wasserflasche (wiederbefüllbar)
 - [ ] Gemischte Nüsse (kleine Portionen)
 - [ ] Hartgekochte Eier (wenn Sie sie kühl halten können)
@@ -358,7 +358,7 @@ Wenn du deine Ernährung im Training hunderte Male geübt hast:
 - [ ] Trockenfleisch oder Jerky
 - [ ] Ersatzsnacks
 
-**The more you practice with this kit, the more automatic it becomes.**
+Je mehr Sie mit diesem Set üben, desto automatischer wird es.
 
 ## Praktische Tipps
 
@@ -383,6 +383,6 @@ Wenn du deine Ernährung im Training hunderte Male geübt hast:
 
 Konzentriere dich auf Proteine, gesunde Fette und ausreichend Flüssigkeit. Vermeide Blutzuckerspitzen. **Am wichtigsten: Mach deine Wettkampfernährung zu deiner Alltagsernährung.** Dein Körper braucht Training, um Höchstleistungen zu erbringen.
 
-**Remember:** You wouldn't show up to a tournament with a throwing technique you've never practiced. Don't show up with a nutrition strategy you've never practiced either.
+**Denk daran:** Du würdest ja auch nicht mit einer Wurftechnik zu einem Turnier gehen, die du nie geübt hast. Genauso wenig solltest du mit einer Ernährungsstrategie antreten, die du nie ausprobiert hast.
 
 <AdBanner />

@@ -29,9 +29,75 @@ graph TD
     style G fill:#fff4e1
 ```
 
-## Unsere Perspektive
+## Der häufigste Fehler in der technischen Ausbildung
 
 <AdInArticle />
+
+::: info Dieser Abschnitt ist für erfahrene Spieler.
+Wenn Sie neu im Pétanque sind, müssen Sie Ihre Grundtechnik natürlich von Grund auf entwickeln – und das ist eine ganz andere Sache.
+
+**Dieser Rat richtet sich an Spieler mit jahrelanger Erfahrung,** die bereits eine etablierte Technik entwickelt haben, die sich natürlich, entspannt und zuverlässig anfühlt. Sie haben Ihren eigenen Wurfstil gefunden. Nun stellt sich die Frage: Wie können Sie sich weiterentwickeln?
+:::
+
+::: warning Die häufigste Falle
+Wenn erfahrene Spieler sich verbessern wollen, besinnen sie sich oft auf die Grundlagen – sie optimieren Griff, Armschwung, Abwurfpunkt und Körperhaltung. Stundenlanges Training. Unaufhörliches Feintuning.
+
+**Aber sie haben die wichtigste Frage ausgelassen:** Was genau soll die Boule bewirken?
+:::
+
+Bevor du an deiner Technik arbeitest, musst du dir über das **Ergebnis** im Klaren sein, das du erreichen willst. Nicht „Ich will mehr Schläge landen“ oder „Ich will konstanter sein“ – das sind keine Ergebnisse, sondern Wünsche.
+
+Ein reales Ergebnis sieht folgendermaßen aus:
+- &quot;Ich möchte einen hohen Lobball, der innerhalb von 20 cm vom Landepunkt stoppt.&quot;
+- „Ich möchte eine rollende Aufnahme, die auf diesem Terrain eine Linkskurve beschreibt.“
+- &quot;Ich möchte einen sanften Rückstoß, der die Zielkugel kaum berührt.&quot;
+
+**Erkunden Sie zunächst die [Wurfpalette](/en/technical/throws)**, um zu verstehen, was möglich ist. Entscheiden Sie dann, welchen Wurf Sie in Ihr Repertoire aufnehmen möchten. Erst dann sollten Sie daran arbeiten, wie sich Arm, Handgelenk und Körper bewegen müssen, um dieses Ergebnis zu erzielen.
+
+## Der richtige Weg, um an der Technik zu arbeiten
+
+Wir sagen nicht, dass du nie an deinem Arm, Handgelenk, deiner Bewegungsausführung oder deiner Körperhaltung arbeiten solltest. **Technisches Training zur Ausführung ist absolut sinnvoll** – aber es muss dem richtigen Zweck dienen.
+
+::: info Der richtige Zweck technischer Arbeiten
+**Korrekte Absicht:** „Ich möchte meiner Farbpalette eine neue Decke hinzufügen.“
+
+**Falsches Ziel:** „Ich möchte mehr Schläge treffen“ oder „Ich möchte konstanter sein“
+:::
+
+So funktioniert es:
+
+1. **Erkunden Sie die [Wurfpalette](/en/technical/throws)** — Finden Sie heraus, welchen Wurf oder welche Technik Sie Ihrem Repertoire hinzufügen möchten.
+2. **Visualisieren Sie das Ergebnis** — Was soll die Boulekugel machen? Welche Flugbahn, Landung, Rotation und welches Verhalten benötigen Sie?
+3. **Dann arbeiten Sie an der Ausführung** – Jetzt können Sie sich auf Arm-, Handgelenk- und Körperhaltung sowie die Freigabe konzentrieren, um dieses spezifische Ergebnis zu erzielen.
+
+Dieser Ansatz gibt Ihrer technischen Ausbildung **klare Richtung und messbare Fortschritte**. Sie üben nicht einfach nur – Sie erweitern gezielt Ihre Fähigkeiten.
+
+::: tip Beispiel: Hinzufügen einer Plombée
+**Ziel:** Füge deinem Zeige-Repertoire einen Drop Shot (Plombée) hinzu.
+
+**Ergebnisvisualisierung:** Die Boule sollte einen hohen Bogen beschreiben, sanft mit Rückwärtsdrall landen und fast sofort zum Stillstand kommen.
+
+**Technischer Fokus:** Höherer Abwurfpunkt, mehr Handgelenkeinsatz für Rückwärtsdrall, weicherer Griff
+
+**Erfolgsmessung:** Können Sie diesen Wurf ausführen, wann immer Sie es wünschen? Das ist das Ziel.
+:::
+
+## Warum „mehr Treffer erzielen“ das falsche Ziel ist
+
+Wenn Sie Ihre Technik anpassen, um „häufiger zu treffen“ oder „konstanter zu sein“, gehen Sie wahrscheinlich das falsche Problem an.
+
+**Hier ist die Wahrheit:** Wenn du im Training gut schlägst, im Wettkampf aber Probleme hast, liegt es nicht an deiner Technik – sondern an deiner mentalen Einstellung. Dein Arm weiß, was zu tun ist. Die Frage ist, ob dein Kopf es zulässt.
+
+::: tip Die mentale Verbindung
+Inkonstanz unter Druck ist selten ein technisches Problem – es ist ein mentales.
+
+**Für Beständigkeit und Leistungsfähigkeit unter Druck besuchen Sie unseren Bereich [Bildung](/en/education/)**, insbesondere:
+- [Die Zone](/en/education/the-zone/) — Bedingungen für Höchstleistungen schaffen
+- Mentale Stärke – Leistung bringen, wenn es darauf ankommt
+- [Technik vs. Flow](/en/education/the-zone/technical-vs-flow) — Wann sollte man sich auf Technik und wann auf Vertrauen konzentrieren?
+:::
+
+## Unsere Sichtweise
 
 ::: tip Man muss nicht alles beherrschen.
 **Sie müssen nicht alle Techniken beherrschen**, aber das Verständnis des gesamten Spektrums an Möglichkeiten hilft Ihnen dabei:

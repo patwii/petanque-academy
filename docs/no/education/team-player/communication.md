@@ -31,7 +31,7 @@ graph LR
 |------|--------|---------|
 | **Observere** | Legg merke til hva som skjer | Terreng, posisjoner, motstandere |
 | **Dele** | Fortell lagkameratene hva du ser | &quot;Jorden skråner der igjen&quot; |
-| **Diskutere** | Utvekslingsperspektiver | «Bør jeg blokkere eller gå for poeng?» |
+| **Diskutere** | Utvekslingsperspektiver | &quot;Bør jeg blokkere eller gå for poeng?&quot; |
 | **Avgjøre** | Enig om tilnærming | &quot;La oss prøve den høye lobben&quot; |
 | **Henrette** | Gjør det med engasjement | Fullt fokus på kastet |
 | **Anmeldelse** | Lær av resultatet | «Det fungerte bra» eller «Neste gang...» |

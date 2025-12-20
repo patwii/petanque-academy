@@ -33,7 +33,7 @@ Ikke alle mål er lige. At forstå de forskellige typer hjælper dig med at sæt
 **Kontrolniveau:** Mellem - afhænger mest af dig
 
 ### 3. Procesmål
-**Hvad:** Handlinger og adfærd du kontrollerer
+**Hvad:** Handlinger og adfærd, du kontrollerer
 **Eksempel:** &quot;Fuldfør min rutine før kast ved hvert kast&quot;
 **Kontrolniveau:** Højt - helt op til dig
 
@@ -44,8 +44,8 @@ graph TD
     A[Resultatmål <br/> Drømmen] --> B[Præstationsmål <br/> Milepæle]
     B --> C[Procesmål <br/> Daglige handlinger]
 
-    A2["Vind det regionale mesterskab"] --> B2["80% skudpræcision"]
-    B2 --> C2["Komplet rutine før optagelse<br/>hvert kast"]
+    A2[&quot;Vind det regionale mesterskab&quot;] --> B2[&quot;80% skudpræcision&quot;]
+    B2 --> C2[&quot;Komplet rutine før optagelse&quot; <br/> hvert kast&quot;]
 
     style A fill:#e1f5ff
     style B fill:#fff9c4

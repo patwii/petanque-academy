@@ -52,7 +52,7 @@ Vær ærlig. En realistisk plan slår en ambitiøs fantasi.
 Vælg øvelser, der direkte understøtter dine mål:
 
 **Til forbedring af pointgivning:**
-- Præcisionsvisning af markerede zoner
+- Præcisions pegning mod markerede zoner
 - Distancevariationsøvelser
 - Forskellig overfladepraksis
 

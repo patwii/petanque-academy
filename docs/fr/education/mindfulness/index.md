@@ -83,7 +83,7 @@ Le mot clé est « sans jugement ».
 <AdInArticle />
 
 ::: danger Pensée critique (Ajoute un poids émotionnel)
-❌ « C&#39;était un lancer lamentable »
+❌ « C&#39;était un lancer catastrophique »
 ❌ « Ça me manque toujours »
 ❌ « Mes coéquipiers doivent être frustrés »
 
@@ -177,7 +177,7 @@ Observez vos pensées et vos sentiments sans les qualifier de bons ou de mauvais
 :::
 
 ::: tip Règle n° 2 : La règle SOAS
-**Arrêtez-vous, observez, acceptez, laissez tomber (lâchez prise).**
+**Arrêtez-vous, observez, acceptez, laissez aller (lâchez prise).**
 Votre réinitialisation de 10 secondes après les erreurs. Utilisez-la systématiquement.
 :::
 

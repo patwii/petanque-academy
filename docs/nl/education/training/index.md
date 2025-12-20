@@ -58,7 +58,7 @@ graph TD
 ### Geblokkeerde oefening
 Herhaal dezelfde worp vele malen:
 - 20 punten vanaf 7 meter
-- 20 schoten op hetzelfde doelwit
+- 20 schoten op hetzelfde doel
 - Dezelfde afstand, dezelfde worp
 
 **Geschikt voor:** Beginnen met leren, zelfvertrouwen opbouwen, opwarmen
@@ -66,7 +66,7 @@ Herhaal dezelfde worp vele malen:
 
 ### Willekeurige oefening
 Varieer alles:
-- Verschillende afstanden bij elke worp.
+- Elke worp over een andere afstand.
 - Afwisselend richten en schieten
 - Verander voortdurend je doelen.
 
@@ -92,7 +92,7 @@ Je kunt niet omgaan met wedstrijddruk als je die nooit tijdens de training ervaa
 **Gevolgen:**
 - Opdrukken voor dames
 - De verliezer koopt koffie.
-- Punten tellen mee voor iets.
+- Punten tellen mee voor iets
 
 **Scenario&#39;s:**
 - &quot;Moet gemaakt worden&quot;-situaties

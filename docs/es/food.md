@@ -1,5 +1,7 @@
 # Alimentación y nutrición
 
+<AdBanner />
+
 ## Impulsando el rendimiento de precisión
 
 La petanca es un deporte de precisión. Tu cerebro es tu herramienta más importante: aliméntalo con energía estable, no con energía de montaña rusa.
@@ -76,6 +78,8 @@ Tenga especial cuidado con:
 - ❌ Jugos de frutas y batidos (azúcar concentrado)
 - ❌ Pan blanco, bollería, snacks de máquinas expendedoras
 :::
+
+<AdInArticle />
 
 ## Guía rápida del día de la competición
 

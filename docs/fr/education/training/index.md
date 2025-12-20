@@ -70,7 +70,7 @@ Variez tout :
 - Alterner pointage et tir
 - Changer constamment les objectifs
 
-**Idéal pour :** la préparation aux compétitions, le développement de l&#39;adaptabilité
+**Idéal pour :** la préparation aux compétitions, développer l&#39;adaptabilité
 **Sensations :** Plus difficile, plus d&#39;erreurs, moins « productif »
 **Réalité :** Meilleure rétention et transfert à long terme
 
@@ -112,7 +112,7 @@ On ne peut pas gérer la pression de la compétition si on ne l&#39;a jamais exp
 ### L&#39;échelle de tir
 
 Un exercice de pression classique :
-1. Commencez à 6 mètres.
+1. Commencez à 6 mètres
 2. Toucher la cible = reculer d&#39;un mètre
 3. Échec = avancer d&#39;un mètre (ou recommencer)
 4. Objectif : atteindre 10 mètres

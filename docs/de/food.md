@@ -1,5 +1,7 @@
 # Ernährung
 
+<AdBanner />
+
 ## Präzisionskraft für optimale Leistung
 
 Pétanque ist ein Präzisionssport. Ihr Gehirn ist Ihr wichtigstes Werkzeug – füttern Sie es mit stabiler Energie, nicht mit Achterbahnfahrten.
@@ -76,6 +78,8 @@ Besondere Vorsicht ist geboten bei:
 - ❌ Fruchtsäfte und Smoothies (konzentrierter Zucker)
 - ❌ Weißbrot, Gebäck, Snacks aus Automaten
 :::
+
+<AdInArticle />
 
 ## Kurzanleitung für den Wettkampftag
 

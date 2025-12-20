@@ -98,7 +98,7 @@ Ohne Vertrauen zerfallen Teams unter Druck.
 - Unterstütze andere konsequent
 
 **Respekt zeigen:**
-- Wertschätzen Sie den Beitrag jedes Einzelnen.
+- Wertschätzen Sie den Beitrag jedes Einzelnen
 - Hören Sie sich verschiedene Perspektiven an.
 - Würdigen Sie den Einsatz, nicht nur die Ergebnisse.
 - Behandeln Sie die Rolle jedes Einzelnen als wichtig

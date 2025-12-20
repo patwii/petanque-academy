@@ -132,7 +132,7 @@ graph LR
 ::: details Hurtig reference: Alle kast
 **Peger:**
 - Roulette (rullende)
-- Demiportée (halv lob)
+- Demi-portée (halv lob)
 - Portée (lob)
 - Plombée (drop shot)
 - Fuld centrifugering / Halv centrifugering / Ingen centrifugering

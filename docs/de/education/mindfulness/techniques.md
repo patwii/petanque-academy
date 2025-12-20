@@ -147,7 +147,7 @@ Integrieren Sie die Atmung in Ihren Alltag:
 
 1. Bevor du den Kreis betrittst, atme einmal bewusst ein.
 2. Spüre deine Füße auf dem Boden
-3. Lassen Sie beim Ausatmen die Schultern sinken.
+3. Lass beim Ausatmen die Schultern sinken.
 4. Dann beginne deine Routine.
 
 ### Reset zwischen den Würfen
@@ -168,12 +168,12 @@ Nutzen Sie Auslöser, die Sie daran erinnern, präsent zu sein:
 - Wenn du in den Kreis trittst
 - Wenn ein Spiel endet
 
-Jeder Auslöser entspricht einem bewussten Atemzug.
+Jeder Auslöser = ein bewusster Atemzug.
 
 ## Aufbau Ihrer Praxis
 
 ### Woche 1-2: Grundlagen
-- Täglich 5 Minuten Sitzmeditation
+- Täglich 5 Minuten sitzende Meditation
 - Drei bewusste Atemzüge vor jeder Mahlzeit
 - Üben Sie SOAS einmal, wenn etwas Kleines schiefgeht
 

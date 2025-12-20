@@ -4,10 +4,23 @@
 
 ## How to Use This Template
 
-A training diary is your personal record of practice, progress, and insights. It helps you track what works, identify patterns, and accelerate improvement. Copy the sections below into your preferred format (Word, Google Docs, Excel, Google Sheets, or a notebook).
+A training diary is your personal record of practice, progress, and insights. It helps you track what works, identify patterns, and accelerate improvement. Use the templates below directly on this page, or copy them to your preferred digital tool.
 
 ::: tip The Power of Reflection
 **What gets measured gets improved. What gets reflected on gets mastered.** A training diary transforms random practice into deliberate development.
+:::
+
+## Quick Access
+
+| Template | Purpose | Access |
+|----------|---------|--------|
+| **Daily Training Entry** | Record each practice session | [View Template](#daily-training-entry-template) |
+| **Competition Diary** | Track tournament performance | [View Template](#competition-diary-template) |
+| **Weekly Summary** | Reflect on the week's training | [View Template](#weekly-summary-template) |
+| **Monthly Review** | Analyze patterns and progress | [View Template](#monthly-review-template) |
+
+::: tip Digital-First Approach
+All templates are available on this page for easy access on any device. Bookmark this page and use it directly, or copy sections to your preferred note-taking app.
 :::
 
 ## Daily Training Entry Template

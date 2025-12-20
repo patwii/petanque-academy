@@ -32,7 +32,7 @@ graph LR
 | **Osservare** | Nota cosa sta succedendo | Terreno, posizioni, avversari |
 | **Condividere** | Racconta ai compagni di squadra cosa vedi | &quot;Il terreno pende lì&quot; |
 | **Discutere** | Scambio di prospettive | &quot;Devo bloccare o andare a segno?&quot; |
-| **Decidere** | Concordare l&#39;approccio | &quot;Proviamo il pallonetto alto&quot; |
+| **Decidere** | Concordare l&#39;approccio | &quot;Proviamo il lob alto&quot; |
 | **Eseguire** | Fallo con impegno | Concentrazione completa sul lancio |
 | **Revisione** | Impara dai risultati | &quot;Ha funzionato bene&quot; oppure &quot;La prossima volta...&quot; |
 
@@ -67,7 +67,7 @@ graph LR
 ### Sii chiaro e specifico
 
 **Vago:** &quot;Cerca di avvicinarti&quot;
-**Clear:** &quot;Mira al lato sinistro del cric, a circa 20 cm di distanza&quot;
+**Chiaro:** &quot;Mira al lato sinistro del cric, a circa 20 cm di distanza&quot;
 
 **Vago:** &quot;Bel tentativo&quot;
 **Clear:** &quot;Buon peso, solo un po&#39; a sinistra della linea&quot;

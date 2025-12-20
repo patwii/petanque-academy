@@ -1,6 +1,8 @@
 # Alimentação e Nutrição
 
-## Abastecendo o Desempenho de Precisão
+<AdBanner />
+
+## Aprimorando o desempenho de precisão
 
 A petanca é um esporte de precisão. Seu cérebro é sua ferramenta mais importante – alimente-o com combustível estável, não com energia instável.
 
@@ -76,6 +78,8 @@ Tenha especial cuidado com:
 - ❌ Sucos de frutas e smoothies (açúcar concentrado)
 - ❌ Pão branco, doces, salgadinhos de máquina de venda automática
 :::
+
+<AdInArticle />
 
 ## Guia rápido para o dia da competição
 

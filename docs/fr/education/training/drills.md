@@ -48,7 +48,7 @@ graph TD
 - Concentrez-vous sur un point de relâchement constant
 
 **Progression:**
-- Réduisez la largeur de l&#39;allée au fur et à mesure de votre amélioration.
+- Réduisez la largeur de l&#39;allée au fur et à mesure que vous progressez
 - Faites varier la distance cible
 - Ajouter une zone d&#39;atterrissage spécifique
 
@@ -70,7 +70,7 @@ graph TD
 - Objectif : Amélioration constante au fil des séances
 
 ### Variation de distance
-**Objectif :** Développer le contrôle de la profondeur
+**Objectif :** Développer le contrôle de la profondeur
 
 **Installation:**
 - Placer les cibles à 6 m, 7 m, 8 m, 9 m et 10 m.
@@ -81,7 +81,7 @@ graph TD
 - Concentrez-vous sur l&#39;ajustement du poids, pas sur la technique.
 
 **Variation:**
-- Ajoutez des appels « courts » et « longs » après la publication.
+- Ajoutez des appels « short » et « long » après la publication.
 - Doit ajuster en cours de vol (développe le ressenti)
 
 ## Exercices de tir
@@ -94,7 +94,7 @@ graph TD
 - Marquer les distances à 7m, 8m, 9m, 10m
 
 **Percer:**
-- Commencez à 6 mètres.
+- Commencez à 6 mètres
 - Toucher = reculer d&#39;un mètre
 - Échec = avancer d&#39;un mètre (ou recommencer)
 - Objectif : atteindre 10 mètres

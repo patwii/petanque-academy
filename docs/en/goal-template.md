@@ -4,10 +4,23 @@
 
 ## How to Use This Template
 
-This template helps you set meaningful goals and track your progress systematically. Copy the sections below into your preferred format (Word, Google Docs, Excel, Google Sheets, or a notebook).
+This template helps you set meaningful goals and track your progress systematically. Use the templates below directly on this page, or copy them to your preferred digital tool.
 
 ::: tip The Goal-Setting Philosophy
 **Goals without tracking are just wishes. Tracking without reflection is just data.** This template combines both: clear goal-setting with structured reflection to ensure continuous improvement.
+:::
+
+## Quick Access
+
+| Template | Purpose | Access |
+|----------|---------|--------|
+| **Annual Goal Setting** | Set yearly goals across all areas | [View Template](#annual-goal-setting-template) |
+| **Quarterly Review** | Track progress every 3 months | [View Template](#quarterly-review-template) |
+| **Monthly Check-In** | Monthly progress assessment | [View Template](#monthly-check-in-template) |
+| **Weekly Planning** | Plan your weekly training focus | [View Template](#weekly-planning-template) |
+
+::: tip Digital-First Approach
+All templates are available on this page for easy access on any device. Bookmark this page and use it directly, or copy sections to your preferred note-taking app.
 :::
 
 ## Annual Goal Setting Template

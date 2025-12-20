@@ -55,7 +55,7 @@ Qual é a melhor opção? Depende da pontuação, da situação e da sua confian
 
 Antes de cada arremesso, considere:
 1. **Ponto:** Coloque uma bola perto do macaco
-2. **Ataque:** Remova a bola do oponente.
+2. **Ataque:** Remova a bola de um oponente.
 3. **Bloqueio:** Coloque uma bola para obstruir o bloqueio.
 4. **Mova o macaco:** Bata intencionalmente no macaco
 5. **Sacrifício:** Aceitar uma posição desfavorável para depois melhorar a situação.
@@ -68,7 +68,7 @@ Fatores a considerar:
 - Placar atual (quem está na frente e por quanto)
 - Bolas restantes (suas e deles)
 - Posição no terreno
-- Tendências do oponente
+- Tendências opostas
 - Pontos fortes da sua equipe
 
 ## Princípios Táticos Essenciais
@@ -215,7 +215,7 @@ Agora você pode jogar com as bolas restantes. **Opções:**
 
 Você deve arremessar. **Opções:**
 - Ponto mais próximo do que sua melhor bola de bocha.
-- Atirem sua melhor bola de bocha
+- Atirem sua melhor bola
 - Mova o bolim para suas bolas.
 - Bloqueie para limitar a pontuação deles (se você não puder pegar o ponto).
 

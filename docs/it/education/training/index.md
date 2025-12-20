@@ -131,7 +131,7 @@ Dedica del tempo specificamente alle abilità mentali:
 5. Senti la sicurezza e il flusso
 6. Esercitati a gestire i momenti di pressione
 
-### Esercizi di routine pre-tiro
+### Esercizio di routine pre-tiro
 - Esercitati nella tua routine senza lanciare
 - Concentrati sulle transizioni mentali
 - Costruisci l&#39;abitudine di una preparazione costante
@@ -193,7 +193,7 @@ Dedica del tempo specificamente alle abilità mentali:
 
 ## Conclusione chiave
 
-> Il modo in cui ti alleni determina le tue prestazioni. Allenati come se volessi giocare.
+> Il modo in cui ti alleni determina le tue prestazioni. Allenati come vuoi giocare.
 
 Varia il tuo allenamento. Includi lavoro mentale. Crea pressione. Tieni traccia dei tuoi progressi.
 

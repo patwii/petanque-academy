@@ -74,6 +74,8 @@ Entrena de forma más inteligente, no solo más intensa. Aprende a estructurar t
 ### 🥗 [Nutrición](/es/educacion/nutricion/)
 Alimenta tu cerebro para un rendimiento preciso. Aprende a mantener la energía y la concentración durante la competición.
 
+<AdInArticle />
+
 ## El viaje de la técnica al flujo
 
 A medida que te desarrollas como jugador, tu proporción de entrenamiento se invierte: el entrenamiento mental se vuelve más importante, no menos:
@@ -151,10 +153,7 @@ Esta es tu guía de referencia rápida. Guarda esta sección en tus favoritos y 
 ## Comienza tu viaje
 
 ::: tip Punto de partida recomendado
-Comience con [La Zona](/es/education/the-zone/) para comprender los fundamentos del rendimiento de élite, luego explore [Mindfulness](/es/education/mindfulness/) para obtener técnicas prácticas que puede usar de inmediato.
-:::
-
-<AdBanner />
+Comience con [La Zona](/es/education/the-zone/) para comprender las bases del rendimiento de élite, luego explore [Mindfulness](/es/education/mindfulness/) para obtener técnicas prácticas que puede usar de inmediato.
 :::
 
 <AdBanner />

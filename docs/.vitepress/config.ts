@@ -8,18 +8,32 @@ export default withMermaid(defineConfig({
 
   // SEO and Site Configuration
   lang: 'en',
-  lastUpdated: true,
+  lastUpdated: false,
   cleanUrls: true,
 
   // Performance optimizations
   vite: {
+    server: {
+      port: 5173,
+      strictPort: false
+    },
     build: {
       minify: 'terser',
       cssMinify: true,
       rollupOptions: {
         output: {
-          manualChunks: {
-            'mermaid': ['mermaid']
+          manualChunks(id) {
+            // Split vendor chunks for better caching
+            if (id.includes('node_modules')) {
+              if (id.includes('vue')) {
+                return 'vue'
+              }
+              if (id.includes('@vueuse')) {
+                return 'vueuse'
+              }
+              // Don't manually chunk mermaid as it's handled by the plugin
+              return 'vendor'
+            }
           }
         }
       }
@@ -99,24 +113,48 @@ export default withMermaid(defineConfig({
           { text: 'Ambition', link: '/en/ambition' },
           { text: 'News', link: '/en/news/' },
           {
-            text: 'Resources',
+            text: 'Education',
             items: [
-              { text: 'Blog', link: '/en/blog/' },
-              { text: 'Case Studies', link: '/en/case-studies' },
-              { text: 'Testimonials', link: '/en/testimonials' }
+              { text: 'Overview', link: '/en/education/' },
+              { text: 'The Zone', link: '/en/education/the-zone/' },
+              { text: 'Mindfulness', link: '/en/education/mindfulness/' },
+              { text: 'Goal Setting', link: '/en/education/goals/' },
+              { text: 'Mental Strength', link: '/en/education/mental-strength/' },
+              { text: 'Team Dynamics', link: '/en/education/team-player/' },
+              { text: 'Tactics', link: '/en/education/tactics/' },
+              { text: 'Training Methods', link: '/en/education/training/' },
+              { text: 'Nutrition', link: '/en/education/nutrition/' }
             ]
           },
           {
             text: 'Tools',
             items: [
-              { text: 'Workshop', link: '/en/workshop' },
-              { text: 'Training Camp', link: '/en/training-camp' },
-              { text: 'Training Session', link: '/en/training-session' },
-              { text: 'Goal Template', link: '/en/goal-template' },
-              { text: 'Diary Template', link: '/en/diary-template' }
+              {
+                text: 'Guides',
+                items: [
+                  { text: 'Mental Journey (Beginners)', link: '/en/mental-journey/' },
+                  { text: 'Workshop (Advanced)', link: '/en/workshop' },
+                  { text: 'Training Camp', link: '/en/training-camp' },
+                  { text: 'Training Session', link: '/en/training-session' }
+                ]
+              },
+              {
+                text: 'Templates',
+                items: [
+                  { text: 'Goal Template', link: '/en/goal-template' },
+                  { text: 'Diary Template', link: '/en/diary-template' }
+                ]
+              }
             ]
           },
-          { text: 'Education', link: '/en/education/' },
+          {
+            text: 'Resources',
+            items: [
+              { text: 'Articles', link: '/en/blog/' },
+              { text: 'Case Studies', link: '/en/case-studies' },
+              { text: 'Testimonials', link: '/en/testimonials' }
+            ]
+          },
           { text: 'Technical Advice', link: '/en/technical/' },
           { text: 'Food', link: '/en/food' },
           { text: 'About', link: '/en/about' }
@@ -133,16 +171,48 @@ export default withMermaid(defineConfig({
           { text: 'Ambition', link: '/da/ambition' },
           { text: 'Nyheder', link: '/da/news/' },
           {
-            text: 'Værktøjer',
+            text: 'Uddannelse',
             items: [
-              { text: 'Workshop', link: '/da/workshop' },
-              { text: 'Træningslejr', link: '/da/training-camp' },
-              { text: 'Træningssession', link: '/da/training-session' },
-              { text: 'Målskabelon', link: '/da/goal-template' },
-              { text: 'Dagbogsskabelon', link: '/da/diary-template' }
+              { text: 'Oversigt', link: '/da/education/' },
+              { text: 'Zonen', link: '/da/education/the-zone/' },
+              { text: 'Mindfulness', link: '/da/education/mindfulness/' },
+              { text: 'Målsætning', link: '/da/education/goals/' },
+              { text: 'Mental Styrke', link: '/da/education/mental-strength/' },
+              { text: 'Teamdynamik', link: '/da/education/team-player/' },
+              { text: 'Taktik', link: '/da/education/tactics/' },
+              { text: 'Træningsmetoder', link: '/da/education/training/' },
+              { text: 'Ernæring', link: '/da/education/nutrition/' }
             ]
           },
-          { text: 'Uddannelse', link: '/da/education/' },
+          {
+            text: 'Værktøjer',
+            items: [
+              {
+                text: 'Guider',
+                items: [
+                  { text: 'Mental Rejse (Begyndere)', link: '/da/mental-journey/' },
+                  { text: 'Workshop (Avanceret)', link: '/da/workshop' },
+                  { text: 'Træningslejr', link: '/da/training-camp' },
+                  { text: 'Træningssession', link: '/da/training-session' }
+                ]
+              },
+              {
+                text: 'Skabeloner',
+                items: [
+                  { text: 'Målskabelon', link: '/da/goal-template' },
+                  { text: 'Dagbogsskabelon', link: '/da/diary-template' }
+                ]
+              }
+            ]
+          },
+          {
+            text: 'Ressourcer',
+            items: [
+              { text: 'Artikler', link: '/da/blog/' },
+              { text: 'Casestudier', link: '/da/case-studies' },
+              { text: 'Udtalelser', link: '/da/testimonials' }
+            ]
+          },
           { text: 'Teknisk Rådgivning', link: '/da/technical/' },
           { text: 'Mad', link: '/da/food' },
           { text: 'Om', link: '/da/about' }
@@ -159,16 +229,48 @@ export default withMermaid(defineConfig({
           { text: 'Ambition', link: '/de/ambition' },
           { text: 'Neuigkeiten', link: '/de/news/' },
           {
-            text: 'Werkzeuge',
+            text: 'Bildung',
             items: [
-              { text: 'Workshop', link: '/de/workshop' },
-              { text: 'Trainingslager', link: '/de/training-camp' },
-              { text: 'Trainingseinheit', link: '/de/training-session' },
-              { text: 'Zielvorlage', link: '/de/goal-template' },
-              { text: 'Tagebuchvorlage', link: '/de/diary-template' }
+              { text: 'Übersicht', link: '/de/education/' },
+              { text: 'Die Zone', link: '/de/education/the-zone/' },
+              { text: 'Achtsamkeit', link: '/de/education/mindfulness/' },
+              { text: 'Zielsetzung', link: '/de/education/goals/' },
+              { text: 'Mentale Stärke', link: '/de/education/mental-strength/' },
+              { text: 'Teamdynamik', link: '/de/education/team-player/' },
+              { text: 'Taktik', link: '/de/education/tactics/' },
+              { text: 'Trainingsmethoden', link: '/de/education/training/' },
+              { text: 'Ernährung', link: '/de/education/nutrition/' }
             ]
           },
-          { text: 'Bildung', link: '/de/education/' },
+          {
+            text: 'Werkzeuge',
+            items: [
+              {
+                text: 'Anleitungen',
+                items: [
+                  { text: 'Mentale Reise (Anfänger)', link: '/de/mental-journey/' },
+                  { text: 'Workshop (Fortgeschritten)', link: '/de/workshop' },
+                  { text: 'Trainingslager', link: '/de/training-camp' },
+                  { text: 'Trainingseinheit', link: '/de/training-session' }
+                ]
+              },
+              {
+                text: 'Vorlagen',
+                items: [
+                  { text: 'Zielvorlage', link: '/de/goal-template' },
+                  { text: 'Tagebuchvorlage', link: '/de/diary-template' }
+                ]
+              }
+            ]
+          },
+          {
+            text: 'Ressourcen',
+            items: [
+              { text: 'Artikel', link: '/de/blog/' },
+              { text: 'Fallstudien', link: '/de/case-studies' },
+              { text: 'Erfahrungsberichte', link: '/de/testimonials' }
+            ]
+          },
           { text: 'Technische Beratung', link: '/de/technical/' },
           { text: 'Ernährung', link: '/de/food' },
           { text: 'Über', link: '/de/about' }
@@ -185,16 +287,48 @@ export default withMermaid(defineConfig({
           { text: 'Ambición', link: '/es/ambition' },
           { text: 'Noticias', link: '/es/news/' },
           {
-            text: 'Herramientas',
+            text: 'Educación',
             items: [
-              { text: 'Taller', link: '/es/workshop' },
-              { text: 'Campamento de Entrenamiento', link: '/es/training-camp' },
-              { text: 'Sesión de Entrenamiento', link: '/es/training-session' },
-              { text: 'Plantilla de Objetivos', link: '/es/goal-template' },
-              { text: 'Plantilla de Diario', link: '/es/diary-template' }
+              { text: 'Resumen', link: '/es/education/' },
+              { text: 'La Zona', link: '/es/education/the-zone/' },
+              { text: 'Mindfulness', link: '/es/education/mindfulness/' },
+              { text: 'Establecimiento de Metas', link: '/es/education/goals/' },
+              { text: 'Fortaleza Mental', link: '/es/education/mental-strength/' },
+              { text: 'Dinámica de Equipo', link: '/es/education/team-player/' },
+              { text: 'Táctica', link: '/es/education/tactics/' },
+              { text: 'Métodos de Entrenamiento', link: '/es/education/training/' },
+              { text: 'Nutrición', link: '/es/education/nutrition/' }
             ]
           },
-          { text: 'Educación', link: '/es/education/' },
+          {
+            text: 'Herramientas',
+            items: [
+              {
+                text: 'Guías',
+                items: [
+                  { text: 'Viaje Mental (Principiantes)', link: '/es/mental-journey/' },
+                  { text: 'Taller (Avanzado)', link: '/es/workshop' },
+                  { text: 'Campamento de Entrenamiento', link: '/es/training-camp' },
+                  { text: 'Sesión de Entrenamiento', link: '/es/training-session' }
+                ]
+              },
+              {
+                text: 'Plantillas',
+                items: [
+                  { text: 'Plantilla de Objetivos', link: '/es/goal-template' },
+                  { text: 'Plantilla de Diario', link: '/es/diary-template' }
+                ]
+              }
+            ]
+          },
+          {
+            text: 'Recursos',
+            items: [
+              { text: 'Artículos', link: '/es/blog/' },
+              { text: 'Casos de Estudio', link: '/es/case-studies' },
+              { text: 'Testimonios', link: '/es/testimonials' }
+            ]
+          },
           { text: 'Consejo Técnico', link: '/es/technical/' },
           { text: 'Comida', link: '/es/food' },
           { text: 'Acerca de', link: '/es/about' }
@@ -211,16 +345,48 @@ export default withMermaid(defineConfig({
           { text: 'Ambition', link: '/fr/ambition' },
           { text: 'Actualités', link: '/fr/news/' },
           {
-            text: 'Outils',
+            text: 'Éducation',
             items: [
-              { text: 'Atelier', link: '/fr/workshop' },
-              { text: 'Stage d\'Entraînement', link: '/fr/training-camp' },
-              { text: 'Séance d\'Entraînement', link: '/fr/training-session' },
-              { text: 'Modèle d\'Objectifs', link: '/fr/goal-template' },
-              { text: 'Modèle de Journal', link: '/fr/diary-template' }
+              { text: 'Aperçu', link: '/fr/education/' },
+              { text: 'La Zone', link: '/fr/education/the-zone/' },
+              { text: 'Pleine Conscience', link: '/fr/education/mindfulness/' },
+              { text: 'Définition d\'Objectifs', link: '/fr/education/goals/' },
+              { text: 'Force Mentale', link: '/fr/education/mental-strength/' },
+              { text: 'Dynamique d\'Équipe', link: '/fr/education/team-player/' },
+              { text: 'Tactique', link: '/fr/education/tactics/' },
+              { text: 'Méthodes d\'Entraînement', link: '/fr/education/training/' },
+              { text: 'Nutrition', link: '/fr/education/nutrition/' }
             ]
           },
-          { text: 'Éducation', link: '/fr/education/' },
+          {
+            text: 'Outils',
+            items: [
+              {
+                text: 'Guides',
+                items: [
+                  { text: 'Parcours Mental (Débutants)', link: '/fr/mental-journey/' },
+                  { text: 'Atelier (Avancé)', link: '/fr/workshop' },
+                  { text: 'Stage d\'Entraînement', link: '/fr/training-camp' },
+                  { text: 'Séance d\'Entraînement', link: '/fr/training-session' }
+                ]
+              },
+              {
+                text: 'Modèles',
+                items: [
+                  { text: 'Modèle d\'Objectifs', link: '/fr/goal-template' },
+                  { text: 'Modèle de Journal', link: '/fr/diary-template' }
+                ]
+              }
+            ]
+          },
+          {
+            text: 'Ressources',
+            items: [
+              { text: 'Articles', link: '/fr/blog/' },
+              { text: 'Études de Cas', link: '/fr/case-studies' },
+              { text: 'Témoignages', link: '/fr/testimonials' }
+            ]
+          },
           { text: 'Conseils Techniques', link: '/fr/technical/' },
           { text: 'Alimentation', link: '/fr/food' },
           { text: 'À propos', link: '/fr/about' }
@@ -237,16 +403,48 @@ export default withMermaid(defineConfig({
           { text: 'Ambizione', link: '/it/ambition' },
           { text: 'Notizie', link: '/it/news/' },
           {
-            text: 'Strumenti',
+            text: 'Educazione',
             items: [
-              { text: 'Workshop', link: '/it/workshop' },
-              { text: 'Campo di Allenamento', link: '/it/training-camp' },
-              { text: 'Sessione di Allenamento', link: '/it/training-session' },
-              { text: 'Modello di Obiettivi', link: '/it/goal-template' },
-              { text: 'Modello di Diario', link: '/it/diary-template' }
+              { text: 'Panoramica', link: '/it/education/' },
+              { text: 'La Zona', link: '/it/education/the-zone/' },
+              { text: 'Mindfulness', link: '/it/education/mindfulness/' },
+              { text: 'Definizione degli Obiettivi', link: '/it/education/goals/' },
+              { text: 'Forza Mentale', link: '/it/education/mental-strength/' },
+              { text: 'Dinamiche di Squadra', link: '/it/education/team-player/' },
+              { text: 'Tattica', link: '/it/education/tactics/' },
+              { text: 'Metodi di Allenamento', link: '/it/education/training/' },
+              { text: 'Nutrizione', link: '/it/education/nutrition/' }
             ]
           },
-          { text: 'Educazione', link: '/it/education/' },
+          {
+            text: 'Strumenti',
+            items: [
+              {
+                text: 'Guide',
+                items: [
+                  { text: 'Percorso Mentale (Principianti)', link: '/it/mental-journey/' },
+                  { text: 'Workshop (Avanzato)', link: '/it/workshop' },
+                  { text: 'Campo di Allenamento', link: '/it/training-camp' },
+                  { text: 'Sessione di Allenamento', link: '/it/training-session' }
+                ]
+              },
+              {
+                text: 'Modelli',
+                items: [
+                  { text: 'Modello di Obiettivi', link: '/it/goal-template' },
+                  { text: 'Modello di Diario', link: '/it/diary-template' }
+                ]
+              }
+            ]
+          },
+          {
+            text: 'Risorse',
+            items: [
+              { text: 'Articoli', link: '/it/blog/' },
+              { text: 'Casi di Studio', link: '/it/case-studies' },
+              { text: 'Testimonianze', link: '/it/testimonials' }
+            ]
+          },
           { text: 'Consigli Tecnici', link: '/it/technical/' },
           { text: 'Cibo', link: '/it/food' },
           { text: 'Chi siamo', link: '/it/about' }
@@ -263,18 +461,51 @@ export default withMermaid(defineConfig({
           { text: 'Ambitie', link: '/nl/ambition' },
           { text: 'Nieuws', link: '/nl/news/' },
           {
-            text: 'Hulpmiddelen',
+            text: 'Educatie',
             items: [
-              { text: 'Workshop', link: '/nl/workshop' },
-              { text: 'Trainingskamp', link: '/nl/training-camp' },
-              { text: 'Trainingssessie', link: '/nl/training-session' },
-              { text: 'Doelsjabloon', link: '/nl/goal-template' },
-              { text: 'Dagboeksjabloon', link: '/nl/diary-template' }
+              { text: 'Overzicht', link: '/nl/education/' },
+              { text: 'De Zone', link: '/nl/education/the-zone/' },
+              { text: 'Mindfulness', link: '/nl/education/mindfulness/' },
+              { text: 'Doelen Stellen', link: '/nl/education/goals/' },
+              { text: 'Mentale Kracht', link: '/nl/education/mental-strength/' },
+              { text: 'Teamdynamiek', link: '/nl/education/team-player/' },
+              { text: 'Tactiek', link: '/nl/education/tactics/' },
+              { text: 'Trainingsmethoden', link: '/nl/education/training/' },
+              { text: 'Voeding', link: '/nl/education/nutrition/' }
             ]
           },
-          { text: 'Educatie', link: '/nl/education/' },
+          {
+            text: 'Hulpmiddelen',
+            items: [
+              {
+                text: 'Gidsen',
+                items: [
+                  { text: 'Mentale Reis (Beginners)', link: '/nl/mental-journey/' },
+                  { text: 'Workshop (Gevorderd)', link: '/nl/workshop' },
+                  { text: 'Trainingskamp', link: '/nl/training-camp' },
+                  { text: 'Trainingssessie', link: '/nl/training-session' }
+                ]
+              },
+              {
+                text: 'Sjablonen',
+                items: [
+                  { text: 'Doelsjabloon', link: '/nl/goal-template' },
+                  { text: 'Dagboeksjabloon', link: '/nl/diary-template' }
+                ]
+              }
+            ]
+          },
+          {
+            text: 'Bronnen',
+            items: [
+              { text: 'Artikelen', link: '/nl/blog/' },
+              { text: 'Casestudies', link: '/nl/case-studies' },
+              { text: 'Getuigenissen', link: '/nl/testimonials' }
+            ]
+          },
           { text: 'Technisch Advies', link: '/nl/technical/' },
-          { text: 'Voeding', link: '/nl/food' }
+          { text: 'Voeding', link: '/nl/food' },
+          { text: 'Over', link: '/nl/about' }
         ]
       }
     },
@@ -288,16 +519,48 @@ export default withMermaid(defineConfig({
           { text: 'Ambisjon', link: '/no/ambition' },
           { text: 'Nyheter', link: '/no/news/' },
           {
-            text: 'Verktøy',
+            text: 'Utdanning',
             items: [
-              { text: 'Workshop', link: '/no/workshop' },
-              { text: 'Treningsleir', link: '/no/training-camp' },
-              { text: 'Treningsøkt', link: '/no/training-session' },
-              { text: 'Målmal', link: '/no/goal-template' },
-              { text: 'Dagbokmal', link: '/no/diary-template' }
+              { text: 'Oversikt', link: '/no/education/' },
+              { text: 'Sonen', link: '/no/education/the-zone/' },
+              { text: 'Mindfulness', link: '/no/education/mindfulness/' },
+              { text: 'Målsetting', link: '/no/education/goals/' },
+              { text: 'Mental Styrke', link: '/no/education/mental-strength/' },
+              { text: 'Teamdynamikk', link: '/no/education/team-player/' },
+              { text: 'Taktikk', link: '/no/education/tactics/' },
+              { text: 'Treningsmetoder', link: '/no/education/training/' },
+              { text: 'Ernæring', link: '/no/education/nutrition/' }
             ]
           },
-          { text: 'Utdanning', link: '/no/education/' },
+          {
+            text: 'Verktøy',
+            items: [
+              {
+                text: 'Guider',
+                items: [
+                  { text: 'Mental Reise (Nybegynnere)', link: '/no/mental-journey/' },
+                  { text: 'Workshop (Avansert)', link: '/no/workshop' },
+                  { text: 'Treningsleir', link: '/no/training-camp' },
+                  { text: 'Treningsøkt', link: '/no/training-session' }
+                ]
+              },
+              {
+                text: 'Maler',
+                items: [
+                  { text: 'Målmal', link: '/no/goal-template' },
+                  { text: 'Dagbokmal', link: '/no/diary-template' }
+                ]
+              }
+            ]
+          },
+          {
+            text: 'Ressurser',
+            items: [
+              { text: 'Artikler', link: '/no/blog/' },
+              { text: 'Casestudier', link: '/no/case-studies' },
+              { text: 'Attester', link: '/no/testimonials' }
+            ]
+          },
           { text: 'Teknisk Råd', link: '/no/technical/' },
           { text: 'Mat', link: '/no/food' },
           { text: 'Om', link: '/no/about' }
@@ -314,16 +577,48 @@ export default withMermaid(defineConfig({
           { text: 'Ambição', link: '/pt/ambition' },
           { text: 'Notícias', link: '/pt/news/' },
           {
-            text: 'Ferramentas',
+            text: 'Educação',
             items: [
-              { text: 'Workshop', link: '/pt/workshop' },
-              { text: 'Campo de Treinamento', link: '/pt/training-camp' },
-              { text: 'Sessão de Treinamento', link: '/pt/training-session' },
-              { text: 'Modelo de Objetivos', link: '/pt/goal-template' },
-              { text: 'Modelo de Diário', link: '/pt/diary-template' }
+              { text: 'Visão Geral', link: '/pt/education/' },
+              { text: 'A Zona', link: '/pt/education/the-zone/' },
+              { text: 'Mindfulness', link: '/pt/education/mindfulness/' },
+              { text: 'Definição de Metas', link: '/pt/education/goals/' },
+              { text: 'Força Mental', link: '/pt/education/mental-strength/' },
+              { text: 'Dinâmica de Equipe', link: '/pt/education/team-player/' },
+              { text: 'Tática', link: '/pt/education/tactics/' },
+              { text: 'Métodos de Treinamento', link: '/pt/education/training/' },
+              { text: 'Nutrição', link: '/pt/education/nutrition/' }
             ]
           },
-          { text: 'Educação', link: '/pt/education/' },
+          {
+            text: 'Ferramentas',
+            items: [
+              {
+                text: 'Guias',
+                items: [
+                  { text: 'Jornada Mental (Iniciantes)', link: '/pt/mental-journey/' },
+                  { text: 'Workshop (Avançado)', link: '/pt/workshop' },
+                  { text: 'Campo de Treinamento', link: '/pt/training-camp' },
+                  { text: 'Sessão de Treinamento', link: '/pt/training-session' }
+                ]
+              },
+              {
+                text: 'Modelos',
+                items: [
+                  { text: 'Modelo de Objetivos', link: '/pt/goal-template' },
+                  { text: 'Modelo de Diário', link: '/pt/diary-template' }
+                ]
+              }
+            ]
+          },
+          {
+            text: 'Recursos',
+            items: [
+              { text: 'Artigos', link: '/pt/blog/' },
+              { text: 'Estudos de Caso', link: '/pt/case-studies' },
+              { text: 'Depoimentos', link: '/pt/testimonials' }
+            ]
+          },
           { text: 'Conselho Técnico', link: '/pt/technical/' },
           { text: 'Comida', link: '/pt/food' },
           { text: 'Sobre', link: '/pt/about' }
@@ -340,16 +635,48 @@ export default withMermaid(defineConfig({
           { text: 'Ambition', link: '/sv/ambition' },
           { text: 'Nyheter', link: '/sv/news/' },
           {
-            text: 'Verktyg',
+            text: 'Utbildning',
             items: [
-              { text: 'Workshop', link: '/sv/workshop' },
-              { text: 'Träningsläger', link: '/sv/training-camp' },
-              { text: 'Träningspass', link: '/sv/training-session' },
-              { text: 'Målmall', link: '/sv/goal-template' },
-              { text: 'Dagboksmall', link: '/sv/diary-template' }
+              { text: 'Översikt', link: '/sv/education/' },
+              { text: 'Zonen', link: '/sv/education/the-zone/' },
+              { text: 'Mindfulness', link: '/sv/education/mindfulness/' },
+              { text: 'Målsättning', link: '/sv/education/goals/' },
+              { text: 'Mental Styrka', link: '/sv/education/mental-strength/' },
+              { text: 'Teamdynamik', link: '/sv/education/team-player/' },
+              { text: 'Taktik', link: '/sv/education/tactics/' },
+              { text: 'Träningsmetoder', link: '/sv/education/training/' },
+              { text: 'Näring', link: '/sv/education/nutrition/' }
             ]
           },
-          { text: 'Utbildning', link: '/sv/education/' },
+          {
+            text: 'Verktyg',
+            items: [
+              {
+                text: 'Guider',
+                items: [
+                  { text: 'Mental Resa (Nybörjare)', link: '/sv/mental-journey/' },
+                  { text: 'Workshop (Avancerad)', link: '/sv/workshop' },
+                  { text: 'Träningsläger', link: '/sv/training-camp' },
+                  { text: 'Träningspass', link: '/sv/training-session' }
+                ]
+              },
+              {
+                text: 'Mallar',
+                items: [
+                  { text: 'Målmall', link: '/sv/goal-template' },
+                  { text: 'Dagboksmall', link: '/sv/diary-template' }
+                ]
+              }
+            ]
+          },
+          {
+            text: 'Resurser',
+            items: [
+              { text: 'Artiklar', link: '/sv/blog/' },
+              { text: 'Fallstudier', link: '/sv/case-studies' },
+              { text: 'Omdömen', link: '/sv/testimonials' }
+            ]
+          },
           { text: 'Teknisk Rådgivning', link: '/sv/technical/' },
           { text: 'Mat', link: '/sv/food' },
           { text: 'Om', link: '/sv/about' }
@@ -462,6 +789,46 @@ function getSidebar() {
       overview: 'Overview',
       paletteOfThrows: 'Palette of Throws'
     }),
+    '/en/mental-journey/': getMentalJourneySidebar('en', {
+      mentalJourney: 'Mental Journey for Beginners',
+      overview: 'Getting Started',
+      sessionGuide: 'Session Guide (2-3h)',
+      materials: 'Downloadable Materials',
+      relatedResources: 'Related Resources',
+      workshop: 'Workshop (Advanced)',
+      trainingCamp: 'Training Camp',
+      trainingSession: 'Training Session'
+    }),
+    '/en/workshop': getWorkshopSidebar('en', {
+      workshop: 'Workshop (Advanced)',
+      overview: 'Overview',
+      quickLinks: 'Quick Navigation',
+      forParticipants: 'For Participants',
+      forFacilitators: 'For Facilitators',
+      relatedResources: 'Related Resources',
+      mentalJourney: 'Mental Journey (Beginners)',
+      trainingCamp: 'Training Camp',
+      trainingSession: 'Training Session'
+    }),
+    '/en/training-camp': getTrainingCampSidebar('en', {
+      trainingCamp: 'Training Camp',
+      overview: 'Overview',
+      quickLinks: 'Quick Navigation',
+      forParticipants: 'For Participants',
+      forOrganizers: 'For Organizers',
+      relatedResources: 'Related Resources',
+      mentalJourney: 'Mental Journey (Beginners)',
+      workshop: 'Workshop (Advanced)',
+      trainingSession: 'Training Session'
+    }),
+    '/en/blog/': getBlogSidebar('en', {
+      blog: 'Articles',
+      allArticles: 'All Articles',
+      mentalGame: 'Mental Game',
+      performance: 'Performance Psychology',
+      teamDynamics: 'Team Dynamics',
+      training: 'Training & Development'
+    }),
 
     // Danish
     '/da/education/': getEducationSidebar('da', {
@@ -493,6 +860,24 @@ function getSidebar() {
       technicalAdvice: 'Teknisk Rådgivning',
       overview: 'Oversigt',
       paletteOfThrows: 'Palet af Kast'
+    }),
+    '/da/blog/': getBlogSidebar('da', {
+      blog: 'Artikler',
+      allArticles: 'Alle Artikler',
+      mentalGame: 'Mentalt Spil',
+      performance: 'Præstationspsykologi',
+      teamDynamics: 'Teamdynamik',
+      training: 'Træning & Udvikling'
+    }),
+    '/da/mental-journey/': getMentalJourneySidebar('da', {
+      mentalJourney: 'Mental Rejse for Begyndere',
+      overview: 'Kom i Gang',
+      sessionGuide: 'Sessionsguide (2-3t)',
+      materials: 'Downloadbare Materialer',
+      relatedResources: 'Relaterede Ressourcer',
+      workshop: 'Workshop (Avanceret)',
+      trainingCamp: 'Træningslejr',
+      trainingSession: 'Træningssession'
     }),
 
     // German
@@ -526,6 +911,24 @@ function getSidebar() {
       overview: 'Übersicht',
       paletteOfThrows: 'Palette der Würfe'
     }),
+    '/de/blog/': getBlogSidebar('de', {
+      blog: 'Artikel',
+      allArticles: 'Alle Artikel',
+      mentalGame: 'Mentales Spiel',
+      performance: 'Leistungspsychologie',
+      teamDynamics: 'Teamdynamik',
+      training: 'Training & Entwicklung'
+    }),
+    '/de/mental-journey/': getMentalJourneySidebar('de', {
+      mentalJourney: 'Mentale Reise für Anfänger',
+      overview: 'Erste Schritte',
+      sessionGuide: 'Sitzungsanleitung (2-3h)',
+      materials: 'Herunterladbare Materialien',
+      relatedResources: 'Verwandte Ressourcen',
+      workshop: 'Workshop (Fortgeschritten)',
+      trainingCamp: 'Trainingslager',
+      trainingSession: 'Trainingseinheit'
+    }),
 
     // Spanish
     '/es/education/': getEducationSidebar('es', {
@@ -557,6 +960,24 @@ function getSidebar() {
       technicalAdvice: 'Consejo Técnico',
       overview: 'Resumen',
       paletteOfThrows: 'Paleta de Lanzamientos'
+    }),
+    '/es/blog/': getBlogSidebar('es', {
+      blog: 'Artículos',
+      allArticles: 'Todos los Artículos',
+      mentalGame: 'Juego Mental',
+      performance: 'Psicología del Rendimiento',
+      teamDynamics: 'Dinámica de Equipo',
+      training: 'Entrenamiento y Desarrollo'
+    }),
+    '/es/mental-journey/': getMentalJourneySidebar('es', {
+      mentalJourney: 'Viaje Mental para Principiantes',
+      overview: 'Primeros Pasos',
+      sessionGuide: 'Guía de Sesión (2-3h)',
+      materials: 'Materiales Descargables',
+      relatedResources: 'Recursos Relacionados',
+      workshop: 'Taller (Avanzado)',
+      trainingCamp: 'Campamento de Entrenamiento',
+      trainingSession: 'Sesión de Entrenamiento'
     }),
 
     // French
@@ -590,6 +1011,24 @@ function getSidebar() {
       overview: 'Aperçu',
       paletteOfThrows: 'Palette des Lancers'
     }),
+    '/fr/blog/': getBlogSidebar('fr', {
+      blog: 'Articles',
+      allArticles: 'Tous les Articles',
+      mentalGame: 'Jeu Mental',
+      performance: 'Psychologie de la Performance',
+      teamDynamics: 'Dynamique d\'Équipe',
+      training: 'Entraînement et Développement'
+    }),
+    '/fr/mental-journey/': getMentalJourneySidebar('fr', {
+      mentalJourney: 'Parcours Mental pour Débutants',
+      overview: 'Premiers Pas',
+      sessionGuide: 'Guide de Session (2-3h)',
+      materials: 'Matériaux Téléchargeables',
+      relatedResources: 'Ressources Connexes',
+      workshop: 'Atelier (Avancé)',
+      trainingCamp: 'Stage d\'Entraînement',
+      trainingSession: 'Séance d\'Entraînement'
+    }),
 
     // Italian
     '/it/education/': getEducationSidebar('it', {
@@ -621,6 +1060,24 @@ function getSidebar() {
       technicalAdvice: 'Consigli Tecnici',
       overview: 'Panoramica',
       paletteOfThrows: 'Tavolozza dei Lanci'
+    }),
+    '/it/blog/': getBlogSidebar('it', {
+      blog: 'Articoli',
+      allArticles: 'Tutti gli Articoli',
+      mentalGame: 'Gioco Mentale',
+      performance: 'Psicologia della Prestazione',
+      teamDynamics: 'Dinamiche di Squadra',
+      training: 'Allenamento e Sviluppo'
+    }),
+    '/it/mental-journey/': getMentalJourneySidebar('it', {
+      mentalJourney: 'Percorso Mentale per Principianti',
+      overview: 'Primi Passi',
+      sessionGuide: 'Guida alla Sessione (2-3h)',
+      materials: 'Materiali Scaricabili',
+      relatedResources: 'Risorse Correlate',
+      workshop: 'Workshop (Avanzato)',
+      trainingCamp: 'Campo di Allenamento',
+      trainingSession: 'Sessione di Allenamento'
     }),
 
     // Dutch
@@ -654,6 +1111,24 @@ function getSidebar() {
       overview: 'Overzicht',
       paletteOfThrows: 'Palet van Worpen'
     }),
+    '/nl/blog/': getBlogSidebar('nl', {
+      blog: 'Artikelen',
+      allArticles: 'Alle Artikelen',
+      mentalGame: 'Mentaal Spel',
+      performance: 'Prestatiepsychologie',
+      teamDynamics: 'Teamdynamiek',
+      training: 'Training & Ontwikkeling'
+    }),
+    '/nl/mental-journey/': getMentalJourneySidebar('nl', {
+      mentalJourney: 'Mentale Reis voor Beginners',
+      overview: 'Aan de Slag',
+      sessionGuide: 'Sessiegids (2-3u)',
+      materials: 'Downloadbare Materialen',
+      relatedResources: 'Gerelateerde Bronnen',
+      workshop: 'Workshop (Gevorderd)',
+      trainingCamp: 'Trainingskamp',
+      trainingSession: 'Trainingssessie'
+    }),
 
     // Norwegian
     '/no/education/': getEducationSidebar('no', {
@@ -685,6 +1160,24 @@ function getSidebar() {
       technicalAdvice: 'Teknisk Råd',
       overview: 'Oversikt',
       paletteOfThrows: 'Palett av Kast'
+    }),
+    '/no/blog/': getBlogSidebar('no', {
+      blog: 'Artikler',
+      allArticles: 'Alle Artikler',
+      mentalGame: 'Mentalt Spill',
+      performance: 'Prestasjonspsykologi',
+      teamDynamics: 'Teamdynamikk',
+      training: 'Trening & Utvikling'
+    }),
+    '/no/mental-journey/': getMentalJourneySidebar('no', {
+      mentalJourney: 'Mental Reise for Nybegynnere',
+      overview: 'Kom i Gang',
+      sessionGuide: 'Sesjonsguide (2-3t)',
+      materials: 'Nedlastbare Materialer',
+      relatedResources: 'Relaterte Ressurser',
+      workshop: 'Workshop (Avansert)',
+      trainingCamp: 'Treningsleir',
+      trainingSession: 'Treningsøkt'
     }),
 
     // Portuguese
@@ -718,6 +1211,24 @@ function getSidebar() {
       overview: 'Visão Geral',
       paletteOfThrows: 'Paleta de Lançamentos'
     }),
+    '/pt/blog/': getBlogSidebar('pt', {
+      blog: 'Artigos',
+      allArticles: 'Todos os Artigos',
+      mentalGame: 'Jogo Mental',
+      performance: 'Psicologia do Desempenho',
+      teamDynamics: 'Dinâmica de Equipe',
+      training: 'Treinamento e Desenvolvimento'
+    }),
+    '/pt/mental-journey/': getMentalJourneySidebar('pt', {
+      mentalJourney: 'Jornada Mental para Iniciantes',
+      overview: 'Primeiros Passos',
+      sessionGuide: 'Guia de Sessão (2-3h)',
+      materials: 'Materiais para Download',
+      relatedResources: 'Recursos Relacionados',
+      workshop: 'Workshop (Avançado)',
+      trainingCamp: 'Campo de Treinamento',
+      trainingSession: 'Sessão de Treinamento'
+    }),
 
     // Swedish
     '/sv/education/': getEducationSidebar('sv', {
@@ -749,6 +1260,24 @@ function getSidebar() {
       technicalAdvice: 'Teknisk Rådgivning',
       overview: 'Översikt',
       paletteOfThrows: 'Palett av Kast'
+    }),
+    '/sv/blog/': getBlogSidebar('sv', {
+      blog: 'Artiklar',
+      allArticles: 'Alla Artiklar',
+      mentalGame: 'Mentalt Spel',
+      performance: 'Prestationspsykologi',
+      teamDynamics: 'Teamdynamik',
+      training: 'Träning & Utveckling'
+    }),
+    '/sv/mental-journey/': getMentalJourneySidebar('sv', {
+      mentalJourney: 'Mental Resa för Nybörjare',
+      overview: 'Kom Igång',
+      sessionGuide: 'Sessionsguide (2-3h)',
+      materials: 'Nedladdningsbara Material',
+      relatedResources: 'Relaterade Resurser',
+      workshop: 'Workshop (Avancerad)',
+      trainingCamp: 'Träningsläger',
+      trainingSession: 'Träningspass'
     })
   }
 }
@@ -838,6 +1367,133 @@ function getTechnicalSidebar(lang: string, labels: any) {
       items: [
         { text: labels.overview, link: `/${lang}/technical/` },
         { text: labels.paletteOfThrows, link: `/${lang}/technical/throws` }
+      ]
+    }
+  ]
+}
+
+function getMentalJourneySidebar(lang: string, labels: any) {
+  return [
+    {
+      text: labels.mentalJourney,
+      items: [
+        { text: labels.overview, link: `/${lang}/mental-journey/` },
+        { text: labels.sessionGuide, link: `/${lang}/mental-journey/session-guide` },
+        { text: labels.materials, link: `/${lang}/mental-journey/materials` }
+      ]
+    },
+    {
+      text: labels.relatedResources,
+      collapsed: true,
+      items: [
+        { text: labels.workshop, link: `/${lang}/workshop` },
+        { text: labels.trainingCamp, link: `/${lang}/training-camp` },
+        { text: labels.trainingSession, link: `/${lang}/training-session` }
+      ]
+    }
+  ]
+}
+
+function getWorkshopSidebar(lang: string, labels: any) {
+  return [
+    {
+      text: labels.workshop,
+      items: [
+        { text: labels.overview, link: `/${lang}/workshop` }
+      ]
+    },
+    {
+      text: labels.quickLinks,
+      collapsed: false,
+      items: [
+        { text: labels.forParticipants, link: `/${lang}/workshop#for-participants` },
+        { text: labels.forFacilitators, link: `/${lang}/workshop#for-facilitators` }
+      ]
+    },
+    {
+      text: labels.relatedResources,
+      collapsed: true,
+      items: [
+        { text: labels.mentalJourney, link: `/${lang}/mental-journey/` },
+        { text: labels.trainingCamp, link: `/${lang}/training-camp` },
+        { text: labels.trainingSession, link: `/${lang}/training-session` }
+      ]
+    }
+  ]
+}
+
+function getTrainingCampSidebar(lang: string, labels: any) {
+  return [
+    {
+      text: labels.trainingCamp,
+      items: [
+        { text: labels.overview, link: `/${lang}/training-camp` }
+      ]
+    },
+    {
+      text: labels.quickLinks,
+      collapsed: false,
+      items: [
+        { text: labels.forParticipants, link: `/${lang}/training-camp#for-participants` },
+        { text: labels.forOrganizers, link: `/${lang}/training-camp#for-organizers` }
+      ]
+    },
+    {
+      text: labels.relatedResources,
+      collapsed: true,
+      items: [
+        { text: labels.mentalJourney, link: `/${lang}/mental-journey/` },
+        { text: labels.workshop, link: `/${lang}/workshop` },
+        { text: labels.trainingSession, link: `/${lang}/training-session` }
+      ]
+    }
+  ]
+}
+
+function getBlogSidebar(lang: string, labels: any) {
+  return [
+    {
+      text: labels.blog,
+      items: [
+        { text: labels.allArticles, link: `/${lang}/blog/` }
+      ]
+    },
+    {
+      text: labels.mentalGame,
+      collapsed: false,
+      items: [
+        { text: 'Why Elite Players Need Mental Training', link: `/${lang}/blog/mental-vs-technical` },
+        { text: 'Understanding the Inner Critic', link: `/${lang}/blog/inner-critic` },
+        { text: 'Building Pre-Shot Routines', link: `/${lang}/blog/pre-shot-routines` },
+        { text: 'Pressure Management', link: `/${lang}/blog/pressure-management` }
+      ]
+    },
+    {
+      text: labels.performance,
+      collapsed: false,
+      items: [
+        { text: 'The Science Behind Flow States', link: `/${lang}/blog/flow-state-science` },
+        { text: 'Mindfulness in Competition', link: `/${lang}/blog/mindfulness-competition` },
+        { text: 'Goal Setting for Elite Athletes', link: `/${lang}/blog/elite-goal-setting` },
+        { text: 'Mental Resilience', link: `/${lang}/blog/mental-resilience` }
+      ]
+    },
+    {
+      text: labels.teamDynamics,
+      collapsed: true,
+      items: [
+        { text: 'Communication Under Pressure', link: `/${lang}/blog/team-communication` },
+        { text: 'Building Team Chemistry', link: `/${lang}/blog/team-chemistry` },
+        { text: 'Leadership in Pétanque', link: `/${lang}/blog/team-leadership` }
+      ]
+    },
+    {
+      text: labels.training,
+      collapsed: true,
+      items: [
+        { text: '5 Mental Training Mistakes', link: `/${lang}/blog/mental-training-mistakes` },
+        { text: 'Structuring Your Practice', link: `/${lang}/blog/practice-structure` },
+        { text: 'Competition Preparation', link: `/${lang}/blog/competition-prep` }
       ]
     }
   ]

@@ -173,7 +173,7 @@ Il tuo piano dovrebbe evolversi:
 | 1 | Linea di base | Test del livello attuale, analisi video |
 | 2 | Tecnica | Identificare e lavorare sulle questioni chiave |
 | 3 | Ripetizione | Pratica di tiro ad alto volume |
-| 4 | Test | Valutazione intermedia, adeguamento |
+| 4 | Test | Valutazione intermedia, regolazione |
 | 5 | Variazione | Diverse distanze e angoli |
 | 6 | Pressione | Aggiungere conseguenze alle esercitazioni |
 | 7 | Integrazione | Scenari simili a giochi |

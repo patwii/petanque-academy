@@ -5,7 +5,7 @@
 Boule är en precisionssport, inte en uthållighetssport. Dina näringsbehov skiljer sig från en maratonlöpares eller en fotbollsspelares. Det som är viktigast är **stabilitet i hjärnans bränsle** – att hålla ditt sinne skarpt och dina händer stadiga under en lång tävlingsdag.
 
 ::: tip Den stora idén
-**Your brain is your most important tool in pétanque. Feed it stable fuel, not roller coaster energy.** Focus on protein, healthy fats, and staying hydrated. Avoid sugar spikes.
+**Din hjärna är ditt viktigaste verktyg i boule. Ge den stabil bränsle, inte berg-och-dalbaneenergi.** Fokusera på protein, hälsosamma fetter och att hålla dig hydrerad. Undvik sockertoppar.
 :::
 
 ```mermaid
@@ -31,10 +31,10 @@ graph LR
 
 Till skillnad från högintensiva sporter kräver inte boule massiva glykogenlager eller snabb energipåfyllning. Det som krävs är:
 
-- **Stabilt blodsocker - inga toppar eller krascher**
-- **Konsekvent mental klarhet – fokus som varar hela dagen**
-- **Stadiga händer - inga skakningar eller skakningar**
-- **Lugna nerver - låg ångest och stressrespons**
+- **Stabilt blodsocker** - inga toppar eller krascher
+- **Konsekvent mental klarhet** - fokus som varar hela dagen
+- **Stadig hand** - inga skakningar eller skakningar
+- **Lugna nerverna** - låg ångest och stressreaktion
 
 Din näringsstrategi bör optimera för dessa faktorer, inte för rå energiproduktion.
 
@@ -47,11 +47,11 @@ Många idrottare väljer en kolhydratrik diet som standard. För boulespelare ka
 När du äter socker eller enkla kolhydrater:
 1. Blodsockret stiger snabbt
 2. Insulin frisätts för att sänka det
-3. Blodsockersänkningar (hypoglykemi)
+3. Blodsockret sjunker (hypoglykemi)
 4. Din kropp frigör adrenalin för att kompensera
 5. Du upplever skakningar, ångest och dålig fokus
 
-**This is the opposite of what you need for precision.**
+**Detta är motsatsen till vad du behöver för precision.**
 
 ### Symtom på blodsockerinstabilitet
 
@@ -70,8 +70,8 @@ Målet är att förse din hjärna med regelbundet bränsle utan berg-och-dalbana
 
 ### Viktiga principer
 
-1. **Prioritera protein och hälsosamma fetter** - De ger långsam, jämn energi
-2. **Välj komplexa kolhydrater framför enkla** - Om du äter kolhydrater, välj sådana som smälts långsamt
+1. **Prioritera protein och hälsosamma fetter** - De ger långsam, stadig energi
+2. **Välj komplexa kolhydrater framför enkla** - Om du äter kolhydrater, välj de som smälter långsamt
 3. **Undvik sockertoppar** - Speciellt före och under tävling
 4. **Håll dig hydrerad** - Uttorkning påverkar koncentrationen avsevärt
 5. **Ät regelbundet** - Låt dig inte bli för hungrig
@@ -98,24 +98,24 @@ Målet är att förse din hjärna med regelbundet bränsle utan berg-och-dalbana
 
 ### Före tävlingen
 
-**2-3 hours before:**
+**2–3 timmar innan:**
 - Balanserad måltid med protein, fett och grönsaker
 - Undvik tunga kolhydrater som kan orsaka dåsighet
 - Exempel: Ägg med grönsaker, eller sallad med kyckling
 
-**1 hour before:**
+**1 timme innan:**
 - Lättare mellanmål om det behövs
 - Nötter, ost eller en liten portion protein
 - Undvik allt som är sockerartat
 
 ### Under tävlingen
 
-**Between games:**
+**Mellan spelen:**
 - Vatten (viktigast)
 - Små proteinsnacks (nötter, ost, kött)
 - Undvik söta snacks och drycker
 
-**Signs you need to eat:**
+**Tecken på att du behöver äta:**
 - Koncentrationssvårigheter
 - Irritabilitet
 - Känsla av skakighet
@@ -133,10 +133,10 @@ Uttorkning påverkar kognitiv funktion innan du känner dig törstig.
 
 ### Riktlinjer
 
-- **Börja med att dricka vatten - Drick vatten under dagen före tävlingen**
-- **Under lek - Smutta på vatten regelbundet, vänta inte tills du är törstig**
-- **Undvik överskott av koffein – det är ett vätskedrivande medel**
-- **Var uppmärksam på tecken - Huvudvärk, mörk urin, trötthet**
+- **Börja med att dricka vätska** - Drick vatten under dagen före tävlingen
+- **Under lek** - Drick vatten regelbundet, vänta inte tills du är törstig
+- **Undvik överskott av koffein** - Det är ett vätskedrivande medel
+- **Var uppmärksam på tecken** - Huvudvärk, mörk urin, trötthet
 
 ### Hur mycket?
 
@@ -146,13 +146,13 @@ En allmän riktlinje: sikta på ljusgul urin. Om den är mörk behöver du mer v
 
 Vissa precisionsidrottare använder sig av lågkolhydratkost eller ketogen kost. Teorin:
 
-**Potential benefits:**
+**Potentiella fördelar:**
 - Mycket stabilt blodsocker (inga toppar möjliga)
 - Konsekvent mental klarhet
 - Minskad ångest och skakningar
 - Inga energikrascher på eftermiddagen
 
-**Considerations:**
+**Att tänka på:**
 - Kräver anpassningsperiod (1-2 veckor)
 - Inte lämplig för alla
 - Kräver planering och engagemang
@@ -165,20 +165,20 @@ Detta är en avancerad strategi – inte nödvändig för alla, men värd att ö
 ## Mat som övning: Träna din kropp
 
 ::: warning Kritiskt koncept
-**Mat är inte bara bränsle - det är något du övar med.** Just like you practice your throw, you must practice your nutrition to get your body comfortable with competition-day eating.
+**Mat är inte bara bränsle – det är något man tränar med.** Precis som du tränar ditt kast måste du öva på din kost för att din kropp ska bli bekväm med att äta på tävlingsdagen.
 :::
 
 ### Varför livsmedelsrutiner är viktiga
 
 Ditt matsmältningssystem är träningsbart. Det du äter regelbundet blir vad din kropp förväntar sig och hanterar bäst. Om du bara äter protein och grönsaker på tävlingsdagar kommer din kropp inte att anpassa sig till det.
 
-**The problem:**
+**Problemet:**
 - Att äta obekant mat på tävlingsdagen kan orsaka matsmältningsbesvär
 - Din kropp behöver tid för att anpassa sig till nya matvanor
 - Stress + obekant mat = potentiella magproblem
 - Prestationsångest är tillräckligt dålig utan att det ger matsmältningsångest
 
-**The solution:**
+**Lösningen:**
 - Öva på din tävlingskost under träningen
 - Gör din tävlingsdagsmat till en del av din vanliga rutin
 - Träna din kropp att vara bekväm med mat med stabil energi
@@ -188,11 +188,11 @@ Ditt matsmältningssystem är träningsbart. Det du äter regelbundet blir vad d
 ```mermaid
 graph TD
     A[Nuvarande kost] --> B[Gradvisa förändringar]
-    B --> C[Kroppsanpassning<br/>2–4 veckor]
+    B --> C[Kroppsanpassning <br/> 2–4 veckor]
     C --> D[Ny normalitet]
     D --> E[Redo för tävling]
 
-    F[Plötslig förändring<br/>Tävlingsdagen] --> G[Matsmältningsbesvär]
+    F[Plötslig förändring <br/> Tävlingsdag] --> G[Matsmältningsbesvär]
     G --> H[Dålig prestanda]
 
     style A fill:#fff3e0
@@ -206,19 +206,19 @@ När du ändrar din kost:
 2. **Vecka 3-4:** Anpassning sker, nya livsmedel känns normala
 3. **Vecka 5+:** Din kropp mår bra och är effektiv med dessa livsmedel
 
-**This is why you can't just "eat healthy" on competition day and expect optimal results.**
+**Det är därför du inte bara kan &quot;äta hälsosamt&quot; på tävlingsdagen och förvänta dig optimala resultat.**
 
 ### Hur du övar din kost
 
 #### 1. Börja under träningen
 
-**Practice your competition-day eating during training sessions:**
+**Öva på din tävlingsdagsmat under träningspassen:**
 - Ät samma måltid före träning som du skulle äta före tävling
 - Ta med samma snacks som du skulle ta med till en tävling
 - Lägg märke till hur din kropp reagerar
 - Anpassa utifrån vad som fungerar
 
-**Example training day:**
+**Exempel på träningsdag:**
 ```
 2-3 hours before: Eggs with vegetables (same as competition)
 During training: Water + nuts (same as competition)
@@ -227,11 +227,11 @@ After training: Balanced meal with protein
 
 #### 2. Gör det till ditt normala
 
-**Don't have a "competition diet" and a "regular diet"** - this creates two problems:
+**Inte ha en &quot;tävlingsdiet&quot; och en &quot;vanlig diet&quot;** – detta skapar två problem:
 - Din kropp anpassar sig aldrig helt till någon av dem
 - Tävlingsmat känns obekant och stressigt
 
-**Instead:**
+**I stället:**
 - Gör mat med stabil energi till din dagliga norm
 - Din kropp blir effektivare på att använda protein och fett
 - Tävlingsdagen känns normal, inte annorlunda
@@ -239,7 +239,7 @@ After training: Balanced meal with protein
 
 #### 3. Testa och förfina
 
-**Use training to experiment:**
+**Använd träning för att experimentera:**
 
 | Testa | Vad man bör lägga märke till | Justera |
 |------|----------------|--------|
@@ -248,7 +248,7 @@ After training: Balanced meal with protein
 | Mellanmålstyper | Hållbar energi | Hitta dina favoritsnacks |
 | Hydreringsmängder | Koncentration, toalettpauser | Balansintag |
 
-**Keep a simple log:**
+**För en enkel logg:**
 - Vad du åt och när
 - Hur du kände dig under träningen
 - Energinivåer och fokus
@@ -256,7 +256,7 @@ After training: Balanced meal with protein
 
 #### 4. Bygg komfort och självförtroende
 
-**The psychological benefit:**
+**Den psykologiska fördelen:**
 
 När du har övat på din kost hundratals gånger under träning:
 - Du vet exakt hur din kropp kommer att reagera
@@ -264,22 +264,22 @@ När du har övat på din kost hundratals gånger under träning:
 - En sak mindre att oroa sig för på tävlingsdagen
 - Förtroende för dina förberedelser
 
-**This is the same principle as practicing your throw** - repetition builds comfort and reliability.
+**Detta är samma princip som att öva ditt kast** – repetition bygger komfort och pålitlighet.
 
 ### Vanliga anpassningsutmaningar
 
 ::: details Övergång från högkolhydratkost till stabil energikost
 
-**Challenge:** You're used to bread, pasta, and sugary snacks
+**Utmaning:** Du är van vid bröd, pasta och söta snacks
 
-**Adaptation period:** 2-4 weeks
+**Anpassningsperiod:** 2–4 veckor
 
-**What to expect:**
+**Vad du kan förvänta dig:**
 - Vecka 1: Kan kännas annorlunda, sug efter gammal mat
 - Vecka 2: Energin stabiliseras, suget minskar
 - Vecka 3-4: Nytt normalvärde, kroppen effektiv med fett/protein
 
-**How to practice:**
+**Hur man övar:**
 - Börja med en måltid i taget
 - Byt först ut enkla kolhydrater mot komplexa kolhydrater
 - Öka gradvis protein och hälsosamma fetter
@@ -288,15 +288,15 @@ När du har övat på din kost hundratals gånger under träning:
 
 ::: details Att hitta mat som fungerar för dig
 
-**Challenge:** Not everyone digests the same foods well
+**Utmaning:** Alla smälter inte samma mat lika bra
 
-**What to test:**
+**Vad ska testa:**
 - Olika proteinkällor (ägg kontra kött kontra nötter)
 - Måltidernas tidpunkt (2 timmar vs. 3 timmar före)
 - Portionsstorlekar (för mycket = trög, för lite = hungrig)
 - Specifika livsmedel som orsakar obehag
 
-**Practice approach:**
+**Övningsmetod:**
 - Testa en variabel i taget
 - Ge varje test 2–3 träningstillfällen
 - Notera vad som får dig att må bäst
@@ -305,15 +305,15 @@ När du har övat på din kost hundratals gånger under träning:
 
 ::: details Att hantera turneringsmatmiljöer
 
-**Challenge:** Tournaments often have limited food options
+**Utmaning:** Turneringar har ofta begränsade matalternativ
 
-**Practice solution:**
+**Övningslösning:**
 - Ta alltid med egna snacks (öva på detta)
 - Undersök platser i förväg när det är möjligt
 - Ha reservalternativ som du vet fungerar
 - Öva på att äta i olika miljöer
 
-**Mental preparation:**
+**Mental förberedelse:**
 - Lita inte på maten på stället
 - Behandla mat som en del av din utrustning
 - Packa det som du packar dina boulebollar
@@ -321,21 +321,21 @@ När du har övat på din kost hundratals gånger under träning:
 
 ### 30-dagars kostplan
 
-**Goal:** Make stable-energy eating your comfortable normal
+**Mål:** Gör stabil energikost till din bekväma vardag
 
-**Week 1-2: Foundation**
+**Vecka 1-2: Grunden**
 - Ersätt en måltid per dag med tävlingsliknande måltider
 - Öva på kost före träning
 - Börja ta med snacks till träningen
 - Lägg märke till hur din kropp reagerar
 
-**Week 3-4: Expansion**
+**Vecka 3-4: Utökning**
 - Gör två måltider per dag stabilt energifokuserade
 - Öva på att äta hela tävlingsdagen på träningsdagarna
 - Förfina dina mellanmålsval
 - Skapa din lista över maträtter
 
-**Week 5+: Mastery**
+**Vecka 5+: Mästerskap**
 - Stabil energiätning är din nya normalitet
 - Kroppen är helt anpassad
 - Tävlingsdagen känns rutinmässig
@@ -343,14 +343,14 @@ När du har övat på din kost hundratals gånger under träning:
 
 ### Ditt tävlingsmatkit
 
-**Practice packing this for every training session:**
+**Öva på att packa detta inför varje träningspass:**
 
-**Pre-competition (2-3 hours before):**
+**Före tävling (2-3 timmar innan):**
 - [ ] Proteinkälla (ägg, kött eller nötter)
 - [ ] Grönsaker eller sallad
 - [ ] Hälsosamt fett (avokado, olivolja, ost)
 
-**During competition:**
+**Under tävling:**
 - [ ] Vattenflaska (påfyllningsbar)
 - [ ] Blandade nötter (små portioner)
 - [ ] Hårdkokta ägg (om du kan hålla dig sval)
@@ -358,7 +358,7 @@ När du har övat på din kost hundratals gånger under träning:
 - [ ] Jerky eller torkat kött
 - [ ] Reservsnacks
 
-**The more you practice with this kit, the more automatic it becomes.**
+**Ju mer du övar med det här kitet, desto mer automatiskt blir det.**
 
 ## Praktiska tips
 
@@ -383,6 +383,6 @@ När du har övat på din kost hundratals gånger under träning:
 
 Fokusera på protein, hälsosamma fetter och att hålla dig hydrerad. Undvik sockertoppar. **Viktigast av allt: gör din tävlingsdagskost till din dagliga kost.** Din kropp behöver träning för att prestera som bäst.
 
-**Remember:** You wouldn't show up to a tournament with a throwing technique you've never practiced. Don't show up with a nutrition strategy you've never practiced either.
+**Kom ihåg:** Du skulle inte dyka upp till en turnering med en kastteknik du aldrig har övat på. Kom inte heller upp med en näringsstrategi du aldrig har övat på.
 
 <AdBanner />

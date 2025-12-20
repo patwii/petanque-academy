@@ -204,7 +204,7 @@ En dehors des jeux :
 
 Si votre équipe a un chef désigné :
 
-**Responsabilités du capitaine :**
+**Responsabilités du capitaine :**
 - Décision finale en cas de désaccord au sein de l&#39;équipe
 - Donner le ton et l&#39;énergie
 - Gérer la dynamique d&#39;équipe

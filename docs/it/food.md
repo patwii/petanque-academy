@@ -1,5 +1,7 @@
 # Cibo e nutrizione
 
+<AdBanner />
+
 ## Prestazioni di precisione
 
 La boccia è uno sport di precisione. Il tuo cervello è lo strumento più importante: alimentalo con carburante stabile, non con energia da montagne russe.
@@ -76,6 +78,8 @@ Prestare particolare attenzione a:
 - ❌ Succhi di frutta e frullati (zucchero concentrato)
 - ❌ Pane bianco, pasticcini, snack dai distributori automatici
 :::
+
+<AdInArticle />
 
 ## Guida rapida per il giorno della gara
 

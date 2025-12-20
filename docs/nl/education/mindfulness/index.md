@@ -19,7 +19,7 @@ graph TD
 
     D --> G[Laat het los]
     G --> H[Terug naar het heden]
-    H --> I[Blijf gefocust]
+    H --> I[Blijf geconcentreerd]
 
     style C fill:#ffcdd2
     style E fill:#ffcdd2
@@ -29,7 +29,7 @@ graph TD
     style I fill:#c8e6c9
 ```
 
-## Wat is Mindfulness?
+## Wat is mindfulness?
 
 Mindfulness betekent volledig aanwezig en bewust zijn van:
 - Waar je bent
@@ -187,7 +187,7 @@ Het verleden ligt achter ons. De toekomst bestaat nog niet. Leef in het hier en 
 :::
 
 ::: tip Regel #4: De oefenregel
-**Begin rustig aan: 2-5 minuten per dag.**
+**Begin klein: 2-5 minuten per dag.**
 Consistentie is belangrijker dan duur. Dagelijkse oefening bouwt de vaardigheid op.
 :::
 

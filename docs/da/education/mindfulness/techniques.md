@@ -50,7 +50,7 @@ Fundamentet for mindfulness-praksis.
 
 **Tips:**
 - Tanker vil komme - det er normalt
-- Hver gang du bemærker, at du har vandret og vender tilbage, opbygger du færdigheden
+- Hver gang du bemærker, at du har vandret og vender tilbage, opbygger du færdigheden.
 - Døm ikke dig selv for at vandre
 - Konsistens er vigtigere end varighed
 
@@ -75,7 +75,7 @@ Mindfulness i bevægelse - god forberedelse til pisten.
 
 **Sådan gør du det:**
 1. Gå langsomt og bevidst
-2. Mærk hver del af skridtet: løft, bevæg, placer
+2. Mærk hver del af trinnet: løft, bevæg, placer
 3. Læg mærke til fornemmelserne i dine fødder og ben
 4. Når dine tanker vandrer, så vend tilbage til de fysiske fornemmelser
 5. 5-10 minutter er nok

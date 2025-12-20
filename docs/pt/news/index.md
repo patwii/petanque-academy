@@ -12,20 +12,20 @@ Lançamos uma plataforma completa dedicada a ajudar jogadores de petanca de elit
 
 ```mermaid
 graph TD
-    A[Pétanque Academy] --> B[Education Platform]
-    A --> C[Training Tools]
-    A --> D[Workshop Programs]
+    A[Pétanque Academy] --> B[Plataforma Educacional]
+    A --> C[Ferramentas de treinamento]
+    A --> D[Programas de Workshops]
 
-    B --> E[8 Complete Modules]
-    B --> F[Mental Game Mastery]
-    B --> G[Technical Foundations]
+    B --> E[8 Módulos Completos]
+    B --> F[Domínio do Jogo Mental]
+    B --> G[Fundamentos técnicos]
 
-    C --> H[Goal Templates]
-    C --> I[Diary Templates]
-    C --> J[Training Plans]
+    C --> H[Modelos de metas]
+    C --> I[Modelos de diário]
+    C --> J[Planos de treinamento]
 
-    D --> K[Elite Player Forums]
-    D --> L[Training Camps]
+    D --> K[Fóruns de Jogadores de Elite]
+    D --> L[Campos de treinamento]
 
     style A fill:#fff4e1
     style B fill:#e3f2fd
@@ -43,14 +43,14 @@ Lançamos **8 módulos educacionais abrangentes** que cobrem tudo, desde estados
 
 | Módulo | O que tem dentro | Principais características |
 |--------|---------------|--------------|
-| **[The Zone](/en/education/the-zone/)** | Domínio do estado de fluxo | 4 guias detalhados sobre como entrar e manter o fluxo |
-| **[Mental Strength](/en/education/mental-strength/)** | manuseio de pressão | Rotinas pré-filmagem, gerenciamento do crítico interno |
-| **[Mindfulness](/en/education/mindfulness/)** | Consciência do momento presente | Práticas diárias, técnicas de competição |
-| **[Goals](/en/education/goals/)** | Planejamento estratégico | Metas SMART, hierarquia, sistemas de acompanhamento |
-| **[Tactics](/en/education/tactics/)** | Estratégia de jogo | Tomada de decisão, probabilidade, posicionamento |
-| **[Team Player](/en/education/team-player/)** | Habilidades de colaboração | Comunicação, confiança, dinâmica de equipe |
-| **[Training](/en/education/training/)** | Métodos de prática | Exercícios, prática deliberada, progressão |
-| **[Nutrition](/en/education/nutrition/)** | Combustível de alto desempenho | Controle do açúcar no sangue, nutrição para competições |
+| **[A Zona](/en/education/the-zone/)** | Domínio do estado de fluxo | 4 guias detalhados sobre como entrar e manter o fluxo |
+| **[Força Mental](/en/education/mental-strength/)** | manuseio de pressão | Rotinas pré-filmagem, gerenciamento do crítico interno |
+| **[Atenção plena](/en/education/mindfulness/)** | Consciência do momento presente | Práticas diárias, técnicas de competição |
+| **[Metas](/en/educação/metas/)** | Planejamento estratégico | Metas SMART, hierarquia, sistemas de acompanhamento |
+| **[Táticas](/en/education/tactics/)** | Estratégia de jogo | Tomada de decisão, probabilidade, posicionamento |
+| **[Jogador de Equipe](/en/education/team-player/)** | Habilidades de colaboração | Comunicação, confiança, dinâmica de equipe |
+| **[Treinamento](/en/education/training/)** | Métodos de prática | Exercícios, prática deliberada, progressão |
+| **[Nutrição](/en/education/nutrition/)** | Combustível de alto desempenho | Controle do açúcar no sangue, nutrição para competições |
 
 ### 🛠️ Ferramentas Práticas
 
@@ -77,14 +77,36 @@ A seção **[Aconselhamento Técnico](/en/technical/)** inclui:
 - Estratégias de nutrição pré-competição
 - Otimização de energia para torneios
 
+### 📝 Artigos e Insights
+
+**NOVO: 14 artigos aprofundados** abordando tópicos sobre o jogo mental:
+
+| Categoria | Artigos |
+|----------|----------|
+| **Entendendo o Crítico Interior** | [Crítico Interior](/en/blog/inner-critic) - Domine seu diálogo interno |
+| **Criando Rotinas Pré-Gravação** | [Rotinas pré-filmagem](/en/blog/pre-shot-routines) - Crie consistência |
+| **Gestão de Pressão** | [Gestão da Pressão](/en/blog/pressure-management) - Desempenho sob pressão |
+| **Psicologia do Desempenho** | [Estados de Fluxo](/en/blog/flow-state-science) • [Atenção Plena](/en/blog/mindfulness-competition) • [Definição de Metas](/en/blog/elite-goal-setting) • [Resiliência Mental](/en/blog/mental-resilience) |
+| **Dinâmica de Equipe** | [Comunicação](/en/blog/team-communication) • [Química de Equipe](/en/blog/team-chemistry) • [Liderança](/en/blog/team-leadership) |
+| **Treinamento e Desenvolvimento** | [Erros no Treinamento Mental](/en/blog/mental-training-mistakes) • [Estrutura de Prática](/en/blog/practice-structure) • [Preparação para Competição](/en/blog/competition-prep) |
+
+➡️ **[Ver todos os artigos](/en/blog/)**
+
+### 📖 Recursos
+
+**Estudos de Caso e Depoimentos:**
+
+- **[Estudos de Caso](/en/case-studies)** - Exemplos reais de jogadores de elite utilizando treinamento mental no jogo
+- **[Depoimentos](/en/testimonials)** - Feedback de jogadores que implementaram esses métodos
+
 ## Nossa missão
 
 ```mermaid
 graph LR
-    A[Technical Mastery] --> B[Mental Game]
-    B --> C[Flow State]
-    C --> D[Peak Performance]
-    D --> E[Consistent Excellence]
+    A[Domínio técnico] --> B[Jogo Mental]
+    B --> C[Estado de fluxo]
+    C --> D[Desempenho máximo]
+    D --> E[Excelência consistente]
 
     style A fill:#e3f2fd
     style B fill:#fff4e1
@@ -118,7 +140,7 @@ Jogadores de elite já dominam a técnica. O próximo avanço vem do **jogo ment
 
 1. **[Ambição](/en/ambition)** - Compreender a filosofia por trás do desenvolvimento de elite.
 2. **A Zona** - Aprenda sobre estados de fluxo
-3. **[Modelo de Meta](/en/goal-template)** - Defina suas primeiras metas estruturadas
+3. **[Modelo de Metas](/en/goal-template)** - Defina suas primeiras metas estruturadas
 
 ### Para jogadores experientes
 
@@ -132,7 +154,7 @@ Jogadores de elite já dominam a técnica. O próximo avanço vem do **jogo ment
 
 **Construir a excelência coletiva:**
 
-1. **[Trabalho em Equipe](/en/education/team-player/)** - Melhorar a dinâmica da equipe
+1. **[Jogador de Equipe](/en/education/team-player/)** - Melhore a dinâmica da equipe
 2. **[Campo de Treinamento](/en/training-camp)** - Organizar cursos intensivos de fim de semana
 3. **[Sessão de Treinamento](/en/training-session)** - Estruturar as práticas da equipe
 
@@ -141,7 +163,7 @@ Jogadores de elite já dominam a técnica. O próximo avanço vem do **jogo ment
 ::: warning Por que a Academia de Pétanque se destaca
 **A maioria dos treinos foca na técnica. Nós focamos no que os jogadores de elite realmente precisam:**
 
-1. **Domínio do jogo mental** - O verdadeiro diferencial em níveis elevados.
+1. **Domínio do jogo mental** - O verdadeiro diferencial em níveis elevados
 2. **Ferramentas práticas** - Não apenas teoria, mas modelos prontos para uso
 3. **Programas estruturados** - Estruturas claras para workshops e acampamentos
 4. **Baseado em evidências** - Fundamentado em pesquisas sobre psicologia do esporte e estado de fluxo.

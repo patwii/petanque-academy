@@ -2,7 +2,7 @@
 <AdBanner />
 
 
-La force mentale est ce qui distingue les joueurs performants à l&#39;entraînement de ceux qui excellent en compétition. C&#39;est la capacité à gérer la pression, à se relever après un échec et à maintenir sa concentration tout au long des compétitions de longue durée.
+La force mentale est ce qui distingue les joueurs performants à l&#39;entraînement de ceux qui excellent en compétition. C&#39;est la capacité à gérer la pression, à se relever après un échec et à maintenir sa concentration tout au long des longues compétitions.
 
 ::: tip Le principe fondamental
 La force mentale ne consiste pas à éliminer le stress ou à ne jamais faire d&#39;erreurs. Il s&#39;agit de bien performer malgré tout. Vous ne pouvez pas contrôler ce qui arrive. Vous pouvez contrôler votre réaction.

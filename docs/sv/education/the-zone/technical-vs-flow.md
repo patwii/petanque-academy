@@ -163,7 +163,7 @@ Den verkliga skickligheten är att veta när man ska använda varje läge:
 | onsdag | Flöde | Mental träning, visualisering |
 | torsdag | Blandad | Spelscenarier med fokus på flöde |
 | Fredag | Teknisk | Svaghetsområde |
-| Lördag | Flöde | Matchspel, tävlingssimulering |
+| lördag | Flöde | Matchspel, tävlingssimulering |
 | söndag | Vila | Återhämtning, reflektion |
 
 ## Sammanfattning: Regler för träningsbalans

@@ -176,13 +176,13 @@ Dediker specifikt tid til mentale færdigheder:
 - Få feedback (video, partner, resultater)
 - Justér baseret på, hvad du lærer
 
-### 3. Genopretning er vigtigt
+### 3. Genopretningsspørgsmål
 - Hviledage er en del af træningen
 - Søvn påvirker præstationen betydeligt
 - Mental træthed er reel - respekter det
 
 ### 4. Spor alt
-- Hold en træningslog
+- Hold en træningslogbog
 - Bemærk hvad der virker, og hvad der ikke virker
 - Gennemgå regelmæssigt
 - Juster din plan baseret på data

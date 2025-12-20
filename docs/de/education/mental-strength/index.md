@@ -65,7 +65,7 @@ Pétanque hat einzigartige mentale Herausforderungen:
 
 Selbstvertrauen entsteht durch:
 - **Vorbereitung:** Zu wissen, dass man die Arbeit erledigt hat.
-- **Vergangene Erfolge:** Sich an Zeiten erinnern, in denen man gute Leistungen erbracht hat
+- **Vergangene Erfolge:** Sich an Zeiten erinnern, in denen Sie gute Leistungen erbracht haben
 - **Positives Selbstgespräch:** Wie du mit dir selbst sprichst
 - **Körpersprache:** Aufrechte Haltung, zielgerichtete Bewegungen.
 
@@ -115,12 +115,12 @@ Resilienz ist die Fähigkeit, sich von Rückschlägen zu erholen.
 - Konzentriere dich auf die Reaktion, nicht auf das Ereignis.
 - Entwickle ein kurzes Gedächtnis für schlechte Würfe
 
-### 4. Gehen Sie sparsam mit Ihrer Energie um
+### 4. Verwalten Sie Ihre Energie
 
 Mentale Stärke erfordert Energiemanagement:
 
 **Physikalische Energie:**
-- Schlaf gut vor Wettkämpfen.
+- Schlafen Sie gut vor Wettkämpfen.
 - Richtig essen (stabiler Blutzuckerspiegel)
 - Bleiben Sie hydratisiert
 - Wechseln Sie zwischen den Spielen (bleiben Sie nicht zu lange sitzen).

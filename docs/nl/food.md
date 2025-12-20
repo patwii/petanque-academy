@@ -1,5 +1,7 @@
 # Voeding en voedingswaarde
 
+<AdBanner />
+
 ## Het stimuleren van precisieprestaties
 
 Pétanque is een precisiesport. Je hersenen zijn je belangrijkste instrument – geef ze stabiele brandstof, geen energie die je in een achtbaan belandt.
@@ -76,6 +78,8 @@ Wees extra voorzichtig met:
 - ❌ Vruchtensap en smoothies (bevatten geconcentreerde suiker)
 - ❌ Wit brood, gebak, snacks uit de automaat
 :::
+
+<AdInArticle />
 
 ## Snelgids voor de wedstrijddag
 

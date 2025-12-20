@@ -57,7 +57,7 @@ Overvej følgende før hvert kast:
 1. **Point:** Placer en kugle nær målkuglen
 2. **Skyd:** Fjern en modstanders kugle
 3. **Blokering:** Placer en kugle for at blokere
-4. **Flyt donkraften:** Ramte donkraften med vilje
+4. **Flyt donkraften:** Ramte med vilje donkraften
 5. **Offer:** Accepter en dårlig position for at etablere dig senere
 
 Vælg ikke det oplagte valg som standard. Tænk over alternativer.
@@ -77,7 +77,7 @@ Faktorer at overveje:
 1. **Kontroller donkraften** - Position er magt
 2. **Afstands- og overfladestrategi** - Tilpas dig til forholdene
 3. **Diktér spillestilen** - Tving dine styrker frem
-4. **Håndtér risiko vs. belønning** - Match risiko med situation
+4. **Håndtering af risiko vs. belønning** - Match risiko med situation
 5. **Brug boules klogt** - Giver nogle gange 1 bold væk for at undgå 3
 6. **Tænk fremad** - Visualiser de næste 2-3 træk
 :::

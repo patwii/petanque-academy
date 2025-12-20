@@ -53,7 +53,7 @@ Chaque lancer comporte trois composantes :
 | Composant | Question | Exemple |
 |-----------|----------|---------|
 | **Probabilité de succès** | Quelle est la probabilité que je réussisse à réaliser cela ? | Taux de réussite de 70 % à cette distance |
-| **Récompense en cas de succès** | Qu&#39;est-ce que j&#39;y gagne ? | Gagnez le point, gagnez la position |
+| **Récompense en cas de succès** | Qu&#39;est-ce que j&#39;y gagne ? | Gagnez le point, gagnez la position. |
 | **Coût en cas d&#39;échec** | Qu&#39;est-ce que je perds ? | Offrir un point facile à l&#39;adversaire |
 
 ::: info La formule

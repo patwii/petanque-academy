@@ -191,7 +191,7 @@ Ogni innesco = un respiro consapevole.
 
 | Sfida | Soluzione |
 |-----------|----------|
-| &quot;Non riesco a smettere di pensare&quot; | Non dovresti farlo. Notalo e basta e torna indietro. |
+| &quot;Non riesco a smettere di pensare&quot; | Non dovresti. Notalo e basta e torna indietro. |
 | &quot;Non ho tempo&quot; | Inizia con 3 minuti. Tutti hanno 3 minuti. |
 | &quot;Mi addormento&quot; | Prova a stare seduto invece che sdraiato, oppure fai pratica nelle prime ore del giorno. |
 | &quot;Sembra inutile&quot; | I vantaggi derivano dalla costanza. Fidati del processo. |

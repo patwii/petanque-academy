@@ -1,17 +1,17 @@
-# Bygg din pre-shot-rutine
+# Bygg din rutine før inntak
 <AdBanner />
 
 
-Din pre-shot rutine er et av de kraftigste verktøyene i ditt mentale spill. Det er en konsistent sekvens av handlinger som forbereder deg på hvert kast og trigger din beste ytelsestilstand.
+Rutinen din før skuddet er et av de kraftigste verktøyene i ditt mentale spill. Det er en konsekvent sekvens av handlinger som forbereder deg på hvert kast og utløser din beste prestasjonstilstand.
 
-::: tips The Big Idea
-**Rutinen din er inngangsporten til sonen.** En konsekvent pre-shot rutine signaliserer hjernen din: "Det er på tide å utføre." Med repetisjon blir det en automatisk trigger for topp ytelse.
+::: tip Den store ideen
+**Rutinen din er inngangsporten til sonen.** En konsekvent rutine før treningen signaliserer til hjernen din: «Det er på tide å utføre.» Med repetisjon blir det en automatisk trigger for topp ytelse.
 :::
 
 ```mermaid
 graph LR
-    A[Start rutinen] --> B[Hjernen gjenkjenner mønsteret]
-    B --> C[Automatisk tilstandsskift]
+    A[Start rutine] --> B[Hjernen gjenkjenner mønster]
+    B --> C[Automatisk tilstandsskifte]
     C --> D[Utførelsesmodus]
     D --> E[Topp ytelse]
 
@@ -23,53 +23,53 @@ graph LR
 
 ## Hvorfor rutiner fungerer
 
-### Konsistens skaper selvtillit
+### Konsistens skaper tillit
 Når du gjør det samme hver gang, fjerner du variabler. Kroppen din vet hva som kommer. Dette skaper en følelse av kontroll og fortrolighet, selv i ukjente situasjoner.
 
-### Rutiner utløser stater
-Med repetisjon blir rutinen din knyttet til ytelsestilstanden din. Å starte rutinen starter automatisk det mentale skiftet til utførelsesmodus.
+### Rutiners utløsertilstander
+Med repetisjon blir rutinen din knyttet til prestasjonstilstanden din. Når du starter rutinen, starter det mentale skiftet til utførelsesmodus automatisk.
 
 ### Rutiner blokkerer distraksjoner
-En rutine gir tankene dine noe å fokusere på. Det er ikke rom for bekymring for partituret, publikum eller hva som kan skje.
+En rutine gir tankene dine noe å fokusere på. Det er ikke rom for bekymring for musikken, publikum eller hva som kan skje.
 
-### Rutiner administrere opphisselse
-En godt utformet rutine hjelper til med å regulere energinivået ditt - beroliger deg hvis du er for sterk, fokuserer deg hvis du er flat.
+### Rutiner håndterer opphisselse
+En godt utformet rutine bidrar til å regulere energinivået ditt – den roer deg ned hvis du er for opptatt, og fokuserer deg hvis du er flat.
 
 ## Elementer i en effektiv rutine
 
 ### Fase 1: Vurdering (utenfor sirkelen)
 
 Før du går inn, samle informasjon:
-- Les terrenget (bakker, hindringer, overflate)
-- Vurder situasjonen (score, bouleposisjoner)
+- Les terrenget (bakker, hindringer, underlag)
+- Vurder situasjonen (score, kuleposisjoner)
 - Velg mål og landingssted
-- Bestem kastetype (pek, skyt, lobb, kast)
+- Bestem deg for kasttype (pek, skyt, lobb, rull)
 
-**Det er her tenkning skjer.** Ta deg god tid her.
+**Det er her tenkningen skjer.** Ta deg god tid her.
 
-### Fase 2: Overgang (inn i sirkelen)
+### Fase 2: Overgang (inntreden i sirkelen)
 
-Skiftet fra å tenke til å gjøre:
-- Fysisk handling (gå inn i sirkelen på en konsistent måte)
-- Mental signal (et ord eller en setning som signaliserer "utførelsesmodus")
-- Pust (ett bevisst pust for å sentrere deg selv)
+Overgangen fra å tenke til å gjøre:
+- Fysisk handling (gå inn i sirkelen på en konsekvent måte)
+- Mentalt signal (et ord eller uttrykk som signaliserer &quot;utførelsesmodus&quot;)
+- Pust (ett bevisst åndedrag for å sentrere deg)
 
 **Dette er bryteren.** Analysen stopper her.
 
-### Fase 3: Oppsett (In the Circle)
+### Fase 3: Oppsett (i sirkelen)
 
 Forbered kroppen din:
 - Konsekvent holdning (samme hver gang)
-- Grepssjekk (kjenn på boulen)
-- Innretting til målet
+- Grepstest (føl på kulen)
+- Måljustering
 - Fysisk trigger (en liten bevegelse som er din)
 
 ### Fase 4: Visualisering (kortfattet)
 
 Se kastet før du gjør det:
-- Se for deg ballens bane (maks 2-3 sekunder)
+- Se for deg ballens bane (maks. 2–3 sekunder)
 - Føl det vellykkede kastet
-- Koble visuelt til målet ditt
+- Få visuel kontakt med målet ditt
 
 ### Fase 5: Utførelse
 
@@ -77,24 +77,24 @@ Gjør kastet:
 - Eksternt fokus (kun mål)
 - Stol på kroppen din
 - Slipp uten å nøle
-- Følg gjennom naturlig
+- Følg opp naturlig
 
 <AdInArticle />
 
-## Bygg din personlige rutine
+## Bygge din personlige rutine
 
 ### Trinn 1: Observer hva du allerede gjør
 
-Du har sikkert litt rutine allerede. Merk:
+Du har sannsynligvis allerede en viss rutine. Merk:
 - Hva gjør du før gode kast?
 - Hva føles naturlig for deg?
-- Hva hjelper deg med å fokusere?
+- Hva hjelper deg å fokusere?
 
-### Trinn 2: Design din rutine
+### Trinn 2: Design rutinen din
 
 Lag en sekvens som inkluderer:
 - [ ] Vurderingsfase
-- [ ] Klart overgangsmoment
+- [ ] Klart overgangsøyeblikk
 - [ ] Konsekvent fysisk oppsett
 - [ ] Kort visualisering
 - [ ] Utførelsesutløser
@@ -103,67 +103,67 @@ Lag en sekvens som inkluderer:
 
 Vær spesifikk. Eksempel:
 
-1. **Vurder:** Les terreng, velg landingssted
-2. **Overgang:** Gå inn i sirkelen med venstre fot først, si «stol på»
-3. **Oppsett:** Føtter skulderbredde, grepskontroll, juster skuldrene
-4. **Visualiser:** Se banen, kjenn frigjøringen
-5. **Utfør:** Øyne på målet, kast
+1. **Vurder:** Les terrenget, velg landingssted
+2. **Overgang:** Gå inn i sirkelen med venstre fot først, si «tillit»
+3. **Oppsett:** Føtter i skulderbredde, grepssjekk, juster skuldrene
+4. **Visualiser:** Se stien, føl utløsningen
+5. **Utfør:** Blikket festet på målet, kast
 
-### Trinn 4: Øv religiøst
+### Trinn 4: Øv deg religiøst
 
-Bruk rutinen din på HVER kast i praksis:
-- Lette kast
+Bruk rutinen din på HVERT kast på trening:
+- Enkle kast
 - Vanskelige kast
 - Når du er sliten
-- Når du er frisk
+- Når du er fersk
 
 Rutinen må bli automatisk.
 
 ### Trinn 5: Avgrens over tid
 
-Din rutine vil utvikle seg. Legg merke til hva som fungerer og juster. Men ikke endre det under konkurranse - kun mellom arrangementer.
+Rutinen din vil utvikle seg. Legg merke til hva som fungerer og juster. Men ikke endre den under konkurranser – bare mellom øvelsene.
 
 ## Rutinemessig timing
 
 Rutinen din bør ta en jevn mengde tid:
-- For fort: Du haster, ikke ordentlig forberedt
-- For sakte: Du overtenker, mister flyt
-- Akkurat riktig: Nok tid til å forberede seg, ikke så mye at du tenker for mye
+- For fort: Du har det forhastet, ikke ordentlig forberedt
+- For treg: Du tenker for mye og mister flyten
+- Akkurat passe: Nok tid til å forberede seg, ikke så mye at du tenker for mye
 
-**Typisk timing:**
-- Vurdering: 5-10 sekunder
-- Overgang + Oppsett: 3-5 sekunder
-- Visualisering + utførelse: 3-5 sekunder
-- **Totalt: 10-20 sekunder**
+**Typisk tidspunkt:**
+- Vurdering: 5–10 sekunder
+- Overgang + Oppsett: 3–5 sekunder
+- Visualisering + Utførelse: 3–5 sekunder
+- **Totalt: 10–20 sekunder**
 
 ## Vanlige rutinefeil
 
-|  | Feil | Problem | Løsning |  |
-|--------|--------|--------|
-|  | Hopp over i praksis | Rutine er ikke automatisk | Bruk den hvert eneste kast |  |
-|  | For komplisert | Vanskelig å huske under press | Forenkle til det vesentlige |  |
-|  | Tenker under utførelse | Forstyrrer automatisk ytelse | Tydelig overgangspunkt |  |
-|  | Inkonsekvent timing | Skaper usikkerhet | Øv med jevnt tempo |  |
-|  | Endring midt i konkurransen | Introduserer tvil | Hold deg til det du vet |  |
+| Feil | Problem | Løsning |
+|---------|---------|----------|
+| Hopping i øvelse | Rutiner er ikke automatiske | Bruk den hvert eneste kast |
+| For komplisert | Vanskelig å huske under press | Forenkle til det essensielle |
+| Tenkning under utførelse | Forstyrrer automatisk ytelse | Tydelig overgangspunkt |
+| Inkonsekvent timing | Skaper usikkerhet | Øv med jevnt tempo |
+| Endring midt i konkurransen | Introduserer tvil | Hold deg til det du vet |
 
 ## Rutinemessig feilsøking
 
-**Hvis du haster:**
-- Legg til et pust ved overgangen
+**Hvis du har det travelt:**
+- Legg til et pust i overgangen
 - Senk oppsettbevegelsene dine
 - Pause før visualisering
 
-**Hvis du overtenker:**
+**Hvis du tenker for mye:**
 - Forkort rutinen
 - Bruk en sterkere overgangssignal
 - Fokuser mer eksternt
 
 **Hvis du er inkonsekvent:**
-- Video selv for å sjekke
-- Øv rutinen uten å kaste
-- Få tilbakemelding fra en partner
+- Video deg selv for å sjekke
+- Øv på rutinen uten å kaste
+- Få tilbakemeldinger fra en partner
 
-## Eksempel på rutiner
+## Eksempelrutiner
 
 ### Enkel rutine
 1. Velg mål
@@ -172,20 +172,20 @@ Rutinen din bør ta en jevn mengde tid:
 4. Se det, kast det
 
 ### Detaljert rutine
-1. Les terreng, velg landingssted
-2. Gå først i venstre fot
-3. Si "glatt" internt
-4. Ett åndedrag, skuldrene faller
-5. Føtter satt, grepssjekk
-6. Juster skuldrene etter målet
-7. Se banen (2 sekunder)
-8. Øynene låser seg på målet
-9. Kast
+1. Les terrenget, velg landingssted
+2. Gå inn venstre fot først
+3. Si «glatt» internt
+4. Ett åndedrag, skuldrene senkes
+5. Føttene satt, grepssjekk
+6. Juster skuldrene i forhold til målet
+7. Se stien (2 sekunder)
+8. Øynene festes på målet
+9. Kaste
 
-## Key Takeaway
+## Viktig konklusjon
 
-> Din rutine er ditt anker. I kaos er det din konstante.
+> Rutinen din er ankeret ditt. I kaos er den din konstant.
 
-Bygg den nøye. Øv det alltid. Stol helt på det.
+Bygg det forsiktig. Øv alltid på det. Stol fullt og helt på det.
 
 <AdBanner />

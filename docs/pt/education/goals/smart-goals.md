@@ -133,7 +133,7 @@ Os prazos criam urgência e possibilitam o planejamento.
 | Trimestral | 3 meses |
 | Mensal | 4 semanas |
 | Semanalmente | 7 dias |
-| Sessão | Prática única |
+| Sessão | Prática individual |
 
 ### Exemplo de linha do tempo
 
@@ -143,7 +143,7 @@ Os prazos criam urgência e possibilitam o planejamento.
 
 **Trimestral (1º trimestre):**
 - Estabeleça uma rotina de treinamento consistente.
-- Melhorar a precisão dos disparos para 70%.
+- Melhore a precisão dos seus disparos para 70%.
 
 **Mensal (janeiro):**
 - Semana 1: Avaliar o nível atual, definir parâmetros de referência.

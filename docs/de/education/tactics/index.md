@@ -57,7 +57,7 @@ Vor jedem Wurf sollten Sie Folgendes beachten:
 1. **Tipp:** Platziere eine Kugel in der Nähe des Zielmarkers.
 2. **Schuss:** Entferne eine gegnerische Boule.
 3. **Blockieren:** Platziere eine Kugel, um den Weg zu blockieren.
-4. **Jack bewegen:** Den Jack absichtlich anstoßen
+4. **Den Wagenheber bewegen:** Den Wagenheber absichtlich anstoßen
 5. **Opfer:** Eine ungünstige Position in Kauf nehmen, um später eine bessere Ausgangsposition zu erreichen.
 
 Entscheide dich nicht automatisch für die naheliegende Wahl. Denke über Alternativen nach.
@@ -158,12 +158,12 @@ Auf Spitzenniveau beherrschen die meisten Spieler sowohl das Point Guard als auc
 - Kontrolliere das Spiel, indem du Bedrohungen beseitigst, bevor sie sich anhäufen.
 - Kurze bis mittlere Jack-Jack-Schüsse bleiben effektiv
 
-**Gegen gleichwertige Schützen:**
+**Gegen gleichwertig starke Schützen:**
 - Verwehrt ihnen leichte Ziele, indem ihr zuerst schießt.
 - Spielt aus großer Distanz, um die Trefferquote aller zu senken.
 - Das Team, das den ersten Schuss abgibt, kontrolliert oft das Ende.
 
-**Wenn Ihre Gegner mehr Schüsse abgeben als Sie:**
+**Wenn Ihre Gegner im Schussverhältnis überlegen sind:**
 - Spiele konsequent Long Jacks – selbst Top-Schützen verlieren ihre Trefferquote auf 10 m+.
 - Erzwinge einen Zeigekampf, in dem du mithalten kannst.
 - Lass sie aus schwierigen Winkeln oder durch Hindernisse hindurch schießen.
@@ -188,7 +188,7 @@ Boule-Management trennt die Elitespieler:
 ### Prinzip 6: Mehrere Schritte im Voraus denken
 
 Elitedenken:
-- Visualisieren Sie vor dem Werfen die nächsten 2-3 Boules beider Teams.
+- Visualisieren Sie vor dem Wurf die nächsten 2-3 Boules beider Teams.
 - Was ist die beste Reaktion deines Gegners, wenn du Erfolg hast? Und was, wenn du scheiterst?
 - Wie bereitet dieser Wurf deinen nächsten vor?
 - Betrachten Sie das Endspielszenario von der aktuellen Position aus.

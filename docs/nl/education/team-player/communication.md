@@ -159,7 +159,7 @@ Een groot deel van de teamcommunicatie is non-verbaal:
 
 ### Positieve signalen
 - Oogcontact
-- Knikken
+- knikken
 - Duim omhoog
 - Ontspannen houding
 - Zich naar teamgenoten toe bewegen
@@ -214,7 +214,7 @@ Als uw team een aangewezen leider heeft:
 - Deel je perspectief
 - Steun de genomen beslissing.
 - Help de teamenergie te behouden.
-- Neem verantwoordelijkheid voor je rol
+- Neem de verantwoordelijkheid voor je rol.
 
 ## Belangrijkste conclusie
 

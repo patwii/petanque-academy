@@ -31,7 +31,7 @@ Vous avez déjà appris ce qu&#39;est un objectif SMART. Maintenant, hiérarchis
 2. **Objectif annuel** : Objectif de cette année
 3. **Objectifs trimestriels** : étapes clés sur 3 mois
 4. **Objectifs mensuels** : Domaines d’intervention spécifiques
-5. **Objectifs hebdomadaires** : Objectifs d&#39;entraînement
+5. **Objectifs hebdomadaires** : Objectifs d’entraînement
 
 ### Phase 2 : Évaluer vos ressources
 
@@ -58,7 +58,7 @@ Choisissez des exercices qui contribuent directement à vos objectifs :
 
 **Pour améliorer son tir :**
 - Échelle de tir (distances progressives)
-- Tir d&#39;obstacle (arc élevé forcé)
+- Tir d&#39;obstacle (arc de cercle forcé)
 - entraînement à la cible mobile
 
 **Pour le développement mental :**

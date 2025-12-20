@@ -1,5 +1,7 @@
 # Mat og ernæring
 
+<AdBanner />
+
 ## Drivstoff for presisjonsytelse
 
 Pétanque er en presisjonssport. Hjernen din er ditt viktigste verktøy – gi den stabil drivstoff, ikke berg-og-dal-bane-energi.
@@ -77,6 +79,8 @@ Vær spesielt forsiktig med:
 - ❌ Hvitt brød, bakverk, snacks fra automater
 :::
 
+<AdInArticle />
+
 ## Hurtigguide for konkurransedagen
 
 | Tidspunkt | Hva du skal spise | Hvorfor |
@@ -132,7 +136,7 @@ Sukkerbasert energi virker mot alle disse.
 For detaljerte ernæringsstrategier, protokoller for konkurransedagen og vitenskapen bak stabil energi:
 
 ::: tip Komplett ernæringsguide
-→ **[Ernæring for presisjonsytelse](./education/nutrition/)** - Komplett guide i vår utdanningsseksjon
+→ **[Ernæring for presisjonsytelse](./education/nutrition/)** – Komplett guide i vår utdanningsseksjon
 
 Inkluderer:
 - Detaljert måltidsplanlegging

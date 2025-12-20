@@ -120,7 +120,7 @@ Das Üben soll leicht gemacht werden:
 - Bleib zwischen den Würfen präsent.
 
 ### Nach dem Training
-- 3 Minuten Reflexion (ohne Wertung)
+- 3 Minuten zum Nachdenken (ohne Wertung)
 - Beachten Sie alle Strömungsmomente
 - Bewusstes Atmen zum Übergang
 
@@ -182,7 +182,7 @@ Sie werden vielleicht keine dramatischen Veränderungen bemerken, aber achten Si
 - Spannungen erkennen, bevor sie sich aufbauen
 - Sich während der Spiele präsenter fühlen
 - Besserer Schlaf
-- Reagiert weniger stark auf Fehlwürfe
+- Reagiert weniger stark auf schlechte Würfe
 
 ## Das lange Spiel
 

@@ -131,7 +131,7 @@ graph LR
 
 ::: details Guide de référence rapide : Tous les lancers
 **Pointage :**
-- Roulette (rouler)
+- Roulette (roulant)
 - Demi-portée (half-lob)
 - Portée (lob)
 - Plombée (drop shot)
@@ -149,7 +149,7 @@ graph LR
 ```mermaid
 graph LR
     A[Apprendre les bases] --> B[Développer 2 à 3 lancers fiables]
-    B --> C[Fondation technique]
+    B --> C[Fondations techniques]
     C --> D[Entrer en état de flux]
     D --> E[Le corps choisit naturellement]
 

@@ -44,8 +44,8 @@ graph TD
     A[Resultatmål <br/> Drømmen] --> B[Ytelsesmål <br/> Milepæler]
     B --> C[Prosess mål <br/> Daglige handlinger]
 
-    A2["Vinn regionmesterskapet"] --> B2["80 % skytepresisjon"]
-    B2 --> C2["Komplett rutine før inntak<br/>hvert kast"]
+    A2[&quot;Vinn regionmesterskapet&quot;] --> B2[&quot;80 % skytepresisjon&quot;]
+    B2 --> C2[&quot;Komplett rutine før inntak&quot; <br/> hvert kast&quot;]
 
     style A fill:#e1f5ff
     style B fill:#fff9c4
@@ -78,7 +78,7 @@ Hvert mål bør være:
 
 ### S - Spesifikk
 ❌ &quot;Bli bedre til å skyte&quot;
-✅ «Forbedre presisjonen min på au fer (direktetreff) fra 8 meter»
+✅ «Forbedre presisjonen min på au fer (direkte treff) fra 8 meter»
 
 ### M - Målbar
 ❌ &quot;Skyt mer presist&quot;

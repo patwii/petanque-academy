@@ -59,7 +59,7 @@ Was man nicht messen kann, kann man nicht steuern. Messbare Ziele ermöglichen e
 
 | Bohren | Was es misst | Zielbeispiel |
 |-------|-----------------|----------------|
-| Schießleiter | Schussgenauigkeit unter Druck | Erreiche 10 m innerhalb von 30 Boules |
+| Schießleiter | Schießgenauigkeit unter Druck | Erreiche 10 m innerhalb von 30 Boules |
 | Zielgenauigkeit | Zielgenauigkeit zur Zone | 24/30 Punkte |
 | Distanzvariation | Tiefensteuerung | 80 % innerhalb von 50 cm |
 

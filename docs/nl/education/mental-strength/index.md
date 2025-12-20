@@ -122,7 +122,7 @@ Mentale kracht vereist energiemanagement:
 **Fysieke energie:**
 - Slaap goed voor wedstrijden.
 - Eet gezond (stabiele bloedsuikerspiegel)
-- Blijf gehydrateerd
+- Zorg dat je voldoende drinkt.
 - Beweeg tussen de spellen (blijf niet te lang zitten).
 
 **Mentale energie:**
@@ -136,9 +136,9 @@ Mentale kracht vereist energiemanagement:
 ::: info De positieve cyclus
 ```mermaid
 graph LR
-    A[Betere voorbereiding] --> B[Meer vertrouwen]
+    A[Betere voorbereiding] --> B[Meer zelfvertrouwen]
     B --> C[Betere prestaties]
-    C --> D[Meer vertrouwen]
+    C --> D[Meer zelfvertrouwen]
     D --> A
 
     style A fill:#e3f2fd

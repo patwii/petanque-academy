@@ -60,7 +60,7 @@ Achtsamkeit ist nicht nur Philosophie – sie wird durch solide Forschung unterm
 |---------|----------------------|
 | Stressabbau | Niedrigerer Cortisolspiegel, ruhigere Hände |
 | Besserer Fokus | Weniger Ablenkungen, klarere Entscheidungen |
-| Emotionskontrolle | Lass schlechte Würfe nicht außer Kontrolle geraten. |
+| Emotionale Kontrolle | Lass schlechte Würfe nicht außer Kontrolle geraten. |
 | Schnellere Genesung | Sich schnell von Fehlern erholen |
 | Verbesserter Schlaf | Bessere Erholung, bessere Leistung |
 

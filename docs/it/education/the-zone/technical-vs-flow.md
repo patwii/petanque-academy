@@ -2,7 +2,7 @@
 <AdBanner />
 
 
-Comprendere la differenza tra allenamento tecnico e allenamento di flusso è essenziale per lo sviluppo di atleti d&#39;élite. Entrambi sono necessari, ma servono a scopi diversi e richiedono approcci diversi.
+Comprendere la differenza tra allenamento tecnico e allenamento di flusso è essenziale per lo sviluppo di atleti d&#39;élite. Entrambi sono necessari, ma hanno scopi diversi e richiedono approcci differenti.
 
 ::: tip Il principio fondamentale
 **Non puoi addestrare un principiante come un esperto** (mancano i percorsi neurali) e **non puoi addestrare un esperto come un principiante** (un volume tecnico elevato porta a pensare troppo).
@@ -40,7 +40,7 @@ graph LR
 **Focus:** Risultati, non meccanica
 **Attenzione:** Lasciare che il subconscio prenda il sopravvento
 **Metodo:** Pratica varia, simile a un gioco, visualizzazione
-**Ideale per:** Preparazione alle competizioni, sviluppo della fiducia, prestazioni ottimali
+**Ideale per:** Preparazione alle competizioni, sviluppo della fiducia in se stessi, prestazioni ottimali
 
 **Esempio:** Giocare partite di allenamento con pressione, concentrandosi solo sugli obiettivi
 :::
@@ -72,7 +72,7 @@ Il corretto rapporto di allenamento è inversamente proporzionale alla competenz
 
 ### 4. Esperto (Fase Autonoma)
 - Le competenze tecniche sono completamente subconsce
-- L&#39;attenzione cosciente alla meccanica compromette le prestazioni
+- L&#39;attenzione consapevole alla meccanica compromette le prestazioni
 - Il volume di manutenzione è tutto ciò di cui hai bisogno tecnicamente
 - **Rapporto:** 20% Tecnico / 80% Mentale
 - **Focus mentale:** Stato di flusso, strategia, calmare la mente

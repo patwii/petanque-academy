@@ -1,5 +1,7 @@
 # Mat och näring
 
+<AdBanner />
+
 ## Drivkraft för precisionsprestanda
 
 Boule är en precisionssport. Din hjärna är ditt viktigaste verktyg – ge den stabil bränsle, inte berg-och-dalbaneenergi.
@@ -77,6 +79,8 @@ Var särskilt försiktig med:
 - ❌ Vitt bröd, bakverk, snacks från varuautomater
 :::
 
+<AdInArticle />
+
 ## Snabbguide för tävlingsdagen
 
 | Tidpunkt | Vad man ska äta | Varför |
@@ -132,7 +136,7 @@ Sockerbaserad energi motverkar alla dessa.
 För detaljerade näringsstrategier, tävlingsdagsprotokoll och vetenskapen bakom stabil energi:
 
 ::: tip Komplett näringsguide
-→ **[Näring för precisionsprestanda](./education/nutrition/)** - Komplett guide i vår utbildningssektion
+→ **[Näring för precisionsprestanda](./utbildning/näring/)** - Komplett guide i vår utbildningssektion
 
 Innehåller:
 - Detaljerad måltidsplanering

@@ -129,7 +129,7 @@ A força mental requer gestão de energia:
 - Faça pausas sempre que possível.
 - Não fique analisando demais entre os lançamentos.
 - Reserve o foco intenso para quando você realmente precisar dele.
-- Tenha rotinas de recuperação.
+- Tenha rotinas de recuperação
 
 ## O Ciclo Confiança-Competência
 

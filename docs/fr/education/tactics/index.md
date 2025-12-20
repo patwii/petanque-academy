@@ -78,11 +78,11 @@ Facteurs à prendre en compte :
 2. **Stratégie de distance et de surface** - S&#39;adapter aux conditions
 3. **Dictez le style de jeu** - Mettez vos points forts en avant
 4. **Gérer le rapport risque/récompense** - Adapter le risque à la situation
-5. **Utilisez les boules judicieusement** - Parfois, concéder 1 point permet d&#39;éviter 3 points.
+5. **Utilisez les boules judicieusement** - Parfois, concéder 1 point permet d&#39;en éviter 3
 6. **Anticipez** - Visualisez les 2 ou 3 prochains mouvements
 :::
 
-### Principe 1 : Contrôler le Jack
+### Principe 1 : Contrôler le cric
 
 L&#39;équipe qui contrôle la position du cochonnet possède un avantage significatif.
 
@@ -107,7 +107,7 @@ L&#39;équipe qui contrôle la position du cochonnet possède un avantage signif
 L&#39;équilibre optimal entre viser et tirer dépend fortement de la distance et du terrain :
 
 ::: info Stratégie de distance
-**Court (6-7 m) :** Privilégiez le tir à courte distance - plus facile à atteindre.
+**Court (6-7 m) :** Privilégiez le tir - plus facile à toucher à courte distance
 **Moyen (7-9 m) :** La surface est primordiale
 - Surface lisse → prendre plus de photos
 - Surface rugueuse → pointer plus
@@ -117,7 +117,7 @@ L&#39;équilibre optimal entre viser et tirer dépend fortement de la distance e
 
 ```mermaid
 graph LR
-    A[Distance] --> B[6-7m Court]
+    A[Distance] --> B[6-7 m Court]
     A --> C[7-9 m Moyen]
     A --> D[9 à 11 m de long]
 
@@ -168,7 +168,7 @@ Au plus haut niveau, la plupart des joueurs savent viser et tirer avec précisio
 - Forcez un duel de points où vous pouvez rivaliser
 - Faites-les tirer sous des angles difficiles ou à travers des obstacles
 
-### Principe 4 : Gérer le risque et la récompense
+### Principe 4 : Gérer le risque par rapport à la récompense
 
 | Situation | Tolérance au risque |
 |-----------|---------------|
@@ -236,7 +236,7 @@ Lorsque l&#39;adversaire a la dernière boule :
 
 ## Lire ses adversaires
 
-Au plus haut niveau, le repérage des adversaires est essentiel. Il faut les connaître avant de jouer.
+Au plus haut niveau, le repérage des adversaires est essentiel. Il faut connaître ses adversaires avant de jouer.
 
 ### Renseignements d&#39;avant-match
 - Quel est leur style de jeu préféré (équipe de tir ou équipe de pointage) ?

@@ -52,7 +52,7 @@ Escolha um horário fixo que funcione para a sua vida:
 
 | Tempo | Vantagens | Considerações |
 |------|------------|----------------|
-| **Manhã** | Define o tom do dia, com menos interrupções. | Preciso acordar mais cedo |
+| **Manhã** | Define o tom do dia, com menos interrupções. | Preciso acordar mais cedo. |
 | **Meio-dia** | Interrompe a rotina, redefine o foco. | Pode haver esquecimento, conflitos de agenda. |
 | **Noite** | Relaxe e reflita sobre o dia. | Pode estar cansado, menos alerta. |
 | **Antes do treino** | Conexão direta à petanca | Depende da programação de treinos. |

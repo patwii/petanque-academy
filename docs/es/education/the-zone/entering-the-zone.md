@@ -144,7 +144,7 @@ Esta inusual técnica tiene respaldo científico.
 ::: info La ciencia
 Apretar la mano izquierda (si es diestro) durante 10 a 15 segundos antes de lanzar:
 - ✅ Activa el hemisferio derecho de tu cerebro (espacial, intuitivo)
-- ✅ Calma el hemisferio izquierdo (verbal, analítico)
+- ✅ Tranquiliza el hemisferio izquierdo (verbal, analítico)
 - ✅ Reduce el pensamiento excesivo
 :::
 

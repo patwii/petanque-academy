@@ -10,6 +10,16 @@ This guide shows how to create a regular training group of 4 players that compet
 **Competition without reflection is just playing. Training without competition is just practice.** This format combines both: compete hard, then reflect deeply.
 :::
 
+## Quick Access
+
+| Section | Purpose | Access |
+|---------|---------|--------|
+| **Finding Your Group** | How to recruit the right 4 players | [View Section](#finding-your-group) |
+| **Session Structure** | 2-hour and 4-hour formats | [View Section](#session-structure) |
+| **Startup Protocol** | How to begin each session | [View Section](#startup-protocol-15-min) |
+| **Reflection Guide** | Post-session debrief process | [View Section](#reflection-protocol-15-30-min) |
+| **Related Guides** | Other training formats | [Mental Journey](/en/mental-journey/) • [Workshop](/en/workshop) • [Training Camp](/en/training-camp) |
+
 ```mermaid
 graph LR
     A[Training Session] --> B[Startup 15min]

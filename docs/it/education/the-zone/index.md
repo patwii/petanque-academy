@@ -10,7 +10,7 @@ Hai mai giocato una partita in cui tutto è andato a posto? In cui non hai pensa
 
 ## Cos&#39;è la Zona?
 
-La zona, chiamata anche &quot;stato di flusso&quot;, è uno stato mentale in cui ci si immerge completamente in ciò che si sta facendo. Il tempo sembra rallentare. I movimenti sembrano naturali. Non si pensa alla tecnica, si *agisce* e basta.
+La zona, chiamata anche &quot;stato di flusso&quot;, è uno stato mentale in cui ci si immerge completamente in ciò che si sta facendo. Il tempo sembra rallentare. I movimenti risultano naturali. Non si pensa alla tecnica, si *agisce* e basta.
 
 Gli scienziati chiamano questo stato **ipofrontalità transitoria**. In parole povere, la parte analitica del cervello (la corteccia prefrontale) si placa, lasciando che gli istinti allenati prendano il sopravvento.
 
