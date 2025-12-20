@@ -6,7 +6,68 @@ export default withMermaid(defineConfig({
   description: "Elite player development - From technique to flow",
   ignoreDeadLinks: true,
 
+  // SEO and Site Configuration
+  lang: 'en',
+  lastUpdated: true,
+  cleanUrls: true,
+
+  // Performance optimizations
+  vite: {
+    build: {
+      minify: 'terser',
+      cssMinify: true,
+      rollupOptions: {
+        output: {
+          manualChunks: {
+            'mermaid': ['mermaid']
+          }
+        }
+      }
+    },
+    ssr: {
+      noExternal: ['vitepress-plugin-mermaid']
+    }
+  },
+
+  // Site metadata
+  sitemap: {
+    hostname: 'https://carreau.app'
+  },
+
   head: [
+    // SEO Meta Tags
+    ['meta', { name: 'keywords', content: 'pétanque, petanque, boules, elite training, mental game, flow state, sports psychology, competition training, pétanque academy, carreau' }],
+    ['meta', { name: 'author', content: 'Patrik Wiik' }],
+    ['meta', { name: 'robots', content: 'index, follow' }],
+    ['meta', { name: 'googlebot', content: 'index, follow' }],
+
+    // Open Graph / Facebook
+    ['meta', { property: 'og:type', content: 'website' }],
+    ['meta', { property: 'og:site_name', content: 'Pétanque Academy' }],
+    ['meta', { property: 'og:title', content: 'Pétanque Academy - Elite Player Development' }],
+    ['meta', { property: 'og:description', content: 'Master the mental game of pétanque. Comprehensive education platform with 8 modules covering flow states, mental strength, tactics, and elite performance. Available in 10 languages.' }],
+    ['meta', { property: 'og:url', content: 'https://carreau.app' }],
+    ['meta', { property: 'og:image', content: 'https://carreau.app/img.png' }],
+    ['meta', { property: 'og:locale', content: 'en_US' }],
+
+    // Twitter Card
+    ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
+    ['meta', { name: 'twitter:title', content: 'Pétanque Academy - Elite Player Development' }],
+    ['meta', { name: 'twitter:description', content: 'Master the mental game of pétanque. 8 comprehensive modules, practical tools, and elite training methods.' }],
+    ['meta', { name: 'twitter:image', content: 'https://carreau.app/img.png' }],
+
+    // Additional SEO
+    ['meta', { name: 'theme-color', content: '#3b82f6' }],
+    ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
+    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black-translucent' }],
+
+    // Canonical URL
+    ['link', { rel: 'canonical', href: 'https://carreau.app' }],
+
+    // Favicon
+    ['link', { rel: 'icon', type: 'image/png', href: '/img.png' }],
+    ['link', { rel: 'apple-touch-icon', href: '/img.png' }],
+
     // Google AdSense Verification Meta Tag
     ['meta', { name: 'google-adsense-account', content: 'ca-pub-2291330857070799' }],
 
@@ -37,6 +98,14 @@ export default withMermaid(defineConfig({
           { text: 'Home', link: '/en/' },
           { text: 'Ambition', link: '/en/ambition' },
           { text: 'News', link: '/en/news/' },
+          {
+            text: 'Resources',
+            items: [
+              { text: 'Blog', link: '/en/blog/' },
+              { text: 'Case Studies', link: '/en/case-studies' },
+              { text: 'Testimonials', link: '/en/testimonials' }
+            ]
+          },
           {
             text: 'Tools',
             items: [
@@ -320,6 +389,43 @@ export default withMermaid(defineConfig({
   },
   mermaidPlugin: {
     class: "mermaid"
+  },
+
+  // Transform head for per-page meta tags and hreflang
+  transformHead: ({ pageData }) => {
+    const head = []
+    const canonicalUrl = `https://carreau.app${pageData.relativePath.replace(/index\.md$/, '').replace(/\.md$/, '')}`
+
+    // Add canonical URL for each page
+    head.push(['link', { rel: 'canonical', href: canonicalUrl }])
+
+    // Add hreflang tags for multi-language support
+    const languages = ['en', 'da', 'de', 'es', 'fr', 'it', 'nl', 'no', 'pt', 'sv']
+    const pathWithoutLang = pageData.relativePath.replace(/^(en|da|de|es|fr|it|nl|no|pt|sv)\//, '')
+
+    // Add hreflang for each language
+    languages.forEach(lang => {
+      const hrefLangUrl = `https://carreau.app/${lang}/${pathWithoutLang.replace(/index\.md$/, '').replace(/\.md$/, '')}`
+      head.push(['link', { rel: 'alternate', hreflang: lang, href: hrefLangUrl }])
+    })
+
+    // Add x-default hreflang pointing to English
+    const defaultUrl = `https://carreau.app/en/${pathWithoutLang.replace(/index\.md$/, '').replace(/\.md$/, '')}`
+    head.push(['link', { rel: 'alternate', hreflang: 'x-default', href: defaultUrl }])
+
+    // Add page-specific Open Graph tags
+    if (pageData.frontmatter.description) {
+      head.push(['meta', { property: 'og:description', content: pageData.frontmatter.description }])
+      head.push(['meta', { name: 'description', content: pageData.frontmatter.description }])
+    }
+
+    if (pageData.title) {
+      head.push(['meta', { property: 'og:title', content: `${pageData.title} | Pétanque Academy` }])
+    }
+
+    head.push(['meta', { property: 'og:url', content: canonicalUrl }])
+
+    return head
   }
 }))
 

@@ -1,0 +1,27 @@
+# robots.txt for Pétanque Academy (carreau.app)
+
+User-agent: *
+Allow: /
+
+# Disallow VitePress build artifacts
+Disallow: /.vitepress/
+Disallow: /node_modules/
+
+# Allow all content pages
+Allow: /en/
+Allow: /fr/
+Allow: /de/
+Allow: /es/
+Allow: /sv/
+Allow: /da/
+Allow: /no/
+Allow: /it/
+Allow: /nl/
+Allow: /pt/
+
+# Sitemap location
+Sitemap: https://carreau.app/sitemap.xml
+
+# Crawl-delay (optional, helps prevent server overload)
+Crawl-delay: 1
+
