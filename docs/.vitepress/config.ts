@@ -19,24 +19,7 @@ export default withMermaid(defineConfig({
     },
     build: {
       minify: 'terser',
-      cssMinify: true,
-      rollupOptions: {
-        output: {
-          manualChunks(id) {
-            // Split vendor chunks for better caching
-            if (id.includes('node_modules')) {
-              if (id.includes('vue')) {
-                return 'vue'
-              }
-              if (id.includes('@vueuse')) {
-                return 'vueuse'
-              }
-              // Don't manually chunk mermaid as it's handled by the plugin
-              return 'vendor'
-            }
-          }
-        }
-      }
+      cssMinify: true
     },
     ssr: {
       noExternal: ['vitepress-plugin-mermaid']
