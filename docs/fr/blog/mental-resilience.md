@@ -69,7 +69,7 @@ La résilience est plus facile quand on a :
 
 ### 2. S&#39;exercer à surmonter l&#39;adversité
 
-On ne peut pas développer sa résilience sans relever de défis :
+On ne peut pas développer sa résilience sans relever de défis :
 - S&#39;entraîner dans des conditions difficiles
 - Pratiquez quand vous êtes fatigué
 - Affrontez des joueurs plus forts

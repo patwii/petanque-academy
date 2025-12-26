@@ -166,8 +166,8 @@ graph LR
 
 ## En esta sección
 
-- **[Técnicas](/es/educacion/mindfulness/técnicas)** - Ejercicios prácticos que puedes utilizar
-- **[Práctica diaria](/es/educacion/mindfulness/practica-diaria)** - Incorpora la atención plena a tu vida
+- **[Técnicas](/es/education/mindfulness/técnicas)** - Ejercicios prácticos que puedes utilizar
+- **[Práctica diaria](/es/education/mindfulness/practica-diaria)** - Incorpora la atención plena a tu vida
 
 ## Resumen: Reglas de atención plena
 

@@ -54,7 +54,7 @@ Lav en rutine, der inkluderer:
 
 **Fysiske elementer:**
 - Hvordan du griber cirklen an
-- Sådan samler og holder du kuglen op
+- Sådan løfter og holder du kuglen
 - Din holdning og positionering
 - Et specifikt åndedrætsmønster
 
@@ -132,5 +132,5 @@ Lige så vigtigt er, hvad du gør efter et kast:
 
 ---
 
-| *Relateret: [Guide til rutine før indtagelse](/da/uddannelse/mental-styrke/rutine-før-indtagelse) | [Håndtering af pres](/da/uddannelse/mental-styrke/håndtering-af-pres) | [Mindfulness-teknikker](/da/uddannelse/mindfulness/teknikker)* |
+| *Relateret: [Guide til rutine før indtagelse](/da/education/mental-styrke/rutine-før-indtagelse) | [Håndtering af pres](/da/education/mental-styrke/håndtering-af-pres) | [Mindfulness-teknikker](/da/education/mindfulness/teknikker)* |
 

@@ -50,7 +50,7 @@ Daglig 10-minutters øvelse med teknikker fra [Mindfulness](/no/utdanning/mindfu
 
 **3. Konkurransesimulering**
 
-Endret opplæringsmetodikk ved bruk av [Opplæringsmetoder](/no/utdanning/opplæring/):
+Endret opplæringsmetodikk ved bruk av [Opplæringsmetoder](/no/utdanning/training/):
 - Økt press på treningsøktene
 - Øvde på «bytteøyeblikket» gjentatte ganger
 - Innspilt ytelse under forskjellige forhold

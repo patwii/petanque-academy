@@ -189,7 +189,7 @@ Dedica del tempo specificamente alle abilità mentali:
 
 ## In questa sezione
 
-- **[Esercizi di allenamento](/it/istruzione/allenamento/esercizi)** - Esercizi specifici per diverse abilità
+- **[Esercizi di allenamento](/it/education/training/esercizi)** - Esercizi specifici per diverse abilità
 
 ## Conclusione chiave
 

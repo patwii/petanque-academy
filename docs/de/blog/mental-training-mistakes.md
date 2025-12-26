@@ -24,7 +24,7 @@ Mentale Fähigkeiten sind Fähigkeiten – sie erfordern dieselbe konsequente Ü
 - Behandeln Sie es als nicht verhandelbar.
 - Verfolge dein mentales Training parallel zum körperlichen Training.
 
-**Wichtig:** Im Spitzensport entscheiden oft die mentalen Fähigkeiten über Sieg oder Niederlage. Spieler mit gleicher Technik, aber höherer mentaler Stärke setzen sich durch.
+**Wichtig:** Im Spitzensport entscheiden oft die mentalen Fähigkeiten über Sieg oder Niederlage. Spieler mit gleicher Technik, aber stärkerer mentaler Stärke setzen sich durch.
 
 ## Fehler Nr. 2: Nur trainieren, wenn etwas schiefgeht
 

@@ -43,7 +43,7 @@ Sett kommunikasjonen på en konstruktiv måte:
 
 ### 3. Nåværende fokus
 
-Hold kommunikasjonen fokusert på hva som skjer etterpå, ikke hva som er fortid:
+Hold kommunikasjonen fokusert på hva som skjer etterpå, ikke hva som er fortiden:
 
 **I stedet for:** «Hvorfor kastet du den der?»
 **Si:** «Ok, hva er vårt beste alternativ nå?»
@@ -78,9 +78,9 @@ Bruk «jeg»-utsagn for dine egne handlinger, «vi» for lagsituasjoner:
 
 ## Hva man IKKE skal kommunisere
 
-### Unngå under pressøyeblikk
+### Unngå pressøyeblikk
 
-- Tekniske instruksjoner (&quot;Hold albuen inne&quot;)
+- Tekniske instruksjoner («Hold albuen inne»)
 - Kritikk av tidligere kast
 - Uttrykk for frustrasjon
 - Tvil om lagkameratens evner

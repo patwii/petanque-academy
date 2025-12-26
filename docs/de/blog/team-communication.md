@@ -39,7 +39,7 @@ Kommunikation konstruktiv gestalten:
 **Sag:** &quot;Du schaffst das – vertrau deinem Wurf.&quot;
 
 **Stattdessen:** &quot;Das war schrecklich.&quot;
-**Sag:** &quot;Abschütteln, nächster Versuch&quot;
+**Sag:** &quot;Abhaken, nächster Versuch.&quot;
 
 ### 3. Aktueller Fokus
 
@@ -121,7 +121,7 @@ Lerne zu erkennen, wann Teammitglieder etwas brauchen:
 
 ### Der Zeiger
 - Schildern Sie Ihre Einschätzung des Geländes.
-- Geben Sie Ihren geplanten Platzierungspunkt deutlich an.
+- Geben Sie Ihren geplanten Platzierungsort deutlich an.
 - Bei Unsicherheit um Rat fragen
 
 ### Der Schütze

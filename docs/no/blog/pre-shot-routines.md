@@ -119,7 +119,7 @@ I kamper kan det hende at rutinen din trenger små justeringer:
 
 - **Tidspress**: Ha en forkortet versjon klar
 - **Værforhold**: Juster fysiske elementer etter behov
-- **Øyeblikk med høyt trykk**: Sakk litt ned, ikke øk farten
+- **Øyeblikk med høyt trykk**: Senk farten litt, ikke øk farten
 
 ## Tilbakestillingsrutinen
 

@@ -97,7 +97,7 @@ Mettre ses compétences en pratique dans des contextes réalistes :
 
 ## Types de séances d&#39;entraînement
 
-### Séance de développement des compétences
+### session de développement des compétences
 
 Objectif : Développer ou perfectionner des techniques spécifiques
 
@@ -140,7 +140,7 @@ Que pratiquez-vous précisément ?
 Comment mesure-t-on le succès ?
 
 ### Défi approprié
-Assez difficile pour s&#39;étirer, mais pas trop difficile pour réussir.
+Assez difficile pour s&#39;étirer, mais pas trop pour réussir.
 
 ### Pertinence
 Lié à des situations de jeu réelles

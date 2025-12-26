@@ -26,7 +26,7 @@ Marcus bemærkede et tydeligt mønster: i klubkampe spillede han frit og selvsik
 
 ### Analysen af den mentale spil
 
-Ved at bruge principperne fra [The Zone](/da/uddannelse/zonen/) identificerede vi problemet:
+Ved at bruge principperne fra [The Zone](/da/education/the-zone/) identificerede vi problemet:
 
 **Forvirring mellem teknisk tilstand og flowtilstand**
 
@@ -36,21 +36,21 @@ Marcus forblev i &quot;teknisk tilstand&quot; under udførelsen. Ved mesterskabe
 
 **1. Udvikling af rutine før optagelse**
 
-Vi har lavet en specifik rutine (fra [Mental Styrke](/da/uddannelse/mental-styrke/før-indsprøjtning-rutine)):
+Vi har lavet en specifik rutine (fra [Mental Styrke](/da/education/mental-styrke/før-indsprøjtning-rutine)):
 - Uden for cirklen: Analyser situationen (maks. 30 sekunder)
 - Gå til cirklen: Overgangsåndedræt
 - I cirklen: Kun øjnene rettet mod målet, tillidstræning
 
 **2. Mindfulness-øvelse**
 
-Daglig 10-minutters øvelse med teknikker fra [Mindfulness](/da/uddannelse/mindfulness/daglig-øvelse):
+Daglig 10-minutters øvelse med teknikker fra [Mindfulness](/da/education/mindfulness/daglig-øvelse):
 - Kropsscanning for at genkende spændinger
 - Åndedrætsbevidsthed til konkurrence
 - Træning i fokus i nuet
 
 **3. Konkurrencesimulering**
 
-Ændret træningstilgang ved hjælp af [Træningsmetoder](/da/uddannelse/træning/):
+Ændret træningstilgang ved hjælp af [Træningsmetoder](/da/education/træning/):
 - Øget pres på træningssessionerne
 - Øvede &quot;skift&quot;-øjeblikket gentagne gange
 - Optaget ydeevne under forskellige forhold
@@ -85,7 +85,7 @@ Sophie var sin egen værste fjende. Efter et dårligt kast:
 
 ### Analysen af den mentale spil
 
-Klassisk &quot;Indre kritiker&quot;-problem fra [Mental styrke](/da/uddannelse/mental-styrke/):
+Klassisk &quot;Indre kritiker&quot;-problem fra [Mental styrke](/da/education/mental-styrke/):
 
 Den indre kritiker var:
 - Nedbryder selvtillid efter fejltagelser
@@ -112,7 +112,7 @@ Oprettede en specifik 3-trins proces:
 
 **3. Teamkommunikation**
 
-Fra [Team Dynamics](/da/uddannelse/team-player/kommunikation):
+Fra [Team Dynamics](/da/education/team-player/kommunikation):
 - Delte den indre kritiker-udfordring med holdkammerater
 - Bedt om støtte til at forblive positiv
 - Skabte en teamkultur med konstruktiv feedback
@@ -145,7 +145,7 @@ Jean var teknisk set fremragende, men:
 
 ### Analysen af den mentale spil
 
-Brug af principper fra [Team Dynamics](/da/uddannelse/team-player/):
+Brug af principper fra [Team Dynamics](/da/education/team-player/):
 
 Problemet var ikke teknisk – det var psykologisk:
 - Manglende tillid til holdkammerater
@@ -165,7 +165,7 @@ Implementeret struktureret kommunikation:
 
 **2. Opbygning af tillid**
 
-Fra [Holdspiller](/da/uddannelse/holdspiller/):
+Fra [Holdspiller](/da/education/team-player/):
 - Øvede sig i at sætte ord på tillid
 - Fælles beslutningstagning
 - Fejrede holdkammeraters succeser
@@ -218,9 +218,9 @@ Alle spillere oplevede konkrete forbedringer i konkurrenceresultaterne, ikke bar
 ::: tip Din tur
 Hvilken casestudie passer til din oplevelse?
 
-- **Kæmper du under pres?** → Start med [Zonen](/da/uddannelse/zonen/)
-- **Negativ selvsnak?** → Udforsk [Mental styrke](/da/uddannelse/mental-styrke/)
-- **Holdudfordringer?** → Undersøg [Holddynamik](/da/uddannelse/holdspiller/)
+- **Kæmper du under pres?** → Start med [Zonen](/da/education/the-zone/)
+- **Negativ selvsnak?** → Udforsk [Mental styrke](/da/education/mental-styrke/)
+- **Holdudfordringer?** → Undersøg [Holddynamik](/da/education/team-player/)
 
 Brug [Målskabelonen](/da/målskabelonen) til at oprette din egen mentale spiludviklingsplan.
 :::

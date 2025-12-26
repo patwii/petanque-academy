@@ -55,7 +55,7 @@ L&#39;emozione non scompare, ma perde il potere di controllarti.
 
 ### 3. Messa a fuoco a punto singolo
 
-Allena la tua attenzione a soffermarti su una cosa:
+Allena la tua attenzione a concentrarti su una cosa:
 
 **Prima del lancio:**
 - Concentrati solo sulla lettura del terreno
@@ -166,5 +166,5 @@ Il giocatore che è pienamente presente a ogni lancio, mentre gli altri sono per
 
 ---
 
-| *Correlato: [Introduzione alla consapevolezza](/it/educazione/consapevolezza/) | [Tecniche di consapevolezza](/it/educazione/consapevolezza/tecniche) | [Pratica quotidiana](/it/educazione/mindfulness/pratica-quotidiana)* |
+| *Correlato: [Introduzione alla consapevolezza](/it/education/mindfulness/) | [Tecniche di consapevolezza](/it/education/mindfulness/tecniche) | [Pratica quotidiana](/it/education/mindfulness/pratica-quotidiana)* |
 

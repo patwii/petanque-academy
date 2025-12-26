@@ -66,7 +66,7 @@ Vi sier ikke at du aldri skal jobbe med arm, håndledd, avlastning eller kroppss
 
 Her er prosessen:
 
-1. **Utforsk [Kastpaletten](/no/teknisk/kast)** — Identifiser hvilket kast eller hvilken teknikk du vil legge til i repertoaret ditt
+1. **Utforsk [Kastpaletten](/no/technical/throws)** — Identifiser hvilket kast eller hvilken teknikk du vil legge til i repertoaret ditt
 2. **Visualiser resultatet** – Hva skal kulen gjøre? Hvilken bane, landing, spinn og oppførsel trenger du?
 3. **Jobb deretter med utførelse** – Nå kan du fokusere på arm, håndledd, kroppsposisjon og slipp for å oppnå det spesifikke resultatet
 
@@ -128,14 +128,14 @@ Hvis du har et teknisk fokus og ønsker å utvide repertoaret ditt, skisserer de
 
 ## Emner
 
-### [Palett av kast](/no/teknisk/kast)
+### [Palett av kast](/no/technical/throws)
 Hva slags kast finnes det? En omfattende oversikt over de tekniske mulighetene innen petanque.
 
 ::: tip Etter teknikk, hva er det neste?
 Når du har en solid teknikk, kommer den virkelige veksten fra:
 - **[Sonen](/no/utdanning/sonen/)** - Tilgang til flyttilstander
 - **[Mental styrke](/no/utdanning/mental-styrke/)** - Håndtering av press
-- **[Opplæringsmetoder](/no/utdanning/opplæring/)** - Hvordan øve effektivt
+- **[Opplæringsmetoder](/no/utdanning/training/)** - Hvordan øve effektivt
 :::
 
 <AdBanner />

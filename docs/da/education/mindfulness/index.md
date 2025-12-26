@@ -166,8 +166,8 @@ graph LR
 
 ## I dette afsnit
 
-- **[Teknikker](/da/uddannelse/mindfulness/teknikker)** - Praktiske øvelser du kan bruge
-- **[Daglig praksis](/da/uddannelse/mindfulness/daglig-praksis)** - Byg mindfulness ind i dit liv
+- **[Teknikker](/da/education/mindfulness/teknikker)** - Praktiske øvelser du kan bruge
+- **[Daglig praksis](/da/education/mindfulness/daglig-praksis)** - Byg mindfulness ind i dit liv
 
 ## Resumé: Mindfulnessregler
 

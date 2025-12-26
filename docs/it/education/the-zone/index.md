@@ -118,7 +118,7 @@ La soluzione non è pensare *meno*, ma pensare alle **cose giuste** al **momento
 Scopri come padroneggiare la zona:
 
 - **[Allenamento tecnico vs. flusso](/it/education/the-zone/tecnico-vs-flusso)** - Capire quando concentrarsi sulla tecnica e quando lasciar perdere
-- **[Entrare nella zona](/it/educazione/la-zona/entrare-nella-zona)** - Tecniche pratiche per accedere allo stato di flusso
+- **[Entrare nella zona](/it/education/the-zone/entrare-nella-zona)** - Tecniche pratiche per accedere allo stato di flusso
 
 ## Riepilogo: Le regole della zona
 

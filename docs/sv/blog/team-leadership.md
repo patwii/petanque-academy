@@ -9,7 +9,7 @@ Ledarskap i boule handlar inte bara om att vara kapten eller den bästa spelaren
 
 ## Vad är bouleledare?
 
-Effektivt ledarskap i boule innebär:
+Effektiv bouleledning innebär:
 - Att fatta bra beslut under press
 - Stödja lagkamrater genom utmaningar
 - Bibehålla teamfokus och energi
@@ -253,5 +253,5 @@ Ledare antar utmaningar:
 
 ---
 
-| *Relaterat: [Lagdynamik](/sv/utbildning/lagspelare/) | [Kommunikation](/sv/utbildning/lagspelare/kommunikation) | [Bygg lagkemi](/sv/blogg/lagkemi)* |
+| *Relaterat: [Lagdynamik](/sv/education/team-player/) | [Kommunikation](/sv/education/team-player/kommunikation) | [Bygg lagkemi](/sv/blogg/lagkemi)* |
 

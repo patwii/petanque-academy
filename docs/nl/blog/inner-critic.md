@@ -53,7 +53,7 @@ Geef je innerlijke criticus een naam – iets ietwat belachelijks. &quot;Oh, daa
 
 ### 2. Betwist het bewijsmateriaal
 
-Als een criticus zegt: &quot;Je presteert altijd onder druk&quot;, vraag je dan af: is dat wel echt zo? Kun je je momenten herinneren waarop je juist goed presteerde onder druk? De criticus spreekt in absolute termen die zelden de werkelijkheid weerspiegelen.
+Als een criticus zegt: &quot;Je presteert altijd onder druk&quot;, vraag je dan af: is dat wel echt zo? Kun je je momenten herinneren waarop je juist goed presteerde onder druk? De criticus spreekt vaak absolute termen die zelden de werkelijkheid weerspiegelen.
 
 ### 3. Herformuleer de boodschap
 

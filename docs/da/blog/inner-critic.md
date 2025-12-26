@@ -64,7 +64,7 @@ Omdan kritik til coaching:
 
 ### 4. Brug din rutine før optagelse
 
-En solid [rutine før indtagelse](/da/uddannelse/mental-styrke/rutine-før-indtagelse) giver dit sind noget konstruktivt at fokusere på, hvilket giver mindre plads til kritikeren.
+En solid [rutine før indtagelse](/da/education/mental-styrke/rutine-før-indtagelse) giver dit sind noget konstruktivt at fokusere på, hvilket giver mindre plads til kritikeren.
 
 ### 5. Øv dig i selvmedfølelse
 
@@ -106,5 +106,5 @@ Den indre kritiker vil altid være en del af dig. Men med øvelse bliver dens st
 
 ---
 
-| *Relateret: [Håndtering af pres](/da/uddannelse/mental-styrke/håndtering-af-pres) | [Rutine før indtagelse](/da/uddannelse/mental-styrke/rutine-før-indtagelse) | [Mindfulness-teknikker](/da/uddannelse/mindfulness/teknikker)* |
+| *Relateret: [Håndtering af pres](/da/education/mental-styrke/håndtering-af-pres) | [Rutine før indtagelse](/da/education/mental-styrke/rutine-før-indtagelse) | [Mindfulness-teknikker](/da/education/mindfulness/teknikker)* |
 

@@ -175,7 +175,7 @@ Formas de aumentar a dificuldade à medida que você melhora.
 
 ### Exemplo de semana equilibrada
 
-**Segunda-feira:** Desenvolvimento de habilidades (apontar e focar)
+**Segunda-feira:** Desenvolvimento de habilidades (foco de apontamento)
 **Quarta-feira:** Simulação de competição
 **Sexta-feira:** Desenvolvimento de habilidades (foco em tiro)
 **Fim de semana:** Jogo de partidas

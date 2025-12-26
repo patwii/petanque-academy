@@ -165,9 +165,9 @@ Tu historia podría ayudar a otros jugadores a descubrir estos recursos.
 ¿Estás listo para desarrollar tu juego mental?
 
 ::: tip Empieza aquí
-- **¿Eres nuevo en el entrenamiento mental?** → [La Zona](/es/educacion/la-zona/)
-- **¿Luchando con la presión?** → [Fuerza mental](/es/educacion/fuerza-mental/)
-- **¿Desafíos de equipo?** → [Dinámica de equipo](/es/educacion/jugador-de-equipo/)
+- **¿Eres nuevo en el entrenamiento mental?** → [La Zona](/es/education/the-zone/)
+- **¿Luchando con la presión?** → [Fuerza mental](/es/education/fuerza-mental/)
+- **¿Desafíos de equipo?** → [Dinámica de equipo](/es/education/team-player/)
 - **¿Quieres estructura?** → [Plantilla de objetivo](/es/goal-template)
 :::
 

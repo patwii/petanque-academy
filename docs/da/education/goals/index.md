@@ -143,8 +143,8 @@ Skriv dine svar ned. Vend tilbage til dem, når motivationen forsvinder.
 
 ## I dette afsnit
 
-- **[SMART Mål i Detaljer](/da/uddannelse/mål/smarte-mål)** - Dybdegående indsigt i at skabe effektive mål
-- **[Oprettelse af din træningsplan](/da/uddannelse/mål/planlægning)** - Gør mål til handling
+- **[SMART Mål i Detaljer](/da/education/goals/smarte-mål)** - Dybdegående indsigt i at skabe effektive mål
+- **[Oprettelse af din træningsplan](/da/education/goals/planlægning)** - Gør mål til handling
 
 ## Resumé: Regler for målsætning
 

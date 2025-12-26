@@ -102,7 +102,7 @@ Uma boa rotina possui estes elementos:
 - Confie no seu corpo.
 - Liberte sem hesitação
 
-**Foco apenas no ambiente externo.** Alvo, não técnica.
+**Foco apenas no exterior.** Alvo, não técnica.
 :::
 
 ### Por que as rotinas funcionam
@@ -248,7 +248,7 @@ graph LR
 | **Escorregar | Solte, liberte-o | Retorne ao momento presente. |
 
 ::: warning Habilidade Crítica
-Isso requer prática, mas evita a espiral de frustração que acaba com o estado de fluxo. Pratique o SOAS no dia a dia para que se torne automático durante as competições.
+Isso requer prática, mas evita a espiral de frustração que acaba com o fluxo. Pratique o SOAS no dia a dia para que se torne automático durante as competições.
 :::
 
 ## Construindo seu Kit de Ferramentas de Fluxo
@@ -277,7 +277,7 @@ Essas técnicas só funcionam se você as praticar:
 ::: tip Lembrar
 **Estar na zona não é questão de sorte. É uma habilidade que você pode desenvolver.**
 
-Comece com sua rotina pré-tirada. Seja consistente. Confie nela. O estado de concentração virá naturalmente.
+Comece com sua rotina pré-tiro. Seja consistente. Confie nela. O estado de concentração virá naturalmente.
 :::
 
 <AdBanner />

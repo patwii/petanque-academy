@@ -43,7 +43,7 @@ Rama in kommunikationen konstruktivt:
 
 ### 3. Nuvarande fokus
 
-Håll kommunikationen fokuserad på vad som kommer härnäst, inte vad som har varit:
+Håll kommunikationen fokuserad på vad som kommer härnäst, inte vad som har gått:
 
 **Istället för:** &quot;Varför kastade du den där?&quot;
 **Säg:** &quot;Okej, vad är vårt bästa alternativ nu?&quot;
@@ -158,7 +158,7 @@ Lär dig att känna igen när lagkamrater behöver:
 ### Matchboll (vår)
 
 - Håll dig lugn och fokuserad
-- Undvik förhastad firande
+- Undvik för tidigt firande
 - Kör som vanligt
 
 ## Bygga kommunikationsfärdigheter
@@ -210,5 +210,5 @@ Ord är inte alltid nödvändiga. Samband är det.
 
 ---
 
-| *Relaterat: [Lagdynamik](/sv/utbildning/lagspelare/) | [Kommunikation](/sv/utbildning/lagspelare/kommunikation) | [Hantera press](/sv/utbildning/mental-styrka/hantera-press)* |
+| *Relaterat: [Lagdynamik](/sv/education/team-player/) | [Kommunikation](/sv/education/team-player/kommunikation) | [Hantera press](/sv/education/mental-strength/hantera-press)* |
 

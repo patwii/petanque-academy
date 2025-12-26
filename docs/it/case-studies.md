@@ -36,14 +36,14 @@ Marcus rimaneva in &quot;modalità tecnica&quot; durante l&#39;esecuzione. Duran
 
 **1. Sviluppo della routine pre-tiro**
 
-Abbiamo creato una routine specifica (da [Forza mentale](/it/education/forza-mentale/routine-pre-tiro)):
+Abbiamo creato una routine specifica (da [Forza mentale](/it/education/mental-strength/routine-pre-tiro)):
 - Cerchio esterno: Analizza la situazione (30 secondi max)
 - Camminare in cerchio: respiro di transizione
 - In cerchio: occhi solo sul bersaglio, allenamento alla fiducia
 
 **2. Pratica della consapevolezza**
 
-Pratica quotidiana di 10 minuti utilizzando tecniche di [Mindfulness](/it/educazione/mindfulness/pratica-quotidiana):
+Pratica quotidiana di 10 minuti utilizzando tecniche di [Mindfulness](/it/education/mindfulness/pratica-quotidiana):
 - Scansione corporea per riconoscere la tensione
 - Consapevolezza del respiro per la competizione
 - Allenamento alla concentrazione sul momento presente
@@ -85,7 +85,7 @@ Sophie era la sua peggior nemica. Dopo un brutto lancio:
 
 ### L&#39;analisi del gioco mentale
 
-Classico problema del &quot;Critico Interiore&quot; da [Forza Mentale](/it/educazione/forza-mentale/):
+Classico problema del &quot;Critico Interiore&quot; da [Forza Mentale](/it/education/mental-strength/):
 
 Il critico interiore era:
 - Distruggere la fiducia dopo gli errori
@@ -219,8 +219,8 @@ Tutti i giocatori hanno riscontrato miglioramenti concreti nei risultati delle c
 Quale caso di studio rispecchia meglio la tua esperienza?
 
 - **Hai difficoltà sotto pressione?** → Inizia con [The Zone](/it/education/the-zone/)
-- **Discorso interiore negativo?** → Esplora [Forza mentale](/it/educazione/forza-mentale/)
-- **Sfide di squadra?** → Studia [Dinamiche di squadra](/it/istruzione/giocatore-di-squadra/)
+- **Discorso interiore negativo?** → Esplora [Forza mentale](/it/education/mental-strength/)
+- **Sfide di squadra?** → Studia [Dinamiche di squadra](/it/education/giocatore-di-squadra/)
 
 Utilizza il [modello obiettivo](/en/goal-template) per creare il tuo piano di sviluppo del gioco mentale.
 :::

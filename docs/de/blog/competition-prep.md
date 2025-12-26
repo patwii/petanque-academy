@@ -5,7 +5,7 @@ description: Prepare optimally for pétanque competitions. Learn the physical, m
 
 # Wettkampfvorbereitung
 
-Der Wettkampf beginnt nicht erst mit dem ersten Wurf – er beginnt Tage vorher. Wie Sie sich im Vorfeld vorbereiten, hat entscheidenden Einfluss auf Ihre Leistung. Spitzenspieler überlassen die Vorbereitung nicht dem Zufall.
+Der Wettkampf beginnt nicht erst mit dem ersten Wurf – er beginnt Tage zuvor. Wie Sie sich im Vorfeld vorbereiten, hat entscheidenden Einfluss auf Ihre Leistung. Spitzenspieler überlassen die Vorbereitung nicht dem Zufall.
 
 ## Der Vorbereitungszeitplan
 
@@ -136,7 +136,7 @@ Machen Sie sich Ihre Vorgehensweise klar:
 - Welche Stärken können Sie nutzen?
 - Welche Schwächen gilt es zu beheben?
 
-### Kenne die Konkurrenz
+### Den Wettbewerb kennen
 
 Sammeln Sie nützliche Informationen:
 - Tendenzen der Gegner
@@ -145,7 +145,7 @@ Sammeln Sie nützliche Informationen:
 
 ### Habe einen Plan
 
-Mit klaren Absichten antreten:
+Treten Sie mit klaren Absichten ein:
 - Eröffnungsstrategie
 - Anpassungen für verschiedene Szenarien
 - Rollen und Verantwortlichkeiten

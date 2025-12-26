@@ -189,7 +189,7 @@ Avsätt tid specifikt för mentala färdigheter:
 
 ## I detta avsnitt
 
-- **[Träningsövningar](/sv/utbildning/träning/övningar)** - Specifika övningar för olika färdigheter
+- **[Träningsövningar](/sv/education/training/övningar)** - Specifika övningar för olika färdigheter
 
 ## Viktig slutsats
 

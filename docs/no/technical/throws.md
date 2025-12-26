@@ -172,7 +172,7 @@ Fokuser på:
 ::: info Neste trinn
 Når du har en solid teknikk, kommer den virkelige veksten fra:
 - **[Sonen](/no/utdanning/sonen/)** - Konsekvent tilgang til flyttilstander
-- **[Opplæringsmetoder](/no/utdanning/opplæring/)** - Hvordan øve effektivt
+- **[Opplæringsmetoder](/no/utdanning/training/)** - Hvordan øve effektivt
 - **[Mental styrke](/no/utdanning/mental-styrke/)** - Prestere under press
 :::
 

@@ -205,11 +205,11 @@ Os jogadores que fazem essa mudança — que adotam o treinamento mental como fo
 
 ---
 
-## Related Resources
+## Recursos relacionados
 
-- [The Zone: Understanding Flow State](/en/education/the-zone/)
-- [Case Studies: Elite Players in Action](/en/case-studies)
-- [Goal Template](/en/goal-template) - Plan your mental game development
+- [A Zona: Compreendendo o Estado de Fluxo](/en/education/the-zone/)
+- [Estudos de Caso: Jogadores de Elite em Ação](/en/case-studies)
+- [Modelo de Meta](/en/goal-template) - Planeje o desenvolvimento do seu jogo mental
 
-**Questions or comments?** Email [patrik.wiik@gmail.com](mailto:patrik.wiik@gmail.com)
+**Dúvidas ou comentários?** Envie um e-mail para [patrik.wiik@gmail.com](mailto:patrik.wiik@gmail.com)
 

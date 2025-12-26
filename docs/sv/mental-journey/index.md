@@ -79,17 +79,17 @@ graph TD
 ### Alternativ 1: Självstudier (för spelare)
 
 **Vecka 1: Förstå grunderna**
-1. Läs modulen [Zonen](/sv/utbildning/zonen/)
+1. Läs modulen [Zonen](/sv/education/the-zone/)
 2. Prova 3-andetagsåterställningstekniken
 3. Lägg märke till när du är i &quot;tekniskt läge&quot; kontra &quot;flödesläge&quot;
 
 **Vecka 2: Bygga medvetenhet**
-1. Läs modulen [Mental styrka](/sv/utbildning/mental-styrka/)
+1. Läs modulen [Mental styrka](/sv/education/mental-strength/)
 2. Identifiera dina inre kritikmönster
 3. Öva neutral observation efter misstag
 
 **Vecka 3: Skapa struktur**
-1. Läs modulen [Mindfulness](/sv/utbildning/mindfulness/)
+1. Läs modulen [Mindfulness](/sv/education/mindfulness/)
 2. Börja med 5-minuters daglig träning
 3. Utveckla en enkel rutin före skotttagning
 
@@ -167,7 +167,7 @@ Mental träning ersätter inte teknisk övning. Men den hjälper dig att konsekv
 ## Tillgängliga resurser
 
 ### För spelare
-- [Utbildningsmoduler](/sv/utbildning/) - 8 omfattande guider
+- [Utbildningsmoduler](/sv/education/) - 8 omfattande guider
 - [Målmall](/sv/målmall) - Strukturera din utveckling
 - [Dagboksmall](/sv/dagboksmall) - Följ dina framsteg
 - [Fallstudier](/sv/fallstudier) - Verkliga exempel
@@ -181,7 +181,7 @@ Mental träning ersätter inte teknisk övning. Men den hjälper dig att konsekv
 ## Nästa steg
 
 ### För individuella spelare
-1. **Börja med medvetenhet** - Läs [Zonen](/sv/utbildning/zonen/)
+1. **Börja med medvetenhet** - Läs [Zonen](/sv/education/the-zone/)
 2. **Prova en teknik** - Använd 3-andetagsåterställningen den här veckan
 3. **Spåra din upplevelse** - Lägg märke till vilka förändringar
 4. **Bygg gradvis** - Lägg till en ny färdighet per vecka
@@ -205,7 +205,7 @@ Mental träning ersätter inte teknisk övning. Men den hjälper dig att konsekv
 ---
 
 ::: tip Redo att börja?
-**Spelare:** Börja med modulen [Zonen](/sv/utbildning/zonen/)
+**Spelare:** Börja med modulen [Zonen](/sv/education/the-zone/)
 
 **Coacher:** Gå till [Sessionsguide](/sv/mental-journey/sessionsguide)
 

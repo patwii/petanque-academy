@@ -133,7 +133,7 @@ Sinais de que você está pensando demais na técnica:
 2. Utilize a análise de vídeo.
 3. Obtenha feedback de um treinador ou parceiro de treino.
 4. Aceite que, no começo, será estranho.
-5. Mantenha as sessões mais curtas (qualidade em vez de quantidade).
+5. Mantenha as sessões mais curtas (qualidade em vez de quantidade)
 
 ### Para sessões de fluxo
 1. Crie uma pressão semelhante à de um jogo.

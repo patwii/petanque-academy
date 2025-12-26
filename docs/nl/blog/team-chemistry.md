@@ -3,7 +3,7 @@ title: Building Team Chemistry
 description: Develop the intangible bonds that transform individual players into a cohesive pétanque team. Learn how chemistry is built, maintained, and leveraged.
 ---
 
-# Het bevorderen van teamgeest
+# Het opbouwen van teamgeest
 
 Je hebt het vast wel eens gezien: teams waar het geheel meer is dan de som der delen. Spelers die op elkaar inspelen, elkaar steunen en samen beter presteren dan individueel. Dat is teamchemie – en dat is geen toeval.
 
@@ -135,7 +135,7 @@ Problemen die niet worden aangepakt, verdwijnen niet vanzelf, ze worden alleen m
 
 ### Na de wedstrijden
 
-- Of we nu winnen of verliezen, blijf samen.
+- Winnen of verliezen, blijf samen.
 - Korte nabespreking (wat werkte goed, wat kan er verbeterd worden)
 - Onderhoud positieve relaties, ongeacht het resultaat.
 

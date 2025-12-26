@@ -10,9 +10,9 @@ Paradokset med eliteutvikling: Etter hvert som dine tekniske ferdigheter øker, 
 
 ---
 
-### [The Science Behind Flow States](/en/blog/flow-state-science)
+### [Vitenskapen bak flyttilstander](/no/blogg/flyttilstandsvitenskap)
 
-What actually happens in your brain when you're "in the zone"? Understanding the neuroscience of flow states can help you access them more consistently.
+Hva skjer egentlig i hjernen din når du er «i sonen»? Å forstå nevrovitenskapen bak flyttilstander kan hjelpe deg med å få tilgang til dem mer konsekvent.
 
 ---
 

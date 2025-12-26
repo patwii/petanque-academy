@@ -60,12 +60,12 @@ Det snabbaste sättet att lugna nervsystemet:
 **Förlängd utandning:**
 - Andas in i 4 räkningar
 - Andas ut i 8 räkningar
-- Längre utandning aktiverar det parasympatiska nervsystemet
+- En längre utandning aktiverar det parasympatiska nervsystemet
 
 ### Progressiv avslappning
 
 Mellan kasten:
-1. Knöt nävarna hårt i 3 sekunder
+1. Knyt nävarna hårt i 3 sekunder
 2. Släpp loss och känn avslappningen
 3. Rulla upp axlarna, håll, släpp
 4. Skaka ut dina händer
@@ -117,7 +117,7 @@ Du kan inte lära dig att hantera press utan att uppleva den. Skapa press i prak
 ### Exponeringsstege
 
 Öka gradvis tryckexponeringen:
-1. Öva ensam utan insatser
+1. Träna ensam utan insatser
 2. Öva med en träningspartner som tittar på
 3. Övning med små konsekvenser
 4. Vänskapsmatcher
@@ -160,5 +160,5 @@ Nyckeln är att kanalisera denna energi produktivt snarare än att låta den öv
 
 ---
 
-| *Relaterat: [Hantera press](/sv/utbildning/mental-styrka/hantera-press) | [Rutin före skott](/sv/utbildning/mental-styrka/rutin-före-skott) | [Zonen](/sv/utbildning/zonen/)* |
+| *Relaterat: [Hantera press](/sv/education/mental-strength/hantera-press) | [Rutin före skott](/sv/education/mental-strength/rutin-före-skott) | [Zonen](/sv/education/the-zone/)* |
 

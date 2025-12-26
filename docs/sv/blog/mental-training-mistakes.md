@@ -15,7 +15,7 @@ Många spelare ser mental träning som något bra att ha, något att jobba med &
 
 ### Varför det misslyckas
 
-Mentala färdigheter är färdigheter – de kräver samma konsekventa övning som kastteknik. Tillfällig uppmärksamhet ger enstaka resultat.
+Mentala färdigheter är färdigheter – de kräver samma konsekventa övning som kastteknik. Tillfällig uppmärksamhet ger tillfälliga resultat.
 
 ### Fixen
 
@@ -159,5 +159,5 @@ Det mentala spelet är träningsbart. Träna det rätt.
 
 ---
 
-| *Relaterat: [Mental styrka](/sv/utbildning/mental-styrka/) | [Utbildningsmetoder](/sv/utbildning/träning/) | [Mindfulness](/sv/utbildning/mindfulness/)* |
+| *Relaterat: [Mental styrka](/sv/education/mental-strength/) | [Utbildningsmetoder](/sv/education/training/) | [Mindfulness](/sv/education/mindfulness/)* |
 

@@ -24,7 +24,7 @@ Las investigaciones demuestran que la mente de una persona promedio divaga el 47
 - Imaginando lo que piensan los demás
 - Planificación de celebraciones o excusas
 
-Cada momento invertido en un viaje mental en el tiempo es un momento que no se pasa en el lanzamiento que tienes delante de ti.
+Cada momento invertido en un viaje mental en el tiempo es un momento que no se pasa lanzando algo delante de uno.
 
 ## Habilidades de atención plena para la competición
 
@@ -166,5 +166,5 @@ El jugador que está completamente presente en cada lanzamiento, mientras los de
 
 ---
 
-| *Relacionado: [Introducción a la atención plena](/es/educacion/atención/) | [Técnicas de atención plena](/es/educación/atención/técnicas) | [Práctica diaria](/es/educacion/mindfulness/practica-diaria)* |
+| *Relacionado: [Introducción a la atención plena](/es/education/mindfulness/) | [Técnicas de atención plena](/es/education/mindfulness/técnicas) | [Práctica diaria](/es/education/mindfulness/practica-diaria)* |
 

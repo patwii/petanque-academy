@@ -143,8 +143,8 @@ Skriv ned svarene dine. Gå tilbake til dem når motivasjonen avtar.
 
 ## I denne delen
 
-- **[SMARTE mål i detalj](/no/utdanning/mål/smarte-mål)** - Dypdykk i å lage effektive mål
-- **[Lag treningsplanen din](/no/utdanning/mål/planlegging)** - Gjør mål om til handling
+- **[SMARTE mål i detalj](/no/utdanning/goals/smarte-mål)** - Dypdykk i å lage effektive mål
+- **[Lag treningsplanen din](/no/utdanning/goals/planlegging)** - Gjør mål om til handling
 
 ## Sammendrag: Regler for målsetting
 

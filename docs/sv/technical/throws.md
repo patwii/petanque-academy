@@ -171,9 +171,9 @@ Fokusera på:
 
 ::: info Nästa steg
 När du väl har en gedigen teknik kommer den verkliga utvecklingen från:
-- **[Zonen](/sv/utbildning/zonen/)** - Åtkomst till flödestillstånd konsekvent
-- **[Träningsmetoder](/sv/utbildning/träning/)** - Hur man övar effektivt
-- **[Mental styrka](/sv/utbildning/mental-styrka/)** - Prestera under press
+- **[Zonen](/sv/education/the-zone/)** - Åtkomst till flödestillstånd konsekvent
+- **[Träningsmetoder](/sv/education/training/)** - Hur man övar effektivt
+- **[Mental styrka](/sv/education/mental-strength/)** - Prestera under press
 :::
 
 <AdBanner />

@@ -155,8 +155,8 @@ graph LR
 
 ## I dette afsnit
 
-- **[Håndtering af pres](/da/uddannelse/mental-styrke/håndtering-af-pres)** - Teknikker til situationer med høje indsatser
-- **[Rutine før skud](/da/uddannelse/mental-styrke/rutine-før-skud)** - Opbygning af din præstationstrigger
+- **[Håndtering af pres](/da/education/mental-styrke/håndtering-af-pres)** - Teknikker til situationer med høje indsatser
+- **[Rutine før skud](/da/education/mental-styrke/rutine-før-skud)** - Opbygning af din præstationstrigger
 
 ## Resumé: Regler for mental styrke
 

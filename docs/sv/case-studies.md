@@ -26,7 +26,7 @@ Marcus lade märke till ett tydligt mönster: i klubbmatcher spelade han fritt o
 
 ### Den mentala spelanalysen
 
-Med hjälp av principerna från [The Zone](/sv/utbildning/the-zone/) identifierade vi problemet:
+Med hjälp av principerna från [The Zone](/sv/education/the-zone/) identifierade vi problemet:
 
 **Förvirring mellan tekniskt läge och flödesläge**
 
@@ -36,21 +36,21 @@ Marcus höll sig i &quot;tekniskt läge&quot; under utförandet. Vid mästerskap
 
 **1. Utveckling av rutiner före skott**
 
-Vi skapade en specifik rutin (från [Mental styrka](/sv/utbildning/mental-styrka/rutin-för-skott)):
+Vi skapade en specifik rutin (från [Mental styrka](/sv/education/mental-strength/rutin-för-skott)):
 - Utanför cirkeln: Analysera situationen (max 30 sekunder)
 - Gå till cirkel: Övergångsandetag
 - I cirkeln: Blicken riktad mot målet, förtroendeträning
 
 **2. Mindfulnessövning**
 
-Daglig 10-minutersövning med tekniker från [Mindfulness](/sv/utbildning/mindfulness/daglig-övning):
+Daglig 10-minutersövning med tekniker från [Mindfulness](/sv/education/mindfulness/daglig-övning):
 - Kroppsskanning för att upptäcka spänningar
 - Andningsmedvetenhet för tävling
 - Fokusträning i nuet
 
 **3. Tävlingssimulering**
 
-Ändrad utbildningsmetod med hjälp av [Utbildningsmetoder](/sv/utbildning/utbildning/):
+Ändrad utbildningsmetod med hjälp av [Utbildningsmetoder](/sv/education/education/):
 - Ökad press på träningarna
 - Övade på &quot;byte&quot;-ögonblicket upprepade gånger
 - Inspelad prestanda under olika förhållanden
@@ -85,7 +85,7 @@ Sophie var sin egen värsta fiende. Efter ett dåligt kast:
 
 ### Den mentala spelanalysen
 
-Klassiskt problem med den &quot;inre kritikern&quot; från [Mental styrka](/sv/utbildning/mental-styrka/):
+Klassiskt problem med den &quot;inre kritikern&quot; från [Mental styrka](/sv/education/mental-strength/):
 
 Den inre kritikern var:
 - Att förstöra självförtroendet efter misstag
@@ -112,7 +112,7 @@ Skapade en specifik process i tre steg:
 
 **3. Teamkommunikation**
 
-Från [Team Dynamics](/sv/utbildning/lagspelare/kommunikation):
+Från [Team Dynamics](/sv/education/team-player/kommunikation):
 - Delade den inre kritikerutmaningen med lagkamrater
 - Bad om stöd för att förbli positiv
 - Skapade en teamkultur med konstruktiv feedback
@@ -145,7 +145,7 @@ Jean var tekniskt briljant men:
 
 ### Den mentala spelanalysen
 
-Med hjälp av principer från [Team Dynamics](/sv/utbildning/lagspelare/):
+Med hjälp av principer från [Team Dynamics](/sv/education/team-player/):
 
 Problemet var inte tekniskt – det var psykologiskt:
 - Brist på förtroende för lagkamrater
@@ -165,7 +165,7 @@ Implementerad strukturerad kommunikation:
 
 **2. Bygga förtroende**
 
-Från [Lagspelare](/sv/utbildning/lagspelare/):
+Från [Lagspelare](/sv/education/team-player/):
 - Övade på att verbalisera förtroende
 - Delat beslutsfattande
 - Firade lagkamraternas framgångar
@@ -218,9 +218,9 @@ Alla spelare såg konkreta förbättringar i tävlingsresultaten, inte bara &quo
 ::: tip Din tur
 Vilken fallstudie stämmer överens med din erfarenhet?
 
-- **Kämpar du under press?** → Börja med [Zonen](/sv/utbildning/zonen/)
-- **Negativt självprat?** → Utforska [Mental styrka](/sv/utbildning/mental-styrka/)
-- **Utmaningar i laget?** → Studera [Lagdynamik](/sv/utbildning/lagspelare/)
+- **Kämpar du under press?** → Börja med [Zonen](/sv/education/the-zone/)
+- **Negativt självprat?** → Utforska [Mental styrka](/sv/education/mental-strength/)
+- **Utmaningar i laget?** → Studera [Lagdynamik](/sv/education/team-player/)
 
 Använd [Målmallen](/sv/målmall) för att skapa din egen mentala spelutvecklingsplan.
 :::

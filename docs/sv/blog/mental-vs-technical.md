@@ -150,7 +150,7 @@ Men mental spelutveckling? Det är där massiva vinster fortfarande är möjliga
 - Identifiering av utlösare för flödestillstånd
 - Inre coach kontra inre kritikerarbete
 
-Se vårt avsnitt [Utbildning](/sv/utbildning/) för specifika tekniker.
+Se vårt avsnitt [Utbildning](/sv/education/) för specifika tekniker.
 
 ## Den obekväma sanningen
 
@@ -189,9 +189,9 @@ Spåra:
 ### 4. Använd utbildningsmodulerna
 
 Börja med:
-1. [Zonen](/sv/utbildning/zonen/) - Förstå flödestillstånd
-2. [Mental styrka](/sv/utbildning/mental-styrka/) - Bygg upp pressförmåga
-3. [Mindfulness](/sv/utbildning/mindfulness/) - Utveckla fokus i nuet
+1. [Zonen](/sv/education/the-zone/) - Förstå flödestillstånd
+2. [Mental styrka](/sv/education/mental-strength/) - Bygg upp pressförmåga
+3. [Mindfulness](/sv/education/mindfulness/) - Utveckla fokus i nuet
 
 ## Slutsats
 
@@ -205,11 +205,11 @@ De spelare som gör denna förändring – som anammar mental träning som sitt 
 
 ---
 
-## Related Resources
+## Relaterade resurser
 
-- [The Zone: Understanding Flow State](/en/education/the-zone/)
-- [Case Studies: Elite Players in Action](/en/case-studies)
-- [Goal Template](/en/goal-template) - Plan your mental game development
+- [Zonen: Att förstå flödestillstånd](/sv/education/the-zone/)
+- [Fallstudier: Elitspelare i aktion](/sv/fallstudier)
+- [Målmall](/sv/målmall) - Planera din mentala spelutveckling
 
-**Questions or comments?** Email [patrik.wiik@gmail.com](mailto:patrik.wiik@gmail.com)
+**Frågor eller kommentarer?** Mejla [patrik.wiik@gmail.com](mailto:patrik.wiik@gmail.com)
 

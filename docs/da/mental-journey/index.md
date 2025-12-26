@@ -79,17 +79,17 @@ graph TD
 ### Mulighed 1: Selvstudium (for spillere)
 
 **Uge 1: Forståelse af det grundlæggende**
-1. Læs modulet [Zonen](/da/uddannelse/zonen/)
+1. Læs modulet [Zonen](/da/education/the-zone/)
 2. Prøv 3-åndedræts-nulstillingsteknikken
 3. Læg mærke til, hvornår du er i &quot;teknisk tilstand&quot; versus &quot;flowtilstand&quot;
 
 **Uge 2: Opbygning af bevidsthed**
-1. Læs modulet [Mental styrke](/da/uddannelse/mental-styrke/)
+1. Læs modulet [Mental styrke](/da/education/mental-styrke/)
 2. Identificér dine indre kritikmønstre
 3. Øv neutral observation efter fejl
 
 **Uge 3: Skab struktur**
-1. Læs [Mindfulness](/da/uddannelse/mindfulness/) modulet
+1. Læs [Mindfulness](/da/education/mindfulness/) modulet
 2. Start med 5-minutters daglig træning
 3. Udvikl en simpel rutine før indtagelse
 
@@ -167,7 +167,7 @@ Mental træning erstatter ikke teknisk øvelse. Men det hjælper dig med at få 
 ## Tilgængelige ressourcer
 
 ### For spillere
-- [Uddannelsesmoduler](/da/uddannelse/) - 8 omfattende guider
+- [Uddannelsesmoduler](/da/education/) - 8 omfattende guider
 - [Målskabelon](/da/målskabelon) - Strukturer din udvikling
 - [Skabelon til dagbog](/da/skabelon-til-dagbog) - Følg dine fremskridt
 - [Casestudier](/da/casestudier) - Virkelige eksempler
@@ -181,7 +181,7 @@ Mental træning erstatter ikke teknisk øvelse. Men det hjælper dig med at få 
 ## Næste trin
 
 ### For individuelle spillere
-1. **Start med bevidsthed** - Læs [Zonen](/da/uddannelse/zonen/)
+1. **Start med bevidsthed** - Læs [Zonen](/da/education/the-zone/)
 2. **Prøv én teknik** - Brug 3-åndedræts-nulstillingen i denne uge
 3. **Spor din oplevelse** - Bemærk, hvilke ændringer der sker
 4. **Udbyg gradvist** - Tilføj én ny færdighed om ugen
@@ -205,7 +205,7 @@ Mental træning erstatter ikke teknisk øvelse. Men det hjælper dig med at få 
 ---
 
 ::: tip Klar til at begynde?
-**Spillere:** Start med modulet [Zonen](/da/uddannelse/zonen/)
+**Spillere:** Start med modulet [Zonen](/da/education/the-zone/)
 
 **Trænere:** Gå til [Sessionsguide](/da/mental-journey/sessionsguide)
 

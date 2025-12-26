@@ -189,7 +189,7 @@ Sett spesielt av tid til mentale ferdigheter:
 
 ## I denne delen
 
-- **[Treningsøvelser](/no/utdanning/trening/øvelser)** - Spesifikke øvelser for ulike ferdigheter
+- **[Treningsøvelser](/no/utdanning/training/øvelser)** - Spesifikke øvelser for ulike ferdigheter
 
 ## Viktig konklusjon
 

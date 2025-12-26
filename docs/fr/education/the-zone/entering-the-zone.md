@@ -90,7 +90,7 @@ Une bonne routine comporte les éléments suivants :
 :::
 
 ::: details 4. Visualisation (Brève, 2-3 secondes)
-- Suivez la trajectoire de la balle.
+- Observez la trajectoire de la balle.
 - Ressentez le lancer réussi
 - Entrez en contact avec votre cible
 
@@ -125,7 +125,7 @@ L&#39;endroit où vous portez votre attention a une importance capitale.
 | **Externe** ✅ | Objectif et résultat | &quot;Atterrissez juste là&quot;<br/> &quot;Voyez le chemin&quot;<br/> &quot;Toucher la cible&quot; |
 
 ::: tip Résultats de la recherche
-Les études montrent régulièrement que **la concentration sur des éléments extérieurs donne de meilleurs résultats** chez les joueurs confirmés. Votre corps sait ce qu&#39;il a à faire : laissez-le agir.
+Des études montrent régulièrement que **la concentration sur des éléments extérieurs donne de meilleurs résultats** chez les joueurs confirmés. Votre corps sait ce qu&#39;il a à faire : laissez-le agir.
 :::
 
 ### Pratique axée sur l&#39;extérieur
@@ -202,7 +202,7 @@ Un mot ou une phrase déclencheur peut instantanément modifier votre état ment
 ::: tip Mots déclencheurs populaires
 - &quot;Lisse&quot;
 - &quot;Confiance&quot;
-- &quot;Vois-le, sois-le&quot;
+- « Vois-le, sois-le »
 - &quot;Lâcher&quot;
 - &quot;Couler&quot;
 - &quot;Facile&quot;
@@ -245,7 +245,7 @@ graph LR
 | **Arrêt | Faites une pause, ne réagissez pas immédiatement. | Ne levez pas les mains, ne jurez pas |
 | **Observer | Remarquez ce qui s&#39;est passé sans porter de jugement. | « La balle est partie à gauche », et non « Je suis nul ». |
 | **Accepter | C&#39;est arrivé, c&#39;est terminé | On ne peut pas changer le passé |
-| **Glisser | Lâchez prise, libérez-vous-en | Revenez au moment présent |
+| **Glisser | Lâchez prise, libérez-vous. | Revenez au moment présent |
 
 ::: warning Compétence essentielle
 Cela demande de l&#39;entraînement, mais cela évite la spirale de frustration qui interrompt la concentration. Intégrez la méthode SOAS au quotidien pour qu&#39;elle devienne automatique en compétition.

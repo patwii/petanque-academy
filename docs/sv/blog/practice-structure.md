@@ -10,7 +10,7 @@ All träning är inte likadan. Två spelare kan spendera samma timmar på terrä
 ## Problemet med ostrukturerad praktik
 
 De flesta fritidsaktiviteter ser ut så här:
-- Dyk upp, kasta lite boule
+- Kom och kasta lite boule
 - Spela några vardagsspel
 - Chatta med vänner
 - Gå hem
@@ -236,5 +236,5 @@ Strukturera din träning med ett syfte, och varje timme räknas mer.
 
 ---
 
-| *Relaterat: [Utbildningsmetoder](/sv/utbildning/träning/) | [Träningsövningar](/sv/utbildning/träning/övningar) | [Målsättning](/sv/utbildning/mål/)* |
+| *Relaterat: [Utbildningsmetoder](/sv/education/training/) | [Träningsövningar](/sv/education/training/övningar) | [Målsättning](/sv/education/goals/)* |
 

@@ -165,9 +165,9 @@ Din berättelse kan hjälpa andra spelare att upptäcka dessa resurser.
 Redo att utveckla ditt mentala spel?
 
 ::: tip Börja här
-- **Nybörjare på mental träning?** → [Zonen](/sv/utbildning/zonen/)
-- **Kämpar du med press?** → [Mental styrka](/sv/utbildning/mental-styrka/)
-- **Utmaningar i laget?** → [Lagdynamik](/sv/utbildning/lagspelare/)
+- **Nybörjare på mental träning?** → [Zonen](/sv/education/the-zone/)
+- **Kämpar du med press?** → [Mental styrka](/sv/education/mental-strength/)
+- **Utmaningar i laget?** → [Lagdynamik](/sv/education/team-player/)
 - **Vill du ha struktur?** → [Målmall](/sv/målmall)
 :::
 

@@ -36,7 +36,7 @@ Den robuste spiller behandler disse som midlertidige hindringer. Den ikke-robust
 
 Modstandsdygtige spillere ser tilbageslag som information, ikke identitet.
 
-### Kontrollerbart fokus
+### Kontrollerbare fokus
 
 Modstandsdygtige spillere fokuserer på, hvad de kan kontrollere:
 - Deres forberedelse
@@ -75,7 +75,7 @@ Du kan ikke opbygge modstandsdygtighed uden at møde udfordringer:
 - Konkurrer mod bedre spillere
 - Sæt dig selv i pressede situationer
 
-### 3. Udvikl rutiner for genopretning
+### 3. Udvikl rutiner for restitution
 
 Skab ritualer for at komme tilbage:
 
@@ -189,5 +189,5 @@ Modstandsdygtighed er ikke en egenskab, du har eller ikke har – det er en fær
 
 ---
 
-| *Relateret: [Mental styrke](/da/uddannelse/mental-styrke/) | [Håndtering af pres](/da/uddannelse/mental-styrke/håndtering-af-pres) | [Zonen](/da/uddannelse/zonen/)* |
+| *Relateret: [Mental styrke](/da/education/mental-styrke/) | [Håndtering af pres](/da/education/mental-styrke/håndtering-af-pres) | [Zonen](/da/education/the-zone/)* |
 

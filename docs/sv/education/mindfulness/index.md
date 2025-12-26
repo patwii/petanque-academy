@@ -166,8 +166,8 @@ graph LR
 
 ## I detta avsnitt
 
-- **[Tekniker](/sv/utbildning/mindfulness/tekniker)** - Praktiska övningar du kan använda
-- **[Daglig övning](/sv/utbildning/mindfulness/daglig-övning)** - Bygg in mindfulness i ditt liv
+- **[Tekniker](/sv/education/mindfulness/tekniker)** - Praktiska övningar du kan använda
+- **[Daglig övning](/sv/education/mindfulness/daglig-övning)** - Bygg in mindfulness i ditt liv
 
 ## Sammanfattning: Mindfulnessregler
 

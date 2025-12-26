@@ -160,7 +160,7 @@ Metas não atingidas não são fracassos — são dados:
 
 1. **Analise**: Por que isso não foi alcançado?
 2. **Aprenda**: O que isso te ensina?
-3. **Ajustar**: Modificar o objetivo ou a abordagem.
+3. **Ajustar**: Modificar a meta ou a abordagem.
 4. **Continuação:** A persistência vence a perfeição.
 
 ## O Jogo Mental dos Objetivos

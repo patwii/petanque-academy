@@ -52,7 +52,7 @@ Ett verkligt resultat ser ut så här:
 - &quot;Jag vill ha ett rullande skott som svänger åt vänster i den här typen av terräng&quot;
 - &quot;Jag vill ha ett mjukt, devanterat skott som knappt nuddar målklotet&quot;
 
-**Först, utforska [Paletten av kast](/sv/tekniska/kast)** för att förstå vad som är möjligt. Bestäm sedan vilket specifikt kast du vill lägga till i din repertoar. Först då bör du börja arbeta med hur din arm, handled och kropp behöver röra sig för att skapa det resultatet.
+**Först, utforska [Paletten av kast](/sv/technical/throws)** för att förstå vad som är möjligt. Bestäm sedan vilket specifikt kast du vill lägga till i din repertoar. Först då bör du börja arbeta med hur din arm, handled och kropp behöver röra sig för att skapa det resultatet.
 
 ## Rätt sätt att arbeta med teknik
 
@@ -66,7 +66,7 @@ Vi säger inte att du aldrig ska arbeta med din arm, handled, frigörelse eller 
 
 Här är processen:
 
-1. **Utforska [Kastpaletten](/sv/tekniska/kast)** — Identifiera vilket kast eller vilken teknik du vill lägga till i din repertoar
+1. **Utforska [Kastpaletten](/sv/technical/throws)** — Identifiera vilket kast eller vilken teknik du vill lägga till i din repertoar
 2. **Visualisera resultatet** — Vad ska klotet göra? Vilken bana, landning, snurr och beteende behöver du?
 3. **Arbeta sedan med utförandet** — Nu kan du fokusera på arm, handled, kroppsposition och släpp för att uppnå det specifika resultatet
 
@@ -91,10 +91,10 @@ Om du justerar din teknik för att &quot;slå oftare&quot; eller &quot;vara mer 
 ::: tip Den mentala kopplingen
 Inkonsekvens under press är sällan ett tekniskt problem – det är ett mentalt.
 
-**För konsekvens och prestation under press, utforska vår sektion [Utbildning](/sv/utbildning/), särskilt:
-- [Zonen](/sv/utbildning/zonen/) — Skapar förutsättningar för topprestationer
-- [Mental styrka](/sv/utbildning/mental-styrka/) — Prestera när det gäller
-- [Teknisk vs Flöde](/sv/utbildning/zonen/teknisk-vs-flöde) — När man ska fokusera på teknik kontra förtroende
+**För konsekvens och prestation under press, utforska vår sektion [Utbildning](/sv/education/), särskilt:
+- [Zonen](/sv/education/the-zone/) — Skapar förutsättningar för topprestationer
+- [Mental styrka](/sv/education/mental-strength/) — Prestera när det gäller
+- [Teknisk vs Flöde](/sv/education/the-zone/teknisk-vs-flöde) — När man ska fokusera på teknik kontra förtroende
 :::
 
 ## Vårt perspektiv
@@ -128,14 +128,14 @@ Om du har ett tekniskt fokus och vill utöka din repertoar, beskriver det här a
 
 ## Ämnen
 
-### [Kastpalett](/sv/tekniska/kast)
+### [Kastpalett](/sv/technical/throws)
 Vilka kast finns det? En omfattande översikt över de tekniska möjligheterna inom boule.
 
 ::: tip Efter tekniken, vad händer nu?
 När du väl har en gedigen teknik kommer den verkliga utvecklingen från:
-- **[Zonen](/sv/utbildning/zonen/)** - Åtkomst till flödestillstånd
-- **[Mental styrka](/sv/utbildning/mental-styrka/)** - Hantering av press
-- **[Träningsmetoder](/sv/utbildning/träning/)** - Hur man övar effektivt
+- **[Zonen](/sv/education/the-zone/)** - Åtkomst till flödestillstånd
+- **[Mental styrka](/sv/education/mental-strength/)** - Hantering av press
+- **[Träningsmetoder](/sv/education/training/)** - Hur man övar effektivt
 :::
 
 <AdBanner />

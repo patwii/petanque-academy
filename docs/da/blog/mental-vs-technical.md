@@ -150,7 +150,7 @@ Men mental spiludvikling? Det er dér, hvor massive gevinster stadig er mulige.
 - Identifikation af flowtilstandstrigger
 - Indre coach vs. indre kritiker arbejde
 
-Se vores afsnit [Uddannelse](/da/uddannelse/) for specifikke teknikker.
+Se vores afsnit [Uddannelse](/da/education/) for specifikke teknikker.
 
 ## Den ubehagelige sandhed
 
@@ -184,14 +184,14 @@ Spore:
 - Restitutionstid efter fejl
 - Konsistens under pres
 - Flowtilstandsfrekvens
-- Overholdelse af rutine før vaccination
+- Overholdelse af rutine før indsprøjtning
 
 ### 4. Brug uddannelsesmodulerne
 
 Start med:
-1. [Zonen](/da/uddannelse/zonen/) - Forstå flowtilstande
-2. [Mental styrke](/da/uddannelse/mental-styrke/) - Opbyg presfærdigheder
-3. [Mindfulness](/da/uddannelse/mindfulness/) - Udvikle fokus i nuet
+1. [Zonen](/da/education/the-zone/) - Forstå flowtilstande
+2. [Mental styrke](/da/education/mental-styrke/) - Opbyg presfærdigheder
+3. [Mindfulness](/da/education/mindfulness/) - Udvikle fokus i nuet
 
 ## Konklusion
 
@@ -205,11 +205,11 @@ De spillere, der foretager dette skift – som omfavner mental træning som dere
 
 ---
 
-## Related Resources
+## Relaterede ressourcer
 
-- [The Zone: Understanding Flow State](/en/education/the-zone/)
-- [Case Studies: Elite Players in Action](/en/case-studies)
-- [Goal Template](/en/goal-template) - Plan your mental game development
+- [Zonen: Forståelse af flowtilstand](/da/education/the-zone/)
+- [Casestudier: Elitespillere i aktion](/da/casestudier)
+- [Målskabelon](/da/målskabelon) - Planlæg din mentale spiludvikling
 
-**Questions or comments?** Email [patrik.wiik@gmail.com](mailto:patrik.wiik@gmail.com)
+**Spørgsmål eller kommentarer?** E-mail [patrik.wiik@gmail.com](mailto:patrik.wiik@gmail.com)
 

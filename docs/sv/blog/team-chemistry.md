@@ -158,7 +158,7 @@ Kemi handlar inte om att alla är likadana – det handlar om att olikheter fung
 - Skuld efter misstag
 - Brist på kommunikation
 - Spelar som individer, inte som ett lag
-- Brödra snarare än njuta av matcher
+- Att hellre bäva än att njuta av matcher
 
 ### Återuppbyggnad av kemi
 
@@ -210,5 +210,5 @@ Kemi är inte statisk – den kräver underhåll:
 
 ---
 
-| *Relaterat: [Lagdynamik](/sv/utbildning/lagspelare/) | [Kommunikation](/sv/utbildning/lagspelare/kommunikation) | [Ledarskap i boule](/sv/blogg/lagledarskap)* |
+| *Relaterat: [Lagdynamik](/sv/education/team-player/) | [Kommunikation](/sv/education/team-player/kommunikation) | [Ledarskap i boule](/sv/blogg/lagledarskap)* |
 

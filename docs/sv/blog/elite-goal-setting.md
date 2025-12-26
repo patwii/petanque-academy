@@ -30,7 +30,7 @@ Dessa ger vägledning och motivation men är inte handlingsbara dagligen.
 ### Nivå 2: Prestationsmål (säsong/år)
 Mätbara förbättringar i ditt spel:
 - &quot;Öka skjutnoggrannheten från 60 % till 70 %&quot;
-- &quot;Minska oönskade fel med 25 %&quot;
+- &quot;Minska otvingade fel med 25 %&quot;
 - &quot;Utveckla en pålitlig plombé&quot;
 
 Dessa är inom din kontroll och mätbara.
@@ -174,5 +174,5 @@ Hitta den perfekta platsen där målen utmanar utan att bli överväldigande.
 
 ---
 
-| *Relaterat: [Introduktion till målsättning](/sv/utbildning/mål/) | [SMART-mål](/sv/utbildning/mål/smarta-mål) | [Planera din utveckling](/sv/utbildning/mål/planering)* |
+| *Relaterat: [Introduktion till målsättning](/sv/education/goals/) | [SMART-mål](/sv/education/goals/smarta-mål) | [Planera din utveckling](/sv/education/goals/planering)* |
 

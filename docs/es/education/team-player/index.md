@@ -184,7 +184,7 @@ Los grandes equipos desarrollan compartido:
 
 ## En esta sección
 
-- **[Comunicación en equipo](/es/educacion/jugador-de-equipo/comunicacion)** - Guía detallada para comunicarse eficazmente
+- **[Comunicación en equipo](/es/education/team-player/comunicacion)** - Guía detallada para comunicarse eficazmente
 
 ## Conclusión clave
 

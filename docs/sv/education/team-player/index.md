@@ -184,7 +184,7 @@ Bra team utvecklas gemensamt:
 
 ## I detta avsnitt
 
-- **[Teamkommunikation](/sv/utbildning/lagspelare/kommunikation)** - Detaljerad guide till effektiv kommunikation
+- **[Teamkommunikation](/sv/education/team-player/kommunikation)** - Detaljerad guide till effektiv kommunikation
 
 ## Viktig slutsats
 

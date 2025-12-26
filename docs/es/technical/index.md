@@ -91,9 +91,9 @@ Si estás ajustando tu técnica para &quot;golpear más a menudo&quot; o &quot;s
 ::: tip La conexión mental
 La inconsistencia bajo presión rara vez es un problema técnico: es un problema mental.
 
-**Para lograr consistencia y rendimiento bajo presión, explora nuestra sección [Educación](/es/educacion/)**, en particular:
-- [La Zona](/es/educacion/la-zona/) — Creando condiciones para un rendimiento máximo
-- [Fuerza mental](/es/educacion/fuerza-mental/) — Actuando cuando importa
+**Para lograr consistencia y rendimiento bajo presión, explora nuestra sección [Educación](/es/education/)**, en particular:
+- [La Zona](/es/education/the-zone/) — Creando condiciones para un rendimiento máximo
+- [Fuerza mental](/es/education/fuerza-mental/) — Actuando cuando importa
 - [Técnica vs. Flujo](/es/education/the-zone/technical-vs-flow) — Cuándo centrarse en la técnica vs. en la confianza
 :::
 
@@ -128,14 +128,14 @@ Si tiene un enfoque técnico y desea ampliar su repertorio, esta sección descri
 
 ## Temas
 
-### [Paleta de Lanzamientos](/es/técnico/lanzamientos)
+### [Paleta de Lanzamientos](/es/technical/throws)
 ¿Qué lanzamientos hay? Un resumen completo de las posibilidades técnicas en la petanca.
 
 ::: tip Después de la técnica, ¿qué sigue?
 Una vez que tienes una técnica sólida, el verdadero crecimiento proviene de:
-- **[La Zona](/es/educacion/la-zona/)** - Acceso a estados de flujo
-- **[Fuerza mental](/es/educacion/fuerza-mental/)** - Manejo de la presión
-- **[Métodos de entrenamiento](/es/educacion/entrenamiento/)** - Cómo practicar eficazmente
+- **[La Zona](/es/education/the-zone/)** - Acceso a estados de flujo
+- **[Fuerza mental](/es/education/fuerza-mental/)** - Manejo de la presión
+- **[Métodos de entrenamiento](/es/education/training/)** - Cómo practicar eficazmente
 :::
 
 <AdBanner />

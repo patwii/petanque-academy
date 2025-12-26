@@ -43,14 +43,14 @@ Hemos lanzado **8 módulos educativos integrales** que cubren todo, desde los es
 
 | Módulo | ¿Qué hay dentro? | Características principales |
 |--------|---------------|--------------|
-| **[La Zona](/es/educacion/la-zona/)** | Dominio del estado de flujo | 4 guías detalladas sobre cómo ingresar y mantener el flujo |
-| **[Fuerza mental](/es/educacion/fuerza-mental/)** | Manejo de presión | Rutinas previas al disparo, gestión de la crítica interna |
-| **[Atención plena](/es/educación/atención plena/)** | Conciencia del momento presente | Prácticas diarias, técnicas de competición. |
-| **[Metas](/es/educación/metas/)** | Planificación estratégica | Objetivos SMART, jerarquía, sistemas de seguimiento |
-| **[Tácticas](/es/educación/tácticas/)** | Estrategia de juego | Toma de decisiones, probabilidad, posicionamiento |
-| **[Jugador de equipo](/es/educacion/jugador-de-equipo/)** | Habilidades de colaboración | Comunicación, confianza, dinámica de equipo. |
-| **[Formación](/es/educacion/formacion/)** | Métodos de práctica | Ejercicios, práctica deliberada, progresión. |
-| **[Nutrición](/es/educacion/nutricion/)** | Combustible de alto rendimiento | Manejo del azúcar en sangre, nutrición para competición |
+| **[La Zona](/es/education/the-zone/)** | Dominio del estado de flujo | 4 guías detalladas sobre cómo ingresar y mantener el flujo |
+| **[Fuerza mental](/es/education/fuerza-mental/)** | Manejo de presión | Rutinas previas al disparo, gestión de la crítica interna |
+| **[Atención plena](/es/education/mindfulness/)** | Conciencia del momento presente | Prácticas diarias, técnicas de competición. |
+| **[Metas](/es/education/goals/)** | Planificación estratégica | Objetivos SMART, jerarquía, sistemas de seguimiento |
+| **[Tácticas](/es/education/tactics/)** | Estrategia de juego | Toma de decisiones, probabilidad, posicionamiento |
+| **[Jugador de equipo](/es/education/team-player/)** | Habilidades de colaboración | Comunicación, confianza, dinámica de equipo. |
+| **[Formación](/es/education/formacion/)** | Métodos de práctica | Ejercicios, práctica deliberada, progresión. |
+| **[Nutrición](/es/education/nutricion/)** | Combustible de alto rendimiento | Manejo del azúcar en sangre, nutrición para competición |
 
 ### 🛠️ Herramientas prácticas
 
@@ -139,22 +139,22 @@ Los jugadores de élite ya dominan la técnica. El siguiente avance proviene del
 **Comienza con lo fundamental:**
 
 1. **[Ambición](/es/ambición)** - Entender la filosofía detrás del desarrollo de élite
-2. **[La Zona](/es/educacion/la-zona/)** - Aprende sobre los estados de flujo
+2. **[La Zona](/es/education/the-zone/)** - Aprende sobre los estados de flujo
 3. **[Plantilla de objetivos](/es/goal-template)** - Establece tus primeros objetivos estructurados
 
 ### Para jugadores experimentados
 
 **Profundice en temas avanzados:**
 
-1. **[Fuerza Mental](/es/educacion/fuerza-mental/)** - Domina las situaciones de presión
-2. **[Tácticas](/es/educación/tácticas/)** - Refinar la toma de decisiones estratégicas
+1. **[Fuerza Mental](/es/education/fuerza-mental/)** - Domina las situaciones de presión
+2. **[Tácticas](/es/education/tactics/)** - Refinar la toma de decisiones estratégicas
 3. **[Taller](/es/taller)** - Implementar sesiones de juego mental estructuradas
 
 ### Para equipos
 
 **Construir la excelencia colectiva:**
 
-1. **[Jugador de equipo](/es/educacion/jugador-de-equipo/)** - Mejora la dinámica del equipo
+1. **[Jugador de equipo](/es/education/team-player/)** - Mejora la dinámica del equipo
 2. **[Training Camp](/es/training-camp)** - Organiza intensivos de fin de semana
 3. **[Sesión de capacitación](/es/sesion-de-capacitacion)** - Estructurar las prácticas del equipo
 

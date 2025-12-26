@@ -103,7 +103,7 @@ Chegue preparado para a apresentação:
 
 Veja o sucesso antes que ele aconteça:
 - Visualize cenários específicos que você poderá enfrentar.
-- Imagine-se lidando bem com a pressão.
+- Você se vê lidando bem com a pressão.
 - Sinta a confiança de um bom desempenho.
 
 ### Definição de metas
@@ -229,7 +229,7 @@ A pressa causada por um planejamento inadequado gera estresse desnecessário.
 ### Não:
 - Ficar acordado até tarde preocupado
 - Estratégia de análise excessiva
-- Consumir álcool ou alimentos pesados
+- Consumir álcool ou alimentos pesados.
 - Envolver-se em atividades estressantes
 
 ## Manhã de competição

@@ -31,7 +31,7 @@ Wer seine Technik intensiv übt, stärkt das **bewusste Gespür** für seine Bew
 
 **Beispiel aus dem Gelände:**
 
-*Anfänger:* Um die Übung richtig auszuführen, muss man an „Knie beugen, sanftes Loslassen, durchziehen“ denken.
+*Anfänger:* Um die Übung richtig auszuführen, muss man an „Knie beugen, sanft loslassen, durchziehen“ denken.
 
 *Spitzenspieler:* Hat bereits über 10.000 Stunden trainiert. Die Bewegung ist automatisiert. Allein der Gedanke an „Knie beugen“ stört das trainierte Bewegungsmuster.
 
@@ -138,7 +138,7 @@ Aber mentale Spielentwicklung? Genau da sind noch enorme Fortschritte möglich.
 ### Wie mentales Training aussieht
 
 **Nicht dies:**
-- &quot;Einfach entspannen&quot;
+- &quot;Entspann dich einfach&quot;
 - &quot;Denk nicht darüber nach.&quot;
 - &quot;Sei selbstbewusst&quot;
 
@@ -205,11 +205,11 @@ Die Spieler, die diesen Wandel vollziehen – die das mentale Training als ihren
 
 ---
 
-## Related Resources
+## Verwandte Ressourcen
 
-- [The Zone: Understanding Flow State](/en/education/the-zone/)
-- [Case Studies: Elite Players in Action](/en/case-studies)
-- [Goal Template](/en/goal-template) - Plan your mental game development
+- [Die Zone: Den Flow-Zustand verstehen](/en/education/the-zone/)
+- [Fallstudien: Spitzenspieler in Aktion](/en/case-studies)
+- [Zielvorlage](/en/goal-template) - Plane deine mentale Spielentwicklung
 
-**Questions or comments?** Email [patrik.wiik@gmail.com](mailto:patrik.wiik@gmail.com)
+**Fragen oder Anmerkungen?** E-Mail an [patrik.wiik@gmail.com](mailto:patrik.wiik@gmail.com)
 

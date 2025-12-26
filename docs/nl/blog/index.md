@@ -10,9 +10,9 @@ De paradox van topsportontwikkeling: naarmate je technische vaardigheden toeneme
 
 ---
 
-### [The Science Behind Flow States](/en/blog/flow-state-science)
+### [De wetenschap achter flow-toestanden](/en/blog/flow-state-science)
 
-What actually happens in your brain when you're "in the zone"? Understanding the neuroscience of flow states can help you access them more consistently.
+Wat gebeurt er nu precies in je hersenen als je &quot;in de flow&quot; bent? Inzicht in de neurowetenschap achter flow-toestanden kan je helpen om ze consistent te ervaren.
 
 ---
 

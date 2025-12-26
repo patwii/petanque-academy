@@ -362,7 +362,7 @@ Piensa en un error reciente. Sigue los tres pasos.
 **Recursos:**
 - Entregar hoja resumen
 - Compartir sitio web: carreau.app
-- Módulo de inicio recomendado: [La Zona](/es/educacion/la-zona/)
+- Módulo de inicio recomendado: [La Zona](/es/education/the-zone/)
 
 **Círculo de cierre:**
 &quot;Una palabra para describir cómo te sientes ahora mismo.&quot;

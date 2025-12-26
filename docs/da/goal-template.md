@@ -293,7 +293,7 @@ Hvert mål bør være forbundet med din dybere motivation:
 
 - [Workshop](/da/workshop) - Gruppesessioner om målsætning og mentalt spil
 - [Træningssession](/da/træningssession) - Øvelse med ansvarlighedspartnere
-- [Mental styrke](/da/uddannelse/mental-styrke) - Opbyg tankegangen til at nå dine mål
+- [Mental styrke](/da/education/mental-styrke) - Opbyg tankegangen til at nå dine mål
 - [Skabelon til træningsdagbog](/da/dagbogskabelon) - Daglig træningsregistrering
 
 ---

@@ -97,7 +97,7 @@ Enkele woorden die je focus verankeren:
 
 ### Visualisatie
 
-Vóór de hogedrukshots:
+Vóór hogedrukshots:
 1. Sluit even je ogen.
 2. Zie hoe de boule naar zijn doel vliegt.
 3. Voel de succesvolle worp in je lichaam.

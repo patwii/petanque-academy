@@ -189,15 +189,15 @@ Pista:
 ### 4. Utilice los módulos educativos
 
 Empezar con:
-1. [La Zona](/es/educacion/la-zona/) - Comprender los estados de flujo
-2. [Fuerza mental](/es/educacion/fuerza-mental/) - Desarrollar habilidades de presión
-3. [Mindfulness](/es/educacion/mindfulness/) - Desarrollar la concentración en el momento presente
+1. [La Zona](/es/education/the-zone/) - Comprender los estados de flujo
+2. [Fuerza mental](/es/education/fuerza-mental/) - Desarrollar habilidades de presión
+3. [Mindfulness](/es/education/mindfulness/) - Desarrollar la concentración en el momento presente
 
 ## Conclusión
 
 El camino al rendimiento de élite no es practicar más técnicamente, sino entrenar la mente de forma más inteligente. Tu técnica ya es lo suficientemente buena. La pregunta es: ¿puedes acceder a ella cuando importa?
 
-Los jugadores que hacen este cambio —que adoptan el entrenamiento mental como su principal foco de desarrollo— son los que superan las mesetas de rendimiento y alcanzan una excelencia constante.
+Los jugadores que hacen este cambio —que adoptan el entrenamiento mental como su principal enfoque de desarrollo— son los que superan las mesetas de rendimiento y alcanzan una excelencia constante.
 
 **La elección es tuya:** Sigue entrenando como un principiante o comienza a entrenar como un jugador de élite.
 
@@ -205,11 +205,11 @@ Los jugadores que hacen este cambio —que adoptan el entrenamiento mental como 
 
 ---
 
-## Related Resources
+## Recursos relacionados
 
-- [The Zone: Understanding Flow State](/en/education/the-zone/)
-- [Case Studies: Elite Players in Action](/en/case-studies)
-- [Goal Template](/en/goal-template) - Plan your mental game development
+- [La Zona: Entendiendo el Estado de Flujo](/es/education/the-zone/)
+- [Estudios de caso: Jugadores de élite en acción](/es/estudios-de-caso)
+- [Plantilla de objetivo](/es/goal-template) - Planifica el desarrollo de tu juego mental
 
-**Questions or comments?** Email [patrik.wiik@gmail.com](mailto:patrik.wiik@gmail.com)
+**¿Preguntas o comentarios?** Correo electrónico: [patrik.wiik@gmail.com](mailto:patrik.wiik@gmail.com)
 

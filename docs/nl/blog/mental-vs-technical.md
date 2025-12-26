@@ -205,11 +205,11 @@ De spelers die deze omschakeling maken – die mentale training als hun belangri
 
 ---
 
-## Related Resources
+## Gerelateerde bronnen
 
-- [The Zone: Understanding Flow State](/en/education/the-zone/)
-- [Case Studies: Elite Players in Action](/en/case-studies)
-- [Goal Template](/en/goal-template) - Plan your mental game development
+- [De Zone: Inzicht in de Flow-toestand](/en/education/the-zone/)
+- [Casestudies: Topspelers in actie](/en/case-studies)
+- [Doelsjabloon](/en/goal-template) - Plan je mentale spelontwikkeling
 
-**Questions or comments?** Email [patrik.wiik@gmail.com](mailto:patrik.wiik@gmail.com)
+**Vragen of opmerkingen?** Stuur een e-mail naar [patrik.wiik@gmail.com](mailto:patrik.wiik@gmail.com)
 

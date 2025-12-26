@@ -184,7 +184,7 @@ Gode teams udvikler sig delt:
 
 ## I dette afsnit
 
-- **[Teamkommunikation](/da/uddannelse/teamspiller/kommunikation)** - Detaljeret guide til effektiv kommunikation
+- **[Teamkommunikation](/da/education/teamspiller/kommunikation)** - Detaljeret guide til effektiv kommunikation
 
 ## Vigtig konklusion
 

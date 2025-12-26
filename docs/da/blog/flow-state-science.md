@@ -162,5 +162,5 @@ Som med enhver færdighed forbedres adgangen til flow med øvelse:
 
 ---
 
-| *Relateret: [Zonen](/da/uddannelse/zonen/) | [Indtræden i zonen](/da/uddannelse/zonen/indtræden-i-zonen) | [Mindfulness-teknikker](/da/uddannelse/mindfulness/teknikker)* |
+| *Relateret: [Zonen](/da/education/the-zone/) | [Indtræden i zonen](/da/education/the-zone/indtræden-i-zonen) | [Mindfulness-teknikker](/da/education/mindfulness/teknikker)* |
 

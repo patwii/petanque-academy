@@ -10,9 +10,9 @@ Le paradoxe du développement des athlètes de haut niveau : à mesure que vos 
 
 ---
 
-### [The Science Behind Flow States](/en/blog/flow-state-science)
+### [La science derrière les états de flow](/en/blog/flow-state-science)
 
-What actually happens in your brain when you're "in the zone"? Understanding the neuroscience of flow states can help you access them more consistently.
+Que se passe-t-il réellement dans votre cerveau lorsque vous êtes « dans la zone » ? Comprendre les mécanismes neuroscientifiques des états de flow peut vous aider à y accéder plus régulièrement.
 
 ---
 
@@ -24,7 +24,7 @@ Même les joueurs expérimentés commettent ces erreurs courantes lorsqu&#39;ils
 
 ## Jeu mental
 
-- Comprendre sa voix intérieure critique — Apprenez à reconnaître et à gérer les pensées négatives que l&#39;on se fait sur soi.
+- Comprendre sa voix intérieure critique — Apprenez à reconnaître et à gérer les pensées négatives que vous vous adressez.
 - [Créer des routines d&#39;avant-prise de vue](/en/blog/pre-shot-routines) — Créez des routines qui vous permettent de vous concentrer pleinement.
 - Gestion de la pression — Maîtrisez l&#39;art de performer sous pression
 

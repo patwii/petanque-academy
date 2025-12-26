@@ -166,8 +166,8 @@ Pronto a sviluppare la tua mentalità?
 
 ::: tip Inizia qui
 - **Nuovo nell&#39;allenamento mentale?** → [The Zone](/it/education/the-zone/)
-- **Hai difficoltà con la pressione?** → [Forza mentale](/it/educazione/forza-mentale/)
-- **Sfide di squadra?** → [Dinamiche di squadra](/it/istruzione/giocatore-di-squadra/)
+- **Hai difficoltà con la pressione?** → [Forza mentale](/it/education/mental-strength/)
+- **Sfide di squadra?** → [Dinamiche di squadra](/it/education/giocatore-di-squadra/)
 - **Vuoi una struttura?** → [Modello obiettivo](/it/goal-template)
 :::
 

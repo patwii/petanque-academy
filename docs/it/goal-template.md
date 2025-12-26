@@ -293,7 +293,7 @@ Ogni obiettivo dovrebbe essere collegato alla tua motivazione più profonda:
 
 - [Workshop](/it/workshop) - Sessioni di gruppo sulla definizione degli obiettivi e sul gioco mentale
 - [Sessione di formazione](/it/training-session) - Esercitati con i partner responsabili
-- [Forza mentale](/it/educazione/forza-mentale) - Sviluppa la mentalità per raggiungere gli obiettivi
+- [Forza mentale](/it/education/mental-strength) - Sviluppa la mentalità per raggiungere gli obiettivi
 - [Modello di diario di allenamento](/it/diary-template) - Monitoraggio della pratica quotidiana
 
 ---

@@ -189,7 +189,7 @@ Dediker specifikt tid til mentale færdigheder:
 
 ## I dette afsnit
 
-- **[Træningsøvelser](/da/uddannelse/træning/øvelser)** - Specifikke øvelser til forskellige færdigheder
+- **[Træningsøvelser](/da/education/træning/øvelser)** - Specifikke øvelser til forskellige færdigheder
 
 ## Vigtig konklusion
 

@@ -100,7 +100,7 @@ Palabras individuales que anclan tu enfoque:
 Antes de disparos de alta presión:
 1. Cierra los ojos brevemente
 2. Vea la bola viajando hacia su objetivo
-3. Siente el lanzamiento exitoso en tu cuerpo.
+3. Siente el lanzamiento exitoso en tu cuerpo
 4. Abre los ojos y ejecuta
 
 ## Tolerancia a la presión del edificio
@@ -119,7 +119,7 @@ No se puede aprender a manejar la presión sin experimentarla. Crea presión en 
 Aumente gradualmente la exposición a la presión:
 1. Practica solo sin apuestas
 2. Practica con un compañero de entrenamiento que te observe.
-3. Practica con pequeñas consecuencias
+3. Práctica con pequeñas consecuencias
 4. Partidos amistosos
 5. Competiciones de clubes
 6. Torneos regionales
@@ -160,5 +160,5 @@ La clave es canalizar esta energía productivamente en lugar de dejar que nos ab
 
 ---
 
-| *Relacionado: [Manejo de la presión](/es/educacion/fuerza-mental/manejo-de-la-presion) | [Rutina pre-disparo](/es/educacion/fuerza-mental/rutina-pre-disparo) | [La Zona](/es/educacion/la-zona/)* |
+| *Relacionado: [Manejo de la presión](/es/education/fuerza-mental/manejo-de-la-presion) | [Rutina pre-disparo](/es/education/fuerza-mental/rutina-pre-disparo) | [La Zona](/es/education/the-zone/)* |
 

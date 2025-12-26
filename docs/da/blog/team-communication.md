@@ -78,7 +78,7 @@ Brug &quot;jeg&quot;-udsagn til dine egne handlinger, &quot;vi&quot; til teamsit
 
 ## Hvad man IKKE skal kommunikere
 
-### Undgå under trykmomenter
+### Undgå under presmomenter
 
 - Tekniske instruktioner (&quot;Hold albuen inde&quot;)
 - Kritik af tidligere kast
@@ -210,5 +210,5 @@ Ord er ikke altid nødvendige. Forbindelse er.
 
 ---
 
-| *Relateret: [Holddynamik](/da/uddannelse/holdspiller/) | [Kommunikation](/da/uddannelse/holdspiller/kommunikation) | [Håndtering af pres](/da/uddannelse/mental-styrke/håndtering-af-pres)* |
+| *Relateret: [Holddynamik](/da/education/team-player/) | [Kommunikation](/da/education/team-player/kommunikation) | [Håndtering af pres](/da/education/mental-styrke/håndtering-af-pres)* |
 

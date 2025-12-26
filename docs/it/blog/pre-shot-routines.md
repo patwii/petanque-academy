@@ -9,7 +9,7 @@ La differenza tra un buon lancio e un lancio eccellente spesso si nota prima anc
 
 ## Perché le routine pre-tiro sono importanti
 
-Gli atleti d&#39;élite di tutti gli sport utilizzano routine pre-tiro. Nella boccia, dove ogni tiro è discreto e la pressione può aumentare tra un tiro e l&#39;altro, le routine hanno molteplici scopi:
+Gli atleti d&#39;élite di tutti gli sport utilizzano routine pre-tiro. Nella pétanque, dove ogni tiro è discreto e la pressione può aumentare tra un tiro e l&#39;altro, le routine hanno molteplici scopi:
 
 - **Coerenza**: la stessa preparazione porta a un&#39;esecuzione più coerente
 - **Focus**: Assegna alla tua mente un compito costruttivo invece di preoccuparti
@@ -92,7 +92,7 @@ La tua routine dovrebbe essere:
 Se la tua routine dura più di 30 secondi, stai pensando troppo. Le routine lunghe danno più tempo all&#39;ansia di accumularsi.
 
 ### Troppo rigido
-Se un&#39;interruzione distrugge la tua routine, significa che è troppo fragile. Sviluppa la flessibilità: se qualcosa interrompe la tua concentrazione, crea un trigger che ti permetta di resettarla.
+Se un&#39;interruzione distrugge la tua routine, significa che è troppo fragile. Sviluppa la flessibilità: se qualcosa interrompe la tua concentrazione, crea un trigger di reset.
 
 ### Saltare sotto pressione
 La routine è più importante quando la pressione è alta. Se la abbandoni quando sei stressato, perdi i suoi benefici protettivi.
@@ -132,5 +132,5 @@ Altrettanto importante è ciò che fai dopo un lancio:
 
 ---
 
-| *Correlato: [Guida alla routine pre-tiro](/it/istruzione/forza-mentale/routine-pre-tiro) | [Gestire la pressione](/it/educazione/forza-mentale/gestire-la-pressione) | [Tecniche di consapevolezza](/it/educazione/consapevolezza/tecniche)* |
+| *Correlato: [Guida alla routine pre-tiro](/it/education/mental-strength/routine-pre-tiro) | [Gestire la pressione](/it/education/mental-strength/gestire-la-pressione) | [Tecniche di consapevolezza](/it/education/mindfulness/tecniche)* |
 

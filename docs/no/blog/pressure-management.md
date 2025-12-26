@@ -82,7 +82,7 @@ Når presset føles overveldende:
 
 ### Begrens fokuset ditt
 
-Press kommer ofte av å tenke for langt fremover. Gjør oppmerksom på:
+Press kommer ofte av å tenke for langt fremover. Gjør oppmerksomheten din rettet mot:
 - Bare dette kastet
 - Bare dette øyeblikket
 - Prosessen, ikke resultatet
@@ -111,7 +111,7 @@ Du kan ikke lære å håndtere press uten å oppleve det. Skap press i praksis:
 
 - **Konsekvensøvelser**: Bommer, og du gjør push-ups
 - **Konkurransesimulering**: Øv med noe på spill
-- **Publikumspraksis**: Inviter folk til å se treningen din
+- **Publikumsprøving**: Inviter folk til å se på treningen din
 - **Tretthetstrening**: Tren når du er sliten
 
 ### Eksponeringsstige
@@ -128,7 +128,7 @@ Du kan ikke lære å håndtere press uten å oppleve det. Skap press i praksis:
 ## Strategier i kampen
 
 ### Før kampen
-- Kom tidlig, bli kjent med terrenget
+- Kom tidlig, gjør deg kjent med terrenget
 - Fullfør oppvarmingsrutinen din
 - Bruk positiv selvsnakk
 - Visualiser vellykket ytelse

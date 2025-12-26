@@ -253,5 +253,5 @@ Incluso los buenos líderes fallan a veces:
 
 ---
 
-| *Relacionado: [Dinámica de equipo](/es/educacion/jugador-de-equipo/) | [Comunicación](/es/educación/jugador-de-equipo/comunicación) | [Desarrollando la química en equipo](/es/blog/quimica-de-equipo)* |
+| *Relacionado: [Dinámica de equipo](/es/education/team-player/) | [Comunicación](/es/education/team-player/comunicación) | [Desarrollando la química en equipo](/es/blog/quimica-de-equipo)* |
 

@@ -236,5 +236,5 @@ Struttura la tua pratica con uno scopo preciso e ogni ora conterà di più.
 
 ---
 
-| *Correlato: [Metodi di formazione](/it/educazione/formazione/) | [Esercitazioni di allenamento](/it/istruzione/formazione/esercitazioni) | [Fissazione degli obiettivi](/it/istruzione/obiettivi/)* |
+| *Correlato: [Metodi di formazione](/it/education/training/) | [Esercitazioni di allenamento](/it/education/training/esercitazioni) | [Fissazione degli obiettivi](/it/education/goals/)* |
 

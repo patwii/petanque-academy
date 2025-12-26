@@ -459,8 +459,8 @@ Review your diary weekly to spot:
 - [Skabelon til målsætning](/da/målskabelon) - Sæt og spor dine forbedringsmål
 - [Workshop](/da/workshop) - Gruppesessioner om mentalt spil og refleksion
 - [Træningssession](/da/træningssession) - Struktureret øvelse med ligemænd
-- [Mental styrke](/da/uddannelse/mental-styrke) - Opbyg mental modstandsdygtighed
-- [Mindfulness](/da/uddannelse/mindfulness) - Udvikle bevidsthed og fokus
+- [Mental styrke](/da/education/mental-styrke) - Opbyg mental modstandsdygtighed
+- [Mindfulness](/da/education/mindfulness) - Udvikle bevidsthed og fokus
 
 ---
 

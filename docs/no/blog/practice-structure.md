@@ -236,5 +236,5 @@ Strukturer treningen din med et formål, og hver time teller mer.
 
 ---
 
-| *Relatert: [Opplæringsmetoder](/no/utdanning/opplæring/) | [Treningsøvelser](/no/utdanning/trening/øvelser) | [Målsetting](/no/utdanning/mål/)* |
+| *Relatert: [Opplæringsmetoder](/no/utdanning/training/) | [Treningsøvelser](/no/utdanning/training/øvelser) | [Målsetting](/no/utdanning/goals/)* |
 

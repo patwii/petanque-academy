@@ -14,7 +14,7 @@ Forskning viser at strømningstilstander krever visse betingelser:
 
 ```mermaid
 graph TD
-    A[Flyttilstand] --> B[Balanse mellom utfordringer/ferdigheter]
+    A[Flyttilstand] --> B[Balanse mellom utfordringer og ferdigheter]
     A --> C[Klare mål]
     A --> D[Umiddelbar tilbakemelding]
     A --> E[Totalt fokus]

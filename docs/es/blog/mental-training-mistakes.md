@@ -30,7 +30,7 @@ Las habilidades mentales son habilidades: requieren la misma práctica constante
 
 ### El problema
 
-Los jugadores suelen recurrir al entrenamiento mental solo después de un mal rendimiento o durante una mala racha. Lo ven como una terapia más que como una herramienta de desarrollo.
+Los jugadores suelen recurrir al entrenamiento mental solo después de un mal rendimiento o durante una mala racha. Lo ven como una terapia más que como un desarrollo.
 
 ### Por qué falla
 
@@ -159,5 +159,5 @@ El juego mental se puede entrenar. Entrénalo bien.
 
 ---
 
-| *Relacionado: [Fuerza mental](/es/educacion/fuerza-mental/) | [Métodos de formación](/es/educación/formación/) | [Atención plena](/es/educación/atención plena/)* |
+| *Relacionado: [Fuerza mental](/es/education/fuerza-mental/) | [Métodos de formación](/es/education/training/) | [Atención plena](/es/education/mindfulness/)* |
 

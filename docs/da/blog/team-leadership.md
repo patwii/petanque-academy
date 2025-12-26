@@ -253,5 +253,5 @@ Selv gode ledere fejler nogle gange:
 
 ---
 
-| *Relateret: [Holddynamik](/da/uddannelse/holdspiller/) | [Kommunikation](/da/uddannelse/holdspiller/kommunikation) | [Opbygning af teamkemi](/da/blog/teamkemi)* |
+| *Relateret: [Holddynamik](/da/education/team-player/) | [Kommunikation](/da/education/team-player/kommunikation) | [Opbygning af teamkemi](/da/blog/teamkemi)* |
 

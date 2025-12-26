@@ -166,5 +166,5 @@ Den spiller, der er fuldt til stede ved hvert kast, mens andre er fordybet i tan
 
 ---
 
-| *Relateret: [Introduktion til mindfulness](/da/uddannelse/mindfulness/) | [Mindfulness-teknikker](/da/uddannelse/mindfulness/teknikker) | [Daglig praksis](/da/uddannelse/mindfulness/daglig-praksis)* |
+| *Relateret: [Introduktion til mindfulness](/da/education/mindfulness/) | [Mindfulness-teknikker](/da/education/mindfulness/teknikker) | [Daglig praksis](/da/education/mindfulness/daglig-praksis)* |
 

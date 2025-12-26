@@ -181,7 +181,7 @@ Utvikle evnen til å:
 Øvelse:
 - Tydelig og konsis melding
 - Aktiv lytting
-- Gi konstruktiv tilbakemelding
+- Gir konstruktiv tilbakemelding
 - Vanskelige samtaler
 
 ### Beslutningstaking

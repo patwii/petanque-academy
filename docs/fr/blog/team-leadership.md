@@ -47,7 +47,7 @@ Gérer l&#39;énergie et le moral de l&#39;équipe :
 Contribuer à la réflexion stratégique :
 - Bien lire le jeu
 - Offrir des perspectives précieuses
-- Détecter des schémas que les autres ne remarquent pas
+- Détecter des schémas que les autres ne remarquent pas.
 - Réfléchir à l&#39;avenir
 
 ## Le leader efficace
@@ -115,7 +115,7 @@ Les frictions au sein de l&#39;équipe sont inévitables :
 Lorsqu&#39;un coéquipier est moins performant :
 - N&#39;ajoutez pas de pression
 - Offrir un soutien spécifique et positif
-- Ajustez votre stratégie si nécessaire.
+- Adapter la stratégie si nécessaire
 - Gardez confiance en eux
 
 ### Gérer ses propres difficultés
@@ -243,7 +243,7 @@ Les dirigeants relèvent les défis :
 Même les bons dirigeants échouent parfois :
 - Des mauvaises décisions se produisent
 - Des équipes perdent malgré un bon leadership
-- Les relations sont mises à rude épreuve
+- Les relations sont tendues
 
 **Récupération:**
 1. Reconnaissez ce qui s&#39;est passé

@@ -45,7 +45,7 @@ Les capacités mentales acquises en situation de crise sont fragiles. On ne peut
 
 **N&#39;oubliez pas :** Le meilleur moment pour développer sa force mentale, c&#39;est quand on n&#39;en a pas désespérément besoin.
 
-## Erreur n° 3 : s’attendre à des résultats immédiats
+## Erreur n° 3 : Attendre des résultats instantanés
 
 ### Le problème
 
@@ -87,7 +87,7 @@ L&#39;entraînement mental n&#39;est pas une solution universelle. Ce qui foncti
 - Qu&#39;est-ce qui a fonctionné pour moi par le passé ?
 - Qu&#39;est-ce qui me semble authentique ?
 
-## Erreur n° 5 : Séparer l’entraînement mental et l’entraînement physique
+## Erreur n° 5 : Séparer l’entraînement mental et physique
 
 ### Le problème
 
@@ -136,7 +136,7 @@ Entraînement mental efficace :
 
 ## Bien démarrer
 
-Si vous débutez l&#39;entraînement mental :
+Si vous débutez un entraînement mental :
 
 1. **Évaluez** honnêtement votre état mental actuel
 2. **Identifier** 1 à 2 domaines spécifiques à améliorer

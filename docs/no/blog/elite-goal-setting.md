@@ -54,7 +54,7 @@ Ikke «forbedre pekingen min», men «utvikle en konsistent demiportée som land
 Definer hvordan du skal spore fremdriften:
 - Suksessrateprosenter
 - Konsistensmålinger
-- Markører for videoanalyse
+- Videoanalysemarkører
 
 ### Oppnåelig, men utfordrende
 Målet bør kreve vekst, men være realistisk. En skytter på 60 % som sikter mot 65 % er oppnåelig; en sikting mot 90 % er fantasi.
@@ -174,5 +174,5 @@ Finn det optimale punktet der målene utfordrer uten å bli overveldende.
 
 ---
 
-| *Relatert: [Introduksjon til målsetting](/no/utdanning/mål/) | [SMART-mål](/no/utdanning/mål/smarte-mål) | [Planlegging av utviklingen din](/no/utdanning/mål/planlegging)* |
+| *Relatert: [Introduksjon til målsetting](/no/utdanning/goals/) | [SMART-mål](/no/utdanning/goals/smarte-mål) | [Planlegging av utviklingen din](/no/utdanning/goals/planlegging)* |
 

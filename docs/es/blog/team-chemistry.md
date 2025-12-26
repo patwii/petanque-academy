@@ -3,7 +3,7 @@ title: Building Team Chemistry
 description: Develop the intangible bonds that transform individual players into a cohesive pétanque team. Learn how chemistry is built, maintained, and leveraged.
 ---
 
-# Desarrollando la química del equipo
+# Construyendo química en equipo
 
 Ya lo has visto: equipos donde el todo supera a la suma de las partes. Jugadores que se anticipan, se apoyan mutuamente y rinden mejor juntos que solos. Esto es química de equipo, y no es casualidad.
 
@@ -210,5 +210,5 @@ La química no es estática: requiere mantenimiento:
 
 ---
 
-| *Relacionado: [Dinámica de equipo](/es/educacion/jugador-de-equipo/) | [Comunicación](/es/educación/jugador-de-equipo/comunicación) | [Liderazgo en la petanca](/es/blog/liderazgo-de-equipo)* |
+| *Relacionado: [Dinámica de equipo](/es/education/team-player/) | [Comunicación](/es/education/team-player/comunicación) | [Liderazgo en la petanca](/es/blog/liderazgo-de-equipo)* |
 

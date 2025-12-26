@@ -46,7 +46,7 @@ Lançamos **8 módulos educacionais abrangentes** que cobrem tudo, desde estados
 | **[A Zona](/en/education/the-zone/)** | Domínio do estado de fluxo | 4 guias detalhados sobre como entrar e manter o fluxo |
 | **[Força Mental](/en/education/mental-strength/)** | manuseio de pressão | Rotinas pré-filmagem, gerenciamento do crítico interno |
 | **[Atenção plena](/en/education/mindfulness/)** | Consciência do momento presente | Práticas diárias, técnicas de competição |
-| **[Metas](/en/educação/metas/)** | Planejamento estratégico | Metas SMART, hierarquia, sistemas de acompanhamento |
+| **[Metas](/en/education/goals/)** | Planejamento estratégico | Metas SMART, hierarquia, sistemas de acompanhamento |
 | **[Táticas](/en/education/tactics/)** | Estratégia de jogo | Tomada de decisão, probabilidade, posicionamento |
 | **[Jogador de Equipe](/en/education/team-player/)** | Habilidades de colaboração | Comunicação, confiança, dinâmica de equipe |
 | **[Treinamento](/en/education/training/)** | Métodos de prática | Exercícios, prática deliberada, progressão |

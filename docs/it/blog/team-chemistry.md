@@ -86,7 +86,7 @@ Le attività intenzionali aiutano:
 
 Affrontare i problemi prima che si aggravino:
 - Creare spazio per una conversazione onesta
-- Concentrarsi sui comportamenti, non sulle personalità
+- Concentrati sui comportamenti, non sulle personalità
 - Cerca soluzioni, non colpevolizzazioni
 
 ### Festeggiamo insieme
@@ -210,5 +210,5 @@ La chimica non è statica, richiede manutenzione:
 
 ---
 
-| *Correlato: [Dinamiche di squadra](/it/education/team-player/) | [Comunicazione](/it/istruzione/giocatore-di-squadra/comunicazione) | [Leadership nel gioco delle bocce](/it/blog/team-leadership)* |
+| *Correlato: [Dinamiche di squadra](/it/education/team-player/) | [Comunicazione](/it/education/giocatore-di-squadra/comunicazione) | [Leadership nel gioco delle bocce](/it/blog/team-leadership)* |
 

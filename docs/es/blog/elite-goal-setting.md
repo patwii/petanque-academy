@@ -174,5 +174,5 @@ Encuentra el punto ideal donde los objetivos sean un desafío sin abrumar.
 
 ---
 
-| *Relacionado: [Introducción al establecimiento de metas](/es/educacion/metas/) | [Objetivos SMART](/es/educacion/objetivos/objetivos-inteligentes) | [Planificando tu desarrollo](/es/educacion/objetivos/planificacion)* |
+| *Relacionado: [Introducción al establecimiento de metas](/es/education/goals/) | [Objetivos SMART](/es/education/goals/objetivos-inteligentes) | [Planificando tu desarrollo](/es/education/goals/planificacion)* |
 

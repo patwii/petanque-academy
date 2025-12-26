@@ -66,14 +66,14 @@ Die Spieler müssen sich sicher fühlen, um:
 - Meinungen und Bedenken äußern
 - Seien Sie sie selbst, ohne sich zu verstellen.
 
-## Chemieaufbau: Praktische Schritte
+## Chemie aufbauen: Praktische Schritte
 
 ### Gemeinsame Zeit
 
 Chemie erfordert Investitionen:
 - Üben Sie regelmäßig zusammen.
 - Verbringt gemeinsam Zeit abseits des Geländes
-- Teilen Sie Erfahrungen jenseits von Pétanque
+- Teilen Sie Erfahrungen, die über Pétanque hinausgehen
 
 ### Strukturierte Teambildung
 

@@ -86,10 +86,10 @@ Die Zeit zwischen den Würfen ist die Zeit, in der die Gedanken am ehesten absch
 
 ### Während Druckmomenten
 
-Wenn am meisten auf dem Spiel steht:
+Wenn es am meisten auf dem Spiel steht:
 
 1. **Entschleunigen Sie**: Atmen Sie tief durch.
-2. **Erde dich**: Spüre deine Füße, den Boule-Boden
+2. **Erde dich**: Spüre deine Füße, die Boule
 3. **Enger Fokus**: Nur dieser Wurf
 4. **Vertrauen**: Loslassen von der Ergebnisorientierung.
 

@@ -39,7 +39,7 @@ Une bonne routine avant le tir comporte trois phases :
 - Libérer sans réfléchir
 - Suivre naturellement
 
-## Élaborer sa routine personnelle
+## Créer sa routine personnelle
 
 ### Étape 1 : Observez vos habitudes actuelles
 

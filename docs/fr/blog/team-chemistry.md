@@ -14,7 +14,7 @@ La cohésion d&#39;équipe désigne la qualité des relations et des interaction
 - **Confiance** : Confiance dans les capacités et les intentions de l’autre
 - **Compréhension** : Savoir comment ses coéquipiers pensent et jouent
 - **Communication** : Échange d&#39;informations efficace
-- **Soutien** : Encouragement et aide mutuels
+- **Soutien** : Encouragement et assistance mutuels
 - **Plaisir** : Un véritable plaisir à jouer ensemble
 
 ## Pourquoi la chimie est importante
@@ -27,7 +27,7 @@ La cohésion d&#39;équipe désigne la qualité des relations et des interaction
 - Restez ensemble plus longtemps
 
 Équipes sans alchimie :
-- Se rejeter la faute des échecs
+- Se rejeter la faute les uns sur les autres en cas d&#39;échec
 - Communication difficile en situation de stress
 - Sous-performer par rapport au talent individuel
 - Vivez des conflits et de la frustration
@@ -75,9 +75,9 @@ La chimie exige un investissement :
 - Passez du temps ensemble en dehors du terrain.
 - Partagez des expériences au-delà de la pétanque
 
-### Construction d&#39;équipe structurée
+### Constitution d&#39;équipe structurée
 
-Les activités intentionnelles aident :
+Les activités intentionnelles aident :
 - séances de définition d&#39;objectifs d&#39;équipe
 - Débriefings d&#39;après-match (constructifs)
 - Discussions sur les styles de jeu et les préférences

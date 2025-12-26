@@ -6,13 +6,13 @@ Artigos aprofundados sobre domínio do jogo mental, desempenho de elite e a psic
 
 ### [Por que os jogadores de elite precisam de treinamento mental](/en/blog/mental-vs-technical)
 
-O paradoxo do desenvolvimento de elite: à medida que sua habilidade técnica aumenta, o treinamento mental se torna mais importante. Descubra por que essa proporção se inverte e o que isso significa para o seu plano de treinamento.
+O paradoxo do desenvolvimento de elite: à medida que sua habilidade técnica aumenta, o treinamento mental se torna mais importante. Entenda por que essa proporção se inverte e o que isso significa para o seu plano de treinamento.
 
 ---
 
-### [The Science Behind Flow States](/en/blog/flow-state-science)
+### [A Ciência por Trás dos Estados de Fluxo](/en/blog/flow-state-science)
 
-What actually happens in your brain when you're "in the zone"? Understanding the neuroscience of flow states can help you access them more consistently.
+O que realmente acontece no seu cérebro quando você está &quot;no auge da concentração&quot;? Compreender a neurociência dos estados de fluxo pode ajudá-lo a acessá-los com mais frequência.
 
 ---
 
@@ -31,7 +31,7 @@ Até mesmo jogadores experientes cometem esses erros comuns ao iniciar o treinam
 ## Psicologia do Desempenho
 
 - [A Ciência por Trás dos Estados de Fluxo](/en/blog/flow-state-science) — Entenda a neurociência do desempenho máximo
-- [Mindfulness in Competition](/en/blog/mindfulness-competition) — Mantenha-se presente quando mais importa
+- [Mindfulness in Competition](/en/blog/mindfulness-competition) — Esteja presente quando mais importa
 - [Definição de Metas para Atletas de Elite](/en/blog/elite-goal-setting) — Estratégias avançadas de definição de metas
 - Resiliência Mental — Recupere-se mais forte dos contratempos.
 

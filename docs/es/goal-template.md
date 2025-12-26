@@ -293,7 +293,7 @@ Cada objetivo debe conectarse con tu motivación más profunda:
 
 - [Taller](/es/taller) - Sesiones grupales sobre establecimiento de objetivos y juego mental
 - [Sesión de capacitación](/es/sesion-de-capacitacion) - Práctica con compañeros de responsabilidad
-- [Fuerza Mental](/es/educacion/fuerza-mental) - Construye la mentalidad para el logro de metas
+- [Fuerza Mental](/es/education/fuerza-mental) - Construye la mentalidad para el logro de metas
 - [Plantilla de diario de entrenamiento](/es/diary-template) - Seguimiento de la práctica diaria
 
 ---

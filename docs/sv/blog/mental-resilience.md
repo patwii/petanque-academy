@@ -18,7 +18,7 @@ Mental motståndskraft är förmågan att:
 
 ## Varför motståndskraft är viktigt i boule
 
-Petanque testar motståndskraften konstant:
+Petanque testar motståndskraften ständigt:
 - En perfekt poäng blir bortskjuten
 - Du missar ett &quot;enkelt&quot; skott
 - Motståndarna gör osannolika comebacker
@@ -189,5 +189,5 @@ Motståndskraft är inte en egenskap du har eller inte har – det är en färdi
 
 ---
 
-| *Relaterat: [Mental styrka](/sv/utbildning/mental-styrka/) | [Hantera press](/sv/utbildning/mental-styrka/hantera-press) | [Zonen](/sv/utbildning/zonen/)* |
+| *Relaterat: [Mental styrka](/sv/education/mental-strength/) | [Hantera press](/sv/education/mental-strength/hantera-press) | [Zonen](/sv/education/the-zone/)* |
 

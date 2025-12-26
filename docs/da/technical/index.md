@@ -52,7 +52,7 @@ Et reelt resultat ser sådan ud:
 - &quot;Jeg vil have et rullende skud, der drejer til venstre i denne type terræn&quot;
 - &quot;Jeg vil have et blødt, devant skud, der næsten ikke rører målkuglen&quot;
 
-**Først skal du udforske [Palette af kast](/da/teknisk/kast)** for at forstå, hvad der er muligt. Beslut derefter, hvilket specifikt kast du vil tilføje til dit repertoire. Først derefter bør du begynde at arbejde med, hvordan din arm, håndled og krop skal bevæge sig for at skabe det resultat.
+**Først skal du udforske [Palette af kast](/da/technical/throws)** for at forstå, hvad der er muligt. Beslut derefter, hvilket specifikt kast du vil tilføje til dit repertoire. Først derefter bør du begynde at arbejde med, hvordan din arm, håndled og krop skal bevæge sig for at skabe det resultat.
 
 ## Den rigtige måde at arbejde med teknik på
 
@@ -66,7 +66,7 @@ Vi siger ikke, at du aldrig skal arbejde med din arm, håndled, aflastning eller
 
 Her er processen:
 
-1. **Udforsk [Palette af kast](/da/teknisk/kast)** — Identificer hvilket kast eller hvilken teknik du vil tilføje til dit repertoire
+1. **Udforsk [Palette af kast](/da/technical/throws)** — Identificer hvilket kast eller hvilken teknik du vil tilføje til dit repertoire
 2. **Visualiser resultatet** — Hvad skal kuglen gøre? Hvilken bane, landing, spin og adfærd har du brug for?
 3. **Arbejd derefter på udførelsen** — Nu kan du fokusere på arm, håndled, kropsposition og frigivelse for at opnå det specifikke resultat
 
@@ -91,10 +91,10 @@ Hvis du justerer din teknik til at &quot;slå oftere&quot; eller &quot;være mer
 ::: tip Den mentale forbindelse
 Inkonsekvens under pres er sjældent et teknisk problem – det er et mentalt.
 
-**For at sikre konsistens og præstation under pres, se vores [Uddannelse](/da/uddannelse/) afsnit**, især:
-- [Zonen](/da/uddannelse/zonen/) — Skaber betingelser for toppræstation
-- [Mental styrke](/da/uddannelse/mental-styrke/) — Præsterer når det betyder noget
-- [Teknisk vs. Flow](/da/uddannelse/zonen/teknisk-vs-flow) — Hvornår skal man fokusere på teknik vs. tillid
+**For at sikre konsistens og præstation under pres, se vores [Uddannelse](/da/education/) afsnit**, især:
+- [Zonen](/da/education/the-zone/) — Skaber betingelser for toppræstation
+- [Mental styrke](/da/education/mental-styrke/) — Præsterer når det betyder noget
+- [Teknisk vs. Flow](/da/education/the-zone/teknisk-vs-flow) — Hvornår skal man fokusere på teknik vs. tillid
 :::
 
 ## Vores perspektiv
@@ -128,14 +128,14 @@ Hvis du har et teknisk fokus og ønsker at udvide dit repertoire, skitserer dett
 
 ## Emner
 
-### [Palette af kast](/da/teknisk/kast)
+### [Palette af kast](/da/technical/throws)
 Hvad er alle de forskellige kast derude? En omfattende oversigt over de tekniske muligheder i petanque.
 
 ::: tip Hvad er det næste efter teknikken?
 Når du først har en solid teknik, kommer den virkelige vækst fra:
-- **[Zonen](/da/uddannelse/zonen/)** - Adgang til flowtilstande
-- **[Mental styrke](/da/uddannelse/mental-styrke/)** - Håndtering af pres
-- **[Træningsmetoder](/da/uddannelse/træning/)** - Sådan træner du effektivt
+- **[Zonen](/da/education/the-zone/)** - Adgang til flowtilstande
+- **[Mental styrke](/da/education/mental-styrke/)** - Håndtering af pres
+- **[Træningsmetoder](/da/education/træning/)** - Sådan træner du effektivt
 :::
 
 <AdBanner />

@@ -39,7 +39,7 @@ Begge fortolkninger skaber ophidselse, men udfordrende tilstande fører til bedr
 
 | Tryktanke | Omformulering |
 |-----------------|---------|
-| &quot;Det her kan jeg ikke gå glip af&quot; | &quot;Jeg må tage dette skud&quot; |
+| &quot;Jeg kan ikke gå glip af dette&quot; | &quot;Jeg må tage dette skud&quot; |
 | &quot;Alle ser på&quot; | &quot;Jeg er klar til dette øjeblik&quot; |
 | &quot;Dette er for vigtigt&quot; | &quot;Det er det, jeg træner til&quot; |
 | &quot;Jeg er så nervøs&quot; | &quot;Jeg er spændt og klar&quot; |
@@ -160,5 +160,5 @@ Nøglen er at kanalisere denne energi produktivt i stedet for at lade den overv�
 
 ---
 
-| *Relateret: [Håndtering af pres](/da/uddannelse/mental-styrke/håndtering-af-pres) | [Rutine før indtagelse](/da/uddannelse/mental-styrke/rutine-før-indtagelse) | [Zonen](/da/uddannelse/zonen/)* |
+| *Relateret: [Håndtering af pres](/da/education/mental-styrke/håndtering-af-pres) | [Rutine før indtagelse](/da/education/mental-styrke/rutine-før-indtagelse) | [Zonen](/da/education/the-zone/)* |
 

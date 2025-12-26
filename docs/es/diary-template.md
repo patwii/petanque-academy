@@ -459,8 +459,8 @@ Review your diary weekly to spot:
 - [Plantilla de establecimiento de objetivos](/es/goal-template) - Establezca y realice un seguimiento de sus objetivos de mejora
 - [Taller](/es/taller) - Sesiones grupales sobre juego mental y reflexión
 - [Sesión de Formación](/es/sesion-de-formacion) - Práctica estructurada con compañeros
-- [Fuerza mental](/es/educacion/fuerza-mental) - Desarrollar resiliencia mental
-- [Mindfulness](/es/educacion/mindfulness) - Desarrollar la conciencia y el enfoque
+- [Fuerza mental](/es/education/fuerza-mental) - Desarrollar resiliencia mental
+- [Mindfulness](/es/education/mindfulness) - Desarrollar la conciencia y el enfoque
 
 ---
 

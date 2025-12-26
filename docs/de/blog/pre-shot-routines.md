@@ -128,7 +128,7 @@ Genauso wichtig ist, was Sie nach einem Wurf tun:
 1. **Akzeptiere das Ergebnis** – ob gut oder schlecht, es ist geschehen.
 2. **Körperliche Auszeit** – einen Schritt zurücktreten, Anspannung lösen.
 3. **Mentale Neuorientierung** – den Wurf aus deinem Kopf verbannen
-4. **Bereite dich auf das Kommende vor** – richte deinen Fokus auf das, was kommt.
+4. **Bereite dich auf das Nächste vor** – richte deinen Fokus auf das, was kommt.
 
 ---
 

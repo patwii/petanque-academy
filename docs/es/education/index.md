@@ -50,28 +50,28 @@ graph TD
 
 ## Nuestras rutas de aprendizaje
 
-### 🎯 [La Zona (Estado de Flujo)](/es/educacion/la-zona/)
+### 🎯 [La Zona (Estado de Flujo)](/es/education/the-zone/)
 Descubre qué es realmente &quot;la zona&quot; y cómo acceder a ella. Comprende la ciencia detrás de los estados de fluidez y descubre técnicas prácticas para rendir al máximo cuando más importa.
 
-### 🧘 [Mindfulness](/es/educación/mindfulness/)
+### 🧘 [Mindfulness](/es/education/mindfulness/)
 Domina el arte de estar presente. Aprende técnicas científicamente probadas para calmar tu mente, mejorar la concentración y recuperarte rápidamente de tus errores.
 
-### 📊 [Establecimiento de metas](/es/educacion/metas/)
+### 📊 [Establecimiento de metas](/es/education/goals/)
 Crea una hoja de ruta para tu desarrollo. Aprende el marco SMART adaptado a la petanca y crea un plan de entrenamiento que realmente funcione.
 
-### 💪 [Fuerza mental](/es/educacion/fuerza-mental/)
+### 💪 [Fuerza mental](/es/education/fuerza-mental/)
 Desarrolla la fortaleza mental necesaria para la competición. Aprende a manejar la presión, superar la ansiedad y desarrollar rutinas que te permitan alcanzar el máximo rendimiento.
 
-### 🤝 [Dinámica de equipo](/es/educacion/jugador-de-equipo/)
+### 🤝 [Dinámica de equipo](/es/education/team-player/)
 Conviértete en el compañero con el que todos quieren jugar. Aprende sobre comunicación, confianza y cómo contribuir a una cultura de equipo ganadora.
 
-### ♟️ [Tácticas](/es/educación/tácticas/)
+### ♟️ [Tácticas](/es/education/tactics/)
 Piensa estratégicamente en cada situación. Aprende a tomar decisiones basadas en probabilidades y a saber cuándo asumir riesgos.
 
-### 🏋️ [Métodos de formación](/es/educacion/formacion/)
+### 🏋️ [Métodos de formación](/es/education/formacion/)
 Entrena de forma más inteligente, no solo más intensa. Aprende a estructurar tu práctica para maximizar tu rendimiento.
 
-### 🥗 [Nutrición](/es/educacion/nutricion/)
+### 🥗 [Nutrición](/es/education/nutricion/)
 Alimenta tu cerebro para un rendimiento preciso. Aprende a mantener la energía y la concentración durante la competición.
 
 <AdInArticle />

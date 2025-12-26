@@ -143,7 +143,7 @@ Problemas que não são resolvidos não desaparecem — eles aumentam.
 
 Equipes fortes geralmente incluem diferentes tipos de personalidade:
 
-- **A pessoa estável**: Calma sob pressão, consistente.
+- **O Firme**: Calmo sob pressão, consistente
 - **O Energizador**: Traz entusiasmo e motivação
 - **O Estrategista**: Pensa no futuro, identifica padrões.
 - **O Competidor**: Impulsiona a vontade de vencer.

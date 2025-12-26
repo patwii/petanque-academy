@@ -67,7 +67,7 @@ La performance de haut niveau exige la maîtrise de la transition entre deux mod
 **Mode d&#39;exécution (à l&#39;intérieur du cercle)**
 - Mouvement automatique
 - Concentration ciblée uniquement
-- Faire confiance à la formation
+- Confiance dans la formation
 - accès à l&#39;état du flux
 
 La plupart des joueurs d&#39;élite restent bloqués en phase de planification lors de l&#39;exécution. Ils doivent travailler le **changement de perspective**, et non la technique.
@@ -205,11 +205,11 @@ Les joueurs qui opèrent ce changement — qui font de l&#39;entraînement menta
 
 ---
 
-## Related Resources
+## Ressources connexes
 
-- [The Zone: Understanding Flow State](/en/education/the-zone/)
-- [Case Studies: Elite Players in Action](/en/case-studies)
-- [Goal Template](/en/goal-template) - Plan your mental game development
+- [La Zone : Comprendre l&#39;état de flux](/en/education/the-zone/)
+- [Études de cas : Les joueurs d&#39;élite en action](/en/case-studies)
+- [Modèle d&#39;objectif](/en/goal-template) - Planifiez votre développement mental
 
-**Questions or comments?** Email [patrik.wiik@gmail.com](mailto:patrik.wiik@gmail.com)
+**Des questions ou des commentaires ?** Envoyez un courriel à [patrik.wiik@gmail.com](mailto:patrik.wiik@gmail.com)
 

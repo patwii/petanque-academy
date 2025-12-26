@@ -238,7 +238,7 @@ Líderes abraçam o desafio:
 - Esforço para melhorar
 - Modelo de crescimento contínuo
 
-## Quando a liderança falha
+## Quando a Liderança Falha
 
 Até mesmo os bons líderes falham às vezes:
 - Decisões erradas acontecem

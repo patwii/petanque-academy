@@ -109,7 +109,7 @@ Integrera mindfulness i din rutin:
 1. **Ankomst**: Gå in i cirkeln med full närvaro
 2. **Andas**: Ett medvetet andetag till centrum
 3. **Se**: Observera terrängen noggrant
-4. **Visualisera**: Se resultatet tydligt
+4. **Visualisera**: Se resultatet med tydlighet
 5. **Känn**: Lägg märke till klotet, din kropp
 6. **Släpp loss**: Släpp taget och lita på
 
@@ -166,5 +166,5 @@ Den spelare som är helt närvarande vid varje kast, medan andra är försjunkna
 
 ---
 
-| *Relaterat: [Introduktion till mindfulness](/sv/utbildning/mindfulness/) | [Mindfulnesstekniker](/sv/utbildning/mindfulness/tekniker) | [Daglig övning](/sv/utbildning/mindfulness/daglig-övning)* |
+| *Relaterat: [Introduktion till mindfulness](/sv/education/mindfulness/) | [Mindfulnesstekniker](/sv/education/mindfulness/tekniker) | [Daglig övning](/sv/education/mindfulness/daglig-övning)* |
 

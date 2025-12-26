@@ -21,7 +21,7 @@ Flow wordt gekenmerkt door:
 
 ## De neurowetenschap van flow
 
-### Veranderingen in de hersenen tijdens een flow-ervaring
+### Hersenveranderingen tijdens een flow-ervaring
 
 Wanneer je in een flow-toestand terechtkomt, ondergaat je brein meetbare veranderingen:
 
@@ -39,7 +39,7 @@ Flow activeert een krachtige mix van neurochemicaliën:
 **Hersengolfverschuivingen**
 Flow hangt samen met verschuivingen van bètagolven (normaal wakker bewustzijn) naar alfa- en thetagolven (ontspannen alertheid en creativiteit).
 
-## De stroomtriggers
+## De Flow Triggers
 
 Onderzoek heeft omstandigheden vastgesteld die de kans op een goede doorstroming vergroten:
 
@@ -148,7 +148,7 @@ Net als bij elke andere vaardigheid, verbetert het bereiken van een flow-ervarin
 ### Dagelijkse oefeningen
 - Mindfulnessmeditatie (verbetert de concentratie)
 - Visualisatie (activeert neurale paden)
-- Fysieke training (legt een vaardigheidsbasis op)
+- Fysieke training (legt een basis voor vaardigheden op)
 
 ### In opleiding
 - Oefen tot het uiterste van je kunnen.

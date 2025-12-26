@@ -15,7 +15,7 @@ De fleste spillere sætter sig resultatmål: &quot;Vind det regionale mesterskab
 - Succes eller fiasko er binært
 - De vejleder ikke den daglige praksis
 
-Elitemålsætning går dybere.
+Elite-målsætning går dybere.
 
 ## Målhierarkiet
 
@@ -83,7 +83,7 @@ Målet skal have betydning for DIG, ikke kun din træner eller dine holdkammerat
 
 ### Styrken ved procesmål
 
-&quot;Udfør min rutine før indtagelse perfekt&quot; tilbyder:
+&quot;Udfør min rutine før vaccination perfekt&quot; tilbyder:
 - Fuld kontrol
 - Klart fokus
 - Øjeblikkelig feedback
@@ -174,5 +174,5 @@ Find det optimale punkt, hvor målene udfordrer uden at blive overvældende.
 
 ---
 
-| *Relateret: [Introduktion til målsætning](/da/uddannelse/mål/) | [SMART Mål](/da/uddannelse/mål/smarte-mål) | [Planlægning af din udvikling](/da/uddannelse/mål/planlægning)* |
+| *Relateret: [Introduktion til målsætning](/da/education/goals/) | [SMART Mål](/da/education/goals/smarte-mål) | [Planlægning af din udvikling](/da/education/goals/planlægning)* |
 

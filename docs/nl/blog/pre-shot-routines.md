@@ -7,7 +7,7 @@ description: Develop a consistent pre-shot routine that anchors your focus, mana
 
 Het verschil tussen een goede en een geweldige worp zit hem vaak al in het moment dat de boule je hand verlaat. Een goed doordachte voorbereiding is je anker in de hectiek van de wedstrijd – een betrouwbare reeks stappen die je lichaam en geest voorbereidt op optimale prestaties.
 
-## Waarom voorbereidingen vóór de opname belangrijk zijn
+## Waarom routines vóór de opname belangrijk zijn
 
 Topsporters in alle sporten gebruiken routines voorafgaand aan een worp. Bij pétanque, waar elke worp op zichzelf staat en de spanning tussen de worpen kan oplopen, dienen deze routines meerdere doelen:
 
@@ -37,7 +37,7 @@ Een goede voorbereiding op een fotosessie bestaat uit drie fasen:
 - Laatste focus op het doel
 - Vertrouw op je lichaam.
 - Loslaten zonder na te denken
-- Volg het natuurlijk op.
+- Ga er natuurlijk mee door
 
 ## Het opbouwen van je persoonlijke routine
 

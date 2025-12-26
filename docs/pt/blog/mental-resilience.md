@@ -135,7 +135,7 @@ Recorra a essas memórias quando os desafios atuais parecerem insuperáveis.
 Esperar a perfeição garante a decepção. A excelência, e não a perfeição, é o objetivo.
 
 ### Catastrofização
-&quot;Errei aquele lance, a partida acabou, sou péssimo.&quot; Um único evento não determina tudo.
+&quot;Errei aquele lance, a partida acabou, sou péssimo.&quot; Um único evento não define tudo.
 
 ### Comparação
 Comparar-se com os outros significa colocar sua confiança nas mãos deles.

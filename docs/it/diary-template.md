@@ -459,8 +459,8 @@ Review your diary weekly to spot:
 - [Modello di definizione degli obiettivi](/it/goal-template) - Definisci e monitora i tuoi obiettivi di miglioramento
 - [Workshop](/it/workshop) - Sessioni di gruppo sul gioco mentale e la riflessione
 - [Sessione di formazione](/it/training-session) - Pratica strutturata con i colleghi
-- [Forza mentale](/it/educazione/forza-mentale) - Sviluppa la resilienza mentale
-- [Mindfulness](/it/educazione/mindfulness) - Sviluppa consapevolezza e concentrazione
+- [Forza mentale](/it/education/mental-strength) - Sviluppa la resilienza mentale
+- [Mindfulness](/it/education/mindfulness) - Sviluppa consapevolezza e concentrazione
 
 ---
 

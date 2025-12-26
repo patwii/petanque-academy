@@ -141,7 +141,7 @@ Aumente gradualmente a exposição à pressão:
 5. Execute (confie no seu treinamento)
 
 ### Após erros
-- Dê um passo para trás fisicamente
+- Dê um passo para trás fisicamente.
 - Uma respiração profunda
 - Deixe o resultado para lá.
 - Concentre-se na próxima oportunidade.

@@ -155,8 +155,8 @@ graph LR
 
 ## I detta avsnitt
 
-- **[Hantera press](/sv/utbildning/mental-styrka/hantera-press)** - Tekniker för situationer med höga insatser
-- **[Rutin före sprutning](/sv/utbildning/mental-styrka/rutin-före-sprutning)** - Bygg din prestationsfaktor
+- **[Hantera press](/sv/education/mental-strength/hantera-press)** - Tekniker för situationer med höga insatser
+- **[Rutin före sprutning](/sv/education/mental-strength/rutin-före-sprutning)** - Bygg din prestationsfaktor
 
 ## Sammanfattning: Regler för mental styrka
 

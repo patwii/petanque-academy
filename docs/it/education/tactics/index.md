@@ -257,7 +257,7 @@ A livello d&#39;élite, lo scouting è importante. Conosci i tuoi avversari prim
 
 ## In questa sezione
 
-- **[Decisioni basate sulla probabilità](/it/educazione/tattiche/probabilità)** - Usare la matematica per fare scelte migliori
+- **[Decisioni basate sulla probabilità](/it/education/tactics/probabilità)** - Usare la matematica per fare scelte migliori
 
 ## Riepilogo: Tutte le regole tattiche
 

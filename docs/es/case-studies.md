@@ -26,7 +26,7 @@ Marcus notó un patrón claro: en los partidos de club, jugaba con libertad y co
 
 ### El análisis del juego mental
 
-Utilizando los principios de [La Zona](/es/educacion/la-zona/), identificamos el problema:
+Utilizando los principios de [La Zona](/es/education/the-zone/), identificamos el problema:
 
 **Confusión entre modo técnico y modo de flujo**
 
@@ -36,21 +36,21 @@ Marcus se mantenía en &quot;modo técnico&quot; durante la ejecución. En los c
 
 **1. Desarrollo de rutina previa al disparo**
 
-Creamos una rutina específica (de [Fuerza Mental](/es/educacion/fuerza-mental/rutina-pre-disparo)):
+Creamos una rutina específica (de [Fuerza Mental](/es/education/fuerza-mental/rutina-pre-disparo)):
 - Círculo exterior: Analizar la situación (30 segundos máximo)
 - Caminando hacia el círculo: respiración de transición
 - En círculo: ojos en el objetivo solamente, entrenamiento de confianza
 
 **2. Práctica de atención plena**
 
-Práctica diaria de 10 minutos utilizando técnicas de [Mindfulness](/es/educacion/mindfulness/practica-diaria):
+Práctica diaria de 10 minutos utilizando técnicas de [Mindfulness](/es/education/mindfulness/practica-diaria):
 - Escaneo corporal para reconocer la tensión
 - Conciencia de la respiración para la competición
 - Entrenamiento de enfoque en el momento presente
 
 **3. Simulación de competición**
 
-Enfoque de formación modificado mediante [Métodos de formación](/es/educacion/formacion/):
+Enfoque de formación modificado mediante [Métodos de formación](/es/education/formacion/):
 - Presión añadida a las sesiones de práctica
 - Practiqué el momento del &quot;cambio&quot; repetidamente
 - Rendimiento registrado en diferentes condiciones
@@ -85,7 +85,7 @@ Sophie era su peor enemiga. Tras un mal lanzamiento:
 
 ### El análisis del juego mental
 
-Problema clásico del &quot;Crítico Interno&quot; de [Fuerza Mental](/es/educacion/fuerza-mental/):
+Problema clásico del &quot;Crítico Interno&quot; de [Fuerza Mental](/es/education/fuerza-mental/):
 
 El crítico interno era:
 - Destruyendo la confianza después de los errores
@@ -112,7 +112,7 @@ Creó un proceso específico de 3 pasos:
 
 **3. Comunicación en equipo**
 
-De [Dinámica de equipo](/es/educacion/jugador-de-equipo/comunicación):
+De [Dinámica de equipo](/es/education/team-player/comunicación):
 - Compartió el desafío del crítico interno con sus compañeros de equipo.
 - Pidió apoyo para mantener una actitud positiva.
 - Creó una cultura de equipo de retroalimentación constructiva.
@@ -145,7 +145,7 @@ Jean era técnicamente brillante pero:
 
 ### El análisis del juego mental
 
-Utilizando los principios de [Dinámica de equipo](/es/educacion/jugador-de-equipo/):
+Utilizando los principios de [Dinámica de equipo](/es/education/team-player/):
 
 El problema no era técnico, sino psicológico:
 - Falta de confianza en los compañeros de equipo
@@ -165,7 +165,7 @@ Comunicación estructurada implementada:
 
 **2. Fomento de la confianza**
 
-De [Jugador de equipo](/es/educacion/jugador-de-equipo/):
+De [Jugador de equipo](/es/education/team-player/):
 - Practicó verbalizar la confianza
 - Toma de decisiones compartida
 - Éxitos celebrados de compañeros de equipo
@@ -218,9 +218,9 @@ Todos los jugadores vieron mejoras concretas en los resultados de la competició
 ::: tip Tu turno
 ¿Qué caso de estudio resuena con tu experiencia?
 
-- **¿Luchando bajo presión?** → Comienza con [La Zona](/es/educacion/la-zona/)
-- **¿Diálogo interno negativo?** → Explora [Fuerza mental](/es/educacion/fuerza-mental/)
-- **¿Desafíos de equipo?** → Estudia [Dinámica de equipo](/es/educacion/jugador-de-equipo/)
+- **¿Luchando bajo presión?** → Comienza con [La Zona](/es/education/the-zone/)
+- **¿Diálogo interno negativo?** → Explora [Fuerza mental](/es/education/fuerza-mental/)
+- **¿Desafíos de equipo?** → Estudia [Dinámica de equipo](/es/education/team-player/)
 
 Utilice la [Plantilla de objetivo](/es/goal-template) para crear su propio plan de desarrollo de juego mental.
 :::

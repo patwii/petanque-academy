@@ -76,7 +76,7 @@ Strategisches Denken einbringen:
 ### Nach dem Wettbewerb
 
 - Geht mit Siegen elegant um.
-- Geht mit Verlusten gelassen um
+- Geht mit Verlusten gelassen um.
 - Leitet konstruktive Nachbesprechungen
 - Pflegt die Beziehungen zum Team
 
@@ -118,7 +118,7 @@ Wenn ein Teammitglied unter seinen Möglichkeiten bleibt:
 - Strategie bei Bedarf anpassen
 - Bewahren Sie Ihr Vertrauen in sie
 
-### Mit den eigenen Problemen umgehen
+### Umgang mit den eigenen Problemen
 
 Auch Führungskräfte haben mit Schwierigkeiten zu kämpfen:
 - Akzeptiere es (dir selbst gegenüber)
@@ -173,7 +173,7 @@ Kenne deine:
 Fähigkeit entwickeln, um:
 - Emotionen erkennen (eigene und die anderer)
 - Verwalten Sie Ihre Antworten
-- Mit den Teamkollegen mitfühlen
+- Mit den Teamkollegen Empathie zeigen
 - Soziale Dynamiken verstehen
 
 ### Kommunikationsfähigkeit
@@ -200,7 +200,7 @@ Man muss kein Kapitän sein, um zu führen:
 - Erscheine vorbereitet
 - Gib dein Bestes
 - Gut mit Widrigkeiten umgehen
-- Unterstütze deine Teamkollegen
+- Unterstütze Teammitglieder
 
 ### Führen durch Unterstützung
 - Ermutige andere
@@ -246,7 +246,7 @@ Auch gute Führungskräfte scheitern manchmal:
 - Beziehungen werden belastet
 
 **Erholung:**
-1. Erkenne an, was geschehen ist
+1. Bestätige, was geschehen ist
 2. Übernehmen Sie die entsprechende Verantwortung
 3. Lerne die Lektionen
 4. Gehe mit Demut voran

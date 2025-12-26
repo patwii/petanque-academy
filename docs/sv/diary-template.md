@@ -459,8 +459,8 @@ Review your diary weekly to spot:
 - [Mall för målsättning](/sv/målmall) - Sätt upp och följ upp dina förbättringsmål
 - [Workshop](/sv/workshop) - Gruppsessioner om mentalt spel och reflektion
 - [Utbildningssession](/sv/utbildningssession) - Strukturerad övning med kollegor
-- [Mental styrka](/sv/utbildning/mental-styrka) - Bygg mental motståndskraft
-- [Mindfulness](/sv/utbildning/mindfulness) - Utveckla medvetenhet och fokus
+- [Mental styrka](/sv/education/mental-strength) - Bygg mental motståndskraft
+- [Mindfulness](/sv/education/mindfulness) - Utveckla medvetenhet och fokus
 
 ---
 

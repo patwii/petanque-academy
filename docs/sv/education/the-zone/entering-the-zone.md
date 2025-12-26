@@ -43,7 +43,7 @@ graph TD
 När dessa sex villkor är i linje blir flöde möjligt. Ditt jobb är att skapa dessa villkor medvetet.
 :::
 
-## Teknik 1: Förbehandlingsrutinen
+## Teknik 1: Rutinen före skottning
 
 Din rutiner före träningen är din inkörsport till zonen. Det är en konsekvent sekvens som signalerar till din hjärna: &quot;Det är dags att genomföra.&quot;
 

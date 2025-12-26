@@ -10,9 +10,9 @@ Il paradosso dello sviluppo d&#39;élite: man mano che le tue capacità tecniche
 
 ---
 
-### [The Science Behind Flow States](/en/blog/flow-state-science)
+### [La scienza dietro gli stati di flusso](/it/blog/flow-state-science)
 
-What actually happens in your brain when you're "in the zone"? Understanding the neuroscience of flow states can help you access them more consistently.
+Cosa succede realmente nel tuo cervello quando sei &quot;nella zona&quot;? Comprendere la neuroscienza degli stati di flusso può aiutarti ad accedervi in modo più costante.
 
 ---
 

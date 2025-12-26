@@ -257,7 +257,7 @@ En la élite, la exploración es fundamental. Conoce a tus oponentes antes de ju
 
 ## En esta sección
 
-- **[Decisiones basadas en probabilidad](/es/educacion/tacticas/probabilidad)** - Usar las matemáticas para tomar mejores decisiones
+- **[Decisiones basadas en probabilidad](/es/education/tacticas/probabilidad)** - Usar las matemáticas para tomar mejores decisiones
 
 ## Resumen: Todas las reglas tácticas
 

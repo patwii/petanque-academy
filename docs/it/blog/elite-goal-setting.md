@@ -174,5 +174,5 @@ Trova il punto ideale in cui gli obiettivi sono stimolanti ma non opprimenti.
 
 ---
 
-| *Correlato: [Introduzione alla definizione degli obiettivi](/it/istruzione/obiettivi/) | [Obiettivi SMART](/it/istruzione/obiettivi/obiettivi-smart) | [Pianificare il tuo sviluppo](/it/istruzione/obiettivi/pianificazione)* |
+| *Correlato: [Introduzione alla definizione degli obiettivi](/it/education/goals/) | [Obiettivi SMART](/it/education/goals/obiettivi-smart) | [Pianificare il tuo sviluppo](/it/education/goals/pianificazione)* |
 

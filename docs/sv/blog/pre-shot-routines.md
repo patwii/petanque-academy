@@ -107,7 +107,7 @@ Din rutin bör avslutas med fokus på resultatet, inte på tekniken. &quot;Träf
 - Ta tid på dig själv för att säkerställa konsekvens
 - Öva med distraktioner för att bygga motståndskraft
 
-### Byggnadsautomation
+### Byggnadsautomatik
 Målet är att din rutin ska bli automatisk – något du gör utan att tänka. Detta kräver upprepning:
 - 100+ kast med samma rutin
 - Konsekvent användning i olika situationer
@@ -132,5 +132,5 @@ Lika viktigt är vad du gör efter ett kast:
 
 ---
 
-| *Relaterat: [Guide till rutiner före skotttagning](/sv/utbildning/mental-styrka/rutin-före-skotttagning) | [Hantera press](/sv/utbildning/mental-styrka/hantera-press) | [Mindfulnesstekniker](/sv/utbildning/mindfulness/tekniker)* |
+| *Relaterat: [Guide till rutiner före skotttagning](/sv/education/mental-strength/rutin-före-skotttagning) | [Hantera press](/sv/education/mental-strength/hantera-press) | [Mindfulnesstekniker](/sv/education/mindfulness/tekniker)* |
 

@@ -64,7 +64,7 @@ Una proporción correcta de entrenamiento está inversamente relacionada con la 
 - **Enfoque mental:** Desarrollar tu rutina previa al rendimiento (PPR)
 
 ### 3. Avanzado (Umbral de Autonomía)
-- La habilidad está en gran medida automatizada.
+- La habilidad está en gran parte automatizada.
 - Tu autoimagen a menudo va por detrás de tu capacidad física
 - La formación se centra en la simulación de presión.
 - **Relación:** 50% Técnico / 50% Mental

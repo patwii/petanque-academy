@@ -144,7 +144,7 @@ Scrivi le tue risposte. Riprendile quando la motivazione svanisce.
 ## In questa sezione
 
 - **[Obiettivi SMART in dettaglio](/it/education/goals/smart-goals)** - Approfondimento sulla creazione di obiettivi efficaci
-- **[Creare il tuo piano di allenamento](/it/educazione/obiettivi/pianificazione)** - Trasforma gli obiettivi in azioni
+- **[Creare il tuo piano di allenamento](/it/education/goals/pianificazione)** - Trasforma gli obiettivi in azioni
 
 ## Riepilogo: Regole per la definizione degli obiettivi
 

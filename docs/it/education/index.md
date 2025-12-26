@@ -50,28 +50,28 @@ graph TD
 
 ## I nostri percorsi di apprendimento
 
-### 🎯 [La Zona (Stato di Flusso)](/it/educazione/la-zona/)
+### 🎯 [La Zona (Stato di Flusso)](/it/education/the-zone/)
 Scopri cos&#39;è veramente la &quot;zona&quot; e come accedervi. Comprendi la scienza alla base degli stati di flusso e scopri tecniche pratiche per dare il massimo quando serve di più.
 
-### 🧘 [Mindfulness](/it/educazione/mindfulness/)
+### 🧘 [Mindfulness](/it/education/mindfulness/)
 Padroneggia l&#39;arte di essere presente. Impara tecniche scientificamente provate per calmare la mente, migliorare la concentrazione e riprenderti rapidamente dagli errori.
 
-### 📊 [Fissazione degli obiettivi](/it/istruzione/obiettivi/)
+### 📊 [Fissazione degli obiettivi](/it/education/goals/)
 Crea una tabella di marcia per il tuo sviluppo. Impara il framework SMART adattato alla pétanque e costruisci un piano di allenamento che funzioni davvero.
 
-### 💪 [Forza mentale](/it/educazione/forza-mentale/)
+### 💪 [Forza mentale](/it/education/mental-strength/)
 Sviluppa la forza mentale necessaria per la competizione. Impara a gestire la pressione, a superare l&#39;ansia e a sviluppare routine che favoriscano le massime prestazioni.
 
 ### 🤝 [Dinamiche di squadra](/it/education/team-player/)
 Diventa il compagno di squadra con cui tutti vogliono giocare. Impara a comunicare, a fidarti e a contribuire a creare una cultura di squadra vincente.
 
-### ♟️ [Tattiche](/it/educazione/tattiche/)
+### ♟️ [Tattiche](/it/education/tactics/)
 Pensa in modo strategico a ogni situazione. Impara a prendere decisioni basate sulle probabilità e a capire quando correre dei rischi.
 
-### 🏋️ [Metodi di allenamento](/it/educazione/formazione/)
+### 🏋️ [Metodi di allenamento](/it/education/training/)
 Allenati in modo più intelligente, non solo più duramente. Impara a strutturare la tua pratica per ottenere il massimo miglioramento.
 
-### 🥗 [Nutrizione](/it/educazione/nutrizione/)
+### 🥗 [Nutrizione](/it/education/nutrition/)
 Alimenta il tuo cervello per prestazioni di precisione. Impara a mantenere energia e concentrazione stabili durante la gara.
 
 <AdInArticle />

@@ -293,7 +293,7 @@ Varje mål bör kopplas till din djupare motivation:
 
 - [Workshop](/sv/workshop) - Gruppsessioner om målsättning och mentalt spel
 - [Utbildningssession](/sv/utbildningssession) - Öva med ansvarspartners
-- [Mental styrka](/sv/utbildning/mental-styrka) - Bygg inställningen för måluppfyllelse
+- [Mental styrka](/sv/education/mental-strength) - Bygg inställningen för måluppfyllelse
 - [Mall för träningsdagbok](/sv/dagbokmall) - Daglig träningsregistrering
 
 ---

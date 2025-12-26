@@ -189,5 +189,5 @@ La resiliencia no es un rasgo que tienes o no tienes: es una habilidad que se de
 
 ---
 
-| *Relacionado: [Fuerza mental](/es/educacion/fuerza-mental/) | [Manejo de la presión](/es/educacion/fuerza-mental/manejo-de-la-presion) | [La Zona](/es/educacion/la-zona/)* |
+| *Relacionado: [Fuerza mental](/es/education/fuerza-mental/) | [Manejo de la presión](/es/education/fuerza-mental/manejo-de-la-presion) | [La Zona](/es/education/the-zone/)* |
 

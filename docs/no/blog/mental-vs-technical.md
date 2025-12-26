@@ -37,7 +37,7 @@ Når du øver mye på teknikk, forsterker du **bevisstheten** om bevegelsene din
 
 ### Flyttilstandsbarrieren
 
-Flyttilstander (å være «i sonen») krever **forbigående hypofrontalitet** – en midlertidig reduksjon i aktivitet i prefrontal cortex (den analytiske delen av hjernen din).
+Flyttilstander (å være «i sonen») krever **forbigående hypofrontalitet** – en midlertidig reduksjon i aktivitet i den prefrontale cortex (den analytiske delen av hjernen din).
 
 ```mermaid
 graph LR
@@ -99,7 +99,7 @@ Elitespillere gjør ikke færre feil enn gode spillere. De **kommer seg raskere*
 - Nøytral observasjon
 - Rask læring
 - Umiddelbar tilbakestilling
-- Ytelsen opprettholdt
+- Ytelse opprettholdt
 
 Dette er en trent ferdighet, ikke et personlighetstrekk.
 
@@ -184,7 +184,7 @@ Spor:
 - Restitusjonstid etter feil
 - Konsistens under press
 - Strømningstilstandsfrekvens
-- Overholdelse av rutine før injeksjon
+- Etterlevelse av rutine før injeksjon
 
 ### 4. Bruk utdanningsmodulene
 
@@ -205,11 +205,11 @@ Spillerne som gjør dette skiftet – som omfavner mental trening som sitt prim�
 
 ---
 
-## Related Resources
+## Relaterte ressurser
 
-- [The Zone: Understanding Flow State](/en/education/the-zone/)
-- [Case Studies: Elite Players in Action](/en/case-studies)
-- [Goal Template](/en/goal-template) - Plan your mental game development
+- [Sonen: Forstå flyttilstand](/no/utdanning/sonen/)
+- [Casestudier: Elitespillere i aksjon](/no/casestudier)
+- [Målmal](/no/målmal) - Planlegg din mentale spillutvikling
 
-**Questions or comments?** Email [patrik.wiik@gmail.com](mailto:patrik.wiik@gmail.com)
+**Spørsmål eller kommentarer?** Send e-post til [patrik.wiik@gmail.com](mailto:patrik.wiik@gmail.com)
 

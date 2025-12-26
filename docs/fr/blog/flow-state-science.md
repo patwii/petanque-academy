@@ -5,7 +5,7 @@ description: Understand the neuroscience of flow states and learn how to create 
 
 # La science derrière les états de flux
 
-L&#39;état de flow — cette zone magique où tout s&#39;enchaîne à merveille, où le temps semble suspendu et où la performance paraît naturelle. Ce n&#39;est pas un phénomène mystique, mais un phénomène neurologique. Comprendre les mécanismes scientifiques qui le sous-tendent peut vous aider à y accéder plus fréquemment.
+L&#39;état de flow — cette zone magique où tout s&#39;enchaîne parfaitement, où le temps semble suspendu et où la performance paraît naturelle. Ce n&#39;est pas un phénomène mystique, mais un phénomène neurologique. Comprendre les mécanismes scientifiques qui le sous-tendent peut vous aider à y accéder plus régulièrement.
 
 ## Qu&#39;est-ce que le flow ?
 
@@ -39,7 +39,7 @@ L&#39;état de flow déclenche un puissant mélange de neurotransmetteurs :
 **Modifications des ondes cérébrales**
 L&#39;état de flow est corrélé à des changements d&#39;ondes bêta (état de conscience normal éveillé) vers les ondes alpha et thêta (vigilance détendue et créativité).
 
-## Le flux déclenche
+## Les déclencheurs de flux
 
 Des recherches ont permis d&#39;identifier les conditions qui favorisent l&#39;écoulement :
 

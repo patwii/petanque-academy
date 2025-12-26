@@ -10,9 +10,9 @@ Paradoxen med elitutveckling: när din tekniska skicklighet ökar blir mental tr
 
 ---
 
-### [The Science Behind Flow States](/en/blog/flow-state-science)
+### [Vetenskapen bakom flödestillstånd](/sv/blogg/flödestillståndsvetenskap)
 
-What actually happens in your brain when you're "in the zone"? Understanding the neuroscience of flow states can help you access them more consistently.
+Vad händer egentligen i din hjärna när du är &quot;i zonen&quot;? Att förstå neurovetenskapen bakom flödestillstånd kan hjälpa dig att få tillgång till dem mer konsekvent.
 
 ---
 
@@ -37,7 +37,7 @@ What actually happens in your brain when you're "in the zone"? Understanding the
 
 ## Teamdynamik
 
-- [Kommunikation under press](/sv/blogg/team-kommunikation) — Vad man ska säga när det står mycket på spel
+- [Kommunikation under press](/sv/blogg/team-kommunikation) — Vad man ska säga när insatserna är höga
 - [Bygg teamkemi](/sv/blogg/teamkemi) — Utveckla band som höjer prestationen
 - [Ledarskap i boule](/sv/blogg/lagledarskap) — Led effektivt både på och utanför terrängen
 

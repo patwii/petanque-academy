@@ -190,8 +190,8 @@ Traccia:
 
 Inizia con:
 1. [The Zone](/it/education/the-zone/) - Comprendere gli stati di flusso
-2. [Forza mentale](/it/educazione/forza-mentale/) - Sviluppa le capacità di resistenza alla pressione
-3. [Mindfulness](/it/educazione/mindfulness/) - Sviluppa la concentrazione sul momento presente
+2. [Forza mentale](/it/education/mental-strength/) - Sviluppa le capacità di resistenza alla pressione
+3. [Mindfulness](/it/education/mindfulness/) - Sviluppa la concentrazione sul momento presente
 
 ## Conclusione
 
@@ -205,11 +205,11 @@ I giocatori che compiono questo cambiamento, ovvero che adottano l&#39;allenamen
 
 ---
 
-## Related Resources
+## Risorse correlate
 
-- [The Zone: Understanding Flow State](/en/education/the-zone/)
-- [Case Studies: Elite Players in Action](/en/case-studies)
-- [Goal Template](/en/goal-template) - Plan your mental game development
+- [La zona: comprendere lo stato di flusso](/it/education/the-zone/)
+- [Casi di studio: giocatori d&#39;élite in azione](/it/case-studies)
+- [Modello di obiettivo](/it/goal-template) - Pianifica lo sviluppo del tuo gioco mentale
 
-**Questions or comments?** Email [patrik.wiik@gmail.com](mailto:patrik.wiik@gmail.com)
+**Domande o commenti?** Invia un&#39;e-mail a [patrik.wiik@gmail.com](mailto:patrik.wiik@gmail.com)
 

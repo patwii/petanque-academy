@@ -171,9 +171,9 @@ Fokuser på:
 
 ::: info Næste trin
 Når du først har en solid teknik, kommer den virkelige vækst fra:
-- **[Zonen](/da/uddannelse/zonen/)** - Adgang til flowtilstande konsekvent
-- **[Træningsmetoder](/da/uddannelse/træning/)** - Sådan træner du effektivt
-- **[Mental styrke](/da/uddannelse/mental-styrke/)** - Præsterer under pres
+- **[Zonen](/da/education/the-zone/)** - Adgang til flowtilstande konsekvent
+- **[Træningsmetoder](/da/education/træning/)** - Sådan træner du effektivt
+- **[Mental styrke](/da/education/mental-styrke/)** - Præsterer under pres
 :::
 
 <AdBanner />

@@ -56,7 +56,7 @@ Lær hva «sonen» egentlig er og hvordan du får tilgang til den. Forstå viten
 ### 🧘 [Mindfulness](/no/utdanning/mindfulness/)
 Mestre kunsten å være til stede. Lær vitenskapelig beviste teknikker for å roe ned sinnet, forbedre fokus og komme deg raskt etter feil.
 
-### 📊 [Målsetting](/no/utdanning/mål/)
+### 📊 [Målsetting](/no/utdanning/goals/)
 Lag en plan for utviklingen din. Lær SMART-rammeverket tilpasset petanque og bygg en treningsplan som faktisk fungerer.
 
 ### 💪 [Mental styrke](/no/utdanning/mental-styrke/)
@@ -65,13 +65,13 @@ Bygg den mentale styrke som trengs for konkurranser. Lær å håndtere press, ov
 ### 🤝 [Lagdynamikk](/no/utdanning/lagspiller/)
 Bli lagkameraten alle vil spille med. Lær om kommunikasjon, tillit og hvordan du kan bidra til en vinnende lagkultur.
 
-### ♟️ [Taktikk](/no/utdanning/taktikk/)
+### ♟️ [Taktikk](/no/utdanning/tactics/)
 Tenk strategisk om enhver situasjon. Lær sannsynlighetsbasert beslutningstaking og når du skal ta risikoer.
 
-### 🏋️ [Opplæringsmetoder](/no/utdanning/opplæring/)
+### 🏋️ [Opplæringsmetoder](/no/utdanning/training/)
 Tren smartere, ikke bare hardere. Lær hvordan du strukturerer treningen din for maksimal forbedring.
 
-### 🥗 [Ernæring](/no/utdanning/ernæring/)
+### 🥗 [Ernæring](/no/utdanning/nutrition/)
 Gi hjernen din drivstoff for presisjonsytelser. Lær hvordan du opprettholder stabil energi og fokus gjennom hele konkurransen.
 
 <AdInArticle />

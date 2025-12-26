@@ -77,7 +77,7 @@ Konzentration auf spezifische Fähigkeiten:
 - Aufnahmen aus verschiedenen Blickwinkeln
 - Spezifische Wurfarten (Plombée, Portée usw.)
 
-### Angewandte Übung (20-30 Minuten)
+### Angewandte Praxis (20-30 Minuten)
 
 Fähigkeiten in realistischen Kontexten anwenden:
 - Simulierte Spielsituationen

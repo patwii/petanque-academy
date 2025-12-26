@@ -132,5 +132,5 @@ Igualmente importante es lo que haces después de un lanzamiento:
 
 ---
 
-| *Relacionado: [Guía de rutina previa al tiro](/es/educacion/fuerza-mental/rutina-previa-al-tiro) | [Manejo de la presión](/es/educacion/fuerza-mental/manejo-de-la-presion) | [Técnicas de atención plena](/es/educacion/atención/técnicas)* |
+| *Relacionado: [Guía de rutina previa al tiro](/es/education/fuerza-mental/rutina-previa-al-tiro) | [Manejo de la presión](/es/education/fuerza-mental/manejo-de-la-presion) | [Técnicas de atención plena](/es/education/mindfulness/técnicas)* |
 

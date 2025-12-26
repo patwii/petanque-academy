@@ -91,7 +91,7 @@ Wanneer de inzet het hoogst is:
 1. **Doe het rustiger aan**: Haal even diep adem.
 2. **Aard jezelf**: Voel je voeten, de boule
 3. **Gerichte focus**: Deze worp alleen
-4. **Vertrouwen**: Laat de gehechtheid aan de uitkomst los.
+4. **Vertrouwen**: Laat de gehechtheid aan het resultaat los.
 
 ### Na fouten
 

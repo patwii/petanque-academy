@@ -9,7 +9,7 @@ Bij pétanque kan communicatie het verschil maken tussen succes en falen. De jui
 
 ## Waarom communicatie belangrijk is
 
-Jeu de boules-teams worden geconfronteerd met unieke communicatie-uitdagingen:
+Jeu de boules-teams staan voor unieke communicatie-uitdagingen:
 - Er moeten snel beslissingen worden genomen.
 - Druk beïnvloedt hoe we spreken en luisteren.
 - Non-verbale signalen zijn zichtbaar voor tegenstanders.
@@ -83,7 +83,7 @@ Gebruik &#39;ik&#39;-zinnen voor je eigen handelingen en &#39;wij&#39;-zinnen vo
 - Technische instructies (&quot;Houd je elleboog naar binnen&quot;)
 - Kritiek op eerdere worpen
 - Uitingen van frustratie
-- Twijfel over het vermogen van een teamgenoot
+- Twijfel aan het vermogen van een teamgenoot
 - Overmatige analyse
 
 ### Vermijd in het algemeen

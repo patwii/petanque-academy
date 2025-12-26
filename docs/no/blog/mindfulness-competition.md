@@ -59,7 +59,7 @@ Tren oppmerksomheten din til å holde deg til én ting:
 
 **Før kastet:**
 - Fokuser kun på å lese terrenget
-- Så bare ved å visualisere resultatet
+- Da bare ved å visualisere resultatet
 - Da bare på kroppsposisjonen din
 
 **Under kastet:**

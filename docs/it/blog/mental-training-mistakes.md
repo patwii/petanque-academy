@@ -107,7 +107,7 @@ Le capacità mentali devono essere collegate alla prestazione fisica. Praticare 
 **Esempi di integrazione:**
 - Visualizza ogni lancio prima di eseguirlo
 - Utilizzare tecniche di respirazione tra i lanci
-- Metti in pratica la tua routine di concentrazione durante l&#39;allenamento
+- Esercita la tua routine di concentrazione durante l&#39;allenamento
 - Simulare regolarmente situazioni di pressione
 
 ## Errori bonus
@@ -134,7 +134,7 @@ Allenamento mentale efficace:
 4. **È personalizzato** — Adattato alle tue esigenze
 5. **È integrato** — Connesso alla pratica fisica
 
-## Iniziare nel modo giusto
+## Iniziare bene
 
 Se stai iniziando l&#39;allenamento mentale:
 
@@ -159,5 +159,5 @@ Il gioco mentale è allenabile. Allenalo nel modo giusto.
 
 ---
 
-| *Correlato: [Forza mentale](/it/educazione/forza-mentale/) | [Metodi di formazione](/it/educazione/formazione/) | [Mindfulness](/it/educazione/mindfulness/)* |
+| *Correlato: [Forza mentale](/it/education/mental-strength/) | [Metodi di formazione](/it/education/training/) | [Mindfulness](/it/education/mindfulness/)* |
 

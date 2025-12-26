@@ -257,7 +257,7 @@ På elitenivå er speiding viktig. Kjenn motstanderne dine før du spiller.
 
 ## I denne delen
 
-- **[Sannsynlighetsbaserte avgjørelser](/no/utdanning/taktikk/sannsynlighet)** - Bruk av matematikk for å ta bedre valg
+- **[Sannsynlighetsbaserte avgjørelser](/no/utdanning/tactics/sannsynlighet)** - Bruk av matematikk for å ta bedre valg
 
 ## Sammendrag: Alle taktiske regler
 

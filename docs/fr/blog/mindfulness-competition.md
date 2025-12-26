@@ -109,8 +109,8 @@ Intégrez la pleine conscience à votre routine :
 1. **Arrivée** : Entrez dans le cercle en pleine présence.
 2. **Respiration** : Une respiration consciente pour se recentrer
 3. **Voir** : Observez attentivement le terrain
-4. **Visualiser** : Voyez le résultat clairement.
-5. **Sentez** : Sentez la boule, votre corps
+4. **Visualiser** : Voyez le résultat clairement
+5. **Sensation** : Sentez la boule, votre corps
 6. **Libération** : Lâchez prise et faites confiance
 
 ## Défis communs

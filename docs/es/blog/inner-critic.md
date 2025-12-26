@@ -64,7 +64,7 @@ Transformar la crítica en coaching:
 
 ### 4. Utilice su rutina previa al disparo
 
-Una [rutina previa al disparo](/es/educacion/fuerza-mental/rutina-pre-disparo) sólida le da a tu mente algo constructivo en lo que concentrarse, dejando menos espacio para la crítica.
+Una [rutina previa al disparo](/es/education/fuerza-mental/rutina-pre-disparo) sólida le da a tu mente algo constructivo en lo que concentrarse, dejando menos espacio para la crítica.
 
 ### 5. Practica la autocompasión
 
@@ -106,5 +106,5 @@ El crítico interior siempre será parte de ti. Pero con la práctica, su voz se
 
 ---
 
-| *Relacionado: [Manejo de la presión](/es/educacion/fuerza-mental/manejo-de-la-presion) | [Rutina pre-disparo](/es/educacion/fuerza-mental/rutina-pre-disparo) | [Técnicas de atención plena](/es/educacion/atención/técnicas)* |
+| *Relacionado: [Manejo de la presión](/es/education/fuerza-mental/manejo-de-la-presion) | [Rutina pre-disparo](/es/education/fuerza-mental/rutina-pre-disparo) | [Técnicas de atención plena](/es/education/mindfulness/técnicas)* |
 

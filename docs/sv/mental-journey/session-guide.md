@@ -362,7 +362,7 @@ Dela exempel.
 **Resurser:**
 - Dela ut sammanfattningsblad
 - Dela webbplatsen: carreau.app
-- Rekommenderad startmodul: [Zonen](/sv/utbildning/zonen/)
+- Rekommenderad startmodul: [Zonen](/sv/education/the-zone/)
 
 **Slutningscirkel:**
 &quot;Ett ord som beskriver hur du känner dig just nu.&quot;

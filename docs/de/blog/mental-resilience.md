@@ -3,7 +3,7 @@ title: Mental Resilience in Pétanque
 description: Build the mental toughness to bounce back from setbacks, maintain confidence through adversity, and perform consistently under pressure.
 ---
 
-# Mentale Belastbarkeit beim Pétanque
+# Geistige Belastbarkeit beim Pétanque
 
 Resilienz bedeutet nicht, niemals hinzufallen – sondern wie schnell man wieder aufsteht. Beim Boule, wo sich das Blatt rasant wendet und einzelne Würfe alles verändern können, entscheidet oft die mentale Stärke über Sieg oder Niederlage.
 
@@ -84,7 +84,7 @@ Schaffe Rituale, um wieder auf die Beine zu kommen:
 - Spannungen abbauen
 - Körperhaltung ändern
 
-**Mentale Erholung:**
+**Mentale Neuorientierung:**
 - Den Rückschlag anerkennen
 - Eine beliebige Lektion extrahieren
 - Konzentriere dich wieder auf die Gegenwart

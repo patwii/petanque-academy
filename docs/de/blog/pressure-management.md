@@ -55,7 +55,7 @@ Der schnellste Weg, Ihr Nervensystem zu beruhigen:
 2. Halten Sie die Position für 4 Sekunden.
 3. Atmen Sie 4 Sekunden lang aus.
 4. Halten Sie die Position für 4 Sekunden.
-5. Wiederholen Sie dies 2-3 Mal.
+5. 2-3 Mal wiederholen
 
 **Verlängertes Ausatmen:**
 - Vier Sekunden lang einatmen.
@@ -99,7 +99,7 @@ Einzelne Wörter, die Ihren Fokus bündeln:
 
 Vor Hochdruckschüssen:
 1. Schließe kurz die Augen.
-2. Verfolge, wie die Kugel auf ihr Ziel zufliegt.
+2. Beobachte, wie die Kugel auf ihr Ziel zufliegt.
 3. Spüre den erfolgreichen Wurf in deinem Körper
 4. Öffne deine Augen und führe aus
 

@@ -20,7 +20,7 @@ Habilidades mentais são habilidades — exigem a mesma prática constante que a
 ### A solução
 
 - Agende o treinamento mental da mesma forma que o treinamento físico.
-- Comece com apenas 10 minutos diários.
+- Comece com apenas 10 minutos diários
 - Considere isso como inegociável.
 - Acompanhe seu treino mental em paralelo com o treino físico.
 

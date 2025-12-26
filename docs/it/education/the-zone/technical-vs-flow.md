@@ -2,7 +2,7 @@
 <AdBanner />
 
 
-Comprendere la differenza tra allenamento tecnico e allenamento di flusso è essenziale per lo sviluppo di atleti d&#39;élite. Entrambi sono necessari, ma hanno scopi diversi e richiedono approcci differenti.
+Comprendere la differenza tra allenamento tecnico e allenamento di flusso è essenziale per lo sviluppo di atleti d&#39;élite. Entrambi sono necessari, ma servono a scopi diversi e richiedono approcci diversi.
 
 ::: tip Il principio fondamentale
 **Non puoi addestrare un principiante come un esperto** (mancano i percorsi neurali) e **non puoi addestrare un esperto come un principiante** (un volume tecnico elevato porta a pensare troppo).
@@ -56,7 +56,7 @@ Il corretto rapporto di allenamento è inversamente proporzionale alla competenz
 - **Rapporto:** 90% Tecnico / 10% Mentale
 - **Focus mentale:** Divertimento, focus esterno (guardare l&#39;obiettivo), non visualizzazione complessa
 
-### 2. Intermedio (Fase associativa)
+### 2. Intermedio (fase associativa)
 - Si affina l&#39;abilità con un pensiero meno consapevole
 - I movimenti diventano più fluidi, gli errori diminuiscono
 - Inizi a riconoscere i tuoi errori
@@ -117,7 +117,7 @@ Segnali che indicano che stai pensando troppo alla tecnica:
 ## Pratica bloccata vs casuale
 
 **Pratica bloccata:** Ripeti lo stesso lancio 20 volte
-- Ti fa sentire produttivo (vedi un rapido miglioramento)
+- Ti fa sentire produttivo (si nota un rapido miglioramento)
 - Buono per l&#39;apprendimento iniziale
 - Scarso per la conservazione a lungo termine
 

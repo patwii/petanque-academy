@@ -93,8 +93,8 @@ L&#39;incoerenza sotto pressione raramente è un problema tecnico: è un problem
 
 **Per coerenza e prestazioni sotto pressione, esplora la nostra sezione [Istruzione](/it/education/)**, in particolare:
 - [The Zone](/it/education/the-zone/) — Creare le condizioni per prestazioni ottimali
-- [Forza mentale](/it/educazione/forza-mentale/) — Dare il massimo quando serve
-- [Tecnico vs. Flusso](/it/istruzione/la-zona/tecnico-vs-flusso) — Quando concentrarsi sulla tecnica o sulla fiducia
+- [Forza mentale](/it/education/mental-strength/) — Dare il massimo quando serve
+- [Tecnico vs. Flusso](/it/education/the-zone/tecnico-vs-flusso) — Quando concentrarsi sulla tecnica o sulla fiducia
 :::
 
 ## La nostra prospettiva
@@ -128,14 +128,14 @@ Se hai un focus tecnico e vuoi ampliare il tuo repertorio, questa sezione deline
 
 ## Argomenti
 
-### [Tavolozza di lanci](/it/tecnico/lanci)
+### [Tavolozza di lanci](/it/technical/throws)
 Quali sono i lanci possibili? Una panoramica completa delle possibilità tecniche della pétanque.
 
 ::: tip Dopo la tecnica, cosa succederà?
 Una volta acquisita una tecnica solida, la vera crescita deriva da:
 - **[The Zone](/it/education/the-zone/)** - Accesso agli stati di flusso
-- **[Forza mentale](/it/educazione/forza-mentale/)** - Gestire la pressione
-- **[Metodi di allenamento](/it/educazione/formazione/)** - Come esercitarsi in modo efficace
+- **[Forza mentale](/it/education/mental-strength/)** - Gestire la pressione
+- **[Metodi di allenamento](/it/education/training/)** - Come esercitarsi in modo efficace
 :::
 
 <AdBanner />

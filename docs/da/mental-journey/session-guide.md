@@ -362,7 +362,7 @@ Del eksempler.
 **Ressourcer:**
 - Uddel et opsummeringsark
 - Del hjemmeside: carreau.app
-- Anbefalet startmodul: [Zonen](/da/uddannelse/zonen/)
+- Anbefalet startmodul: [Zonen](/da/education/the-zone/)
 
 **Slutning af cirklen:**
 &quot;Et ord til at beskrive, hvordan du har det lige nu.&quot;

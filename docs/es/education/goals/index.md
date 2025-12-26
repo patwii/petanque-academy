@@ -143,8 +143,8 @@ Anota tus respuestas. Revísalas cuando te falte la motivación.
 
 ## En esta sección
 
-- **[Objetivos SMART en detalle](/es/educacion/objetivos/objetivos-inteligentes)** - Profundice en la creación de objetivos efectivos
-- **[Creando tu plan de entrenamiento](/es/educacion/objetivos/planificación)** - Convierte tus objetivos en acción
+- **[Objetivos SMART en detalle](/es/education/goals/objetivos-inteligentes)** - Profundice en la creación de objetivos efectivos
+- **[Creando tu plan de entrenamiento](/es/education/goals/planificación)** - Convierte tus objetivos en acción
 
 ## Resumen: Reglas para establecer objetivos
 

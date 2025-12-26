@@ -210,5 +210,5 @@ Las palabras no siempre son necesarias. La conexión sí.
 
 ---
 
-| *Relacionado: [Dinámica de equipo](/es/educacion/jugador-de-equipo/) | [Comunicación](/es/educación/jugador-de-equipo/comunicación) | [Manejo de la presión](/es/educacion/fuerza-mental/manejo-de-la-presion)* |
+| *Relacionado: [Dinámica de equipo](/es/education/team-player/) | [Comunicación](/es/education/team-player/comunicación) | [Manejo de la presión](/es/education/fuerza-mental/manejo-de-la-presion)* |
 

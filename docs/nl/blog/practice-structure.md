@@ -10,7 +10,7 @@ Niet alle training is gelijk. Twee spelers kunnen evenveel uren op het terrein d
 ## Het probleem met ongestructureerde praktijk
 
 De meeste recreatieve oefeningen zien er als volgt uit:
-- Kom langs en gooi een paar jeu de boules-ballen.
+- Kom langs en gooi een paar ballen.
 - Speel een paar ontspannende spelletjes.
 - Chat met vrienden
 - Ga naar huis
@@ -40,7 +40,7 @@ Oefening moet je uitdagen:
 ### 3. Onmiddellijke feedback
 
 Je moet weten hoe je ervoor staat:
-- Volg de resultaten van de oefeningen.
+- Resultaten van oefeningen bijhouden
 - Gebruik waar mogelijk video.
 - Vraag input van trainingspartners
 
@@ -134,7 +134,7 @@ Focus: Lichte training na de wedstrijd
 Effectieve oefeningen hebben:
 
 ### Duidelijke doelstellingen
-Wat ben je precies aan het oefenen?
+Wat oefen je precies?
 
 ### Meetbare resultaten
 Hoe meet je succes?

@@ -11,7 +11,7 @@ Flyttilstand – den magiske sonen der alt klikker, tiden går saktere og ytelse
 
 Psykolog Mihaly Csikszentmihalyi definerte flyt som «en tilstand av fullstendig fordypning i en aktivitet». I petanque har du opplevd det: kast som føles automatiske, avgjørelser som kommer umiddelbart, en følelse av at du og spillet er ett.
 
-Flyten er karakterisert av:
+Flyten kjennetegnes av:
 - Fullstendig absorpsjon i aktiviteten
 - Tap av selvbevissthet
 - Forvrengt tidssans
@@ -93,7 +93,7 @@ Følelsen av at handlingene dine betyr noe, og at du kan påvirke resultatene.
 Her er paradokset: å prøve å komme inn i flyt hindrer det. Flyt oppstår når du slutter å prøve å oppnå det og rett og slett engasjerer deg fullt ut i aktiviteten.
 
 Dette er fordi:
-- Å prøve aktiverer den prefrontale cortex (det motsatte av flyt)
+- Å prøve aktiverer prefrontal cortex (det motsatte av flyt)
 - Selvovervåking forstyrrer fordypningen
 - Målfokus erstatter prosessfokus
 
@@ -121,7 +121,7 @@ Selv om du ikke kan tvinge frem flyt, kan du skape forhold som gjør det mer san
 
 ## Flytsyklusen
 
-Flyten er ikke konstant – den følger en syklus:
+Strømning er ikke konstant – den følger en syklus:
 
 1. **Kamp**: Innledende innsats og utfordring
 2. **Slipp**: Å gi slipp på bevisst kontroll

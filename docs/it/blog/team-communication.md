@@ -155,7 +155,7 @@ Impara a riconoscere quando i tuoi compagni di squadra hanno bisogno di:
 - Concentrarsi sul processo
 - Sostenetevi a vicenda visibilmente
 
-### Match Point (Nostro)
+### Match Point (il nostro)
 
 - Mantieni la calma e la concentrazione
 - Evitare festeggiamenti prematuri
@@ -194,7 +194,7 @@ Discutere la comunicazione:
 ### Dopo la partita
 
 - Affrontare i problemi con calma
-- Concentrarsi sui comportamenti, non sulle personalità
+- Concentrati sui comportamenti, non sulle personalità
 - Concordare i miglioramenti
 - Andiamo avanti insieme
 
@@ -210,5 +210,5 @@ Le parole non sono sempre necessarie. La connessione sì.
 
 ---
 
-| *Correlato: [Dinamiche di squadra](/it/education/team-player/) | [Comunicazione](/it/istruzione/giocatore-di-squadra/comunicazione) | [Gestire la pressione](/it/educazione/forza-mentale/gestire-la-pressione)* |
+| *Correlato: [Dinamiche di squadra](/it/education/team-player/) | [Comunicazione](/it/education/giocatore-di-squadra/comunicazione) | [Gestire la pressione](/it/education/mental-strength/gestire-la-pressione)* |
 

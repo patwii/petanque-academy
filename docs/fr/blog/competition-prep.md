@@ -34,7 +34,7 @@ Le match ne commence pas au lancer de la première boule, mais bien plusieurs jo
 - Priorisez le sommeil
 
 **Mental:**
-- Augmenter la pratique de la visualisation
+- Augmentez votre pratique de la visualisation
 - Gérer le stress avant la compétition
 - Restez positif et confiant
 
@@ -111,7 +111,7 @@ Anticipez le succès :
 Sachez quel est votre objectif :
 - Objectifs de résultats (ce que vous souhaitez atteindre)
 - Objectifs du processus (comment vous allez jouer)
-- Objectifs de concentration (où se porte l&#39;attention)
+- Objectifs principaux (où se porte l&#39;attention)
 
 ### Renforcement de la confiance
 

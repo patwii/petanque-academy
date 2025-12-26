@@ -148,7 +148,7 @@ Hvis du er begyndt på mental træning:
 
 ## Udbyttet
 
-Spillere, der undgår disse fejl og træner deres hjerner konsekvent, rapporterer:
+Spillere, der undgår disse fejl og træner deres sind konsekvent, rapporterer:
 - Større konsistens under pres
 - Hurtigere gendannelse fra fejl
 - Mere glæde i konkurrencen
@@ -159,5 +159,5 @@ Det mentale spil kan trænes. Træn det rigtigt.
 
 ---
 
-| *Relateret: [Mental styrke](/da/uddannelse/mental-styrke/) | [Træningsmetoder](/da/uddannelse/træning/) | [Mindfulness](/da/uddannelse/mindfulness/)* |
+| *Relateret: [Mental styrke](/da/education/mental-styrke/) | [Træningsmetoder](/da/education/træning/) | [Mindfulness](/da/education/mindfulness/)* |
 

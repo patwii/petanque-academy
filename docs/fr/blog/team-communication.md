@@ -29,7 +29,7 @@ Sous pression, la concision est de mise. Une communication claire et concise vau
 
 **Au lieu de :** « Je pense qu&#39;on devrait peut-être essayer de montrer du doigt ici, mais je ne suis pas sûr, qu&#39;en penses-tu ? Le terrain a l&#39;air difficile... »
 
-**Dites :** « Je vais montrer le côté gauche. Le terrain y est meilleur. »
+**Dites :** « Je vais montrer le côté gauche. Le terrain est meilleur là-bas. »
 
 ### 2. Cadrage positif
 

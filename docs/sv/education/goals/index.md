@@ -143,8 +143,8 @@ Skriv ner dina svar. Återvänd till dem när motivationen avtar.
 
 ## I detta avsnitt
 
-- **[SMARTA Mål i Detaljer](/sv/utbildning/mål/smarta-mål)** - Djupdykning i att skapa effektiva mål
-- **[Skapa din träningsplan](/sv/utbildning/mål/planering)** - Förvandla mål till handling
+- **[SMARTA Mål i Detaljer](/sv/education/goals/smarta-mål)** - Djupdykning i att skapa effektiva mål
+- **[Skapa din träningsplan](/sv/education/goals/planering)** - Förvandla mål till handling
 
 ## Sammanfattning: Regler för målsättning
 

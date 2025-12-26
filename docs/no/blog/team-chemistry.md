@@ -79,7 +79,7 @@ Kjemi krever investering:
 
 Bevisste aktiviteter hjelper:
 - Målsettingsøkter for teamet
-- Oppsummeringer etter kamp (konstruktive)
+- Oppsummeringer etter kampen (konstruktive)
 - Diskusjoner om spillestiler og preferanser
 
 ### Konfliktløsning

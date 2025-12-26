@@ -9,7 +9,7 @@ La pressione è inevitabile nel gioco competitivo della pétanque. La domanda no
 
 ## Capire la pressione
 
-La pressione è la risposta del tuo corpo alla percezione di una posta in gioco elevata. Quando ti trovi di fronte a un colpo cruciale, il tuo sistema nervoso si attiva:
+La pressione è la risposta del tuo corpo alla percezione di una posta in gioco elevata. Quando affronti un colpo cruciale, il tuo sistema nervoso si attiva:
 
 - La frequenza cardiaca aumenta
 - La respirazione diventa superficiale
@@ -83,7 +83,7 @@ Quando la pressione sembra insopportabile:
 ### Restringi la tua attenzione
 
 Spesso la pressione deriva dal pensare troppo in là con gli anni. Concentrati su:
-- Questo lancio solo
+- Questo lancio è solo
 - Solo in questo momento
 - Il processo, non il risultato
 
@@ -160,5 +160,5 @@ La chiave è canalizzare questa energia in modo produttivo, anziché lasciarti s
 
 ---
 
-| *Correlato: [Gestire la pressione](/it/istruzione/forza-mentale/gestire-la-pressione) | [Routine pre-tiro](/it/educazione/forza-mentale/routine-pre-tiro) | [La Zona](/it/educazione/la-zona/)* |
+| *Correlato: [Gestire la pressione](/it/education/mental-strength/gestire-la-pressione) | [Routine pre-tiro](/it/education/mental-strength/routine-pre-tiro) | [La Zona](/it/education/the-zone/)* |
 

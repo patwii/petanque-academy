@@ -10,9 +10,9 @@ Das Paradoxon der Leistungsentwicklung: Je besser deine technischen Fähigkeiten
 
 ---
 
-### [The Science Behind Flow States](/en/blog/flow-state-science)
+### [Die Wissenschaft hinter Strömungszuständen](/en/blog/flow-state-science)
 
-What actually happens in your brain when you're "in the zone"? Understanding the neuroscience of flow states can help you access them more consistently.
+Was passiert eigentlich in Ihrem Gehirn, wenn Sie „im Flow“ sind? Das Verständnis der Neurowissenschaft der Flow-Zustände kann Ihnen helfen, diese Zustände regelmäßiger zu erreichen.
 
 ---
 

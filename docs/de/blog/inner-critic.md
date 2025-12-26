@@ -62,7 +62,7 @@ Kritik in Coaching umwandeln:
 - &quot;Alle schauen zu&quot; → &quot;Jetzt ist deine Chance zu glänzen&quot;
 - &quot;Du versagst immer.&quot; → &quot;Du hast schon öfter mit Drucksituationen umgegangen.&quot;
 
-### 4. Wenden Sie Ihre Pre-Spritz-Routine an.
+### 4. Wenden Sie Ihre Pre-Spucke-Routine an.
 
 Eine solide Vorbereitungsroutine gibt Ihrem Geist etwas Konstruktives, worauf er sich konzentrieren kann, und lässt so weniger Raum für Kritiker.
 
