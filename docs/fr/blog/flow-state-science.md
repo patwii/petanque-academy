@@ -162,5 +162,5 @@ Comme toute compétence, l&#39;accès à l&#39;état de flow s&#39;améliore ave
 
 ---
 
-| *À lire aussi : [La Zone](/en/education/the-zone/) | [Entrer dans la zone](/en/education/the-zone/entering-the-zone) | [Techniques de pleine conscience](/en/education/mindfulness/techniques)* |
+| *À lire aussi : [La Zone](/fr/education/the-zone/) | [Entrer dans la zone](/fr/education/the-zone/entering-the-zone) | [Techniques de pleine conscience](/fr/education/mindfulness/techniques)* |
 

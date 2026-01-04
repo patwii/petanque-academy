@@ -141,8 +141,8 @@ Notez vos réponses. Vous y reviendrez lorsque votre motivation faiblira.
 
 ## Dans cette section
 
-- **[Objectifs SMART en détail](/en/education/goals/smart-goals)** - Analyse approfondie de la création d&#39;objectifs efficaces
-- **[Créer votre plan d&#39;entraînement](/en/education/goals/planning)** - Transformer vos objectifs en actions
+- **[Objectifs SMART en détail](/fr/education/goals/smart-goals)** - Analyse approfondie de la création d&#39;objectifs efficaces
+- **[Créer votre plan d&#39;entraînement](/fr/education/goals/planning)** - Transformer vos objectifs en actions
 
 ## Résumé : Règles de fixation d&#39;objectifs
 

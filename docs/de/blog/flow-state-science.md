@@ -162,5 +162,5 @@ Wie jede FÃ¤higkeit verbessert sich auch das Erreichen des Flow-Zustands durch Ã
 
 ---
 
-| *Verwandt: [The Zone](/en/education/the-zone/) | [Entering the Zone](/en/education/the-zone/entering-the-zone) | [Achtsamkeitstechniken](/en/education/mindfulness/techniques)* |
+| *Verwandt: [The Zone](/de/education/the-zone/) | [Entering the Zone](/de/education/the-zone/entering-the-zone) | [Achtsamkeitstechniken](/de/education/mindfulness/techniques)* |
 

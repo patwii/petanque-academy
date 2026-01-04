@@ -44,7 +44,7 @@ Vi har lansert **8 omfattende opplæringsmoduler** som dekker alt fra flyttilsta
 | **[Sonen](/no/utdanning/sonen/)** | Flyttilstandsmestring | 4 detaljerte veiledninger om hvordan man starter og opprettholder flyt |
 | **[Mental styrke](/no/utdanning/mental-styrke/)** | Trykkhåndtering | Rutiner før opptak, håndtering av indre kritiker |
 | **[Mindfulness](/no/utdanning/mindfulness/)** | Bevissthet i nåtiden | Daglig trening, konkurranseteknikker |
-| **[Goals](/en/education/goals/)** | Strategisk planlegging | SMART-mål, hierarki, sporingssystemer |
+| **[Goals](/no/education/goals/)** | Strategisk planlegging | SMART-mål, hierarki, sporingssystemer |
 | **[Taktikk](/no/utdanning/taktikk/)** | Spillstrategi | Beslutningstaking, sannsynlighet, posisjonering |
 | **[Lagspiller](/no/utdanning/lagspiller/)** | Samarbeidsevner | Kommunikasjon, tillit, teamdynamikk |
 | **[Opplæring](/no/utdanning/opplæring/)** | Øvingsmetoder | Øvelser, bevisst øving, progresjon |

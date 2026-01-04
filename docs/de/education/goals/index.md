@@ -141,8 +141,8 @@ Notieren Sie Ihre Antworten. Kehren Sie darauf zurück, wenn Ihre Motivation nac
 
 ## In diesem Abschnitt
 
-- **[SMART Goals im Detail](/en/education/goals/smart-goals)** – Ein detaillierter Einblick in die Erstellung effektiver Ziele
-- **[Erstellung deines Trainingsplans](/en/education/goals/planning)** – Ziele in die Tat umsetzen
+- **[SMART Goals im Detail](/de/education/goals/smart-goals)** – Ein detaillierter Einblick in die Erstellung effektiver Ziele
+- **[Erstellung deines Trainingsplans](/de/education/goals/planning)** – Ziele in die Tat umsetzen
 
 ## Zusammenfassung: Regeln zur Zielsetzung
 

@@ -25,7 +25,7 @@ Marcus merkte een duidelijk patroon op: in clubwedstrijden speelde hij vrij en v
 
 ### De mentale spelanalyse
 
-Gebruikmakend van de principes van [The Zone](/en/education/the-zone/), hebben we het probleem vastgesteld:
+Gebruikmakend van de principes van [The Zone](/nl/education/the-zone/), hebben we het probleem vastgesteld:
 
 **Verwarring tussen technische modus en flowmodus**
 
@@ -35,21 +35,21 @@ Marcus bleef tijdens de uitvoering in een &quot;technische modus&quot;. Tijdens 
 
 **1. Ontwikkeling van de voorbereidingsroutine**
 
-We hebben een specifieke routine ontwikkeld (uit [Mental Strength](/en/education/mental-strength/pre-shot-routine)):
+We hebben een specifieke routine ontwikkeld (uit [Mental Strength](/nl/education/mental-strength/pre-shot-routine)):
 - Buitenste cirkel: Analyseer de situatie (max. 30 seconden)
 - Lopen naar de kring: Overgangsademhaling
 - In de cirkel: ogen alleen op het doel gericht, vertrouwen in de training.
 
 **2. Mindfulness-oefening**
 
-Dagelijkse oefening van 10 minuten met behulp van technieken uit [Mindfulness](/en/education/mindfulness/daily-practice):
+Dagelijkse oefening van 10 minuten met behulp van technieken uit [Mindfulness](/nl/education/mindfulness/daily-practice):
 - Lichaamsscan om spanning te herkennen
 - Ademhalingsbewustzijn voor wedstrijden
 - Training gericht op het huidige moment
 
 **3. Competitiesimulatie**
 
-De trainingsaanpak is aangepast met behulp van [Trainingsmethoden](/en/education/training/):
+De trainingsaanpak is aangepast met behulp van [Trainingsmethoden](/nl/education/training/):
 - Verhoogde druk tijdens oefensessies
 - Ik heb het &quot;omschakelingsmoment&quot; herhaaldelijk geoefend.
 - Opgenomen prestaties onder verschillende omstandigheden
@@ -83,7 +83,7 @@ Sophie was haar eigen grootste vijand. Na een mislukte worp:
 
 ### De mentale spelanalyse
 
-Het klassieke probleem van de &quot;innerlijke criticus&quot; uit [Mentale Kracht](/en/education/mental-strength/):
+Het klassieke probleem van de &quot;innerlijke criticus&quot; uit [Mentale Kracht](/nl/education/mental-strength/):
 
 De innerlijke criticus was:
 - Het zelfvertrouwen ondermijnen na fouten
@@ -110,7 +110,7 @@ Een specifiek proces in 3 stappen ontwikkeld:
 
 **3. Teamcommunicatie**
 
-Uit [Teamdynamiek](/en/education/team-player/communication):
+Uit [Teamdynamiek](/nl/education/team-player/communication):
 - Ik heb de uitdaging van mijn innerlijke criticus met mijn teamgenoten gedeeld.
 - Er werd gevraagd om steun bij het positief blijven.
 - Een teamcultuur gecreëerd waarin constructieve feedback centraal staat.
@@ -143,7 +143,7 @@ Jean was technisch gezien briljant, maar:
 
 ### De mentale spelanalyse
 
-Gebruikmakend van principes uit [Team Dynamics](/en/education/team-player/):
+Gebruikmakend van principes uit [Team Dynamics](/nl/education/team-player/):
 
 Het probleem was niet technisch, maar psychologisch:
 - Gebrek aan vertrouwen in teamgenoten
@@ -163,7 +163,7 @@ Gestructureerde communicatie geïmplementeerd:
 
 **2. Vertrouwen opbouwen**
 
-Van [Team Player](/en/education/team-player/):
+Van [Team Player](/nl/education/team-player/):
 - Het uiten van vertrouwen geoefend
 - Gezamenlijke besluitvorming
 - Gevierde successen van teamgenoten
@@ -215,11 +215,11 @@ Alle spelers zagen concrete verbeteringen in hun wedstrijdresultaten, niet allee
 ::: tip Jouw beurt
 Welke casestudy sluit het beste aan bij jouw ervaring?
 
-- **Heb je het moeilijk onder druk?** → Begin met [The Zone](/en/education/the-zone/)
-- **Negatieve zelfpraat?** → Ontdek [Mentale Kracht](/en/education/mental-strength/)
-- **Teamuitdagingen?** → Bestudeer [Teamdynamiek](/en/education/team-player/)
+- **Heb je het moeilijk onder druk?** → Begin met [The Zone](/nl/education/the-zone/)
+- **Negatieve zelfpraat?** → Ontdek [Mentale Kracht](/nl/education/mental-strength/)
+- **Teamuitdagingen?** → Bestudeer [Teamdynamiek](/nl/education/team-player/)
 
-Gebruik de [Doelsjabloon](/en/goal-template) om je eigen mentale spelontwikkelingsplan te maken.
+Gebruik de [Doelsjabloon](/nl/goal-template) om je eigen mentale spelontwikkelingsplan te maken.
 :::
 
 ## Deel je verhaal

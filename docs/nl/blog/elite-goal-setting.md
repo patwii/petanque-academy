@@ -174,5 +174,5 @@ Vind de ideale balans waarbij doelen uitdagend zijn zonder overweldigend te werk
 
 ---
 
-| *Gerelateerd: [Inleiding tot het stellen van doelen](/en/education/goals/) | [SMART-doelen](/en/education/goals/smart-goals) | [Je ontwikkeling plannen](/en/education/goals/planning)* |
+| *Gerelateerd: [Inleiding tot het stellen van doelen](/nl/education/goals/) | [SMART-doelen](/nl/education/goals/smart-goals) | [Je ontwikkeling plannen](/nl/education/goals/planning)* |
 

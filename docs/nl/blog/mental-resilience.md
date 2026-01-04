@@ -189,5 +189,5 @@ Veerkracht is geen eigenschap die je wel of niet hebt, maar een vaardigheid die 
 
 ---
 
-| *Gerelateerd: [Mentale kracht](/en/education/mental-strength/) | [Omgaan met druk](/en/education/mental-strength/handling-pressure) | [De Zone](/en/education/the-zone/)* |
+| *Gerelateerd: [Mentale kracht](/nl/education/mental-strength/) | [Omgaan met druk](/nl/education/mental-strength/handling-pressure) | [De Zone](/nl/education/the-zone/)* |
 

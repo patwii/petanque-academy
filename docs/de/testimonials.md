@@ -162,10 +162,10 @@ Deine Geschichte könnte anderen Spielern helfen, diese Ressourcen zu entdecken.
 Bereit, deine mentale Stärke zu verbessern?
 
 ::: tip Hier beginnen
-- **Neu im Bereich Mentaltraining?** → [The Zone](/en/education/the-zone/)
-- **Sie fühlen sich unter Druck gesetzt?** → [Mentale Stärke](/en/education/mental-strength/)
-- **Teamherausforderungen?** → [Teamdynamik](/en/education/team-player/)
-- **Sie wünschen sich Struktur?** → [Zielvorlage](/en/goal-template)
+- **Neu im Bereich Mentaltraining?** → [The Zone](/de/education/the-zone/)
+- **Sie fühlen sich unter Druck gesetzt?** → [Mentale Stärke](/de/education/mental-strength/)
+- **Teamherausforderungen?** → [Teamdynamik](/de/education/team-player/)
+- **Sie wünschen sich Struktur?** → [Zielvorlage](/de/goal-template)
 :::
 
 

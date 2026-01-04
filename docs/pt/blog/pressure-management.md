@@ -160,5 +160,5 @@ O segredo é canalizar essa energia de forma produtiva, em vez de deixar que ela
 
 ---
 
-| *Relacionado: [Lidando com a Pressão](/en/education/mental-strength/handling-pressure) | [Rotina pré-tiro](/en/education/mental-strength/pre-shot-routine) | [A Zona](/en/education/the-zone/)* |
+| *Relacionado: [Lidando com a Pressão](/pt/education/mental-strength/handling-pressure) | [Rotina pré-tiro](/pt/education/mental-strength/pre-shot-routine) | [A Zona](/pt/education/the-zone/)* |
 

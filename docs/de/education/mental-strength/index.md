@@ -153,8 +153,8 @@ graph LR
 
 ## In diesem Abschnitt
 
-- **[Umgang mit Druck](/en/education/mental-strength/handling-pressure)** – Techniken für Situationen mit hohem Einsatz
-- **[Routine vor dem Wurf](/en/education/mental-strength/pre-shot-routine)** – Den Leistungsauslöser aufbauen
+- **[Umgang mit Druck](/de/education/mental-strength/handling-pressure)** – Techniken für Situationen mit hohem Einsatz
+- **[Routine vor dem Wurf](/de/education/mental-strength/pre-shot-routine)** – Den Leistungsauslöser aufbauen
 
 ## Zusammenfassung: Regeln für mentale Stärke
 

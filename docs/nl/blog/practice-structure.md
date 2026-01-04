@@ -236,5 +236,5 @@ Structureer je oefeningen doelgericht, en elk uur telt meer.
 
 ---
 
-| *Gerelateerd: [Trainingsmethoden](/en/education/training/) | [Trainingsoefeningen](/en/education/training/drills) | [Doelstellingen formuleren](/en/education/goals/)* |
+| *Gerelateerd: [Trainingsmethoden](/nl/education/training/) | [Trainingsoefeningen](/nl/education/training/drills) | [Doelstellingen formuleren](/nl/education/goals/)* |
 

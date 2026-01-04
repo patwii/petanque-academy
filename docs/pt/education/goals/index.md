@@ -141,8 +141,8 @@ Anote suas respostas. Volte a elas quando a motivação diminuir.
 
 ## Nesta seção
 
-- **[Metas SMART em Detalhe](/en/education/goals/smart-goals)** - Uma análise aprofundada da criação de metas eficazes
-- **[Criando seu Plano de Treinamento](/en/education/goals/planning)** - Transforme metas em ação
+- **[Metas SMART em Detalhe](/pt/education/goals/smart-goals)** - Uma análise aprofundada da criação de metas eficazes
+- **[Criando seu Plano de Treinamento](/pt/education/goals/planning)** - Transforme metas em ação
 
 ## Resumo: Regras para definição de metas
 

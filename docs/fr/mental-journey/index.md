@@ -17,9 +17,9 @@ Que vous soyez un joueur cherchant à améliorer votre jeu mental ou un entraîn
 | Ressource | But | Accéder |
 |----------|---------|--------|
 | **Commencer** | Introduction aux concepts du jeu mental | [Lire ci-dessous](#pourquoi-l-entraînement-mental-est-important) |
-| **Guide de la session** | Guide complet d&#39;atelier de 2 à 3 heures pour les animateurs | [Voir le guide](/en/mental-journey/session-guide) |
-| **Matériels** | Guides du participant, diapositives et feuilles de travail | [Voir les documents](/en/mental-journey/materials) |
-| **Guides associés** | Formats avancés | [Atelier](/en/workshop) • [Camp d&#39;entraînement](/en/training-camp) |
+| **Guide de la session** | Guide complet d&#39;atelier de 2 à 3 heures pour les animateurs | [Voir le guide](/fr/mental-journey/session-guide) |
+| **Matériels** | Guides du participant, diapositives et feuilles de travail | [Voir les documents](/fr/mental-journey/materials) |
+| **Guides associés** | Formats avancés | [Atelier](/fr/workshop) • [Camp d&#39;entraînement](/fr/training-camp) |
 
 ## Pourquoi l&#39;entraînement mental est important
 
@@ -77,30 +77,30 @@ graph TD
 ### Option 1 : Autoformation (pour les joueurs)
 
 **Semaine 1 : Comprendre les bases**
-1. Lire le module [The Zone](/en/education/the-zone/)
+1. Lire le module [The Zone](/fr/education/the-zone/)
 2. Essayez la technique de réinitialisation en 3 respirations
 3. Remarquez quand vous êtes en « mode technique » par rapport au « mode flux ».
 
 **Semaine 2 : Sensibilisation**
-1. Lire le module [Force mentale](/en/education/mental-strength/)
+1. Lire le module [Force mentale](/fr/education/mental-strength/)
 2. Identifiez vos schémas de critique intérieure
 3. Pratiquer l&#39;observation neutre après les erreurs
 
 **Semaine 3 : Créer une structure**
-1. Lire le module [Pleine conscience](/en/education/mindfulness/)
+1. Lire le module [Pleine conscience](/fr/education/mindfulness/)
 2. Commencez une pratique quotidienne de 5 minutes
 3. Mettez en place une routine simple avant le tir
 
 **Semaine 4 : Intégration**
 1. Utilisez votre routine à l&#39;entraînement
-2. Suivez vos performances mentales dans [Modèle de journal](/en/diary-template)
-3. Définissez des objectifs mentaux de jeu en utilisant [Goal Template](/en/goal-template)
+2. Suivez vos performances mentales dans [Modèle de journal](/fr/diary-template)
+3. Définissez des objectifs mentaux de jeu en utilisant [Goal Template](/fr/goal-template)
 
 ### Option 2 : Atelier de groupe (pour les entraîneurs)
 
 **Animer une séance de 2 à 3 heures :**
 
-Utilisez notre [Guide de séance](/en/mental-journey/session-guide) complet qui comprend :
+Utilisez notre [Guide de séance](/fr/mental-journey/session-guide) complet qui comprend :
 - Structure complète de la session
 - Sujets de discussion
 - exercices de groupe
@@ -165,21 +165,21 @@ L&#39;entraînement mental ne remplace pas la pratique technique. Mais il vous a
 ## Ressources disponibles
 
 ### Pour les joueurs
-- [Modules pédagogiques](/en/education/) - 8 guides complets
-- [Modèle d&#39;objectif](/en/goal-template) - Structurez votre développement
-- [Modèle de journal](/en/diary-template) - Suivez vos progrès
-- [Études de cas](/en/case-studies) - Exemples réels
+- [Modules pédagogiques](/fr/education/) - 8 guides complets
+- [Modèle d&#39;objectif](/fr/goal-template) - Structurez votre développement
+- [Modèle de journal](/fr/diary-template) - Suivez vos progrès
+- [Études de cas](/fr/case-studies) - Exemples réels
 
 ### Pour les entraîneurs/guides
-- [Guide de la séance](/en/mental-journey/session-guide) - Atelier complet de 2 à 3 heures
-- [Matériel de l&#39;animateur](/en/mental-journey/materials) - Guides et diapositives numériques
-- [Guide d&#39;atelier](/en/workshop) - Format avancé 3-4h
+- [Guide de la séance](/fr/mental-journey/session-guide) - Atelier complet de 2 à 3 heures
+- [Matériel de l&#39;animateur](/fr/mental-journey/materials) - Guides et diapositives numériques
+- [Guide d&#39;atelier](/fr/workshop) - Format avancé 3-4h
 - Guide du camp d&#39;entraînement - Programme du week-end
 
 ## Prochaines étapes
 
 ### Pour les joueurs individuels
-1. **Commencez par la sensibilisation** - Lisez [The Zone](/en/education/the-zone/)
+1. **Commencez par la sensibilisation** - Lisez [The Zone](/fr/education/the-zone/)
 2. **Essayez une technique** - Utilisez la technique de réinitialisation en 3 respirations cette semaine
 3. **Suivez votre expérience** - Observez les changements
 4. **Développez progressivement** - Ajoutez une nouvelle compétence par semaine
@@ -195,17 +195,17 @@ L&#39;entraînement mental ne remplace pas la pratique technique. Mais il vous a
 
 **Des questions pour bien démarrer ?**
 - Courriel : [patrik.wiik@gmail.com](mailto:patrik.wiik@gmail.com)
-- Consultez les [Études de cas](/en/case-studies) pour des exemples
+- Consultez les [Études de cas](/fr/case-studies) pour des exemples
 - Participez aux discussions de votre club
 
 
 ---
 
 ::: tip Prêt à commencer ?
-**Joueurs :** Commencez par le module [The Zone](/en/education/the-zone/).
+**Joueurs :** Commencez par le module [The Zone](/fr/education/the-zone/).
 
-**Coachs :** Consultez le [Guide de la session](/en/mental-journey/session-guide)
+**Coachs :** Consultez le [Guide de la session](/fr/mental-journey/session-guide)
 
-**Télécharger les documents :** Consultez [Documents pour animateurs](/en/mental-journey/materials)
+**Télécharger les documents :** Consultez [Documents pour animateurs](/fr/mental-journey/materials)
 :::
 

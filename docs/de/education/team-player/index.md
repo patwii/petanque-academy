@@ -182,7 +182,7 @@ Großartige Teams entwickeln Gemeinsamkeiten:
 
 ## In diesem Abschnitt
 
-- **[Teamkommunikation](/en/education/team-player/communication)** – Ausführlicher Leitfaden für effektive Kommunikation
+- **[Teamkommunikation](/de/education/team-player/communication)** – Ausführlicher Leitfaden für effektive Kommunikation
 
 ## Wichtigste Erkenntnis
 

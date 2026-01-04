@@ -169,8 +169,8 @@ Konzentrieren Sie sich auf:
 
 ::: info Nächste Schritte
 Sobald man über eine solide Technik verfügt, kommt das eigentliche Wachstum von Folgendem:
-- **[The Zone](/en/education/the-zone/)** – Konsistenter Zugriff auf Flow-Zustände
-- **[Trainingsmethoden](/en/education/training/)** – Wie man effektiv übt
-- **[Mentale Stärke](/en/education/mental-strength/)** – Leistung unter Druck
+- **[The Zone](/de/education/the-zone/)** – Konsistenter Zugriff auf Flow-Zustände
+- **[Trainingsmethoden](/de/education/training/)** – Wie man effektiv übt
+- **[Mentale Stärke](/de/education/mental-strength/)** – Leistung unter Druck
 :::
 

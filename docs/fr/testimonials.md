@@ -162,10 +162,10 @@ Votre témoignage pourrait aider d&#39;autres joueurs à découvrir ces ressourc
 Prêt à développer votre mental ?
 
 ::: tip Commencez ici
-- **Vous débutez en entraînement mental ?** → [La Zone](/en/education/the-zone/)
-- **Vous avez du mal à gérer la pression ?** → [Force mentale](/en/education/mental-strength/)
-- **Défis d&#39;équipe ?** → [Dynamique d&#39;équipe](/en/education/team-player/)
-- **Besoin d&#39;une structure ?** → [Modèle d&#39;objectif](/en/goal-template)
+- **Vous débutez en entraînement mental ?** → [La Zone](/fr/education/the-zone/)
+- **Vous avez du mal à gérer la pression ?** → [Force mentale](/fr/education/mental-strength/)
+- **Défis d&#39;équipe ?** → [Dynamique d&#39;équipe](/fr/education/team-player/)
+- **Besoin d&#39;une structure ?** → [Modèle d&#39;objectif](/fr/goal-template)
 :::
 
 

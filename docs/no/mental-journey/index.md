@@ -93,7 +93,7 @@ graph TD
 
 **Uke 4: Integrering**
 1. Bruk rutinen din i praksis
-2. Spor mental ytelse i [Dagbokmal](/en/dagbokmal)
+2. Spor mental ytelse i [Dagbokmal](/no/dagbokmal)
 3. Sett mentale spillmål ved hjelp av [Målmal](/no/målmal)
 
 ### Alternativ 2: Gruppeworkshop (for trenere)

@@ -41,28 +41,28 @@ We hebben **8 uitgebreide educatieve modules** gelanceerd die alles behandelen, 
 
 | Module | Wat zit erin? | Belangrijkste kenmerken |
 |--------|---------------|--------------|
-| **[De Zone](/en/education/the-zone/)** | Beheersing van de flowtoestand | 4 gedetailleerde handleidingen voor het bereiken en behouden van een flow. |
-| **[Mentale kracht](/en/education/mental-strength/)** | Drukbehandeling | Voorbereidingsroutines, omgaan met je innerlijke criticus |
-| **[Mindfulness](/en/education/mindfulness/)** | Bewustzijn van het huidige moment | Dagelijkse oefeningen, wedstrijdtechnieken |
+| **[De Zone](/nl/education/the-zone/)** | Beheersing van de flowtoestand | 4 gedetailleerde handleidingen voor het bereiken en behouden van een flow. |
+| **[Mentale kracht](/nl/education/mental-strength/)** | Drukbehandeling | Voorbereidingsroutines, omgaan met je innerlijke criticus |
+| **[Mindfulness](/nl/education/mindfulness/)** | Bewustzijn van het huidige moment | Dagelijkse oefeningen, wedstrijdtechnieken |
 | **[Doelen](/nl/onderwijs/doelen/)** | Strategische planning | SMART-doelen, hiërarchie, volgsystemen |
-| **[Tactieken](/en/education/tactics/)** | Spelstrategie | Besluitvorming, waarschijnlijkheid, positionering |
-| **[Teamspeler](/en/education/team-player/)** | Samenwerkingsvaardigheden | Communicatie, vertrouwen, teamdynamiek |
-| **[Training](/en/education/training/)** | Praktische methoden | Oefeningen, doelgerichte oefening, progressie |
-| **[Voeding](/en/education/nutrition/)** | Prestatiebrandstof | Bloedsuikerregulatie, wedstrijdvoeding |
+| **[Tactieken](/nl/education/tactics/)** | Spelstrategie | Besluitvorming, waarschijnlijkheid, positionering |
+| **[Teamspeler](/nl/education/team-player/)** | Samenwerkingsvaardigheden | Communicatie, vertrouwen, teamdynamiek |
+| **[Training](/nl/education/training/)** | Praktische methoden | Oefeningen, doelgerichte oefening, progressie |
+| **[Voeding](/nl/education/nutrition/)** | Prestatiebrandstof | Bloedsuikerregulatie, wedstrijdvoeding |
 
 ### 🛠️ Praktische hulpmiddelen
 
 **Kant-en-klare sjablonen en programma&#39;s:**
 
-- **[Workshop](/en/workshop)** - Gestructureerde sessies van 3 uur voor mentale spelontwikkeling
-- **[Trainingskamp](/en/training-camp)** - Intensieve weekendprogramma&#39;s voor topspelers
-- **[Trainingssessie](/en/training-session)** - 2-3 uur aan oefenkaders
-- **[Doelsjabloon](/en/goal-template)** - Compleet systeem voor het stellen en bijhouden van doelen
-- **[Dagboeksjabloon](/en/diary-template)** - Dagboek voor dagelijkse oefening en reflectie
+- **[Workshop](/nl/workshop)** - Gestructureerde sessies van 3 uur voor mentale spelontwikkeling
+- **[Trainingskamp](/nl/training-camp)** - Intensieve weekendprogramma&#39;s voor topspelers
+- **[Trainingssessie](/nl/training-session)** - 2-3 uur aan oefenkaders
+- **[Doelsjabloon](/nl/goal-template)** - Compleet systeem voor het stellen en bijhouden van doelen
+- **[Dagboeksjabloon](/nl/diary-template)** - Dagboek voor dagelijkse oefening en reflectie
 
 ### 🎯 Technische begeleiding
 
-De sectie **[Technisch advies](/en/technical/)** bevat:
+De sectie **[Technisch advies](/nl/technical/)** bevat:
 - Complete gids voor alle pétanque-worpen
 - Trajectselectiestrategieën
 - Spincontroletechnieken
@@ -70,7 +70,7 @@ De sectie **[Technisch advies](/en/technical/)** bevat:
 
 ### 🍽️ Voeding voor optimale prestaties
 
-**[Eten](/en/food)** - Uitgebreide gids voor:
+**[Eten](/nl/food)** - Uitgebreide gids voor:
 - Bloedsuikerregulatie voor een stabiele focus
 - Voedingsstrategieën voorafgaand aan de wedstrijd
 - Energieoptimalisatie voor toernooien
@@ -81,21 +81,21 @@ De sectie **[Technisch advies](/en/technical/)** bevat:
 
 | Categorie | Artikelen |
 |----------|----------|
-| **De innerlijke criticus begrijpen** | [Inner Critic](/en/blog/inner-critic) - Beheers je innerlijke dialoog |
-| **Het opbouwen van routines vóór de opname** | [Voorbereidende routines](/en/blog/pre-shot-routines) - Zorg voor consistentie |
-| **Drukbeheersing** | [Drukmanagement](/en/blog/pressure-management) - Presteren onder stress |
-| **Prestatiepsychologie** | [Flow-toestanden](/en/blog/flow-state-science) • [Mindfulness](/en/blog/mindfulness-competition) • [Doelstellingen stellen](/en/blog/elite-goal-setting) • [Mentale veerkracht](/en/blog/mental-resilience) |
-| **Teamdynamiek** | [Communicatie](/en/blog/team-communication) • [Teamchemie](/en/blog/team-chemistry) • [Leiderschap](/en/blog/team-leadership) |
-| **Training en ontwikkeling** | [Fouten bij mentale training](/en/blog/mental-training-mistakes) • [Trainingsstructuur](/en/blog/practice-structure) • [Wedstrijdvoorbereiding](/en/blog/competition-prep) |
+| **De innerlijke criticus begrijpen** | [Inner Critic](/nl/blog/inner-critic) - Beheers je innerlijke dialoog |
+| **Het opbouwen van routines vóór de opname** | [Voorbereidende routines](/nl/blog/pre-shot-routines) - Zorg voor consistentie |
+| **Drukbeheersing** | [Drukmanagement](/nl/blog/pressure-management) - Presteren onder stress |
+| **Prestatiepsychologie** | [Flow-toestanden](/nl/blog/flow-state-science) • [Mindfulness](/nl/blog/mindfulness-competition) • [Doelstellingen stellen](/nl/blog/elite-goal-setting) • [Mentale veerkracht](/nl/blog/mental-resilience) |
+| **Teamdynamiek** | [Communicatie](/nl/blog/team-communication) • [Teamchemie](/nl/blog/team-chemistry) • [Leiderschap](/nl/blog/team-leadership) |
+| **Training en ontwikkeling** | [Fouten bij mentale training](/nl/blog/mental-training-mistakes) • [Trainingsstructuur](/nl/blog/practice-structure) • [Wedstrijdvoorbereiding](/nl/blog/competition-prep) |
 
-➡️ **[Bekijk alle artikelen](/en/blog/)**
+➡️ **[Bekijk alle artikelen](/nl/blog/)**
 
 ### 📖 Bronnen
 
 **Casusvoorbeelden en getuigenissen:**
 
-- **[Casusstudies](/en/case-studies)** - Echte voorbeelden van topspelers die mentale training toepassen.
-- **[Getuigenissen](/en/testimonials)** - Feedback van spelers die deze methoden hebben toegepast
+- **[Casusstudies](/nl/case-studies)** - Echte voorbeelden van topspelers die mentale training toepassen.
+- **[Getuigenissen](/nl/testimonials)** - Feedback van spelers die deze methoden hebben toegepast
 
 ## Onze missie
 
@@ -136,25 +136,25 @@ Topspelers beheersen de techniek al. De volgende doorbraak komt in het **mentale
 
 **Begin met de basis:**
 
-1. **[Ambitie](/en/ambitie)** - Begrijp de filosofie achter elite-ontwikkeling
-2. **[De Zone](/en/education/the-zone/)** - Leer meer over flowtoestanden
-3. **[Doelsjabloon](/en/goal-template)** - Stel je eerste gestructureerde doelen
+1. **[Ambitie](/nl/ambitie)** - Begrijp de filosofie achter elite-ontwikkeling
+2. **[De Zone](/nl/education/the-zone/)** - Leer meer over flowtoestanden
+3. **[Doelsjabloon](/nl/goal-template)** - Stel je eerste gestructureerde doelen
 
 ### Voor ervaren spelers
 
 **Duik in geavanceerde onderwerpen:**
 
-1. **[Mentale kracht](/en/education/mental-strength/)** - Beheers stressvolle situaties
-2. **[Tactieken](/en/education/tactics/)** - Verfijn strategische besluitvorming
-3. **[Workshop](/en/workshop)** - Implementeer gestructureerde mentale spelsessies
+1. **[Mentale kracht](/nl/education/mental-strength/)** - Beheers stressvolle situaties
+2. **[Tactieken](/nl/education/tactics/)** - Verfijn strategische besluitvorming
+3. **[Workshop](/nl/workshop)** - Implementeer gestructureerde mentale spelsessies
 
 ### Voor teams
 
 **Streef naar collectieve excellentie:**
 
-1. **[Teamspeler](/en/education/team-player/)** - Verbeter de teamdynamiek
-2. **[Trainingskamp](/en/training-camp)** - Organiseer intensieve weekendtrainingen
-3. **[Trainingssessie](/en/training-session)** - Structureer teampraktijken
+1. **[Teamspeler](/nl/education/team-player/)** - Verbeter de teamdynamiek
+2. **[Trainingskamp](/nl/training-camp)** - Organiseer intensieve weekendtrainingen
+3. **[Trainingssessie](/nl/training-session)** - Structureer teampraktijken
 
 ## Wat maakt dit anders?
 
@@ -172,7 +172,7 @@ Topspelers beheersen de techniek al. De volgende doorbraak komt in het **mentale
 
 **Wil je een bijdrage leveren of feedback geven?**
 
-Bezoek onze **[Over ons](/en/about)**-pagina voor:
+Bezoek onze **[Over ons](/nl/about)**-pagina voor:
 - Kom meer te weten over het platform.
 - Deel je feedback
 - Vraag specifieke inhoud aan

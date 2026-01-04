@@ -160,5 +160,5 @@ Entscheidend ist, diese Energie produktiv zu kanalisieren, anstatt sich von ihr 
 
 ---
 
-| *Verwandtes Thema: [Umgang mit Druck](/en/education/mental-strength/handling-pressure) | [Vorbereitungsroutine vor der Impfung](/en/education/mental-strength/pre-shot-routine) | [Die Zone](/en/education/the-zone/)* |
+| *Verwandtes Thema: [Umgang mit Druck](/de/education/mental-strength/handling-pressure) | [Vorbereitungsroutine vor der Impfung](/de/education/mental-strength/pre-shot-routine) | [Die Zone](/de/education/the-zone/)* |
 

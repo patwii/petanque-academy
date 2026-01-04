@@ -166,5 +166,5 @@ O jogador que está totalmente presente em cada lance, enquanto os outros estão
 
 ---
 
-| *Relacionado: [Introdução à Atenção Plena](/en/education/mindfulness/) | [Técnicas de Mindfulness](/en/education/mindfulness/techniques) | [Prática Diária](/en/education/mindfulness/daily-practice)* |
+| *Relacionado: [Introdução à Atenção Plena](/pt/education/mindfulness/) | [Técnicas de Mindfulness](/pt/education/mindfulness/techniques) | [Prática Diária](/pt/education/mindfulness/daily-practice)* |
 

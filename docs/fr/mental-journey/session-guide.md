@@ -16,7 +16,7 @@ Ce guide vous aide à animer une séance d&#39;initiation de 2 à 3 heures à la
 |---------|---------|--------|
 | **Pour les participants** | À quoi s&#39;attendre de la session | [Voir la section](#pour-participants) |
 | **À l&#39;attention des animateurs** | Plan de séance complet et horaire | [Voir la section](#pour-animateurs) |
-| **Matériel de la session** | Guides, diapositives et feuilles de travail | [Voir les documents](/en/mental-journey/materials) |
+| **Matériel de la session** | Guides, diapositives et feuilles de travail | [Voir les documents](/fr/mental-journey/materials) |
 | **Liste de vérification des préparatifs** | Que faut-il préparer avant la séance ? | [Voir la liste de vérification](#préparation-1-semaine-avant) |
 
 ---
@@ -109,7 +109,7 @@ Vous recevrez :
 **Une semaine avant :**
 - [ ] Réservez une chambre pour 2 à 3 heures.
 - [ ] Inviter 6 à 12 participants
-- [ ] Ajoutez les pages de documents à vos favoris (voir [Materials](/en/mental-journey/materials))
+- [ ] Ajoutez les pages de documents à vos favoris (voir [Materials](/fr/mental-journey/materials))
 - [ ] Examinez attentivement ce guide.
 - [ ] Préparez un tableau de conférence ou un tableau blanc.
 
@@ -360,7 +360,7 @@ Partagez des exemples.
 **Ressources:**
 - Distribuer la fiche récapitulative
 - Partager le site web : carreau.app
-- Module de départ recommandé : [The Zone](/en/education/the-zone/)
+- Module de départ recommandé : [The Zone](/fr/education/the-zone/)
 
 **Cercle de clôture :**
 « Un mot pour décrire ce que vous ressentez en ce moment. »
@@ -419,10 +419,10 @@ Partagez des exemples.
 
 ## Matériels
 
-- [Guide du participant](/en/mental-journey/materials#participant-guide)
-- [Diapositives pour l&#39;animateur](/en/mental-journey/materials#facilitator-slides)
-- [Fiche récapitulative](/en/mental-journey/materials#summary-sheet)
-- [Fiches d&#39;exercices](/en/mental-journey/materials#exercise-worksheets)
+- [Guide du participant](/fr/mental-journey/materials#participant-guide)
+- [Diapositives pour l&#39;animateur](/fr/mental-journey/materials#facilitator-slides)
+- [Fiche récapitulative](/fr/mental-journey/materials#summary-sheet)
+- [Fiches d&#39;exercices](/fr/mental-journey/materials#exercise-worksheets)
 
 ---
 

@@ -162,10 +162,10 @@ Sua história pode ajudar outros jogadores a descobrir esses recursos.
 Pronto para desenvolver seu jogo mental?
 
 ::: tip Comece aqui
-- **É a sua primeira vez treinando sua mente?** → [A Zona](/en/education/the-zone/)
-- **Está com dificuldades para lidar com a pressão?** → [Força Mental](/en/education/mental-strength/)
-- **Desafios de equipe?** → [Dinâmica de Equipe](/en/education/team-player/)
-- **Quer estrutura?** → [Modelo de Meta](/en/goal-template)
+- **É a sua primeira vez treinando sua mente?** → [A Zona](/pt/education/the-zone/)
+- **Está com dificuldades para lidar com a pressão?** → [Força Mental](/pt/education/mental-strength/)
+- **Desafios de equipe?** → [Dinâmica de Equipe](/pt/education/team-player/)
+- **Quer estrutura?** → [Modelo de Meta](/pt/goal-template)
 :::
 
 

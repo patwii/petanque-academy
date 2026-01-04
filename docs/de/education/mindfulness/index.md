@@ -164,8 +164,8 @@ graph LR
 
 ## In diesem Abschnitt
 
-- **[Techniken](/en/education/mindfulness/techniques)** - Praktische Übungen, die Sie nutzen können
-- **[Tägliche Übung](/en/education/mindfulness/daily-practice)** – Achtsamkeit in Ihr Leben integrieren
+- **[Techniken](/de/education/mindfulness/techniques)** - Praktische Übungen, die Sie nutzen können
+- **[Tägliche Übung](/de/education/mindfulness/daily-practice)** – Achtsamkeit in Ihr Leben integrieren
 
 ## Zusammenfassung: Achtsamkeitsregeln
 

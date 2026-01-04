@@ -228,13 +228,13 @@ _________________________________________________
 **Website:** carreau.app
 
 **Recommended Starting Point:**
-- [The Zone](/en/education/the-zone/) - Deep dive into flow states
-- [Mental Strength](/en/education/mental-strength/) - Building resilience
-- [Mindfulness](/en/education/mindfulness/) - Daily practice guide
+- [The Zone](/no/education/the-zone/) - Deep dive into flow states
+- [Mental Strength](/no/education/mental-strength/) - Building resilience
+- [Mindfulness](/no/education/mindfulness/) - Daily practice guide
 
 **Tools:**
-- [Goal Template](/en/goal-template) - Structure your development
-- [Diary Template](/en/diary-template) - Track your progress
+- [Goal Template](/no/goal-template) - Structure your development
+- [Diary Template](/no/diary-template) - Track your progress
 
 ### Questions?
 
@@ -631,9 +631,9 @@ Website: carreau.app
 **Email:** patrik.wiik@gmail.com
 
 **Next Steps:**
-1. Read [The Zone](/en/education/the-zone/)
-2. Use [Goal Template](/en/goal-template)
-3. Track progress in [Diary](/en/diary-template)
+1. Read [The Zone](/no/education/the-zone/)
+2. Use [Goal Template](/no/goal-template)
+3. Track progress in [Diary](/no/diary-template)
 ```
 
 </details>
@@ -654,7 +654,7 @@ Interaktive arbeidsark for aktiviteter i øktene. Deltakerne kan bruke disse dig
 ### Arbeidsark 4: Handlingsplan
 
 ::: tip Digitale arbeidsark
-Oppfordre deltakerne til å bruke [Målmal](/en/målmal) og [Dagbokmal](/en/dagbokmal) til kontinuerlig øving.
+Oppfordre deltakerne til å bruke [Målmal](/no/målmal) og [Dagbokmal](/no/dagbokmal) til kontinuerlig øving.
 :::
 
 
@@ -715,7 +715,7 @@ For eksterne eller hybride økter:
 **Spørsmål om materialer?**
 - E-post: patrik.wiik@gmail.com
 - Se gjennom [Øktguiden](/no/mental-journey/øktguide)
-- Sjekk [Workshop Guide](/en/workshop) for avansert format
+- Sjekk [Workshop Guide](/no/workshop) for avansert format
 
 
 ---

@@ -81,7 +81,7 @@ Sorgen Sie für die nötige Energie, damit Ihr Gehirn konzentriert bleibt und Ih
 Tauschen Sie sich in einem sicheren und unterstützenden Umfeld mit anderen Spitzenspielern aus.
 
 ::: info Bereit für den nächsten Schritt?
-Erkunden Sie unseren Bereich [Bildung](/en/education/) oder erfahren Sie mehr über unsere [Workshops](/en/workshop).
+Erkunden Sie unseren Bereich [Bildung](/de/education/) oder erfahren Sie mehr über unsere [Workshops](/de/workshop).
 :::
 
 

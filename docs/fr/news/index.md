@@ -41,28 +41,28 @@ Nous avons lancé **8 modules de formation complets** couvrant tous les sujets, 
 
 | Module | Contenu | Caractéristiques principales |
 |--------|---------------|--------------|
-| **[La Zone](/en/education/the-zone/)** | maîtrise de l&#39;état de flow | 4 guides détaillés sur l&#39;entrée et le maintien du flux |
-| **[Force mentale](/en/education/mental-strength/)** | Gestion de la pression | Routines avant le tournage, gestion de la critique intérieure |
-| **[Pleine conscience](/en/education/mindfulness/)** | conscience du moment présent | Entraînements quotidiens, techniques de compétition |
+| **[La Zone](/fr/education/the-zone/)** | maîtrise de l&#39;état de flow | 4 guides détaillés sur l&#39;entrée et le maintien du flux |
+| **[Force mentale](/fr/education/mental-strength/)** | Gestion de la pression | Routines avant le tournage, gestion de la critique intérieure |
+| **[Pleine conscience](/fr/education/mindfulness/)** | conscience du moment présent | Entraînements quotidiens, techniques de compétition |
 | **[Objectifs](/fr/education/goals/)** | planification stratégique | Objectifs SMART, hiérarchie, systèmes de suivi |
-| **[Tactiques](/en/education/tactics/)** | Stratégie de jeu | Prise de décision, probabilité, positionnement |
-| **[Esprit d&#39;équipe](/en/education/team-player/)** | compétences en collaboration | Communication, confiance, dynamique d&#39;équipe |
-| **[Formation](/en/education/training/)** | Méthodes pratiques | Exercices, pratique délibérée, progression |
-| **[Nutrition](/en/education/nutrition/)** | Carburant de performance | Gestion de la glycémie, nutrition de compétition |
+| **[Tactiques](/fr/education/tactics/)** | Stratégie de jeu | Prise de décision, probabilité, positionnement |
+| **[Esprit d&#39;équipe](/fr/education/team-player/)** | compétences en collaboration | Communication, confiance, dynamique d&#39;équipe |
+| **[Formation](/fr/education/training/)** | Méthodes pratiques | Exercices, pratique délibérée, progression |
+| **[Nutrition](/fr/education/nutrition/)** | Carburant de performance | Gestion de la glycémie, nutrition de compétition |
 
 ### 🛠️ Outils pratiques
 
 **Modèles et programmes prêts à l&#39;emploi :**
 
 - **Atelier** (/en/workshop) - Séances structurées de 3 heures pour le développement mental du jeu
-- **[Stage d&#39;entraînement](/en/training-camp)** - Programmes intensifs de fin de semaine pour joueurs d&#39;élite
-- **[Séance de formation](/en/training-session)** - Cadres de pratique de 2 à 3 heures
-- **[Modèle d&#39;objectif](/en/goal-template)** - Système complet de définition et de suivi des objectifs
-- **[Modèle de journal](/en/diary-template)** - Journal de pratique et de réflexion quotidienne
+- **[Stage d&#39;entraînement](/fr/training-camp)** - Programmes intensifs de fin de semaine pour joueurs d&#39;élite
+- **[Séance de formation](/fr/training-session)** - Cadres de pratique de 2 à 3 heures
+- **[Modèle d&#39;objectif](/fr/goal-template)** - Système complet de définition et de suivi des objectifs
+- **[Modèle de journal](/fr/diary-template)** - Journal de pratique et de réflexion quotidienne
 
 ### 🎯 Assistance technique
 
-La section **[Conseils techniques](/en/technical/)** comprend :
+La section **[Conseils techniques](/fr/technical/)** comprend :
 - Guide complet de tous les lancers de pétanque
 - Stratégies de sélection de trajectoire
 - Techniques de contrôle de la rotation
@@ -70,7 +70,7 @@ La section **[Conseils techniques](/en/technical/)** comprend :
 
 ### 🍽️ Nutrition pour la performance
 
-**[Food](/en/food)** - Guide complet de :
+**[Food](/fr/food)** - Guide complet de :
 - Gestion de la glycémie pour une concentration stable
 - Stratégies nutritionnelles pré-compétition
 - Optimisation énergétique pour les tournois
@@ -81,21 +81,21 @@ La section **[Conseils techniques](/en/technical/)** comprend :
 
 | Catégorie | Articles |
 |----------|----------|
-| **Comprendre la voix critique intérieure** | [Le critique intérieur](/en/blog/inner-critic) - Maîtrisez votre dialogue intérieur |
-| **Élaboration de routines d&#39;avant-prise de vue** | [Routines de pré-prise de vue](/en/blog/pre-shot-routines) - Créer de la cohérence |
+| **Comprendre la voix critique intérieure** | [Le critique intérieur](/fr/blog/inner-critic) - Maîtrisez votre dialogue intérieur |
+| **Élaboration de routines d&#39;avant-prise de vue** | [Routines de pré-prise de vue](/fr/blog/pre-shot-routines) - Créer de la cohérence |
 | **Gestion de la pression** | Gestion de la pression - Performance sous pression |
-| **Psychologie de la performance** | [États de flow](/en/blog/flow-state-science) • [Pleine conscience](/en/blog/mindfulness-competition) • [Fixation d&#39;objectifs](/en/blog/elite-goal-setting) • [Résilience mentale](/en/blog/mental-resilience) |
+| **Psychologie de la performance** | [États de flow](/fr/blog/flow-state-science) • [Pleine conscience](/fr/blog/mindfulness-competition) • [Fixation d&#39;objectifs](/fr/blog/elite-goal-setting) • [Résilience mentale](/fr/blog/mental-resilience) |
 | **Dynamique d&#39;équipe** | Communication d&#39;équipe • Cohésion d&#39;équipe • Leadership |
-| **Formation et perfectionnement** | [Erreurs d&#39;entraînement mental](/en/blog/mental-training-mistakes) • [Structure de l&#39;entraînement](/en/blog/practice-structure) • [Préparation à la compétition](/en/blog/competition-prep) |
+| **Formation et perfectionnement** | [Erreurs d&#39;entraînement mental](/fr/blog/mental-training-mistakes) • [Structure de l&#39;entraînement](/fr/blog/practice-structure) • [Préparation à la compétition](/fr/blog/competition-prep) |
 
-➡️ **[Parcourir tous les articles](/en/blog/)**
+➡️ **[Parcourir tous les articles](/fr/blog/)**
 
 ### 📖 Ressources
 
 **Études de cas et témoignages :**
 
 - **Études de cas** - Exemples concrets de joueurs de haut niveau utilisant l&#39;entraînement mental
-- **[Témoignages](/en/testimonials)** - Retours de joueurs ayant mis en œuvre ces méthodes
+- **[Témoignages](/fr/testimonials)** - Retours de joueurs ayant mis en œuvre ces méthodes
 
 ## Notre mission
 
@@ -136,25 +136,25 @@ Les joueurs d&#39;élite maîtrisent déjà la technique. La prochaine étape cr
 
 **Commencez par les fondamentaux :**
 
-1. **[Ambition](/en/ambition)** - Comprendre la philosophie qui sous-tend le développement des élites
-2. **[La Zone](/en/education/the-zone/)** - Découvrez les états de flow
-3. **[Modèle d&#39;objectif](/en/goal-template)** - Définissez vos premiers objectifs structurés
+1. **[Ambition](/fr/ambition)** - Comprendre la philosophie qui sous-tend le développement des élites
+2. **[La Zone](/fr/education/the-zone/)** - Découvrez les états de flow
+3. **[Modèle d&#39;objectif](/fr/goal-template)** - Définissez vos premiers objectifs structurés
 
 ### Pour les joueurs expérimentés
 
 **Approfondissez les sujets avancés :**
 
-1. **[Force mentale](/en/education/mental-strength/)** - Maîtriser les situations de pression
-2. **[Tactiques](/en/education/tactics/)** - Améliorer la prise de décision stratégique
+1. **[Force mentale](/fr/education/mental-strength/)** - Maîtriser les situations de pression
+2. **[Tactiques](/fr/education/tactics/)** - Améliorer la prise de décision stratégique
 3. **Atelier** - Mettre en œuvre des séances structurées de préparation mentale
 
 ### Pour les équipes
 
 **Développer l&#39;excellence collective :**
 
-1. **[Esprit d&#39;équipe](/en/education/team-player/)** - Améliorer la dynamique d&#39;équipe
-2. **[Training Camp](/en/training-camp)** - Organiser des stages intensifs de week-end
-3. **[Séance de formation](/en/training-session)** - Pratiques de structuration d&#39;équipe
+1. **[Esprit d&#39;équipe](/fr/education/team-player/)** - Améliorer la dynamique d&#39;équipe
+2. **[Training Camp](/fr/training-camp)** - Organiser des stages intensifs de week-end
+3. **[Séance de formation](/fr/training-session)** - Pratiques de structuration d&#39;équipe
 
 ## Qu&#39;est-ce qui rend cela différent ?
 
@@ -172,7 +172,7 @@ Les joueurs d&#39;élite maîtrisent déjà la technique. La prochaine étape cr
 
 **Vous souhaitez contribuer ou donner votre avis ?**
 
-Visitez notre page **[À propos](/en/about)** pour :
+Visitez notre page **[À propos](/fr/about)** pour :
 - Apprenez-en davantage sur la plateforme
 - Partagez vos commentaires
 - Demander un contenu spécifique

@@ -106,5 +106,5 @@ Der innere Kritiker wird immer ein Teil von dir sein. Doch mit Übung wird seine
 
 ---
 
-| *Verwandtes Thema: [Umgang mit Druck](/en/education/mental-strength/handling-pressure) | [Vorbereitungsroutine vor der Impfung](/en/education/mental-strength/pre-shot-routine) | [Achtsamkeitstechniken](/en/education/mindfulness/techniques)* |
+| *Verwandtes Thema: [Umgang mit Druck](/de/education/mental-strength/handling-pressure) | [Vorbereitungsroutine vor der Impfung](/de/education/mental-strength/pre-shot-routine) | [Achtsamkeitstechniken](/de/education/mindfulness/techniques)* |
 

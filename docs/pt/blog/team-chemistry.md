@@ -210,5 +210,5 @@ A química não é estática — ela requer manutenção:
 
 ---
 
-| *Relacionado: [Dinâmica de Equipe](/en/education/team-player/) | [Comunicação](/en/education/team-player/communication) | [Liderança na Petanca](/en/blog/team-leadership)* |
+| *Relacionado: [Dinâmica de Equipe](/pt/education/team-player/) | [Comunicação](/pt/education/team-player/communication) | [Liderança na Petanca](/pt/blog/team-leadership)* |
 

@@ -255,7 +255,7 @@ Au plus haut niveau, le repérage des adversaires est essentiel. Il faut connaî
 
 ## Dans cette section
 
-- **[Décisions basées sur les probabilités](/en/education/tactics/probability)** - Utiliser les mathématiques pour faire de meilleurs choix
+- **[Décisions basées sur les probabilités](/fr/education/tactics/probability)** - Utiliser les mathématiques pour faire de meilleurs choix
 
 ## Résumé : Toutes les règles tactiques
 

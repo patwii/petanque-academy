@@ -162,10 +162,10 @@ Jouw verhaal kan andere spelers helpen deze hulpmiddelen te ontdekken.
 Ben je klaar om je mentale vaardigheden te verbeteren?
 
 ::: tip Begin hier
-- **Nieuw in mentale training?** → [De Zone](/en/education/the-zone/)
-- **Heb je moeite met druk?** → [Mentale kracht](/en/education/mental-strength/)
-- **Teamuitdagingen?** → [Teamdynamiek](/en/education/team-player/)
-- **Wilt u structuur?** → [Doelsjabloon](/en/goal-template)
+- **Nieuw in mentale training?** → [De Zone](/nl/education/the-zone/)
+- **Heb je moeite met druk?** → [Mentale kracht](/nl/education/mental-strength/)
+- **Teamuitdagingen?** → [Teamdynamiek](/nl/education/team-player/)
+- **Wilt u structuur?** → [Doelsjabloon](/nl/goal-template)
 :::
 
 

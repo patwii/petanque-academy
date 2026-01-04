@@ -49,28 +49,28 @@ graph TD
 
 ## Nossos Caminhos de Aprendizagem
 
-### 🎯 [A Zona (Estado de Fluxo)](/en/education/the-zone/)
+### 🎯 [A Zona (Estado de Fluxo)](/pt/education/the-zone/)
 Aprenda o que é realmente &quot;o estado de fluxo&quot; e como acessá-lo. Compreenda a ciência por trás dos estados de fluxo e descubra técnicas práticas para ter o melhor desempenho quando mais importa.
 
-### 🧘 [Atenção Plena](/en/education/mindfulness/)
+### 🧘 [Atenção Plena](/pt/education/mindfulness/)
 Domine a arte de estar presente. Aprenda técnicas comprovadas cientificamente para acalmar a mente, melhorar o foco e se recuperar rapidamente de erros.
 
-### 📊 [Definição de Metas](/en/education/goals/)
+### 📊 [Definição de Metas](/pt/education/goals/)
 Crie um roteiro para o seu desenvolvimento. Aprenda a metodologia SMART adaptada para a petanca e elabore um plano de treinamento que realmente funcione.
 
-### 💪 [Força Mental](/en/education/mental-strength/)
+### 💪 [Força Mental](/pt/education/mental-strength/)
 Desenvolva a resistência mental necessária para a competição. Aprenda a lidar com a pressão, superar a ansiedade e desenvolver rotinas que desencadeiem o máximo desempenho.
 
-### 🤝 [Dinâmica de Equipe](/en/education/team-player/)
+### 🤝 [Dinâmica de Equipe](/pt/education/team-player/)
 Torne-se o colega de equipe com quem todos querem jogar. Aprenda sobre comunicação, confiança e como contribuir para uma cultura de equipe vencedora.
 
-### ♟️ [Táticas](/en/education/tactics/)
+### ♟️ [Táticas](/pt/education/tactics/)
 Pense estrategicamente sobre cada situação. Aprenda a tomar decisões com base em probabilidades e saiba quando assumir riscos.
 
-### 🏋️ [Métodos de Treinamento](/en/education/training/)
+### 🏋️ [Métodos de Treinamento](/pt/education/training/)
 Treine de forma inteligente, não apenas com mais intensidade. Aprenda a estruturar seu treino para obter o máximo de resultados.
 
-### 🥗 [Nutrição](/en/education/nutrition/)
+### 🥗 [Nutrição](/pt/education/nutrition/)
 Abasteça seu cérebro para um desempenho preciso. Aprenda a manter energia e foco estáveis durante toda a competição.
 
 
@@ -151,6 +151,6 @@ Este é o seu guia de referência rápida. Adicione esta seção aos seus favori
 ## Comece sua jornada
 
 ::: tip Ponto de partida recomendado
-Comece com [The Zone](/en/education/the-zone/) para entender a base do desempenho de elite, depois explore [Mindfulness](/en/education/mindfulness/) para técnicas práticas que você pode usar imediatamente.
+Comece com [The Zone](/pt/education/the-zone/) para entender a base do desempenho de elite, depois explore [Mindfulness](/pt/education/mindfulness/) para técnicas práticas que você pode usar imediatamente.
 :::
 

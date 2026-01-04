@@ -262,5 +262,5 @@ Du hast dich gut vorbereitet. Vertraue jetzt darauf und tritt an.
 
 ---
 
-| *Verwandt: [Trainingsmethoden](/en/education/training/) | [Umgang mit Druck](/en/education/mental-strength/handling-pressure) | [Vorbereitungsroutine vor der Impfung](/en/education/mental-strength/pre-shot-routine)* |
+| *Verwandt: [Trainingsmethoden](/de/education/training/) | [Umgang mit Druck](/de/education/mental-strength/handling-pressure) | [Vorbereitungsroutine vor der Impfung](/de/education/mental-strength/pre-shot-routine)* |
 

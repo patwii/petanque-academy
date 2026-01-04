@@ -166,5 +166,5 @@ Le joueur qui est pleinement présent à chaque lancer, tandis que les autres so
 
 ---
 
-| *À consulter également : [Introduction à la pleine conscience](/en/education/mindfulness/) | [Techniques de pleine conscience](/en/education/mindfulness/techniques) | [Pratique quotidienne](/en/education/mindfulness/daily-practice)* |
+| *À consulter également : [Introduction à la pleine conscience](/fr/education/mindfulness/) | [Techniques de pleine conscience](/fr/education/mindfulness/techniques) | [Pratique quotidienne](/fr/education/mindfulness/daily-practice)* |
 

@@ -228,13 +228,13 @@ _________________________________________________
 **Website:** carreau.app
 
 **Recommended Starting Point:**
-- [The Zone](/en/education/the-zone/) - Deep dive into flow states
-- [Mental Strength](/en/education/mental-strength/) - Building resilience
-- [Mindfulness](/en/education/mindfulness/) - Daily practice guide
+- [The Zone](/de/education/the-zone/) - Deep dive into flow states
+- [Mental Strength](/de/education/mental-strength/) - Building resilience
+- [Mindfulness](/de/education/mindfulness/) - Daily practice guide
 
 **Tools:**
-- [Goal Template](/en/goal-template) - Structure your development
-- [Diary Template](/en/diary-template) - Track your progress
+- [Goal Template](/de/goal-template) - Structure your development
+- [Diary Template](/de/diary-template) - Track your progress
 
 ### Questions?
 
@@ -631,9 +631,9 @@ Einseitiges Informationsblatt zum Mitnehmen für die Teilnehmer.
 **Email:** patrik.wiik@gmail.com
 
 **Next Steps:**
-1. Read [The Zone](/en/education/the-zone/)
-2. Use [Goal Template](/en/goal-template)
-3. Track progress in [Diary](/en/diary-template)
+1. Read [The Zone](/de/education/the-zone/)
+2. Use [Goal Template](/de/goal-template)
+3. Track progress in [Diary](/de/diary-template)
 ```
 
 </details>
@@ -654,7 +654,7 @@ Interaktive Arbeitsblätter für die Aktivitäten während der Sitzung. Die Teil
 ### Arbeitsblatt 4: Aktionsplan
 
 ::: tip Digitale Arbeitsblätter
-Ermutigen Sie die Teilnehmer, die [Zielvorlage](/en/goal-template) und die [Tagebuchvorlage](/en/diary-template) für das kontinuierliche Üben zu verwenden.
+Ermutigen Sie die Teilnehmer, die [Zielvorlage](/de/goal-template) und die [Tagebuchvorlage](/de/diary-template) für das kontinuierliche Üben zu verwenden.
 :::
 
 
@@ -714,8 +714,8 @@ Für Remote- oder Hybrid-Sitzungen:
 
 **Haben Sie Fragen zu den Materialien?**
 - E-Mail: patrik.wiik@gmail.com
-- Lesen Sie den [Sitzungsleitfaden](/en/mental-journey/session-guide)
-- Weitere Informationen zum fortgeschrittenen Format finden Sie im [Workshop-Leitfaden](/en/workshop).
+- Lesen Sie den [Sitzungsleitfaden](/de/mental-journey/session-guide)
+- Weitere Informationen zum fortgeschrittenen Format finden Sie im [Workshop-Leitfaden](/de/workshop).
 
 
 ---

@@ -166,5 +166,5 @@ Der Spieler, der bei jedem Wurf voll konzentriert ist, während die anderen in G
 
 ---
 
-| *Verwandtes Thema: [Einführung in die Achtsamkeit](/en/education/mindfulness/) | [Achtsamkeitstechniken](/en/education/mindfulness/techniques) | [Tägliche Übung](/en/education/mindfulness/daily-practice)* |
+| *Verwandtes Thema: [Einführung in die Achtsamkeit](/de/education/mindfulness/) | [Achtsamkeitstechniken](/de/education/mindfulness/techniques) | [Tägliche Übung](/de/education/mindfulness/daily-practice)* |
 

@@ -169,8 +169,8 @@ Focus op:
 
 ::: info Volgende stappen
 Als je eenmaal een solide techniek beheerst, komt de echte groei voort uit:
-- **[De Zone](/en/education/the-zone/)** - Consistent toegang krijgen tot flow-toestanden
-- **[Trainingsmethoden](/en/education/training/)** - Hoe effectief te oefenen
-- **[Mentale kracht](/en/education/mental-strength/)** - Presteren onder druk
+- **[De Zone](/nl/education/the-zone/)** - Consistent toegang krijgen tot flow-toestanden
+- **[Trainingsmethoden](/nl/education/training/)** - Hoe effectief te oefenen
+- **[Mentale kracht](/nl/education/mental-strength/)** - Presteren onder druk
 :::
 

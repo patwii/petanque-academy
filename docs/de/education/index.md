@@ -49,28 +49,28 @@ graph TD
 
 ## Unsere Lernwege
 
-### 🎯 [Die Zone (Flow-Zustand)](/en/education/the-zone/)
+### 🎯 [Die Zone (Flow-Zustand)](/de/education/the-zone/)
 Lerne, was der „Flow“ wirklich ist und wie du ihn erreichst. Verstehe die Wissenschaft hinter diesen Zuständen und entdecke praktische Techniken, um in entscheidenden Momenten Höchstleistungen zu erbringen.
 
-### 🧘 [Achtsamkeit](/en/education/mindfulness/)
+### 🧘 [Achtsamkeit](/de/education/mindfulness/)
 Meistern Sie die Kunst der Achtsamkeit. Lernen Sie wissenschaftlich erprobte Techniken, um Ihren Geist zu beruhigen, Ihre Konzentration zu verbessern und sich schnell von Fehlern zu erholen.
 
-### 📊 [Zielsetzung](/en/education/goals/)
+### 📊 [Zielsetzung](/de/education/goals/)
 Erstellen Sie einen Fahrplan für Ihre Weiterentwicklung. Lernen Sie das SMART-Framework für Pétanque kennen und entwickeln Sie einen Trainingsplan, der wirklich funktioniert.
 
-### 💪 [Mentale Stärke](/en/education/mental-strength/)
+### 💪 [Mentale Stärke](/de/education/mental-strength/)
 Entwickle die mentale Stärke, die für den Wettkampf nötig ist. Lerne, mit Druck umzugehen, Ängste zu überwinden und Routinen zu entwickeln, die Höchstleistungen ermöglichen.
 
-### 🤝 [Teamdynamik](/en/education/team-player/)
+### 🤝 [Teamdynamik](/de/education/team-player/)
 Werde zum Teamkollegen, mit dem jeder gerne zusammenspielt. Lerne alles über Kommunikation, Vertrauen und wie du zu einer erfolgreichen Teamkultur beitragen kannst.
 
-### ♟️ [Taktiken](/en/education/tactics/)
+### ♟️ [Taktiken](/de/education/tactics/)
 Denken Sie in jeder Situation strategisch. Lernen Sie, auf Wahrscheinlichkeitsrechnung basierende Entscheidungen zu treffen und wann Sie Risiken eingehen sollten.
 
-### 🏋️ [Trainingsmethoden](/en/education/training/)
+### 🏋️ [Trainingsmethoden](/de/education/training/)
 Trainiere intelligenter, nicht nur härter. Lerne, wie du dein Training strukturierst, um maximale Fortschritte zu erzielen.
 
-### 🥗 [Ernährung](/en/education/nutrition/)
+### 🥗 [Ernährung](/de/education/nutrition/)
 Optimieren Sie Ihre Gehirnleistung für maximale Präzision. Lernen Sie, wie Sie Ihre Energie und Konzentration während des gesamten Wettkampfs aufrechterhalten.
 
 
@@ -151,6 +151,6 @@ Dies ist Ihre Kurzanleitung. Speichern Sie diesen Abschnitt als Lesezeichen und 
 ## Beginne deine Reise
 
 ::: tip Empfohlener Ausgangspunkt
-Beginnen Sie mit [The Zone](/en/education/the-zone/), um die Grundlagen von Höchstleistungen zu verstehen, und erkunden Sie anschließend [Mindfulness](/en/education/mindfulness/), um praktische Techniken kennenzulernen, die Sie sofort anwenden können.
+Beginnen Sie mit [The Zone](/de/education/the-zone/), um die Grundlagen von Höchstleistungen zu verstehen, und erkunden Sie anschließend [Mindfulness](/de/education/mindfulness/), um praktische Techniken kennenzulernen, die Sie sofort anwenden können.
 :::
 

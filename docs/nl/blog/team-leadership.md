@@ -253,5 +253,5 @@ Zelfs goede leiders maken soms fouten:
 
 ---
 
-| *Gerelateerd: [Teamdynamiek](/en/education/team-player/) | [Communicatie](/en/education/team-player/communication) | [Teamchemie opbouwen](/en/blog/team-chemistry)* |
+| *Gerelateerd: [Teamdynamiek](/nl/education/team-player/) | [Communicatie](/nl/education/team-player/communication) | [Teamchemie opbouwen](/nl/blog/team-chemistry)* |
 

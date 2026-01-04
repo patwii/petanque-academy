@@ -210,5 +210,5 @@ Worte sind nicht immer notwendig. Verbindung ist es.
 
 ---
 
-| *Verwandt: [Teamdynamik](/en/education/team-player/) | [Kommunikation](/en/education/team-player/communication) | [Umgang mit Druck](/en/education/mental-strength/handling-pressure)* |
+| *Verwandt: [Teamdynamik](/de/education/team-player/) | [Kommunikation](/de/education/team-player/communication) | [Umgang mit Druck](/de/education/mental-strength/handling-pressure)* |
 

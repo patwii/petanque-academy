@@ -262,5 +262,5 @@ Tu t&#39;es bien préparé. Maintenant, fais-toi confiance et lance-toi dans la 
 
 ---
 
-| *En lien avec : [Méthodes de formation](/en/education/training/) | [Gérer la pression](/en/education/mental-strength/handling-pressure) | [Routine pré-tir](/en/education/mental-strength/pre-shot-routine)* |
+| *En lien avec : [Méthodes de formation](/fr/education/training/) | [Gérer la pression](/fr/education/mental-strength/handling-pressure) | [Routine pré-tir](/fr/education/mental-strength/pre-shot-routine)* |
 

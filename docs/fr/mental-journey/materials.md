@@ -228,13 +228,13 @@ _________________________________________________
 **Website:** carreau.app
 
 **Recommended Starting Point:**
-- [The Zone](/en/education/the-zone/) - Deep dive into flow states
-- [Mental Strength](/en/education/mental-strength/) - Building resilience
-- [Mindfulness](/en/education/mindfulness/) - Daily practice guide
+- [The Zone](/fr/education/the-zone/) - Deep dive into flow states
+- [Mental Strength](/fr/education/mental-strength/) - Building resilience
+- [Mindfulness](/fr/education/mindfulness/) - Daily practice guide
 
 **Tools:**
-- [Goal Template](/en/goal-template) - Structure your development
-- [Diary Template](/en/diary-template) - Track your progress
+- [Goal Template](/fr/goal-template) - Structure your development
+- [Diary Template](/fr/diary-template) - Track your progress
 
 ### Questions?
 
@@ -631,9 +631,9 @@ Document d&#39;une page à remettre aux participants.
 **Email:** patrik.wiik@gmail.com
 
 **Next Steps:**
-1. Read [The Zone](/en/education/the-zone/)
-2. Use [Goal Template](/en/goal-template)
-3. Track progress in [Diary](/en/diary-template)
+1. Read [The Zone](/fr/education/the-zone/)
+2. Use [Goal Template](/fr/goal-template)
+3. Track progress in [Diary](/fr/diary-template)
 ```
 
 </details>
@@ -654,7 +654,7 @@ Fiches de travail interactives pour les activités en séance. Les participants 
 ### Feuille de travail 4 : Plan d&#39;action
 
 ::: tip Feuilles de travail numériques
-Encouragez les participants à utiliser le [Modèle d&#39;objectif](/en/goal-template) et le [Modèle de journal](/en/diary-template) pour une pratique continue.
+Encouragez les participants à utiliser le [Modèle d&#39;objectif](/fr/goal-template) et le [Modèle de journal](/fr/diary-template) pour une pratique continue.
 :::
 
 
@@ -714,8 +714,8 @@ Pour les sessions à distance ou hybrides :
 
 **Des questions sur les matériaux ?**
 - Courriel : patrik.wiik@gmail.com
-- Consultez le [Guide de séance](/en/mental-journey/session-guide)
-- Consultez le [Guide de l&#39;atelier](/en/workshop) pour les formats avancés
+- Consultez le [Guide de séance](/fr/mental-journey/session-guide)
+- Consultez le [Guide de l&#39;atelier](/fr/workshop) pour les formats avancés
 
 
 ---

@@ -455,11 +455,11 @@ Review your diary weekly to spot:
 
 ## Ressources connexes
 
-- [Modèle de définition d&#39;objectifs](/en/goal-template) - Définissez et suivez vos objectifs d&#39;amélioration
-- [Atelier](/en/workshop) - Séances de groupe sur le mental et la réflexion
-- [Séance de formation](/en/training-session) - Pratique structurée avec des pairs
-- [Force mentale](/en/education/mental-strength) - Développer sa résilience mentale
-- [Pleine conscience](/en/education/mindfulness) - Développer la conscience et la concentration
+- [Modèle de définition d&#39;objectifs](/fr/goal-template) - Définissez et suivez vos objectifs d&#39;amélioration
+- [Atelier](/fr/workshop) - Séances de groupe sur le mental et la réflexion
+- [Séance de formation](/fr/training-session) - Pratique structurée avec des pairs
+- [Force mentale](/fr/education/mental-strength) - Développer sa résilience mentale
+- [Pleine conscience](/fr/education/mindfulness) - Développer la conscience et la concentration
 
 ---
 

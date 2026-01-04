@@ -81,7 +81,7 @@ Alimente seu cérebro para ter foco estável e mãos firmes.
 Compartilhe experiências com outros jogadores de elite em um ambiente seguro e acolhedor.
 
 ::: info Pronto para dar o próximo passo?
-Explore a nossa secção [Educação](/en/education/) ou saiba mais sobre os nossos [Workshops](/en/workshop).
+Explore a nossa secção [Educação](/pt/education/) ou saiba mais sobre os nossos [Workshops](/pt/workshop).
 :::
 
 

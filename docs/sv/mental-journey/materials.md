@@ -228,13 +228,13 @@ _________________________________________________
 **Website:** carreau.app
 
 **Recommended Starting Point:**
-- [The Zone](/en/education/the-zone/) - Deep dive into flow states
-- [Mental Strength](/en/education/mental-strength/) - Building resilience
-- [Mindfulness](/en/education/mindfulness/) - Daily practice guide
+- [The Zone](/sv/education/the-zone/) - Deep dive into flow states
+- [Mental Strength](/sv/education/mental-strength/) - Building resilience
+- [Mindfulness](/sv/education/mindfulness/) - Daily practice guide
 
 **Tools:**
-- [Goal Template](/en/goal-template) - Structure your development
-- [Diary Template](/en/diary-template) - Track your progress
+- [Goal Template](/sv/goal-template) - Structure your development
+- [Diary Template](/sv/diary-template) - Track your progress
 
 ### Questions?
 
@@ -631,9 +631,9 @@ En sidas sammanfattning som deltagarna kan behålla.
 **Email:** patrik.wiik@gmail.com
 
 **Next Steps:**
-1. Read [The Zone](/en/education/the-zone/)
-2. Use [Goal Template](/en/goal-template)
-3. Track progress in [Diary](/en/diary-template)
+1. Read [The Zone](/sv/education/the-zone/)
+2. Use [Goal Template](/sv/goal-template)
+3. Track progress in [Diary](/sv/diary-template)
 ```
 
 </details>
@@ -715,7 +715,7 @@ För distans- eller hybridsessioner:
 **Frågor om material?**
 - E-post: patrik.wiik@gmail.com
 - Granska [Sessionsguiden](/sv/mental-journey/sessionsguide)
-- Se [Workshop Guide](/en/workshop) för avancerat format
+- Se [Workshop Guide](/sv/workshop) för avancerat format
 
 
 ---

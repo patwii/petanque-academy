@@ -219,7 +219,7 @@ Quale caso di studio rispecchia meglio la tua esperienza?
 - **Discorso interiore negativo?** → Esplora [Forza mentale](/it/educazione/forza-mentale/)
 - **Sfide di squadra?** → Studia [Dinamiche di squadra](/it/istruzione/giocatore-di-squadra/)
 
-Utilizza il [modello obiettivo](/en/goal-template) per creare il tuo piano di sviluppo del gioco mentale.
+Utilizza il [modello obiettivo](/it/goal-template) per creare il tuo piano di sviluppo del gioco mentale.
 :::
 
 ## Condividi la tua storia

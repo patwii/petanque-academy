@@ -195,7 +195,7 @@ L&#39;allenamento mentale non sostituisce la pratica tecnica. Ma ti aiuta ad acc
 
 **Domande su come iniziare?**
 - E-mail: [patrik.wiik@gmail.com](mailto:patrik.wiik@gmail.com)
-- Rivedi [Casi di studio](/en/case-studies) per esempi
+- Rivedi [Casi di studio](/it/case-studies) per esempi
 - Partecipa alle discussioni nel tuo club
 
 

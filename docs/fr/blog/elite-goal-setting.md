@@ -174,5 +174,5 @@ Trouvez le juste milieu où les objectifs sont stimulants sans être insurmontab
 
 ---
 
-| *À consulter également : [Introduction à la définition d’objectifs](/en/education/goals/) | [Objectifs SMART](/en/education/goals/smart-goals) | [Planifier votre développement](/en/education/goals/planning)* |
+| *À consulter également : [Introduction à la définition d’objectifs](/fr/education/goals/) | [Objectifs SMART](/fr/education/goals/smart-goals) | [Planifier votre développement](/fr/education/goals/planning)* |
 

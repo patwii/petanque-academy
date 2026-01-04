@@ -228,13 +228,13 @@ _________________________________________________
 **Website:** carreau.app
 
 **Recommended Starting Point:**
-- [The Zone](/en/education/the-zone/) - Deep dive into flow states
-- [Mental Strength](/en/education/mental-strength/) - Building resilience
-- [Mindfulness](/en/education/mindfulness/) - Daily practice guide
+- [The Zone](/nl/education/the-zone/) - Deep dive into flow states
+- [Mental Strength](/nl/education/mental-strength/) - Building resilience
+- [Mindfulness](/nl/education/mindfulness/) - Daily practice guide
 
 **Tools:**
-- [Goal Template](/en/goal-template) - Structure your development
-- [Diary Template](/en/diary-template) - Track your progress
+- [Goal Template](/nl/goal-template) - Structure your development
+- [Diary Template](/nl/diary-template) - Track your progress
 
 ### Questions?
 
@@ -631,9 +631,9 @@ Een beknopte samenvatting van één pagina die deelnemers kunnen bewaren.
 **Email:** patrik.wiik@gmail.com
 
 **Next Steps:**
-1. Read [The Zone](/en/education/the-zone/)
-2. Use [Goal Template](/en/goal-template)
-3. Track progress in [Diary](/en/diary-template)
+1. Read [The Zone](/nl/education/the-zone/)
+2. Use [Goal Template](/nl/goal-template)
+3. Track progress in [Diary](/nl/diary-template)
 ```
 
 </details>
@@ -654,7 +654,7 @@ Interactieve werkbladen voor activiteiten tijdens de sessie. Deelnemers kunnen d
 ### Werkblad 4: Actieplan
 
 ::: tip Digitale werkbladen
-Moedig deelnemers aan om de [Doelsjabloon](/en/goal-template) en [Dagboeksjabloon](/en/diary-template) te gebruiken voor voortdurende oefening.
+Moedig deelnemers aan om de [Doelsjabloon](/nl/goal-template) en [Dagboeksjabloon](/nl/diary-template) te gebruiken voor voortdurende oefening.
 :::
 
 
@@ -714,8 +714,8 @@ Voor sessies op afstand of hybride sessies:
 
 **Vragen over materialen?**
 - E-mail: patrik.wiik@gmail.com
-- Bekijk de [Sessiehandleiding](/en/mental-journey/session-guide)
-- Raadpleeg de [Workshopgids](/en/workshop) voor een geavanceerde versie.
+- Bekijk de [Sessiehandleiding](/nl/mental-journey/session-guide)
+- Raadpleeg de [Workshopgids](/nl/workshop) voor een geavanceerde versie.
 
 
 ---

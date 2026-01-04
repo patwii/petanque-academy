@@ -25,7 +25,7 @@ Marcus erkannte ein klares Muster: In Vereinsspielen spielte er befreit und selb
 
 ### Die mentale Spielanalyse
 
-Anhand der Prinzipien von [The Zone](/en/education/the-zone/) haben wir das Problem identifiziert:
+Anhand der Prinzipien von [The Zone](/de/education/the-zone/) haben wir das Problem identifiziert:
 
 **Verwechslung von technischem Modus und Durchflussmodus**
 
@@ -35,21 +35,21 @@ Marcus verharrte während der Ausführung im „technischen Modus“. Bei Meiste
 
 **1. Entwicklung einer Routine vor der Impfung**
 
-Wir haben eine spezielle Routine erstellt (aus [Mentale Stärke](/en/education/mental-strength/pre-shot-routine)):
+Wir haben eine spezielle Routine erstellt (aus [Mentale Stärke](/de/education/mental-strength/pre-shot-routine)):
 - Äußerer Kreis: Situation analysieren (maximal 30 Sekunden)
 - Gehen zum Kreis: Übergangsatem
 - Im Kreis: Augen nur auf das Ziel, Vertrauenstraining
 
 **2. Achtsamkeitsübung**
 
-Tägliche 10-minütige Übung mit Techniken aus der [Achtsamkeit](/en/education/mindfulness/daily-practice):
+Tägliche 10-minütige Übung mit Techniken aus der [Achtsamkeit](/de/education/mindfulness/daily-practice):
 - Körperscan zur Erkennung von Spannungen
 - Atemwahrnehmung im Wettkampf
 - Training zur Konzentration auf den gegenwärtigen Moment
 
 **3. Wettbewerbssimulation**
 
-Geänderter Trainingsansatz unter Verwendung von [Trainingsmethoden](/en/education/training/):
+Geänderter Trainingsansatz unter Verwendung von [Trainingsmethoden](/de/education/training/):
 - Zusätzlicher Druck bei den Übungseinheiten
 - Den &quot;Schaltmoment&quot; wiederholt geübt.
 - Aufgezeichnete Aufführung unter verschiedenen Bedingungen
@@ -83,7 +83,7 @@ Sophie war ihre eigene größte Feindin. Nach einem missglückten Wurf:
 
 ### Die mentale Spielanalyse
 
-Klassisches Problem des „inneren Kritikers“ aus [Mental Strength](/en/education/mental-strength/):
+Klassisches Problem des „inneren Kritikers“ aus [Mental Strength](/de/education/mental-strength/):
 
 Der innere Kritiker war:
 - Das Selbstvertrauen wird nach Fehlern zerstört
@@ -110,7 +110,7 @@ Es wurde ein spezifischer 3-stufiger Prozess erstellt:
 
 **3. Teamkommunikation**
 
-Aus [Team Dynamics](/en/education/team-player/communication):
+Aus [Team Dynamics](/de/education/team-player/communication):
 - Die Herausforderung des inneren Kritikers habe ich mit meinen Teamkollegen geteilt.
 - Ich bat um Unterstützung, um positiv zu bleiben.
 - Es wurde eine Teamkultur des konstruktiven Feedbacks geschaffen
@@ -143,7 +143,7 @@ Jean war fachlich brillant, aber:
 
 ### Die mentale Spielanalyse
 
-Anwendung der Prinzipien der [Teamdynamik](/en/education/team-player/):
+Anwendung der Prinzipien der [Teamdynamik](/de/education/team-player/):
 
 Das Problem war nicht technischer, sondern psychologischer Natur:
 - Mangelndes Vertrauen in die Teamkollegen
@@ -163,7 +163,7 @@ Strukturierte Kommunikation implementiert:
 
 **2. Vertrauensbildung**
 
-Von [Team Player](/en/education/team-player/):
+Von [Team Player](/de/education/team-player/):
 - Übte, Vertrauen verbal auszudrücken
 - Gemeinsame Entscheidungsfindung
 - Gefeierte Erfolge der Teamkollegen
@@ -215,11 +215,11 @@ Alle Spieler verzeichneten konkrete Verbesserungen in ihren Wettkampfergebnissen
 ::: tip Jetzt bist du dran
 Welche Fallstudie entspricht Ihren Erfahrungen?
 
-- **Sie fühlen sich unter Druck gesetzt?** → Beginnen Sie mit [The Zone](/en/education/the-zone/)
-- **Negatives Selbstgespräch?** → Mehr über [Mentale Stärke](/en/education/mental-strength/) erfahren
-- **Herausforderungen im Team?** → Studieren Sie [Teamdynamik](/en/education/team-player/)
+- **Sie fühlen sich unter Druck gesetzt?** → Beginnen Sie mit [The Zone](/de/education/the-zone/)
+- **Negatives Selbstgespräch?** → Mehr über [Mentale Stärke](/de/education/mental-strength/) erfahren
+- **Herausforderungen im Team?** → Studieren Sie [Teamdynamik](/de/education/team-player/)
 
-Verwenden Sie die [Zielvorlage](/en/goal-template), um Ihren eigenen Plan zur mentalen Spielentwicklung zu erstellen.
+Verwenden Sie die [Zielvorlage](/de/goal-template), um Ihren eigenen Plan zur mentalen Spielentwicklung zu erstellen.
 :::
 
 ## Teile deine Geschichte

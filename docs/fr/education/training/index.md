@@ -187,7 +187,7 @@ Consacrez du temps spécifiquement aux compétences mentales :
 
 ## Dans cette section
 
-- **[Exercices d&#39;entraînement](/en/education/training/drills)** - Exercices spécifiques pour différentes compétences
+- **[Exercices d&#39;entraînement](/fr/education/training/drills)** - Exercices spécifiques pour différentes compétences
 
 ## Points clés à retenir
 

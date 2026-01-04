@@ -262,5 +262,5 @@ Você se preparou bem. Agora confie nisso e compita.
 
 ---
 
-| *Relacionado: [Métodos de Treinamento](/en/education/training/) | [Lidando com a Pressão](/en/education/mental-strength/handling-pressure) | [Rotina Pré-Injeção](/en/education/mental-strength/pre-shot-routine)* |
+| *Relacionado: [Métodos de Treinamento](/pt/education/training/) | [Lidando com a Pressão](/pt/education/mental-strength/handling-pressure) | [Rotina Pré-Injeção](/pt/education/mental-strength/pre-shot-routine)* |
 

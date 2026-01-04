@@ -187,7 +187,7 @@ Besteed specifiek tijd aan mentale vaardigheden:
 
 ## In deze sectie
 
-- **[Trainingsoefeningen](/en/education/training/drills)** - Specifieke oefeningen voor verschillende vaardigheden
+- **[Trainingsoefeningen](/nl/education/training/drills)** - Specifieke oefeningen voor verschillende vaardigheden
 
 ## Belangrijkste conclusie
 

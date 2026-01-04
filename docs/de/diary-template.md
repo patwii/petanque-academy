@@ -455,11 +455,11 @@ Es ist schwierig, alte Einträge zu finden.
 
 ## Verwandte Ressourcen
 
-- [Vorlage zur Zielsetzung](/en/goal-template) - Setzen und verfolgen Sie Ihre Verbesserungsziele
-- [Workshop](/en/workshop) - Gruppensitzungen zu mentalem Spiel und Reflexion
-- [Training Session](/en/training-session) - Strukturiertes Üben mit Kollegen
-- [Mentale Stärke](/en/education/mental-strength) - Mentale Widerstandsfähigkeit stärken
-- [Achtsamkeit](/en/education/mindfulness) - Bewusstsein und Konzentration entwickeln
+- [Vorlage zur Zielsetzung](/de/goal-template) - Setzen und verfolgen Sie Ihre Verbesserungsziele
+- [Workshop](/de/workshop) - Gruppensitzungen zu mentalem Spiel und Reflexion
+- [Training Session](/de/training-session) - Strukturiertes Üben mit Kollegen
+- [Mentale Stärke](/de/education/mental-strength) - Mentale Widerstandsfähigkeit stärken
+- [Achtsamkeit](/de/education/mindfulness) - Bewusstsein und Konzentration entwickeln
 
 ---
 

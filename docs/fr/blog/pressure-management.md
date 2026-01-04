@@ -160,5 +160,5 @@ L&#39;essentiel est de canaliser cette énergie de manière productive plutôt q
 
 ---
 
-| *En lien avec : [Gérer la pression](/en/education/mental-strength/handling-pressure) | [Routine de préparation au tir](/en/education/mental-strength/pre-shot-routine) | [La Zone](/en/education/the-zone/)* |
+| *En lien avec : [Gérer la pression](/fr/education/mental-strength/handling-pressure) | [Routine de préparation au tir](/fr/education/mental-strength/pre-shot-routine) | [La Zone](/fr/education/the-zone/)* |
 

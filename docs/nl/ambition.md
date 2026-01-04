@@ -81,7 +81,7 @@ Geef je hersenen de juiste brandstof voor een stabiele concentratie en vaste han
 Deel ervaringen met andere topspelers in een veilige en ondersteunende omgeving.
 
 ::: info Klaar voor de volgende stap?
-Verken onze sectie [Onderwijs](/en/education/) of kom meer te weten over onze [Workshops](/en/workshop).
+Verken onze sectie [Onderwijs](/nl/education/) of kom meer te weten over onze [Workshops](/nl/workshop).
 :::
 
 

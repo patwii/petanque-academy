@@ -189,5 +189,5 @@ Resilienz ist keine Eigenschaft, die man hat oder nicht hat – sie ist eine Fä
 
 ---
 
-| *Verwandt: [Mentale Stärke](/en/education/mental-strength/) | [Umgang mit Druck](/en/education/mental-strength/handling-pressure) | [Die Zone](/en/education/the-zone/)* |
+| *Verwandt: [Mentale Stärke](/de/education/mental-strength/) | [Umgang mit Druck](/de/education/mental-strength/handling-pressure) | [Die Zone](/de/education/the-zone/)* |
 

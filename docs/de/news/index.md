@@ -41,28 +41,28 @@ Wir haben **8 umfassende Schulungsmodule** eingeführt, die alles von Flow-Zust�
 
 | Modul | Was ist drin? | Hauptmerkmale |
 |--------|---------------|--------------|
-| **[Die Zone](/en/education/the-zone/)** | Flow-Zustandsbeherrschung | 4 detaillierte Anleitungen zum Einstieg und zur Aufrechterhaltung des Arbeitsflusses |
-| **[Mentale Stärke](/en/education/mental-strength/)** | Druckhandhabung | Vorbereitungsroutinen vor dem Dreh, Umgang mit dem inneren Kritiker |
-| **[Achtsamkeit](/en/education/mindfulness/)** | Gegenwärtiges Bewusstsein | Tägliche Übungen, Wettkampftechniken |
+| **[Die Zone](/de/education/the-zone/)** | Flow-Zustandsbeherrschung | 4 detaillierte Anleitungen zum Einstieg und zur Aufrechterhaltung des Arbeitsflusses |
+| **[Mentale Stärke](/de/education/mental-strength/)** | Druckhandhabung | Vorbereitungsroutinen vor dem Dreh, Umgang mit dem inneren Kritiker |
+| **[Achtsamkeit](/de/education/mindfulness/)** | Gegenwärtiges Bewusstsein | Tägliche Übungen, Wettkampftechniken |
 | **[Ziele](/de/bildung/ziele/)** | Strategische Planung | SMART-Ziele, Hierarchie, Trackingsysteme |
-| **[Taktiken](/en/education/tactics/)** | Spielstrategie | Entscheidungsfindung, Wahrscheinlichkeit, Positionierung |
-| **[Teamspieler](/en/education/team-player/)** | Teamfähigkeit | Kommunikation, Vertrauen, Teamdynamik |
-| **[Schulung](/en/education/training/)** | Übungsmethoden | Übungen, gezieltes Üben, Fortschritt |
-| **[Ernährung](/en/education/nutrition/)** | Hochleistungskraftstoff | Blutzuckermanagement, Wettkampfernährung |
+| **[Taktiken](/de/education/tactics/)** | Spielstrategie | Entscheidungsfindung, Wahrscheinlichkeit, Positionierung |
+| **[Teamspieler](/de/education/team-player/)** | Teamfähigkeit | Kommunikation, Vertrauen, Teamdynamik |
+| **[Schulung](/de/education/training/)** | Übungsmethoden | Übungen, gezieltes Üben, Fortschritt |
+| **[Ernährung](/de/education/nutrition/)** | Hochleistungskraftstoff | Blutzuckermanagement, Wettkampfernährung |
 
 ### 🛠️ Praktische Werkzeuge
 
 **Sofort einsatzbereite Vorlagen und Programme:**
 
-- **[Workshop](/en/workshop)** - Strukturierte 3-stündige Sitzungen zur mentalen Spielentwicklung
-- **[Trainingslager](/en/training-camp)** - Intensive Wochenendprogramme für Spitzenspieler
-- **[Training Session](/en/training-session)** - 2-3 Stunden Übungsrahmen
-- **[Zielvorlage](/en/goal-template)** – Komplettes System zur Zielsetzung und -verfolgung
-- **[Tagebuchvorlage](/en/diary-template)** – Tagebuch für tägliche Übungen und Reflexionen
+- **[Workshop](/de/workshop)** - Strukturierte 3-stündige Sitzungen zur mentalen Spielentwicklung
+- **[Trainingslager](/de/training-camp)** - Intensive Wochenendprogramme für Spitzenspieler
+- **[Training Session](/de/training-session)** - 2-3 Stunden Übungsrahmen
+- **[Zielvorlage](/de/goal-template)** – Komplettes System zur Zielsetzung und -verfolgung
+- **[Tagebuchvorlage](/de/diary-template)** – Tagebuch für tägliche Übungen und Reflexionen
 
 ### 🎯 Technischer Leitfaden
 
-**[Technische Hinweise](/en/technical/)** Abschnitt enthält:
+**[Technische Hinweise](/de/technical/)** Abschnitt enthält:
 - Vollständiger Leitfaden für alle Boule-Würfe
 - Strategien zur Trajektorienauswahl
 - Techniken zur Spinkontrolle
@@ -70,7 +70,7 @@ Wir haben **8 umfassende Schulungsmodule** eingeführt, die alles von Flow-Zust�
 
 ### 🍽️ Ernährung für optimale Leistung
 
-**[Essen](/en/food)** - Umfassender Leitfaden zu:
+**[Essen](/de/food)** - Umfassender Leitfaden zu:
 - Blutzuckermanagement für einen stabilen Fokus
 - Ernährungsstrategien vor dem Wettkampf
 - Energieoptimierung für Turniere
@@ -81,21 +81,21 @@ Wir haben **8 umfassende Schulungsmodule** eingeführt, die alles von Flow-Zust�
 
 | Kategorie | Artikel |
 |----------|----------|
-| **Den inneren Kritiker verstehen** | [Innerer Kritiker](/en/blog/inner-critic) – Meistere deinen inneren Dialog |
-| **Aufbau von Vorbereitungsroutinen vor dem Spritzen** | [Vorbereitungsroutinen](/en/blog/pre-shot-routines) – Für mehr Konstanz sorgen |
-| **Druckmanagement** | [Druckmanagement](/en/blog/pressure-management) – Leistung unter Stress |
-| **Leistungspsychologie** | [Flow-Zustände](/en/blog/flow-state-science) • [Achtsamkeit](/en/blog/mindfulness-competition) • [Zielsetzung](/en/blog/elite-goal-setting) • [Mentale Resilienz](/en/blog/mental-resilience) |
-| **Teamdynamik** | [Kommunikation](/en/blog/team-communication) • [Teamchemie](/en/blog/team-chemistry) • [Führung](/en/blog/team-leadership) |
-| **Ausbildung &amp; Weiterbildung** | [Fehler im mentalen Training](/en/blog/mental-training-mistakes) • [Trainingsstruktur](/en/blog/practice-structure) • [Wettkampfvorbereitung](/en/blog/competition-prep) |
+| **Den inneren Kritiker verstehen** | [Innerer Kritiker](/de/blog/inner-critic) – Meistere deinen inneren Dialog |
+| **Aufbau von Vorbereitungsroutinen vor dem Spritzen** | [Vorbereitungsroutinen](/de/blog/pre-shot-routines) – Für mehr Konstanz sorgen |
+| **Druckmanagement** | [Druckmanagement](/de/blog/pressure-management) – Leistung unter Stress |
+| **Leistungspsychologie** | [Flow-Zustände](/de/blog/flow-state-science) • [Achtsamkeit](/de/blog/mindfulness-competition) • [Zielsetzung](/de/blog/elite-goal-setting) • [Mentale Resilienz](/de/blog/mental-resilience) |
+| **Teamdynamik** | [Kommunikation](/de/blog/team-communication) • [Teamchemie](/de/blog/team-chemistry) • [Führung](/de/blog/team-leadership) |
+| **Ausbildung &amp; Weiterbildung** | [Fehler im mentalen Training](/de/blog/mental-training-mistakes) • [Trainingsstruktur](/de/blog/practice-structure) • [Wettkampfvorbereitung](/de/blog/competition-prep) |
 
-➡️ **[Alle Artikel ansehen](/en/blog/)**
+➡️ **[Alle Artikel ansehen](/de/blog/)**
 
 ### 📖 Ressourcen
 
 **Fallstudien &amp; Erfahrungsberichte:**
 
-- **[Fallstudien](/en/case-studies)** – Beispiele aus der Praxis von Spitzenspielern, die mentales Training nutzen.
-- **[Testimonials](/en/testimonials)** - Feedback von Spielern, die diese Methoden angewendet haben
+- **[Fallstudien](/de/case-studies)** – Beispiele aus der Praxis von Spitzenspielern, die mentales Training nutzen.
+- **[Testimonials](/de/testimonials)** - Feedback von Spielern, die diese Methoden angewendet haben
 
 ## Unsere Mission
 
@@ -136,25 +136,25 @@ Spitzenspieler beherrschen die Technik bereits. Der nächste Durchbruch liegt im
 
 **Beginnen Sie mit den Grundlagen:**
 
-1. **[Ambition](/en/ambition)** – Die Philosophie hinter der Eliteentwicklung verstehen
-2. **[Die Zone](/en/education/the-zone/)** – Erfahre mehr über Flow-Zustände
-3. **[Zielvorlage](/en/goal-template)** – Setzen Sie sich Ihre ersten strukturierten Ziele
+1. **[Ambition](/de/ambition)** – Die Philosophie hinter der Eliteentwicklung verstehen
+2. **[Die Zone](/de/education/the-zone/)** – Erfahre mehr über Flow-Zustände
+3. **[Zielvorlage](/de/goal-template)** – Setzen Sie sich Ihre ersten strukturierten Ziele
 
 ### Für erfahrene Spieler
 
 **Vertiefen Sie sich in fortgeschrittene Themen:**
 
-1. **[Mentale Stärke](/en/education/mental-strength/)** – Drucksituationen meistern
-2. **[Taktiken](/en/education/tactics/)** – Strategische Entscheidungsfindung verfeinern
-3. **[Workshop](/en/workshop)** – Strukturierte mentale Trainingseinheiten durchführen
+1. **[Mentale Stärke](/de/education/mental-strength/)** – Drucksituationen meistern
+2. **[Taktiken](/de/education/tactics/)** – Strategische Entscheidungsfindung verfeinern
+3. **[Workshop](/de/workshop)** – Strukturierte mentale Trainingseinheiten durchführen
 
 ### Für Teams
 
 **Gemeinsame Exzellenz aufbauen:**
 
-1. **[Teamplayer](/en/education/team-player/)** - Teamdynamik verbessern
-2. **[Trainingslager](/en/training-camp)** - Wochenend-Intensivkurse organisieren
-3. **[Training Session](/en/training-session)** - Strukturierte Teamübungen
+1. **[Teamplayer](/de/education/team-player/)** - Teamdynamik verbessern
+2. **[Trainingslager](/de/training-camp)** - Wochenend-Intensivkurse organisieren
+3. **[Training Session](/de/training-session)** - Strukturierte Teamübungen
 
 ## Was macht dieses Produkt anders?
 
@@ -172,7 +172,7 @@ Spitzenspieler beherrschen die Technik bereits. Der nächste Durchbruch liegt im
 
 **Möchten Sie mitwirken oder Feedback geben?**
 
-Besuchen Sie unsere **[Über uns](/en/about)**-Seite, um mehr zu erfahren:
+Besuchen Sie unsere **[Über uns](/de/about)**-Seite, um mehr zu erfahren:
 - Erfahren Sie mehr über die Plattform
 - Teilen Sie uns Ihr Feedback mit.
 - Spezifische Inhalte anfordern

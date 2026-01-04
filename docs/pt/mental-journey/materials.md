@@ -228,13 +228,13 @@ _________________________________________________
 **Website:** carreau.app
 
 **Recommended Starting Point:**
-- [The Zone](/en/education/the-zone/) - Deep dive into flow states
-- [Mental Strength](/en/education/mental-strength/) - Building resilience
-- [Mindfulness](/en/education/mindfulness/) - Daily practice guide
+- [The Zone](/pt/education/the-zone/) - Deep dive into flow states
+- [Mental Strength](/pt/education/mental-strength/) - Building resilience
+- [Mindfulness](/pt/education/mindfulness/) - Daily practice guide
 
 **Tools:**
-- [Goal Template](/en/goal-template) - Structure your development
-- [Diary Template](/en/diary-template) - Track your progress
+- [Goal Template](/pt/goal-template) - Structure your development
+- [Diary Template](/pt/diary-template) - Track your progress
 
 ### Questions?
 
@@ -631,9 +631,9 @@ Resumo de uma página para os participantes levarem consigo.
 **Email:** patrik.wiik@gmail.com
 
 **Next Steps:**
-1. Read [The Zone](/en/education/the-zone/)
-2. Use [Goal Template](/en/goal-template)
-3. Track progress in [Diary](/en/diary-template)
+1. Read [The Zone](/pt/education/the-zone/)
+2. Use [Goal Template](/pt/goal-template)
+3. Track progress in [Diary](/pt/diary-template)
 ```
 
 </details>
@@ -654,7 +654,7 @@ Fichas de trabalho interativas para atividades durante a sessão. Os participant
 ### Folha de atividades 4: Plano de ação
 
 ::: tip Planilhas digitais
-Incentive os participantes a usar o [Modelo de Meta](/en/goal-template) e o [Modelo de Diário](/en/diary-template) para prática contínua.
+Incentive os participantes a usar o [Modelo de Meta](/pt/goal-template) e o [Modelo de Diário](/pt/diary-template) para prática contínua.
 :::
 
 
@@ -714,8 +714,8 @@ Para sessões remotas ou híbridas:
 
 **Dúvidas sobre os materiais?**
 - E-mail: patrik.wiik@gmail.com
-- Consulte o [Guia da Sessão](/en/mental-journey/session-guide)
-- Consulte o [Guia do Workshop](/en/workshop) para obter informações sobre formatação avançada.
+- Consulte o [Guia da Sessão](/pt/mental-journey/session-guide)
+- Consulte o [Guia do Workshop](/pt/workshop) para obter informações sobre formatação avançada.
 
 
 ---

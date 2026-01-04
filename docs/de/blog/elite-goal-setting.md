@@ -174,5 +174,5 @@ Finde die ideale Balance, bei der Ziele herausfordernd, aber nicht überfordernd
 
 ---
 
-| *Verwandtes Thema: [Einführung in die Zielsetzung](/en/education/goals/) | [SMART Goals](/en/education/goals/smart-goals) | [Planung Ihrer Entwicklung](/en/education/goals/planning)* |
+| *Verwandtes Thema: [Einführung in die Zielsetzung](/de/education/goals/) | [SMART Goals](/de/education/goals/smart-goals) | [Planung Ihrer Entwicklung](/de/education/goals/planning)* |
 

@@ -141,8 +141,8 @@ Schrijf je antwoorden op. Kijk er nog eens naar terug als je motivatie afneemt.
 
 ## In deze sectie
 
-- **[SMART-doelen in detail](/en/education/goals/smart-goals)** - Een diepgaande analyse van het formuleren van effectieve doelen
-- **[Je trainingsplan opstellen](/en/education/goals/planning)** - Zet doelen om in actie
+- **[SMART-doelen in detail](/nl/education/goals/smart-goals)** - Een diepgaande analyse van het formuleren van effectieve doelen
+- **[Je trainingsplan opstellen](/nl/education/goals/planning)** - Zet doelen om in actie
 
 ## Samenvatting: Regels voor het stellen van doelen
 

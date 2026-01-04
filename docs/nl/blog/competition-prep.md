@@ -262,5 +262,5 @@ Je hebt je goed voorbereid. Vertrouw er nu op en ga de strijd aan.
 
 ---
 
-| *Gerelateerd: [Trainingsmethoden](/en/education/training/) | [Omgaan met druk](/en/education/mental-strength/handling-pressure) | [Voorbereidende routine](/en/education/mental-strength/pre-shot-routine)* |
+| *Gerelateerd: [Trainingsmethoden](/nl/education/training/) | [Omgaan met druk](/nl/education/mental-strength/handling-pressure) | [Voorbereidende routine](/nl/education/mental-strength/pre-shot-routine)* |
 

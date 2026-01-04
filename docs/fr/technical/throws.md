@@ -169,8 +169,8 @@ Se concentrer sur:
 
 ::: info Prochaines étapes
 Une fois que vous maîtrisez la technique, la véritable progression provient de :
-- **[La Zone](/en/education/the-zone/)** - Accéder aux états de flow de manière constante
-- **[Méthodes de formation](/en/education/training/)** - Comment pratiquer efficacement
-- **[Force mentale](/en/education/mental-strength/)** - Performance sous pression
+- **[La Zone](/fr/education/the-zone/)** - Accéder aux états de flow de manière constante
+- **[Méthodes de formation](/fr/education/training/)** - Comment pratiquer efficacement
+- **[Force mentale](/fr/education/mental-strength/)** - Performance sous pression
 :::
 

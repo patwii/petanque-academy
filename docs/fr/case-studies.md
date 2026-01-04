@@ -25,7 +25,7 @@ Marcus a remarqué une tendance claire : en club, il jouait avec aisance et ass
 
 ### L&#39;analyse du jeu mental
 
-En nous appuyant sur les principes de [The Zone](/en/education/the-zone/), nous avons identifié le problème :
+En nous appuyant sur les principes de [The Zone](/fr/education/the-zone/), nous avons identifié le problème :
 
 **Confusion entre le mode technique et le mode flux**
 
@@ -35,21 +35,21 @@ Marcus restait concentré sur sa technique lors de l&#39;exécution. En champion
 
 **1. Développement de la routine de pré-prise de vue**
 
-Nous avons créé une routine spécifique (tirée de [Mental Strength](/en/education/mental-strength/pre-shot-routine)) :
+Nous avons créé une routine spécifique (tirée de [Mental Strength](/fr/education/mental-strength/pre-shot-routine)) :
 - Cercle extérieur : Analyser la situation (30 secondes max)
 - Marcher vers le cercle : respiration de transition
 - En cercle : Concentration maximale, entraînement à la confiance
 
 **2. Pratique de la pleine conscience**
 
-Pratique quotidienne de 10 minutes utilisant des techniques de [Pleine conscience](/en/education/mindfulness/daily-practice) :
+Pratique quotidienne de 10 minutes utilisant des techniques de [Pleine conscience](/fr/education/mindfulness/daily-practice) :
 - Scan corporel pour identifier les tensions
 - Conscience de la respiration pour la compétition
 - formation à la concentration sur le moment présent
 
 **3. Simulation de compétition**
 
-Approche de formation modifiée utilisant [Training Methods](/en/education/training/) :
+Approche de formation modifiée utilisant [Training Methods](/fr/education/training/) :
 - Pression accrue sur les séances d&#39;entraînement
 - J&#39;ai répété le moment du « basculement » à plusieurs reprises.
 - Performance enregistrée dans différentes conditions
@@ -83,7 +83,7 @@ Sophie était sa propre pire ennemie. Après un mauvais lancer :
 
 ### L&#39;analyse du jeu mental
 
-Problème classique de « critique intérieure » tiré de [Mental Strength](/en/education/mental-strength/) :
+Problème classique de « critique intérieure » tiré de [Mental Strength](/fr/education/mental-strength/) :
 
 La voix intérieure critique était :
 - Détruire la confiance après des erreurs
@@ -110,7 +110,7 @@ J&#39;ai créé un processus spécifique en 3 étapes :
 
 **3. Communication d&#39;équipe**
 
-Extrait de [Dynamique d&#39;équipe](/en/education/team-player/communication) :
+Extrait de [Dynamique d&#39;équipe](/fr/education/team-player/communication) :
 - J&#39;ai partagé le défi de la critique intérieure avec mes coéquipiers.
 - J&#39;ai demandé du soutien pour rester positif.
 - J&#39;ai instauré une culture d&#39;équipe basée sur le feedback constructif.
@@ -143,7 +143,7 @@ Jean était techniquement brillant, mais :
 
 ### L&#39;analyse du jeu mental
 
-En utilisant les principes de la [Dynamique d&#39;équipe](/en/education/team-player/) :
+En utilisant les principes de la [Dynamique d&#39;équipe](/fr/education/team-player/) :
 
 Le problème n&#39;était pas technique, il était psychologique :
 - Manque de confiance envers les coéquipiers
@@ -163,7 +163,7 @@ Communication structurée mise en place :
 
 **2. Instaurer la confiance**
 
-De [Team Player](/en/education/team-player/):
+De [Team Player](/fr/education/team-player/):
 - Exercer à verbaliser la confiance
 - Prise de décision partagée
 - Succès des coéquipiers célébrés
@@ -215,11 +215,11 @@ Tous les joueurs ont constaté des améliorations concrètes dans leurs résulta
 ::: tip À votre tour
 Quelle étude de cas correspond le mieux à votre expérience ?
 
-- **Vous avez du mal à gérer la pression ?** → Commencez par [The Zone](/en/education/the-zone/)
-- **Pensées négatives envers soi-même ?** → Explorez [la force mentale](/en/education/mental-strength/)
+- **Vous avez du mal à gérer la pression ?** → Commencez par [The Zone](/fr/education/the-zone/)
+- **Pensées négatives envers soi-même ?** → Explorez [la force mentale](/fr/education/mental-strength/)
 - **Des défis d&#39;équipe ?** → Étudiez la dynamique d&#39;équipe.
 
-Utilisez le [Modèle d&#39;objectif](/en/goal-template) pour créer votre propre plan de développement mental.
+Utilisez le [Modèle d&#39;objectif](/fr/goal-template) pour créer votre propre plan de développement mental.
 :::
 
 ## Partagez votre histoire

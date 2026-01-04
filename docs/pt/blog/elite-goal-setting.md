@@ -174,5 +174,5 @@ Encontre o ponto ideal em que as metas sejam desafiadoras sem serem avassaladora
 
 ---
 
-| *Relacionado: [Introdução à definição de metas](/en/education/goals/) | [Metas SMART](/en/education/goals/smart-goals) | [Planejando seu desenvolvimento](/en/education/goals/planning)* |
+| *Relacionado: [Introdução à definição de metas](/pt/education/goals/) | [Metas SMART](/pt/education/goals/smart-goals) | [Planejando seu desenvolvimento](/pt/education/goals/planning)* |
 

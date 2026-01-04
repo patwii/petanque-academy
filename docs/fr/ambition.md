@@ -81,7 +81,7 @@ Nourrissez votre cerveau pour une concentration stable et des mains sûres.
 Partagez vos expériences avec d&#39;autres joueurs d&#39;élite dans un environnement sûr et solidaire.
 
 ::: info Prêt à passer à l&#39;étape suivante ?
-Explorez notre section [Éducation](/en/education/) ou découvrez nos [Ateliers](/en/workshop).
+Explorez notre section [Éducation](/fr/education/) ou découvrez nos [Ateliers](/fr/workshop).
 :::
 
 

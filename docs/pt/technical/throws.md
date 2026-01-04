@@ -170,7 +170,7 @@ Focar em:
 ::: info Próximos passos
 Depois de dominar a técnica, o verdadeiro crescimento vem de:
 - **A Zona** - Acessando estados de fluxo de forma consistente
-- **[Métodos de Treinamento](/en/education/training/)** - Como praticar com eficácia
-- **[Força Mental](/en/education/mental-strength/)** - Desempenho sob pressão
+- **[Métodos de Treinamento](/pt/education/training/)** - Como praticar com eficácia
+- **[Força Mental](/pt/education/mental-strength/)** - Desempenho sob pressão
 :::
 

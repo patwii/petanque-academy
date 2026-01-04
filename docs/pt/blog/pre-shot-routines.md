@@ -132,5 +132,5 @@ Igualmente importante é o que você faz depois de um arremesso:
 
 ---
 
-| *Relacionado: [Guia de Rotina Pré-Arremesso](/en/education/mental-strength/pre-shot-routine) | [Lidando com a Pressão](/en/education/mental-strength/handling-pressure) | [Técnicas de Mindfulness](/en/education/mindfulness/techniques)* |
+| *Relacionado: [Guia de Rotina Pré-Arremesso](/pt/education/mental-strength/pre-shot-routine) | [Lidando com a Pressão](/pt/education/mental-strength/handling-pressure) | [Técnicas de Mindfulness](/pt/education/mindfulness/techniques)* |
 

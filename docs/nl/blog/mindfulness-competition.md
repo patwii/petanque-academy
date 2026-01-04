@@ -166,5 +166,5 @@ De speler die zich bij elke worp volledig concentreert, terwijl anderen in gedac
 
 ---
 
-| *Gerelateerd: [Inleiding tot mindfulness](/en/education/mindfulness/) | [Mindfulnesstechnieken](/en/education/mindfulness/techniques) | [Dagelijkse oefening](/en/education/mindfulness/daily-practice)* |
+| *Gerelateerd: [Inleiding tot mindfulness](/nl/education/mindfulness/) | [Mindfulnesstechnieken](/nl/education/mindfulness/techniques) | [Dagelijkse oefening](/nl/education/mindfulness/daily-practice)* |
 

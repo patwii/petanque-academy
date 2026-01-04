@@ -228,13 +228,13 @@ _________________________________________________
 **Website:** carreau.app
 
 **Recommended Starting Point:**
-- [The Zone](/en/education/the-zone/) - Deep dive into flow states
-- [Mental Strength](/en/education/mental-strength/) - Building resilience
-- [Mindfulness](/en/education/mindfulness/) - Daily practice guide
+- [The Zone](/it/education/the-zone/) - Deep dive into flow states
+- [Mental Strength](/it/education/mental-strength/) - Building resilience
+- [Mindfulness](/it/education/mindfulness/) - Daily practice guide
 
 **Tools:**
-- [Goal Template](/en/goal-template) - Structure your development
-- [Diary Template](/en/diary-template) - Track your progress
+- [Goal Template](/it/goal-template) - Structure your development
+- [Diary Template](/it/diary-template) - Track your progress
 
 ### Questions?
 
@@ -631,9 +631,9 @@ Una pagina da conservare per i partecipanti.
 **Email:** patrik.wiik@gmail.com
 
 **Next Steps:**
-1. Read [The Zone](/en/education/the-zone/)
-2. Use [Goal Template](/en/goal-template)
-3. Track progress in [Diary](/en/diary-template)
+1. Read [The Zone](/it/education/the-zone/)
+2. Use [Goal Template](/it/goal-template)
+3. Track progress in [Diary](/it/diary-template)
 ```
 
 </details>
@@ -654,7 +654,7 @@ Schede di lavoro interattive per le attività in aula. I partecipanti possono ut
 ### Foglio di lavoro 4: Piano d&#39;azione
 
 ::: tip Fogli di lavoro digitali
-Incoraggiare i partecipanti a utilizzare il [Modello obiettivo](/en/goal-template) e il [Modello di diario](/en/diary-template) per la pratica continua.
+Incoraggiare i partecipanti a utilizzare il [Modello obiettivo](/it/goal-template) e il [Modello di diario](/it/diary-template) per la pratica continua.
 :::
 
 
@@ -715,7 +715,7 @@ Per sessioni remote o ibride:
 **Domande sui materiali?**
 - E-mail: patrik.wiik@gmail.com
 - Rivedi la [Guida alla sessione](/it/mental-journey/session-guide)
-- Consultare [Guida al workshop](/en/workshop) per il formato avanzato
+- Consultare [Guida al workshop](/it/workshop) per il formato avanzato
 
 
 ---

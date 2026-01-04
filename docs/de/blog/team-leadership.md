@@ -253,5 +253,5 @@ Auch gute Führungskräfte scheitern manchmal:
 
 ---
 
-| *Verwandt: [Teamdynamik](/en/education/team-player/) | [Kommunikation](/en/education/team-player/communication) | [Aufbau von Teamchemie](/en/blog/team-chemistry)* |
+| *Verwandt: [Teamdynamik](/de/education/team-player/) | [Kommunikation](/de/education/team-player/communication) | [Aufbau von Teamchemie](/de/blog/team-chemistry)* |
 

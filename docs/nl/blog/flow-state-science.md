@@ -162,5 +162,5 @@ Net als bij elke andere vaardigheid, verbetert het bereiken van een flow-ervarin
 
 ---
 
-| *Gerelateerd: [The Zone](/en/education/the-zone/) | [De Zone Betreden](/en/education/the-zone/entering-the-zone) | [Mindfulnesstechnieken](/en/education/mindfulness/techniques)* |
+| *Gerelateerd: [The Zone](/nl/education/the-zone/) | [De Zone Betreden](/nl/education/the-zone/entering-the-zone) | [Mindfulnesstechnieken](/nl/education/mindfulness/techniques)* |
 

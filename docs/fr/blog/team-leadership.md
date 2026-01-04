@@ -253,5 +253,5 @@ Même les bons dirigeants échouent parfois :
 
 ---
 
-| *En lien avec : [Dynamique d&#39;équipe](/en/education/team-player/) | [Communication](/en/education/team-player/communication) | [Créer une bonne cohésion d&#39;équipe](/en/blog/team-chemistry)* |
+| *En lien avec : [Dynamique d&#39;équipe](/fr/education/team-player/) | [Communication](/fr/education/team-player/communication) | [Créer une bonne cohésion d&#39;équipe](/fr/blog/team-chemistry)* |
 

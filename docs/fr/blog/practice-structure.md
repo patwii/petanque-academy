@@ -236,5 +236,5 @@ Structurez votre pratique avec un objectif précis, et chaque heure comptera dav
 
 ---
 
-| *En lien avec : [Méthodes de formation](/en/education/training/) | [Exercices d&#39;entraînement](/en/education/training/drills) | [Fixation d&#39;objectifs](/en/education/goals/)* |
+| *En lien avec : [Méthodes de formation](/fr/education/training/) | [Exercices d&#39;entraînement](/fr/education/training/drills) | [Fixation d&#39;objectifs](/fr/education/goals/)* |
 

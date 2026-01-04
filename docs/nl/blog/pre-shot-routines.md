@@ -132,5 +132,5 @@ Net zo belangrijk is wat je doet na een worp:
 
 ---
 
-| *Gerelateerd: [Richtlijn voor de voorbereiding op de vaccinatie](/en/education/mental-strength/pre-shot-routine) | [Omgaan met druk](/en/education/mental-strength/handling-pressure) | [Mindfulnesstechnieken](/en/education/mindfulness/techniques)* |
+| *Gerelateerd: [Richtlijn voor de voorbereiding op de vaccinatie](/nl/education/mental-strength/pre-shot-routine) | [Omgaan met druk](/nl/education/mental-strength/handling-pressure) | [Mindfulnesstechnieken](/nl/education/mindfulness/techniques)* |
 

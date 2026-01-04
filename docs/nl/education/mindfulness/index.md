@@ -164,8 +164,8 @@ graph LR
 
 ## In deze sectie
 
-- **[Technieken](/en/education/mindfulness/techniques)** - Praktische oefeningen die je kunt gebruiken
-- **[Dagelijkse oefening](/en/education/mindfulness/daily-practice)** - Mindfulness integreren in je leven
+- **[Technieken](/nl/education/mindfulness/techniques)** - Praktische oefeningen die je kunt gebruiken
+- **[Dagelijkse oefening](/nl/education/mindfulness/daily-practice)** - Mindfulness integreren in je leven
 
 ## Samenvatting: Regels voor mindfulness
 

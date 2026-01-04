@@ -289,10 +289,10 @@ Imprima suas metas anuais e afixe-as em um local onde você as veja diariamente.
 
 ## Recursos relacionados
 
-- [Workshop](/en/workshop) - Sessões em grupo sobre definição de metas e jogo mental
-- [Sessão de Treinamento](/en/training-session) - Pratique com parceiros de responsabilização
-- [Força Mental](/en/education/mental-strength) - Desenvolva a mentalidade necessária para alcançar seus objetivos.
-- [Modelo de Diário de Treinamento](/en/diary-template) - Acompanhamento diário da prática
+- [Workshop](/pt/workshop) - Sessões em grupo sobre definição de metas e jogo mental
+- [Sessão de Treinamento](/pt/training-session) - Pratique com parceiros de responsabilização
+- [Força Mental](/pt/education/mental-strength) - Desenvolva a mentalidade necessária para alcançar seus objetivos.
+- [Modelo de Diário de Treinamento](/pt/diary-template) - Acompanhamento diário da prática
 
 ---
 

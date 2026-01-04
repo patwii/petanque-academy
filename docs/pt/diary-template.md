@@ -455,11 +455,11 @@ Conexão tátil e pessoal
 
 ## Recursos relacionados
 
-- [Modelo para definição de metas](/en/goal-template) - Defina e acompanhe suas metas de melhoria
-- [Workshop](/en/workshop) - Sessões em grupo sobre jogo mental e reflexão
-- [Sessão de Treinamento](/en/training-session) - Prática estruturada com colegas
-- [Força Mental](/en/education/mental-strength) - Desenvolva a resiliência mental
-- [Mindfulness](/en/education/mindfulness) - Desenvolver a consciência e o foco
+- [Modelo para definição de metas](/pt/goal-template) - Defina e acompanhe suas metas de melhoria
+- [Workshop](/pt/workshop) - Sessões em grupo sobre jogo mental e reflexão
+- [Sessão de Treinamento](/pt/training-session) - Prática estruturada com colegas
+- [Força Mental](/pt/education/mental-strength) - Desenvolva a resiliência mental
+- [Mindfulness](/pt/education/mindfulness) - Desenvolver a consciência e o foco
 
 ---
 

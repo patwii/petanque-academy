@@ -132,5 +132,5 @@ Genauso wichtig ist, was Sie nach einem Wurf tun:
 
 ---
 
-| *Siehe auch: [Leitfaden zur Vorbereitung auf die Impfung](/en/education/mental-strength/pre-shot-routine) | [Umgang mit Druck](/en/education/mental-strength/handling-pressure) | [Achtsamkeitstechniken](/en/education/mindfulness/techniques)* |
+| *Siehe auch: [Leitfaden zur Vorbereitung auf die Impfung](/de/education/mental-strength/pre-shot-routine) | [Umgang mit Druck](/de/education/mental-strength/handling-pressure) | [Achtsamkeitstechniken](/de/education/mindfulness/techniques)* |
 

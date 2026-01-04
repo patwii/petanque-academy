@@ -41,28 +41,28 @@ Lançamos **8 módulos educacionais abrangentes** que cobrem tudo, desde estados
 
 | Módulo | O que tem dentro | Principais características |
 |--------|---------------|--------------|
-| **[A Zona](/en/education/the-zone/)** | Domínio do estado de fluxo | 4 guias detalhados sobre como entrar e manter o fluxo |
-| **[Força Mental](/en/education/mental-strength/)** | manuseio de pressão | Rotinas pré-filmagem, gerenciamento do crítico interno |
-| **[Atenção plena](/en/education/mindfulness/)** | Consciência do momento presente | Práticas diárias, técnicas de competição |
-| **[Metas](/en/educação/metas/)** | Planejamento estratégico | Metas SMART, hierarquia, sistemas de acompanhamento |
-| **[Táticas](/en/education/tactics/)** | Estratégia de jogo | Tomada de decisão, probabilidade, posicionamento |
-| **[Jogador de Equipe](/en/education/team-player/)** | Habilidades de colaboração | Comunicação, confiança, dinâmica de equipe |
-| **[Treinamento](/en/education/training/)** | Métodos de prática | Exercícios, prática deliberada, progressão |
-| **[Nutrição](/en/education/nutrition/)** | Combustível de alto desempenho | Controle do açúcar no sangue, nutrição para competições |
+| **[A Zona](/pt/education/the-zone/)** | Domínio do estado de fluxo | 4 guias detalhados sobre como entrar e manter o fluxo |
+| **[Força Mental](/pt/education/mental-strength/)** | manuseio de pressão | Rotinas pré-filmagem, gerenciamento do crítico interno |
+| **[Atenção plena](/pt/education/mindfulness/)** | Consciência do momento presente | Práticas diárias, técnicas de competição |
+| **[Metas](/pt/educação/metas/)** | Planejamento estratégico | Metas SMART, hierarquia, sistemas de acompanhamento |
+| **[Táticas](/pt/education/tactics/)** | Estratégia de jogo | Tomada de decisão, probabilidade, posicionamento |
+| **[Jogador de Equipe](/pt/education/team-player/)** | Habilidades de colaboração | Comunicação, confiança, dinâmica de equipe |
+| **[Treinamento](/pt/education/training/)** | Métodos de prática | Exercícios, prática deliberada, progressão |
+| **[Nutrição](/pt/education/nutrition/)** | Combustível de alto desempenho | Controle do açúcar no sangue, nutrição para competições |
 
 ### 🛠️ Ferramentas Práticas
 
 **Modelos e programas prontos para uso:**
 
-- **[Workshop](/en/workshop)** - Sessões estruturadas de 3 horas para desenvolvimento de jogos mentais
-- **[Campo de Treinamento](/en/training-camp)** - Programas intensivos de fim de semana para jogadores de elite
-- **[Sessão de Treinamento](/en/training-session)** - Estruturas práticas de 2 a 3 horas
-- **[Modelo de Metas](/en/goal-template)** - Sistema completo para definição e acompanhamento de metas
-- **[Modelo de Diário](/en/diary-template)** - Diário de prática e reflexão diária
+- **[Workshop](/pt/workshop)** - Sessões estruturadas de 3 horas para desenvolvimento de jogos mentais
+- **[Campo de Treinamento](/pt/training-camp)** - Programas intensivos de fim de semana para jogadores de elite
+- **[Sessão de Treinamento](/pt/training-session)** - Estruturas práticas de 2 a 3 horas
+- **[Modelo de Metas](/pt/goal-template)** - Sistema completo para definição e acompanhamento de metas
+- **[Modelo de Diário](/pt/diary-template)** - Diário de prática e reflexão diária
 
 ### 🎯 Orientação Técnica
 
-A seção **[Aconselhamento Técnico](/en/technical/)** inclui:
+A seção **[Aconselhamento Técnico](/pt/technical/)** inclui:
 - Guia completo para todos os lançamentos de petanca
 - Estratégias de seleção de trajetória
 - técnicas de controle de rotação
@@ -70,7 +70,7 @@ A seção **[Aconselhamento Técnico](/en/technical/)** inclui:
 
 ### 🍽️ Nutrição para Desempenho
 
-**[Comida](/en/food)** - Guia completo para:
+**[Comida](/pt/food)** - Guia completo para:
 - Controle da glicemia para manter o foco estável
 - Estratégias de nutrição pré-competição
 - Otimização de energia para torneios
@@ -81,21 +81,21 @@ A seção **[Aconselhamento Técnico](/en/technical/)** inclui:
 
 | Categoria | Artigos |
 |----------|----------|
-| **Entendendo o Crítico Interior** | [Crítico Interior](/en/blog/inner-critic) - Domine seu diálogo interno |
-| **Criando Rotinas Pré-Gravação** | [Rotinas pré-filmagem](/en/blog/pre-shot-routines) - Crie consistência |
-| **Gestão de Pressão** | [Gestão da Pressão](/en/blog/pressure-management) - Desempenho sob pressão |
-| **Psicologia do Desempenho** | [Estados de Fluxo](/en/blog/flow-state-science) • [Atenção Plena](/en/blog/mindfulness-competition) • [Definição de Metas](/en/blog/elite-goal-setting) • [Resiliência Mental](/en/blog/mental-resilience) |
-| **Dinâmica de Equipe** | [Comunicação](/en/blog/team-communication) • [Química de Equipe](/en/blog/team-chemistry) • [Liderança](/en/blog/team-leadership) |
-| **Treinamento e Desenvolvimento** | [Erros no Treinamento Mental](/en/blog/mental-training-mistakes) • [Estrutura de Prática](/en/blog/practice-structure) • [Preparação para Competição](/en/blog/competition-prep) |
+| **Entendendo o Crítico Interior** | [Crítico Interior](/pt/blog/inner-critic) - Domine seu diálogo interno |
+| **Criando Rotinas Pré-Gravação** | [Rotinas pré-filmagem](/pt/blog/pre-shot-routines) - Crie consistência |
+| **Gestão de Pressão** | [Gestão da Pressão](/pt/blog/pressure-management) - Desempenho sob pressão |
+| **Psicologia do Desempenho** | [Estados de Fluxo](/pt/blog/flow-state-science) • [Atenção Plena](/pt/blog/mindfulness-competition) • [Definição de Metas](/pt/blog/elite-goal-setting) • [Resiliência Mental](/pt/blog/mental-resilience) |
+| **Dinâmica de Equipe** | [Comunicação](/pt/blog/team-communication) • [Química de Equipe](/pt/blog/team-chemistry) • [Liderança](/pt/blog/team-leadership) |
+| **Treinamento e Desenvolvimento** | [Erros no Treinamento Mental](/pt/blog/mental-training-mistakes) • [Estrutura de Prática](/pt/blog/practice-structure) • [Preparação para Competição](/pt/blog/competition-prep) |
 
-➡️ **[Ver todos os artigos](/en/blog/)**
+➡️ **[Ver todos os artigos](/pt/blog/)**
 
 ### 📖 Recursos
 
 **Estudos de Caso e Depoimentos:**
 
-- **[Estudos de Caso](/en/case-studies)** - Exemplos reais de jogadores de elite utilizando treinamento mental no jogo
-- **[Depoimentos](/en/testimonials)** - Feedback de jogadores que implementaram esses métodos
+- **[Estudos de Caso](/pt/case-studies)** - Exemplos reais de jogadores de elite utilizando treinamento mental no jogo
+- **[Depoimentos](/pt/testimonials)** - Feedback de jogadores que implementaram esses métodos
 
 ## Nossa missão
 
@@ -136,25 +136,25 @@ Jogadores de elite já dominam a técnica. O próximo avanço vem do **jogo ment
 
 **Comece pelo básico:**
 
-1. **[Ambição](/en/ambition)** - Compreender a filosofia por trás do desenvolvimento de elite.
+1. **[Ambição](/pt/ambition)** - Compreender a filosofia por trás do desenvolvimento de elite.
 2. **A Zona** - Aprenda sobre estados de fluxo
-3. **[Modelo de Metas](/en/goal-template)** - Defina suas primeiras metas estruturadas
+3. **[Modelo de Metas](/pt/goal-template)** - Defina suas primeiras metas estruturadas
 
 ### Para jogadores experientes
 
 **Aprofunde-se em tópicos avançados:**
 
-1. **[Força Mental](/en/education/mental-strength/)** - Domine situações de pressão
-2. **[Táticas](/en/education/tactics/)** - Aprimorar a tomada de decisões estratégicas
-3. **[Workshop](/en/workshop)** - Implementar sessões estruturadas de jogos mentais
+1. **[Força Mental](/pt/education/mental-strength/)** - Domine situações de pressão
+2. **[Táticas](/pt/education/tactics/)** - Aprimorar a tomada de decisões estratégicas
+3. **[Workshop](/pt/workshop)** - Implementar sessões estruturadas de jogos mentais
 
 ### Para equipes
 
 **Construir a excelência coletiva:**
 
-1. **[Jogador de Equipe](/en/education/team-player/)** - Melhore a dinâmica da equipe
-2. **[Campo de Treinamento](/en/training-camp)** - Organizar cursos intensivos de fim de semana
-3. **[Sessão de Treinamento](/en/training-session)** - Estruturar as práticas da equipe
+1. **[Jogador de Equipe](/pt/education/team-player/)** - Melhore a dinâmica da equipe
+2. **[Campo de Treinamento](/pt/training-camp)** - Organizar cursos intensivos de fim de semana
+3. **[Sessão de Treinamento](/pt/training-session)** - Estruturar as práticas da equipe
 
 ## O que torna isso diferente?
 
@@ -172,7 +172,7 @@ Jogadores de elite já dominam a técnica. O próximo avanço vem do **jogo ment
 
 **Deseja contribuir ou dar feedback?**
 
-Visite nossa página **[Sobre](/en/about)** para:
+Visite nossa página **[Sobre](/pt/about)** para:
 - Saiba mais sobre a plataforma
 - Compartilhe sua opinião
 - Solicitar conteúdo específico

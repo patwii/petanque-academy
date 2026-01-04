@@ -162,5 +162,5 @@ Assim como qualquer habilidade, alcançar o estado de fluxo melhora com a práti
 
 ---
 
-| *Relacionado: [A Zona](/en/education/the-zone/) | [Entrando na Zona](/en/education/the-zone/entering-the-zone) | [Técnicas de Mindfulness](/en/education/mindfulness/techniques)* |
+| *Relacionado: [A Zona](/pt/education/the-zone/) | [Entrando na Zona](/pt/education/the-zone/entering-the-zone) | [Técnicas de Mindfulness](/pt/education/mindfulness/techniques)* |
 

@@ -210,5 +210,5 @@ Les mots ne sont pas toujours nécessaires. Le lien, lui, l&#39;est.
 
 ---
 
-| *En lien avec : [Dynamique d&#39;équipe](/en/education/team-player/) | [Communication](/en/education/team-player/communication) | [Gérer la pression](/en/education/mental-strength/handling-pressure)* |
+| *En lien avec : [Dynamique d&#39;équipe](/fr/education/team-player/) | [Communication](/fr/education/team-player/communication) | [Gérer la pression](/fr/education/mental-strength/handling-pressure)* |
 

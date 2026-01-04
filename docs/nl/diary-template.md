@@ -455,11 +455,11 @@ Review your diary weekly to spot:
 
 ## Gerelateerde bronnen
 
-- [Sjabloon voor het stellen van doelen](/en/goal-template) - Stel je verbeteringsdoelen vast en houd ze bij.
-- [Workshop](/en/workshop) - Groepssessies over mentale training en reflectie
-- [Trainingssessie](/en/training-session) - Gestructureerde oefening met leeftijdsgenoten
-- [Mentale kracht](/en/education/mental-strength) - Bouw mentale veerkracht op
-- [Mindfulness](/en/education/mindfulness) - Ontwikkel bewustzijn en focus
+- [Sjabloon voor het stellen van doelen](/nl/goal-template) - Stel je verbeteringsdoelen vast en houd ze bij.
+- [Workshop](/nl/workshop) - Groepssessies over mentale training en reflectie
+- [Trainingssessie](/nl/training-session) - Gestructureerde oefening met leeftijdsgenoten
+- [Mentale kracht](/nl/education/mental-strength) - Bouw mentale veerkracht op
+- [Mindfulness](/nl/education/mindfulness) - Ontwikkel bewustzijn en focus
 
 ---
 

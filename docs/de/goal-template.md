@@ -289,10 +289,10 @@ Drucken Sie Ihre Jahresziele aus und hängen Sie sie dort auf, wo Sie sie tägli
 
 ## Verwandte Ressourcen
 
-- [Workshop](/en/workshop) - Gruppensitzungen zu Zielsetzung und mentalem Spiel
-- [Trainingssitzung](/en/training-session) - Üben mit Accountability-Partnern
-- [Mentale Stärke](/en/education/mental-strength) - Die richtige Einstellung für die Zielerreichung entwickeln
-- [Trainingstagebuchvorlage](/en/diary-template) - Tägliche Trainingsdokumentation
+- [Workshop](/de/workshop) - Gruppensitzungen zu Zielsetzung und mentalem Spiel
+- [Trainingssitzung](/de/training-session) - Üben mit Accountability-Partnern
+- [Mentale Stärke](/de/education/mental-strength) - Die richtige Einstellung für die Zielerreichung entwickeln
+- [Trainingstagebuchvorlage](/de/diary-template) - Tägliche Trainingsdokumentation
 
 ---
 

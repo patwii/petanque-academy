@@ -159,5 +159,5 @@ O aspecto mental do jogo pode ser treinado. Treine-o da maneira correta.
 
 ---
 
-| *Relacionado: [Força Mental](/en/education/mental-strength/) | [Métodos de Treinamento](/en/education/training/) | [Mindfulness](/en/education/mindfulness/)* |
+| *Relacionado: [Força Mental](/pt/education/mental-strength/) | [Métodos de Treinamento](/pt/education/training/) | [Mindfulness](/pt/education/mindfulness/)* |
 

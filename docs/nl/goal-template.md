@@ -289,10 +289,10 @@ Wat betekent verbetering voor jou?
 
 ## Gerelateerde bronnen
 
-- [Workshop](/en/workshop) - Groepssessies over het stellen van doelen en mentale training
-- [Trainingssessie](/en/training-session) - Oefenen met verantwoordingspartners
-- [Mentale kracht](/en/education/mental-strength) - Ontwikkel de juiste mindset voor het behalen van doelen
-- [Trainingsdagboeksjabloon](/en/diary-template) - Dagelijkse oefening bijhouden
+- [Workshop](/nl/workshop) - Groepssessies over het stellen van doelen en mentale training
+- [Trainingssessie](/nl/training-session) - Oefenen met verantwoordingspartners
+- [Mentale kracht](/nl/education/mental-strength) - Ontwikkel de juiste mindset voor het behalen van doelen
+- [Trainingsdagboeksjabloon](/nl/diary-template) - Dagelijkse oefening bijhouden
 
 ---
 

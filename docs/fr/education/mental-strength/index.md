@@ -153,8 +153,8 @@ graph LR
 
 ## Dans cette section
 
-- **[Gérer la pression](/en/education/mental-strength/handling-pressure)** - Techniques pour les situations à haut risque
-- **[Routine d&#39;avant-tir](/en/education/mental-strength/pre-shot-routine)** - Développer son déclencheur de performance
+- **[Gérer la pression](/fr/education/mental-strength/handling-pressure)** - Techniques pour les situations à haut risque
+- **[Routine d&#39;avant-tir](/fr/education/mental-strength/pre-shot-routine)** - Développer son déclencheur de performance
 
 ## Résumé : Règles de la force mentale
 

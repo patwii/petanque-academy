@@ -106,5 +106,5 @@ O crítico interno sempre fará parte de você. Mas com a prática, sua voz se s
 
 ---
 
-| *Relacionado: [Lidando com a Pressão](/en/education/mental-strength/handling-pressure) | [Rotina pré-tiro](/en/education/mental-strength/pre-shot-routine) | [Técnicas de Mindfulness](/en/education/mindfulness/techniques)* |
+| *Relacionado: [Lidando com a Pressão](/pt/education/mental-strength/handling-pressure) | [Rotina pré-tiro](/pt/education/mental-strength/pre-shot-routine) | [Técnicas de Mindfulness](/pt/education/mindfulness/techniques)* |
 

@@ -115,8 +115,8 @@ Die Lösung besteht nicht darin, *weniger* zu denken, sondern darin, zur **richt
 
 Lerne, wie du die Zone meisterst:
 
-- **[Technik vs. Flow-Training](/en/education/the-zone/technical-vs-flow)** – Verstehen, wann man sich auf die Technik konzentrieren und wann man loslassen sollte
-- **[Eintritt in den Flow](/en/education/the-zone/entering-the-zone)** - Praktische Techniken zum Erreichen des Flow-Zustands
+- **[Technik vs. Flow-Training](/de/education/the-zone/technical-vs-flow)** – Verstehen, wann man sich auf die Technik konzentrieren und wann man loslassen sollte
+- **[Eintritt in den Flow](/de/education/the-zone/entering-the-zone)** - Praktische Techniken zum Erreichen des Flow-Zustands
 
 ## Zusammenfassung: Die Zonenregeln
 

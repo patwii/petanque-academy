@@ -148,7 +148,7 @@ Maar mentale ontwikkeling? Daar valt nog enorm veel te verbeteren.
 - Identificatie van triggers voor stroomtoestanden
 - Innerlijke coach versus innerlijke criticus
 
-Zie onze [Onderwijs](/en/education/) sectie voor specifieke technieken.
+Zie onze [Onderwijs](/nl/education/) sectie voor specifieke technieken.
 
 ## De ongemakkelijke waarheid
 
@@ -187,9 +187,9 @@ Spoor:
 ### 4. Gebruik de educatieve modules
 
 Begin met:
-1. [De Zone](/en/education/the-zone/) - Flow-toestanden begrijpen
-2. [Mentale kracht](/en/education/mental-strength/) - Ontwikkel stressbestendigheid
-3. [Mindfulness](/en/education/mindfulness/) - Ontwikkel focus op het huidige moment
+1. [De Zone](/nl/education/the-zone/) - Flow-toestanden begrijpen
+2. [Mentale kracht](/nl/education/mental-strength/) - Ontwikkel stressbestendigheid
+3. [Mindfulness](/nl/education/mindfulness/) - Ontwikkel focus op het huidige moment
 
 ## Conclusie
 
@@ -204,9 +204,9 @@ De spelers die deze omschakeling maken – die mentale training als hun belangri
 
 ## Gerelateerde bronnen
 
-- [De Zone: Inzicht in de Flow-toestand](/en/education/the-zone/)
-- [Casestudies: Topspelers in actie](/en/case-studies)
-- [Doelsjabloon](/en/goal-template) - Plan je mentale spelontwikkeling
+- [De Zone: Inzicht in de Flow-toestand](/nl/education/the-zone/)
+- [Casestudies: Topspelers in actie](/nl/case-studies)
+- [Doelsjabloon](/nl/goal-template) - Plan je mentale spelontwikkeling
 
 **Vragen of opmerkingen?** Stuur een e-mail naar [patrik.wiik@gmail.com](mailto:patrik.wiik@gmail.com)
 

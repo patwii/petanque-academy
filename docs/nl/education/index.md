@@ -49,28 +49,28 @@ graph TD
 
 ## Onze leerroutes
 
-### 🎯 [De Zone (Flow State)](/en/education/the-zone/)
+### 🎯 [De Zone (Flow State)](/nl/education/the-zone/)
 Leer wat &quot;de zone&quot; werkelijk is en hoe je die kunt bereiken. Begrijp de wetenschap achter flowtoestanden en ontdek praktische technieken om optimaal te presteren wanneer het er het meest toe doet.
 
-### 🧘 [Mindfulness](/en/education/mindfulness/)
+### 🧘 [Mindfulness](/nl/education/mindfulness/)
 Beheers de kunst van het aanwezig zijn. Leer wetenschappelijk bewezen technieken om je geest tot rust te brengen, je concentratie te verbeteren en snel te herstellen van fouten.
 
-### 📊 [Doelstellingen formuleren](/en/education/goals/)
+### 📊 [Doelstellingen formuleren](/nl/education/goals/)
 Stel een routekaart op voor je ontwikkeling. Leer het SMART-raamwerk, aangepast voor pétanque, en ontwikkel een trainingsplan dat daadwerkelijk werkt.
 
-### 💪 [Mentale Kracht](/en/education/mental-strength/)
+### 💪 [Mentale Kracht](/nl/education/mental-strength/)
 Ontwikkel de mentale weerbaarheid die nodig is voor wedstrijden. Leer omgaan met druk, overwin angst en ontwikkel routines die leiden tot topprestaties.
 
-### 🤝 [Teamdynamiek](/en/education/team-player/)
+### 🤝 [Teamdynamiek](/nl/education/team-player/)
 Word de teamgenoot met wie iedereen wil spelen. Leer meer over communicatie, vertrouwen en hoe je kunt bijdragen aan een winnende teamcultuur.
 
-### ♟️ [Tactieken](/en/education/tactics/)
+### ♟️ [Tactieken](/nl/education/tactics/)
 Denk strategisch na over elke situatie. Leer besluitvorming op basis van waarschijnlijkheid en wanneer je risico&#39;s moet nemen.
 
-### 🏋️ [Trainingsmethoden](/en/education/training/)
+### 🏋️ [Trainingsmethoden](/nl/education/training/)
 Train slimmer, niet alleen harder. Leer hoe je je training kunt structureren voor maximale verbetering.
 
-### 🥗 [Voeding](/en/education/nutrition/)
+### 🥗 [Voeding](/nl/education/nutrition/)
 Geef je hersenen de brandstof voor optimale prestaties. Leer hoe je je energieniveau en focus stabiel houdt tijdens wedstrijden.
 
 
@@ -151,6 +151,6 @@ Dit is uw beknopte handleiding. Voeg dit gedeelte toe aan uw bladwijzers en raad
 ## Begin je reis
 
 ::: tip Aanbevolen startpunt
-Begin met [The Zone](/en/education/the-zone/) om de basis van topprestaties te begrijpen, en verken vervolgens [Mindfulness](/en/education/mindfulness/) voor praktische technieken die je direct kunt toepassen.
+Begin met [The Zone](/nl/education/the-zone/) om de basis van topprestaties te begrijpen, en verken vervolgens [Mindfulness](/nl/education/mindfulness/) voor praktische technieken die je direct kunt toepassen.
 :::
 

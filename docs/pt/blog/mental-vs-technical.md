@@ -148,7 +148,7 @@ Mas e o desenvolvimento do jogo mental? É aí que ainda é possível obter ganh
 - Identificação do gatilho do estado de fluxo
 - Trabalho entre o treinador interior e o crítico interior
 
-Consulte nossa seção [Educação](/en/education/) para técnicas específicas.
+Consulte nossa seção [Educação](/pt/education/) para técnicas específicas.
 
 ## A verdade incômoda
 
@@ -187,9 +187,9 @@ Acompanhar:
 ### 4. Utilize os Módulos Educacionais
 
 Comece por:
-1. [A Zona](/en/education/the-zone/) - Compreenda os estados de fluxo
-2. [Força Mental](/en/education/mental-strength/) - Desenvolva habilidades para lidar com pressão
-3. [Mindfulness](/en/education/mindfulness/) - Desenvolver o foco no momento presente
+1. [A Zona](/pt/education/the-zone/) - Compreenda os estados de fluxo
+2. [Força Mental](/pt/education/mental-strength/) - Desenvolva habilidades para lidar com pressão
+3. [Mindfulness](/pt/education/mindfulness/) - Desenvolver o foco no momento presente
 
 ## Conclusão
 
@@ -204,9 +204,9 @@ Os jogadores que fazem essa mudança — que adotam o treinamento mental como fo
 
 ## Recursos relacionados
 
-- [A Zona: Compreendendo o Estado de Fluxo](/en/education/the-zone/)
-- [Estudos de Caso: Jogadores de Elite em Ação](/en/case-studies)
-- [Modelo de Meta](/en/goal-template) - Planeje o desenvolvimento do seu jogo mental
+- [A Zona: Compreendendo o Estado de Fluxo](/pt/education/the-zone/)
+- [Estudos de Caso: Jogadores de Elite em Ação](/pt/case-studies)
+- [Modelo de Meta](/pt/goal-template) - Planeje o desenvolvimento do seu jogo mental
 
 **Dúvidas ou comentários?** Envie um e-mail para [patrik.wiik@gmail.com](mailto:patrik.wiik@gmail.com)
 

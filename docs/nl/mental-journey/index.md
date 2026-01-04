@@ -17,9 +17,9 @@ Of je nu een speler bent die zijn mentale spel wil verbeteren of een coach die m
 | Bron | Doel | Toegang |
 |----------|---------|--------|
 | **Aan de slag** | Inleiding tot mentale spelconcepten | [Lees hieronder](#waarom-mentale-training-belangrijk-is) |
-| **Sessiehandleiding** | Complete handleiding voor workshopleiders (2-3 uur) | [Bekijk de handleiding](/en/mental-journey/session-guide) |
-| **Materialen** | Deelnemershandleidingen, dia&#39;s en werkbladen | [Materialen bekijken](/en/mental-journey/materials) |
-| **Gerelateerde handleidingen** | Geavanceerde formaten | [Workshop](/en/workshop) • [Trainingskamp](/en/training-camp) |
+| **Sessiehandleiding** | Complete handleiding voor workshopleiders (2-3 uur) | [Bekijk de handleiding](/nl/mental-journey/session-guide) |
+| **Materialen** | Deelnemershandleidingen, dia&#39;s en werkbladen | [Materialen bekijken](/nl/mental-journey/materials) |
+| **Gerelateerde handleidingen** | Geavanceerde formaten | [Workshop](/nl/workshop) • [Trainingskamp](/nl/training-camp) |
 
 ## Waarom mentale training belangrijk is
 
@@ -77,30 +77,30 @@ graph TD
 ### Optie 1: Zelfstudie (voor spelers)
 
 **Week 1: De basisbeginselen begrijpen**
-1. Lees de module [The Zone](/en/education/the-zone/).
+1. Lees de module [The Zone](/nl/education/the-zone/).
 2. Probeer de resettechniek met 3 ademhalingen.
 3. Let op wanneer je in de &quot;technische modus&quot; bent en wanneer in de &quot;flowmodus&quot;.
 
 **Week 2: Bewustwording creëren**
-1. Lees de module [Mentale Kracht](/en/education/mental-strength/).
+1. Lees de module [Mentale Kracht](/nl/education/mental-strength/).
 2. Identificeer je innerlijke criticuspatronen.
 3. Oefen neutrale observatie na gemaakte fouten.
 
 **Week 3: Structuur creëren**
-1. Lees de module [Mindfulness](/en/education/mindfulness/).
+1. Lees de module [Mindfulness](/nl/education/mindfulness/).
 2. Begin met een dagelijkse oefening van 5 minuten.
 3. Ontwikkel een eenvoudige routine voor de voorbereiding op de opname.
 
 **Week 4: Integratie**
 1. Breng je routine in de praktijk
-2. Houd je mentale prestaties bij in [Dagboeksjabloon](/en/diary-template)
-3. Stel mentale speldoelen op met behulp van [Doelsjabloon](/en/goal-template)
+2. Houd je mentale prestaties bij in [Dagboeksjabloon](/nl/diary-template)
+3. Stel mentale speldoelen op met behulp van [Doelsjabloon](/nl/goal-template)
 
 ### Optie 2: Groepsworkshop (voor coaches)
 
 **Voer een sessie van 2-3 uur uit:**
 
-Gebruik onze uitgebreide [Sessiehandleiding](/en/mental-journey/session-guide), die het volgende bevat:
+Gebruik onze uitgebreide [Sessiehandleiding](/nl/mental-journey/session-guide), die het volgende bevat:
 - Volledige sessiestructuur
 - Discussievragen
 - Groepsoefeningen
@@ -165,21 +165,21 @@ Mentale training vervangt technische oefening niet. Maar het helpt je wel om je 
 ## Beschikbare bronnen
 
 ### Voor spelers
-- [Onderwijsmodules](/en/education/) - 8 uitgebreide handleidingen
-- [Doelsjabloon](/en/goal-template) - Structureer je ontwikkeling
-- [Dagboeksjabloon](/en/diary-template) - Houd je voortgang bij
-- [Casestudies](/en/case-studies) - Echte voorbeelden
+- [Onderwijsmodules](/nl/education/) - 8 uitgebreide handleidingen
+- [Doelsjabloon](/nl/goal-template) - Structureer je ontwikkeling
+- [Dagboeksjabloon](/nl/diary-template) - Houd je voortgang bij
+- [Casestudies](/nl/case-studies) - Echte voorbeelden
 
 ### Voor coaches/gidsen
-- [Sessiehandleiding](/en/mental-journey/session-guide) - Complete workshop van 2-3 uur
-- [Materialen voor begeleiders](/en/mental-journey/materials) - Digitale handleidingen en dia&#39;s
-- [Workshophandleiding](/en/workshop) - Gevorderd 3-4 uur format
-- [Trainingskampgids](/en/training-camp) - Weekendprogramma
+- [Sessiehandleiding](/nl/mental-journey/session-guide) - Complete workshop van 2-3 uur
+- [Materialen voor begeleiders](/nl/mental-journey/materials) - Digitale handleidingen en dia&#39;s
+- [Workshophandleiding](/nl/workshop) - Gevorderd 3-4 uur format
+- [Trainingskampgids](/nl/training-camp) - Weekendprogramma
 
 ## Volgende stappen
 
 ### Voor individuele spelers
-1. **Begin met bewustwording** - Lees [The Zone](/en/education/the-zone/)
+1. **Begin met bewustwording** - Lees [The Zone](/nl/education/the-zone/)
 2. **Probeer één techniek** - Gebruik deze week de reset met 3 ademhalingen.
 3. **Houd je ervaring bij** - Let op welke veranderingen er optreden
 4. **Bouw geleidelijk op** - Voeg elke week één nieuwe vaardigheid toe.
@@ -195,17 +195,17 @@ Mentale training vervangt technische oefening niet. Maar het helpt je wel om je 
 
 **Vragen over hoe je aan de slag kunt?**
 - E-mail: [patrik.wiik@gmail.com](mailto:patrik.wiik@gmail.com)
-- Bekijk [Casestudies](/en/case-studies) voor voorbeelden
+- Bekijk [Casestudies](/nl/case-studies) voor voorbeelden
 - Neem deel aan discussies in je club.
 
 
 ---
 
 ::: tip Klaar om te beginnen?
-**Spelers:** Begin met de module [The Zone](/en/education/the-zone/).
+**Spelers:** Begin met de module [The Zone](/nl/education/the-zone/).
 
-**Coaches:** Ga naar [Sessiehandleiding](/en/mental-journey/session-guide)
+**Coaches:** Ga naar [Sessiehandleiding](/nl/mental-journey/session-guide)
 
-**Download materialen:** Ga naar [Facilitatiematerialen](/en/mental-journey/materials)
+**Download materialen:** Ga naar [Facilitatiematerialen](/nl/mental-journey/materials)
 :::
 

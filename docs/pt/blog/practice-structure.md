@@ -236,5 +236,5 @@ Estruture sua prática com propósito, e cada hora contará mais.
 
 ---
 
-| *Relacionado: [Métodos de Treinamento](/en/education/training/) | [Exercícios de Treinamento](/en/education/training/drills) | [Definição de Metas](/en/education/goals/)* |
+| *Relacionado: [Métodos de Treinamento](/pt/education/training/) | [Exercícios de Treinamento](/pt/education/training/drills) | [Definição de Metas](/pt/education/goals/)* |
 

@@ -49,28 +49,28 @@ graph TD
 
 ## Nos parcours d&#39;apprentissage
 
-### 🎯 [La Zone (État de flux)](/en/education/the-zone/)
+### 🎯 [La Zone (État de flux)](/fr/education/the-zone/)
 Découvrez ce qu&#39;est réellement « l&#39;état de flow » et comment y accéder. Comprenez les mécanismes scientifiques qui le sous-tendent et découvrez des techniques pratiques pour donner le meilleur de vous-même au moment crucial.
 
-### 🧘 [Pleine conscience](/en/education/mindfulness/)
+### 🧘 [Pleine conscience](/fr/education/mindfulness/)
 Maîtrisez l&#39;art de la pleine conscience. Apprenez des techniques scientifiquement prouvées pour apaiser votre esprit, améliorer votre concentration et vous remettre rapidement de vos erreurs.
 
-### 📊 [Fixation d&#39;objectifs](/en/education/goals/)
+### 📊 [Fixation d&#39;objectifs](/fr/education/goals/)
 Élaborez une feuille de route pour votre développement. Apprenez la méthode SMART adaptée à la pétanque et créez un plan de formation efficace.
 
-### 💪 [Force mentale](/en/education/mental-strength/)
+### 💪 [Force mentale](/fr/education/mental-strength/)
 Développez la force mentale nécessaire à la compétition. Apprenez à gérer la pression, à surmonter l&#39;anxiété et à mettre en place des routines qui favorisent des performances optimales.
 
-### 🤝 [Dynamique d&#39;équipe](/en/education/team-player/)
+### 🤝 [Dynamique d&#39;équipe](/fr/education/team-player/)
 Devenez le coéquipier que tout le monde a envie d&#39;avoir. Apprenez-en davantage sur la communication, la confiance et comment contribuer à une culture d&#39;équipe gagnante.
 
-### ♟️ [Tactiques](/en/education/tactics/)
+### ♟️ [Tactiques](/fr/education/tactics/)
 Adoptez une approche stratégique face à chaque situation. Apprenez à prendre des décisions basées sur les probabilités et à identifier les situations où il est judicieux de prendre des risques.
 
-### 🏋️ [Méthodes de formation](/en/education/training/)
+### 🏋️ [Méthodes de formation](/fr/education/training/)
 Entraînez-vous plus intelligemment, pas seulement plus intensément. Apprenez à structurer votre entraînement pour une progression optimale.
 
-### 🥗 [Nutrition](/en/education/nutrition/)
+### 🥗 [Nutrition](/fr/education/nutrition/)
 Optimisez votre performance cérébrale pour une précision maximale. Apprenez à maintenir une énergie et une concentration stables tout au long de la compétition.
 
 
@@ -151,6 +151,6 @@ Voici votre guide de référence rapide. Ajoutez cette section à vos favoris et
 ## Commencez votre voyage
 
 ::: tip Point de départ recommandé
-Commencez par [The Zone](/en/education/the-zone/) pour comprendre les fondements de la performance d&#39;élite, puis explorez [Mindfulness](/en/education/mindfulness/) pour des techniques pratiques que vous pouvez utiliser immédiatement.
+Commencez par [The Zone](/fr/education/the-zone/) pour comprendre les fondements de la performance d&#39;élite, puis explorez [Mindfulness](/fr/education/mindfulness/) pour des techniques pratiques que vous pouvez utiliser immédiatement.
 :::
 

@@ -228,13 +228,13 @@ _________________________________________________
 **Website:** carreau.app
 
 **Recommended Starting Point:**
-- [The Zone](/en/education/the-zone/) - Deep dive into flow states
-- [Mental Strength](/en/education/mental-strength/) - Building resilience
-- [Mindfulness](/en/education/mindfulness/) - Daily practice guide
+- [The Zone](/da/education/the-zone/) - Deep dive into flow states
+- [Mental Strength](/da/education/mental-strength/) - Building resilience
+- [Mindfulness](/da/education/mindfulness/) - Daily practice guide
 
 **Tools:**
-- [Goal Template](/en/goal-template) - Structure your development
-- [Diary Template](/en/diary-template) - Track your progress
+- [Goal Template](/da/goal-template) - Structure your development
+- [Diary Template](/da/diary-template) - Track your progress
 
 ### Questions?
 
@@ -631,9 +631,9 @@ Takeaway på én side, som deltagerne kan gemme.
 **Email:** patrik.wiik@gmail.com
 
 **Next Steps:**
-1. Read [The Zone](/en/education/the-zone/)
-2. Use [Goal Template](/en/goal-template)
-3. Track progress in [Diary](/en/diary-template)
+1. Read [The Zone](/da/education/the-zone/)
+2. Use [Goal Template](/da/goal-template)
+3. Track progress in [Diary](/da/diary-template)
 ```
 
 </details>

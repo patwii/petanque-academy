@@ -236,5 +236,5 @@ Wenn du dein Training zielgerichtet gestaltest, zählt jede Stunde mehr.
 
 ---
 
-| *Verwandt: [Trainingsmethoden](/en/education/training/) | [Trainingsübungen](/en/education/training/drills) | [Zielsetzung](/en/education/goals/)* |
+| *Verwandt: [Trainingsmethoden](/de/education/training/) | [Trainingsübungen](/de/education/training/drills) | [Zielsetzung](/de/education/goals/)* |
 
