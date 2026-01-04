@@ -1,6 +1,5 @@
 # Mental Journey for Beginners
 
-<AdBanner />
 
 ## Welcome to Your Mental Game Journey
 
@@ -72,7 +71,6 @@ graph TD
 - Downloadable materials
 - Follow-up activities
 
-<AdInArticle />
 
 ## Getting Started
 
@@ -200,7 +198,6 @@ Mental training doesn't replace technical practice. But it helps you access your
 - Review [Case Studies](/en/case-studies) for examples
 - Join discussions in your club
 
-<AdBanner />
 
 ---
 

@@ -1,6 +1,5 @@
 # Goal Setting & Tracking Template
 
-<AdBanner />
 
 ## How to Use This Template
 
@@ -180,7 +179,6 @@ All templates are available on this page for easy access on any device. Bookmark
 
 ---
 
-<AdInArticle />
 
 ## Progress Tracking Sheet
 
@@ -355,7 +353,6 @@ Simply select the template section you want, copy (Ctrl+C / Cmd+C), and paste in
 
 ---
 
-<AdBanner />
 
 Use this framework to make your goals specific and achievable:
 

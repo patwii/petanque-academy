@@ -1,5 +1,4 @@
 # Palet af tæpper
-<AdBanner />
 
 
 ## Det komplette tekniske repertoire
@@ -75,7 +74,6 @@ graph LR
 | **Halv centrifugering** | Moderat bagspin, kontrolleret rulning | Mest alsidig, forudsigelig |
 | **Ingen spin** | Neutral, naturlig rulning ved landing | Lad terrænet diktere rulning |
 
-<AdInArticle />
 
 ## Skydeteknikker
 
@@ -171,9 +169,8 @@ Fokuser på:
 
 ::: info Næste trin
 Når du først har en solid teknik, kommer den virkelige vækst fra:
-- **[Zonen](/da/education/the-zone/)** - Adgang til flowtilstande konsekvent
-- **[Træningsmetoder](/da/education/træning/)** - Sådan træner du effektivt
-- **[Mental styrke](/da/education/mental-styrke/)** - Præsterer under pres
+- **[Zonen](/da/uddannelse/zonen/)** - Adgang til flowtilstande konsekvent
+- **[Træningsmetoder](/da/uddannelse/træning/)** - Sådan træner du effektivt
+- **[Mental styrke](/da/uddannelse/mental-styrke/)** - Præsterer under pres
 :::
 
-<AdBanner />

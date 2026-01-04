@@ -1,6 +1,5 @@
 # Warum Spitzenspieler mentales Training mehr benötigen als technisches Training
 
-<AdBanner />
 
 Lesezeit: 8 Minuten
 
@@ -27,7 +26,6 @@ Das ist nicht intuitiv. Die meisten Spieler gehen davon aus, dass sie ihre Techn
 
 Wer seine Technik intensiv übt, stärkt das **bewusste Gespür** für seine Bewegungen. Das ist ideal für Anfänger, die neuronale Verbindungen aufbauen. Für Spitzensportler hingegen kann es eine gefährliche Angewohnheit sein: während der Ausführung über die Technik nachzudenken.
 
-<AdInArticle />
 
 **Beispiel aus dem Gelände:**
 
@@ -201,7 +199,6 @@ Die Spieler, die diesen Wandel vollziehen – die das mentale Training als ihren
 
 **Sie haben die Wahl:** Trainieren Sie weiter wie ein Anfänger oder beginnen Sie mit dem Training wie ein Spitzenspieler.
 
-<AdBanner />
 
 ---
 

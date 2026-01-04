@@ -262,5 +262,5 @@ Du har forberedt deg godt. Stol på det og konkurrer nå.
 
 ---
 
-| *Relatert: [Opplæringsmetoder](/no/utdanning/training/) | [Håndtering av press](/no/utdanning/mental-styrke/håndtering-av-press) | [Rutine før skudd](/no/utdanning/mental-styrke/rutine-før-skudd)* |
+| *Relatert: [Opplæringsmetoder](/no/utdanning/opplæring/) | [Håndtering av press](/no/utdanning/mental-styrke/håndtering-av-press) | [Rutine før skudd](/no/utdanning/mental-styrke/rutine-før-skudd)* |
 

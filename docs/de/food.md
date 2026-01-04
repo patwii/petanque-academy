@@ -1,6 +1,5 @@
 # Ernährung
 
-<AdBanner />
 
 ## Präzisionskraft für optimale Leistung
 
@@ -79,7 +78,6 @@ Besondere Vorsicht ist geboten bei:
 - ❌ Weißbrot, Gebäck, Snacks aus Automaten
 :::
 
-<AdInArticle />
 
 ## Kurzanleitung für den Wettkampftag
 

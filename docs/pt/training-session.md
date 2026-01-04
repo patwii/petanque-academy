@@ -1,6 +1,5 @@
 # Sessão de Treinamento: Guia de Prática para Competição
 
-<AdBanner />
 
 Como 4 jogadores podem treinar juntos regularmente
 
@@ -99,7 +98,6 @@ Sessão de 4 horas
 | **3ª Rodada da Competição** | Individual ou Desafio | 45 min |
 | **Reflexão** | Análise detalhada e planejamento | 30 min |
 
-<AdInArticle />
 
 Protocolo de inicialização (15-20 minutos)
 
@@ -312,7 +310,6 @@ Full circle:
 - Confirm next session date/time
 - One-word check-out: "How are you leaving?"
 
-<AdInArticle />
 
 ## User Manual Integration
 
@@ -672,5 +669,4 @@ After each session, record:
 **The result:** You don't just get better at pétanque. You become a more complete competitor.
 :::
 
-<AdBanner />
 

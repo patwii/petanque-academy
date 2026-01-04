@@ -1,5 +1,4 @@
 # Consulenza tecnica
-<AdBanner />
 
 
 ## Una nota sulla tecnica
@@ -31,7 +30,6 @@ graph TD
 
 ## L&#39;errore più comune nella formazione tecnica
 
-<AdInArticle />
 
 ::: info Questa sezione è per giocatori esperti
 Se sei alle prime armi con la pétanque, dovrai naturalmente sviluppare la tecnica di base partendo da zero, e questo è un percorso diverso.
@@ -59,9 +57,9 @@ Un risultato reale si presenta così:
 Non stiamo dicendo che non dovresti mai lavorare sul braccio, sul polso, sul rilascio o sulla posizione del corpo. **Il lavoro tecnico sull&#39;esecuzione è assolutamente valido**, ma deve avere lo scopo giusto.
 
 ::: info Lo scopo giusto per il lavoro tecnico
-**Scopo corretto:** &quot;Voglio aggiungere un nuovo tiro alla mia tavolozza&quot;
+**Scopo corretto:** "Voglio aggiungere un nuovo lancio al mio repertorio"
 
-**Scopo sbagliato:** &quot;Voglio fare più tiri&quot; o &quot;Voglio essere più costante&quot;
+**Scopo sbagliato:** "Voglio fare più tiri a segno" o "Voglio essere più costante"
 :::
 
 Ecco il procedimento:
@@ -82,20 +80,53 @@ Questo approccio fornisce alla tua formazione tecnica **una direzione chiara e p
 **Misura del successo:** Riesci a eseguire questo lancio quando vuoi? Questo è l&#39;obiettivo.
 :::
 
-## Perché &quot;colpire di più&quot; è l&#39;obiettivo sbagliato
+## Tiri migliori vs. più tiri: capire la differenza
 
-Se stai modificando la tua tecnica per &quot;colpire più spesso&quot; o &quot;essere più costante&quot;, probabilmente stai affrontando il problema sbagliato.
+C&#39;è una distinzione fondamentale che molti giocatori trascurano:
 
-**Ecco la verità:** Se riesci a colpire bene in allenamento ma fai fatica in gara, il problema non è la tecnica, ma la mente. Il tuo braccio sa cosa fare. La domanda è se la tua mente glielo permette.
+::: tip L&#39;intuizione chiave
+**Se vuoi fare tiri MIGLIORI** → Lavora sulla tua tecnica
 
-::: tip La connessione mentale
-L&#39;incoerenza sotto pressione raramente è un problema tecnico: è un problema mentale.
-
-**Per coerenza e prestazioni sotto pressione, esplora la nostra sezione [Istruzione](/it/education/)**, in particolare:
-- [The Zone](/it/education/the-zone/) — Creare le condizioni per prestazioni ottimali
-- [Forza mentale](/it/education/mental-strength/) — Dare il massimo quando serve
-- [Tecnico vs. Flusso](/it/education/the-zone/tecnico-vs-flusso) — Quando concentrarsi sulla tecnica o sulla fiducia
+**Se vuoi fare PIÙ tiri** → Lavora sulla tua forza mentale
 :::
+
+### Cosa significa questo?
+
+**Per realizzare tiri migliori** è necessario ampliare il proprio repertorio tecnico:
+- Aggiunta di nuove tipologie di lancio (plombée, portée, demi-portée)
+- Migliorare la precisione su specifici tipi di tiro
+- Sviluppare nuove competenze che attualmente non possiedi
+- **Ciò richiede pratica tecnica e allenamento fisico**
+
+**Fare più tiri** significa eseguire ciò che sai già fare:
+- Colpire i colpi che puoi già fare in allenamento
+- Rendimento costante sotto pressione
+- Fidarsi della propria tecnica quando conta
+- **Ciò richiede allenamento mentale e accesso allo stato di flusso**
+
+### Il controllo della realtà
+
+Chiediti onestamente:
+- Riesci a fare il tiro in allenamento quando sei rilassato? ✅ **Allora hai la tecnica**
+- Hai difficoltà a competere? ⚠️ **Allora hai bisogno di un lavoro mentale, non di ulteriore allenamento tecnico**
+
+::: warning Errore comune
+Molti giocatori esperti trascorrono anni a perfezionare la tecnica che già possiedono, quando ciò di cui hanno realmente bisogno è sviluppare la forza mentale per eseguirla sotto pressione.
+
+**Non hai bisogno di un movimento migliore delle braccia. Hai bisogno di una mente più tranquilla.**
+:::
+
+### La strada da seguire
+
+**Per scatti migliori (nuove funzionalità):**
+- Esplora la [Palette di Lanci](/it/technical/throws)
+- Scegli un nuovo lancio specifico da sviluppare
+- Praticare l&#39;esecuzione tecnica
+
+**Per ulteriori scatti (coerenza sotto pressione):**
+- Lavora sulla [forza mentale](/it/educazione/forza-mentale/)
+- Impara ad accedere a [The Zone](/it/education/the-zone/)
+- Sviluppare [routine pre-tiro](/it/educazione/forza-mentale/routine-pre-tiro)
 
 ## La nostra prospettiva
 
@@ -128,14 +159,13 @@ Se hai un focus tecnico e vuoi ampliare il tuo repertorio, questa sezione deline
 
 ## Argomenti
 
-### [Tavolozza di lanci](/it/technical/throws)
+### [Tavolozza di lanci](/it/tecnico/lanci)
 Quali sono i lanci possibili? Una panoramica completa delle possibilità tecniche della pétanque.
 
 ::: tip Dopo la tecnica, cosa succederà?
 Una volta acquisita una tecnica solida, la vera crescita deriva da:
 - **[The Zone](/it/education/the-zone/)** - Accesso agli stati di flusso
-- **[Forza mentale](/it/education/mental-strength/)** - Gestire la pressione
-- **[Metodi di allenamento](/it/education/training/)** - Come esercitarsi in modo efficace
+- **[Forza mentale](/it/educazione/forza-mentale/)** - Gestire la pressione
+- **[Metodi di allenamento](/it/educazione/formazione/)** - Come esercitarsi in modo efficace
 :::
 
-<AdBanner />

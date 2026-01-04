@@ -1,6 +1,5 @@
 # Materialien und Downloads für Kursleiter
 
-<AdBanner />
 
 ## Überblick
 
@@ -16,10 +15,10 @@ Alle Materialien stehen online zur Verfügung und sind somit auf jedem Gerät le
 
 | Material | Zweck | Zugang |
 |----------|---------|--------|
-| **Teilnehmerleitfaden** | Mit allen Teilnehmern teilen | [Anleitung ansehen](#Teilnehmerleitfaden) • <a href="/downloads/de/participant-guide.pdf" download>PDF</a> |
-| **Präsentationsfolien für den Moderator** | Während der Sitzung anwesend | [Folien ansehen](#facilitator-slides) • <a href="/downloads/de/facilitator-slides.pptx" download>PPTX</a> |
-| **Zusammenfassungsblatt** | Wichtigste Erkenntnisse nach der Sitzung | [Zusammenfassung anzeigen](#summary-sheet) • <a href="/downloads/de/summary-sheet.pdf" download>PDF</a> |
-| **Übungsblätter** | Aktivitäten während der Sitzung | [Arbeitsblätter ansehen](#Übungs-Arbeitsblätter) • <a href="/downloads/de/exercise-worksheets.pdf" download>PDF</a> |
+| **Teilnehmerleitfaden** | Mit allen Teilnehmern teilen | [Anleitung ansehen](#Teilnehmerleitfaden) • <a href="/downloads/en/participant-guide.pdf" download>PDF</a> |
+| **Präsentationsfolien für den Moderator** | Während der Sitzung anwesend | [Folien ansehen](#facilitator-slides) • <a href="/downloads/en/facilitator-slides.pptx" download>PPTX</a> |
+| **Zusammenfassungsblatt** | Wichtigste Erkenntnisse nach der Sitzung | [Zusammenfassung anzeigen](#summary-sheet) • <a href="/downloads/en/summary-sheet.pdf" download>PDF</a> |
+| **Übungsblätter** | Aktivitäten während der Sitzung | [Arbeitsblätter ansehen](#Übungs-Arbeitsblätter) • <a href="/downloads/en/exercise-worksheets.pdf" download>PDF</a> |
 
 ::: tip Für die Offline-Nutzung herunterladen
 Klicken Sie auf PDF oder PPTX, um die fertigen Dateien herunterzuladen. Alle Materialien können Sie auch direkt auf dieser Seite ansehen.
@@ -658,7 +657,6 @@ Interaktive Arbeitsblätter für die Aktivitäten während der Sitzung. Die Teil
 Ermutigen Sie die Teilnehmer, die [Zielvorlage](/en/goal-template) und die [Tagebuchvorlage](/en/diary-template) für das kontinuierliche Üben zu verwenden.
 :::
 
-<AdInArticle />
 
 ---
 
@@ -719,7 +717,6 @@ Für Remote- oder Hybrid-Sitzungen:
 - Lesen Sie den [Sitzungsleitfaden](/en/mental-journey/session-guide)
 - Weitere Informationen zum fortgeschrittenen Format finden Sie im [Workshop-Leitfaden](/en/workshop).
 
-<AdBanner />
 
 ---
 

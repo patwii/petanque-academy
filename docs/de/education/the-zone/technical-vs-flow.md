@@ -1,5 +1,4 @@
 # Technisches Training vs. Flow-Training
-<AdBanner />
 
 
 Das Verständnis des Unterschieds zwischen technischem Training und Flow-Training ist für die Entwicklung von Spitzensportlern unerlässlich. Beides ist notwendig, dient aber unterschiedlichen Zwecken und erfordert unterschiedliche Ansätze.
@@ -77,7 +76,6 @@ Das richtige Trainingsverhältnis verhält sich umgekehrt proportional zur techn
 - **Verhältnis:** 20 % Technik / 80 % Mental
 - **Mentale Fokussierung:** Flow-Zustand, Strategie, Beruhigung des Geistes
 
-<AdInArticle />
 
 ## Die Fortschrittstabelle
 
@@ -191,4 +189,3 @@ Die eigentliche Kunst besteht darin, zu wissen, wann man welchen Modus einsetzt:
 
 Der Weg von der Technik zum Flow erfordert eine strategische Umkehrung. Passe dein Training an deine Entwicklungsstufe an.
 
-<AdBanner />

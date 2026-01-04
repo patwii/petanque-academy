@@ -1,5 +1,4 @@
 # Ernæring for presisjonsytelse
-<AdBanner />
 
 
 Pétanque er en presisjonssport, ikke en utholdenhetssport. Dine ernæringsbehov er annerledes enn en maratonløper eller en fotballspiller. Det som betyr mest er **hjernens drivstoffstabilitet** – å holde hjernen skarp og hendene stødige gjennom en lang konkurransedag.
@@ -158,7 +157,6 @@ Noen presisjonsutøvere følger lavkarbo- eller ketogene dietter. Teorien:
 - Krever planlegging og engasjement
 - Rådfør deg med helsepersonell først
 
-<AdInArticle />
 
 Dette er en avansert strategi – ikke nødvendig for alle, men verdt å vurdere hvis blodsukkerstabilitet er et betydelig problem for deg.
 
@@ -385,4 +383,3 @@ Fokuser på protein, sunt fett og å holde deg hydrert. Unngå sukkertopper. **V
 
 **Husk:** Du ville ikke dukke opp i en turnering med en kasteteknikk du aldri har øvd på. Ikke møt opp med en ernæringsstrategi du aldri har øvd på heller.
 
-<AdBanner />

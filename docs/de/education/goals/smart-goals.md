@@ -1,5 +1,4 @@
 # SMART-Ziele für Pétanque
-<AdBanner />
 
 
 Das SMART-Framework wandelt vage Wünsche in konkrete Ziele um. Betrachten wir jedes Element im Detail, anhand von Beispielen aus dem Boule-Spiel.
@@ -80,7 +79,6 @@ Ziele sollten dich herausfordern, ohne unmöglich zu sein.
 **Zu einfach:** „Einmal im Monat üben“
 - Kein Wachstum, keine Motivation
 
-<AdInArticle />
 
 **Zu schwer:** „Nie einen Schuss verfehlen“
 - Unmöglich, führt zu Frustration
@@ -193,4 +191,3 @@ _________________________________
 
 Nimm dir Zeit, deine Ziele sorgfältig zu formulieren. Ein klar definiertes Ziel ist die halbe Miete.
 
-<AdBanner />

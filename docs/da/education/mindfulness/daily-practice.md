@@ -1,5 +1,4 @@
 # Opbygning af en daglig mindfulness-praksis
-<AdBanner />
 
 
 Fordelene ved mindfulness kommer af konsekvent praksis. Sådan gør du det til en del af dit liv.
@@ -81,7 +80,6 @@ Du behøver ikke et meditationsrum, men det hjælper at have et fast sted:
 
 ### Trin 4: Fjern barrierer
 
-<AdInArticle />
 
 Gør det nemt at øve:
 - Sæt din telefon på lydløs
@@ -199,4 +197,3 @@ Mindfulness er en livslang praksis. Eliteatleter siger ofte, at det er den mest 
 
 Start i dag. Start småt. Fortsæt.
 
-<AdBanner />

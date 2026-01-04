@@ -1,5 +1,4 @@
 # Trainingsoefeningen
-<AdBanner />
 
 
 Hieronder vind je beproefde oefeningen die door topspelers worden gebruikt. Elke oefening heeft een specifiek doel - kies de oefening die het beste aansluit bij jouw ontwikkelingsbehoeften.
@@ -104,7 +103,6 @@ graph TD
 - Tijdsgebonden versie: Hoe ver kom je in 10 minuten?
 - Teamversie: Wissel af met je partner
 
-<AdInArticle />
 
 ### De Barrière (Blox)
 **Doel:** Hoge boogschieten afdwingen
@@ -255,4 +253,3 @@ Houd voor elke oefening een logboek bij:
 
 Gooi niet zomaar met de boules. Train met een doel.
 
-<AdBanner />

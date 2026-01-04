@@ -160,5 +160,5 @@ La clave es canalizar esta energía productivamente en lugar de dejar que nos ab
 
 ---
 
-| *Relacionado: [Manejo de la presión](/es/education/fuerza-mental/manejo-de-la-presion) | [Rutina pre-disparo](/es/education/fuerza-mental/rutina-pre-disparo) | [La Zona](/es/education/the-zone/)* |
+| *Relacionado: [Manejo de la presión](/es/educacion/fuerza-mental/manejo-de-la-presion) | [Rutina pre-disparo](/es/educacion/fuerza-mental/rutina-pre-disparo) | [La Zona](/es/educacion/la-zona/)* |
 

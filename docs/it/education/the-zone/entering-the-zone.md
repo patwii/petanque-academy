@@ -1,5 +1,4 @@
 # Entrare nella zona: tecniche pratiche
-<AdBanner />
 
 
 La zona non è qualcosa che ti capita all&#39;improvviso. Con la pratica, puoi imparare ad accedervi in modo più costante. Ecco tecniche comprovate utilizzate dagli atleti d&#39;élite.
@@ -113,7 +112,6 @@ La tua routine diventa una &quot;campana della consapevolezza&quot;, un segnale 
 Usa la tua routine in OGNI lancio in allenamento, non solo in gara. La routine deve diventare automatica.
 :::
 
-<AdInArticle />
 
 ## Tecnica 2: Messa a fuoco esterna
 
@@ -280,4 +278,3 @@ Queste tecniche funzionano solo se le metti in pratica:
 Inizia con la tua routine pre-tiro. Rendila costante. Fidati. La zona seguirà.
 :::
 
-<AdBanner />

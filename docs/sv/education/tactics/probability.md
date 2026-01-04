@@ -1,5 +1,4 @@
 # Sannolikhetsbaserat beslutsfattande
-<AdBanner />
 
 
 Elitärt taktiskt tänkande använder sannolikhet för att fatta bättre beslut. Istället för att gissa eller gå på magkänsla tänker du systematiskt på dina alternativ.
@@ -85,7 +84,6 @@ För att använda sannolikhetslära behöver du veta dina faktiska framgångsgra
 | Skjut (medium) | 8–9 månader | ___% |
 | Skjut (långt) | 10+ månader | ___% |
 
-<AdInArticle />
 
 Följ dessa under träning. Var ärlig – de flesta spelare överskattar sina framgångsgrader.
 
@@ -205,4 +203,3 @@ Med tiden blir sannolikhetstänkande intuitivt:
 
 Tänk i sannolikheter. Känn till dina siffror. Gör det smarta spelet, inte det hoppfulla.
 
-<AdBanner />

@@ -1,6 +1,5 @@
 # Workshop: Fortgeschrittenes Mentaltraining (3-4 Stunden)
 
-<AdBanner />
 
 ## Überblick
 
@@ -138,7 +137,6 @@ Sie werden mitnehmen:
 Nach einem so offenen Austausch fühlen Sie sich vielleicht verletzlich oder bereuen es. Das ist normal. Die Moderatorin/Der Moderator meldet sich innerhalb von 24 Stunden bei Ihnen. Denken Sie daran: Was Sie geteilt haben, hat allen geholfen.
 :::
 
-<AdInArticle />
 
 ---
 
@@ -309,7 +307,6 @@ Dies stellt einen Zusammenhang zwischen mentaler Belastung und körperlicher Ans
 - Hochstapler-Syndrom
 :::
 
-<AdInArticle />
 
 
 ### Phase 2: Konzentriertes Arbeiten (90 Minuten)
@@ -484,7 +481,6 @@ Konzentriertes Arbeiten führt zu einem „Verletzlichkeitskater“ – Reue ode
 **Abschlussskript:**
 > „Was heute hier geschah, erforderte Mut. Ihr seid gekommen, ihr habt euch geöffnet, ihr habt dem Prozess vertraut. Denselben Mut werdet ihr auch auf die Piste mitbringen. Denkt daran: Die Lektionen verlassen diesen Raum, aber die Geschichten bleiben. Danke.“
 
-<AdInArticle />
 
 ## Handhabungswiderstand
 
@@ -584,5 +580,4 @@ Dieser Workshop ist Phase 1. Bitte beachten Sie Folgendes:
 - **Individuelle Check-ins** (für Spieler, die mehr Unterstützung benötigen)
 :::
 
-<AdBanner />
 

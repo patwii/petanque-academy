@@ -159,5 +159,5 @@ Il gioco mentale è allenabile. Allenalo nel modo giusto.
 
 ---
 
-| *Correlato: [Forza mentale](/it/education/mental-strength/) | [Metodi di formazione](/it/education/training/) | [Mindfulness](/it/education/mindfulness/)* |
+| *Correlato: [Forza mentale](/it/educazione/forza-mentale/) | [Metodi di formazione](/it/educazione/formazione/) | [Mindfulness](/it/educazione/mindfulness/)* |
 

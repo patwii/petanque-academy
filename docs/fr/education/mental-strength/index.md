@@ -1,5 +1,4 @@
 # Force mentale
-<AdBanner />
 
 
 La force mentale est ce qui distingue les joueurs performants à l&#39;entraînement de ceux qui excellent en compétition. C&#39;est la capacité à gérer la pression, à se relever après un échec et à maintenir sa concentration tout au long des longues compétitions.
@@ -77,7 +76,6 @@ La confiance vient de :
 
 ### 2. Maîtrisez votre dialogue intérieur
 
-<AdInArticle />
 
 La voix dans votre tête compte énormément.
 
@@ -191,4 +189,3 @@ Ne réfléchissez pas trop entre les lancers. Conservez votre énergie mentale p
 
 Vous ne pouvez pas contrôler ce qui arrive. Vous pouvez contrôler votre réaction.
 
-<AdBanner />

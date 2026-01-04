@@ -1,6 +1,5 @@
 # Workshop: Sessione di gioco mentale avanzato (3-4 ore)
 
-<AdBanner />
 
 ## Panoramica
 
@@ -138,7 +137,6 @@ Partirai con:
 Dopo una condivisione profonda, potresti sentirti esposto o pentito. È normale. Il facilitatore ti contatterà entro 24 ore. Ricorda: ciò che hai condiviso ha aiutato tutti.
 :::
 
-<AdInArticle />
 
 ---
 
@@ -309,7 +307,6 @@ Ciò collega il carico mentale alla tensione fisica (il bibber/yips).
 - Sindrome dell&#39;impostore
 :::
 
-<AdInArticle />
 
 
 ### Fase 2: Lavoro profondo (90 minuti)
@@ -484,7 +481,6 @@ Il lavoro approfondito provoca una &quot;sbornia da vulnerabilità&quot;, ovvero
 **Sceneggiatura di chiusura:**
 > &quot;Ciò che è successo oggi ha richiesto coraggio. Vi siete presentati, vi siete aperti, avete avuto fiducia nel processo. Lo stesso coraggio è ciò che porterete in pista. Ricordate: le lezioni lasciano questa stanza, ma le storie restano. Grazie.&quot;
 
-<AdInArticle />
 
 ## Resistenza alla manipolazione
 
@@ -584,5 +580,4 @@ Questo workshop è la Fase 1. Considera:
 - **Check-in individuali** (per i giocatori che necessitano di maggiore supporto)
 :::
 
-<AdBanner />
 

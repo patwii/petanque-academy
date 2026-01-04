@@ -1,6 +1,5 @@
 # Viaje mental para principiantes
 
-<AdBanner />
 
 ## Bienvenido a tu viaje de juego mental
 
@@ -72,24 +71,23 @@ graph TD
 - Materiales descargables
 - Actividades de seguimiento
 
-<AdInArticle />
 
 ## Empezando
 
 ### Opción 1: Autoaprendizaje (para jugadores)
 
 **Semana 1: Comprensión de los conceptos básicos**
-1. Leer el módulo [La Zona](/es/education/the-zone/)
+1. Leer el módulo [La Zona](/es/educacion/la-zona/)
 2. Pruebe la técnica de reinicio de 3 respiraciones
 3. Observa cuándo estás en &quot;modo técnico&quot; frente a &quot;modo de flujo&quot;
 
 **Semana 2: Generando conciencia**
-1. Lea el módulo [Fuerza Mental](/es/education/fuerza-mental/)
+1. Lea el módulo [Fuerza Mental](/es/educacion/fuerza-mental/)
 2. Identifica tus patrones de crítica interna
 3. Practique la observación neutral después de los errores
 
 **Semana 3: Creando Estructura**
-1. Leer el módulo [Mindfulness](/es/education/mindfulness/)
+1. Leer el módulo [Mindfulness](/es/educación/mindfulness/)
 2. Comience una práctica diaria de 5 minutos
 3. Desarrollar una rutina sencilla previa al disparo
 
@@ -181,7 +179,7 @@ El entrenamiento mental no reemplaza la práctica técnica. Pero te ayuda a mejo
 ## Próximos pasos
 
 ### Para jugadores individuales
-1. **Empieza con consciencia** - Lee [La Zona](/es/education/the-zone/)
+1. **Empieza con consciencia** - Lee [La Zona](/es/educacion/la-zona/)
 2. **Prueba una técnica**: utiliza el reinicio de 3 respiraciones esta semana
 3. **Sigue tu experiencia** - Observa qué cambios hay
 4. **Desarrolla gradualmente** - Agrega una nueva habilidad por semana
@@ -200,12 +198,11 @@ El entrenamiento mental no reemplaza la práctica técnica. Pero te ayuda a mejo
 - Revise [Estudios de caso](/es/estudios-de-caso) para ver ejemplos
 - Únete a las discusiones en tu club
 
-<AdBanner />
 
 ---
 
 ::: tip ¿Listo para comenzar?
-**Jugadores:** Comienza con el módulo [La Zona](/es/education/the-zone/)
+**Jugadores:** Comienza con el módulo [La Zona](/es/educacion/la-zona/)
 
 **Entrenadores:** Vayan a [Guía de sesiones](/es/mental-journey/session-guide)
 

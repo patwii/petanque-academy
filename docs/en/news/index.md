@@ -1,6 +1,5 @@
 # News & Updates
 
-<AdBanner />
 
 ## Welcome to Pétanque Academy
 
@@ -33,7 +32,6 @@ graph TD
     style D fill:#f3e5f5
 ```
 
-<AdInArticle />
 
 ## What's Available Now
 
@@ -188,4 +186,3 @@ Everything you need to take your game to the next level is already here. Pick a 
 **Welcome to Pétanque Academy - where elite players become exceptional.**
 :::
 
-<AdBanner />

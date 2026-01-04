@@ -1,5 +1,4 @@
 # Aufbau deiner Pre-Spuck-Routine
-<AdBanner />
 
 
 Deine Vorbereitungsroutine vor dem Wurf ist eines der wirkungsvollsten Instrumente für deine mentale Stärke. Es handelt sich um eine festgelegte Abfolge von Handlungen, die dich auf jeden Wurf vorbereitet und deine Bestleistung ermöglicht.
@@ -79,7 +78,6 @@ Führe den Wurf aus:
 - Ohne Zögern freigeben
 - Setzen Sie es natürlich fort
 
-<AdInArticle />
 
 ## Aufbau Ihrer persönlichen Routine
 
@@ -188,4 +186,3 @@ Ihre Routine sollte einen gleichbleibenden Zeitaufwand erfordern:
 
 Baue es sorgfältig. Übe es immer wieder. Vertraue ihm vollkommen.
 
-<AdBanner />

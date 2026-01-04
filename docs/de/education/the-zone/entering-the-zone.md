@@ -1,5 +1,4 @@
 # Den Flow erreichen: Praktische Techniken
-<AdBanner />
 
 
 Der Flow-Zustand entsteht nicht einfach so. Mit Übung können Sie lernen, ihn konstanter zu erreichen. Hier sind bewährte Techniken, die von Spitzensportlern angewendet werden.
@@ -113,7 +112,6 @@ Deine Routine wird zu einer Art „Achtsamkeitsglocke“ – einem Signal, das d
 Wende deine Routine bei JEDEM Wurf im Training an – nicht nur im Wettkampf. Die Routine muss automatisiert werden.
 :::
 
-<AdInArticle />
 
 ## Technik 2: Externer Fokus
 
@@ -280,4 +278,3 @@ Diese Techniken funktionieren nur, wenn man sie übt:
 Beginne mit deiner Vorbereitungsroutine. Halte sie konsequent durch. Vertraue ihr. Der Flow kommt von ganz allein.
 :::
 
-<AdBanner />

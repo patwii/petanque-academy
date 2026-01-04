@@ -189,5 +189,5 @@ Modstandsdygtighed er ikke en egenskab, du har eller ikke har – det er en fær
 
 ---
 
-| *Relateret: [Mental styrke](/da/education/mental-styrke/) | [Håndtering af pres](/da/education/mental-styrke/håndtering-af-pres) | [Zonen](/da/education/the-zone/)* |
+| *Relateret: [Mental styrke](/da/uddannelse/mental-styrke/) | [Håndtering af pres](/da/uddannelse/mental-styrke/håndtering-af-pres) | [Zonen](/da/uddannelse/zonen/)* |
 

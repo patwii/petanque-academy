@@ -262,5 +262,5 @@ Ti sei preparato bene. Ora fidati e gareggia.
 
 ---
 
-| *Correlato: [Metodi di formazione](/it/education/training/) | [Gestire la pressione](/it/education/mental-strength/gestire-la-pressione) | [Routine pre-tiro](/it/education/mental-strength/routine-pre-tiro)* |
+| *Correlato: [Metodi di formazione](/it/educazione/formazione/) | [Gestire la pressione](/it/educazione/forza-mentale/gestire-la-pressione) | [Routine pre-tiro](/it/educazione/forza-mentale/routine-pre-tiro)* |
 

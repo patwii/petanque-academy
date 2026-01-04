@@ -1,5 +1,4 @@
 # Ausbildung
-<AdBanner />
 
 Willkommen beim Ausbildungsprogramm der Pétanque-Akademie. Hier lernen Spitzenspieler, das mentale Spiel zu meistern.
 
@@ -74,7 +73,6 @@ Trainiere intelligenter, nicht nur härter. Lerne, wie du dein Training struktur
 ### 🥗 [Ernährung](/en/education/nutrition/)
 Optimieren Sie Ihre Gehirnleistung für maximale Präzision. Lernen Sie, wie Sie Ihre Energie und Konzentration während des gesamten Wettkampfs aufrechterhalten.
 
-<AdInArticle />
 
 ## Der Weg von der Technik zum Flow
 
@@ -156,4 +154,3 @@ Dies ist Ihre Kurzanleitung. Speichern Sie diesen Abschnitt als Lesezeichen und 
 Beginnen Sie mit [The Zone](/en/education/the-zone/), um die Grundlagen von Höchstleistungen zu verstehen, und erkunden Sie anschließend [Mindfulness](/en/education/mindfulness/), um praktische Techniken kennenzulernen, die Sie sofort anwenden können.
 :::
 
-<AdBanner />

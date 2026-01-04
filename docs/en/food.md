@@ -1,6 +1,5 @@
 # Food & Nutrition
 
-<AdBanner />
 
 ## Fueling Precision Performance
 
@@ -79,7 +78,6 @@ Be especially careful with:
 - ❌ White bread, pastries, vending machine snacks
 :::
 
-<AdInArticle />
 
 ## Competition Day Quick Guide
 

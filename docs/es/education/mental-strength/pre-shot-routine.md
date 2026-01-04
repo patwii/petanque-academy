@@ -1,5 +1,4 @@
 # Construyendo tu rutina previa al disparo
-<AdBanner />
 
 
 Tu rutina previa al lanzamiento es una de las herramientas más poderosas de tu juego mental. Es una secuencia constante de acciones que te prepara para cada lanzamiento y te permite alcanzar tu mejor rendimiento.
@@ -79,7 +78,6 @@ Realizar el lanzamiento:
 - Liberación sin dudarlo
 - Seguir adelante con naturalidad
 
-<AdInArticle />
 
 ## Construyendo tu rutina personal
 
@@ -188,4 +186,3 @@ Tu rutina debe tomar una cantidad de tiempo constante:
 
 Constrúyelo con cuidado. Practícalo siempre. Confía plenamente en él.
 
-<AdBanner />

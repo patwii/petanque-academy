@@ -1,6 +1,5 @@
 # Études de cas : Les joueurs d&#39;élite en action
 
-<AdBanner />
 
 Des exemples concrets de la manière dont des joueurs de pétanque d&#39;élite ont utilisé l&#39;entraînement mental pour dépasser leurs limites et atteindre une excellence constante.
 
@@ -65,7 +64,6 @@ Approche de formation modifiée utilisant [Training Methods](/en/education/train
 
 **Citation clé :** « J&#39;ai enfin compris que réfléchir à ma technique pendant le lancer ne faisait qu&#39;empirer les choses. Apprendre à mettre de côté mon esprit analytique dans le cercle a tout changé. »
 
-<AdInArticle />
 
 ## Étude de cas 2 : Surmonter sa voix critique intérieure
 
@@ -189,7 +187,6 @@ L&#39;accent a été déplacé de « ma performance » à « notre performance �
 
 **Citation clé :** « Je pensais qu&#39;être un bon joueur d&#39;équipe signifiait simplement faire de bons lancers. J&#39;ai appris que c&#39;est une question de communication, de confiance et de capacité à faire progresser ses coéquipiers. »
 
-<AdBanner />
 
 ## Thèmes communs aux études de cas
 
@@ -233,5 +230,4 @@ Avez-vous déjà vécu une avancée mentale décisive dans le jeu ? Nous serions
 
 Votre témoignage pourrait aider d&#39;autres joueurs confrontés à des difficultés similaires.
 
-<AdBanner />
 

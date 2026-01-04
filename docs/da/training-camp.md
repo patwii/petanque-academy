@@ -1,6 +1,5 @@
 # Træningslejr: Weekendguide
 
-<AdBanner />
 
 ## Sådan afholder du en weekendtræningslejr for 10-20 spillere
 
@@ -144,7 +143,6 @@ graph TD
     style E fill:#e8f5e9
 ```
 
-<AdInArticle />
 
 
 ### Lørdag (Heldag - Teori + Praksis)
@@ -379,7 +377,6 @@ Ring op:
 
 **19:00 - Aftensmad og afrejse**
 
-<AdInArticle />
 
 ## Tips til facilitering
 
@@ -580,5 +577,4 @@ Ring op:
 - *Tankegang* af Carol Dweck
 - *Den frygtløse organisation* af Amy Edmondson
 
-<AdBanner />
 

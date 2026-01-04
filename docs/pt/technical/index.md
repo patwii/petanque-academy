@@ -1,5 +1,4 @@
 # Assessoria técnica
-<AdBanner />
 
 
 ## Uma nota sobre técnica
@@ -31,7 +30,6 @@ graph TD
 
 ## O erro mais comum no treinamento técnico
 
-<AdInArticle />
 
 ::: info Esta seção é destinada a jogadores experientes.
 Se você é iniciante na petanca, naturalmente precisará desenvolver sua técnica básica desde o início — e essa é uma jornada diferente.
@@ -59,9 +57,9 @@ Um resultado real se parece com isto:
 Não estamos dizendo que você nunca deve trabalhar o braço, o pulso, a liberação ou a posição do corpo. **O trabalho técnico na execução é absolutamente válido** — mas deve ter o propósito certo.
 
 ::: info O propósito certo para o trabalho técnico
-**Objetivo correto:** &quot;Quero adicionar uma nova cor à minha paleta&quot;
+**Objetivo correto:** "Quero adicionar um novo arremesso ao meu repertório"
 
-**Objetivo errado:** &quot;Quero acertar mais arremessos&quot; ou &quot;Quero ser mais consistente&quot;
+**Objetivo errado:** "Quero acertar mais arremessos" ou "Quero ser mais consistente"
 :::
 
 Eis o processo:
@@ -82,20 +80,53 @@ Essa abordagem proporciona ao seu treinamento técnico **direção clara e progr
 **Critério de sucesso:** Você consegue executar esse arremesso quando quiser? Esse é o objetivo.
 :::
 
-## Por que &quot;bater mais&quot; é o objetivo errado
+## Melhores chutes vs. Mais chutes: entendendo a diferença
 
-Se você está ajustando sua técnica para &quot;acertar com mais frequência&quot; ou &quot;ser mais consistente&quot;, provavelmente está abordando o problema errado.
+Existe uma distinção crucial que muitos jogadores ignoram:
 
-**Eis a verdade:** Se você consegue bater bem nos treinos, mas tem dificuldades nas competições, o problema não é a sua técnica — é mental. Seu braço sabe o que fazer. A questão é se a sua mente permite.
+::: tip A principal descoberta
+**Se você quer fazer fotos MELHORES** → Trabalhe na sua técnica
 
-::: tip A Conexão Mental
-A inconsistência sob pressão raramente é um problema técnico — é um problema mental.
-
-**Para consistência e desempenho sob pressão, explore nossa seção [Educação](/en/education/)**, em particular:
-- [A Zona](/en/education/the-zone/) — Criando condições para o máximo desempenho
-- [Força Mental](/en/education/mental-strength/) — Ter um bom desempenho quando importa
-- [Técnica vs. Fluxo](/en/education/the-zone/technical-vs-flow) — Quando focar na técnica em vez da confiança
+**Se você quer acertar MAIS arremessos** → Trabalhe sua força mental
 :::
+
+### O que isto significa?
+
+**Para melhorar suas fotos**, você precisa expandir seu repertório técnico:
+- Adicionando novos tipos de arremessos (plombée, portée, demi-portée)
+- Aprimorando a precisão em tipos específicos de tiros
+- Desenvolver novas habilidades que você ainda não possui.
+- **Isso requer prática técnica e treinamento físico.**
+
+**Fazer mais arremessos** significa executar o que você já sabe fazer:
+- Acertar os golpes que você já consegue fazer nos treinos.
+- Desempenho consistente sob pressão
+- Confiar na sua técnica quando isso importa
+- **Isso requer treinamento mental e acesso ao estado de fluxo.**
+
+### O Confronto com a Realidade
+
+Pergunte a si mesmo honestamente:
+- Você consegue executar o arremesso no treino quando está relaxado? ✅ **Então você tem a técnica**
+- Você tem dificuldades para se destacar em competições? ⚠️ **Então você precisa de trabalho mental, não de mais treino técnico**
+
+::: warning Erro comum
+Muitos jogadores experientes passam anos aprimorando a técnica que já possuem, quando o que realmente precisam é desenvolver a força mental para executá-la sob pressão.
+
+**Você não precisa de um movimento de braço melhor. Você precisa de uma mente mais tranquila.**
+:::
+
+### O Caminho a Seguir
+
+**Para fotos melhores (novos recursos):**
+- Explore a [Paleta de Arremessos](/en/technical/throws)
+- Escolha um novo arremesso específico para desenvolver.
+- Pratique a execução técnica.
+
+**Para mais chutes (consistência sob pressão):**
+- Trabalhe na [Força Mental](/en/education/mental-strength/)
+- Aprenda a acessar [A Zona](/en/education/the-zone/)
+- Desenvolva [Rotinas Pré-Arremesso](/en/education/mental-strength/pre-shot-routine)
 
 ## Nossa Perspectiva
 
@@ -138,4 +169,3 @@ Depois de dominar a técnica, o verdadeiro crescimento vem de:
 - **[Métodos de Treinamento](/en/education/training/)** - Como praticar com eficácia
 :::
 
-<AdBanner />

@@ -1,6 +1,5 @@
 # Trainingskamp: Weekendgids
 
-<AdBanner />
 
 ## Hoe organiseer je een weekendtrainingskamp voor 10-20 spelers?
 
@@ -144,7 +143,6 @@ graph TD
     style E fill:#e8f5e9
 ```
 
-<AdInArticle />
 
 
 ### Zaterdag (hele dag - theorie + praktijk)
@@ -379,7 +377,6 @@ Vorm een kring:
 
 **19:00 - Diner en vertrek**
 
-<AdInArticle />
 
 ## Tips voor het begeleiden van een sessie
 
@@ -580,5 +577,4 @@ Het weekend is voorbij, het leren stopt.
 - *Mindset* van Carol Dweck
 - *De Onverschrokken Organisatie* van Amy Edmondson
 
-<AdBanner />
 

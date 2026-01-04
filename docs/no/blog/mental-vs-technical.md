@@ -1,6 +1,5 @@
 # Hvorfor elitespillere trenger mental trening mer enn teknisk trening
 
-<AdBanner />
 
 *Lesetid: 8 minutter*
 
@@ -27,7 +26,6 @@ Dette er ikke intuitivt. De fleste spillere antar at de må øve mer på teknikk
 
 Når du øver mye på teknikk, forsterker du **bevisstheten** om bevegelsene dine. Dette er perfekt for nybegynnere som bygger nervebaner. Men for elitespillere skaper det en farlig vane: å tenke på teknikk under utførelse.
 
-<AdInArticle />
 
 **Eksempel fra terrenget:**
 
@@ -201,7 +199,6 @@ Spillerne som gjør dette skiftet – som omfavner mental trening som sitt prim�
 
 **Valget er ditt:** Fortsett å trene som en nybegynner, eller begynn å trene som en elitespiller.
 
-<AdBanner />
 
 ---
 

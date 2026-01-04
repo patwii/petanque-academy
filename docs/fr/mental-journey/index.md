@@ -1,6 +1,5 @@
 # Voyage mental pour débutants
 
-<AdBanner />
 
 ## Bienvenue dans votre parcours mental.
 
@@ -72,7 +71,6 @@ graph TD
 - Documents téléchargeables
 - Activités de suivi
 
-<AdInArticle />
 
 ## Commencer
 
@@ -200,7 +198,6 @@ L&#39;entraînement mental ne remplace pas la pratique technique. Mais il vous a
 - Consultez les [Études de cas](/en/case-studies) pour des exemples
 - Participez aux discussions de votre club
 
-<AdBanner />
 
 ---
 

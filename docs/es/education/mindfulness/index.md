@@ -1,5 +1,4 @@
 # Atención plena para jugadores de petanca
-<AdBanner />
 
 
 La atención plena es una de las herramientas más poderosas disponibles para los atletas. No es mística ni compleja; es simplemente la práctica de prestar atención al momento presente sin juzgar.
@@ -80,7 +79,6 @@ La atención plena te ayuda a manejar todos estos problemas.
 
 La palabra clave es &quot;sin prejuicios&quot;.
 
-<AdInArticle />
 
 ::: danger Pensamiento crítico (añade peso emocional)
 ❌ &quot;Ese fue un lanzamiento terrible&quot;
@@ -166,8 +164,8 @@ graph LR
 
 ## En esta sección
 
-- **[Técnicas](/es/education/mindfulness/técnicas)** - Ejercicios prácticos que puedes utilizar
-- **[Práctica diaria](/es/education/mindfulness/practica-diaria)** - Incorpora la atención plena a tu vida
+- **[Técnicas](/es/educacion/mindfulness/técnicas)** - Ejercicios prácticos que puedes utilizar
+- **[Práctica diaria](/es/educacion/mindfulness/practica-diaria)** - Incorpora la atención plena a tu vida
 
 ## Resumen: Reglas de atención plena
 
@@ -197,4 +195,3 @@ La constancia supera a la duración. La práctica diaria desarrolla la habilidad
 
 No puedes evitar que surjan pensamientos. Pero sí puedes elegir no seguirlos por el camino equivocado.
 
-<AdBanner />

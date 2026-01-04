@@ -1,5 +1,4 @@
 # Sannsynlighetsbasert beslutningstaking
-<AdBanner />
 
 
 Elite taktisk tenkning bruker sannsynlighet for å ta bedre beslutninger. I stedet for å gjette eller gå på magefølelsen, tenker du systematisk om alternativene dine.
@@ -85,7 +84,6 @@ For å bruke sannsynlighetstenkning må du vite dine faktiske suksessrater:
 | Skyt (middels) | 8–9 måneder | ___% |
 | Skyt (langt) | 10m+ | ___% |
 
-<AdInArticle />
 
 Følg med på disse i trening. Vær ærlig – de fleste spillere overvurderer suksessraten sin.
 
@@ -205,4 +203,3 @@ Over tid blir sannsynlighetstenkning intuitiv:
 
 Tenk i sannsynligheter. Kjenn tallene dine. Gjør det smarte spillet, ikke det håpefulle.
 
-<AdBanner />

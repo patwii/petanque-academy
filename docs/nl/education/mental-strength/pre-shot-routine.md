@@ -1,5 +1,4 @@
 # Je voorbereiding op de fotosessie opbouwen
-<AdBanner />
 
 
 Je voorbereiding op een worp is een van de krachtigste mentale hulpmiddelen. Het is een consistente reeks handelingen die je voorbereidt op elke worp en je optimale prestatietoestand activeert.
@@ -79,7 +78,6 @@ Gooi de bal:
 - Zonder aarzeling vrijgeven
 - Ga er natuurlijk mee door
 
-<AdInArticle />
 
 ## Het opbouwen van je persoonlijke routine
 
@@ -188,4 +186,3 @@ Je routine moet een vaste hoeveelheid tijd in beslag nemen:
 
 Bouw het zorgvuldig op. Oefen het voortdurend. Vertrouw er volledig op.
 
-<AdBanner />

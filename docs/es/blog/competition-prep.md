@@ -262,5 +262,5 @@ Te has preparado bien. Ahora confía y compite.
 
 ---
 
-| *Relacionado: [Métodos de formación](/es/education/formacion/) | [Manejo de la presión](/es/education/fuerza-mental/manejo-de-la-presion) | [Rutina pre-disparo](/es/education/fuerza-mental/rutina-pre-disparo)* |
+| *Relacionado: [Métodos de formación](/es/educacion/formacion/) | [Manejo de la presión](/es/educacion/fuerza-mental/manejo-de-la-presion) | [Rutina pre-disparo](/es/educacion/fuerza-mental/rutina-pre-disparo)* |
 

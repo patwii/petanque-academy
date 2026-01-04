@@ -166,5 +166,5 @@ El jugador que está completamente presente en cada lanzamiento, mientras los de
 
 ---
 
-| *Relacionado: [Introducción a la atención plena](/es/education/mindfulness/) | [Técnicas de atención plena](/es/education/mindfulness/técnicas) | [Práctica diaria](/es/education/mindfulness/practica-diaria)* |
+| *Relacionado: [Introducción a la atención plena](/es/educacion/atención/) | [Técnicas de atención plena](/es/educación/atención/técnicas) | [Práctica diaria](/es/educacion/mindfulness/practica-diaria)* |
 

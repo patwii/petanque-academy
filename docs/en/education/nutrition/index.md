@@ -1,5 +1,4 @@
 # Nutrition for Precision Performance
-<AdBanner />
 
 
 Pétanque is a precision sport, not an endurance sport. Your nutritional needs are different from a marathon runner or a football player. What matters most is **brain fuel stability** - keeping your mind sharp and your hands steady throughout a long competition day.
@@ -158,7 +157,6 @@ Some precision athletes adopt low-carb or ketogenic diets. The theory:
 - Requires planning and commitment
 - Consult a healthcare provider first
 
-<AdInArticle />
 
 This is an advanced strategy - not necessary for everyone, but worth considering if blood sugar stability is a significant issue for you.
 
@@ -385,4 +383,3 @@ Focus on protein, healthy fats, and staying hydrated. Avoid sugar spikes. **Most
 
 **Remember:** You wouldn't show up to a tournament with a throwing technique you've never practiced. Don't show up with a nutrition strategy you've never practiced either.
 
-<AdBanner />

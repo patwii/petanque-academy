@@ -1,5 +1,4 @@
 # Treinamento Técnico vs. Treinamento de Fluxo
-<AdBanner />
 
 
 Compreender a diferença entre treinamento técnico e treinamento de fluxo é essencial para o desenvolvimento de atletas de elite. Ambos são necessários, mas servem a propósitos diferentes e exigem abordagens distintas.
@@ -77,7 +76,6 @@ A proporção ideal de treino está inversamente relacionada com a competência 
 - **Proporção:** 20% Técnico / 80% Mental
 - **Foco mental:** Estado de fluxo, estratégia, aquietar a mente
 
-<AdInArticle />
 
 ## Tabela de Progressão
 
@@ -191,4 +189,3 @@ A verdadeira habilidade está em saber quando usar cada modo:
 
 A jornada da técnica à fluidez exige inversões estratégicas. Adapte seu treinamento ao seu estágio de desenvolvimento.
 
-<AdBanner />

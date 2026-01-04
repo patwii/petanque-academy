@@ -1,5 +1,4 @@
 # Definizione degli obiettivi per i giocatori di bocce
-<AdBanner />
 
 
 Gli obiettivi chiari sono la tua bussola. Ti danno una direzione per il tuo allenamento, ti motivano quando le cose si fanno difficili e ti permettono di misurare i progressi. Senza obiettivi, stai solo lanciando bocce. Con obiettivi, stai costruendo qualcosa.
@@ -74,7 +73,6 @@ Ogni obiettivo dovrebbe essere:
 - ✅ **Temporalmente vincolato - Ha una scadenza
 :::
 
-<AdInArticle />
 
 ### S - Specific
 ❌ &quot;Migliora il tiro&quot;
@@ -144,7 +142,7 @@ Scrivi le tue risposte. Riprendile quando la motivazione svanisce.
 ## In questa sezione
 
 - **[Obiettivi SMART in dettaglio](/it/education/goals/smart-goals)** - Approfondimento sulla creazione di obiettivi efficaci
-- **[Creare il tuo piano di allenamento](/it/education/goals/pianificazione)** - Trasforma gli obiettivi in azioni
+- **[Creare il tuo piano di allenamento](/it/educazione/obiettivi/pianificazione)** - Trasforma gli obiettivi in azioni
 
 ## Riepilogo: Regole per la definizione degli obiettivi
 
@@ -174,4 +172,3 @@ Quando la motivazione svanisce, il tuo &quot;perché&quot; ti fa andare avanti.
 
 Stabilisci obiettivi chiari. Suddividili in più fasi. Concentrati su ciò che puoi controllare. Monitora i tuoi progressi.
 
-<AdBanner />

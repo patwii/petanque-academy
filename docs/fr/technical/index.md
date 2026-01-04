@@ -1,5 +1,4 @@
 # Conseils techniques
-<AdBanner />
 
 
 ## Note sur la technique
@@ -31,7 +30,6 @@ graph TD
 
 ## L&#39;erreur la plus fréquente en formation technique
 
-<AdInArticle />
 
 ::: info Cette section est réservée aux joueurs expérimentés.
 Si vous débutez à la pétanque, vous devrez naturellement développer votre technique de base à partir de zéro — et c&#39;est un tout autre parcours.
@@ -59,9 +57,9 @@ Voici un résultat concret :
 Nous ne disons pas qu&#39;il ne faut jamais travailler son bras, son poignet, son lâcher ou sa position corporelle. **Le travail technique sur l&#39;exécution est tout à fait valable**, mais il doit avoir le bon objectif.
 
 ::: info La finalité appropriée des travaux techniques
-**Objectif correct :** « Je veux ajouter un nouveau jeté à ma palette »
+**Objectif correct :** "Je veux ajouter un nouveau lancer à ma palette"
 
-**Objectif erroné :** « Je veux réussir plus de coups » ou « Je veux être plus régulier ».
+**Objectif erroné :** "Je veux réussir plus de tirs" ou "Je veux être plus régulier"
 :::
 
 Voici le processus :
@@ -82,20 +80,53 @@ Cette approche donne à votre formation technique une direction claire et des pr
 **Critère de réussite :** Êtes-vous capable d’exécuter ce lancer quand vous le souhaitez ? C’est l’objectif.
 :::
 
-## Pourquoi « frapper plus » est un mauvais objectif
+## Meilleurs tirs ou plus de tirs : comprendre la différence
 
-Si vous modifiez votre technique pour « frapper plus souvent » ou « être plus régulier », vous vous attaquez probablement au mauvais problème.
+Il existe une distinction cruciale que beaucoup de joueurs ignorent :
 
-Voici la vérité : si vous réussissez bien à l’entraînement mais que vous avez des difficultés en compétition, le problème ne vient pas de votre technique, mais du mental. Votre bras sait ce qu’il a à faire. La question est de savoir si votre esprit le lui permet.
+::: tip L&#39;idée clé
+**Si vous voulez améliorer vos tirs** → Travaillez votre technique
 
-::: tip La connexion mentale
-L&#39;inconstance sous pression est rarement un problème technique, c&#39;est un problème mental.
-
-**Pour plus de constance et de performance sous pression, consultez notre section [Éducation](/en/education/)**, et plus particulièrement :
-- [La Zone](/en/education/the-zone/) — Créer les conditions d&#39;une performance optimale
-- Force mentale — Être performant dans les moments décisifs
-- [Technique vs Fluidité](/en/education/the-zone/technical-vs-flow) — Quand privilégier la technique ou la confiance
+**Si vous voulez réussir PLUS de tirs** → Travaillez votre force mentale
 :::
+
+### Qu&#39;est-ce que cela signifie?
+
+**Pour réussir de meilleurs coups**, il faut élargir son répertoire technique :
+- Ajout de nouveaux types de lancers (plombée, portée, demi-portée)
+- Améliorer la précision sur des types de tirs spécifiques
+- Développer de nouvelles compétences que vous ne possédez pas actuellement.
+- **Cela nécessite une pratique technique et un entraînement physique.**
+
+**Réussir plus de tirs** signifie exécuter ce que vous savez déjà faire :
+- Réussir les coups que vous maîtrisez déjà à l&#39;entraînement
+- Performance constante sous pression
+- Faire confiance à sa technique quand c&#39;est important
+- **Cela nécessite un entraînement mental et l&#39;accès à un état de flow.**
+
+### Le bilan de la réalité
+
+Posez-vous honnêtement la question suivante :
+- Arrives-tu à réussir ce tir à l&#39;entraînement en étant détendu ? ✅ **Alors tu maîtrises la technique.**
+- Vous avez du mal à vous démarquer en compétition ? ⚠️ **Alors vous avez besoin d’un travail mental, pas d’exercices techniques supplémentaires.**
+
+::: warning Erreur courante
+De nombreux joueurs expérimentés passent des années à perfectionner une technique qu&#39;ils possèdent déjà, alors que ce dont ils ont vraiment besoin, c&#39;est de développer la force mentale nécessaire pour l&#39;exécuter sous pression.
+
+**Vous n&#39;avez pas besoin d&#39;un meilleur mouvement de bras. Vous avez besoin d&#39;un esprit plus calme.**
+:::
+
+### La voie à suivre
+
+**Pour de meilleures prises de vue (nouvelles fonctionnalités) :**
+- Explorez la [Palette de lancers](/en/technical/throws)
+- Choisissez un nouveau lancer spécifique à développer
+- Pratiquer l&#39;exécution technique
+
+**Pour plus de tirs (régularité sous pression) :**
+- Travaillez sur votre [force mentale](/en/education/mental-strength/)
+- Apprenez à accéder à [La Zone](/en/education/the-zone/)
+- Développer des [routines de préparation au tir](/en/education/mental-strength/pre-shot-routine)
 
 ## Notre perspective
 
@@ -138,4 +169,3 @@ Une fois que vous maîtrisez la technique, la véritable progression provient de
 - **[Méthodes de formation](/en/education/training/)** - Comment pratiquer efficacement
 :::
 
-<AdBanner />

@@ -1,5 +1,4 @@
 # Sandsynlighedsbaseret beslutningstagning
-<AdBanner />
 
 
 Elite taktisk tænkning bruger sandsynlighed til at træffe bedre beslutninger. I stedet for at gætte eller følge mavefornemmelsen, tænker du systematisk over dine muligheder.
@@ -85,7 +84,6 @@ For at bruge sandsynlighedstænkning skal du kende dine faktiske succesrater:
 | Skyd (medium) | 8-9 måneder | ___% |
 | Skyd (langt) | 10+ måneder | ___% |
 
-<AdInArticle />
 
 Følg disse i træning. Vær ærlig - de fleste spillere overvurderer deres succesrater.
 
@@ -205,4 +203,3 @@ Med tiden bliver sandsynlighedstænkning intuitiv:
 
 Tænk i sandsynligheder. Kend dine tal. Lav det smarte spil, ikke det håbefulde.
 
-<AdBanner />

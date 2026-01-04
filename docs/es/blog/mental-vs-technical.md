@@ -1,6 +1,5 @@
 # Por qué los jugadores de élite necesitan entrenamiento mental más que entrenamiento técnico
 
-<AdBanner />
 
 *Tiempo de lectura: 8 minutos*
 
@@ -27,7 +26,6 @@ Esto no es intuitivo. La mayoría de los jugadores asumen que, para mejorar, nec
 
 Al practicar la técnica con frecuencia, se refuerza la **conciencia** de los movimientos. Esto es perfecto para principiantes que están desarrollando sus conexiones neuronales. Pero para los jugadores de élite, crea un hábito peligroso: pensar en la técnica durante la ejecución.
 
-<AdInArticle />
 
 **Ejemplo del terreno:**
 
@@ -189,9 +187,9 @@ Pista:
 ### 4. Utilice los módulos educativos
 
 Empezar con:
-1. [La Zona](/es/education/the-zone/) - Comprender los estados de flujo
-2. [Fuerza mental](/es/education/fuerza-mental/) - Desarrollar habilidades de presión
-3. [Mindfulness](/es/education/mindfulness/) - Desarrollar la concentración en el momento presente
+1. [La Zona](/es/educacion/la-zona/) - Comprender los estados de flujo
+2. [Fuerza mental](/es/educacion/fuerza-mental/) - Desarrollar habilidades de presión
+3. [Mindfulness](/es/educacion/mindfulness/) - Desarrollar la concentración en el momento presente
 
 ## Conclusión
 
@@ -201,13 +199,12 @@ Los jugadores que hacen este cambio —que adoptan el entrenamiento mental como 
 
 **La elección es tuya:** Sigue entrenando como un principiante o comienza a entrenar como un jugador de élite.
 
-<AdBanner />
 
 ---
 
 ## Recursos relacionados
 
-- [La Zona: Entendiendo el Estado de Flujo](/es/education/the-zone/)
+- [La Zona: Entendiendo el Estado de Flujo](/es/educacion/la-zona/)
 - [Estudios de caso: Jugadores de élite en acción](/es/estudios-de-caso)
 - [Plantilla de objetivo](/es/goal-template) - Planifica el desarrollo de tu juego mental
 

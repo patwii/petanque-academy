@@ -1,5 +1,4 @@
 # Teknisk rådgivning
-<AdBanner />
 
 
 ## En anmärkning om teknik
@@ -31,7 +30,6 @@ graph TD
 
 ## Det vanligaste misstaget i teknisk träning
 
-<AdInArticle />
 
 ::: info Denna sektion är för erfarna spelare
 Om du är nybörjare på boule behöver du naturligtvis utveckla din grundteknik från grunden – och det är en annan resa.
@@ -52,21 +50,21 @@ Ett verkligt resultat ser ut så här:
 - &quot;Jag vill ha ett rullande skott som svänger åt vänster i den här typen av terräng&quot;
 - &quot;Jag vill ha ett mjukt, devanterat skott som knappt nuddar målklotet&quot;
 
-**Först, utforska [Paletten av kast](/sv/technical/throws)** för att förstå vad som är möjligt. Bestäm sedan vilket specifikt kast du vill lägga till i din repertoar. Först då bör du börja arbeta med hur din arm, handled och kropp behöver röra sig för att skapa det resultatet.
+**Först, utforska [Paletten av kast](/sv/tekniska/kast)** för att förstå vad som är möjligt. Bestäm sedan vilket specifikt kast du vill lägga till i din repertoar. Först då bör du börja arbeta med hur din arm, handled och kropp behöver röra sig för att skapa det resultatet.
 
 ## Rätt sätt att arbeta med teknik
 
 Vi säger inte att du aldrig ska arbeta med din arm, handled, frigörelse eller kroppsposition. **Tekniskt arbete med utförande är absolut giltigt** — men det måste ha rätt syfte.
 
 ::: info Rätt syfte för tekniskt arbete
-**Rätt syfte:** &quot;Jag vill lägga till en ny pläd i min palett&quot;
+**Rätt syfte:** "Jag vill lägga till ett nytt kast i min repertoar"
 
-**Fel syfte:** &quot;Jag vill slå fler slag&quot; eller &quot;Jag vill vara mer konsekvent&quot;
+**Fel syfte:** "Jag vill träffa fler skott" eller "Jag vill vara mer konsekvent"
 :::
 
 Här är processen:
 
-1. **Utforska [Kastpaletten](/sv/technical/throws)** — Identifiera vilket kast eller vilken teknik du vill lägga till i din repertoar
+1. **Utforska [Kastpaletten](/sv/tekniska/kast)** — Identifiera vilket kast eller vilken teknik du vill lägga till i din repertoar
 2. **Visualisera resultatet** — Vad ska klotet göra? Vilken bana, landning, snurr och beteende behöver du?
 3. **Arbeta sedan med utförandet** — Nu kan du fokusera på arm, handled, kroppsposition och släpp för att uppnå det specifika resultatet
 
@@ -82,20 +80,53 @@ Denna metod ger din tekniska träning **tydlig riktning och mätbara framsteg**.
 **Framgångsmått:** Kan du utföra detta kast när du vill? Det är målet.
 :::
 
-## Varför &quot;att slå mer&quot; är fel mål
+## Bättre skott kontra fler skott: Förstå skillnaden
 
-Om du justerar din teknik för att &quot;slå oftare&quot; eller &quot;vara mer konsekvent&quot;, tar du förmodligen itu med fel problem.
+Det finns en avgörande skillnad som många spelare missar:
 
-**Sanningen är den här:** Om du kan slå bra på träning men kämpar på tävling, är problemet inte din teknik – det är det mentala. Din arm vet vad den ska göra. Frågan är om ditt sinne tillåter det.
+::: tip Den viktigaste insikten
+**Om du vill göra BÄTTRE skott** → Jobba på din teknik
 
-::: tip Den mentala kopplingen
-Inkonsekvens under press är sällan ett tekniskt problem – det är ett mentalt.
-
-**För konsekvens och prestation under press, utforska vår sektion [Utbildning](/sv/education/), särskilt:
-- [Zonen](/sv/education/the-zone/) — Skapar förutsättningar för topprestationer
-- [Mental styrka](/sv/education/mental-strength/) — Prestera när det gäller
-- [Teknisk vs Flöde](/sv/education/the-zone/teknisk-vs-flöde) — När man ska fokusera på teknik kontra förtroende
+**Om du vill ta FLER shots** → Jobba på din mentala styrka
 :::
+
+### Vad betyder det?
+
+**Att ta bättre bilder** innebär att utöka din tekniska repertoar:
+- Lägga till nya typer av kast (plombée, portée, demi-portée)
+- Förbättra precisionen på specifika slagtyper
+- Att utveckla nya färdigheter du inte har för närvarande
+- **Detta kräver teknisk övning och fysisk träning**
+
+**Att ta fler bilder** innebär att utföra det du redan vet hur man gör:
+- Att slå de slag du redan kan göra på träningen
+- Presterar konsekvent under press
+- Lita på din teknik när det gäller
+- **Detta kräver mental träning och tillgång till flödestillstånd**
+
+### Verklighetskontrollen
+
+Fråga dig själv ärligt:
+- Kan du göra skottet på träningen när du är avslappnad? ✅ **Då har du tekniken**
+- Har du svårt att klara det på tävlingar? ⚠️ **Då behöver du mentalt arbete, inte mer teknisk övning**
+
+::: warning Vanligt misstag
+Många erfarna spelare lägger ner år på att finslipa sina tekniker, när det de egentligen behöver är att utveckla den mentala styrkan för att utföra dem under press.
+
+**Du behöver inte en bättre armsving. Du behöver ett lugnare sinne.**
+:::
+
+### Vägen framåt
+
+**För bättre bilder (nya funktioner):**
+- Utforska [Paletten av kast](/sv/tekniska/kast)
+- Välj ett specifikt nytt kast att utveckla
+- Öva på det tekniska utförandet
+
+**För fler doser (konsistens under tryck):**
+- Arbeta med [Mental styrka](/sv/utbildning/mental-styrka/)
+- Lär dig att komma åt [Zonen](/sv/utbildning/zonen/)
+- Utveckla [Rutiner före skott](/sv/utbildning/mental-styrka/rutin-före-skott)
 
 ## Vårt perspektiv
 
@@ -128,14 +159,13 @@ Om du har ett tekniskt fokus och vill utöka din repertoar, beskriver det här a
 
 ## Ämnen
 
-### [Kastpalett](/sv/technical/throws)
+### [Kastpalett](/sv/tekniska/kast)
 Vilka kast finns det? En omfattande översikt över de tekniska möjligheterna inom boule.
 
 ::: tip Efter tekniken, vad händer nu?
 När du väl har en gedigen teknik kommer den verkliga utvecklingen från:
-- **[Zonen](/sv/education/the-zone/)** - Åtkomst till flödestillstånd
-- **[Mental styrka](/sv/education/mental-strength/)** - Hantering av press
-- **[Träningsmetoder](/sv/education/training/)** - Hur man övar effektivt
+- **[Zonen](/sv/utbildning/zonen/)** - Åtkomst till flödestillstånd
+- **[Mental styrka](/sv/utbildning/mental-styrka/)** - Hantering av press
+- **[Träningsmetoder](/sv/utbildning/träning/)** - Hur man övar effektivt
 :::
 
-<AdBanner />

@@ -1,6 +1,5 @@
 # Sobre a Academia de Pétanque
 
-<AdBanner />
 
 ## Uma Paixão pela Petanca
 
@@ -40,7 +39,6 @@ Este site existe para mudar isso. Todo o conteúdo aqui foi desenvolvido para se
 
 ---
 
-<AdInArticle />
 
 ## Entre em contato
 
@@ -149,7 +147,6 @@ Juntos, podemos elevar o nível do jogo mental da petanca em todo o mundo.
 
 ---
 
-<AdBanner />
 
 **Obrigado por fazer parte da Academia de Pétanque!**
 

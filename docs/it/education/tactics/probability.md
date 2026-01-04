@@ -1,5 +1,4 @@
 # Processo decisionale basato sulla probabilità
-<AdBanner />
 
 
 Il pensiero tattico d&#39;élite sfrutta la probabilità per prendere decisioni migliori. Invece di tirare a indovinare o seguire l&#39;istinto, si valutano sistematicamente le proprie opzioni.
@@ -85,7 +84,6 @@ Per utilizzare il pensiero probabilistico, è necessario conoscere i tassi di su
 | Spara (media) | 8-9 mesi | ___% |
 | Spara (lungo) | 10m+ | ___% |
 
-<AdInArticle />
 
 Tieni traccia di questi risultati nella pratica. Sii onesto: la maggior parte dei giocatori sopravvaluta le proprie percentuali di successo.
 
@@ -205,4 +203,3 @@ Col tempo, il pensiero probabilistico diventa intuitivo:
 
 Pensa in termini di probabilità. Conosci i tuoi numeri. Fai la mossa intelligente, non quella ottimistica.
 
-<AdBanner />

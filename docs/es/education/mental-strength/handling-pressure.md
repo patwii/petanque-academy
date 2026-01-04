@@ -1,5 +1,4 @@
 # Manejo de presión
-<AdBanner />
 
 
 La presión es parte de la competencia. El objetivo no es eliminarla; es imposible. El objetivo es tener un buen rendimiento a pesar de ella, e incluso usarla a tu favor.
@@ -81,7 +80,6 @@ Tu respiración es la forma más rápida de cambiar tu estado.
 - Siente tus pies en el suelo
 - Deja caer los hombros al exhalar.
 
-<AdInArticle />
 
 ### 2. Conexión física a tierra
 
@@ -193,4 +191,3 @@ Revisa esto antes de las competencias para recordarte: &quot;Ya he hecho esto an
 
 Los mejores jugadores no son tranquilos: son expertos en utilizar su excitación de forma productiva.
 
-<AdBanner />

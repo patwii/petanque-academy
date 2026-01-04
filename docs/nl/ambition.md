@@ -1,6 +1,5 @@
 # Ambitie
 
-<AdBanner />
 
 Onze missie is om topspelers te helpen de volgende stap in hun ontwikkeling te zetten.
 
@@ -85,5 +84,4 @@ Deel ervaringen met andere topspelers in een veilige en ondersteunende omgeving.
 Verken onze sectie [Onderwijs](/en/education/) of kom meer te weten over onze [Workshops](/en/workshop).
 :::
 
-<AdBanner />
 

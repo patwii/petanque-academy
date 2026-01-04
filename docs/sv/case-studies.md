@@ -1,6 +1,5 @@
 # Fallstudier: Elitspelare i aktion
 
-<AdBanner />
 
 Verkliga exempel på hur elitboulespelare har använt mental spelträning för att bryta prestationsplatåer och uppnå konsekvent excellens.
 
@@ -26,7 +25,7 @@ Marcus lade märke till ett tydligt mönster: i klubbmatcher spelade han fritt o
 
 ### Den mentala spelanalysen
 
-Med hjälp av principerna från [The Zone](/sv/education/the-zone/) identifierade vi problemet:
+Med hjälp av principerna från [The Zone](/sv/utbildning/the-zone/) identifierade vi problemet:
 
 **Förvirring mellan tekniskt läge och flödesläge**
 
@@ -36,21 +35,21 @@ Marcus höll sig i &quot;tekniskt läge&quot; under utförandet. Vid mästerskap
 
 **1. Utveckling av rutiner före skott**
 
-Vi skapade en specifik rutin (från [Mental styrka](/sv/education/mental-strength/rutin-för-skott)):
+Vi skapade en specifik rutin (från [Mental styrka](/sv/utbildning/mental-styrka/rutin-för-skott)):
 - Utanför cirkeln: Analysera situationen (max 30 sekunder)
 - Gå till cirkel: Övergångsandetag
 - I cirkeln: Blicken riktad mot målet, förtroendeträning
 
 **2. Mindfulnessövning**
 
-Daglig 10-minutersövning med tekniker från [Mindfulness](/sv/education/mindfulness/daglig-övning):
+Daglig 10-minutersövning med tekniker från [Mindfulness](/sv/utbildning/mindfulness/daglig-övning):
 - Kroppsskanning för att upptäcka spänningar
 - Andningsmedvetenhet för tävling
 - Fokusträning i nuet
 
 **3. Tävlingssimulering**
 
-Ändrad utbildningsmetod med hjälp av [Utbildningsmetoder](/sv/education/education/):
+Ändrad utbildningsmetod med hjälp av [Utbildningsmetoder](/sv/utbildning/utbildning/):
 - Ökad press på träningarna
 - Övade på &quot;byte&quot;-ögonblicket upprepade gånger
 - Inspelad prestanda under olika förhållanden
@@ -65,7 +64,6 @@ Daglig 10-minutersövning med tekniker från [Mindfulness](/sv/education/mindful
 
 **Viktigt citat:** *&quot;Jag förstod äntligen att det faktiskt gjorde det värre att tänka på min teknik under kastet. Att lära mig att stänga av min analytiska hjärna i cirkeln förändrade allt.&quot;*
 
-<AdInArticle />
 
 ## Fallstudie 2: Att övervinna den inre kritikern
 
@@ -85,7 +83,7 @@ Sophie var sin egen värsta fiende. Efter ett dåligt kast:
 
 ### Den mentala spelanalysen
 
-Klassiskt problem med den &quot;inre kritikern&quot; från [Mental styrka](/sv/education/mental-strength/):
+Klassiskt problem med den &quot;inre kritikern&quot; från [Mental styrka](/sv/utbildning/mental-styrka/):
 
 Den inre kritikern var:
 - Att förstöra självförtroendet efter misstag
@@ -112,7 +110,7 @@ Skapade en specifik process i tre steg:
 
 **3. Teamkommunikation**
 
-Från [Team Dynamics](/sv/education/team-player/kommunikation):
+Från [Team Dynamics](/sv/utbildning/lagspelare/kommunikation):
 - Delade den inre kritikerutmaningen med lagkamrater
 - Bad om stöd för att förbli positiv
 - Skapade en teamkultur med konstruktiv feedback
@@ -145,7 +143,7 @@ Jean var tekniskt briljant men:
 
 ### Den mentala spelanalysen
 
-Med hjälp av principer från [Team Dynamics](/sv/education/team-player/):
+Med hjälp av principer från [Team Dynamics](/sv/utbildning/lagspelare/):
 
 Problemet var inte tekniskt – det var psykologiskt:
 - Brist på förtroende för lagkamrater
@@ -165,7 +163,7 @@ Implementerad strukturerad kommunikation:
 
 **2. Bygga förtroende**
 
-Från [Lagspelare](/sv/education/team-player/):
+Från [Lagspelare](/sv/utbildning/lagspelare/):
 - Övade på att verbalisera förtroende
 - Delat beslutsfattande
 - Firade lagkamraternas framgångar
@@ -189,7 +187,6 @@ Från [Lagspelare](/sv/education/team-player/):
 
 **Viktigt citat:** *&quot;Jag trodde att det att vara en bra lagspelare bara innebar att göra bra kast. Jag lärde mig att det handlar om kommunikation, förtroende och att göra sina lagkamrater bättre.&quot;*
 
-<AdBanner />
 
 ## Gemensamma teman i olika fallstudier
 
@@ -218,9 +215,9 @@ Alla spelare såg konkreta förbättringar i tävlingsresultaten, inte bara &quo
 ::: tip Din tur
 Vilken fallstudie stämmer överens med din erfarenhet?
 
-- **Kämpar du under press?** → Börja med [Zonen](/sv/education/the-zone/)
-- **Negativt självprat?** → Utforska [Mental styrka](/sv/education/mental-strength/)
-- **Utmaningar i laget?** → Studera [Lagdynamik](/sv/education/team-player/)
+- **Kämpar du under press?** → Börja med [Zonen](/sv/utbildning/zonen/)
+- **Negativt självprat?** → Utforska [Mental styrka](/sv/utbildning/mental-styrka/)
+- **Utmaningar i laget?** → Studera [Lagdynamik](/sv/utbildning/lagspelare/)
 
 Använd [Målmallen](/sv/målmall) för att skapa din egen mentala spelutvecklingsplan.
 :::
@@ -233,5 +230,4 @@ Har du upplevt ett genombrott i ditt mentala spel? Vi vill gärna höra om det.
 
 Din berättelse kan hjälpa andra spelare som står inför liknande utmaningar.
 
-<AdBanner />
 

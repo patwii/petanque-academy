@@ -1,6 +1,5 @@
 # Sitzungsleitfaden: Einführung in das mentale Spiel (2-3 Stunden)
 
-<AdBanner />
 
 ## Überblick
 
@@ -100,7 +99,6 @@ Sie erhalten:
 - Links zu detaillierten Schulungsmodulen
 - Zielvorlage für die mentale Spielentwicklung
 
-<AdInArticle />
 
 ---
 
@@ -416,7 +414,6 @@ Nennen Sie Beispiele.
 - Was hat Sie überrascht?
 - Was hast du gelernt?
 
-<AdBanner />
 
 ---
 

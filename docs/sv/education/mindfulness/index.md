@@ -1,5 +1,4 @@
 # Mindfulness för boulespelare
-<AdBanner />
 
 
 Mindfulness är ett av de kraftfullaste verktygen som finns tillgängliga för idrottare. Det är inte mystiskt eller komplicerat – det är helt enkelt övningen i att vara uppmärksam på nuet utan att döma.
@@ -80,7 +79,6 @@ Mindfulness hjälper dig att hantera allt detta.
 
 Nyckelordet är &quot;icke-dömande&quot;.
 
-<AdInArticle />
 
 ::: danger Dömande tänkande (lägger till emotionell tyngd)
 ❌ &quot;Det var ett fruktansvärt kast&quot;
@@ -166,8 +164,8 @@ graph LR
 
 ## I detta avsnitt
 
-- **[Tekniker](/sv/education/mindfulness/tekniker)** - Praktiska övningar du kan använda
-- **[Daglig övning](/sv/education/mindfulness/daglig-övning)** - Bygg in mindfulness i ditt liv
+- **[Tekniker](/sv/utbildning/mindfulness/tekniker)** - Praktiska övningar du kan använda
+- **[Daglig övning](/sv/utbildning/mindfulness/daglig-övning)** - Bygg in mindfulness i ditt liv
 
 ## Sammanfattning: Mindfulnessregler
 
@@ -197,4 +195,3 @@ Konsekvens överträffar varaktighet. Daglig övning bygger upp färdigheten.
 
 Du kan inte hindra tankar från att uppstå. Men du kan välja att inte följa dem ner i kaninhålet.
 
-<AdBanner />

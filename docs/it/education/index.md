@@ -1,5 +1,4 @@
 # Istruzione
-<AdBanner />
 
 Benvenuti al programma educativo della Pétanque Academy. È qui che i giocatori d&#39;élite imparano a padroneggiare il gioco mentale.
 
@@ -50,31 +49,30 @@ graph TD
 
 ## I nostri percorsi di apprendimento
 
-### 🎯 [La Zona (Stato di Flusso)](/it/education/the-zone/)
+### 🎯 [La Zona (Stato di Flusso)](/it/educazione/la-zona/)
 Scopri cos&#39;è veramente la &quot;zona&quot; e come accedervi. Comprendi la scienza alla base degli stati di flusso e scopri tecniche pratiche per dare il massimo quando serve di più.
 
-### 🧘 [Mindfulness](/it/education/mindfulness/)
+### 🧘 [Mindfulness](/it/educazione/mindfulness/)
 Padroneggia l&#39;arte di essere presente. Impara tecniche scientificamente provate per calmare la mente, migliorare la concentrazione e riprenderti rapidamente dagli errori.
 
-### 📊 [Fissazione degli obiettivi](/it/education/goals/)
+### 📊 [Fissazione degli obiettivi](/it/istruzione/obiettivi/)
 Crea una tabella di marcia per il tuo sviluppo. Impara il framework SMART adattato alla pétanque e costruisci un piano di allenamento che funzioni davvero.
 
-### 💪 [Forza mentale](/it/education/mental-strength/)
+### 💪 [Forza mentale](/it/educazione/forza-mentale/)
 Sviluppa la forza mentale necessaria per la competizione. Impara a gestire la pressione, a superare l&#39;ansia e a sviluppare routine che favoriscano le massime prestazioni.
 
 ### 🤝 [Dinamiche di squadra](/it/education/team-player/)
 Diventa il compagno di squadra con cui tutti vogliono giocare. Impara a comunicare, a fidarti e a contribuire a creare una cultura di squadra vincente.
 
-### ♟️ [Tattiche](/it/education/tactics/)
+### ♟️ [Tattiche](/it/educazione/tattiche/)
 Pensa in modo strategico a ogni situazione. Impara a prendere decisioni basate sulle probabilità e a capire quando correre dei rischi.
 
-### 🏋️ [Metodi di allenamento](/it/education/training/)
+### 🏋️ [Metodi di allenamento](/it/educazione/formazione/)
 Allenati in modo più intelligente, non solo più duramente. Impara a strutturare la tua pratica per ottenere il massimo miglioramento.
 
-### 🥗 [Nutrizione](/it/education/nutrition/)
+### 🥗 [Nutrizione](/it/educazione/nutrizione/)
 Alimenta il tuo cervello per prestazioni di precisione. Impara a mantenere energia e concentrazione stabili durante la gara.
 
-<AdInArticle />
 
 ## Il viaggio dalla tecnica al flusso
 
@@ -156,4 +154,3 @@ Questa è la tua guida di riferimento rapido. Aggiungi questa sezione ai preferi
 Inizia con [The Zone](/it/education/the-zone/) per comprendere le basi delle prestazioni d&#39;élite, quindi esplora [Mindfulness](/it/education/mindfulness/) per tecniche pratiche che puoi utilizzare immediatamente.
 :::
 
-<AdBanner />

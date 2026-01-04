@@ -1,5 +1,4 @@
 # Building Your Pre-Shot Routine
-<AdBanner />
 
 
 Your pre-shot routine is one of the most powerful tools in your mental game. It's a consistent sequence of actions that prepares you for each throw and triggers your best performance state.
@@ -79,7 +78,6 @@ Make the throw:
 - Release without hesitation
 - Follow through naturally
 
-<AdInArticle />
 
 ## Building Your Personal Routine
 
@@ -188,4 +186,3 @@ Your routine should take a consistent amount of time:
 
 Build it carefully. Practice it always. Trust it completely.
 
-<AdBanner />

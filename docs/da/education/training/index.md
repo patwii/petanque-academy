@@ -1,5 +1,4 @@
 # Træningsmetoder
-<AdBanner />
 
 
 Når din teknik er solid, hvad øver du dig så på? Det er her, mange spillere stagner - de fortsætter med at øve teknikken, når den virkelige vækst ligger et andet sted.
@@ -81,7 +80,6 @@ Studier viser konsekvent:
 - Tilfældig træning giver bedre konkurrencepræstation
 - Det er i den tilfældige praksiss &quot;kamp&quot; at lære.
 
-<AdInArticle />
 
 ## Tryksimulering
 
@@ -189,7 +187,7 @@ Dediker specifikt tid til mentale færdigheder:
 
 ## I dette afsnit
 
-- **[Træningsøvelser](/da/education/træning/øvelser)** - Specifikke øvelser til forskellige færdigheder
+- **[Træningsøvelser](/da/uddannelse/træning/øvelser)** - Specifikke øvelser til forskellige færdigheder
 
 ## Vigtig konklusion
 
@@ -197,4 +195,3 @@ Dediker specifikt tid til mentale færdigheder:
 
 Bland din træning. Inkluder mentalt arbejde. Skab pres. Følg dine fremskridt.
 
-<AdBanner />

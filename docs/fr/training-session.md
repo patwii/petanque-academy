@@ -1,6 +1,5 @@
 # Séance d&#39;entraînement : Guide pratique de la compétition
 
-<AdBanner />
 
 ## Comment 4 joueurs peuvent s&#39;entraîner ensemble régulièrement
 
@@ -99,7 +98,6 @@ Ils habitent à moins de 30 minutes l&#39;un de l&#39;autre.
 | **Troisième manche de compétition** | Simple ou défi | 45 min |
 | **Réflexion** | Débriefing approfondi et planification | 30 min |
 
-<AdInArticle />
 
 ## Protocole de démarrage (15-20 minutes)
 
@@ -312,7 +310,6 @@ Full circle:
 - Confirm next session date/time
 - One-word check-out: "How are you leaving?"
 
-<AdInArticle />
 
 ## User Manual Integration
 
@@ -672,5 +669,4 @@ After each session, record:
 **The result:** You don't just get better at pétanque. You become a more complete competitor.
 :::
 
-<AdBanner />
 

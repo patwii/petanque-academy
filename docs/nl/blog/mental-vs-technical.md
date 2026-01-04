@@ -1,6 +1,5 @@
 # Waarom topspelers meer behoefte hebben aan mentale training dan aan technische training.
 
-<AdBanner />
 
 *Leestijd: 8 minuten*
 
@@ -27,7 +26,6 @@ Dit is niet intuïtief. De meeste spelers gaan ervan uit dat ze hun techniek mee
 
 Door veel te oefenen op een bepaalde techniek, versterk je het **bewustzijn** van je bewegingen. Dit is perfect voor beginners die neurale verbindingen aan het opbouwen zijn. Maar voor topspelers creëert het een gevaarlijke gewoonte: nadenken over de techniek tijdens de uitvoering.
 
-<AdInArticle />
 
 **Voorbeeld uit het terrein:**
 
@@ -201,7 +199,6 @@ De spelers die deze omschakeling maken – die mentale training als hun belangri
 
 **De keuze is aan jou:** Blijf trainen als een beginner, of begin te trainen als een topspeler.
 
-<AdBanner />
 
 ---
 

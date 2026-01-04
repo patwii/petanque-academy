@@ -1,5 +1,4 @@
 # Trainingsübungen
-<AdBanner />
 
 
 Hier findest du bewährte Übungen, die von Spitzenspielern eingesetzt werden. Jede Übung hat einen bestimmten Zweck – wähle diejenige aus, die du entwickeln möchtest.
@@ -104,7 +103,6 @@ graph TD
 - Zeitversion: Wie weit kommst du in 10 Minuten?
 - Teamversion: Wechseln Sie sich mit dem Partner ab.
 
-<AdInArticle />
 
 ### The Barrier (Blox)
 **Zweck:** Erzwingen von Schüssen mit hohem Bogen
@@ -255,4 +253,3 @@ Führen Sie für jede Übung ein Protokoll:
 
 Werfen Sie nicht einfach nur Boule-Kugeln. Trainieren Sie zielgerichtet.
 
-<AdBanner />

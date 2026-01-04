@@ -1,6 +1,5 @@
 # Testimonianze dei giocatori
 
-<AdBanner />
 
 Feedback reali da giocatori di pétanque d&#39;élite che hanno utilizzato le risorse della Pétanque Academy per migliorare il loro gioco mentale e le loro prestazioni in gara.
 
@@ -40,7 +39,6 @@ Queste testimonianze rappresentano feedback autentici da parte di giocatori a va
 
 **— Allenatore del club, Germania**
 
-<AdInArticle />
 
 ---
 
@@ -118,7 +116,6 @@ Queste testimonianze rappresentano feedback autentici da parte di giocatori a va
 
 **— Psicologo dello sport e allenatore di bocce, Regno Unito**
 
-<AdBanner />
 
 ---
 
@@ -166,10 +163,9 @@ Pronto a sviluppare la tua mentalità?
 
 ::: tip Inizia qui
 - **Nuovo nell&#39;allenamento mentale?** → [The Zone](/it/education/the-zone/)
-- **Hai difficoltà con la pressione?** → [Forza mentale](/it/education/mental-strength/)
-- **Sfide di squadra?** → [Dinamiche di squadra](/it/education/giocatore-di-squadra/)
+- **Hai difficoltà con la pressione?** → [Forza mentale](/it/educazione/forza-mentale/)
+- **Sfide di squadra?** → [Dinamiche di squadra](/it/istruzione/giocatore-di-squadra/)
 - **Vuoi una struttura?** → [Modello obiettivo](/it/goal-template)
 :::
 
-<AdBanner />
 

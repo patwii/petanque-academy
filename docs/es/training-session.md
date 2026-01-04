@@ -1,6 +1,5 @@
 # Sesión de entrenamiento: Guía de práctica de competición
 
-<AdBanner />
 
 ## Cómo 4 jugadores pueden entrenar juntos regularmente
 
@@ -99,7 +98,6 @@ Estoy formando un pequeño grupo de entrenamiento de 4 jugadores que quieren com
 | **Ronda de competencia 3** | Individual o desafío | 45 min |
 | **Reflexión** | Análisis profundo y planificación | 30 min |
 
-<AdInArticle />
 
 ## Protocolo de inicio (15-20 minutos)
 
@@ -312,7 +310,6 @@ Full circle:
 - Confirm next session date/time
 - One-word check-out: "How are you leaving?"
 
-<AdInArticle />
 
 ## User Manual Integration
 
@@ -672,5 +669,4 @@ After each session, record:
 **The result:** You don't just get better at pétanque. You become a more complete competitor.
 :::
 
-<AdBanner />
 

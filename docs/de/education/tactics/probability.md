@@ -1,5 +1,4 @@
 # Wahrscheinlichkeitsbasierte Entscheidungsfindung
-<AdBanner />
 
 
 Taktisches Denken auf höchstem Niveau nutzt Wahrscheinlichkeitsrechnung, um bessere Entscheidungen zu treffen. Anstatt zu raten oder sich auf sein Bauchgefühl zu verlassen, analysiert man systematisch seine Optionen.
@@ -85,7 +84,6 @@ Um Wahrscheinlichkeitsrechnung anwenden zu können, müssen Sie Ihre tatsächlic
 | Schießen (mittel) | 8-9 m | ___% |
 | Schießen (lang) | 10 m+ | ___% |
 
-<AdInArticle />
 
 Verfolgen Sie diese Werte in der Praxis. Seien Sie ehrlich – die meisten Spieler überschätzen ihre Erfolgsquoten.
 
@@ -205,4 +203,3 @@ Mit der Zeit wird das Denken in Wahrscheinlichkeiten intuitiv:
 
 Denken Sie in Wahrscheinlichkeiten. Kennen Sie Ihre Zahlen. Treffen Sie die kluge Entscheidung, nicht die auf gut Glück basierende.
 
-<AdBanner />

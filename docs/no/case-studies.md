@@ -1,6 +1,5 @@
 # Casestudier: Elitespillere i aksjon
 
-<AdBanner />
 
 Eksempler fra den virkelige verden på hvordan elite-petanquespillere har brukt mental spilltrening til å bryte gjennom prestasjonsplatåer og oppnå jevnlig kvalitet.
 
@@ -50,7 +49,7 @@ Daglig 10-minutters øvelse med teknikker fra [Mindfulness](/no/utdanning/mindfu
 
 **3. Konkurransesimulering**
 
-Endret opplæringsmetodikk ved bruk av [Opplæringsmetoder](/no/utdanning/training/):
+Endret opplæringsmetodikk ved bruk av [Opplæringsmetoder](/no/utdanning/opplæring/):
 - Økt press på treningsøktene
 - Øvde på «bytteøyeblikket» gjentatte ganger
 - Innspilt ytelse under forskjellige forhold
@@ -65,7 +64,6 @@ Endret opplæringsmetodikk ved bruk av [Opplæringsmetoder](/no/utdanning/traini
 
 **Hovedsitat:** *«Jeg forsto endelig at det å tenke på teknikken min under kastet faktisk gjorde det verre. Det å lære å slå av den analytiske hjernen min i sirkelen forandret alt.»*
 
-<AdInArticle />
 
 ## Casestudie 2: Å overvinne den indre kritikeren
 
@@ -189,7 +187,6 @@ Endret fokus fra «min prestasjon» til «vår prestasjon»:
 
 **Hovedsitat:** *«Jeg trodde det å være en god lagspiller bare betydde å gjøre gode kast. Jeg lærte at det handler om kommunikasjon, tillit og å gjøre lagkameratene dine bedre.»*
 
-<AdBanner />
 
 ## Felles temaer på tvers av casestudier
 
@@ -233,5 +230,4 @@ Har du opplevd et gjennombrudd i mentale spill? Vi vil gjerne høre om det.
 
 Historien din kan hjelpe andre spillere som står overfor lignende utfordringer.
 
-<AdBanner />
 

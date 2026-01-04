@@ -1,6 +1,5 @@
 # Über die Pétanque-Akademie
 
-<AdBanner />
 
 ## Eine Leidenschaft für Pétanque
 
@@ -40,7 +39,6 @@ Diese Website soll das ändern. Alle Inhalte hier sind so gestaltet, dass sie so
 
 ---
 
-<AdInArticle />
 
 ## Nehmen Sie Kontakt auf
 
@@ -149,7 +147,6 @@ Gemeinsam können wir das mentale Niveau des Boule-Spiels weltweit steigern.
 
 ---
 
-<AdBanner />
 
 Vielen Dank, dass Sie Teil der Pétanque-Akademie sind!
 

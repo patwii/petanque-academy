@@ -1,5 +1,4 @@
 # Comunicação em equipe
-<AdBanner />
 
 
 A comunicação eficaz é o que transforma um grupo de indivíduos em uma equipe. Na petanca, onde a estratégia muda constantemente e a pressão é alta, a forma como você se comunica pode determinar o resultado.
@@ -95,7 +94,6 @@ A comunicação é bidirecional:
 - Reconheça o que você ouviu.
 - Não interrompa nem dispense.
 
-<AdInArticle />
 
 ## Desafios de comunicação
 
@@ -222,4 +220,3 @@ Se sua equipe tiver um líder designado:
 
 Pratique a comunicação como você pratica arremessos. É uma habilidade que melhora com atenção.
 
-<AdBanner />

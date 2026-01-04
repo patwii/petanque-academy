@@ -1,6 +1,5 @@
 # Workshop: Avancerad mental spelsession (3-4 timmar)
 
-<AdBanner />
 
 ## Översikt
 
@@ -138,7 +137,6 @@ Du kommer att åka därifrån med:
 Efter djupgående delning kan du känna dig avslöjad eller ångerfull. Detta är normalt. Handledaren kommer att höra av sig till dig inom 24 timmar. Kom ihåg: det du delade hjälpte alla.
 :::
 
-<AdInArticle />
 
 ---
 
@@ -309,7 +307,6 @@ Detta kopplar mental belastning till fysisk spänning (pipandet/yipset).
 - Impostorsyndrom
 :::
 
-<AdInArticle />
 
 
 ### Fas 2: Djupgående arbete (90 minuter)
@@ -484,7 +481,6 @@ Djupt arbete orsakar en &quot;sårbarhetsbaksmälla&quot; - ånger eller skam ö
 **Avslutningsmanus:**
 > &quot;Det som hände här idag krävde mod. Du dök upp, du öppnade upp dig, du litade på processen. Samma mod är vad du kommer att ta med dig till pisten. Kom ihåg: lärdomarna lämnar det här rummet, men berättelserna stannar kvar. Tack.&quot;
 
-<AdInArticle />
 
 ## Hantering av motstånd
 
@@ -584,5 +580,4 @@ Denna workshop är fas 1. Tänk på:
 - **Individuella incheckningar** (för spelare som behöver mer stöd)
 :::
 
-<AdBanner />
 

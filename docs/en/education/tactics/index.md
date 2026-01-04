@@ -1,5 +1,4 @@
 # Tactical Thinking in Pétanque
-<AdBanner />
 
 
 At the elite level, technical skill is assumed. What separates winners from the rest is tactical intelligence - knowing which throw to attempt and when. The best players read the game several moves ahead and exploit every advantage.
@@ -125,7 +124,6 @@ graph LR
     C --> F{Surface?}
     D --> G[Point More]
 
-<AdInArticle />
 
     F -->|Smooth| H[Shoot More]
     F -->|Rough| I[Point More]
@@ -302,4 +300,3 @@ Track their preferences, success rates, and pressure responses
 
 Read the game. Know your strengths. Exploit their weaknesses. Execute with confidence.
 
-<AdBanner />

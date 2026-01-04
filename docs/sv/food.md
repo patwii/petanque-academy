@@ -1,6 +1,5 @@
 # Mat och näring
 
-<AdBanner />
 
 ## Drivkraft för precisionsprestanda
 
@@ -79,7 +78,6 @@ Var särskilt försiktig med:
 - ❌ Vitt bröd, bakverk, snacks från varuautomater
 :::
 
-<AdInArticle />
 
 ## Snabbguide för tävlingsdagen
 

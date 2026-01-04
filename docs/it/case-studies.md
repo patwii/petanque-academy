@@ -1,6 +1,5 @@
 # Casi di studio: giocatori d&#39;élite in azione
 
-<AdBanner />
 
 Esempi concreti di come i giocatori di pétanque d&#39;élite abbiano utilizzato l&#39;allenamento mentale per superare i periodi di stallo nelle prestazioni e raggiungere un&#39;eccellenza costante.
 
@@ -36,14 +35,14 @@ Marcus rimaneva in &quot;modalità tecnica&quot; durante l&#39;esecuzione. Duran
 
 **1. Sviluppo della routine pre-tiro**
 
-Abbiamo creato una routine specifica (da [Forza mentale](/it/education/mental-strength/routine-pre-tiro)):
+Abbiamo creato una routine specifica (da [Forza mentale](/it/education/forza-mentale/routine-pre-tiro)):
 - Cerchio esterno: Analizza la situazione (30 secondi max)
 - Camminare in cerchio: respiro di transizione
 - In cerchio: occhi solo sul bersaglio, allenamento alla fiducia
 
 **2. Pratica della consapevolezza**
 
-Pratica quotidiana di 10 minuti utilizzando tecniche di [Mindfulness](/it/education/mindfulness/pratica-quotidiana):
+Pratica quotidiana di 10 minuti utilizzando tecniche di [Mindfulness](/it/educazione/mindfulness/pratica-quotidiana):
 - Scansione corporea per riconoscere la tensione
 - Consapevolezza del respiro per la competizione
 - Allenamento alla concentrazione sul momento presente
@@ -65,7 +64,6 @@ Approccio formativo modificato utilizzando [Metodi di formazione](/it/education/
 
 **Citazione chiave:** *&quot;Alla fine ho capito che pensare alla mia tecnica durante il lancio in realtà peggiorava la situazione. Imparare a spegnere il mio cervello analitico nel cerchio ha cambiato tutto.&quot;*
 
-<AdInArticle />
 
 ## Caso di studio 2: Superare il critico interiore
 
@@ -85,7 +83,7 @@ Sophie era la sua peggior nemica. Dopo un brutto lancio:
 
 ### L&#39;analisi del gioco mentale
 
-Classico problema del &quot;Critico Interiore&quot; da [Forza Mentale](/it/education/mental-strength/):
+Classico problema del &quot;Critico Interiore&quot; da [Forza Mentale](/it/educazione/forza-mentale/):
 
 Il critico interiore era:
 - Distruggere la fiducia dopo gli errori
@@ -189,7 +187,6 @@ Spostamento dell&#39;attenzione da &quot;la mia prestazione&quot; a &quot;la nos
 
 **Citazione chiave:** *&quot;Pensavo che essere un buon giocatore di squadra significasse semplicemente fare buoni lanci. Ho imparato che è una questione di comunicazione, fiducia e di come migliorare i propri compagni di squadra.&quot;*
 
-<AdBanner />
 
 ## Temi comuni nei casi di studio
 
@@ -219,8 +216,8 @@ Tutti i giocatori hanno riscontrato miglioramenti concreti nei risultati delle c
 Quale caso di studio rispecchia meglio la tua esperienza?
 
 - **Hai difficoltà sotto pressione?** → Inizia con [The Zone](/it/education/the-zone/)
-- **Discorso interiore negativo?** → Esplora [Forza mentale](/it/education/mental-strength/)
-- **Sfide di squadra?** → Studia [Dinamiche di squadra](/it/education/giocatore-di-squadra/)
+- **Discorso interiore negativo?** → Esplora [Forza mentale](/it/educazione/forza-mentale/)
+- **Sfide di squadra?** → Studia [Dinamiche di squadra](/it/istruzione/giocatore-di-squadra/)
 
 Utilizza il [modello obiettivo](/en/goal-template) per creare il tuo piano di sviluppo del gioco mentale.
 :::
@@ -233,5 +230,4 @@ Hai avuto una svolta nel tuo mental game? Ci piacerebbe molto saperlo.
 
 La tua storia potrebbe aiutare altri giocatori che affrontano sfide simili.
 
-<AdBanner />
 

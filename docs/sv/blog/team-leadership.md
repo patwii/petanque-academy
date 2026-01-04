@@ -253,5 +253,5 @@ Ledare antar utmaningar:
 
 ---
 
-| *Relaterat: [Lagdynamik](/sv/education/team-player/) | [Kommunikation](/sv/education/team-player/kommunikation) | [Bygg lagkemi](/sv/blogg/lagkemi)* |
+| *Relaterat: [Lagdynamik](/sv/utbildning/lagspelare/) | [Kommunikation](/sv/utbildning/lagspelare/kommunikation) | [Bygg lagkemi](/sv/blogg/lagkemi)* |
 

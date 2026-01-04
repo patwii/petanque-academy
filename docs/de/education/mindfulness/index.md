@@ -1,5 +1,4 @@
 # Achtsamkeit für Boule-Spieler
-<AdBanner />
 
 
 Achtsamkeit ist eines der wirkungsvollsten Werkzeuge für Sportler. Sie ist weder mystisch noch kompliziert – es ist einfach die Übung, dem gegenwärtigen Moment unvoreingenommen Aufmerksamkeit zu schenken.
@@ -80,7 +79,6 @@ Achtsamkeit hilft Ihnen dabei, all das zu bewältigen.
 
 Das Schlüsselwort ist „vorurteilsfrei“.
 
-<AdInArticle />
 
 ::: danger Wertendes Denken (Fügt emotionales Gewicht hinzu)
 ❌ &quot;Das war ein furchtbarer Wurf.&quot;
@@ -197,4 +195,3 @@ Kontinuität ist wichtiger als Dauer. Tägliches Üben fördert die Fertigkeit.
 
 Man kann nicht verhindern, dass Gedanken auftauchen. Aber man kann sich entscheiden, ihnen nicht in den Kaninchenbau zu folgen.
 
-<AdBanner />

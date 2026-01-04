@@ -1,6 +1,5 @@
 # Campo di addestramento: Guida al fine settimana
 
-<AdBanner />
 
 ## Come organizzare un campo di allenamento di fine settimana per 10-20 giocatori
 
@@ -144,7 +143,6 @@ graph TD
     style E fill:#e8f5e9
 ```
 
-<AdInArticle />
 
 
 ### Sabato (Giornata intera - Teoria + Pratica)
@@ -379,7 +377,6 @@ Cerchio in alto:
 
 **19:00 - Cena e partenza**
 
-<AdInArticle />
 
 ## Suggerimenti per la facilitazione
 
@@ -580,5 +577,4 @@ Cerchio in alto:
 - *Mentalità* di Carol Dweck
 - *L&#39;organizzazione senza paura* di Amy Edmondson
 
-<AdBanner />
 

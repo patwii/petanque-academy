@@ -1,6 +1,5 @@
 # Ehrgeiz
 
-<AdBanner />
 
 Unsere Mission ist es, Spitzenspielern dabei zu helfen, den nächsten Schritt in ihrer Entwicklung zu machen.
 
@@ -85,5 +84,4 @@ Tauschen Sie sich in einem sicheren und unterstützenden Umfeld mit anderen Spit
 Erkunden Sie unseren Bereich [Bildung](/en/education/) oder erfahren Sie mehr über unsere [Workshops](/en/workshop).
 :::
 
-<AdBanner />
 

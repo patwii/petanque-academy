@@ -1,5 +1,4 @@
 # Paleta de mantas
-<AdBanner />
 
 
 ## El repertorio técnico completo
@@ -75,7 +74,6 @@ graph LR
 | **Medio giro** | Efecto retroceso moderado, balanceo controlado | El más versátil y predecible. |
 | **Sin giro** | Balanceo natural y neutral al aterrizar | Deja que el terreno dicte el rumbo |
 
-<AdInArticle />
 
 ## Técnicas de tiro
 
@@ -171,9 +169,8 @@ Concentrarse en:
 
 ::: info Próximos pasos
 Una vez que tienes una técnica sólida, el verdadero crecimiento proviene de:
-- **[La Zona](/es/education/the-zone/)** - Acceder a estados de flujo de forma consistente
-- **[Métodos de entrenamiento](/es/education/training/)** - Cómo practicar eficazmente
-- **[Fuerza mental](/es/education/fuerza-mental/)** - Rendimiento bajo presión
+- **[La Zona](/es/educacion/la-zona/)** - Acceder a estados de flujo de forma consistente
+- **[Métodos de entrenamiento](/es/educacion/entrenamiento/)** - Cómo practicar eficazmente
+- **[Fuerza mental](/es/educacion/fuerza-mental/)** - Rendimiento bajo presión
 :::
 
-<AdBanner />

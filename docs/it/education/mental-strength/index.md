@@ -1,5 +1,4 @@
 # Forza mentale
-<AdBanner />
 
 
 La forza mentale è ciò che distingue i giocatori che danno il massimo in allenamento da quelli che danno il massimo quando conta. È la capacità di gestire la pressione, riprendersi dalle battute d&#39;arresto e mantenere la concentrazione durante le lunghe competizioni.
@@ -77,7 +76,6 @@ La fiducia deriva da:
 
 ### 2. Padroneggia il tuo dialogo interiore
 
-<AdInArticle />
 
 La voce nella tua testa è estremamente importante.
 
@@ -155,8 +153,8 @@ graph LR
 
 ## In questa sezione
 
-- **[Gestire la pressione](/it/education/mental-strength/gestire-la-pressione)** - Tecniche per situazioni ad alto rischio
-- **[Routine pre-tiro](/it/education/mental-strength/routine-pre-tiro)** - Costruisci il tuo trigger di prestazione
+- **[Gestire la pressione](/it/educazione/forza-mentale/gestire-la-pressione)** - Tecniche per situazioni ad alto rischio
+- **[Routine pre-tiro](/it/educazione/forza-mentale/routine-pre-tiro)** - Costruisci il tuo trigger di prestazione
 
 ## Riepilogo: Regole della forza mentale
 
@@ -191,4 +189,3 @@ Non analizzare troppo tra un lancio e l&#39;altro. Conserva l&#39;energia mental
 
 Non puoi controllare cosa succede. Puoi controllare come reagisci.
 
-<AdBanner />

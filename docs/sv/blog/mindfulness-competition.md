@@ -166,5 +166,5 @@ Den spelare som är helt närvarande vid varje kast, medan andra är försjunkna
 
 ---
 
-| *Relaterat: [Introduktion till mindfulness](/sv/education/mindfulness/) | [Mindfulnesstekniker](/sv/education/mindfulness/tekniker) | [Daglig övning](/sv/education/mindfulness/daglig-övning)* |
+| *Relaterat: [Introduktion till mindfulness](/sv/utbildning/mindfulness/) | [Mindfulnesstekniker](/sv/utbildning/mindfulness/tekniker) | [Daglig övning](/sv/utbildning/mindfulness/daglig-övning)* |
 

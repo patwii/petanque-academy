@@ -1,6 +1,5 @@
 # Testimonios de jugadores
 
-<AdBanner />
 
 Comentarios reales de jugadores de petanca de élite que han utilizado los recursos de Pétanque Academy para mejorar su juego mental y su rendimiento en competición.
 
@@ -40,7 +39,6 @@ Estos testimonios representan comentarios genuinos de jugadores de diversos nive
 
 **— Entrenador de club, Alemania**
 
-<AdInArticle />
 
 ---
 
@@ -118,7 +116,6 @@ Estos testimonios representan comentarios genuinos de jugadores de diversos nive
 
 **— Psicólogo deportivo y entrenador de petanca, Reino Unido**
 
-<AdBanner />
 
 ---
 
@@ -165,11 +162,10 @@ Tu historia podría ayudar a otros jugadores a descubrir estos recursos.
 ¿Estás listo para desarrollar tu juego mental?
 
 ::: tip Empieza aquí
-- **¿Eres nuevo en el entrenamiento mental?** → [La Zona](/es/education/the-zone/)
-- **¿Luchando con la presión?** → [Fuerza mental](/es/education/fuerza-mental/)
-- **¿Desafíos de equipo?** → [Dinámica de equipo](/es/education/team-player/)
+- **¿Eres nuevo en el entrenamiento mental?** → [La Zona](/es/educacion/la-zona/)
+- **¿Luchando con la presión?** → [Fuerza mental](/es/educacion/fuerza-mental/)
+- **¿Desafíos de equipo?** → [Dinámica de equipo](/es/educacion/jugador-de-equipo/)
 - **¿Quieres estructura?** → [Plantilla de objetivo](/es/goal-template)
 :::
 
-<AdBanner />
 

@@ -16,7 +16,7 @@
 cd root-domain
 git init
 git add .
-git commit -m "Initial commit - Carreau landing page with AdSense verification"
+git commit -m "Initial commit - Carreau landing page"
 git remote add origin https://github.com/patwii/carreau-root.git
 git branch -M main
 git push -u origin main
@@ -77,24 +77,9 @@ Once DNS has propagated, test these URLs:
 
 1. **Landing page:** https://carreau.app
    - Should show the Carreau landing page
-   
-2. **ads.txt:** https://carreau.app/ads.txt
-   - Should show: `google.com, pub-2291330857070799, DIRECT, f08c47fec0942fa0`
 
-3. **View source:** Right-click on https://carreau.app → View Page Source
-   - Search for: `google-adsense-account`
-   - Should find: `<meta name="google-adsense-account" content="ca-pub-2291330857070799">`
-
-### Step 7: Verify in AdSense
-
-1. Go to: https://www.google.com/adsense/
-2. Click **Sites** in the left menu
-3. Click **Add site**
-4. Enter: `carreau.app` (not http://, just the domain)
-5. Click **Save and continue**
-6. Choose verification method: **AdSense code** or **Meta tag**
-7. Click **Verify**
-8. ✅ Should verify successfully!
+2. **View source:** Right-click on https://carreau.app → View Page Source
+   - Verify the page loads correctly
 
 ## Troubleshooting
 
@@ -112,19 +97,12 @@ Once DNS has propagated, test these URLs:
 - Check that CNAME file exists in the repo
 - Wait 5-10 minutes after enabling Pages
 
-### AdSense verification fails
-- Make sure DNS has fully propagated
-- Check that https://carreau.app/ads.txt is accessible
-- Check that meta tag is in page source
-- Wait 10-15 minutes and try again
-
 ## Summary
 
 After completion, you'll have:
 
-- ✅ **carreau.app** - Landing page with AdSense verification
+- ✅ **carreau.app** - Landing page
 - ✅ **academy.carreau.app** - Pétanque Academy (unchanged)
-- ✅ **AdSense verified** - Can show ads on both domains
 - ✅ **Both on GitHub Pages** - Easy to manage
 
 ## Quick Commands
@@ -136,7 +114,7 @@ cd root-domain
 # Deploy
 git init
 git add .
-git commit -m "Initial commit - Carreau landing page with AdSense verification"
+git commit -m "Initial commit - Carreau landing page"
 git remote add origin https://github.com/patwii/carreau-root.git
 git branch -M main
 git push -u origin main

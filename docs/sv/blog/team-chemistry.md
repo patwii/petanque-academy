@@ -210,5 +210,5 @@ Kemi är inte statisk – den kräver underhåll:
 
 ---
 
-| *Relaterat: [Lagdynamik](/sv/education/team-player/) | [Kommunikation](/sv/education/team-player/kommunikation) | [Ledarskap i boule](/sv/blogg/lagledarskap)* |
+| *Relaterat: [Lagdynamik](/sv/utbildning/lagspelare/) | [Kommunikation](/sv/utbildning/lagspelare/kommunikation) | [Ledarskap i boule](/sv/blogg/lagledarskap)* |
 

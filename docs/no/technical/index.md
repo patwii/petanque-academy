@@ -1,5 +1,4 @@
 # Teknisk rådgivning
-<AdBanner />
 
 
 ## En merknad om teknikk
@@ -31,7 +30,6 @@ graph TD
 
 ## Den vanligste feilen i teknisk trening
 
-<AdInArticle />
 
 ::: info Denne seksjonen er for erfarne spillere
 Hvis du er nybegynner innen petanque, må du naturligvis utvikle den grunnleggende teknikken din fra bunnen av – og det er en annen reise.
@@ -59,14 +57,14 @@ Et reelt resultat ser slik ut:
 Vi sier ikke at du aldri skal jobbe med arm, håndledd, avlastning eller kroppsstilling. **Teknisk arbeid med utførelse er absolutt gyldig** – men det må ha riktig formål.
 
 ::: info Det riktige formålet med teknisk arbeid
-**Riktig formål:** «Jeg vil legge til et nytt pledd i paletten min»
+**Riktig formål:** "Jeg vil legge til et nytt kast i repertoaret mitt"
 
-**Feil formål:** «Jeg vil slå flere slag» eller «Jeg vil være mer konsekvent»
+**Feil formål:** "Jeg vil treffe flere skudd" eller "Jeg vil være mer konsekvent"
 :::
 
 Her er prosessen:
 
-1. **Utforsk [Kastpaletten](/no/technical/throws)** — Identifiser hvilket kast eller hvilken teknikk du vil legge til i repertoaret ditt
+1. **Utforsk [Kastpaletten](/no/teknisk/kast)** — Identifiser hvilket kast eller hvilken teknikk du vil legge til i repertoaret ditt
 2. **Visualiser resultatet** – Hva skal kulen gjøre? Hvilken bane, landing, spinn og oppførsel trenger du?
 3. **Jobb deretter med utførelse** – Nå kan du fokusere på arm, håndledd, kroppsposisjon og slipp for å oppnå det spesifikke resultatet
 
@@ -82,20 +80,53 @@ Denne tilnærmingen gir den tekniske treningen din **klar retning og målbar fre
 **Suksessmåling:** Kan du utføre dette kastet når du vil? Det er målet.
 :::
 
-## Hvorfor «slå mer» er feil mål
+## Bedre skudd vs. flere skudd: Forstå forskjellen
 
-Hvis du justerer teknikken din til å «slå oftere» eller «være mer konsekvent», tar du sannsynligvis opp feil problem.
+Det er en viktig forskjell som mange spillere overser:
 
-**Her er sannheten:** Hvis du kan slå bra på trening, men sliter i konkurranse, er ikke problemet teknikken din – det er det mentale. Armen din vet hva den skal gjøre. Spørsmålet er om hjernen din tillater det.
+::: tip Den viktigste innsikten
+**Hvis du vil ta BEDRE skudd** → Jobb med teknikken din
 
-::: tip Den mentale forbindelsen
-Inkonsekvens under press er sjelden et teknisk problem – det er et mentalt problem.
-
-**For konsistens og ytelse under press, utforsk vår [Utdanning](/no/utdanning/) seksjon**, spesielt:
-- [Sonen](/no/utdanning/sonen/) — Skaper forutsetninger for topp ytelse
-- [Mental styrke](/no/utdanning/mental-styrke/) — Prestere når det gjelder
-- [Teknisk vs. flyt](/no/utdanning/sonen/teknisk-vs-flyt) — Når man skal fokusere på teknikk vs. tillit
+**Hvis du vil ta FLERE shots** → Jobb med din mentale styrke
 :::
+
+### Hva betyr dette?
+
+**Å ta bedre bilder** betyr å utvide ditt tekniske repertoar:
+- Legge til nye typer kast (plombée, portée, demi-portée)
+- Forbedre presisjonen på spesifikke skuddtyper
+- Å utvikle nye ferdigheter du ikke har fra før
+- **Dette krever teknisk øvelse og fysisk trening**
+
+**Å ta flere bilder** betyr å utføre det du allerede kan:
+- Å slå slagene du allerede kan gjøre på trening
+- Konsekvent prestasjon under press
+- Stol på teknikken din når det gjelder
+- **Dette krever mental trening og tilgang til flyttilstand**
+
+### Realitetssjekken
+
+Spør deg selv ærlig:
+- Kan du trene når du er avslappet? ✅ **Da har du teknikken**
+- Sliter du med å klare det i konkurranser? ⚠️ **Da trenger du mentalt arbeid, ikke mer teknisk øvelse**
+
+::: warning Vanlig feil
+Mange erfarne spillere bruker år på å finpusse teknikker de allerede har, når det de egentlig trenger er å utvikle den mentale styrken til å utføre dem under press.
+
+**Du trenger ikke en bedre armsving. Du trenger et roligere sinn.**
+:::
+
+### Veien videre
+
+**For bedre bilder (nye funksjoner):**
+- Utforsk [Paletten av kast](/no/technical/throws)
+- Velg et spesifikt nytt kast å utvikle
+- Øv på den tekniske utførelsen
+
+**For flere skudd (konsistens under press):**
+- Arbeid med [Mental styrke](/no/utdanning/mental-styrke/)
+- Lær å få tilgang til [Sonen](/no/utdanning/sonen/)
+- Utvikle [Rutiner før skudd](/no/utdanning/mental-styrke/rutine-før-skudd)
 
 ## Vårt perspektiv
 
@@ -128,14 +159,13 @@ Hvis du har et teknisk fokus og ønsker å utvide repertoaret ditt, skisserer de
 
 ## Emner
 
-### [Palett av kast](/no/technical/throws)
+### [Palett av kast](/no/teknisk/kast)
 Hva slags kast finnes det? En omfattende oversikt over de tekniske mulighetene innen petanque.
 
 ::: tip Etter teknikk, hva er det neste?
 Når du har en solid teknikk, kommer den virkelige veksten fra:
 - **[Sonen](/no/utdanning/sonen/)** - Tilgang til flyttilstander
 - **[Mental styrke](/no/utdanning/mental-styrke/)** - Håndtering av press
-- **[Opplæringsmetoder](/no/utdanning/training/)** - Hvordan øve effektivt
+- **[Opplæringsmetoder](/no/utdanning/opplæring/)** - Hvordan øve effektivt
 :::
 
-<AdBanner />

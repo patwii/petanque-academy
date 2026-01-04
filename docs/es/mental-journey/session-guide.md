@@ -1,6 +1,5 @@
 # Guía de la sesión: Introducción al juego mental (2-3 horas)
 
-<AdBanner />
 
 ## Descripción general
 
@@ -100,7 +99,6 @@ Recibirás:
 - Enlaces a módulos educativos detallados
 - Plantilla de objetivos para el desarrollo de juegos mentales
 
-<AdInArticle />
 
 ---
 
@@ -362,7 +360,7 @@ Piensa en un error reciente. Sigue los tres pasos.
 **Recursos:**
 - Entregar hoja resumen
 - Compartir sitio web: carreau.app
-- Módulo de inicio recomendado: [La Zona](/es/education/the-zone/)
+- Módulo de inicio recomendado: [La Zona](/es/educacion/la-zona/)
 
 **Círculo de cierre:**
 &quot;Una palabra para describir cómo te sientes ahora mismo.&quot;
@@ -416,7 +414,6 @@ El entrenamiento mental es una habilidad como cualquier otra: requiere práctica
 - ¿Qué te sorprendió?
 - ¿Qué aprendiste?
 
-<AdBanner />
 
 ---
 

@@ -1,5 +1,4 @@
 # Handling Pressure
-<AdBanner />
 
 
 Pressure is part of competition. The goal isn't to eliminate it - that's impossible. The goal is to perform well despite it, and even use it to your advantage.
@@ -81,7 +80,6 @@ Your breath is the fastest way to change your state.
 - Feel your feet on the ground
 - Drop your shoulders on the exhale
 
-<AdInArticle />
 
 ### 2. Physical Grounding
 
@@ -193,4 +191,3 @@ Review this before competitions to remind yourself: "I've done this before."
 
 The best players aren't calm - they're skilled at using their arousal productively.
 
-<AdBanner />

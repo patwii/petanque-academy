@@ -1,6 +1,5 @@
 # Trainingssessie: Handleiding voor wedstrijdvoorbereiding
 
-<AdBanner />
 
 ## Hoe 4 spelers regelmatig samen kunnen trainen
 
@@ -99,7 +98,6 @@ Met 4 spelers ontstaat de ideale balans tussen competitie-intensiteit en psychol
 | **Wedstrijdronde 3** | Individueel of uitdaging | 45 min |
 | **Reflectie** | Grondige nabespreking en planning | 30 min |
 
-<AdInArticle />
 
 ## Opstartprotocol (15-20 minuten)
 
@@ -312,7 +310,6 @@ Full circle:
 - Confirm next session date/time
 - One-word check-out: "How are you leaving?"
 
-<AdInArticle />
 
 ## User Manual Integration
 
@@ -672,5 +669,4 @@ After each session, record:
 **The result:** You don't just get better at pétanque. You become a more complete competitor.
 :::
 
-<AdBanner />
 

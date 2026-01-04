@@ -1,5 +1,4 @@
 # Méthodes de formation
-<AdBanner />
 
 
 Quand votre technique est solide, que travaillez-vous ? C&#39;est là que beaucoup de joueurs stagnent : ils continuent à perfectionner leur technique alors que la véritable progression se situe ailleurs.
@@ -81,7 +80,6 @@ Les études montrent de façon constante :
 - La pratique aléatoire permet d&#39;obtenir de meilleures performances en compétition.
 - C’est dans la « lutte » de la pratique aléatoire que se produit l’apprentissage.
 
-<AdInArticle />
 
 ## Simulation de pression
 
@@ -197,4 +195,3 @@ Consacrez du temps spécifiquement aux compétences mentales :
 
 Variez votre entraînement. Intégrez du travail mental. Créez-vous de la pression. Suivez vos progrès.
 
-<AdBanner />

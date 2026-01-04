@@ -1,6 +1,5 @@
 # Case Studies: Elite Players in Action
 
-<AdBanner />
 
 Real-world examples of how elite pétanque players have used mental game training to breakthrough performance plateaus and achieve consistent excellence.
 
@@ -65,7 +64,6 @@ Changed training approach using [Training Methods](/en/education/training/):
 
 **Key Quote:** *"I finally understood that thinking about my technique during the throw was actually making it worse. Learning to switch off my analytical brain in the circle changed everything."*
 
-<AdInArticle />
 
 ## Case Study 2: Overcoming the Inner Critic
 
@@ -189,7 +187,6 @@ Changed focus from "my performance" to "our performance":
 
 **Key Quote:** *"I thought being a good team player meant just making good throws. I learned it's about communication, trust, and making your teammates better."*
 
-<AdBanner />
 
 ## Common Themes Across Case Studies
 
@@ -233,5 +230,4 @@ Have you experienced a mental game breakthrough? We'd love to hear about it.
 
 Your story could help other players facing similar challenges.
 
-<AdBanner />
 

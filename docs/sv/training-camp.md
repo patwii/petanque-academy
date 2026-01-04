@@ -1,6 +1,5 @@
 # Träningsläger: Helgguide
 
-<AdBanner />
 
 ## Hur man genomför ett helgträningsläger för 10–20 spelare
 
@@ -144,7 +143,6 @@ graph TD
     style E fill:#e8f5e9
 ```
 
-<AdInArticle />
 
 
 ### Lördag (Heldag - Teori + Praktik)
@@ -379,7 +377,6 @@ Ringa upp:
 
 **19:00 - Middag och avresa**
 
-<AdInArticle />
 
 ## Tips för facilitering
 
@@ -580,5 +577,4 @@ Ringa upp:
 - *Tankesätt* av Carol Dweck
 - *Den orädda organisationen* av Amy Edmondson
 
-<AdBanner />
 

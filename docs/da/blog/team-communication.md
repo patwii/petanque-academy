@@ -210,5 +210,5 @@ Ord er ikke altid nødvendige. Forbindelse er.
 
 ---
 
-| *Relateret: [Holddynamik](/da/education/team-player/) | [Kommunikation](/da/education/team-player/kommunikation) | [Håndtering af pres](/da/education/mental-styrke/håndtering-af-pres)* |
+| *Relateret: [Holddynamik](/da/uddannelse/holdspiller/) | [Kommunikation](/da/uddannelse/holdspiller/kommunikation) | [Håndtering af pres](/da/uddannelse/mental-styrke/håndtering-af-pres)* |
 

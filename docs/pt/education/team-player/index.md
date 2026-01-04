@@ -1,5 +1,4 @@
 # Ser um ótimo jogador de equipe
-<AdBanner />
 
 
 A petanca é frequentemente jogada em equipes — duplas (doubletes) ou trios (tripletes). A habilidade individual é importante, mas a dinâmica da equipe pode determinar o sucesso ou o fracasso. As melhores equipes nem sempre são as mais habilidosas, mas sim aquelas que melhor trabalham juntas.
@@ -78,7 +77,6 @@ A comunicação é a essência do desempenho da equipe.
 - Comunicação bidirecional (fala E escuta)
 - Oportuno (informação correta no momento certo)
 
-<AdInArticle />
 
 **Durante os jogos:**
 - Discuta a estratégia antes de cada final.
@@ -192,4 +190,3 @@ Grandes equipes desenvolvem habilidades compartilhadas:
 
 Invista em seus companheiros de equipe. Construa confiança. Comunique-se bem. Vençam juntos.
 
-<AdBanner />

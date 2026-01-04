@@ -1,6 +1,5 @@
 # Sessionsguide: Introduktion til mentalt spil (2-3 timer)
 
-<AdBanner />
 
 ## Oversigt
 
@@ -100,7 +99,6 @@ Du vil modtage:
 - Links til detaljerede uddannelsesmoduler
 - Målskabelon til mental spiludvikling
 
-<AdInArticle />
 
 ---
 
@@ -362,7 +360,7 @@ Del eksempler.
 **Ressourcer:**
 - Uddel et opsummeringsark
 - Del hjemmeside: carreau.app
-- Anbefalet startmodul: [Zonen](/da/education/the-zone/)
+- Anbefalet startmodul: [Zonen](/da/uddannelse/zonen/)
 
 **Slutning af cirklen:**
 &quot;Et ord til at beskrive, hvordan du har det lige nu.&quot;
@@ -416,7 +414,6 @@ Del eksempler.
 - Hvad overraskede dig?
 - Hvad lærte du?
 
-<AdBanner />
 
 ---
 

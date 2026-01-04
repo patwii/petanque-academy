@@ -1,6 +1,5 @@
 # Spillerudtalelser
 
-<AdBanner />
 
 Ægte feedback fra elite-petanquespillere, der har brugt Pétanque Academys ressourcer til at forbedre deres mentale spil og konkurrencepræstationer.
 
@@ -40,7 +39,6 @@ Disse udtalelser repræsenterer ægte feedback fra spillere på forskellige konk
 
 **— Klubtræner, Tyskland**
 
-<AdInArticle />
 
 ---
 
@@ -118,7 +116,6 @@ Disse udtalelser repræsenterer ægte feedback fra spillere på forskellige konk
 
 **— Sportspsykolog og petanquetræner, Storbritannien**
 
-<AdBanner />
 
 ---
 
@@ -165,11 +162,10 @@ Din historie kan hjælpe andre spillere med at opdage disse ressourcer.
 Klar til at udvikle dit mentale spil?
 
 ::: tip Start her
-- **Nybegynder med mental træning?** → [The Zone](/da/education/the-zone/)
-- **Kæmper du med pres?** → [Mental styrke](/da/education/mental-styrke/)
-- **Holdudfordringer?** → [Holddynamik](/da/education/team-player/)
+- **Nybegynder med mental træning?** → [The Zone](/da/uddannelse/the-zone/)
+- **Kæmper du med pres?** → [Mental styrke](/da/uddannelse/mental-styrke/)
+- **Holdudfordringer?** → [Holddynamik](/da/uddannelse/holdspiller/)
 - **Ønsker du struktur?** → [Målskabelon](/da/målskabelon)
 :::
 
-<AdBanner />
 

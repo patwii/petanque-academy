@@ -1,6 +1,5 @@
 # Training Session: Competition Practice Guide
 
-<AdBanner />
 
 ## How 4 Players Can Train Together Regularly
 
@@ -109,7 +108,6 @@ graph LR
 | **Competition Round 3** | Singles or challenge | 45 min |
 | **Reflection** | Deep debrief & planning | 30 min |
 
-<AdInArticle />
 
 ## Startup Protocol (15-20 minutes)
 
@@ -322,7 +320,6 @@ Full circle:
 - Confirm next session date/time
 - One-word check-out: "How are you leaving?"
 
-<AdInArticle />
 
 ## User Manual Integration
 
@@ -682,5 +679,4 @@ After each session, record:
 **The result:** You don't just get better at pétanque. You become a more complete competitor.
 :::
 
-<AdBanner />
 

@@ -1,5 +1,4 @@
 # Teknisk träning kontra flödesträning
-<AdBanner />
 
 
 Att förstå skillnaden mellan teknisk träning och flowträning är avgörande för elitutveckling. Båda är nödvändiga, men de tjänar olika syften och kräver olika tillvägagångssätt.
@@ -77,7 +76,6 @@ Rätt träningsförhållande är omvänt korrelerat med teknisk kompetens. Allt 
 - **Förhållande:** 20 % teknisk / 80 % mental
 - **Mentalt fokus:** Flödestillstånd, strategi, att stilla sinnet
 
-<AdInArticle />
 
 ## Progressionstabellen
 
@@ -191,4 +189,3 @@ Den verkliga skickligheten är att veta när man ska använda varje läge:
 
 Resan från teknik till flöde kräver strategisk inversion. Anpassa din träning till ditt utvecklingsstadium.
 
-<AdBanner />

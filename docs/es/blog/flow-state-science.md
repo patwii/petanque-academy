@@ -162,5 +162,5 @@ Como cualquier habilidad, el acceso al flujo mejora con la práctica:
 
 ---
 
-| *Relacionado: [La Zona](/es/education/the-zone/) | [Entrando a la zona](/es/education/the-zone/entrando-a-la-zona) | [Técnicas de atención plena](/es/education/mindfulness/técnicas)* |
+| *Relacionado: [La Zona](/es/educacion/la-zona/) | [Entrando a la zona](/es/educacion/la-zona/entrando-a-la-zona) | [Técnicas de atención plena](/es/educacion/atención/técnicas)* |
 

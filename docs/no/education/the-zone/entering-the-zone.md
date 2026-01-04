@@ -1,5 +1,4 @@
 # Inn i sonen: Praktiske teknikker
-<AdBanner />
 
 
 Sonen er ikke noe som bare skjer med deg. Med øvelse kan du lære å bruke den mer konsekvent. Her er velprøvde teknikker brukt av eliteutøvere.
@@ -113,7 +112,6 @@ Rutinen din blir en «mindfulness-klokke» – et signal som endrer hjernens til
 Bruk rutinen din på HVERT kast på trening – ikke bare i konkurranser. Rutinen må bli automatisk.
 :::
 
-<AdInArticle />
 
 ## Teknikk 2: Eksternt fokus
 
@@ -280,4 +278,3 @@ Disse teknikkene fungerer bare hvis du praktiserer dem:
 Start med rutinen din før du sprøyter. Gjør den konsekvent. Stol på den. Sonen vil følge.
 :::
 
-<AdBanner />

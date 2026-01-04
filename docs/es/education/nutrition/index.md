@@ -1,5 +1,4 @@
 # Nutrición para un rendimiento de precisión
-<AdBanner />
 
 
 La petanca es un deporte de precisión, no de resistencia. Tus necesidades nutricionales son diferentes a las de un maratonista o un futbolista. Lo más importante es la **estabilidad mental**: mantener la mente ágil y las manos firmes durante un largo día de competición.
@@ -158,7 +157,6 @@ Algunos atletas de precisión adoptan dietas bajas en carbohidratos o cetogénic
 - Requiere planificación y compromiso
 - Consulte primero con un proveedor de atención médica
 
-<AdInArticle />
 
 Esta es una estrategia avanzada, no necesaria para todos, pero que vale la pena considerar si la estabilidad del nivel de azúcar en sangre es un problema importante para usted.
 
@@ -385,4 +383,3 @@ Concéntrate en las proteínas, las grasas saludables y en mantenerte hidratado.
 
 **Recuerda:** No te presentarías a un torneo con una técnica de lanzamiento que nunca hayas practicado. Tampoco te presentes con una estrategia nutricional que nunca hayas practicado.
 
-<AdBanner />

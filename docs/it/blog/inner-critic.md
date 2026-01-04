@@ -64,7 +64,7 @@ Trasforma la critica in coaching:
 
 ### 4. Usa la tua routine pre-tiro
 
-Una solida [routine pre-tiro](/it/education/mental-strength/routine-pre-tiro) fornisce alla tua mente qualcosa di costruttivo su cui concentrarsi, lasciando meno spazio alle critiche.
+Una solida [routine pre-tiro](/it/educazione/forza-mentale/routine-pre-tiro) fornisce alla tua mente qualcosa di costruttivo su cui concentrarsi, lasciando meno spazio alle critiche.
 
 ### 5. Pratica l&#39;autocompassione
 
@@ -106,5 +106,5 @@ Il critico interiore sarà sempre parte di te. Ma con la pratica, la sua voce si
 
 ---
 
-| *Correlato: [Gestire la pressione](/it/education/mental-strength/gestire-la-pressione) | [Routine pre-tiro](/it/education/mental-strength/routine-pre-tiro) | [Tecniche di consapevolezza](/it/education/mindfulness/tecniche)* |
+| *Correlato: [Gestire la pressione](/it/istruzione/forza-mentale/gestire-la-pressione) | [Routine pre-tiro](/it/educazione/forza-mentale/routine-pre-tiro) | [Tecniche di consapevolezza](/it/educazione/consapevolezza/tecniche)* |
 

@@ -1,5 +1,4 @@
 # Technisch advies
-<AdBanner />
 
 
 ## Een opmerking over techniek
@@ -31,7 +30,6 @@ graph TD
 
 ## De meest voorkomende fout in technische training
 
-<AdInArticle />
 
 ::: info Deze sectie is voor ervaren spelers.
 Als je nieuw bent in de wereld van pétanque, zul je natuurlijk je basistechniek helemaal vanaf de basis moeten ontwikkelen – en dat is een heel ander proces.
@@ -59,9 +57,9 @@ Een echt resultaat ziet er als volgt uit:
 We zeggen niet dat je nooit aan je arm, pols, release of lichaamshouding moet werken. **Technische training op uitvoering is absoluut waardevol** — maar het moet wel een goed doel dienen.
 
 ::: info Het juiste doel voor technisch werk
-**Correcte bedoeling:** &quot;Ik wil een nieuwe kleur aan mijn palet toevoegen&quot;
+**Correcte bedoeling:** "Ik wil een nieuwe worp aan mijn repertoire toevoegen"
 
-**Verkeerd doel:** &quot;Ik wil meer schoten raken&quot; of &quot;Ik wil consistenter zijn&quot;
+**Verkeerd doel:** "Ik wil meer schoten raken" of "Ik wil consistenter zijn"
 :::
 
 Dit is de procedure:
@@ -82,20 +80,53 @@ Deze aanpak geeft je technische training **duidelijke richting en meetbare vooru
 **Succesmaatstaf:** Kun je deze worp uitvoeren wanneer je dat wilt? Dat is het doel.
 :::
 
-## Waarom &quot;Meer raken&quot; het verkeerde doel is.
+## Betere schoten versus meer schoten: het verschil begrijpen
 
-Als je je techniek aanpast om &quot;vaker te raken&quot; of &quot;consistenter te zijn&quot;, pak je waarschijnlijk het verkeerde probleem aan.
+Er is een cruciaal onderscheid dat veel spelers over het hoofd zien:
 
-**Dit is de waarheid:** Als je goed kunt slaan tijdens de training, maar moeite hebt tijdens wedstrijden, ligt het probleem niet bij je techniek, maar bij je mentale gesteldheid. Je arm weet wat hij moet doen. De vraag is of je geest het toelaat.
+::: tip Het belangrijkste inzicht
+**Wil je BETERE foto&#39;s maken?** → Werk aan je techniek
 
-::: tip De mentale verbinding
-Inconsistentie onder druk is zelden een technisch probleem, maar een mentaal probleem.
-
-**Voor consistentie en prestaties onder druk, bekijk onze [Onderwijs](/en/education/) sectie**, met name:
-- [The Zone](/en/education/the-zone/) — Het creëren van omstandigheden voor topprestaties
-- [Mentale kracht](/en/education/mental-strength/) — Presteren wanneer het erop aankomt
-- [Techniek versus Flow](/en/education/the-zone/technical-vs-flow) — Wanneer moet je je richten op techniek versus vertrouwen?
+**Wil je MEER schoten maken?** → Werk aan je mentale kracht
 :::
+
+### Wat betekent dit?
+
+**Betere schoten maken** betekent je technische vaardigheden uitbreiden:
+- Nieuwe soorten worpen toevoegen (plombée, portée, demi-portée)
+- Verbetering van de precisie bij specifieke schottypen
+- Het ontwikkelen van nieuwe vaardigheden die je momenteel nog niet bezit.
+- **Dit vereist technische vaardigheid en fysieke training.**
+
+**Meer schoten maken** betekent uitvoeren wat je al kunt:
+- Het oefenen van de slagen die je al goed kunt maken.
+- Consistent presteren onder druk
+- Vertrouwen op je techniek wanneer het erop aankomt.
+- **Dit vereist mentale training en toegang tot een flowtoestand.**
+
+### De realiteitscheck
+
+Stel jezelf de volgende eerlijke vraag:
+- Kun je de slag oefenen terwijl je ontspannen bent? ✅ **Dan beheers je de techniek**
+- Heb je moeite om te presteren in wedstrijden? ⚠️ **Dan heb je mentale training nodig, niet meer technische oefeningen.**
+
+::: warning Veelgemaakte fout
+Veel ervaren spelers besteden jaren aan het verfijnen van hun bestaande techniek, terwijl ze in werkelijkheid de mentale kracht moeten ontwikkelen om die techniek onder druk uit te voeren.
+
+**Je hebt geen betere armzwaai nodig. Je hebt een rustiger hoofd nodig.**
+:::
+
+### De weg vooruit
+
+**Voor betere foto&#39;s (nieuwe mogelijkheden):**
+- Verken het [Palet van worpen](/en/technical/throws)
+- Kies een specifieke nieuwe worp om te ontwikkelen.
+- Oefen de technische uitvoering.
+
+**Voor meer foto&#39;s (consistentie onder druk):**
+- Werk aan [Mentale Kracht](/en/education/mental-strength/)
+- Leer hoe je toegang krijgt tot [The Zone](/en/education/the-zone/)
+- Ontwikkel [routines voor de vaccinatie](/en/education/mental-strength/pre-shot-routine)
 
 ## Ons perspectief
 
@@ -138,4 +169,3 @@ Als je eenmaal een solide techniek beheerst, komt de echte groei voort uit:
 - **[Trainingsmethoden](/en/education/training/)** - Hoe effectief te oefenen
 :::
 
-<AdBanner />

@@ -1,6 +1,5 @@
 # Sessione di allenamento: Guida pratica alla competizione
 
-<AdBanner />
 
 ## Come 4 giocatori possono allenarsi insieme regolarmente
 
@@ -99,7 +98,6 @@ Quattro giocatori creano l&#39;equilibrio ideale tra intensità competitiva e si
 | **Round 3 della competizione** | Singoli o sfida | 45 min |
 | **Riflessione** | Debriefing approfondito e pianificazione | 30 min |
 
-<AdInArticle />
 
 ## Protocollo di avvio (15-20 minuti)
 
@@ -312,7 +310,6 @@ Full circle:
 - Confirm next session date/time
 - One-word check-out: "How are you leaving?"
 
-<AdInArticle />
 
 ## User Manual Integration
 
@@ -672,5 +669,4 @@ After each session, record:
 **The result:** You don't just get better at pétanque. You become a more complete competitor.
 :::
 
-<AdBanner />
 

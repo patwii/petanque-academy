@@ -1,6 +1,5 @@
 # Jornada Mental para Iniciantes
 
-<AdBanner />
 
 ## Bem-vindo à sua jornada de jogo mental.
 
@@ -72,7 +71,6 @@ graph TD
 - Materiais para download
 - Atividades de acompanhamento
 
-<AdInArticle />
 
 ## Começando
 
@@ -200,7 +198,6 @@ O treinamento mental não substitui a prática técnica. Mas ajuda você a acess
 - Consulte [Estudos de Caso](/en/case-studies) para obter exemplos.
 - Participe das discussões em seu clube.
 
-<AdBanner />
 
 ---
 

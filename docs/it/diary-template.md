@@ -1,6 +1,5 @@
 # Modello di diario di allenamento
 
-<AdBanner />
 
 ## Come utilizzare questo modello
 
@@ -509,7 +508,6 @@ Simply select the template section you want, copy (Ctrl+C / Cmd+C), and paste in
 
 ---
 
-<AdBanner />
 
 **Momento migliore:**
 
@@ -550,7 +548,6 @@ Simply select the template section you want, copy (Ctrl+C / Cmd+C), and paste in
 
 ---
 
-<AdInArticle />
 
 ## Weekly Summary Template
 

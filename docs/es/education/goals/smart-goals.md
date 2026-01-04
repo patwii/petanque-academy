@@ -1,5 +1,4 @@
 # Objetivos SMART para la petanca
-<AdBanner />
 
 
 El marco SMART transforma deseos vagos en objetivos viables. Analicemos cada elemento en detalle, con ejemplos específicos para la petanca.
@@ -80,7 +79,6 @@ Las metas deben exigirte sin ser imposibles.
 **Demasiado fácil:** &quot;Practica una vez este mes&quot;
 - Sin crecimiento, sin motivación
 
-<AdInArticle />
 
 **Demasiado difícil:** &quot;Nunca pierdas un tiro&quot;
 - Imposible, conduce a la frustración.
@@ -193,4 +191,3 @@ _________________________________
 
 Tómate el tiempo para definir bien tus objetivos. Un objetivo bien definido es la mitad del camino.
 
-<AdBanner />

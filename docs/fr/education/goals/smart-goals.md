@@ -1,5 +1,4 @@
 # Objectifs SMART pour la pétanque
-<AdBanner />
 
 
 La méthode SMART transforme les souhaits vagues en objectifs concrets. Examinons chaque élément en détail, avec des exemples spécifiques pour la pétanque.
@@ -80,7 +79,6 @@ Les objectifs doivent vous pousser à vous dépasser sans être impossibles.
 **Trop facile :** « Entraînez-vous une fois ce mois-ci »
 - Pas de croissance, pas de motivation
 
-<AdInArticle />
 
 **Trop difficile :** « Ne jamais rater un tir »
 - L&#39;impossible engendre la frustration
@@ -193,4 +191,3 @@ _________________________________
 
 Prenez le temps de bien définir vos objectifs. Un objectif bien défini représente la moitié du chemin parcouru.
 
-<AdBanner />

@@ -1,5 +1,4 @@
 # Formation technique vs formation en situation réelle
-<AdBanner />
 
 
 Comprendre la différence entre l&#39;entraînement technique et l&#39;entraînement à la fluidité est essentiel pour le développement des athlètes de haut niveau. Les deux sont nécessaires, mais ils servent des objectifs différents et requièrent des approches différentes.
@@ -77,7 +76,6 @@ Le ratio d&#39;entraînement optimal est inversement proportionnel à la compét
 - **Répartition :** 20 % Technique / 80 % Mental
 - **Concentration mentale :** État de flow, stratégie, apaisement de l’esprit
 
-<AdInArticle />
 
 ## Tableau de progression
 
@@ -191,4 +189,3 @@ Le véritable savoir-faire réside dans la capacité à savoir quand utiliser ch
 
 Le passage de la technique à la fluidité exige une inversion stratégique. Adaptez votre entraînement à votre stade de développement.
 
-<AdBanner />

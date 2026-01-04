@@ -1,6 +1,5 @@
 # Modelo para definição e acompanhamento de metas
 
-<AdBanner />
 
 ## Como usar este modelo
 
@@ -167,7 +166,6 @@ Qual é o meu principal objetivo esta semana?
 
 ---
 
-<AdInArticle />
 
 ## Progress Tracking Sheet
 
@@ -342,7 +340,6 @@ Simply select the template section you want, copy (Ctrl+C / Cmd+C), and paste in
 
 ---
 
-<AdBanner />
 
 Use essa estrutura para tornar seus objetivos específicos e alcançáveis:
 

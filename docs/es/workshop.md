@@ -1,6 +1,5 @@
 # Taller: Sesión de Juego Mental Avanzado (3-4 Horas)
 
-<AdBanner />
 
 ## Descripción general
 
@@ -138,7 +137,6 @@ Te irás con:
 Después de compartir profundamente, podrías sentirte expuesto o arrepentido. Esto es normal. El facilitador se pondrá en contacto contigo en 24 horas. Recuerda: lo que compartiste ayudó a todos.
 :::
 
-<AdInArticle />
 
 ---
 
@@ -309,7 +307,6 @@ Esto vincula la carga mental con la tensión física (el babeo/los gritos).
 - Síndrome del impostor
 :::
 
-<AdInArticle />
 
 
 ### Fase 2: Trabajo profundo (90 minutos)
@@ -484,7 +481,6 @@ El trabajo profundo provoca una “resaca de vulnerabilidad”: arrepentimiento 
 **Guión de cierre:**
 > Lo que pasó hoy aquí requirió valentía. Te presentaste, te abriste, confiaste en el proceso. Esa misma valentía es la que traerás a la pista. Recuerda: las lecciones salen de esta sala, pero las historias se quedan. Gracias.
 
-<AdInArticle />
 
 ## Manejo de la resistencia
 
@@ -584,5 +580,4 @@ Este taller es la Fase 1. Considere:
 - **Check-ins individuales** (para jugadores que necesitan más apoyo)
 :::
 
-<AdBanner />
 

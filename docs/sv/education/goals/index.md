@@ -1,5 +1,4 @@
 # Målsättning för boulespelare
-<AdBanner />
 
 
 Tydliga mål är din kompass. De ger riktning till din träning, motivation när det blir svårt och ett sätt att mäta framsteg. Utan mål kastar du bara boule. Med mål bygger du mot något.
@@ -74,7 +73,6 @@ Varje mål bör vara:
 - ✅ **Tidsbunden - Har en deadline
 :::
 
-<AdInArticle />
 
 ### S - Specifik
 ❌ &quot;Bli bättre på att skjuta&quot;
@@ -143,8 +141,8 @@ Skriv ner dina svar. Återvänd till dem när motivationen avtar.
 
 ## I detta avsnitt
 
-- **[SMARTA Mål i Detaljer](/sv/education/goals/smarta-mål)** - Djupdykning i att skapa effektiva mål
-- **[Skapa din träningsplan](/sv/education/goals/planering)** - Förvandla mål till handling
+- **[SMARTA Mål i Detaljer](/sv/utbildning/mål/smarta-mål)** - Djupdykning i att skapa effektiva mål
+- **[Skapa din träningsplan](/sv/utbildning/mål/planering)** - Förvandla mål till handling
 
 ## Sammanfattning: Regler för målsättning
 
@@ -174,4 +172,3 @@ När motivationen avtar är det ditt &quot;varför&quot; som håller dig igång.
 
 Sätt tydliga mål. Bryt ner dem. Fokusera på det du kontrollerar. Följ dina framsteg.
 
-<AdBanner />

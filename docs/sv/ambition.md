@@ -1,6 +1,5 @@
 # Ambition
 
-<AdBanner />
 
 Vårt uppdrag är att hjälpa elitspelare att ta nästa steg i sin utveckling.
 
@@ -82,8 +81,7 @@ Ge din hjärna bränsle för stabilt fokus och stadiga händer.
 Dela erfarenheter med andra elitspelare i en trygg och stödjande miljö.
 
 ::: info Redo att ta nästa steg?
-Utforska vår sektion [Utbildning](/sv/education/) eller läs mer om våra [Workshops](/sv/workshop).
+Utforska vår sektion [Utbildning](/sv/utbildning/) eller läs mer om våra [Workshops](/sv/workshop).
 :::
 
-<AdBanner />
 

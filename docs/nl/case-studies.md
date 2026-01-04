@@ -1,6 +1,5 @@
 # Casestudies: Topspelers in actie
 
-<AdBanner />
 
 Praktische voorbeelden van hoe top-pétanquespelers mentale training hebben ingezet om prestatieplateaus te doorbreken en consistent uitmuntende prestaties te leveren.
 
@@ -65,7 +64,6 @@ De trainingsaanpak is aangepast met behulp van [Trainingsmethoden](/en/education
 
 **Belangrijk citaat:** *&quot;Ik begreep eindelijk dat nadenken over mijn techniek tijdens het werpen het juist erger maakte. Leren om mijn analytische brein uit te schakelen in de werpcirkel veranderde alles.&quot;*
 
-<AdInArticle />
 
 ## Casestudie 2: De innerlijke criticus overwinnen
 
@@ -189,7 +187,6 @@ De focus is verlegd van &quot;mijn prestatie&quot; naar &quot;onze prestatie&quo
 
 **Belangrijk citaat:** *&quot;Ik dacht dat een goede teamspeler zijn alleen maar betekende dat je goed gooide. Ik heb geleerd dat het draait om communicatie, vertrouwen en je teamgenoten beter maken.&quot;*
 
-<AdBanner />
 
 ## Gemeenschappelijke thema&#39;s in de verschillende casestudies
 
@@ -233,5 +230,4 @@ Heb je een mentale doorbraak in een wedstrijd meegemaakt? We horen er graag meer
 
 Jouw verhaal kan andere spelers helpen die met vergelijkbare uitdagingen te maken hebben.
 
-<AdBanner />
 

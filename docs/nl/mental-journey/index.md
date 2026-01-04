@@ -1,6 +1,5 @@
 # Mentale reis voor beginners
 
-<AdBanner />
 
 ## Welkom bij jouw reis naar een betere mentale training.
 
@@ -72,7 +71,6 @@ graph TD
 - Downloadbaar materiaal
 - Vervolgactiviteiten
 
-<AdInArticle />
 
 ## Aan de slag
 
@@ -200,7 +198,6 @@ Mentale training vervangt technische oefening niet. Maar het helpt je wel om je 
 - Bekijk [Casestudies](/en/case-studies) voor voorbeelden
 - Neem deel aan discussies in je club.
 
-<AdBanner />
 
 ---
 

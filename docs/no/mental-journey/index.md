@@ -1,6 +1,5 @@
 # Mental reise for nybegynnere
 
-<AdBanner />
 
 ## Velkommen til din mentale spillreise
 
@@ -72,7 +71,6 @@ graph TD
 - Nedlastbare materialer
 - Oppfølgingsaktiviteter
 
-<AdInArticle />
 
 ## Komme i gang
 
@@ -200,7 +198,6 @@ Mental trening erstatter ikke teknisk øvelse. Men det hjelper deg å bruke tekn
 - Se [Case-studier](/no/case-studies) for eksempler
 - Bli med i diskusjonene i klubben din
 
-<AdBanner />
 
 ---
 

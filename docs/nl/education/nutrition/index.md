@@ -1,5 +1,4 @@
 # Voeding voor topprestaties
-<AdBanner />
 
 
 Pétanque is een precisiesport, geen duursport. Je voedingsbehoeften zijn anders dan die van een marathonloper of een voetballer. Het belangrijkste is **stabiele brandstofvoorziening voor je hersenen** - je geest scherp houden en je handen stabiel gedurende een lange wedstrijddag.
@@ -158,7 +157,6 @@ Sommige precisiesporters volgen een koolhydraatarm of ketogeen dieet. De theorie
 - Vereist planning en toewijding.
 - Raadpleeg eerst een zorgverlener.
 
-<AdInArticle />
 
 Dit is een geavanceerde strategie - niet voor iedereen nodig, maar het overwegen waard als een stabiele bloedsuikerspiegel voor u een belangrijk aandachtspunt is.
 
@@ -385,4 +383,3 @@ Focus op eiwitten, gezonde vetten en voldoende hydratatie. Vermijd suikerpieken.
 
 **Onthoud dit:** Je zou toch ook niet naar een toernooi gaan met een werptechniek die je nog nooit hebt geoefend? Ga er dan ook niet heen met een voedingsstrategie die je nog nooit hebt uitgeprobeerd.
 
-<AdBanner />

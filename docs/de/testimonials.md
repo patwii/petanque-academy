@@ -1,6 +1,5 @@
 # Spielerstimmen
 
-<AdBanner />
 
 Echtes Feedback von Elite-Pétanque-Spielern, die die Ressourcen der Pétanque Academy genutzt haben, um ihr mentales Spiel und ihre Wettkampfleistung zu verbessern.
 
@@ -40,7 +39,6 @@ Diese Erfahrungsberichte stellen authentisches Feedback von Spielern verschieden
 
 **— Vereinstrainer, Deutschland**
 
-<AdInArticle />
 
 ---
 
@@ -118,7 +116,6 @@ Diese Erfahrungsberichte stellen authentisches Feedback von Spielern verschieden
 
 **— Sportpsychologe und Pétanque-Trainer, Großbritannien**
 
-<AdBanner />
 
 ---
 
@@ -171,5 +168,4 @@ Bereit, deine mentale Stärke zu verbessern?
 - **Sie wünschen sich Struktur?** → [Zielvorlage](/en/goal-template)
 :::
 
-<AdBanner />
 

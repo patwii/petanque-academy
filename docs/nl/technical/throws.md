@@ -1,5 +1,4 @@
 # Kleurenpalet van plaids
-<AdBanner />
 
 
 ## Het complete technische repertoire
@@ -75,7 +74,6 @@ graph LR
 | **Halve draai** | Matige backspin, gecontroleerde rol | Meest veelzijdig, voorspelbaar |
 | **Geen spin** | Neutrale, natuurlijke rolbeweging bij de landing. | Laat het terrein de rol bepalen |
 
-<AdInArticle />
 
 ## Opnametechnieken
 
@@ -176,4 +174,3 @@ Als je eenmaal een solide techniek beheerst, komt de echte groei voort uit:
 - **[Mentale kracht](/en/education/mental-strength/)** - Presteren onder druk
 :::
 
-<AdBanner />

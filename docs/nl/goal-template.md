@@ -1,6 +1,5 @@
 # Sjabloon voor het stellen en bijhouden van doelen
 
-<AdBanner />
 
 ## Hoe gebruik je deze sjabloon?
 
@@ -167,7 +166,6 @@ Belangrijkste leerpunten
 
 ---
 
-<AdInArticle />
 
 ## Progress Tracking Sheet
 
@@ -342,7 +340,6 @@ Simply select the template section you want, copy (Ctrl+C / Cmd+C), and paste in
 
 ---
 
-<AdBanner />
 
 Gebruik dit raamwerk om uw doelen specifiek en haalbaar te maken:
 

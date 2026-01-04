@@ -1,5 +1,4 @@
 # La Zone : Comprendre l&#39;état de flux
-<AdBanner />
 
 
 Avez-vous déjà vécu une partie où tout s&#39;enchaînait parfaitement ? Où vous ne pensiez même plus à votre technique, et où chaque boule atterrissait exactement où vous le vouliez ? C&#39;est ce qu&#39;on appelle « l&#39;état de grâce » ; et savoir y accéder régulièrement, c&#39;est ce qui distingue les joueurs d&#39;élite des autres.
@@ -63,7 +62,6 @@ Votre cerveau fonctionne selon deux modes différents :
 | **Se concentrer** | Mécanique interne (mécanique corporelle) | Externe (cible) |
 | **Sentiment** | Effort, conscience | Sans effort, naturel |
 
-<AdInArticle />
 
 La compétence essentielle consiste à apprendre à **basculer** entre ces modes au bon moment.
 
@@ -144,4 +142,3 @@ Ayez confiance en votre entraînement. Concentrez-vous sur la cible, pas sur vot
 
 Votre technique est la base. La zone, c&#39;est là où cette base se transforme en art.
 
-<AdBanner />

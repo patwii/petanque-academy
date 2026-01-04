@@ -1,6 +1,5 @@
 # Vorlage für Zielsetzung und Zielverfolgung
 
-<AdBanner />
 
 ## So verwenden Sie diese Vorlage
 
@@ -167,7 +166,6 @@ Diese Vorlage hilft Ihnen, sinnvolle Ziele zu setzen und Ihre Fortschritte syste
 
 ---
 
-<AdInArticle />
 
 ## Progress Tracking Sheet
 
@@ -342,7 +340,6 @@ Simply select the template section you want, copy (Ctrl+C / Cmd+C), and paste in
 
 ---
 
-<AdBanner />
 
 Nutzen Sie dieses Rahmenwerk, um Ihre Ziele konkret und erreichbar zu gestalten:
 

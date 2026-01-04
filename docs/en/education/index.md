@@ -1,5 +1,4 @@
 # Education
-<AdBanner />
 
 Welcome to the Pétanque Academy Education program. This is where elite players learn to master the mental game.
 
@@ -74,7 +73,6 @@ Train smarter, not just harder. Learn how to structure your practice for maximum
 ### 🥗 [Nutrition](/en/education/nutrition/)
 Fuel your brain for precision performance. Learn how to maintain stable energy and focus throughout competition.
 
-<AdInArticle />
 
 ## The Journey from Technique to Flow
 
@@ -156,4 +154,3 @@ This is your quick reference guide. Bookmark this section and return to it regul
 Begin with [The Zone](/en/education/the-zone/) to understand the foundation of elite performance, then explore [Mindfulness](/en/education/mindfulness/) for practical techniques you can use immediately.
 :::
 
-<AdBanner />

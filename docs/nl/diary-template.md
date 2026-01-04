@@ -1,6 +1,5 @@
 # Sjabloon voor een trainingsdagboek
 
-<AdBanner />
 
 ## Hoe gebruik je deze sjabloon?
 
@@ -509,7 +508,6 @@ Simply select the template section you want, copy (Ctrl+C / Cmd+C), and paste in
 
 ---
 
-<AdBanner />
 
 **Hoogste moment:**
 
@@ -550,7 +548,6 @@ Belangrijkste leerpunten
 
 ---
 
-<AdInArticle />
 
 ## Weekly Summary Template
 

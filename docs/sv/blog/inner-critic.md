@@ -64,7 +64,7 @@ Omvandla kritik till coachning:
 
 ### 4. Använd din rutin före skott
 
-En gedigen [rutin före sprutan](/sv/education/mental-strength/rutin-före-sprutan) ger ditt sinne något konstruktivt att fokusera på, vilket lämnar mindre utrymme för kritikern.
+En gedigen [rutin före sprutan](/sv/utbildning/mental-styrka/rutin-före-sprutan) ger ditt sinne något konstruktivt att fokusera på, vilket lämnar mindre utrymme för kritikern.
 
 ### 5. Öva självmedkänsla
 
@@ -106,5 +106,5 @@ Den inre kritikern kommer alltid att vara en del av dig. Men med övning blir de
 
 ---
 
-| *Relaterat: [Hantera press](/sv/education/mental-strength/hantera-press) | [Rutin före skott](/sv/education/mental-strength/rutin-före-skott) | [Mindfulnesstekniker](/sv/education/mindfulness/tekniker)* |
+| *Relaterat: [Hantera press](/sv/utbildning/mental-styrka/hantera-press) | [Rutin före skott](/sv/utbildning/mental-styrka/rutin-före-skott) | [Mindfulnesstekniker](/sv/utbildning/mindfulness/tekniker)* |
 

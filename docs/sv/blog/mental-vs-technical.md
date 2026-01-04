@@ -1,6 +1,5 @@
 # Varför elitspelare behöver mental träning mer än teknisk träning
 
-<AdBanner />
 
 *Lästid: 8 minuter*
 
@@ -27,7 +26,6 @@ Detta är inte intuitivt. De flesta spelare antar att de behöver öva mer på s
 
 När du övar teknik flitigt förstärker du **medveten medvetenhet** om dina rörelser. Detta är perfekt för nybörjare som bygger nervbanor. Men för elitspelare skapar det en farlig vana: att tänka på teknik under utförandet.
 
-<AdInArticle />
 
 **Exempel från terrängen:**
 
@@ -150,7 +148,7 @@ Men mental spelutveckling? Det är där massiva vinster fortfarande är möjliga
 - Identifiering av utlösare för flödestillstånd
 - Inre coach kontra inre kritikerarbete
 
-Se vårt avsnitt [Utbildning](/sv/education/) för specifika tekniker.
+Se vårt avsnitt [Utbildning](/sv/utbildning/) för specifika tekniker.
 
 ## Den obekväma sanningen
 
@@ -189,9 +187,9 @@ Spåra:
 ### 4. Använd utbildningsmodulerna
 
 Börja med:
-1. [Zonen](/sv/education/the-zone/) - Förstå flödestillstånd
-2. [Mental styrka](/sv/education/mental-strength/) - Bygg upp pressförmåga
-3. [Mindfulness](/sv/education/mindfulness/) - Utveckla fokus i nuet
+1. [Zonen](/sv/utbildning/zonen/) - Förstå flödestillstånd
+2. [Mental styrka](/sv/utbildning/mental-styrka/) - Bygg upp pressförmåga
+3. [Mindfulness](/sv/utbildning/mindfulness/) - Utveckla fokus i nuet
 
 ## Slutsats
 
@@ -201,13 +199,12 @@ De spelare som gör denna förändring – som anammar mental träning som sitt 
 
 **Valet är ditt:** Fortsätt träna som en nybörjare eller börja träna som en elitspelare.
 
-<AdBanner />
 
 ---
 
 ## Relaterade resurser
 
-- [Zonen: Att förstå flödestillstånd](/sv/education/the-zone/)
+- [Zonen: Att förstå flödestillstånd](/sv/utbildning/zonen/)
 - [Fallstudier: Elitspelare i aktion](/sv/fallstudier)
 - [Målmall](/sv/målmall) - Planera din mentala spelutveckling
 

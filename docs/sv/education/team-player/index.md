@@ -1,5 +1,4 @@
 # Att vara en bra lagspelare
-<AdBanner />
 
 
 Boule spelas ofta i lag – dubbel (dublettes) eller trippel (triplettes). Individuell skicklighet spelar roll, men lagdynamik kan avgöra resultatet. De bästa lagen är inte alltid de skickligaste – det är de som fungerar bäst tillsammans.
@@ -78,7 +77,6 @@ Kommunikation är livsnerven för ett lags prestation.
 - Tvåvägs (talar OCH lyssnar)
 - Aktuell (rätt information vid rätt tidpunkt)
 
-<AdInArticle />
 
 **Under matcher:**
 - Diskutera strategi före varje omgång
@@ -184,7 +182,7 @@ Bra team utvecklas gemensamt:
 
 ## I detta avsnitt
 
-- **[Teamkommunikation](/sv/education/team-player/kommunikation)** - Detaljerad guide till effektiv kommunikation
+- **[Teamkommunikation](/sv/utbildning/lagspelare/kommunikation)** - Detaljerad guide till effektiv kommunikation
 
 ## Viktig slutsats
 
@@ -192,4 +190,3 @@ Bra team utvecklas gemensamt:
 
 Investera i dina lagkamrater. Bygg förtroende. Kommunicera väl. Vinn tillsammans.
 
-<AdBanner />

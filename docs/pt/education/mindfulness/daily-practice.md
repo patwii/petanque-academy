@@ -1,5 +1,4 @@
 # Construindo uma Prática Diária de Mindfulness
-<AdBanner />
 
 
 Os benefícios da atenção plena vêm da prática consistente. Veja como incorporá-la à sua vida.
@@ -81,7 +80,6 @@ Você não precisa de uma sala de meditação, mas ter um local fixo ajuda:
 
 ### Etapa 4: Remover Barreiras
 
-<AdInArticle />
 
 Facilite a prática:
 - Coloque seu celular no silencioso.
@@ -199,4 +197,3 @@ A atenção plena é uma prática para a vida toda. Atletas de elite costumam di
 
 Comece hoje. Comece pequeno. Continue.
 
-<AdBanner />

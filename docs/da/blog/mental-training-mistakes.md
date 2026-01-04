@@ -159,5 +159,5 @@ Det mentale spil kan trænes. Træn det rigtigt.
 
 ---
 
-| *Relateret: [Mental styrke](/da/education/mental-styrke/) | [Træningsmetoder](/da/education/træning/) | [Mindfulness](/da/education/mindfulness/)* |
+| *Relateret: [Mental styrke](/da/uddannelse/mental-styrke/) | [Træningsmetoder](/da/uddannelse/træning/) | [Mindfulness](/da/uddannelse/mindfulness/)* |
 

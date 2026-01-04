@@ -1,5 +1,4 @@
 # Training Drills
-<AdBanner />
 
 
 Here are proven drills used by elite players. Each drill has a specific purpose - choose based on what you need to develop.
@@ -104,7 +103,6 @@ graph TD
 - Timed version: How far can you get in 10 minutes?
 - Team version: Alternate with partner
 
-<AdInArticle />
 
 ### The Barrier (Blox)
 **Purpose:** Force high arc shooting
@@ -255,4 +253,3 @@ Keep a log for each drill:
 
 Don't just throw boules. Train with purpose.
 
-<AdBanner />

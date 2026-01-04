@@ -1,5 +1,4 @@
 # Onderwijs
-<AdBanner />
 
 Welkom bij het Pétanque Academy Educatieprogramma. Hier leren topspelers de mentale aspecten van het spel te beheersen.
 
@@ -74,7 +73,6 @@ Train slimmer, niet alleen harder. Leer hoe je je training kunt structureren voo
 ### 🥗 [Voeding](/en/education/nutrition/)
 Geef je hersenen de brandstof voor optimale prestaties. Leer hoe je je energieniveau en focus stabiel houdt tijdens wedstrijden.
 
-<AdInArticle />
 
 ## De reis van techniek naar flow
 
@@ -156,4 +154,3 @@ Dit is uw beknopte handleiding. Voeg dit gedeelte toe aan uw bladwijzers en raad
 Begin met [The Zone](/en/education/the-zone/) om de basis van topprestaties te begrijpen, en verken vervolgens [Mindfulness](/en/education/mindfulness/) voor praktische technieken die je direct kunt toepassen.
 :::
 
-<AdBanner />

@@ -1,5 +1,4 @@
 # Metodi di allenamento
-<AdBanner />
 
 
 Quando la tua tecnica è solida, cosa ti alleni? È qui che molti giocatori raggiungono il punto di stallo: continuano ad allenare la tecnica quando la vera crescita è altrove.
@@ -81,7 +80,6 @@ Gli studi dimostrano costantemente che:
 - La pratica casuale produce migliori prestazioni competitive
 - La &quot;lotta&quot; della pratica casuale è dove avviene l&#39;apprendimento
 
-<AdInArticle />
 
 ## Simulazione della pressione
 
@@ -189,7 +187,7 @@ Dedica del tempo specificamente alle abilità mentali:
 
 ## In questa sezione
 
-- **[Esercizi di allenamento](/it/education/training/esercizi)** - Esercizi specifici per diverse abilità
+- **[Esercizi di allenamento](/it/istruzione/allenamento/esercizi)** - Esercizi specifici per diverse abilità
 
 ## Conclusione chiave
 
@@ -197,4 +195,3 @@ Dedica del tempo specificamente alle abilità mentali:
 
 Varia il tuo allenamento. Includi lavoro mentale. Crea pressione. Tieni traccia dei tuoi progressi.
 
-<AdBanner />

@@ -1,6 +1,5 @@
 # À propos de l&#39;Académie de Pétanque
 
-<AdBanner />
 
 ## Une passion pour la pétanque
 
@@ -40,7 +39,6 @@ Ce site a pour vocation de changer la donne. Chaque contenu y est conçu pour ê
 
 ---
 
-<AdInArticle />
 
 ## Contactez-nous
 
@@ -149,7 +147,6 @@ Ensemble, nous pouvons élever le niveau mental du jeu de pétanque dans le mond
 
 ---
 
-<AdBanner />
 
 **Merci de faire partie de l&#39;Académie de Pétanque !**
 

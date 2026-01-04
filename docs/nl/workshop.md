@@ -1,6 +1,5 @@
 # Workshop: Geavanceerde mentale speltraining (3-4 uur)
 
-<AdBanner />
 
 ## Overzicht
 
@@ -138,7 +137,6 @@ Je gaat naar huis met:
 Na een openhartig gesprek kun je je blootgesteld voelen of spijt hebben. Dat is normaal. De begeleider neemt binnen 24 uur contact met je op. Onthoud: wat je hebt gedeeld, heeft iedereen geholpen.
 :::
 
-<AdInArticle />
 
 ---
 
@@ -309,7 +307,6 @@ Dit koppelt mentale belasting aan fysieke spanning (de bibber/yips).
 - Impostersyndroom
 :::
 
-<AdInArticle />
 
 
 ### Fase 2: Geconcentreerd werk (90 minuten)
@@ -484,7 +481,6 @@ Diepgaand werk kan een &quot;kwetsbaarheidskater&quot; veroorzaken - spijt of sc
 **Afsluitend script:**
 > &quot;Wat hier vandaag is gebeurd, vergde moed. Jullie waren er, jullie stelden je open en jullie vertrouwden op het proces. Diezelfde moed laten jullie ook zien op de piste. Onthoud: de lessen verlaten deze ruimte, maar de verhalen blijven. Dank jullie wel.&quot;
 
-<AdInArticle />
 
 ## Hanteerweerstand
 
@@ -584,5 +580,4 @@ Deze workshop is fase 1. Overweeg het volgende:
 - **Individuele check-ins** (voor spelers die meer ondersteuning nodig hebben)
 :::
 
-<AdBanner />
 

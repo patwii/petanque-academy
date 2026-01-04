@@ -1,6 +1,5 @@
 # Modello di definizione e monitoraggio degli obiettivi
 
-<AdBanner />
 
 ## Come utilizzare questo modello
 
@@ -167,7 +166,6 @@ Questo modello ti aiuta a stabilire obiettivi significativi e a monitorare siste
 
 ---
 
-<AdInArticle />
 
 ## Progress Tracking Sheet
 
@@ -342,7 +340,6 @@ Simply select the template section you want, copy (Ctrl+C / Cmd+C), and paste in
 
 ---
 
-<AdBanner />
 
 Utilizza questo schema per rendere i tuoi obiettivi specifici e raggiungibili:
 

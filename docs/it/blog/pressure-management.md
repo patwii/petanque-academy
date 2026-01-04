@@ -160,5 +160,5 @@ La chiave è canalizzare questa energia in modo produttivo, anziché lasciarti s
 
 ---
 
-| *Correlato: [Gestire la pressione](/it/education/mental-strength/gestire-la-pressione) | [Routine pre-tiro](/it/education/mental-strength/routine-pre-tiro) | [La Zona](/it/education/the-zone/)* |
+| *Correlato: [Gestire la pressione](/it/istruzione/forza-mentale/gestire-la-pressione) | [Routine pre-tiro](/it/educazione/forza-mentale/routine-pre-tiro) | [La Zona](/it/educazione/la-zona/)* |
 

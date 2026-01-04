@@ -1,6 +1,5 @@
 # Spelarrecensioner
 
-<AdBanner />
 
 Verklig feedback från elitboulespelare som har använt Bouleakademins resurser för att förbättra sitt mentala spel och sina tävlingsprestationer.
 
@@ -40,7 +39,6 @@ Dessa vittnesmål representerar genuin feedback från spelare på olika tävling
 
 **— Klubbtränare, Tyskland**
 
-<AdInArticle />
 
 ---
 
@@ -118,7 +116,6 @@ Dessa vittnesmål representerar genuin feedback från spelare på olika tävling
 
 **— Idrottspsykolog och petanquetränare, Storbritannien**
 
-<AdBanner />
 
 ---
 
@@ -165,11 +162,10 @@ Din berättelse kan hjälpa andra spelare att upptäcka dessa resurser.
 Redo att utveckla ditt mentala spel?
 
 ::: tip Börja här
-- **Nybörjare på mental träning?** → [Zonen](/sv/education/the-zone/)
-- **Kämpar du med press?** → [Mental styrka](/sv/education/mental-strength/)
-- **Utmaningar i laget?** → [Lagdynamik](/sv/education/team-player/)
+- **Nybörjare på mental träning?** → [Zonen](/sv/utbildning/zonen/)
+- **Kämpar du med press?** → [Mental styrka](/sv/utbildning/mental-styrka/)
+- **Utmaningar i laget?** → [Lagdynamik](/sv/utbildning/lagspelare/)
 - **Vill du ha struktur?** → [Målmall](/sv/målmall)
 :::
 
-<AdBanner />
 

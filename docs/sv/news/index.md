@@ -1,6 +1,5 @@
 # Nyheter och uppdateringar
 
-<AdBanner />
 
 ## Välkommen till Bouleakademin
 
@@ -33,7 +32,6 @@ graph TD
     style D fill:#f3e5f5
 ```
 
-<AdInArticle />
 
 ## Vad som är tillgängligt nu
 
@@ -43,14 +41,14 @@ Vi har lanserat **8 omfattande utbildningsmoduler** som täcker allt från flöd
 
 | Modul | Vad som finns inuti | Viktiga funktioner |
 |--------|---------------|--------------|
-| **[Zonen](/sv/education/the-zone/)** | Flödeslägeskontroll | 4 detaljerade guider för att komma in i och bibehålla flödet |
-| **[Mental styrka](/sv/education/mental-strength/)** | Tryckhantering | Rutiner före tagning, hantering av inre kritiker |
-| **[Mindfulness](/sv/education/mindfulness/)** | Medvetenhet i nuet | Dagliga träningar, tävlingstekniker |
+| **[Zonen](/sv/utbildning/zonen/)** | Flödeslägeskontroll | 4 detaljerade guider för att komma in i och bibehålla flödet |
+| **[Mental styrka](/sv/utbildning/mental-styrka/)** | Tryckhantering | Rutiner före tagning, hantering av inre kritiker |
+| **[Mindfulness](/sv/utbildning/mindfulness/)** | Medvetenhet i nuet | Dagliga träningar, tävlingstekniker |
 | **[Goals](/sv/education/goals/)** | Strategisk planering | SMART-mål, hierarki, uppföljningssystem |
-| **[Taktik](/sv/education/tactics/)** | Spelstrategi | Beslutsfattande, sannolikhet, positionering |
-| **[Lagspelare](/sv/education/team-player/)** | Samarbetsförmåga | Kommunikation, förtroende, teamdynamik |
-| **[Utbildning](/sv/education/education/)** | Övningsmetoder | Övningar, avsiktlig övning, progression |
-| **[Näring](/sv/education/nutrition/)** | Prestandabränsle | Blodsockerhantering, tävlingsnäring |
+| **[Taktik](/sv/utbildning/taktik/)** | Spelstrategi | Beslutsfattande, sannolikhet, positionering |
+| **[Lagspelare](/sv/utbildning/lagspelare/)** | Samarbetsförmåga | Kommunikation, förtroende, teamdynamik |
+| **[Utbildning](/sv/utbildning/utbildning/)** | Övningsmetoder | Övningar, avsiktlig övning, progression |
+| **[Näring](/sv/utbildning/näring/)** | Prestandabränsle | Blodsockerhantering, tävlingsnäring |
 
 ### 🛠️ Praktiska verktyg
 
@@ -64,7 +62,7 @@ Vi har lanserat **8 omfattande utbildningsmoduler** som täcker allt från flöd
 
 ### 🎯 Teknisk vägledning
 
-**[Teknisk rådgivning](/sv/technical/)** avsnittet innehåller:
+**[Teknisk rådgivning](/sv/teknisk/)** avsnittet innehåller:
 - Komplett guide till alla boulekast
 - Strategier för val av banor
 - Tekniker för spinnkontroll
@@ -139,22 +137,22 @@ Elitspelare har redan bemästrat tekniken. Nästa genombrott kommer från det **
 **Börja med grunderna:**
 
 1. **[Ambition](/sv/ambition)** - Förstå filosofin bakom elitutveckling
-2. **[Zonen](/sv/education/the-zone/)** - Lär dig mer om flödestillstånd
+2. **[Zonen](/sv/utbildning/zonen/)** - Lär dig mer om flödestillstånd
 3. **[Målmall](/sv/målmall)** - Sätt dina första strukturerade mål
 
 ### För erfarna spelare
 
 **Dyk ner i avancerade ämnen:**
 
-1. **[Mental styrka](/sv/education/mental-strength/)** - Bemästra pressade situationer
-2. **[Taktik](/sv/education/tactics/)** - Förfina strategiskt beslutsfattande
+1. **[Mental styrka](/sv/utbildning/mental-styrka/)** - Bemästra pressade situationer
+2. **[Taktik](/sv/utbildning/taktik/)** - Förfina strategiskt beslutsfattande
 3. **[Workshop](/sv/workshop)** - Genomför strukturerade mentala spelsessioner
 
 ### För lag
 
 **Bygg kollektiv excellens:**
 
-1. **[Lagspelare](/sv/education/team-player/)** - Förbättra lagdynamiken
+1. **[Lagspelare](/sv/utbildning/lagspelare/)** - Förbättra lagdynamiken
 2. **[Träningsläger](/sv/träningsläger)** - Organisera helgintensivkurser
 3. **[Träningssession](/sv/träningssession)** - Strukturera teamövningar
 
@@ -188,4 +186,3 @@ Allt du behöver för att ta ditt spel till nästa nivå finns redan här. Välj
 **Välkommen till Pétanque Academy – där elitspelare blir exceptionella.**
 :::
 
-<AdBanner />

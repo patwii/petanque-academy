@@ -210,5 +210,5 @@ Le parole non sono sempre necessarie. La connessione sì.
 
 ---
 
-| *Correlato: [Dinamiche di squadra](/it/education/team-player/) | [Comunicazione](/it/education/giocatore-di-squadra/comunicazione) | [Gestire la pressione](/it/education/mental-strength/gestire-la-pressione)* |
+| *Correlato: [Dinamiche di squadra](/it/education/team-player/) | [Comunicazione](/it/istruzione/giocatore-di-squadra/comunicazione) | [Gestire la pressione](/it/educazione/forza-mentale/gestire-la-pressione)* |
 

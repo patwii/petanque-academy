@@ -262,5 +262,5 @@ Du har forberedt dig godt. Stol nu på det og konkurrer.
 
 ---
 
-| *Relateret: [Træningsmetoder](/da/education/træning/) | [Håndtering af pres](/da/education/mental-styrke/håndtering-af-pres) | [Rutine før indtagelse](/da/education/mental-styrke/rutine-før-indtagelse)* |
+| *Relateret: [Træningsmetoder](/da/uddannelse/træning/) | [Håndtering af pres](/da/uddannelse/mental-styrke/håndtering-af-pres) | [Rutine før indtagelse](/da/uddannelse/mental-styrke/rutine-før-indtagelse)* |
 

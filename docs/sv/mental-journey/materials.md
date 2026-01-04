@@ -1,6 +1,5 @@
 # Material och nedladdningar för handledare
 
-<AdBanner />
 
 ## Översikt
 
@@ -16,10 +15,10 @@ Allt material finns tillgängligt online för enkel åtkomst på alla enheter. D
 
 | Material | Ändamål | Tillträde |
 |----------|---------|--------|
-| **Deltagarguide** | Dela med alla deltagare | [Visa guide](#deltagareguide) • <a href="/downloads/sv/participant-guide.pdf" download>PDF</a> |
-| **Slides för handledare** | Närvarande under sessionen | [Visa bilder](#facilitator-slides) • <a href="/downloads/sv/facilitator-slides.pptx" download>PPTX</a> |
-| **Sammanfattningsblad** | Takeaway efter sessionen | [Visa sammanfattning](#sammanfattningsblad) • <a href="/downloads/sv/summary-sheet.pdf" download>PDF</a> |
-| **Övningsblad** | Aktiviteter under sessionen | [Visa arbetsblad](#övningsarbetsblad) • <a href="/downloads/sv/exercise-worksheets.pdf" download>PDF</a> |
+| **Deltagarguide** | Dela med alla deltagare | [Visa guide](#deltagareguide) • <a href="/downloads/en/participant-guide.pdf" download>PDF</a> |
+| **Slides för handledare** | Närvarande under sessionen | [Visa bilder](#facilitator-slides) • <a href="/downloads/en/facilitator-slides.pptx" download>PPTX</a> |
+| **Sammanfattningsblad** | Takeaway efter sessionen | [Visa sammanfattning](#sammanfattningsblad) • <a href="/downloads/en/summary-sheet.pdf" download>PDF</a> |
+| **Övningsblad** | Aktiviteter under sessionen | [Visa arbetsblad](#övningsarbetsblad) • <a href="/downloads/en/exercise-worksheets.pdf" download>PDF</a> |
 
 ::: tip Ladda ner för offlineanvändning
 Klicka på PDF eller PPTX för att ladda ner färdiga filer. Allt material finns också tillgängligt för visning direkt på den här sidan.
@@ -658,7 +657,6 @@ Interaktiva arbetsblad för aktiviteter under sessionen. Deltagarna kan använda
 Uppmuntra deltagarna att använda [Målmallen](/sv/målmall) och [Dagboksmall](/sv/dagboksmall) för kontinuerlig övning.
 :::
 
-<AdInArticle />
 
 ---
 
@@ -719,7 +717,6 @@ För distans- eller hybridsessioner:
 - Granska [Sessionsguiden](/sv/mental-journey/sessionsguide)
 - Se [Workshop Guide](/en/workshop) för avancerat format
 
-<AdBanner />
 
 ---
 

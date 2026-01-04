@@ -1,6 +1,5 @@
 # Workshop: Sessão Avançada de Jogo Mental (3-4 horas)
 
-<AdBanner />
 
 ## Visão geral
 
@@ -138,7 +137,6 @@ Você sairá daqui com:
 Após compartilhar sua experiência profundamente, você pode se sentir exposto(a) ou arrependido(a). Isso é normal. O facilitador entrará em contato com você em até 24 horas. Lembre-se: o que você compartilhou ajudou a todos.
 :::
 
-<AdInArticle />
 
 ---
 
@@ -309,7 +307,6 @@ Isso relaciona a carga mental à tensão física (o nervosismo/yips).
 - Síndrome do impostor
 :::
 
-<AdInArticle />
 
 
 ### Fase 2: Trabalho Profundo (90 minutos)
@@ -484,7 +481,6 @@ O trabalho que exige concentração profunda causa uma &quot;ressaca de vulnerab
 **Roteiro de Encerramento:**
 > &quot;O que aconteceu aqui hoje exigiu coragem. Vocês compareceram, se abriram, confiaram no processo. Essa mesma coragem é o que vocês levarão para a pista. Lembrem-se: as lições saem desta sala, mas as histórias permanecem. Obrigado.&quot;
 
-<AdInArticle />
 
 ## Resistência ao manuseio
 
@@ -584,5 +580,4 @@ Este workshop é a Fase 1. Considere:
 - **Acompanhamento individual** (para jogadores que precisam de mais apoio)
 :::
 
-<AdBanner />
 

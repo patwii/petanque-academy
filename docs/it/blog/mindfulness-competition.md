@@ -166,5 +166,5 @@ Il giocatore che è pienamente presente a ogni lancio, mentre gli altri sono per
 
 ---
 
-| *Correlato: [Introduzione alla consapevolezza](/it/education/mindfulness/) | [Tecniche di consapevolezza](/it/education/mindfulness/tecniche) | [Pratica quotidiana](/it/education/mindfulness/pratica-quotidiana)* |
+| *Correlato: [Introduzione alla consapevolezza](/it/educazione/consapevolezza/) | [Tecniche di consapevolezza](/it/educazione/consapevolezza/tecniche) | [Pratica quotidiana](/it/educazione/mindfulness/pratica-quotidiana)* |
 

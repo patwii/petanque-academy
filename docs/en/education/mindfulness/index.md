@@ -1,5 +1,4 @@
 # Mindfulness for Pétanque Players
-<AdBanner />
 
 
 Mindfulness is one of the most powerful tools available to athletes. It's not mystical or complicated - it's simply the practice of paying attention to the present moment without judgment.
@@ -80,7 +79,6 @@ Mindfulness helps you handle all of these.
 
 The key word is "non-judgmental."
 
-<AdInArticle />
 
 ::: danger Judgmental Thinking (Adds Emotional Weight)
 ❌ "That was a terrible throw"
@@ -197,4 +195,3 @@ Consistency beats duration. Daily practice builds the skill.
 
 You can't stop thoughts from arising. But you can choose not to follow them down the rabbit hole.
 
-<AdBanner />

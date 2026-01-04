@@ -1,6 +1,5 @@
 # Skabelon til målsætning og sporing
 
-<AdBanner />
 
 ## Sådan bruger du denne skabelon
 
@@ -167,7 +166,6 @@ Denne skabelon hjælper dig med at sætte meningsfulde mål og systematisk spore
 
 ---
 
-<AdInArticle />
 
 ## Progress Tracking Sheet
 
@@ -342,7 +340,6 @@ Simply select the template section you want, copy (Ctrl+C / Cmd+C), and paste in
 
 ---
 
-<AdBanner />
 
 Brug denne ramme til at gøre dine mål specifikke og opnåelige:
 

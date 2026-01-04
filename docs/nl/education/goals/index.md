@@ -1,5 +1,4 @@
 # Doelstellingen formuleren voor pétanque-spelers
-<AdBanner />
 
 
 Duidelijke doelen zijn je kompas. Ze geven richting aan je training, motiveren je wanneer het moeilijk wordt en stellen je in staat je vooruitgang te meten. Zonder doelen gooi je maar wat rond. Met doelen werk je ergens naartoe.
@@ -74,7 +73,6 @@ Elk doel zou moeten zijn:
 - ✅ **Tijdgebonden** - Heeft een deadline
 :::
 
-<AdInArticle />
 
 ### S - Specifiek
 ❌ &quot;Word beter in schieten&quot;
@@ -174,4 +172,3 @@ Als je motivatie verdwijnt, houdt je &quot;waarom&quot; je op de been.
 
 Stel duidelijke doelen. Verdeel ze in kleinere stappen. Concentreer je op wat je wél kunt beïnvloeden. Houd je voortgang bij.
 
-<AdBanner />

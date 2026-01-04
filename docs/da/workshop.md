@@ -1,6 +1,5 @@
 # Workshop: Avanceret mental spilsession (3-4 timer)
 
-<AdBanner />
 
 ## Oversigt
 
@@ -138,7 +137,6 @@ Du tager afsted med:
 Efter dyb deling kan du føle dig afsløret eller fortrydt. Dette er normalt. Facilitatoren vil kontakte dig inden for 24 timer. Husk: Det, du delte, hjalp alle.
 :::
 
-<AdInArticle />
 
 ---
 
@@ -309,7 +307,6 @@ Dette forbinder mental belastning med fysisk spænding (snak/yip).
 - Impostor-syndrom
 :::
 
-<AdInArticle />
 
 
 ### Fase 2: Dybdegående arbejde (90 minutter)
@@ -484,7 +481,6 @@ Dybt arbejde forårsager en &quot;sårbarhedstømmermænd&quot; - fortrydelse el
 **Afslutningsmanuskript:**
 > &quot;Det, der skete her i dag, krævede mod. Du mødte op, du åbnede op, du stolede på processen. Det samme mod er det, du vil bringe til pisten. Husk: Lektionerne forlader dette rum, men historierne bliver. Tak.&quot;
 
-<AdInArticle />
 
 ## Håndtering af modstand
 
@@ -584,5 +580,4 @@ Denne workshop er fase 1. Overvej:
 - **Individuelle check-ins** (for spillere, der har brug for mere støtte)
 :::
 
-<AdBanner />
 

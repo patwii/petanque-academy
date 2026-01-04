@@ -1,6 +1,5 @@
 # Mat og ernæring
 
-<AdBanner />
 
 ## Drivstoff for presisjonsytelse
 
@@ -79,7 +78,6 @@ Vær spesielt forsiktig med:
 - ❌ Hvitt brød, bakverk, snacks fra automater
 :::
 
-<AdInArticle />
 
 ## Hurtigguide for konkurransedagen
 

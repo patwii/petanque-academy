@@ -1,6 +1,5 @@
 # About Pétanque Academy
 
-<AdBanner />
 
 ## A Passion for Pétanque
 
@@ -40,7 +39,6 @@ This site exists to change that. Every piece of content here is designed to be i
 
 ---
 
-<AdInArticle />
 
 ## Get in Touch
 
@@ -149,7 +147,6 @@ Together, we can elevate the mental game of pétanque worldwide.
 
 ---
 
-<AdBanner />
 
 **Thank you for being part of Pétanque Academy!**
 

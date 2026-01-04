@@ -47,7 +47,7 @@ ls -la docs/public/robots.txt
 ### Step 1: Commit Changes
 ```bash
 git add .
-git commit -m "Major SEO improvements for AdSense compliance
+git commit -m "Major SEO improvements
 
 - Added comprehensive meta tags (SEO, Open Graph, Twitter)
 - Implemented Schema.org structured data (5 types)
@@ -168,49 +168,6 @@ Request indexing for:
 
 ---
 
-## AdSense Review Request
-
-### Wait Period
-**Wait 1-2 weeks** after deployment before requesting review to allow:
-- Google to crawl new content
-- New pages to be indexed
-- Core Web Vitals data to accumulate
-
-### When Ready to Request Review
-
-1. **Go to AdSense Dashboard**
-   - https://www.google.com/adsense
-
-2. **Navigate to Sites**
-   - Click on carreau.app
-
-3. **Request Review**
-   - Click "Request Review" button
-
-4. **Provide Context** (if there's a message field)
-   ```
-   I have made significant improvements to address the "low value content" concern:
-   
-   1. Added substantial unique content:
-      - Detailed case studies (2,000+ words)
-      - In-depth blog articles (1,500+ words)
-      - Player testimonials and feedback
-   
-   2. Implemented comprehensive SEO:
-      - Proper meta tags and structured data
-      - Sitemap with 360 URLs
-      - Multi-language support with hreflang
-   
-   3. Improved site performance:
-      - Optimized loading speed
-      - Better Core Web Vitals
-   
-   The site now provides substantial educational value for elite pétanque 
-   players with 100+ pages of original, high-quality content across 10 languages.
-   ```
-
----
-
 ## Monitoring Schedule
 
 ### Week 1-2 After Deployment
@@ -220,14 +177,14 @@ Request indexing for:
 - [ ] Check Core Web Vitals data
 
 ### Week 2-3
-- [ ] Request AdSense review (if not done)
 - [ ] Continue monitoring Search Console
 - [ ] Check for any technical issues
+- [ ] Check search rankings for key terms
 
 ### Week 3-4
-- [ ] Monitor AdSense review status
-- [ ] Check search rankings for key terms
 - [ ] Review analytics data
+- [ ] Monitor search performance
+- [ ] Check for any technical issues
 
 ---
 
@@ -292,8 +249,8 @@ Request indexing for:
 | Deploy changes | Day 0 | ⏳ Pending |
 | Google crawls sitemap | 1-3 days | ⏳ Pending |
 | New content indexed | 3-7 days | ⏳ Pending |
-| Request AdSense review | 7-14 days | ⏳ Pending |
-| AdSense review complete | 14-28 days | ⏳ Pending |
+| Monitor search performance | 7-14 days | ⏳ Pending |
+| Review analytics data | 14-28 days | ⏳ Pending |
 
 ---
 

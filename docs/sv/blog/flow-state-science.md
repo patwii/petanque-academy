@@ -162,5 +162,5 @@ Precis som med alla färdigheter förbättras flödet med övning:
 
 ---
 
-| *Relaterat: [Zonen](/sv/education/the-zone/) | [Att gå in i zonen](/sv/education/the-zone/att-gå-in-i-zonen) | [Mindfulnesstekniker](/sv/education/mindfulness/tekniker)* |
+| *Relaterat: [Zonen](/sv/utbildning/zonen/) | [Att gå in i zonen](/sv/utbildning/zonen/att-gå-in-i-zonen) | [Mindfulnesstekniker](/sv/utbildning/mindfulness/tekniker)* |
 

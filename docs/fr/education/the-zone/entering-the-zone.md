@@ -1,5 +1,4 @@
 # Entrer dans la zone : techniques pratiques
-<AdBanner />
 
 
 L&#39;état de concentration optimale ne survient pas par hasard. Avec de l&#39;entraînement, vous pouvez apprendre à y accéder plus régulièrement. Voici des techniques éprouvées utilisées par les athlètes de haut niveau.
@@ -113,7 +112,6 @@ Votre routine devient une sorte de « sonnette de pleine conscience », un sig
 Utilisez votre routine à CHAQUE lancer à l&#39;entraînement, pas seulement en compétition. La routine doit devenir automatique.
 :::
 
-<AdInArticle />
 
 ## Technique 2 : Concentration externe
 
@@ -280,4 +278,3 @@ Ces techniques ne fonctionnent que si vous les pratiquez :
 Commencez par votre routine d&#39;avant-tir. Soyez régulier. Ayez confiance. La concentration viendra ensuite.
 :::
 
-<AdBanner />

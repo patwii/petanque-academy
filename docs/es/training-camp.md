@@ -1,6 +1,5 @@
 # Campamento de entrenamiento: Guía de fin de semana
 
-<AdBanner />
 
 ## Cómo realizar un campamento de entrenamiento de fin de semana para 10-20 jugadores
 
@@ -144,7 +143,6 @@ graph TD
     style E fill:#e8f5e9
 ```
 
-<AdInArticle />
 
 
 ### Sábado (Día completo - Teoría + Práctica)
@@ -379,7 +377,6 @@ Hacer un círculo:
 
 **19:00 - Cena y salida**
 
-<AdInArticle />
 
 ## Consejos de facilitación
 
@@ -580,5 +577,4 @@ Hacer un círculo:
 - *Mentalidad* de Carol Dweck
 - *La organización intrépida* de Amy Edmondson
 
-<AdBanner />
 

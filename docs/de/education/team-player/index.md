@@ -1,5 +1,4 @@
 # Ein großartiger Teamplayer sein
-<AdBanner />
 
 
 Pétanque wird oft in Teams gespielt – Doppel- oder Dreierteams. Individuelles Können ist wichtig, aber die Teamdynamik kann über Erfolg oder Misserfolg entscheiden. Die besten Teams sind nicht immer die technisch versiertesten – sie sind diejenigen, die am besten zusammenarbeiten.
@@ -78,7 +77,6 @@ Kommunikation ist das Lebenselixier der Teamleistung.
 - Zwei-Wege-Kommunikation (Sprechen UND Hören)
 - Zeitnah (die richtigen Informationen zur richtigen Zeit)
 
-<AdInArticle />
 
 **Während der Spiele:**
 - Besprechen Sie die Strategie vor jedem Ende
@@ -192,4 +190,3 @@ Großartige Teams entwickeln Gemeinsamkeiten:
 
 Investiere in deine Teammitglieder. Baue Vertrauen auf. Kommuniziere gut. Gewinnt gemeinsam.
 
-<AdBanner />

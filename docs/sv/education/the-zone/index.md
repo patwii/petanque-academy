@@ -1,5 +1,4 @@
 # Zonen: Att förstå flödestillståndet
-<AdBanner />
 
 
 Har du någonsin spelat ett spel där allt bara klickade? Där du inte tänkte på din teknik, och varje klot landade precis där du ville? Det är &quot;zonen&quot; – och att lära sig att använda den konsekvent är det som skiljer elitspelare från resten.
@@ -63,7 +62,6 @@ Din hjärna fungerar i två olika lägen:
 | **Fokus** | Intern (kroppsmekanik) | Extern (mål) |
 | **Känsla** | Ansträngande, medveten | Enkel, naturlig |
 
-<AdInArticle />
 
 Den viktigaste färdigheten är att lära sig att **växla** mellan dessa lägen vid rätt tidpunkt.
 
@@ -117,8 +115,8 @@ Lösningen är inte att tänka *mindre* - det är att tänka på **rätt saker**
 
 Lär dig hur du bemästrar zonen:
 
-- **[Teknisk vs Flow-träning](/sv/education/the-zone/teknisk-vs-flow)** - Förstå när man ska fokusera på teknik och när man ska släppa taget
-- **[Att komma in i zonen](/sv/education/the-zone/att komma in i zonen)** - Praktiska tekniker för att komma åt flödestillstånd
+- **[Teknisk vs Flow-träning](/sv/utbildning/zonen/teknisk-vs-flow)** - Förstå när man ska fokusera på teknik och när man ska släppa taget
+- **[Att komma in i zonen](/sv/utbildning/zonen/att komma in i zonen)** - Praktiska tekniker för att komma åt flödestillstånd
 
 ## Sammanfattning: Zonreglerna
 
@@ -144,4 +142,3 @@ Lita på din träning. Fokusera på målet, inte din teknik.
 
 Din teknik är grunden. Zonen är där grunden blir konst.
 
-<AdBanner />

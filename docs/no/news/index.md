@@ -1,6 +1,5 @@
 # Nyheter og oppdateringer
 
-<AdBanner />
 
 ## Velkommen til Pétanque-akademiet
 
@@ -33,7 +32,6 @@ graph TD
     style D fill:#f3e5f5
 ```
 
-<AdInArticle />
 
 ## Hva er tilgjengelig nå
 
@@ -47,10 +45,10 @@ Vi har lansert **8 omfattende opplæringsmoduler** som dekker alt fra flyttilsta
 | **[Mental styrke](/no/utdanning/mental-styrke/)** | Trykkhåndtering | Rutiner før opptak, håndtering av indre kritiker |
 | **[Mindfulness](/no/utdanning/mindfulness/)** | Bevissthet i nåtiden | Daglig trening, konkurranseteknikker |
 | **[Goals](/en/education/goals/)** | Strategisk planlegging | SMART-mål, hierarki, sporingssystemer |
-| **[Taktikk](/no/utdanning/tactics/)** | Spillstrategi | Beslutningstaking, sannsynlighet, posisjonering |
+| **[Taktikk](/no/utdanning/taktikk/)** | Spillstrategi | Beslutningstaking, sannsynlighet, posisjonering |
 | **[Lagspiller](/no/utdanning/lagspiller/)** | Samarbeidsevner | Kommunikasjon, tillit, teamdynamikk |
-| **[Opplæring](/no/utdanning/training/)** | Øvingsmetoder | Øvelser, bevisst øving, progresjon |
-| **[Ernæring](/no/utdanning/nutrition/)** | Ytelsesdrivstoff | Blodsukkerhåndtering, konkurranseernæring |
+| **[Opplæring](/no/utdanning/opplæring/)** | Øvingsmetoder | Øvelser, bevisst øving, progresjon |
+| **[Ernæring](/no/utdanning/ernæring/)** | Ytelsesdrivstoff | Blodsukkerhåndtering, konkurranseernæring |
 
 ### 🛠️ Praktiske verktøy
 
@@ -58,7 +56,7 @@ Vi har lansert **8 omfattende opplæringsmoduler** som dekker alt fra flyttilsta
 
 - **[Workshop](/no/workshop)** - Strukturerte 3-timers økter for mental spillutvikling
 - **[Treningsleir](/no/treningsleir)** - Intensivhelgeprogrammer for elitespillere
-- **[Opplæring](/no/training)** - 2–3 timers øvingsrammeverk
+- **[Opplæring](/no/opplæring)** - 2–3 timers øvingsrammeverk
 - **[Målmal](/no/målmal)** - Komplett system for målsetting og sporing
 - **[Mal for dagbok](/no/mal-for-dagbok)** - Daglig øvings- og refleksjonsdagbok
 
@@ -147,7 +145,7 @@ Elitespillere har allerede mestret teknikken. Det neste gjennombruddet kommer fr
 **Fordyp deg i avanserte emner:**
 
 1. **[Mental styrke](/no/utdanning/mental-styrke/)** - Mestre pressede situasjoner
-2. **[Taktikk](/no/utdanning/tactics/)** - Forbedre strategisk beslutningstaking
+2. **[Taktikk](/no/utdanning/taktikk/)** - Forbedre strategisk beslutningstaking
 3. **[Workshop](/no/workshop)** - Implementer strukturerte mentale spilløkter
 
 ### For lag
@@ -188,4 +186,3 @@ Alt du trenger for å ta spillet ditt til neste nivå er allerede her. Velg en m
 **Velkommen til Pétanque Academy – hvor elitespillere blir eksepsjonelle.**
 :::
 
-<AdBanner />

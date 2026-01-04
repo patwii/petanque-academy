@@ -1,6 +1,5 @@
 # Alimentación y nutrición
 
-<AdBanner />
 
 ## Impulsando el rendimiento de precisión
 
@@ -79,7 +78,6 @@ Tenga especial cuidado con:
 - ❌ Pan blanco, bollería, snacks de máquinas expendedoras
 :::
 
-<AdInArticle />
 
 ## Guía rápida del día de la competición
 

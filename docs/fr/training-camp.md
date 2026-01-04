@@ -1,6 +1,5 @@
 # Camp d&#39;entraînement : Guide du week-end
 
-<AdBanner />
 
 ## Comment organiser un camp d&#39;entraînement de fin de semaine pour 10 à 20 joueurs
 
@@ -144,7 +143,6 @@ graph TD
     style E fill:#e8f5e9
 ```
 
-<AdInArticle />
 
 
 ### Samedi (Journée complète - Théorie + Pratique)
@@ -379,7 +377,6 @@ Chaque personne prend un engagement.
 
 **19h00 - Dîner et départ**
 
-<AdInArticle />
 
 ## Conseils d&#39;animation
 
@@ -580,5 +577,4 @@ Le week-end se termine, l&#39;apprentissage s&#39;arrête
 - *Mindset* de Carol Dweck
 - *L&#39;Organisation intrépide* par Amy Edmondson
 
-<AdBanner />
 

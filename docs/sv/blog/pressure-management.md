@@ -160,5 +160,5 @@ Nyckeln är att kanalisera denna energi produktivt snarare än att låta den öv
 
 ---
 
-| *Relaterat: [Hantera press](/sv/education/mental-strength/hantera-press) | [Rutin före skott](/sv/education/mental-strength/rutin-före-skott) | [Zonen](/sv/education/the-zone/)* |
+| *Relaterat: [Hantera press](/sv/utbildning/mental-styrka/hantera-press) | [Rutin före skott](/sv/utbildning/mental-styrka/rutin-före-skott) | [Zonen](/sv/utbildning/zonen/)* |
 

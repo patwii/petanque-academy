@@ -1,5 +1,4 @@
 # Technical Training vs Flow Training
-<AdBanner />
 
 
 Understanding the difference between technical training and flow training is essential for elite development. Both are necessary, but they serve different purposes and require different approaches.
@@ -77,7 +76,6 @@ The correct training ratio is inversely correlated with technical competence. As
 - **Ratio:** 20% Technical / 80% Mental
 - **Mental focus:** Flow state, strategy, quieting the mind
 
-<AdInArticle />
 
 ## The Progression Table
 
@@ -191,4 +189,3 @@ The real skill is knowing when to use each mode:
 
 The journey from technique to flow requires strategic inversion. Match your training to your developmental stage.
 
-<AdBanner />

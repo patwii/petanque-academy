@@ -1,6 +1,5 @@
 # Øktguide: Introduksjon til mentalt spill (2–3 timer)
 
-<AdBanner />
 
 ## Oversikt
 
@@ -100,7 +99,6 @@ Du vil motta:
 - Lenker til detaljerte utdanningsmoduler
 - Målmal for mental spillutvikling
 
-<AdInArticle />
 
 ---
 
@@ -416,7 +414,6 @@ Del eksempler.
 - Hva overrasket deg?
 - Hva lærte du?
 
-<AdBanner />
 
 ---
 

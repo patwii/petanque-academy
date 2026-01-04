@@ -1,6 +1,5 @@
 # Modèle de définition et de suivi des objectifs
 
-<AdBanner />
 
 ## Comment utiliser ce modèle
 
@@ -167,7 +166,6 @@ Ce modèle vous aide à définir des objectifs pertinents et à suivre vos progr
 
 ---
 
-<AdInArticle />
 
 ## Progress Tracking Sheet
 

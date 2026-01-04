@@ -1,5 +1,4 @@
 # Palett av plädar
-<AdBanner />
 
 
 ## Den kompletta tekniska repertoaren
@@ -75,7 +74,6 @@ graph LR
 | **Halv snurrning** | Måttlig bakspinn, kontrollerad rullning | Mest mångsidig, förutsägbar |
 | **Ingen snurrning** | Neutral, naturlig rullning vid landning | Låt terrängen diktera rullning |
 
-<AdInArticle />
 
 ## Skjuttekniker
 
@@ -171,9 +169,8 @@ Fokusera på:
 
 ::: info Nästa steg
 När du väl har en gedigen teknik kommer den verkliga utvecklingen från:
-- **[Zonen](/sv/education/the-zone/)** - Åtkomst till flödestillstånd konsekvent
-- **[Träningsmetoder](/sv/education/training/)** - Hur man övar effektivt
-- **[Mental styrka](/sv/education/mental-strength/)** - Prestera under press
+- **[Zonen](/sv/utbildning/zonen/)** - Åtkomst till flödestillstånd konsekvent
+- **[Träningsmetoder](/sv/utbildning/träning/)** - Hur man övar effektivt
+- **[Mental styrka](/sv/utbildning/mental-styrka/)** - Prestera under press
 :::
 
-<AdBanner />

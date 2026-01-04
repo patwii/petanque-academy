@@ -1,5 +1,4 @@
 # Mindfulness per i giocatori di bocce
-<AdBanner />
 
 
 La consapevolezza è uno degli strumenti più potenti a disposizione degli atleti. Non è mistica o complicata: è semplicemente la pratica di prestare attenzione al momento presente senza giudizio.
@@ -80,7 +79,6 @@ La consapevolezza ti aiuta a gestire tutto questo.
 
 La parola chiave è &quot;non giudicante&quot;.
 
-<AdInArticle />
 
 ::: danger Pensiero giudicante (aggiunge peso emotivo)
 ❌ &quot;È stato un lancio terribile&quot;
@@ -166,8 +164,8 @@ graph LR
 
 ## In questa sezione
 
-- **[Tecniche](/it/education/mindfulness/tecniche)** - Esercizi pratici che puoi usare
-- **[Pratica quotidiana](/it/education/mindfulness/pratica-quotidiana)** - Integrare la consapevolezza nella tua vita
+- **[Tecniche](/it/educazione/mindfulness/tecniche)** - Esercizi pratici che puoi usare
+- **[Pratica quotidiana](/it/educazione/mindfulness/pratica-quotidiana)** - Integrare la consapevolezza nella tua vita
 
 ## Riepilogo: Regole della consapevolezza
 
@@ -197,4 +195,3 @@ La costanza è meglio della durata. La pratica quotidiana sviluppa l&#39;abilit�
 
 Non puoi impedire ai pensieri di sorgere. Ma puoi scegliere di non seguirli nella tana del Bianconiglio.
 
-<AdBanner />

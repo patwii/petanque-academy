@@ -1,6 +1,5 @@
 # Guia da Sessão: Introdução ao Jogo Mental (2-3 horas)
 
-<AdBanner />
 
 ## Visão geral
 
@@ -100,7 +99,6 @@ Você receberá:
 - Links para módulos educacionais detalhados
 - Modelo de objetivos para o desenvolvimento de jogos mentais
 
-<AdInArticle />
 
 ---
 
@@ -416,7 +414,6 @@ Compartilhe exemplos.
 - O que te surpreendeu?
 - O que você aprendeu?
 
-<AdBanner />
 
 ---
 

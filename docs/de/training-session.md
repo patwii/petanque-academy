@@ -1,6 +1,5 @@
 # Trainingseinheit: Leitfaden für die Wettkampfvorbereitung
 
-<AdBanner />
 
 ## Wie 4 Spieler regelmäßig zusammen trainieren können
 
@@ -99,7 +98,6 @@ Alle sind dem Ziel der Verbesserung verpflichtet.
 | **Wettbewerbsrunde 3** | Einzel oder Herausforderung | 45 Min. |
 | **Reflexion** | Ausführliche Nachbesprechung &amp; Planung | 30 Min. |
 
-<AdInArticle />
 
 ## Startprotokoll (15-20 Minuten)
 
@@ -312,7 +310,6 @@ Full circle:
 - Confirm next session date/time
 - One-word check-out: "How are you leaving?"
 
-<AdInArticle />
 
 ## User Manual Integration
 
@@ -672,5 +669,4 @@ After each session, record:
 **The result:** You don't just get better at pétanque. You become a more complete competitor.
 :::
 
-<AdBanner />
 

@@ -1,5 +1,4 @@
 # Mindfulness-technieken
-<AdBanner />
 
 
 Hier volgen praktische technieken die je kunt gebruiken om mindfulness te ontwikkelen. Begin met één of twee en bouw het daarna uit.
@@ -82,7 +81,6 @@ Mindfulness in beweging - een geweldige voorbereiding op de piste.
 
 ## Informele praktijken
 
-<AdInArticle />
 
 Deze methoden integreren mindfulness in dagelijkse activiteiten.
 
@@ -203,4 +201,3 @@ Elke trigger = één bewuste ademhaling.
 
 Begin klein. Wees consequent. De voordelen stapelen zich op na verloop van tijd.
 
-<AdBanner />

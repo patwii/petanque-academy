@@ -1,6 +1,5 @@
 # Om bouleakademin
 
-<AdBanner />
 
 ## En passion för boule
 
@@ -40,7 +39,6 @@ Den här webbplatsen finns för att ändra på det. Allt innehåll här är utfo
 
 ---
 
-<AdInArticle />
 
 ## Kontakta oss
 
@@ -149,7 +147,6 @@ Tillsammans kan vi höja det mentala boulespelet världen över.
 
 ---
 
-<AdBanner />
 
 **Tack för att du är en del av Bouleakademin!**
 

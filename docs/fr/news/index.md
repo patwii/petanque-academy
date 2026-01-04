@@ -1,6 +1,5 @@
 # Actualités et mises à jour
 
-<AdBanner />
 
 ## Bienvenue à l&#39;Académie de Pétanque
 
@@ -33,7 +32,6 @@ graph TD
     style D fill:#f3e5f5
 ```
 
-<AdInArticle />
 
 ## Ce qui est disponible maintenant
 
@@ -188,4 +186,3 @@ Tout ce dont vous avez besoin pour faire passer votre jeu au niveau supérieur e
 **Bienvenue à l&#39;Académie de Pétanque - où les joueurs d&#39;élite deviennent exceptionnels.**
 :::
 
-<AdBanner />

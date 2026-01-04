@@ -210,5 +210,5 @@ Kemi er ikke statisk – den kræver vedligeholdelse:
 
 ---
 
-| *Relateret: [Holddynamik](/da/education/team-player/) | [Kommunikation](/da/education/team-player/kommunikation) | [Ledelse i petanque](/da/blog/holdledelse)* |
+| *Relateret: [Holddynamik](/da/uddannelse/holdspiller/) | [Kommunikation](/da/uddannelse/holdspiller/kommunikation) | [Ledelse i petanque](/da/blog/holdledelse)* |
 

@@ -1,5 +1,4 @@
 # Taktisk tænkning i petanque
-<AdBanner />
 
 
 På eliteniveau forudsættes teknisk færdighed. Det, der adskiller vindere fra resten, er taktisk intelligens - at vide, hvilket kast man skal forsøge, og hvornår. De bedste spillere læser spillet flere træk fremad og udnytter enhver fordel.
@@ -125,7 +124,6 @@ graph LR
     C --> F{Surface?}
     D --> G[Point More]
 
-<AdInArticle />
 
     F -->|Smooth| H[Skyd mere]
     F -->|Rough| I[Point More]
@@ -257,7 +255,7 @@ På eliteniveau er scouting vigtig. Kend dine modstandere, før du spiller.
 
 ## I dette afsnit
 
-- **[Sandsynlighedsbaserede beslutninger](/da/education/tactics/sandsynlighed)** - Brug af matematik til at træffe bedre valg
+- **[Sandsynlighedsbaserede beslutninger](/da/uddannelse/taktik/sandsynlighed)** - Brug af matematik til at træffe bedre valg
 
 ## Resumé: Alle taktiske regler
 
@@ -302,4 +300,3 @@ Spor deres præferencer, succesrater og presreaktioner
 
 Læs spillet. Kend dine styrker. Udnyt deres svagheder. Udfør med selvtillid.
 
-<AdBanner />

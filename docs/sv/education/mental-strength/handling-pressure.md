@@ -1,5 +1,4 @@
 # Hantering av tryck
-<AdBanner />
 
 
 Press är en del av tävling. Målet är inte att eliminera den – det är omöjligt. Målet är att prestera bra trots den, och till och med använda den till din fördel.
@@ -81,7 +80,6 @@ Din andning är det snabbaste sättet att förändra ditt tillstånd.
 - Känn dina fötter på marken
 - Sänk axlarna på utandningen
 
-<AdInArticle />
 
 ### 2. Fysisk jordning
 
@@ -193,4 +191,3 @@ Gå igenom detta före tävlingar för att påminna dig själv: &quot;Jag har gj
 
 De bästa spelarna är inte lugna – de är skickliga på att använda sin upphetsning produktivt.
 
-<AdBanner />

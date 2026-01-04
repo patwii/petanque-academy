@@ -1,5 +1,4 @@
 # Undervisning
-<AdBanner />
 
 Velkommen til Pétanque Academys uddannelsesprogram. Det er her, elitespillere lærer at mestre det mentale spil.
 
@@ -50,31 +49,30 @@ graph TD
 
 ## Vores læringsstier
 
-### 🎯 [Zonen (Flowtilstand)](/da/education/the-zone/)
+### 🎯 [Zonen (Flowtilstand)](/da/uddannelse/zonen/)
 Lær, hvad &quot;zonen&quot; egentlig er, og hvordan du får adgang til den. Forstå videnskaben bag flowtilstande, og opdag praktiske teknikker til at præstere bedst muligt, når det gælder mest.
 
-### 🧘 [Mindfulness](/da/education/mindfulness/)
+### 🧘 [Mindfulness](/da/uddannelse/mindfulness/)
 Mestre kunsten at være til stede. Lær videnskabeligt dokumenterede teknikker til at berolige dit sind, forbedre fokus og komme dig hurtigt over fejl.
 
-### 📊 [Målsætning](/da/education/goals/)
+### 📊 [Målsætning](/da/uddannelse/mål/)
 Lav en køreplan for din udvikling. Lær SMART-rammeværket tilpasset til petanque, og lav en træningsplan, der rent faktisk virker.
 
-### 💪 [Mental styrke](/da/education/mental-styrke/)
+### 💪 [Mental styrke](/da/uddannelse/mental-styrke/)
 Opbyg den mentale styrke, der er nødvendig for konkurrence. Lær at håndtere pres, overvinde angst og udvikle rutiner, der udløser toppræstation.
 
-### 🤝 [Holddynamik](/da/education/team-player/)
+### 🤝 [Holddynamik](/da/uddannelse/holdspiller/)
 Bliv den holdkammerat, som alle vil spille med. Lær om kommunikation, tillid og hvordan du bidrager til en vindende holdkultur.
 
-### ♟️ [Taktik](/da/education/tactics/)
+### ♟️ [Taktik](/da/uddannelse/taktik/)
 Tænk strategisk om enhver situation. Lær sandsynlighedsbaseret beslutningstagning og hvornår du skal tage risici.
 
-### 🏋️ [Træningsmetoder](/da/education/træning/)
+### 🏋️ [Træningsmetoder](/da/uddannelse/træning/)
 Træn smartere, ikke bare hårdere. Lær hvordan du strukturerer din træning for maksimal forbedring.
 
-### 🥗 [Ernæring](/da/education/nutrition/)
+### 🥗 [Ernæring](/da/uddannelse/ernæring/)
 Giv din hjerne brændstof til præcisionspræstationer. Lær hvordan du opretholder stabil energi og fokus under hele konkurrencen.
 
-<AdInArticle />
 
 ## Rejsen fra teknik til flow
 
@@ -153,7 +151,6 @@ Dette er din hurtige referenceguide. Gem dette afsnit som bogmærke, og vend til
 ## Start din rejse
 
 ::: tip Anbefalet udgangspunkt
-Start med [Zonen](/da/education/the-zone/) for at forstå grundlaget for elitepræstation, og udforsk derefter [Mindfulness](/da/education/mindfulness/) for praktiske teknikker, du kan bruge med det samme.
+Start med [Zonen](/da/uddannelse/zonen/) for at forstå grundlaget for elitepræstation, og udforsk derefter [Mindfulness](/da/uddannelse/mindfulness/) for praktiske teknikker, du kan bruge med det samme.
 :::
 
-<AdBanner />

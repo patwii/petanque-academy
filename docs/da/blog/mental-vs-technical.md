@@ -1,6 +1,5 @@
 # Hvorfor elitespillere har mere brug for mental træning end teknisk træning
 
-<AdBanner />
 
 *Læsetid: 8 minutter*
 
@@ -27,7 +26,6 @@ Dette er ikke intuitivt. De fleste spillere antager, at de skal øve deres tekni
 
 Når du øver teknik i vid udstrækning, forstærker du **bevidstheden** om dine bevægelser. Dette er perfekt for begyndere, der opbygger neurale baner. Men for elitespillere skaber det en farlig vane: at tænke på teknik under udførelsen.
 
-<AdInArticle />
 
 **Eksempel fra terrænet:**
 
@@ -150,7 +148,7 @@ Men mental spiludvikling? Det er dér, hvor massive gevinster stadig er mulige.
 - Identifikation af flowtilstandstrigger
 - Indre coach vs. indre kritiker arbejde
 
-Se vores afsnit [Uddannelse](/da/education/) for specifikke teknikker.
+Se vores afsnit [Uddannelse](/da/uddannelse/) for specifikke teknikker.
 
 ## Den ubehagelige sandhed
 
@@ -189,9 +187,9 @@ Spore:
 ### 4. Brug uddannelsesmodulerne
 
 Start med:
-1. [Zonen](/da/education/the-zone/) - Forstå flowtilstande
-2. [Mental styrke](/da/education/mental-styrke/) - Opbyg presfærdigheder
-3. [Mindfulness](/da/education/mindfulness/) - Udvikle fokus i nuet
+1. [Zonen](/da/uddannelse/zonen/) - Forstå flowtilstande
+2. [Mental styrke](/da/uddannelse/mental-styrke/) - Opbyg presfærdigheder
+3. [Mindfulness](/da/uddannelse/mindfulness/) - Udvikle fokus i nuet
 
 ## Konklusion
 
@@ -201,13 +199,12 @@ De spillere, der foretager dette skift – som omfavner mental træning som dere
 
 **Valget er dit:** Fortsæt med at træne som en nybegynder, eller start med at træne som en elitespiller.
 
-<AdBanner />
 
 ---
 
 ## Relaterede ressourcer
 
-- [Zonen: Forståelse af flowtilstand](/da/education/the-zone/)
+- [Zonen: Forståelse af flowtilstand](/da/uddannelse/zonen/)
 - [Casestudier: Elitespillere i aktion](/da/casestudier)
 - [Målskabelon](/da/målskabelon) - Planlæg din mentale spiludvikling
 

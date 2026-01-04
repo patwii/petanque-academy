@@ -1,6 +1,5 @@
 # Sessiehandleiding: Introductie tot de mentale speltechniek (2-3 uur)
 
-<AdBanner />
 
 ## Overzicht
 
@@ -100,7 +99,6 @@ Je ontvangt:
 - Links naar gedetailleerde onderwijsmodules
 - Doelsjabloon voor de ontwikkeling van mentale spellen
 
-<AdInArticle />
 
 ---
 
@@ -416,7 +414,6 @@ Deel voorbeelden.
 - Wat heeft je verrast?
 - Wat heb je geleerd?
 
-<AdBanner />
 
 ---
 

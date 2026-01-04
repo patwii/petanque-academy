@@ -1,6 +1,5 @@
 # Alimentação e Nutrição
 
-<AdBanner />
 
 ## Aprimorando o desempenho de precisão
 
@@ -79,7 +78,6 @@ Tenha especial cuidado com:
 - ❌ Pão branco, doces, salgadinhos de máquina de venda automática
 :::
 
-<AdInArticle />
 
 ## Guia rápido para o dia da competição
 

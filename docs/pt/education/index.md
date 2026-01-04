@@ -1,5 +1,4 @@
 # Educação
-<AdBanner />
 
 Bem-vindo ao programa educacional da Academia de Pétanque. Aqui, jogadores de elite aprendem a dominar o jogo mental.
 
@@ -74,7 +73,6 @@ Treine de forma inteligente, não apenas com mais intensidade. Aprenda a estrutu
 ### 🥗 [Nutrição](/en/education/nutrition/)
 Abasteça seu cérebro para um desempenho preciso. Aprenda a manter energia e foco estáveis durante toda a competição.
 
-<AdInArticle />
 
 ## A Jornada da Técnica ao Fluidez
 
@@ -156,4 +154,3 @@ Este é o seu guia de referência rápida. Adicione esta seção aos seus favori
 Comece com [The Zone](/en/education/the-zone/) para entender a base do desempenho de elite, depois explore [Mindfulness](/en/education/mindfulness/) para técnicas práticas que você pode usar imediatamente.
 :::
 
-<AdBanner />

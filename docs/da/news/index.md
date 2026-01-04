@@ -1,6 +1,5 @@
 # Nyheder og opdateringer
 
-<AdBanner />
 
 ## Velkommen til Petanque Akademiet
 
@@ -33,7 +32,6 @@ graph TD
     style D fill:#f3e5f5
 ```
 
-<AdInArticle />
 
 ## Hvad er tilgængeligt nu
 
@@ -43,14 +41,14 @@ Vi har lanceret **8 omfattende uddannelsesmoduler**, der dækker alt fra flowtil
 
 | Modul | Hvad er der indeni | Nøglefunktioner |
 |--------|---------------|--------------|
-| **[Zonen](/da/education/the-zone/)** | Flowtilstandsstyring | 4 detaljerede vejledninger til at komme ind i og opretholde flow |
-| **[Mental styrke](/da/education/mental-styrke/)** | Trykhåndtering | Rutiner før optagelser, håndtering af indre kritiker |
-| **[Mindfulness](/da/education/mindfulness/)** | Bevidsthed i nuet | Daglig træning, konkurrenceteknikker |
+| **[Zonen](/da/uddannelse/zonen/)** | Flowtilstandsstyring | 4 detaljerede vejledninger til at komme ind i og opretholde flow |
+| **[Mental styrke](/da/uddannelse/mental-styrke/)** | Trykhåndtering | Rutiner før optagelser, håndtering af indre kritiker |
+| **[Mindfulness](/da/uddannelse/mindfulness/)** | Bevidsthed i nuet | Daglig træning, konkurrenceteknikker |
 | **[Goals](/da/education/goals/)** | Strategisk planlægning | SMART-mål, hierarki, sporingssystemer |
-| **[Taktik](/da/education/tactics/)** | Spilstrategi | Beslutningstagning, sandsynlighed, positionering |
-| **[Holdspiller](/da/education/team-player/)** | Samarbejdsevner | Kommunikation, tillid, teamdynamik |
-| **[Uddannelse](/da/education/education/)** | Øvelsesmetoder | Øvelser, bevidst øvelse, progression |
-| **[Ernæring](/da/education/nutrition/)** | Ydelsesbrændstof | Blodsukkerstyring, konkurrenceernæring |
+| **[Taktik](/da/uddannelse/taktik/)** | Spilstrategi | Beslutningstagning, sandsynlighed, positionering |
+| **[Holdspiller](/da/uddannelse/holdspiller/)** | Samarbejdsevner | Kommunikation, tillid, teamdynamik |
+| **[Uddannelse](/da/uddannelse/uddannelse/)** | Øvelsesmetoder | Øvelser, bevidst øvelse, progression |
+| **[Ernæring](/da/uddannelse/ernæring/)** | Ydelsesbrændstof | Blodsukkerstyring, konkurrenceernæring |
 
 ### 🛠️ Praktiske værktøjer
 
@@ -64,7 +62,7 @@ Vi har lanceret **8 omfattende uddannelsesmoduler**, der dækker alt fra flowtil
 
 ### 🎯 Teknisk vejledning
 
-**[Teknisk rådgivning](/da/technical/)** afsnittet indeholder:
+**[Teknisk rådgivning](/da/teknisk/)** afsnittet indeholder:
 - Komplet guide til alle petanque-kast
 - Strategier til valg af bane
 - Teknikker til spinkontrol
@@ -139,22 +137,22 @@ Elitespillere har allerede mestret teknikken. Det næste gennembrud kommer fra d
 **Start med det grundlæggende:**
 
 1. **[Ambition](/da/ambition)** - Forstå filosofien bag eliteudvikling
-2. **[Zonen](/da/education/the-zone/)** - Lær om flowtilstande
+2. **[Zonen](/da/uddannelse/zonen/)** - Lær om flowtilstande
 3. **[Målskabelon](/da/målskabelon)** - Sæt dine første strukturerede mål
 
 ### For erfarne spillere
 
 **Dyk ned i avancerede emner:**
 
-1. **[Mental styrke](/da/education/mental-styrke/)** - Mestre pressede situationer
-2. **[Taktik](/da/education/tactics/)** - Forfinelse af strategisk beslutningstagning
+1. **[Mental styrke](/da/uddannelse/mental-styrke/)** - Mestre pressede situationer
+2. **[Taktik](/da/uddannelse/taktik/)** - Forfinelse af strategisk beslutningstagning
 3. **[Workshop](/da/workshop)** - Implementer strukturerede mentale spilsessioner
 
 ### For hold
 
 **Opbyg kollektiv ekspertise:**
 
-1. **[Holdspiller](/da/education/team-player/)** - Forbedr holddynamikken
+1. **[Holdspiller](/da/uddannelse/holdspiller/)** - Forbedr holddynamikken
 2. **[Træningslejr](/da/træningslejr)** - Organiser weekendintensivkurser
 3. **[Træningssession](/da/træningssession)** - Strukturér holdøvelser
 
@@ -188,4 +186,3 @@ Alt du behøver for at tage dit spil til det næste niveau er allerede her. Væl
 **Velkommen til Pétanque Academy - hvor elitespillere bliver exceptionelle.**
 :::
 
-<AdBanner />

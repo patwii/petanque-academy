@@ -1,5 +1,4 @@
 # Comunicación en equipo
-<AdBanner />
 
 
 La comunicación eficaz es lo que transforma a un grupo de personas en un equipo. En la petanca, donde la estrategia cambia constantemente y la presión es alta, la forma de comunicarse puede determinar el resultado.
@@ -95,7 +94,6 @@ La comunicación es bidireccional:
 - Reconoce lo que has escuchado
 - No interrumpir ni despedir
 
-<AdInArticle />
 
 ## Desafíos de la comunicación
 
@@ -222,4 +220,3 @@ Si su equipo tiene un líder designado:
 
 Practica la comunicación como si lanzaras. Es una habilidad que mejora con la atención.
 
-<AdBanner />

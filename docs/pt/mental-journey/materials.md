@@ -1,6 +1,5 @@
 # Materiais e downloads para o facilitador
 
-<AdBanner />
 
 ## Visão geral
 
@@ -16,10 +15,10 @@ Todos os materiais estão disponíveis online para fácil acesso em qualquer dis
 
 | Material | Propósito | Acesso |
 |----------|---------|--------|
-| **Guia do Participante** | Compartilhe com todos os participantes. | [Ver Guia](#participant-guide) • <a href="/downloads/pt/participant-guide.pdf" download>PDF</a> |
-| **Slides do Facilitador** | Presente durante a sessão | [Ver slides](#facilitator-slides) • <a href="/downloads/pt/facilitator-slides.pptx" download>PPTX</a> |
-| **Folha Resumo** | Principais conclusões pós-sessão | [Ver Resumo](#summary-sheet) • <a href="/downloads/pt/summary-sheet.pdf" download>PDF</a> |
-| **Folhas de exercícios** | Atividades durante a sessão | [Ver Folhas de Exercícios](#exercise-worksheets) • <a href="/downloads/pt/exercise-worksheets.pdf" download>PDF</a> |
+| **Guia do Participante** | Compartilhe com todos os participantes. | [Ver Guia](#participant-guide) • <a href="/downloads/en/participant-guide.pdf" download>PDF</a> |
+| **Slides do Facilitador** | Presente durante a sessão | [Ver slides](#facilitator-slides) • <a href="/downloads/en/facilitator-slides.pptx" download>PPTX</a> |
+| **Folha Resumo** | Principais conclusões pós-sessão | [Ver Resumo](#summary-sheet) • <a href="/downloads/en/summary-sheet.pdf" download>PDF</a> |
+| **Folhas de exercícios** | Atividades durante a sessão | [Ver Folhas de Exercícios](#exercise-worksheets) • <a href="/downloads/en/exercise-worksheets.pdf" download>PDF</a> |
 
 ::: tip Baixar para uso offline
 Clique em PDF ou PPTX para baixar arquivos prontos para uso. Todos os materiais também estão disponíveis para visualização diretamente nesta página.
@@ -658,7 +657,6 @@ Fichas de trabalho interativas para atividades durante a sessão. Os participant
 Incentive os participantes a usar o [Modelo de Meta](/en/goal-template) e o [Modelo de Diário](/en/diary-template) para prática contínua.
 :::
 
-<AdInArticle />
 
 ---
 
@@ -719,7 +717,6 @@ Para sessões remotas ou híbridas:
 - Consulte o [Guia da Sessão](/en/mental-journey/session-guide)
 - Consulte o [Guia do Workshop](/en/workshop) para obter informações sobre formatação avançada.
 
-<AdBanner />
 
 ---
 

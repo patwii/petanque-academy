@@ -189,5 +189,5 @@ La resilienza non è una caratteristica che si ha o non si ha: è un&#39;abilit�
 
 ---
 
-| *Correlato: [Forza mentale](/it/education/mental-strength/) | [Gestire la pressione](/it/education/mental-strength/gestire-la-pressione) | [La Zona](/it/education/the-zone/)* |
+| *Correlato: [Forza mentale](/it/educazione/forza-mentale/) | [Gestire la pressione](/it/educazione/forza-mentale/gestire-la-pressione) | [La Zona](/it/educazione/la-zona/)* |
 

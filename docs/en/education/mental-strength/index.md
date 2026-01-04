@@ -1,5 +1,4 @@
 # Mental Strength
-<AdBanner />
 
 
 Mental strength is what separates players who perform well in practice from those who perform well when it matters. It's the ability to handle pressure, bounce back from setbacks, and maintain focus throughout long competitions.
@@ -77,7 +76,6 @@ Confidence comes from:
 
 ### 2. Master Your Self-Talk
 
-<AdInArticle />
 
 The voice in your head matters enormously.
 
@@ -191,4 +189,3 @@ Don't over-analyze between throws. Conserve mental energy for execution.
 
 You can't control what happens. You can control how you respond.
 
-<AdBanner />

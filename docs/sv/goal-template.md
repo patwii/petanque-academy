@@ -1,6 +1,5 @@
 # Mall för målsättning och spårning
 
-<AdBanner />
 
 ## Hur man använder den här mallen
 
@@ -167,7 +166,6 @@ Den här mallen hjälper dig att sätta meningsfulla mål och systematiskt följ
 
 ---
 
-<AdInArticle />
 
 ## Progress Tracking Sheet
 
@@ -342,7 +340,6 @@ Simply select the template section you want, copy (Ctrl+C / Cmd+C), and paste in
 
 ---
 
-<AdBanner />
 
 Använd detta ramverk för att göra dina mål specifika och uppnåeliga:
 

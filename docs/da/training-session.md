@@ -1,6 +1,5 @@
 # Træningssession: Guide til konkurrencetræning
 
-<AdBanner />
 
 ## Hvordan 4 spillere kan træne sammen regelmæssigt
 
@@ -99,7 +98,6 @@ graph LR
 | **Konkurrencerunde 3** | Single eller udfordring | 45 min |
 | **Refleksion** | Dybdegående debriefing og planlægning | 30 min |
 
-<AdInArticle />
 
 ## Opstartsprotokol (15-20 minutter)
 
@@ -312,7 +310,6 @@ Full circle:
 - Confirm next session date/time
 - One-word check-out: "How are you leaving?"
 
-<AdInArticle />
 
 ## User Manual Integration
 
@@ -672,5 +669,4 @@ After each session, record:
 **The result:** You don't just get better at pétanque. You become a more complete competitor.
 :::
 
-<AdBanner />
 

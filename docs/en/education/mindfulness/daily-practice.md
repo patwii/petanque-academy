@@ -1,5 +1,4 @@
 # Building a Daily Mindfulness Practice
-<AdBanner />
 
 
 The benefits of mindfulness come from consistent practice. Here's how to make it part of your life.
@@ -81,7 +80,6 @@ You don't need a meditation room, but having a consistent spot helps:
 
 ### Step 4: Remove Barriers
 
-<AdInArticle />
 
 Make it easy to practice:
 - Put your phone on silent
@@ -199,4 +197,3 @@ Mindfulness is a lifetime practice. Elite athletes often say it's the most valua
 
 Start today. Start small. Keep going.
 
-<AdBanner />

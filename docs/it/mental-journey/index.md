@@ -1,6 +1,5 @@
 # Viaggio mentale per principianti
 
-<AdBanner />
 
 ## Benvenuti al tuo viaggio nel gioco mentale
 
@@ -72,24 +71,23 @@ graph TD
 - Materiali scaricabili
 - Attività di follow-up
 
-<AdInArticle />
 
 ## Iniziare
 
 ### Opzione 1: Autoapprendimento (per i giocatori)
 
 **Settimana 1: Comprensione delle basi**
-1. Leggi il modulo [La Zona](/it/education/the-zone/)
+1. Leggi il modulo [La Zona](/it/educazione/la-zona/)
 2. Prova la tecnica del reset a 3 respiri
 3. Nota quando sei in &quot;modalità tecnica&quot; rispetto a &quot;modalità flusso&quot;
 
 **Settimana 2: Creare consapevolezza**
-1. Leggi il modulo [Forza mentale](/it/education/mental-strength/)
+1. Leggi il modulo [Forza mentale](/it/istruzione/forza-mentale/)
 2. Identifica i tuoi modelli di critica interiore
 3. Praticare l&#39;osservazione neutrale dopo gli errori
 
 **Settimana 3: Creazione della struttura**
-1. Leggi il modulo [Mindfulness](/it/education/mindfulness/)
+1. Leggi il modulo [Mindfulness](/it/educazione/mindfulness/)
 2. Inizia una pratica quotidiana di 5 minuti
 3. Sviluppa una semplice routine pre-tiro
 
@@ -200,7 +198,6 @@ L&#39;allenamento mentale non sostituisce la pratica tecnica. Ma ti aiuta ad acc
 - Rivedi [Casi di studio](/en/case-studies) per esempi
 - Partecipa alle discussioni nel tuo club
 
-<AdBanner />
 
 ---
 

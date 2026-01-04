@@ -1,6 +1,5 @@
 # Fallstudien: Spitzenspieler in Aktion
 
-<AdBanner />
 
 Beispiele aus der Praxis, wie Spitzenspieler im Pétanque mentales Training genutzt haben, um Leistungsplateaus zu überwinden und beständige Höchstleistungen zu erzielen.
 
@@ -65,7 +64,6 @@ Geänderter Trainingsansatz unter Verwendung von [Trainingsmethoden](/en/educati
 
 **Zitat:** *„Mir wurde endlich klar, dass das Nachdenken über meine Technik während des Wurfs alles nur noch schlimmer machte. Zu lernen, mein analytisches Denken im Wurfkreis abzuschalten, hat alles verändert.“*
 
-<AdInArticle />
 
 ## Fallstudie 2: Den inneren Kritiker überwinden
 
@@ -189,7 +187,6 @@ Verlagerte den Fokus von „meine Leistung“ auf „unsere Leistung“:
 
 **Zitat:** *„Ich dachte, ein guter Teamspieler zu sein bedeutet einfach, gute Pässe zu werfen. Ich habe gelernt, dass es um Kommunikation, Vertrauen und darum geht, die Mitspieler besser zu machen.“*
 
-<AdBanner />
 
 ## Gemeinsame Themen in den Fallstudien
 
@@ -233,5 +230,4 @@ Haben Sie im Spiel einen mentalen Durchbruch erlebt? Wir würden gerne davon hö
 
 Deine Geschichte könnte anderen Spielern helfen, die vor ähnlichen Herausforderungen stehen.
 
-<AdBanner />
 

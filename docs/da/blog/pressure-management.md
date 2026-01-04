@@ -160,5 +160,5 @@ Nøglen er at kanalisere denne energi produktivt i stedet for at lade den overv�
 
 ---
 
-| *Relateret: [Håndtering af pres](/da/education/mental-styrke/håndtering-af-pres) | [Rutine før indtagelse](/da/education/mental-styrke/rutine-før-indtagelse) | [Zonen](/da/education/the-zone/)* |
+| *Relateret: [Håndtering af pres](/da/uddannelse/mental-styrke/håndtering-af-pres) | [Rutine før indtagelse](/da/uddannelse/mental-styrke/rutine-før-indtagelse) | [Zonen](/da/uddannelse/zonen/)* |
 

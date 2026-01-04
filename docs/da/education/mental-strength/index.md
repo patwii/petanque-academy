@@ -1,5 +1,4 @@
 # Mental styrke
-<AdBanner />
 
 
 Mental styrke er det, der adskiller spillere, der præsterer godt til træning, fra dem, der præsterer godt, når det gælder. Det er evnen til at håndtere pres, komme sig over tilbageslag og opretholde fokus gennem lange konkurrencer.
@@ -77,7 +76,6 @@ Selvtillid kommer fra:
 
 ### 2. Mestre din selvsnak
 
-<AdInArticle />
 
 Stemmen i dit hoved betyder enormt meget.
 
@@ -155,8 +153,8 @@ graph LR
 
 ## I dette afsnit
 
-- **[Håndtering af pres](/da/education/mental-styrke/håndtering-af-pres)** - Teknikker til situationer med høje indsatser
-- **[Rutine før skud](/da/education/mental-styrke/rutine-før-skud)** - Opbygning af din præstationstrigger
+- **[Håndtering af pres](/da/uddannelse/mental-styrke/håndtering-af-pres)** - Teknikker til situationer med høje indsatser
+- **[Rutine før skud](/da/uddannelse/mental-styrke/rutine-før-skud)** - Opbygning af din præstationstrigger
 
 ## Resumé: Regler for mental styrke
 
@@ -191,4 +189,3 @@ Overanalyser ikke mellem kastene. Spar mental energi til udførelse.
 
 Du kan ikke kontrollere, hvad der sker. Du kan kontrollere, hvordan du reagerer.
 
-<AdBanner />

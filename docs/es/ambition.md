@@ -1,6 +1,5 @@
 # Ambición
 
-<AdBanner />
 
 Nuestra misión es ayudar a los jugadores de élite a dar el siguiente paso en su desarrollo.
 
@@ -82,8 +81,7 @@ Alimenta tu cerebro para tener una concentración estable y manos firmes.
 Comparte experiencias con otros jugadores de élite en un entorno seguro y de apoyo.
 
 ::: info ¿Listo para dar el siguiente paso?
-Explora nuestra sección de [Educación](/es/education/) o conoce nuestros [Talleres](/es/taller).
+Explora nuestra sección de [Educación](/es/educacion/) o conoce nuestros [Talleres](/es/taller).
 :::
 
-<AdBanner />
 

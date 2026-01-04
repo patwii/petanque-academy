@@ -1,5 +1,4 @@
 # Entering the Zone: Practical Techniques
-<AdBanner />
 
 
 The zone isn't something that just happens to you. With practice, you can learn to access it more consistently. Here are proven techniques used by elite athletes.
@@ -113,7 +112,6 @@ Your routine becomes a "mindfulness bell" - a signal that shifts your brain stat
 Use your routine on EVERY throw in practice - not just competitions. The routine must become automatic.
 :::
 
-<AdInArticle />
 
 ## Technique 2: External Focus
 
@@ -280,4 +278,3 @@ These techniques only work if you practice them:
 Start with your pre-shot routine. Make it consistent. Trust it. The zone will follow.
 :::
 
-<AdBanner />

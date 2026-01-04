@@ -1,6 +1,5 @@
 # Materialer og nedlastinger for tilretteleggere
 
-<AdBanner />
 
 ## Oversikt
 
@@ -16,10 +15,10 @@ Alt materiale er tilgjengelig på nett for enkel tilgang på alle enheter. Del l
 
 | Materiale | Hensikt | Adgang |
 |----------|---------|--------|
-| **Deltakerguide** | Del med alle deltakerne | [Vis veiledning](#deltakerveiledning) • <a href="/downloads/no/participant-guide.pdf" download>PDF</a> |
-| **Slides for veileder** | Tilstede under økten | [Vis lysbilder](#fasilitator-slides) • <a href="/downloads/no/facilitator-slides.pptx" download>PPTX</a> |
-| **Sammendragsark** | Takeaway etter økten | [Vis sammendrag](#sammendragsark) • <a href="/downloads/no/summary-sheet.pdf" download>PDF</a> |
-| **Øvelsesark** | Aktiviteter i økten | [Vis regneark](#øvelsesark) • <a href="/downloads/no/exercise-worksheets.pdf" download>PDF</a> |
+| **Deltakerguide** | Del med alle deltakerne | [Vis veiledning](#deltakerveiledning) • <a href="/downloads/en/participant-guide.pdf" download>PDF</a> |
+| **Slides for veileder** | Tilstede under økten | [Vis lysbilder](#fasilitator-slides) • <a href="/downloads/en/facilitator-slides.pptx" download>PPTX</a> |
+| **Sammendragsark** | Takeaway etter økten | [Vis sammendrag](#sammendragsark) • <a href="/downloads/en/summary-sheet.pdf" download>PDF</a> |
+| **Øvelsesark** | Aktiviteter i økten | [Vis regneark](#øvelsesark) • <a href="/downloads/en/exercise-worksheets.pdf" download>PDF</a> |
 
 ::: tip Last ned for bruk uten nett
 Klikk på PDF eller PPTX for å laste ned ferdige filer. Alt materiale er også tilgjengelig for visning direkte på denne siden.
@@ -658,7 +657,6 @@ Interaktive arbeidsark for aktiviteter i øktene. Deltakerne kan bruke disse dig
 Oppfordre deltakerne til å bruke [Målmal](/en/målmal) og [Dagbokmal](/en/dagbokmal) til kontinuerlig øving.
 :::
 
-<AdInArticle />
 
 ---
 
@@ -719,7 +717,6 @@ For eksterne eller hybride økter:
 - Se gjennom [Øktguiden](/no/mental-journey/øktguide)
 - Sjekk [Workshop Guide](/en/workshop) for avansert format
 
-<AdBanner />
 
 ---
 

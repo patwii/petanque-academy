@@ -1,5 +1,4 @@
 # Métodos de treinamento
-<AdBanner />
 
 
 Quando sua técnica está sólida, o que você pratica? É aqui que muitos jogadores estagnam — eles continuam treinando a técnica quando o verdadeiro crescimento está em outra área.
@@ -81,7 +80,6 @@ Estudos demonstram consistentemente:
 - A prática aleatória produz um melhor desempenho em competições.
 - É na &quot;luta&quot; da prática aleatória que ocorre a aprendizagem.
 
-<AdInArticle />
 
 ## Simulação de pressão
 
@@ -197,4 +195,3 @@ Dedique tempo especificamente ao desenvolvimento de habilidades mentais:
 
 Varie seu treino. Inclua trabalho mental. Crie pressão. Acompanhe seu progresso.
 
-<AdBanner />

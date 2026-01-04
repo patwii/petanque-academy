@@ -262,5 +262,5 @@ Du har förberett dig väl. Lita på det och tävla nu.
 
 ---
 
-| *Relaterat: [Utbildningsmetoder](/sv/education/training/) | [Hantera press](/sv/education/mental-strength/hantera-press) | [Rutin före skott](/sv/education/mental-strength/rutin-före-skott)* |
+| *Relaterat: [Utbildningsmetoder](/sv/utbildning/träning/) | [Hantera press](/sv/utbildning/mental-styrka/hantera-press) | [Rutin före skott](/sv/utbildning/mental-styrka/rutin-före-skott)* |
 

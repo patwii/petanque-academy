@@ -1,5 +1,4 @@
 # At være en god holdspiller
-<AdBanner />
 
 
 Pétanque spilles ofte i hold - double (dublettes) eller triples (triplettes). Individuelle færdigheder betyder noget, men holddynamik kan være afgørende for resultaterne. De bedste hold er ikke altid de dygtigste - det er dem, der arbejder bedst sammen.
@@ -78,7 +77,6 @@ Kommunikation er livsnerven i et teams præstation.
 - Tovejs (tale OG lytte)
 - Rettidig (rigtig information på rette tidspunkt)
 
-<AdInArticle />
 
 **Under kampene:**
 - Diskuter strategi før hver omgang
@@ -184,7 +182,7 @@ Gode teams udvikler sig delt:
 
 ## I dette afsnit
 
-- **[Teamkommunikation](/da/education/teamspiller/kommunikation)** - Detaljeret guide til effektiv kommunikation
+- **[Teamkommunikation](/da/uddannelse/teamspiller/kommunikation)** - Detaljeret guide til effektiv kommunikation
 
 ## Vigtig konklusion
 
@@ -192,4 +190,3 @@ Gode teams udvikler sig delt:
 
 Investér i dine holdkammerater. Opbyg tillid. Kommunikér godt. Vind sammen.
 
-<AdBanner />

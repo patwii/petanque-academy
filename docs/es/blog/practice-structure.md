@@ -236,5 +236,5 @@ Estructura tu práctica con un propósito y cada hora contará más.
 
 ---
 
-| *Relacionado: [Métodos de formación](/es/education/formacion/) | [Simulacros de entrenamiento](/es/education/training/simulacros) | [Establecimiento de metas](/es/education/goals/)* |
+| *Relacionado: [Métodos de formación](/es/educacion/formacion/) | [Simulacros de entrenamiento](/es/educacion/entrenamiento/simulacros) | [Establecimiento de metas](/es/educacion/metas/)* |
 

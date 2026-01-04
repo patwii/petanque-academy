@@ -1,5 +1,4 @@
 # Atenção plena para jogadores de petanca
-<AdBanner />
 
 
 A atenção plena é uma das ferramentas mais poderosas disponíveis para atletas. Não é algo místico ou complicado – é simplesmente a prática de prestar atenção ao momento presente sem julgamento.
@@ -80,7 +79,6 @@ A atenção plena ajuda você a lidar com tudo isso.
 
 A palavra-chave é &quot;sem julgamento&quot;.
 
-<AdInArticle />
 
 ::: danger Pensamento crítico (Acrescenta peso emocional)
 ❌ &quot;Que arremesso terrível&quot;
@@ -197,4 +195,3 @@ A consistência supera a duração. A prática diária aprimora a habilidade.
 
 Você não pode impedir que os pensamentos surjam. Mas pode escolher não segui-los até o fundo do poço.
 
-<AdBanner />

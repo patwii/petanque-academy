@@ -1,5 +1,4 @@
 # Skapa din träningsplan
-<AdBanner />
 
 
 Mål utan en plan är bara önskningar. Den här guiden hjälper dig att förvandla dina mål till en strukturerad träningsplan som faktiskt fungerar.
@@ -76,7 +75,6 @@ Välj övningar som direkt stöder dina mål:
 
 Skapa ett realistiskt veckoschema:
 
-<AdInArticle />
 
 | Dag | Morgon | Eftermiddag | Kväll | Fokus |
 |-----|---------|-----------|---------|-------|
@@ -185,4 +183,3 @@ Din plan bör utvecklas:
 
 Den bästa planen är en du faktiskt kommer att följa. Börja enkelt, var konsekvent och justera allt eftersom du lär dig.
 
-<AdBanner />

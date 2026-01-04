@@ -1,6 +1,5 @@
 # Alimentation et nutrition
 
-<AdBanner />
 
 ## Énergie pour des performances de précision
 
@@ -79,7 +78,6 @@ Soyez particulièrement prudent avec :
 - ❌ Pain blanc, viennoiseries, en-cas de distributeurs automatiques
 :::
 
-<AdInArticle />
 
 ## Guide rapide du jour de compétition
 

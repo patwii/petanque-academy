@@ -1,6 +1,5 @@
 # Workshop: Avansert mental spilløkt (3–4 timer)
 
-<AdBanner />
 
 ## Oversikt
 
@@ -138,7 +137,6 @@ Du drar av gårde med:
 Etter dyp deling kan du føle deg avslørt eller angre. Dette er normalt. Tilretteleggeren vil ta kontakt med deg innen 24 timer. Husk: det du delte hjalp alle.
 :::
 
-<AdInArticle />
 
 ---
 
@@ -309,7 +307,6 @@ Dette knytter mental belastning til fysisk spenning (bibberen/yipsen).
 - Impostor-syndrom
 :::
 
-<AdInArticle />
 
 
 ### Fase 2: Dyptgående arbeid (90 minutter)
@@ -484,7 +481,6 @@ Dypt arbeid forårsaker en «sårbarhetsbakrus» – anger eller skam over å de
 **Avslutningsmanus:**
 > «Det som skjedde her i dag krevde mot. Du møtte opp, du åpnet deg, du stolte på prosessen. Det samme motet er det du vil ta med deg ut i løypa. Husk: lærdommene forlater dette rommet, men historiene blir værende. Takk.»
 
-<AdInArticle />
 
 ## Håndtering av motstand
 
@@ -584,5 +580,4 @@ Denne workshopen er fase 1. Vurder:
 - **Individuelle innsjekkinger** (for spillere som trenger mer støtte)
 :::
 
-<AdBanner />
 

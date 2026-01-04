@@ -174,5 +174,5 @@ Hitta den perfekta platsen där målen utmanar utan att bli överväldigande.
 
 ---
 
-| *Relaterat: [Introduktion till målsättning](/sv/education/goals/) | [SMART-mål](/sv/education/goals/smarta-mål) | [Planera din utveckling](/sv/education/goals/planering)* |
+| *Relaterat: [Introduktion till målsättning](/sv/utbildning/mål/) | [SMART-mål](/sv/utbildning/mål/smarta-mål) | [Planera din utveckling](/sv/utbildning/mål/planering)* |
 

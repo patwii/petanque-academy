@@ -1,6 +1,5 @@
 # Sessionsguide: Introduktion till mentala spel (2–3 timmar)
 
-<AdBanner />
 
 ## Översikt
 
@@ -100,7 +99,6 @@ Du får:
 - Länkar till detaljerade utbildningsmoduler
 - Målmall för mental spelutveckling
 
-<AdInArticle />
 
 ---
 
@@ -362,7 +360,7 @@ Dela exempel.
 **Resurser:**
 - Dela ut sammanfattningsblad
 - Dela webbplatsen: carreau.app
-- Rekommenderad startmodul: [Zonen](/sv/education/the-zone/)
+- Rekommenderad startmodul: [Zonen](/sv/utbildning/zonen/)
 
 **Slutningscirkel:**
 &quot;Ett ord som beskriver hur du känner dig just nu.&quot;
@@ -416,7 +414,6 @@ Dela exempel.
 - Vad överraskade dig?
 - Vad lärde du dig?
 
-<AdBanner />
 
 ---
 

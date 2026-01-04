@@ -1,6 +1,5 @@
 # Materiales y descargas para el facilitador
 
-<AdBanner />
 
 ## Descripción general
 
@@ -16,10 +15,10 @@ Todos los materiales están disponibles en línea para facilitar su acceso desde
 
 | Material | Objetivo | Acceso |
 |----------|---------|--------|
-| **Guía del participante** | Compartir con todos los participantes | [Ver guía](#participant-guide) • <a href="/downloads/es/participant-guide.pdf" download>PDF</a> |
-| **Diapositivas del facilitador** | Presente durante la sesión | [Ver diapositivas](#facilitator-slides) • <a href="/downloads/es/facilitator-slides.pptx" download>PPTX</a> |
-| **Hoja de resumen** | Conclusiones posteriores a la sesión | [Ver resumen](#summary-sheet) • <a href="/downloads/es/summary-sheet.pdf" download>PDF</a> |
-| **Hojas de ejercicios** | Actividades durante la sesión | [Ver hojas de trabajo](#ejercicio-hojas-de-trabajo) • <a href="/downloads/es/exercise-worksheets.pdf" download>PDF</a> |
+| **Guía del participante** | Compartir con todos los participantes | [Ver guía](#participant-guide) • <a href="/downloads/en/participant-guide.pdf" download>PDF</a> |
+| **Diapositivas del facilitador** | Presente durante la sesión | [Ver diapositivas](#facilitator-slides) • <a href="/downloads/en/facilitator-slides.pptx" download>PPTX</a> |
+| **Hoja de resumen** | Conclusiones posteriores a la sesión | [Ver resumen](#summary-sheet) • <a href="/downloads/en/summary-sheet.pdf" download>PDF</a> |
+| **Hojas de ejercicios** | Actividades durante la sesión | [Ver hojas de trabajo](#ejercicio-hojas-de-trabajo) • <a href="/downloads/en/exercise-worksheets.pdf" download>PDF</a> |
 
 ::: tip Descargar para uso sin conexión
 Haga clic en PDF o PPTX para descargar archivos listos para usar. Todos los materiales también están disponibles para su consulta directamente en esta página.
@@ -658,7 +657,6 @@ Hojas de trabajo interactivas para actividades durante la sesión. Los participa
 Anime a los participantes a utilizar la [Plantilla de objetivos](/es/goal-template) y la [Plantilla de diario](/es/diary-template) para la práctica continua.
 :::
 
-<AdInArticle />
 
 ---
 
@@ -719,7 +717,6 @@ Para sesiones remotas o híbridas:
 - Revisa la [Guía de sesiones](/es/mental-journey/session-guide)
 - Consulte la [Guía del taller](/es/taller) para obtener un formato avanzado
 
-<AdBanner />
 
 ---
 

@@ -1,6 +1,5 @@
 # Guida alla sessione: Introduzione al gioco mentale (2-3 ore)
 
-<AdBanner />
 
 ## Panoramica
 
@@ -100,7 +99,6 @@ Riceverai:
 - Link ai moduli didattici dettagliati
 - Modello di obiettivo per lo sviluppo del gioco mentale
 
-<AdInArticle />
 
 ---
 
@@ -416,7 +414,6 @@ Condividi esempi.
 - Cosa ti ha sorpreso?
 - Cosa hai imparato?
 
-<AdBanner />
 
 ---
 

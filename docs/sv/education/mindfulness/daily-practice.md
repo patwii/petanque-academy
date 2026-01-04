@@ -1,5 +1,4 @@
 # Att bygga en daglig mindfulness-övning
-<AdBanner />
 
 
 Fördelarna med mindfulness kommer från regelbunden övning. Så här gör du det till en del av ditt liv.
@@ -81,7 +80,6 @@ Du behöver inte ett meditationsrum, men att ha en fast plats hjälper:
 
 ### Steg 4: Ta bort hinder
 
-<AdInArticle />
 
 Gör det enkelt att öva:
 - Sätt telefonen på ljudlös
@@ -199,4 +197,3 @@ Mindfulness är en livslång övning. Elitidrottare säger ofta att det är den 
 
 Börja idag. Börja i liten skala. Fortsätt.
 
-<AdBanner />

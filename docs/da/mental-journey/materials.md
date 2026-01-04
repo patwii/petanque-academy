@@ -1,6 +1,5 @@
 # Materialer og downloads til facilitatorer
 
-<AdBanner />
 
 ## Oversigt
 
@@ -16,10 +15,10 @@ Alle materialer er tilgængelige online for nem adgang på enhver enhed. Del lin
 
 | Materiale | Formål | Adgang |
 |----------|---------|--------|
-| **Deltagerguide** | Del med alle deltagere | [Se guide](#deltagerguide) • <a href="/downloads/da/participant-guide.pdf" download>PDF</a> |
-| **Slides til undervisere** | Til stede under sessionen | [Se slides](#facilitator-slides) • <a href="/downloads/da/facilitator-slides.pptx" download>PPTX</a> |
-| **Oversigtsark** | Takeaway efter sessionen | [Se oversigt](#oversigtsark) • <a href="/downloads/da/summary-sheet.pdf" download>PDF</a> |
-| **Øvelsesark** | Aktiviteter i sessionen | [Se regneark](#øvelsesark) • <a href="/downloads/da/exercise-worksheets.pdf" download>PDF</a> |
+| **Deltagerguide** | Del med alle deltagere | [Se guide](#deltagerguide) • <a href="/downloads/en/participant-guide.pdf" download>PDF</a> |
+| **Slides til undervisere** | Til stede under sessionen | [Se slides](#facilitator-slides) • <a href="/downloads/en/facilitator-slides.pptx" download>PPTX</a> |
+| **Oversigtsark** | Takeaway efter sessionen | [Se oversigt](#oversigtsark) • <a href="/downloads/en/summary-sheet.pdf" download>PDF</a> |
+| **Øvelsesark** | Aktiviteter i sessionen | [Se regneark](#øvelsesark) • <a href="/downloads/en/exercise-worksheets.pdf" download>PDF</a> |
 
 ::: tip Download til offline brug
 Klik på PDF eller PPTX for at downloade færdige filer. Alle materialer kan også ses direkte på denne side.
@@ -658,7 +657,6 @@ Interaktive arbejdsark til aktiviteter i sessionen. Deltagerne kan bruge disse d
 Opfordr deltagerne til at bruge [Målskabelonen](/da/målskabelon) og [Dagbogsskabelonen](/da/dagbogsskabelon) til løbende øvelse.
 :::
 
-<AdInArticle />
 
 ---
 
@@ -719,7 +717,6 @@ For fjern- eller hybridsessioner:
 - Gennemgå [Sessionsguiden](/da/mental-journey/sessionsguiden)
 - Se [Workshop Guide](/da/workshop) for avanceret format
 
-<AdBanner />
 
 ---
 

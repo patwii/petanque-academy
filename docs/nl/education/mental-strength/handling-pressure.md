@@ -1,5 +1,4 @@
 # Omgaan met druk
-<AdBanner />
 
 
 Druk hoort bij competitie. Het doel is niet om die druk volledig te elimineren – dat is onmogelijk. Het doel is om ondanks de druk goed te presteren en die zelfs in je voordeel te gebruiken.
@@ -81,7 +80,6 @@ Je ademhaling is de snelste manier om je gemoedstoestand te veranderen.
 - Voel je voeten op de grond.
 - Laat je schouders zakken tijdens het uitademen.
 
-<AdInArticle />
 
 ### 2. Fysieke aarding
 
@@ -193,4 +191,3 @@ Neem dit nog eens door vóór wedstrijden om jezelf eraan te herinneren: &quot;D
 
 De beste spelers zijn niet kalm, maar bedreven in het productief gebruiken van hun opwinding.
 
-<AdBanner />

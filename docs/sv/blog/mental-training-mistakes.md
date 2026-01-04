@@ -159,5 +159,5 @@ Det mentala spelet är träningsbart. Träna det rätt.
 
 ---
 
-| *Relaterat: [Mental styrka](/sv/education/mental-strength/) | [Utbildningsmetoder](/sv/education/training/) | [Mindfulness](/sv/education/mindfulness/)* |
+| *Relaterat: [Mental styrka](/sv/utbildning/mental-styrka/) | [Utbildningsmetoder](/sv/utbildning/träning/) | [Mindfulness](/sv/utbildning/mindfulness/)* |
 

@@ -1,5 +1,4 @@
 # Educación
-<AdBanner />
 
 Bienvenidos al programa educativo de la Academia de Petanca. Aquí, los jugadores de élite aprenden a dominar el juego mental.
 
@@ -50,31 +49,30 @@ graph TD
 
 ## Nuestras rutas de aprendizaje
 
-### 🎯 [La Zona (Estado de Flujo)](/es/education/the-zone/)
+### 🎯 [La Zona (Estado de Flujo)](/es/educacion/la-zona/)
 Descubre qué es realmente &quot;la zona&quot; y cómo acceder a ella. Comprende la ciencia detrás de los estados de fluidez y descubre técnicas prácticas para rendir al máximo cuando más importa.
 
-### 🧘 [Mindfulness](/es/education/mindfulness/)
+### 🧘 [Mindfulness](/es/educación/mindfulness/)
 Domina el arte de estar presente. Aprende técnicas científicamente probadas para calmar tu mente, mejorar la concentración y recuperarte rápidamente de tus errores.
 
-### 📊 [Establecimiento de metas](/es/education/goals/)
+### 📊 [Establecimiento de metas](/es/educacion/metas/)
 Crea una hoja de ruta para tu desarrollo. Aprende el marco SMART adaptado a la petanca y crea un plan de entrenamiento que realmente funcione.
 
-### 💪 [Fuerza mental](/es/education/fuerza-mental/)
+### 💪 [Fuerza mental](/es/educacion/fuerza-mental/)
 Desarrolla la fortaleza mental necesaria para la competición. Aprende a manejar la presión, superar la ansiedad y desarrollar rutinas que te permitan alcanzar el máximo rendimiento.
 
-### 🤝 [Dinámica de equipo](/es/education/team-player/)
+### 🤝 [Dinámica de equipo](/es/educacion/jugador-de-equipo/)
 Conviértete en el compañero con el que todos quieren jugar. Aprende sobre comunicación, confianza y cómo contribuir a una cultura de equipo ganadora.
 
-### ♟️ [Tácticas](/es/education/tactics/)
+### ♟️ [Tácticas](/es/educación/tácticas/)
 Piensa estratégicamente en cada situación. Aprende a tomar decisiones basadas en probabilidades y a saber cuándo asumir riesgos.
 
-### 🏋️ [Métodos de formación](/es/education/formacion/)
+### 🏋️ [Métodos de formación](/es/educacion/formacion/)
 Entrena de forma más inteligente, no solo más intensa. Aprende a estructurar tu práctica para maximizar tu rendimiento.
 
-### 🥗 [Nutrición](/es/education/nutricion/)
+### 🥗 [Nutrición](/es/educacion/nutricion/)
 Alimenta tu cerebro para un rendimiento preciso. Aprende a mantener la energía y la concentración durante la competición.
 
-<AdInArticle />
 
 ## El viaje de la técnica al flujo
 
@@ -156,4 +154,3 @@ Esta es tu guía de referencia rápida. Guarda esta sección en tus favoritos y 
 Comience con [La Zona](/es/education/the-zone/) para comprender las bases del rendimiento de élite, luego explore [Mindfulness](/es/education/mindfulness/) para obtener técnicas prácticas que puede usar de inmediato.
 :::
 
-<AdBanner />

@@ -1,6 +1,5 @@
 # Over Pétanque Academy
 
-<AdBanner />
 
 ## Een passie voor pétanque
 
@@ -40,7 +39,6 @@ Deze site is opgericht om daar verandering in te brengen. Alle content hier is o
 
 ---
 
-<AdInArticle />
 
 Neem contact op
 
@@ -149,7 +147,6 @@ Samen kunnen we het mentale aspect van pétanque wereldwijd naar een hoger nivea
 
 ---
 
-<AdBanner />
 
 **Bedankt dat je deel uitmaakt van de Pétanque Academy!**
 

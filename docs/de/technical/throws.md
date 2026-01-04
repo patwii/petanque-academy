@@ -1,5 +1,4 @@
 # Palette an Überwürfen
-<AdBanner />
 
 
 ## Das komplette technische Repertoire
@@ -75,7 +74,6 @@ graph LR
 | **Halbe Drehung** | Mäßiger Rückwärtsdrall, kontrolliertes Rollen | Am vielseitigsten, am berechenbarsten |
 | **Kein Spin** | Neutrale, natürliche Rollbewegung bei der Landung | Das Gelände bestimmt den Rollvorgang. |
 
-<AdInArticle />
 
 ## Schießtechniken
 
@@ -176,4 +174,3 @@ Sobald man über eine solide Technik verfügt, kommt das eigentliche Wachstum vo
 - **[Mentale Stärke](/en/education/mental-strength/)** – Leistung unter Druck
 :::
 
-<AdBanner />

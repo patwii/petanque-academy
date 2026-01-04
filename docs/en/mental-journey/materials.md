@@ -1,6 +1,5 @@
 # Facilitator Materials & Downloads
 
-<AdBanner />
 
 ## Overview
 
@@ -658,7 +657,6 @@ Interactive worksheets for in-session activities. Participants can use these dig
 Encourage participants to use the [Goal Template](/en/goal-template) and [Diary Template](/en/diary-template) for ongoing practice.
 :::
 
-<AdInArticle />
 
 ---
 
@@ -719,7 +717,6 @@ For remote or hybrid sessions:
 - Review the [Session Guide](/en/mental-journey/session-guide)
 - Check [Workshop Guide](/en/workshop) for advanced format
 
-<AdBanner />
 
 ---
 

@@ -65,9 +65,6 @@ export default withMermaid(defineConfig({
     ['link', { rel: 'icon', type: 'image/png', href: '/img.png' }],
     ['link', { rel: 'apple-touch-icon', href: '/img.png' }],
 
-    // Google AdSense Verification Meta Tag
-    ['meta', { name: 'google-adsense-account', content: 'ca-pub-2291330857070799' }],
-
     // Google Analytics
     ['script', { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-JG6034BPGE' }],
     ['script', {}, `
@@ -75,14 +72,7 @@ export default withMermaid(defineConfig({
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
       gtag('config', 'G-JG6034BPGE');
-    `],
-
-    // Google AdSense
-    ['script', {
-      async: '',
-      src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2291330857070799',
-      crossorigin: 'anonymous'
-    }]
+    `]
   ],
 
   locales: {

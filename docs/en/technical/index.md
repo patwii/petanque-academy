@@ -1,5 +1,4 @@
 # Technical Advice
-<AdBanner />
 
 
 ## A Note on Technique
@@ -31,7 +30,6 @@ graph TD
 
 ## The Most Common Mistake in Technical Training
 
-<AdInArticle />
 
 ::: info This Section Is For Experienced Players
 If you're new to pétanque, you'll naturally need to develop your basic technique from the ground up — and that's a different journey.
@@ -61,7 +59,7 @@ We're not saying you should never work on your arm, wrist, release, or body posi
 ::: info The Right Purpose for Technical Work
 **Correct purpose:** "I want to add a new throw to my palette"
 
-**Wrong purpose:** "I want to hit more shots" or "I want to be more consistent"
+**Wrong purpose:** "I want to make more shots" or "I want to be more consistent"
 :::
 
 Here's the process:
@@ -82,20 +80,53 @@ This approach gives your technical training **clear direction and measurable pro
 **Success measure:** Can you execute this throw when you choose to? That's the goal.
 :::
 
-## Why "Hit More" Is the Wrong Goal
+## Better Shots vs. More Shots: Understanding the Difference
 
-If you're adjusting your technique to "hit more often" or "be more consistent," you're likely addressing the wrong problem.
+There's a crucial distinction that many players miss:
 
-**Here's the truth:** If you can hit well in practice but struggle in competition, the issue isn't your technique — it's mental. Your arm knows what to do. The question is whether your mind lets it.
+::: tip The Key Insight
+**If you want to make BETTER shots** → Work on your technique
 
-::: tip The Mental Connection
-Inconsistency under pressure is rarely a technical issue — it's a mental one.
-
-**For consistency and performance under pressure, explore our [Education](/en/education/) section**, particularly:
-- [The Zone](/en/education/the-zone/) — Creating conditions for peak performance
-- [Mental Strength](/en/education/mental-strength/) — Performing when it matters
-- [Technical vs Flow](/en/education/the-zone/technical-vs-flow) — When to focus on technique vs. trust
+**If you want to make MORE shots** → Work on your mental strength
 :::
+
+### What Does This Mean?
+
+**Making better shots** means expanding your technical repertoire:
+- Adding new types of throws (plombée, portée, demi-portée)
+- Improving precision on specific shot types
+- Developing new skills you don't currently have
+- **This requires technical practice and physical training**
+
+**Making more shots** means executing what you already know how to do:
+- Hitting the shots you can already make in practice
+- Performing consistently under pressure
+- Trusting your technique when it matters
+- **This requires mental training and flow state access**
+
+### The Reality Check
+
+Ask yourself honestly:
+- Can you make the shot in practice when relaxed? ✅ **Then you have the technique**
+- Do you struggle to make it in competition? ⚠️ **Then you need mental work, not more technical drilling**
+
+::: warning Common Mistake
+Many experienced players spend years refining technique they already have, when what they really need is to develop the mental strength to execute it under pressure.
+
+**You don't need a better arm swing. You need a quieter mind.**
+:::
+
+### The Path Forward
+
+**For better shots (new capabilities):**
+- Explore the [Palette of Throws](/en/technical/throws)
+- Choose a specific new throw to develop
+- Practice the technical execution
+
+**For more shots (consistency under pressure):**
+- Work on [Mental Strength](/en/education/mental-strength/)
+- Learn to access [The Zone](/en/education/the-zone/)
+- Develop [Pre-Shot Routines](/en/education/mental-strength/pre-shot-routine)
 
 ## Our Perspective
 
@@ -138,4 +169,3 @@ Once you have solid technique, the real growth comes from:
 - **[Training Methods](/en/education/training/)** - How to practice effectively
 :::
 
-<AdBanner />

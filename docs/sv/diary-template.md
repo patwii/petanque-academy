@@ -1,6 +1,5 @@
 # Mall för träningsdagbok
 
-<AdBanner />
 
 ## Hur man använder den här mallen
 
@@ -509,7 +508,6 @@ Simply select the template section you want, copy (Ctrl+C / Cmd+C), and paste in
 
 ---
 
-<AdBanner />
 
 **Bästa ögonblicket:**
 
@@ -550,7 +548,6 @@ Simply select the template section you want, copy (Ctrl+C / Cmd+C), and paste in
 
 ---
 
-<AdInArticle />
 
 ## Weekly Summary Template
 

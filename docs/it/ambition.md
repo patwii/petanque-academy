@@ -1,6 +1,5 @@
 # Ambizione
 
-<AdBanner />
 
 La nostra missione è aiutare i giocatori d&#39;élite a compiere il passo successivo nel loro sviluppo.
 
@@ -85,5 +84,4 @@ Condividi le tue esperienze con altri giocatori d&#39;élite in un ambiente sicu
 Esplora la nostra sezione [Formazione](/it/education/) o scopri di più sui nostri [Workshop](/it/workshop).
 :::
 
-<AdBanner />
 

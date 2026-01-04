@@ -1,6 +1,5 @@
 # Pourquoi les joueurs d&#39;élite ont davantage besoin d&#39;entraînement mental que d&#39;entraînement technique
 
-<AdBanner />
 
 *Temps de lecture : 8 minutes*
 
@@ -27,7 +26,6 @@ Ce n&#39;est pas intuitif. La plupart des joueurs pensent que pour progresser, i
 
 En pratiquant intensivement une technique, vous renforcez la conscience de vos mouvements. C&#39;est idéal pour les débutants qui développent leurs connexions neuronales. Mais pour les joueurs de haut niveau, cela crée une habitude dangereuse : celle de penser à la technique pendant son exécution.
 
-<AdInArticle />
 
 **Exemple tiré du terrain :**
 
@@ -201,7 +199,6 @@ Les joueurs qui opèrent ce changement — qui font de l&#39;entraînement menta
 
 **Le choix vous appartient :** Continuez à vous entraîner comme un débutant, ou commencez à vous entraîner comme un joueur d’élite.
 
-<AdBanner />
 
 ---
 

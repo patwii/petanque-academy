@@ -1,6 +1,5 @@
 # Mad og ernæring
 
-<AdBanner />
 
 ## Brændstof til præcisionsydelse
 
@@ -79,7 +78,6 @@ Vær særligt forsigtig med:
 - ❌ Hvidt brød, kager, snacks fra automater
 :::
 
-<AdInArticle />
 
 ## Hurtigguide til konkurrencedagen
 

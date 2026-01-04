@@ -1,5 +1,4 @@
 # Lidar com a pressão
-<AdBanner />
 
 
 A pressão faz parte da competição. O objetivo não é eliminá-la – isso é impossível. O objetivo é ter um bom desempenho apesar dela, e até mesmo usá-la a seu favor.
@@ -81,7 +80,6 @@ A respiração é a maneira mais rápida de mudar seu estado.
 - Sinta seus pés no chão
 - Relaxe os ombros ao expirar.
 
-<AdInArticle />
 
 ### 2. Aterramento físico
 
@@ -193,4 +191,3 @@ Relembre isso antes das competições para se manter informado: &quot;Eu já fiz
 
 Os melhores jogadores não são calmos – eles são habilidosos em usar sua excitação de forma produtiva.
 
-<AdBanner />

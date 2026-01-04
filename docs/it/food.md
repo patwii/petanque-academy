@@ -1,6 +1,5 @@
 # Cibo e nutrizione
 
-<AdBanner />
 
 ## Prestazioni di precisione
 
@@ -79,7 +78,6 @@ Prestare particolare attenzione a:
 - ❌ Pane bianco, pasticcini, snack dai distributori automatici
 :::
 
-<AdInArticle />
 
 ## Guida rapida per il giorno della gara
 

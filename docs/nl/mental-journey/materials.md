@@ -1,6 +1,5 @@
 # Begeleidingsmateriaal en downloads
 
-<AdBanner />
 
 ## Overzicht
 
@@ -16,10 +15,10 @@ Alle materialen zijn online beschikbaar voor gemakkelijke toegang op elk apparaa
 
 | Materiaal | Doel | Toegang |
 |----------|---------|--------|
-| **Deelnemersgids** | Deel dit met alle deelnemers. | [Bekijk de handleiding](#deelnemershandleiding) • <a href="/downloads/nl/participant-guide.pdf" download>PDF</a> |
-| **Dia&#39;s voor de begeleider** | Aanwezig tijdens de sessie | [Bekijk dia&#39;s](#facilitator-slides) • <a href="/downloads/nl/facilitator-slides.pptx" download>PPTX</a> |
-| **Samenvattingsblad** | Samenvatting na afloop van de sessie | [Bekijk samenvatting](#samenvattingsblad) • <a href="/downloads/nl/summary-sheet.pdf" download>PDF</a> |
-| **Oefenbladen** | Activiteiten tijdens de sessie | [Werkbladen bekijken](#oefen-werkbladen) • <a href="/downloads/nl/exercise-worksheets.pdf" download>PDF</a> |
+| **Deelnemersgids** | Deel dit met alle deelnemers. | [Bekijk de handleiding](#deelnemershandleiding) • <a href="/downloads/en/participant-guide.pdf" download>PDF</a> |
+| **Dia&#39;s voor de begeleider** | Aanwezig tijdens de sessie | [Bekijk dia&#39;s](#facilitator-slides) • <a href="/downloads/en/facilitator-slides.pptx" download>PPTX</a> |
+| **Samenvattingsblad** | Samenvatting na afloop van de sessie | [Bekijk samenvatting](#samenvattingsblad) • <a href="/downloads/en/summary-sheet.pdf" download>PDF</a> |
+| **Oefenbladen** | Activiteiten tijdens de sessie | [Werkbladen bekijken](#oefen-werkbladen) • <a href="/downloads/en/exercise-worksheets.pdf" download>PDF</a> |
 
 ::: tip Downloaden voor offline gebruik
 Klik op PDF of PPTX om de kant-en-klare bestanden te downloaden. Al het materiaal is ook direct op deze pagina te bekijken.
@@ -658,7 +657,6 @@ Interactieve werkbladen voor activiteiten tijdens de sessie. Deelnemers kunnen d
 Moedig deelnemers aan om de [Doelsjabloon](/en/goal-template) en [Dagboeksjabloon](/en/diary-template) te gebruiken voor voortdurende oefening.
 :::
 
-<AdInArticle />
 
 ---
 
@@ -719,7 +717,6 @@ Voor sessies op afstand of hybride sessies:
 - Bekijk de [Sessiehandleiding](/en/mental-journey/session-guide)
 - Raadpleeg de [Workshopgids](/en/workshop) voor een geavanceerde versie.
 
-<AdBanner />
 
 ---
 

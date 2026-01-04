@@ -1,5 +1,4 @@
 # Réflexion tactique à la pétanque
-<AdBanner />
 
 
 Au plus haut niveau, la maîtrise technique est acquise. Ce qui distingue les vainqueurs, c&#39;est l&#39;intelligence tactique : savoir quel coup tenter et à quel moment. Les meilleurs joueurs anticipent le jeu plusieurs coups à l&#39;avance et exploitent le moindre avantage.
@@ -125,7 +124,6 @@ graph LR
     C --> F{Surface?}
     D --> G[Point More]
 
-<AdInArticle />
 
     F -->|Smooth| H[Tirez davantage]
     F -->|Rough| I[Point More]
@@ -302,4 +300,3 @@ Suivre leurs préférences, leurs taux de réussite et leurs réactions à la pr
 
 Analysez le jeu. Connaissez vos points forts. Exploitez les faiblesses de l&#39;adversaire. Agissez avec assurance.
 
-<AdBanner />

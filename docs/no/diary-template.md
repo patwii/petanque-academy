@@ -1,6 +1,5 @@
 # Mal for treningsdagbok
 
-<AdBanner />
 
 ## Slik bruker du denne malen
 
@@ -509,7 +508,6 @@ Simply select the template section you want, copy (Ctrl+C / Cmd+C), and paste in
 
 ---
 
-<AdBanner />
 
 **Beste øyeblikk:**
 
@@ -550,7 +548,6 @@ Simply select the template section you want, copy (Ctrl+C / Cmd+C), and paste in
 
 ---
 
-<AdInArticle />
 
 ## Weekly Summary Template
 

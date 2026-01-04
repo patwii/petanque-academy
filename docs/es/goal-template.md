@@ -1,6 +1,5 @@
 # Plantilla de establecimiento y seguimiento de objetivos
 
-<AdBanner />
 
 ## Cómo utilizar esta plantilla
 
@@ -167,7 +166,6 @@ Esta plantilla te ayuda a establecer objetivos significativos y a realizar un se
 
 ---
 
-<AdInArticle />
 
 ## Progress Tracking Sheet
 
@@ -342,7 +340,6 @@ Simply select the template section you want, copy (Ctrl+C / Cmd+C), and paste in
 
 ---
 
-<AdBanner />
 
 Utilice este marco para hacer que sus objetivos sean específicos y alcanzables:
 

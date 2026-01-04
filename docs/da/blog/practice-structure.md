@@ -236,5 +236,5 @@ Strukturer din praksis med et formål, og hver time tæller mere.
 
 ---
 
-| *Relateret: [Træningsmetoder](/da/education/træning/) | [Træningsøvelser](/da/education/træning/øvelser) | [Målsætning](/da/education/goals/)* |
+| *Relateret: [Træningsmetoder](/da/uddannelse/træning/) | [Træningsøvelser](/da/uddannelse/træning/øvelser) | [Målsætning](/da/uddannelse/mål/)* |
 

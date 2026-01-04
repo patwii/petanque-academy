@@ -1,6 +1,5 @@
 # Trainingslager: Wochenendleitfaden
 
-<AdBanner />
 
 ## Wie man ein Wochenend-Trainingslager für 10-20 Spieler durchführt
 
@@ -144,7 +143,6 @@ graph TD
     style E fill:#e8f5e9
 ```
 
-<AdInArticle />
 
 
 ### Samstag (Ganztägig - Theorie + Praxis)
@@ -379,7 +377,6 @@ Jede Person gibt eine Verpflichtung ab.
 
 **19:00 Uhr - Abendessen &amp; Abreise**
 
-<AdInArticle />
 
 ## Moderationstipps
 
@@ -580,5 +577,4 @@ Das Wochenende ist vorbei, der Unterricht endet.
 - *Mindset* von Carol Dweck
 - *Die furchtlose Organisation* von Amy Edmondson
 
-<AdBanner />
 

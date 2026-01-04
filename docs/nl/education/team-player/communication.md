@@ -1,5 +1,4 @@
 # Teamcommunicatie
-<AdBanner />
 
 
 Effectieve communicatie is wat een groep individuen in een team verandert. Bij pétanque, waar de strategie voortdurend verandert en de druk hoog is, kan de manier waarop je communiceert de uitkomst bepalen.
@@ -95,7 +94,6 @@ Communicatie is een tweewegsverkeer:
 - Erken wat je hebt gehoord.
 - Niet onderbreken of afwijzen.
 
-<AdInArticle />
 
 ## Communicatie-uitdagingen
 
@@ -222,4 +220,3 @@ Als uw team een aangewezen leider heeft:
 
 Oefen communicatie zoals je werpen oefent. Het is een vaardigheid die verbetert door aandacht.
 
-<AdBanner />

@@ -1,6 +1,5 @@
 # Atelier : Séance avancée de préparation mentale (3-4 heures)
 
-<AdBanner />
 
 ## Aperçu
 
@@ -138,7 +137,6 @@ Vous repartirez avec :
 Après un partage aussi intense, il est possible que vous vous sentiez vulnérable ou que vous éprouviez des regrets. C&#39;est tout à fait normal. L&#39;animateur prendra de vos nouvelles dans les 24 heures. N&#39;oubliez pas : votre témoignage a été bénéfique à tous.
 :::
 
-<AdInArticle />
 
 ---
 
@@ -309,7 +307,6 @@ Cela relie la charge mentale à la tension physique (le bibber/yips).
 - Syndrome de l&#39;imposteur
 :::
 
-<AdInArticle />
 
 
 ### Phase 2 : Travail en profondeur (90 minutes)
@@ -484,7 +481,6 @@ Le travail en profondeur engendre une « gueule de bois de vulnérabilité » �
 **Conclusion :**
 > « Ce qui s&#39;est passé aujourd&#39;hui a demandé du courage. Vous étiez présents, vous vous êtes ouverts, vous avez fait confiance au processus. C&#39;est ce même courage que vous apporterez sur les pistes. N&#39;oubliez pas : les leçons quittent cette salle, mais les histoires restent. Merci. »
 
-<AdInArticle />
 
 ## Résistance à la manutention
 
@@ -584,5 +580,4 @@ Cet atelier constitue la phase 1. À prendre en compte :
 - **Suivis individuels** (pour les joueurs qui ont besoin de plus de soutien)
 :::
 
-<AdBanner />
 

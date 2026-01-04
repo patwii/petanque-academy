@@ -1,6 +1,5 @@
 # Om Petanque Academy
 
-<AdBanner />
 
 ## En passion for petanque
 
@@ -40,7 +39,6 @@ Dette websted eksisterer for at ændre det. Alt indhold her er designet til at v
 
 ---
 
-<AdInArticle />
 
 ## Kontakt os
 
@@ -149,7 +147,6 @@ Sammen kan vi løfte det mentale petanque-spil verden over.
 
 ---
 
-<AdBanner />
 
 **Tak fordi du er en del af Pétanque Academy!**
 

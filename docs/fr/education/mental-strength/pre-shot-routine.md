@@ -1,5 +1,4 @@
 # Élaborer sa routine d&#39;avant-tir
-<AdBanner />
 
 
 Votre routine d&#39;avant-lancer est l&#39;un des outils les plus puissants de votre préparation mentale. Il s&#39;agit d&#39;une séquence d&#39;actions régulières qui vous prépare à chaque lancer et vous permet d&#39;atteindre votre performance optimale.
@@ -79,7 +78,6 @@ Effectuez le lancer :
 - Libérer sans hésitation
 - Suivre naturellement
 
-<AdInArticle />
 
 ## Créer sa routine personnelle
 
@@ -188,4 +186,3 @@ Votre routine doit prendre un temps constant :
 
 Construisez-le avec soin. Entraînez-vous sans cesse. Ayez une confiance absolue en lui.
 
-<AdBanner />

@@ -1,5 +1,4 @@
 # Training Methods
-<AdBanner />
 
 
 When your technique is solid, what do you practice? This is where many players plateau - they keep drilling technique when the real growth lies elsewhere.
@@ -81,7 +80,6 @@ Studies consistently show:
 - Random practice produces better competition performance
 - The "struggle" of random practice is where learning happens
 
-<AdInArticle />
 
 ## Pressure Simulation
 
@@ -197,4 +195,3 @@ Dedicate time specifically to mental skills:
 
 Mix your training. Include mental work. Create pressure. Track your progress.
 
-<AdBanner />

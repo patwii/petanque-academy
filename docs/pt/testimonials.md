@@ -1,6 +1,5 @@
 # Depoimentos de jogadores
 
-<AdBanner />
 
 Depoimentos reais de jogadores de elite de petanca que utilizaram os recursos da Pétanque Academy para aprimorar seu jogo mental e desempenho em competições.
 
@@ -40,7 +39,6 @@ Esses depoimentos representam o feedback genuíno de jogadores de diversos níve
 
 **— Treinador de Clube, Alemanha**
 
-<AdInArticle />
 
 ---
 
@@ -118,7 +116,6 @@ Esses depoimentos representam o feedback genuíno de jogadores de diversos níve
 
 **— Psicólogo esportivo e treinador de petanca, Reino Unido**
 
-<AdBanner />
 
 ---
 
@@ -171,5 +168,4 @@ Pronto para desenvolver seu jogo mental?
 - **Quer estrutura?** → [Modelo de Meta](/en/goal-template)
 :::
 
-<AdBanner />
 

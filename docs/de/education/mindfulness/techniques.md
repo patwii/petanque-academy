@@ -1,5 +1,4 @@
 # Achtsamkeitstechniken
-<AdBanner />
 
 
 Hier sind praktische Techniken, mit denen Sie Achtsamkeit entwickeln können. Beginnen Sie mit ein oder zwei und bauen Sie darauf auf.
@@ -82,7 +81,6 @@ Achtsamkeit in der Bewegung – eine hervorragende Vorbereitung auf die Piste.
 
 ## Informelle Praktiken
 
-<AdInArticle />
 
 Diese integrieren Achtsamkeit in den Alltag.
 
@@ -203,4 +201,3 @@ Jeder Auslöser = ein bewusster Atemzug.
 
 Fang klein an. Bleib dran. Die Vorteile verstärken sich mit der Zeit.
 
-<AdBanner />

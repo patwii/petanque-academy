@@ -159,5 +159,5 @@ El juego mental se puede entrenar. Entrénalo bien.
 
 ---
 
-| *Relacionado: [Fuerza mental](/es/education/fuerza-mental/) | [Métodos de formación](/es/education/training/) | [Atención plena](/es/education/mindfulness/)* |
+| *Relacionado: [Fuerza mental](/es/educacion/fuerza-mental/) | [Métodos de formación](/es/educación/formación/) | [Atención plena](/es/educación/atención plena/)* |
 

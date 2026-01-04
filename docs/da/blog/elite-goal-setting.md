@@ -174,5 +174,5 @@ Find det optimale punkt, hvor målene udfordrer uden at blive overvældende.
 
 ---
 
-| *Relateret: [Introduktion til målsætning](/da/education/goals/) | [SMART Mål](/da/education/goals/smarte-mål) | [Planlægning af din udvikling](/da/education/goals/planlægning)* |
+| *Relateret: [Introduktion til målsætning](/da/uddannelse/mål/) | [SMART Mål](/da/uddannelse/mål/smarte-mål) | [Planlægning af din udvikling](/da/uddannelse/mål/planlægning)* |
 

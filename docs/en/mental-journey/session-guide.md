@@ -1,6 +1,5 @@
 # Session Guide: Mental Game Introduction (2-3 Hours)
 
-<AdBanner />
 
 ## Overview
 
@@ -100,7 +99,6 @@ You'll receive:
 - Links to detailed education modules
 - Goal template for mental game development
 
-<AdInArticle />
 
 ---
 
@@ -416,7 +414,6 @@ Share examples.
 - What surprised you?
 - What did you learn?
 
-<AdBanner />
 
 ---
 

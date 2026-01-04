@@ -1,5 +1,4 @@
 # De Zone: Het Flow-syndroom begrijpen
-<AdBanner />
 
 
 Heb je wel eens een spel gehad waarbij alles gewoon perfect verliep? Waarbij je niet hoefde na te denken over je techniek en elke boule precies landde waar je hem wilde hebben? Dat is &quot;de zone&quot; - en leren om die zone consistent te bereiken, is wat topspelers onderscheidt van de rest.
@@ -63,7 +62,6 @@ Je hersenen werken in twee verschillende modi:
 | **Focus** | Intern (lichaamsmechanica) | Extern (doelwit) |
 | **Gevoel** | Met inspanning, bewust | Moeiteloos, natuurlijk |
 
-<AdInArticle />
 
 De belangrijkste vaardigheid is leren om op het juiste moment tussen deze modi te schakelen.
 
@@ -144,4 +142,3 @@ Vertrouw op je training. Concentreer je op het doel, niet op je techniek.
 
 Je techniek is het fundament. De zone is waar dat fundament kunst wordt.
 
-<AdBanner />

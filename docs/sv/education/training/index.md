@@ -1,5 +1,4 @@
 # Träningsmetoder
-<AdBanner />
 
 
 När din teknik är stabil, vad övar du på? Det är här många spelare stannar av – de fortsätter att öva på sin teknik när den verkliga utvecklingen ligger någon annanstans.
@@ -81,7 +80,6 @@ Studier visar konsekvent:
 - Slumpmässig träning ger bättre tävlingsprestationer
 - Det är i den slumpmässiga övningens &quot;kamp&quot; som lärandet sker.
 
-<AdInArticle />
 
 ## Trycksimulering
 
@@ -189,7 +187,7 @@ Avsätt tid specifikt för mentala färdigheter:
 
 ## I detta avsnitt
 
-- **[Träningsövningar](/sv/education/training/övningar)** - Specifika övningar för olika färdigheter
+- **[Träningsövningar](/sv/utbildning/träning/övningar)** - Specifika övningar för olika färdigheter
 
 ## Viktig slutsats
 
@@ -197,4 +195,3 @@ Avsätt tid specifikt för mentala färdigheter:
 
 Variera din träning. Inkludera mentalt arbete. Skapa press. Följ dina framsteg.
 
-<AdBanner />

@@ -1,5 +1,4 @@
 # Formazione tecnica vs. formazione di flusso
-<AdBanner />
 
 
 Comprendere la differenza tra allenamento tecnico e allenamento di flusso è essenziale per lo sviluppo di atleti d&#39;élite. Entrambi sono necessari, ma servono a scopi diversi e richiedono approcci diversi.
@@ -77,7 +76,6 @@ Il corretto rapporto di allenamento è inversamente proporzionale alla competenz
 - **Rapporto:** 20% Tecnico / 80% Mentale
 - **Focus mentale:** Stato di flusso, strategia, calmare la mente
 
-<AdInArticle />
 
 ## La tabella di progressione
 
@@ -191,4 +189,3 @@ La vera abilità sta nel sapere quando utilizzare ciascuna modalità:
 
 Il passaggio dalla tecnica al flusso richiede un&#39;inversione strategica. Adatta il tuo allenamento al tuo stadio di sviluppo.
 
-<AdBanner />

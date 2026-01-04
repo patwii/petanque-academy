@@ -236,5 +236,5 @@ Strukturera din träning med ett syfte, och varje timme räknas mer.
 
 ---
 
-| *Relaterat: [Utbildningsmetoder](/sv/education/training/) | [Träningsövningar](/sv/education/training/övningar) | [Målsättning](/sv/education/goals/)* |
+| *Relaterat: [Utbildningsmetoder](/sv/utbildning/träning/) | [Träningsövningar](/sv/utbildning/träning/övningar) | [Målsättning](/sv/utbildning/mål/)* |
 

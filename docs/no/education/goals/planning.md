@@ -1,5 +1,4 @@
 # Lage treningsplanen din
-<AdBanner />
 
 
 Mål uten en plan er bare ønsker. Denne veiledningen hjelper deg med å gjøre målene dine om til en strukturert treningsplan som faktisk fungerer.
@@ -76,7 +75,6 @@ Velg øvelser som direkte støtter målene dine:
 
 Lag en realistisk ukeplan:
 
-<AdInArticle />
 
 | Dag | Morgen | Ettermiddag | Kveld | Fokus |
 |-----|---------|-----------|---------|-------|
@@ -185,4 +183,3 @@ Planen din bør utvikle seg:
 
 Den beste planen er en du faktisk følger. Start enkelt, vær konsekvent og juster etter hvert som du lærer.
 
-<AdBanner />

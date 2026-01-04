@@ -1,6 +1,5 @@
 # Estudos de Caso: Jogadores de Elite em Ação
 
-<AdBanner />
 
 Exemplos reais de como jogadores de elite de petanca utilizaram o treinamento mental para superar estagnações de desempenho e alcançar a excelência de forma consistente.
 
@@ -65,7 +64,6 @@ Mudança na abordagem de treinamento usando [Métodos de Treinamento](/en/educat
 
 **Citação principal:** *&quot;Finalmente entendi que pensar na minha técnica durante o arremesso na verdade a piorava. Aprender a desligar meu cérebro analítico no círculo mudou tudo.&quot;*
 
-<AdInArticle />
 
 ## Estudo de Caso 2: Superando o Crítico Interior
 
@@ -189,7 +187,6 @@ Mudamos o foco de &quot;meu desempenho&quot; para &quot;nosso desempenho&quot;:
 
 **Citação principal:** *&quot;Eu pensava que ser um bom jogador de equipe significava apenas fazer bons passes. Aprendi que tem a ver com comunicação, confiança e fazer com que seus companheiros de equipe joguem melhor.&quot;*
 
-<AdBanner />
 
 ## Temas comuns em diversos estudos de caso
 
@@ -233,5 +230,4 @@ Você já teve uma experiência transformadora em jogos mentais? Adoraríamos sa
 
 Sua história pode ajudar outros jogadores que enfrentam desafios semelhantes.
 
-<AdBanner />
 

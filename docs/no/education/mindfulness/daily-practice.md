@@ -1,5 +1,4 @@
 # Å bygge en daglig mindfulness-praksis
-<AdBanner />
 
 
 Fordelene med mindfulness kommer fra regelmessig praksis. Slik gjør du det til en del av livet ditt.
@@ -81,7 +80,6 @@ Du trenger ikke et meditasjonsrom, men det hjelper å ha et fast sted:
 
 ### Trinn 4: Fjern barrierer
 
-<AdInArticle />
 
 Gjør det enkelt å øve:
 - Sett telefonen på lydløs
@@ -199,4 +197,3 @@ Mindfulness er en livslang praksis. Eliteidrettsutøvere sier ofte at det er den
 
 Start i dag. Begynn i det små. Fortsett.
 
-<AdBanner />

@@ -1,5 +1,4 @@
 # Treningsmetoder
-<AdBanner />
 
 
 Når teknikken din er solid, hva øver du på? Det er her mange spillere flater ut – de fortsetter å øve på teknikken når den virkelige veksten ligger et annet sted.
@@ -81,7 +80,6 @@ Studier viser konsekvent:
 - Tilfeldig trening gir bedre konkurranseprestasjon
 - Det er i «kampen» med tilfeldig øvelse at læring skjer.
 
-<AdInArticle />
 
 ## Trykksimulering
 
@@ -189,7 +187,7 @@ Sett spesielt av tid til mentale ferdigheter:
 
 ## I denne delen
 
-- **[Treningsøvelser](/no/utdanning/training/øvelser)** - Spesifikke øvelser for ulike ferdigheter
+- **[Treningsøvelser](/no/utdanning/trening/øvelser)** - Spesifikke øvelser for ulike ferdigheter
 
 ## Viktig konklusjon
 
@@ -197,4 +195,3 @@ Sett spesielt av tid til mentale ferdigheter:
 
 Varier treningen din. Inkluder mentalt arbeid. Skap press. Følg fremgangen din.
 
-<AdBanner />

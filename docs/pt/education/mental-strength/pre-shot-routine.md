@@ -1,5 +1,4 @@
 # Como montar sua rotina pré-injeção
-<AdBanner />
 
 
 Sua rotina pré-arremesso é uma das ferramentas mais poderosas do seu jogo mental. É uma sequência consistente de ações que prepara você para cada arremesso e ativa seu melhor estado de desempenho.
@@ -79,7 +78,6 @@ Faça o arremesso:
 - Liberte sem hesitação
 - Siga em frente naturalmente
 
-<AdInArticle />
 
 ## Construindo sua rotina pessoal
 
@@ -188,4 +186,3 @@ Sua rotina deve levar uma quantidade consistente de tempo:
 
 Construa com cuidado. Pratique sempre. Confie plenamente.
 
-<AdBanner />

@@ -1,6 +1,5 @@
 # Plantilla de diario de entrenamiento
 
-<AdBanner />
 
 ## Cómo utilizar esta plantilla
 
@@ -509,7 +508,6 @@ Simply select the template section you want, copy (Ctrl+C / Cmd+C), and paste in
 
 ---
 
-<AdBanner />
 
 **Mejor momento:**
 
@@ -550,7 +548,6 @@ Simply select the template section you want, copy (Ctrl+C / Cmd+C), and paste in
 
 ---
 
-<AdInArticle />
 
 ## Weekly Summary Template
 

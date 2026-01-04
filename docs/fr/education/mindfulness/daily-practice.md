@@ -1,5 +1,4 @@
 # Développer une pratique quotidienne de la pleine conscience
-<AdBanner />
 
 
 Les bienfaits de la pleine conscience proviennent d&#39;une pratique régulière. Voici comment l&#39;intégrer à votre vie.
@@ -81,7 +80,6 @@ Vous n&#39;avez pas besoin d&#39;une salle de méditation, mais avoir un endroit
 
 ### Étape 4 : Supprimer les barrières
 
-<AdInArticle />
 
 Facilitez la pratique :
 - Mettez votre téléphone en mode silencieux.
@@ -199,4 +197,3 @@ La pleine conscience est une pratique qui dure toute la vie. Les athlètes de ha
 
 Commencez dès aujourd&#39;hui. Commencez petit. Persévérez.
 
-<AdBanner />

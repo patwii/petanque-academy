@@ -1,5 +1,4 @@
 # Bygg din rutine før inntak
-<AdBanner />
 
 
 Rutinen din før skuddet er et av de kraftigste verktøyene i ditt mentale spill. Det er en konsekvent sekvens av handlinger som forbereder deg på hvert kast og utløser din beste prestasjonstilstand.
@@ -79,7 +78,6 @@ Gjør kastet:
 - Slipp uten å nøle
 - Følg opp naturlig
 
-<AdInArticle />
 
 ## Bygge din personlige rutine
 
@@ -188,4 +186,3 @@ Rutinen din bør ta en jevn mengde tid:
 
 Bygg det forsiktig. Øv alltid på det. Stol fullt og helt på det.
 
-<AdBanner />

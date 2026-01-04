@@ -1,6 +1,5 @@
 # Por que os jogadores de elite precisam de treinamento mental mais do que de treinamento técnico?
 
-<AdBanner />
 
 *Tempo de leitura: 8 minutos*
 
@@ -27,7 +26,6 @@ Isso não é intuitivo. A maioria dos jogadores presume que, para melhorar, prec
 
 Ao praticar a técnica extensivamente, você reforça a **consciência** dos seus movimentos. Isso é perfeito para iniciantes que estão construindo conexões neurais. Mas, para atletas de elite, cria um hábito perigoso: pensar na técnica durante a execução.
 
-<AdInArticle />
 
 **Exemplo do terreno:**
 
@@ -201,7 +199,6 @@ Os jogadores que fazem essa mudança — que adotam o treinamento mental como fo
 
 **A escolha é sua:** Continue treinando como um iniciante ou comece a treinar como um jogador de elite.
 
-<AdBanner />
 
 ---
 

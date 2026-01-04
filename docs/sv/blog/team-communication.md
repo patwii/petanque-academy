@@ -210,5 +210,5 @@ Ord är inte alltid nödvändiga. Samband är det.
 
 ---
 
-| *Relaterat: [Lagdynamik](/sv/education/team-player/) | [Kommunikation](/sv/education/team-player/kommunikation) | [Hantera press](/sv/education/mental-strength/hantera-press)* |
+| *Relaterat: [Lagdynamik](/sv/utbildning/lagspelare/) | [Kommunikation](/sv/utbildning/lagspelare/kommunikation) | [Hantera press](/sv/utbildning/mental-styrka/hantera-press)* |
 

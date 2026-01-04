@@ -1,6 +1,5 @@
 # Player Testimonials
 
-<AdBanner />
 
 Real feedback from elite pétanque players who have used Pétanque Academy resources to improve their mental game and competition performance.
 
@@ -40,7 +39,6 @@ These testimonials represent genuine feedback from players at various competitiv
 
 **— Club Coach, Germany**
 
-<AdInArticle />
 
 ---
 
@@ -118,7 +116,6 @@ These testimonials represent genuine feedback from players at various competitiv
 
 **— Sports Psychologist & Pétanque Coach, UK**
 
-<AdBanner />
 
 ---
 
@@ -171,5 +168,4 @@ Ready to develop your mental game?
 - **Want structure?** → [Goal Template](/en/goal-template)
 :::
 
-<AdBanner />
 

@@ -1,5 +1,4 @@
 # Mindfulness voor pétanque-spelers
-<AdBanner />
 
 
 Mindfulness is een van de krachtigste hulpmiddelen die sporters tot hun beschikking hebben. Het is niet mystiek of ingewikkeld – het is simpelweg de oefening om zonder oordeel aandacht te besteden aan het huidige moment.
@@ -80,7 +79,6 @@ Mindfulness helpt je om hiermee om te gaan.
 
 Het sleutelwoord is &quot;niet-oordelend&quot;.
 
-<AdInArticle />
 
 ::: danger Oordelend denken (voegt emotionele lading toe)
 ❌ &quot;Dat was een vreselijke worp&quot;
@@ -197,4 +195,3 @@ Consistentie is belangrijker dan duur. Dagelijkse oefening bouwt de vaardigheid 
 
 Je kunt niet voorkomen dat gedachten opkomen. Maar je kunt er wel voor kiezen om ze niet te volgen en er niet in mee te sleuren.
 
-<AdBanner />

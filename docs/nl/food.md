@@ -1,6 +1,5 @@
 # Voeding en voedingswaarde
 
-<AdBanner />
 
 ## Het stimuleren van precisieprestaties
 
@@ -79,7 +78,6 @@ Wees extra voorzichtig met:
 - ❌ Wit brood, gebak, snacks uit de automaat
 :::
 
-<AdInArticle />
 
 ## Snelgids voor de wedstrijddag
 

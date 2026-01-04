@@ -1,6 +1,5 @@
 # Notizie e aggiornamenti
 
-<AdBanner />
 
 ## Benvenuti alla Pétanque Academy
 
@@ -33,7 +32,6 @@ graph TD
     style D fill:#f3e5f5
 ```
 
-<AdInArticle />
 
 ## Cosa è disponibile ora
 
@@ -43,14 +41,14 @@ Abbiamo lanciato **8 moduli didattici completi** che coprono tutto, dagli stati 
 
 | Modulo | Cosa c&#39;è dentro | Caratteristiche principali |
 |--------|---------------|--------------|
-| **[La Zona](/it/education/the-zone/)** | Padronanza dello stato di flusso | 4 guide dettagliate su come inserire e mantenere il flusso |
-| **[Forza mentale](/it/education/mental-strength/)** | Gestione della pressione | Routine pre-tiro, gestione del critico interiore |
-| **[Mindfulness](/it/education/mindfulness/)** | Consapevolezza del momento presente | Pratiche quotidiane, tecniche di competizione |
-| **[Obiettivi](/it/education/goals/)** | Pianificazione strategica | Obiettivi SMART, gerarchia, sistemi di monitoraggio |
-| **[Tattiche](/it/education/tactics/)** | Strategia di gioco | Decisione, probabilità, posizionamento |
-| **[Giocatore di squadra](/it/education/giocatore-di-squadra/)** | capacità di collaborazione | Comunicazione, fiducia, dinamiche di squadra |
-| **[Formazione](/it/education/training/)** | Metodi di pratica | Esercizi, pratica deliberata, progressione |
-| **[Nutrizione](/it/education/nutrition/)** | Carburante ad alte prestazioni | Gestione della glicemia, nutrizione per la competizione |
+| **[La Zona](/it/educazione/la-zona/)** | Padronanza dello stato di flusso | 4 guide dettagliate su come inserire e mantenere il flusso |
+| **[Forza mentale](/it/educazione/forza-mentale/)** | Gestione della pressione | Routine pre-tiro, gestione del critico interiore |
+| **[Mindfulness](/it/educazione/mindfulness/)** | Consapevolezza del momento presente | Pratiche quotidiane, tecniche di competizione |
+| **[Obiettivi](/it/istruzione/obiettivi/)** | Pianificazione strategica | Obiettivi SMART, gerarchia, sistemi di monitoraggio |
+| **[Tattiche](/it/educazione/tattiche/)** | Strategia di gioco | Decisione, probabilità, posizionamento |
+| **[Giocatore di squadra](/it/istruzione/giocatore-di-squadra/)** | capacità di collaborazione | Comunicazione, fiducia, dinamiche di squadra |
+| **[Formazione](/it/istruzione/formazione/)** | Metodi di pratica | Esercizi, pratica deliberata, progressione |
+| **[Nutrizione](/it/educazione/nutrizione/)** | Carburante ad alte prestazioni | Gestione della glicemia, nutrizione per la competizione |
 
 ### 🛠️ Strumenti pratici
 
@@ -146,8 +144,8 @@ I giocatori d&#39;élite hanno già padroneggiato la tecnica. La prossima svolta
 
 **Approfondisci argomenti avanzati:**
 
-1. **[Forza mentale](/it/education/mental-strength/)** - Gestire le situazioni di pressione
-2. **[Tattiche](/it/education/tactics/)** - Affinare il processo decisionale strategico
+1. **[Forza mentale](/it/educazione/forza-mentale/)** - Gestire le situazioni di pressione
+2. **[Tattiche](/it/educazione/tattiche/)** - Affinare il processo decisionale strategico
 3. **[Workshop](/it/workshop)** - Implementare sessioni di gioco mentale strutturate
 
 ### Per i team
@@ -188,4 +186,3 @@ Tutto ciò che ti serve per portare il tuo gioco al livello successivo è già q
 **Benvenuti alla Pétanque Academy, dove i giocatori d&#39;élite diventano eccezionali.**
 :::
 
-<AdBanner />

@@ -162,5 +162,5 @@ Come ogni abilità, l&#39;accesso al flusso migliora con la pratica:
 
 ---
 
-| *Correlato: [La Zona](/it/education/the-zone/) | [Entrare nella zona](/it/education/the-zone/entrare-nella-zona) | [Tecniche di consapevolezza](/it/education/mindfulness/tecniche)* |
+| *Correlato: [La Zona](/it/educazione/la-zona/) | [Entrare nella zona](/it/istruzione/la-zona/entrare-nella-zona) | [Tecniche di consapevolezza](/it/educazione/consapevolezza/tecniche)* |
 

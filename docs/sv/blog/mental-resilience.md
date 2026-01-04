@@ -189,5 +189,5 @@ Motståndskraft är inte en egenskap du har eller inte har – det är en färdi
 
 ---
 
-| *Relaterat: [Mental styrka](/sv/education/mental-strength/) | [Hantera press](/sv/education/mental-strength/hantera-press) | [Zonen](/sv/education/the-zone/)* |
+| *Relaterat: [Mental styrka](/sv/utbildning/mental-styrka/) | [Hantera press](/sv/utbildning/mental-styrka/hantera-press) | [Zonen](/sv/utbildning/zonen/)* |
 

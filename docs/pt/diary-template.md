@@ -1,6 +1,5 @@
 # Modelo de Diário de Treinamento
 
-<AdBanner />
 
 ## Como usar este modelo
 
@@ -509,7 +508,6 @@ Simply select the template section you want, copy (Ctrl+C / Cmd+C), and paste in
 
 ---
 
-<AdBanner />
 
 **Melhor Momento:**
 
@@ -550,7 +548,6 @@ Simply select the template section you want, copy (Ctrl+C / Cmd+C), and paste in
 
 ---
 
-<AdInArticle />
 
 ## Weekly Summary Template
 

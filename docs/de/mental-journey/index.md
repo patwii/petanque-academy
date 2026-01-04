@@ -1,6 +1,5 @@
 # Mentale Reise für Anfänger
 
-<AdBanner />
 
 ## Willkommen auf deiner Reise zum mentalen Spiel
 
@@ -72,7 +71,6 @@ graph TD
 - Herunterladbare Materialien
 - Folgeaktivitäten
 
-<AdInArticle />
 
 ## Erste Schritte
 
@@ -200,7 +198,6 @@ Mentales Training ersetzt nicht das technische Training. Aber es hilft Ihnen, Ih
 - Beispiele finden Sie in den [Fallstudien](/en/case-studies).
 - Beteilige dich an Diskussionen in deinem Club.
 
-<AdBanner />
 
 ---
 

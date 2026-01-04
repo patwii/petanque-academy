@@ -1,5 +1,4 @@
 # Utbildning
-<AdBanner />
 
 Välkommen till Pétanque Academys utbildningsprogram. Det är här elitspelare lär sig att bemästra det mentala spelet.
 
@@ -50,31 +49,30 @@ graph TD
 
 ## Våra lärvägar
 
-### 🎯 [Zonen (Flödestillstånd)](/sv/education/the-zone/)
+### 🎯 [Zonen (Flödestillstånd)](/sv/utbildning/zonen/)
 Lär dig vad &quot;zonen&quot; egentligen är och hur du når den. Förstå vetenskapen bakom flödestillstånd och upptäck praktiska tekniker för att prestera ditt bästa när det gäller som mest.
 
-### 🧘 [Mindfulness](/sv/education/mindfulness/)
+### 🧘 [Mindfulness](/sv/utbildning/mindfulness/)
 Bemästra konsten att vara närvarande. Lär dig vetenskapligt bevisade tekniker för att lugna ditt sinne, förbättra fokus och återhämta dig snabbt från misstag.
 
-### 📊 [Målsättning](/sv/education/goals/)
+### 📊 [Målsättning](/sv/utbildning/mål/)
 Skapa en färdplan för din utveckling. Lär dig SMART-ramverket anpassat för boule och bygg en träningsplan som faktiskt fungerar.
 
-### 💪 [Mental styrka](/sv/education/mental-strength/)
+### 💪 [Mental styrka](/sv/utbildning/mental-styrka/)
 Bygg upp den mentala styrka som behövs för tävling. Lär dig att hantera press, övervinna ångest och utveckla rutiner som utlöser topprestationer.
 
-### 🤝 [Lagdynamik](/sv/education/team-player/)
+### 🤝 [Lagdynamik](/sv/utbildning/lagspelare/)
 Bli lagkamraten som alla vill spela med. Lär dig om kommunikation, förtroende och hur du bidrar till en vinnande lagkultur.
 
-### ♟️ [Taktik](/sv/education/tactics/)
+### ♟️ [Taktik](/sv/utbildning/taktik/)
 Tänk strategiskt i varje situation. Lär dig sannolikhetsbaserat beslutsfattande och när du ska ta risker.
 
-### 🏋️ [Träningsmetoder](/sv/education/training/)
+### 🏋️ [Träningsmetoder](/sv/utbildning/träning/)
 Träna smartare, inte bara hårdare. Lär dig hur du strukturerar din träning för maximal förbättring.
 
-### 🥗 [Näring](/sv/education/nutrition/)
+### 🥗 [Näring](/sv/utbildning/näring/)
 Ge din hjärna bränsle för precisionsprestationer. Lär dig hur du bibehåller stabil energi och fokus under hela tävlingen.
 
-<AdInArticle />
 
 ## Resan från teknik till flöde
 
@@ -153,7 +151,6 @@ Detta är din snabbreferensguide. Bokmärk det här avsnittet och återvänd til
 ## Börja din resa
 
 ::: tip Rekommenderad startpunkt
-Börja med [Zonen](/sv/education/the-zone/) för att förstå grunden för elitprestationer, utforska sedan [Mindfulness](/sv/education/mindfulness/) för praktiska tekniker som du kan använda omedelbart.
+Börja med [Zonen](/sv/utbildning/zonen/) för att förstå grunden för elitprestationer, utforska sedan [Mindfulness](/sv/utbildning/mindfulness/) för praktiska tekniker som du kan använda omedelbart.
 :::
 
-<AdBanner />

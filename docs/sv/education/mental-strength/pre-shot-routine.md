@@ -1,5 +1,4 @@
 # Bygga din rutin före fotografering
-<AdBanner />
 
 
 Din rutiner före skottet är ett av de kraftfullaste verktygen i ditt mentala spel. Det är en konsekvent sekvens av handlingar som förbereder dig för varje kast och utlöser ditt bästa prestationstillstånd.
@@ -79,7 +78,6 @@ Gör kastet:
 - Släpp utan tvekan
 - Följ upp naturligt
 
-<AdInArticle />
 
 ## Bygga din personliga rutin
 
@@ -188,4 +186,3 @@ Din rutin bör ta en jämn tid:
 
 Bygg det noggrant. Öva alltid. Lita helt och hållet på det.
 
-<AdBanner />

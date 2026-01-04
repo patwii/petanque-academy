@@ -1,6 +1,5 @@
 # Treningsleir: Helgeguide
 
-<AdBanner />
 
 ## Hvordan gjennomføre en helgetreningsleir for 10–20 spillere
 
@@ -144,7 +143,6 @@ graph TD
     style E fill:#e8f5e9
 ```
 
-<AdInArticle />
 
 
 ### Lørdag (Heldag - Teori + Praksis)
@@ -379,7 +377,6 @@ Ring opp:
 
 **19:00 - Middag og avreise**
 
-<AdInArticle />
 
 ## Tilretteleggingstips
 
@@ -580,5 +577,4 @@ Ring opp:
 - *Tankegang* av Carol Dweck
 - *Den fryktløse organisasjonen* av Amy Edmondson
 
-<AdBanner />
 

@@ -1,5 +1,4 @@
 # Fuerza mental
-<AdBanner />
 
 
 La fortaleza mental es lo que distingue a los jugadores que rinden bien en los entrenamientos de los que lo hacen cuando es crucial. Es la capacidad de manejar la presión, recuperarse de los contratiempos y mantener la concentración durante largas competiciones.
@@ -77,7 +76,6 @@ La confianza proviene de:
 
 ### 2. Domina tu diálogo interno
 
-<AdInArticle />
 
 La voz en tu cabeza importa enormemente.
 
@@ -155,8 +153,8 @@ graph LR
 
 ## En esta sección
 
-- **[Manejo de la presión](/es/education/fuerza-mental/manejo-de-la-presion)** - Técnicas para situaciones de alto riesgo
-- **[Rutina pre-disparo](/es/education/fuerza-mental/rutina-pre-disparo)** - Desarrolla tu disparador de rendimiento
+- **[Manejo de la presión](/es/educacion/fuerza-mental/manejo-de-la-presion)** - Técnicas para situaciones de alto riesgo
+- **[Rutina pre-disparo](/es/educacion/fuerza-mental/rutina-pre-disparo)** - Desarrolla tu disparador de rendimiento
 
 ## Resumen: Reglas de fortaleza mental
 
@@ -191,4 +189,3 @@ No analices demasiado entre lanzamientos. Conserva la energía mental para la ej
 
 No puedes controlar lo que sucede. Puedes controlar cómo respondes.
 
-<AdBanner />

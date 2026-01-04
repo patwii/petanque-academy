@@ -159,5 +159,5 @@ Det mentale spillet kan trenes. Tren det riktig.
 
 ---
 
-| *Relatert: [Mental styrke](/no/utdanning/mental-styrke/) | [Opplæringsmetoder](/no/utdanning/training/) | [Mindfulness](/no/utdanning/mindfulness/)* |
+| *Relatert: [Mental styrke](/no/utdanning/mental-styrke/) | [Opplæringsmetoder](/no/utdanning/opplæring/) | [Mindfulness](/no/utdanning/mindfulness/)* |
 

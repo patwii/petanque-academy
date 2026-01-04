@@ -1,6 +1,5 @@
 # Campo de Treinamento: Guia de Fim de Semana
 
-<AdBanner />
 
 Como organizar um campo de treinamento de fim de semana para 10 a 20 jogadores
 
@@ -144,7 +143,6 @@ graph TD
     style E fill:#e8f5e9
 ```
 
-<AdInArticle />
 
 
 ### Sábado (Dia inteiro - Teoria + Prática)
@@ -379,7 +377,6 @@ Formem um círculo:
 
 **19:00 - Jantar e Partida**
 
-<AdInArticle />
 
 ## Dicas de Facilitação
 
@@ -580,5 +577,4 @@ Você recomendaria para outras pessoas?
 - *Mentalidade* por Carol Dweck
 - *A Organização Destemida* por Amy Edmondson
 
-<AdBanner />
 

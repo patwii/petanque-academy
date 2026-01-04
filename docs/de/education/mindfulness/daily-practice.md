@@ -1,5 +1,4 @@
 # Aufbau einer täglichen Achtsamkeitspraxis
-<AdBanner />
 
 
 Die Vorteile von Achtsamkeit ergeben sich aus regelmäßiger Übung. So integrieren Sie sie in Ihr Leben.
@@ -81,7 +80,6 @@ Man braucht keinen Meditationsraum, aber ein regelmäßiger Platz ist hilfreich:
 
 ### Schritt 4: Hindernisse beseitigen
 
-<AdInArticle />
 
 Das Üben soll leicht gemacht werden:
 - Schalte dein Telefon stumm.
@@ -199,4 +197,3 @@ Achtsamkeit ist eine lebenslange Übung. Spitzensportler sagen oft, es sei die w
 
 Fang heute an. Fang klein an. Mach weiter.
 
-<AdBanner />

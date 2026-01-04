@@ -1,6 +1,5 @@
 # Guide de la séance : Introduction au jeu mental (2-3 heures)
 
-<AdBanner />
 
 ## Aperçu
 
@@ -100,7 +99,6 @@ Vous recevrez :
 - Liens vers des modules de formation détaillés
 - Modèle d&#39;objectif pour le développement mental dans le jeu
 
-<AdInArticle />
 
 ---
 
@@ -416,7 +414,6 @@ Partagez des exemples.
 - Qu&#39;est-ce qui vous a surpris ?
 - Qu&#39;avez-vous appris ?
 
-<AdBanner />
 
 ---
 

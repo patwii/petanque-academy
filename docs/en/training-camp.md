@@ -1,6 +1,5 @@
 # Training Camp: Weekend Mental Game Intensive
 
-<AdBanner />
 
 ## Overview
 
@@ -177,7 +176,6 @@ All participants agree to:
 - 16:00 - Closing circle
 - 17:00 - Departure
 
-<AdInArticle />
 
 ---
 
@@ -307,7 +305,6 @@ graph TD
     style E fill:#e8f5e9
 ```
 
-<AdInArticle />
 
 
 ### Saturday (Full Day - Theory + Practice)
@@ -542,7 +539,6 @@ Circle up:
 
 **19:00 - Dinner & Departure**
 
-<AdInArticle />
 
 ## Facilitation Tips
 
@@ -743,5 +739,4 @@ Circle up:
 - *Mindset* by Carol Dweck
 - *The Fearless Organization* by Amy Edmondson
 
-<AdBanner />
 

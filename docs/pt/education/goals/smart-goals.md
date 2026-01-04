@@ -1,5 +1,4 @@
 # Metas SMART para Petanca
-<AdBanner />
 
 
 A metodologia SMART transforma desejos vagos em objetivos concretos. Vamos analisar cada elemento em detalhes, com exemplos específicos para a petanca.
@@ -80,7 +79,6 @@ Os objetivos devem te desafiar sem serem impossíveis.
 **Muito fácil:** &quot;Pratique uma vez este mês&quot;
 - Sem crescimento, sem motivação.
 
-<AdInArticle />
 
 **Muito difícil:** &quot;Nunca erre um arremesso&quot;
 - Impossível leva à frustração.
@@ -193,4 +191,3 @@ _________________________________
 
 Dedique tempo para elaborar seus objetivos com cuidado. Um objetivo bem definido é metade do caminho percorrido.
 
-<AdBanner />

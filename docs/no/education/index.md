@@ -1,5 +1,4 @@
 # Utdannelse
-<AdBanner />
 
 Velkommen til Pétanque Academys utdanningsprogram. Det er her elitespillere lærer å mestre det mentale spillet.
 
@@ -56,7 +55,7 @@ Lær hva «sonen» egentlig er og hvordan du får tilgang til den. Forstå viten
 ### 🧘 [Mindfulness](/no/utdanning/mindfulness/)
 Mestre kunsten å være til stede. Lær vitenskapelig beviste teknikker for å roe ned sinnet, forbedre fokus og komme deg raskt etter feil.
 
-### 📊 [Målsetting](/no/utdanning/goals/)
+### 📊 [Målsetting](/no/utdanning/mål/)
 Lag en plan for utviklingen din. Lær SMART-rammeverket tilpasset petanque og bygg en treningsplan som faktisk fungerer.
 
 ### 💪 [Mental styrke](/no/utdanning/mental-styrke/)
@@ -65,16 +64,15 @@ Bygg den mentale styrke som trengs for konkurranser. Lær å håndtere press, ov
 ### 🤝 [Lagdynamikk](/no/utdanning/lagspiller/)
 Bli lagkameraten alle vil spille med. Lær om kommunikasjon, tillit og hvordan du kan bidra til en vinnende lagkultur.
 
-### ♟️ [Taktikk](/no/utdanning/tactics/)
+### ♟️ [Taktikk](/no/utdanning/taktikk/)
 Tenk strategisk om enhver situasjon. Lær sannsynlighetsbasert beslutningstaking og når du skal ta risikoer.
 
-### 🏋️ [Opplæringsmetoder](/no/utdanning/training/)
+### 🏋️ [Opplæringsmetoder](/no/utdanning/opplæring/)
 Tren smartere, ikke bare hardere. Lær hvordan du strukturerer treningen din for maksimal forbedring.
 
-### 🥗 [Ernæring](/no/utdanning/nutrition/)
+### 🥗 [Ernæring](/no/utdanning/ernæring/)
 Gi hjernen din drivstoff for presisjonsytelser. Lær hvordan du opprettholder stabil energi og fokus gjennom hele konkurransen.
 
-<AdInArticle />
 
 ## Reisen fra teknikk til flyt
 
@@ -156,4 +154,3 @@ Dette er din hurtigreferanseguide. Bokmerk denne delen og kom tilbake til den re
 Begynn med [Sonen](/no/utdanning/sonen/) for å forstå grunnlaget for eliteprestasjoner, og utforsk deretter [Mindfulness](/no/utdanning/mindfulness/) for praktiske teknikker du kan bruke umiddelbart.
 :::
 
-<AdBanner />

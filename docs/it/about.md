@@ -1,6 +1,5 @@
 # Informazioni sulla Pétanque Academy
 
-<AdBanner />
 
 ## La passione per la boccia
 
@@ -40,7 +39,6 @@ Questo sito esiste per cambiare le cose. Ogni contenuto è progettato per essere
 
 ---
 
-<AdInArticle />
 
 ## Contattaci
 
@@ -149,7 +147,6 @@ Insieme possiamo elevare il gioco mentale della pétanque in tutto il mondo.
 
 ---
 
-<AdBanner />
 
 **Grazie per aver fatto parte della Pétanque Academy!**
 

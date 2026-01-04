@@ -210,5 +210,5 @@ La chimica non è statica, richiede manutenzione:
 
 ---
 
-| *Correlato: [Dinamiche di squadra](/it/education/team-player/) | [Comunicazione](/it/education/giocatore-di-squadra/comunicazione) | [Leadership nel gioco delle bocce](/it/blog/team-leadership)* |
+| *Correlato: [Dinamiche di squadra](/it/education/team-player/) | [Comunicazione](/it/istruzione/giocatore-di-squadra/comunicazione) | [Leadership nel gioco delle bocce](/it/blog/team-leadership)* |
 

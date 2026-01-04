@@ -1,5 +1,4 @@
 # Essere un grande giocatore di squadra
-<AdBanner />
 
 
 La boccia si gioca spesso a squadre: in doppio (doublettes) o in triplo (triplettes). Le abilità individuali contano, ma le dinamiche di squadra possono fare la differenza. Le squadre migliori non sono sempre quelle più abili: sono quelle che lavorano meglio insieme.
@@ -78,7 +77,6 @@ La comunicazione è la linfa vitale delle prestazioni di squadra.
 - Bidirezionale (parlare E ascoltare)
 - Tempestivo (informazioni giuste al momento giusto)
 
-<AdInArticle />
 
 **Durante le partite:**
 - Discutere la strategia prima di ogni fine
@@ -192,4 +190,3 @@ I grandi team sviluppano in modo condiviso:
 
 Investi nei tuoi compagni di squadra. Costruisci fiducia. Comunica bene. Vinci insieme.
 
-<AdBanner />

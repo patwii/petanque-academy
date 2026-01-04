@@ -1,6 +1,5 @@
 # Workshop: Advanced Mental Game Session (3-4 Hours)
 
-<AdBanner />
 
 ## Overview
 
@@ -138,7 +137,6 @@ You'll leave with:
 After deep sharing, you might feel exposed or regretful. This is normal. The facilitator will check in with you within 24 hours. Remember: what you shared helped everyone.
 :::
 
-<AdInArticle />
 
 ---
 
@@ -309,7 +307,6 @@ This links mental load to physical tension (the bibber/yips).
 - Impostor syndrome
 :::
 
-<AdInArticle />
 
 
 ### Phase 2: Deep Work (90 minutes)
@@ -484,7 +481,6 @@ Deep work causes a "vulnerability hangover" - regret or shame about sharing.
 **Closing Script:**
 > "What happened here today took courage. You showed up, you opened up, you trusted the process. That same courage is what you'll bring to the piste. Remember: the lessons leave this room, but the stories stay. Thank you."
 
-<AdInArticle />
 
 ## Handling Resistance
 
@@ -584,5 +580,4 @@ This workshop is Phase 1. Consider:
 - **Individual check-ins** (for players who need more support)
 :::
 
-<AdBanner />
 

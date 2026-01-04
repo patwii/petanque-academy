@@ -132,5 +132,5 @@ Lika viktigt är vad du gör efter ett kast:
 
 ---
 
-| *Relaterat: [Guide till rutiner före skotttagning](/sv/education/mental-strength/rutin-före-skotttagning) | [Hantera press](/sv/education/mental-strength/hantera-press) | [Mindfulnesstekniker](/sv/education/mindfulness/tekniker)* |
+| *Relaterat: [Guide till rutiner före skotttagning](/sv/utbildning/mental-styrka/rutin-före-skotttagning) | [Hantera press](/sv/utbildning/mental-styrka/hantera-press) | [Mindfulnesstekniker](/sv/utbildning/mindfulness/tekniker)* |
 

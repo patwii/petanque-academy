@@ -1,5 +1,4 @@
 # Esercizi di allenamento
-<AdBanner />
 
 
 Ecco alcuni esercizi collaudati e utilizzati dai giocatori d&#39;élite. Ogni esercizio ha uno scopo specifico: scegli in base a ciò che vuoi sviluppare.
@@ -104,7 +103,6 @@ graph TD
 - Versione cronometrata: Quanto lontano puoi arrivare in 10 minuti?
 - Versione di squadra: alternarsi con il partner
 
-<AdInArticle />
 
 ### La barriera (Blox)
 **Scopo:** Forzare il tiro ad arco alto
@@ -255,4 +253,3 @@ Tieni un registro per ogni esercitazione:
 
 Non limitarti a lanciare bocce. Allenati con uno scopo.
 
-<AdBanner />

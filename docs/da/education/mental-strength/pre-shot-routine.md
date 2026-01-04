@@ -1,5 +1,4 @@
 # Opbygning af din rutine før optagelserne
-<AdBanner />
 
 
 Din rutine før kast er et af de mest kraftfulde værktøjer i dit mentale spil. Det er en konsekvent rækkefølge af handlinger, der forbereder dig til hvert kast og udløser din bedste præstationstilstand.
@@ -79,7 +78,6 @@ Lav kastet:
 - Slip uden tøven
 - Følg op naturligt
 
-<AdInArticle />
 
 ## Opbygning af din personlige rutine
 
@@ -188,4 +186,3 @@ Din rutine bør tage en ensartet mængde tid:
 
 Byg det omhyggeligt. Øv det altid. Stol fuldt og fast på det.
 
-<AdBanner />

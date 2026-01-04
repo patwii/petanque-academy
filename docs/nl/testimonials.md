@@ -1,6 +1,5 @@
 # Getuigenissen van spelers
 
-<AdBanner />
 
 Echte feedback van top-pétanquespelers die de middelen van Pétanque Academy hebben gebruikt om hun mentale spel en wedstrijdprestaties te verbeteren.
 
@@ -40,7 +39,6 @@ Deze getuigenissen vertegenwoordigen authentieke feedback van spelers op verschi
 
 **— Clubtrainer, Duitsland**
 
-<AdInArticle />
 
 ---
 
@@ -118,7 +116,6 @@ Deze getuigenissen vertegenwoordigen authentieke feedback van spelers op verschi
 
 **— Sportpsycholoog en jeu de boules-coach, VK**
 
-<AdBanner />
 
 ---
 
@@ -171,5 +168,4 @@ Ben je klaar om je mentale vaardigheden te verbeteren?
 - **Wilt u structuur?** → [Doelsjabloon](/en/goal-template)
 :::
 
-<AdBanner />
 

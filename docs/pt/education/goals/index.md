@@ -1,5 +1,4 @@
 # Definição de metas para jogadores de petanca
-<AdBanner />
 
 
 Metas claras são a sua bússola. Elas dão direção ao seu treinamento, motivação quando as coisas ficam difíceis e uma maneira de medir o progresso. Sem metas, você está apenas jogando bolinhas. Com metas, você está construindo algo.
@@ -74,7 +73,6 @@ Todo objetivo deve ser:
 - ✅ **Com prazo definido - Possui uma data limite
 :::
 
-<AdInArticle />
 
 ### S - Específico
 ❌ &quot;Aprimore suas habilidades de tiro&quot;
@@ -174,4 +172,3 @@ Quando a motivação diminui, o seu &quot;porquê&quot; é o que te mantém firm
 
 Defina metas claras. Divida-as em etapas menores. Concentre-se no que você controla. Acompanhe seu progresso.
 
-<AdBanner />

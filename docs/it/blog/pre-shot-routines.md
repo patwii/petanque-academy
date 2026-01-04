@@ -132,5 +132,5 @@ Altrettanto importante è ciò che fai dopo un lancio:
 
 ---
 
-| *Correlato: [Guida alla routine pre-tiro](/it/education/mental-strength/routine-pre-tiro) | [Gestire la pressione](/it/education/mental-strength/gestire-la-pressione) | [Tecniche di consapevolezza](/it/education/mindfulness/tecniche)* |
+| *Correlato: [Guida alla routine pre-tiro](/it/istruzione/forza-mentale/routine-pre-tiro) | [Gestire la pressione](/it/educazione/forza-mentale/gestire-la-pressione) | [Tecniche di consapevolezza](/it/educazione/consapevolezza/tecniche)* |
 

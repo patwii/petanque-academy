@@ -1,5 +1,4 @@
 # Comunicazione di squadra
-<AdBanner />
 
 
 Una comunicazione efficace è ciò che trasforma un gruppo di individui in una squadra. Nel gioco delle bocce, dove la strategia cambia costantemente e la pressione è alta, il modo in cui si comunica può determinare il risultato.
@@ -95,7 +94,6 @@ La comunicazione è bidirezionale:
 - Riconosci ciò che hai sentito
 - Non interrompere o ignorare
 
-<AdInArticle />
 
 ## Sfide di comunicazione
 
@@ -222,4 +220,3 @@ Se il tuo team ha un leader designato:
 
 Esercitati a comunicare come ti eserciti a lanciare. È un&#39;abilità che migliora con l&#39;attenzione.
 
-<AdBanner />

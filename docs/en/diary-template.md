@@ -1,6 +1,5 @@
 # Training Diary Template
 
-<AdBanner />
 
 ## How to Use This Template
 
@@ -522,7 +521,6 @@ Simply select the template section you want, copy (Ctrl+C / Cmd+C), and paste in
 
 ---
 
-<AdBanner />
 
 **Best Moment:**
 
@@ -563,7 +561,6 @@ Simply select the template section you want, copy (Ctrl+C / Cmd+C), and paste in
 
 ---
 
-<AdInArticle />
 
 ## Weekly Summary Template
 

@@ -1,5 +1,4 @@
 # Desarrollar una práctica diaria de atención plena
-<AdBanner />
 
 
 Los beneficios de la atención plena se obtienen con la práctica constante. Aquí te explicamos cómo incorporarla a tu vida.
@@ -81,7 +80,6 @@ No necesitas una sala de meditación, pero tener un lugar fijo ayuda:
 
 ### Paso 4: Eliminar las barreras
 
-<AdInArticle />
 
 Haz que sea fácil de practicar:
 - Pon tu teléfono en silencio
@@ -199,4 +197,3 @@ La atención plena es una práctica que dura toda la vida. Los atletas de élite
 
 Empieza hoy. Empieza poco a poco. Sigue adelante.
 
-<AdBanner />

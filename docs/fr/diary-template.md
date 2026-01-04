@@ -1,6 +1,5 @@
 # Modèle de journal d&#39;entraînement
 
-<AdBanner />
 
 ## Comment utiliser ce modèle
 
@@ -509,7 +508,6 @@ Simply select the template section you want, copy (Ctrl+C / Cmd+C), and paste in
 
 ---
 
-<AdBanner />
 
 **Meilleur moment :**
 
@@ -550,7 +548,6 @@ Simply select the template section you want, copy (Ctrl+C / Cmd+C), and paste in
 
 ---
 
-<AdInArticle />
 
 ## Weekly Summary Template
 

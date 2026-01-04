@@ -1,5 +1,4 @@
 # Technische Beratung
-<AdBanner />
 
 
 ## Eine Anmerkung zur Technik
@@ -31,7 +30,6 @@ graph TD
 
 ## Der häufigste Fehler in der technischen Ausbildung
 
-<AdInArticle />
 
 ::: info Dieser Abschnitt ist für erfahrene Spieler.
 Wenn Sie neu im Pétanque sind, müssen Sie Ihre Grundtechnik natürlich von Grund auf entwickeln – und das ist eine ganz andere Sache.
@@ -59,9 +57,9 @@ Ein reales Ergebnis sieht folgendermaßen aus:
 Wir sagen nicht, dass du nie an deinem Arm, Handgelenk, deiner Bewegungsausführung oder deiner Körperhaltung arbeiten solltest. **Technisches Training zur Ausführung ist absolut sinnvoll** – aber es muss dem richtigen Zweck dienen.
 
 ::: info Der richtige Zweck technischer Arbeiten
-**Korrekte Absicht:** „Ich möchte meiner Farbpalette eine neue Decke hinzufügen.“
+**Korrekte Absicht:** "Ich möchte einen neuen Wurf zu meinem Repertoire hinzufügen"
 
-**Falsches Ziel:** „Ich möchte mehr Schläge treffen“ oder „Ich möchte konstanter sein“
+**Falsches Ziel:** "Ich möchte mehr Würfe treffen" oder "Ich möchte konstanter sein"
 :::
 
 So funktioniert es:
@@ -82,20 +80,53 @@ Dieser Ansatz gibt Ihrer technischen Ausbildung **klare Richtung und messbare Fo
 **Erfolgsmessung:** Können Sie diesen Wurf ausführen, wann immer Sie es wünschen? Das ist das Ziel.
 :::
 
-## Warum „mehr Treffer erzielen“ das falsche Ziel ist
+## Bessere Schüsse vs. Mehr Schüsse: Den Unterschied verstehen
 
-Wenn Sie Ihre Technik anpassen, um „häufiger zu treffen“ oder „konstanter zu sein“, gehen Sie wahrscheinlich das falsche Problem an.
+Es gibt einen entscheidenden Unterschied, den viele Spieler übersehen:
 
-**Hier ist die Wahrheit:** Wenn du im Training gut schlägst, im Wettkampf aber Probleme hast, liegt es nicht an deiner Technik – sondern an deiner mentalen Einstellung. Dein Arm weiß, was zu tun ist. Die Frage ist, ob dein Kopf es zulässt.
+::: tip Die wichtigste Erkenntnis
+**Wenn du bessere Fotos machen willst** → Arbeite an deiner Technik.
 
-::: tip Die mentale Verbindung
-Inkonstanz unter Druck ist selten ein technisches Problem – es ist ein mentales.
-
-**Für Beständigkeit und Leistungsfähigkeit unter Druck besuchen Sie unseren Bereich [Bildung](/en/education/)**, insbesondere:
-- [Die Zone](/en/education/the-zone/) — Bedingungen für Höchstleistungen schaffen
-- Mentale Stärke – Leistung bringen, wenn es darauf ankommt
-- [Technik vs. Flow](/en/education/the-zone/technical-vs-flow) — Wann sollte man sich auf Technik und wann auf Vertrauen konzentrieren?
+**Wenn du mehr Würfe treffen willst** → Arbeite an deiner mentalen Stärke.
 :::
+
+### Was bedeutet das?
+
+**Bessere Aufnahmen zu machen** bedeutet, sein technisches Repertoire zu erweitern:
+- Hinzufügen neuer Wurfarten (Plombée, Portée, Demi-Portée)
+- Verbesserung der Präzision bei bestimmten Schussarten
+- Neue Fähigkeiten entwickeln, die Sie derzeit noch nicht besitzen
+- **Dies erfordert technisches Können und körperliches Training.**
+
+**Mehr Würfe zu verwandeln** bedeutet, das umzusetzen, was man bereits kann:
+- Die Schläge ausführen, die man im Training bereits schafft
+- Konstante Leistung unter Druck
+- Vertraue deiner Technik, wenn es darauf ankommt
+- **Dies erfordert mentales Training und den Zugang zum Flow-Zustand.**
+
+### Der Realitätscheck
+
+Fragen Sie sich ehrlich:
+- Gelingt dir der Wurf im Training, wenn du entspannt bist? ✅ **Dann beherrschst du die Technik.**
+- Fällt es dir schwer, im Wettkampf mitzuhalten? ⚠️ **Dann brauchst du mentales Training, nicht mehr technische Übungen.**
+
+::: warning Häufiger Fehler
+Viele erfahrene Spieler verbringen Jahre damit, ihre bereits vorhandene Technik zu verfeinern, dabei müssten sie eigentlich die mentale Stärke entwickeln, diese Technik auch unter Druck umzusetzen.
+
+**Du brauchst keinen besseren Armschwung. Du brauchst einen ruhigeren Geist.**
+:::
+
+### Der Weg nach vorn
+
+**Für bessere Aufnahmen (neue Funktionen):**
+- Entdecke die [Wurfpalette](/en/technical/throws)
+- Wähle einen bestimmten neuen Wurf aus, den du entwickeln möchtest
+- Üben Sie die technische Ausführung
+
+**Für mehr Schüsse (Konstanz unter Druck):**
+- Arbeit an [Mental Strength](/en/education/mental-strength/)
+- Lerne, wie du auf [The Zone](/en/education/the-zone/) zugreifst
+- Entwickle [Pre-Shot-Routinen](/en/education/mental-strength/pre-shot-routine)
 
 ## Unsere Sichtweise
 
@@ -138,4 +169,3 @@ Sobald man über eine solide Technik verfügt, kommt das eigentliche Wachstum vo
 - **[Trainingsmethoden](/en/education/training/)** – Wie man effektiv übt
 :::
 
-<AdBanner />

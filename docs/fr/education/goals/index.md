@@ -1,5 +1,4 @@
 # Fixer des objectifs aux joueurs de pétanque
-<AdBanner />
 
 
 Des objectifs clairs sont votre boussole. Ils orientent votre entraînement, vous motivent dans les moments difficiles et vous permettent de mesurer vos progrès. Sans objectifs, vous naviguez à vue d&#39;œil. Avec des objectifs, vous construisez un but.
@@ -74,7 +73,6 @@ Chaque objectif devrait être :
 - ✅ **À durée déterminée** - A une date limite
 :::
 
-<AdInArticle />
 
 ### S - Spécifique
 ❌ &quot;Améliorez votre tir&quot;
@@ -174,4 +172,3 @@ Lorsque la motivation faiblit, votre « pourquoi » vous permet de continuer.
 
 Fixez-vous des objectifs clairs. Décomposez-les. Concentrez-vous sur ce que vous pouvez contrôler. Suivez vos progrès.
 
-<AdBanner />

@@ -1,6 +1,5 @@
 # Träningspass: Tävlingsövningsguide
 
-<AdBanner />
 
 ## Hur fyra spelare kan träna tillsammans regelbundet
 
@@ -99,7 +98,6 @@ graph LR
 | **Tävlingsrunda 3** | Singel eller utmaning | 45 min |
 | **Reflektion** | Djupgående debriefing och planering | 30 min |
 
-<AdInArticle />
 
 ## Startprotokoll (15–20 minuter)
 
@@ -312,7 +310,6 @@ Full circle:
 - Confirm next session date/time
 - One-word check-out: "How are you leaving?"
 
-<AdInArticle />
 
 ## User Manual Integration
 
@@ -672,5 +669,4 @@ After each session, record:
 **The result:** You don't just get better at pétanque. You become a more complete competitor.
 :::
 
-<AdBanner />
 

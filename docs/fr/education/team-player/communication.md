@@ -1,5 +1,4 @@
 # Communication d&#39;équipe
-<AdBanner />
 
 
 Une communication efficace transforme un groupe d&#39;individus en une équipe. À la pétanque, où la stratégie évolue constamment et où la pression est forte, la qualité de votre communication peut déterminer l&#39;issue du jeu.
@@ -95,7 +94,6 @@ La communication est bidirectionnelle :
 - Accusez réception de ce que vous avez entendu
 - N&#39;interrompez pas et ne rejetez pas
 
-<AdInArticle />
 
 ## Défis de communication
 
@@ -222,4 +220,3 @@ Si votre équipe a un chef désigné :
 
 Entraînez-vous à communiquer comme vous vous entraînez à lancer des balles. C&#39;est une compétence qui s&#39;améliore avec l&#39;attention.
 
-<AdBanner />

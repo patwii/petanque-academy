@@ -1,5 +1,4 @@
 # Træningsøvelser
-<AdBanner />
 
 
 Her er gennemprøvede øvelser, der bruges af elitespillere. Hver øvelse har et specifikt formål - vælg ud fra, hvad du har brug for at udvikle.
@@ -104,7 +103,6 @@ graph TD
 - Tidsbestemt version: Hvor langt kan du komme på 10 minutter?
 - Holdversion: Skift med partner
 
-<AdInArticle />
 
 ### Barrieren (Blox)
 **Formål:** Tving høj bueoptagelse
@@ -255,4 +253,3 @@ Hold en logbog for hver øvelse:
 
 Kast ikke bare boules. Træn med et formål.
 
-<AdBanner />

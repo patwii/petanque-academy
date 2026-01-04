@@ -1,5 +1,4 @@
 # Técnicas de atenção plena
-<AdBanner />
 
 
 Aqui estão algumas técnicas práticas que você pode usar para desenvolver a atenção plena. Comece com uma ou duas e vá adicionando outras aos poucos.
@@ -82,7 +81,6 @@ Atenção plena em movimento - ótima preparação para a pista.
 
 ## Práticas informais
 
-<AdInArticle />
 
 Essas práticas integram a atenção plena às atividades diárias.
 
@@ -203,4 +201,3 @@ Cada gatilho = uma respiração consciente.
 
 Comece devagar. Seja consistente. Os benefícios se acumulam com o tempo.
 
-<AdBanner />

@@ -1,6 +1,5 @@
 # Skabelon til træningsdagbog
 
-<AdBanner />
 
 ## Sådan bruger du denne skabelon
 
@@ -509,7 +508,6 @@ Simply select the template section you want, copy (Ctrl+C / Cmd+C), and paste in
 
 ---
 
-<AdBanner />
 
 **Bedste øjeblik:**
 
@@ -550,7 +548,6 @@ Simply select the template section you want, copy (Ctrl+C / Cmd+C), and paste in
 
 ---
 
-<AdInArticle />
 
 ## Weekly Summary Template
 

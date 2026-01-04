@@ -1,5 +1,4 @@
 # Indtræden i zonen: Praktiske teknikker
-<AdBanner />
 
 
 Zonen er ikke noget, der bare sker for dig. Med øvelse kan du lære at bruge den mere regelmæssigt. Her er gennemprøvede teknikker, der bruges af eliteatleter.
@@ -113,7 +112,6 @@ Din rutine bliver en &quot;mindfulness-klokke&quot; - et signal, der ændrer din
 Brug din rutine på HVERT kast under træning - ikke kun i konkurrencer. Rutinen skal blive automatisk.
 :::
 
-<AdInArticle />
 
 ## Teknik 2: Eksternt fokus
 
@@ -280,4 +278,3 @@ Disse teknikker virker kun, hvis du øver dig i dem:
 Start med din rutine før indsprøjtning. Gør den konsekvent. Stol på den. Zonen vil følge.
 :::
 
-<AdBanner />

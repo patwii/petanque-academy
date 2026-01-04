@@ -1,5 +1,4 @@
 # Palette di lanci
-<AdBanner />
 
 
 ## Il repertorio tecnico completo
@@ -75,7 +74,6 @@ graph LR
 | **Mezzo giro** | Backspin moderato, rollio controllato | Il più versatile, prevedibile |
 | **Nessuna rotazione** | Rotolamento neutro e naturale all&#39;atterraggio | Lascia che sia il terreno a dettare il rollio |
 
-<AdInArticle />
 
 ## Tecniche di tiro
 
@@ -172,8 +170,7 @@ Concentrarsi su:
 ::: info Prossimi passi
 Una volta acquisita una tecnica solida, la vera crescita deriva da:
 - **[The Zone](/it/education/the-zone/)** - Accesso coerente agli stati di flusso
-- **[Metodi di allenamento](/it/education/training/)** - Come esercitarsi in modo efficace
-- **[Forza mentale](/it/education/mental-strength/)** - Rendimento sotto pressione
+- **[Metodi di allenamento](/it/educazione/formazione/)** - Come esercitarsi in modo efficace
+- **[Forza mentale](/it/educazione/forza-mentale/)** - Rendimento sotto pressione
 :::
 
-<AdBanner />

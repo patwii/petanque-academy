@@ -1,6 +1,5 @@
 # Spilleruttalelser
 
-<AdBanner />
 
 Ekte tilbakemeldinger fra elite-petanquespillere som har brukt ressursene til Pétanque Academy for å forbedre sitt mentale spill og konkurranseprestasjoner.
 
@@ -40,7 +39,6 @@ Disse attestene representerer ekte tilbakemeldinger fra spillere på ulike konku
 
 **— Klubbtrener, Tyskland**
 
-<AdInArticle />
 
 ---
 
@@ -118,7 +116,6 @@ Disse attestene representerer ekte tilbakemeldinger fra spillere på ulike konku
 
 **— Sportspsykolog og petanquetrener, Storbritannia**
 
-<AdBanner />
 
 ---
 
@@ -171,5 +168,4 @@ Klar til å utvikle ditt mentale spill?
 - **Ønsker du struktur?** → [Målmal](/no/målmal)
 :::
 
-<AdBanner />
 

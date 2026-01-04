@@ -1,5 +1,4 @@
 # La Zona: Entendiendo el Estado de Flujo
-<AdBanner />
 
 
 ¿Alguna vez has jugado un partido donde todo encajaba a la perfección? ¿Donde no te fijaste en tu técnica y cada bola cayó justo donde querías? Esa es la zona, y aprender a acceder a ella de forma constante es lo que distingue a los jugadores de élite del resto.
@@ -63,7 +62,6 @@ Tu cerebro funciona en dos modos diferentes:
 | **Enfocar** | Interna (mecánica corporal) | Externo (objetivo) |
 | **Sentimiento** | Esforzado, consciente | Sin esfuerzo, natural |
 
-<AdInArticle />
 
 La habilidad clave es aprender a **cambiar** entre estos modos en el momento adecuado.
 
@@ -118,7 +116,7 @@ La solución no es pensar *menos*; es pensar en las **cosas correctas** en el **
 Aprende a dominar la zona:
 
 - **[Entrenamiento Técnico vs. Flow](/es/education/the-zone/technical-vs-flow)** - Entender cuándo enfocarse en la técnica y cuándo dejarse llevar
-- **[Entrando a la Zona](/es/education/the-zone/entrando-a-la-zona)** - Técnicas prácticas para acceder al estado de flujo
+- **[Entrando a la Zona](/es/educacion/la-zona/entrando-a-la-zona)** - Técnicas prácticas para acceder al estado de flujo
 
 ## Resumen: Las reglas de la zona
 
@@ -144,4 +142,3 @@ Confía en tu entrenamiento. Céntrate en el objetivo, no en tu técnica.
 
 Tu técnica es la base. La zona es donde esa base se convierte en arte.
 
-<AdBanner />

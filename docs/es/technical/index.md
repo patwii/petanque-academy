@@ -1,5 +1,4 @@
 # Asesoramiento técnico
-<AdBanner />
 
 
 ## Una nota sobre la técnica
@@ -31,7 +30,6 @@ graph TD
 
 ## El error más común en la formación técnica
 
-<AdInArticle />
 
 ::: info Esta sección es para jugadores experimentados
 Si eres nuevo en la petanca, naturalmente necesitarás desarrollar tu técnica básica desde cero, y ese es un viaje diferente.
@@ -59,9 +57,9 @@ Un resultado real se ve así:
 No decimos que nunca debas trabajar el brazo, la muñeca, la liberación ni la posición corporal. **El trabajo técnico de ejecución es absolutamente válido**, pero debe tener el propósito correcto.
 
 ::: info El propósito correcto para el trabajo técnico
-**Propósito correcto:** &quot;Quiero agregar un nuevo diseño a mi paleta&quot;
+**Propósito correcto:** "Quiero agregar un nuevo lanzamiento a mi repertorio"
 
-**Propósito equivocado:** &quot;Quiero pegar más tiros&quot; o &quot;Quiero ser más consistente&quot;
+**Propósito equivocado:** "Quiero acertar más tiros" o "Quiero ser más consistente"
 :::
 
 Aquí está el proceso:
@@ -82,20 +80,53 @@ Este enfoque le da a tu formación técnica **una dirección clara y un progreso
 **Medida de éxito:** ¿Puedes ejecutar este lanzamiento cuando lo desees? Ese es el objetivo.
 :::
 
-## Por qué &quot;golpear más&quot; es el objetivo equivocado
+## Mejores tiros vs. Más tiros: Entendiendo la diferencia
 
-Si estás ajustando tu técnica para &quot;golpear más a menudo&quot; o &quot;ser más consistente&quot;, probablemente estés abordando el problema equivocado.
+Hay una distinción crucial que muchos jugadores pasan por alto:
 
-**La verdad es esta:** Si bateas bien en los entrenamientos, pero te cuesta en la competición, el problema no es tu técnica, sino la mentalidad. Tu brazo sabe qué hacer. La pregunta es si tu mente se lo permite.
+::: tip La idea clave
+**Si quieres hacer MEJORES tiros** → Trabaja en tu técnica
 
-::: tip La conexión mental
-La inconsistencia bajo presión rara vez es un problema técnico: es un problema mental.
-
-**Para lograr consistencia y rendimiento bajo presión, explora nuestra sección [Educación](/es/education/)**, en particular:
-- [La Zona](/es/education/the-zone/) — Creando condiciones para un rendimiento máximo
-- [Fuerza mental](/es/education/fuerza-mental/) — Actuando cuando importa
-- [Técnica vs. Flujo](/es/education/the-zone/technical-vs-flow) — Cuándo centrarse en la técnica vs. en la confianza
+**Si quieres hacer MÁS tiros** → Trabaja tu fuerza mental
 :::
+
+### ¿Qué quiere decir esto?
+
+**Hacer mejores tiros** significa ampliar tu repertorio técnico:
+- Añadiendo nuevos tipos de lanzamientos (plombée, portée, demi-portée)
+- Mejorar la precisión en tipos de disparos específicos
+- Desarrollar nuevas habilidades que actualmente no tienes
+- **Esto requiere práctica técnica y entrenamiento físico**
+
+**Hacer más tiros** significa ejecutar lo que ya sabes hacer:
+- Realizar los tiros que ya puedes hacer en la práctica
+- Desempeñarse de manera consistente bajo presión
+- Confiar en tu técnica cuando importa
+- **Esto requiere entrenamiento mental y acceso al estado de flujo**
+
+### La verificación de la realidad
+
+Pregúntate honestamente:
+- ¿Puedes encestar en la práctica estando relajado? ✅ **Entonces tienes la técnica**
+- ¿Te cuesta competir? ⚠️ **Entonces necesitas trabajo mental, no más entrenamiento técnico**
+
+::: warning Error común
+Muchos jugadores experimentados pasan años perfeccionando la técnica que ya tienen, cuando lo que realmente necesitan es desarrollar la fuerza mental para ejecutarla bajo presión.
+
+**No necesitas un mejor movimiento de brazos. Necesitas una mente más tranquila.**
+:::
+
+### El camino a seguir
+
+**Para mejores tomas (nuevas capacidades):**
+- Explora la [Paleta de Lanzamientos](/es/técnico/lanzamientos)
+- Elige un nuevo lanzamiento específico para desarrollar
+- Practica la ejecución técnica
+
+**Para más disparos (consistencia bajo presión):**
+- Trabajar la [Fuerza Mental](/es/educacion/fuerza-mental/)
+- Aprende a acceder a [La Zona](/es/educacion/la-zona/)
+- Desarrollar [Rutinas Previas al Tiro](/es/educacion/fuerza-mental/rutina-previa-al-tiro)
 
 ## Nuestra perspectiva
 
@@ -128,14 +159,13 @@ Si tiene un enfoque técnico y desea ampliar su repertorio, esta sección descri
 
 ## Temas
 
-### [Paleta de Lanzamientos](/es/technical/throws)
+### [Paleta de Lanzamientos](/es/técnico/lanzamientos)
 ¿Qué lanzamientos hay? Un resumen completo de las posibilidades técnicas en la petanca.
 
 ::: tip Después de la técnica, ¿qué sigue?
 Una vez que tienes una técnica sólida, el verdadero crecimiento proviene de:
-- **[La Zona](/es/education/the-zone/)** - Acceso a estados de flujo
-- **[Fuerza mental](/es/education/fuerza-mental/)** - Manejo de la presión
-- **[Métodos de entrenamiento](/es/education/training/)** - Cómo practicar eficazmente
+- **[La Zona](/es/educacion/la-zona/)** - Acceso a estados de flujo
+- **[Fuerza mental](/es/educacion/fuerza-mental/)** - Manejo de la presión
+- **[Métodos de entrenamiento](/es/educacion/entrenamiento/)** - Cómo practicar eficazmente
 :::
 
-<AdBanner />

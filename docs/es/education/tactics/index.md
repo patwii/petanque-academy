@@ -1,5 +1,4 @@
 # Pensamiento táctico en la petanca
-<AdBanner />
 
 
 En la élite, se da por sentado la habilidad técnica. Lo que distingue a los ganadores del resto es la inteligencia táctica: saber qué lanzamiento intentar y cuándo. Los mejores jugadores anticipan el juego con varias jugadas de antelación y aprovechan cada ventaja.
@@ -125,7 +124,6 @@ graph LR
     C --> F{Surface?}
     D --> G[Punto más]
 
-<AdInArticle />
 
     F -->|Smooth| H[Dispara más]
     F -->|Rough| I[Punto más]
@@ -257,7 +255,7 @@ En la élite, la exploración es fundamental. Conoce a tus oponentes antes de ju
 
 ## En esta sección
 
-- **[Decisiones basadas en probabilidad](/es/education/tacticas/probabilidad)** - Usar las matemáticas para tomar mejores decisiones
+- **[Decisiones basadas en probabilidad](/es/educacion/tacticas/probabilidad)** - Usar las matemáticas para tomar mejores decisiones
 
 ## Resumen: Todas las reglas tácticas
 
@@ -302,4 +300,3 @@ Realice un seguimiento de sus preferencias, tasas de éxito y respuestas a la pr
 
 Analiza el juego. Conoce tus fortalezas. Aprovecha sus debilidades. Ejecuta con confianza.
 
-<AdBanner />

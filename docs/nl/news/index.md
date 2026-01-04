@@ -1,6 +1,5 @@
 # Nieuws en updates
 
-<AdBanner />
 
 ## Welkom bij de Pétanque Academie
 
@@ -33,7 +32,6 @@ graph TD
     style D fill:#f3e5f5
 ```
 
-<AdInArticle />
 
 ## Wat is er nu beschikbaar?
 
@@ -46,7 +44,7 @@ We hebben **8 uitgebreide educatieve modules** gelanceerd die alles behandelen, 
 | **[De Zone](/en/education/the-zone/)** | Beheersing van de flowtoestand | 4 gedetailleerde handleidingen voor het bereiken en behouden van een flow. |
 | **[Mentale kracht](/en/education/mental-strength/)** | Drukbehandeling | Voorbereidingsroutines, omgaan met je innerlijke criticus |
 | **[Mindfulness](/en/education/mindfulness/)** | Bewustzijn van het huidige moment | Dagelijkse oefeningen, wedstrijdtechnieken |
-| **[Doelen](/nl/education/goals/)** | Strategische planning | SMART-doelen, hiërarchie, volgsystemen |
+| **[Doelen](/nl/onderwijs/doelen/)** | Strategische planning | SMART-doelen, hiërarchie, volgsystemen |
 | **[Tactieken](/en/education/tactics/)** | Spelstrategie | Besluitvorming, waarschijnlijkheid, positionering |
 | **[Teamspeler](/en/education/team-player/)** | Samenwerkingsvaardigheden | Communicatie, vertrouwen, teamdynamiek |
 | **[Training](/en/education/training/)** | Praktische methoden | Oefeningen, doelgerichte oefening, progressie |
@@ -188,4 +186,3 @@ Alles wat je nodig hebt om je game naar een hoger niveau te tillen, is hier al a
 **Welkom bij de Pétanque Academie - waar topspelers uitzonderlijk worden.**
 :::
 
-<AdBanner />

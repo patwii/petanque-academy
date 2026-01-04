@@ -1,6 +1,5 @@
 # Témoignages de joueurs
 
-<AdBanner />
 
 De véritables témoignages de joueurs de pétanque d&#39;élite ayant utilisé les ressources de la Pétanque Academy pour améliorer leur mental et leurs performances en compétition.
 
@@ -40,7 +39,6 @@ Ces témoignages représentent les véritables retours d&#39;expérience de joue
 
 **— Entraîneur du club, Allemagne**
 
-<AdInArticle />
 
 ---
 
@@ -118,7 +116,6 @@ Ces témoignages représentent les véritables retours d&#39;expérience de joue
 
 **— Psychologue du sport et entraîneur de pétanque, Royaume-Uni**
 
-<AdBanner />
 
 ---
 
@@ -171,5 +168,4 @@ Prêt à développer votre mental ?
 - **Besoin d&#39;une structure ?** → [Modèle d&#39;objectif](/en/goal-template)
 :::
 
-<AdBanner />
 

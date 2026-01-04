@@ -1,6 +1,5 @@
 # Neuigkeiten &amp; Updates
 
-<AdBanner />
 
 ## Willkommen bei der Pétanque-Akademie
 
@@ -33,7 +32,6 @@ graph TD
     style D fill:#f3e5f5
 ```
 
-<AdInArticle />
 
 ## Was ist jetzt verfügbar?
 
@@ -46,7 +44,7 @@ Wir haben **8 umfassende Schulungsmodule** eingeführt, die alles von Flow-Zust�
 | **[Die Zone](/en/education/the-zone/)** | Flow-Zustandsbeherrschung | 4 detaillierte Anleitungen zum Einstieg und zur Aufrechterhaltung des Arbeitsflusses |
 | **[Mentale Stärke](/en/education/mental-strength/)** | Druckhandhabung | Vorbereitungsroutinen vor dem Dreh, Umgang mit dem inneren Kritiker |
 | **[Achtsamkeit](/en/education/mindfulness/)** | Gegenwärtiges Bewusstsein | Tägliche Übungen, Wettkampftechniken |
-| **[Ziele](/de/education/goals/)** | Strategische Planung | SMART-Ziele, Hierarchie, Trackingsysteme |
+| **[Ziele](/de/bildung/ziele/)** | Strategische Planung | SMART-Ziele, Hierarchie, Trackingsysteme |
 | **[Taktiken](/en/education/tactics/)** | Spielstrategie | Entscheidungsfindung, Wahrscheinlichkeit, Positionierung |
 | **[Teamspieler](/en/education/team-player/)** | Teamfähigkeit | Kommunikation, Vertrauen, Teamdynamik |
 | **[Schulung](/en/education/training/)** | Übungsmethoden | Übungen, gezieltes Üben, Fortschritt |
@@ -188,4 +186,3 @@ Alles, was du brauchst, um dein Spiel auf die nächste Stufe zu heben, ist berei
 **Willkommen an der Pétanque-Akademie – wo aus Spitzenspielern außergewöhnliche Spieler werden.**
 :::
 
-<AdBanner />

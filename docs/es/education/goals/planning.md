@@ -1,5 +1,4 @@
 # Creando tu plan de entrenamiento
-<AdBanner />
 
 
 Las metas sin un plan son solo deseos. Esta guía te ayuda a convertir tus metas en un plan de entrenamiento estructurado que realmente funciona.
@@ -76,7 +75,6 @@ Seleccione ejercicios que apoyen directamente sus objetivos:
 
 Construye un horario semanal realista:
 
-<AdInArticle />
 
 | Día | Mañana | Tarde | Noche | Enfocar |
 |-----|---------|-----------|---------|-------|
@@ -185,4 +183,3 @@ Su plan debe evolucionar:
 
 El mejor plan es el que realmente seguirás. Empieza con algo sencillo, sé constante y ajústalo a medida que aprendes.
 
-<AdBanner />
