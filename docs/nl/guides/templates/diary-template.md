@@ -1,223 +1,223 @@
-# Training Diary Template
+# Sjabloon voor een trainingsdagboek
 
 
-## How to Use This Template
+## Hoe gebruik je deze sjabloon?
 
-A training diary is your personal record of practice, progress, and insights. It helps you track what works, identify patterns, and accelerate improvement. Use the templates below directly on this page, or copy them to your preferred digital tool.
+Een trainingsdagboek is je persoonlijke verslag van je oefeningen, vooruitgang en inzichten. Het helpt je bij te houden wat werkt, patronen te herkennen en je verbetering te versnellen. Gebruik de onderstaande sjablonen direct op deze pagina, of kopieer ze naar je favoriete digitale tool.
 
-::: tip The Power of Reflection
-**What gets measured gets improved. What gets reflected on gets mastered.** A training diary transforms random practice into deliberate development.
+::: tip De kracht van reflectie
+**Wat gemeten wordt, wordt verbeterd. Waarop gereflecteerd wordt, wordt beheerst.** Een trainingsdagboek transformeert willekeurige oefening in doelgerichte ontwikkeling.
 :::
 
-## Quick Access
+## Sneltoegang
 
-| Template | Purpose | Access |
+| Sjabloon | Doel | Toegang |
 |----------|---------|--------|
-| **Daily Training Entry** | Record each practice session | [View Template](#daily-training-entry-template) |
-| **Competition Diary** | Track tournament performance | [View Template](#competition-diary-template) |
-| **Weekly Summary** | Reflect on the week's training | [View Template](#weekly-summary-template) |
-| **Monthly Review** | Analyze patterns and progress | [View Template](#monthly-review-template) |
+| **Dagelijkse trainingsinvoer** | Leg elke oefensessie vast. | [Sjabloon bekijken](#daily-training-entry-template) |
+| **Wedstrijddagboek** | Track toernooiprestaties | [Sjabloon bekijken](#competitiedagboek-sjabloon) |
+| **Wekelijkse samenvatting** | Reflecteer op de training van deze week. | [Sjabloon bekijken](#weekly-summary-template) |
+| **Maandelijks overzicht** | Analyseer patronen en voortgang | [Sjabloon bekijken](#maandelijks-overzicht-sjabloon) |
 
-::: tip Digital-First Approach
-All templates are available on this page for easy access on any device. Bookmark this page and use it directly, or copy sections to your preferred note-taking app.
+::: tip Digitale aanpak voorop
+Alle sjablonen zijn op deze pagina beschikbaar voor gemakkelijke toegang op elk apparaat. Voeg deze pagina toe aan uw bladwijzers en gebruik de sjablonen direct, of kopieer gedeeltes naar uw favoriete notitie-app.
 :::
 
-## Daily Training Entry Template
+## Dagelijks trainingsinvoersjabloon
 
-### Copy This Section for Each Training Session
-
----
-
-**Date:** ________
-**Time:** ________ to ________
-**Duration:** ________ minutes
-**Location:** ________
-**Terrain:** Hard / Medium / Soft / Mixed
-**Weather:** Sunny / Cloudy / Windy / Rain
-
-### Training Partners
-
--
--
--
-
-### Today's Intention
-
-(What was my main focus for this session?)
+### Kopieer dit gedeelte voor elke trainingssessie.
 
 ---
 
-### Technical Practice
+**Datum:** ________
+**Tijd:** ________ tot ________
+**Duur:** ________ minuten
+**Locatie:** ________
+**Terrein:** Hard / Gemiddeld / Zacht / Gemengd
+**Weer:** Zonnig / Bewolkt / Winderig / Regen
 
-| Skill Practiced | Reps/Time | Success Rate | Notes |
+### Opleidingspartners
+
+-
+-
+-
+
+### Voornemen voor vandaag
+
+(Wat was mijn belangrijkste focus voor deze sessie?)
+
+---
+
+### Technische praktijk
+
+| Vaardigheid geoefend | Herhalingen/Tijd | Succespercentage | Notities |
 |----------------|-----------|--------------|-------|
-| **Pointing** | | | |
-| **Shooting** | | | |
-| **Terrain Reading** | | | |
-| **Shot Selection** | | | |
+| **Wijzend** |
+| **Opnames** |
+| **Terreinlezen** |
+| **Opnameselectie** |
 
-### What Worked Well?
-
-1.
-2.
-3.
-
-### What Needs Improvement?
+### Wat werkte goed?
 
 1.
 2.
 3.
 
-### Key Insight
+### Wat kan er verbeterd worden?
 
-(One main learning from today)
+1.
+2.
+3.
 
----
+### Kerninzicht
 
-### Mental Game
-
-**Energy Level (1-10):** _____
-**Focus Quality (1-10):** _____
-**Confidence (1-10):** _____
-
-**Mental Challenges Today:**
-
-**How I Handled Them:**
-
-**Mental Technique Practiced:**
-- [ ] 3-Breath Reset
-- [ ] Inner Coach Reframe
-- [ ] Mindful Awareness
-- [ ] Visualization
-- [ ] Other: ________
+(Eén belangrijke les die we vandaag hebben geleerd)
 
 ---
 
-### Physical Condition
+### Mentaal spel
 
-**Body Feeling (1-10):** _____
-**Any Pain/Discomfort:** _____
-**Fatigue Level (1-10):** _____
+**Energieniveau (1-10):** _____
+**Kwaliteit van de focus (1-10):** _____
+**Vertrouwen (1-10):** _____
 
-**Physical Notes:**
+**Mentale uitdagingen van vandaag:**
 
----
+**Hoe ik ermee omging:**
 
-### Tomorrow's Focus
-
-(Based on today, what will I work on next session?)
-
----
-
-## Competition/Match Entry Template
-
-### Copy This Section for Each Competition
+**Toegepaste mentale techniek:**
+- [ ] 3-ademhaling reset
+- [ ] Innerlijke coach: Herkaderen
+- [ ] Bewuste aandacht
+- [ ] Visualisatie
+- [ ] Ander: ________
 
 ---
 
-**Date:** ________
-**Tournament:** ________
-**Format:** Triples / Doubles / Singles
+### Fysieke conditie
+
+**Lichaamsgevoel (1-10):** _____
+**Pijn/ongemak:** _____
+**Vermoeidheidsniveau (1-10):** _____
+
+**Fysieke kenmerken:**
+
+---
+
+### Focus van morgen
+
+(Waar ga ik de volgende sessie aan werken, gebaseerd op vandaag?)
+
+---
+
+## Inschrijfformulier voor wedstrijd/competitie
+
+### Kopieer dit gedeelte voor elke wedstrijd.
+
+---
+
+**Datum:** ________
+**Toernooi:** ________
+**Formaat:** Triples / Doubles / Singles
 **Team:** ________
 
-### Pre-Competition
+### Voor de wedstrijd
 
-**Sleep Quality (1-10):** _____
-**Nutrition:** _____
-**Mental State (1-10):** _____
-**Physical Warm-up:** Yes / No
-**Mental Warm-up:** Yes / No
+**Slaapkwaliteit (1-10):** _____
+**Voeding:** _____
+**Mentale toestand (1-10):** _____
+**Fysieke warming-up:** Ja / Nee
+**Mentale warming-up:** Ja / Nee
 
 ---
 
-### Match Results
+### Wedstrijdresultaten
 
-| Round | Opponent | Score | Result | Key Moments |
+| Ronde | Tegenstander | Score | Resultaat | Belangrijke momenten |
 |-------|----------|-------|--------|-------------|
-| **1** | | | W / L | |
-| **2** | | | W / L | |
-| **3** | | | W / L | |
-| **4** | | | W / L | |
+| **1** | W / L |
+| **2** | W / L |
+| **3** | W / L |
+| **4** | W / L |
 
-**Final Placement:** _____
+**Eindpositie:** _____
 
 ---
 
-### Performance Analysis
+### Prestatieanalyse
 
-**Technical Performance (1-10):** _____
-**Mental Performance (1-10):** _____
-**Tactical Decisions (1-10):** _____
-**Team Communication (1-10):** _____
+**Technische prestaties (1-10):** _____
+**Mentale prestatie (1-10):** _____
+**Tactische beslissingen (1-10):** _____
+**Teamcommunicatie (1-10):** _____
 
-### What I Did Well
+### Wat ik goed heb gedaan
 
 1.
 2.
 3.
 
-### What Cost Me Points
+### Wat kostte me punten?
 
 1.
 2.
 
-## Monthly Summary Template
+## Sjabloon voor een maandoverzicht
 
-### Copy This Section Each Month
+### Kopieer dit gedeelte elke maand.
 
 ---
 
-**Month:** ________
-**Year:** ________
+**Maand:** ________
+**Jaar:** ________
 
-### Monthly Statistics
+### Maandelijkse statistieken
 
-**Total Training Hours:** _____
-**Total Sessions:** _____
-**Competitions Entered:** _____
-**Win Rate:** _____%
+**Totaal aantal trainingsuren:** _____
+**Totaal aantal sessies:** _____
+**Deelgenomen wedstrijden:** _____
+**Winstpercentage:** _____%
 
-### Technical Progress
+### Technische vooruitgang
 
-| Skill | Start of Month | End of Month | Improvement |
+| Vaardigheid | Begin van de maand | Einde van de maand | Verbetering |
 |-------|----------------|--------------|-------------|
-| **Pointing Accuracy** | | | |
-| **Shooting Consistency** | | | |
-| **Terrain Adaptation** | | | |
-| **Shot Selection** | | | |
+| **Nauwkeurigheid van de richting** |
+| **Schietconsistentie** |
+| **Terreinaanpassing** |
+| **Opnameselectie** |
 
-### Mental Game Progress
+### Mentale spelvoortgang
 
-| Area | Start of Month | End of Month | Improvement |
+| Gebied | Begin van de maand | Einde van de maand | Verbetering |
 |------|----------------|--------------|-------------|
-| **Pressure Management** | | | |
-| **Focus Quality** | | | |
-| **Confidence** | | | |
-| **Inner Coach Usage** | | | |
+| **Drukbeheersing** |
+| **Focus op kwaliteit** |
+| **Vertrouwen** |
+| **Gebruik van Inner Coach** |
 
-### Monthly Highlights
+### Maandelijkse hoogtepunten
 
-**Best Training Session:**
+**Beste trainingssessie:**
 
-**Best Competition Performance:**
+**Beste wedstrijdprestatie:**
 
-**Biggest Breakthrough:**
+**Grootste doorbraak:**
 
-**Most Valuable Learning:**
+**Belangrijkste leerervaring:**
 
-### Challenges Overcome
-
-1.
-2.
-3.
-
-### Ongoing Challenges
+### Uitdagingen overwonnen
 
 1.
 2.
 3.
 
-### Next Month's Priorities
+### Aanhoudende uitdagingen
+
+1.
+2.
+3.
+
+### Prioriteiten voor volgende maand
 
 1.
 2.
@@ -225,384 +225,384 @@ All templates are available on this page for easy access on any device. Bookmark
 
 ---
 
-## Specific Practice Tracking Templates
+## Specifieke praktijkregistratiesjablonen
 
-### Pointing Practice Log
+### Oefenlogboek voor aanwijzen
 
-| Date | Distance | Terrain | Attempts | Within 10cm | Within 20cm | Within 50cm | Notes |
+| Datum | Afstand | Terrein | Pogingen | Binnen 10 cm | Binnen 20 cm | Binnen 50 cm | Notities |
 |------|----------|---------|----------|-------------|-------------|-------------|-------|
 | | | | | | | | |
 | | | | | | | | |
 | | | | | | | | |
 
-**Instructions:**
-- Track pointing accuracy at different distances (6m, 7m, 8m, 9m, 10m)
-- Record terrain type (hard, medium, soft)
-- Count successes in each distance range
-- Calculate success rate over time
+**Instructies:**
+- Nauwkeurigheid van de richtingsbepaling op verschillende afstanden (6m, 7m, 8m, 9m, 10m)
+- Registreer het terreintype (hard, gemiddeld, zacht).
+- Tel het aantal successen in elk afstandsbereik.
+- Bereken het succespercentage over tijd.
 
 ---
 
-### Shooting Practice Log
+### Schietoefenlogboek
 
-| Date | Target Type | Distance | Attempts | Direct Hits | Carreau | Displacement | Notes |
+| Datum | Doeltype | Afstand | Pogingen | Directe treffers | Carreau | Verplaatsing | Notities |
 |------|-------------|----------|----------|-------------|---------|--------------|-------|
 | | | | | | | | |
 | | | | | | | | |
 | | | | | | | | |
 
-**Target Types:**
-- Static ball
-- Ball against cochonnet
-- Ball in cluster
-- Moving target (advanced)
+**Doelgroepen:**
+- Statische bal
+- Bal tegen cochonnet
+- Bal in cluster
+- Bewegend doelwit (geavanceerd)
 
 ---
 
-### Mental Training Log
+### Logboek voor mentale training
 
-| Date | Technique Practiced | Duration | Situation | Effectiveness (1-10) | Notes |
+| Datum | Geoefende techniek | Duur | Situatie | Effectiviteit (1-10) | Notities |
 |------|---------------------|----------|-----------|---------------------|-------|
 | | | | | | |
 | | | | | | |
 | | | | | | |
 
-**Techniques:**
-- 3-Breath Reset
-- Inner Coach Reframe
-- Visualization
-- Mindfulness Practice
-- Pre-shot Routine
-- Pressure Simulation
+**Technieken:**
+- 3-ademhaling reset
+- Innerlijke coach: Herkaderen
+- Visualisatie
+- Mindfulnessoefening
+- Voorbereidingsroutine
+- Druksimulatie
 
 ---
 
-## Quick Daily Entry (Simplified)
+## Snelle dagelijkse invoer (vereenvoudigd)
 
-### For Busy Days - Copy This Minimal Template
+### Voor drukke dagen - kopieer deze minimalistische sjabloon.
 
 ---
 
-**Date:** ________
+**Datum:** ________
 
-**Trained:** Yes / No
-**Duration:** _____ min
+**Getraind:** Ja / Nee
+**Duur:** _____ min
 **Focus:** ________
-**Energy (1-10):** _____
-**Quality (1-10):** _____
+**Energie (1-10):** _____
+**Kwaliteit (1-10):** _____
 
-**One Win:**
+**Eén overwinning:**
 
-**One Learning:**
+**Eén leerpunt:**
 
-**Tomorrow's Focus:**
-
----
-
-## Reflection Prompts
-
-Use these prompts to deepen your diary entries:
-
-### After Training
-
-1. What surprised me today?
-2. When did I feel most confident?
-3. When did I struggle? Why?
-4. What would I do differently?
-5. What am I grateful for from this session?
-
-### After Competition
-
-1. What did I learn about myself today?
-2. How did I handle pressure?
-3. What would my Inner Coach say about my performance?
-4. What will I practice differently based on today?
-5. What am I proud of, regardless of the result?
-
-### Weekly Reflection
-
-1. What pattern am I noticing in my practice?
-2. Am I practicing what I struggle with in competition?
-3. Is my mental game improving?
-4. Am I enjoying the process?
-5. What needs to change next week?
-
-### Monthly Reflection
-
-1. Am I closer to my goals than last month?
-2. What's working in my training approach?
-3. What's not working?
-4. Do I need to adjust my goals?
-5. What do I want to remember from this month?
+**Het onderwerp van morgen:**
 
 ---
 
-## Tips for Effective Diary Keeping
+## Reflectievragen
 
-### 1. Write Immediately After Training
+Gebruik deze vragen om je dagboeknotities te verdiepen:
 
-**Why:** Details are fresh, emotions are real, insights are clear
+### Na de training
 
-**How:** Keep diary in your bag, set 10 minutes aside after each session
+1. Wat heeft me vandaag verrast?
+2. Wanneer voelde ik me het meest zelfverzekerd?
+3. Wanneer had ik het moeilijk? Waarom?
+4. Wat zou ik anders doen?
+5. Waar ben ik dankbaar voor in deze sessie?
 
-### 2. Be Honest, Not Perfect
+### Na de wedstrijd
 
-**Don't:** Write what you think you should write
-**Do:** Write what actually happened and how you really felt
+1. Wat heb ik vandaag over mezelf geleerd?
+2. Hoe ging ik om met druk?
+3. Wat zou mijn innerlijke coach zeggen over mijn prestaties?
+4. Wat ga ik vandaag anders aanpakken?
+5. Waar ben ik trots op, ongeacht het resultaat?
 
-### 3. Focus on Process, Not Just Results
+### Wekelijkse reflectie
 
-**Don't:** "Missed 7 out of 10 shots - terrible"
-**Do:** "Missed 7 out of 10 shots - noticed I was rushing my routine, will slow down next time"
+1. Welk patroon zie ik in mijn werkwijze?
+2. Oefen ik wel de dingen waar ik in de wedstrijd moeite mee heb?
+3. Gaat mijn mentale instelling verbeteren?
+4. Geniet ik van het proces?
+5. Wat moet er volgende week veranderen?
 
-### 4. Look for Patterns
+### Maandelijkse reflectie
 
-Review your diary weekly to spot:
-- Recurring technical issues
-- Mental game patterns
-- Energy/performance correlations
-- What conditions you perform best in
-
-### 5. Celebrate Progress
-
-**Every month:** Read entries from 3 months ago
-**Notice:** How much you've improved
-**Acknowledge:** The work you've put in
-
----
-
-## Digital vs. Paper Diary
-
-### Digital (Google Docs/Sheets, Notion, Apps)
-
-**Pros:**
-- Easy to search past entries
-- Can add photos/videos
-- Automatic date stamps
-- Can share with coach
-- Always accessible on phone
-
-**Cons:**
-- Screen time
-- Can feel impersonal
-- Distractions from notifications
-
-**Best For:** Detailed statistics tracking, long-term pattern analysis
-
-### Paper (Notebook, Printed Templates)
-
-**Pros:**
-- Tactile, personal connection
-- No distractions
-- Easy to sketch diagrams
-- Satisfying ritual
-- Better for reflection
-
-**Cons:**
-- Can lose notebook
-- Hard to search old entries
-- Can't easily share
-
-**Best For:** Daily reflections, immediate post-training notes
-
-**Recommendation:** Hybrid approach - paper for daily entries, digital for monthly summaries and statistics
+1. Ben ik dichter bij mijn doelen dan vorige maand?
+2. Wat werkt er goed in mijn trainingsaanpak?
+3. Wat werkt er niet?
+4. Moet ik mijn doelen bijstellen?
+5. Wat wil ik me van deze maand herinneren?
 
 ---
 
-## Sample Entries
+## Tips voor een effectief dagboek bijhouden
 
-### Example: Good Training Entry
+### 1. Schrijf direct na de training
 
-::: details Click to See Example
-**Date:** March 15, 2024
-**Duration:** 90 minutes
-**Location:** Club terrain
-**Terrain:** Hard
-**Weather:** Sunny, light wind
+**Waarom:** De details zijn actueel, de emoties zijn echt, de inzichten zijn helder.
 
-**Today's Intention:** Improve pointing accuracy at 8m
+**Hoe:** Houd een dagboek bij de hand in je tas en reserveer 10 minuten na elke sessie.
 
-**Technical Practice:**
-- Pointing at 8m: 30 attempts, 18 within 20cm (60%)
-- Noticed I'm more accurate when I take 3 breaths before throwing
-- Struggled when wind picked up - need to adjust for wind better
+### 2. Wees eerlijk, niet perfect.
 
-**What Worked Well:**
-1. Pre-shot routine was consistent
-2. Stayed calm after misses
-3. Adjusted grip for hard terrain
+**Niet doen:** Schrijf wat je denkt dat je zou moeten schrijven.
+**Wat je moet doen:** Schrijf op wat er werkelijk is gebeurd en hoe je je echt voelde.
 
-**Key Insight:** My accuracy drops when I rush. Slowing down by 2 seconds improves success rate significantly.
+### 3. Focus op het proces, niet alleen op de resultaten
 
-**Mental Game:**
-- Energy: 8/10
+**Niet doen:** &quot;7 van de 10 schoten gemist - vreselijk&quot;
+**Te doen:** &quot;7 van de 10 schoten gemist - merkte dat ik mijn routine te gehaast uitvoerde, zal het de volgende keer rustiger aan doen&quot;
+
+### 4. Zoek naar patronen
+
+Bekijk je agenda wekelijks om het volgende te signaleren:
+- Terugkerende technische problemen
+- Mentale spelpatronen
+- Correlaties tussen energieverbruik en prestaties
+- Onder welke omstandigheden presteer je het best?
+
+### 5. Vier de vooruitgang
+
+**Elke maand:** Lees berichten van 3 maanden geleden
+**Let op:** hoeveel je vooruitgang hebt geboekt
+**Erkenning:** De inzet die je hebt getoond
+
+---
+
+## Digitale versus papieren agenda
+
+### Digitaal (Google Docs/Sheets, Notion, apps)
+
+**Voordelen:**
+- Gemakkelijk om eerdere berichten te doorzoeken
+- Je kunt foto&#39;s/video&#39;s toevoegen.
+- Automatische datumstempels
+- Kan gedeeld worden met de coach
+- Altijd telefonisch bereikbaar
+
+**Nadelen:**
+- Schermtijd
+- Kan onpersoonlijk aanvoelen
+- Afleiding door meldingen
+
+**Ideaal voor:** Gedetailleerde statistische tracking, analyse van patronen op lange termijn
+
+### Papier (notitieboekje, geprinte sjablonen)
+
+**Voordelen:**
+- Tastbare, persoonlijke verbinding
+- Geen afleiding
+- Diagrammen zijn makkelijk te schetsen.
+- Bevredigend ritueel
+- Beter voor reflectie
+
+**Nadelen:**
+- Kan notitieboekje kwijtraken
+- Het is lastig om oude berichten te doorzoeken.
+- Kan niet gemakkelijk gedeeld worden
+
+**Ideaal voor:** Dagelijkse reflecties, aantekeningen direct na de training
+
+**Aanbeveling:** Hybride aanpak - papier voor dagelijkse aantekeningen, digitaal voor maandelijkse samenvattingen en statistieken
+
+---
+
+## Voorbeelden van invoer
+
+### Voorbeeld: Goede trainingsinstroom
+
+::: details Klik om een voorbeeld te bekijken
+**Datum:** 15 maart 2024
+**Duur:** 90 minuten
+**Locatie:** Clubterrein
+**Terrein:** Hard
+**Weer:** Zonnig, lichte wind
+
+**Doel van vandaag:** De richtnauwkeurigheid op 8 meter verbeteren
+
+**Technische oefening:**
+- Wijzen op 8 meter: 30 pogingen, 18 binnen 20 cm (60%)
+- Ik merk dat ik nauwkeuriger gooi als ik drie keer ademhaal voordat ik gooi.
+- Had moeite toen de wind opstak - moet zich beter aanpassen aan de wind.
+
+**Wat goed werkte:**
+1. De voorbereiding op de opname was consistent.
+2. Bleef kalm na de missers.
+3. Aangepaste grip voor ruw terrein
+
+**Belangrijk inzicht:** Mijn nauwkeurigheid neemt af als ik me haast. Door 2 seconden langzamer te werken, verbetert mijn succespercentage aanzienlijk.
+
+**Mentale oefening:**
+- Energie: 8/10
 - Focus: 7/10
-- Used Inner Coach after 3 bad throws - helped me reset
+- Ik heb Inner Coach gebruikt na 3 slechte worpen - het heeft me geholpen om weer op gang te komen.
 
-**Tomorrow's Focus:** Practice pointing in windy conditions, maintain slow routine
+**Programma voor morgen:** Oefenen met wijzen in winderige omstandigheden, een langzaam tempo aanhouden
 :::
 
-### Example: Good Competition Entry
+### Voorbeeld: Goede wedstrijdinzending
 
-::: details Click to See Example
-**Date:** March 20, 2024
-**Tournament:** Regional Championship
-**Format:** Triples
-**Final Placement:** 5th of 16 teams
+::: details Klik om een voorbeeld te bekijken
+**Datum:** 20 maart 2024
+**Toernooi:** Regionaal Kampioenschap
+**Formaat:** Triples
+**Eindpositie:** 5e van de 16 teams
 
-**Performance Analysis:**
-- Technical: 7/10 - Pointing was solid, shooting was inconsistent
-- Mental: 8/10 - Stayed calm under pressure
-- Tactical: 6/10 - Made one bad decision in semi-final
+**Prestatieanalyse:**
+- Technisch: 7/10 - Richten was goed, schieten was inconsistent
+- Mentaal: 8/10 - Bleef kalm onder druk
+- Tactisch: 6/10 - Nam één verkeerde beslissing in de halve finale.
 
-**Best Moment:** Carreau in quarter-final to win 13-12
+**Hoogtepunt:** Carreau in de kwartfinale, die hij met 13-12 won.
 
-**Toughest Moment:** Semi-final, 11-11, rushed a shot and missed badly
+**Moeilijkste moment:** Halve finale, 11-11, ik overhaastte een schot en miste jammerlijk.
 
-**Key Learning:** When score is tight, I need to slow down even more, not speed up. My Inner Critic tried to take over ("Don't mess this up!") but I caught it and used Inner Coach instead ("You've made this shot 100 times, trust your routine").
+**Belangrijkste les:** Als de score spannend is, moet ik juist nog meer vaart minderen in plaats van versnellen. Mijn innerlijke criticus probeerde het over te nemen (&quot;Verpest dit niet!&quot;), maar ik heb hem doorzien en in plaats daarvan mijn innerlijke coach ingeschakeld (&quot;Je hebt deze slag al honderd keer gemaakt, vertrouw op je routine&quot;).
 
-**For Next Competition:** Practice pressure situations in training - simulate 11-11 scenarios
-:::
-
----
-
-## Related Resources
-
-- [Goal Setting Template](/nl/guides/templates/goal-template) - Set and track your improvement goals
-- [Workshop](/nl/guides/workshop/) - Group sessions on mental game and reflection
-- [Training Session](/nl/guides/training-session/) - Structured practice with peers
-- [Mental Strength](/nl/education/mental-game/mental-strength/) - Build mental resilience
-- [Mindfulness](/nl/education/mental-game/mindfulness/) - Develop awareness and focus
-
----
-
-## Quick Start Guide
-
-**New to diary keeping? Start here:**
-
-**Week 1:** Use Quick Daily Entry (5 minutes after each session)
-**Week 2:** Add one reflection prompt per entry
-**Week 3:** Try full Daily Training Entry
-**Week 4:** Do first Weekly Summary
-
-**After one month:** Add Monthly Summary and specific practice logs
-
----
-
-::: warning Common Diary Mistakes
-1. **Too detailed** - Spending 30 minutes writing, then quitting after a week
-2. **Too vague** - "Trained today, was okay" doesn't help you improve
-3. **Only recording failures** - Celebrate wins too!
-4. **Never reviewing** - The power is in reading past entries
-5. **Waiting too long** - Write within 30 minutes of finishing
+**Voor de volgende wedstrijd:** Oefen stressvolle situaties tijdens de training - simuleer 11-11 scenario&#39;s.
 :::
 
 ---
 
-## Download Templates
+## Gerelateerde bronnen
 
-::: tip Copy-Paste Ready
-All templates on this page are designed to be copied directly into:
+- [Sjabloon voor het stellen van doelen](/en/guides/templates/goal-template) - Stel je verbeteringsdoelen vast en houd je voortgang bij
+- [Workshop](/en/guides/workshop/) - Groepssessies over mentale training en reflectie.
+- [Trainingssessie](/en/guides/training-session/) - Gestructureerde oefening met leeftijdsgenoten
+- [Mentale kracht](/en/education/mental-game/mental-strength/) - Bouw mentale veerkracht op
+- [Mindfulness](/en/education/mental-game/mindfulness/) - Ontwikkel bewustzijn en focus
+
+---
+
+## Snelstartgids
+
+**Ben je nieuw met het bijhouden van een dagboek? Begin hier:**
+
+**Week 1:** Gebruik de snelle dagelijkse invoer (5 minuten na elke sessie)
+**Week 2:** Voeg per bericht één reflectievraag toe.
+**Week 3:** Probeer de volledige dagelijkse trainingsinvoer
+**Week 4:** Maak de eerste weeksamenvatting
+
+**Na een maand:** Voeg een maandoverzicht en specifieke oefenlogboeken toe.
+
+---
+
+::: warning Veelvoorkomende fouten in een dagboek
+1. **Te gedetailleerd** - 30 minuten schrijven en dan na een week stoppen.
+2. **Te vaag** - &quot;Vandaag getraind, ging wel&quot; helpt je niet om te verbeteren.
+3. **Alleen mislukkingen registreren** - Vier ook de successen!
+4. **Nooit recensies schrijven** - De kracht zit hem in het lezen van eerdere berichten.
+5. **Te lang wachten** - Schrijf binnen 30 minuten na afloop.
+:::
+
+---
+
+## Sjablonen downloaden
+
+::: tip Kopiëren en plakken klaar
+Alle sjablonen op deze pagina zijn ontworpen om direct te worden gekopieerd naar:
 - Microsoft Word
 - Google Docs
 - Microsoft Excel
 - Google Sheets
-- Notion
+- Begrip
 - Evernote
-- Any note-taking app
+- Elke notitie-app
 
-Simply select the template section you want, copy (Ctrl+C / Cmd+C), and paste into your preferred tool.
+Selecteer eenvoudig het gewenste gedeelte van de sjabloon, kopieer (Ctrl+C / Cmd+C) en plak het in uw favoriete programma.
 :::
 
-**Start with these three:**
-1. Daily Training Entry Template
-2. Competition/Match Entry Template
-3. Weekly Summary Template
+**Begin met deze drie:**
+1. Dagelijks trainingsinvoersjabloon
+2. Inschrijfformulier voor wedstrijd/competitie
+3. Sjabloon voor een wekelijkse samenvatting
 
 ---
 
 
-**Best Moment:**
+**Hoogste moment:**
 
-**Toughest Moment:**
+**Moeilijkste moment:**
 
-**How I Responded:**
-
----
-
-### Mental Game in Competition
-
-**Pressure Situations:**
-
-**How I Managed Pressure:**
-
-**Inner Critic Activity (1-10):** _____
-**Inner Coach Activity (1-10):** _____
-
-**Mental Techniques Used:**
-- [ ] 3-Breath Reset
-- [ ] Inner Coach Reframe
-- [ ] Mindful Awareness
-- [ ] Visualization
-- [ ] Routine Consistency
-- [ ] Other: ________
+**Mijn reactie:**
 
 ---
 
-### Key Learnings
+### Mentale kracht in competitieverband
 
-**Technical:**
+**Druksituaties:**
 
-**Tactical:**
+**Hoe ik met druk omging:**
 
-**Mental:**
+**Activiteit voor de innerlijke criticus (1-10):** _____
+**Activiteit voor de Innerlijke Coach (1-10):** _____
 
-**For Next Competition:**
+**Gebruikte mentale technieken:**
+- [ ] 3-ademhaling reset
+- [ ] Innerlijke coach: Herkaderen
+- [ ] Bewuste aandacht
+- [ ] Visualisatie
+- [ ] Routineconsistentie
+- [ ] Ander: ________
+
+---
+
+### Belangrijkste leerpunten
+
+**Technische specificaties:**
+
+**Tactisch:**
+
+**Mentaal:**
+
+**Voor de volgende wedstrijd:**
 
 ---
 
 
-## Weekly Summary Template
+## Sjabloon voor een wekelijkse samenvatting
 
-### Copy This Section Each Week
+### Kopieer dit gedeelte elke week.
 
 ---
 
-**Week of:** ________
+**Week van:** ________
 
-### Training Overview
+### Trainingsoverzicht
 
-**Total Training Hours:** _____
-**Number of Sessions:** _____
-**Competition Hours:** _____
-**Mental Training:** _____ minutes
-**Physical Training:** _____ sessions
+**Totaal aantal trainingsuren:** _____
+**Aantal sessies:** _____
+**Wedstrijdtijden:** _____
+**Mentale training:** _____ minuten
+**Fysieke training:** _____ sessies
 
-### Weekly Progress
+### Wekelijkse voortgang
 
-| Goal Area | Target | Actual | Progress |
+| Doelgebied | Doel | Werkelijk | Voortgang |
 |-----------|--------|--------|----------|
 | | | | |
 | | | | |
 | | | | |
 
-### This Week's Wins
+### De overwinningen van deze week
 
 1.
 2.
 3.
 
-### This Week's Challenges
+### Uitdagingen van deze week
 
 1.
 2.
 3.
 
-### Pattern Recognition
+### Patroonherkenning
 
-(What patterns am I noticing in my practice/performance?)
+(Welke patronen zie ik in mijn oefening/optreden?)
 
-### Next Week's Focus
+### Focus van volgende week
 
 1.
 2.

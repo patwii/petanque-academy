@@ -3,33 +3,33 @@ title: Understanding Tension
 description: Master physical and mental tension for precision performance. Learn the science of tension and find your optimal arousal zone.
 ---
 
-# Understanding Tension in Precision Sports
+# Spanning begrijpen in precisiesporten
 
-::: tip Tension Is Precision's Enemy
-**Weight: 300 points** — You cannot be both tense and precise. Learning to manage tension is essential for consistent performance.
+::: tip Spanning is de vijand van precisie.
+**Gewicht: 300 punten** — Je kunt niet tegelijkertijd gespannen en nauwkeurig zijn. Leren omgaan met spanning is essentieel voor consistente prestaties.
 :::
 
-## The Precision Paradox
+## De precisieparadox
 
-> "The harder you try, the worse you do."
+> &quot;Hoe harder je je best doet, hoe slechter het gaat.&quot;
 
-This isn't weakness—it's physics and physiology. Pétanque requires relaxed, fluid movements. Tension destroys the very qualities that produce accurate throws.
+Dit is geen zwakte, maar natuurkunde en fysiologie. Petanque vereist ontspannen, vloeiende bewegingen. Spanning ondermijnt juist de eigenschappen die zorgen voor nauwkeurige worpen.
 
-### How Tension Destroys Precision
+### Hoe spanning precisie vernietigt
 
 ```mermaid
 flowchart TD
-    A[Tension] --> B[Grip Pressure ↑]
-    A --> C[Shoulder Tightness]
-    A --> D[Rushed Movement]
-    A --> E[Shallow Breathing]
+    A[Spanning] --> B[Grijpdruk ↑]
+    A --> C[Schouderstijfheid]
+    A --> D[Gehaaste beweging]
+    A --> E[Oppervlakkige ademhaling]
 
-    B --> F[Feel & Control ↓]
-    C --> G[Arm Swing Restricted]
-    D --> H[Timing Destroyed]
+    B --> F[Voelen en controleren ↓]
+    C --> G[Beperkte armzwaai]
+    D --> H[Timing verpest]
     E --> I[Focus ↓]
 
-    F --> J[Precision ↓]
+    F --> J[Nauwkeurigheid ↓]
     G --> J
     H --> J
     I --> J
@@ -40,44 +40,44 @@ flowchart TD
 
 ---
 
-## Physical vs. Mental Tension
+## Fysieke versus mentale spanning
 
-Tension exists in two connected forms:
+Spanning bestaat in twee met elkaar verbonden vormen:
 
-### Physical Tension
+### Fysieke spanning
 
-Muscle tightness that directly affects your throw:
+Spierverkramping die direct van invloed is op je worp:
 
-| Area | Effect on Throw |
+| Gebied | Effect bij gooien |
 |------|-----------------|
-| **Grip** | Loss of feel, inconsistent release |
-| **Forearm** | Restricted wrist movement |
-| **Shoulder** | Shortened, choppy arm swing |
-| **Neck** | Restricted head position, vision |
-| **Jaw** | Connected to overall body tension |
-| **Core** | Balance and weight transfer issues |
+| **Grip** | Gevoelsverlies, inconsistente release |
+| **Onderarm** | Beperkte polsbeweging |
+| **Schouder** | Verkorte, schokkerige armzwaai |
+| **Nek** | Beperkte hoofdpositie, zicht |
+| **Kaak** | Verbonden met de algehele lichaamsspanning |
+| **Kern** | Evenwichts- en gewichtsoverdrachtproblemen |
 
-### Mental Tension
+### Mentale spanning
 
-Psychological stress that creates physical symptoms:
+Psychologische stress die fysieke symptomen veroorzaakt:
 
-- Racing thoughts
-- Worry about outcomes
-- Fear of failure
-- Pressure awareness
-- Past mistakes replaying
+- Razende gedachten
+- Zorgen over de uitkomsten
+- angst om te falen
+- Drukbewustzijn
+- Fouten uit het verleden worden opnieuw afgespeeld
 
-::: warning The Tension Loop
-Mental tension → Physical tension → Poor performance → More mental tension
+::: warning De spanningslus
+Mentale spanning → Fysieke spanning → Slechte prestaties → Meer mentale spanning
 
-Breaking this loop is essential for consistent play.
+Het doorbreken van deze vicieuze cirkel is essentieel voor consistent spel.
 :::
 
 ---
 
-## The Yerkes-Dodson Law
+## De Yerkes-Dodson-wet
 
-The relationship between arousal (activation level) and performance follows an inverted-U curve:
+De relatie tussen opwinding (activatieniveau) en prestatie volgt een omgekeerde U-vormige curve:
 
 ```
 Performance
@@ -96,137 +96,137 @@ Performance
    Unfocused Relaxed  Anxious
 ```
 
-### Too Low (Under-aroused)
-- Flat, unfocused
-- Careless mistakes
-- Lack of intensity
-- Going through the motions
+### Te laag (onderprikkeld)
+- Vlak, onscherp
+- Slordige fouten
+- Gebrek aan intensiteit
+- De handelingen plichtmatig uitvoeren
 
-### Too High (Over-aroused)
-- Tense, rushed
-- Overthinking
-- Tight grip, restricted movement
-- Can't recover from mistakes
+### Te hoog (Overprikkeld)
+- Gespannen, gehaast
+- Overmatig nadenken
+- Stevige greep, beperkte bewegingsvrijheid
+- Fouten zijn niet meer te herstellen.
 
-### Optimal Zone
-- Alert but relaxed
-- Focused yet fluid
-- Appropriate intensity
-- Quick recovery
+### Optimale zone
+- Alert maar ontspannen
+- Gericht maar toch vloeiend.
+- Passende intensiteit
+- Snel herstel
 
 ---
 
-## Finding YOUR Optimal Zone
+## Vind JOUW optimale zone
 
-Every player has a different optimal arousal level:
+Iedere speler heeft een ander optimaal opwindingsniveau:
 
-### The Self-Assessment Process
+### Het zelfevaluatieproces
 
-1. **Recall your best performances**
-   - How did you feel physically?
-   - What was your energy level?
-   - How would you rate your arousal (1-10)?
+1. **Denk terug aan je beste prestaties**
+   - Hoe voelde je je fysiek?
+   - Hoe hoog was je energieniveau?
+   - Hoe zou je je opwinding beoordelen (1-10)?
 
-2. **Recall your worst performances**
-   - Were you too flat or too tense?
-   - What physical symptoms did you notice?
-   - What triggered the sub-optimal state?
+2. **Denk terug aan je slechtste prestaties**
+   - Was je te vlak of te gespannen?
+   - Welke fysieke symptomen merkte u op?
+   - Wat veroorzaakte de suboptimale toestand?
 
-3. **Identify your pattern**
-   - Do you tend toward over-arousal or under-arousal?
-   - What situations trigger your pattern?
-   - What helps you return to optimal?
+3. **Identificeer uw patroon**
+   - Heb je de neiging tot overprikkeling of juist tot onderprikkeling?
+   - Welke situaties triggeren jouw patroon?
+   - Wat helpt jou om weer optimaal te functioneren?
 
-### Common Player Profiles
+### Algemene spelersprofielen
 
-| Profile | Tendency | Risk Situations | Strategy |
+| Profiel | Tendens | Risicosituaties | Strategie |
 |---------|----------|-----------------|----------|
-| **The Worrier** | Over-arousal | High stakes, close games | Relaxation techniques |
-| **The Flat-liner** | Under-arousal | Low-stakes, early rounds | Activation techniques |
-| **The Reactor** | Variable | After misses, momentum shifts | Emotional regulation |
-| **The Chaser** | Over-arousal when behind | Comebacks, time pressure | Acceptance techniques |
+| **De Bezorgde** | Overmatige opwinding | Spannende wedstrijden met hoge inzet. | Ontspanningstechnieken |
+| **De platte liner** | Onderprikkeling | Vroege rondes met lage inzet | Activeringstechnieken |
+| **De reactor** | Variabele | Na missers verschuift het momentum. | Emotionele regulatie |
+| **De Achtervolger** | Overmatige opwinding wanneer achter | Comeback, tijdsdruk | Acceptatietechnieken |
 
 ---
 
-## Recognizing Tension Signals
+## Spanningssignalen herkennen
 
-### Physical Warning Signs
+### Fysieke waarschuwingssignalen
 
-Learn to notice these before they affect your throw:
+Leer deze dingen te herkennen voordat ze je worp beïnvloeden:
 
-| Signal | Location | Action |
+| Signaal | Locatie | Actie |
 |--------|----------|--------|
-| **Tight grip** | Hand | Soften before each throw |
-| **Raised shoulders** | Upper back | Drop and roll |
-| **Clenched jaw** | Face | Open mouth slightly |
-| **Shallow breath** | Chest | Deep belly breath |
-| **Rushed movement** | Whole body | Slow down deliberately |
-| **Restless fidgeting** | General | Ground yourself |
+| **Stevige greep** | Hand | Maak de huid zacht voor elke worp. |
+| **Schouders opgetrokken** | Bovenrug | Laat je vallen en rol. |
+| **Geklemde kaken** | Gezicht | Open je mond een beetje |
+| **Oppervlakkige ademhaling** | Borst | Diep ademhalen vanuit de buik |
+| **Gehaaste beweging** | Hele lichaam | Vertraag bewust |
+| **Rusteloos gewiebel** | Algemeen | Aard jezelf |
 
-### Mental Warning Signs
+### Psychische waarschuwingssignalen
 
-- Racing thoughts
-- Negative self-talk increasing
-- Focus on outcome, not process
-- Awareness of stakes/score
-- Thinking about past mistakes
+- Razende gedachten
+- Negatieve zelfpraat neemt toe
+- Focus op het resultaat, niet op het proces.
+- Besef van de inzet/score
+- Nadenken over fouten uit het verleden
 
 ---
 
-## The Tension-Performance Self-Check
+## De spannings-prestatie zelfcontrole
 
-Use this quick assessment between throws or at breaks:
+Gebruik deze snelle beoordeling tussen de worpen door of tijdens pauzes:
 
-**Physical Scan (5 seconds):**
-1. Grip → Soft?
-2. Shoulders → Down?
-3. Jaw → Unclenched?
-4. Breathing → Slow and deep?
+**Fysieke scan (5 seconden):**
+1. Grip → Zacht?
+2. Schouders → naar beneden?
+3. Kaak → Ontspannen?
+4. Ademhaling → Langzaam en diep?
 
-**Mental Scan (5 seconds):**
-1. Thoughts → Present focused?
-2. Energy → Optimal range?
-3. Next action → Clear?
+**Mentale scan (5 seconden):**
+1. Gedachten → Ben je gefocust op het heden?
+2. Energie → Optimaal bereik?
+3. Volgende actie → Wissen?
 
-::: tip Make It a Habit
-The best players do this automatically. You can train yourself to do the same through repetition.
+::: tip Maak er een gewoonte van.
+De beste spelers doen dit automatisch. Je kunt jezelf trainen om hetzelfde te doen door herhaling.
 :::
 
 ---
 
-## In This Module
+## In deze module
 
-### [Tension Release Techniques](/nl/education/tension/techniques)
-- Progressive Muscle Relaxation (PMR)
-- Quick release techniques for competition
-- Breathing protocols
-- Pre-throw tension reset
+### [Technieken voor het loslaten van spanning](/en/education/tension/techniques)
+- Progressieve spierontspanning (PMR)
+- Snelontgrendelingstechnieken voor wedstrijden
+- Ademhalingsprotocollen
+- Spanning resetten vóór de worp
 
-### [Managing Tension in Competition](/nl/education/tension/competition)
-- Pre-match preparation
-- During-match protocols
-- Emergency "too tense" recovery
-- Post-mistake recovery
-
----
-
-## Quick Win: The 10-Second Reset
-
-Before your next throw, use this quick protocol:
-
-1. **Shoulders** — Drop them consciously
-2. **Grip** — Lighten it 20%
-3. **Jaw** — Unclench, tongue off roof of mouth
-4. **Breath** — One slow, full exhale
-
-This takes 10 seconds and can immediately improve your next throw.
+### [Spanning beheersen in een competitie](/en/education/tension/competition)
+- Voorbereiding voorafgaand aan de wedstrijd
+- Protocollen tijdens de wedstrijd
+- Noodherstel vanwege &quot;te gespannen&quot; situatie
+- Herstel na een fout
 
 ---
 
-## Related Factors
+## Snelle winst: De reset van 10 seconden
 
-- [Mental Strength](/nl/education/mental-game/mental-strength/) — Handling pressure
-- [Sleep & Recovery](/nl/education/sleep/) — Rest reduces baseline tension
-- [Mindfulness](/nl/education/mental-game/mindfulness/) — Present-moment awareness
-- [The Zone](/nl/education/mental-game/the-zone/) — Optimal performance state
+Volg voor je volgende worp dit korte protocol:
+
+1. **Schouders** — Laat ze bewust zakken
+2. **Grip** — Maak hem 20% lichter
+3. **Kaak** — Ontspan, tong van het gehemelte
+4. **Ademhaling** — Eén langzame, volledige uitademing
+
+Dit duurt slechts 10 seconden en kan je volgende worp direct verbeteren.
+
+---
+
+## Gerelateerde factoren
+
+- [Mentale kracht](/en/education/mental-game/mental-strength/) — Omgaan met druk
+- [Slaap en herstel](/en/education/sleep/) — Rust vermindert de basisspanning
+- [Mindfulness](/en/education/mental-game/mindfulness/) — Bewustzijn van het huidige moment
+- [De Zone](/en/education/mental-game/the-zone/) — Optimale prestatietoestand
 

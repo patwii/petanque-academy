@@ -1,35 +1,35 @@
-# Ambition
+# Ambitie
 
-Our mission is to help elite players take the next step in their development.
+Onze missie is om topspelers te helpen de volgende stap in hun ontwikkeling te zetten.
 
-::: tip Our Vision
-**Transform elite players from technically proficient to mentally unstoppable.** We use a data-driven approach to identify your highest-impact improvement areas.
+::: tip Onze visie
+**Transformeer topspelers van technisch begaafd naar mentaal onoverwinnelijk.** We gebruiken een datagestuurde aanpak om de belangrijkste verbeterpunten voor jou te identificeren.
 :::
 
-## The 8-Factor Performance Model
+## Het 8-factoren prestatiemodel
 
-Research and experience show that elite pétanque performance depends on **8 interconnected factors**. Most players over-invest in technique while neglecting the factors that actually separate good from great.
+Onderzoek en ervaring tonen aan dat topprestaties in pétanque afhangen van **8 onderling verbonden factoren**. De meeste spelers investeren te veel in techniek, terwijl ze de factoren verwaarlozen die een goede speler daadwerkelijk onderscheiden van een topspeler.
 
 ```mermaid
 graph TD
     subgraph "High Impact (1500 points)"
-        A[🧠 Mental Game<br/>600 pts]
-        B[🔥 Motivation<br/>500 pts]
-        C[😴 Sleep<br/>400 pts]
+        A[🧠 Mentaal spel <br/> 600 punten]
+        B[🔥 Motivatie <br/> 500 punten]
+        C[😴 Slapen <br/> 400 punten]
     end
 
     subgraph "Medium Impact (1000 points)"
-        D[🪞 Self-Awareness<br/>400 pts]
-        E[🥗 Nutrition<br/>300 pts]
-        F[🤝 Team Dynamics<br/>300 pts]
+        D[🪞 Zelfbewustzijn <br/> 400 punten]
+        E[🥗 Voeding <br/> 300 punten]
+        F[🤝 Teamdynamiek <br/> 300 punten]
     end
 
     subgraph "Foundation (400 points)"
-        G[💆 Tension Management<br/>300 pts]
-        H[🎯 Technique<br/>100 pts]
+        G[💆 Spanningsmanagement <br/> 300 punten]
+        H[🎯 Techniek <br/> 100 punten]
     end
 
-    A --> I[Peak Performance]
+    A --> I[Maximale prestaties]
     B --> I
     C --> I
     D --> I
@@ -44,84 +44,84 @@ graph TD
     style I fill:#4CAF50,color:#fff
 ```
 
-### Why Technique Has the Lowest Weight
+### Waarom techniek het minste gewicht in de schaal legt
 
-::: warning The Uncomfortable Truth
-**Technique accounts for only 100 of 2,900 total points** in our model.
+::: warning De ongemakkelijke waarheid
+**De techniek is slechts verantwoordelijk voor 100 van de 2900 totale punten** in ons model.
 
-This isn't because technique doesn't matter—it's because elite players have already developed adequate technique. The marginal improvement from perfecting your release is tiny compared to optimizing your sleep, managing tension, or strengthening your mental game.
+Dit komt niet doordat techniek er niet toe doet, maar doordat topspelers al een adequate techniek hebben ontwikkeld. De marginale verbetering die je behaalt door je afzet te perfectioneren, is minimaal in vergelijking met het optimaliseren van je slaap, het beheersen van spanning of het versterken van je mentale spel.
 :::
 
-## The ROI Principle
+## Het ROI-principe
 
-Not all improvements are equal. We use **Return on Investment (ROI)** calculations to identify where your training time will have the biggest impact.
+Niet alle verbeteringen zijn gelijkwaardig. We gebruiken **ROI (Return on Investment)**-berekeningen om te bepalen waar uw trainingstijd de grootste impact zal hebben.
 
-| Your Level | Factor Weight | ROI Potential |
+| Jouw niveau | Factorweging | Potentiële ROI |
 |------------|---------------|---------------|
-| Low skill in high-weight area | High (e.g., 600) | **Maximum** |
-| High skill in high-weight area | High (e.g., 600) | Low (diminishing returns) |
-| Low skill in low-weight area | Low (e.g., 100) | Moderate |
-| High skill in low-weight area | Low (e.g., 100) | **Minimal** |
+| Lage vaardigheid in het zwaargewichtgebied | Hoog (bijv. 600) | **Maximum** |
+| Uitstekende vaardigheid in het zwaargewichtgedeelte | Hoog (bijv. 600) | Laag (afnemende meeropbrengst) |
+| Lage vaardigheid in het gebied met laag gewicht | Laag (bijv. 100) | Gematigd |
+| Uitstekende vaardigheid in het lichtgewichtgebied. | Laag (bijv. 100) | **Minimaal** |
 
-**Example:** Improving your sleep from 30% to 60% (high-weight factor, low current skill) will likely have more impact than improving technique from 75% to 85% (low-weight factor, already high skill).
+**Voorbeeld:** Het verbeteren van je slaap van 30% naar 60% (hoge wegingfactor, laag huidig vaardigheidsniveau) zal waarschijnlijk meer impact hebben dan het verbeteren van je techniek van 75% naar 85% (lage wegingfactor, reeds hoog vaardigheidsniveau).
 
-## The 8 Factors Explained
+## De 8 factoren uitgelegd
 
-| Factor | Weight | What It Covers |
+| Factor | Gewicht | Wat het omvat |
 |--------|--------|----------------|
-| 🧠 **Mental Game** | 600 | Thought patterns, focus, confidence, flow state access |
-| 🔥 **Motivation** | 500 | Drive, purpose, goal orientation, persistence |
-| 😴 **Sleep & Recovery** | 400 | Quality rest, pre-competition protocols, energy management |
-| 🪞 **Self-Awareness** | 400 | Accurate self-perception, blind spot recognition, feedback use |
-| 🥗 **Nutrition** | 300 | Blood sugar stability, hydration, competition fueling |
-| 🤝 **Team Dynamics** | 300 | Communication, trust, role clarity, team contribution |
-| 💆 **Tension Management** | 300 | Physical relaxation, breath control, optimal arousal |
-| 🎯 **Technique** | 100 | Physical mechanics, throw repertoire, consistency |
+| 🧠 **Mentale uitdaging** | 600 | Denkpatronen, focus, zelfvertrouwen, toegang tot de flow-toestand |
+| 🔥 **Motivatie** | 500 | Gedrevenheid, doelgerichtheid, doorzettingsvermogen |
+| 😴 **Slaap &amp; Herstel** | 400 | Kwalitatief goede rust, protocollen voorafgaand aan de wedstrijd, energiemanagement |
+| 🪞 **Zelfbewustzijn** | 400 | Nauwkeurige zelfperceptie, herkenning van blinde vlekken, gebruik van feedback |
+| 🥗 **Voeding** | 300 | Bloedsuikerstabiliteit, hydratatie, brandstofvoorziening voor de wedstrijd |
+| 🤝 **Teamdynamiek** | 300 | Communicatie, vertrouwen, duidelijkheid over rollen, teamwerk |
+| 💆 **Spanningsmanagement** | 300 | Fysieke ontspanning, ademhalingsoefeningen, optimale alertheid |
+| 🎯 **Techniek** | 100 | Fysieke techniek, werprepertoire, consistentie |
 
-## Discover Your Path
+## Ontdek jouw pad
 
-We've built a **free assessment tool** that analyzes your current levels across all 8 factors and calculates your personalized improvement priorities.
+We hebben een **gratis beoordelingstool** ontwikkeld die uw huidige niveau op alle 8 factoren analyseert en uw persoonlijke verbeterpunten berekent.
 
-::: info Take the Assessment
-**[→ Start Your Player Development Assessment](/nl/assessment/)**
+::: info Doe de toets
+**[→ Start je spelersontwikkelingsbeoordeling](/en/assessment/)**
 
-In 5 minutes, you'll receive:
-- Your radar chart across all 8 factors
-- ROI-ranked recommendations for what to work on
-- Links to specific educational content for your top priorities
-- Option to get peer feedback from teammates
+Binnen 5 minuten ontvangt u:
+- Uw radardiagram over alle 8 factoren
+- Aanbevelingen op basis van ROI voor waaraan u kunt werken
+- Links naar specifieke educatieve content die aansluit bij uw prioriteiten.
+- Mogelijkheid om feedback van teamgenoten te ontvangen.
 :::
 
-## What We Offer
+## Wat wij bieden
 
-| Offering | Description | Link |
+| aanbod | Beschrijving | Link |
 |----------|-------------|------|
-| **Assessment Tool** | Identify your highest-ROI improvement areas | [Take Assessment](/nl/assessment/) |
-| **Education Modules** | Deep content on all 8 factors | [Browse Education](/nl/education/) |
-| **Workshops** | 3-4 hour sessions for groups of 6-8 players | [Workshop Guide](/nl/guides/workshop/) |
-| **Training Camps** | Weekend intensives mixing theory and practice | [Camp Guide](/nl/guides/training-camp/) |
+| **Beoordelingsinstrument** | Identificeer de verbeterpunten met het hoogste rendement op uw investering (ROI). | [Doe de toets](/en/assessment/) |
+| **Onderwijsmodules** | Uitgebreide inhoud over alle 8 factoren | [Bekijk Onderwijs](/en/education/) |
+| **Workshops** | Sessies van 3-4 uur voor groepen van 6-8 spelers. | [Workshophandleiding](/en/guides/workshop/) |
+| **Trainingskampen** | Weekendcursussen waarin theorie en praktijk worden gecombineerd | [Kampgids](/en/guides/training-camp/) |
 
-## Our Approach
+## Onze aanpak
 
-### 1. Assess First
-Start with honest self-evaluation. Get peer feedback to identify blind spots.
+### 1. Eerst beoordelen
+Begin met een eerlijke zelfevaluatie. Vraag feedback van collega&#39;s om blinde vlekken te ontdekken.
 
-### 2. Prioritize by ROI
-Focus on high-weight factors where you have room to grow—not what feels comfortable.
+### 2. Prioriteer op basis van ROI
+Richt je op de belangrijke factoren waar je nog ruimte hebt om te groeien, en niet op wat comfortabel aanvoelt.
 
-### 3. Learn the Science
-Understand *why* something works, not just *what* to do.
+### 3. Leer de wetenschap
+Begrijp *waarom* iets werkt, niet alleen *wat* je moet doen.
 
-### 4. Practice Deliberately
-Apply techniques in training before competition. Build habits, not just knowledge.
+### 4. Oefen doelgericht
+Pas technieken toe tijdens de training vóór de wedstrijd. Bouw gewoontes op, niet alleen kennis.
 
-### 5. Reassess Regularly
-Track your progress. Your priorities will shift as you improve.
+### 5. Regelmatig opnieuw beoordelen
+Houd je voortgang bij. Je prioriteiten zullen veranderen naarmate je beter wordt.
 
-::: tip Ready to Take the Next Step?
-**[→ Start with the Assessment](/nl/assessment/)** — It's free and takes 5 minutes.
+::: tip Klaar voor de volgende stap?
+**[→ Begin met de beoordeling](/en/assessment/)** — Het is gratis en duurt 5 minuten.
 
-Or explore our [Education](/nl/education/) section to dive into any of the 8 factors.
+Of verken onze [Onderwijs](/en/education/) sectie om dieper in te gaan op een van de 8 factoren.
 :::
 
 

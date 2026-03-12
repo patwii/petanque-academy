@@ -3,108 +3,108 @@ title: Player Development Assessment
 description: Evaluate yourself on 8 key performance factors and discover your optimal improvement path with ROI-based recommendations.
 ---
 
-# Player Development Assessment
+# Vurdering av spillerutvikling
 
 <AssessmentForm />
 
 ---
 
-## How It Works
+## Hvordan det fungerer
 
-### The 8-Factor Model
+### 8-faktormodellen
 
-Our assessment is based on 8 key performance factors, each weighted by their impact on elite performance:
+Vår vurdering er basert på 8 viktige ytelsesfaktorer, hver vektet etter sin innvirkning på eliteprestasjoner:
 
-| Factor | Weight | Why It Matters |
+| Faktor | Vekt | Hvorfor det er viktig |
 |--------|--------|----------------|
-| 🧠 **Mental Game** | 600 | Thought patterns, focus, and flow states determine consistency |
-| 🔥 **Motivation** | 500 | Sustained drive enables long-term improvement |
-| 😴 **Sleep & Recovery** | 400 | Rest directly impacts reaction time and decision-making |
-| 🪞 **Self-Awareness** | 400 | You can't improve what you can't see |
-| 🥗 **Nutrition** | 300 | Stable energy = stable performance |
-| 🤝 **Team Dynamics** | 300 | Communication and trust often outweigh talent |
-| 💆 **Tension Management** | 300 | Tension is precision's enemy |
-| 🎯 **Technique** | 100 | At elite level, everyone has good technique |
+| 🧠 **Mentalt spill** | 600 | Tankemønstre, fokus og flyttilstander bestemmer konsistens |
+| 🔥 **Motivasjon** | 500 | Vedvarende drivkraft muliggjør langsiktig forbedring |
+| 😴 **Søvn og restitusjon** | 400 | Hvile påvirker direkte reaksjonstid og beslutningstaking |
+| 🪞 **Selvinnsikt** | 400 | Du kan ikke forbedre det du ikke kan se |
+| 🥗 **Ernæring** | 300 | Stabil energi = stabil ytelse |
+| 🤝 **Teamdynamikk** | 300 | Kommunikasjon og tillit veier ofte tyngre enn talent |
+| 💆 **Spenningsmestring** | 300 | Spenning er presisjonens fiende |
+| 🎯 **Teknikk** | 100 | På elitenivå har alle god teknikk |
 
-### The ROI Formula
+### Avkastningsformelen
 
-Not all improvements are equal. We calculate **Return on Investment (ROI)** to find where your effort will have the most impact:
+Ikke alle forbedringer er like. Vi beregner **avkastning på investeringen (ROI)** for å finne ut hvor innsatsen din vil ha størst effekt:
 
 ```
 ROI = (Potential Gain × Weight) / Effort Required
 ```
 
-**Key insight:** A low score in a high-weight factor often gives better ROI than a medium score in a lower-weight factor.
+**Viktig innsikt:** En lav poengsum i en faktor med høy vekt gir ofte bedre avkastning enn en middels poengsum i en faktor med lavere vekt.
 
-### Example
+### Eksempel
 
-| Factor | Weight | Current | ROI |
+| Faktor | Vekt | Nåværende | Avkastning |
 |--------|--------|---------|-----|
-| Sleep | 400 | 30% | 312 |
-| Mental Game | 600 | 70% | 169 |
-| Technique | 100 | 80% | 18 |
+| Sove | 400 | 30 % | 312 |
+| Mentalt spill | 600 | 70 % | 169 |
+| Teknikk | 100 | 80 % | 18 |
 
-Despite Mental Game having the highest weight, improving Sleep from 30% offers **1.8x better ROI** because:
-- More room for improvement (low current level)
-- Less effort required (not fighting against plateau)
-
----
-
-## Rating Guidelines
-
-### 0-25%: Beginner
-- No experience or awareness
-- Learning basic concepts
-- Limited consistency
-
-### 25-50%: Developing
-- Some awareness but inconsistent
-- Basic understanding
-- Occasional success
-
-### 50-75%: Competent
-- Regular application
-- Good consistency
-- Can handle normal situations
-
-### 75-100%: Advanced/World-Class
-- Reliable execution
-- Works under pressure
-- Consistent excellence
+Til tross for at Mental Game har høyest vekt, gir en forbedring av søvn fra 30 % **1,8 ganger bedre avkastning** fordi:
+- Mer rom for forbedring (lavt strømnivå)
+- Mindre innsats kreves (ikke kjempende mot platå)
 
 ---
 
-## The Self-Awareness Catch-22
+## Retningslinjer for vurdering
 
-::: warning Important Note
-Low self-awareness affects the accuracy of ALL your assessments. If you suspect your self-awareness might be low, consider:
+### 0–25 %: Nybegynner
+- Ingen erfaring eller bevissthet
+- Lære grunnleggende konsepter
+- Begrenset konsistens
 
-1. **Ask trusted teammates** how they would rate you
-2. **Review video** of your play
-3. **Compare results** over time to calibrate
+### 25–50 %: Utvikling
+- Noe bevissthet, men inkonsekvent
+- Grunnleggende forståelse
+- Av og til suksess
+
+### 50–75 %: Kompetent
+- Regelmessig søknad
+- God konsistens
+- Kan håndtere normale situasjoner
+
+### 75–100 %: Avansert/i verdensklasse
+- Pålitelig utførelse
+- Jobber under press
+- Konsekvent fortreffelighet
+
+---
+
+## Selvinnsiktens paradoks
+
+::: warning Viktig merknad
+Lav selvinnsikt påvirker nøyaktigheten av ALLE vurderingene dine. Hvis du mistenker at selvinnsikten din kan være lav, bør du vurdere:
+
+1. **Spør dine betrodde lagkamerater** hvordan de ville vurdert deg
+2. **Anmeld video** av skuespillet ditt
+3. **Sammenlign resultater** over tid for å kalibrere
 :::
 
 ---
 
-## What's Next?
+## Hva blir det neste?
 
-After completing your assessment:
+Etter at du har fullført vurderingen:
 
-1. **Focus on your #1 recommendation** — Don't try to improve everything at once
-2. **Explore the education modules** — Each factor has in-depth content
-3. **Track progress over time** — Your data is saved locally
-4. **Re-assess monthly** — Track your improvement
+1. **Fokuser på din første anbefaling** – Ikke prøv å forbedre alt på én gang
+2. **Utforsk utdanningsmodulene** – Hver faktor har dyptgående innhold
+3. **Spor fremgang over tid** – Dataene dine lagres lokalt
+4. **Vurder på nytt månedlig** — Spor forbedringen din
 
 ---
 
-## Learn More About Each Factor
+## Lær mer om hver faktor
 
-- [🧠 Mental Game](/en_US.UTF-8/education/mental-game/) — Flow states, mental strength, mindfulness
-- [🔥 Motivation](/en_US.UTF-8/education/motivation/) — Goal setting, psychology, long-term drive
-- [😴 Sleep & Recovery](/en_US.UTF-8/education/sleep/) — Sleep science, habits, competition protocols
-- [🪞 Self-Awareness](/en_US.UTF-8/education/self-awareness/) — Feedback, video analysis, blind spots
-- [🥗 Nutrition](/en_US.UTF-8/education/nutrition/) — Blood sugar, hydration, competition fuel
-- [🤝 Team Dynamics](/en_US.UTF-8/education/team-dynamics/) — Communication, trust, team culture
-- [💆 Tension Management](/en_US.UTF-8/education/tension/) — Relaxation techniques, breathing, protocols
-- [🎯 Technique](/en_US.UTF-8/education/technique/) — Training methods, tactics, drills
+- [🧠 Mentalt spill](/no/utdanning/mentalt-spill/) — Flyttilstander, mental styrke, mindfulness
+- [🔥 Motivasjon](/no/utdanning/motivasjon/) — Målsetting, psykologi, langsiktig drivkraft
+- [😴 Søvn og restitusjon](/no/utdanning/søvn/) — Søvnvitenskap, vaner, konkurranseprotokoller
+- [🪞 Selvinnsikt](/no/utdanning/selvinnsikt/) — Tilbakemeldinger, videoanalyse, blindsoner
+- [🥗 Ernæring](/no/utdanning/ernæring/) — Blodsukker, hydrering, drivstoff for konkurranser
+- [🤝 Teamdynamikk](/no/utdanning/teamdynamikk/) — Kommunikasjon, tillit, teamkultur
+- [💆 Spenningshåndtering](/no/utdanning/spenning/) — Avslapningsteknikker, pust, protokoller
+- [🎯 Teknikk](/no/utdanning/teknikk/) — Treningsmetoder, taktikker, øvelser
 

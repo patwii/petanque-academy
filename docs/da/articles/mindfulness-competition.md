@@ -3,31 +3,31 @@ title: Mindfulness in Competition
 description: Apply mindfulness principles during pétanque matches to stay present, manage emotions, and perform at your best when it matters most.
 ---
 
-# Mindfulness in Competition
+# Mindfulness i konkurrence
 
-> "Mindfulness isn't just for meditation cushions — it's a competitive advantage."
+> &quot;Mindfulness er ikke kun for meditationspuder – det er en konkurrencefordel.&quot;
 
-The ability to stay present, aware, and non-reactive during matches separates elite performers from those who crumble under pressure.
+Evnen til at forblive nærværende, opmærksom og ikke-reaktiv under kampe adskiller eliteudøvere fra dem, der smuldrer under pres.
 
-::: tip The Present Moment Advantage
-**You can only throw one boule at a time.** Mindfulness keeps you in the only moment that matters — this one.
+::: tip Fordelen i nuet
+**Du kan kun kaste én kugle ad gangen.** Mindfulness holder dig fast i det eneste øjeblik, der betyder noget – dette.
 :::
 
 ---
 
-## What Mindfulness Means in Competition
+## Hvad mindfulness betyder i konkurrence
 
 ```mermaid
 flowchart TD
-    A[Competitive Mindfulness] --> B[Present-Moment<br/>Awareness]
-    A --> C[Non-Judgmental<br/>Observation]
-    A --> D[Intentional<br/>Attention]
-    A --> E[Emotional<br/>Regulation]
+    A[Konkurrencemindfulness] --> B[Nutiden <br/> Bevidsthed]
+    A --> C[Ikke-dømmende <br/> Observation]
+    A --> D[Forsætlig <br/> Opmærksomhed]
+    A --> E[Følelsesmæssig <br/> Regulering]
 
-    B --> F[Not in past or future]
-    C --> G[Notice without judging]
-    D --> H[Choose your focus]
-    E --> I[Feel without being controlled]
+    B --> F[Ikke i fortiden eller fremtiden]
+    C --> G[Bemærk uden at dømme]
+    D --> H[Vælg dit fokus]
+    E --> I[Føl uden at være kontrolleret]
 
     style A fill:#9C27B0,color:#fff
     style F fill:#e1bee7
@@ -38,160 +38,160 @@ flowchart TD
 
 ---
 
-## The Wandering Mind Problem
+## Problemet med det vandrende sind
 
-::: danger The 47% Problem
-**Research shows the average mind wanders 47% of the time.** In competition, this wandering is costly.
+::: danger 47%-problemet
+**Forskning viser, at den gennemsnitlige tankegang vandrer 47% af tiden.** I konkurrence er denne vandring dyr.
 :::
 
-| Where Mind Goes | What You Miss |
+| Hvor sindet går hen | Hvad du savner |
 |-----------------|---------------|
-| Last missed shot | Current terrain reading |
-| Worrying about score | Optimal throw selection |
-| What others think | Feel of the boule |
-| Planning celebrations | Present-moment execution |
+| Sidste missede skud | Aktuel terrænaflæsning |
+| Bekymret for scoren | Optimal kastevalg |
+| Hvad andre synes | Fornemmelsen af boule |
+| Planlægning af festligheder | Udførelse i nuet |
 
-Every moment spent in mental time-travel is a moment not spent on the throw in front of you.
+Hvert øjeblik brugt på mental tidsrejse er et øjeblik, der ikke bruges på kastet foran dig.
 
-## Mindfulness Skills for Competition
+## Mindfulness-færdigheder til konkurrence
 
-### 1. Anchoring to the Present
+### 1. Forankring til nutiden
 
-Use sensory anchors to return to now:
+Brug sensoriske ankre til at vende tilbage til nuet:
 
-**Physical anchors:**
-- Feel the weight of the boule
-- Notice your feet on the ground
-- Feel the texture of the grip
+**Fysiske ankre:**
+- Mærk vægten af kuglen
+- Læg mærke til dine fødder på jorden
+- Føl grebets tekstur
 
-**Environmental anchors:**
-- Look at specific details of the terrain
-- Listen to ambient sounds
-- Feel the temperature and wind
+**Miljømæssige ankre:**
+- Se på specifikke detaljer i terrænet
+- Lyt til omgivende lyde
+- Mærk temperaturen og vinden
 
-### 2. Observing Without Reacting
+### 2. Observation uden at reagere
 
-When emotions arise (frustration, anxiety, excitement), practice:
+Når følelser opstår (frustration, angst, begejstring), øv dig:
 
-1. **Notice**: "I'm feeling frustrated"
-2. **Name**: "This is frustration"
-3. **Allow**: Let it be there without fighting
-4. **Return**: Bring attention back to the present task
+1. **Bemærk**: &quot;Jeg føler mig frustreret&quot;
+2. **Navn**: &quot;Dette er frustration&quot;
+3. **Tillad**: Lad det være der uden kamp
+4. **Returner**: Bring opmærksomheden tilbage til den aktuelle opgave
 
-The emotion doesn't disappear, but it loses its power to control you.
+Følelserne forsvinder ikke, men de mister deres evne til at kontrollere dig.
 
-### 3. Single-Pointed Focus
+### 3. Enkeltpunktsfokus
 
-Train your attention to stay on one thing:
+Træn din opmærksomhed til at fokusere på én ting:
 
-**Before the throw:**
-- Focus only on reading the terrain
-- Then only on visualizing the result
-- Then only on your body position
+**Før kastet:**
+- Fokuser kun på at aflæse terrænet
+- Først når man så visualiserer resultatet
+- Så kun på din kropsholdning
 
-**During the throw:**
-- Focus only on the target
-- Let the body execute without interference
+**Under kastet:**
+- Fokuser kun på målet
+- Lad kroppen udføre arbejdet uden indblanding
 
-### 4. Beginner's Mind
+### 4. Begynderens sind
 
-Approach each throw as if it's your first:
-- No assumptions based on past performance
-- Fresh eyes on the terrain
-- Curiosity rather than expectation
+Gå til værks, som om det var dit første:
+- Ingen antagelser baseret på tidligere præstationer
+- Friske øjne på terrænet
+- Nysgerrighed snarere end forventning
 
-## Practical Applications
+## Praktiske anvendelser
 
-### Between Throws
+### Mellem kast
 
-The time between throws is when minds wander most. Use this time mindfully:
+Tiden mellem kastene er den tid, hvor tankerne vandrer mest. Brug denne tid mindfult:
 
-- **Watch actively**: Observe teammates and opponents with full attention
-- **Stay embodied**: Notice your breathing, posture, physical state
-- **Prepare mentally**: Visualize potential scenarios
-- **Rest attention**: Give your focus brief breaks
+- **Aktivt overvågning**: Observer medspillere og modstandere med fuld opmærksomhed
+- **Forbliv kropslig**: Læg mærke til din vejrtrækning, kropsholdning og fysiske tilstand
+- **Forbered dig mentalt**: Visualiser potentielle scenarier
+- **Hvile opmærksomhed**: Giv dit fokus korte pauser
 
-### During Pressure Moments
+### Under trykmomenter
 
-When stakes are highest:
+Når indsatsen er højest:
 
-1. **Slow down**: Take an extra breath
-2. **Ground yourself**: Feel your feet, the boule
-3. **Narrow focus**: This throw only
-4. **Trust**: Let go of outcome attachment
+1. **Sænk farten**: Tag en ekstra indånding
+2. **Grund dig selv**: Føl dine fødder, boulebanen
+3. **Smalt fokus**: Kun dette kast
+4. **Tillid**: Slip tilknytningen til resultater
 
-### After Mistakes
+### Efter fejl
 
-Mistakes trigger rumination. Break the cycle:
+Fejl udløser grublen. Bryd cyklussen:
 
-1. **Acknowledge**: "That didn't go as planned"
-2. **Extract**: "What can I learn?"
-3. **Release**: "It's done, moving on"
-4. **Refocus**: "What's next?"
+1. **Anerkender**: &quot;Det gik ikke som planlagt&quot;
+2. **Uddrag**: &quot;Hvad kan jeg lære?&quot;
+3. **Udgivelse**: &quot;Det er færdigt, vi går videre&quot;
+4. **Refokusér**: &quot;Hvad er det næste?&quot;
 
-## The Mindful Pre-Shot Routine
+## Den mindful pre-shot rutine
 
-Integrate mindfulness into your routine:
+Integrer mindfulness i din rutine:
 
-1. **Arrive**: Step into the circle with full presence
-2. **Breathe**: One conscious breath to center
-3. **See**: Mindfully observe the terrain
-4. **Visualize**: See the result with clarity
-5. **Feel**: Notice the boule, your body
-6. **Release**: Let go and trust
+1. **Ankomst**: Træd ind i cirklen med fuld tilstedeværelse
+2. **Træk vejret**: Én bevidst åndedrag til centrering
+3. **Se**: Observer terrænet opmærksomt
+4. **Visualiser**: Se resultatet med klarhed
+5. **Føl**: Læg mærke til kuglen, din krop
+6. **Slip**: Slip fri og stol på
 
-## Common Challenges
+## Almindelige udfordringer
 
-### "I can't stop thinking"
+### &quot;Jeg kan ikke holde op med at tænke&quot;
 
-You don't need to stop thoughts — just don't follow them. Notice the thought, let it pass, return to your anchor.
+Du behøver ikke at stoppe tanker – bare følg dem ikke. Læg mærke til tanken, lad den passere, vend tilbage til dit anker.
 
-### "Mindfulness makes me too relaxed"
+### &quot;Mindfulness gør mig for afslappet&quot;
 
-Competitive mindfulness isn't about being calm — it's about being present. You can be alert, energized, and mindful simultaneously.
+Konkurrencemindfulness handler ikke om at være rolig – det handler om at være til stede. Du kan være vågen, energisk og mindful på samme tid.
 
-### "I forget to be mindful"
+### &quot;Jeg glemmer at være opmærksom&quot;
 
-Use triggers:
-- Picking up the boule = mindfulness cue
-- Stepping into the circle = presence reminder
-- Taking your stance = attention anchor
+Brug triggere:
+- At tage kuglen op = mindfulness-kø
+- At træde ind i cirklen = påmindelse om tilstedeværelse
+- At tage din holdning = opmærksomhedsanker
 
-## Building the Skill
+## Opbygning af færdigheden
 
-### Daily Practice
+### Daglig praksis
 
-5-10 minutes of formal mindfulness practice builds the neural pathways:
-- Breath awareness meditation
-- Body scan practice
-- Mindful observation exercises
+5-10 minutters formel mindfulness-praksis opbygger de neurale baner:
+- Meditation til bevidsthed om åndedrættet
+- Øvelse i kropsscanning
+- Mindful observationsøvelser
 
-### Training Integration
+### Træningsintegration
 
-Practice mindfulness during every training session:
-- Full presence for each throw
-- Notice when attention wanders
-- Practice returning to focus
+Øv mindfulness under hver træningssession:
+- Fuld tilstedeværelse for hvert kast
+- Læg mærke til, når opmærksomheden vandrer
+- Øv dig i at vende tilbage til fokus
 
-### Competition Preparation
+### Konkurrenceforberedelse
 
-Before matches:
-- Brief mindfulness practice
-- Set intention for present-focus
-- Remind yourself of your anchors
+Før kampene:
+- Kort mindfulness-øvelse
+- Sæt intention for nutidsfokus
+- Mind dig selv om dine ankre
 
-## The Competitive Edge
+## Den konkurrencemæssige fordel
 
-Mindful competitors have advantages:
-- **Faster recovery** from mistakes
-- **Better decision-making** under pressure
-- **More consistent** performance
-- **Greater enjoyment** of competition
-- **Reduced burnout** and anxiety
+Opmærksomme konkurrenter har fordele:
+- **Hurtigere gendannelse** efter fejl
+- **Bedre beslutningstagning** under pres
+- **Mere ensartet** ydeevne
+- **Større glæde** ved konkurrence
+- **Reduceret udbrændthed** og angst
 
-The player who is fully present for each throw, while others are lost in thought, has a significant edge.
+Den spiller, der er fuldt til stede ved hvert kast, mens andre er fordybet i tanker, har en betydelig fordel.
 
 ---
 
-*Related: [Mindfulness Introduction](/da/education/mental-game/mindfulness/) | [Mindfulness Techniques](/da/education/mental-game/mindfulness/techniques) | [Daily Practice](/da/education/mental-game/mindfulness/daily-practice)*
+| *Relateret: [Introduktion til mindfulness](/da/uddannelse/mentalt-spil/mindfulness/) | [Mindfulness-teknikker](/da/uddannelse/mentalt-spil/mindfulness/teknikker) | [Daglig praksis](/da/uddannelse/mental-leg/mindfulness/daglig-øvelse)* |
 

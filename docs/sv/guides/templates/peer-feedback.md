@@ -1,89 +1,89 @@
-# Peer Feedback Template
+# Mall för kamratfeedback
 
-Structured templates for requesting and giving honest feedback to teammates.
+Strukturerade mallar för att begära och ge ärlig feedback till lagkamrater.
 
-::: tip Why Peer Feedback?
-**We all have blind spots.** Research shows self-assessment accuracy improves dramatically when combined with peer feedback. Your teammates see things you can't.
+::: tip Varför kamratfeedback?
+**Vi har alla blinda fläckar.** Forskning visar att noggrannheten i självbedömningar förbättras dramatiskt när den kombineras med feedback från kollegor. Dina lagkamrater ser saker som du inte kan.
 :::
 
-## Requesting Feedback
+## Begär feedback
 
-### How to Ask
+### Hur man frågar
 
-**When:** After training sessions or competitions (not during)
-**Who:** Teammates who've played with you recently
-**How:** Share this form or use the digital assessment
+**När:** Efter träningspass eller tävlingar (inte under)
+**Vilka:** Lagkamrater som har spelat med dig nyligen
+**Hur:** Dela detta formulär eller använd den digitala bedömningen
 
-::: info Digital Option
-Use the [Player Assessment Tool](/sv/assessment/) with the "Get Peer Feedback" feature for automatic comparison and blind spot detection.
+::: info Digitalt alternativ
+Använd [Spelarbedömningsverktyget](/sv/bedömning/) med funktionen &quot;Få peer feedback&quot; för automatisk jämförelse och upptäckt av döda vinklar.
 :::
 
 ---
 
-### Feedback Request Form
+### Formulär för återkopplingsförfrågan
 
-**To:** ________ (teammate name)
-**From:** ________ (your name)
-**Date:** ________
+**Till:** ________ (lagkamratens namn)
+**Från:** ________ (ditt namn)
+**Datum:** ________
 
-**Context:** I'm working on improving my game and would value your honest perspective. Please rate me based on what you've observed, not what you think I want to hear.
+**Kontext:** Jag jobbar på att förbättra mitt spel och skulle uppskatta ditt ärliga perspektiv. Vänligen betygsätt mig baserat på vad du har observerat, inte vad du tror att jag vill höra.
 
 ---
 
-**Rate me 1-10 on each area:**
+**Betygsätt mig 1–10 på varje område:**
 
-| Area | Your Rating | Comments |
+| Område | Ditt betyg | Kommentarer |
 |------|-------------|----------|
-| **Technical consistency** | /10 | |
-| **Shot selection decisions** | /10 | |
-| **Performance under pressure** | /10 | |
-| **Communication with team** | /10 | |
-| **Body language after mistakes** | /10 | |
-| **Focus/concentration** | /10 | |
-| **Energy/motivation** | /10 | |
-| **Supportiveness to teammates** | /10 | |
+| **Teknisk konsekvens** | /10 |
+| **Beslut om skottval** | /10 |
+| **Prestation under press** | /10 |
+| **Kommunikation med teamet** | /10 |
+| **Kroppsspråk efter misstag** | /10 |
+| **Fokus/koncentration** | /10 |
+| **Energi/motivation** | /10 |
+| **Stödjande för lagkamrater** | /10 |
 
 ---
 
-**Open questions:**
+**Öppna frågor:**
 
-1. **What do I do well that I should keep doing?**
+1. **Vad gör jag bra som jag borde fortsätta göra?**
 
-2. **What's one thing holding me back that I might not see?**
+2. **Vad är det som håller mig tillbaka som jag kanske inte ser?**
 
-3. **In pressure situations, what do you notice about me?**
+3. **Vad lägger du märke till hos mig i pressade situationer?**
 
-4. **How could I better support the team?**
+4. **Hur kan jag bättre stötta laget?**
 
-5. **Any other observations?**
-
----
-
-## Giving Feedback
-
-### Guidelines for Honest, Helpful Feedback
-
-**Be specific:** Not "you're inconsistent" but "I noticed your pointing accuracy drops in the last 3 ends"
-
-**Be kind but honest:** Sugarcoating doesn't help growth
-
-**Focus on behavior, not personality:** Not "you're negative" but "after misses, your body language affects the team"
-
-**Include positives:** Balance areas for improvement with genuine strengths
-
-**Offer observations, not judgments:** "I observed..." not "You always..."
+5. **Några andra observationer?**
 
 ---
 
-### Feedback Response Form
+## Ge feedback
 
-**For:** ________ (requester name)
-**From:** ________ (your name)
-**Date:** ________
+### Riktlinjer för ärlig och hjälpsam feedback
+
+**Var specifik:** Inte &quot;du är inkonsekvent&quot; utan &quot;jag märkte att din poängnoggrannhet minskade i de sista 3 omgångarna&quot;
+
+**Var snäll men ärlig:** Försockring hjälper inte tillväxt
+
+**Fokusera på beteende, inte personlighet:** Inte &quot;du är negativ&quot; utan &quot;efter missar påverkar ditt kroppsspråk laget&quot;
+
+**Inkludera positiva sidor:** Balansera förbättringsområden med verkliga styrkor
+
+**Ge observationer, inte dömande:** &quot;Jag observerade...&quot; inte &quot;Du har alltid...&quot;
 
 ---
 
-**Strengths I've observed:**
+### Svarsformulär för feedback
+
+**För:** ________ (begärandes namn)
+**Från:** ________ (ditt namn)
+**Datum:** ________
+
+---
+
+**Styrkor jag har observerat:**
 
 1.
 
@@ -93,95 +93,95 @@ Use the [Player Assessment Tool](/sv/assessment/) with the "Get Peer Feedback" f
 
 ---
 
-**Areas for development:**
+**Utvecklingsområden:**
 
-1. **Area:** ________
-   **Specific observation:**
-   **Suggestion:**
+1. **Område:** ________
+   **Specifik observation:**
+   **Förslag:**
 
-2. **Area:** ________
-   **Specific observation:**
-   **Suggestion:**
-
----
-
-**Under pressure, I notice you:**
+2. **Område:** ________
+   **Specifik observation:**
+   **Förslag:**
 
 ---
 
-**One thing that might be a blind spot:**
+**Under press lägger jag märke till dig:**
 
 ---
 
-**Overall, I think you could take your game to the next level by:**
+**En sak som kan vara en blind fläck:**
 
 ---
 
-## Team Feedback Session Format
-
-For teams wanting structured feedback conversations:
-
-### Setup (5 min)
-- Each person has given written feedback beforehand
-- Safe space agreement: honest but respectful
-- Focus on growth, not criticism
-
-### Round 1: Strengths (15 min)
-Each player shares:
-- "What I appreciate about [teammate]'s contribution to the team"
-- Go around for each team member
-
-### Round 2: Growth Areas (20 min)
-Each player shares:
-- "One thing [teammate] could work on that would help the team"
-- Receiver listens without defending
-- Ask clarifying questions only
-
-### Round 3: Commitments (10 min)
-Each player states:
-- "Based on this feedback, I will focus on..."
-
-### Close (5 min)
-- Thank each other for honesty
-- Schedule follow-up in 4-6 weeks
+**Sammantaget tror jag att du kan ta ditt spel till nästa nivå genom att:**
 
 ---
 
-## Receiving Feedback
+## Format för teamfeedbacksession
 
-### How to Receive Well
+För team som vill ha strukturerade feedbacksamtal:
 
-**Don't:**
-- Defend or explain
-- Dismiss ("they don't understand")
-- Get emotional
-- Argue
+### Uppställning (5 min)
+- Varje person har gett skriftlig feedback i förväg
+- Avtal om säkert utrymme: ärligt men respektfullt
+- Fokusera på tillväxt, inte kritik
+
+### Omgång 1: Styrkor (15 min)
+Varje spelare delar:
+- &quot;Vad jag uppskattar med [lagkamratens] bidrag till laget&quot;
+- Gå runt för varje lagmedlem
+
+### Omgång 2: Tillväxtområden (20 min)
+Varje spelare delar:
+- &quot;En sak [lagkamraten] skulle kunna arbeta på som skulle hjälpa laget&quot;
+- Mottagaren lyssnar utan att försvara sig
+- Ställ endast förtydligande frågor
+
+### Omgång 3: Åtaganden (10 min)
+Varje spelare uppger:
+- &quot;Baserat på denna feedback kommer jag att fokusera på...&quot;
+
+### Stäng (5 min)
+- Tacka varandra för ärligheten
+- Boka uppföljning om 4-6 veckor
+
+---
+
+## Ta emot feedback
+
+### Hur man tar emot väl
+
+**Gör inte:**
+- Försvara eller förklara
+- Avfärda (&quot;de förstår inte&quot;)
+- Bli känslosam
+- Argumentera
 
 **Do:**
-- Listen fully
-- Ask clarifying questions
-- Thank them for honesty
-- Reflect before responding
-- Look for patterns across multiple sources
+- Lyssna helt
+- Ställ förtydligande frågor
+- Tacka dem för ärligheten
+- Reflektera innan du svarar
+- Leta efter mönster i flera källor
 
-### Processing Template
+### Bearbetningsmall
 
-**Feedback received:**
+**Mottagen feedback:**
 
-**My initial reaction:**
+**Min första reaktion:**
 
-**After reflection, I think:**
+**Efter eftertanke tänker jag:**
 
-**Pattern I'm noticing (if multiple sources):**
+**Mönster jag lägger märke till (om det finns flera källor):**
 
-**Action I will take:**
+**Åtgärd jag kommer att vidta:**
 
 ---
 
-## Related Resources
+## Relaterade resurser
 
-- [🎯 Assessment Tool](/sv/assessment/) — Digital self + peer assessment
-- [Self-Awareness Education](/sv/education/self-awareness/) — Understanding blind spots
-- [Team Agreement Template](/sv/guides/templates/team-agreement) — Build team communication
-- [Training Diary](/sv/guides/templates/diary-template) — Track your development
+- [🎯 Bedömningsverktyg](/sv/bedömning/) — Digital självbedömning + kamratbedömning
+- [Utbildning i självkännedom](/sv/utbildning/självkännedom/) — Att förstå blinda fläckar
+- [Mall för teamavtal](/sv/guider/mallar/teamavtal) — Bygg teamkommunikation
+- [Träningsdagbok](/sv/guider/mallar/dagboksmall) — Följ din utveckling
 

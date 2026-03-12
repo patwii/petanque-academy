@@ -3,171 +3,171 @@ title: Templates & Tools
 description: Downloadable templates for goal setting, training diaries, sleep tracking, competition preparation, and team development.
 ---
 
-# Templates & Tools
+# Sjablonen en tools
 
-Practical templates to support your development journey.
+Praktische sjablonen ter ondersteuning van je ontwikkelingstraject.
 
-## Available Templates
+## Beschikbare sjablonen
 
-### Priority 1: Most Requested
+### Prioriteit 1: Meest aangevraagd
 
-#### 😴 [Sleep Tracker](/nl/guides/templates/sleep-tracker)
+#### 😴 [Slaaptracker](/en/guides/templates/sleep-tracker)
 
-Track your sleep patterns and correlate them with performance.
+Houd je slaappatroon bij en leg het verband met je prestaties.
 
-**Includes:**
-- Daily sleep logging
-- Weekly sleep summary
-- Pre-competition sleep protocol
-- Sleep environment checklist
-- Sleep & performance correlation tracker
+**Inclusief:**
+- Dagelijkse slaapregistratie
+- Wekelijkse slaapsamenvatting
+- Slaapprotocol voorafgaand aan de wedstrijd
+- Checklist voor de slaapomgeving
+- Tracker voor de correlatie tussen slaap en prestaties
 
-**Best for:** Optimizing recovery, pre-competition preparation, identifying sleep patterns
+**Ideaal voor:** Optimalisatie van herstel, voorbereiding op wedstrijden, inzicht in slaappatronen
 
-[View Sleep Tracker →](/nl/guides/templates/sleep-tracker)
-
----
-
-#### ✅ [Pre-Competition Checklist](/nl/guides/templates/pre-competition-checklist)
-
-Complete preparation guide for day before and day of competition.
-
-**Includes:**
-- Day before checklist (logistics, nutrition, mental prep, sleep)
-- Competition morning routine
-- During competition protocols
-- Competition bag checklist
-- Post-competition reflection
-
-**Best for:** Tournament preparation, eliminating pre-match stress, building consistent routines
-
-[View Pre-Competition Checklist →](/nl/guides/templates/pre-competition-checklist)
+[Bekijk de slaaptracker →](/en/guides/templates/sleep-tracker)
 
 ---
 
-### Priority 2: Team Development
+#### ✅ [Checklist voor de wedstrijd](/en/guides/templates/pre-competition-checklist)
 
-#### 🎯 [Peer Feedback Template](/nl/guides/templates/peer-feedback)
+Complete voorbereidingsgids voor de dag vóór en de dag van de wedstrijd.
 
-Structured templates for requesting and giving honest feedback.
+**Inclusief:**
+- Checklist voor de dag ervoor (logistiek, voeding, mentale voorbereiding, slaap)
+- Ochtendroutine voor de wedstrijd
+- Tijdens wedstrijdprotocollen
+- Checklist voor de wedstrijdtas
+- Reflectie na de wedstrijd
 
-**Includes:**
-- Feedback request form
-- Guidelines for giving feedback
-- Team feedback session format
-- Receiving feedback framework
+**Ideaal voor:** Toernooivoorbereiding, het verminderen van stress voor de wedstrijd, het opbouwen van consistente routines
 
-**Best for:** Identifying blind spots, team improvement, honest development conversations
-
-[View Peer Feedback Template →](/nl/guides/templates/peer-feedback)
-
----
-
-#### 🤝 [Team Agreement Template](/nl/guides/templates/team-agreement)
-
-Framework for roles, communication, and conflict resolution.
-
-**Includes:**
-- Role assignment (playing & off-field)
-- Communication agreements & hand signals
-- Decision-making protocols
-- Training & competition commitments
-- Conflict resolution steps
-- Feedback culture guidelines
-
-**Best for:** New teams, improving team chemistry, preventing conflicts
-
-[View Team Agreement Template →](/nl/guides/templates/team-agreement)
+[Bekijk de checklist voor de wedstrijd →](/en/guides/templates/pre-competition-checklist)
 
 ---
 
-### Priority 3: Quick Reference
+### Prioriteit 2: Teamontwikkeling
 
-#### 💆 [Tension Release Quick Card](/nl/guides/templates/tension-quick-card)
+#### 🎯 [Sjabloon voor feedback van collega&#39;s](/en/guides/templates/peer-feedback)
 
-Printable pocket card for tension release techniques during competition.
+Gestructureerde sjablonen voor het vragen en geven van eerlijke feedback.
 
-**Includes:**
-- 30-second reset protocol
-- Grip reset technique
-- 15-second pre-throw protocol
-- Emergency 4-7-8 breathing
-- Cue word reminder
+**Inclusief:**
+- Feedbackverzoekformulier
+- Richtlijnen voor het geven van feedback
+- Format voor een teamfeedbacksessie
+- Kader voor het ontvangen van feedback
 
-**Best for:** Quick reference during competition, pocket/bag carry
+**Ideaal voor:** Het identificeren van blinde vlekken, teamverbetering, eerlijke ontwikkelingsgesprekken
 
-[View Tension Quick Card →](/nl/guides/templates/tension-quick-card)
-
----
-
-#### 🍎 [Competition Nutrition Planner](/nl/guides/templates/nutrition-planner)
-
-Plan what and when to eat for optimal performance on competition days.
-
-**Includes:**
-- Competition day foods (good vs avoid)
-- Timeline from night before to competition
-- Competition snack kit checklist
-- Warning signs to eat now
-- Personal meal planning template
-
-**Best for:** Competition preparation, avoiding blood sugar crashes, stable energy
-
-[View Nutrition Planner →](/nl/guides/templates/nutrition-planner)
+[Bekijk sjabloon voor collegiale feedback →](/en/guides/templates/peer-feedback)
 
 ---
 
-### Foundation Templates
+#### 🤝 [Teamovereenkomstsjabloon](/en/guides/templates/team-agreement)
 
-#### 📋 [Goal Template](/nl/guides/templates/goal-template)
+Kader voor rollen, communicatie en conflictoplossing.
 
-Structured worksheet for setting effective pétanque goals.
+**Inclusief:**
+- Roltoewijzing (op het veld en daarbuiten)
+- Communicatieafspraken en handgebaren
+- Besluitvormingsprotocollen
+- Trainings- en wedstrijdverplichtingen
+- Stappen voor conflictoplossing
+- Richtlijnen voor een feedbackcultuur
 
-**Includes:**
-- SMART goal framework
-- Short-term and long-term goal sections
-- Progress tracking
-- Reflection prompts
+**Ideaal voor:** Nieuwe teams, het verbeteren van de teamgeest, het voorkomen van conflicten
 
-**Best for:** Season planning, tournament preparation, skill development goals
-
-[View Goal Template →](/nl/guides/templates/goal-template)
-
----
-
-#### 📓 [Diary Template](/nl/guides/templates/diary-template)
-
-Training and competition diary for tracking your journey.
-
-**Includes:**
-- Pre-session intention setting
-- Post-session reflection
-- Competition notes
-- Mental state tracking
-- Progress indicators
-
-**Best for:** Regular training, competition analysis, long-term development
-
-[View Diary Template →](/nl/guides/templates/diary-template)
+[Bekijk sjabloon voor teamovereenkomst →](/en/guides/templates/team-agreement)
 
 ---
 
-## How to Use These Templates
+### Prioriteit 3: Snel naslagwerk
 
-1. **Download** the template that fits your needs
-2. **Customize** it to your personal goals and situation
-3. **Use consistently** — the value comes from regular use
-4. **Review periodically** — look for patterns and progress
+#### 💆 [Snelle kaart voor spanningsontspanning](/en/guides/templates/tension-quick-card)
 
-::: tip Digital or Paper?
-Both work. Some players prefer paper for the tactile experience and to stay off screens. Others prefer digital for searchability and convenience. Choose what you'll actually use.
+Printbaar zakkaartje met technieken om spanning te verlichten tijdens wedstrijden.
+
+**Inclusief:**
+- 30 seconden resetprotocol
+- Grip reset techniek
+- 15 seconden pre-werp protocol
+- Noodademhaling 4-7-8
+- Herinnering aan het sleutelwoord
+
+**Ideaal voor:** Snel raadplegen tijdens wedstrijden, meenemen in je zak of tas
+
+[Bekijk de Tension Quick Card →](/en/guides/templates/tension-quick-card)
+
+---
+
+#### 🍎 [Voedingsplanner voor wedstrijden](/en/guides/templates/nutrition-planner)
+
+Plan van tevoren wat en wanneer je eet voor optimale prestaties op wedstrijddagen.
+
+**Inclusief:**
+- Voeding op de wedstrijddag (goed versus af te raden)
+- Tijdschema van de avond ervoor tot de wedstrijd
+- Checklist voor de snackkit voor de wedstrijd
+- Waarschuwingssignalen om nu te eten
+- Sjabloon voor persoonlijke maaltijdplanning
+
+**Ideaal voor:** Wedstrijdvoorbereiding, het voorkomen van bloedsuikerdips, stabiele energie
+
+[Bekijk de voedingsplanner →](/en/guides/templates/nutrition-planner)
+
+---
+
+### Fundamentsjablonen
+
+#### 📋 [Doelsjabloon](/en/guides/templates/goal-template)
+
+Gestructureerd werkblad voor het stellen van effectieve pétanque-doelen.
+
+**Inclusief:**
+- SMART-doelraamwerk
+- Secties met korte- en langetermijndoelen
+- Voortgang bijhouden
+- Reflectievragen
+
+**Ideaal voor:** Seizoensplanning, toernooivoorbereiding, het ontwikkelen van vaardigheden
+
+[Bekijk doelsjabloon →](/en/guides/templates/goal-template)
+
+---
+
+#### 📓 [Dagboeksjabloon](/en/guides/templates/diary-template)
+
+Een trainings- en wedstrijddagboek om je voortgang bij te houden.
+
+**Inclusief:**
+- Voorbereidende intentiebepaling
+- Reflectie na afloop van de sessie
+- Wedstrijdnotities
+- Het volgen van de mentale toestand
+- Voortgangsindicatoren
+
+**Ideaal voor:** Regelmatige training, wedstrijdanalyses, langetermijnontwikkeling
+
+[Bekijk dagboeksjabloon →](/en/guides/templates/diary-template)
+
+---
+
+## Hoe gebruik je deze sjablonen?
+
+1. **Download** de sjabloon die bij u past.
+2. **Pas het aan** uw persoonlijke doelen en situatie aan.
+3. **Gebruik het consequent** — de waarde komt pas bij regelmatig gebruik.
+4. **Regelmatig evalueren** — let op patronen en vooruitgang.
+
+::: tip Digitaal of op papier?
+Beide opties werken. Sommige spelers geven de voorkeur aan papier vanwege de tastbare ervaring en om minder tijd achter een scherm door te brengen. Anderen geven de voorkeur aan digitaal vanwege de zoekmogelijkheden en het gemak. Kies wat je daadwerkelijk zult gebruiken.
 :::
 
-## Related Resources
+## Gerelateerde bronnen
 
-- [Sleep & Recovery Education](/nl/education/sleep/) — The science behind sleep
-- [Self-Awareness](/nl/education/self-awareness/) — Understanding blind spots
-- [Team Dynamics](/nl/education/team-dynamics/) — Build stronger team bonds
-- [Goal Setting Guide](/nl/education/motivation/) — Learn the theory behind effective goals
-- [Training Methods](/nl/education/technique/training/) — How to structure your practice
+- [Slaap &amp; Herstel Educatie](/en/education/sleep/) — De wetenschap achter slaap
+- [Zelfbewustzijn](/en/education/self-awareness/) — Blinde vlekken begrijpen
+- [Teamdynamiek](/en/education/team-dynamics/) — Versterk de teamgeest
+- [Handleiding voor het stellen van doelen](/en/education/motivation/) — Leer de theorie achter effectieve doelen
+- [Trainingsmethoden](/en/education/technique/training/) — Hoe structureer je je praktijk?
 

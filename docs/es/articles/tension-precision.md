@@ -3,33 +3,33 @@ title: "Tension and Precision: The Hidden Connection"
 description: How unconscious muscle tension destroys throwing accuracy and what elite players do to maintain optimal relaxation under pressure.
 ---
 
-# Tension and Precision: The Hidden Connection
+# Tensión y precisión: la conexión oculta
 
-> "You cannot be both tense and precise. It's physically impossible."
+> &quot;No se puede estar tenso y preciso a la vez. Es físicamente imposible.&quot;
 
-You've felt it: the crucial throw where your body tightens, your grip increases, and the ball goes exactly where you didn't want it. Tension is the silent killer of precision.
+Lo has sentido: ese lanzamiento crucial donde tu cuerpo se tensa, tu agarre aumenta y la pelota va justo donde no querías. La tensión es el asesino silencioso de la precisión.
 
-::: danger The Hidden Enemy
-**Most tension is invisible to the player experiencing it.** You don't know you're tense until it's too late.
+::: danger El enemigo oculto
+**La mayor parte de la tensión es invisible para el jugador que la experimenta.** No sabes que estás tenso hasta que es demasiado tarde.
 :::
 
 ---
 
-## The Biomechanics of Tension
+## La biomecánica de la tensión
 
 ```mermaid
 flowchart TD
-    A[Tension] --> B[Grip Pressure ↑]
-    A --> C[Shoulder Tightness]
-    A --> D[Jerky Motion]
-    A --> E[Held Breath]
+    A[Tensión] --> B[Presión de agarre ↑]
+    A --> C[Tensión en los hombros]
+    A --> D[Movimiento espasmódico]
+    A --> E[Respiración contenida]
 
-    B --> F[Inconsistent Release]
-    C --> G[Restricted Swing]
-    D --> H[Lost Fluidity]
-    E --> I[Broken Rhythm]
+    B --> F[Lanzamiento inconsistente]
+    C --> G[Swing restringido]
+    D --> H[Fluidez perdida]
+    E --> I[Ritmo roto]
 
-    F --> J[Precision ↓]
+    F --> J[Precisión ↓]
     G --> J
     H --> J
     I --> J
@@ -40,31 +40,31 @@ flowchart TD
 
 ---
 
-## Where Tension Hides
+## Donde se esconde la tensión
 
-Most players are aware of gross tension (tight shoulders before a big throw). Few notice subtle tension that consistently degrades performance:
+La mayoría de los jugadores son conscientes de la tensión intensa (hombros tensos antes de un lanzamiento fuerte). Pocos perciben la tensión sutil que degrada constantemente el rendimiento.
 
-| Location | Effect on Throw | How to Notice |
+| Ubicación | Efecto al lanzar | Cómo notarlo |
 |----------|-----------------|---------------|
-| **Grip** | Inconsistent release timing | Ball marks on palm |
-| **Forearm** | Reduced wrist fluidity | Burning sensation |
-| **Shoulder** | Restricted swing arc | Throw feels "short" |
-| **Neck** | Altered head position | Stiffness after matches |
-| **Jaw** | Full-body tension cascade | Clenched teeth |
-| **Breath** | Disrupted rhythm | Holding breath |
+| **Agarre** | Tiempo de lanzamiento inconsistente | Marcas de pelota en la palma |
+| **Antebrazo** | Fluidez reducida de la muñeca | Sensación de ardor |
+| **Hombro** | Arco de oscilación restringido | El lanzamiento se siente &quot;corto&quot; |
+| **Cuello** | Posición alterada de la cabeza | Rigidez después de los partidos |
+| **Mandíbula** | Cascada de tensión en todo el cuerpo | Dientes apretados |
+| **Aliento** | Ritmo alterado | Conteniendo la respiración |
 
 ---
 
-## The Pressure-Tension Spiral
+## La espiral de presión-tensión
 
-Under pressure, a destructive cycle begins:
+Bajo presión, comienza un ciclo destructivo:
 
 ```mermaid
 flowchart LR
-    A[Stakes ↑] --> B[Body Tenses]
-    B --> C[Precision ↓]
-    C --> D[Anxiety ↑]
-    D --> E[More Tension]
+    A[Apuestas ↑] --> B[Tiempos corporales]
+    B --> C[Precisión ↓]
+    C --> D[Ansiedad ↑]
+    D --> E[Más tensión]
     E --> B
 
     style A fill:#fff3e0
@@ -74,163 +74,163 @@ flowchart LR
     style E fill:#f44336,color:#fff
 ```
 
-::: tip Break the Cycle
-**Interrupt at Step 2** — before tension affects performance. This is why pre-shot routines with tension checks are essential.
+::: tip Romper el ciclo
+**Interrumpir en el Paso 2** — antes de que la tensión afecte el rendimiento. Por eso son esenciales las rutinas previas al disparo con comprobaciones de tensión.
 :::
 
-## Detecting Your Tension Patterns
+## Detectando sus patrones de tensión
 
-### The Body Scan Method
+### El método de escaneo corporal
 
-Before practicing, close your eyes and scan:
+Antes de practicar, cierra los ojos y escanea:
 
-1. Start at your feet — Any gripping of toes?
-2. Move up through legs — Any locked knees?
-3. Notice hips and core — Any bracing?
-4. Check shoulders — Any elevation?
-5. Scan arms and hands — Any premature grip?
-6. Notice neck and face — Any clenching?
+1. Comience por los pies: ¿Siente agarrotamiento en los dedos?
+2. Subir las piernas: ¿Alguna rodilla bloqueada?
+3. Observe las caderas y el centro del cuerpo: ¿Hay algún refuerzo?
+4. Revisar los hombros: ¿hay alguna elevación?
+5. Escanear brazos y manos: ¿Hay algún agarre prematuro?
+6. Observe el cuello y la cara: ¿Hay tensión?
 
-Rate tension 0-10 at each location. **Your baseline should be 2 or less.**
+Califica la tensión de 0 a 10 en cada ubicación. **Tu valor de referencia debe ser 2 o menos.**
 
-### The Video Method
+### El método del vídeo
 
-Record yourself throwing in:
-- Low-stakes practice
-- Moderate-stakes practice
-- High-stakes competition
+Grábate lanzando:
+- Práctica de bajo riesgo
+- Práctica de apuestas moderadas
+- Competición de alto riesgo
 
-Compare your body language. Where do you tense up as stakes increase?
+Compara tu lenguaje corporal. ¿Dónde te tensas a medida que aumenta la presión?
 
-### The Partner Method
+### El método del socio
 
-Ask a teammate to observe:
-- Your face before important throws
-- Your stance changes under pressure
-- Your breathing patterns
-- Your grip behavior
+Pídale a un compañero de equipo que observe:
+- Tu cara antes de lanzamientos importantes
+- Tu postura cambia bajo presión
+- Tus patrones de respiración
+- Tu comportamiento de agarre
 
-External observers see what we cannot feel.
+Los observadores externos ven lo que nosotros no podemos sentir.
 
-## Release Techniques
+## Técnicas de liberación
 
-### Quick Releases (Use During Competition)
+### Liberaciones rápidas (uso durante la competición)
 
-**The Shake-Out**
-- Brief, vigorous shake of hands and arms
-- Releases holding patterns
-- Takes 2-3 seconds
+**La sacudida**
+- Un breve y vigoroso apretón de manos y brazos.
+- Libera patrones de retención
+- Toma de 2 a 3 segundos
 
-**The Exhale Drop**
-- Deep breath in
-- On exhale, consciously drop shoulders
-- Release jaw tension simultaneously
+**La gota de exhalación**
+- Respiración profunda
+- Al exhalar, baje los hombros conscientemente.
+- Libere la tensión de la mandíbula simultáneamente
 
-**The Grip Reset**
-- Open hand completely
-- Spread fingers wide
-- Re-grip with minimum necessary force
+**El reinicio del agarre**
+- Mano abierta completamente
+- Abre bien los dedos
+- Vuelva a agarrar con la mínima fuerza necesaria
 
-### Deep Releases (Use in Practice/Pre-Competition)
+### Liberaciones profundas (uso en la práctica/precompetición)
 
-**Progressive Muscle Relaxation**
-- Tense each muscle group deliberately (5 seconds)
-- Release completely (15 seconds)
-- Notice the difference
-- Work through entire body
+**Relajación muscular progresiva**
+- Tense deliberadamente cada grupo muscular (5 segundos)
+- Suelte completamente (15 segundos)
+- Observa la diferencia
+- Trabaja todo el cuerpo
 
-**Breath-Body Connection**
-- Slow breathing (4 counts in, 6 counts out)
-- On each exhale, release one body area
-- Continue until full-body relaxation achieved
+**Conexión respiración-cuerpo**
+- Respiración lenta (4 tiempos inhalando, 6 tiempos exhalando)
+- En cada exhalación, libera una zona del cuerpo.
+- Continúe hasta lograr la relajación de todo el cuerpo.
 
-## The Pre-Shot Integration
+## La integración previa al disparo
 
-Build tension awareness into your pre-shot routine:
+Incorpore la conciencia de la tensión en su rutina previa al disparo:
 
-### Before Stepping to the Circle
-- Quick body scan (2 seconds)
-- One releasing exhale
-- Confirm relaxed grip
+### Antes de entrar al círculo
+- Escaneo corporal rápido (2 segundos)
+- Una exhalación liberadora
+- Confirmar agarre relajado
 
-### In the Circle
-- Final breath to settle
-- Soft focus on target
-- Initiate throw from relaxed state
+### En el círculo
+- Último aliento para asentarse
+- Enfoque suave en el objetivo
+- Iniciar el lanzamiento desde el estado relajado
 
-### After the Throw
-- Notice where tension accumulated
-- Shake out if needed
-- Reset for next throw
+### Después del lanzamiento
+- Observe dónde se acumuló la tensión
+- Agitar si es necesario
+- Reiniciar para el siguiente lanzamiento
 
-## Training Tension Awareness
+## Entrenamiento de la conciencia de la tensión
 
-### Exercise 1: The Minimum Grip
+### Ejercicio 1: El agarre mínimo
 
-Find the minimum grip pressure that maintains control:
-- Start with firm grip — throw 5 balls
-- Reduce grip 20% — throw 5 balls
-- Continue reducing until control is lost
-- Back up one level — this is your optimal grip
+Encuentre la presión de agarre mínima que mantiene el control:
+- Comience con un agarre firme y lance 5 pelotas
+- Reducir el agarre un 20% — lanzar 5 pelotas
+- Continúe reduciendo hasta perder el control
+- Retroceda un nivel: este es su agarre óptimo
 
-Most players grip 40-60% harder than necessary.
+La mayoría de los jugadores agarran entre un 40 y un 60 % más fuerte de lo necesario.
 
-### Exercise 2: Pressure Simulation
+### Ejercicio 2: Simulación de presión
 
-Practice under artificial pressure while monitoring tension:
-- Create consequences for practice throws
-- Notice where tension appears
-- Practice releasing while maintaining focus
-- Gradually increase pressure tolerance
+Practica bajo presión artificial mientras controlas la tensión:
+- Crear consecuencias para los lanzamientos de práctica
+- Observa dónde aparece la tensión
+- Practica la liberación mientras mantienes el enfoque
+- Aumente gradualmente la tolerancia a la presión
 
-### Exercise 3: The Relaxed Pointer
+### Ejercicio 3: El puntero relajado
 
-Score yourself on two dimensions:
-- Technical result (where did the ball land?)
-- Tension level (how relaxed were you?)
+Evalúese en dos dimensiones:
+- Resultado técnico (¿donde cayó la pelota?)
+- Nivel de tensión (¿qué tan relajado estabas?)
 
-**Goal:** Maximize both simultaneously. Many players must accept slightly worse results initially as they learn to throw relaxed.
+**Objetivo:** Maximizar ambos simultáneamente. Muchos jugadores deben aceptar resultados ligeramente peores al principio mientras aprenden a lanzar con relajación.
 
-## Competition Day Protocol
+## Protocolo del día de la competición
 
-### Pre-Match
-- 10-minute progressive relaxation
-- Body scan to identify holding patterns
-- Shake-out routine
+### Pre-partido
+- Relajación progresiva de 10 minutos
+- Escaneo corporal para identificar patrones de retención
+- Rutina de sacudidas
 
-### Between Ends
-- Brief shake-out
-- One releasing breath
-- Tension check before critical throws
+### Entre extremos
+- Breve sacudida
+- Una respiración liberadora
+- Comprobación de tensión antes de lanzamientos críticos
 
-### During Throw
-- Trust your pre-shot routine
-- Release technique is pre-programmed
-- Don't consciously control during execution
+### Durante el lanzamiento
+- Confía en tu rutina previa a la inyección
+- La técnica de liberación está preprogramada
+- No controle conscientemente durante la ejecución
 
-## Common Mistakes
+## Errores comunes
 
-::: warning Avoid These
-- **Over-relaxation** — Some activation is necessary
-- **Conscious control during throw** — Disrupts flow
-- **Only relaxing for big throws** — Should be consistent
-- **Ignoring breath** — Breath and tension are linked
-- **Rushing the routine** — Tension release takes time
+::: warning Evite estos
+- **Exceso de relajación**: es necesaria cierta activación
+- **Control consciente durante el lanzamiento** — Interrumpe el flujo
+- **Solo relajarse para grandes lanzamientos** — Debe ser constante
+- **Ignorar la respiración** — La respiración y la tensión están relacionadas
+- **Apresurarse en la rutina** — Liberar la tensión lleva tiempo
 :::
 
-## The Long-Term Benefit
+## El beneficio a largo plazo
 
-Players who master tension management:
-- Perform more consistently under pressure
-- Experience less physical fatigue
-- Recover faster from mistakes
-- Enjoy competition more
+Jugadores que dominan la gestión de la tensión:
+- Tener un rendimiento más consistente bajo presión
+- Experimente menos fatiga física
+- Recuperarse más rápido de los errores
+- Disfruta más de la competición
 
 ---
 
-## Related Content
+## Contenido relacionado
 
-- [Tension Management Module](/es/education/tension/) — Complete education
-- [Physical Preparation](/es/education/tension/physical) — Body readiness
-- [Pressure Management](/es/articles/pressure-management) — Mental aspects
+- [Módulo de Gestión de la Tensión](/es/educación/tension/) — Educación completa
+- [Preparación física](/es/educación/tensión/física) — Preparación corporal
+- [Gestión de la presión](/es/articles/gestion-de-la-presion) — Aspectos mentales
 

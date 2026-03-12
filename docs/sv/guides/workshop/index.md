@@ -11,7 +11,7 @@ Denna workshop är en avancerad teoretisk session på 3–4 timmar för 6–8 el
 :::
 
 **Skillnad från nybörjarpass:**
-- **Nybörjare (2-3 timmar):** Introduktion till mentala spelkoncept → [Se guiden för den mentala resan](/sv/guides/mental-journey/sessionsguide)
+- **Nybörjare (2-3 timmar):** Introduktion till mentala spelkoncept → [Se guiden för den mentala resan](/sv/guider/mental-resa/sessionsguide)
 - **Avancerad (3-4 timmar):** Djupgående psykologiskt arbete med sårbarhetsövningar (denna sida)
 
 ## Snabbåtkomst
@@ -21,7 +21,7 @@ Denna workshop är en avancerad teoretisk session på 3–4 timmar för 6–8 el
 | **För deltagare** | Vad man kan förvänta sig och hur man förbereder sig | [Visa avsnitt](#för-deltagare) |
 | **För handledare** | Komplett sessionsguide och övningar | [Visa avsnitt](#för-handledare) |
 | **Material för sessionen** | Övningar och arbetsblad | [Visa material](#material-för-handledare) |
-| **Relaterade guider** | Andra träningsformat | [Mental resa](/sv/mental-resa/) • [Träningsläger](/sv/guides/training-camp/) |
+| **Relaterade guider** | Andra träningsformat | [Mental resa](/sv/guider/mental-resa/) • [Träningsläger](/sv/guider/träningsläger/) |
 
 ---
 

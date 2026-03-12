@@ -3,28 +3,28 @@ title: Structuring Your Practice
 description: Design practice sessions that maximize improvement. Learn how to structure training time for optimal skill development in pétanque.
 ---
 
-# Structuring Your Practice
+# Strukturera din praktik
 
-> "Two players can spend the same hours on the terrain and see vastly different improvement."
+> &quot;Två spelare kan spendera samma timmar på terrängen och se väldigt olika förbättringar.&quot;
 
-The difference is often in how practice is structured.
+Skillnaden ligger ofta i hur praktiken är strukturerad.
 
-::: tip The 10,000 Hour Myth
-**It's not about hours — it's about how you use them.** Deliberate practice beats mindless repetition every time.
+::: tip Myten om 10 000 timmar
+**Det handlar inte om timmar – det handlar om hur du använder dem.** Medveten övning slår tanklös repetition varje gång.
 :::
 
 ---
 
-## The Problem with Unstructured Practice
+## Problemet med ostrukturerad praktik
 
 ```mermaid
 flowchart TD
-    A[Unstructured Practice] --> B[Repeat Comfortable Patterns]
-    A --> C[Avoid Weaknesses]
-    A --> D[No Focused Development]
-    A --> E[Can't Track Progress]
+    A[Ostrukturerad praktik] --> B[Upprepa bekväma mönster]
+    A --> C[Undvik svagheter]
+    A --> D[Ingen fokuserad utveckling]
+    A --> E[Kan inte spåra framsteg]
 
-    B --> F[Slow or No Improvement]
+    B --> F[Långsam eller ingen förbättring]
     C --> F
     D --> F
     E --> F
@@ -33,240 +33,240 @@ flowchart TD
     style F fill:#f44336,color:#fff
 ```
 
-Most recreational practice looks like this:
-- Show up, throw some boules
-- Play a few casual games
-- Chat with friends
-- Go home
+De flesta fritidsaktiviteter ser ut så här:
+- Kom och kasta lite boule
+- Spela några vardagsspel
+- Chatta med vänner
+- Gå hem
 
-This is enjoyable but inefficient for improvement.
+Detta är trevligt men ineffektivt för förbättring.
 
 ---
 
-## Principles of Effective Practice
+## Principer för effektiv praxis
 
-| Principle | Question to Ask |
+| Princip | Fråga att ställa |
 |-----------|----------------|
-| **Purposeful** | What am I working on today? |
-| **Deliberate** | Is this challenging me? |
-| **Feedback-rich** | How do I know if I'm improving? |
-| **Focused** | Am I fully present? |
+| **Målmedveten** | Vad jobbar jag med idag? |
+| **Överväga** | Utmanar detta mig? |
+| **Rik på feedback** | Hur vet jag om jag förbättrar mig? |
+| **Fokuserad** | Är jag helt närvarande? |
 
-### 1. Purposeful Practice
+### 1. Målmedveten övning
 
-Every session should have a clear purpose:
-- What am I working on today?
-- What does success look like?
-- How will I know if I've improved?
+Varje session bör ha ett tydligt syfte:
+- Vad jobbar jag med idag?
+- Hur ser framgång ut?
+- Hur vet jag om jag har förbättrats?
 
-### 2. Deliberate Difficulty
+### 2. Avsiktlig svårighet
 
-::: info The Edge of Ability
-**Practice should challenge you.** If it's comfortable, you're not growing.
+::: info Förmågans gräns
+**Övning ska utmana dig.** Om det är bekvämt växer du inte.
 :::
 
-- Work at the edge of your ability
-- Include elements that are hard
-- Avoid pure comfort zone repetition
+- Arbeta på gränsen till din förmåga
+- Inkludera element som är svåra
+- Undvik ren upprepning i komfortzonen
 
-### 3. Immediate Feedback
+### 3. Omedelbar återkoppling
 
-You need to know how you're doing:
-- Track results of drills
-- Use video when possible
-- Get input from training partners
+Du behöver veta hur du gör:
+- Spåra resultat av övningar
+- Använd video när det är möjligt
+- Få input från utbildningspartners
 
-### 4. Focused Attention
+### 4. Fokuserad uppmärksamhet
 
-Quality over quantity:
-- Full concentration during practice
-- Shorter, focused sessions beat long, distracted ones
-- Mental engagement is essential
+Kvalitet framför kvantitet:
+- Full koncentration under träningen
+- Kortare, fokuserade sessioner slår långa, distraherade
+- Mentalt engagemang är viktigt
 
-## Session Structure
+## Sessionsstruktur
 
-### Warm-Up (10-15 minutes)
+### Uppvärmning (10–15 minuter)
 
-**Physical:**
-- Light movement
-- Arm and shoulder preparation
-- Gradual intensity increase
+**Fysisk:**
+- Lätt rörelse
+- Förberedelse av arm och axel
+- Gradvis ökning av intensitet
 
 **Mental:**
-- Transition from daily life
-- Set intention for session
-- Begin focusing attention
+- Övergång från vardagen
+- Sätt avsikt för sessionen
+- Börja fokusera uppmärksamheten
 
-### Technical Work (20-30 minutes)
+### Tekniskt arbete (20–30 minuter)
 
-Focus on specific skills:
-- Isolated technique practice
-- Drills targeting weaknesses
-- Repetition with attention
+Fokusera på specifika färdigheter:
+- Isolerad teknikövning
+- Övningar som riktar sig mot svagheter
+- Upprepning med uppmärksamhet
 
-**Example focus areas:**
-- Pointing accuracy at specific distances
-- Shooting from different angles
-- Specific throw types (plombée, portée, etc.)
+**Exempel på fokusområden:**
+- Pekningsnoggrannhet på specifika avstånd
+- Fotografering från olika vinklar
+- Specifika kasttyper (plombée, portée, etc.)
 
-### Applied Practice (20-30 minutes)
+### Tillämpad praktik (20–30 minuter)
 
-Use skills in realistic contexts:
-- Simulated game situations
-- Pressure drills
-- Decision-making practice
+Använd färdigheter i realistiska sammanhang:
+- Simulerade spelsituationer
+- Tryckborrar
+- Beslutsfattandepraxis
 
-### Cool-Down (10 minutes)
+### Nedvarvning (10 minuter)
 
-**Physical:**
-- Light throwing
+**Fysisk:**
+- Ljuskastning
 - Stretching
 
 **Mental:**
-- Review what you learned
-- Note areas for future work
-- Transition out of practice mode
+- Gå igenom vad du lärde dig
+- Notera områden för framtida arbete
+- Övergång från träningsläge
 
-## Types of Practice Sessions
+## Typer av övningssessioner
 
-### Skill Development Session
+### Kompetensutvecklingssession
 
-Focus: Building or refining specific techniques
+Fokus: Att bygga eller förfina specifika tekniker
 
-- 70% technical drills
-- 20% applied practice
-- 10% warm-up/cool-down
+- 70 % tekniska övningar
+- 20 % tillämpad praktik
+- 10 % uppvärmning/nedvarvning
 
-### Competition Simulation
+### Tävlingssimulering
 
-Focus: Preparing for match conditions
+Fokus: Förberedelser inför matchförhållandena
 
-- 20% warm-up with purpose
-- 60% match-like play with pressure
-- 20% debrief and adjustment
+- 20 % uppvärmning med syfte
+- 60 % matchliknande spel med press
+- 20 % avrapportering och justering
 
-### Maintenance Session
+### Underhållssession
 
-Focus: Keeping skills sharp
+Fokus: Att hålla färdigheterna skarpa
 
-- Balanced work across all areas
-- No intense focus on any one thing
-- Enjoyable but purposeful
+- Balanserat arbete inom alla områden
+- Inget intensivt fokus på någon enskild sak
+- Trevligt men målmedvetet
 
-### Recovery Session
+### Återhämtningssession
 
-Focus: Light practice after competition
+Fokus: Lätt träning efter tävling
 
-- Low intensity
-- Enjoyable throwing
-- Mental reset
+- Låg intensitet
+- Trevligt kastande
+- Mental återställning
 
-## Designing Drills
+## Utformning av borrar
 
-Effective drills have:
+Effektiva övningar har:
 
-### Clear Objectives
-What specifically are you practicing?
+### Tydliga mål
+Vad specifikt övar du på?
 
-### Measurable Outcomes
-How do you track success?
+### Mätbara resultat
+Hur spårar du framgång?
 
-### Appropriate Challenge
-Hard enough to stretch, not so hard you can't succeed
+### Lämplig utmaning
+Tillräckligt svårt att sträcka ut, inte så hårt att du inte kan lyckas
 
-### Relevance
-Connected to actual game situations
+### Relevans
+Kopplat till verkliga spelsituationer
 
 ### Progression
-Ways to increase difficulty as you improve
+Sätt att öka svårighetsgraden allt eftersom du förbättrar dig
 
-## Sample Drills
+## Exempelborrar
 
-### Pointing Accuracy
+### Pekningsnoggrannhet
 
-**Setup:** Target at 8 meters
-**Goal:** Land within 30cm of target
-**Track:** Success rate over 20 throws
-**Progress:** Decrease target size, increase distance
+**Uppställning:** Mål på 8 meters avstånd
+**Mål:** Landa inom 30 cm från målet
+**Spår:** Framgångsgrad över 20 kast
+**Framsteg:** Minska målstorleken, öka avståndet
 
-### Shooting Consistency
+### Konsekvens i skytte
 
-**Setup:** Stationary target boule
-**Goal:** Hit the target
-**Track:** Hits per 10 attempts
-**Progress:** Vary angles, add movement
+**Uppställning:** Stationärt målklot
+**Mål:** Träffa målet
+**Spår:** Träffar per 10 försök
+**Framsteg:** Variera vinklar, lägg till rörelse
 
-### Pressure Simulation
+### Trycksimulering
 
-**Setup:** Must make 3 in a row to "win"
-**Goal:** Complete the sequence
-**Track:** Attempts needed
-**Progress:** Increase required sequence
+**Upplägg:** Måste göra 3 i rad för att &quot;vinna&quot;
+**Mål:** Slutför sekvensen
+**Spår:** Nödvändiga försök
+**Förlopp:** Öka den erforderliga sekvensen
 
-## Weekly Planning
+## Veckoplanering
 
-### Balanced Week Example
+### Exempel på balanserad vecka
 
-**Monday:** Skill development (pointing focus)
-**Wednesday:** Competition simulation
-**Friday:** Skill development (shooting focus)
-**Weekend:** Match play
+**Måndag:** Färdighetsutveckling (pekande fokus)
+**Onsdag:** Tävlingssimulering
+**Fredag:** Färdighetsutveckling (fokus på skytte)
+**Helg:** Matchspel
 
-### Periodization
+### Periodisering
 
-Vary intensity across the season:
+Variera intensiteten över säsongen:
 
-**Off-season:** Heavy skill development
-**Pre-season:** Integration and simulation
-**Competition season:** Maintenance and sharpening
-**Post-season:** Recovery and reflection
+**Lågsäsong:** Tung kompetensutveckling
+**Försäsong:** Integration och simulering
+**Tävlingssäsong:** Underhåll och slipning
+**Efter säsong:** Återhämtning och reflektion
 
-## Common Mistakes
+## Vanliga misstag
 
-### Too Much Game Play
+### För mycket spelande
 
-Playing games is fun but doesn't target weaknesses efficiently.
+Att spela spel är roligt men det riktar sig inte effektivt mot svagheter.
 
-### No Tracking
+### Ingen spårning
 
-Without measurement, you can't know if you're improving.
+Utan mätning kan du inte veta om du förbättrar dig.
 
-### Avoiding Weaknesses
+### Undvika svagheter
 
-We naturally practice what we're good at. Force yourself to work on weaknesses.
+Vi övar naturligtvis på det vi är bra på. Tvinga dig själv att arbeta med svagheter.
 
-### Inconsistent Schedule
+### Inkonsekvent schema
 
-Sporadic practice produces sporadic results.
+Sporadisk övning ger sporadiska resultat.
 
-### No Mental Practice
+### Ingen mental övning
 
-Physical repetition without mental engagement limits improvement.
+Fysisk repetition utan mentalt engagemang begränsar förbättring.
 
-## Making Practice Stick
+## Att få övningen att hålla
 
-### Before Practice
-- Set clear intentions
-- Prepare mentally
-- Review previous session notes
+### Före träning
+- Sätt tydliga avsikter
+- Förbered dig mentalt
+- Granska anteckningar från tidigare sessioner
 
-### During Practice
-- Stay focused
-- Track results
-- Adjust as needed
+### Under övningen
+- Håll fokus
+- Spåra resultat
+- Justera efter behov
 
-### After Practice
-- Note what you learned
-- Identify next steps
-- Celebrate progress
+### Efter träningen
+- Notera vad du lärde dig
+- Identifiera nästa steg
+- Fira framsteg
 
-## The 10,000 Hour Myth
+## Myten om 10 000 timmar
 
-It's not just about hours — it's about quality. 1,000 hours of deliberate practice beats 10,000 hours of mindless repetition.
+Det handlar inte bara om timmar – det handlar om kvalitet. 1 000 timmar av medveten övning slår 10 000 timmar av tanklös repetition.
 
-Structure your practice with purpose, and every hour counts more.
+Strukturera din träning med ett syfte, och varje timme räknas mer.
 
 ---
 
-*Related: [Training Methods](/sv/education/technique/training/) | [Training Drills](/sv/education/technique/training/drills) | [Goal Setting](/sv/education/motivation/)*
+| *Relaterat: [Utbildningsmetoder](/sv/utbildning/teknik/utbildning/) | [Träningsövningar](/sv/utbildning/teknik/träning/övningar) | [Målsättning](/sv/utbildning/motivation/)* |
 

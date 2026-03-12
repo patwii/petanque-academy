@@ -3,177 +3,177 @@ title: Video Analysis for Self-Discovery
 description: Learn to use video as an objective mirror for technical and psychological self-awareness in pétanque.
 ---
 
-# Video Analysis for Self-Discovery
+# Videoanalyse til selvopdagelse
 
-Video is the most honest mirror available. What you think you're doing and what you're actually doing are often very different. This page teaches you to use video effectively for self-improvement.
+Video er det mest ærlige spejl, der findes. Det, du tror, du laver, og det, du rent faktisk laver, er ofte meget forskelligt. Denne side lærer dig at bruge video effektivt til selvudvikling.
 
 ---
 
-## The Perception Gap
+## Opfattelseskløften
 
-### What You Feel vs. What's Real
+### Hvad du føler vs. hvad der er virkeligt
 
-| You Think | Video Shows |
+| Du tror | Videoshows |
 |-----------|-------------|
-| "My release is consistent" | Subtle variations in release point |
-| "I stay calm under pressure" | Visible tension in face and shoulders |
-| "My stance is stable" | Weight shifts before throwing |
-| "I follow through the same way" | Inconsistent follow-through patterns |
+| &quot;Min udgivelse er konsekvent&quot; | Subtile variationer i frigivelsespunkt |
+| &quot;Jeg forbliver rolig under pres&quot; | Synlig spænding i ansigt og skuldre |
+| &quot;Min holdning er stabil&quot; | Vægtskift før kast |
+| &quot;Jeg følger op på samme måde&quot; | Inkonsekvente opfølgningsmønstre |
 
-This gap between perception and reality is normal—everyone has it. The goal isn't to eliminate the gap, but to make it visible so you can work on it.
+Denne kløft mellem opfattelse og virkelighed er normal – alle har den. Målet er ikke at eliminere kløften, men at gøre den synlig, så du kan arbejde på den.
 
 ---
 
-## What to Record
+## Hvad skal optages
 
-### Training Sessions
+### Træningssessioner
 
-**Focus:** Technical execution without match pressure
+**Fokus:** Teknisk udførelse uden kamppres
 
-Record:
-- Full throwing motion from multiple angles
-- Routine before the throw
-- Face/expression during execution
-- Follow-through and body position after release
+Optage:
+- Fuld kastebevægelse fra flere vinkler
+- Rutine før kastet
+- Ansigt/udtryk under udførelsen
+- Gennemføring og kropsposition efter frigivelse
 
-### Competition Matches
+### Konkurrencekampe
 
-**Focus:** Performance under real pressure
+**Fokus:** Ydeevne under reelt pres
 
-Record:
-- Key moments (close games, pressure situations)
-- Your demeanor between throws
-- Team communication
-- Recovery after misses
+Optage:
+- Nøgleøjeblikke (tætte kampe, pressede situationer)
+- Din opførsel mellem kastene
+- Teamkommunikation
+- Genopretning efter misser
 
-### The Multi-Angle Advantage
+### Fordelen ved flere vinkler
 
-| Angle | What It Reveals |
+| Vinkel | Hvad det afslører |
 |-------|-----------------|
-| **Behind** | Body alignment, target line, follow-through direction |
-| **Side** | Release point, arm path, balance |
-| **Front** | Facial expression, shoulders, grip tension |
+| **Bag** | Kropsjustering, mållinje, gennemgående retning |
+| **Side** | Udløsningspunkt, armsti, balance |
+| **Front** | Ansigtsudtryk, skuldre, grebspænding |
 
-::: tip Smartphone is Enough
-You don't need expensive equipment. A smartphone on a simple tripod captures plenty of useful information.
+::: tip Smartphone er nok
+Du behøver ikke dyrt udstyr. En smartphone på et simpelt stativ opfanger masser af nyttige oplysninger.
 :::
 
 ---
 
-## Recording Protocol
+## Optagelsesprotokol
 
-### Training Recording Session (Monthly)
+### Træningsoptagelsessession (månedlig)
 
-1. **Set up camera** at consistent angle
-2. **Warm up normally** (don't record warm-up)
-3. **Record 15-20 throws** of each type you want to analyze
-4. **Include both successful and unsuccessful throws**
-5. **Mark notable throws** in real-time if possible
+1. **Opsæt kameraet** i ensartet vinkel
+2. **Varm op normalt** (optag ikke opvarmningen)
+3. **Optag 15-20 kast** af hver type, du vil analysere
+4. **Inkluder både vellykkede og mislykkede kast**
+5. **Marker bemærkelsesværdige kast** i realtid, hvis det er muligt
 
-### Competition Recording
+### Konkurrenceoptagelse
 
-- **Ask permission** from opponents/organizers
-- **Position discreetly** — Don't distract players
-- **Focus on you**, not on opponents
-- **Review the same day** while memory is fresh
-
----
-
-## What to Look For
-
-### Technical Analysis Checklist
-
-**Setup:**
-- [ ] Consistent starting position
-- [ ] Grip pressure visible/consistent
-- [ ] Alignment to target
-- [ ] Balance and stance stability
-
-**Execution:**
-- [ ] Backswing consistency
-- [ ] Release point height
-- [ ] Release timing
-- [ ] Arm path through release
-
-**Follow-through:**
-- [ ] Follow-through direction
-- [ ] Body stability after release
-- [ ] Recovery position
-
-### Psychological Analysis Checklist
-
-**Before Throw:**
-- [ ] Facial expression (tense/relaxed)
-- [ ] Body language (confident/hesitant)
-- [ ] Routine consistency
-- [ ] Tempo (rushed/deliberate)
-
-**After Throw:**
-- [ ] Reaction to outcome
-- [ ] Body language after miss
-- [ ] Recovery time before next decision
-- [ ] Communication with teammates
+- **Spørg om tilladelse** fra modstandere/arrangører
+- **Placér diskret** — Undgå at distrahere spillerne
+- **Fokuser på dig selv**, ikke på modstanderne
+- **Gennemgå samme dag** mens hukommelsen er frisk
 
 ---
 
-## The Analysis Process
+## Hvad skal man kigge efter
 
-### Step 1: First Watch (Overview)
+### Tjekliste for teknisk analyse
 
-Watch the full footage without pausing.
-- What's your general impression?
-- What stands out immediately?
-- How does it feel to watch yourself?
+**Opsætning:**
+- [ ] Konsekvent startposition
+- [ ] Gribetryk synligt/konsistent
+- [ ] Tilpasning til målet
+- [ ] Balance og stillingsstabilitet
 
-### Step 2: Focused Review (Details)
+**Udførelse:**
+- [ ] Konsistens i bagsving
+- [ ] Udløserpunktshøjde
+- [ ] Udgivelsestidspunkt
+- [ ] Armens bane gennem udløsning
 
-Watch again, pausing to examine:
-- Specific technical elements
-- Patterns across multiple throws
-- Differences between successful and unsuccessful attempts
+**Opfølgning:**
+- [ ] Opfølgningsvejledning
+- [ ] Kropsstabilitet efter frigivelse
+- [ ] Stabilt sideleje
 
-### Step 3: Comparison Analysis
+### Tjekliste for psykologisk analyse
 
-Compare:
-- Your successful throws vs. your misses
-- Your execution vs. elite players
-- Today vs. previous recordings
+**Før kast:**
+- [ ] Ansigtsudtryk (spændt/afslappet)
+- [ ] Kropssprog (selvsikker/tøvende)
+- [ ] Rutinemæssig konsistens
+- [ ] Tempo (forhastet/bevidst)
 
-### Step 4: Identify Patterns
-
-Look for:
-- What's consistent (both good and bad)
-- What changes under pressure
-- What correlates with success/failure
-
----
-
-## Comparing Self-Perception to Reality
-
-### The Reality Check Exercise
-
-**Before watching video:**
-1. Write down how you think you looked
-2. Rate your technical execution (1-10)
-3. Describe your emotional state
-
-**After watching video:**
-1. Write what you actually saw
-2. Rate what you observed (1-10)
-3. Describe visible emotional indicators
-
-**Compare the two lists:**
-- Where were you accurate?
-- Where were you off?
-- What surprised you?
+**Efter kast:**
+- [ ] Reaktion på resultatet
+- [ ] Kropssprog efter misser
+- [ ] Restitutionstid før næste beslutning
+- [ ] Kommunikation med holdkammerater
 
 ---
 
-## Creating a Video Library
+## Analyseprocessen
 
-Organize your footage for long-term learning:
+### Trin 1: Første visning (oversigt)
 
-### Folder Structure
+Se hele optagelsen uden at stoppe.
+- Hvad er dit generelle indtryk?
+- Hvad skiller sig ud med det samme?
+- Hvordan føles det at se sig selv?
+
+### Trin 2: Fokuseret gennemgang (detaljer)
+
+Se igen, og hold en pause for at undersøge:
+- Specifikke tekniske elementer
+- Mønstre på tværs af flere kast
+- Forskelle mellem vellykkede og mislykkede forsøg
+
+### Trin 3: Sammenligningsanalyse
+
+Sammenligne:
+- Dine succesfulde kast vs. dine missede kast
+- Din udførelse vs. elitespillere
+- Dagens vs. tidligere optagelser
+
+### Trin 4: Identificer mønstre
+
+Se efter:
+- Hvad er konsekvent (både godt og dårligt)
+- Hvad ændrer sig under pres
+- Hvad hænger sammen med succes/fiasko
+
+---
+
+## Sammenligning af selvopfattelse med virkeligheden
+
+### Realitetstjek-øvelsen
+
+**Før du ser videoen:**
+1. Skriv ned, hvordan du synes, du så ud
+2. Bedøm din tekniske udførelse (1-10)
+3. Beskriv din følelsesmæssige tilstand
+
+**Efter at have set videoen:**
+1. Skriv hvad du rent faktisk så
+2. Bedøm det, du observerede (1-10)
+3. Beskriv synlige følelsesmæssige indikatorer
+
+**Sammenlign de to lister:**
+- Hvor var du præcis?
+- Hvor var du henne?
+- Hvad overraskede dig?
+
+---
+
+## Oprettelse af et videobibliotek
+
+Organiser dine optagelser til langsigtet læring:
+
+### Mappestruktur
 
 ```
 /Video Analysis
@@ -189,65 +189,65 @@ Organize your footage for long-term learning:
     /Comparison Clips
 ```
 
-### What to Keep
+### Hvad skal man beholde
 
-- **Best performances:** Reference for what's possible
-- **Breakthrough moments:** When something clicked
-- **Persistent problems:** To track if they improve
-- **Before/after pairs:** Evidence of improvement
+- **Bedste præstationer:** Reference for, hvad der er muligt
+- **Gennembrudsøjeblikke:** Når noget klikkede
+- **Vedvarende problemer:** For at spore, om de forbedres
+- **Før/efter par:** Tegn på forbedring
 
 ---
 
-## Video Analysis Session Template
+## Skabelon til videoanalysesession
 
-Use this structure for systematic review:
+Brug denne struktur til systematisk gennemgang:
 
-| Phase | Time | Focus |
+| Fase | Tid | Fokus |
 |-------|------|-------|
-| **Overview** | 5 min | Watch full footage, note impressions |
-| **Technical** | 10 min | Pause on specific elements |
-| **Psychological** | 5 min | Body language, expressions, recovery |
-| **Patterns** | 5 min | What recurs across clips |
-| **Action Items** | 5 min | What to work on, specific drills |
+| **Oversigt** | 5 minutter | Se hele optagelsen, noter indtryk |
+| **Teknisk** | 10 minutter | Pause på specifikke elementer |
+| **Psykologisk** | 5 minutter | Kropssprog, udtryk, bedring |
+| **Mønstre** | 5 minutter | Hvad der gentages på tværs af klip |
+| **Handlingspunkter** | 5 minutter | Hvad man skal arbejde med, specifikke øvelser |
 
-**Total:** 30 minutes for a useful session
-
----
-
-## Working with Others
-
-### Video Review with Coach
-
-Prepare questions in advance:
-- "What do you see in my setup?"
-- "Is my release consistent across these throws?"
-- "What would you prioritize?"
-
-### Video Review with Teammates
-
-Compare footage:
-- "Watch my reaction after misses vs. yours"
-- "Let's compare our routines"
-- "What do you notice that I might miss?"
+**I alt:** 30 minutter til en nyttig session
 
 ---
 
-## Common Mistakes
+## Arbejde med andre
 
-::: warning Avoid These Pitfalls
-- **Only filming successful sessions** — You need failure footage too
-- **Watching without focus** — Use checklists
-- **Analyzing too much at once** — One element per session
-- **Not acting on insights** — Analysis without practice is wasted
-- **Comparing to pros too early** — Compare to your own previous footage first
+### Videogennemgang med coach
+
+Forbered spørgsmål på forhånd:
+- &quot;Hvad ser du i min opsætning?&quot;
+- &quot;Er min udløsning ensartet på tværs af disse kast?&quot;
+- &quot;Hvad ville du prioritere?&quot;
+
+### Videogennemgang med holdkammerater
+
+Sammenlign optagelser:
+- &quot;Se min reaktion efter misser vs. din&quot;
+- &quot;Lad os sammenligne vores rutiner&quot;
+- &quot;Hvad bemærker du, som jeg måske overser?&quot;
+
+---
+
+## Almindelige fejl
+
+::: warning Undgå disse faldgruber
+- **Kun optagelser af vellykkede sessioner** — Du skal også bruge optagelser af fejlslagne sessioner
+- **At se uden fokus** — Brug tjeklister
+- **Analyserer for meget på én gang** — Ét element pr. session
+- **Ikke handle på indsigt** — Analyse uden øvelse er spildt
+- **Sammenligning med professionelle for tidligt** — Sammenlign først med dine egne tidligere optagelser
 :::
 
 ---
 
-## Related Content
+## Relateret indhold
 
-- [The Self-Awareness Advantage](/da/education/self-awareness/) — Why self-knowledge matters
-- [Getting Feedback](/da/education/self-awareness/feedback) — External perspectives
-- [Technique Fundamentals](/da/education/technique/) — What good technique looks like
-- [Training Methods](/da/education/technique/training/) — How to practice what you learn
+- [Fordelen ved selvbevidsthed](/da/uddannelse/selvbevidsthed/) — Hvorfor selverkendelse er vigtig
+- [Få feedback](/da/uddannelse/selvbevidsthed/feedback) — Eksterne perspektiver
+- [Tekniske grundprincipper](/da/uddannelse/teknik/) — Sådan ser en god teknik ud
+- [Træningsmetoder](/da/uddannelse/teknik/træning/) — Sådan praktiserer du det, du lærer
 

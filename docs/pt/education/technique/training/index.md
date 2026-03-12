@@ -187,7 +187,7 @@ Dedique tempo especificamente ao desenvolvimento de habilidades mentais:
 
 ## Nesta seção
 
-- **[Exercícios de Treinamento](/pt/education/technique/training/drills)** - Exercícios específicos para diferentes habilidades
+- **[Exercícios de Treinamento](/en/education/technique/training/drills)** - Exercícios específicos para diferentes habilidades
 
 ## Ponto-chave
 

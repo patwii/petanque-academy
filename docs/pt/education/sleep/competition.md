@@ -3,196 +3,196 @@ title: Competition Sleep Protocols
 description: Pre-competition sleep strategies, travel protocols, and emergency plans for tournament success.
 ---
 
-# Competition Sleep Protocols
+# Protocolos de sono para competição
 
-The night before a competition isn't the most important night for sleep—it's the week leading up to it. This page provides protocols for optimizing sleep around competitions.
+A noite anterior a uma competição não é a mais importante para o sono — é a semana que a antecede. Esta página fornece protocolos para otimizar o sono em períodos de competição.
 
 ---
 
-## The Week Before: Building Your Sleep Bank
+## Na semana anterior: Construindo sua reserva de sono
 
-### Why the Last Night Isn't Most Important
+### Por que a última noite não é a mais importante
 
-Research shows that **sleep during the 3-7 days before competition** has a greater impact on performance than the night immediately before. Anxiety often disrupts sleep the night before a big match—but if you've "banked" good sleep, one poor night won't significantly harm performance.
+Pesquisas mostram que **o sono durante os 3 a 7 dias que antecedem a competição** tem um impacto maior no desempenho do que a noite imediatamente anterior. A ansiedade costuma atrapalhar o sono na noite anterior a uma partida importante, mas se você tiver &quot;acumulado&quot; boas noites de sono, uma noite mal dormida não prejudicará significativamente o desempenho.
 
-### The 7-Day Countdown Protocol
+### O Protocolo de Contagem Regressiva de 7 Dias
 
-| Days Out | Focus | Actions |
+| Passeios de um dia | Foco | Ações |
 |----------|-------|---------|
-| **Day -7 to -4** | Maintain rhythm | Keep normal schedule, no major changes |
-| **Day -3 to -2** | Optimize | Bedtime 15-30 min earlier, reduce evening screen time |
-| **Day -1** | Accept | Follow routine, don't stress if sleep is poor |
-| **Competition Day** | Perform | Trust your preparation |
+| **Dias -7 a -4** | Mantenha o ritmo | Manter a rotina normal, sem grandes alterações. |
+| **Dias -3 a -2** | Otimizar | Hora de dormir 15 a 30 minutos mais cedo, reduza o tempo de tela à noite. |
+| **Dia -1** | Aceitar | Siga a rotina, não se estresse se o sono não estiver bom. |
+| **Dia da Competição** | Executar | Confie na sua preparação. |
 
 ---
 
-## Day -7 to Day -4: Foundation
+## Dia -7 ao Dia -4: Fundação
 
-During this phase:
+Durante esta fase:
 
-- **Maintain your normal sleep schedule** — Don't make dramatic changes
-- **Begin winding down** evening activities slightly
-- **Reduce alcohol** — Even moderate amounts disrupt sleep architecture
-- **Check your sleep environment** — Fix any issues now (light leaks, temperature)
+- **Mantenha sua rotina normal de sono** — Não faça mudanças drásticas.
+- Comece a diminuir o ritmo das atividades noturnas.
+- **Reduza o consumo de álcool** — Mesmo quantidades moderadas prejudicam a estrutura do sono.
+- **Verifique seu ambiente de sono** — Corrija quaisquer problemas agora (vazamentos de luz, temperatura)
 
-## Day -3 to Day -2: Optimization
+## Dia -3 ao Dia -2: Otimização
 
-- **Move bedtime earlier by 15-30 minutes**
-- **Reduce screen exposure** after sunset
-- **Avoid heavy evening meals**
-- **Begin mental preparation** — Visualize successful performance
-- **Pack your tournament sleep kit** (see below)
+- **Antecipe a hora de dormir em 15 a 30 minutos**
+- **Reduza a exposição da tela** após o pôr do sol.
+- **Evite refeições pesadas à noite**
+- **Comece a preparação mental** — Visualize um desempenho bem-sucedido.
+- **Prepare seu kit de dormir para o torneio** (veja abaixo)
 
-## Day -1: The Night Before
+## Dia -1: A Noite Anterior
 
-::: warning The Anxiety Paradox
-Trying too hard to sleep creates the exact anxiety that prevents sleep. Accept that you may not sleep perfectly—and that's okay.
+::: warning O Paradoxo da Ansiedade
+Tentar dormir demais gera exatamente a ansiedade que impede o sono. Aceite que você pode não dormir perfeitamente — e tudo bem.
 :::
 
-### Acceptance Strategies
+### Estratégias de aceitação
 
-1. **Remind yourself:** One night of poor sleep doesn't significantly impact performance if you've slept well the previous week
-2. **Have a backup plan:** Knowing you have strategies for tomorrow reduces anxiety
-3. **Avoid clock-watching:** Turn clocks away from view
-4. **If awake for 20+ minutes:** Get up, do something calming, return when sleepy
+1. **Lembre-se:** Uma noite mal dormida não afeta significativamente o desempenho se você dormiu bem na semana anterior.
+2. **Tenha um plano B:** Saber que você tem estratégias para amanhã reduz a ansiedade.
+3. **Evite ficar olhando para o relógio:** Vire o relógio para que ele não fique à vista.
+4. **Se ficar acordado por mais de 20 minutos:** Levante-se, faça algo relaxante e volte quando estiver com sono.
 
 ---
 
-## Travel & Time Zones
+## Viagens e fusos horários
 
-### Short Trips (1-2 Time Zones)
+### Viagens curtas (1-2 fusos horários)
 
-For trips crossing 1-2 time zones:
+Para viagens que atravessam 1 ou 2 fusos horários:
 
-- **Consider staying on home time** if the trip is short (1-2 days)
-- **Strategic light exposure:** Morning light shifts your clock earlier, evening light shifts it later
-- **Meal timing:** Eating at local meal times helps adjust
+- **Considere manter o seu horário local** se a viagem for curta (1-2 dias).
+- **Exposição estratégica à luz:** A luz da manhã adianta seu relógio biológico, a luz do entardecer o atrasa.
+- **Horários das refeições:** Comer nos horários locais das refeições ajuda na adaptação.
 
-### Long Trips (3+ Time Zones)
+### Viagens longas (3 ou mais fusos horários)
 
-For significant time zone changes:
+Para alterações significativas de fuso horário:
 
-- **Start adjusting 3-4 days before departure** — Shift sleep time 30-60 min per day toward destination time
-- **Use light strategically:** Bright light at your destination's morning time
-- **The 1-day-per-zone rule:** Allow approximately one day of adjustment per time zone crossed
-- **Nap strategically:** Short naps (20 min) if needed, not long ones
+- **Comece a ajustar seu horário de 3 a 4 dias antes da partida** — Ajuste seu tempo de sono em 30 a 60 minutos por dia, aproximando-o do horário de chegada.
+- **Use a luz estrategicamente:** Luz forte no horário da manhã ao chegar ao seu destino.
+- **Regra de 1 dia por fuso horário:** Considere aproximadamente um dia de ajuste por fuso horário atravessado.
+- **Cochilos estratégicos:** Cochilos curtos (20 min) se necessário, e não longos.
 
-### The Hotel Room Challenge
+### O Desafio do Quarto de Hotel
 
-Tournament hotels present unique challenges:
+Os hotéis que hospedam participantes de torneios apresentam desafios únicos:
 
-| Challenge | Solution |
+| Desafio | Solução |
 |-----------|----------|
-| **Unfamiliar bed** | Bring your own pillow if practical |
-| **Light leaks** | Pack a quality eye mask |
-| **Noise** | Earplugs or white noise app |
-| **Wrong temperature** | Request room change or bring layers |
-| **Partner/roommate** | Discuss sleep needs before arrival |
+| **Cama desconhecida** | Traga seu próprio travesseiro, se possível. |
+| **Vazamentos de luz** | Leve uma máscara de dormir de qualidade. |
+| **Barulho** | Tampões de ouvido ou aplicativo de ruído branco |
+| **Temperatura incorreta** | Solicite a troca de quarto ou leve roupas para agasalhar. |
+| **Parceiro(a)/colega de quarto** | Discuta suas necessidades de sono antes da chegada. |
 
 ---
 
-## Tournament Day Protocols
+## Protocolos do dia do torneio
 
-### Morning of Competition
+### Manhã da Competição
 
-1. **Wake at your normal time** — Don't oversleep
-2. **Get bright light immediately** — Open curtains, go outside
-3. **Eat your normal breakfast** — At your normal time
-4. **Light movement** — Walk, gentle stretching
+1. **Acorde no seu horário normal** — Não durma demais.
+2. **Obtenha luz forte imediatamente** — Abra as cortinas e saia.
+3. **Tome seu café da manhã normalmente** — No seu horário habitual
+4. **Movimentos leves** — Caminhada, alongamentos suaves
 
-### During Competition: The Power Nap Protocol
+### Durante a competição: o protocolo da soneca revigorante
 
-If you have 2+ hours between matches and feel fatigue:
+Se você tiver mais de 2 horas entre as partidas e sentir fadiga:
 
-**The 20-Minute Power Nap:**
+**A soneca revigorante de 20 minutos:**
 
-1. Find a quiet spot (car, empty room, quiet corner)
-2. Set an alarm for 20-25 minutes
-3. Close eyes, relax—don't worry if you don't sleep
-4. Even rest without sleep provides benefit
-5. Upon waking: bright light, movement, water
+1. Encontre um lugar tranquilo (carro, quarto vazio, canto silencioso)
+2. Programe um alarme para 20 a 25 minutos.
+3. Feche os olhos, relaxe — não se preocupe se não conseguir dormir.
+4. Até mesmo descansar sem dormir traz benefícios.
+5. Ao acordar: luz forte, movimento, água
 
-::: tip The Coffee Nap
-Drink coffee immediately before your 20-minute nap. The caffeine takes 20-30 minutes to take effect, so you wake up with a double boost.
+::: tip A soneca do café
+Tome café imediatamente antes do seu cochilo de 20 minutos. A cafeína leva de 20 a 30 minutos para fazer efeito, então você acorda com uma dose dupla de energia.
 :::
 
-**When NOT to Nap:**
-- Within 4 hours of your usual bedtime
-- If you have trouble sleeping at night normally
-- If you feel groggy (not refreshed) after naps
-- Less than 2 hours before your next match
+**Quando NÃO tirar uma soneca:**
+- Dentro de 4 horas do seu horário habitual de dormir.
+- Se você normalmente tem dificuldade para dormir à noite
+- Se você se sentir grogue (não revigorado) após os cochilos
+- Faltam menos de 2 horas para sua próxima partida.
 
 ---
 
-## Emergency Protocol: "I Couldn't Sleep"
+## Protocolo de Emergência: &quot;Não consegui dormir&quot;
 
-It happens to everyone. Here's how to handle it:
+Isso acontece com todo mundo. Veja como lidar com isso:
 
-### Mindset Reframe
+### Reformulação da Mentalidade
 
-**Change your thinking from:** "I'm exhausted, I'll play terribly"
-**To:** "One night doesn't define my performance. I've trained for this."
+**Mude sua mentalidade de:** &quot;Estou exausto, vou jogar muito mal&quot;
+**Para:** &quot;Uma noite não define meu desempenho. Eu treinei para isso.&quot;
 
-Research confirms: Perceived fatigue impacts performance more than actual fatigue.
+Pesquisas confirmam: a fadiga percebida impacta o desempenho mais do que a fadiga real.
 
-### Competition Day Strategies
+### Estratégias para o dia da competição
 
-1. **Caffeine timing:** Use strategically, but not excessively
-   - First dose: 30-60 min before first match
-   - Top-up: If needed, small amounts 3-4 hours later
-   - No caffeine after 2pm if you want to sleep that night
+1. **Momento do consumo de cafeína:** Use estrategicamente, mas sem excessos.
+   - Primeira dose: 30-60 minutos antes da primeira partida.
+   - Reaplicação: Se necessário, pequenas quantidades 3 a 4 horas depois.
+   - Nada de cafeína depois das 14h se quiser dormir naquela noite.
 
-2. **Your routines are MORE important:** When tired, rely on your pre-shot routine. Don't try to "think harder."
+2. **Suas rotinas são MAIS importantes:** Quando estiver cansado, confie na sua rotina pré-teste. Não tente &quot;pensar mais&quot;.
 
-3. **Hydration and nutrition:** Fatigue is often worsened by dehydration. Keep drinking water.
+3. **Hidratação e nutrição:** A fadiga costuma ser agravada pela desidratação. Mantenha-se hidratado.
 
-4. **What to AVOID:**
-   - Don't mention your poor sleep to teammates (creates negative expectation)
-   - Don't try to compensate with extra effort (increases tension)
-   - Don't skip warm-up (you need it more, not less)
-
----
-
-## Pre-Competition Sleep Checklist
-
-### 7 Days Before
-- [ ] Consistent wake time established
-- [ ] Sleep environment optimized
-- [ ] Alcohol reduced
-- [ ] Evening routine practiced
-
-### 3 Days Before
-- [ ] Bedtime moved slightly earlier
-- [ ] Screen time reduced
-- [ ] Tournament sleep kit packed
-- [ ] Travel logistics confirmed
-
-### Night Before
-- [ ] Normal routine followed
-- [ ] Acceptance mindset activated
-- [ ] Backup plan ready
+4. **O que EVITAR:**
+   - Não mencione suas noites mal dormidas aos seus colegas de equipe (isso cria expectativas negativas).
+   - Não tente compensar com esforço extra (isso aumenta a tensão).
+   - Não pule o aquecimento (você precisa dele mais do que o necessário).
 
 ---
 
-## Tournament Sleep Kit Packing List
+## Lista de verificação do sono pré-competição
 
-Essential items for sleeping away from home:
+### 7 dias antes
+- [ ] Horário de despertar consistente estabelecido
+- [ ] Ambiente de sono otimizado
+- [ ] Álcool reduzido
+- [ ] rotina noturna praticada
 
-- [ ] **Eye mask** — Quality blackout style
-- [ ] **Earplugs** — Multiple pairs (they can fall out)
-- [ ] **White noise app** — Downloaded for offline use
-- [ ] **Own pillow** — If practical
-- [ ] **Blue light glasses** — For evening screen use
-- [ ] **Familiar scent** — Optional comfort item (lavender, etc.)
-- [ ] **Melatonin** — If you use it (check local regulations)
-- [ ] **Book or magazine** — Non-screen relaxation option
+### 3 dias antes
+- [ ] A hora de dormir foi ligeiramente antecipada.
+- [ ] Tempo de tela reduzido
+- [ ] Kit de dormir para torneio incluído
+- [ ] Logística de viagem confirmada
+
+### Na noite anterior
+- [ ] rotina normal seguida
+- [ ] Mentalidade de aceitação ativada
+- [ ] Plano de contingência pronto
 
 ---
 
-## Related Content
+## Lista de itens essenciais para levar no kit de dormir para torneio
 
-- [Sleep Science](/pt/education/sleep/) — Understanding why sleep matters
-- [Sleep Hygiene](/pt/education/sleep/habits) — Daily habits for better sleep
-- [Tension Management](/pt/education/tension/) — Relaxation techniques for sleep
-- [Mental Strength](/pt/education/mental-game/mental-strength/) — Handling pre-competition anxiety
+Itens essenciais para dormir fora de casa:
+
+- [ ] **Máscara para os olhos** — Estilo blackout de alta qualidade
+- [ ] **Protetores auriculares** — Vários pares (eles podem cair)
+- [ ] **Aplicativo de ruído branco** — Baixado para uso offline
+- [ ] **Travesseiro próprio** — Se for prático
+- [ ] **Óculos com filtro de luz azul** — Para uso noturno em frente à tela.
+- [ ] **Aroma familiar** — Item de conforto opcional (lavanda, etc.)
+- [ ] **Melatonina** — Se você a utiliza (verifique as regulamentações locais)
+- [ ] **Livro ou revista** — Opção de relaxamento sem telas
+
+---
+
+## Conteúdo relacionado
+
+- [Ciência do Sono](/en/education/sleep/) — Entendendo por que o sono é importante
+- [Higiene do Sono](/en/education/sleep/habits) — Hábitos diários para um sono melhor
+- [Gestão da Tensão](/en/education/tension/) — Técnicas de relaxamento para dormir
+- [Força Mental](/en/education/mental-game/mental-strength/) — Lidando com a ansiedade pré-competição
 

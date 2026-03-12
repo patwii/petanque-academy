@@ -3,196 +3,196 @@ title: Competition Sleep Protocols
 description: Pre-competition sleep strategies, travel protocols, and emergency plans for tournament success.
 ---
 
-# Competition Sleep Protocols
+# Slaapprotocollen voor wedstrijden
 
-The night before a competition isn't the most important night for sleep—it's the week leading up to it. This page provides protocols for optimizing sleep around competitions.
+De nacht voor een wedstrijd is niet de belangrijkste nacht om te slapen, dat geldt juist voor de week ervoor. Deze pagina biedt protocollen om je slaap rondom wedstrijden te optimaliseren.
 
 ---
 
-## The Week Before: Building Your Sleep Bank
+## De week ervoor: je slaapvoorraad opbouwen
 
-### Why the Last Night Isn't Most Important
+### Waarom de laatste avond niet het belangrijkst is
 
-Research shows that **sleep during the 3-7 days before competition** has a greater impact on performance than the night immediately before. Anxiety often disrupts sleep the night before a big match—but if you've "banked" good sleep, one poor night won't significantly harm performance.
+Onderzoek toont aan dat **slaap in de 3-7 dagen vóór een wedstrijd** een grotere invloed heeft op de prestaties dan de nacht direct ervoor. Angst verstoort vaak de slaap in de nacht voor een belangrijke wedstrijd, maar als je goed hebt geslapen, zal één slechte nacht je prestaties niet significant beïnvloeden.
 
-### The 7-Day Countdown Protocol
+### Het 7-daagse aftelprotocol
 
-| Days Out | Focus | Actions |
+| Dagjes uit | Focus | Acties |
 |----------|-------|---------|
-| **Day -7 to -4** | Maintain rhythm | Keep normal schedule, no major changes |
-| **Day -3 to -2** | Optimize | Bedtime 15-30 min earlier, reduce evening screen time |
-| **Day -1** | Accept | Follow routine, don't stress if sleep is poor |
-| **Competition Day** | Perform | Trust your preparation |
+| **Dag -7 tot -4** | Houd het ritme aan | Houd het normale schema aan, geen grote wijzigingen. |
+| **Dag -3 tot -2** | Optimaliseren | Ga 15-30 minuten eerder naar bed en beperk de schermtijd &#39;s avonds. |
+| **Dag -1** | Accepteren | Houd je aan je routine en maak je geen zorgen als je slecht slaapt. |
+| **Wedstrijddag** | Presteren | Vertrouw op je voorbereiding. |
 
 ---
 
-## Day -7 to Day -4: Foundation
+## Dag -7 tot en met dag -4: Basis
 
-During this phase:
+Tijdens deze fase:
 
-- **Maintain your normal sleep schedule** — Don't make dramatic changes
-- **Begin winding down** evening activities slightly
-- **Reduce alcohol** — Even moderate amounts disrupt sleep architecture
-- **Check your sleep environment** — Fix any issues now (light leaks, temperature)
+- **Houd je normale slaapritme aan** — Breng geen drastische veranderingen aan.
+- **Begin met het afbouwen van** de avondactiviteiten
+- **Beperk alcoholgebruik** — Zelfs matige hoeveelheden verstoren de slaapstructuur.
+- **Controleer je slaapomgeving** — Los eventuele problemen nu op (lichtlekkage, temperatuur)
 
-## Day -3 to Day -2: Optimization
+## Dag -3 tot Dag -2: Optimalisatie
 
-- **Move bedtime earlier by 15-30 minutes**
-- **Reduce screen exposure** after sunset
-- **Avoid heavy evening meals**
-- **Begin mental preparation** — Visualize successful performance
-- **Pack your tournament sleep kit** (see below)
+- **Verplaats de bedtijd met 15-30 minuten**
+- **Verminder de schermtijd** na zonsondergang.
+- **Vermijd zware avondmaaltijden**
+- **Begin met de mentale voorbereiding** — Visualiseer een succesvolle prestatie.
+- **Pak je slaapspullen voor het toernooi in** (zie hieronder)
 
-## Day -1: The Night Before
+## Dag -1: De avond ervoor
 
-::: warning The Anxiety Paradox
-Trying too hard to sleep creates the exact anxiety that prevents sleep. Accept that you may not sleep perfectly—and that's okay.
+::: warning De angstparadox
+Te hard je best doen om in slaap te komen, creëert juist die angst die je wakker houdt. Accepteer dat je misschien niet perfect slaapt – en dat is oké.
 :::
 
-### Acceptance Strategies
+### Acceptatiestrategieën
 
-1. **Remind yourself:** One night of poor sleep doesn't significantly impact performance if you've slept well the previous week
-2. **Have a backup plan:** Knowing you have strategies for tomorrow reduces anxiety
-3. **Avoid clock-watching:** Turn clocks away from view
-4. **If awake for 20+ minutes:** Get up, do something calming, return when sleepy
+1. **Onthoud dit goed:** Een nacht slecht slapen heeft geen significant effect op je prestaties als je de week ervoor goed hebt geslapen.
+2. **Zorg voor een back-up plan:** Weten dat je strategieën hebt voor morgen vermindert angst.
+3. **Vermijd het kijken naar de klok:** Draai klokken uit het zicht.
+4. **Als je langer dan 20 minuten wakker bent:** Sta op, doe iets rustgevends en kom terug als je slaperig bent.
 
 ---
 
-## Travel & Time Zones
+## Reizen en tijdzones
 
-### Short Trips (1-2 Time Zones)
+### Korte reizen (1-2 tijdzones)
 
-For trips crossing 1-2 time zones:
+Voor reizen die 1-2 tijdzones doorkruisen:
 
-- **Consider staying on home time** if the trip is short (1-2 days)
-- **Strategic light exposure:** Morning light shifts your clock earlier, evening light shifts it later
-- **Meal timing:** Eating at local meal times helps adjust
+- **Overweeg om je thuistijd aan te houden** als de reis kort is (1-2 dagen).
+- **Strategische lichtinval:** Ochtendlicht zorgt ervoor dat je biologische klok eerder opstart, avondlicht zorgt ervoor dat hij later opstart.
+- **Eettijden:** Eten op de lokale eettijden helpt bij de aanpassing aan de maaltijd.
 
-### Long Trips (3+ Time Zones)
+### Lange reizen (3 of meer tijdzones)
 
-For significant time zone changes:
+Bij aanzienlijke tijdzoneveranderingen:
 
-- **Start adjusting 3-4 days before departure** — Shift sleep time 30-60 min per day toward destination time
-- **Use light strategically:** Bright light at your destination's morning time
-- **The 1-day-per-zone rule:** Allow approximately one day of adjustment per time zone crossed
-- **Nap strategically:** Short naps (20 min) if needed, not long ones
+- **Begin 3-4 dagen voor vertrek met aanpassen** — Verschuif de slaaptijd 30-60 minuten per dag richting de tijd op de bestemming.
+- **Gebruik licht strategisch:** Zorg voor fel licht op het ochtendtijdstip van uw bestemming.
+- **De regel van 1 dag per zone:** Houd rekening met ongeveer één dag aanpassing per overgestoken tijdzone.
+- **Slaap strategisch:** Doe korte dutjes (20 min) indien nodig, maar geen lange.
 
-### The Hotel Room Challenge
+### De hotelkameruitdaging
 
-Tournament hotels present unique challenges:
+Toernamenthotels brengen unieke uitdagingen met zich mee:
 
-| Challenge | Solution |
+| Uitdaging | Oplossing |
 |-----------|----------|
-| **Unfamiliar bed** | Bring your own pillow if practical |
-| **Light leaks** | Pack a quality eye mask |
-| **Noise** | Earplugs or white noise app |
-| **Wrong temperature** | Request room change or bring layers |
-| **Partner/roommate** | Discuss sleep needs before arrival |
+| **Onbekend bed** | Neem je eigen kussen mee als dat praktisch is. |
+| **Lichtlekken** | Neem een kwalitatief oogmasker mee. |
+| **Lawaai** | Oordopjes of een app voor witte ruis |
+| **Verkeerde temperatuur** | Vraag om een andere kamer of neem extra kleding mee. |
+| **Partner/huisgenoot** | Bespreek de slaapbehoeften vóór aankomst. |
 
 ---
 
-## Tournament Day Protocols
+## Protocollen voor de toernooiedag
 
-### Morning of Competition
+### Ochtend van de wedstrijd
 
-1. **Wake at your normal time** — Don't oversleep
-2. **Get bright light immediately** — Open curtains, go outside
-3. **Eat your normal breakfast** — At your normal time
-4. **Light movement** — Walk, gentle stretching
+1. **Sta op je normale tijd op** — Sla niet uit
+2. **Zorg direct voor fel licht** — Doe de gordijnen open en ga naar buiten.
+3. **Eet je normale ontbijt** — op je normale tijdstip.
+4. **Lichte beweging** — Wandelen, lichte rek- en strekoefeningen
 
-### During Competition: The Power Nap Protocol
+### Tijdens de wedstrijd: het powernap-protocol
 
-If you have 2+ hours between matches and feel fatigue:
+Als je meer dan twee uur tussen de wedstrijden hebt en je voelt je moe:
 
-**The 20-Minute Power Nap:**
+**Het powernapje van 20 minuten:**
 
-1. Find a quiet spot (car, empty room, quiet corner)
-2. Set an alarm for 20-25 minutes
-3. Close eyes, relax—don't worry if you don't sleep
-4. Even rest without sleep provides benefit
-5. Upon waking: bright light, movement, water
+1. Zoek een rustige plek (auto, lege kamer, stille hoek)
+2. Stel een alarm in voor 20-25 minuten.
+3. Sluit je ogen, ontspan je – maak je geen zorgen als je niet slaapt.
+4. Zelfs rust zonder slaap biedt voordelen.
+5. Bij het wakker worden: fel licht, beweging, water
 
-::: tip The Coffee Nap
-Drink coffee immediately before your 20-minute nap. The caffeine takes 20-30 minutes to take effect, so you wake up with a double boost.
+::: tip Het koffiedutje
+Drink koffie vlak voor je dutje van 20 minuten. De cafeïne heeft 20-30 minuten nodig om in te werken, dus je wordt wakker met een dubbele energieboost.
 :::
 
-**When NOT to Nap:**
-- Within 4 hours of your usual bedtime
-- If you have trouble sleeping at night normally
-- If you feel groggy (not refreshed) after naps
-- Less than 2 hours before your next match
+**Wanneer je NIET moet dutten:**
+- Binnen 4 uur na je gebruikelijke bedtijd.
+- Als u &#39;s nachts normaal gesproken moeite heeft met slapen
+- Als je je na een dutje suf (en niet uitgerust) voelt
+- Minder dan 2 uur voor je volgende wedstrijd.
 
 ---
 
-## Emergency Protocol: "I Couldn't Sleep"
+## Noodprotocol: &quot;Ik kon niet slapen&quot;
 
-It happens to everyone. Here's how to handle it:
+Het overkomt iedereen. Zo ga je ermee om:
 
-### Mindset Reframe
+### Denkpatroon herzien
 
-**Change your thinking from:** "I'm exhausted, I'll play terribly"
-**To:** "One night doesn't define my performance. I've trained for this."
+**Verander je denkwijze van:** &quot;Ik ben uitgeput, ik zal vreselijk spelen&quot;
+**Aan:** &quot;Eén avond zegt niets over mijn prestaties. Ik heb hiervoor getraind.&quot;
 
-Research confirms: Perceived fatigue impacts performance more than actual fatigue.
+Onderzoek bevestigt: de ervaren vermoeidheid heeft een grotere invloed op de prestaties dan de daadwerkelijke vermoeidheid.
 
-### Competition Day Strategies
+### Strategieën voor de wedstrijddag
 
-1. **Caffeine timing:** Use strategically, but not excessively
-   - First dose: 30-60 min before first match
-   - Top-up: If needed, small amounts 3-4 hours later
-   - No caffeine after 2pm if you want to sleep that night
+1. **Cafeïnegebruik op het juiste moment:** Gebruik het strategisch, maar niet overmatig.
+   - Eerste dosis: 30-60 minuten voor de eerste wedstrijd.
+   - Bijvullen: indien nodig, kleine hoeveelheden 3-4 uur later.
+   - Geen cafeïne meer na 14.00 uur als je die nacht wilt slapen.
 
-2. **Your routines are MORE important:** When tired, rely on your pre-shot routine. Don't try to "think harder."
+2. **Je routines zijn BELANGRIJKER:** Als je moe bent, vertrouw dan op je routine van vóór de injectie. Probeer niet &quot;meer na te denken&quot;.
 
-3. **Hydration and nutrition:** Fatigue is often worsened by dehydration. Keep drinking water.
+3. **Hydratatie en voeding:** Vermoeidheid wordt vaak verergerd door uitdroging. Blijf water drinken.
 
-4. **What to AVOID:**
-   - Don't mention your poor sleep to teammates (creates negative expectation)
-   - Don't try to compensate with extra effort (increases tension)
-   - Don't skip warm-up (you need it more, not less)
-
----
-
-## Pre-Competition Sleep Checklist
-
-### 7 Days Before
-- [ ] Consistent wake time established
-- [ ] Sleep environment optimized
-- [ ] Alcohol reduced
-- [ ] Evening routine practiced
-
-### 3 Days Before
-- [ ] Bedtime moved slightly earlier
-- [ ] Screen time reduced
-- [ ] Tournament sleep kit packed
-- [ ] Travel logistics confirmed
-
-### Night Before
-- [ ] Normal routine followed
-- [ ] Acceptance mindset activated
-- [ ] Backup plan ready
+4. **Wat je moet vermijden:**
+   - Vertel je teamgenoten niet dat je slecht slaapt (dat schept negatieve verwachtingen).
+   - Probeer dit niet te compenseren met extra inspanning (dit verhoogt de spanning).
+   - Sla de warming-up niet over (je hebt hem juist meer nodig, niet minder).
 
 ---
 
-## Tournament Sleep Kit Packing List
+## Slaapchecklist voor de wedstrijd
 
-Essential items for sleeping away from home:
+### 7 dagen van tevoren
+- [ ] Een vast wektijdstip is vastgesteld.
+- [ ] Slaapomgeving geoptimaliseerd
+- [ ] Alcohol verminderd
+- [ ] Avondroutine geoefend
 
-- [ ] **Eye mask** — Quality blackout style
-- [ ] **Earplugs** — Multiple pairs (they can fall out)
-- [ ] **White noise app** — Downloaded for offline use
-- [ ] **Own pillow** — If practical
-- [ ] **Blue light glasses** — For evening screen use
-- [ ] **Familiar scent** — Optional comfort item (lavender, etc.)
-- [ ] **Melatonin** — If you use it (check local regulations)
-- [ ] **Book or magazine** — Non-screen relaxation option
+### 3 dagen van tevoren
+- [ ] De bedtijd is iets vervroegd.
+- [ ] Schermtijd verminderd
+- [ ] Toeristisch slaappakket ingepakt
+- [ ] Reislogistiek bevestigd
+
+### De avond ervoor
+- [ ] De normale routine werd gevolgd.
+- [ ] Acceptatiemindset geactiveerd
+- [ ] Reserveplan klaar
 
 ---
 
-## Related Content
+## Paklijst voor een slaapset voor het toernooi
 
-- [Sleep Science](/nl/education/sleep/) — Understanding why sleep matters
-- [Sleep Hygiene](/nl/education/sleep/habits) — Daily habits for better sleep
-- [Tension Management](/nl/education/tension/) — Relaxation techniques for sleep
-- [Mental Strength](/nl/education/mental-game/mental-strength/) — Handling pre-competition anxiety
+Essentiële spullen voor een overnachting buitenshuis:
+
+- [ ] **Oogmasker** — Hoogwaardig verduisterend model
+- [ ] **Oordopjes** — Meerdere paren (ze kunnen eruit vallen)
+- [ ] **Witte ruis-app** — Gedownload voor offline gebruik
+- [ ] **Eigen kussen** — Indien praktisch
+- [ ] **Blauwlichtbril** — Voor schermgebruik &#39;s avonds
+- [ ] **Vertrouwde geur** — Optioneel comfortartikel (lavendel, enz.)
+- [ ] **Melatonine** — Als u het gebruikt (controleer de lokale regelgeving)
+- [ ] **Boek of tijdschrift** — Ontspanningsoptie zonder scherm
+
+---
+
+## Gerelateerde inhoud
+
+- [Slaapwetenschap](/en/education/sleep/) — Begrijpen waarom slaap belangrijk is
+- [Slaaphygiëne](/en/education/sleep/habits) — Dagelijkse gewoonten voor een betere nachtrust
+- [Spanningsmanagement](/en/education/tension/) — Ontspanningstechnieken voor een goede nachtrust
+- [Mentale kracht](/en/education/mental-game/mental-strength/) — Omgaan met angst voor de wedstrijd
 

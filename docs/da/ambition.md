@@ -1,32 +1,32 @@
 # Ambition
 
-Our mission is to help elite players take the next step in their development.
+Vores mission er at hjælpe elitespillere med at tage det næste skridt i deres udvikling.
 
-::: tip Our Vision
-**Transform elite players from technically proficient to mentally unstoppable.** We use a data-driven approach to identify your highest-impact improvement areas.
+::: tip Vores vision
+**Forvandl elitespillere fra teknisk dygtige til mentalt ustoppelige.** Vi bruger en datadrevet tilgang til at identificere dine forbedringsområder med størst effekt.
 :::
 
-## The 8-Factor Performance Model
+## 8-faktor præstationsmodellen
 
-Research and experience show that elite pétanque performance depends on **8 interconnected factors**. Most players over-invest in technique while neglecting the factors that actually separate good from great.
+Forskning og erfaring viser, at præstationer i elitepetanque afhænger af **8 sammenhængende faktorer**. De fleste spillere overinvesterer i teknik, mens de ignorerer de faktorer, der rent faktisk adskiller godt fra fremragende.
 
 ```mermaid
 graph TD
     subgraph "High Impact (1500 points)"
-        A[🧠 Mental Game<br/>600 pts]
-        B[🔥 Motivation<br/>500 pts]
-        C[😴 Sleep<br/>400 pts]
+        A[🧠 Mentalt spil <br/> 600 point]
+        B[🔥 Motivation <br/> 500 point]
+        C[😴 Søvn <br/> 400 point]
     end
 
     subgraph "Medium Impact (1000 points)"
-        D[🪞 Self-Awareness<br/>400 pts]
-        E[🥗 Nutrition<br/>300 pts]
-        F[🤝 Team Dynamics<br/>300 pts]
+        D[🪞 Selvbevidsthed <br/> 400 point]
+        E[🥗 Ernæring <br/> 300 point]
+        F[🤝 Teamdynamik <br/> 300 point]
     end
 
     subgraph "Foundation (400 points)"
-        G[💆 Tension Management<br/>300 pts]
-        H[🎯 Technique<br/>100 pts]
+        G[💆 Spændingshåndtering <br/> 300 point]
+        H[🎯 Teknik <br/> 100 point]
     end
 
     A --> I[Peak Performance]
@@ -44,84 +44,84 @@ graph TD
     style I fill:#4CAF50,color:#fff
 ```
 
-### Why Technique Has the Lowest Weight
+### Hvorfor teknik har den laveste vægt
 
-::: warning The Uncomfortable Truth
-**Technique accounts for only 100 of 2,900 total points** in our model.
+::: warning Den ubehagelige sandhed
+**Teknik udgør kun 100 af i alt 2.900 point** i vores model.**
 
-This isn't because technique doesn't matter—it's because elite players have already developed adequate technique. The marginal improvement from perfecting your release is tiny compared to optimizing your sleep, managing tension, or strengthening your mental game.
+Det er ikke fordi teknik ikke betyder noget – det er fordi elitespillere allerede har udviklet tilstrækkelig teknik. Den marginale forbedring ved at perfektionere din frigørelse er minimal sammenlignet med at optimere din søvn, håndtere spændinger eller styrke dit mentale spil.
 :::
 
-## The ROI Principle
+## ROI-princippet
 
-Not all improvements are equal. We use **Return on Investment (ROI)** calculations to identify where your training time will have the biggest impact.
+Ikke alle forbedringer er lige. Vi bruger **Return on Investment (ROI)**-beregninger til at identificere, hvor din træningstid vil have den største effekt.
 
-| Your Level | Factor Weight | ROI Potential |
+| Dit niveau | Faktorvægt | Potentiel investeringsafkast |
 |------------|---------------|---------------|
-| Low skill in high-weight area | High (e.g., 600) | **Maximum** |
-| High skill in high-weight area | High (e.g., 600) | Low (diminishing returns) |
-| Low skill in low-weight area | Low (e.g., 100) | Moderate |
-| High skill in low-weight area | Low (e.g., 100) | **Minimal** |
+| Lav færdighed i højvægtsområde | Høj (f.eks. 600) | **Maksimum** |
+| Høj færdighed i højvægtsområde | Høj (f.eks. 600) | Lavt (aftagende afkast) |
+| Lav færdighed i lavvægtsområde | Lav (f.eks. 100) | Moderat |
+| Høj færdighed i lavvægtsområde | Lav (f.eks. 100) | **Minimal** |
 
-**Example:** Improving your sleep from 30% to 60% (high-weight factor, low current skill) will likely have more impact than improving technique from 75% to 85% (low-weight factor, already high skill).
+**Eksempel:** At forbedre din søvn fra 30% til 60% (høj vægtfaktor, lav nuværende færdighed) vil sandsynligvis have større effekt end at forbedre teknikken fra 75% til 85% (lav vægtfaktor, allerede høj færdighed).
 
-## The 8 Factors Explained
+## De 8 faktorer forklaret
 
-| Factor | Weight | What It Covers |
+| Faktor | Vægt | Hvad det dækker |
 |--------|--------|----------------|
-| 🧠 **Mental Game** | 600 | Thought patterns, focus, confidence, flow state access |
-| 🔥 **Motivation** | 500 | Drive, purpose, goal orientation, persistence |
-| 😴 **Sleep & Recovery** | 400 | Quality rest, pre-competition protocols, energy management |
-| 🪞 **Self-Awareness** | 400 | Accurate self-perception, blind spot recognition, feedback use |
-| 🥗 **Nutrition** | 300 | Blood sugar stability, hydration, competition fueling |
-| 🤝 **Team Dynamics** | 300 | Communication, trust, role clarity, team contribution |
-| 💆 **Tension Management** | 300 | Physical relaxation, breath control, optimal arousal |
-| 🎯 **Technique** | 100 | Physical mechanics, throw repertoire, consistency |
+| 🧠 **Mentalt spil** | 600 | Tankemønstre, fokus, selvtillid, adgang til flowtilstand |
+| 🔥 **Motivation** | 500 | Drivkraft, formål, målorientering, vedholdenhed |
+| 😴 **Søvn og restitution** | 400 | Kvalitetshvile, protokoller før konkurrence, energistyring |
+| 🪞 **Selvbevidsthed** | 400 | Præcis selvopfattelse, blindvinkelgenkendelse, brug af feedback |
+| 🥗 **Ernæring** | 300 | Blodsukkerstabilitet, hydrering, konkurrencebrændstof |
+| 🤝 **Holddynamik** | 300 | Kommunikation, tillid, klarhed i roller, teambidrag |
+| 💆 **Spændingshåndtering** | 300 | Fysisk afslapning, åndedrætskontrol, optimal ophidselse |
+| 🎯 **Teknik** | 100 | Fysisk mekanik, kasterepertoire, konsistens |
 
-## Discover Your Path
+## Opdag din vej
 
-We've built a **free assessment tool** that analyzes your current levels across all 8 factors and calculates your personalized improvement priorities.
+Vi har bygget et **gratis vurderingsværktøj**, der analyserer dine nuværende niveauer på tværs af alle 8 faktorer og beregner dine personlige forbedringsprioriteter.
 
-::: info Take the Assessment
-**[→ Start Your Player Development Assessment](/da/assessment/)**
+::: info Tag vurderingen
+**[→ Start din spillerudviklingsvurdering](/da/vurdering/)**
 
-In 5 minutes, you'll receive:
-- Your radar chart across all 8 factors
-- ROI-ranked recommendations for what to work on
-- Links to specific educational content for your top priorities
-- Option to get peer feedback from teammates
+Om 5 minutter modtager du:
+- Dit radardiagram på tværs af alle 8 faktorer
+- ROI-rangerede anbefalinger til, hvad man skal arbejde på
+- Links til specifikt uddannelsesindhold til dine topprioriteter
+- Mulighed for at få peer feedback fra holdkammerater
 :::
 
-## What We Offer
+## Hvad vi tilbyder
 
-| Offering | Description | Link |
+| Tilbud | Beskrivelse | Forbindelse |
 |----------|-------------|------|
-| **Assessment Tool** | Identify your highest-ROI improvement areas | [Take Assessment](/da/assessment/) |
-| **Education Modules** | Deep content on all 8 factors | [Browse Education](/da/education/) |
-| **Workshops** | 3-4 hour sessions for groups of 6-8 players | [Workshop Guide](/da/guides/workshop/) |
-| **Training Camps** | Weekend intensives mixing theory and practice | [Camp Guide](/da/guides/training-camp/) |
+| **Vurderingsværktøj** | Identificér dine forbedringsområder med det højeste ROI | [Tag vurdering](/da/vurdering/) |
+| **Uddannelsesmoduler** | Dybdegående indhold om alle 8 faktorer | [Gennemse Uddannelse](/da/uddannelse/) |
+| **Workshops** | 3-4 timers sessioner for grupper på 6-8 spillere | [Værkstedsguide](/da/guider/værksted/) |
+| **Træningslejre** | Weekendintensivkursus, der blander teori og praksis | [Lejrguide](/da/guider/træningslejr/) |
 
-## Our Approach
+## Vores tilgang
 
-### 1. Assess First
-Start with honest self-evaluation. Get peer feedback to identify blind spots.
+### 1. Vurder først
+Start med ærlig selvevaluering. Få feedback fra kolleger for at identificere blinde vinkler.
 
-### 2. Prioritize by ROI
-Focus on high-weight factors where you have room to grow—not what feels comfortable.
+### 2. Prioritér efter investeringsafkast
+Fokuser på vægtige faktorer, hvor du har plads til at udvikle dig – ikke hvad der føles behageligt.
 
-### 3. Learn the Science
-Understand *why* something works, not just *what* to do.
+### 3. Lær videnskaben
+Forstå *hvorfor* noget virker, ikke bare *hvad* man skal gøre.
 
-### 4. Practice Deliberately
-Apply techniques in training before competition. Build habits, not just knowledge.
+### 4. Øv dig bevidst
+Anvend teknikker i træningen før konkurrence. Opbyg vaner, ikke kun viden.
 
-### 5. Reassess Regularly
-Track your progress. Your priorities will shift as you improve.
+### 5. Revurder regelmæssigt
+Følg dine fremskridt. Dine prioriteter vil ændre sig, efterhånden som du forbedrer dig.
 
-::: tip Ready to Take the Next Step?
-**[→ Start with the Assessment](/da/assessment/)** — It's free and takes 5 minutes.
+::: tip Klar til at tage det næste skridt?
+**[→ Start med vurderingen](/da/vurdering/)** — Det er gratis og tager 5 minutter.
 
-Or explore our [Education](/da/education/) section to dive into any of the 8 factors.
+Eller udforsk vores [Uddannelse](/da/uddannelse/) sektion for at dykke ned i en af de 8 faktorer.
 :::
 
 

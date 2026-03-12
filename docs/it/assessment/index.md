@@ -3,108 +3,108 @@ title: Player Development Assessment
 description: Evaluate yourself on 8 key performance factors and discover your optimal improvement path with ROI-based recommendations.
 ---
 
-# Player Development Assessment
+# Valutazione dello sviluppo del giocatore
 
 <AssessmentForm />
 
 ---
 
-## How It Works
+## Come funziona
 
-### The 8-Factor Model
+### Il modello a 8 fattori
 
-Our assessment is based on 8 key performance factors, each weighted by their impact on elite performance:
+La nostra valutazione si basa su 8 fattori chiave di prestazione, ciascuno ponderato in base al suo impatto sulle prestazioni d&#39;élite:
 
-| Factor | Weight | Why It Matters |
+| Fattore | Peso | Perché è importante |
 |--------|--------|----------------|
-| 🧠 **Mental Game** | 600 | Thought patterns, focus, and flow states determine consistency |
-| 🔥 **Motivation** | 500 | Sustained drive enables long-term improvement |
-| 😴 **Sleep & Recovery** | 400 | Rest directly impacts reaction time and decision-making |
-| 🪞 **Self-Awareness** | 400 | You can't improve what you can't see |
-| 🥗 **Nutrition** | 300 | Stable energy = stable performance |
-| 🤝 **Team Dynamics** | 300 | Communication and trust often outweigh talent |
-| 💆 **Tension Management** | 300 | Tension is precision's enemy |
-| 🎯 **Technique** | 100 | At elite level, everyone has good technique |
+| 🧠 **Gioco mentale** | 600 | I modelli di pensiero, la concentrazione e gli stati di flusso determinano la coerenza |
+| 🔥 **Motivazione** | 500 | La spinta sostenuta consente un miglioramento a lungo termine |
+| 😴 **Sonno e recupero** | 400 | Il riposo ha un impatto diretto sul tempo di reazione e sul processo decisionale |
+| 🪞 **Consapevolezza di sé** | 400 | Non puoi migliorare ciò che non puoi vedere |
+| 🥗 **Nutrizione** | 300 | Energia stabile = prestazioni stabili |
+| 🤝 **Dinamiche di squadra** | 300 | La comunicazione e la fiducia spesso superano il talento |
+| 💆 **Gestione della tensione** | 300 | La tensione è nemica della precisione |
+| 🎯 **Tecnica** | 100 | A livello d&#39;élite, tutti hanno una buona tecnica |
 
-### The ROI Formula
+### La formula del ROI
 
-Not all improvements are equal. We calculate **Return on Investment (ROI)** to find where your effort will have the most impact:
+Non tutti i miglioramenti sono uguali. Calcoliamo il **ritorno sull&#39;investimento (ROI)** per scoprire dove il tuo impegno avrà il maggiore impatto:
 
 ```
 ROI = (Potential Gain × Weight) / Effort Required
 ```
 
-**Key insight:** A low score in a high-weight factor often gives better ROI than a medium score in a lower-weight factor.
+**Informazioni chiave:** Un punteggio basso in un fattore ad alto peso spesso offre un ROI migliore rispetto a un punteggio medio in un fattore a basso peso.
 
-### Example
+### Esempio
 
-| Factor | Weight | Current | ROI |
+| Fattore | Peso | Attuale | Ritorno sull&#39;investimento |
 |--------|--------|---------|-----|
-| Sleep | 400 | 30% | 312 |
-| Mental Game | 600 | 70% | 169 |
-| Technique | 100 | 80% | 18 |
+| Sonno | 400 | 30% | 312 |
+| Gioco mentale | 600 | 70% | 169 |
+| Tecnica | 100 | 80% | 18 |
 
-Despite Mental Game having the highest weight, improving Sleep from 30% offers **1.8x better ROI** because:
-- More room for improvement (low current level)
-- Less effort required (not fighting against plateau)
-
----
-
-## Rating Guidelines
-
-### 0-25%: Beginner
-- No experience or awareness
-- Learning basic concepts
-- Limited consistency
-
-### 25-50%: Developing
-- Some awareness but inconsistent
-- Basic understanding
-- Occasional success
-
-### 50-75%: Competent
-- Regular application
-- Good consistency
-- Can handle normal situations
-
-### 75-100%: Advanced/World-Class
-- Reliable execution
-- Works under pressure
-- Consistent excellence
+Nonostante il Mental Game abbia il peso maggiore, migliorare il sonno del 30% offre un ROI **1,8 volte migliore** perché:
+- Maggiori margini di miglioramento (basso livello attuale)
+- Minore sforzo richiesto (non si combatte contro il plateau)
 
 ---
 
-## The Self-Awareness Catch-22
+## Linee guida per la valutazione
 
-::: warning Important Note
-Low self-awareness affects the accuracy of ALL your assessments. If you suspect your self-awareness might be low, consider:
+### 0-25%: Principiante
+- Nessuna esperienza o consapevolezza
+- Apprendimento dei concetti di base
+- Coerenza limitata
 
-1. **Ask trusted teammates** how they would rate you
-2. **Review video** of your play
-3. **Compare results** over time to calibrate
+### 25-50%: In via di sviluppo
+- Una certa consapevolezza ma incoerente
+- Comprensione di base
+- Successo occasionale
+
+### 50-75%: Competente
+- Applicazione regolare
+- Buona consistenza
+- Può gestire situazioni normali
+
+### 75-100%: Avanzato/di livello mondiale
+- Esecuzione affidabile
+- Lavora sotto pressione
+- Eccellenza costante
+
+---
+
+## Il circolo vizioso dell&#39;autoconsapevolezza
+
+::: warning Nota importante
+Una scarsa consapevolezza di sé influisce sull&#39;accuratezza di TUTTE le tue valutazioni. Se sospetti che la tua consapevolezza di sé possa essere scarsa, considera:
+
+1. **Chiedi ai tuoi compagni di squadra fidati** come ti valuterebbero
+2. **Video di revisione** della tua opera
+3. **Confronta i risultati** nel tempo per calibrare
 :::
 
 ---
 
-## What's Next?
+## Cosa succederà adesso?
 
-After completing your assessment:
+Dopo aver completato la valutazione:
 
-1. **Focus on your #1 recommendation** — Don't try to improve everything at once
-2. **Explore the education modules** — Each factor has in-depth content
-3. **Track progress over time** — Your data is saved locally
-4. **Re-assess monthly** — Track your improvement
+1. **Concentrati sulla tua raccomandazione n. 1** — Non cercare di migliorare tutto in una volta
+2. **Esplora i moduli didattici** — Ogni fattore ha contenuti approfonditi
+3. **Monitora i progressi nel tempo** — I tuoi dati vengono salvati localmente
+4. **Rivaluta mensilmente** — Tieni traccia dei tuoi miglioramenti
 
 ---
 
-## Learn More About Each Factor
+## Scopri di più su ogni fattore
 
-- [🧠 Mental Game](/en_US.UTF-8/education/mental-game/) — Flow states, mental strength, mindfulness
-- [🔥 Motivation](/en_US.UTF-8/education/motivation/) — Goal setting, psychology, long-term drive
-- [😴 Sleep & Recovery](/en_US.UTF-8/education/sleep/) — Sleep science, habits, competition protocols
-- [🪞 Self-Awareness](/en_US.UTF-8/education/self-awareness/) — Feedback, video analysis, blind spots
-- [🥗 Nutrition](/en_US.UTF-8/education/nutrition/) — Blood sugar, hydration, competition fuel
-- [🤝 Team Dynamics](/en_US.UTF-8/education/team-dynamics/) — Communication, trust, team culture
-- [💆 Tension Management](/en_US.UTF-8/education/tension/) — Relaxation techniques, breathing, protocols
-- [🎯 Technique](/en_US.UTF-8/education/technique/) — Training methods, tactics, drills
+- [🧠 Mental Game](/it/education/mental-game/) — Stati di flusso, forza mentale, consapevolezza
+- [🔥 Motivazione](/it/educazione/motivazione/) — Definizione degli obiettivi, psicologia, motivazione a lungo termine
+- [😴 Sonno e recupero](/it/educazione/sonno/) — Scienza del sonno, abitudini, protocolli di gara
+- [🪞 Autoconsapevolezza](/it/educazione/autoconsapevolezza/) — Feedback, analisi video, punti ciechi
+- [🥗 Nutrizione](/it/educazione/nutrizione/) — Glicemia, idratazione, carburante per la competizione
+- [🤝 Dinamiche di squadra](/it/education/team-dynamics/) — Comunicazione, fiducia, cultura di squadra
+- [💆 Gestione della tensione](/it/educazione/tensione/) — Tecniche di rilassamento, respirazione, protocolli
+- [🎯 Tecnica](/it/educazione/tecnica/) — Metodi di allenamento, tattiche, esercitazioni
 

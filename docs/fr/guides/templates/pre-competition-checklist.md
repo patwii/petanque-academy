@@ -1,184 +1,184 @@
-# Pre-Competition Checklist
+# Liste de vérification pré-compétition
 
-A complete preparation guide for the day before and day of competition.
+Un guide de préparation complet pour la veille et le jour de la compétition.
 
-::: tip Preparation = Confidence
-**The best players don't wing it.** Having a checklist removes decision fatigue and ensures you arrive at peak readiness.
+::: tip Préparation = Confiance
+**Les meilleurs joueurs ne laissent rien au hasard.** Avoir une liste de contrôle élimine la fatigue décisionnelle et vous assure d&#39;être au sommet de votre forme.
 :::
 
-## Day Before Competition
+## La veille de la compétition
 
-### Evening (6-10pm)
+### Soirée (18h-22h)
 
-**Logistics:**
-- [ ] Equipment packed and checked
-- [ ] Clothes laid out (layers for weather)
-- [ ] Transport arranged / route checked
-- [ ] Registration confirmed
-- [ ] Wake-up alarm set (+backup)
+**Logistique:**
+- [ ] Matériel emballé et vérifié
+- [ ] Vêtements disposés à plat (couches selon la météo)
+- [ ] Transport organisé / itinéraire vérifié
+- [ ] Inscription confirmée
+- [ ] Réveil programmé (+sauvegarde)
 
 **Nutrition:**
-- [ ] Light, familiar dinner (no experiments)
-- [ ] Hydration: 2L water throughout day
-- [ ] Competition snacks prepared
-- [ ] No alcohol
-- [ ] No heavy/spicy food
+- [ ] Dîner léger et familier (pas d&#39;expériences)
+- [ ] Hydratation : 2 litres d&#39;eau tout au long de la journée
+- [ ] Collations préparées pour la compétition
+- [ ] Sans alcool
+- [ ] Pas de nourriture lourde/épicée
 
-**Mental Preparation:**
-- [ ] Visualize tomorrow's matches (5-10 min)
-- [ ] Review personal goals for competition
-- [ ] Set intention (one word/phrase)
-- [ ] Gratitude practice (why I love this sport)
+**Préparation mentale :**
+- [ ] Visualisez les matchs de demain (5-10 min)
+- [ ] Réviser ses objectifs personnels en vue de la compétition
+- [ ] Définir l&#39;intention (un mot/une phrase)
+- [ ] Pratique de la gratitude (pourquoi j&#39;aime ce sport)
 
-**Sleep:**
-- [ ] Bedtime 8+ hours before wake time
-- [ ] Room dark and cool
-- [ ] Phone on silent
-- [ ] Relaxation routine (reading/breathing)
+**Dormir:**
+- [ ] Coucher au moins 8 heures avant l&#39;heure du réveil
+- [ ] Pièce sombre et fraîche
+- [ ] Téléphone en mode silencieux
+- [ ] Routine de relaxation (lecture/respiration)
 
-**Notes for tomorrow:**
+**Notes pour demain :**
 
 ---
 
-## Competition Morning
+## Matinée de compétition
 
-### Wake Up Routine
+### Routine de réveil
 
-**Time:** ________ (_____ hours before first match)
+**Heure :** ________ (_____ heures avant le premier match)
 
-**Physical:**
-- [ ] Light breakfast (2-3 hours before play)
-- [ ] Hydration started
-- [ ] Bathroom
-- [ ] Comfortable clothes on
+**Physique:**
+- [ ] Petit-déjeuner léger (2 à 3 heures avant le jeu)
+- [ ] L&#39;hydratation a commencé
+- [ ] Salle de bain
+- [ ] Des vêtements confortables
 
 **Mental:**
-- [ ] 5 min mindfulness/breathing
-- [ ] Recall intention for the day
-- [ ] Positive self-talk: "I am prepared"
+- [ ] 5 min de pleine conscience/respiration
+- [ ] Rappelez-vous votre intention du jour
+- [ ] Discours intérieur positif : « Je suis prêt(e) »
 
 ---
 
-### Arrival at Venue
+### Arrivée sur le lieu de l&#39;événement
 
-**Arrive:** ________ (_____ min before first match)
+**Arrivée :** ________ (_____ min avant le premier match)
 
-**Setup:**
-- [ ] Find terrain / check conditions
-- [ ] Locate facilities (toilet, food, shade)
-- [ ] Check draw / opponents
-- [ ] Find teammates
+**Installation:**
+- [ ] Trouver le terrain / vérifier les conditions
+- [ ] Repérer les commodités (toilettes, nourriture, abri)
+- [ ] Vérifier le tirage / les adversaires
+- [ ] Trouver des coéquipiers
 
-**Physical Warm-up (15-20 min):**
-- [ ] Light walking (5 min)
-- [ ] Dynamic stretches
-- [ ] Arm circles, wrist rotations
-- [ ] Practice throws (pointing, then shooting)
-- [ ] Feel the terrain
+**Échauffement physique (15-20 min) :**
+- [ ] Marche légère (5 min)
+- [ ] étirements dynamiques
+- [ ] Cercles de bras, rotations des poignets
+- [ ] Entraînement aux lancers (pointer, puis tirer)
+- [ ] Sentez le terrain
 
-**Mental Warm-up:**
-- [ ] 3-breath reset practice
-- [ ] Visualize first few throws
-- [ ] Connect with teammates
-- [ ] "I am ready" affirmation
+**Échauffement mental :**
+- [ ] Exercice de réinitialisation en 3 respirations
+- [ ] Visualisez les premiers lancers
+- [ ] Échangez avec vos coéquipiers
+- [ ] Affirmation « Je suis prêt(e) »
 
 ---
 
-## During Competition
+## Pendant la compétition
 
-### Between Matches
+### Entre les matchs
 
-**Physical:**
-- [ ] Light snack every 2 hours
-- [ ] Sip water consistently
-- [ ] Shade/shelter if hot
-- [ ] Light movement (don't sit too long)
+**Physique:**
+- [ ] Une collation légère toutes les 2 heures
+- [ ] Buvez de l&#39;eau régulièrement par petites gorgées
+- [ ] Ombre/abri en cas de chaleur
+- [ ] Mouvements légers (ne restez pas assis trop longtemps)
 
 **Mental:**
-- [ ] Review last match (1 learning, then let go)
-- [ ] Reset for next match
-- [ ] Stay present (not results-focused)
+- [ ] Analyse du dernier match (1 leçon, puis on passe à autre chose)
+- [ ] Réinitialisation pour le prochain match
+- [ ] Restez présent (sans vous concentrer sur les résultats).
 
-### Match Routine
+### Routine des matchs
 
-**Before each end:**
-- [ ] Read terrain
-- [ ] Team strategy discussion
-- [ ] Focus on process, not score
+**Avant chaque extrémité :**
+- [ ] Lire le terrain
+- [ ] discussion sur la stratégie d&#39;équipe
+- [ ] Concentrez-vous sur le processus, pas sur le score.
 
-**Before each throw:**
-- [ ] Pre-shot routine (consistent)
-- [ ] 3-breath reset if needed
-- [ ] Visualize the throw
-- [ ] Trust and release
+**Avant chaque lancer :**
+- [ ] Routine de pré-prise de vue (constante)
+- [ ] Réinitialisation en 3 respirations si nécessaire
+- [ ] Visualisez le lancer
+- [ ] Confiance et libération
 
-**After mistakes:**
-- [ ] Inner Coach response
-- [ ] Physical reset (shake it off)
-- [ ] Next throw mindset
+**Après les erreurs :**
+- [ ] Réponse du coach intérieur
+- [ ] Réinitialisation physique (secouez-le)
+- [ ] état d&#39;esprit du prochain lancer
 
 ---
 
-## Competition Bag Checklist
+## Liste de vérification du sac de compétition
 
-### Essential Equipment
-- [ ] Boules (cleaned)
-- [ ] Measuring tools
-- [ ] Cochonnets (backup)
-- [ ] Towel/cloth for boules
-- [ ] Magnet (if allowed)
+### Équipement essentiel
+- [ ] Boules (nettoyées)
+- [ ] Outils de mesure
+- [ ] Cochonnets (secours)
+- [ ] Serviette/tissu pour pétanque
+- [ ] Aimant (si autorisé)
 
-### Clothing
-- [ ] Competition shirt
-- [ ] Comfortable pants/shorts
-- [ ] Layers (jacket, vest)
-- [ ] Hat/cap
-- [ ] Sunglasses
-- [ ] Rain gear (if forecast)
-- [ ] Extra socks
+### Vêtements
+- [ ] T-shirt de compétition
+- [ ] Pantalon/short confortable
+- [ ] Superposition (veste, gilet)
+- [ ] Chapeau/casquette
+- [ ] Lunettes de soleil
+- [ ] Vêtements de pluie (en cas de prévisions)
+- [ ] Chaussettes supplémentaires
 
 ### Nutrition
-- [ ] Water bottle (1.5L minimum)
-- [ ] Electrolyte tabs/powder
-- [ ] Bananas
-- [ ] Nuts/trail mix
-- [ ] Energy bars
-- [ ] Sandwiches (for long days)
-- [ ] Avoid: sugary snacks, caffeine overload
+- [ ] Bouteille d&#39;eau (1,5 L minimum)
+- [ ] Comprimés/poudre d&#39;électrolytes
+- [ ] Bananes
+- [ ] Mélange de noix et de fruits secs
+- [ ] barres énergétiques
+- [ ] Des sandwichs (pour les longues journées)
+- [ ] À éviter : les en-cas sucrés et la surconsommation de caféine
 
-### Comfort & Recovery
-- [ ] Sunscreen
-- [ ] Folding chair
-- [ ] Shade solution
-- [ ] First aid basics
-- [ ] Pain relief (if needed)
+### Confort et récupération
+- [ ] crème solaire
+- [ ] Chaise pliante
+- [ ] Solution d&#39;ombrage
+- [ ] notions de base en premiers secours
+- [ ] Soulagement de la douleur (si nécessaire)
 
-### Mental Game Tools
-- [ ] This checklist!
-- [ ] Goal card / intention reminder
-- [ ] Music/headphones (for focus)
-
----
-
-## Post-Competition
-
-**Immediately after:**
-- [ ] Hydrate
-- [ ] Eat recovery meal within 1 hour
-- [ ] Brief reflection (3 wins, 1 learning)
-- [ ] Thank teammates/opponents
-
-**Evening:**
-- [ ] Full diary entry
-- [ ] What to practice next
-- [ ] Celebrate effort (regardless of result)
-- [ ] Good sleep for recovery
+### Outils de jeu mental
+- [ ] Cette liste de contrôle !
+- [ ] Carte d&#39;objectif / rappel d&#39;intention
+- [ ] Musique/casque (pour la concentration)
 
 ---
 
-## Quick Reference Card
+## Après la compétition
 
-Print this and keep in your bag:
+**Immédiatement après :**
+- [ ] Hydrater
+- [ ] Prenez votre repas de récupération dans l&#39;heure qui suit.
+- [ ] Brève réflexion (3 victoires, 1 leçon)
+- [ ] Remercier ses coéquipiers/adversaires
+
+**Soirée:**
+- [ ] Entrée complète du journal
+- [ ] Que pratiquer ensuite ?
+- [ ] Célébrez les efforts (quel que soit le résultat).
+- [ ] Un bon sommeil favorise la récupération
+
+---
+
+## Fiche de référence rapide
+
+Imprimez ceci et gardez-le dans votre sac :
 
 ```
 PRE-MATCH CHECKLIST
@@ -205,10 +205,10 @@ AFTER MISTAKES
 
 ---
 
-## Related Resources
+## Ressources connexes
 
-- [Sleep Tracker](/fr/guides/templates/sleep-tracker) — Optimize pre-competition sleep
-- [Nutrition Guide](/fr/education/nutrition/) — Competition fueling strategies
-- [Mental Strength](/fr/education/mental-game/mental-strength/) — Pressure management
-- [Tension Management](/fr/education/tension/) — Stay relaxed under pressure
+- [Suivi du sommeil](/en/guides/templates/sleep-tracker) — Optimisez votre sommeil avant la compétition
+- [Guide nutritionnel](/en/education/nutrition/) — Stratégies d&#39;alimentation pour la compétition
+- [Force mentale](/en/education/mental-game/mental-strength/) — Gestion de la pression
+- Gestion du stress — Restez détendu sous pression
 

@@ -11,7 +11,7 @@ Este taller es una sesión teórica avanzada de 3 a 4 horas para 6 a 8 jugadores
 :::
 
 **Diferencia con la sesión para principiantes:**
-- **Principiante (2-3h):** Introducción a los conceptos de juegos mentales → [Ver Guía del Viaje Mental](/es/viaje-mental/guia-de-sesion)
+- **Principiante (2-3h):** Introducción a los conceptos de juegos mentales → [Ver Guía del Viaje Mental](/es/guias/viaje-mental/guia-de-sesion)
 - **Avanzado (3-4h):** Trabajo psicológico profundo con ejercicios de vulnerabilidad (esta página)
 
 ## Acceso rápido
@@ -21,7 +21,7 @@ Este taller es una sesión teórica avanzada de 3 a 4 horas para 6 a 8 jugadores
 | **Para los participantes** | Qué esperar y cómo prepararse | [Ver sección](#para-participantes) |
 | **Para facilitadores** | Guía completa de sesiones y ejercicios | [Ver sección](#para-facilitadores) |
 | **Materiales de la sesión** | Ejercicios y hojas de trabajo | [Ver materiales](#facilitator-materials) |
-| **Guías relacionadas** | Otros formatos de formación | [Viaje Mental](/es/viaje-mental/) • [Campo de Entrenamiento](/es/campo-de-entrenamiento) |
+| **Guías relacionadas** | Otros formatos de formación | [Viaje Mental](/es/guides/mental-journey/) • [Campo de Entrenamiento](/es/guides/training-camp/) |
 
 ---
 

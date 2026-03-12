@@ -3,240 +3,240 @@ title: Managing Tension in Competition
 description: Pre-match preparation, during-match protocols, and emergency recovery techniques for competition tension.
 ---
 
-# Managing Tension in Competition
+# Gérer les tensions en compétition
 
-Competition creates tension. This page provides protocols for managing tension before, during, and after high-pressure situations.
+La compétition engendre des tensions. Cette page propose des protocoles pour gérer ces tensions avant, pendant et après des situations de forte pression.
 
 ---
 
-## Pre-Match Preparation
+## Préparation d&#39;avant-match
 
-### The Night Before
+### La nuit précédant
 
-Tension often begins before you arrive at the terrain:
+Les tensions commencent souvent avant même d&#39;arriver sur le terrain :
 
-| Time | Action |
+| Temps | Action |
 |------|--------|
-| **Evening** | Light meal, familiar routine |
-| **Before bed** | Brief PMR or relaxation (10 min) |
-| **If anxious** | Write concerns on paper (brain dump) |
-| **Sleep environment** | Cool, dark, quiet |
+| **Soirée** | Repas léger, routine habituelle |
+| **Avant le coucher** | PMR brève ou relaxation (10 min) |
+| **En cas d&#39;anxiété** | Notez vos préoccupations sur papier (vidage de cerveau) |
+| **Environnement de sommeil** | Frais, sombre, calme |
 
-### Morning of Competition
+### Matin de compétition
 
-| Time Before Match | Action |
+| Temps avant le match | Action |
 |-------------------|--------|
-| **Wake** | Normal time, don't oversleep |
-| **First hour** | Normal routine, avoid checking phone obsessively |
-| **Breakfast** | Familiar foods, adequate but not heavy |
-| **Pre-departure** | Brief PMR or abbreviated relaxation |
+| **Se réveiller** | Heure normale, ne dormez pas trop longtemps |
+| **Première heure** | Routine habituelle, éviter de consulter son téléphone de manière obsessionnelle |
+| **Petit-déjeuner** | Des plats habituels, en quantité suffisante mais pas copieux. |
+| **Avant le départ** | PMR brève ou relaxation abrégée |
 
-### Arrival at Venue
+### Arrivée sur le lieu de l&#39;événement
 
-**The 20-Minute Protocol:**
+**Le protocole des 20 minutes :**
 
-1. **Minutes 1-5:** Arrive, assess environment, locate facilities
-2. **Minutes 6-10:** Light movement, walk around, gentle stretching
-3. **Minutes 11-15:** Find quiet spot, breathing exercises
-4. **Minutes 16-20:** Warm-up throws, gradually increasing focus
+1. **Minutes 1 à 5 :** Arrivée, évaluation de l’environnement, localisation des installations
+2. **Minutes 6 à 10 :** Mouvements légers, marche, étirements doux
+3. **Minutes 11 à 15 :** Trouvez un endroit calme, exercices de respiration
+4. **Minutes 16 à 20 :** Échauffement par lancers, en augmentant progressivement la concentration
 
 ---
 
-## During Match Protocols
+## Protocoles pendant les matchs
 
-### Between Points
+### Entre les points
 
-**The 30-Second Reset:**
+**La réinitialisation de 30 secondes :**
 
-1. **Step away** from the action (physically if possible)
-2. **Shoulder drop** — Quick tension release
-3. **One deep breath** — Full exhale emphasis
-4. **Refocus** — "What's next?" not "What happened?"
+1. **Éloignez-vous** de l&#39;action (physiquement si possible).
+2. **Relâchement des épaules** — Relâchement rapide de la tension
+3. **Une grande inspiration** — Expiration complète accentuée
+4. **Recentrez-vous** — « Et maintenant ? » et non « Que s&#39;est-il passé ? »
 
-### Between Ends
+### Entre les extrémités
 
-**The 60-Second Protocol:**
+**Le protocole des 60 secondes :**
 
-Use breaks between ends to reset completely:
+Utilisez des pauses entre les extrémités pour une réinitialisation complète :
 
-1. **Physical reset** (20 sec)
-   - Walk to your area
-   - Shake out hands
-   - Roll shoulders
+1. **Réinitialisation physique** (20 sec)
+   - Marchez jusqu&#39;à votre quartier
+   - Serrer la main
+   - Rouler les épaules
 
-2. **Mental reset** (20 sec)
-   - Leave the last end behind
-   - Focus on "new game starts now"
+2. **Réinitialisation mentale** (20 sec)
+   - Laissez le dernier bout derrière vous
+   - Concentrez-vous sur « le nouveau jeu commence maintenant »
 
-3. **Preparation** (20 sec)
-   - Consider position for next end
-   - Visualize your first throw
+3. **Préparation** (20 sec)
+   - Considérer la position pour la prochaine extrémité
+   - Visualisez votre premier lancer
 
-### Before Crucial Throws
+### Avant les lancers cruciaux
 
-When the stakes are high:
+Lorsque les enjeux sont importants :
 
-1. **Acknowledge** the pressure (don't pretend it's not there)
-2. **Body scan** — Find and release tension
-3. **Grip check** — Tense-release-optimal
-4. **Breath** — Full cycle, slow exhale
-5. **Routine** — Execute your standard pre-shot routine
-6. **Cue word** — Your personal trigger for "release"
+1. **Reconnaissez** la pression (ne faites pas comme si elle n&#39;existait pas).
+2. **Scan corporel** — Identifier et relâcher les tensions
+3. **Vérification de la prise** — Tension-relâchement optimal
+4. **Respiration** — Cycle complet, expiration lente
+5. **Routine** — Exécutez votre routine habituelle avant la prise de vue
+6. **Mot-clé** — Votre déclencheur personnel de « libération »
 
-::: tip Trust Your Routine
-Under pressure, your routine is your anchor. Don't change it—rely on it.
+::: tip Faites confiance à votre routine
+Sous pression, votre routine est votre point d&#39;ancrage. Ne la changez pas, fiez-vous-y.
 :::
 
 ---
 
-## Recognizing Arousal Levels
+## Reconnaître les niveaux d&#39;excitation
 
-### Signs You're Over-Aroused
+### Signes d&#39;une excitation excessive
 
-| Physical | Mental |
+| Physique | Mental |
 |----------|--------|
-| Tight grip | Racing thoughts |
-| Raised shoulders | Focus on outcome |
-| Shallow breathing | Negative self-talk |
-| Rushed movements | Worry about mistakes |
-| Restless, fidgety | Difficulty deciding |
+| Prise serrée | Pensées qui s&#39;emballent |
+| Épaules relevées | Concentrez-vous sur le résultat |
+| Respiration superficielle | Discours intérieur négatif |
+| Mouvements précipités | Inquiétez-vous des erreurs |
+| Agité, nerveux | Difficulté à décider |
 
-**Action:** Use calming techniques (4-7-8 breathing, shoulder drops)
+**Action :** Utilisez des techniques de relaxation (respiration 4-7-8, relâchement des épaules)
 
-### Signs You're Under-Aroused
+### Signes d&#39;une excitation insuffisante
 
-| Physical | Mental |
+| Physique | Mental |
 |----------|--------|
-| Sluggish movement | Difficulty focusing |
-| Low energy | Going through motions |
-| Careless setup | Not engaged |
-| Loose attention | Mind wandering |
+| Mouvement lent | Difficultés de concentration |
+| Faible énergie | Exécuter les gestes machinalement |
+| Installation négligente | Non engagé |
+| attention perdue | L&#39;esprit vagabonde |
 
-**Action:** Use activation techniques (quick movements, energizing self-talk, physical shake-out)
+**Action :** Utiliser des techniques d&#39;activation (mouvements rapides, discours intérieur énergisant, secouement physique)
 
 ---
 
-## Emergency Protocols
+## Protocoles d&#39;urgence
 
-### "I'm Too Tense"
+### « Je suis trop tendu »
 
-When tension is affecting your performance:
+Lorsque la tension affecte vos performances :
 
-**The 60-Second Emergency Reset:**
+**La réinitialisation d&#39;urgence en 60 secondes :**
 
-1. **Step away** from immediate situation
-2. **Ground yourself** — Feel feet on ground
-3. **Forceful exhale** — Push air out completely
-4. **Shoulder drop** — Exaggerated raise and drop
-5. **Shake hands** — Loose, 10 seconds
-6. **Slow breath** — 4-7-8 pattern once
-7. **Return** with single focus word
+1. **Éloignez-vous** de la situation immédiate
+2. **Renforcez-vous** — Sentez vos pieds sur le sol
+3. **Expiration forcée** — Expulser l&#39;air complètement
+4. **Baisse des épaules** — Mouvement exagéré de hausse et de baisse des épaules
+5. Serrer la main — Doux, 10 secondes
+6. **Respiration lente** — Rythme 4-7-8 une fois
+7. **Retour** avec un seul mot-clé
 
-### "I Can't Stop Thinking About Mistakes"
+### «Je n&#39;arrête pas de penser à mes erreurs»
 
-Post-mistake mental spiral:
+Spirale mentale post-erreur :
 
-1. **Acknowledge:** "That happened"
-2. **Accept:** "It's done, can't change it"
-3. **Analyze briefly:** "What's the lesson?" (3 seconds max)
-4. **Act:** "What's my next action?"
+1. **Accuser réception :** « C&#39;est arrivé »
+2. **Accepter :** « C&#39;est fait, on ne peut plus rien y changer »
+3. **Analyse brève :** « Quelle est la leçon ? » (3 secondes maximum)
+4. **Action :** « Quelle est ma prochaine action ? »
 
-::: warning Don't Suppress
-Trying to "not think about it" increases thoughts. Acknowledge, then redirect.
+::: warning Ne réprimez pas
+Tenter de « ne pas y penser » ne fait qu&#39;amplifier les pensées. Reconnaissez-les, puis redirigez-les.
 :::
 
-### "I'm Choking"
+### &quot;Je m&#39;étouffe&quot;
 
-When performance has clearly degraded:
+Lorsque les performances se sont clairement dégradées :
 
-1. **Call a timeout** if available (water, bathroom)
-2. **Physical first** — Walk, breathe, move
-3. **Slow everything down** — Deliberately move at 70% speed
-4. **Simplify** — Don't try to be brilliant, just execute basics
-5. **One throw at a time** — Forget the score, focus on this single action
-
----
-
-## Score-Specific Tension
-
-### When Winning
-
-Tension can increase when protecting a lead:
-
-- **Risk:** Becoming conservative, tight, "not to lose" mindset
-- **Strategy:** Keep playing your game, don't change what's working
-- **Self-talk:** "Execute the process" not "Protect the lead"
-
-### When Losing
-
-Desperation creates different tension:
-
-- **Risk:** Forcing, taking low-percentage shots, rushing
-- **Strategy:** Accept the deficit, focus on winning THIS point
-- **Self-talk:** "One point at a time" not "I need to catch up"
-
-### Close Games
-
-Maximum tension situations:
-
-- **Risk:** Over-thinking every decision, paralysis
-- **Strategy:** Trust your training, commit fully to choices
-- **Self-talk:** "I've prepared for this" not "This is so important"
+1. **Demandez une pause** si possible (eau, toilettes)
+2. **Priorité au physique** — Marchez, respirez, bougez
+3. **Ralentissez tout** — Déplacez-vous délibérément à 70 % de votre vitesse maximale.
+4. **Simplifiez** — N&#39;essayez pas d&#39;être brillant, contentez-vous d&#39;exécuter les bases.
+5. **Un lancer à la fois** — Oubliez le score, concentrez-vous sur cette seule action
 
 ---
 
-## Post-Match Tension Management
+## Tension spécifique au score
 
-Win or lose, process the match properly:
+### Quand on gagne
 
-### Immediately After
+La tension peut augmenter lors de la protection d&#39;une tête :
 
-1. **Hydrate** — Physical reset
-2. **Brief acknowledgment** — Win: appreciate, Loss: accept
-3. **Avoid analysis** — Too soon for objective review
+- **Risque :** Adopter une mentalité conservatrice, rigide et axée sur la peur de perdre
+- **Stratégie :** Continuez à jouer votre jeu, ne changez rien à ce qui fonctionne.
+- **Dialogue intérieur :** « Exécuter le processus » et non « Protéger l’opportunité ».
 
-### 30-60 Minutes After
+### Quand on perd
 
-1. **Light movement** — Walk, stretch
-2. **Social connection** — Talk about something other than the match
-3. **Eat** — Restore energy
+Le désespoir crée une tension différente :
 
-### Later That Day
+- **Risque :** Forcer le jeu, prendre des tirs à faible pourcentage de réussite, précipiter le jeu
+- **Stratégie :** Acceptez le déficit, concentrez-vous sur la victoire à CE point.
+- **Dialogue intérieur :** « Un point à la fois », et non « Je dois rattraper mon retard ».
 
-1. **Brief review** — What went well? What to improve?
-2. **Write it down** — Capture insights
-3. **Let it go** — It's done
+### Matchs serrés
 
----
+Situations de tension maximale :
 
-## Building Competition Resilience
-
-Tension management improves with practice:
-
-### Training Simulation
-
-- Practice under artificial pressure
-- Create consequences in training
-- Simulate competition scenarios
-
-### Gradual Exposure
-
-- Start with low-stakes competitions
-- Build up to higher pressure
-- Learn your patterns in real situations
-
-### Post-Competition Learning
-
-- Review what triggered tension
-- Note what helped manage it
-- Refine your protocols
+- **Risque :** Trop réfléchir à chaque décision, paralysie
+- **Stratégie :** Faites confiance à votre formation et engagez-vous pleinement dans vos choix.
+- **Dialogue intérieur :** « Je me suis préparé(e) à ça », et non « C&#39;est tellement important ».
 
 ---
 
-## Related Content
+## Gestion des tensions après le match
 
-- [Understanding Tension](/fr/education/tension/) — The science of tension
-- [Tension Release Techniques](/fr/education/tension/techniques) — PMR and breathing
-- [Mental Strength](/fr/education/mental-game/mental-strength/) — Handling pressure
-- [Pre-Shot Routine](/fr/education/mental-game/mental-strength/pre-shot-routine) — Consistent execution
+Victoire ou défaite, traitez le match correctement :
+
+### Immédiatement après
+
+1. **Hydratation** — Réinitialisation physique
+2. **Brève reconnaissance** — Victoire : appréciez, Défaite : acceptez
+3. **Éviter l&#39;analyse** — Il est trop tôt pour un examen objectif.
+
+### 30 à 60 minutes après
+
+1. **Mouvements légers** — Marche, étirements
+2. **Lien social** — Parlez d&#39;autre chose que du match
+3. **Mangez** — Reconstituez votre énergie
+
+### Plus tard ce jour-là
+
+1. **Bref bilan** — Qu&#39;est-ce qui a bien fonctionné ? Que faut-il améliorer ?
+2. **Notez-le** — Capturez les idées
+3. **Laisse tomber** — C&#39;est fini
+
+---
+
+## Renforcer la résilience face à la concurrence
+
+La gestion du stress s&#39;améliore avec la pratique :
+
+### Simulation d&#39;entraînement
+
+- Pratique sous pression artificielle
+- Créer des conséquences dans la formation
+- Simuler des scénarios de compétition
+
+### Exposition progressive
+
+- Commencez par des compétitions à faible enjeu.
+- Augmenter progressivement la pression
+- Apprenez à reconnaître vos schémas dans des situations réelles.
+
+### Apprentissage post-compétition
+
+- Analysez les éléments déclencheurs de tension.
+- Notez ce qui a permis de le gérer.
+- Affinez vos protocoles
+
+---
+
+## Contenu associé
+
+- Comprendre la tension — La science de la tension
+- Techniques de relâchement des tensions — Réflexologie palmo-médullaire et respiration
+- Force mentale — Gérer la pression
+- Routine d&#39;avant-tir — Exécution constante
 

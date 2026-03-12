@@ -3,33 +3,33 @@ title: Understanding Tension
 description: Master physical and mental tension for precision performance. Learn the science of tension and find your optimal arousal zone.
 ---
 
-# Understanding Tension in Precision Sports
+# Spannung im Präzisionssport verstehen
 
-::: tip Tension Is Precision's Enemy
-**Weight: 300 points** — You cannot be both tense and precise. Learning to manage tension is essential for consistent performance.
+::: tip Spannung ist der Feind der Präzision.
+**Gewichtung: 300 Punkte** — Man kann nicht gleichzeitig angespannt und präzise sein. Der Umgang mit Anspannung ist für eine konstante Leistung unerlässlich.
 :::
 
-## The Precision Paradox
+## Das Präzisionsparadoxon
 
-> "The harder you try, the worse you do."
+> „Je mehr man sich anstrengt, desto schlechter läuft es.“
 
-This isn't weakness—it's physics and physiology. Pétanque requires relaxed, fluid movements. Tension destroys the very qualities that produce accurate throws.
+Das ist keine Schwäche – es ist Physik und Physiologie. Pétanque erfordert entspannte, fließende Bewegungen. Anspannung zerstört genau die Eigenschaften, die für präzise Würfe notwendig sind.
 
-### How Tension Destroys Precision
+### Wie Anspannung die Präzision zerstört
 
 ```mermaid
 flowchart TD
-    A[Tension] --> B[Grip Pressure ↑]
-    A --> C[Shoulder Tightness]
-    A --> D[Rushed Movement]
-    A --> E[Shallow Breathing]
+    A[Spannung] --> B[Griffdruck ↑]
+    A --> C[Schulterverspannung]
+    A --> D[Hastige Bewegung]
+    A --> E[Flache Atmung]
 
-    B --> F[Feel & Control ↓]
-    C --> G[Arm Swing Restricted]
-    D --> H[Timing Destroyed]
-    E --> I[Focus ↓]
+    B --> F[Fühlen &amp; Kontrollieren ↓]
+    C --> G[Armschwung eingeschränkt]
+    D --> H[Timing zerstört]
+    E --> I[Fokus ↓]
 
-    F --> J[Precision ↓]
+    F --> J[Genauigkeit ↓]
     G --> J
     H --> J
     I --> J
@@ -40,44 +40,44 @@ flowchart TD
 
 ---
 
-## Physical vs. Mental Tension
+## Körperliche vs. mentale Anspannung
 
-Tension exists in two connected forms:
+Spannung existiert in zwei miteinander verbundenen Formen:
 
-### Physical Tension
+### Körperliche Spannung
 
-Muscle tightness that directly affects your throw:
+Muskelverspannungen, die sich direkt auf Ihren Wurf auswirken:
 
-| Area | Effect on Throw |
+| Bereich | Auswirkung auf den Wurf |
 |------|-----------------|
-| **Grip** | Loss of feel, inconsistent release |
-| **Forearm** | Restricted wrist movement |
-| **Shoulder** | Shortened, choppy arm swing |
-| **Neck** | Restricted head position, vision |
-| **Jaw** | Connected to overall body tension |
-| **Core** | Balance and weight transfer issues |
+| **Griff** | Gefühlsverlust, ungleichmäßige Freigabe |
+| **Unterarm** | Eingeschränkte Handgelenksbewegung |
+| **Schulter** | Verkürzter, abgehackter Armschwung |
+| **Nacken** | Eingeschränkte Kopfposition, Sicht |
+| **Kiefer** | Steht im Zusammenhang mit der allgemeinen Körperspannung. |
+| **Kern** | Gleichgewichts- und Gewichtsverlagerungsprobleme |
 
-### Mental Tension
+### Psychische Anspannung
 
-Psychological stress that creates physical symptoms:
+Psychischer Stress, der körperliche Symptome hervorruft:
 
-- Racing thoughts
-- Worry about outcomes
-- Fear of failure
-- Pressure awareness
-- Past mistakes replaying
+- Rasante Gedanken
+- Sorgen Sie sich um die Ergebnisse
+- Angst vor dem Scheitern
+- Druckbewusstsein
+- Vergangene Fehler wiederholen
 
-::: warning The Tension Loop
-Mental tension → Physical tension → Poor performance → More mental tension
+::: warning Die Spannungsschleife
+Psychische Anspannung → Körperliche Anspannung → Schlechte Leistung → Mehr psychische Anspannung
 
-Breaking this loop is essential for consistent play.
+Das Durchbrechen dieser Schleife ist für ein gleichmäßiges Spiel unerlässlich.
 :::
 
 ---
 
-## The Yerkes-Dodson Law
+## Das Yerkes-Dodson-Gesetz
 
-The relationship between arousal (activation level) and performance follows an inverted-U curve:
+Der Zusammenhang zwischen Erregung (Aktivierungsniveau) und Leistung folgt einer umgekehrten U-Kurve:
 
 ```
 Performance
@@ -96,137 +96,137 @@ Performance
    Unfocused Relaxed  Anxious
 ```
 
-### Too Low (Under-aroused)
-- Flat, unfocused
-- Careless mistakes
-- Lack of intensity
-- Going through the motions
+### Zu niedrig (Untererregung)
+- Flach, unkonzentriert
+- Nachlässige Fehler
+- Mangelnde Intensität
+- Die Bewegungen ausführen
 
-### Too High (Over-aroused)
-- Tense, rushed
-- Overthinking
-- Tight grip, restricted movement
-- Can't recover from mistakes
+### Zu hoch (übererregt)
+- Angespannt, gehetzt
+- Überdenken
+- Fester Griff, eingeschränkte Bewegung
+- Fehler lassen sich nicht wieder gutmachen.
 
-### Optimal Zone
-- Alert but relaxed
-- Focused yet fluid
-- Appropriate intensity
-- Quick recovery
+### Optimale Zone
+- Aufmerksam, aber entspannt
+- Fokussiert und dennoch flexibel
+- Angemessene Intensität
+- Schnelle Erholung
 
 ---
 
-## Finding YOUR Optimal Zone
+## Finde deine optimale Zone
 
-Every player has a different optimal arousal level:
+Jeder Spieler hat ein anderes optimales Erregungsniveau:
 
-### The Self-Assessment Process
+### Der Selbstbewertungsprozess
 
-1. **Recall your best performances**
-   - How did you feel physically?
-   - What was your energy level?
-   - How would you rate your arousal (1-10)?
+1. **Erinnere dich an deine besten Leistungen**
+   - Wie haben Sie sich körperlich gefühlt?
+   - Wie hoch war Ihr Energieniveau?
+   - Wie würden Sie Ihre Erregung einschätzen (1-10)?
 
-2. **Recall your worst performances**
-   - Were you too flat or too tense?
-   - What physical symptoms did you notice?
-   - What triggered the sub-optimal state?
+2. **Erinnere dich an deine schlechtesten Leistungen**
+   - Warst du zu emotionslos oder zu angespannt?
+   - Welche körperlichen Symptome haben Sie bemerkt?
+   - Was hat diesen suboptimalen Zustand ausgelöst?
 
-3. **Identify your pattern**
-   - Do you tend toward over-arousal or under-arousal?
-   - What situations trigger your pattern?
-   - What helps you return to optimal?
+3. **Erkennen Sie Ihr Muster**
+   - Neigen Sie eher zu Übererregung oder zu Untererregung?
+   - Welche Situationen lösen Ihr Verhaltensmuster aus?
+   - Was hilft Ihnen, wieder in Bestform zu kommen?
 
-### Common Player Profiles
+### Gängige Spielerprofile
 
-| Profile | Tendency | Risk Situations | Strategy |
+| Profil | Tendenz | Risikosituationen | Strategie |
 |---------|----------|-----------------|----------|
-| **The Worrier** | Over-arousal | High stakes, close games | Relaxation techniques |
-| **The Flat-liner** | Under-arousal | Low-stakes, early rounds | Activation techniques |
-| **The Reactor** | Variable | After misses, momentum shifts | Emotional regulation |
-| **The Chaser** | Over-arousal when behind | Comebacks, time pressure | Acceptance techniques |
+| **Der Sorgenmacher** | Übererregung | Hohe Einsätze, knappe Spiele | Entspannungstechniken |
+| **Der Flatliner** | Untererregung | Niedrige Einsätze, frühe Runden | Aktivierungstechniken |
+| **Der Reaktor** | Variable | Nach Fehlwürfen verschiebt sich das Momentum. | Emotionsregulation |
+| **Der Verfolger** | Übermäßige Erregung beim Hinterhergehen | Comebacks, Zeitdruck | Akzeptanztechniken |
 
 ---
 
-## Recognizing Tension Signals
+## Spannungssignale erkennen
 
-### Physical Warning Signs
+### Physische Warnzeichen
 
-Learn to notice these before they affect your throw:
+Lerne, diese zu erkennen, bevor sie deinen Wurf beeinträchtigen:
 
-| Signal | Location | Action |
+| Signal | Standort | Aktion |
 |--------|----------|--------|
-| **Tight grip** | Hand | Soften before each throw |
-| **Raised shoulders** | Upper back | Drop and roll |
-| **Clenched jaw** | Face | Open mouth slightly |
-| **Shallow breath** | Chest | Deep belly breath |
-| **Rushed movement** | Whole body | Slow down deliberately |
-| **Restless fidgeting** | General | Ground yourself |
+| **Fester Griff** | Hand | Vor jedem Wurf weicher machen. |
+| **Hochgezogene Schultern** | Oberer Rücken | Hinlegen und rollen |
+| **Zusammengebissene Zähne** | Gesicht | Mund leicht öffnen |
+| **Flacher Atemzug** | Brust | Tief durchatmen |
+| **Eilige Bewegung** | Ganzer Körper | Bewusst langsamer fahren. |
+| **Unruhiges Herumzappeln** | Allgemein | Erden |
 
-### Mental Warning Signs
+### Psychische Warnzeichen
 
-- Racing thoughts
-- Negative self-talk increasing
-- Focus on outcome, not process
-- Awareness of stakes/score
-- Thinking about past mistakes
+- Rasante Gedanken
+- Zunahme negativer Selbstgespräche
+- Konzentriere dich auf das Ergebnis, nicht auf den Prozess
+- Bewusstsein für den Einsatz/das Ergebnis
+- Nachdenken über vergangene Fehler
 
 ---
 
-## The Tension-Performance Self-Check
+## Selbstprüfung der Spannungs- und Leistungskennzahlen
 
-Use this quick assessment between throws or at breaks:
+Nutzen Sie diese Kurzbeurteilung zwischen den Würfen oder in den Pausen:
 
-**Physical Scan (5 seconds):**
-1. Grip → Soft?
-2. Shoulders → Down?
-3. Jaw → Unclenched?
-4. Breathing → Slow and deep?
+**Physischer Scan (5 Sekunden):**
+1. Griff → Weich?
+2. Schultern → nach unten?
+3. Kiefer → Entspannt?
+4. Atmung → Langsam und tief?
 
-**Mental Scan (5 seconds):**
-1. Thoughts → Present focused?
-2. Energy → Optimal range?
-3. Next action → Clear?
+**Mentale Überprüfung (5 Sekunden):**
+1. Gedanken → Auf die Gegenwart fokussiert?
+2. Energie → Optimaler Bereich?
+3. Nächste Aktion → Löschen?
 
-::: tip Make It a Habit
-The best players do this automatically. You can train yourself to do the same through repetition.
+::: tip Mach es dir zur Gewohnheit
+Die besten Spieler machen das automatisch. Durch Wiederholung kannst du dir das auch beibringen.
 :::
 
 ---
 
-## In This Module
+## In diesem Modul
 
-### [Tension Release Techniques](/de/education/tension/techniques)
-- Progressive Muscle Relaxation (PMR)
-- Quick release techniques for competition
-- Breathing protocols
-- Pre-throw tension reset
+### [Techniken zur Spannungsentspannung](/en/education/tension/techniques)
+- Progressive Muskelentspannung (PMR)
+- Schnellverschlusstechniken für den Wettkampf
+- Atemprotokolle
+- Vorwurfspannung zurücksetzen
 
-### [Managing Tension in Competition](/de/education/tension/competition)
-- Pre-match preparation
-- During-match protocols
-- Emergency "too tense" recovery
-- Post-mistake recovery
-
----
-
-## Quick Win: The 10-Second Reset
-
-Before your next throw, use this quick protocol:
-
-1. **Shoulders** — Drop them consciously
-2. **Grip** — Lighten it 20%
-3. **Jaw** — Unclench, tongue off roof of mouth
-4. **Breath** — One slow, full exhale
-
-This takes 10 seconds and can immediately improve your next throw.
+### [Umgang mit Spannungen im Wettbewerb](/en/education/tension/competition)
+- Vorbereitung vor dem Spiel
+- Protokolle während des Spiels
+- Notfallwiederherstellung aufgrund zu starker Anspannung
+- Fehlerbehebung
 
 ---
 
-## Related Factors
+## Schneller Sieg: Der 10-Sekunden-Reset
 
-- [Mental Strength](/de/education/mental-game/mental-strength/) — Handling pressure
-- [Sleep & Recovery](/de/education/sleep/) — Rest reduces baseline tension
-- [Mindfulness](/de/education/mental-game/mindfulness/) — Present-moment awareness
-- [The Zone](/de/education/mental-game/the-zone/) — Optimal performance state
+Befolgen Sie vor Ihrem nächsten Wurf dieses kurze Protokoll:
+
+1. **Schultern** — Lassen Sie sie bewusst sinken
+2. **Griff** – 20 % leichter
+3. **Kiefer** – Entspannen, Zunge vom Gaumen
+4. **Atem** — Einmal langsam und vollständig ausatmen
+
+Das dauert 10 Sekunden und kann Ihren nächsten Wurf sofort verbessern.
+
+---
+
+## Verwandte Faktoren
+
+- Mentale Stärke – Umgang mit Druck
+- [Schlaf &amp; Erholung](/en/education/sleep/) — Ruhe reduziert die Grundspannung
+- [Achtsamkeit](/en/education/mental-game/mindfulness/) — Bewusstsein für den gegenwärtigen Moment
+- [Die Zone](/en/education/mental-game/the-zone/) — Optimaler Leistungszustand
 

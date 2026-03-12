@@ -1,89 +1,89 @@
-# Peer Feedback Template
+# Skabelon til peerfeedback
 
-Structured templates for requesting and giving honest feedback to teammates.
+Strukturerede skabeloner til at anmode om og give ærlig feedback til teammedlemmer.
 
-::: tip Why Peer Feedback?
-**We all have blind spots.** Research shows self-assessment accuracy improves dramatically when combined with peer feedback. Your teammates see things you can't.
+::: tip Hvorfor peerfeedback?
+**Vi har alle blinde vinkler.** Forskning viser, at nøjagtigheden af selvevaluering forbedres dramatisk, når den kombineres med feedback fra kolleger. Dine holdkammerater ser ting, som du ikke kan.
 :::
 
-## Requesting Feedback
+## Anmodning om feedback
 
-### How to Ask
+### Sådan spørger du
 
-**When:** After training sessions or competitions (not during)
-**Who:** Teammates who've played with you recently
-**How:** Share this form or use the digital assessment
+**Hvornår:** Efter træningssessioner eller konkurrencer (ikke under)
+**Hvem:** Holdkammerater, der har spillet med dig for nylig
+**Hvordan:** Del denne formular eller brug den digitale vurdering
 
-::: info Digital Option
-Use the [Player Assessment Tool](/da/assessment/) with the "Get Peer Feedback" feature for automatic comparison and blind spot detection.
+::: info Digital mulighed
+Brug [Spillervurderingsværktøjet](/da/vurdering/) med funktionen &quot;Få peerfeedback&quot; til automatisk sammenligning og blindvinkeldetektion.
 :::
 
 ---
 
-### Feedback Request Form
+### Formular til anmodning om feedback
 
-**To:** ________ (teammate name)
-**From:** ________ (your name)
-**Date:** ________
+**Til:** ________ (navn på holdkammerat)
+**Fra:** ________ (dit navn)
+**Dato:** ________
 
-**Context:** I'm working on improving my game and would value your honest perspective. Please rate me based on what you've observed, not what you think I want to hear.
+**Kontekst:** Jeg arbejder på at forbedre mit spil og vil sætte pris på dit ærlige perspektiv. Bedøm mig venligst baseret på, hvad du har observeret, ikke hvad du tror, jeg gerne vil høre.
 
 ---
 
-**Rate me 1-10 on each area:**
+**Giv mig en vurdering fra 1-10 på hvert område:**
 
-| Area | Your Rating | Comments |
+| Areal | Din vurdering | Kommentarer |
 |------|-------------|----------|
-| **Technical consistency** | /10 | |
-| **Shot selection decisions** | /10 | |
-| **Performance under pressure** | /10 | |
-| **Communication with team** | /10 | |
-| **Body language after mistakes** | /10 | |
-| **Focus/concentration** | /10 | |
-| **Energy/motivation** | /10 | |
-| **Supportiveness to teammates** | /10 | |
+| **Teknisk konsistens** | /10 |
+| **Beslutninger om skudvalg** | /10 |
+| **Ydeevne under pres** | /10 |
+| **Kommunikation med teamet** | /10 |
+| **Kropssprog efter fejltagelser** | /10 |
+| **Fokus/koncentration** | /10 |
+| **Energi/motivation** | /10 |
+| **Støtte til holdkammerater** | /10 |
 
 ---
 
-**Open questions:**
+**Åbne spørgsmål:**
 
-1. **What do I do well that I should keep doing?**
+1. **Hvad gør jeg godt, som jeg bør blive ved med at gøre?**
 
-2. **What's one thing holding me back that I might not see?**
+2. **Hvad er én ting, der holder mig tilbage, som jeg måske ikke ser?**
 
-3. **In pressure situations, what do you notice about me?**
+3. **Hvad lægger du mærke til ved mig i pressede situationer?**
 
-4. **How could I better support the team?**
+4. **Hvordan kan jeg bedre støtte holdet?**
 
-5. **Any other observations?**
-
----
-
-## Giving Feedback
-
-### Guidelines for Honest, Helpful Feedback
-
-**Be specific:** Not "you're inconsistent" but "I noticed your pointing accuracy drops in the last 3 ends"
-
-**Be kind but honest:** Sugarcoating doesn't help growth
-
-**Focus on behavior, not personality:** Not "you're negative" but "after misses, your body language affects the team"
-
-**Include positives:** Balance areas for improvement with genuine strengths
-
-**Offer observations, not judgments:** "I observed..." not "You always..."
+5. **Andre observationer?**
 
 ---
 
-### Feedback Response Form
+## Give feedback
 
-**For:** ________ (requester name)
-**From:** ________ (your name)
-**Date:** ________
+### Retningslinjer for ærlig og nyttig feedback
+
+**Vær specifik:** Ikke &quot;du er inkonsekvent&quot;, men &quot;Jeg bemærkede, at din præcision i pointene falder i de sidste 3 omgange&quot;
+
+**Vær venlig, men ærlig:** Sukkerbehandling fremmer ikke vækst
+
+**Fokus på adfærd, ikke personlighed:** Ikke &quot;du er negativ&quot;, men &quot;efter misser påvirker dit kropssprog holdet&quot;
+
+**Inkluder positive sider:** Find en balance mellem områder, der kan forbedres, og de reelle styrker
+
+**Kom med observationer, ikke domme:** &quot;Jeg observerede...&quot; ikke &quot;Du har altid...&quot;
 
 ---
 
-**Strengths I've observed:**
+### Feedback-svarformular
+
+**Til:** ________ (anmoders navn)
+**Fra:** ________ (dit navn)
+**Dato:** ________
+
+---
+
+**Styrker jeg har observeret:**
 
 1.
 
@@ -93,95 +93,95 @@ Use the [Player Assessment Tool](/da/assessment/) with the "Get Peer Feedback" f
 
 ---
 
-**Areas for development:**
+**Områder til udvikling:**
 
-1. **Area:** ________
-   **Specific observation:**
-   **Suggestion:**
+1. **Område:** ________
+   **Specifik observation:**
+   **Forslag:**
 
-2. **Area:** ________
-   **Specific observation:**
-   **Suggestion:**
-
----
-
-**Under pressure, I notice you:**
+2. **Område:** ________
+   **Specifik observation:**
+   **Forslag:**
 
 ---
 
-**One thing that might be a blind spot:**
+**Under pres, jeg bemærker dig:**
 
 ---
 
-**Overall, I think you could take your game to the next level by:**
+**Én ting, der kan være en blind vinkel:**
 
 ---
 
-## Team Feedback Session Format
-
-For teams wanting structured feedback conversations:
-
-### Setup (5 min)
-- Each person has given written feedback beforehand
-- Safe space agreement: honest but respectful
-- Focus on growth, not criticism
-
-### Round 1: Strengths (15 min)
-Each player shares:
-- "What I appreciate about [teammate]'s contribution to the team"
-- Go around for each team member
-
-### Round 2: Growth Areas (20 min)
-Each player shares:
-- "One thing [teammate] could work on that would help the team"
-- Receiver listens without defending
-- Ask clarifying questions only
-
-### Round 3: Commitments (10 min)
-Each player states:
-- "Based on this feedback, I will focus on..."
-
-### Close (5 min)
-- Thank each other for honesty
-- Schedule follow-up in 4-6 weeks
+**Alt i alt tror jeg, at du kan tage dit spil til det næste niveau ved at:**
 
 ---
 
-## Receiving Feedback
+## Format for teamfeedbacksession
 
-### How to Receive Well
+For teams, der ønsker strukturerede feedbacksamtaler:
 
-**Don't:**
-- Defend or explain
-- Dismiss ("they don't understand")
-- Get emotional
-- Argue
+### Opsætning (5 min)
+- Hver person har givet skriftlig feedback på forhånd
+- Sikkerhedsaftale: ærlig men respektfuld
+- Fokus på vækst, ikke kritik
 
-**Do:**
-- Listen fully
-- Ask clarifying questions
-- Thank them for honesty
-- Reflect before responding
-- Look for patterns across multiple sources
+### Runde 1: Styrker (15 min)
+Hver spiller deler:
+- &quot;Hvad jeg sætter pris på ved [holdkammerats] bidrag til holdet&quot;
+- Gå rundt for hvert teammedlem
 
-### Processing Template
+### Runde 2: Vækstområder (20 min)
+Hver spiller deler:
+- &quot;Én ting [holdkammeraten] kunne arbejde på, som ville hjælpe holdet&quot;
+- Modtageren lytter uden at forsvare sig
+- Stil kun afklarende spørgsmål
 
-**Feedback received:**
+### Runde 3: Forpligtelser (10 min)
+Hver spiller angiver:
+- &quot;Baseret på denne feedback vil jeg fokusere på...&quot;
 
-**My initial reaction:**
-
-**After reflection, I think:**
-
-**Pattern I'm noticing (if multiple sources):**
-
-**Action I will take:**
+### Luk (5 min)
+- Tak hinanden for ærlighed
+- Planlæg opfølgning om 4-6 uger
 
 ---
 
-## Related Resources
+## Modtagelse af feedback
 
-- [🎯 Assessment Tool](/da/assessment/) — Digital self + peer assessment
-- [Self-Awareness Education](/da/education/self-awareness/) — Understanding blind spots
-- [Team Agreement Template](/da/guides/templates/team-agreement) — Build team communication
-- [Training Diary](/da/guides/templates/diary-template) — Track your development
+### Sådan modtager du godt
+
+**Lad være:**
+- Forsvar eller forklar
+- Afvis (&quot;de forstår ikke&quot;)
+- Bliv følelsesladet
+- Hævde
+
+**Gør:**
+- Lyt fuldt ud
+- Stil afklarende spørgsmål
+- Tak dem for ærligheden
+- Reflektér før du svarer
+- Led efter mønstre på tværs af flere kilder
+
+### Behandling af skabelon
+
+**Modtaget feedback:**
+
+**Min første reaktion:**
+
+**Efter nærmere overvejelse tænker jeg:**
+
+**Mønster jeg bemærker (hvis der er flere kilder):**
+
+**Hvad jeg vil gøre:**
+
+---
+
+## Relaterede ressourcer
+
+- [🎯 Vurderingsværktøj](/da/vurdering/) — Digital selv- + peer-vurdering
+- [Uddannelse i selvbevidsthed](/da/uddannelse/selvbevidsthed/) — Forståelse af blinde vinkler
+- [Teamaftaleskabelon](/da/vejledninger/skabeloner/teamaftale) — Opbyg teamkommunikation
+- [Træningsdagbog](/da/guider/skabeloner/dagbogsskabelon) — Følg din udvikling
 

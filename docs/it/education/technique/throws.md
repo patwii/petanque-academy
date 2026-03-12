@@ -169,8 +169,8 @@ Concentrarsi su:
 
 ::: info Prossimi passi
 Una volta acquisita una tecnica solida, la vera crescita deriva da:
-- **[The Zone](/it/education/mental-game/the-zone/)** - Accesso coerente agli stati di flusso
-- **[Metodi di allenamento](/it/education/technique/training/)** - Come esercitarsi in modo efficace
-- **[Forza mentale](/it/education/mental-game/mental-strength/)** - Rendimento sotto pressione
+- **[The Zone](/it/education/mental-game/the-zone/)** - Accedere agli stati di flusso in modo coerente
+- **[Metodi di allenamento](/it/educazione/tecnica/allenamento/)** - Come esercitarsi in modo efficace
+- **[Forza mentale](/it/educazione/gioco-mentale/forza-mentale/)** - Rendimento sotto pressione
 :::
 

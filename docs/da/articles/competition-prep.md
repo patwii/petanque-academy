@@ -3,21 +3,21 @@ title: Competition Preparation
 description: Prepare optimally for pétanque competitions. Learn the physical, mental, and tactical preparation that sets you up for peak performance.
 ---
 
-# Competition Preparation
+# Konkurrenceforberedelse
 
-> "The match doesn't start when you throw the first boule — it starts days before."
+> &quot;Kampen starter ikke, når du kaster den første kugle – den starter dage før.&quot;
 
-How you prepare in the lead-up to competition significantly impacts your performance. Elite players don't leave preparation to chance.
+Hvordan du forbereder dig op til konkurrencer har stor indflydelse på din præstation. Elitespillere overlader ikke forberedelsen til tilfældighederne.
 
-::: tip The Preparation Principle
-**Proper preparation prevents poor performance.** Every elite player has a systematic approach to competition readiness.
+::: tip Forberedelsesprincippet
+**God forberedelse forhindrer dårlig præstation.** Enhver elitespiller har en systematisk tilgang til konkurrenceberedskab.
 :::
 
 ```mermaid
 flowchart LR
-    A[1 Week Before] --> B[2 Days Before]
-    B --> C[Day Before]
-    C --> D[Competition Day]
+    A[1 uge før] --> B[2 dage før]
+    B --> C[Dagen før]
+    C --> D[Konkurrencedag]
     D --> E[Peak Performance]
 
     style A fill:#e3f2fd
@@ -29,254 +29,254 @@ flowchart LR
 
 ---
 
-## The Preparation Timeline
+## Forberedelsestidslinjen
 
-### One Week Before
+### En uge før
 
-**Physical:**
-- Maintain normal training intensity
-- Ensure adequate rest
-- Address any minor physical issues
-
-**Mental:**
-- Visualize successful performance
-- Review goals for the competition
-- Begin focusing attention
-
-**Tactical:**
-- Research opponents if possible
-- Review your game plan
-- Discuss strategy with teammates
-
-### Two Days Before
-
-**Physical:**
-- Reduce training intensity
-- Focus on feeling good, not improving
-- Prioritize sleep
+**Fysisk:**
+- Oprethold normal træningsintensitet
+- Sørg for tilstrækkelig hvile
+- Håndter eventuelle mindre fysiske problemer
 
 **Mental:**
-- Increase visualization practice
-- Manage pre-competition nerves
-- Stay positive and confident
+- Visualiser succesfuld præstation
+- Gennemgå målene for konkurrencen
+- Begynd at fokusere opmærksomheden
 
-**Logistical:**
-- Prepare equipment
-- Plan travel and timing
-- Handle administrative details
+**Taktisk:**
+- Undersøg modstandere, hvis det er muligt
+- Gennemgå din spilleplan
+- Diskuter strategi med holdkammerater
 
-### Day Before
+### To dage før
 
-**Physical:**
-- Light practice only
-- Rest and recovery
-- Good nutrition and hydration
+**Fysisk:**
+- Reducer træningsintensiteten
+- Fokuser på at have det godt, ikke på at forbedre dig
+- Prioriter søvn
 
 **Mental:**
-- Final visualization session
-- Relaxation techniques
-- Positive self-talk
+- Øg visualiseringspraksis
+- Håndter nerverne før konkurrencen
+- Forbliv positiv og selvsikker
 
-**Practical:**
-- Confirm all logistics
-- Prepare what you'll wear
-- Set alarms and reminders
+**Logistisk:**
+- Forbered udstyr
+- Planlæg rejse og tidsplan
+- Håndter administrative detaljer
 
-### Competition Day
+### Dagen før
 
-**Morning:**
-- Wake with adequate time
-- Eat familiar, proven foods
-- Begin mental preparation
+**Fysisk:**
+- Kun let træning
+- Hvile og restitution
+- God ernæring og hydrering
 
-**Pre-Match:**
-- Arrive early
-- Familiarize with terrain
-- Complete warm-up routine
-- Final team alignment
+**Mental:**
+- Afsluttende visualiseringssession
+- Afslapningsteknikker
+- Positiv selvsnak
 
-## Physical Preparation
+**Praktisk:**
+- Bekræft al logistik
+- Forbered hvad du skal have på
+- Indstil alarmer og påmindelser
 
-### Sleep
+### Konkurrencedag
 
-Sleep is performance fuel:
-- Prioritize 7-9 hours in the days before
-- Maintain consistent sleep schedule
-- Avoid alcohol and screens before bed
+**Morgen:**
+- Vågn op i god tid
+- Spis velkendte, gennemprøvede fødevarer
+- Begynd mental forberedelse
 
-### Nutrition
+**Før kampen:**
+- Ankom tidligt
+- Bliv fortrolig med terrænet
+- Komplet opvarmningsrutine
+- Endelig holdopstilling
 
-Fuel your performance:
-- Eat familiar foods (not experimental)
-- Stay hydrated
-- Avoid heavy meals close to play
-- Have snacks available during competition
+## Fysisk forberedelse
 
-### Physical Readiness
+### Sove
 
-Arrive ready to perform:
-- Address any injuries or discomfort
-- Warm up properly
-- Stay loose between matches
+Søvn er brændstof til præstation:
+- Prioriter 7-9 timer i dagene før
+- Oprethold en konsekvent søvnplan
+- Undgå alkohol og skærme før sengetid
 
-## Mental Preparation
+### Ernæring
 
-### Visualization
+Giv din præstation styrke:
+- Spis velkendte fødevarer (ikke eksperimentelle)
+- Hold dig hydreret
+- Undgå tunge måltider tæt på leg
+- Hav snacks klar under konkurrencen
 
-See success before it happens:
-- Visualize specific scenarios you might face
-- See yourself handling pressure well
-- Feel the confidence of good performance
+### Fysisk parathed
 
-### Goal Setting
+Mød op klar til at optræde:
+- Afhjælp eventuelle skader eller ubehag
+- Varm ordentligt op
+- Hold dig afslappet mellem kampene
 
-Know what you're aiming for:
-- Outcome goals (what you want to achieve)
-- Process goals (how you'll play)
-- Focus goals (where attention goes)
+## Mental forberedelse
 
-### Confidence Building
+### Visualisering
 
-Enter competition believing in yourself:
-- Review past successes
-- Affirm your preparation
-- Focus on strengths
+Se succes før den sker:
+- Visualiser specifikke scenarier, du kan stå over for
+- Se dig selv håndtere pres godt
+- Føl selvtilliden ved en god præstation
 
-### Anxiety Management
+### Målsætning
 
-Channel nerves productively:
-- Recognize anxiety as normal
-- Use breathing techniques
-- Reframe nerves as excitement
+Vid hvad du sigter efter:
+- Resultatmål (hvad du ønsker at opnå)
+- Procesmål (hvordan du vil spille)
+- Fokusmål (hvor opmærksomheden går hen)
 
-## Tactical Preparation
+### Opbygning af tillid
 
-### Know Your Game
+Deltag i konkurrencen, tro på dig selv:
+- Gennemgå tidligere succeser
+- Bekræft din forberedelse
+- Fokus på styrker
 
-Be clear on your approach:
-- What's your team's style?
-- What are your strengths to leverage?
-- What weaknesses to manage?
+### Angsthåndtering
 
-### Know the Competition
+Kanaliser nerver produktivt:
+- Anerkend angst som normalt
+- Brug vejrtrækningsteknikker
+- Omformuler nerver til spænding
 
-Gather useful intelligence:
-- Opponents' tendencies
-- Terrain characteristics
-- Competition format and rules
+## Taktisk forberedelse
 
-### Have a Plan
+### Kend dit spil
 
-Enter with clear intentions:
-- Opening strategy
-- Adjustments for different scenarios
-- Roles and responsibilities
+Vær tydelig i din tilgang:
+- Hvad er dit holds stil?
+- Hvad er dine styrker at udnytte?
+- Hvilke svagheder skal håndteres?
 
-## Team Preparation
+### Kend konkurrencen
 
-### Alignment
+Indsaml nyttige oplysninger:
+- Modstandernes tendenser
+- Terrænegenskaber
+- Konkurrenceformat og regler
 
-Ensure everyone is on the same page:
-- Shared goals
-- Clear roles
-- Agreed communication approach
+### Hav en plan
 
-### Support Systems
+Gå ind med klare intentioner:
+- Åbningsstrategi
+- Justeringer for forskellige scenarier
+- Roller og ansvarsområder
 
-Set up mutual support:
-- How will you encourage each other?
-- How will you handle setbacks?
-- What does support look like?
+## Holdforberedelse
 
-### Logistics
+### Justering
 
-Handle practical matters:
-- Travel arrangements
-- Meeting times and places
-- Equipment responsibilities
+Sørg for, at alle er på samme bølgelængde:
+- Fælles mål
+- Tydelige roller
+- Aftalt kommunikationstilgang
 
-## The Warm-Up Routine
+### Støttesystemer
 
-### Physical Warm-Up (15-20 minutes)
+Opret gensidig støtte:
+- Hvordan vil I opmuntre hinanden?
+- Hvordan vil du håndtere tilbageslag?
+- Hvordan ser support ud?
 
-1. Light movement (walking, arm circles)
-2. Dynamic stretching
-3. Gradual throwing (short to long distance)
-4. Full-intensity throws
+### Logistik
 
-### Mental Warm-Up (5-10 minutes)
+Håndter praktiske ting:
+- Rejsearrangementer
+- Mødetider og -steder
+- Udstyrsansvar
 
-1. Transition focus to competition
-2. Brief visualization
-3. Positive self-talk
-4. Intention setting
+## Opvarmningsrutinen
 
-### Terrain Familiarization
+### Fysisk opvarmning (15-20 minutter)
 
-1. Observe the playing surface
-2. Note any irregularities
-3. Test different areas if possible
-4. Discuss observations with team
+1. Let bevægelse (gang, armcirkler)
+2. Dynamisk strækning
+3. Gradvis kastning (kort til lang afstand)
+4. Kast med fuld intensitet
+
+### Mental opvarmning (5-10 minutter)
+
+1. Fokusskift til konkurrence
+2. Kort visualisering
+3. Positiv selvsnak
+4. Intentionsindstilling
+
+### Terrænfortrolighed
+
+1. Observer spillefladen
+2. Bemærk eventuelle uregelmæssigheder
+3. Test forskellige områder, hvis det er muligt
+4. Diskuter observationer med teamet
 
 ---
 
-## Common Preparation Mistakes
+## Almindelige forberedelsesfejl
 
-::: danger Avoid These Traps
+::: danger Undgå disse fælder
 
-| Mistake | Why It Hurts |
+| Fejl | Hvorfor det gør ondt |
 |---------|--------------|
-| **Over-Training** | Trying to improve in final days leads to fatigue, not gains |
-| **Under-Sleeping** | Sacrificing sleep for extra practice backfires |
-| **New Experiments** | Competition day is not for trying new techniques |
-| **Ignoring Nerves** | Pretending you're not nervous doesn't help |
-| **Poor Logistics** | Rushing creates unnecessary stress |
+| **Overtræning** | At forsøge at forbedre sig i de sidste dage fører til træthed, ikke gevinst |
+| **Under-sovning** | At ofre søvn for ekstra træning giver bagslag |
+| **Nye eksperimenter** | Konkurrencedagen er ikke til at afprøve nye teknikker |
+| **Ignorerer nerver** | Det hjælper ikke at lade som om, man ikke er nervøs |
+| **Dårlig logistik** | Hastværk skaber unødvendig stress |
 
 :::
 
-## The Night Before
+## Natten før
 
-### Do:
-- Prepare everything you need
-- Get to bed at normal time
-- Use relaxation techniques if needed
-- Trust your preparation
+### Gør:
+- Forbered alt hvad du behøver
+- Gå i seng til normal tid
+- Brug afspændingsteknikker om nødvendigt
+- Stol på din forberedelse
 
-### Don't:
-- Stay up late worrying
-- Over-analyze strategy
-- Consume alcohol or heavy food
-- Engage in stressful activities
+### Må ikke:
+- Bliv oppe sent og bekymre dig
+- Overanalyser strategi
+- Indtage alkohol eller tung mad
+- Deltag i stressende aktiviteter
 
-## Competition Morning
+## Konkurrencemorgen
 
-### Routine Matters
+### Rutinemæssige anliggender
 
-Stick to familiar patterns:
-- Wake at planned time
-- Eat proven foods
-- Follow your normal morning routine
-- Leave with plenty of time
+Hold dig til velkendte mønstre:
+- Vågn op på det planlagte tidspunkt
+- Spis dokumenterede fødevarer
+- Følg din normale morgenrutine
+- Tag afsted med god tid
 
-### Mental State
+### Mental tilstand
 
-Cultivate the right mindset:
-- Excited, not anxious
-- Confident, not arrogant
-- Focused, not tense
-- Ready, not desperate
+Dyrk den rette tankegang:
+- Spændt, ikke ængstelig
+- Selvsikker, ikke arrogant
+- Fokuseret, ikke anspændt
+- Klar, ikke desperat
 
-## Arriving at the Venue
+## Ankomst til spillestedet
 
-1. **Settle in**: Find your space, organize equipment
-2. **Observe**: Look at terrain, note conditions
-3. **Warm up**: Complete your routine
-4. **Connect**: Brief team alignment
-5. **Focus**: Final mental preparation
+1. **Sæt dig til rette**: Find din plads, organiser udstyr
+2. **Observer**: Se på terrænet, noter forholdene
+3. **Opvarmning**: Færdiggør din rutine
+4. **Forbind**: Kort teamsammenlægning
+5. **Fokus**: Sidste mentale forberedelse
 
-You've prepared well. Now trust it and compete.
+Du har forberedt dig godt. Stol nu på det og konkurrer.
 
 ---
 
-*Related: [Training Methods](/da/education/technique/training/) | [Handling Pressure](/da/education/mental-game/mental-strength/handling-pressure) | [Pre-Shot Routine](/da/education/mental-game/mental-strength/pre-shot-routine)*
+| *Relateret: [Træningsmetoder](/da/uddannelse/teknik/træning/) | [Håndtering af pres](/da/uddannelse/mentalt-spil/mental-styrke/håndtering-af-pres) | [Rutine før skud](/da/uddannelse/mentalt-spil/mental-styrke/rutine-før-skud)* |
 

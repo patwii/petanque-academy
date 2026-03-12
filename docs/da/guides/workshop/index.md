@@ -11,7 +11,7 @@ Denne workshop er en avanceret teoretisk session på 3-4 timer for 6-8 elitespil
 :::
 
 **Forskel fra begynderkursus:**
-- **Begynder (2-3 timer):** Introduktion til mentale spilkoncepter → [Se Mental Rejse Guide](/da/mental-rejse/session-guide)
+- **Begynder (2-3 timer):** Introduktion til mentale spilkoncepter → [Se Mental Rejse Guide](/da/guides/mental-journey/session-guide)
 - **Avanceret (3-4 timer):** Dybdegående psykologisk arbejde med sårbarhedsøvelser (denne side)
 
 ## Hurtig adgang
@@ -21,7 +21,7 @@ Denne workshop er en avanceret teoretisk session på 3-4 timer for 6-8 elitespil
 | **For deltagere** | Hvad man kan forvente, og hvordan man forbereder sig | [Se sektion](#for-deltagere) |
 | **For facilitatorer** | Komplet sessionsguide og øvelser | [Se sektion](#for-facilitatorer) |
 | **Materialer til sessionen** | Øvelser og arbejdsark | [Se materialer](#facilitator-materials) |
-| **Relaterede vejledninger** | Andre træningsformater | [Mental Rejse](/da/mental-rejse/) • [Træningslejr](/da/guides/training-camp/) |
+| **Relaterede vejledninger** | Andre træningsformater | [Mental Rejse](/da/guider/mental-rejse/) • [Træningslejr](/da/guider/træningslejr/) |
 
 ---
 

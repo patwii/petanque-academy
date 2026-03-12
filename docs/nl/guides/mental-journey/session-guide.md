@@ -16,7 +16,7 @@ Deze handleiding helpt je bij het geven van een introductiesessie van 2-3 uur ov
 |---------|---------|--------|
 | **Voor deelnemers** | Wat kun je van de sessie verwachten? | [Sectie bekijken](#voor-deelnemers) |
 | **Voor begeleiders** | Volledig sessieplan en tijdschema | [Sectie bekijken](#voor-facilitatoren) |
-| **Sessiematerialen** | Handleidingen, dia&#39;s en werkbladen | [Materialen bekijken](/nl/guides/mental-journey/materials) |
+| **Sessiematerialen** | Handleidingen, dia&#39;s en werkbladen | [Materialen bekijken](/en/guides/mental-journey/materials) |
 | **Voorbereidingschecklist** | Wat je moet voorbereiden vóór de sessie | [Bekijk checklist](#voorbereiding-1-week-vooraf) |
 
 ---
@@ -109,7 +109,7 @@ Je ontvangt:
 **1 week van tevoren:**
 - [ ] Reserveer een kamer voor 2-3 uur.
 - [ ] Nodig 6-12 deelnemers uit
-- [ ] Voeg de pagina&#39;s met materialen toe aan je bladwijzers (zie [Materialen](/nl/guides/mental-journey/materials))
+- [ ] Voeg de pagina&#39;s met materialen toe aan je bladwijzers (zie [Materialen](/en/guides/mental-journey/materials))
 - [ ] Lees deze handleiding aandachtig door.
 - [ ] Bereid een flipchart of whiteboard voor.
 
@@ -360,7 +360,7 @@ Deel voorbeelden.
 **Bronnen:**
 - Deel het samenvattingsblad uit.
 - Deel de website: carreau.app
-- Aanbevolen startmodule: [The Zone](/nl/education/mental-game/the-zone/)
+- Aanbevolen startmodule: [The Zone](/en/education/mental-game/the-zone/)
 
 **Afsluitende kring:**
 &quot;Eén woord om te beschrijven hoe je je nu voelt.&quot;
@@ -419,10 +419,10 @@ Deel voorbeelden.
 
 ## Materialen
 
-- [Deelnemershandleiding](/nl/guides/mental-journey/materials#participant-guide)
-- [Facilitator Slides](/nl/guides/mental-journey/materials#facilitator-slides)
-- [Samenvattingsblad](/nl/guides/mental-journey/materials#summary-sheet)
-- [Oefenwerkbladen](/nl/guides/mental-journey/materials#exercise-worksheets)
+- [Deelnemershandleiding](/en/guides/mental-journey/materials#participant-guide)
+- [Facilitator Slides](/en/guides/mental-journey/materials#facilitator-slides)
+- [Samenvattingsblad](/en/guides/mental-journey/materials#summary-sheet)
+- [Oefenbladen](/en/guides/mental-journey/materials#exercise-worksheets)
 
 ---
 

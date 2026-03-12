@@ -16,7 +16,7 @@ Denne guide hjælper dig med at gennemføre en 2-3 timers introduktionssession o
 |---------|---------|--------|
 | **For deltagere** | Hvad du kan forvente af sessionen | [Se sektion](#for-deltagere) |
 | **For facilitatorer** | Fuld sessionsplan og tidsplan | [Se sektion](#for-facilitatorer) |
-| **Materialer til sessionen** | Guider, slides og arbejdsark | [Se materialer](/da/guides/mental-journey/materialer) |
+| **Materialer til sessionen** | Guider, slides og arbejdsark | [Se materialer](/da/guider/mental-rejse/materialer) |
 | **Forberedelsestjekliste** | Hvad skal man forberede inden sessionen | [Se tjekliste](#forberedelse-1-uge-før) |
 
 ---
@@ -109,7 +109,7 @@ Du vil modtage:
 **1 uge før:**
 - [ ] Book et værelse i 2-3 timer
 - [ ] Inviter 6-12 deltagere
-- [ ] Bogmærk materialesider (se [Materialer](/da/guides/mental-journey/materialer))
+- [ ] Bogmærk materialesider (se [Materialer](/da/guider/mental-rejse/materialer))
 - [ ] Gennemgå denne vejledning grundigt
 - [ ] Forbered flipover eller whiteboard
 
@@ -360,7 +360,7 @@ Del eksempler.
 **Ressourcer:**
 - Uddel et opsummeringsark
 - Del hjemmeside: carreau.app
-- Anbefalet startmodul: [Zonen](/da/education/mental-game/the-zone/)
+- Anbefalet startmodul: [Zonen](/da/uddannelse/mentalt-spil/zonen/)
 
 **Slutning af cirklen:**
 &quot;Et ord til at beskrive, hvordan du har det lige nu.&quot;
@@ -419,10 +419,10 @@ Del eksempler.
 
 ## Materialer
 
-- [Deltagervejledning](/da/mental-rejse/materialer#deltagervejledning)
-- [Facilitator-slides](/da/mental-rejse/materialer#facilitator-slides)
-- [Opsummeringsark](/da/mental-rejse/materialer#opsummeringsark)
-- [Øvelsesark](/da/mental-rejse/materialer#øvelsesark)
+- [Deltagervejledning](/da/vejledninger/mental-rejse/materialer#deltagervejledning)
+- [Facilitator-slides](/da/guider/mental-rejse/materialer#facilitator-slides)
+- [Oversigtsark](/da/guider/mental-rejse/materialer#oversigtsark)
+- [Øvelsesark](/da/guider/mental-rejse/materialer#øvelsesark)
 
 ---
 

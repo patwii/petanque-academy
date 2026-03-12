@@ -3,171 +3,171 @@ title: Templates & Tools
 description: Downloadable templates for goal setting, training diaries, sleep tracking, competition preparation, and team development.
 ---
 
-# Templates & Tools
+# Modelos e ferramentas
 
-Practical templates to support your development journey.
+Modelos práticos para apoiar sua jornada de desenvolvimento.
 
-## Available Templates
+## Modelos disponíveis
 
-### Priority 1: Most Requested
+### Prioridade 1: Mais Solicitado
 
-#### 😴 [Sleep Tracker](/pt/guides/templates/sleep-tracker)
+#### 😴 [Rastreador de Sono](/en/guides/templates/sleep-tracker)
 
-Track your sleep patterns and correlate them with performance.
+Monitore seus padrões de sono e correlacione-os com seu desempenho.
 
-**Includes:**
-- Daily sleep logging
-- Weekly sleep summary
-- Pre-competition sleep protocol
-- Sleep environment checklist
-- Sleep & performance correlation tracker
+**Inclui:**
+- Registro diário do sono
+- Resumo semanal do sono
+- Protocolo de sono pré-competição
+- Lista de verificação do ambiente de sono
+- Rastreador de correlação entre sono e desempenho
 
-**Best for:** Optimizing recovery, pre-competition preparation, identifying sleep patterns
+**Ideal para:** Otimizar a recuperação, preparação pré-competição, identificar padrões de sono.
 
-[View Sleep Tracker →](/pt/guides/templates/sleep-tracker)
-
----
-
-#### ✅ [Pre-Competition Checklist](/pt/guides/templates/pre-competition-checklist)
-
-Complete preparation guide for day before and day of competition.
-
-**Includes:**
-- Day before checklist (logistics, nutrition, mental prep, sleep)
-- Competition morning routine
-- During competition protocols
-- Competition bag checklist
-- Post-competition reflection
-
-**Best for:** Tournament preparation, eliminating pre-match stress, building consistent routines
-
-[View Pre-Competition Checklist →](/pt/guides/templates/pre-competition-checklist)
+[Ver rastreador de sono →](/en/guides/templates/sleep-tracker)
 
 ---
 
-### Priority 2: Team Development
+#### ✅ [Lista de verificação pré-competição](/en/guides/templates/pre-competition-checklist)
 
-#### 🎯 [Peer Feedback Template](/pt/guides/templates/peer-feedback)
+Guia completo de preparação para o dia anterior e o dia da competição.
 
-Structured templates for requesting and giving honest feedback.
+**Inclui:**
+- Lista de verificação para o dia anterior (logística, nutrição, preparação mental, sono)
+- rotina matinal de competição
+- Durante os protocolos de competição
+- Lista de itens essenciais para a bolsa de competição
+- Reflexão pós-competição
 
-**Includes:**
-- Feedback request form
-- Guidelines for giving feedback
-- Team feedback session format
-- Receiving feedback framework
+**Ideal para:** Preparação para torneios, eliminação do estresse pré-jogo, desenvolvimento de rotinas consistentes
 
-**Best for:** Identifying blind spots, team improvement, honest development conversations
-
-[View Peer Feedback Template →](/pt/guides/templates/peer-feedback)
-
----
-
-#### 🤝 [Team Agreement Template](/pt/guides/templates/team-agreement)
-
-Framework for roles, communication, and conflict resolution.
-
-**Includes:**
-- Role assignment (playing & off-field)
-- Communication agreements & hand signals
-- Decision-making protocols
-- Training & competition commitments
-- Conflict resolution steps
-- Feedback culture guidelines
-
-**Best for:** New teams, improving team chemistry, preventing conflicts
-
-[View Team Agreement Template →](/pt/guides/templates/team-agreement)
+[Ver lista de verificação pré-competição →](/en/guides/templates/pre-competition-checklist)
 
 ---
 
-### Priority 3: Quick Reference
+### Prioridade 2: Desenvolvimento da Equipe
 
-#### 💆 [Tension Release Quick Card](/pt/guides/templates/tension-quick-card)
+#### 🎯 [Modelo de Feedback de Colegas](/en/guides/templates/peer-feedback)
 
-Printable pocket card for tension release techniques during competition.
+Modelos estruturados para solicitar e fornecer feedback honesto.
 
-**Includes:**
-- 30-second reset protocol
-- Grip reset technique
-- 15-second pre-throw protocol
-- Emergency 4-7-8 breathing
-- Cue word reminder
+**Inclui:**
+- Formulário de solicitação de feedback
+- Diretrizes para fornecer feedback
+- Formato da sessão de feedback da equipe
+- Estrutura para recebimento de feedback
 
-**Best for:** Quick reference during competition, pocket/bag carry
+**Ideal para:** Identificar pontos cegos, aprimorar a equipe e promover conversas honestas sobre desenvolvimento.
 
-[View Tension Quick Card →](/pt/guides/templates/tension-quick-card)
-
----
-
-#### 🍎 [Competition Nutrition Planner](/pt/guides/templates/nutrition-planner)
-
-Plan what and when to eat for optimal performance on competition days.
-
-**Includes:**
-- Competition day foods (good vs avoid)
-- Timeline from night before to competition
-- Competition snack kit checklist
-- Warning signs to eat now
-- Personal meal planning template
-
-**Best for:** Competition preparation, avoiding blood sugar crashes, stable energy
-
-[View Nutrition Planner →](/pt/guides/templates/nutrition-planner)
+[Ver modelo de feedback de colegas →](/en/guides/templates/peer-feedback)
 
 ---
 
-### Foundation Templates
+#### 🤝 [Modelo de Acordo de Equipe](/en/guides/templates/team-agreement)
 
-#### 📋 [Goal Template](/pt/guides/templates/goal-template)
+Estrutura para funções, comunicação e resolução de conflitos.
 
-Structured worksheet for setting effective pétanque goals.
+**Inclui:**
+- Atribuição de funções (dentro e fora de campo)
+- Acordos de comunicação e sinais manuais
+- Protocolos de tomada de decisão
+- Compromissos de treino e competição
+- Etapas para resolução de conflitos
+- Diretrizes para a cultura de feedback
 
-**Includes:**
-- SMART goal framework
-- Short-term and long-term goal sections
-- Progress tracking
-- Reflection prompts
+**Ideal para:** Equipes novas, aprimoramento da sinergia da equipe, prevenção de conflitos
 
-**Best for:** Season planning, tournament preparation, skill development goals
-
-[View Goal Template →](/pt/guides/templates/goal-template)
-
----
-
-#### 📓 [Diary Template](/pt/guides/templates/diary-template)
-
-Training and competition diary for tracking your journey.
-
-**Includes:**
-- Pre-session intention setting
-- Post-session reflection
-- Competition notes
-- Mental state tracking
-- Progress indicators
-
-**Best for:** Regular training, competition analysis, long-term development
-
-[View Diary Template →](/pt/guides/templates/diary-template)
+[Ver modelo de acordo de equipe →](/en/guides/templates/team-agreement)
 
 ---
 
-## How to Use These Templates
+### Prioridade 3: Referência rápida
 
-1. **Download** the template that fits your needs
-2. **Customize** it to your personal goals and situation
-3. **Use consistently** — the value comes from regular use
-4. **Review periodically** — look for patterns and progress
+#### 💆 [Cartão Rápido para Liberação de Tensão](/en/guides/templates/tension-quick-card)
 
-::: tip Digital or Paper?
-Both work. Some players prefer paper for the tactile experience and to stay off screens. Others prefer digital for searchability and convenience. Choose what you'll actually use.
+Cartão de bolso imprimível com técnicas de alívio de tensão durante a competição.
+
+**Inclui:**
+- Protocolo de reinicialização de 30 segundos
+- técnica de redefinição de pegada
+- Protocolo de pré-arremesso de 15 segundos
+- Respiração de emergência 4-7-8
+- lembrete de palavra-chave
+
+**Ideal para:** Consulta rápida durante a competição, transporte no bolso/bolsa
+
+[Ver Guia Rápido de Tensão →](/en/guides/templates/tension-quick-card)
+
+---
+
+#### 🍎 [Planejador de Nutrição para Competição](/en/guides/templates/nutrition-planner)
+
+Planeje o que e quando comer para obter o melhor desempenho nos dias de competição.
+
+**Inclui:**
+- Alimentos recomendados para o dia da competição (bons vs. alimentos a evitar)
+- Cronologia desde a noite anterior até a competição.
+- Lista de verificação do kit de lanches para competição
+- Sinais de alerta para comer agora
+- Modelo de planejamento de refeições pessoais
+
+**Ideal para:** Preparação para competições, evitar quedas de açúcar no sangue, energia estável
+
+[Ver Planejador Nutricional →](/en/guides/templates/nutrition-planner)
+
+---
+
+### Modelos básicos
+
+#### 📋 [Modelo de Meta](/en/guides/templates/goal-template)
+
+Planilha estruturada para definir metas eficazes na petanca.
+
+**Inclui:**
+- Estrutura de metas SMART
+- Seções de metas de curto e longo prazo
+- Acompanhamento do progresso
+- Perguntas para reflexão
+
+**Ideal para:** Planejamento de temporada, preparação para torneios, objetivos de desenvolvimento de habilidades
+
+[Ver modelo de meta →](/en/guides/templates/goal-template)
+
+---
+
+#### 📓 [Modelo de Diário](/en/guides/templates/diary-template)
+
+Diário de treinos e competições para acompanhar sua jornada.
+
+**Inclui:**
+- Definição de intenções antes da sessão
+- Reflexão pós-sessão
+- Notas sobre a competição
+- Monitoramento do estado mental
+- Indicadores de progresso
+
+**Ideal para:** Treinamento regular, análise da competição, desenvolvimento a longo prazo
+
+[Ver modelo de diário →](/en/guides/templates/diary-template)
+
+---
+
+## Como usar esses modelos
+
+1. **Faça o download** do modelo que melhor se adapta às suas necessidades.
+2. **Personalize** de acordo com seus objetivos e situação pessoais.
+3. **Use com consistência** — o valor vem do uso regular.
+4. **Revise periodicamente** — procure padrões e progressos.
+
+::: tip Digital ou em papel?
+Ambas as opções funcionam. Alguns jogadores preferem o papel pela experiência tátil e para evitar o uso de telas. Outros preferem o digital pela facilidade de busca e praticidade. Escolha o que você realmente vai usar.
 :::
 
-## Related Resources
+## Recursos relacionados
 
-- [Sleep & Recovery Education](/pt/education/sleep/) — The science behind sleep
-- [Self-Awareness](/pt/education/self-awareness/) — Understanding blind spots
-- [Team Dynamics](/pt/education/team-dynamics/) — Build stronger team bonds
-- [Goal Setting Guide](/pt/education/motivation/) — Learn the theory behind effective goals
-- [Training Methods](/pt/education/technique/training/) — How to structure your practice
+- [Educação sobre Sono e Recuperação](/en/education/sleep/) — A ciência por trás do sono
+- Autoconhecimento — Compreendendo os pontos cegos
+- Dinâmica de Equipe — Fortaleça os laços da sua equipe
+- [Guia para definição de metas](/en/education/motivation/) — Aprenda a teoria por trás de metas eficazes
+- [Métodos de Treinamento](/en/education/technique/training/) — Como estruturar sua prática
 

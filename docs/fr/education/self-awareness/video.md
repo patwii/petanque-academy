@@ -3,177 +3,177 @@ title: Video Analysis for Self-Discovery
 description: Learn to use video as an objective mirror for technical and psychological self-awareness in pétanque.
 ---
 
-# Video Analysis for Self-Discovery
+# Analyse vidéo pour la découverte de soi
 
-Video is the most honest mirror available. What you think you're doing and what you're actually doing are often very different. This page teaches you to use video effectively for self-improvement.
+La vidéo est le miroir le plus fidèle qui soit. Ce que vous pensez faire et ce que vous faites réellement sont souvent très différents. Cette page vous apprend à utiliser efficacement la vidéo pour votre développement personnel.
 
 ---
 
-## The Perception Gap
+## Le fossé de perception
 
-### What You Feel vs. What's Real
+### Ce que vous ressentez contre ce qui est réel
 
-| You Think | Video Shows |
+| Tu penses | Vidéos |
 |-----------|-------------|
-| "My release is consistent" | Subtle variations in release point |
-| "I stay calm under pressure" | Visible tension in face and shoulders |
-| "My stance is stable" | Weight shifts before throwing |
-| "I follow through the same way" | Inconsistent follow-through patterns |
+| « Ma libération est cohérente » | Variations subtiles du point de relâchement |
+| «Je reste calme sous pression» | Tension visible au niveau du visage et des épaules |
+| «Ma position est stable» | Transfert de poids avant le lancer |
+| «Je procède de la même manière» | Modèles de suivi incohérents |
 
-This gap between perception and reality is normal—everyone has it. The goal isn't to eliminate the gap, but to make it visible so you can work on it.
+Cet écart entre perception et réalité est normal ; tout le monde le rencontre. L’objectif n’est pas de l’éliminer, mais de le rendre visible afin de pouvoir y travailler.
 
 ---
 
-## What to Record
+## Que faut-il enregistrer ?
 
-### Training Sessions
+### Séances de formation
 
-**Focus:** Technical execution without match pressure
+**Objectif :** Exécution technique sans pression de match
 
-Record:
-- Full throwing motion from multiple angles
-- Routine before the throw
-- Face/expression during execution
-- Follow-through and body position after release
+Enregistrer:
+- Mouvement de lancer complet sous plusieurs angles
+- Routine avant le lancer
+- Visage/expression pendant l&#39;exécution
+- Maintien du mouvement et position du corps après le lâcher
 
-### Competition Matches
+### Matchs de compétition
 
-**Focus:** Performance under real pressure
+**Objectif :** Performance sous pression réelle
 
-Record:
-- Key moments (close games, pressure situations)
-- Your demeanor between throws
-- Team communication
-- Recovery after misses
+Enregistrer:
+- Moments clés (matchs serrés, situations de pression)
+- Votre comportement entre les lancers
+- Communication d&#39;équipe
+- Récupération après les échecs
 
-### The Multi-Angle Advantage
+### L&#39;avantage multi-angles
 
-| Angle | What It Reveals |
+| Angle | Ce que cela révèle |
 |-------|-----------------|
-| **Behind** | Body alignment, target line, follow-through direction |
-| **Side** | Release point, arm path, balance |
-| **Front** | Facial expression, shoulders, grip tension |
+| **Derrière** | Alignement du corps, ligne cible, direction du mouvement final |
+| **Côté** | Point de relâchement, trajectoire du bras, équilibre |
+| **Devant** | Expression du visage, épaules, tension de la prise en main |
 
-::: tip Smartphone is Enough
-You don't need expensive equipment. A smartphone on a simple tripod captures plenty of useful information.
+::: tip Un smartphone suffit
+Pas besoin de matériel coûteux. Un simple smartphone sur un trépied suffit pour capturer une foule d&#39;informations utiles.
 :::
 
 ---
 
-## Recording Protocol
+## Protocole d&#39;enregistrement
 
-### Training Recording Session (Monthly)
+### Enregistrement de la séance de formation (mensuelle)
 
-1. **Set up camera** at consistent angle
-2. **Warm up normally** (don't record warm-up)
-3. **Record 15-20 throws** of each type you want to analyze
-4. **Include both successful and unsuccessful throws**
-5. **Mark notable throws** in real-time if possible
+1. **Installez la caméra** à un angle constant
+2. **Échauffement normal** (ne pas enregistrer l&#39;échauffement)
+3. **Enregistrez 15 à 20 lancers** de chaque type que vous souhaitez analyser.
+4. **Inclure les lancers réussis et les lancers ratés.**
+5. **Marquer les lancers notables** en temps réel si possible
 
-### Competition Recording
+### Enregistrement de compétition
 
-- **Ask permission** from opponents/organizers
-- **Position discreetly** — Don't distract players
-- **Focus on you**, not on opponents
-- **Review the same day** while memory is fresh
-
----
-
-## What to Look For
-
-### Technical Analysis Checklist
-
-**Setup:**
-- [ ] Consistent starting position
-- [ ] Grip pressure visible/consistent
-- [ ] Alignment to target
-- [ ] Balance and stance stability
-
-**Execution:**
-- [ ] Backswing consistency
-- [ ] Release point height
-- [ ] Release timing
-- [ ] Arm path through release
-
-**Follow-through:**
-- [ ] Follow-through direction
-- [ ] Body stability after release
-- [ ] Recovery position
-
-### Psychological Analysis Checklist
-
-**Before Throw:**
-- [ ] Facial expression (tense/relaxed)
-- [ ] Body language (confident/hesitant)
-- [ ] Routine consistency
-- [ ] Tempo (rushed/deliberate)
-
-**After Throw:**
-- [ ] Reaction to outcome
-- [ ] Body language after miss
-- [ ] Recovery time before next decision
-- [ ] Communication with teammates
+- **Demandez la permission** aux adversaires/organisateurs
+- **Positionnez-vous discrètement** — Ne distrayez pas les joueurs
+- **Concentrez-vous sur vous-même**, pas sur vos adversaires.
+- **À réviser le jour même**, tant que les souvenirs sont frais.
 
 ---
 
-## The Analysis Process
+## Ce qu&#39;il faut rechercher
 
-### Step 1: First Watch (Overview)
+### Liste de contrôle d&#39;analyse technique
 
-Watch the full footage without pausing.
-- What's your general impression?
-- What stands out immediately?
-- How does it feel to watch yourself?
+**Installation:**
+- [ ] Position de départ constante
+- [ ] Pression de préhension visible/constante
+- [ ] Alignement sur la cible
+- [ ] stabilité de l&#39;équilibre et de la posture
 
-### Step 2: Focused Review (Details)
+**Exécution:**
+- [ ] Régularité du backswing
+- [ ] hauteur du point de relâchement
+- [ ] Date de sortie
+- [ ] Trajectoire du bras à travers la libération
 
-Watch again, pausing to examine:
-- Specific technical elements
-- Patterns across multiple throws
-- Differences between successful and unsuccessful attempts
+**Suivi :**
+- [ ] Instructions de suivi
+- [ ] Stabilité corporelle après la libération
+- [ ] position de récupération
 
-### Step 3: Comparison Analysis
+### Liste de contrôle pour l&#39;analyse psychologique
 
-Compare:
-- Your successful throws vs. your misses
-- Your execution vs. elite players
-- Today vs. previous recordings
+**Avant le lancer :**
+- [ ] Expression faciale (tendue/détendue)
+- [ ] Langage corporel (confiant/hésitant)
+- [ ] Régularité de la routine
+- [ ] Tempo (précipité/réfléchi)
 
-### Step 4: Identify Patterns
-
-Look for:
-- What's consistent (both good and bad)
-- What changes under pressure
-- What correlates with success/failure
-
----
-
-## Comparing Self-Perception to Reality
-
-### The Reality Check Exercise
-
-**Before watching video:**
-1. Write down how you think you looked
-2. Rate your technical execution (1-10)
-3. Describe your emotional state
-
-**After watching video:**
-1. Write what you actually saw
-2. Rate what you observed (1-10)
-3. Describe visible emotional indicators
-
-**Compare the two lists:**
-- Where were you accurate?
-- Where were you off?
-- What surprised you?
+**Après le lancer :**
+- [ ] Réaction au résultat
+- [ ] Langage corporel après un échec
+- [ ] Délai de récupération avant la prochaine décision
+- [ ] Communication avec les coéquipiers
 
 ---
 
-## Creating a Video Library
+## Le processus d&#39;analyse
 
-Organize your footage for long-term learning:
+### Étape 1 : Premier visionnage (Aperçu)
 
-### Folder Structure
+Regardez la vidéo complète sans la mettre en pause.
+- Quelle est votre impression générale ?
+- Qu&#39;est-ce qui saute aux yeux immédiatement ?
+- Quel effet cela fait-il de se regarder en train de se regarder ?
+
+### Étape 2 : Examen ciblé (Détails)
+
+Regardez à nouveau, en vous arrêtant pour examiner :
+- Éléments techniques spécifiques
+- Des schémas se dégagent de plusieurs lancers
+- Différences entre les tentatives réussies et infructueuses
+
+### Étape 3 : Analyse comparative
+
+Comparer:
+- Vos lancers réussis par rapport à vos lancers manqués
+- Votre performance face aux joueurs d&#39;élite
+- Aujourd&#39;hui vs enregistrements précédents
+
+### Étape 4 : Identifier les modèles
+
+Rechercher:
+- Ce qui est constant (en bien comme en mal)
+- Quels changements se produisent sous pression ?
+- Qu&#39;est-ce qui est corrélé au succès/à l&#39;échec ?
+
+---
+
+## Comparer la perception de soi à la réalité
+
+### L&#39;exercice de vérification de la réalité
+
+**Avant de regarder la vidéo :**
+1. Décrivez comment vous pensez que vous vous êtes comportée
+2. Évaluez votre exécution technique (1-10)
+3. Décrivez votre état émotionnel
+
+**Après avoir visionné la vidéo :**
+1. Décrivez ce que vous avez réellement vu.
+2. Évaluez ce que vous avez observé (1-10)
+3. Décrire les indicateurs émotionnels visibles
+
+**Comparez les deux listes :**
+- Où étiez-vous précis ?
+- Où étais-tu allé ?
+- Qu&#39;est-ce qui vous a surpris ?
+
+---
+
+## Création d&#39;une vidéothèque
+
+Organisez vos séquences vidéo en vue d&#39;un apprentissage à long terme :
+
+### Structure des dossiers
 
 ```
 /Video Analysis
@@ -189,65 +189,65 @@ Organize your footage for long-term learning:
     /Comparison Clips
 ```
 
-### What to Keep
+### Que conserver
 
-- **Best performances:** Reference for what's possible
-- **Breakthrough moments:** When something clicked
-- **Persistent problems:** To track if they improve
-- **Before/after pairs:** Evidence of improvement
+- **Meilleures performances :** Référence en matière de possibilités
+- **Moments décisifs :** Quand un déclic s&#39;est produit
+- **Problèmes persistants :** Pour suivre leur évolution
+- **Paires avant/après :** Preuve d&#39;amélioration
 
 ---
 
-## Video Analysis Session Template
+## Modèle de session d&#39;analyse vidéo
 
-Use this structure for systematic review:
+Utilisez cette structure pour une revue systématique :
 
-| Phase | Time | Focus |
+| Phase | Temps | Se concentrer |
 |-------|------|-------|
-| **Overview** | 5 min | Watch full footage, note impressions |
-| **Technical** | 10 min | Pause on specific elements |
-| **Psychological** | 5 min | Body language, expressions, recovery |
-| **Patterns** | 5 min | What recurs across clips |
-| **Action Items** | 5 min | What to work on, specific drills |
+| **Aperçu** | 5 min | Regardez la vidéo complète et notez vos impressions. |
+| **Technique** | 10 min | Pause sur des éléments spécifiques |
+| **Psychologique** | 5 min | Langage corporel, expressions, récupération |
+| **Motifs** | 5 min | Qu&#39;est-ce qui se répète dans les clips ? |
+| **Actions à entreprendre** | 5 min | Points à travailler, exercices spécifiques |
 
-**Total:** 30 minutes for a useful session
-
----
-
-## Working with Others
-
-### Video Review with Coach
-
-Prepare questions in advance:
-- "What do you see in my setup?"
-- "Is my release consistent across these throws?"
-- "What would you prioritize?"
-
-### Video Review with Teammates
-
-Compare footage:
-- "Watch my reaction after misses vs. yours"
-- "Let's compare our routines"
-- "What do you notice that I might miss?"
+**Total :** 30 minutes pour une séance utile
 
 ---
 
-## Common Mistakes
+## Travailler avec les autres
 
-::: warning Avoid These Pitfalls
-- **Only filming successful sessions** — You need failure footage too
-- **Watching without focus** — Use checklists
-- **Analyzing too much at once** — One element per session
-- **Not acting on insights** — Analysis without practice is wasted
-- **Comparing to pros too early** — Compare to your own previous footage first
+### Analyse vidéo avec l&#39;entraîneur
+
+Préparez vos questions à l&#39;avance :
+- «Que voyez-vous dans mon installation ?»
+- « Mon lancer est-il constant sur l&#39;ensemble de ces lancers ? »
+- « Quelles seraient vos priorités ? »
+
+### Analyse vidéo avec les coéquipiers
+
+Comparer les séquences :
+- «Regardez ma réaction après mes échecs comparée à la vôtre.»
+- «Comparons nos routines»
+- « Qu’est-ce que vous remarquez que je pourrais manquer ? »
+
+---
+
+## Erreurs courantes
+
+::: warning Évitez ces pièges
+- **Filmez uniquement les séances réussies** — Il vous faut aussi des images des échecs.
+- **Regarder sans se concentrer** — Utilisez des listes de vérification
+- **Analyser trop d&#39;éléments à la fois** — Un élément par session
+- **Ne pas mettre en pratique ses intuitions** — Une analyse sans pratique est vaine
+- **Se comparer trop tôt aux pros** — Commencez par comparer avec vos propres vidéos précédentes.
 :::
 
 ---
 
-## Related Content
+## Contenu associé
 
-- [The Self-Awareness Advantage](/fr/education/self-awareness/) — Why self-knowledge matters
-- [Getting Feedback](/fr/education/self-awareness/feedback) — External perspectives
-- [Technique Fundamentals](/fr/education/technique/) — What good technique looks like
-- [Training Methods](/fr/education/technique/training/) — How to practice what you learn
+- [L&#39;avantage de la conscience de soi](/en/education/self-awareness/) — Pourquoi la connaissance de soi est importante
+- [Obtenir des commentaires](/en/education/self-awareness/feedback) — Perspectives externes
+- [Fondements de la technique](/en/education/technique/) — À quoi ressemble une bonne technique
+- [Méthodes de formation](/en/education/technique/training/) — Comment mettre en pratique ce que l&#39;on apprend
 

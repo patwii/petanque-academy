@@ -3,227 +3,227 @@ title: Sleep Hygiene for Athletes
 description: The 10 fundamentals of athletic sleep, evening routines, and a 30-day sleep optimization challenge.
 ---
 
-# Sleep Hygiene for Athletes
+# Slaaphygiëne voor sporters
 
-Sleep hygiene refers to the habits and environmental factors that promote consistent, restorative sleep. This page provides actionable protocols specifically designed for competitive pétanque players.
+Slaaphygiëne verwijst naar de gewoonten en omgevingsfactoren die een consistente, herstellende slaap bevorderen. Deze pagina biedt praktische protocollen die specifiek zijn ontworpen voor competitieve pétanque-spelers.
 
 ---
 
-## The 10 Fundamentals of Athletic Sleep
+## De 10 basisprincipes van slaap voor sporters
 
-### 1. Consistent Wake Time
+### 1. Consistente wektijd
 
-**The single most important factor for sleep quality.**
+**De allerbelangrijkste factor voor een goede slaapkwaliteit.**
 
-Your body's circadian rhythm is anchored to your wake time. A consistent wake time:
-- Regulates melatonin release
-- Improves sleep efficiency
-- Makes falling asleep easier
+Het circadiane ritme van je lichaam is gekoppeld aan je wektijd. Een consistente wektijd:
+- Reguleert de afgifte van melatonine.
+- Verbetert de slaapefficiëntie
+- Maakt in slaap vallen makkelijker
 
-::: tip The 30-Minute Rule
-Keep your wake time within 30 minutes of normal—even on weekends. Yes, even after late nights.
+::: tip De 30-minutenregel
+Zorg ervoor dat je binnen 30 minuten van je normale wektijd blijft, ook in het weekend. Ja, zelfs na een late avond.
 :::
 
-### 2. Strategic Light Exposure
+### 2. Strategische belichting
 
-Light is the most powerful signal for your circadian rhythm:
+Licht is het krachtigste signaal voor je circadiane ritme:
 
-| Time of Day | Goal | Actions |
+| Tijdstip van de dag | Doel | Acties |
 |-------------|------|---------|
-| **Morning** | Bright light | Go outside within 30 min of waking, 10-20 min minimum |
-| **Daytime** | Maintain exposure | Work near windows, take outdoor breaks |
-| **Evening** | Reduce intensity | Dim lights, warm tones, minimize screens |
-| **Night** | Darkness | Blackout curtains, eye mask, no light leaks |
+| **Ochtend** | Fel licht | Ga binnen 30 minuten na het wakker worden naar buiten, minimaal 10-20 minuten. |
+| **Dag** | Behoud blootstelling | Werk in de buurt van ramen en neem pauzes buiten. |
+| **Avond** | Verminder de intensiteit | Gedempt licht, warme tinten, schermgebruik minimaliseren. |
+| **Nacht** | Duisternis | Verduisterende gordijnen, oogmasker, geen lichtinval |
 
-### 3. Temperature Management
+### 3. Temperatuurbeheer
 
-Your body needs to drop 1-2°C (2-3°F) to initiate sleep:
+Je lichaam moet 1-2°C (2-3°F) afkoelen om in slaap te vallen:
 
-- **Bedroom temperature:** 16-19°C (60-67°F)
-- **A warm shower 90 min before bed** — Counter-intuitively, this helps cooling
-- **Breathable bedding** — Natural fibers allow heat dissipation
-- **Cool feet, warm body** — Socks can help some people
+- **Slaapkamertemperatuur:** 16-19°C (60-67°F)
+- **Een warme douche 90 minuten voor het slapengaan** — In tegenstelling tot wat je zou verwachten, helpt dit bij het afkoelen.
+- **Ademend beddengoed** — Natuurlijke vezels zorgen voor warmteafvoer.
+- **Koele voeten, warm lichaam** — Sokken kunnen sommige mensen helpen.
 
-### 4. Caffeine Discipline
+### 4. Cafeïnediscipline
 
-Caffeine has a half-life of 5-6 hours, meaning half is still in your system after that time:
+Cafeïne heeft een halfwaardetijd van 5-6 uur, wat betekent dat de helft na die tijd nog steeds in je lichaam aanwezig is.
 
-- **Last caffeine:** Before 2pm (or earlier for sensitive individuals)
-- **Hidden sources:** Chocolate, some medications, tea, some sodas
-- **Individual variation:** Some people metabolize caffeine faster/slower
+- **Laatste cafeïne:** vóór 14.00 uur (of eerder voor mensen die daar gevoelig voor zijn)
+- **Verborgen bronnen:** Chocolade, sommige medicijnen, thee, sommige frisdranken
+- **Individuele variatie:** Sommige mensen verwerken cafeïne sneller/langzamer.
 
-### 5. Alcohol Awareness
+### 5. Alcoholbewustzijn
 
-Alcohol may help you fall asleep but **severely disrupts sleep quality**:
+Alcohol kan je helpen in slaap te vallen, maar **verstoort de slaapkwaliteit ernstig**:
 
-- Suppresses REM sleep
-- Causes more nighttime awakenings
-- Leads to dehydration
+- Onderdrukt de REM-slaap
+- Veroorzaakt meer nachtelijke ontwaakmomenten.
+- Leidt tot uitdroging
 
-**Guideline:** If you drink, finish at least 3 hours before bed.
+**Richtlijn:** Als u alcohol drinkt, doe dit dan minstens 3 uur voor het slapengaan.
 
-### 6. Evening Nutrition Timing
+### 6. Timing van de avondvoeding
 
-- **Large meals:** Finish 3+ hours before bed
-- **Light snacks:** OK if needed
-- **Best bedtime snacks:** Complex carbs + protein (e.g., banana, yogurt)
-- **Avoid:** High sugar, spicy food, excessive liquids (bathroom trips)
+- **Grote maaltijden:** Eet minimaal 3 uur voor het slapengaan.
+- **Lichte snacks:** Mag indien nodig.
+- **Beste snacks voor het slapengaan:** Complexe koolhydraten + eiwitten (bijv. banaan, yoghurt)
+- **Vermijd:** veel suiker, pittig eten, overmatig drinken (waardoor je vaak naar het toilet moet)
 
-### 7. Movement & Exercise
+### 7. Beweging en oefening
 
-Exercise improves sleep quality, but timing matters:
+Lichaamsbeweging verbetert de slaapkwaliteit, maar de timing is belangrijk:
 
-- **Morning/afternoon exercise:** Ideal for sleep
-- **Evening exercise:** Finish 2-3 hours before bed
-- **Light stretching/yoga:** OK close to bedtime
+- **Ochtend-/middagtraining:** Ideaal voor een goede nachtrust.
+- **Avondtraining:** Doe dit 2-3 uur voor het slapengaan.
+- **Lichte rek- en strekoefeningen/yoga:** Prima vlak voor het slapengaan.
 
-### 8. Wind-Down Routine
+### 8. Ontspanningsroutine
 
-Your brain needs transition time. Create a 30-60 minute pre-sleep routine:
+Je hersenen hebben tijd nodig om te wennen aan de overgang. Creëer een routine van 30-60 minuten vóór het slapengaan:
 
-1. **Stop stimulating activities** — Work, intense conversations, news
-2. **Dim the lights** — Signal to your body
-3. **Relaxation activity** — Reading, gentle stretching, quiet music
-4. **Consistent sequence** — Same activities, same order, each night
+1. **Stop met stimulerende activiteiten** — Werk, intense gesprekken, nieuws
+2. **Dim de lichten** — een signaal aan je lichaam
+3. **Ontspanningsactiviteit** — Lezen, lichte rek- en strekoefeningen, rustgevende muziek
+4. **Vaste volgorde** — Dezelfde activiteiten, in dezelfde volgorde, elke avond
 
-### 9. Sleep Environment Optimization
+### 9. Optimalisatie van de slaapomgeving
 
-Your bedroom should be:
-- **Dark** — No visible light sources
-- **Quiet** — Or consistent white noise
-- **Cool** — 16-19°C (60-67°F)
-- **Comfortable** — Quality mattress and pillow
-- **Reserved for sleep** — Minimize other activities in bed
+Je slaapkamer zou er als volgt uit moeten zien:
+- **Donker** — Geen zichtbare lichtbronnen
+- **Stil** — Of constant wit geluid
+- **Koel** — 16-19°C (60-67°F)
+- **Comfortabel** — Matras en kussen van hoge kwaliteit
+- **Uitsluitend bedoeld om te slapen** — Beperk andere activiteiten in bed tot een minimum.
 
-### 10. Stress & Worry Management
+### 10. Stress- en zorgenmanagement
 
-Racing thoughts are the #1 sleep disruptor:
+Op hol geslagen gedachten zijn de grootste verstoring van de slaap:
 
-- **Brain dump:** Write worries on paper before bed (gets them "out of your head")
-- **Tomorrow's plan:** Brief list of tomorrow's priorities
-- **Relaxation techniques:** PMR, breathing exercises, body scan
-- **The 4-7-8 breath:** Inhale 4 counts, hold 7, exhale 8
+- **Gedachten op papier:** Schrijf je zorgen op papier voordat je naar bed gaat (zo kom je ze &quot;uit je hoofd&quot;).
+- **Plan voor morgen:** Korte lijst met prioriteiten voor morgen
+- **Ontspanningstechnieken:** PMR, ademhalingsoefeningen, lichaamsscan
+- **De 4-7-8 ademhaling:** Adem 4 tellen in, houd 7 tellen vast, adem 8 tellen uit
 
 ---
 
-## Evening Routine Template
+## Sjabloon voor avondroutine
 
-Here's a sample 60-minute wind-down routine:
+Hier is een voorbeeld van een ontspanningsroutine van 60 minuten:
 
-| Time Before Bed | Activity |
+| Tijd voor het slapengaan | Activiteit |
 |-----------------|----------|
-| **60 min** | Dim lights, stop work, no more screens |
-| **45 min** | Light snack if needed, prepare tomorrow |
-| **30 min** | Personal hygiene routine, change clothes |
-| **15 min** | Relaxation: reading, stretching, or breathing |
-| **0 min** | Lights out |
+| **60 min** | Gedimd licht, stop met werken, geen schermen meer. |
+| **45 min** | Een lichte snack naar behoefte, bereid die voor morgen voor. |
+| **30 min** | Persoonlijke hygiëneroutine, kleding wisselen |
+| **15 min** | Ontspanning: lezen, rekken of ademhalen |
+| **0 min** | Licht uit |
 
-::: tip Personalize It
-This is a template. The key is consistency, not specific activities. Find what works for you and repeat it nightly.
+::: tip Personaliseer het
+Dit is een sjabloon. Consistentie is het belangrijkste, niet specifieke activiteiten. Ontdek wat voor jou werkt en herhaal het elke avond.
 :::
 
 ---
 
-## The 30-Day Sleep Challenge
+## De 30-dagen slaapuitdaging
 
-A structured program to transform your sleep habits:
+Een gestructureerd programma om je slaapgewoonten te veranderen:
 
-### Week 1: Foundation (Days 1-7)
-**Focus: Wake time consistency**
+### Week 1: Basis (dagen 1-7)
+**Focus: Consistentie in wektijden**
 
-- [ ] Set a consistent wake time
-- [ ] Wake at that time ±30 min every day
-- [ ] Track in a simple log
+- [ ] Stel een vaste wektijd in.
+- [ ] Word elke dag rond dat tijdstip wakker, met een afwijking van ±30 minuten.
+- [ ] Houd dit bij in een eenvoudig logboek.
 
-### Week 2: Environment (Days 8-14)
-**Focus: Optimize your sleep space**
+### Week 2: Milieu (dagen 8-14)
+**Tip: Optimaliseer je slaapomgeving**
 
-- [ ] Audit your bedroom for light leaks
-- [ ] Address temperature issues
-- [ ] Remove or silence all electronics
-- [ ] Consider blackout solutions
+- [ ] Controleer je slaapkamer op lichtlekken.
+- [ ] Pak temperatuurproblemen aan
+- [ ] Verwijder of demp alle elektronische apparaten.
+- [ ] Overweeg oplossingen voor stroomuitval.
 
-### Week 3: Habits (Days 15-21)
-**Focus: Daytime behaviors**
+### Week 3: Gewoonten (dagen 15-21)
+**Focus: Gedrag overdag**
 
-- [ ] Implement caffeine cutoff (2pm)
-- [ ] Get morning light exposure
-- [ ] Exercise timing check
-- [ ] Evening meal timing
+- [ ] Stel een cafeïneverbod in (14.00 uur).
+- [ ] Profiteer van de ochtendzon.
+- [ ] Tijdcontrole van de oefening
+- [ ] Tijdstip van de avondmaaltijd
 
-### Week 4: Routine (Days 22-30)
-**Focus: Wind-down ritual**
+### Week 4: Routine (dagen 22-30)
+**Focus: Ontspanningsritueel**
 
-- [ ] Create 30-60 minute routine
-- [ ] Practice every night
-- [ ] Refine based on what works
-- [ ] Celebrate completion!
+- [ ] Stel een routine samen van 30-60 minuten.
+- [ ] Elke avond oefenen
+- [ ] Verfijn op basis van wat werkt.
+- [ ] Vier de voltooiing!
 
 ---
 
-## Troubleshooting Common Issues
+## Problemen oplossen die vaak voorkomen
 
-### "I can't fall asleep"
+### &quot;Ik kan niet in slaap vallen&quot;
 
-**Possible causes and solutions:**
+**Mogelijke oorzaken en oplossingen:**
 
-| Cause | Solution |
+| Oorzaak | Oplossing |
 |-------|----------|
-| Too much light | Blackout curtains, eye mask |
-| Caffeine | Earlier cutoff, check hidden sources |
-| Stress/worry | Brain dump, breathing exercises |
-| Too hot | Lower room temp, lighter bedding |
-| Inconsistent schedule | Strict wake time for 2 weeks |
+| Te veel licht | Verduisteringsgordijnen, oogmasker |
+| Cafeïne | Eerdere deadline, controleer verborgen bronnen |
+| Stress/zorgen | Gedachten opschrijven, ademhalingsoefeningen |
+| Te heet | Lagere kamertemperatuur, lichter beddengoed. |
+| Inconsistent schema | Strikte wektijden gedurende 2 weken |
 
-### "I wake up during the night"
+### &quot;Ik word &#39;s nachts wakker&quot;
 
-**Common triggers:**
+**Veelvoorkomende triggers:**
 
-- **Alcohol** — Even moderate amounts cause fragmented sleep
-- **Bladder** — Reduce evening liquids
-- **Temperature** — Often too hot
-- **Noise** — White noise can help
-- **Stress** — Middle-of-night worry is common; keep notepad nearby
+- **Alcohol** — Zelfs matige hoeveelheden veroorzaken een verstoorde slaap.
+- **Blaas** — Beperk de hoeveelheid vocht die u &#39;s avonds drinkt.
+- **Temperatuur** — Vaak te warm
+- **Geluid** — Witte ruis kan helpen
+- **Stress** — Piekeren midden in de nacht komt vaak voor; houd een notitieblok bij de hand.
 
-### "I wake up too early"
+### &quot;Ik word te vroeg wakker&quot;
 
-- Often a sign of going to bed too early
-- Could indicate depression—monitor mood
-- Strong morning light may help reset rhythm
-- Avoid clock-watching if you wake early
+- Vaak een teken dat je te vroeg naar bed gaat.
+- Kan wijzen op depressie – houd je stemming in de gaten.
+- Sterk ochtendlicht kan helpen om het ritme te resetten.
+- Vermijd het kijken op de klok als je vroeg opstaat.
 
-### "I don't feel rested despite sleeping"
+### &quot;Ondanks mijn slaap voel ik me niet uitgerust.&quot;
 
-Possible issues:
-- **Sleep apnea** — Snoring? Consider a sleep study
-- **Poor sleep architecture** — Alcohol, late caffeine
-- **Stress** — Even if you sleep, quality is compromised
-- **Unrealistic expectations** — Not every morning feels amazing
-
----
-
-## Sleep Tracking
-
-Should you track your sleep? Consider:
-
-**Pros:**
-- Awareness of patterns
-- Data for troubleshooting
-- Motivation for consistency
-
-**Cons:**
-- Can increase anxiety about sleep
-- Consumer devices aren't highly accurate
-- Obsessing over numbers vs. how you feel
-
-**Recommendation:** Track for 2-4 weeks to identify patterns, then reduce tracking unless troubleshooting.
+Mogelijke problemen:
+- **Slaapapneu** — Snurkt u? Overweeg een slaaponderzoek.
+- **Slechte slaapstructuur** — Alcohol, cafeïnegebruik laat op de avond
+- **Stress** — Zelfs als je slaapt, gaat de kwaliteit ervan achteruit.
+- **Onrealistische verwachtingen** — Niet elke ochtend voelt geweldig.
 
 ---
 
-## Related Content
+## Slaapregistratie
 
-- [Sleep Science](/nl/education/sleep/) — Understanding why sleep matters
-- [Competition Protocols](/nl/education/sleep/competition) — Sleep around tournaments
-- [Tension Management](/nl/education/tension/) — PMR and relaxation for sleep
-- [Mindfulness](/nl/education/mental-game/mindfulness/) — Breathing techniques
+Zou je je slaap moeten bijhouden? Overweeg het volgende:
+
+**Voordelen:**
+- Bewustzijn van patronen
+- Gegevens voor probleemoplossing
+- Motivatie voor consistentie
+
+**Nadelen:**
+- Kan de angst voor slapen vergroten.
+- Consumentenapparaten zijn niet erg nauwkeurig.
+- Obsessief bezig zijn met cijfers versus je gevoel.
+
+**Aanbeveling:** Houd de gegevens 2-4 weken bij om patronen te identificeren en verminder daarna de frequentie van het bijhouden, tenzij er sprake is van een probleem.
+
+---
+
+## Gerelateerde inhoud
+
+- [Slaapwetenschap](/en/education/sleep/) — Begrijpen waarom slaap belangrijk is
+- [Wedstrijdprotocollen](/en/education/sleep/competition) — Slaap rondom toernooien
+- [Spanningsmanagement](/en/education/tension/) — PMR en ontspanning voor een goede nachtrust
+- [Mindfulness](/en/education/mental-game/mindfulness/) — Ademhalingstechnieken
 

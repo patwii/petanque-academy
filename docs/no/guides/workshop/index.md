@@ -11,7 +11,7 @@ Denne workshopen er en avansert teoretisk økt på 3–4 timer for 6–8 elitesp
 :::
 
 **Forskjell fra nybegynnerkurs:**
-- **Nybegynner (2–3 timer):** Introduksjon til mentale spillkonsepter → [Se guide til mental reise](/no/guides/mental-journey/session-guide)
+- **Nybegynner (2–3 timer):** Introduksjon til mentale spillkonsepter → [Se guide til mental reise](/no/guider/mental-reise/øktguide)
 - **Avansert (3–4 timer):** Dyptgående psykologisk arbeid med sårbarhetsøvelser (denne siden)
 
 ## Hurtigtilgang
@@ -21,7 +21,7 @@ Denne workshopen er en avansert teoretisk økt på 3–4 timer for 6–8 elitesp
 | **For deltakere** | Hva du kan forvente og hvordan du skal forberede deg | [Vis seksjon](#for-deltakere) |
 | **For fasilitatorer** | Komplett øktguide og øvelser | [Vis seksjon](#for-tilretteleggere) |
 | **Materialer for økten** | Øvelser og arbeidsark | [Se materialer](#materialer-for-tilretteleggere) |
-| **Relaterte guider** | Andre treningsformater | [Mental reise](/no/mental-reise/) • [Treningsleir](/no/guides/training-camp/) |
+| **Relaterte guider** | Andre treningsformater | [Mental reise](/no/guider/mental-reise/) • [Treningsleir](/no/guider/treningsleir/) |
 
 ---
 

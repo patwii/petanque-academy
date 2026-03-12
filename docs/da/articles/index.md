@@ -3,91 +3,91 @@ title: Articles
 description: In-depth articles on mental training, performance psychology, and all 8 performance factors for elite pétanque players.
 ---
 
-# Articles
+# Artikler
 
-Research-backed articles to deepen your understanding of elite performance.
-
----
-
-## Featured
-
-### [The Science of Flow States](/da/articles/flow-state-science)
-What happens in your brain when you're "in the zone"? Understanding flow neuroscience helps you access it consistently.
-
-### [Why Elite Players Need Mental Training](/da/articles/mental-vs-technical)
-The paradox: as technical skill increases, mental training becomes MORE important.
-
-### [Sleep: The Underrated Factor](/da/articles/sleep-performance)
-How sleep quality directly impacts precision, decision-making, and consistency.
+Forskningsbaserede artikler, der giver dig en dybere forståelse af elitepræstationer.
 
 ---
 
-## By Performance Factor
+## Fremhævet
 
-### 🧠 Mental Game
-- [The Science Behind Flow States](/da/articles/flow-state-science)
-- [Understanding the Inner Critic](/da/articles/inner-critic)
-- [Building Pre-Shot Routines](/da/articles/pre-shot-routines)
-- [Pressure Management](/da/articles/pressure-management)
-- [Mindfulness in Competition](/da/articles/mindfulness-competition)
+### [Videnskaben om strømningstilstande](/da/artikler/strømningstilstandsvidenskab)
+Hvad sker der i din hjerne, når du er &quot;i zonen&quot;? Forståelse af flow-neurovidenskab hjælper dig med at få adgang til den konsekvent.
+
+### [Hvorfor elitespillere har brug for mental træning](/da/artikler/mental-vs-teknisk)
+Paradokset: Efterhånden som de tekniske færdigheder øges, bliver mental træning MERE vigtig.
+
+### [Søvn: Den undervurderede faktor](/da/artikler/søvnpræstation)
+Hvordan søvnkvalitet direkte påvirker præcision, beslutningstagning og konsistens.
+
+---
+
+## Efter præstationsfaktor
+
+### 🧠 Mentalt spil
+- [Videnskaben bag strømningstilstande](/da/artikler/strømningstilstandsvidenskab)
+- [Forstå den indre kritiker](/da/artikler/indre-kritiker)
+- [Opbygning af rutiner før optagelse](/da/artikler/rutiner-før-optagelse)
+- [Preshåndtering](/da/artikler/preshåndtering)
+- [Mindfulness i konkurrence](/da/artikler/mindfulness-konkurrence)
 
 ### 🔥 Motivation
-- [Goal Setting for Elite Athletes](/da/articles/elite-goal-setting)
-- [Mental Resilience](/da/articles/mental-resilience)
+- [Målsætning for eliteatleter](/da/artikler/elite-malsætning)
+- [Mental modstandsdygtighed](/da/artikler/mental-modstandsdygtighed)
 
-### 😴 Sleep & Recovery
-- [Sleep: The Underrated Factor](/da/articles/sleep-performance)
+### 😴 Søvn og restitution
+- [Søvn: Den undervurderede faktor](/da/artikler/søvnpræstation)
 
-### 🪞 Self-Awareness
-- [Developing Self-Awareness](/da/articles/self-awareness-development)
+### 🪞 Selvbevidsthed
+- [Udvikling af selvbevidsthed](/da/artikler/udvikling-af-selvbevidsthed)
 
-### 🤝 Team Dynamics
-- [Communication Under Pressure](/da/articles/team-communication)
-- [Building Team Chemistry](/da/articles/team-chemistry)
-- [Leadership in Pétanque](/da/articles/team-leadership)
+### 🤝 Teamdynamik
+- [Kommunikation under pres](/da/artikler/teamkommunikation)
+- [Opbygning af teamkemi](/da/artikler/teamkemi)
+- [Ledelse i petanque](/da/artikler/holdledelse)
 
-### 💆 Tension Management
-- [Tension and Precision](/da/articles/tension-precision)
+### 💆 Spændingshåndtering
+- [Spænding og præcision](/da/artikler/spændingspræcision)
 
-### 🥗 Nutrition
-- [Nutrition for Competition](/da/articles/nutrition-competition)
+### 🥗 Ernæring
+- [Ernæring til konkurrence](/da/artikler/ernæringskonkurrence)
 
-### 🎯 Training & Technique
-- [5 Mental Training Mistakes](/da/articles/mental-training-mistakes)
-- [Structuring Your Practice](/da/articles/practice-structure)
-- [Competition Preparation](/da/articles/competition-prep)
-- [Why Mental Training Matters](/da/articles/mental-vs-technical)
+### 🎯 Træning og teknik
+- [5 fejl i mental træning](/da/artikler/fejl i mental træning)
+- [Strukturering af din praksis](/da/artikler/praksisstruktur)
+- [Konkurrenceforberedelse](/da/artikler/konkurrenceforberedelse)
+- [Hvorfor mental træning er vigtig](/da/artikler/mental-vs-teknisk)
 
 ---
 
-## All Articles
+## Alle artikler
 
-| Article | Factor |
+| Artikel | Faktor |
 |---------|--------|
-| [Flow State Science](/da/articles/flow-state-science) | Mental |
-| [Inner Critic](/da/articles/inner-critic) | Mental |
-| [Pre-Shot Routines](/da/articles/pre-shot-routines) | Mental |
-| [Pressure Management](/da/articles/pressure-management) | Mental |
-| [Mindfulness Competition](/da/articles/mindfulness-competition) | Mental |
-| [Mental vs Technical](/da/articles/mental-vs-technical) | Mental |
-| [Elite Goal Setting](/da/articles/elite-goal-setting) | Motivation |
-| [Mental Resilience](/da/articles/mental-resilience) | Motivation |
-| [Sleep Performance](/da/articles/sleep-performance) | Sleep |
-| [Self-Awareness Development](/da/articles/self-awareness-development) | Self-Awareness |
-| [Team Communication](/da/articles/team-communication) | Team |
-| [Team Chemistry](/da/articles/team-chemistry) | Team |
-| [Team Leadership](/da/articles/team-leadership) | Team |
-| [Tension Precision](/da/articles/tension-precision) | Tension |
-| [Nutrition Competition](/da/articles/nutrition-competition) | Nutrition |
-| [Mental Training Mistakes](/da/articles/mental-training-mistakes) | Training |
-| [Practice Structure](/da/articles/practice-structure) | Training |
-| [Competition Prep](/da/articles/competition-prep) | Training |
+| [Flowtilstandsvidenskab](/da/artikler/flowtilstandsvidenskab) | Mental |
+| [Indre Kritiker](/da/artikler/indre-kritiker) | Mental |
+| [Rutiner før optagelse](/da/artikler/rutiner-før-optagelse) | Mental |
+| [Preshåndtering](/da/artikler/preshåndtering) | Mental |
+| [Mindfulness-konkurrence](/da/artikler/mindfulness-konkurrence) | Mental |
+| [Mental vs. Teknisk](/da/artikler/mental-vs.-teknisk) | Mental |
+| [Elitemålsætning](/da/artikler/elitemålsætning) | Motivering |
+| [Mental modstandsdygtighed](/da/artikler/mental-modstandsdygtighed) | Motivering |
+| [Søvnpræstation](/da/artikler/søvnpræstation) | Sove |
+| [Udvikling af selvbevidsthed](/da/artikler/udvikling-af-selvbevidsthed) | Selvbevidsthed |
+| [Teamkommunikation](/da/artikler/teamkommunikation) | Hold |
+| [Holdkemi](/da/artikler/holdkemi) | Hold |
+| [Teamledelse](/da/artikler/teamledelse) | Hold |
+| [Spændingspræcision](/da/artikler/spændingspræcision) | Spænding |
+| [Ernæringskonkurrence](/da/artikler/ernæringskonkurrence) | Ernæring |
+| [Fejl i mental træning](/da/artikler/fejl i mental træning) | Uddannelse |
+| [Øvelsesstruktur](/da/artikler/øvelsesstruktur) | Uddannelse |
+| [Konkurrenceforberedelse](/da/artikler/konkurrenceforberedelse) | Uddannelse |
 
 ---
 
-## Related
+## Relateret
 
-- [🎯 Assessment](/da/assessment/) — Find your improvement priorities
-- [📚 Education](/da/education/) — Structured learning modules
-- [📋 Guides](/da/guides/) — Practical implementation tools
+- [🎯 Vurdering](/da/vurdering/) — Find dine forbedringsprioriteter
+- [📚 Uddannelse](/da/uddannelse/) — Strukturerede læringsmoduler
+- [📋 Vejledninger](/da/vejledninger/) — Praktiske implementeringsværktøjer
 

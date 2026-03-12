@@ -3,34 +3,34 @@ title: "Nutrition for Competition: Fueling Precision Performance"
 description: How what you eat and drink affects cognitive function, steady hands, and sustained focus during pétanque competition.
 ---
 
-# Nutrition for Competition: Fueling Precision Performance
+# Ernæring for konkurranse: Drivstoff for presisjonsytelse
 
-> "Your brain is your most important tool in pétanque. Feed it stable fuel, not roller coaster energy."
+> «Hjernen din er ditt viktigste verktøy i petanque. Gi den stabil drivstoff, ikke berg-og-dal-bane-energi.»
 
-Pétanque competitions can last 6-10 hours. What you consume directly affects your cognitive function, fine motor control, and ability to maintain focus across multiple matches.
+Pétanque-konkurranser kan vare i 6–10 timer. Det du spiser påvirker direkte din kognitive funksjon, finmotorikk og evne til å holde fokus gjennom flere kamper.
 
-::: tip The Golden Rule
-**Stable blood sugar = steady hands.** Every nutrition choice should support consistent energy, not spikes and crashes.
+::: tip Den gylne regelen
+**Stabilt blodsukker = stødige hender.** Alle ernæringsvalg bør støtte jevn energi, ikke topper og krasj.
 :::
 
 ---
 
-## Why Nutrition Matters for Pétanque
+## Hvorfor ernæring er viktig for petanque
 
-Unlike high-intensity sports, pétanque demands:
+I motsetning til høyintensitetsidretter krever petanque:
 
 ```mermaid
 flowchart TD
-    A[Nutrition Choices] --> B[Blood Sugar Stability]
-    B --> C[Cognitive Function]
-    B --> D[Fine Motor Control]
-    B --> E[Emotional Regulation]
+    A[Ernæringsvalg] --> B[Blodsukkerstabilitet]
+    B --> C[Kognitiv funksjon]
+    B --> D[Finmotorisk kontroll]
+    B --> E[Emosjonell regulering]
 
-    C --> F[Sharp Decisions]
-    D --> G[Steady Hands]
-    E --> H[Calm Under Pressure]
+    C --> F[Skarpe avgjørelser]
+    D --> G[Stødige hender]
+    E --> H[Rolig under press]
 
-    F --> I[Peak Performance]
+    F --> I[Topp ytelse]
     G --> I
     H --> I
 
@@ -38,184 +38,184 @@ flowchart TD
     style I fill:#4CAF50,color:#fff
 ```
 
-The wrong nutrition choices create performance problems that players attribute to "mental weakness" or "bad luck."
+Feil ernæringsvalg skaper prestasjonsproblemer som spillerne tilskriver «mental svakhet» eller «uflaks».
 
 ---
 
-## The Blood Sugar Connection
+## Blodsukkerforbindelsen
 
-Your brain runs on glucose. Blood sugar fluctuations directly affect:
+Hjernen din drives av glukose. Blodsukkersvingninger påvirker direkte:
 
-| Blood Sugar State | Mental Effect | Physical Effect |
+| Blodsukkertilstand | Mental effekt | Fysisk effekt |
 |-------------------|---------------|-----------------|
-| **Stable** | Clear thinking, good decisions | Steady hands, consistent |
-| **Spike (too high)** | Initial energy, then crash | Jittery, over-active |
-| **Crash (too low)** | Poor concentration, irritability | Trembling, weak grip |
-| **Roller-coaster** | Unpredictable mood/focus | Inconsistent performance |
+| **Stabil** | Klar tenkning, gode avgjørelser | Stødige hender, konsekvent |
+| **Spike (for høy)** | Første energi, deretter krasj | Jervøs, overaktiv |
+| **Krasj (for lav)** | Dårlig konsentrasjon, irritabilitet | Skjelving, svakt grep |
+| **Berg-og-dal-bane** | Uforutsigbart humør/fokus | Inkonsekvent ytelse |
 
-**Goal:** Maintain stable blood sugar throughout competition.
+**Mål:** Opprettholde stabilt blodsukker gjennom hele konkurransen.
 
-## Competition Day Nutrition
+## Ernæring på konkurransedagen
 
-### Pre-Competition (3-4 hours before)
+### Før konkurransen (3–4 timer før)
 
-**Eat a substantial meal:**
-- Complex carbohydrates (oatmeal, whole grain bread, rice)
-- Protein (eggs, yogurt, lean meat)
-- Healthy fats (avocado, nuts, olive oil)
-- Avoid: Simple sugars, heavy/greasy foods
+**Spis et solid måltid:**
+- Komplekse karbohydrater (havregrøt, fullkornsbrød, ris)
+- Protein (egg, yoghurt, magert kjøtt)
+- Sunt fett (avokado, nøtter, olivenolje)
+- Unngå: Enkle sukkerarter, tung/fet mat
 
-**Example meals:**
-- Oatmeal with nuts and banana
-- Eggs on whole grain toast with avocado
-- Rice with chicken and vegetables
+**Eksempelmåltider:**
+- Havregrøt med nøtter og banan
+- Egg på fullkornsbrød med avokado
+- Ris med kylling og grønnsaker
 
-### Pre-Match (1-2 hours before)
+### Før kamp (1–2 timer før)
 
-**Light, familiar snack:**
-- Banana
-- Small handful of nuts
-- Half a sandwich
-- Avoid: Anything new or experimental
+**Lett, kjent snacks:**
+- Banan
+- Liten håndfull nøtter
+- En halv sandwich
+- Unngå: Alt nytt eller eksperimentelt
 
-### During Competition
+### Under konkurransen
 
-**Between matches:**
-- Small, frequent snacks every 60-90 minutes
-- Nuts, seeds, dried fruit
-- Whole grain crackers
-- Fresh fruit (banana, apple)
+**Mellom kampene:**
+- Små, hyppige mellommåltider hvert 60.–90. minutt
+- Nøtter, frø, tørket frukt
+- Fullkornsknekkebrød
+- Fersk frukt (banan, eple)
 
-**During matches:**
-- Water sips between ends
-- Quick carbs if needed (dried fruit)
-- Avoid eating during active play
+**Under kampene:**
+- Vann slurker mellom endene
+- Raske karbohydrater om nødvendig (tørket frukt)
+- Unngå å spise under aktiv lek
 
-### Recovery (After Competition)
+### Restitusjon (etter konkurranse)
 
-**Within 30-60 minutes:**
-- Protein for muscle recovery
-- Carbohydrates to replenish
-- Fluids to rehydrate
+**Innen 30–60 minutter:**
+- Protein for muskelgjenoppretting
+- Karbohydrater for å fylle på
+- Væsker for å rehydrere
 
-## Hydration Protocol
+## Hydreringsprotokoll
 
-### The Basics
-- Start hydrated (check morning urine color)
-- Drink steadily throughout, don't wait until thirsty
-- Target 150-250ml per hour of competition
-- Adjust for heat and humidity
+### Det grunnleggende
+- Begynn å drikke væske (sjekk fargen på morgenurinen)
+- Drikk jevnt og trutt, ikke vent til du er tørst
+- Mål 150–250 ml per time under konkurranse
+- Juster for varme og fuktighet
 
-### Warning Signs of Dehydration
-- Thirst (you're already dehydrated)
-- Dark urine
-- Headache
-- Decreased concentration
-- Fatigue
+### Varseltegn på dehydrering
+- Tørst (du er allerede dehydrert)
+- Mørk urin
+- Hodepine
+- Redusert konsentrasjon
+- Utmattelse
 
-### The Over-Hydration Trap
-Too much water, especially without electrolytes:
-- Frequent bathroom breaks (disrupts rhythm)
-- Diluted electrolytes (can cause trembling)
-- Discomfort and distraction
+### Overhydreringsfellen
+For mye vann, spesielt uten elektrolytter:
+- Hyppige toalettpauser (forstyrrer rytmen)
+- Fortynnede elektrolytter (kan forårsake skjelving)
+- Ubehag og distraksjon
 
-**Balance:** Steady intake, include electrolytes in hot conditions.
+**Balanse:** Jevnt inntak, inkluder elektrolytter under varme forhold.
 
-## Foods to Avoid
+## Matvarer som bør unngås
 
-### On Competition Day
-- **Heavy meals** — Divert blood to digestion
-- **High sugar** — Cause energy crashes
-- **Alcohol (night before)** — Disrupts sleep, dehydrates
-- **Excessive caffeine** — Can cause jitters
-- **New foods** — Risk of digestive issues
-- **Greasy/fried foods** — Slow digestion, lethargy
+### På konkurransedagen
+- **Tunge måltider** — Omdirigerer blod til fordøyelsen
+- **Høyt sukker** — Forårsaker energikrakk
+- **Alkohol (kvelden før)** — Forstyrrer søvnen, dehydrerer
+- **Overdrevent koffeininntak** – Kan forårsake nervøsitet
+- **Nye matvarer** – Risiko for fordøyelsesproblemer
+- **Fet/stekt mat** — Langsom fordøyelse, sløvhet
 
-### Foods That Cause Problems
-- **Carbonated drinks** — Bloating, discomfort
-- **High-fiber foods** — Can cause distress
-- **Dairy (for some)** — Digestive sensitivity
-- **Artificial sweeteners** — Can cause stomach issues
+### Matvarer som forårsaker problemer
+- **Kullsyreholdige drikker** — Oppblåsthet, ubehag
+- **Fiberrik mat** – Kan forårsake ubehag
+- **Meieriprodukter (for noen)** — Fordøyelsesfølsomhet
+- **Kunstige søtningsmidler** – Kan forårsake mageproblemer
 
-## Caffeine Strategy
+## Koffeinstrategi
 
-Caffeine can enhance focus and reaction time, but requires careful management:
+Koffein kan forbedre fokus og reaksjonstid, men krever nøye håndtering:
 
-### Effective Use
-- Know your tolerance
-- Consistent timing (don't change for competition)
-- Moderate dose (100-200mg)
-- Early enough to avoid evening matches interference
-- Combine with food to reduce jitters
+### Effektiv bruk
+- Kjenn din toleranse
+- Konsekvent timing (ikke endre for konkurranse)
+- Moderat dose (100–200 mg)
+- Tidlig nok til å unngå forstyrrelser i kveldskampene
+- Kombiner med mat for å redusere nerver
 
-### Ineffective Use
-- More than usual (causes anxiety, trembling)
-- Late in day (disrupts sleep)
-- On empty stomach (jitters, crash)
-- Relying on caffeine to compensate for poor sleep
+### Ineffektiv bruk
+- Mer enn vanlig (forårsaker angst, skjelving)
+- Sent på dagen (forstyrrer søvnen)
+- På tom mage (nervøsitet, krasj)
+- Avhengig av koffein for å kompensere for dårlig søvn
 
-## Building Your Competition Nutrition Plan
+## Bygge din konkurranseernæringsplan
 
-### Step 1: Test in Practice
-Try your competition nutrition plan in training:
-- Same timing
-- Same foods
-- Same hydration
-- Note how you feel and perform
+### Trinn 1: Test i praksis
+Prøv konkurranseernæringsplanen din på trening:
+- Samme tidspunkt
+- Samme matvarer
+- Samme hydrering
+- Legg merke til hvordan du føler deg og presterer
 
-### Step 2: Prepare Logistics
-- Know what food is available at venue
-- Bring your own proven snacks
-- Have backup options
-- Pack more than you think you need
+### Trinn 2: Forbered logistikken
+- Vit hvilken mat som er tilgjengelig på stedet
+- Ta med dine egne velprøvde snacks
+- Har alternativer for sikkerhetskopiering
+- Pakk mer enn du tror du trenger
 
-### Step 3: Create a Schedule
-Write out your nutrition timing:
-- Pre-competition meal (time, food)
-- Pre-match snack (time, food)
-- During competition (schedule, foods)
-- Hydration reminder intervals
+### Trinn 3: Lag en tidsplan
+Skriv ned kostholdstiden din:
+- Måltid før konkurransen (tid, mat)
+- Matpakke før kampen (tid, mat)
+- Under konkurransen (program, mat)
+- Intervaller for påminnelser om hydrering
 
-### Step 4: Track and Adjust
-After competitions, note:
-- What you ate and when
-- How you felt physically
-- Performance quality
-- Any issues (hunger, crash, stomach)
+### Trinn 4: Spor og juster
+Etter konkurranser, merk:
+- Hva du spiste og når
+- Hvordan du følte deg fysisk
+- Ytelseskvalitet
+- Eventuelle problemer (sult, oppkast, mageproblemer)
 
-## Heat and Humidity Considerations
+## Hensyn til varme og fuktighet
 
-Hot weather changes requirements:
+Krav til endringer i varmt vær:
 
-- **Increase fluids** — May need 50-100% more
-- **Add electrolytes** — Sweating loses minerals
-- **Lighter meals** — Heavy food harder to process
-- **Shade breaks** — Don't underestimate heat stress
-- **Pre-cooling** — Arrive to venue cool and hydrated
+- **Øk væskeinntaket** — Kan trenge 50–100 % mer
+- **Tilsett elektrolytter** — Svetting mister mineraler
+- **Lette måltider** — Tung mat som er vanskeligere å bearbeide
+- **Skyggebryter** — Ikke undervurder varmestress
+- **Forkjøling** — Ankom lokalet avkjølt og hydrert
 
-## Common Mistakes
+## Vanlige feil
 
-::: warning Avoid These
-- **Skipping breakfast** — Depletes morning glycogen
-- **Energy drinks** — Too much caffeine and sugar
-- **Waiting until hungry** — Already affecting performance
-- **Alcohol night before** — Dehydration and poor sleep
-- **Trying new foods** — Risk of digestive issues
+::: warning Unngå disse
+- **Hopper over frokost** — Tømmer morgenglykogen
+- **Energidrikker** – For mye koffein og sukker
+- **Venter til jeg er sulten** – Påvirker allerede ytelsen
+- **Alkohol kvelden før** — Dehydrering og dårlig søvn
+- **Prøve nye matvarer** – Risiko for fordøyelsesproblemer
 :::
 
-## Action Steps
+## Handlingstrinn
 
-1. **Plan your competition nutrition** in advance
-2. **Test your plan** in practice conditions
-3. **Prepare your snacks** the night before
-4. **Follow your schedule** regardless of match pressure
-5. **Review and refine** after each competition
+1. **Planlegg konkurranseernæringen din** på forhånd
+2. **Test planen din** i praksis
+3. **Forbered snacksene dine** kvelden før
+4. **Følg timeplanen din** uavhengig av kamppress
+5. **Gjennomgå og finjuster** etter hver konkurranse
 
 ---
 
-## Related Content
+## Relatert innhold
 
-- [Nutrition Module](/no/education/nutrition/) — Complete nutrition education
-- [Competition Nutrition](/no/education/nutrition/competition) — Detailed protocols
-- [Sleep for Performance](/no/articles/sleep-performance) — Recovery optimization
+- [Ernæringsmodul](/no/utdanning/ernæring/) — Fullstendig ernæringsopplæring
+- [Konkurranseernæring](/no/utdanning/ernæring/konkurranse) — Detaljerte protokoller
+- [Søvn for ytelse](/no/artikler/søvn-ytelse) — Optimalisering av restitusjon
 

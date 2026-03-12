@@ -255,7 +255,7 @@ På eliteniveau er scouting vigtig. Kend dine modstandere, før du spiller.
 
 ## I dette afsnit
 
-- **[Sandsynlighedsbaserede beslutninger](/da/education/taktik/sandsynlighed)** - Brug af matematik til at træffe bedre valg
+- **[Sandsynlighedsbaserede beslutninger](/da/uddannelse/teknik/taktik/sandsynlighed)** - Brug af matematik til at træffe bedre valg
 
 ## Resumé: Alle taktiske regler
 

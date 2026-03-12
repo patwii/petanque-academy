@@ -3,29 +3,29 @@ title: "Sleep: The Most Underrated Performance Factor"
 description: How sleep quality directly impacts precision, decision-making, and consistency in pétanque.
 ---
 
-# Sleep: The Most Underrated Performance Factor
+# Slaap: de meest onderschatte prestatiefactor
 
-> "The player who slept better often wins."
+> &quot;De speler die het beste geslapen heeft, wint vaak.&quot;
 
-Most players focus on technique and mental training. Few optimize their sleep. This is a mistake—sleep may be the highest-ROI improvement available to most competitive players.
+De meeste spelers concentreren zich op techniek en mentale training. Weinigen optimaliseren hun slaap. Dit is een vergissing – slaap is wellicht de meest rendabele verbetering die de meeste topsporters kunnen realiseren.
 
-::: tip High-ROI Improvement
-**Sleep optimization requires zero talent and delivers massive returns.** It's the closest thing to a legal performance enhancer.
+::: tip Verbetering met hoog rendement
+**Slaapoptimalisatie vereist geen talent en levert enorme resultaten op.** Het is het dichtstbijzijnde legale middel om je prestaties te verbeteren.
 :::
 
 ```mermaid
 flowchart TD
-    A[Poor Sleep] --> B[Fine Motor ↓]
-    A --> C[Decision Making ↓]
-    A --> D[Emotional Control ↓]
+    A[Slechte slaap] --> B[Fijne motoriek ↓]
+    A --> C[Besluitvorming ↓]
+    A --> D[Emotionele controle ↓]
     A --> E[Focus ↓]
 
-    B --> F[Inconsistent Throws]
+    B --> F[Onregelmatige worpen]
     C --> F
     D --> F
     E --> F
 
-    F --> G[Poor Performance]
+    F --> G[Slechte prestaties]
 
     style A fill:#f44336,color:#fff
     style G fill:#f44336,color:#fff
@@ -33,170 +33,170 @@ flowchart TD
 
 ---
 
-## The Research
+## Het onderzoek
 
-Sleep science reveals striking effects on precision sport performance:
+Slaaponderzoek onthult opvallende effecten op prestaties in precisiesporten:
 
-### Reaction Time
-- **24 hours without sleep** = reaction time equivalent to 0.1% blood alcohol
-- **6 hours/night for 2 weeks** = equivalent to staying awake 48 hours
-- Elite athletes average **8.5+ hours** vs 7 hours for general population
+### reactietijd
+- **24 uur zonder slaap** = reactietijd equivalent aan 0,1% bloedalcoholgehalte
+- **6 uur per nacht gedurende 2 weken** = gelijk aan 48 uur wakker blijven
+- Topatleten trainen gemiddeld **8,5+ uur**, vergeleken met 7 uur voor de gemiddelde bevolking.
 
-### Decision Making
-- Sleep deprivation impairs the prefrontal cortex first
-- Tactical decisions deteriorate before obvious fatigue appears
-- You don't notice your impairment (meta-cognition fails too)
+### Besluitvorming
+- Slaapgebrek tast eerst de prefrontale cortex aan.
+- Tactische beslissingen verslechteren nog voordat er duidelijke tekenen van vermoeidheid optreden.
+- Je merkt je beperking niet op (ook metacognitie laat je in de steek).
 
-### Motor Control
-- Fine motor skills (grip, release) require consolidated memory
-- Memory consolidation happens during deep sleep
-- Skill learning without adequate sleep = wasted practice
+### Motorbesturing
+- Fijne motorische vaardigheden (grijpen, loslaten) vereisen geconsolideerd geheugen.
+- Geheugenconsolidatie vindt plaats tijdens diepe slaap.
+- Vaardigheden leren zonder voldoende slaap = verspilde oefening
 
-## The Precision Connection
+## De precieze verbinding
 
-Pétanque requires exactly what sleep deprivation destroys:
+Pétanque vereist precies datgene wat slaapgebrek tenietdoet:
 
-| Skill Required | Sleep Deprivation Effect |
+| Vereiste vaardigheid | Effect van slaapgebrek |
 |----------------|--------------------------|
-| Fine motor control | Grip pressure becomes inconsistent |
-| Visual processing | Distance judgment impaired |
-| Decision making | Tactical errors increase |
-| Emotional regulation | Frustration after mistakes increases |
-| Sustained attention | Focus drifts in longer matches |
+| Fijne motoriek | De gripdruk wordt inconsistent. |
+| Visuele verwerking | Afstandsinschatting verstoord |
+| Besluitvorming | Tactische fouten nemen toe |
+| Emotionele regulatie | Frustratie na fouten neemt toe |
+| Aanhoudende aandacht | De concentratie verslapt tijdens langere wedstrijden. |
 
-## Signs You're Under-Sleeping
+## Tekenen dat je te weinig slaapt
 
-You've adapted to chronic sleep deprivation if:
+Je hebt je aangepast aan chronisch slaapgebrek als:
 
-- You need an alarm to wake up
-- You're drowsy in early afternoon
-- You fall asleep within 5 minutes of lying down
-- You "catch up" on weekends
-- Coffee is essential, not optional
+- Je hebt een wekker nodig om wakker te worden.
+- Je bent slaperig in de vroege middag.
+- Je valt binnen 5 minuten in slaap zodra je gaat liggen.
+- Je haalt de achterstand in in het weekend.
+- Koffie is essentieel, geen optie.
 
-**Reality check:** If you need caffeine to function normally, you're sleep deprived.
+**Realiteitscheck:** Als je cafeïne nodig hebt om normaal te functioneren, heb je een slaaptekort.
 
-## The Competition Week Protocol
+## Het wedstrijdweekprotocol
 
-### 7 Days Before
-- Begin sleeping 30 minutes more per night
-- Stabilize wake time (same time every day)
+### 7 dagen van tevoren
+- Begin met 30 minuten langer per nacht te slapen.
+- Stel een vast wektijdstip in (elke dag op hetzelfde tijdstip).
 
-### 3 Days Before
-- No alcohol (disrupts sleep architecture)
-- No heavy meals after 7pm
-- Reduce screen time after sunset
+### 3 dagen van tevoren
+- Geen alcohol (verstoort de slaapstructuur).
+- Geen zware maaltijden meer na 19.00 uur.
+- Beperk de schermtijd na zonsondergang.
 
-### Night Before
-- Normal bedtime (don't go to bed early—you'll just lie awake)
-- Familiar environment if possible
-- Relaxation routine
+### De avond ervoor
+- Ga op een normaal tijdstip naar bed (ga niet vroeg naar bed, anders lig je alleen maar wakker).
+- Een vertrouwde omgeving, indien mogelijk.
+- Ontspanningsroutine
 
-### Competition Morning
-- Wake at normal time
-- Light exposure immediately
-- Normal breakfast routine
+### Wedstrijdochtend
+- Sta op de normale tijd op.
+- Directe blootstelling aan licht
+- Normale ontbijtroutine
 
-## Optimizing Sleep Quality
+## Het optimaliseren van de slaapkwaliteit
 
-It's not just duration—quality matters more.
+Het gaat niet alleen om de duur, maar vooral om de kwaliteit.
 
-### Sleep Environment
-- **Temperature:** 18-20°C (65-68°F) is optimal
-- **Darkness:** Complete darkness or sleep mask
-- **Sound:** Consistent (white noise) or silent
-- **Bedding:** Comfortable, not too warm
+### Slaapomgeving
+- **Temperatuur:** 18-20°C (65-68°F) is optimaal.
+- **Duisternis:** Volledige duisternis of een slaapmasker
+- **Geluid:** Constant (witte ruis) of stil
+- **Beddengoed:** Comfortabel, niet te warm
 
-### Pre-Sleep Routine
-- Screen-free 60+ minutes before bed
-- Dim lights in evening
-- Consistent wind-down activities
-- Cool shower can trigger sleep onset
+### Routine vóór het slapengaan
+- Minimaal 60 minuten voor het slapengaan geen schermgebruik.
+- Gedempte verlichting &#39;s avonds
+- Regelmatige ontspanningsactiviteiten
+- Een koele douche kan het inslapen bevorderen.
 
 ### Timing
-- Consistent wake time (more important than bedtime)
-- Avoid sleeping in more than 30 minutes on weekends
-- Naps: before 3pm, under 20 minutes
+- Een consistent wektijdstip (belangrijker dan een vast bedtijdstip)
+- Vermijd uitslapen langer dan 30 minuten in het weekend.
+- Dutjes: vóór 15.00 uur, korter dan 20 minuten
 
-## The Nap Strategy
+## De dutjesstrategie
 
-Strategic napping for competition days:
+Strategisch dutten op wedstrijddagen:
 
-### The Power Nap (10-20 min)
-- Reduces fatigue without grogginess
-- Best for between morning and afternoon sessions
-- Set alarm—don't oversleep
+### Het powernapje (10-20 min)
+- Vermindert vermoeidheid zonder sufheid te veroorzaken.
+- Het meest geschikt voor de periode tussen de ochtend- en middagsessies.
+- Zet een wekker – verslaap je niet
 
-### The Full Cycle (90 min)
-- Complete sleep cycle
-- Only if you have 2+ hours before competition
-- Risk of grogginess if interrupted
+### De volledige cyclus (90 min)
+- Volledige slaapcyclus
+- Alleen als je nog 2 uur of langer hebt voor de wedstrijd.
+- Risico op sufheid bij onderbreking.
 
-### Never Nap If:
-- You have sleep onset insomnia
-- Competition is within 90 minutes
-- It's after 3pm and you need to sleep that night
+### Doe nooit een dutje als:
+- Je hebt inslaapstoornissen.
+- De wedstrijd vindt binnen 90 minuten plaats.
+- Het is na 3 uur &#39;s middags en je moet die nacht slapen.
 
-## Travel Considerations
+## Reisoverwegingen
 
-For away competitions:
+Voor uitwedstrijden:
 
-### Before Travel
-- Bring familiar sleep items (pillow, sleep mask)
-- Research hotel room (request quiet room)
-- Adjust schedule if crossing time zones
+### Voor de reis
+- Neem je vertrouwde slaapspullen mee (kussen, slaapmasker).
+- Zoek een hotelkamer (vraag om een rustige kamer)
+- Pas je schema aan als je tijdzones overschrijdt.
 
-### At Destination
-- Stick to home sleep schedule if possible
-- Light exposure controls circadian rhythm
-- Avoid heavy meals close to bedtime
+### Op de bestemming
+- Houd indien mogelijk vast aan het slaapritme van thuis.
+- Blootstelling aan licht beïnvloedt het circadiane ritme.
+- Vermijd zware maaltijden vlak voor het slapengaan.
 
-### Time Zone Crossing
-- 1 day per hour to fully adjust
-- Morning light exposure speeds eastward adjustment
-- Evening light exposure speeds westward adjustment
+### Tijdzoneovergang
+- 1 dag per uur om volledig te acclimatiseren
+- Ochtendlichtblootstelling versnelt oostwaartse aanpassing
+- Aanpassing van de belichtingstijd bij avondlicht aan de westwaartse richting
 
-## Tracking Your Sleep
+## Je slaap bijhouden
 
-What gets measured gets managed:
+Wat gemeten wordt, kan beheerd worden:
 
-### Simple Tracking
-- Wake time and bedtime
-- Subjective quality (1-10)
-- Performance correlation notes
+### Eenvoudige tracking
+- Opstaan en naar bed gaan
+- Subjectieve kwaliteit (1-10)
+- Prestatiecorrelatie-aantekeningen
 
-### Advanced Tracking
-- Sleep tracker or wearable
-- HRV (heart rate variability) trends
-- Sleep stage data
+### Geavanceerde tracking
+- Slaaptracker of wearable
+- HRV (hartslagvariabiliteit) trends
+- Slaapfasegegevens
 
-### What to Look For
-- Correlation between sleep and performance
-- Patterns (weekend catch-up, pre-competition insomnia)
-- Trends over time
+### Waarop moet je letten?
+- Correlatie tussen slaap en prestaties
+- Patronen (weekend inhalen, slapeloosheid in de aanloop naar de wedstrijd)
+- Trends door de tijd heen
 
-## Common Mistakes
+## Veelgemaakte fouten
 
-::: warning Avoid These
-- **Alcohol as sleep aid** — Helps onset, destroys quality
-- **Catching up on weekends** — Can't "pay back" sleep debt
-- **Screens in bed** — Trains brain that bed ≠ sleep
-- **Inconsistent schedule** — Circadian rhythm needs consistency
-- **Ignoring sleep for training** — Trading quality for quantity
+::: warning Vermijd deze
+- **Alcohol als slaapmiddel** — Bevordert het inslapen, maar tast de slaapkwaliteit aan.
+- **Inhalen in het weekend** — Slaaptekort kan niet worden ingehaald.
+- **Schermen in bed** — Traint de hersenen dat bed ≠ slapen
+- **Inconsistent schema** — Het circadiane ritme heeft consistentie nodig.
+- **Slaap negeren voor training** — Kwaliteit opofferen voor kwantiteit.
 :::
 
-## Action Steps
+## Actiestappen
 
-1. **This week:** Track your actual sleep (duration + quality)
-2. **Next week:** Establish consistent wake time
-3. **Following weeks:** Optimize environment and routine
-4. **Pre-competition:** Implement the competition week protocol
+1. **Deze week:** Houd bij hoeveel je daadwerkelijk slaapt (duur + kwaliteit)
+2. **Volgende week:** Stel een consistent wektijdstip in.
+3. **Komende weken:** Optimaliseer omgeving en routine
+4. **Voor de wedstrijd:** Voer het wedstrijdweekprotocol uit.
 
 ---
 
-## Related Content
+## Gerelateerde inhoud
 
-- [Sleep & Recovery Module](/nl/education/sleep/) — Complete sleep education
-- [Sleep Habits](/nl/education/sleep/habits) — Building sustainable routines
-- [Competition Sleep](/nl/education/sleep/competition) — Event-specific protocols
+- [Slaap- en herstelmodule](/en/education/sleep/) — Complete slaapeducatie
+- [Slaapgewoonten](/en/education/sleep/habits) — Duurzame routines opbouwen
+- [Wedstrijdslaap](/en/education/sleep/competition) — Evenementspecifieke protocollen
 

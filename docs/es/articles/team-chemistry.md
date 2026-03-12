@@ -3,226 +3,226 @@ title: Building Team Chemistry
 description: Develop the intangible bonds that transform individual players into a cohesive pétanque team. Learn how chemistry is built, maintained, and leveraged.
 ---
 
-# Building Team Chemistry
+# Construyendo química en equipo
 
-> "You've seen it: teams where the whole exceeds the sum of parts."
+> “Lo has visto: equipos donde el todo supera la suma de las partes”.
 
-Players who anticipate each other, support each other, and perform better together than alone. This is team chemistry — and it's not accidental.
+Jugadores que se anticipan, se apoyan y rinden mejor juntos que solos. Esto es química de equipo, y no es casualidad.
 
-::: tip Chemistry Is Built, Not Found
-**Great teams aren't assembled — they're developed.** Chemistry requires intentional effort over time.
+::: tip La química se construye, no se encuentra
+**Los grandes equipos no se forman, se desarrollan.** La química requiere un esfuerzo intencional a lo largo del tiempo.
 :::
 
 ---
 
-## What Is Team Chemistry?
+## ¿Qué es la química del equipo?
 
 ```mermaid
 flowchart TD
-    A[Team Chemistry] --> B[Trust]
-    A --> C[Understanding]
-    A --> D[Communication]
-    A --> E[Support]
-    A --> F[Enjoyment]
+    A[Química de equipo] --> B[Confianza]
+    A --> C[Comprensión]
+    A --> D[Comunicación]
+    A --> E[Apoyo]
+    A --> F[Disfrute]
 
-    B --> G[Confidence in abilities]
-    C --> H[Know how teammates think]
-    D --> I[Effective information flow]
-    E --> J[Mutual encouragement]
-    F --> K[Pleasure in playing together]
+    B --> G[Confianza en las capacidades]
+    C --> H[Conozca cómo piensan los compañeros de equipo]
+    D --> I[Flujo de información eficaz]
+    E --> J[estímulo mutuo]
+    F --> K[El placer de jugar juntos]
 
     style A fill:#9C27B0,color:#fff
 ```
 
 ---
 
-## Why Chemistry Matters
+## Por qué es importante la química
 
-| With Chemistry ✅ | Without Chemistry ❌ |
+| Con Química ✅ | Sin química ❌ |
 |-------------------|----------------------|
-| Make better collective decisions | Blame each other for failures |
-| Recover faster from setbacks | Communicate poorly under stress |
-| Perform consistently under pressure | Underperform relative to talent |
-| Enjoy competition more | Experience conflict and frustration |
-| Stay together longer | Team dissolves |
+| Tomar mejores decisiones colectivas | Culparse unos a otros por los fracasos |
+| Recuperarse más rápido de los reveses | Comunicarse mal bajo estrés |
+| Actuar consistentemente bajo presión | Rendimiento inferior al talento |
+| Disfruta más de la competición | Experimentar conflicto y frustración |
+| Permanecer juntos más tiempo | El equipo se disuelve |
 
-## The Building Blocks
+## Los bloques de construcción
 
-### 1. Shared Goals
+### 1. Objetivos compartidos
 
-Chemistry starts with alignment:
-- What are we trying to achieve?
-- What does success look like?
-- What are we willing to sacrifice?
+La química comienza con la alineación:
+- ¿Qué estamos tratando de lograr?
+- ¿Cómo se ve el éxito?
+- ¿Qué estamos dispuestos a sacrificar?
 
-Teams with conflicting goals (one wants fun, another wants to win at all costs) struggle to build chemistry.
+Los equipos con objetivos conflictivos (uno quiere divertirse, otro quiere ganar a toda costa) tienen dificultades para desarrollar química.
 
-### 2. Role Clarity
+### 2. Claridad de roles
 
-Each player needs to know:
-- What's expected of them
-- How they contribute to team success
-- When to lead and when to follow
+Cada jugador necesita saber:
+- ¿Qué se espera de ellos?
+- Cómo contribuyen al éxito del equipo
+- Cuándo liderar y cuándo seguir
 
-Unclear roles create friction and resentment.
+Los roles poco claros crean fricción y resentimiento.
 
-### 3. Mutual Respect
+### 3. Respeto mutuo
 
-Respect means:
-- Valuing each teammate's contribution
-- Accepting different styles and approaches
-- Treating each other with dignity, especially under pressure
+Respeto significa:
+- Valorar la contribución de cada compañero de equipo
+- Aceptar diferentes estilos y enfoques
+- Tratarnos unos a otros con dignidad, especialmente bajo presión
 
-### 4. Psychological Safety
+### 4. Seguridad psicológica
 
-Players need to feel safe to:
-- Make mistakes without harsh judgment
-- Express opinions and concerns
-- Be themselves without pretense
+Los jugadores necesitan sentirse seguros para:
+- Cometer errores sin juzgar con dureza
+- Expresar opiniones y preocupaciones
+- Ser ellos mismos sin pretensiones
 
-## Building Chemistry: Practical Steps
+## Química de la construcción: pasos prácticos
 
-### Time Together
+### Tiempo juntos
 
-Chemistry requires investment:
-- Practice together regularly
-- Spend time together off the terrain
-- Share experiences beyond pétanque
+La química requiere inversión:
+- Practiquen juntos regularmente
+- Pasar tiempo juntos fuera del terreno.
+- Compartir experiencias más allá de la petanca
 
-### Structured Team Building
+### Formación de equipos estructurada
 
-Intentional activities help:
-- Team goal-setting sessions
-- Post-match debriefs (constructive)
-- Discussions about playing styles and preferences
+Las actividades intencionales ayudan a:
+- Sesiones de establecimiento de objetivos en equipo
+- Informes posteriores al partido (constructivos)
+- Discusiones sobre estilos de juego y preferencias.
 
-### Conflict Resolution
+### Resolución de conflictos
 
-Address issues before they fester:
-- Create space for honest conversation
-- Focus on behaviors, not personalities
-- Seek solutions, not blame
+Abordar los problemas antes de que se agraven:
+- Crear espacio para una conversación honesta
+- Centrarse en los comportamientos, no en las personalidades
+- Busca soluciones, no culpas
 
-### Celebrate Together
+### Celebrar juntos
 
-Shared joy builds bonds:
-- Acknowledge good performances
-- Celebrate team achievements
-- Mark milestones together
+La alegría compartida crea vínculos:
+- Reconocer las buenas actuaciones
+- Celebrar los logros del equipo
+- Marcar hitos juntos
 
-## Chemistry Killers
+## Asesinos de la química
 
-### Blame Culture
+### Cultura de la culpa
 
-When mistakes lead to criticism rather than support, trust erodes quickly.
+Cuando los errores conducen a críticas en lugar de apoyo, la confianza se erosiona rápidamente.
 
-### Unequal Commitment
+### Compromiso desigual
 
-If some players invest more than others, resentment builds.
+Si algunos jugadores invierten más que otros, surge el resentimiento.
 
-### Poor Communication
+### Mala comunicación
 
-Misunderstandings and assumptions create distance.
+Los malentendidos y las suposiciones crean distancia.
 
-### Ego Conflicts
+### Conflictos del ego
 
-When individual recognition matters more than team success, chemistry suffers.
+Cuando el reconocimiento individual importa más que el éxito del equipo, la química sufre.
 
-### Unresolved Conflict
+### Conflicto no resuelto
 
-Issues that aren't addressed don't disappear — they grow.
+Los problemas que no se abordan no desaparecen: crecen.
 
-## Chemistry in Competition
+## Química en competición
 
-### Before Matches
+### Antes de los partidos
 
-- Arrive together, warm up together
-- Brief team discussion on approach
-- Positive energy and mutual encouragement
+- Llegar juntos, calentar juntos
+- Breve discusión en equipo sobre el enfoque
+- Energía positiva y estímulo mutuo
 
-### During Matches
+### Durante los partidos
 
-- Visible support for each other
-- Constructive communication only
-- Shared celebration of good plays
-- Collective response to setbacks
+- Apoyo visible entre nosotros
+- Sólo comunicación constructiva
+- Celebración compartida de buenas jugadas
+- Respuesta colectiva a los reveses
 
-### After Matches
+### Después de los partidos
 
-- Win or lose, stay together
-- Brief debrief (what worked, what to improve)
-- Maintain positive relationships regardless of result
+- Ganemos o perdamos, permanezcamos unidos
+- Breve informe (qué funcionó, qué mejorar)
+- Mantener relaciones positivas independientemente del resultado
 
-## Different Personalities
+## Diferentes personalidades
 
-Strong teams often include different personality types:
+Los equipos fuertes a menudo incluyen diferentes tipos de personalidad:
 
-- **The Steady One**: Calm under pressure, consistent
-- **The Energizer**: Brings enthusiasm and motivation
-- **The Strategist**: Thinks ahead, sees patterns
-- **The Competitor**: Drives the will to win
+- **El Constante**: Tranquilo bajo presión, consistente
+- **El Energizante**: Aporta entusiasmo y motivación.
+- **El estratega**: piensa con anticipación y ve patrones
+- **El Competidor**: Impulsa la voluntad de ganar
 
-Chemistry isn't about everyone being the same — it's about differences working together.
+La química no consiste en que todos sean iguales: se trata de que las diferencias trabajen juntas.
 
-## When Chemistry Is Missing
+## Cuando falta la química
 
-### Signs of Poor Chemistry
+### Señales de mala química
 
-- Visible frustration with teammates
-- Blame after mistakes
-- Lack of communication
-- Playing as individuals, not a team
-- Dreading rather than enjoying matches
+- Frustración visible con los compañeros de equipo
+- Culpar después de los errores
+- Falta de comunicación
+- Jugando como individuos, no como equipo
+- Temer los partidos en lugar de disfrutarlos
 
-### Rebuilding Chemistry
+### Reconstruyendo la química
 
-1. **Acknowledge the problem**: Name it openly
-2. **Identify causes**: What's creating the friction?
-3. **Commit to change**: All parties must invest
-4. **Take action**: Specific steps to improve
-5. **Be patient**: Chemistry takes time to rebuild
+1. **Reconoce el problema**: nómbralo abiertamente
+2. **Identificar las causas**: ¿Qué está creando la fricción?
+3. **Comprometerse con el cambio**: Todas las partes deben invertir
+4. **Toma acción**: Pasos específicos para mejorar
+5. **Ten paciencia**: la química necesita tiempo para reconstruirse.
 
-### When to Move On
+### Cuándo seguir adelante
 
-Sometimes chemistry can't be fixed:
-- Fundamental value differences
-- Repeated broken trust
-- Unwillingness to change
+A veces la química no se puede arreglar:
+- Diferencias de valores fundamentales
+- Confianza rota repetidamente
+- Falta de voluntad para cambiar
 
-It's okay to recognize when a team isn't working.
+Está bien reconocer cuando un equipo no está funcionando.
 
-## The Captain's Role
+## El papel del capitán
 
-If you're the team leader:
-- Model the behavior you want to see
-- Address issues early and directly
-- Create opportunities for connection
-- Protect the team culture
-- Balance individual needs with team needs
+Si eres el líder del equipo:
+- Modela el comportamiento que quieres ver
+- Abordar los problemas de forma temprana y directa
+- Crear oportunidades de conexión
+- Proteger la cultura del equipo
+- Equilibrar las necesidades individuales con las necesidades del equipo
 
-## Long-Term Chemistry
+## Química a largo plazo
 
-Chemistry isn't static — it requires maintenance:
+La química no es estática: requiere mantenimiento:
 
-### Regular Check-Ins
+### Registros regulares
 
-- How are we functioning as a team?
-- What's working? What isn't?
-- Any issues to address?
+- ¿Cómo estamos funcionando como equipo?
+- ¿Qué funciona? ¿Qué no?
+- ¿Hay algún problema que abordar?
 
-### Continuous Investment
+### Inversión continua
 
-- Keep spending time together
-- Keep communicating openly
-- Keep supporting each other
+- Sigamos pasando tiempo juntos
+- Sigue comunicándote abiertamente
+- Sigamos apoyándonos unos a otros
 
-### Adaptation
+### Adaptación
 
-- As players grow and change, so must the team
-- Be willing to evolve roles and dynamics
-- Stay curious about each other
+- A medida que los jugadores crecen y cambian, también debe hacerlo el equipo.
+- Estar dispuesto a evolucionar roles y dinámicas.
+- Manténganse curiosos el uno con el otro
 
 ---
 
-*Related: [Team Dynamics](/es/education/team-dynamics/) | [Communication](/es/education/team-dynamics/communication) | [Leadership in Pétanque](/es/articles/team-leadership)*
+| *Relacionado: [Dinámica de equipo](/es/educacion/dinamica-de-equipo/) | [Comunicación](/es/educacion/dinamica-de-equipo/comunicacion) | Liderazgo en la petanca |
 

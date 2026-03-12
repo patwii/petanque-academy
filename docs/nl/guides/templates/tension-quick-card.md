@@ -1,14 +1,14 @@
-# Tension Release Quick Card
+# Snelle kaart voor spanningsontspanning
 
-A printable pocket card for tension release techniques during competition.
+Een printbaar zakkaartje met technieken om spanning te verlichten tijdens wedstrijden.
 
-::: tip Print & Carry
-**Cut this card out and keep it in your pocket or boule bag.** Quick reference when tension builds during competition.
+::: tip Printen en meenemen
+**Knip dit kaartje uit en bewaar het in je zak of bouletas.** Handig als naslagwerk wanneer de spanning tijdens de wedstrijd oploopt.
 :::
 
 ---
 
-## ✂️ Cut Here — Pocket Card
+## ✂️ Hier knippen — Zakkaart
 
 ```
 ┌─────────────────────────────────────────────────┐
@@ -56,82 +56,82 @@ A printable pocket card for tension release techniques during competition.
 
 ---
 
-## Technique Details
+## Technische details
 
-### 🔴 30-Second Reset
+### 🔴 Reset van 30 seconden
 
-Use between points or during short breaks:
+Gebruik tussen de punten of tijdens korte pauzes:
 
-| Step | Action | Duration |
+| Stap | Actie | Duur |
 |------|--------|----------|
-| 1 | Deep breath in through nose | 4 counts |
-| 2 | Shoulders up to ears, then drop completely | 3 sec |
-| 3 | Shake hands loosely | 5 sec |
-| 4 | Open jaw wide, let it close naturally | 3 sec |
-| 5 | Slow exhale through mouth | 6 counts |
+| 1 | Adem diep in door je neus. | 4 tellingen |
+| 2 | Schouders omhoog tot aan de oren, en dan helemaal laten zakken. | 3 seconden |
+| 3 | Geef elkaar een losse handdruk. | 5 seconden |
+| 4 | Open je kaak wijd en laat hem vanzelf weer sluiten. | 3 seconden |
+| 5 | Adem langzaam uit door de mond. | 6 tellen |
 
-### 🟡 Grip Reset
+### 🟡 Grip reset
 
-Before each throw:
+Voor elke worp:
 
-1. **Squeeze hard** — 80% grip pressure for 2 seconds
-2. **Release to optimal** — Find your ideal pressure (40-50%)
-3. **Notice** — Feel the contrast between tension and relaxation
+1. **Knijp stevig** — 80% gripdruk gedurende 2 seconden
+2. **Optimale druk bereiken** — Vind uw ideale druk (40-50%)
+3. **Let op** — Voel het contrast tussen spanning en ontspanning.
 
-This creates a reference point for proper grip pressure.
+Dit creëert een referentiepunt voor de juiste gripdruk.
 
-### 🟢 15-Second Pre-Throw Protocol
+### 🟢 Protocol voor de voorbereiding op de worp van 15 seconden
 
-For important throws:
+Voor belangrijke worpen:
 
-| Time | Action |
+| Tijd | Actie |
 |------|--------|
-| 0-3 sec | Body scan: notice any tension |
-| 3-6 sec | One deep breath |
-| 6-9 sec | Shoulder drop |
-| 9-12 sec | Grip check (tense-release if needed) |
-| 12-15 sec | Final breath, begin routine |
+| 0-3 sec | Lichaamsscan: let op eventuele spanning. |
+| 3-6 seconden | Eén diepe ademhaling |
+| 6-9 seconden | Schouder omlaag |
+| 9-12 seconden | Gripcontrole (aanspannen en ontspannen indien nodig) |
+| 12-15 seconden | Laatste ademteug, begin routine |
 
-### 🔵 4-7-8 Breathing
+### 🔵 4-7-8 ademhaling
 
-When highly stressed or over-aroused:
+Bij hoge stress of overprikkeling:
 
-- **Inhale** through nose: 4 counts
-- **Hold** breath: 7 counts
-- **Exhale** through mouth: 8 counts
-- Repeat 3-4 times
+- **Adem in** door de neus: 4 tellen
+- Houd je adem in: 7 tellen
+- **Adem uit** door de mond: 8 tellen
+- Herhaal dit 3-4 keer.
 
-### 💬 Your Cue Word
+### 💬 Jouw sleutelwoord
 
-Choose a single word that triggers relaxation:
-- "Soft"
-- "Easy"
-- "Flow"
-- "Release"
+Kies één woord dat ontspanning oproept:
+- &quot;Zacht&quot;
+- &quot;Eenvoudig&quot;
+- &quot;Stroom&quot;
+- &quot;Uitgave&quot;
 
-Practice saying this word mentally while releasing tension. Eventually, the word alone triggers the relaxation response.
+Oefen het mentaal uitspreken van dit woord terwijl je de spanning loslaat. Uiteindelijk zal het woord op zich al de ontspanningsreactie opwekken.
 
 ---
 
-## How to Use This Card
+## Hoe gebruik ik deze kaart?
 
-1. **Print** on cardstock for durability
-2. **Cut** along the dotted line
-3. **Laminate** if possible
-4. **Keep** in your pocket or boule bag
-5. **Review** between games as needed
-6. **Practice** these techniques in training first
+1. **Print** op karton voor extra duurzaamheid.
+2. **Knip** langs de stippellijn.
+3. **Lamineer** indien mogelijk.
+4. **Bewaar** in je zak of bouletas.
+5. **Evaluatie** tussen de wedstrijden door, indien nodig.
+6. **Oefen** deze technieken eerst tijdens de training.
 
-::: warning Practice First
-These techniques work best when practiced regularly. Don't try them for the first time in a crucial competition moment.
+::: warning Oefen eerst
+Deze technieken werken het beste als je ze regelmatig oefent. Probeer ze niet voor het eerst uit op een cruciaal moment in een wedstrijd.
 :::
 
 ---
 
-## Related Resources
+## Gerelateerde bronnen
 
-- [Tension Release Techniques](/nl/education/tension/techniques) — Full technique guide
-- [Understanding Tension](/nl/education/tension/) — The science behind tension
-- [Competition Tension Management](/nl/education/tension/competition) — Match-day protocols
-- [Pre-Shot Routine](/nl/education/mental-game/mental-strength/pre-shot-routine) — Complete routine integration
+- [Technieken voor het loslaten van spanning](/en/education/tension/techiques) — Complete handleiding voor technieken
+- [Spanning begrijpen](/en/education/tension/) — De wetenschap achter spanning
+- [Competitie-spanningsmanagement](/en/education/tension/competition) — Wedstrijdprotocollen
+- [Voorbereidende training](/en/education/mental-game/mental-strength/pre-shot-routine) — Volledige routine-integratie
 

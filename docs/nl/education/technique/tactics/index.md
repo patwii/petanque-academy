@@ -255,7 +255,7 @@ Op topniveau is scouting van cruciaal belang. Ken je tegenstanders voordat je te
 
 ## In deze sectie
 
-- **[Op waarschijnlijkheid gebaseerde beslissingen](/nl/education/technique/tactics/probability)** - Wiskunde gebruiken om betere keuzes te maken
+- **[Op waarschijnlijkheid gebaseerde beslissingen](/en/education/technique/tactics/probability)** - Wiskunde gebruiken om betere keuzes te maken
 
 ## Samenvatting: Alle tactische regels
 

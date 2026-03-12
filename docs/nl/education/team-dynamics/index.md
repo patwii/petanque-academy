@@ -182,7 +182,7 @@ Geweldige teams ontwikkelen gedeelde eigenschappen:
 
 ## In deze sectie
 
-- **[Teamcommunicatie](/nl/education/team-dynamics/communication)** - Gedetailleerde handleiding voor effectieve communicatie
+- **[Teamcommunicatie](/en/education/team-dynamics/communication)** - Gedetailleerde handleiding voor effectieve communicatie
 
 ## Belangrijkste conclusie
 

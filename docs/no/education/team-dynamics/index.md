@@ -182,7 +182,7 @@ Gode team utvikler seg delt:
 
 ## I denne delen
 
-- **[Teamkommunikasjon](/no/education/team-dynamics/kommunikasjon)** - Detaljert veiledning for effektiv kommunikasjon
+- **[Teamkommunikasjon](/no/utdanning/teamdynamikk/kommunikasjon)** - Detaljert veiledning for effektiv kommunikasjon
 
 ## Viktig konklusjon
 

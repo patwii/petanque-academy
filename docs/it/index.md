@@ -3,24 +3,24 @@ layout: home
 
 hero:
   name: "Pétanque Academy"
-  text: "Sviluppo dei Giocatori d'Élite"
-  tagline: Dalla tecnica al flow - aiutare i giocatori d'élite a raggiungere il livello successivo
+  text: "Elite Player Development"
+  tagline: From technique to flow - helping elite players reach the next level
   actions:
     - theme: brand
-      text: La Nostra Ambizione
-      link: /it/ambition
+      text: Our Ambition
+      link: /en/ambition
     - theme: alt
-      text: Formazione
-      link: /it/education/
+      text: Education
+      link: /en/education/
 
 features:
-  - title: La Zona
-    details: Oltre l'allenamento tecnico verso una prospettiva di flow dove le bocce perfette diventano naturali.
-  - title: Workshop
-    details: Piccoli gruppi di 6-8 giocatori d'élite che condividono esperienze e pensieri interiori.
-  - title: Approccio Olistico
-    details: Combinando allenamento mentale, tattica, lavoro di squadra e nutrizione per prestazioni ottimali.
+  - title: 🧠 8-Factor Model
+    details: A comprehensive player development system based on 8 weighted performance factors.
+  - title: 🎯 Personal ROI
+    details: Discover which factor gives YOU the best return on investment for improvement.
+  - title: 📚 Complete Education
+    details: In-depth modules on mental game, motivation, sleep, self-awareness, nutrition, team dynamics, tension, and technique.
 ---
 
-
 <AssessmentForm />
+

@@ -182,7 +182,7 @@ Grandes equipes desenvolvem habilidades compartilhadas:
 
 ## Nesta seção
 
-- **[Comunicação em Equipe](/pt/education/team-dynamics/communication)** - Guia detalhado para se comunicar de forma eficaz
+- **[Comunicação em Equipe](/en/education/team-dynamics/communication)** - Guia detalhado para se comunicar com eficácia
 
 ## Ponto-chave
 

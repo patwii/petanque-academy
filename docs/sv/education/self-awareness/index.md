@@ -3,76 +3,76 @@ title: The Self-Awareness Advantage
 description: Develop accurate self-perception to accelerate your pétanque improvement. Learn to identify blind spots and use feedback effectively.
 ---
 
-# The Self-Awareness Advantage
+# Fördelen med självkännedom
 
-::: tip The Meta-Skill That Multiplies Everything
-**Weight: 400 points** — Players with accurate self-perception improve 2-3x faster because they train what actually needs work.
+::: tip Metafärdigheten som multiplicerar allt
+**Vikt: 400 poäng** — Spelare med korrekt självuppfattning förbättras 2–3 gånger snabbare eftersom de tränar det som faktiskt behöver arbetas med.
 :::
 
-## Why This Is Your Hidden Multiplier
+## Varför detta är din dolda multiplikator
 
-> "You can't improve what you can't see."
+> &quot;Man kan inte förbättra det man inte kan se.&quot;
 
-Most players spend hours practicing, but **are they practicing the right things?** Self-awareness is the meta-skill that ensures your training time is actually effective.
+De flesta spelare spenderar timmar på att öva, men **övar de på rätt saker?** Självkännedom är den metafärdighet som säkerställer att din träningstid faktiskt är effektiv.
 
-### The Improvement Multiplier Effect
+### Förbättringsmultiplikatoreffekten
 
 ```mermaid
 flowchart TD
-    A[Self-Awareness] --> B[Accurate Self-Assessment]
-    A --> C[Blind Spot Recognition]
-    A --> D[Feedback Reception]
+    A[Självmedvetenhet] --> B[Noggrann självbedömning]
+    A --> C[Dödvinkeligenkänning]
+    A --> D[Feedbackmottagning]
 
-    B --> E[Train What Actually Needs Work]
+    B --> E[Träna det som faktiskt behöver arbeta]
     C --> E
     D --> E
 
-    E --> F[2-3x Faster Improvement]
+    E --> F[2–3 gånger snabbare förbättring]
 
     style A fill:#FF9800,color:#fff
     style F fill:#4CAF50,color:#fff
 ```
 
-Without self-awareness, you might:
-- Practice what you're already good at (feels good, limited growth)
-- Miss technical flaws you can't see
-- Misattribute losses to external factors
-- Resist feedback that could help you
+Utan självinsikt kanske du:
+- Öva på det du redan är bra på (känns bra, begränsad utveckling)
+- Missa tekniska brister du inte kan se
+- Felaktigt hänföra förluster till externa faktorer
+- Motstå feedback som kan hjälpa dig
 
-With self-awareness, you:
-- Identify actual weaknesses accurately
-- Accept and integrate useful feedback
-- Understand how pressure affects your specific game
-- Know your patterns under different conditions
+Med självkännedom kan du:
+- Identifiera faktiska svagheter korrekt
+- Acceptera och integrera användbar feedback
+- Förstå hur pressen påverkar ditt specifika spel
+- Känn dina mönster under olika förhållanden
 
 ---
 
-## The Self-Awareness Paradox
+## Självkännedomsparadoxen
 
-::: danger The Uncomfortable Truth
-Research consistently shows: Those who need more self-awareness typically believe they have excellent self-knowledge. Those with high self-awareness constantly question themselves and seek external input.
+::: danger Den obekväma sanningen
+Forskning visar konsekvent: De som behöver mer självkännedom tror vanligtvis att de har utmärkt självkännedom. De med hög självkännedom ifrågasätter ständigt sig själva och söker extern input.
 
-**Which one are you?**
+**Vilken är du?**
 :::
 
-This is called the **Dunning-Kruger effect** applied to self-perception. The very lack of awareness that holds you back also prevents you from seeing that you lack awareness.
+Detta kallas **Dunning-Kruger-effekten** tillämpad på självuppfattning. Just den brist på medvetenhet som håller dig tillbaka hindrar dig också från att se att du saknar medvetenhet.
 
-### The Solution: External Mirrors
+### Lösningen: Utvändiga speglar
 
-Since we can't fully trust our internal perception, we need external mirrors:
+Eftersom vi inte helt kan lita på vår inre uppfattning behöver vi externa speglar:
 
-| Mirror | What It Reveals |
+| Spegel | Vad det avslöjar |
 |--------|-----------------|
-| **Video Analysis** | Technical reality vs. what you think you're doing |
-| **Performance Data** | Patterns you might not notice |
-| **Teammate Feedback** | How you're perceived under pressure |
-| **Coach Observation** | Expert eye on your game |
+| **Videoanalys** | Teknisk verklighet kontra vad du tror att du gör |
+| **Prestandadata** | Mönster du kanske inte märker |
+| **Feedback från lagkamrater** | Hur du uppfattas under press |
+| **Coachobservation** | Expertöga på ditt spel |
 
 ---
 
-## The Johari Window for Pétanque Players
+## Johari-fönstret för boulespelare
 
-The Johari Window is a psychological model that maps what you and others know about your game:
+Johari-fönstret är en psykologisk modell som kartlägger vad du och andra vet om ert spel:
 
 ```
                     Known to Self    Unknown to Self
@@ -93,128 +93,128 @@ The Johari Window is a psychological model that maps what you and others know ab
                    └────────────────┴────────────────┘
 ```
 
-### Your Goal: Expand the "Open" Area
+### Ditt mål: Utöka det &quot;öppna&quot; området
 
-**1. Reduce your Blind Spots**
-- Seek video analysis
-- Ask for specific feedback
-- Watch for patterns in results
+**1. Minska dina blinda fläckar**
+- Sök videoanalys
+- Be om specifik feedback
+- Se upp för mönster i resultaten
 
-**2. Share More (Reduce Hidden)**
-- Tell teammates when you're struggling
-- Discuss your approach openly
-- Ask for help when needed
+**2. Dela mer (Minska dolda)**
+- Berätta för dina lagkamrater när du har det svårt
+- Diskutera din strategi öppet
+- Be om hjälp när det behövs
 
-**3. Discover Your Unknown Potential**
-- Try new approaches
-- Experiment in training
-- Push outside comfort zone
+**3. Upptäck din okända potential**
+- Prova nya tillvägagångssätt
+- Experiment i träning
+- Knyckla utanför komfortzonen
 
 ---
 
-## Self-Awareness vs. Self-Criticism
+## Självkännedom kontra självkritik
 
-::: warning Critical Distinction
-Self-awareness is **neutral observation** of reality.
-Self-criticism is **negative judgment** of yourself.
+::: warning Kritisk distinktion
+Självmedvetenhet är **neutral observation** av verkligheten.
+Självkritik är **negativ bedömning** av dig själv.
 
-They are NOT the same thing.
+De är INTE samma sak.
 :::
 
-| Self-Awareness | Self-Criticism |
+| Självmedvetenhet | Självkritik |
 |----------------|----------------|
-| "I missed three carreaux today" | "I'm terrible at carreaux" |
-| "I tense up in close games" | "I always choke under pressure" |
-| "My pointing is less accurate when tired" | "I can't handle long tournaments" |
-| "I communicate less when losing" | "I'm a bad teammate when stressed" |
+| &quot;Jag missade tre karuseller idag&quot; | &quot;Jag är hemsk på carreaux&quot; |
+| &quot;Jag spänner mig i jämna matcher&quot; | &quot;Jag kvävs alltid under press&quot; |
+| &quot;Min pekning är mindre exakt när jag är trött&quot; | &quot;Jag klarar inte av långa turneringar&quot; |
+| &quot;Jag kommunicerar mindre när jag förlorar&quot; | &quot;Jag är en dålig lagkamrat när jag är stressad&quot; |
 
-**The difference matters because:**
-- Self-awareness leads to targeted improvement
-- Self-criticism leads to shame and avoidance
-- Self-awareness is factual and specific
-- Self-criticism is emotional and generalized
-
----
-
-## The Three Levels of Self-Awareness
-
-### Level 1: Technical Self-Awareness
-*"How am I actually performing?"*
-
-- Accuracy under different conditions
-- Technical execution patterns
-- Physical state effects on performance
-
-### Level 2: Psychological Self-Awareness
-*"How do I respond mentally and emotionally?"*
-
-- Stress responses and triggers
-- Confidence fluctuations
-- Focus patterns and distractors
-
-### Level 3: Social Self-Awareness
-*"How do I affect others and how do they see me?"*
-
-- Team communication patterns
-- Leadership moments (or gaps)
-- How your emotions affect teammates
+**Skillnaden spelar roll eftersom:**
+- Självkännedom leder till riktad förbättring
+- Självkritik leder till skam och undvikande
+- Självkännedom är faktabaserad och specifik
+- Självkritik är känslomässig och generaliserad
 
 ---
 
-## Self-Assessment: Your Current Self-Awareness
+## De tre nivåerna av självkännedom
 
-Rate yourself honestly (1 = Never, 5 = Always):
+### Nivå 1: Teknisk självkännedom
+*&quot;Hur presterar jag egentligen?&quot;*
 
-| Question | Score |
+- Noggrannhet under olika förhållanden
+- Tekniska exekveringsmönster
+- Fysiskt tillstånd påverkar prestation
+
+### Nivå 2: Psykologisk självkännedom
+*&quot;Hur reagerar jag mentalt och känslomässigt?&quot;*
+
+- Stressreaktioner och triggers
+- Förtroendefluktuationer
+- Fokusmönster och distraktorer
+
+### Nivå 3: Social självkännedom
+*&quot;Hur påverkar jag andra och hur ser de på mig?&quot;*
+
+- Teamkommunikationsmönster
+- Ledarskapsögonblick (eller luckor)
+- Hur dina känslor påverkar lagkamrater
+
+---
+
+## Självbedömning: Din nuvarande självkännedom
+
+Betygsätt dig själv ärligt (1 = Aldrig, 5 = Alltid):
+
+| Fråga | Göra |
 |----------|-------|
-| I can accurately predict my performance in different situations | /5 |
-| I know what conditions cause me to underperform | /5 |
-| I understand how teammates perceive me under pressure | /5 |
-| I welcome and integrate critical feedback | /5 |
-| My self-assessment matches my coach's/teammates' assessment | /5 |
-| I can objectively analyze my performance without emotional reaction | /5 |
-| I notice my own mental state changes during competition | /5 |
+| Jag kan noggrant förutsäga min prestation i olika situationer | /5 |
+| Jag vet vilka omständigheter som gör att jag underpresterar | /5 |
+| Jag förstår hur lagkamrater uppfattar mig under press | /5 |
+| Jag välkomnar och integrerar kritisk feedback | /5 |
+| Min självbedömning stämmer överens med min tränares/lagkamraters bedömning | /5 |
+| Jag kan objektivt analysera min prestation utan känslomässig reaktion | /5 |
+| Jag märker att mitt eget mentala tillstånd förändras under tävling | /5 |
 
-**Scoring:**
-- **28-35:** High self-awareness (but stay humble—keep seeking input)
-- **21-27:** Moderate self-awareness (good foundation to build on)
-- **14-20:** Self-awareness gap (this module is critical for you)
-- **Below 14:** Significant blind spots (prioritize this work)
-
----
-
-## In This Module
-
-### [Getting and Using Feedback](/sv/education/self-awareness/feedback)
-- Sources of objective feedback
-- How to ask for feedback effectively
-- Receiving feedback without defensiveness
-- Turning feedback into action
-
-### [Video Analysis for Self-Discovery](/sv/education/self-awareness/video)
-- What to record and when
-- What to look for in your footage
-- Comparing self-perception to video reality
-- Video analysis protocols
+**Poängsättning:**
+- **28–35:** Hög självkännedom (men var ödmjuk – fortsätt söka input)
+- **21-27:** Måttlig självkännedom (bra grund att bygga vidare på)
+- **14-20:** Självkännedomsgap (denna modul är avgörande för dig)
+- **Under 14:** Betydande blinda fläckar (prioritera detta arbete)
 
 ---
 
-## Quick Win: The Three Questions
+## I den här modulen
 
-After your next training session or match, ask yourself:
+### [Att få och använda feedback](/sv/utbildning/självkännedom/feedback)
+- Källor till objektiv feedback
+- Hur man ber om feedback effektivt
+- Ta emot feedback utan att vara defensiv
+- Omvandla feedback till handling
 
-1. **What did I think I did well?** (Be specific)
-2. **What would an objective observer say?** (Separate perception from reality)
-3. **What's one thing I'm avoiding looking at?** (Find the blind spot)
-
-Write your answers down. Compare them over time. Patterns will emerge.
+### [Videoanalys för självupptäckt](/sv/utbildning/självkännedom/video)
+- Vad som ska spelas in och när
+- Vad du ska leta efter i ditt filmmaterial
+- Jämförelse av självuppfattning med videoverklighet
+- Protokoll för videoanalys
 
 ---
 
-## Related Factors
+## Snabb vinst: De tre frågorna
 
-- [Mental Game](/sv/education/mental-game/) — Self-awareness supports mental training
-- [Team Dynamics](/sv/education/team-dynamics/) — Understand how others perceive you
-- [Motivation](/sv/education/motivation/) — Know your real drivers
-- [Technique](/sv/education/technique/) — Video analysis reveals technical truth
+Efter nästa träningspass eller match, fråga dig själv:
+
+1. **Vad tyckte jag att jag gjorde bra?** (Var specifik)
+2. **Vad skulle en objektiv observatör säga?** (Separera uppfattning från verklighet)
+3. **Vad är en sak jag undviker att titta på?** (Hitta den blinda fläcken)
+
+Skriv ner dina svar. Jämför dem över tid. Mönster kommer att framträda.
+
+---
+
+## Relaterade faktorer
+
+- [Mentalt spel](/sv/utbildning/mentalt-spel/) — Självkännedom stöder mental träning
+- [Teamdynamik](/sv/utbildning/teamdynamik/) — Förstå hur andra uppfattar dig
+- [Motivation](/sv/utbildning/motivation/) — Känn dina verkliga drivkrafter
+- [Teknik](/sv/utbildning/teknik/) — Videoanalys avslöjar teknisk sanning
 

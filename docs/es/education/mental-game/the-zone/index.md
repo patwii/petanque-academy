@@ -115,8 +115,8 @@ La solución no es pensar *menos*; es pensar en las **cosas correctas** en el **
 
 Aprende a dominar la zona:
 
-- **[Entrenamiento Técnico vs. Flow](/es/education/mental-game/the-zone/technical-vs-flow)** - Entender cuándo enfocarse en la técnica y cuándo dejarse llevar
-- **[Entrando a la Zona](/es/education/mental-game/the-zone/entrando-a-la-zona)** - Técnicas prácticas para acceder al estado de flujo
+- **[Entrenamiento Técnico vs. Flow](/es/educacion/juego-mental/la-zona/entrenamiento-tecnico-vs-flow)** - Entender cuándo enfocarse en la técnica y cuándo dejarse llevar
+- **[Entrando a la Zona](/es/educacion/juego-mental/la-zona/entrando-a-la-zona)** - Técnicas prácticas para acceder al estado de flujo
 
 ## Resumen: Las reglas de la zona
 

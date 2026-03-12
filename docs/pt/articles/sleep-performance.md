@@ -3,29 +3,29 @@ title: "Sleep: The Most Underrated Performance Factor"
 description: How sleep quality directly impacts precision, decision-making, and consistency in pétanque.
 ---
 
-# Sleep: The Most Underrated Performance Factor
+# Sono: o fator de desempenho mais subestimado
 
-> "The player who slept better often wins."
+> &quot;O jogador que dormiu melhor costuma vencer.&quot;
 
-Most players focus on technique and mental training. Few optimize their sleep. This is a mistake—sleep may be the highest-ROI improvement available to most competitive players.
+A maioria dos jogadores se concentra na técnica e no treinamento mental. Poucos otimizam o sono. Isso é um erro — o sono pode ser o investimento com o maior retorno disponível para a maioria dos jogadores competitivos.
 
-::: tip High-ROI Improvement
-**Sleep optimization requires zero talent and delivers massive returns.** It's the closest thing to a legal performance enhancer.
+::: tip Melhoria de alto retorno sobre o investimento
+**A otimização do sono não exige nenhum talento e proporciona resultados enormes.** É o mais próximo que existe de um potencializador de desempenho legal.
 :::
 
 ```mermaid
 flowchart TD
-    A[Poor Sleep] --> B[Fine Motor ↓]
-    A --> C[Decision Making ↓]
-    A --> D[Emotional Control ↓]
-    A --> E[Focus ↓]
+    A[Dormir mal] --> B[Coordenação motora fina ↓]
+    A --> C[Tomada de Decisão ↓]
+    A --> D[Controle Emocional ↓]
+    A --> E[Foco ↓]
 
-    B --> F[Inconsistent Throws]
+    B --> F[Lançamentos inconsistentes]
     C --> F
     D --> F
     E --> F
 
-    F --> G[Poor Performance]
+    F --> G[Desempenho ruim]
 
     style A fill:#f44336,color:#fff
     style G fill:#f44336,color:#fff
@@ -33,170 +33,170 @@ flowchart TD
 
 ---
 
-## The Research
+## A pesquisa
 
-Sleep science reveals striking effects on precision sport performance:
+A ciência do sono revela efeitos surpreendentes no desempenho em esportes de precisão:
 
-### Reaction Time
-- **24 hours without sleep** = reaction time equivalent to 0.1% blood alcohol
-- **6 hours/night for 2 weeks** = equivalent to staying awake 48 hours
-- Elite athletes average **8.5+ hours** vs 7 hours for general population
+### Tempo de reação
+- **24 horas sem dormir** = tempo de reação equivalente a 0,1% de álcool no sangue
+- **6 horas por noite durante 2 semanas** = equivalente a ficar acordado por 48 horas
+- Atletas de elite dormem em média **mais de 8,5 horas**, enquanto a população em geral dorme 7 horas.
 
-### Decision Making
-- Sleep deprivation impairs the prefrontal cortex first
-- Tactical decisions deteriorate before obvious fatigue appears
-- You don't notice your impairment (meta-cognition fails too)
+### Tomando uma decisão
+- A privação de sono afeta primeiro o córtex pré-frontal.
+- As decisões táticas se deterioram antes mesmo que a fadiga óbvia apareça.
+- Você não percebe sua deficiência (a metacognição também falha).
 
-### Motor Control
-- Fine motor skills (grip, release) require consolidated memory
-- Memory consolidation happens during deep sleep
-- Skill learning without adequate sleep = wasted practice
+### Controle do motor
+- As habilidades motoras finas (preensão, liberação) requerem memória consolidada.
+- A consolidação da memória ocorre durante o sono profundo.
+- Aprender habilidades sem dormir o suficiente = prática desperdiçada
 
-## The Precision Connection
+## A Conexão de Precisão
 
-Pétanque requires exactly what sleep deprivation destroys:
+A petanca exige exatamente aquilo que a privação de sono destrói:
 
-| Skill Required | Sleep Deprivation Effect |
+| Habilidade necessária | Efeito da privação de sono |
 |----------------|--------------------------|
-| Fine motor control | Grip pressure becomes inconsistent |
-| Visual processing | Distance judgment impaired |
-| Decision making | Tactical errors increase |
-| Emotional regulation | Frustration after mistakes increases |
-| Sustained attention | Focus drifts in longer matches |
+| Controle motor fino | A pressão de preensão torna-se inconsistente. |
+| Processamento visual | Dificuldade em avaliar distâncias |
+| Tomando uma decisão | Os erros táticos aumentam |
+| Regulação emocional | A frustração após erros aumenta. |
+| Atenção sustentada | A concentração se dispersa em partidas mais longas. |
 
-## Signs You're Under-Sleeping
+## Sinais de que você está dormindo pouco
 
-You've adapted to chronic sleep deprivation if:
+Você se adaptou à privação crônica de sono se:
 
-- You need an alarm to wake up
-- You're drowsy in early afternoon
-- You fall asleep within 5 minutes of lying down
-- You "catch up" on weekends
-- Coffee is essential, not optional
+- Você precisa de um despertador para acordar.
+- Você sente sonolência no início da tarde.
+- Você adormece em 5 minutos após se deitar.
+- Você &quot;coloca o papo em dia&quot; nos fins de semana.
+- Café é essencial, não opcional.
 
-**Reality check:** If you need caffeine to function normally, you're sleep deprived.
+**Um choque de realidade:** Se você precisa de cafeína para funcionar normalmente, você está com privação de sono.
 
-## The Competition Week Protocol
+## Protocolo da Semana da Competição
 
-### 7 Days Before
-- Begin sleeping 30 minutes more per night
-- Stabilize wake time (same time every day)
+### 7 dias antes
+- Comece a dormir 30 minutos a mais por noite.
+- Estabilizar o horário de despertar (sempre no mesmo horário)
 
-### 3 Days Before
-- No alcohol (disrupts sleep architecture)
-- No heavy meals after 7pm
-- Reduce screen time after sunset
+### 3 dias antes
+- Sem álcool (interfere na estrutura do sono)
+- Não se deve fazer refeições pesadas após as 19h.
+- Reduza o tempo de uso de telas após o pôr do sol.
 
-### Night Before
-- Normal bedtime (don't go to bed early—you'll just lie awake)
-- Familiar environment if possible
-- Relaxation routine
+### Na noite anterior
+- Horário normal de dormir (não vá para a cama cedo — você só vai ficar acordado).
+- Ambiente familiar, se possível
+- rotina de relaxamento
 
-### Competition Morning
-- Wake at normal time
-- Light exposure immediately
-- Normal breakfast routine
+### Manhã de competição
+- Acorde no horário normal.
+- Exposição à luz imediatamente
+- rotina normal de café da manhã
 
-## Optimizing Sleep Quality
+## Otimizando a qualidade do sono
 
-It's not just duration—quality matters more.
+Não é apenas a duração que importa — a qualidade é o que mais importa.
 
-### Sleep Environment
-- **Temperature:** 18-20°C (65-68°F) is optimal
-- **Darkness:** Complete darkness or sleep mask
-- **Sound:** Consistent (white noise) or silent
-- **Bedding:** Comfortable, not too warm
+### Ambiente de sono
+- **Temperatura:** 18-20°C (65-68°F) é a ideal
+- **Escuridão:** Escuridão total ou máscara de dormir
+- **Som:** Constante (ruído branco) ou silencioso
+- **Roupa de cama:** Confortável, não muito quente
 
-### Pre-Sleep Routine
-- Screen-free 60+ minutes before bed
-- Dim lights in evening
-- Consistent wind-down activities
-- Cool shower can trigger sleep onset
+### Rotina pré-sono
+- Evite telas por mais de 60 minutos antes de dormir.
+- Luzes baixas à noite
+- Atividades de relaxamento consistentes
+- Um banho frio pode ajudar a adormecer.
 
-### Timing
-- Consistent wake time (more important than bedtime)
-- Avoid sleeping in more than 30 minutes on weekends
-- Naps: before 3pm, under 20 minutes
+### Tempo
+- Horário de despertar consistente (mais importante que o horário de dormir)
+- Evite dormir mais de 30 minutos a mais nos fins de semana.
+- Sonecas: antes das 15h, com duração inferior a 20 minutos.
 
-## The Nap Strategy
+## A estratégia da soneca
 
-Strategic napping for competition days:
+Cochilos estratégicos para dias de competição:
 
-### The Power Nap (10-20 min)
-- Reduces fatigue without grogginess
-- Best for between morning and afternoon sessions
-- Set alarm—don't oversleep
+### A soneca revigorante (10-20 min)
+- Reduz a fadiga sem causar sonolência.
+- Ideal para sessões entre a manhã e a tarde.
+- Programe um alarme — não durma demais.
 
-### The Full Cycle (90 min)
-- Complete sleep cycle
-- Only if you have 2+ hours before competition
-- Risk of grogginess if interrupted
+### O Ciclo Completo (90 min)
+- Ciclo completo do sono
+- Somente se você tiver mais de 2 horas antes da competição.
+- Risco de sonolência se interrompido
 
-### Never Nap If:
-- You have sleep onset insomnia
-- Competition is within 90 minutes
-- It's after 3pm and you need to sleep that night
+### Nunca tire uma soneca se:
+- Você tem insônia de início do sono.
+- A competição começa em 90 minutos.
+- Já passa das 15h e você precisa dormir naquela noite.
 
-## Travel Considerations
+## Considerações sobre viagens
 
-For away competitions:
+Para competições fora de casa:
 
-### Before Travel
-- Bring familiar sleep items (pillow, sleep mask)
-- Research hotel room (request quiet room)
-- Adjust schedule if crossing time zones
+### Antes de viajar
+- Leve itens de sono que você já conhece (travesseiro, máscara de dormir).
+- Pesquise quartos de hotel (solicite um quarto silencioso)
+- Ajuste o itinerário caso esteja atravessando fusos horários.
 
-### At Destination
-- Stick to home sleep schedule if possible
-- Light exposure controls circadian rhythm
-- Avoid heavy meals close to bedtime
+### No destino
+- Mantenha o horário de sono de casa, se possível.
+- A exposição à luz controla o ritmo circadiano.
+- Evite refeições pesadas perto da hora de dormir.
 
-### Time Zone Crossing
-- 1 day per hour to fully adjust
-- Morning light exposure speeds eastward adjustment
-- Evening light exposure speeds westward adjustment
+### Cruzamento de fuso horário
+- 1 dia por hora para se ajustar completamente
+- A exposição à luz da manhã acelera o ajuste para leste.
+- A exposição à luz do entardecer acelera o ajuste para oeste.
 
-## Tracking Your Sleep
+## Monitorando seu sono
 
-What gets measured gets managed:
+O que é medido é gerenciado:
 
-### Simple Tracking
-- Wake time and bedtime
-- Subjective quality (1-10)
-- Performance correlation notes
+### Rastreamento simples
+- Hora de acordar e hora de dormir
+- Qualidade subjetiva (1-10)
+- Notas de correlação de desempenho
 
-### Advanced Tracking
-- Sleep tracker or wearable
-- HRV (heart rate variability) trends
-- Sleep stage data
+### Rastreamento Avançado
+- Monitor de sono ou dispositivo vestível
+- Tendências da VFC (variabilidade da frequência cardíaca)
+- Dados sobre os estágios do sono
 
-### What to Look For
-- Correlation between sleep and performance
-- Patterns (weekend catch-up, pre-competition insomnia)
-- Trends over time
+### O que procurar
+- Correlação entre sono e desempenho
+- Padrões (recuperação de tempo no fim de semana, insônia pré-competição)
+- Tendências ao longo do tempo
 
-## Common Mistakes
+## Erros comuns
 
-::: warning Avoid These
-- **Alcohol as sleep aid** — Helps onset, destroys quality
-- **Catching up on weekends** — Can't "pay back" sleep debt
-- **Screens in bed** — Trains brain that bed ≠ sleep
-- **Inconsistent schedule** — Circadian rhythm needs consistency
-- **Ignoring sleep for training** — Trading quality for quantity
+::: warning Evite estes
+- **Álcool como auxiliar do sono** — Facilita o início do sono, mas prejudica a qualidade.
+- **Colocando o sono em dia nos fins de semana** — Não dá para &quot;pagar&quot; a dívida de sono
+- **Telas na cama** — Treina o cérebro para associar cama a sono.
+- **Horário inconsistente** — O ritmo circadiano precisa de consistência.
+- **Ignorando o sono para treinar** — Trocar qualidade por quantidade
 :::
 
-## Action Steps
+## Passos a seguir
 
-1. **This week:** Track your actual sleep (duration + quality)
-2. **Next week:** Establish consistent wake time
-3. **Following weeks:** Optimize environment and routine
-4. **Pre-competition:** Implement the competition week protocol
+1. **Esta semana:** Monitore seu sono real (duração + qualidade)
+2. **Na próxima semana:** Estabeleça um horário de despertar consistente.
+3. **Semanas seguintes:** Otimizar o ambiente e a rotina
+4. **Pré-competição:** Implementar o protocolo da semana de competição
 
 ---
 
-## Related Content
+## Conteúdo relacionado
 
-- [Sleep & Recovery Module](/pt/education/sleep/) — Complete sleep education
-- [Sleep Habits](/pt/education/sleep/habits) — Building sustainable routines
-- [Competition Sleep](/pt/education/sleep/competition) — Event-specific protocols
+- [Módulo de Sono e Recuperação](/en/education/sleep/) — Educação completa sobre o sono
+- [Hábitos de Sono](/en/education/sleep/habits) — Construindo rotinas sustentáveis
+- [Sono de Competição](/en/education/sleep/competition) — Protocolos específicos para cada evento
 

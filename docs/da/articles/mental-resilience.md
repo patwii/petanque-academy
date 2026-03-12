@@ -3,32 +3,32 @@ title: Mental Resilience in Pétanque
 description: Build the mental toughness to bounce back from setbacks, maintain confidence through adversity, and perform consistently under pressure.
 ---
 
-# Mental Resilience in Pétanque
+# Mental robusthed i Petanque
 
-> "Resilience isn't about never falling — it's about how quickly you get back up."
+> &quot;Modstandsdygtighed handler ikke om aldrig at falde – det handler om, hvor hurtigt du rejser dig igen.&quot;
 
-In pétanque, where momentum shifts rapidly and single throws can change everything, mental resilience often determines who wins.
+I petanque, hvor momentum skifter hurtigt, og enkelte kast kan ændre alt, er det ofte mental robusthed, der afgør, hvem der vinder.
 
-::: tip The Resilience Truth
-**Every elite player has bad moments.** What separates them is recovery speed — minutes, not matches.
+::: tip Sandheden om modstandsdygtighed
+**Enhver elitespiller har dårlige øjeblikke.** Det, der adskiller dem, er restitutionshastigheden – minutter, ikke kampe.
 :::
 
 ---
 
-## What Is Mental Resilience?
+## Hvad er mental modstandsdygtighed?
 
 ```mermaid
 flowchart TD
-    A[Setback Occurs] --> B{Resilient?}
+    A[Tilbageslag opstår] --> B{Resilient?}
 
-    B -->|Yes| C[Accept → Learn → Reset]
-    B -->|No| D[Frustration → Tension → More Errors]
+    B -->|Yes| C[Accepter → Lær → Nulstil]
+    B -->|No| D[Frustration → Spænding → Flere fejl]
 
-    C --> E[Quick Recovery]
-    D --> F[Spiral Down]
+    C --> E[Hurtig bedring]
+    D --> F[Spiral ned]
 
-    E --> G[Performance Maintained]
-    F --> H[Performance Collapses]
+    E --> G[Ydeevne vedligeholdt]
+    F --> H[Præstationskollapser]
 
     style A fill:#FF9800,color:#fff
     style E fill:#4CAF50,color:#fff
@@ -37,194 +37,194 @@ flowchart TD
     style H fill:#f44336,color:#fff
 ```
 
-Mental resilience is the ability to:
-- Recover quickly from setbacks
-- Maintain effort despite difficulties
-- Adapt to changing circumstances
-- Stay confident through adversity
-- Learn from failures without being defined by them
+Mental robusthed er evnen til at:
+- Kom hurtigt over tilbageslag
+- Hold indsatsen trods vanskeligheder
+- Tilpas dig til skiftende omstændigheder
+- Bevar selvtilliden gennem modgang
+- Lær af fejltagelser uden at blive defineret af dem
 
 ---
 
-## Why Resilience Matters in Pétanque
+## Hvorfor modstandsdygtighed er vigtig i petanque
 
-Pétanque tests resilience constantly:
+Petanque tester modstandskraft konstant:
 
-| Challenge | Resilient Response | Non-Resilient Response |
+| Udfordring | Modstandsdygtig respons | Ikke-elastisk respons |
 |-----------|-------------------|------------------------|
-| Perfect point gets shot | "Next throw" | "Unfair!" |
-| Miss an "easy" shot | "Reset, move on" | "I always choke" |
-| Opponents come back | "Stay focused" | "We're going to lose" |
-| Teammate struggles | "Support them" | "They're ruining it" |
+| Perfekt point bliver skudt | &quot;Næste kast&quot; | &quot;Urimelig!&quot; |
+| Misser et &quot;let&quot; skud | &quot;Nulstil, kom videre&quot; | &quot;Jeg kvæles altid&quot; |
+| Modstanderne kommer tilbage | &quot;Hold fokus&quot; | &quot;Vi kommer til at tabe&quot; |
+| Holdkammerater kæmper | &quot;Støt dem&quot; | &quot;De ødelægger det&quot; |
 
 ---
 
-## The Resilience Mindset
+## Modstandsdygtighedstankegangen
 
-### Fixed vs. Growth Mindset
+### Fikseret vs. væksttankegang
 
-| Fixed Mindset | Growth Mindset |
+| Fastlåst tankegang | Væksttankegang |
 |---------------|----------------|
-| "I missed because I'm not good enough" | "I missed — what can I learn?" |
-| "I can't handle pressure" | "I'm learning to handle pressure" |
-| "Failure means I'm a failure" | "Failure means I'm growing" |
+| &quot;Jeg gik glip af det, fordi jeg ikke er god nok&quot; | &quot;Jeg gik glip af det – hvad kan jeg lære?&quot; |
+| &quot;Jeg kan ikke klare presset&quot; | &quot;Jeg lærer at håndtere pres&quot; |
+| &quot;Fiasko betyder, at jeg er en fiasko&quot; | &quot;Fiasko betyder, at jeg vokser&quot; |
 
-::: info Key Insight
-**Resilient players see setbacks as information, not identity.**
+::: info Vigtig indsigt
+**Modstandsdygtige spillere ser tilbageslag som information, ikke identitet.**
 :::
 
-### Controllables Focus
+### Kontrollerbare fokus
 
-Resilient players focus on what they can control:
-- Their preparation
-- Their effort
-- Their attitude
-- Their response to events
+Modstandsdygtige spillere fokuserer på, hvad de kan kontrollere:
+- Deres forberedelse
+- Deres indsats
+- Deres holdning
+- Deres reaktion på begivenhederne
 
-They release what they can't control:
-- Opponents' performance
-- Weather conditions
-- Lucky or unlucky bounces
-- Others' opinions
+De slipper det, de ikke kan kontrollere:
+- Modstandernes præstation
+- Vejrforhold
+- Heldige eller uheldige hopper
+- Andres meninger
 
-### Long-Term Perspective
+### Langsigtet perspektiv
 
-One throw, one match, one tournament — none define your career. Resilient players maintain perspective:
-- "This is one moment in a long journey"
-- "I've overcome setbacks before"
-- "This will make me stronger"
+Et kast, én kamp, én turnering – intet definerer din karriere. Modstandsdygtige spillere bevarer perspektivet:
+- &quot;Dette er ét øjeblik på en lang rejse&quot;
+- &quot;Jeg har overvundet modgang før&quot;
+- &quot;Dette vil gøre mig stærkere&quot;
 
-## Building Resilience
+## Opbygning af modstandsdygtighed
 
-### 1. Develop a Strong Foundation
+### 1. Udvikl et stærkt fundament
 
-Resilience is easier when you have:
-- **Solid technique**: Confidence in your abilities
-- **Physical fitness**: Energy to sustain effort
-- **Mental skills**: Tools for managing adversity
-- **Support network**: People who believe in you
+Modstandsdygtighed er lettere, når du har:
+- **Solid teknik**: Tillid til dine evner
+- **Fysisk form**: Energi til at opretholde indsatsen
+- **Mentale færdigheder**: Værktøjer til at håndtere modgang
+- **Støttenetværk**: Mennesker, der tror på dig
 
-### 2. Practice Adversity
+### 2. Øv dig i modgang
 
-You can't build resilience without facing challenges:
-- Train in difficult conditions
-- Practice when tired
-- Compete against better players
-- Put yourself in pressure situations
+Du kan ikke opbygge modstandsdygtighed uden at møde udfordringer:
+- Træn under vanskelige forhold
+- Øv dig når du er træt
+- Konkurrer mod bedre spillere
+- Sæt dig selv i pressede situationer
 
-### 3. Develop Recovery Routines
+### 3. Udvikl rutiner for restitution
 
-Create rituals for bouncing back:
+Skab ritualer for at komme tilbage:
 
-**Physical reset:**
-- Deep breath
-- Shake out tension
-- Change posture
+**Fysisk nulstilling:**
+- Dyb indånding
+- Ryst spændingerne ud
+- Skift kropsholdning
 
-**Mental reset:**
-- Acknowledge the setback
-- Extract any lesson
-- Refocus on the present
+**Mental nulstilling:**
+- Anerkend tilbageslaget
+- Uddrag enhver lektion
+- Fokuser på nutiden
 
-### 4. Build a Resilience Bank
+### 4. Byg en robusthedsbank
 
-Keep a mental record of times you've overcome adversity:
-- Comebacks you've made
-- Challenges you've faced
-- Growth you've achieved
+Hold mentale optegnelser over de gange, du har overvundet modgang:
+- Comebacks du har lavet
+- Udfordringer du har stået over for
+- Den vækst, du har opnået
 
-Draw on these memories when current challenges feel overwhelming.
+Træk på disse minder, når aktuelle udfordringer føles overvældende.
 
-## Resilience in Action
+## Modstandsdygtighed i praksis
 
-### After a Missed Shot
+### Efter et misset skud
 
-1. **Accept**: "That happened"
-2. **Breathe**: One deep breath
-3. **Learn**: Quick assessment (if useful)
-4. **Release**: Let it go
-5. **Refocus**: Next opportunity
+1. **Accepter**: &quot;Det skete&quot;
+2. **Træk vejret**: En dyb indånding
+3. **Lær**: Hurtig vurdering (hvis nyttig)
+4. **Slip**: Slip det
+5. **Refokusér**: Næste mulighed
 
-### During a Losing Streak
+### Under en taberrække
 
-1. **Perspective**: "Streaks end"
-2. **Process**: Focus on execution, not results
-3. **Patience**: Trust that performance will return
-4. **Persistence**: Keep showing up
+1. **Perspektiv**: &quot;Striberne slutter&quot;
+2. **Proces**: Fokus på udførelse, ikke resultater
+3. **Tålmodighed**: Stol på, at præstationen vender tilbage
+4. **Vedholdenhed**: Bliv ved med at dukke op
 
-### When Opponents Are Dominating
+### Når modstanderne dominerer
 
-1. **Respect**: Acknowledge their good play
-2. **Focus**: Control what you can
-3. **Compete**: Make them earn every point
-4. **Learn**: What can you take from this?
+1. **Respekt**: Anerkend deres gode spil
+2. **Fokus**: Kontroller, hvad du kan
+3. **Konkurrer**: Få dem til at tjene alle point
+4. **Lær**: Hvad kan du lære af dette?
 
-### After a Tough Loss
+### Efter et hårdt nederlag
 
-1. **Feel**: Allow disappointment (briefly)
-2. **Analyze**: What went well? What didn't?
-3. **Extract**: Lessons for next time
-4. **Move on**: Don't carry it forward
+1. **Følelse**: Tillad skuffelse (kort)
+2. **Analysér**: Hvad gik godt? Hvad gik ikke?
+3. **Uddrag**: Lektioner til næste gang
+4. **Kom videre**: Lad være med at føre det fremad
 
-## The Resilience Killers
+## Modstandsdygtighedsdræberne
 
-### Perfectionism
-Expecting perfection guarantees disappointment. Excellence, not perfection, is the goal.
+### Perfektionisme
+At forvente perfektion garanterer skuffelse. Målet er ekspertise, ikke perfektion.
 
-### Catastrophizing
-"I missed that shot, the match is over, I'm terrible." One event doesn't determine everything.
+### Katastroferende
+&quot;Jeg missede det skud, kampen er slut, jeg har det forfærdeligt.&quot; Én begivenhed afgør ikke alt.
 
-### Comparison
-Measuring yourself against others puts your confidence in their hands.
+### Sammenligning
+At måle dig selv med andre sætter din selvtillid i deres hænder.
 
-### Rumination
-Replaying failures doesn't change them — it just extends their impact.
+### Grubleri
+At gentage fiaskoer ændrer dem ikke – det forlænger bare deres indflydelse.
 
-## Team Resilience
+## Holdmodstandsdygtighed
 
-Resilience is contagious — both ways:
+Modstandsdygtighed smitter – begge veje:
 
-**Building team resilience:**
-- Support struggling teammates
-- Celebrate effort, not just results
-- Model resilient responses
-- Maintain positive body language
+**Opbygning af teamets modstandsdygtighed:**
+- Støt holdkammerater, der kæmper
+- Fejr indsatsen, ikke kun resultaterne
+- Modellér robuste reaktioner
+- Bevar et positivt kropssprog
 
-**Protecting against negativity:**
-- Don't join complaint sessions
-- Redirect negative conversations
-- Focus on solutions, not problems
+**Beskyttelse mod negativitet:**
+- Deltag ikke i klagemøder
+- Omdiriger negative samtaler
+- Fokuser på løsninger, ikke problemer
 
-## Long-Term Resilience Development
+## Langsigtet udvikling af modstandsdygtighed
 
-### Daily Practices
-- Gratitude journaling (builds positive perspective)
-- Mindfulness meditation (builds emotional regulation)
-- Physical exercise (builds stress tolerance)
+### Daglige praksisser
+- Taknemmelighedsdagbog (opbygger et positivt perspektiv)
+- Mindfulness-meditation (opbygger følelsesmæssig regulering)
+- Fysisk træning (opbygger stresstolerance)
 
-### Weekly Reflection
-- What challenges did I face?
-- How did I respond?
-- What would I do differently?
-- What am I proud of?
+### Ugentlig refleksion
+- Hvilke udfordringer stod jeg over for?
+- Hvordan reagerede jeg?
+- Hvad ville jeg gøre anderledes?
+- Hvad er jeg stolt af?
 
-### Seasonal Review
-- Major setbacks and how I handled them
-- Growth in resilience capacity
-- Areas for continued development
+### Sæsonbestemt anmeldelse
+- Store tilbageslag og hvordan jeg håndterede dem
+- Vækst i modstandsdygtighedskapacitet
+- Områder til fortsat udvikling
 
-## The Resilient Competitor
+## Den robuste konkurrent
 
-The most resilient competitors share traits:
-- They expect challenges and prepare for them
-- They see setbacks as temporary and specific
-- They maintain effort when results lag
-- They learn from every experience
-- They keep perspective on what matters
+De mest robuste konkurrenter deler følgende træk:
+- De forventer udfordringer og forbereder sig på dem
+- De ser tilbageslag som midlertidige og specifikke
+- De opretholder indsatsen, når resultaterne halter
+- De lærer af enhver oplevelse
+- De bevarer perspektivet på det, der er vigtigt
 
-Resilience isn't a trait you have or don't have — it's a skill you build through practice and intention.
+Modstandsdygtighed er ikke en egenskab, du har eller ikke har – det er en færdighed, du opbygger gennem øvelse og intention.
 
 ---
 
-*Related: [Mental Strength](/da/education/mental-game/mental-strength/) | [Handling Pressure](/da/education/mental-game/mental-strength/handling-pressure) | [The Zone](/da/education/mental-game/the-zone/)*
+| *Relateret: [Mental styrke](/da/uddannelse/mentalt-spil/mental-styrke/) | [Håndtering af pres](/da/uddannelse/mentalt-spil/mental-styrke/håndtering-af-pres) | [Zonen](/da/uddannelse/mentalt-spil/zonen/)* |
 

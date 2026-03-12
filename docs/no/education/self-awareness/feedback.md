@@ -3,225 +3,225 @@ title: Getting and Using Feedback
 description: Learn to seek, receive, and integrate objective feedback to accelerate your pétanque improvement.
 ---
 
-# Getting and Using Feedback
+# Få og bruke tilbakemeldinger
 
-Feedback is one of the most powerful tools for development—and one of the most underused. This page teaches you how to actively seek feedback, receive it constructively, and turn it into actionable improvement.
+Tilbakemeldinger er et av de kraftigste verktøyene for utvikling – og et av de mest underutnyttede. Denne siden lærer deg hvordan du aktivt søker tilbakemeldinger, mottar dem konstruktivt og gjør dem om til handlingsrettet forbedring.
 
 ---
 
-## Why We Resist Feedback
+## Hvorfor vi motsetter oss tilbakemeldinger
 
-Before learning to seek feedback, understand why it's hard:
+Før du lærer å søke tilbakemeldinger, bør du forstå hvorfor det er vanskelig:
 
-### Ego Protection
+### Egobeskyttelse
 
-Your brain treats criticism of your performance as a threat to your identity. This triggers defensive responses:
-- Dismissing the feedback
-- Finding reasons why the person is wrong
-- Avoiding similar situations in the future
+Hjernen din behandler kritikk av prestasjonene dine som en trussel mot identiteten din. Dette utløser defensive reaksjoner:
+- Avviser tilbakemeldingen
+- Å finne grunner til hvorfor personen tar feil
+- Unngå lignende situasjoner i fremtiden
 
-### Confirmation Bias
+### Bekreftelsesskjevhet
 
-We naturally seek information that confirms what we already believe. If you think you're a good pointer, you'll notice your successful points and explain away the misses.
+Vi søker naturligvis informasjon som bekrefter det vi allerede tror. Hvis du tror du er en god peker, vil du legge merke til dine vellykkede poeng og bortforklare feilene.
 
-### The Growth Mindset Shift
+### Veksttankegangskiftet
 
-::: tip Reframe Feedback
-**Fixed mindset:** "Criticism means I'm flawed"
-**Growth mindset:** "Feedback is information that helps me improve"
+::: tip Omformuler tilbakemeldinger
+**Fastlåst tankesett:** «Kritikk betyr at jeg har feil»
+**Veksttankegang:** «Tilbakemeldinger er informasjon som hjelper meg å forbedre meg»
 
-The difference isn't positivity—it's accuracy. Feedback is data, not judgment.
+Forskjellen er ikke positivitet – det er nøyaktighet. Tilbakemelding er data, ikke vurdering.
 :::
 
 ---
 
-## Sources of Objective Feedback
+## Kilder til objektiv tilbakemelding
 
-### 1. Quantitative Data
+### 1. Kvantitative data
 
-Numbers don't lie or soften the truth:
+Tall lyver ikke eller myker opp sannheten:
 
-| Metric | What It Reveals |
+| Metrisk | Hva det avslører |
 |--------|-----------------|
-| **Pointing accuracy %** | Technical baseline and trends |
-| **First vs. late game accuracy** | Fatigue/pressure effects |
-| **Shooting success rate** | By distance, target type, match situation |
-| **Carreau percentage** | Risk-taking effectiveness |
+| **Pekepresisjon %** | Teknisk grunnlinje og trender |
+| **Nøyaktighet i første vs. sent spill** | Tretthets-/trykkeffekter |
+| **Suksessrate for skyting** | Etter avstand, måltype, kampsituasjon |
+| **Carreau-prosent** | Effektivitet ved risikotaking |
 
-### 2. Teammates
+### 2. Lagkamerater
 
-Your teammates see you in competition—when your self-perception is least accurate:
+Lagkameratene dine ser deg i konkurranse – når selvoppfatningen din er minst nøyaktig:
 
-**What to ask:**
-- "How do I seem to you when we're behind?"
-- "What do you notice about my approach in close games?"
-- "What's one thing I could do to be a better teammate?"
+**Hva du bør spørre om:**
+- «Hvordan fremstår jeg for deg når vi ligger bak?»
+- «Hva legger du merke til med tilnærmingen min i jevne kamper?»
+- «Hva er én ting jeg kunne gjort for å bli en bedre lagkamerat?»
 
-### 3. Opponents
+### 3. Motstandere
 
-Post-match conversations with trusted opponents can be revealing:
+Samtaler etter kamp med pålitelige motstandere kan være avslørende:
 
-**What to ask:**
-- "What were you trying to exploit in my game?"
-- "Was there anything that surprised you about how I played?"
+**Hva du bør spørre om:**
+- «Hva prøvde du å utnytte i spillet mitt?»
+- «Var det noe som overrasket deg med måten jeg spilte på?»
 
-### 4. Coaches/Experienced Players
+### 4. Trenere/Erfarne spillere
 
-External expertise provides perspective you can't generate yourself:
+Ekstern ekspertise gir perspektiver du ikke kan generere selv:
 
-**What to ask:**
-- "What's the biggest gap between my potential and my current performance?"
-- "What pattern do you see in my misses?"
-- "What would you prioritize if you were coaching me?"
+**Hva du bør spørre om:**
+- «Hva er det største gapet mellom potensialet mitt og min nåværende prestasjon?»
+- «Hvilket mønster ser du i bommene mine?»
+- «Hva ville du prioritert hvis du skulle trene meg?»
 
-### 5. Video Analysis
+### 5. Videoanalyse
 
-The most objective mirror available. See [Video Analysis](/no/education/self-awareness/video) for detailed protocols.
+Det mest objektive speilet som er tilgjengelig. Se [Videoanalyse](/no/utdanning/selvbevissthet/video) for detaljerte protokoller.
 
 ---
 
-## How to Ask for Feedback Effectively
+## Hvordan be om tilbakemelding effektivt
 
-### The SEEK Framework
+### SEEK-rammeverket
 
-**S - Specific**
-Don't ask: "How did I play?"
-Ask: "How did my pointing accuracy look in the third end when we were behind?"
+**S - Spesifikk**
+Ikke spør: «Hvordan spilte jeg?»
+Spør: «Hvordan så pekepresisjonen min ut i tredje omgang da vi lå bak?»
 
-**E - Examples**
-Ask: "Can you give me a specific example?"
-This forces concrete feedback instead of generalizations.
+**E - Eksempler**
+Spør: «Kan du gi meg et konkret eksempel?»
+Dette tvinger frem konkrete tilbakemeldinger i stedet for generaliseringer.
 
-**E - Exploratory**
-Approach with curiosity, not defense.
-"I'm trying to understand my blind spots. What might I be missing?"
+**E - Utforskende**
+Tilnærming med nysgjerrighet, ikke forsvar.
+«Jeg prøver å forstå mine blindsoner. Hva kan jeg gå glipp av?»
 
-**K - Kind (to yourself)**
-Remember: Seeking feedback is brave. You're doing hard work.
+**K - Snill (mot deg selv)**
+Husk: Det er modig å søke tilbakemeldinger. Du jobber hardt.
 
-### Timing Matters
+### Timing er viktig
 
-| When | Best For | Avoid |
+| Når | Best for | Unngå |
 |------|----------|-------|
-| **Immediately after** | Specific technical observations | Emotional processing |
-| **Next day** | Balanced perspective, patterns | If details have faded |
-| **Video review** | Objective analysis | If it delays action too long |
+| **Rett etter** | Spesifikke tekniske observasjoner | Emosjonell bearbeiding |
+| **Neste dag** | Balansert perspektiv, mønstre | Hvis detaljene har falmet |
+| **Videoanmeldelse** | Objektiv analyse | Hvis det forsinker handlingen for lenge |
 
 ---
 
-## Receiving Feedback Without Defensiveness
+## Motta tilbakemeldinger uten forsvarsbevegelser
 
-When feedback arrives, your brain will want to defend. Here's how to override that:
+Når tilbakemeldinger kommer, vil hjernen din ønske å forsvare seg. Slik overstyrer du det:
 
-### The 3-Second Rule
+### 3-sekundersregelen
 
-When you receive feedback, **wait 3 seconds before responding**. This gives your rational brain time to engage before your emotional brain reacts.
+Når du mottar tilbakemeldinger, **vent i 3 sekunder før du svarer**. Dette gir den rasjonelle hjernen din tid til å engasjere seg før den emosjonelle hjernen din reagerer.
 
-### The "Tell Me More" Technique
+### «Fortell meg mer»-teknikken
 
-Instead of defending, say: "Tell me more about that."
+I stedet for å forsvare, si: «Fortell meg mer om det.»
 
-This:
-- Buys processing time
-- Shows you value the input
-- Often reveals the root insight
+Dette:
+- Kjøper behandlingstid
+- Viser at du verdsetter innspillet
+- Avslører ofte rotinnsikten
 
-### Separate Reception from Evaluation
+### Separat mottakelse fra evaluering
 
-**Step 1:** Receive (just listen)
-**Step 2:** Clarify (make sure you understand)
-**Step 3:** Thank (acknowledge the gift)
-**Step 4:** Evaluate (later, privately decide what to act on)
+**Trinn 1:** Motta (bare lytt)
+**Trinn 2:** Avklar (sørg for at du forstår)
+**Trinn 3:** Takk (anerkjenn gaven)
+**Trinn 4:** Evaluer (senere, bestem deg privat for hva du skal gjøre)
 
-You don't have to agree with feedback immediately. You just have to receive it with openness.
-
----
-
-## The Feedback Response Protocol
-
-Use this when receiving feedback:
-
-1. **"Thank you for telling me that."**
-   - Genuine appreciation, even if the feedback stings
-
-2. **"Can you give me a specific example?"**
-   - Moves from general to actionable
-
-3. **"What would you suggest I try?"**
-   - Invites partnership in improvement
-
-4. **"I'm going to think about that."**
-   - Honest commitment without immediate agreement
+Du trenger ikke å være enig i tilbakemeldinger umiddelbart. Du må bare motta dem med åpenhet.
 
 ---
 
-## Turning Feedback into Action
+## Protokollen for tilbakemeldingsrespons
 
-Feedback without action is just uncomfortable conversation.
+Bruk dette når du mottar tilbakemeldinger:
 
-### The Feedback-to-Action Process
+1. **&quot;Takk for at du fortalte meg det.&quot;**
+   - Ekte takknemlighet, selv om tilbakemeldingene svir
+
+2. **&quot;Kan du gi meg et konkret eksempel?&quot;**
+   - Går fra generelt til handlingsrettet
+
+3. **&quot;Hva ville du foreslått at jeg prøver?&quot;**
+   - Inviterer til partnerskap for forbedring
+
+4. **&quot;Jeg skal tenke på det.&quot;**
+   - Ærlig forpliktelse uten umiddelbar avtale
+
+---
+
+## Gjør tilbakemeldinger om til handling
+
+Tilbakemeldinger uten handling er bare ubehagelig samtale.
+
+### Tilbakemelding-til-handling-prosessen
 
 ```mermaid
 flowchart LR
-    A[Receive Feedback] --> B[Clarify Understanding]
-    B --> C[Identify Pattern]
-    C --> D[Design Practice]
-    D --> E[Implement]
-    E --> F[Seek Follow-up Feedback]
+    A[Motta tilbakemelding] --> B[Avklar forståelsen]
+    B --> C[Identifiser mønster]
+    C --> D[Designpraksis]
+    D --> E[Implementer]
+    E --> F[Søk oppfølgingstilbakemeldinger]
     F --> A
 ```
 
-### Action Template
+### Handlingsmal
 
-For each piece of actionable feedback:
+For hver handlingsrettet tilbakemelding:
 
-| Element | Your Response |
+| Element | Ditt svar |
 |---------|---------------|
-| **The Feedback** | (What was said) |
-| **The Pattern** | (What recurring issue does this reveal?) |
-| **The Action** | (What specific thing will you practice?) |
-| **The Measure** | (How will you know if you've improved?) |
-| **The Timeline** | (When will you reassess?) |
+| **Tilbakemeldingene** | (Det som ble sagt) |
+| **Mønsteret** | (Hvilket tilbakevendende problem avslører dette?) |
+| **Handlingen** | (Hva spesifikt skal du øve på?) |
+| **Tiltaket** | (Hvordan vet du om du har blitt bedre?) |
+| **Tidslinjen** | (Når skal du vurdere på nytt?) |
 
 ---
 
-## Creating a Feedback Culture
+## Å skape en tilbakemeldingskultur
 
-### With Your Team
+### Med teamet ditt
 
-- **Normalize it:** Regular feedback becomes expected, not exceptional
-- **Two-way street:** Give feedback to receive it comfortably
-- **Timing agreements:** "Let's debrief after matches" vs. unsolicited criticism
-- **Focus on specifics:** "I noticed X" is better than "You always Y"
+- **Normaliser det:** Regelmessig tilbakemelding blir forventet, ikke eksepsjonell
+- **Toveis gate:** Gi tilbakemeldinger for å motta dem på en komfortabel måte
+- **Tidsavtaler:** «La oss debriefe etter kampene» kontra uoppfordret kritikk
+- **Fokuser på detaljene:** «Jeg la merke til at X» er bedre enn «Du alltid Y»
 
-### With Yourself
+### Med deg selv
 
-- **Weekly self-review:** Dedicated time to assess your week
-- **Written reflection:** Writing creates clarity
-- **Pattern tracking:** Look for recurring themes across multiple sources
+- **Ukentlig selvevaluering:** Dedikert tid til å evaluere uken din
+- **Skriftlig refleksjon:** Skriving skaper klarhet
+- **Mønstersporing:** Se etter tilbakevendende temaer på tvers av flere kilder
 
 ---
 
-## The Feedback-Resistant Player
+## Den tilbakemeldingsresistente spilleren
 
-If you recognize yourself in any of these, prioritize this work:
+Hvis du kjenner deg igjen i noe av dette, prioriter dette arbeidet:
 
-::: warning Signs of Feedback Resistance
-- You can always explain why the feedback doesn't apply
-- You seek feedback only from people who agree with you
-- You feel attacked when receiving constructive input
-- You avoid people who challenge your self-perception
-- You rationalize poor results as external factors
+::: warning Tegn på tilbakekoblingsmotstand
+- Du kan alltid forklare hvorfor tilbakemeldingen ikke gjelder.
+- Du søker bare tilbakemeldinger fra folk som er enige med deg
+- Du føler deg angrepet når du mottar konstruktive innspill
+- Du unngår folk som utfordrer din selvoppfatning
+- Du rasjonaliserer dårlige resultater som eksterne faktorer
 :::
 
-Breaking these patterns requires conscious effort—but the payoff is accelerated improvement.
+Å bryte disse mønstrene krever bevisst innsats – men gevinsten er akselerert forbedring.
 
 ---
 
-## Related Content
+## Relatert innhold
 
-- [The Self-Awareness Advantage](/no/education/self-awareness/) — Why self-knowledge matters
-- [Video Analysis](/no/education/self-awareness/video) — Objective self-observation
-- [Team Dynamics](/no/education/team-dynamics/) — Communication with teammates
-- [Mental Strength](/no/education/mental-game/mental-strength/) — Handling difficult truths
+- [Fordelen med selvinnsikt](/no/utdanning/selvinnsikt/) — Hvorfor selvinnsikt er viktig
+- [Videoanalyse](/no/utdanning/selvinnsikt/video) — Objektiv selvobservasjon
+- [Teamdynamikk](/no/utdanning/teamdynamikk/) — Kommunikasjon med lagkamerater
+- [Mental styrke](/no/utdanning/mentalt-spill/mental-styrke/) — Håndtering av vanskelige sannheter
 

@@ -50,21 +50,21 @@ Et reelt resultat ser sådan ud:
 - &quot;Jeg vil have et rullende skud, der drejer til venstre i denne type terræn&quot;
 - &quot;Jeg vil have et blødt, devant skud, der næsten ikke rører målkuglen&quot;
 
-**Først skal du udforske [Palette af kast](/da/education/technique/throws)** for at forstå, hvad der er muligt. Beslut derefter, hvilket specifikt kast du vil tilføje til dit repertoire. Først derefter bør du begynde at arbejde med, hvordan din arm, håndled og krop skal bevæge sig for at skabe det resultat.
+**Først skal du udforske [Palette af kast](/da/uddannelse/teknik/kast)** for at forstå, hvad der er muligt. Beslut derefter, hvilket specifikt kast du vil tilføje til dit repertoire. Først derefter bør du begynde at arbejde med, hvordan din arm, håndled og krop skal bevæge sig for at skabe det resultat.**
 
 ## Den rigtige måde at arbejde med teknik på
 
 Vi siger ikke, at du aldrig skal arbejde med din arm, håndled, aflastning eller kropsstilling. **Teknisk arbejde med udførelse er absolut gyldigt** — men det skal have det rigtige formål.
 
 ::: info Det rette formål med teknisk arbejde
-**Korrekt formål:** "Jeg vil tilføje et nyt kast til min repertoire"
+**Korrekt formål:** &quot;Jeg vil gerne tilføje et nyt tæppe til min palet&quot;
 
-**Forkert formål:** "Jeg vil ramme flere skud" eller "Jeg vil være mere konsekvent"
+**Forkert formål:** &quot;Jeg vil gerne score flere gange&quot; eller &quot;Jeg vil gerne være mere konsekvent&quot;
 :::
 
 Her er processen:
 
-1. **Udforsk [Palette af kast](/da/education/technique/throws)** — Identificer hvilket kast eller hvilken teknik du vil tilføje til dit repertoire
+1. **Udforsk [Palette af kast](/da/uddannelse/teknik/kast)** — Identificer hvilket kast eller hvilken teknik du vil tilføje til dit repertoire
 2. **Visualiser resultatet** — Hvad skal kuglen gøre? Hvilken bane, landing, spin og adfærd har du brug for?
 3. **Arbejd derefter på udførelsen** — Nu kan du fokusere på arm, håndled, kropsposition og frigivelse for at opnå det specifikke resultat
 
@@ -119,14 +119,14 @@ Mange erfarne spillere bruger år på at finpudse de teknikker, de allerede har,
 ### Vejen fremad
 
 **For bedre billeder (nye funktioner):**
-- Udforsk [Palette af kast](/da/education/technique/throws)
+- Udforsk [Palette af tæpper](/da/uddannelse/teknik/tæpper)
 - Vælg et specifikt nyt kast at udvikle
 - Øv den tekniske udførelse
 
 **For flere skud (konsistens under pres):**
-- Arbejd med [Mental styrke](/da/education/mental-game/mental-strength/)
-- Lær at få adgang til [Zonen](/da/education/mental-game/the-zone/)
-- Udvikl [Rutiner før indsprøjtning](/da/education/mental-game/mental-strength/rutine-før-indsprøjtning)
+- Arbejd med [Mental styrke](/da/uddannelse/mentalt-spil/mental-styrke/)
+- Lær at få adgang til [Zonen](/da/uddannelse/mentalt-spil/zonen/)
+- Udvikl [Rutiner før skud](/da/uddannelse/mentalt-spil/mental-styrke/rutine-før-skud)
 
 ## Vores perspektiv
 
@@ -159,13 +159,13 @@ Hvis du har et teknisk fokus og ønsker at udvide dit repertoire, skitserer dett
 
 ## Emner
 
-### [Palette af kast](/da/education/technique/throws)
+### [Palette af kast](/da/uddannelse/teknik/kast)
 Hvad er alle de forskellige kast derude? En omfattende oversigt over de tekniske muligheder i petanque.
 
 ::: tip Hvad er det næste efter teknikken?
 Når du først har en solid teknik, kommer den virkelige vækst fra:
-- **[Zonen](/da/education/mental-game/the-zone/)** - Adgang til flowtilstande
-- **[Mental styrke](/da/education/mental-game/mental-strength/)** - Håndtering af pres
-- **[Træningsmetoder](/da/education/technique/training/)** - Sådan træner du effektivt
+- **[Zonen](/da/uddannelse/mentalt-spil/zonen/)** - Adgang til flowtilstande
+- **[Mental styrke](/da/uddannelse/mentalt-spil/mental-styrke/)** - Håndtering af pres
+- **[Træningsmetoder](/da/uddannelse/teknik/træning/)** - Sådan træner du effektivt
 :::
 

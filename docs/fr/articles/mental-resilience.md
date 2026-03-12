@@ -3,32 +3,32 @@ title: Mental Resilience in Pétanque
 description: Build the mental toughness to bounce back from setbacks, maintain confidence through adversity, and perform consistently under pressure.
 ---
 
-# Mental Resilience in Pétanque
+# La résilience mentale à la pétanque
 
-> "Resilience isn't about never falling — it's about how quickly you get back up."
+> « La résilience ne consiste pas à ne jamais tomber, mais à se relever rapidement. »
 
-In pétanque, where momentum shifts rapidly and single throws can change everything, mental resilience often determines who wins.
+À la pétanque, où la dynamique peut basculer rapidement et où un seul lancer peut tout changer, la résilience mentale détermine souvent le vainqueur.
 
-::: tip The Resilience Truth
-**Every elite player has bad moments.** What separates them is recovery speed — minutes, not matches.
+::: tip La vérité sur la résilience
+**Tous les joueurs d&#39;élite connaissent des moments difficiles.** Ce qui les distingue, c&#39;est leur vitesse de récupération — en minutes, pas en matchs.
 :::
 
 ---
 
-## What Is Mental Resilience?
+## Qu&#39;est-ce que la résilience mentale ?
 
 ```mermaid
 flowchart TD
-    A[Setback Occurs] --> B{Resilient?}
+    A[Un revers survient] --> B{Resilient?}
 
-    B -->|Yes| C[Accept → Learn → Reset]
-    B -->|No| D[Frustration → Tension → More Errors]
+    B -->|Yes| C[Accepter → Apprendre → Réinitialiser]
+    B -->|No| D[Frustration → Tension → Plus d&#39;erreurs]
 
-    C --> E[Quick Recovery]
-    D --> F[Spiral Down]
+    C --> E[Rétablissement rapide]
+    D --> F[Dégrincer]
 
-    E --> G[Performance Maintained]
-    F --> H[Performance Collapses]
+    E --> G[Performance maintenue]
+    F --> H[Effondrement des performances]
 
     style A fill:#FF9800,color:#fff
     style E fill:#4CAF50,color:#fff
@@ -37,194 +37,194 @@ flowchart TD
     style H fill:#f44336,color:#fff
 ```
 
-Mental resilience is the ability to:
-- Recover quickly from setbacks
-- Maintain effort despite difficulties
-- Adapt to changing circumstances
-- Stay confident through adversity
-- Learn from failures without being defined by them
+La résilience mentale est la capacité à :
+- Se remettre rapidement des revers
+- Poursuivre les efforts malgré les difficultés
+- S&#39;adapter aux circonstances changeantes
+- Gardez confiance face à l&#39;adversité
+- Tirez des leçons de vos échecs sans vous laisser définir par eux.
 
 ---
 
-## Why Resilience Matters in Pétanque
+## Pourquoi la résilience est importante en pétanque
 
-Pétanque tests resilience constantly:
+La pétanque teste constamment sa résilience :
 
-| Challenge | Resilient Response | Non-Resilient Response |
+| Défi | Réponse résiliente | Réponse non résiliente |
 |-----------|-------------------|------------------------|
-| Perfect point gets shot | "Next throw" | "Unfair!" |
-| Miss an "easy" shot | "Reset, move on" | "I always choke" |
-| Opponents come back | "Stay focused" | "We're going to lose" |
-| Teammate struggles | "Support them" | "They're ruining it" |
+| Point parfait touché | &quot;Prochain lancer&quot; | &quot;Injuste!&quot; |
+| Rater un tir « facile » | &quot;Réinitialiser, passer à autre chose&quot; | «Je m&#39;étouffe toujours» |
+| Les adversaires reviennent | « Restez concentré » | «Nous allons perdre» |
+| Les difficultés des coéquipiers | « Soutenez-les » | « Ils sont en train de tout gâcher » |
 
 ---
 
-## The Resilience Mindset
+## L&#39;état d&#39;esprit de résilience
 
-### Fixed vs. Growth Mindset
+### Mentalité fixe vs. mentalité de croissance
 
-| Fixed Mindset | Growth Mindset |
+| Mentalité fixe | Mentalité de croissance |
 |---------------|----------------|
-| "I missed because I'm not good enough" | "I missed — what can I learn?" |
-| "I can't handle pressure" | "I'm learning to handle pressure" |
-| "Failure means I'm a failure" | "Failure means I'm growing" |
+| « J&#39;ai échoué parce que je ne suis pas assez bon. » | « J’ai raté quelque chose… qu’est-ce que je peux en apprendre ? » |
+| «Je ne supporte pas la pression» | « J&#39;apprends à gérer la pression. » |
+| « L’échec signifie que je suis un échec. » | « L’échec signifie que je grandis » |
 
-::: info Key Insight
-**Resilient players see setbacks as information, not identity.**
+::: info Aperçu clé
+**Les joueurs résilients considèrent les revers comme une information, et non comme une définition de leur identité.**
 :::
 
-### Controllables Focus
+### Concentration des éléments contrôlables
 
-Resilient players focus on what they can control:
-- Their preparation
-- Their effort
-- Their attitude
-- Their response to events
+Les joueurs résilients se concentrent sur ce qu&#39;ils peuvent contrôler :
+- Leur préparation
+- Leur effort
+- Leur attitude
+- Leur réaction aux événements
 
-They release what they can't control:
-- Opponents' performance
-- Weather conditions
-- Lucky or unlucky bounces
-- Others' opinions
+Ils libèrent ce qu&#39;ils ne peuvent pas contrôler :
+- Performance des adversaires
+- conditions météorologiques
+- Rebonds chanceux ou malchanceux
+- Les opinions des autres
 
-### Long-Term Perspective
+### perspective à long terme
 
-One throw, one match, one tournament — none define your career. Resilient players maintain perspective:
-- "This is one moment in a long journey"
-- "I've overcome setbacks before"
-- "This will make me stronger"
+Un lancer, un match, un tournoi : rien ne définit votre carrière. Les joueurs résilients gardent le cap.
+- « Ce n&#39;est qu&#39;un moment d&#39;un long voyage. »
+- « J&#39;ai déjà surmonté des échecs. »
+- « Cela me rendra plus fort »
 
-## Building Resilience
+## Renforcer la résilience
 
-### 1. Develop a Strong Foundation
+### 1. Développer des bases solides
 
-Resilience is easier when you have:
-- **Solid technique**: Confidence in your abilities
-- **Physical fitness**: Energy to sustain effort
-- **Mental skills**: Tools for managing adversity
-- **Support network**: People who believe in you
+La résilience est plus facile quand on a :
+- **Technique solide** : Confiance en ses capacités
+- **Condition physique** : Énergie nécessaire pour soutenir l&#39;effort
+- **Aptitudes mentales** : Outils pour gérer l’adversité
+- **Réseau de soutien** : Les personnes qui croient en vous
 
-### 2. Practice Adversity
+### 2. S&#39;exercer à surmonter l&#39;adversité
 
-You can't build resilience without facing challenges:
-- Train in difficult conditions
-- Practice when tired
-- Compete against better players
-- Put yourself in pressure situations
+On ne peut pas développer sa résilience sans relever de défis :
+- S&#39;entraîner dans des conditions difficiles
+- Pratiquez quand vous êtes fatigué
+- Affrontez des joueurs plus forts
+- Mettez-vous dans des situations de pression.
 
-### 3. Develop Recovery Routines
+### 3. Élaborer des routines de récupération
 
-Create rituals for bouncing back:
+Créez des rituels pour rebondir :
 
-**Physical reset:**
-- Deep breath
-- Shake out tension
-- Change posture
+**Réinitialisation physique :**
+- Respiration profonde
+- Secouez les tensions
+- Changer de posture
 
-**Mental reset:**
-- Acknowledge the setback
-- Extract any lesson
-- Refocus on the present
+**Réinitialisation mentale :**
+- Reconnaître le revers
+- Extraire toute leçon
+- Recentrez-vous sur le présent
 
-### 4. Build a Resilience Bank
+### 4. Constituer une banque de résilience
 
-Keep a mental record of times you've overcome adversity:
-- Comebacks you've made
-- Challenges you've faced
-- Growth you've achieved
+Gardez en mémoire les fois où vous avez surmonté l&#39;adversité :
+- Répliques que vous avez faites
+- Les défis que vous avez rencontrés
+- Croissance que vous avez réalisée
 
-Draw on these memories when current challenges feel overwhelming.
+Puisez dans ces souvenirs lorsque les défis actuels vous semblent insurmontables.
 
-## Resilience in Action
+## La résilience en action
 
-### After a Missed Shot
+### Après un tir manqué
 
-1. **Accept**: "That happened"
-2. **Breathe**: One deep breath
-3. **Learn**: Quick assessment (if useful)
-4. **Release**: Let it go
-5. **Refocus**: Next opportunity
+1. **Accepter** : « C&#39;est arrivé »
+2. **Respirez** : Une respiration profonde
+3. **Apprendre** : Évaluation rapide (si utile)
+4. **Sortie** : Libérée, délivrée
+5. **Recentrage** : Prochaine opportunité
 
-### During a Losing Streak
+### Pendant une série de défaites
 
-1. **Perspective**: "Streaks end"
-2. **Process**: Focus on execution, not results
-3. **Patience**: Trust that performance will return
-4. **Persistence**: Keep showing up
+1. **Perspective** : « Les séries prennent fin »
+2. **Processus** : Privilégiez l’exécution aux résultats.
+3. **Patience** : Ayez confiance, les performances reviendront.
+4. **Persévérance** : Continuez à vous présenter
 
-### When Opponents Are Dominating
+### Lorsque les adversaires dominent
 
-1. **Respect**: Acknowledge their good play
-2. **Focus**: Control what you can
-3. **Compete**: Make them earn every point
-4. **Learn**: What can you take from this?
+1. **Respect** : Reconnaissez leur bon jeu.
+2. **Concentrez-vous** : Maîtrisez ce que vous pouvez.
+3. **Concurrence** : Faites-les mériter chaque point
+4. **À retenir** : Que pouvez-vous en tirer ?
 
-### After a Tough Loss
+### Après une dure perte
 
-1. **Feel**: Allow disappointment (briefly)
-2. **Analyze**: What went well? What didn't?
-3. **Extract**: Lessons for next time
-4. **Move on**: Don't carry it forward
+1. **Ressentir** : Autoriser la déception (brièvement)
+2. **Analyse** : Qu’est-ce qui a bien fonctionné ? Qu’est-ce qui n’a pas fonctionné ?
+3. **Extrait** : Leçons pour la prochaine fois
+4. **Passez à autre chose** : N&#39;en parlez plus tard
 
-## The Resilience Killers
+## Les tueurs de résilience
 
-### Perfectionism
-Expecting perfection guarantees disappointment. Excellence, not perfection, is the goal.
+### le perfectionnisme
+S&#39;attendre à la perfection est la garantie d&#39;être déçu. L&#39;excellence, et non la perfection, est le but à atteindre.
 
-### Catastrophizing
-"I missed that shot, the match is over, I'm terrible." One event doesn't determine everything.
+### catastrophisme
+« J&#39;ai raté ce tir, le match est terminé, je suis nul. » Un seul événement ne détermine pas tout.
 
-### Comparison
-Measuring yourself against others puts your confidence in their hands.
+### Comparaison
+Se comparer aux autres, c&#39;est mettre sa confiance entre leurs mains.
 
 ### Rumination
-Replaying failures doesn't change them — it just extends their impact.
+Rejouer les échecs ne les change pas, cela ne fait qu&#39;amplifier leur impact.
 
-## Team Resilience
+## Résilience d&#39;équipe
 
-Resilience is contagious — both ways:
+La résilience est contagieuse — dans les deux sens :
 
-**Building team resilience:**
-- Support struggling teammates
-- Celebrate effort, not just results
-- Model resilient responses
-- Maintain positive body language
+**Renforcer la résilience de l&#39;équipe :**
+- Soutenir les coéquipiers en difficulté
+- Célébrez les efforts, pas seulement les résultats.
+- Modéliser les réponses résilientes
+- Adoptez un langage corporel positif
 
-**Protecting against negativity:**
-- Don't join complaint sessions
-- Redirect negative conversations
-- Focus on solutions, not problems
+**Se protéger contre la négativité :**
+- Ne participez pas aux séances de plaintes
+- Rediriger les conversations négatives
+- Concentrez-vous sur les solutions, pas sur les problèmes.
 
-## Long-Term Resilience Development
+## Développement de la résilience à long terme
 
-### Daily Practices
-- Gratitude journaling (builds positive perspective)
-- Mindfulness meditation (builds emotional regulation)
-- Physical exercise (builds stress tolerance)
+### Pratiques quotidiennes
+- Tenir un journal de gratitude (développe une perspective positive)
+- La méditation de pleine conscience (favorise la régulation émotionnelle)
+- L&#39;exercice physique (développe la tolérance au stress)
 
-### Weekly Reflection
-- What challenges did I face?
-- How did I respond?
-- What would I do differently?
-- What am I proud of?
+### Réflexion hebdomadaire
+- Quels défis ai-je rencontrés ?
+- Comment ai-je réagi ?
+- Que ferais-je différemment ?
+- De quoi suis-je fier ?
 
-### Seasonal Review
-- Major setbacks and how I handled them
-- Growth in resilience capacity
-- Areas for continued development
+### Revue saisonnière
+- Les principaux revers et comment je les ai gérés
+- Renforcement des capacités de résilience
+- Domaines à poursuivre au développement
 
-## The Resilient Competitor
+## Le concurrent résilient
 
-The most resilient competitors share traits:
-- They expect challenges and prepare for them
-- They see setbacks as temporary and specific
-- They maintain effort when results lag
-- They learn from every experience
-- They keep perspective on what matters
+Les concurrents les plus résilients partagent des caractéristiques communes :
+- Ils anticipent les défis et s&#39;y préparent.
+- Ils considèrent les revers comme temporaires et spécifiques
+- Ils maintiennent leurs efforts même lorsque les résultats tardent à venir.
+- Ils tirent des leçons de chaque expérience.
+- Ils gardent le cap sur ce qui compte vraiment.
 
-Resilience isn't a trait you have or don't have — it's a skill you build through practice and intention.
+La résilience n&#39;est pas une qualité innée, c&#39;est une compétence qui se développe par la pratique et la volonté.
 
 ---
 
-*Related: [Mental Strength](/fr/education/mental-game/mental-strength/) | [Handling Pressure](/fr/education/mental-game/mental-strength/handling-pressure) | [The Zone](/fr/education/mental-game/the-zone/)*
+| *En lien avec : [Force mentale](/en/education/mental-game/mental-strength/) | [Gérer la pression](/en/education/mental-game/mental-strength/handling-pressure) | [La Zone](/en/education/mental-game/the-zone/)* |
 

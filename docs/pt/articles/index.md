@@ -3,91 +3,91 @@ title: Articles
 description: In-depth articles on mental training, performance psychology, and all 8 performance factors for elite pétanque players.
 ---
 
-# Articles
+# Artigos
 
-Research-backed articles to deepen your understanding of elite performance.
-
----
-
-## Featured
-
-### [The Science of Flow States](/pt/articles/flow-state-science)
-What happens in your brain when you're "in the zone"? Understanding flow neuroscience helps you access it consistently.
-
-### [Why Elite Players Need Mental Training](/pt/articles/mental-vs-technical)
-The paradox: as technical skill increases, mental training becomes MORE important.
-
-### [Sleep: The Underrated Factor](/pt/articles/sleep-performance)
-How sleep quality directly impacts precision, decision-making, and consistency.
+Artigos baseados em pesquisas para aprofundar sua compreensão sobre o desempenho de elite.
 
 ---
 
-## By Performance Factor
+## Apresentou
 
-### 🧠 Mental Game
-- [The Science Behind Flow States](/pt/articles/flow-state-science)
-- [Understanding the Inner Critic](/pt/articles/inner-critic)
-- [Building Pre-Shot Routines](/pt/articles/pre-shot-routines)
-- [Pressure Management](/pt/articles/pressure-management)
-- [Mindfulness in Competition](/pt/articles/mindfulness-competition)
+### [A Ciência dos Estados de Fluxo](/en/articles/flow-state-science)
+O que acontece no seu cérebro quando você está &quot;no auge da concentração&quot;? Compreender a neurociência do fluxo ajuda você a acessá-lo de forma consistente.
 
-### 🔥 Motivation
-- [Goal Setting for Elite Athletes](/pt/articles/elite-goal-setting)
-- [Mental Resilience](/pt/articles/mental-resilience)
+### [Por que jogadores de elite precisam de treinamento mental](/en/articles/mental-vs-technical)
+O paradoxo: à medida que a habilidade técnica aumenta, o treinamento mental torna-se MAIS importante.
 
-### 😴 Sleep & Recovery
-- [Sleep: The Underrated Factor](/pt/articles/sleep-performance)
-
-### 🪞 Self-Awareness
-- [Developing Self-Awareness](/pt/articles/self-awareness-development)
-
-### 🤝 Team Dynamics
-- [Communication Under Pressure](/pt/articles/team-communication)
-- [Building Team Chemistry](/pt/articles/team-chemistry)
-- [Leadership in Pétanque](/pt/articles/team-leadership)
-
-### 💆 Tension Management
-- [Tension and Precision](/pt/articles/tension-precision)
-
-### 🥗 Nutrition
-- [Nutrition for Competition](/pt/articles/nutrition-competition)
-
-### 🎯 Training & Technique
-- [5 Mental Training Mistakes](/pt/articles/mental-training-mistakes)
-- [Structuring Your Practice](/pt/articles/practice-structure)
-- [Competition Preparation](/pt/articles/competition-prep)
-- [Why Mental Training Matters](/pt/articles/mental-vs-technical)
+### [Sono: O Fator Subestimado](/en/articles/sleep-performance)
+Como a qualidade do sono impacta diretamente a precisão, a tomada de decisões e a consistência.
 
 ---
 
-## All Articles
+## Por Fator de Desempenho
 
-| Article | Factor |
+### 🧠 Jogo Mental
+- [A Ciência por Trás dos Estados de Fluxo](/en/articles/flow-state-science)
+- [Entendendo o Crítico Interior](/en/articles/inner-critic)
+- [Criando Rotinas Pré-Fotografia](/en/articles/pre-shot-routines)
+- [Gestão de Pressão](/en/articles/pressure-management)
+- [Mindfulness em Competição](/en/articles/mindfulness-competition)
+
+### 🔥 Motivação
+- [Definição de Metas para Atletas de Elite](/en/articles/elite-goal-setting)
+- [Resiliência Mental](/en/articles/mental-resilience)
+
+### 😴 Sono e Recuperação
+- [Sono: O Fator Subestimado](/en/articles/sleep-performance)
+
+### 🪞 Autoconhecimento
+- [Desenvolvendo a Autoconsciência](/en/articles/self-awareness-development)
+
+### 🤝 Dinâmica de Equipe
+- [Comunicação sob pressão](/en/articles/team-communication)
+- [Construindo Química de Equipe](/en/articles/team-chemistry)
+- [Liderança na Petanca](/en/articles/team-leadership)
+
+### 💆 Gestão da Tensão
+- [Tensão e Precisão](/en/articles/tension-precision)
+
+### 🥗 Nutrição
+- [Nutrição para Competição](/en/articles/nutrition-competition)
+
+### 🎯 Treinamento e Técnica
+- [5 erros comuns no treinamento mental](/en/articles/mental-training-mistakes)
+- [Estruturando sua prática](/en/articles/practice-structure)
+- [Preparação para Competição](/en/articles/competition-prep)
+- [Por que o treinamento mental é importante](/en/articles/mental-vs-technical)
+
+---
+
+## Todos os artigos
+
+| Artigo | Fator |
 |---------|--------|
-| [Flow State Science](/pt/articles/flow-state-science) | Mental |
-| [Inner Critic](/pt/articles/inner-critic) | Mental |
-| [Pre-Shot Routines](/pt/articles/pre-shot-routines) | Mental |
-| [Pressure Management](/pt/articles/pressure-management) | Mental |
-| [Mindfulness Competition](/pt/articles/mindfulness-competition) | Mental |
-| [Mental vs Technical](/pt/articles/mental-vs-technical) | Mental |
-| [Elite Goal Setting](/pt/articles/elite-goal-setting) | Motivation |
-| [Mental Resilience](/pt/articles/mental-resilience) | Motivation |
-| [Sleep Performance](/pt/articles/sleep-performance) | Sleep |
-| [Self-Awareness Development](/pt/articles/self-awareness-development) | Self-Awareness |
-| [Team Communication](/pt/articles/team-communication) | Team |
-| [Team Chemistry](/pt/articles/team-chemistry) | Team |
-| [Team Leadership](/pt/articles/team-leadership) | Team |
-| [Tension Precision](/pt/articles/tension-precision) | Tension |
-| [Nutrition Competition](/pt/articles/nutrition-competition) | Nutrition |
-| [Mental Training Mistakes](/pt/articles/mental-training-mistakes) | Training |
-| [Practice Structure](/pt/articles/practice-structure) | Training |
-| [Competition Prep](/pt/articles/competition-prep) | Training |
+| [Ciência do Estado de Fluxo](/en/articles/flow-state-science) | Mental |
+| [Crítico Interior](/en/articles/inner-critic) | Mental |
+| [Rotinas pré-filmagem](/en/articles/pre-shot-routines) | Mental |
+| [Gestão de Pressão](/en/articles/pressure-management) | Mental |
+| [Competição de Mindfulness](/en/articles/mindfulness-competition) | Mental |
+| [Mental vs. Técnico](/en/articles/mental-vs-technical) | Mental |
+| [Definição de Metas de Elite](/en/articles/elite-goal-setting) | Motivação |
+| [Resiliência Mental](/en/articles/mental-resilience) | Motivação |
+| [Desempenho do Sono](/en/articles/sleep-performance) | Dormir |
+| [Desenvolvimento da Autoconsciência](/en/articles/self-awareness-development) | Autoconhecimento |
+| [Comunicação em Equipe](/en/articles/team-communication) | Equipe |
+| [Química de Equipe](/en/articles/team-chemistry) | Equipe |
+| [Liderança de Equipe](/en/articles/team-leadership) | Equipe |
+| [Precisão de tensão](/en/articles/tension-precision) | Tensão |
+| [Competição de Nutrição](/en/articles/nutrition-competition) | Nutrição |
+| [Erros no Treinamento Mental](/en/articles/mental-training-mistakes) | Treinamento |
+| [Estrutura da Prática](/en/articles/practice-structure) | Treinamento |
+| [Preparação para Competição](/en/articles/competition-prep) | Treinamento |
 
 ---
 
-## Related
+## Relacionado
 
-- [🎯 Assessment](/pt/assessment/) — Find your improvement priorities
-- [📚 Education](/pt/education/) — Structured learning modules
-- [📋 Guides](/pt/guides/) — Practical implementation tools
+- [🎯 Avaliação](/en/assessment/) — Descubra suas prioridades de melhoria
+- [📚 Educação](/en/education/) — Módulos de aprendizagem estruturados
+- [📋 Guias](/en/guides/) — Ferramentas práticas de implementação
 

@@ -153,8 +153,8 @@ graph LR
 
 ## Nesta seção
 
-- **[Lidando com a Pressão](/pt/education/mental-game/mental-strength/handling-pressure)** - Técnicas para situações de alto risco
-- **[Rotina Pré-Arremesso](/pt/education/mental-game/mental-strength/pre-shot-routine)** - Construindo seu gatilho de desempenho
+- **[Lidando com a Pressão](/en/education/mental-game/mental-strength/handling-pressure)** - Técnicas para situações de alto risco
+- **[Rotina Pré-Arremesso](/en/education/mental-game/mental-strength/pre-shot-routine)** - Construindo seu gatilho de desempenho
 
 ## Resumo: Regras de Força Mental
 

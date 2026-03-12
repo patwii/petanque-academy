@@ -3,226 +3,226 @@ title: Building Team Chemistry
 description: Develop the intangible bonds that transform individual players into a cohesive pétanque team. Learn how chemistry is built, maintained, and leveraged.
 ---
 
-# Building Team Chemistry
+# Bygga lagkemi
 
-> "You've seen it: teams where the whole exceeds the sum of parts."
+> &quot;Du har sett det: lag där helheten överstiger summan av delarna.&quot;
 
-Players who anticipate each other, support each other, and perform better together than alone. This is team chemistry — and it's not accidental.
+Spelare som förutser varandra, stöttar varandra och presterar bättre tillsammans än ensamma. Det är lagkemin – och det är ingen slump.
 
-::: tip Chemistry Is Built, Not Found
-**Great teams aren't assembled — they're developed.** Chemistry requires intentional effort over time.
+::: tip Kemi byggs, inte hittas
+**Bra team sätts inte ihop – de utvecklas.** Kemi kräver avsiktlig ansträngning över tid.
 :::
 
 ---
 
-## What Is Team Chemistry?
+## Vad är lagkemi?
 
 ```mermaid
 flowchart TD
-    A[Team Chemistry] --> B[Trust]
-    A --> C[Understanding]
-    A --> D[Communication]
-    A --> E[Support]
-    A --> F[Enjoyment]
+    A[Lagkemi] --> B[Förtroende]
+    A --> C[Förståelse]
+    A --> D[Kommunikation]
+    A --> E[Stöd]
+    A --> F[Njutning]
 
-    B --> G[Confidence in abilities]
-    C --> H[Know how teammates think]
-    D --> I[Effective information flow]
-    E --> J[Mutual encouragement]
-    F --> K[Pleasure in playing together]
+    B --> G[Förtroende för förmågor]
+    C --> H[Vet hur lagkamraterna tänker]
+    D --> I[Effektivt informationsflöde]
+    E --> J[Ömsesidig uppmuntran]
+    F --> K[Njutning av att spela tillsammans]
 
     style A fill:#9C27B0,color:#fff
 ```
 
 ---
 
-## Why Chemistry Matters
+## Varför kemi är viktigt
 
-| With Chemistry ✅ | Without Chemistry ❌ |
+| Med kemi ✅ | Utan kemi ❌ |
 |-------------------|----------------------|
-| Make better collective decisions | Blame each other for failures |
-| Recover faster from setbacks | Communicate poorly under stress |
-| Perform consistently under pressure | Underperform relative to talent |
-| Enjoy competition more | Experience conflict and frustration |
-| Stay together longer | Team dissolves |
+| Fatta bättre kollektiva beslut | Skyll på varandra för misslyckanden |
+| Återhämta sig snabbare från motgångar | Kommunicera dåligt under stress |
+| Prestera konsekvent under press | Underpresterar i förhållande till talang |
+| Njut mer av tävlingen | Upplev konflikt och frustration |
+| Hålla tillsammans längre | Teamet upplöses |
 
-## The Building Blocks
+## Byggstenarna
 
-### 1. Shared Goals
+### 1. Gemensamma mål
 
-Chemistry starts with alignment:
-- What are we trying to achieve?
-- What does success look like?
-- What are we willing to sacrifice?
+Kemi börjar med anpassning:
+- Vad försöker vi uppnå?
+- Hur ser framgång ut?
+- Vad är vi villiga att offra?
 
-Teams with conflicting goals (one wants fun, another wants to win at all costs) struggle to build chemistry.
+Lag med motstridiga mål (ett vill ha kul, ett annat vill vinna till varje pris) kämpar med att bygga kemi.
 
-### 2. Role Clarity
+### 2. Rollklarhet
 
-Each player needs to know:
-- What's expected of them
-- How they contribute to team success
-- When to lead and when to follow
+Varje spelare behöver veta:
+- Vad som förväntas av dem
+- Hur de bidrar till lagets framgång
+- När man ska leda och när man ska följa
 
-Unclear roles create friction and resentment.
+Otydliga roller skapar friktion och agg.
 
-### 3. Mutual Respect
+### 3. Ömsesidig respekt
 
-Respect means:
-- Valuing each teammate's contribution
-- Accepting different styles and approaches
-- Treating each other with dignity, especially under pressure
+Respekt betyder:
+- Att värdesätta varje lagkamrats bidrag
+- Att acceptera olika stilar och tillvägagångssätt
+- Att behandla varandra med värdighet, särskilt under press
 
-### 4. Psychological Safety
+### 4. Psykologisk säkerhet
 
-Players need to feel safe to:
-- Make mistakes without harsh judgment
-- Express opinions and concerns
-- Be themselves without pretense
+Spelare behöver känna sig trygga med att:
+- Gör misstag utan hårda dömanden
+- Uttryck åsikter och farhågor
+- Vara sig själva utan anspråk
 
-## Building Chemistry: Practical Steps
+## Byggkemi: Praktiska steg
 
-### Time Together
+### Tid tillsammans
 
-Chemistry requires investment:
-- Practice together regularly
-- Spend time together off the terrain
-- Share experiences beyond pétanque
+Kemi kräver investeringar:
+- Öva tillsammans regelbundet
+- Tillbringa tid tillsammans utanför terrängen
+- Dela erfarenheter bortom petanque
 
-### Structured Team Building
+### Strukturerad teambuilding
 
-Intentional activities help:
-- Team goal-setting sessions
-- Post-match debriefs (constructive)
-- Discussions about playing styles and preferences
+Avsiktliga aktiviteter hjälper till:
+- Målsättningssessioner för teamet
+- Avrapportering efter matchen (konstruktiv)
+- Diskussioner om spelstilar och preferenser
 
-### Conflict Resolution
+### Konfliktlösning
 
-Address issues before they fester:
-- Create space for honest conversation
-- Focus on behaviors, not personalities
-- Seek solutions, not blame
+Ta itu med problemen innan de blir alltmer allvarliga:
+- Skapa utrymme för ärliga samtal
+- Fokusera på beteenden, inte personligheter
+- Sök lösningar, inte skyll
 
-### Celebrate Together
+### Fira tillsammans
 
-Shared joy builds bonds:
-- Acknowledge good performances
-- Celebrate team achievements
-- Mark milestones together
+Delad glädje bygger band:
+- Erkänna bra prestationer
+- Fira lagets prestationer
+- Markera milstolpar tillsammans
 
-## Chemistry Killers
+## Kemi-mördare
 
-### Blame Culture
+### Skuldbeläggande kultur
 
-When mistakes lead to criticism rather than support, trust erodes quickly.
+När misstag leder till kritik snarare än stöd, urholkas förtroendet snabbt.
 
-### Unequal Commitment
+### Ojämlikt engagemang
 
-If some players invest more than others, resentment builds.
+Om vissa spelare investerar mer än andra, byggs förbittring upp.
 
-### Poor Communication
+### Dålig kommunikation
 
-Misunderstandings and assumptions create distance.
+Missförstånd och antaganden skapar distans.
 
-### Ego Conflicts
+### Egokonflikter
 
-When individual recognition matters more than team success, chemistry suffers.
+När individuellt erkännande är viktigare än lagets framgång, blir kemin lidande.
 
-### Unresolved Conflict
+### Olöst konflikt
 
-Issues that aren't addressed don't disappear — they grow.
+Problem som inte åtgärdas försvinner inte – de växer.
 
-## Chemistry in Competition
+## Kemi i tävling
 
-### Before Matches
+### Före matcher
 
-- Arrive together, warm up together
-- Brief team discussion on approach
-- Positive energy and mutual encouragement
+- Kom tillsammans, värm upp tillsammans
+- Kort gruppdiskussion om tillvägagångssätt
+- Positiv energi och ömsesidig uppmuntran
 
-### During Matches
+### Under matcher
 
-- Visible support for each other
-- Constructive communication only
-- Shared celebration of good plays
-- Collective response to setbacks
+- Synligt stöd för varandra
+- Endast konstruktiv kommunikation
+- Gemensamt firande av bra pjäser
+- Kollektiv respons på motgångar
 
-### After Matches
+### Efter matcher
 
-- Win or lose, stay together
-- Brief debrief (what worked, what to improve)
-- Maintain positive relationships regardless of result
+- Vinn eller förlora, håll ihop
+- Kortfattad genomgång (vad fungerade, vad kan förbättras)
+- Behåll positiva relationer oavsett resultat
 
-## Different Personalities
+## Olika personligheter
 
-Strong teams often include different personality types:
+Starka team inkluderar ofta olika personlighetstyper:
 
-- **The Steady One**: Calm under pressure, consistent
-- **The Energizer**: Brings enthusiasm and motivation
-- **The Strategist**: Thinks ahead, sees patterns
-- **The Competitor**: Drives the will to win
+- **Den stadiga**: Lugn under press, konsekvent
+- **Energikällan**: Ger entusiasm och motivation
+- **Strategen**: Tänker framåt, ser mönster
+- **Tävlaren**: Drivkraften att vinna
 
-Chemistry isn't about everyone being the same — it's about differences working together.
+Kemi handlar inte om att alla är likadana – det handlar om att olikheter fungerar tillsammans.
 
-## When Chemistry Is Missing
+## När kemin saknas
 
-### Signs of Poor Chemistry
+### Tecken på dålig kemi
 
-- Visible frustration with teammates
-- Blame after mistakes
-- Lack of communication
-- Playing as individuals, not a team
-- Dreading rather than enjoying matches
+- Synlig frustration med lagkamraterna
+- Skuld efter misstag
+- Brist på kommunikation
+- Spelar som individer, inte som ett lag
+- Att hellre bäva än att njuta av matcher
 
-### Rebuilding Chemistry
+### Återuppbyggnad av kemi
 
-1. **Acknowledge the problem**: Name it openly
-2. **Identify causes**: What's creating the friction?
-3. **Commit to change**: All parties must invest
-4. **Take action**: Specific steps to improve
-5. **Be patient**: Chemistry takes time to rebuild
+1. **Erkänn problemet**: Namnge det öppet
+2. **Identifiera orsaker**: Vad skapar friktionen?
+3. **Åtgärda förändring**: Alla parter måste investera
+4. **Vidta åtgärder**: Specifika steg för att förbättra
+5. **Ha tålamod**: Kemi tar tid att återuppbygga
 
-### When to Move On
+### När man ska gå vidare
 
-Sometimes chemistry can't be fixed:
-- Fundamental value differences
-- Repeated broken trust
-- Unwillingness to change
+Ibland går det inte att lösa kemin:
+- Grundläggande värdeskillnader
+- Upprepade brustna förtroenden
+- Ovilja att förändras
 
-It's okay to recognize when a team isn't working.
+Det är okej att inse när ett team inte fungerar.
 
-## The Captain's Role
+## Kaptenens roll
 
-If you're the team leader:
-- Model the behavior you want to see
-- Address issues early and directly
-- Create opportunities for connection
-- Protect the team culture
-- Balance individual needs with team needs
+Om du är teamledare:
+- Modellera beteendet du vill se
+- Ta itu med problem tidigt och direkt
+- Skapa möjligheter för kontakt
+- Skydda lagkulturen
+- Balansera individuella behov med teamets behov
 
-## Long-Term Chemistry
+## Långsiktig kemi
 
-Chemistry isn't static — it requires maintenance:
+Kemi är inte statisk – den kräver underhåll:
 
-### Regular Check-Ins
+### Regelbundna incheckningar
 
-- How are we functioning as a team?
-- What's working? What isn't?
-- Any issues to address?
+- Hur fungerar vi som ett team?
+- Vad fungerar? Vad fungerar inte?
+- Några problem att åtgärda?
 
-### Continuous Investment
+### Kontinuerliga investeringar
 
-- Keep spending time together
-- Keep communicating openly
-- Keep supporting each other
+- Fortsätt att umgås tillsammans
+- Fortsätt kommunicera öppet
+- Fortsätt stötta varandra
 
-### Adaptation
+### Anpassning
 
-- As players grow and change, so must the team
-- Be willing to evolve roles and dynamics
-- Stay curious about each other
+- I takt med att spelarna växer och förändras, måste även laget göra det.
+- Var beredd att utveckla roller och dynamik
+- Var nyfikna på varandra
 
 ---
 
-*Related: [Team Dynamics](/sv/education/team-dynamics/) | [Communication](/sv/education/team-dynamics/communication) | [Leadership in Pétanque](/sv/articles/team-leadership)*
+| *Relaterat: [Teamdynamik](/sv/utbildning/teamdynamik/) | [Kommunikation](/sv/utbildning/teamdynamik/kommunikation) | [Ledarskap i boule](/sv/artiklar/lagledarskap)* |
 

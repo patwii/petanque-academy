@@ -3,19 +3,19 @@ title: Guides & Tools
 description: Practical guides for implementing mental training in your pétanque journey. From beginner workshops to advanced training camps.
 ---
 
-# Guides & Tools
+# Handleidingen en hulpmiddelen
 
-Practical resources for players, coaches, and clubs to implement structured mental training programs.
+Praktische hulpmiddelen voor spelers, coaches en clubs om gestructureerde mentale trainingsprogramma&#39;s te implementeren.
 
-## Choose Your Format
+## Kies uw formaat
 
 ```mermaid
 graph LR
-    A[Your Level] --> B{Experience?}
-    B -->|New to Mental Training| C[Mental Journey]
+    A[Jouw niveau] --> B{Experience?}
+    B -->|New to Mental Training| C[Mentale reis]
     B -->|Some Experience| D[Workshop]
-    B -->|Ready for Intensive| E[Training Camp]
-    B -->|Regular Training| F[Training Session]
+    B -->|Ready for Intensive| E[Trainingskamp]
+    B -->|Regular Training| F[trainingssessie]
     
     style C fill:#4CAF50,color:#fff
     style D fill:#2196F3,color:#fff
@@ -23,84 +23,84 @@ graph LR
     style F fill:#FF9800,color:#fff
 ```
 
-## Guide Formats
+## Gidsformaten
 
-### 🌱 [Mental Journey](/nl/guides/mental-journey/)
-**For Beginners** — 2-3 hour introduction
+### 🌱 [Mentale Reis](/en/guides/mental-journey/)
+**Voor beginners** — Introductie van 2-3 uur
 
-Perfect for players new to mental training. A gentle introduction to the core concepts with practical exercises.
+Perfect voor spelers die nog niet bekend zijn met mentale training. Een laagdrempelige introductie tot de kernconcepten met praktische oefeningen.
 
-- Duration: 2-3 hours
-- Group size: 4-12 players
-- Materials: Provided
-- [View Guide →](/nl/guides/mental-journey/)
-
----
-
-### 🎯 [Workshop](/nl/guides/workshop/)
-**For Intermediate** — 3-4 hour deep-dive
-
-Structured workshop format for clubs and teams wanting to explore mental training more seriously.
-
-- Duration: 3-4 hours
-- Group size: 6-8 players
-- Includes: Coordinator guide + downloadable materials
-- [View Guide →](/nl/guides/workshop/)
+- Duur: 2-3 uur
+- Groepsgrootte: 4-12 spelers
+- Materialen: Aangeleverd
+- [Bekijk de gids →](/en/guides/mental-journey/)
 
 ---
 
-### 🏕️ [Training Camp](/nl/guides/training-camp/)
-**For Committed Teams** — Weekend intensive
+### 🎯 [Workshop](/en/guides/workshop/)
+**Voor gevorderden** — 3-4 uur durende diepgaande training
 
-Full weekend program mixing theory, practice, and competition. Ideal for teams preparing for important tournaments.
+Gestructureerde workshopvorm voor clubs en teams die zich serieuzer willen verdiepen in mentale training.
 
-- Duration: 2-3 days
-- Group size: 10-20 players
-- Includes: Full program + organizer materials
-- [View Guide →](/nl/guides/training-camp/)
-
----
-
-### 🔄 [Training Session](/nl/guides/training-session/)
-**For Regular Practice** — 2-4 hour structured sessions
-
-Framework for regular training sessions that incorporate mental skills alongside technical practice.
-
-- Duration: 2-4 hours
-- Group size: 4 players (one team)
-- Focus: Competition simulation with reflection
-- [View Guide →](/nl/guides/training-session/)
+- Duur: 3-4 uur
+- Groepsgrootte: 6-8 spelers
+- Inclusief: Coördinatorhandleiding + downloadbaar materiaal
+- [Bekijk de handleiding →](/en/guides/workshop/)
 
 ---
 
-## Templates & Tools
+### 🏕️ [Trainingskamp](/en/guides/training-camp/)
+**Voor toegewijde teams** — Intensief weekendprogramma
 
-Downloadable templates to support your development:
+Een compleet weekendprogramma met een mix van theorie, praktijk en competitie. Ideaal voor teams die zich voorbereiden op belangrijke toernooien.
 
-### 📋 [Goal Template](/nl/guides/templates/goal-template)
-Structured worksheet for setting and tracking your pétanque goals using the SMART framework.
-
-### 📓 [Diary Template](/nl/guides/templates/diary-template)
-Training and competition diary template for tracking progress, insights, and areas for improvement.
+- Duur: 2-3 dagen
+- Groepsgrootte: 10-20 spelers
+- Inclusief: Volledig programma + organisatiemateriaal
+- [Bekijk de handleiding →](/en/guides/training-camp/)
 
 ---
 
-## Which Format Is Right for You?
+### 🔄 [Trainingssessie](/en/guides/training-session/)
+**Voor regelmatige oefening** — gestructureerde sessies van 2-4 uur
 
-| Format | Best For | Time Commitment | Depth |
+Een raamwerk voor regelmatige trainingssessies waarin mentale vaardigheden worden gecombineerd met technische oefeningen.
+
+- Duur: 2-4 uur
+- Groepsgrootte: 4 spelers (één team)
+- Focus: Competitiesimulatie met reflectie
+- [Bekijk de handleiding →](/en/guides/training-session/)
+
+---
+
+## Sjablonen en tools
+
+Downloadbare sjablonen ter ondersteuning van uw ontwikkeling:
+
+### 📋 [Doelsjabloon](/en/guides/templates/goal-template)
+Gestructureerd werkblad voor het vaststellen en bijhouden van je pétanque-doelen met behulp van het SMART-raamwerk.
+
+### 📓 [Dagboeksjabloon](/en/guides/templates/diary-template)
+Sjabloon voor een trainings- en wedstrijddagboek om de voortgang, inzichten en verbeterpunten bij te houden.
+
+---
+
+## Welk formaat past het beste bij jou?
+
+| Formaat | Het beste voor | Tijdsbesteding | Diepte |
 |--------|----------|-----------------|-------|
-| **Mental Journey** | First introduction | 2-3 hours | ⭐ |
-| **Workshop** | Club training days | 3-4 hours | ⭐⭐ |
-| **Training Camp** | Team preparation | Weekend | ⭐⭐⭐ |
-| **Training Session** | Ongoing development | Regular 2-4h | ⭐⭐ |
+| **Mentale reis** | Eerste kennismaking | 2-3 uur | ⭐ |
+| **Workshop** | Club trainingsdagen | 3-4 uur | ⭐⭐ |
+| **Trainingskamp** | Teamvoorbereiding | Weekend | ⭐⭐⭐ |
+| **Trainingssessie** | Voortdurende ontwikkeling | Regelmatig 2-4 uur | ⭐⭐ |
 
-::: tip For Coaches & Club Leaders
-Each guide includes materials for both participants AND facilitators/organizers. Look for the "For Coordinators" sections with downloadable PDFs and presentation slides.
+::: tip Voor coaches en clubleiders
+Elke handleiding bevat materiaal voor zowel deelnemers als begeleiders/organisatoren. Zoek naar de secties &quot;Voor coördinatoren&quot; met downloadbare pdf&#39;s en presentatiesheets.
 :::
 
-## Related Resources
+## Gerelateerde bronnen
 
-- [🎯 Assessment](/nl/assessment/) — Evaluate your 8 factors and find priorities
-- [📚 Education Hub](/nl/education/) — Deep-dive into the 8 performance factors
-- [📝 Articles](/nl/articles/) — Research and insights
+- [🎯 Beoordeling](/en/assessment/) — Evalueer je 8 factoren en bepaal je prioriteiten
+- [📚 Educatiecentrum](/en/education/) — Een diepgaande analyse van de 8 prestatiefactoren
+- [📝 Artikelen](/en/articles/) — Onderzoek en inzichten
 

@@ -3,26 +3,26 @@ title: Communication Under Pressure
 description: Master the art of team communication in high-pressure pétanque situations. Learn what to say, when to say it, and how to support teammates effectively.
 ---
 
-# Communication Under Pressure
+# Kommunikasjon under press
 
-> "The right words at the right moment build confidence. The wrong words can unravel even skilled teams."
+> «De riktige ordene i riktig øyeblikk bygger selvtillit. Feil ord kan ødelegge selv dyktige lag.»
 
-::: tip The Communication Truth
-**Under pressure, less is more.** Clear, concise communication beats lengthy discussions every time.
+::: tip Kommunikasjonssannheten
+**Under press er mindre mer.** Tydelig og konsis kommunikasjon er bedre enn lange diskusjoner hver gang.
 :::
 
 ---
 
-## Why Communication Matters
+## Hvorfor kommunikasjon er viktig
 
 ```mermaid
 flowchart TD
-    A[Effective Communication] --> B[Shared Strategy]
-    A --> C[Mutual Support]
-    A --> D[Quick Decisions]
-    A --> E[Team Resilience]
+    A[Effektiv kommunikasjon] --> B[Delt strategi]
+    A --> C[Gjensidig støtte]
+    A --> D[Raske avgjørelser]
+    A --> E[Teammotstandskraft]
 
-    B --> F[Better Performance]
+    B --> F[Bedre ytelse]
     C --> F
     D --> F
     E --> F
@@ -31,197 +31,197 @@ flowchart TD
     style F fill:#4CAF50,color:#fff
 ```
 
-Pétanque teams face unique challenges:
-- Decisions must be made quickly
-- Pressure affects how we speak and listen
-- Non-verbal cues are visible to opponents
-- Individual performance affects team dynamics
+Petanque-team møter unike utfordringer:
+- Avgjørelser må tas raskt
+- Press påvirker hvordan vi snakker og lytter
+- Ikke-verbale signaler er synlige for motstandere
+- Individuell prestasjon påvirker lagdynamikken
 
 ---
 
-## The Communication Principles
+## Kommunikasjonsprinsippene
 
-### 1. Clarity Over Quantity
+### 1. Klarhet fremfor kvantitet
 
-| ❌ Don't Say | ✅ Say Instead |
+| ❌ Ikke si | ✅ Si i stedet |
 |-------------|---------------|
-| "I think maybe we should try to point here, but I'm not sure..." | "I'll point to the left side. The ground is better there." |
+| «Jeg tror kanskje vi burde prøve å peke her, men jeg er ikke sikker ...» | «Jeg peker mot venstre side. Terrenget er bedre der.» |
 
-### 2. Positive Framing
+### 2. Positiv innramming
 
-| ❌ Negative | ✅ Positive |
+| ❌ Negativ | ✅ Positiv |
 |------------|------------|
-| "Don't miss this one" | "You've got this — trust your throw" |
-| "That was terrible" | "Shake it off, next one" |
+| &quot;Ikke gå glipp av denne&quot; | &quot;Du har dette – stol på kastet ditt&quot; |
+| &quot;Det var forferdelig&quot; | &quot;Rist det av deg, neste&quot; |
 
-### 3. Present Focus
+### 3. Nåværende fokus
 
-::: warning Past vs Present
-**Instead of:** "Why did you throw it there?"
-**Say:** "Okay, what's our best option now?"
+::: warning Fortid vs. nåtid
+**I stedet for:** «Hvorfor kastet du den der?»
+**Si:** «Ok, hva er vårt beste alternativ nå?»
 :::
 
-### 4. Ownership Language
+### 4. Eierskapsspråk
 
-Use "I" statements for your own actions, "we" for team situations:
+Bruk «jeg»-utsagn for dine egne handlinger, «vi» for lagsituasjoner:
 
-- "I'll take this shot"
-- "We need to protect the point"
-- "I think we should..."
+- &quot;Jeg tar dette bildet&quot;
+- «Vi må beskytte poenget»
+- &quot;Jeg synes vi burde...&quot;
 
-## What to Communicate
+## Hva man skal kommunisere
 
-### Before Each End
+### Før hver ende
 
-- **Strategy discussion**: Brief alignment on approach
-- **Role clarity**: Who's doing what
-- **Terrain observations**: Relevant conditions
+- **Strategisk diskusjon**: Kort avstemning om tilnærming
+- **Rolleklarhet**: Hvem gjør hva
+- **Terrengobservasjoner**: Relevante forhold
 
-### During Play
+### Under avspilling
 
-- **Decisions**: Clear statement of intended action
-- **Support**: Encouragement before throws
-- **Information**: Relevant observations about terrain or opponents
+- **Avgjørelser**: Tydelig erklæring om planlagt handling
+- **Støtte**: Oppmuntring før kast
+- **Informasjon**: Relevante observasjoner om terreng eller motstandere
 
-### After Throws
+### Etter kast
 
-- **Acknowledgment**: Brief recognition (good or bad)
-- **Adjustment**: Any strategic changes needed
-- **Reset**: Help teammate refocus
+- **Takk**: Kort anerkjennelse (god eller dårlig)
+- **Justering**: Eventuelle strategiske endringer som trengs
+- **Tilbakestill**: Hjelp lagkamerater med å fokusere på nytt
 
-## What NOT to Communicate
+## Hva man IKKE skal kommunisere
 
-### Avoid During Pressure Moments
+### Unngå pressøyeblikk
 
-- Technical instructions ("Keep your elbow in")
-- Criticism of past throws
-- Expressions of frustration
-- Doubt about teammate's ability
-- Excessive analysis
+- Tekniske instruksjoner («Hold albuen inne»)
+- Kritikk av tidligere kast
+- Uttrykk for frustrasjon
+- Tvil om lagkameratens evner
+- Overdreven analyse
 
-### Avoid in General
+### Unngå generelt
 
-- Blame language
-- Sarcasm or passive aggression
-- Comparisons to other players
-- Predictions of failure
+- Skyldspråk
+- Sarkasme eller passiv aggresjon
+- Sammenligninger med andre spillere
+- Spådommer om fiasko
 
-## Non-Verbal Communication
+## Ikke-verbal kommunikasjon
 
-Your body language speaks loudly:
+Kroppsspråket ditt taler høyt:
 
-### Positive Signals
-- Eye contact with teammates
-- Open, relaxed posture
-- Nodding and acknowledgment
-- Calm, steady movements
+### Positive signaler
+- Øyekontakt med lagkamerater
+- Åpen, avslappet holdning
+- Nikking og bekreftelse
+- Rolige, jevne bevegelser
 
-### Negative Signals (Avoid)
-- Eye rolling or sighing
-- Turning away from teammates
-- Crossed arms or closed posture
-- Visible frustration
+### Negative signaler (unngå)
+- Øynerulling eller sukk
+- Vender seg bort fra lagkameratene
+- Kryssede armer eller lukket holdning
+- Synlig frustrasjon
 
-### Reading Teammates
+### Lesende lagkamerater
 
-Learn to recognize when teammates need:
-- **Space**: They're processing, don't interrupt
-- **Support**: They're struggling, offer encouragement
-- **Information**: They're uncertain, provide clarity
-- **Energy**: They're flat, bring enthusiasm
+Lær å gjenkjenne når lagkamerater trenger:
+- **Mellomrom**: De behandler, ikke avbryt
+- **Støtte**: De sliter, tilby oppmuntring
+- **Informasjon**: De er usikre, gi klarhet
+- **Energi**: De er flate, og gir entusiasme
 
-## Communication Roles
+## Kommunikasjonsroller
 
-### The Pointer
-- Communicate your read of the terrain
-- State your intended placement clearly
-- Ask for input when uncertain
+### Pekeren
+- Kommuniser din forståelse av terrenget
+- Angi tydelig din tiltenkte plassering
+- Be om innspill når du er usikker
 
-### The Shooter
-- Confirm target selection
-- Communicate confidence level
-- Request information about angles
+### Skytteren
+- Bekreft valg av mål
+- Kommuniser konfidensnivå
+- Be om informasjon om vinkler
 
-### The Milieu/Captain
-- Facilitate team discussions
-- Make final decisions when needed
-- Manage team energy and focus
+### Miljøet/Kapteinen
+- Legge til rette for teamdiskusjoner
+- Ta endelige avgjørelser når det er nødvendig
+- Styr teamets energi og fokus
 
-## Pressure Situations
+## Presssituasjoner
 
-### When Behind
+### Når bak
 
-- Stay solution-focused
-- Maintain positive energy
-- Avoid blame or frustration
-- Celebrate small wins
+- Hold deg løsningsfokusert
+- Behold positiv energi
+- Unngå skyld eller frustrasjon
+- Feir små seire
 
-### When Ahead
+### Når du er foran
 
-- Stay focused, avoid complacency
-- Keep communication consistent
-- Don't change what's working
+- Hold fokus, unngå selvtilfredshet
+- Hold kommunikasjonen konsekvent
+- Ikke endre det som fungerer
 
-### Match Point (Theirs)
+### Matchpoeng (deres)
 
-- Acknowledge the pressure briefly
-- Focus on the process
-- Support each other visibly
+- Erkjenn presset kort
+- Fokuser på prosessen
+- Støtt hverandre synlig
 
-### Match Point (Ours)
+### Matchball (vår)
 
-- Stay calm and focused
-- Avoid premature celebration
-- Execute as normal
+- Hold deg rolig og fokusert
+- Unngå for tidlig feiring
+- Utfør som normalt
 
-## Building Communication Skills
+## Bygge kommunikasjonsferdigheter
 
-### In Practice
+### I praksis
 
-- Practice communicating during training
-- Give and receive feedback on communication
-- Experiment with different approaches
+- Øv på kommunikasjon under trening
+- Gi og motta tilbakemeldinger på kommunikasjon
+- Eksperimenter med forskjellige tilnærminger
 
-### Team Agreements
+### Teamavtaler
 
-Establish team norms:
-- How we handle disagreements
-- What support looks like
-- When to speak and when to stay quiet
+Etabler teamnormer:
+- Hvordan vi håndterer uenigheter
+- Hvordan støtte ser ut
+- Når man skal snakke og når man skal tie stille
 
-### Post-Match Review
+### Gjennomgang etter kampen
 
-Discuss communication:
-- What worked well?
-- What could improve?
-- Any misunderstandings to address?
+Diskuter kommunikasjon:
+- Hva fungerte bra?
+- Hva kan forbedres?
+- Noen misforståelser å ta tak i?
 
-## When Communication Breaks Down
+## Når kommunikasjonen bryter sammen
 
-### In the Moment
+### I øyeblikket
 
-1. Take a breath
-2. Reset with a simple statement: "Let's focus on this throw"
-3. Return to basics: clear, positive, present
+1. Ta et pust
+2. Tilbakestill med en enkel setning: «La oss fokusere på dette kastet»
+3. Tilbake til det grunnleggende: tydelig, positiv, tilstede
 
-### After the Match
+### Etter kampen
 
-- Address issues calmly
-- Focus on behaviors, not personalities
-- Agree on improvements
-- Move forward together
+- Ta opp problemene rolig
+- Fokuser på atferd, ikke personlighet
+- Enig om forbedringer
+- Gå videre sammen
 
-## The Silent Support
+## Den stille støtten
 
-Sometimes the best communication is presence:
-- Standing with a struggling teammate
-- A hand on the shoulder
-- A nod of confidence
-- Simply being there
+Noen ganger er den beste kommunikasjonen tilstedeværelse:
+- Står sammen med en lagkamerat som sliter
+- En hånd på skulderen
+- Et nikk av selvtillit
+- Bare det å være der
 
-Words aren't always necessary. Connection is.
+Ord er ikke alltid nødvendige. Tilhørighet er det.
 
 ---
 
-*Related: [Team Dynamics](/no/education/team-dynamics/) | [Communication](/no/education/team-dynamics/communication) | [Handling Pressure](/no/education/mental-game/mental-strength/handling-pressure)*
+| *Relatert: [Teamdynamikk](/no/utdanning/teamdynamikk/) | [Kommunikasjon](/no/utdanning/teamdynamikk/kommunikasjon) | [Håndtering av press](/no/utdanning/mentalt-spill/mental-styrke/håndtering-press)* |
 

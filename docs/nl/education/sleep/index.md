@@ -3,83 +3,83 @@ title: Sleep & Recovery
 description: Optimize your sleep for peak pétanque performance. Learn sleep science, competition protocols, and habits for precision athletes.
 ---
 
-# Sleep & Recovery
+# Slaap en herstel
 
-::: tip A Critical Performance Factor
-**Weight: 400 points** — Sleep is the most underrated factor in precision sports. Your hands, decisions, and emotions all depend on quality rest.
+::: tip Een cruciale prestatiefactor
+**Gewicht: 400 punten** — Slaap is de meest onderschatte factor in precisiesporten. Je handen, beslissingen en emoties zijn allemaal afhankelijk van een goede nachtrust.
 :::
 
-## The Hidden Performance Edge
+## Het verborgen prestatievoordeel
 
-> "The player who slept better often wins."
+> &quot;De speler die het beste geslapen heeft, wint vaak.&quot;
 
-In pétanque, unlike endurance sports where athletes can sometimes "push through" fatigue, **precision is non-negotiable**. Your ability to place a boule within centimeters of the cochonnet depends on systems that are exquisitely sensitive to sleep deprivation:
+Bij pétanque, in tegenstelling tot duursporten waar atleten soms door vermoeidheid heen kunnen &quot;bijten&quot;, is **precisie absoluut noodzakelijk**. Je vermogen om een boule tot op enkele centimeters van het cochonnet te plaatsen, hangt af van systemen die uiterst gevoelig zijn voor slaapgebrek:
 
-- Fine motor control
-- Decision-making under pressure
-- Emotional regulation
-- Memory consolidation
+- Fijne motoriek
+- Besluitvorming onder druk
+- Emotionele regulatie
+- Geheugenconsolidatie
 
-This module reveals why sleep may be your biggest untapped competitive advantage.
+Deze module onthult waarom slaap wel eens uw grootste, nog onbenutte concurrentievoordeel zou kunnen zijn.
 
 ---
 
-## How Sleep Affects Your Game
+## Hoe slaap je spel beïnvloedt
 
-### Hand Steadiness & Motor Control
+### Handstabiliteit en motorische controle
 
-Research shows that fine motor control degrades **10-15% per hour of accumulated sleep debt**. For pétanque players, this manifests as:
+Onderzoek toont aan dat de fijne motoriek met **10-15% per uur slaaptekort** achteruitgaat. Bij pétanque-spelers uit zich dit als volgt:
 
-- **Increased micro-tremors** — Imperceptible to you, but affecting release consistency
-- **Reduced proprioception** — Less awareness of grip pressure and arm position
-- **Slower error correction** — Your body can't make the micro-adjustments that produce accuracy
+- **Verhoogde microtrillingen** — Onmerkbaar voor u, maar beïnvloedt de consistentie van de afgifte
+- **Verminderde proprioceptie** — Minder bewustzijn van de grijpdruk en de armpositie.
+- **Langzamere foutcorrectie** — Je lichaam kan de micro-aanpassingen die nauwkeurigheid mogelijk maken niet uitvoeren.
 
-::: warning Why Pointing Suffers First
-Pointing requires the finest motor control of any shot. It's often the first skill to degrade when you're under-slept—even when you "feel fine."
+::: warning Waarom wijzen als eerste lijdt
+Het richten van een geweer vereist de fijnste motorische controle van alle schoten. Het is vaak de eerste vaardigheid die achteruitgaat bij slaapgebrek, zelfs als je je &quot;prima voelt&quot;.
 :::
 
-### Decision-Making & Tactics
+### Besluitvorming en tactieken
 
-Your prefrontal cortex—responsible for planning, risk assessment, and strategic thinking—is highly sensitive to sleep loss:
+Je prefrontale cortex – verantwoordelijk voor planning, risicobeoordeling en strategisch denken – is zeer gevoelig voor slaapgebrek:
 
-- **Risk assessment becomes impaired** — You may attempt lower-percentage shots
-- **Tactical flexibility decreases** — Harder to adapt mid-game
-- **The "2am decision" phenomenon** — Choices that seem reasonable when tired look questionable in hindsight
+- **Risicobeoordeling raakt verstoord** — U kunt injecties met een lagere slagingskans proberen.
+- **Tactische flexibiliteit neemt af** — Het wordt moeilijker om je tijdens de wedstrijd aan te passen.
+- **Het fenomeen van de &quot;beslissing om 2 uur &#39;s nachts&quot;** — Keuzes die redelijk lijken als je moe bent, blijken achteraf toch twijfelachtig.
 
-### Emotional Regulation
+### Emotionele regulatie
 
-Sleep deprivation causes **hyperactivity in the amygdala**, your brain's emotional center:
+Slaapgebrek veroorzaakt **hyperactiviteit in de amygdala**, het emotionele centrum van je hersenen:
 
-- Pressure feels more intense
-- Frustration after misses is amplified
-- Recovery from setbacks takes longer
-- Team dynamics can suffer from shortened tempers
+- De druk voelt intenser aan.
+- Frustratie na gemiste kansen wordt versterkt.
+- Het herstel na tegenslagen duurt langer.
+- Teamdynamiek kan lijden onder kort lontje.
 
-### Memory Consolidation
+### Geheugenconsolidatie
 
-Motor memory consolidates during sleep—particularly during deep sleep phases:
+Motorisch geheugen consolideert zich tijdens de slaap, met name tijdens de diepe slaapfasen:
 
-- **Practice without sleep = limited retention**
-- **"Sleeping on it" actually works** for technique changes
-- The formula: **Quality Practice + Quality Sleep = Permanent Skill**
+- **Oefenen zonder slaap = beperkt geheugen**
+- **&quot;Er een nachtje over slapen&quot; werkt echt** bij het aanpassen van technieken.
+- De formule: **Goede oefening + Goede slaap = Blijvende vaardigheid**
 
 ---
 
-## The Sleep-Performance Connection
+## Het verband tussen slaap en prestaties
 
 ```mermaid
 flowchart TD
-    A[Sleep Quality] --> B[Hand Steadiness]
-    A --> C[Decision Making]
-    A --> D[Emotional Control]
-    A --> E[Physical Recovery]
+    A[Slaapkwaliteit] --> B[Handstabiliteit]
+    A --> C[Besluitvorming]
+    A --> D[Emotionele controle]
+    A --> E[Fysiek herstel]
 
-    B --> F[Precision]
+    B --> F[Precisie]
     C --> F
     D --> F
-    E --> G[Consistency Over Time]
+    E --> G[Consistentie door de tijd heen]
 
-    F --> H[Match Performance]
+    F --> H[Wedstrijdprestatie]
     G --> H
 
     style A fill:#9C27B0,color:#fff
@@ -88,109 +88,109 @@ flowchart TD
 
 ---
 
-## The Sleep Debt Reality
+## De realiteit van slaaptekort
 
-### What Is Sleep Debt?
+### Wat is slaaptekort?
 
-Sleep debt is **cumulative**. Missing one hour of sleep doesn't just affect that day—it accumulates:
+Slaaptekort is **cumulatief**. Het missen van een uur slaap heeft niet alleen gevolgen voor die dag, maar stapelt zich op:
 
-| Days | Hours Short | Total Debt | Performance Impact |
+| Dagen | Uren kort | Totale schuld | Prestatie-impact |
 |------|-------------|------------|-------------------|
-| 1 | -1 hour | 1 hour | Minimal |
-| 3 | -1 hour/day | 3 hours | Noticeable |
-| 7 | -1 hour/day | 7 hours | Significant |
-| 14 | -1 hour/day | 14 hours | Severe |
+| 1 | -1 uur | 1 uur | Minimaal |
+| 3 | -1 uur/dag | 3 uur | Merkbaar |
+| 7 | -1 uur/dag | 7 uur | Significant |
+| 14 | -1 uur/dag | 14 uur | Streng |
 
-::: danger The Weekend Myth
-You **cannot fully "catch up"** on weekends. While extra sleep helps, it doesn't erase accumulated debt. Consistency is more important than occasional long sleeps.
+::: danger De mythe van het weekend
+Je kunt in het weekend **niet alles inhalen**. Extra slaap helpt weliswaar, maar wist de opgebouwde slaapachterstand niet uit. Consistentie is belangrijker dan af en toe lang uitslapen.
 :::
 
-### How Much Do You Need?
+### Hoeveel heb je nodig?
 
-The "8 hours for everyone" is a myth. Individual needs vary:
+Het idee dat &quot;iedereen 8 uur per dag moet slapen&quot; is een mythe. De behoeften verschillen per persoon:
 
-- **Most adults:** 7-9 hours
-- **Some function well on:** 6-7 hours
-- **Some require:** 9+ hours
+- **De meeste volwassenen:** 7-9 uur
+- **Sommige functioneren goed gedurende:** 6-7 uur
+- **Sommige vereisen:** 9+ uur
 
-**Finding YOUR optimal sleep need:**
-1. During a vacation (no alarm), let yourself sleep naturally for 5-7 days
-2. After the initial "catch-up" phase, note how long you sleep
-3. That's likely close to your biological need
+**Ontdek JOUW optimale slaapbehoefte:**
+1. Tijdens een vakantie (zonder wekker) kunt u 5 tot 7 dagen lang op natuurlijke wijze slapen.
+2. Noteer na de eerste inhaalfase hoe lang je slaapt.
+3. Dat komt waarschijnlijk overeen met je biologische behoefte.
 
 ---
 
-## The Science in Brief
+## De wetenschap in het kort
 
-### Sleep Stages That Matter
+### Belangrijke slaapfasen
 
-| Stage | Function | Pétanque Relevance |
+| Fase | Functie | Relevantie van pétanque |
 |-------|----------|-------------------|
-| **Deep Sleep (N3)** | Physical recovery, growth hormone | Muscle recovery, energy restoration |
-| **REM Sleep** | Emotional processing, memory consolidation | Motor skill retention, emotional resilience |
-| **Light Sleep (N1-N2)** | Transition, maintenance | Supports overall architecture |
+| **Diepe slaap (N3)** | Fysiek herstel, groeihormoon | Spierherstel, energieaanvulling |
+| **REM-slaap** | Emotionele verwerking, geheugenconsolidatie | Behoud van motorische vaardigheden, emotionele veerkracht |
+| **Lichte slaap (N1-N2)** | Overgang, onderhoud | Ondersteunt de algehele architectuur |
 
-### Key Research Findings
+### Belangrijkste onderzoeksresultaten
 
-1. **Stanford Basketball Study** — Players who extended sleep to 10 hours improved free-throw accuracy by 9% (Mah et al., 2011)
-2. **Tennis Serve Accuracy** — Sleep restriction reduced serve accuracy by 53% (Reyner & Horne, 2013)
-3. **Reaction Time Meta-Analysis** — Even one night of poor sleep slows reaction time by 300% (Lim & Dinges, 2010)
+1. **Stanford basketbalstudie** — Spelers die hun slaapduur verlengden tot 10 uur verbeterden hun nauwkeurigheid bij vrije worpen met 9% (Mah et al., 2011)
+2. **Nauwkeurigheid van de tennisopslag** — Slaapgebrek verminderde de nauwkeurigheid van de opslag met 53% (Reyner &amp; Horne, 2013)
+3. **Meta-analyse van reactietijd** — Zelfs één nacht slecht slapen vertraagt de reactietijd met 300% (Lim &amp; Dinges, 2010)
 
 ---
 
-## Self-Assessment: Your Sleep Reality
+## Zelfevaluatie: Jouw slaaprealiteit
 
-Rate yourself honestly (1-5):
+Geef jezelf een eerlijke beoordeling (1-5):
 
-| Question | Score |
+| Vraag | Score |
 |----------|-------|
-| I get the same amount of sleep most nights | /5 |
-| I fall asleep within 15-20 minutes | /5 |
-| I rarely wake during the night | /5 |
-| I wake feeling refreshed | /5 |
-| I maintain energy throughout the day | /5 |
+| Ik slaap de meeste nachten evenveel. | /5 |
+| Ik val binnen 15-20 minuten in slaap. | /5 |
+| Ik word &#39;s nachts zelden wakker. | /5 |
+| Ik word uitgerust wakker. | /5 |
+| Ik behoud de hele dag door energie. | /5 |
 
-**Scoring:**
-- **20-25:** Excellent sleep habits
-- **15-19:** Good, but room for improvement
-- **10-14:** Sleep is likely affecting your performance
-- **Below 10:** Sleep improvement should be a priority
-
----
-
-## In This Module
-
-### [Competition Sleep Protocols](/nl/education/sleep/competition)
-- The week before competition
-- Travel and time zone management
-- Power napping protocols
-- Emergency "I couldn't sleep" strategies
-
-### [Sleep Hygiene for Athletes](/nl/education/sleep/habits)
-- The 10 sleep fundamentals
-- Evening routine templates
-- The 30-day sleep challenge
-- Troubleshooting common issues
+**Score:**
+- **20-25:** Uitstekende slaapgewoonten
+- **15-19:** Goed, maar er is ruimte voor verbetering.
+- **10-14:** Slaap heeft waarschijnlijk invloed op je prestaties.
+- **Onder de 10:** Verbetering van de slaap zou prioriteit moeten hebben.
 
 ---
 
-## Quick Win: Tonight
+## In deze module
 
-If you do nothing else, implement these two changes tonight:
+### [Slaapprotocollen voor wedstrijden](/en/education/sleep/competition)
+- De week voor de wedstrijd
+- Reis- en tijdzonebeheer
+- Protocollen voor een powernap
+- Noodstrategieën voor &quot;Ik kon niet slapen&quot;
 
-1. **Set a consistent wake time** — Same time tomorrow as today, within 30 minutes
-2. **No screens 30 minutes before bed** — Read, stretch, or prepare for tomorrow instead
-
-These two changes alone can improve sleep quality within days.
+### [Slaaphygiëne voor atleten](/en/education/sleep/habits)
+- De 10 basisprincipes van slaap
+- Sjablonen voor avondroutines
+- De 30-daagse slaapuitdaging
+- Veelvoorkomende problemen oplossen
 
 ---
 
-## Related Factors
+## Snelle winst: Vanavond
 
-Sleep connects to everything else in your performance:
+Als je verder niets doet, voer dan in ieder geval deze twee wijzigingen vanavond nog door:
 
-- [Tension Management](/nl/education/tension/) — PMR and relaxation techniques aid sleep
-- [Nutrition](/nl/education/nutrition/) — Meal timing and blood sugar affect sleep quality
-- [Mental Game](/nl/education/mental-game/) — Sleep supports cognitive function and emotional control
-- [Self-Awareness](/nl/education/self-awareness/) — Recognizing when fatigue is affecting your game
+1. **Stel een vaste wektijd in** — Morgen dezelfde tijd als vandaag, met een marge van maximaal 30 minuten.
+2. **Geen schermen 30 minuten voor het slapengaan** — Lees, rek je uit of bereid je voor op morgen.
+
+Deze twee veranderingen alleen al kunnen de slaapkwaliteit binnen enkele dagen verbeteren.
+
+---
+
+## Gerelateerde factoren
+
+Slaap is verbonden met al het andere dat je prestaties beïnvloedt:
+
+- [Spanningsmanagement](/en/education/tension/) — PMR- en ontspanningstechnieken bevorderen de slaap
+- [Voeding](/en/education/nutrition/) — Maaltijdtiming en bloedsuikerspiegel beïnvloeden de slaapkwaliteit
+- [Mentale Spel](/en/education/mental-game/) — Slaap ondersteunt cognitieve functies en emotionele controle
+- [Zelfbewustzijn](/en/education/self-awareness/) — Herkennen wanneer vermoeidheid je spel beïnvloedt
 

@@ -17,9 +17,9 @@ Enten du er en spiller som ønsker å forbedre ditt mentale spill eller en trene
 | Ressurs | Hensikt | Adgang |
 |----------|---------|--------|
 | **Komme i gang** | Introduksjon til mentale spillkonsepter | [Les nedenfor](#hvorfor-mental-trening-er-viktig) |
-| **Øktguide** | Komplett 2–3 timers workshopguide for fasilitatorer | [Vis guide](/no/guides/mental-journey/session-guide) |
-| **Materialer** | Deltakerveiledninger, lysbilder og arbeidsark | [Se materiale](/no/mental-reise/materialer) |
-| **Relaterte guider** | Avanserte formater | [Workshop](/no/guides/workshop/) • [Treningsleir](/no/guides/training-camp/) |
+| **Øktguide** | Komplett 2–3 timers workshopguide for fasilitatorer | [Vis guide](/no/guider/mental-reise/øktguide) |
+| **Materialer** | Deltakerveiledninger, lysbilder og arbeidsark | [Se materiale](/no/guider/mental-reise/materialer) |
+| **Relaterte guider** | Avanserte formater | [Workshop](/no/guider/workshop/) • [Treningsleir](/no/guider/treningsleir/) |
 
 ## Hvorfor mental trening er viktig
 
@@ -77,23 +77,23 @@ graph TD
 ### Alternativ 1: Selvstudium (for spillere)
 
 **Uke 1: Forstå det grunnleggende**
-1. Les modulen [Sonen](/no/education/mental-game/the-zone/)
+1. Les modulen [Sonen](/no/utdanning/mentalt-spill/sonen/)
 2. Prøv 3-pusteteknikken
 3. Legg merke til når du er i «teknisk modus» kontra «flytmodus»
 
 **Uke 2: Bevisstgjøring**
-1. Les modulen [Mental styrke](/no/education/mental-game/mental-strength/)
+1. Les modulen [Mental styrke](/no/utdanning/mentalt-spill/mental-styrke/)
 2. Identifiser dine indre kritikermønstre
 3. Øv på nøytral observasjon etter feil
 
 **Uke 3: Skape struktur**
-1. Les modulen [Mindfulness](/no/education/mental-game/mindfulness/)
+1. Les modulen [Mindfulness](/no/utdanning/mentalt-spill/mindfulness/)
 2. Start med 5-minutters daglig trening
 3. Utvikle en enkel rutine før inntak
 
 **Uke 4: Integrering**
 1. Bruk rutinen din i praksis
-2. Spor mental ytelse i [Dagbokmal](/no/guides/templates/diary-template)
+2. Spor mental ytelse i [Dagbokmal](/no/guides/templates/dagbokmal)
 3. Sett mentale spillmål ved hjelp av [Målmal](/no/guides/templates/goal-template)
 
 ### Alternativ 2: Gruppeworkshop (for trenere)
@@ -165,21 +165,21 @@ Mental trening erstatter ikke teknisk øvelse. Men det hjelper deg å bruke tekn
 ## Tilgjengelige ressurser
 
 ### For spillere
-- [Utdanningsmoduler](/no/education/) - 8 omfattende guider
-- [Målmal](/no/guides/templates/goal-template) - Strukturer utviklingen din
-- [Dagbokmal](/no/guides/templates/diary-template) - Spor fremgangen din
-- [Casestudier](/no/articles/) - Ekte eksempler
+- [Utdanningsmoduler](/no/utdanning/) - 8 omfattende guider
+- [Målmal](/no/guider/maler/målmal) - Strukturer utviklingen din
+- [Dagbokmal](/no/guider/maler/dagbokmal) - Følg med på fremgangen din
+- [Casestudier](/no/artikler/casestudier) - Ekte eksempler
 
 ### For trenere/guider
-- [Øktguide](/no/guides/mental-journey/session-guide) - Komplett 2-3 timers workshop
-- [Materialer for tilretteleggere](/no/mental-reise/materialer) - Digitale guider og lysbilder
+- [Øktguide](/no/guider/mental-reise/øktguide) - Komplett 2-3 timers workshop
+- [Materialer for tilretteleggere](/no/guider/mental-reise/materialer) - Digitale guider og lysbilder
 - [Workshopguide](/no/guides/workshop/) - Avansert 3-4-timers format
-- [Guide til treningsleir](/no/guides/training-camp/) - Helgeprogram
+- [Guide til treningsleir](/no/guider/treningsleir/) - Helgeprogram
 
 ## Neste trinn
 
 ### For individuelle spillere
-1. **Start med bevissthet** - Les [Sonen](/no/education/mental-game/the-zone/)
+1. **Start med bevissthet** - Les [Sonen](/no/utdanning/mentalt spill/sonen/)
 2. **Prøv én teknikk** - Bruk 3-pustetilbakestillingen denne uken
 3. **Spor opplevelsen din** – Legg merke til hvilke endringer
 4. **Bygg gradvis** - Legg til én ny ferdighet per uke
@@ -195,17 +195,17 @@ Mental trening erstatter ikke teknisk øvelse. Men det hjelper deg å bruke tekn
 
 **Spørsmål om å komme i gang?**
 - E-post: [patrik.wiik@gmail.com](mailto:patrik.wiik@gmail.com)
-- Se [Case-studier](/no/articles/case-studies) for eksempler
+- Se [Case-studier](/en/articles/case-studies) for eksempler
 - Bli med i diskusjonene i klubben din
 
 
 ---
 
 ::: tip Klar til å begynne?
-**Spillere:** Start med modulen [Sonen](/no/education/mental-game/the-zone/)
+**Spillere:** Start med modulen [Sonen](/no/utdanning/mentalt-spill/sonen/)
 
-**Trenere:** Gå til [Øktguide](/no/guides/mental-journey/øktguide)
+**Trenere:** Gå til [Øktguide](/no/guider/mental-reise/øktguide)
 
-**Last ned materialer:** Gå til [Materialer for tilretteleggere](/no/guides/mental-journey/materials)
+**Last ned materiell:** Gå til [Material for veiledere](/no/guides/mental-journey/materials)
 :::
 

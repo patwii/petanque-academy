@@ -255,7 +255,7 @@ På elitnivå är scouting viktigt. Känn dina motståndare innan du spelar.
 
 ## I detta avsnitt
 
-- **[Sannolikhetsbaserade beslut](/sv/education/taktik/sannolikhet)** - Använda matematik för att göra bättre val
+- **[Sannolikhetsbaserade beslut](/sv/utbildning/teknik/taktik/sannolikhet)** - Använda matematik för att göra bättre val
 
 ## Sammanfattning: Alla taktiska regler
 

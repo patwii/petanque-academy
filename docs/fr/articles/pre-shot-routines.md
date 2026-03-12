@@ -3,154 +3,154 @@ title: Building Pre-Shot Routines
 description: Develop a consistent pre-shot routine that anchors your focus, manages pressure, and creates the conditions for peak performance in pétanque.
 ---
 
-# Building Pre-Shot Routines
+# Élaboration de routines d&#39;avant-tournage
 
-> "The difference between a good throw and a great throw often happens before the boule leaves your hand."
+> « La différence entre un bon lancer et un excellent lancer se joue souvent avant même que la boule ne quitte votre main. »
 
-A well-designed pre-shot routine is your anchor in the storm of competition — a reliable sequence that prepares your mind and body for optimal performance.
+Une routine d&#39;avant-tir bien conçue est votre point d&#39;ancrage dans la tempête de la compétition — une séquence fiable qui prépare votre esprit et votre corps à une performance optimale.
 
-::: tip Your Competitive Advantage
-**A consistent routine creates consistent results.** It's the one thing you can control completely, regardless of pressure or circumstances.
+::: tip Votre avantage concurrentiel
+**Une routine constante engendre des résultats constants.** C&#39;est la seule chose que vous pouvez contrôler totalement, quelles que soient la pression ou les circonstances.
 :::
 
 ---
 
-## Why Pre-Shot Routines Matter
+## Pourquoi les routines d&#39;avant-tir sont importantes
 
-Elite athletes across all sports use pre-shot routines. In pétanque, where each throw is discrete and pressure can build between shots, routines serve multiple purposes:
+Les athlètes de haut niveau, tous sports confondus, utilisent des rituels d&#39;avant-coup. À la pétanque, où chaque lancer est précis et où la pression peut monter entre les coups, ces rituels remplissent plusieurs fonctions :
 
-| Purpose | How It Helps |
+| But | Comment cela aide |
 |---------|--------------|
-| **Consistency** | Same preparation → more consistent execution |
-| **Focus** | Constructive task instead of worrying |
-| **Transition** | Shift from thinking to doing |
-| **Pressure management** | Familiar actions calm nervous system |
-| **Reset** | Clears previous shot from mind |
+| **Cohérence** | Même préparation → exécution plus cohérente |
+| **Se concentrer** | Une tâche constructive plutôt que de s&#39;inquiéter |
+| **Transition** | Passer de la réflexion à l&#39;action |
+| **Gestion de la pression** | Les actions familières calment le système nerveux |
+| **Réinitialiser** | Efface le tir précédent de sa mémoire |
 
 ---
 
-## Anatomy of an Effective Routine
+## Anatomie d&#39;une routine efficace
 
 ```mermaid
 flowchart LR
-    A[Phase 1<br/>ASSESS<br/>5-10 sec] --> B[Phase 2<br/>PREPARE<br/>5-10 sec]
-    B --> C[Phase 3<br/>EXECUTE<br/>3-5 sec]
+    A[Phase 1 <br/> ÉVALUER <br/> 5 à 10 secondes] --> B[Phase 2 <br/> PRÉPARER <br/> 5 à 10 secondes]
+    B --> C[Phase 3 <br/> EXÉCUTER <br/> 3 à 5 secondes]
 
     style A fill:#2196F3,color:#fff
     style B fill:#FF9800,color:#fff
     style C fill:#4CAF50,color:#fff
 ```
 
-### Phase 1: Assessment (5-10 seconds)
-- Read the terrain
-- Visualize the intended result
-- Choose your throw type
-- Commit to the decision
+### Phase 1 : Évaluation (5-10 secondes)
+- Analysez le terrain.
+- Visualisez le résultat souhaité
+- Choisissez votre type de jet
+- Engagez-vous à respecter la décision
 
-### Phase 2: Preparation (5-10 seconds)
-- Take your position
-- Find your grip
-- Settle your breathing
-- Feel the weight of the boule
+### Phase 2 : Préparation (5-10 secondes)
+- Prenez votre place
+- Trouvez votre prise
+- Calmez votre respiration
+- Sentez le poids de la boule
 
-### Phase 3: Execution (3-5 seconds)
-- Final focus on target
-- Trust your body
-- Release without thought
-- Follow through naturally
+### Phase 3 : Exécution (3-5 secondes)
+- Concentration finale sur la cible
+- Faites confiance à votre corps
+- Libérer sans réfléchir
+- Suivre naturellement
 
-## Building Your Personal Routine
+## Créer sa routine personnelle
 
-### Step 1: Observe Your Current Patterns
+### Étape 1 : Observez vos habitudes actuelles
 
-Before creating a new routine, notice what you already do:
-- What do you do before successful throws?
-- What changes when you're under pressure?
-- What feels natural to you?
+Avant de créer une nouvelle routine, observez ce que vous faites déjà :
+- Que faites-vous avant de réussir vos lancers ?
+- Qu&#39;est-ce qui change lorsque vous êtes sous pression ?
+- Qu&#39;est-ce qui vous semble naturel ?
 
-### Step 2: Design Your Sequence
+### Étape 2 : Concevez votre séquence
 
-Create a routine that includes:
+Créez une routine qui comprend :
 
-**Physical elements:**
-- How you approach the circle
-- How you pick up and hold the boule
-- Your stance and positioning
-- A specific breathing pattern
+**Éléments physiques :**
+- Comment abordez-vous le cercle ?
+- Comment prendre et tenir la boule
+- Votre posture et votre positionnement
+- Un schéma respiratoire spécifique
 
-**Mental elements:**
-- A visualization of the result
-- A focus word or phrase
-- A commitment point (the moment you decide "this is the throw")
+**Éléments mentaux :**
+- Visualisation du résultat
+- Un mot ou une expression clé
+- Un point d&#39;engagement (le moment où vous décidez « c&#39;est le lancer »)
 
-### Step 3: Keep It Simple
+### Étape 3 : Faites simple
 
-Your routine should be:
-- **Short enough** to maintain under pressure (15-25 seconds total)
-- **Simple enough** to remember when stressed
-- **Flexible enough** to adapt to different situations
+Votre routine devrait être :
+- **Assez court** pour être maintenu sous pression (15 à 25 secondes au total)
+- **Assez simple** pour s&#39;en souvenir en cas de stress
+- **Suffisamment flexible** pour s&#39;adapter à différentes situations
 
-## Example Routines
+## Exemples de routines
 
-### The Pointer's Routine
-1. Stand behind the circle, assess the terrain
-2. Visualize the boule's path and landing spot
-3. Step into the circle, find your stance
-4. Three slow breaths while feeling the boule
-5. Eyes on the target, release
+### La routine du pointeur
+1. Placez-vous derrière le cercle, évaluez le terrain.
+2. Visualisez la trajectoire de la boule et son point d&#39;atterrissage.
+3. Entrez dans le cercle, trouvez votre position
+4. Trois respirations lentes en sentant la boule
+5. Gardez les yeux sur la cible, lâchez
 
-### The Shooter's Routine
-1. Identify the target boule, choose the angle
-2. Visualize the impact and result
-3. Enter the circle with purpose
-4. One deep breath, feel the weight
-5. Lock eyes on target, execute
+### La routine du tireur
+1. Identifiez la boule cible, choisissez l&#39;angle
+2. Visualisez l&#39;impact et le résultat
+3. Entrez dans le cercle avec un but précis.
+4. Une profonde inspiration, sentir le poids
+5. Fixez la cible du regard, exécutez.
 
-## Common Mistakes to Avoid
+## Erreurs courantes à éviter
 
-### Too Long
-If your routine takes more than 30 seconds, you're overthinking. Long routines give anxiety more time to build.
+### Trop long
+Si votre routine dure plus de 30 secondes, vous réfléchissez trop. Les routines longues laissent plus de temps à l&#39;anxiété pour s&#39;installer.
 
-### Too Rigid
-If any interruption destroys your routine, it's too fragile. Build in flexibility — if something breaks your concentration, have a reset trigger.
+### Trop rigide
+Si la moindre interruption perturbe votre routine, celle-ci est trop fragile. Intégrez de la flexibilité : si quelque chose interrompt votre concentration, prévoyez une procédure de réinitialisation.
 
-### Skipping Under Pressure
-The routine matters most when pressure is highest. If you abandon it when stressed, you lose its protective benefits.
+### Sauter à la corde sous pression
+La routine est d&#39;autant plus importante que la pression est forte. L&#39;abandonner en période de stress vous prive de ses bienfaits protecteurs.
 
-### Focusing on Mechanics
-Your routine should end with focus on the result, not on technique. "Hit the target" not "keep your elbow straight."
+### Se concentrer sur la mécanique
+Votre routine devrait se terminer par une concentration sur le résultat, et non sur la technique. « Atteignez la cible », pas « gardez le coude droit ».
 
-## Practicing Your Routine
+## Pratiquer votre routine
 
-### In Training
-- Use your full routine for every throw, even casual ones
-- Time yourself to ensure consistency
-- Practice with distractions to build resilience
+### En formation
+- Utilisez votre routine complète pour chaque lancer, même les plus informels.
+- Chronométrez-vous pour garantir la régularité
+- S&#39;entraîner avec des distractions pour développer sa résilience
 
-### Building Automaticity
-The goal is for your routine to become automatic — something you do without thinking. This takes repetition:
-- 100+ throws with the same routine
-- Consistent use across different situations
-- Gradual exposure to pressure while maintaining the routine
+### Automatisation du bâtiment
+L&#39;objectif est que votre routine devienne automatique, quelque chose que vous faites sans y penser. Cela nécessite de la répétition :
+- Plus de 100 lancers avec la même routine
+- Utilisation cohérente dans différentes situations
+- Exposition progressive à la pression tout en maintenant la routine
 
-## Adapting to Competition
+## S&#39;adapter à la concurrence
 
-In matches, your routine may need slight adjustments:
+En match, votre routine pourrait nécessiter de légers ajustements :
 
-- **Time pressure**: Have a shortened version ready
-- **Weather conditions**: Adjust physical elements as needed
-- **High pressure moments**: Slow down slightly, don't speed up
+- **Pression du temps** : Préparez une version abrégée.
+- **Conditions météorologiques** : Ajuster les éléments physiques en fonction des besoins
+- **Moments de forte pression** : Ralentissez légèrement, n’accélérez pas.
 
-## The Reset Routine
+## La routine de réinitialisation
 
-Equally important is what you do after a throw:
+Ce que vous faites après un lancer est tout aussi important :
 
-1. **Accept the result** — good or bad, it's done
-2. **Physical reset** — step back, shake out tension
-3. **Mental reset** — clear the throw from your mind
-4. **Prepare for next** — shift focus to what's coming
+1. **Acceptez le résultat** — bon ou mauvais, c&#39;est fait.
+2. **Réinitialisation physique** — prenez du recul, relâchez les tensions
+3. **Réinitialisation mentale** — libérez votre esprit de l&#39;image du lancer
+4. **Préparez-vous pour la suite** — concentrez-vous sur ce qui va arriver.
 
 ---
 
-*Related: [Pre-Shot Routine Guide](/fr/education/mental-game/mental-strength/pre-shot-routine) | [Handling Pressure](/fr/education/mental-game/mental-strength/handling-pressure) | [Mindfulness Techniques](/fr/education/mental-game/mindfulness/techniques)*
+| *À consulter également : [Guide de la routine d’avant-tir](/en/education/mental-game/mental-strength/pre-shot-routine) | [Gérer la pression](/en/education/mental-game/mental-strength/handling-pressure) | [Techniques de pleine conscience](/en/education/mental-game/mindfulness/techniques)* |
 

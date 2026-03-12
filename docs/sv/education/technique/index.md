@@ -50,21 +50,21 @@ Ett verkligt resultat ser ut så här:
 - &quot;Jag vill ha ett rullande skott som svänger åt vänster i den här typen av terräng&quot;
 - &quot;Jag vill ha ett mjukt, devanterat skott som knappt nuddar målklotet&quot;
 
-**Först, utforska [Paletten av kast](/sv/education/technique/throws)** för att förstå vad som är möjligt. Bestäm sedan vilket specifikt kast du vill lägga till i din repertoar. Först då bör du börja arbeta med hur din arm, handled och kropp behöver röra sig för att skapa det resultatet.
+**Först, utforska [Paletten av kast](/sv/utbildning/teknik/kast)** för att förstå vad som är möjligt. Bestäm sedan vilket specifikt kast du vill lägga till i din repertoar. Först då bör du börja arbeta med hur din arm, handled och kropp behöver röra sig för att skapa det resultatet.**
 
 ## Rätt sätt att arbeta med teknik
 
 Vi säger inte att du aldrig ska arbeta med din arm, handled, frigörelse eller kroppsposition. **Tekniskt arbete med utförande är absolut giltigt** — men det måste ha rätt syfte.
 
 ::: info Rätt syfte för tekniskt arbete
-**Rätt syfte:** "Jag vill lägga till ett nytt kast i min repertoar"
+**Rätt syfte:** &quot;Jag vill lägga till en ny pläd i min palett&quot;
 
-**Fel syfte:** "Jag vill träffa fler skott" eller "Jag vill vara mer konsekvent"
+**Fel syfte:** &quot;Jag vill ta fler slag&quot; eller &quot;Jag vill vara mer konsekvent&quot;
 :::
 
 Här är processen:
 
-1. **Utforska [Kastpaletten](/sv/education/technique/throws)** — Identifiera vilket kast eller vilken teknik du vill lägga till i din repertoar
+1. **Utforska [Kastpaletten](/sv/utbildning/teknik/kast)** — Identifiera vilket kast eller vilken teknik du vill lägga till i din repertoar
 2. **Visualisera resultatet** — Vad ska klotet göra? Vilken bana, landning, snurr och beteende behöver du?
 3. **Arbeta sedan med utförandet** — Nu kan du fokusera på arm, handled, kroppsposition och släpp för att uppnå det specifika resultatet
 
@@ -119,14 +119,14 @@ Många erfarna spelare lägger ner år på att finslipa sina tekniker, när det 
 ### Vägen framåt
 
 **För bättre bilder (nya funktioner):**
-- Utforska [Paletten av kast](/sv/education/technique/throws)
+- Utforska [Paletten av plädar](/sv/utbildning/teknik/plädar)
 - Välj ett specifikt nytt kast att utveckla
 - Öva på det tekniska utförandet
 
 **För fler doser (konsistens under tryck):**
-- Arbeta med [Mental styrka](/sv/education/mental-game/mental-strength/)
-- Lär dig att komma åt [Zonen](/sv/education/mental-game/the-zone/)
-- Utveckla [Rutiner före skott](/sv/education/mental-game/mental-strength/rutin-före-skott)
+- Arbeta med [Mental styrka](/sv/utbildning/mentalt-spel/mental-styrka/)
+- Lär dig att komma åt [Zonen](/sv/utbildning/mentalt-spel/zonen/)
+- Utveckla [Rutiner före skott](/sv/utbildning/mentalt-spel/mental-styrka/rutin-före-skott)
 
 ## Vårt perspektiv
 
@@ -159,13 +159,13 @@ Om du har ett tekniskt fokus och vill utöka din repertoar, beskriver det här a
 
 ## Ämnen
 
-### [Kastpalett](/sv/education/technique/throws)
+### [Palett av kast](/sv/utbildning/teknik/kast)
 Vilka kast finns det? En omfattande översikt över de tekniska möjligheterna inom boule.
 
 ::: tip Efter tekniken, vad händer nu?
 När du väl har en gedigen teknik kommer den verkliga utvecklingen från:
-- **[Zonen](/sv/education/mental-game/the-zone/)** - Åtkomst till flödestillstånd
-- **[Mental styrka](/sv/education/mental-game/mental-strength/)** - Hantering av press
-- **[Träningsmetoder](/sv/education/technique/training/)** - Hur man övar effektivt
+- **[Zonen](/sv/utbildning/mentalt-spel/zonen/)** - Åtkomst till flödestillstånd
+- **[Mental styrka](/sv/utbildning/mentalt-spel/mental-styrka/)** - Hantera press
+- **[Träningsmetoder](/sv/utbildning/teknik/träning/)** - Hur man övar effektivt
 :::
 

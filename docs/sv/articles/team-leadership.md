@@ -3,280 +3,280 @@ title: Leadership in Pétanque
 description: Develop leadership skills that elevate your team's performance. Learn how to lead effectively whether you're the captain or a supporting player.
 ---
 
-# Leadership in Pétanque
+# Ledarskap i boule
 
-> "Leadership isn't just about being the captain — it's about bringing out the best in your team."
+> &quot;Ledarskap handlar inte bara om att vara kapten – det handlar om att få fram det bästa i ditt lag.&quot;
 
-Every player can lead in different ways. It's about influence, support, and modeling excellence.
+Varje spelare kan leda på olika sätt. Det handlar om inflytande, stöd och att vara en utmärkt förebild.
 
-::: tip Everyone Can Lead
-**You don't need a title to be a leader.** Leadership is behavior, not position.
+::: tip Alla kan leda
+**Du behöver ingen titel för att vara ledare.** Ledarskap är beteende, inte position.
 :::
 
 ---
 
-## What Is Pétanque Leadership?
+## Vad är bouleledare?
 
 ```mermaid
 flowchart LR
-    A[Effective Leadership] --> B[Good Decisions]
-    A --> C[Team Support]
-    A --> D[Focus & Energy]
-    A --> E[Model Behavior]
-    A --> F[Take Responsibility]
+    A[Effektivt ledarskap] --> B[Bra beslut]
+    A --> C[Teamsupport]
+    A --> D[Fokus och energi]
+    A --> E[Modellbeteende]
+    A --> F[Ta ansvar]
 
     style A fill:#FF9800,color:#fff
 ```
 
 ---
 
-## Types of Leadership
+## Typer av ledarskap
 
-| Type | Focus | How It Looks |
+| Typ | Fokus | Hur det ser ut |
 |------|-------|--------------|
-| **Positional** | Authority | Captain makes final decisions, sets culture |
-| **Performance** | Excellence | Consistent skill, handling pressure well |
-| **Emotional** | Energy | Staying positive, supporting others |
-| **Tactical** | Strategy | Reading the game, offering insights |
+| **Positionell** | Myndighet | Kapten fattar slutgiltiga beslut, sätter kulturen |
+| **Prestanda** | Förträfflighet | Konsekvent skicklighet, hanterar press väl |
+| **Emotionell** | Energi | Att vara positiv, att stötta andra |
+| **Taktisk** | Strategi | Läser spelet, ger insikter |
 
-### Positional Leadership
+### Positivt ledarskap
 
-The designated captain or team leader:
-- Makes final strategic decisions
-- Represents the team officially
-- Manages team dynamics
-- Sets the tone and culture
+Den utsedda kaptenen eller lagledaren:
+- Fattar slutgiltiga strategiska beslut
+- Representerar laget officiellt
+- Hanterar teamdynamiken
+- Sätter tonen och kulturen
 
-### Performance Leadership
+### Prestationsledarskap
 
-Leading through excellence:
-- Demonstrating skill and consistency
-- Showing how to handle pressure
-- Setting standards through action
-- Inspiring through performance
+Ledande genom excellens:
+- Visar skicklighet och konsekvens
+- Visar hur man hanterar press
+- Sätta standarder genom handling
+- Inspirerande genom framträdande
 
-### Emotional Leadership
+### Emotionellt ledarskap
 
-::: info Often Undervalued
-**Emotional leadership is critical** — the player who stays positive when down 2-10 can turn the entire match around.
+::: info Ofta undervärderad
+**Emotionellt ledarskap är avgörande** — spelaren som förblir positiv när han ligger under med 2-10 kan vända hela matchen.
 :::
 
-Managing team energy and morale:
-- Staying positive under pressure
-- Supporting struggling teammates
-- Celebrating successes
-- Maintaining perspective
+Hantera teamets energi och moral:
+- Att förbli positiv under press
+- Stödja kämpande lagkamrater
+- Firar framgångar
+- Att behålla perspektivet
 
-### Tactical Leadership
+### Taktiskt ledarskap
 
-Contributing strategic thinking:
-- Reading the game well
-- Offering valuable insights
-- Seeing patterns others miss
-- Thinking ahead
+Bidragande till strategiskt tänkande:
+- Läser spelet väl
+- Erbjuder värdefulla insikter
+- Att se mönster som andra missar
+- Att tänka framåt
 
-## The Effective Leader
+## Den effektiva ledaren
 
-### In Practice
+### I praktiken
 
-- Arrives prepared and focused
-- Works hard and encourages others
-- Provides constructive feedback
-- Creates a positive training environment
+- Anländer förberedd och fokuserad
+- Arbetar hårt och uppmuntrar andra
+- Ger konstruktiv feedback
+- Skapar en positiv träningsmiljö
 
-### Before Competition
+### Före tävlingen
 
-- Ensures team is prepared
-- Sets clear expectations
-- Manages pre-match nerves
-- Creates focus and confidence
+- Ser till att teamet är förberett
+- Sätter tydliga förväntningar
+- Hanterar nerverna inför matchen
+- Skapar fokus och självförtroende
 
-### During Competition
+### Under tävlingen
 
-- Makes clear, timely decisions
-- Supports teammates visibly
-- Stays calm under pressure
-- Adapts strategy as needed
+- Fattar tydliga och snabba beslut
+- Stödjer synligt lagkamraterna
+- Förblir lugn under press
+- Anpassar strategin efter behov
 
-### After Competition
+### Efter tävlingen
 
-- Handles wins with grace
-- Handles losses with perspective
-- Leads constructive debriefs
-- Maintains team relationships
+- Hanterar segrar med elegans
+- Hanterar förluster med perspektiv
+- Leder konstruktiva avrapporteringar
+- Upprätthåller teamrelationer
 
-## Leadership Challenges
+## Ledarskapsutmaningar
 
-### Making Tough Decisions
+### Att fatta svåra beslut
 
-Sometimes you must:
-- Choose between options with no clear answer
-- Disagree with teammates
-- Take responsibility for outcomes
-- Act decisively despite uncertainty
+Ibland måste du:
+- Välj mellan alternativ utan ett tydligt svar
+- Håller inte med lagkamraterna
+- Ta ansvar för resultaten
+- Agera beslutsamt trots osäkerhet
 
-**Approach:**
-- Gather input quickly
-- Make the decision
-- Commit fully
-- Learn from results
+**Närma sig:**
+- Samla in input snabbt
+- Fatta beslutet
+- Förbind dig helt och hållet
+- Lär dig av resultaten
 
-### Managing Conflict
+### Hantera konflikter
 
-Team friction is inevitable:
-- Different opinions on strategy
-- Frustration after mistakes
-- Personality clashes
-- Unequal commitment
+Lagfriktion är oundviklig:
+- Olika åsikter om strategi
+- Frustration efter misstag
+- Personlighetskrockar
+- Ojämlikt engagemang
 
-**Approach:**
-- Address issues early
-- Listen to all perspectives
-- Focus on solutions
-- Maintain respect
+**Närma sig:**
+- Ta itu med problemen tidigt
+- Lyssna på alla perspektiv
+- Fokusera på lösningar
+- Behåll respekten
 
-### Supporting Struggling Players
+### Stödja spelare som kämpar
 
-When a teammate is underperforming:
-- Don't add pressure
-- Offer specific, positive support
-- Adjust strategy if needed
-- Maintain confidence in them
+När en lagkamrat presterar undermåligt:
+- Lägg inte till tryck
+- Erbjud specifikt, positivt stöd
+- Anpassa strategin vid behov
+- Behåll förtroendet för dem
 
-### Handling Your Own Struggles
+### Hantera dina egna problem
 
-Leaders struggle too:
-- Acknowledge it (to yourself)
-- Don't let it affect your leadership
-- Lean on teammates
-- Model resilience
+Ledare kämpar också:
+- Erkänn det (för dig själv)
+- Låt det inte påverka ditt ledarskap
+- Luta dig mot lagkamraterna
+- Modell motståndskraft
 
-## Leadership Styles
+## Ledarskapsstilar
 
-### The Commander
+### Befälhavaren
 
-- Direct and decisive
-- Clear expectations
-- Takes charge in crisis
-- Risk: Can be overbearing
+- Direkt och avgörande
+- Tydliga förväntningar
+- Tar ansvar i krisen
+- Risk: Kan vara överdrivande
 
-### The Coach
+### Tränaren
 
-- Develops others
-- Asks questions
-- Builds capability
-- Risk: Can be slow in crisis
+- Utvecklar andra
+- Ställer frågor
+- Bygger kapacitet
+- Risk: Kan vara långsam i kris
 
-### The Collaborator
+### Samarbetspartnern
 
-- Seeks input
-- Builds consensus
-- Values all voices
-- Risk: Can be indecisive
+- Söker input
+- Bygger konsensus
+- Värderar alla röster
+- Risk: Kan vara obeslutsam
 
-### The Supporter
+### Supportern
 
-- Focuses on relationships
-- Creates safety
-- Encourages and affirms
-- Risk: Can avoid hard truths
+- Fokuserar på relationer
+- Skapar trygghet
+- Uppmuntrar och bekräftar
+- Risk: Kan undvika hårda sanningar
 
-**Best leaders adapt their style to the situation.**
+**De bästa ledarna anpassar sin stil till situationen.**
 
-## Developing Leadership Skills
+## Utveckla ledarskapsförmågor
 
-### Self-Awareness
+### Självmedvetenhet
 
-Know your:
-- Natural leadership style
-- Strengths and weaknesses
-- Impact on others
-- Triggers and reactions
+Känn din:
+- Naturlig ledarstil
+- Styrkor och svagheter
+- Påverkan på andra
+- Utlösare och reaktioner
 
-### Emotional Intelligence
+### Emotionell intelligens
 
-Develop ability to:
-- Recognize emotions (yours and others')
-- Manage your responses
-- Empathize with teammates
-- Navigate social dynamics
+Utveckla förmågan att:
+- Känna igen känslor (dina och andras)
+- Hantera dina svar
+- Visa empati med lagkamrater
+- Navigera sociala dynamiker
 
-### Communication Skills
+### Kommunikationsförmåga
 
-Practice:
-- Clear, concise messaging
-- Active listening
-- Giving constructive feedback
-- Difficult conversations
+Öva:
+- Tydliga, koncisa budskap
+- Aktivt lyssnande
+- Ge konstruktiv feedback
+- Svåra samtal
 
-### Decision-Making
+### Beslutsfattande
 
-Improve through:
-- Analyzing past decisions
-- Seeking feedback
-- Learning from mistakes
-- Practicing under pressure
+Förbättra genom:
+- Analysera tidigare beslut
+- Söker feedback
+- Lära sig av misstag
+- Att öva under press
 
-## Leading Without the Title
+## Att leda utan titel
 
-You don't need to be captain to lead:
+Du behöver inte vara kapten för att leda:
 
-### Lead by Example
-- Show up prepared
-- Give full effort
-- Handle adversity well
-- Support teammates
+### Föregå med gott exempel
+- Kom förberedd
+- Ge full ansträngning
+- Hantera motgångar väl
+- Stöd lagkamraterna
 
-### Lead Through Support
-- Encourage others
-- Offer help
-- Celebrate teammates' success
-- Be reliable
+### Led genom stöd
+- Uppmuntra andra
+- Erbjud hjälp
+- Fira lagkamraternas framgångar
+- Var pålitlig
 
-### Lead Through Contribution
-- Share observations
-- Offer ideas respectfully
-- Take initiative
-- Fill gaps
+### Led genom bidrag
+- Dela observationer
+- Erbjud idéer respektfullt
+- Ta initiativ
+- Fyll luckor
 
-## The Leadership Mindset
+## Ledarskapstänkandet
 
-### Responsibility Over Blame
+### Ansvar framför skuld
 
-Leaders take responsibility:
-- "We didn't execute well" not "They missed"
-- "I should have communicated better" not "They didn't listen"
+Ledare tar ansvar:
+- &quot;Vi presterade inte bra&quot;, inte &quot;De missade&quot;.
+- &quot;Jag borde ha kommunicerat bättre&quot; inte &quot;De lyssnade inte&quot;
 
-### Team Over Self
+### Lag framför sig själv
 
-Leaders prioritize team success:
-- Celebrate team achievements
-- Share credit generously
-- Take blame personally
-- Put team needs first
+Ledare prioriterar teamets framgång:
+- Fira lagets prestationer
+- Dela kredit generöst
+- Ta skulden personligen
+- Sätt teamets behov först
 
-### Growth Over Comfort
+### Tillväxt framför komfort
 
-Leaders embrace challenge:
-- Seek difficult situations
-- Learn from failures
-- Push for improvement
-- Model continuous growth
+Ledare antar utmaningar:
+- Sök svåra situationer
+- Lär dig av misslyckanden
+- Satsa på förbättringar
+- Modellera kontinuerlig tillväxt
 
-## When Leadership Fails
+## När ledarskapet misslyckas
 
-Even good leaders fail sometimes:
-- Wrong decisions happen
-- Teams lose despite good leadership
-- Relationships strain
+Även bra ledare misslyckas ibland:
+- Felaktiga beslut händer
+- Lag förlorar trots bra ledarskap
+- Relationer påfrestning
 
-**Recovery:**
-1. Acknowledge what happened
-2. Take appropriate responsibility
-3. Learn the lessons
-4. Move forward with humility
+**Återhämtning:**
+1. Erkänn vad som hände
+2. Ta lämpligt ansvar
+3. Lär dig läxorna
+4. Gå framåt med ödmjukhet
 
 ---
 
-*Related: [Team Dynamics](/sv/education/team-dynamics/) | [Communication](/sv/education/team-dynamics/communication) | [Building Team Chemistry](/sv/articles/team-chemistry)*
+| *Relaterat: [Teamdynamik](/sv/utbildning/teamdynamik/) | [Kommunikation](/sv/utbildning/teamdynamik/kommunikation) | [Bygg lagkemi](/sv/artiklar/lagkemi)* |
 

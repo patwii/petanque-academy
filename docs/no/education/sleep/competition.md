@@ -3,196 +3,196 @@ title: Competition Sleep Protocols
 description: Pre-competition sleep strategies, travel protocols, and emergency plans for tournament success.
 ---
 
-# Competition Sleep Protocols
+# Konkurransesøvnprotokoller
 
-The night before a competition isn't the most important night for sleep—it's the week leading up to it. This page provides protocols for optimizing sleep around competitions.
+Natten før en konkurranse er ikke den viktigste natten for søvn – det er uken før den. Denne siden inneholder protokoller for å optimalisere søvn rundt konkurranser.
 
 ---
 
-## The Week Before: Building Your Sleep Bank
+## Uken før: Bygge opp søvnbanken din
 
-### Why the Last Night Isn't Most Important
+### Hvorfor den siste kvelden ikke er viktigst
 
-Research shows that **sleep during the 3-7 days before competition** has a greater impact on performance than the night immediately before. Anxiety often disrupts sleep the night before a big match—but if you've "banked" good sleep, one poor night won't significantly harm performance.
+Forskning viser at **søvn i løpet av 3–7 dager før konkurranse** har større innvirkning på prestasjonen enn natten rett før. Angst forstyrrer ofte søvnen natten før en stor kamp – men hvis du har «saflet» god søvn, vil ikke én dårlig natt skade prestasjonen nevneverdig.
 
-### The 7-Day Countdown Protocol
+### 7-dagers nedtellingsprotokoll
 
-| Days Out | Focus | Actions |
+| Dager ute | Fokus | Handlinger |
 |----------|-------|---------|
-| **Day -7 to -4** | Maintain rhythm | Keep normal schedule, no major changes |
-| **Day -3 to -2** | Optimize | Bedtime 15-30 min earlier, reduce evening screen time |
-| **Day -1** | Accept | Follow routine, don't stress if sleep is poor |
-| **Competition Day** | Perform | Trust your preparation |
+| **Dag -7 til -4** | Oppretthold rytmen | Holder normal timeplan, ingen store endringer |
+| **Dag -3 til -2** | Optimaliser | Leggetid 15–30 minutter tidligere, reduser skjermtiden på kvelden |
+| **Dag -1** | Akseptere | Følg rutinen, ikke stress hvis du sover dårlig |
+| **Konkurransedag** | Utføre | Stol på forberedelsene dine |
 
 ---
 
-## Day -7 to Day -4: Foundation
+## Dag -7 til dag -4: Grunnleggende
 
-During this phase:
+I løpet av denne fasen:
 
-- **Maintain your normal sleep schedule** — Don't make dramatic changes
-- **Begin winding down** evening activities slightly
-- **Reduce alcohol** — Even moderate amounts disrupt sleep architecture
-- **Check your sleep environment** — Fix any issues now (light leaks, temperature)
+- **Oppretthold din normale søvnrutine** – Ikke gjør dramatiske endringer
+- **Begynn å roe ned** kveldsaktivitetene litt
+- **Reduser alkoholinntaket** — Selv moderate mengder forstyrrer søvnstrukturen
+- **Sjekk søvnmiljøet ditt** – Fiks eventuelle problemer nå (lyslekkasjer, temperatur)
 
-## Day -3 to Day -2: Optimization
+## Dag -3 til dag -2: Optimalisering
 
-- **Move bedtime earlier by 15-30 minutes**
-- **Reduce screen exposure** after sunset
-- **Avoid heavy evening meals**
-- **Begin mental preparation** — Visualize successful performance
-- **Pack your tournament sleep kit** (see below)
+- **Flytt leggetid tidligere med 15–30 minutter**
+- **Reduser skjermeksponeringen** etter solnedgang
+- **Unngå tunge kveldsmåltider**
+- **Start mental forberedelse** — Visualiser vellykket prestasjon
+- **Pakk turneringssøvnsettet ditt** (se nedenfor)
 
-## Day -1: The Night Before
+## Dag -1: Kvelden før
 
-::: warning The Anxiety Paradox
-Trying too hard to sleep creates the exact anxiety that prevents sleep. Accept that you may not sleep perfectly—and that's okay.
+::: warning Angstparadokset
+Å prøve for hardt å sove skaper akkurat den angsten som hindrer søvn. Aksepter at du kanskje ikke sover perfekt – og det er greit.
 :::
 
-### Acceptance Strategies
+### Akseptstrategier
 
-1. **Remind yourself:** One night of poor sleep doesn't significantly impact performance if you've slept well the previous week
-2. **Have a backup plan:** Knowing you have strategies for tomorrow reduces anxiety
-3. **Avoid clock-watching:** Turn clocks away from view
-4. **If awake for 20+ minutes:** Get up, do something calming, return when sleepy
+1. **Minn deg selv på følgende:** Én natt med dårlig søvn påvirker ikke prestasjonene nevneverdig hvis du har sovet godt uken før
+2. **Ha en reserveplan:** Å vite at du har strategier for morgendagen reduserer angst
+3. **Unngå å se på klokken:** Snu klokkene vekk fra syne
+4. **Hvis du har vært våken i over 20 minutter:** Stå opp, gjør noe beroligende, kom tilbake når du er søvnig
 
 ---
 
-## Travel & Time Zones
+## Reise og tidssoner
 
-### Short Trips (1-2 Time Zones)
+### Korte turer (1–2 tidssoner)
 
-For trips crossing 1-2 time zones:
+For turer som krysser 1–2 tidssoner:
 
-- **Consider staying on home time** if the trip is short (1-2 days)
-- **Strategic light exposure:** Morning light shifts your clock earlier, evening light shifts it later
-- **Meal timing:** Eating at local meal times helps adjust
+- **Vurder å bli på hjemmetid** hvis turen er kort (1–2 dager)
+- **Strategisk lyseksponering:** Morgenlyset forskyver klokken tidligere, kveldslyset forskyver den senere
+- **Måltidspunkt:** Å spise til lokale måltider bidrar til å justere
 
-### Long Trips (3+ Time Zones)
+### Langturer (3+ tidssoner)
 
-For significant time zone changes:
+For betydelige endringer i tidssonen:
 
-- **Start adjusting 3-4 days before departure** — Shift sleep time 30-60 min per day toward destination time
-- **Use light strategically:** Bright light at your destination's morning time
-- **The 1-day-per-zone rule:** Allow approximately one day of adjustment per time zone crossed
-- **Nap strategically:** Short naps (20 min) if needed, not long ones
+- **Begynn å justere 3–4 dager før avreise** — Flytt søvntiden 30–60 minutter per dag mot destinasjonstidspunktet
+- **Bruk lys strategisk:** Sterkt lys om morgenen på reisemålet ditt
+- **1 dag per sone-regelen:** Tillat omtrent én dag med justering per tidssone som krysses
+- **Slapp av strategisk:** Korte lurer (20 min) om nødvendig, ikke lange
 
-### The Hotel Room Challenge
+### Hotellromsutfordringen
 
-Tournament hotels present unique challenges:
+Turneringshoteller byr på unike utfordringer:
 
-| Challenge | Solution |
+| Utfordring | Løsning |
 |-----------|----------|
-| **Unfamiliar bed** | Bring your own pillow if practical |
-| **Light leaks** | Pack a quality eye mask |
-| **Noise** | Earplugs or white noise app |
-| **Wrong temperature** | Request room change or bring layers |
-| **Partner/roommate** | Discuss sleep needs before arrival |
+| **Ukjent seng** | Ta med egen pute hvis det er praktisk |
+| **Lyslekkasjer** | Pakk en øyemaske av god kvalitet |
+| **Støy** | Ørepropper eller hvit støy-app |
+| **Feil temperatur** | Be om rombytte eller ta med lag |
+| **Partner/romkamerat** | Diskuter søvnbehov før ankomst |
 
 ---
 
-## Tournament Day Protocols
+## Protokoller for turneringsdagen
 
-### Morning of Competition
+### Konkurransemorgen
 
-1. **Wake at your normal time** — Don't oversleep
-2. **Get bright light immediately** — Open curtains, go outside
-3. **Eat your normal breakfast** — At your normal time
-4. **Light movement** — Walk, gentle stretching
+1. **Våkn opp til vanlig tid** — Ikke forsov deg
+2. **Få sterkt lys umiddelbart** — Åpne gardinene, gå ut
+3. **Spis din vanlige frokost** — Til vanlig tid
+4. **Lett bevegelse** — Gåing, forsiktig tøying
 
-### During Competition: The Power Nap Protocol
+### Under konkurranse: Power Nap-protokollen
 
-If you have 2+ hours between matches and feel fatigue:
+Hvis du har 2+ timer mellom kampene og føler deg trett:
 
-**The 20-Minute Power Nap:**
+**20-minutters powernap:**
 
-1. Find a quiet spot (car, empty room, quiet corner)
-2. Set an alarm for 20-25 minutes
-3. Close eyes, relax—don't worry if you don't sleep
-4. Even rest without sleep provides benefit
-5. Upon waking: bright light, movement, water
+1. Finn et stille sted (bil, tomt rom, stille hjørne)
+2. Sett en alarm på 20–25 minutter
+3. Lukk øynene, slapp av – ikke bekymre deg hvis du ikke sover
+4. Selv hvile uten søvn gir fordeler
+5. Ved oppvåkning: sterkt lys, bevegelse, vann
 
-::: tip The Coffee Nap
-Drink coffee immediately before your 20-minute nap. The caffeine takes 20-30 minutes to take effect, so you wake up with a double boost.
+::: tip Kaffeluren
+Drikk kaffe rett før den 20 minutter lange luren. Koffeinet tar 20–30 minutter før det trer i kraft, så du våkner med en dobbel boost.
 :::
 
-**When NOT to Nap:**
-- Within 4 hours of your usual bedtime
-- If you have trouble sleeping at night normally
-- If you feel groggy (not refreshed) after naps
-- Less than 2 hours before your next match
+**Når man IKKE skal sove:**
+- Innen 4 timer før vanlig leggetid
+- Hvis du har problemer med å sove normalt om natten
+- Hvis du føler deg groggy (ikke uthvilt) etter en lur
+- Mindre enn 2 timer før neste kamp
 
 ---
 
-## Emergency Protocol: "I Couldn't Sleep"
+## Nødprotokoll: «Jeg fikk ikke sove»
 
-It happens to everyone. Here's how to handle it:
+Det skjer med alle. Slik håndterer du det:
 
-### Mindset Reframe
+### Omformulering av tankesett
 
-**Change your thinking from:** "I'm exhausted, I'll play terribly"
-**To:** "One night doesn't define my performance. I've trained for this."
+**Endre tankegangen din fra:** «Jeg er utslitt, jeg kommer til å spille forferdelig»
+**Til:** «Én kveld definerer ikke prestasjonen min. Jeg har trent for dette.»
 
-Research confirms: Perceived fatigue impacts performance more than actual fatigue.
+Forskning bekrefter: Opplevd tretthet påvirker ytelsen mer enn faktisk tretthet.
 
-### Competition Day Strategies
+### Strategier for konkurransedagen
 
-1. **Caffeine timing:** Use strategically, but not excessively
-   - First dose: 30-60 min before first match
-   - Top-up: If needed, small amounts 3-4 hours later
-   - No caffeine after 2pm if you want to sleep that night
+1. **Koffeintiming:** Bruk strategisk, men ikke overdrevent
+   - Første dose: 30–60 min før første kamp
+   - Etterfylling: Ved behov, små mengder 3–4 timer senere
+   - Ikke koffein etter 14:00 hvis du vil sove den natten
 
-2. **Your routines are MORE important:** When tired, rely on your pre-shot routine. Don't try to "think harder."
+2. **Rutinene dine er VIKTIGERE:** Når du er sliten, bør du stole på rutinene dine før du sprøyter. Ikke prøv å «tenke hardere».
 
-3. **Hydration and nutrition:** Fatigue is often worsened by dehydration. Keep drinking water.
+3. **Hydrering og ernæring:** Tretthet forverres ofte av dehydrering. Fortsett å drikke vann.
 
-4. **What to AVOID:**
-   - Don't mention your poor sleep to teammates (creates negative expectation)
-   - Don't try to compensate with extra effort (increases tension)
-   - Don't skip warm-up (you need it more, not less)
-
----
-
-## Pre-Competition Sleep Checklist
-
-### 7 Days Before
-- [ ] Consistent wake time established
-- [ ] Sleep environment optimized
-- [ ] Alcohol reduced
-- [ ] Evening routine practiced
-
-### 3 Days Before
-- [ ] Bedtime moved slightly earlier
-- [ ] Screen time reduced
-- [ ] Tournament sleep kit packed
-- [ ] Travel logistics confirmed
-
-### Night Before
-- [ ] Normal routine followed
-- [ ] Acceptance mindset activated
-- [ ] Backup plan ready
+4. **Hva du bør unngå:**
+   - Ikke nevn den dårlige søvnen din til lagkameratene dine (skaper negative forventninger)
+   - Ikke prøv å kompensere med ekstra innsats (øker spenningen)
+   - Ikke hopp over oppvarmingen (du trenger den mer, ikke mindre)
 
 ---
 
-## Tournament Sleep Kit Packing List
+## Sjekkliste for søvn før konkurranse
 
-Essential items for sleeping away from home:
+### 7 dager før
+- [ ] Konsekvent oppvåkningstid etablert
+- [ ] Optimalisert søvnmiljø
+- [ ] Redusert alkohol
+- [ ] Kveldsrutine øvd
 
-- [ ] **Eye mask** — Quality blackout style
-- [ ] **Earplugs** — Multiple pairs (they can fall out)
-- [ ] **White noise app** — Downloaded for offline use
-- [ ] **Own pillow** — If practical
-- [ ] **Blue light glasses** — For evening screen use
-- [ ] **Familiar scent** — Optional comfort item (lavender, etc.)
-- [ ] **Melatonin** — If you use it (check local regulations)
-- [ ] **Book or magazine** — Non-screen relaxation option
+### 3 dager før
+- [ ] Leggetid flyttet litt tidligere
+- [ ] Skjermtid redusert
+- [ ] Turneringssøvnsett pakket
+- [ ] Reiselogistikk bekreftet
+
+### Kvelden før
+- [ ] Vanlig rutine fulgt
+- [ ] Akseptmentalitet aktivert
+- [ ] Backup-planen er klar
 
 ---
 
-## Related Content
+## Pakkeliste for turneringssøvnsett
 
-- [Sleep Science](/no/education/sleep/) — Understanding why sleep matters
-- [Sleep Hygiene](/no/education/sleep/habits) — Daily habits for better sleep
-- [Tension Management](/no/education/tension/) — Relaxation techniques for sleep
-- [Mental Strength](/no/education/mental-game/mental-strength/) — Handling pre-competition anxiety
+Viktige ting for å sove borte fra hjemmet:
+
+- [ ] **Øyemaske** — Kvalitetsmønster
+- [ ] **Ørepropper** — Flere par (de kan falle ut)
+- [ ] **App for hvit støy** – Lastet ned for bruk uten nett
+- [ ] **Egen pute** — Hvis det er praktisk mulig
+- [ ] **Blålysbriller** — For bruk på kveldsskjermen
+- [ ] **Kjent duft** — Valgfri koseprodukt (lavendel osv.)
+- [ ] **Melatonin** – Hvis du bruker det (sjekk lokale forskrifter)
+- [ ] **Bok eller blad** — Mulighet for avslapning uten skjerm
+
+---
+
+## Relatert innhold
+
+- [Søvnvitenskap](/no/utdanning/søvn/) — Forstå hvorfor søvn er viktig
+- [Søvnhygiene](/no/utdanning/søvn/vaner) — Daglige vaner for bedre søvn
+- [Spenningsmestring](/no/utdanning/spenning/) — Avslapningsteknikker for søvn
+- [Mental styrke](/no/utdanning/mental-spill/mental-styrke/) — Håndtering av angst før konkurranse
 

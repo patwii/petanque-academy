@@ -3,34 +3,34 @@ title: "Nutrition for Competition: Fueling Precision Performance"
 description: How what you eat and drink affects cognitive function, steady hands, and sustained focus during pétanque competition.
 ---
 
-# Nutrition for Competition: Fueling Precision Performance
+# Voeding voor de competitie: brandstof voor optimale prestaties
 
-> "Your brain is your most important tool in pétanque. Feed it stable fuel, not roller coaster energy."
+> &quot;Je hersenen zijn je belangrijkste instrument bij pétanque. Geef ze stabiele brandstof, geen energie die je in een achtbaan kunt stoppen.&quot;
 
-Pétanque competitions can last 6-10 hours. What you consume directly affects your cognitive function, fine motor control, and ability to maintain focus across multiple matches.
+Pétanque-wedstrijden kunnen 6 tot 10 uur duren. Wat je eet en drinkt heeft direct invloed op je cognitieve functies, fijne motoriek en je vermogen om je concentratie gedurende meerdere wedstrijden vast te houden.
 
-::: tip The Golden Rule
-**Stable blood sugar = steady hands.** Every nutrition choice should support consistent energy, not spikes and crashes.
+::: tip De Gouden Regel
+**Stabiele bloedsuiker = vaste handen.** Elke voedingskeuze moet zorgen voor een constante energiebalans, niet voor pieken en dalen.
 :::
 
 ---
 
-## Why Nutrition Matters for Pétanque
+## Waarom voeding belangrijk is voor pétanque
 
-Unlike high-intensity sports, pétanque demands:
+In tegenstelling tot intensieve sporten, vereist pétanque het volgende:
 
 ```mermaid
 flowchart TD
-    A[Nutrition Choices] --> B[Blood Sugar Stability]
-    B --> C[Cognitive Function]
-    B --> D[Fine Motor Control]
-    B --> E[Emotional Regulation]
+    A[Voedingskeuzes] --> B[Bloedsuikerstabiliteit]
+    B --> C[Cognitieve functie]
+    B --> D[Fijne motoriek]
+    B --> E[Emotionele regulatie]
 
-    C --> F[Sharp Decisions]
-    D --> G[Steady Hands]
-    E --> H[Calm Under Pressure]
+    C --> F[Scherpe beslissingen]
+    D --> G[Vaste handen]
+    E --> H[Kalm blijven onder druk]
 
-    F --> I[Peak Performance]
+    F --> I[Maximale prestaties]
     G --> I
     H --> I
 
@@ -38,184 +38,184 @@ flowchart TD
     style I fill:#4CAF50,color:#fff
 ```
 
-The wrong nutrition choices create performance problems that players attribute to "mental weakness" or "bad luck."
+Verkeerde voedingskeuzes leiden tot prestatieproblemen die spelers toeschrijven aan &quot;mentale zwakte&quot; of &quot;pech&quot;.
 
 ---
 
-## The Blood Sugar Connection
+## Het verband tussen bloedsuiker en de bloedsuikerspiegel
 
-Your brain runs on glucose. Blood sugar fluctuations directly affect:
+Je hersenen functioneren op glucose. Schommelingen in de bloedsuikerspiegel hebben directe gevolgen voor:
 
-| Blood Sugar State | Mental Effect | Physical Effect |
+| Bloedsuikerspiegel | Mentaal effect | Fysiek effect |
 |-------------------|---------------|-----------------|
-| **Stable** | Clear thinking, good decisions | Steady hands, consistent |
-| **Spike (too high)** | Initial energy, then crash | Jittery, over-active |
-| **Crash (too low)** | Poor concentration, irritability | Trembling, weak grip |
-| **Roller-coaster** | Unpredictable mood/focus | Inconsistent performance |
+| **Stabiel** | Helder denken, goede beslissingen | Vaste handen, consistent |
+| **Piek (te hoog)** | Aanvankelijke energie, dan een crash. | Nerveus, overactief |
+| **Ongeldige crash (te laag)** | Slechte concentratie, prikkelbaarheid | Trillen, zwakke greep |
+| **Achtbaan** | Onvoorspelbare stemming/concentratie | Inconsistente prestaties |
 
-**Goal:** Maintain stable blood sugar throughout competition.
+**Doel:** De bloedsuikerspiegel stabiel houden gedurende de wedstrijd.
 
-## Competition Day Nutrition
+## Voeding op de wedstrijddag
 
-### Pre-Competition (3-4 hours before)
+### Voor de wedstrijd (3-4 uur van tevoren)
 
-**Eat a substantial meal:**
-- Complex carbohydrates (oatmeal, whole grain bread, rice)
-- Protein (eggs, yogurt, lean meat)
-- Healthy fats (avocado, nuts, olive oil)
-- Avoid: Simple sugars, heavy/greasy foods
+**Eet een stevige maaltijd:**
+- Complexe koolhydraten (havermout, volkorenbrood, rijst)
+- Eiwitten (eieren, yoghurt, mager vlees)
+- Gezonde vetten (avocado, noten, olijfolie)
+- Vermijd: eenvoudige suikers, zware/vette voedingsmiddelen
 
-**Example meals:**
-- Oatmeal with nuts and banana
-- Eggs on whole grain toast with avocado
-- Rice with chicken and vegetables
+**Voorbeelden van maaltijden:**
+- Havermout met noten en banaan
+- Eieren op volkorentoast met avocado
+- Rijst met kip en groenten
 
-### Pre-Match (1-2 hours before)
+### Voor de wedstrijd (1-2 uur van tevoren)
 
-**Light, familiar snack:**
-- Banana
-- Small handful of nuts
-- Half a sandwich
-- Avoid: Anything new or experimental
+**Lichte, vertrouwde snack:**
+- Banaan
+- Een klein handje noten
+- Een halve sandwich
+- Vermijd: Alles wat nieuw of experimenteel is.
 
-### During Competition
+### Tijdens de wedstrijd
 
-**Between matches:**
-- Small, frequent snacks every 60-90 minutes
-- Nuts, seeds, dried fruit
-- Whole grain crackers
-- Fresh fruit (banana, apple)
+**Tussen de wedstrijden door:**
+- Kleine, frequente snacks om de 60-90 minuten.
+- Noten, zaden, gedroogd fruit
+- Volkoren crackers
+- Vers fruit (banaan, appel)
 
-**During matches:**
-- Water sips between ends
-- Quick carbs if needed (dried fruit)
-- Avoid eating during active play
+**Tijdens wedstrijden:**
+- Water sijpelt tussen de uiteinden door.
+- Snelle koolhydraten indien nodig (gedroogd fruit)
+- Vermijd eten tijdens actief spelen.
 
-### Recovery (After Competition)
+### Herstel (na de wedstrijd)
 
-**Within 30-60 minutes:**
-- Protein for muscle recovery
-- Carbohydrates to replenish
-- Fluids to rehydrate
+**Binnen 30-60 minuten:**
+- Eiwitten voor spierherstel
+- Koolhydraten ter aanvulling
+- Vocht om te rehydrateren
 
-## Hydration Protocol
+## Hydratatieprotocol
 
-### The Basics
-- Start hydrated (check morning urine color)
-- Drink steadily throughout, don't wait until thirsty
-- Target 150-250ml per hour of competition
-- Adjust for heat and humidity
+### De basisprincipes
+- Begin de dag goed gehydrateerd (controleer de kleur van je ochtendurine).
+- Drink gestaag door, wacht niet tot je dorst hebt.
+- Streef naar 150-250 ml per uur tijdens de wedstrijd.
+- Aanpassen aan warmte en luchtvochtigheid.
 
-### Warning Signs of Dehydration
-- Thirst (you're already dehydrated)
-- Dark urine
-- Headache
-- Decreased concentration
-- Fatigue
+### Waarschuwingssignalen van uitdroging
+- Dorst (je bent al uitgedroogd)
+- Donkere urine
+- Hoofdpijn
+- Verlaagde concentratie
+- Vermoeidheid
 
-### The Over-Hydration Trap
-Too much water, especially without electrolytes:
-- Frequent bathroom breaks (disrupts rhythm)
-- Diluted electrolytes (can cause trembling)
-- Discomfort and distraction
+### De valkuil van overhydratatie
+Te veel water, vooral zonder elektrolyten:
+- Frequent toiletbezoek (verstoort het ritme)
+- Verdunde elektrolyten (kunnen trillingen veroorzaken)
+- Ongemak en afleiding
 
-**Balance:** Steady intake, include electrolytes in hot conditions.
+**Balans:** Constante inname, elektrolyten toevoegen bij warm weer.
 
-## Foods to Avoid
+## Voedingsmiddelen die je beter kunt vermijden
 
-### On Competition Day
-- **Heavy meals** — Divert blood to digestion
-- **High sugar** — Cause energy crashes
-- **Alcohol (night before)** — Disrupts sleep, dehydrates
-- **Excessive caffeine** — Can cause jitters
-- **New foods** — Risk of digestive issues
-- **Greasy/fried foods** — Slow digestion, lethargy
+### Op de wedstrijddag
+- **Zware maaltijden** — Leidt bloed naar de spijsvertering.
+- **Hoog suikergehalte** — Veroorzaakt energiedips
+- **Alcohol (de avond ervoor)** — Verstoort de slaap en droogt uit.
+- **Overmatige cafeïne** — Kan nervositeit veroorzaken
+- **Nieuwe voedingsmiddelen** — Risico op spijsverteringsproblemen
+- **Vette/gefrituurde gerechten** — Trage spijsvertering, lusteloosheid
 
-### Foods That Cause Problems
-- **Carbonated drinks** — Bloating, discomfort
-- **High-fiber foods** — Can cause distress
-- **Dairy (for some)** — Digestive sensitivity
-- **Artificial sweeteners** — Can cause stomach issues
+### Voedingsmiddelen die problemen veroorzaken
+- **Koolzuurhoudende dranken** — Opgeblazen gevoel, ongemak
+- **Voedingsmiddelen met veel vezels** — kunnen klachten veroorzaken.
+- **Zuivel (voor sommigen)** — Gevoeligheid van de spijsvertering
+- **Kunstmatige zoetstoffen** — kunnen maagproblemen veroorzaken.
 
-## Caffeine Strategy
+## Cafeïnestrategie
 
-Caffeine can enhance focus and reaction time, but requires careful management:
+Cafeïne kan de concentratie en reactiesnelheid verbeteren, maar vereist wel zorgvuldige beheersing:
 
-### Effective Use
-- Know your tolerance
-- Consistent timing (don't change for competition)
-- Moderate dose (100-200mg)
-- Early enough to avoid evening matches interference
-- Combine with food to reduce jitters
+### Effectief gebruik
+- Ken je tolerantie.
+- Constante timing (niet aanpassen voor wedstrijden)
+- Matige dosis (100-200 mg)
+- Vroeg genoeg om interferentie door avondwedstrijden te voorkomen.
+- Combineer met voedsel om nervositeit te verminderen.
 
-### Ineffective Use
-- More than usual (causes anxiety, trembling)
-- Late in day (disrupts sleep)
-- On empty stomach (jitters, crash)
-- Relying on caffeine to compensate for poor sleep
+### Ineffectief gebruik
+- Meer dan normaal (veroorzaakt angst en trillen)
+- Laat op de dag (verstoort de slaap)
+- Op een lege maag (nerveus, energiedip)
+- Het gebruik van cafeïne om slaapgebrek te compenseren.
 
-## Building Your Competition Nutrition Plan
+## Het samenstellen van je wedstrijdvoedingsplan
 
-### Step 1: Test in Practice
-Try your competition nutrition plan in training:
-- Same timing
-- Same foods
-- Same hydration
-- Note how you feel and perform
+### Stap 1: Oefentest
+Test je wedstrijdvoedingsplan uit tijdens de training:
+- Dezelfde timing
+- Hetzelfde voedsel
+- Dezelfde hydratatie
+- Let op hoe je je voelt en presteert.
 
-### Step 2: Prepare Logistics
-- Know what food is available at venue
-- Bring your own proven snacks
-- Have backup options
-- Pack more than you think you need
+### Stap 2: Logistiek voorbereiden
+- Zorg dat u weet welk eten er op de locatie verkrijgbaar is.
+- Neem je eigen beproefde snacks mee.
+- Zorg voor back-upopties.
+- Neem meer mee dan je denkt nodig te hebben.
 
-### Step 3: Create a Schedule
-Write out your nutrition timing:
-- Pre-competition meal (time, food)
-- Pre-match snack (time, food)
-- During competition (schedule, foods)
-- Hydration reminder intervals
+### Stap 3: Maak een planning
+Noteer de timing van je maaltijden:
+- Maaltijd vóór de wedstrijd (tijd, eten)
+- Snack voor de wedstrijd (tijd, eten)
+- Tijdens de wedstrijd (schema, voeding)
+- Herinneringsintervallen voor hydratatie
 
-### Step 4: Track and Adjust
-After competitions, note:
-- What you ate and when
-- How you felt physically
-- Performance quality
-- Any issues (hunger, crash, stomach)
+### Stap 4: Volgen en aanpassen
+Na afloop van de wedstrijden, let op:
+- Wat je gegeten hebt en wanneer.
+- Hoe voelde je je fysiek?
+- Prestatiekwaliteit
+- Eventuele problemen (honger, energiedip, maagklachten)
 
-## Heat and Humidity Considerations
+## Aandachtspunten met betrekking tot hitte en luchtvochtigheid
 
-Hot weather changes requirements:
+Bij warm weer gelden andere eisen:
 
-- **Increase fluids** — May need 50-100% more
-- **Add electrolytes** — Sweating loses minerals
-- **Lighter meals** — Heavy food harder to process
-- **Shade breaks** — Don't underestimate heat stress
-- **Pre-cooling** — Arrive to venue cool and hydrated
+- **Verhoog de vochtinname** — Mogelijk 50-100% meer nodig.
+- **Voeg elektrolyten toe** — Door transpiratie gaan mineralen verloren.
+- **Lichtere maaltijden** — Zwaar voedsel is moeilijker te verwerken.
+- **Schaduwpauzes** — Onderschat de hittestress niet.
+- **Vooraf afkoelen** — Kom koel en gehydrateerd aan op de locatie.
 
-## Common Mistakes
+## Veelgemaakte fouten
 
-::: warning Avoid These
-- **Skipping breakfast** — Depletes morning glycogen
-- **Energy drinks** — Too much caffeine and sugar
-- **Waiting until hungry** — Already affecting performance
-- **Alcohol night before** — Dehydration and poor sleep
-- **Trying new foods** — Risk of digestive issues
+::: warning Vermijd deze
+- **Het ontbijt overslaan** — Vermindert de glycogeenvoorraad in de ochtend.
+- **Energiedranken** — Te veel cafeïne en suiker
+- **Wachten tot je honger hebt** — Heeft nu al invloed op de prestaties
+- **Alcoholgebruik de avond ervoor** — Uitdroging en slecht slapen
+- **Nieuwe voedingsmiddelen uitproberen** — Risico op spijsverteringsproblemen
 :::
 
-## Action Steps
+## Actiestappen
 
-1. **Plan your competition nutrition** in advance
-2. **Test your plan** in practice conditions
-3. **Prepare your snacks** the night before
-4. **Follow your schedule** regardless of match pressure
-5. **Review and refine** after each competition
+1. **Plan je wedstrijdvoeding van tevoren**
+2. **Test je plan** in de praktijk
+3. **Bereid je snacks voor** de avond ervoor
+4. **Houd je aan je schema**, ongeacht de wedstrijddruk.
+5. **Evalueer en verbeter** na elke wedstrijd.
 
 ---
 
-## Related Content
+## Gerelateerde inhoud
 
-- [Nutrition Module](/nl/education/nutrition/) — Complete nutrition education
-- [Competition Nutrition](/nl/education/nutrition/competition) — Detailed protocols
-- [Sleep for Performance](/nl/articles/sleep-performance) — Recovery optimization
+- [Voedingsmodule](/en/education/nutrition/) — Complete voedingseducatie
+- [Voeding voor wedstrijden](/en/education/nutrition/competition) — Gedetailleerde protocollen
+- [Slaap voor betere prestaties](/en/articles/sleep-performance) — Hersteloptimalisatie
 

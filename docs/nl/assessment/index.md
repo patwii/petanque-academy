@@ -3,108 +3,108 @@ title: Player Development Assessment
 description: Evaluate yourself on 8 key performance factors and discover your optimal improvement path with ROI-based recommendations.
 ---
 
-# Player Development Assessment
+# Beoordeling van de spelersontwikkeling
 
 <AssessmentForm />
 
 ---
 
-## How It Works
+## Hoe het werkt
 
-### The 8-Factor Model
+### Het 8-factorenmodel
 
-Our assessment is based on 8 key performance factors, each weighted by their impact on elite performance:
+Onze beoordeling is gebaseerd op 8 belangrijke prestatiefactoren, die elk gewogen zijn op basis van hun impact op topprestaties:
 
-| Factor | Weight | Why It Matters |
+| Factor | Gewicht | Waarom het belangrijk is |
 |--------|--------|----------------|
-| 🧠 **Mental Game** | 600 | Thought patterns, focus, and flow states determine consistency |
-| 🔥 **Motivation** | 500 | Sustained drive enables long-term improvement |
-| 😴 **Sleep & Recovery** | 400 | Rest directly impacts reaction time and decision-making |
-| 🪞 **Self-Awareness** | 400 | You can't improve what you can't see |
-| 🥗 **Nutrition** | 300 | Stable energy = stable performance |
-| 🤝 **Team Dynamics** | 300 | Communication and trust often outweigh talent |
-| 💆 **Tension Management** | 300 | Tension is precision's enemy |
-| 🎯 **Technique** | 100 | At elite level, everyone has good technique |
+| 🧠 **Mentale uitdaging** | 600 | Denkpatronen, focus en flow-toestanden bepalen de consistentie. |
+| 🔥 **Motivatie** | 500 | Aanhoudende gedrevenheid maakt verbetering op de lange termijn mogelijk. |
+| 😴 **Slaap &amp; Herstel** | 400 | Rust heeft een directe invloed op de reactietijd en het nemen van beslissingen. |
+| 🪞 **Zelfbewustzijn** | 400 | Je kunt iets niet verbeteren als je het niet kunt zien. |
+| 🥗 **Voeding** | 300 | Stabiele energie = stabiele prestaties |
+| 🤝 **Teamdynamiek** | 300 | Communicatie en vertrouwen wegen vaak zwaarder dan talent. |
+| 💆 **Spanningsmanagement** | 300 | Spanning is de vijand van precisie. |
+| 🎯 **Techniek** | 100 | Op topniveau heeft iedereen een goede techniek. |
 
-### The ROI Formula
+### De ROI-formule
 
-Not all improvements are equal. We calculate **Return on Investment (ROI)** to find where your effort will have the most impact:
+Niet alle verbeteringen zijn gelijkwaardig. We berekenen het **rendement op investering (ROI)** om te bepalen waar uw inspanningen de grootste impact zullen hebben:
 
 ```
 ROI = (Potential Gain × Weight) / Effort Required
 ```
 
-**Key insight:** A low score in a high-weight factor often gives better ROI than a medium score in a lower-weight factor.
+**Belangrijk inzicht:** Een lage score op een factor met een hoge weging levert vaak een beter rendement op dan een gemiddelde score op een factor met een lagere weging.
 
-### Example
+### Voorbeeld
 
-| Factor | Weight | Current | ROI |
+| Factor | Gewicht | Huidig | ROI |
 |--------|--------|---------|-----|
-| Sleep | 400 | 30% | 312 |
-| Mental Game | 600 | 70% | 169 |
-| Technique | 100 | 80% | 18 |
+| Slaap | 400 | 30% | 312 |
+| Mentaal spel | 600 | 70% | 169 |
+| Techniek | 100 | 80% | 18 |
 
-Despite Mental Game having the highest weight, improving Sleep from 30% offers **1.8x better ROI** because:
-- More room for improvement (low current level)
-- Less effort required (not fighting against plateau)
+Ondanks dat mentale training de hoogste weging heeft, levert een verbetering van de slaap met 30% een **1,8 keer betere ROI** op, omdat:
+- Er is nog ruimte voor verbetering (huidig niveau laag)
+- Minder inspanning vereist (geen strijd tegen plateau)
 
 ---
 
-## Rating Guidelines
+## Beoordelingsrichtlijnen
 
 ### 0-25%: Beginner
-- No experience or awareness
-- Learning basic concepts
-- Limited consistency
+- Geen ervaring of kennis
+- Basisconcepten leren
+- Beperkte consistentie
 
-### 25-50%: Developing
-- Some awareness but inconsistent
-- Basic understanding
-- Occasional success
+### 25-50%: In ontwikkeling
+- Enige bewustwording, maar inconsistent.
+- Basisbegrip
+- Incidenteel succes
 
-### 50-75%: Competent
-- Regular application
-- Good consistency
-- Can handle normal situations
+### 50-75%: Bekwaam
+- Reguliere aanvraag
+- Goede consistentie
+- Kan normale situaties aan.
 
-### 75-100%: Advanced/World-Class
-- Reliable execution
-- Works under pressure
-- Consistent excellence
+### 75-100%: Gevorderd/Wereldklasse
+- Betrouwbare uitvoering
+- Werkt onder druk
+- Constante uitmuntendheid
 
 ---
 
-## The Self-Awareness Catch-22
+## Het dilemma van zelfbewustzijn
 
-::: warning Important Note
-Low self-awareness affects the accuracy of ALL your assessments. If you suspect your self-awareness might be low, consider:
+::: warning Belangrijke opmerking
+Een laag zelfbewustzijn beïnvloedt de nauwkeurigheid van AL je beoordelingen. Als je vermoedt dat je zelfbewustzijn laag is, overweeg dan het volgende:
 
-1. **Ask trusted teammates** how they would rate you
-2. **Review video** of your play
-3. **Compare results** over time to calibrate
+1. **Vraag betrouwbare teamgenoten** hoe zij jou zouden beoordelen.
+2. **Bekijk de video** van je spel
+3. **Vergelijk de resultaten** in de loop van de tijd om te kalibreren.
 :::
 
 ---
 
-## What's Next?
+## Wat volgt?
 
-After completing your assessment:
+Na het voltooien van uw beoordeling:
 
-1. **Focus on your #1 recommendation** — Don't try to improve everything at once
-2. **Explore the education modules** — Each factor has in-depth content
-3. **Track progress over time** — Your data is saved locally
-4. **Re-assess monthly** — Track your improvement
+1. **Concentreer je op je belangrijkste aanbeveling** — Probeer niet alles tegelijk te verbeteren.
+2. **Ontdek de educatieve modules** — Elk onderdeel bevat uitgebreide inhoud.
+3. **Volg uw voortgang in de loop van de tijd** — Uw gegevens worden lokaal opgeslagen.
+4. **Evalueer maandelijks** — Houd uw vooruitgang bij.
 
 ---
 
-## Learn More About Each Factor
+## Leer meer over elke factor.
 
-- [🧠 Mental Game](/en_US.UTF-8/education/mental-game/) — Flow states, mental strength, mindfulness
-- [🔥 Motivation](/en_US.UTF-8/education/motivation/) — Goal setting, psychology, long-term drive
-- [😴 Sleep & Recovery](/en_US.UTF-8/education/sleep/) — Sleep science, habits, competition protocols
-- [🪞 Self-Awareness](/en_US.UTF-8/education/self-awareness/) — Feedback, video analysis, blind spots
-- [🥗 Nutrition](/en_US.UTF-8/education/nutrition/) — Blood sugar, hydration, competition fuel
-- [🤝 Team Dynamics](/en_US.UTF-8/education/team-dynamics/) — Communication, trust, team culture
-- [💆 Tension Management](/en_US.UTF-8/education/tension/) — Relaxation techniques, breathing, protocols
-- [🎯 Technique](/en_US.UTF-8/education/technique/) — Training methods, tactics, drills
+- [🧠 Mentale Spel](/en/education/mental-game/) — Flow-toestanden, mentale kracht, mindfulness
+- [🔥 Motivatie](/en/education/motivation/) — Doelstellingen formuleren, psychologie, langetermijnmotivatie
+- [😴 Slaap &amp; Herstel](/en/education/sleep/) — Slaapwetenschap, gewoonten, wedstrijdprotocollen
+- [🪞 Zelfbewustzijn](/en/education/self-awareness/) — Feedback, videoanalyse, blinde vlekken
+- [🥗 Voeding](/en/education/nutrition/) — Bloedsuiker, hydratatie, brandstof voor de wedstrijd
+- [🤝 Teamdynamiek](/en/education/team-dynamics/) — Communicatie, vertrouwen, teamcultuur
+- [💆 Spanningsmanagement](/en/education/tension/) — Ontspanningstechnieken, ademhalingsoefeningen, protocollen
+- [🎯 Techniek](/en/education/technique/) — Trainingsmethoden, tactieken, oefeningen
 

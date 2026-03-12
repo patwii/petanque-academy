@@ -1,50 +1,50 @@
-# Goal Setting for Pétanque Players
+# Establecimiento de objetivos para los jugadores de petanca
 
 
-Clear goals are your compass. They give direction to your training, motivation when things get hard, and a way to measure progress. Without goals, you're just throwing boules. With goals, you're building toward something.
+Las metas claras son tu brújula. Te guían en tu entrenamiento, te motivan cuando las cosas se ponen difíciles y te permiten medir tu progreso. Sin metas, solo estás jugando. Con metas, avanzas hacia algo.
 
-::: tip The Core Principle
-**A goal without a plan is just a wish.** Set clear goals, break them down, focus on what you control, and track your progress.
+::: tip El principio fundamental
+**Una meta sin un plan es solo un deseo.** Establece metas claras, divídelas en partes, concéntrate en lo que controlas y realiza un seguimiento de tu progreso.
 :::
 
-## Why Goals Matter
+## Por qué son importantes los objetivos
 
-Goals serve multiple purposes:
-- **Direction:** Know what to work on
-- **Motivation:** Have something to strive for
-- **Measurement:** Track your progress
-- **Focus:** Prioritize your limited time
+Los objetivos sirven para múltiples propósitos:
+- **Dirección:** Saber en qué trabajar
+- **Motivación:** Tener algo por lo que luchar
+- **Medición:** Sigue tu progreso
+- **Enfoque:** Prioriza tu tiempo limitado
 
-For the self-directed player, goals are especially important. Without a coach pushing you, your goals become your guide.
+Para el jugador autodidacta, las metas son especialmente importantes. Sin un entrenador que te presione, tus metas se convierten en tu guía.
 
-## The Three Types of Goals
+## Los tres tipos de objetivos
 
-Not all goals are equal. Understanding the different types helps you set better ones.
+No todos los objetivos son iguales. Comprender los diferentes tipos te ayudará a establecer objetivos más acertados.
 
-### 1. Outcome Goals
-**What:** The end result you want
-**Example:** "Win the regional championship"
-**Control level:** Low - depends on opponents, conditions, luck
+### 1. Objetivos de resultados
+**Qué:** El resultado final que deseas
+**Ejemplo:** &quot;Ganar el campeonato regional&quot;
+**Nivel de control:** Bajo - depende de los oponentes, las condiciones y la suerte.
 
-### 2. Performance Goals
-**What:** Specific performance standards
-**Example:** "Achieve 80% accuracy on shooting drills"
-**Control level:** Medium - depends mostly on you
+### 2. Metas de desempeño
+**Qué:** Estándares de desempeño específicos
+**Ejemplo:** &quot;Lograr una precisión del 80% en los ejercicios de tiro&quot;
+**Nivel de control:** Medio - depende principalmente de usted
 
-### 3. Process Goals
-**What:** Actions and behaviors you control
-**Example:** "Complete my pre-shot routine on every throw"
-**Control level:** High - entirely up to you
+### 3. Objetivos del proceso
+**Qué:** Acciones y comportamientos que controlas
+**Ejemplo:** &quot;Completar mi rutina previa al lanzamiento en cada lanzamiento&quot;
+**Nivel de control:** Alto - depende totalmente de usted
 
-### The Goal Hierarchy
+### La jerarquía de objetivos
 
 ```mermaid
 graph TD
-    A[Outcome Goal<br/>The Dream] --> B[Performance Goals<br/>Milestones]
-    B --> C[Process Goals<br/>Daily Actions]
+    A[Objetivo de resultado <br/> El sueño] --> B[Metas de desempeño <br/> Hitos]
+    B --> C[Objetivos del proceso <br/> Acciones diarias]
 
-    A2["Win Regional Championship"] --> B2["80% shooting accuracy"]
-    B2 --> C2["Complete pre-shot routine<br/>every throw"]
+    A2[&quot;Gana el Campeonato Regional&quot;] --> B2[&quot;80% de precisión de tiro&quot;]
+    B2 --> C2[&quot;Rutina completa previa al disparo <br/> cada lanzamiento&quot;]
 
     style A fill:#e1f5ff
     style B fill:#fff9c4
@@ -54,123 +54,123 @@ graph TD
     style C2 fill:#c8e6c9
 ```
 
-::: warning Key Insight
-**Focus most of your attention on process goals.** They're what you control, and they lead to the outcomes you want.
+::: warning Visión clave
+**Concentre la mayor parte de su atención en los objetivos del proceso.** Son lo que usted controla y conducen a los resultados que desea.
 
-- **Outcome goals:** Low control, high motivation
-- **Performance goals:** Medium control, measurable progress
-- **Process goals:** High control, daily focus ← **Focus here**
+- **Objetivos de resultado:** Bajo control, alta motivación
+- **Objetivos de rendimiento:** Control medio, progreso medible
+- **Objetivos del proceso:** Alto control, enfoque diario ← **Enfoque aquí**
 :::
 
-## The SMART Framework
+## El marco SMART
 
-::: info SMART Goals Checklist
-Every goal should be:
-- ✅ **S**pecific - Clear and well-defined
-- ✅ **M**easurable - You can track progress
-- ✅ **A**chievable - Challenging but possible
-- ✅ **R**elevant - Aligned with your bigger picture
-- ✅ **T**ime-bound - Has a deadline
+::: info Lista de verificación de objetivos SMART
+Todo objetivo debe ser:
+- ✅ **E**specífico - Claro y bien definido
+- ✅ **M**edible: puedes seguir tu progreso
+- ✅ **A**lcanzable - Desafiante pero posible
+- ✅ **R**elevante - Alineado con tu panorama general
+- ✅ **Límite temporal: tiene una fecha límite
 :::
 
 
-### S - Specific
-❌ "Get better at shooting"
-✅ "Improve my au fer (direct hit) accuracy from 8 meters"
+### S - Específico
+❌ &quot;Mejora tus tiros&quot;
+✅ &quot;Mejora mi precisión de au fer (impacto directo) desde 8 metros&quot;
 
-### M - Measurable
-❌ "Shoot more accurately"
-✅ "Score at least 24/30 on the shooting ladder drill"
+### M - Medible
+❌ &quot;Dispara con más precisión&quot;
+✅ &quot;Obtén al menos 24/30 en el ejercicio de escalera de tiro&quot;
 
-### A - Achievable
-❌ "Never miss a shot" (impossible)
-✅ "Improve accuracy by 10% over 8 weeks" (challenging but realistic)
+### A - Alcanzable
+❌ &quot;Nunca pierdas un tiro&quot; (imposible)
+✅ &quot;Mejorar la precisión en un 10% en 8 semanas&quot; (desafiante pero realista)
 
-### R - Relevant
-❌ "Run a marathon" (not directly related)
-✅ "Improve balance and stability for better throwing" (supports your game)
+### R - Relevante
+❌ &quot;Correr un maratón&quot; (no está directamente relacionado)
+✅ &quot;Mejora el equilibrio y la estabilidad para un mejor lanzamiento&quot; (apoya tu juego)
 
-### T - Time-bound
-❌ "Someday I'll be better"
-✅ "By March 15th, I will achieve..."
+### T - Limitado en el tiempo
+❌ &quot;Algún día seré mejor&quot;
+✅ &quot;Para el 15 de marzo lograré...&quot;
 
-## Goal Examples for Pétanque
+## Ejemplos de objetivos para la petanca
 
-| Type | Poor Goal | SMART Goal |
+| Tipo | Gol pobre | Objetivo SMART |
 |------|-----------|------------|
-| Outcome | "Win more" | "Reach the semi-finals at the Spring Tournament" |
-| Performance | "Point better" | "Achieve 70% of points within 50cm at 8m distance" |
-| Process | "Practice more" | "Complete 3 focused training sessions per week" |
+| Resultado | &quot;Gana más&quot; | &quot;Llegar a las semifinales en el Torneo de Primavera&quot; |
+| Actuación | &quot;Apunta mejor&quot; | Consigue el 70% de los puntos en un radio de 50 cm a una distancia de 8 m. |
+| Proceso | &quot;Practica más&quot; | Completar 3 sesiones de entrenamiento enfocadas por semana. |
 
-## Breaking Down Big Goals
+## Desglosando los grandes objetivos
 
-Large goals can feel overwhelming. Break them into smaller pieces:
+Las metas grandes pueden resultar abrumadoras. Divídelas en partes más pequeñas:
 
-### Example: "Win the Club Championship (12 months away)"
+### Ejemplo: &quot;Ganar el Campeonato de Clubes (dentro de 12 meses)&quot;
 
-**Yearly goal:** Win club championship
+**Objetivo anual:** Ganar el campeonato del club
 
-**Quarterly goals:**
-- Q1: Improve shooting accuracy to 75%
-- Q2: Develop consistent pre-shot routine
-- Q3: Master pressure situations
-- Q4: Peak performance and competition prep
+**Objetivos trimestrales:**
+- T1: Mejorar la precisión de disparo al 75%
+- T2: Desarrollar una rutina consistente antes de disparar
+- Q3: Domina las situaciones de presión
+- T4: Máximo rendimiento y preparación para la competición
 
-**Monthly goals (Q1):**
-- Month 1: Establish baseline, identify weaknesses
-- Month 2: Focus on shooting technique
-- Month 3: Add pressure to shooting practice
+**Objetivos mensuales (T1):**
+- Mes 1: Establecer una línea base, identificar debilidades
+- Mes 2: Enfoque en la técnica de tiro
+- Mes 3: Añade presión a la práctica de tiro
 
-**Weekly goals (Month 2):**
-- Week 1: 3 shooting sessions, video analysis
-- Week 2: Work on identified technique issue
-- Week 3: Increase distance gradually
-- Week 4: Test progress, adjust plan
+**Objetivos semanales (Mes 2):**
+- Semana 1: 3 sesiones de rodaje, análisis de vídeo
+- Semana 2: Trabajar en el problema técnico identificado
+- Semana 3: Aumenta la distancia gradualmente
+- Semana 4: Progreso de la prueba, ajuste el plan
 
-## Connecting Goals to Your "Why"
+## Conectando tus metas con tu &quot;por qué&quot;
 
-Goals work better when connected to deeper motivation.
+Los objetivos funcionan mejor cuando están conectados a una motivación más profunda.
 
-Ask yourself:
-- Why do I want to achieve this?
-- What will it mean to me?
-- How will I feel when I succeed?
-- What's driving me to improve?
+Pregúntese:
+- ¿Por qué quiero lograr esto?
+- ¿Qué significará para mí?
+- ¿Cómo me sentiré cuando tenga éxito?
+- ¿Qué me impulsa a mejorar?
 
-Write down your answers. Return to them when motivation fades.
+Anota tus respuestas. Revísalas cuando te falte la motivación.
 
-## In This Section
+## En esta sección
 
-- **[Psychology of Motivation](/es/education/motivation/motivation)** — Intrinsic vs extrinsic, Self-Determination Theory
-- **[SMART Goals in Detail](/es/education/motivation/smart-goals)** — Deep dive into creating effective goals
-- **[Creating Your Training Plan](/es/education/motivation/planning)** — Turn goals into action
-- **[Maintaining Motivation](/es/education/motivation/maintaining)** — Long-term sustainability, burnout prevention
+- **[Psicología de la motivación](/es/educacion/motivacion/motivacion)** — Intrínseca vs. extrínseca, Teoría de la autodeterminación
+- **[Objetivos SMART en detalle](/es/educacion/motivacion/objetivos-inteligentes)** — Profundice en la creación de objetivos efectivos
+- **[Creando tu plan de entrenamiento](/es/educacion/motivacion/planificacion)** — Convierte tus objetivos en acciones
+- **[Mantener la motivación](/es/educacion/motivacion/mantener)** — Sostenibilidad a largo plazo, prevención del agotamiento
 
-## Summary: Goal Setting Rules
+## Resumen: Reglas para establecer objetivos
 
-::: tip Rule #1: The Control Rule
-**Focus on process goals (what you control) over outcome goals.**
-Process goals lead to performance goals, which lead to outcome goals.
+::: tip Regla n.° 1: La regla del control
+**Concéntrese en los objetivos del proceso (lo que usted controla) en lugar de en los objetivos de resultados.**
+Los objetivos de proceso conducen a objetivos de desempeño, que conducen a objetivos de resultados.
 :::
 
-::: tip Rule #2: The SMART Rule
-**Goals must be Specific, Measurable, Achievable, Relevant, Time-bound.**
-Vague goals produce vague results. SMART goals produce progress.
+::: tip Regla n.° 2: La regla SMART
+**Los objetivos deben ser específicos, medibles, alcanzables, relevantes y con plazos determinados.**
+Los objetivos vagos producen resultados vagos. Los objetivos SMART producen progreso.
 :::
 
-::: tip Rule #3: The Breakdown Rule
-**Large goals need quarterly, monthly, and weekly milestones.**
-Break big goals into small, actionable steps you can complete this week.
+::: tip Regla n.° 3: La regla de la avería
+**Los objetivos grandes necesitan hitos trimestrales, mensuales y semanales.**
+Divida los objetivos grandes en pasos pequeños y viables que pueda completar esta semana.
 :::
 
-::: tip Rule #4: The Connection Rule
-**Connect goals to your deeper "why."**
-When motivation fades, your "why" keeps you going.
+::: tip Regla n.° 4: La regla de la conexión
+**Conecta tus objetivos con tu &quot;por qué&quot; más profundo.**
+Cuando la motivación se desvanece, tu “por qué” te mantiene en marcha.
 :::
 
-## Key Takeaway
+## Conclusión clave
 
-> A goal without a plan is just a wish.
+> Una meta sin un plan es solo un deseo.
 
-Set clear goals. Break them down. Focus on what you control. Track your progress.
+Establece metas claras. Desglósalas. Céntrate en lo que controlas. Monitorea tu progreso.
 

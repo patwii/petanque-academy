@@ -3,34 +3,34 @@ title: "Nutrition for Competition: Fueling Precision Performance"
 description: How what you eat and drink affects cognitive function, steady hands, and sustained focus during pétanque competition.
 ---
 
-# Nutrition for Competition: Fueling Precision Performance
+# Sporternährung: Präzisionsleistung fördern
 
-> "Your brain is your most important tool in pétanque. Feed it stable fuel, not roller coaster energy."
+> „Beim Pétanque ist dein Gehirn dein wichtigstes Werkzeug. Gib ihm beständige Energie, keine Achterbahnfahrt der Gefühle.“
 
-Pétanque competitions can last 6-10 hours. What you consume directly affects your cognitive function, fine motor control, and ability to maintain focus across multiple matches.
+Pétanque-Wettkämpfe können 6-10 Stunden dauern. Was Sie zu sich nehmen, beeinflusst direkt Ihre kognitive Leistungsfähigkeit, Ihre Feinmotorik und Ihre Fähigkeit, die Konzentration über mehrere Spiele hinweg aufrechtzuerhalten.
 
-::: tip The Golden Rule
-**Stable blood sugar = steady hands.** Every nutrition choice should support consistent energy, not spikes and crashes.
+::: tip Die Goldene Regel
+**Stabiler Blutzucker = ruhige Hände.** Jede Ernährungsentscheidung sollte eine gleichmäßige Energieversorgung unterstützen und keine Blutzuckerspitzen und -abfälle verursachen.
 :::
 
 ---
 
-## Why Nutrition Matters for Pétanque
+## Warum Ernährung beim Boule wichtig ist
 
-Unlike high-intensity sports, pétanque demands:
+Im Gegensatz zu Hochleistungssportarten erfordert Pétanque Folgendes:
 
 ```mermaid
 flowchart TD
-    A[Nutrition Choices] --> B[Blood Sugar Stability]
-    B --> C[Cognitive Function]
-    B --> D[Fine Motor Control]
-    B --> E[Emotional Regulation]
+    A[Ernährungsoptionen] --> B[Blutzuckerstabilität]
+    B --> C[Kognitive Funktion]
+    B --> D[Feinmotorik]
+    B --> E[Emotionsregulation]
 
-    C --> F[Sharp Decisions]
-    D --> G[Steady Hands]
-    E --> H[Calm Under Pressure]
+    C --> F[Scharfe Entscheidungen]
+    D --> G[Ruhige Hände]
+    E --> H[Ruhe bewahren in stressigen Situationen]
 
-    F --> I[Peak Performance]
+    F --> I[Spitzenleistung]
     G --> I
     H --> I
 
@@ -38,184 +38,184 @@ flowchart TD
     style I fill:#4CAF50,color:#fff
 ```
 
-The wrong nutrition choices create performance problems that players attribute to "mental weakness" or "bad luck."
+Die falsche Ernährung führt zu Leistungsproblemen, die die Spieler auf „mentale Schwäche“ oder „Pech“ zurückführen.
 
 ---
 
-## The Blood Sugar Connection
+## Der Zusammenhang mit dem Blutzuckerspiegel
 
-Your brain runs on glucose. Blood sugar fluctuations directly affect:
+Ihr Gehirn benötigt Glukose. Blutzuckerschwankungen wirken sich direkt aus auf:
 
-| Blood Sugar State | Mental Effect | Physical Effect |
+| Blutzuckerstatus | Mentale Wirkung | Physikalische Wirkung |
 |-------------------|---------------|-----------------|
-| **Stable** | Clear thinking, good decisions | Steady hands, consistent |
-| **Spike (too high)** | Initial energy, then crash | Jittery, over-active |
-| **Crash (too low)** | Poor concentration, irritability | Trembling, weak grip |
-| **Roller-coaster** | Unpredictable mood/focus | Inconsistent performance |
+| **Stabil** | Klar denken, gute Entscheidungen | Ruhige Hände, Beständigkeit |
+| **Spitze (zu hoch)** | Anfangsenergie, dann der Zusammenstoß | Nervös, überaktiv |
+| **Absturz (zu niedrig)** | Konzentrationsschwäche, Reizbarkeit | Zittern, schwacher Griff |
+| **Achterbahn** | Unvorhersehbare Stimmung/Fokus | Unbeständige Leistung |
 
-**Goal:** Maintain stable blood sugar throughout competition.
+**Ziel:** Aufrechterhaltung eines stabilen Blutzuckerspiegels während des gesamten Wettkampfs.
 
-## Competition Day Nutrition
+## Ernährung am Wettkampftag
 
-### Pre-Competition (3-4 hours before)
+### Vor dem Wettkampf (3-4 Stunden vorher)
 
-**Eat a substantial meal:**
-- Complex carbohydrates (oatmeal, whole grain bread, rice)
-- Protein (eggs, yogurt, lean meat)
-- Healthy fats (avocado, nuts, olive oil)
-- Avoid: Simple sugars, heavy/greasy foods
+**Essen Sie eine reichhaltige Mahlzeit:**
+- Komplexe Kohlenhydrate (Haferflocken, Vollkornbrot, Reis)
+- Protein (Eier, Joghurt, mageres Fleisch)
+- Gesunde Fette (Avocado, Nüsse, Olivenöl)
+- Vermeiden Sie: Einfache Zuckerarten, fettige/schwere Speisen
 
-**Example meals:**
-- Oatmeal with nuts and banana
-- Eggs on whole grain toast with avocado
-- Rice with chicken and vegetables
+**Beispielgerichte:**
+- Haferflocken mit Nüssen und Banane
+- Eier auf Vollkorntoast mit Avocado
+- Reis mit Hühnchen und Gemüse
 
-### Pre-Match (1-2 hours before)
+### Vor dem Spiel (1-2 Stunden vorher)
 
-**Light, familiar snack:**
-- Banana
-- Small handful of nuts
-- Half a sandwich
-- Avoid: Anything new or experimental
+**Leichter, bekannter Snack:**
+- Banane
+- eine kleine Handvoll Nüsse
+- halbes Sandwich
+- Vermeiden Sie: Alles Neue oder Experimentelle
 
-### During Competition
+### Während des Wettbewerbs
 
-**Between matches:**
-- Small, frequent snacks every 60-90 minutes
-- Nuts, seeds, dried fruit
-- Whole grain crackers
-- Fresh fruit (banana, apple)
+**Zwischen den Spielen:**
+- Kleine, häufige Snacks alle 60-90 Minuten
+- Nüsse, Samen, Trockenfrüchte
+- Vollkorncracker
+- Frisches Obst (Banane, Apfel)
 
-**During matches:**
-- Water sips between ends
-- Quick carbs if needed (dried fruit)
-- Avoid eating during active play
+**Während der Spiele:**
+- Wasser sickert zwischen den Enden hindurch
+- Bei Bedarf schnell verfügbare Kohlenhydrate (Trockenfrüchte)
+- Vermeiden Sie es, während des aktiven Spielens zu essen.
 
-### Recovery (After Competition)
+### Erholung (nach dem Wettkampf)
 
-**Within 30-60 minutes:**
-- Protein for muscle recovery
-- Carbohydrates to replenish
-- Fluids to rehydrate
+**Innerhalb von 30-60 Minuten:**
+- Protein für die Muskelregeneration
+- Kohlenhydrate zum Auffüllen
+- Flüssigkeiten zur Rehydrierung
 
-## Hydration Protocol
+## Hydratationsprotokoll
 
-### The Basics
-- Start hydrated (check morning urine color)
-- Drink steadily throughout, don't wait until thirsty
-- Target 150-250ml per hour of competition
-- Adjust for heat and humidity
+### Die Grundlagen
+- Beginnen Sie mit ausreichender Flüssigkeitszufuhr (achten Sie auf die Farbe des Morgenurins).
+- Trinken Sie regelmäßig, warten Sie nicht, bis Sie durstig sind.
+- Zielmenge: 150-250 ml pro Wettkampfstunde
+- An Hitze und Luftfeuchtigkeit anpassen
 
-### Warning Signs of Dehydration
-- Thirst (you're already dehydrated)
-- Dark urine
-- Headache
-- Decreased concentration
-- Fatigue
+### Warnzeichen für Dehydrierung
+- Durst (du bist bereits dehydriert)
+- Dunkler Urin
+- Kopfschmerzen
+- Verminderte Konzentration
+- Ermüdung
 
-### The Over-Hydration Trap
-Too much water, especially without electrolytes:
-- Frequent bathroom breaks (disrupts rhythm)
-- Diluted electrolytes (can cause trembling)
-- Discomfort and distraction
+### Die Überwässerungsfalle
+Zu viel Wasser, insbesondere ohne Elektrolyte:
+- Häufige Toilettenpausen (stören den Rhythmus)
+- Verdünnte Elektrolyte (können Zittern verursachen)
+- Unbehagen und Ablenkung
 
-**Balance:** Steady intake, include electrolytes in hot conditions.
+**Ausgewogene Ernährung:** Gleichmäßige Zufuhr, bei hohen Temperaturen Elektrolyte hinzufügen.
 
-## Foods to Avoid
+## Zu vermeidende Lebensmittel
 
-### On Competition Day
-- **Heavy meals** — Divert blood to digestion
-- **High sugar** — Cause energy crashes
-- **Alcohol (night before)** — Disrupts sleep, dehydrates
-- **Excessive caffeine** — Can cause jitters
-- **New foods** — Risk of digestive issues
-- **Greasy/fried foods** — Slow digestion, lethargy
+### Am Wettkampftag
+- **Schwere Mahlzeiten** — lenken das Blut zur Verdauung um
+- **Hoher Zuckergehalt** – Verursacht Energieeinbrüche.
+- **Alkohol (am Vorabend)** – Stört den Schlaf, entwässert.
+- **Übermäßiger Koffeinkonsum** – Kann Nervosität verursachen
+- **Neue Lebensmittel** – Risiko von Verdauungsproblemen
+- **Fettige/frittierte Speisen** – Langsame Verdauung, Lethargie
 
-### Foods That Cause Problems
-- **Carbonated drinks** — Bloating, discomfort
-- **High-fiber foods** — Can cause distress
-- **Dairy (for some)** — Digestive sensitivity
-- **Artificial sweeteners** — Can cause stomach issues
+### Lebensmittel, die Probleme verursachen
+- **Kohlensäurehaltige Getränke** – Blähungen, Unwohlsein
+- **Ballaststoffreiche Lebensmittel** – Können Beschwerden verursachen
+- **Milchprodukte (für manche)** – Verdauungsunverträglichkeit
+- **Künstliche Süßstoffe** – Können Magenprobleme verursachen
 
-## Caffeine Strategy
+## Koffeinstrategie
 
-Caffeine can enhance focus and reaction time, but requires careful management:
+Koffein kann die Konzentration und Reaktionszeit verbessern, erfordert aber eine sorgfältige Dosierung:
 
-### Effective Use
-- Know your tolerance
-- Consistent timing (don't change for competition)
-- Moderate dose (100-200mg)
-- Early enough to avoid evening matches interference
-- Combine with food to reduce jitters
+### Effektive Nutzung
+- Kenne deine Toleranz
+- Gleichbleibende Zeitvorgaben (nicht für Wettbewerbe ändern)
+- Mäßige Dosis (100-200 mg)
+- Früh genug, um Störungen durch Abendspiele zu vermeiden.
+- In Kombination mit Nahrungsmitteln kann dies Nervosität reduzieren.
 
-### Ineffective Use
-- More than usual (causes anxiety, trembling)
-- Late in day (disrupts sleep)
-- On empty stomach (jitters, crash)
-- Relying on caffeine to compensate for poor sleep
+### Ineffektive Nutzung
+- Mehr als üblich (verursacht Angstzustände, Zittern)
+- Spät am Tag (stört den Schlaf)
+- Auf nüchternen Magen (Nervosität, Zusammenbruch)
+- Sich auf Koffein verlassen, um schlechten Schlaf auszugleichen
 
-## Building Your Competition Nutrition Plan
+## Erstellung deines Wettkampf-Ernährungsplans
 
-### Step 1: Test in Practice
-Try your competition nutrition plan in training:
-- Same timing
-- Same foods
-- Same hydration
-- Note how you feel and perform
+### Schritt 1: Praxistest
+Probiere deinen Wettkampf-Ernährungsplan im Training aus:
+- Gleiche Zeit
+- Gleiche Lebensmittel
+- Gleiche Hydratation
+- Achten Sie auf Ihre Gefühle und Ihre Leistung.
 
-### Step 2: Prepare Logistics
-- Know what food is available at venue
-- Bring your own proven snacks
-- Have backup options
-- Pack more than you think you need
+### Schritt 2: Logistik vorbereiten
+- Informieren Sie sich über das Speisenangebot am Veranstaltungsort.
+- Bringen Sie Ihre eigenen bewährten Snacks mit.
+- Sorgen Sie für Backup-Optionen
+- Packen Sie mehr ein, als Sie denken.
 
-### Step 3: Create a Schedule
-Write out your nutrition timing:
-- Pre-competition meal (time, food)
-- Pre-match snack (time, food)
-- During competition (schedule, foods)
-- Hydration reminder intervals
+### Schritt 3: Einen Zeitplan erstellen
+Notieren Sie Ihren Ernährungsplan:
+- Mahlzeit vor dem Wettkampf (Zeitpunkt, Speisen)
+- Snack vor dem Spiel (Zeitpunkt, Art des Essens)
+- Während des Wettkampfs (Zeitplan, Verpflegung)
+- Erinnerungsintervalle für Flüssigkeitszufuhr
 
-### Step 4: Track and Adjust
-After competitions, note:
-- What you ate and when
-- How you felt physically
-- Performance quality
-- Any issues (hunger, crash, stomach)
+### Schritt 4: Verfolgen und Anpassen
+Nach Wettkämpfen ist Folgendes zu beachten:
+- Was du gegessen hast und wann
+- Wie Sie sich körperlich gefühlt haben
+- Leistungsqualität
+- Etwaige Probleme (Hunger, Erschöpfung, Magenbeschwerden)
 
-## Heat and Humidity Considerations
+## Überlegungen zu Hitze und Feuchtigkeit
 
-Hot weather changes requirements:
+Anforderungen an die Änderung der Wetterbedingungen bei heißem Wetter:
 
-- **Increase fluids** — May need 50-100% more
-- **Add electrolytes** — Sweating loses minerals
-- **Lighter meals** — Heavy food harder to process
-- **Shade breaks** — Don't underestimate heat stress
-- **Pre-cooling** — Arrive to venue cool and hydrated
+- **Flüssigkeitszufuhr erhöhen** – Möglicherweise benötigen Sie 50–100 % mehr Flüssigkeit.
+- **Elektrolyte zuführen** – Durch Schwitzen gehen Mineralien verloren.
+- **Leichtere Mahlzeiten** – Schwere Speisen sind schwerer verdaulich.
+- **Schattenpausen** – Hitzestress nicht unterschätzen
+- **Vorkühlung** – Kommen Sie kühl und hydriert am Veranstaltungsort an.
 
-## Common Mistakes
+## Häufige Fehler
 
-::: warning Avoid These
-- **Skipping breakfast** — Depletes morning glycogen
-- **Energy drinks** — Too much caffeine and sugar
-- **Waiting until hungry** — Already affecting performance
-- **Alcohol night before** — Dehydration and poor sleep
-- **Trying new foods** — Risk of digestive issues
+::: warning Vermeiden Sie diese
+- **Frühstück auslassen** – Verbraucht morgendliches Glykogen.
+- **Energy-Drinks** – Zu viel Koffein und Zucker
+- **Warten, bis man hungrig ist** – Beeinträchtigt bereits die Leistung
+- **Alkohol am Vorabend** – Dehydrierung und schlechter Schlaf
+- **Neue Lebensmittel ausprobieren** – Risiko von Verdauungsproblemen
 :::
 
-## Action Steps
+## Handlungsschritte
 
-1. **Plan your competition nutrition** in advance
-2. **Test your plan** in practice conditions
-3. **Prepare your snacks** the night before
-4. **Follow your schedule** regardless of match pressure
-5. **Review and refine** after each competition
+1. **Plane deine Wettkampfernährung** im Voraus.
+2. **Testen Sie Ihren Plan** unter Praxisbedingungen
+3. **Bereiten Sie Ihre Snacks** am Abend zuvor vor
+4. **Halten Sie sich unabhängig vom Spieldruck an Ihren Zeitplan**.
+5. **Nach jedem Wettbewerb überprüfen und optimieren**
 
 ---
 
-## Related Content
+## Verwandte Inhalte
 
-- [Nutrition Module](/de/education/nutrition/) — Complete nutrition education
-- [Competition Nutrition](/de/education/nutrition/competition) — Detailed protocols
-- [Sleep for Performance](/de/articles/sleep-performance) — Recovery optimization
+- [Ernährungsmodul](/en/education/nutrition/) — Umfassende Ernährungsbildung
+- [Wettkampfernährung](/en/education/nutrition/competition) — Detaillierte Protokolle
+- [Schlaf für mehr Leistung](/en/articles/sleep-performance) — Optimierung der Erholung
 

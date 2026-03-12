@@ -3,225 +3,225 @@ title: Getting and Using Feedback
 description: Learn to seek, receive, and integrate objective feedback to accelerate your pétanque improvement.
 ---
 
-# Getting and Using Feedback
+# Como obter e utilizar feedback
 
-Feedback is one of the most powerful tools for development—and one of the most underused. This page teaches you how to actively seek feedback, receive it constructively, and turn it into actionable improvement.
+O feedback é uma das ferramentas mais poderosas para o desenvolvimento — e uma das mais subutilizadas. Esta página ensina como buscar feedback ativamente, recebê-lo de forma construtiva e transformá-lo em melhorias práticas.
 
 ---
 
-## Why We Resist Feedback
+## Por que resistimos ao feedback?
 
-Before learning to seek feedback, understand why it's hard:
+Antes de aprender a pedir feedback, entenda por que isso é difícil:
 
-### Ego Protection
+### Proteção do Ego
 
-Your brain treats criticism of your performance as a threat to your identity. This triggers defensive responses:
-- Dismissing the feedback
-- Finding reasons why the person is wrong
-- Avoiding similar situations in the future
+Seu cérebro interpreta as críticas ao seu desempenho como uma ameaça à sua identidade. Isso desencadeia respostas defensivas:
+- Ignorando o feedback
+- Encontrar razões pelas quais a pessoa está errada.
+- Evitar situações semelhantes no futuro.
 
-### Confirmation Bias
+### Viés de confirmação
 
-We naturally seek information that confirms what we already believe. If you think you're a good pointer, you'll notice your successful points and explain away the misses.
+Naturalmente, buscamos informações que confirmem aquilo em que já acreditamos. Se você se considera um bom apontador, perceberá seus acertos e justificará os erros.
 
-### The Growth Mindset Shift
+### A Mudança para uma Mentalidade de Crescimento
 
-::: tip Reframe Feedback
-**Fixed mindset:** "Criticism means I'm flawed"
-**Growth mindset:** "Feedback is information that helps me improve"
+::: tip Reformule o feedback
+**Mentalidade fixa:** &quot;Críticas significam que eu tenho defeitos&quot;
+**Mentalidade de crescimento:** &quot;Feedback é informação que me ajuda a melhorar&quot;
 
-The difference isn't positivity—it's accuracy. Feedback is data, not judgment.
+A diferença não está na positividade, mas sim na precisão. O feedback é dado, não julgamento.
 :::
 
 ---
 
-## Sources of Objective Feedback
+## Fontes de feedback objetivo
 
-### 1. Quantitative Data
+### 1. Dados quantitativos
 
-Numbers don't lie or soften the truth:
+Os números não mentem nem disfarçam a verdade:
 
-| Metric | What It Reveals |
+| Métrica | O que isso revela |
 |--------|-----------------|
-| **Pointing accuracy %** | Technical baseline and trends |
-| **First vs. late game accuracy** | Fatigue/pressure effects |
-| **Shooting success rate** | By distance, target type, match situation |
-| **Carreau percentage** | Risk-taking effectiveness |
+| **Precisão de apontamento %** | Linha de base técnica e tendências |
+| **Precisão no início versus no final do jogo** | Efeitos da fadiga/pressão |
+| **Taxa de sucesso nos disparos** | Por distância, tipo de alvo, situação da partida |
+| **Percentagem de Carreau** | eficácia na tomada de riscos |
 
-### 2. Teammates
+### 2. Colegas de equipe
 
-Your teammates see you in competition—when your self-perception is least accurate:
+Seus colegas de equipe te veem em competição — justamente quando sua autoimagem é menos precisa:
 
-**What to ask:**
-- "How do I seem to you when we're behind?"
-- "What do you notice about my approach in close games?"
-- "What's one thing I could do to be a better teammate?"
+**O que perguntar:**
+- &quot;Como eu pareço para você quando estamos em desvantagem?&quot;
+- &quot;O que você percebe sobre minha abordagem em jogos equilibrados?&quot;
+- &quot;O que eu poderia fazer para ser um companheiro de equipe melhor?&quot;
 
-### 3. Opponents
+### 3. Oponentes
 
-Post-match conversations with trusted opponents can be revealing:
+Conversas pós-jogo com adversários de confiança podem ser reveladoras:
 
-**What to ask:**
-- "What were you trying to exploit in my game?"
-- "Was there anything that surprised you about how I played?"
+**O que perguntar:**
+- &quot;O que você estava tentando explorar no meu jogo?&quot;
+- &quot;Houve algo que te surpreendeu na minha atuação?&quot;
 
-### 4. Coaches/Experienced Players
+### 4. Treinadores/Jogadores Experientes
 
-External expertise provides perspective you can't generate yourself:
+A experiência externa proporciona uma perspectiva que você não consegue gerar por conta própria:
 
-**What to ask:**
-- "What's the biggest gap between my potential and my current performance?"
-- "What pattern do you see in my misses?"
-- "What would you prioritize if you were coaching me?"
+**O que perguntar:**
+- Qual é a maior diferença entre meu potencial e meu desempenho atual?
+- &quot;Que padrão você vê nas minhas mulheres?&quot;
+- &quot;Se você fosse meu treinador, quais seriam suas prioridades?&quot;
 
-### 5. Video Analysis
+### 5. Análise de vídeo
 
-The most objective mirror available. See [Video Analysis](/pt/education/self-awareness/video) for detailed protocols.
+O espelho mais objetivo disponível. Consulte a [Análise em Vídeo](/en/education/self-awareness/video) para obter protocolos detalhados.
 
 ---
 
-## How to Ask for Feedback Effectively
+## Como pedir feedback de forma eficaz
 
-### The SEEK Framework
+### O Framework SEEK
 
-**S - Specific**
-Don't ask: "How did I play?"
-Ask: "How did my pointing accuracy look in the third end when we were behind?"
+**S - Específico**
+Não pergunte: &quot;Como eu joguei?&quot;
+Pergunte: &quot;Como foi minha precisão de apontamento no terceiro end, quando estávamos perdendo?&quot;
 
-**E - Examples**
-Ask: "Can you give me a specific example?"
-This forces concrete feedback instead of generalizations.
+**E - Exemplos**
+Pergunte: &quot;Você pode me dar um exemplo específico?&quot;
+Isso força um feedback concreto em vez de generalizações.
 
-**E - Exploratory**
-Approach with curiosity, not defense.
-"I'm trying to understand my blind spots. What might I be missing?"
+**E - Exploratório**
+Aborde a questão com curiosidade, não com defensiva.
+&quot;Estou tentando entender meus pontos cegos. O que pode estar me escapando?&quot;
 
-**K - Kind (to yourself)**
-Remember: Seeking feedback is brave. You're doing hard work.
+**K - Gentil (consigo mesmo)**
+Lembre-se: pedir feedback é uma atitude corajosa. Você está se dedicando muito.
 
-### Timing Matters
+### O momento certo é importante.
 
-| When | Best For | Avoid |
+| Quando | Ideal para | Evitar |
 |------|----------|-------|
-| **Immediately after** | Specific technical observations | Emotional processing |
-| **Next day** | Balanced perspective, patterns | If details have faded |
-| **Video review** | Objective analysis | If it delays action too long |
+| **Imediatamente após** | Observações técnicas específicas | Processamento emocional |
+| **No dia seguinte** | Perspectiva equilibrada, padrões | Se os detalhes desapareceram |
+| **Análise em vídeo** | Análise objetiva | Se isso atrasar a ação por muito tempo |
 
 ---
 
-## Receiving Feedback Without Defensiveness
+## Receber feedback sem se colocar na defensiva
 
-When feedback arrives, your brain will want to defend. Here's how to override that:
+Quando você recebe feedback, seu cérebro quer se defender. Veja como neutralizar isso:
 
-### The 3-Second Rule
+### A Regra dos 3 Segundos
 
-When you receive feedback, **wait 3 seconds before responding**. This gives your rational brain time to engage before your emotional brain reacts.
+Ao receber feedback, **espere 3 segundos antes de responder**. Isso dá tempo para seu cérebro racional processar a informação antes que seu cérebro emocional reaja.
 
-### The "Tell Me More" Technique
+### A técnica &quot;Conte-me mais&quot;
 
-Instead of defending, say: "Tell me more about that."
+Em vez de se defender, diga: &quot;Conte-me mais sobre isso.&quot;
 
-This:
-- Buys processing time
-- Shows you value the input
-- Often reveals the root insight
+Esse:
+- Compra tempo de processamento
+- Mostra que você valoriza a opinião.
+- Muitas vezes revela a essência da questão.
 
-### Separate Reception from Evaluation
+### Separar a recepção da avaliação.
 
-**Step 1:** Receive (just listen)
-**Step 2:** Clarify (make sure you understand)
-**Step 3:** Thank (acknowledge the gift)
-**Step 4:** Evaluate (later, privately decide what to act on)
+**Passo 1:** Receber (apenas ouvir)
+**Etapa 2:** Esclareça (certifique-se de que entendeu)
+**Passo 3:** Agradeça (reconheça o presente)
+**Etapa 4:** Avaliar (mais tarde, decida em particular sobre o que agir)
 
-You don't have to agree with feedback immediately. You just have to receive it with openness.
-
----
-
-## The Feedback Response Protocol
-
-Use this when receiving feedback:
-
-1. **"Thank you for telling me that."**
-   - Genuine appreciation, even if the feedback stings
-
-2. **"Can you give me a specific example?"**
-   - Moves from general to actionable
-
-3. **"What would you suggest I try?"**
-   - Invites partnership in improvement
-
-4. **"I'm going to think about that."**
-   - Honest commitment without immediate agreement
+Você não precisa concordar com o feedback imediatamente. Basta recebê-lo com abertura.
 
 ---
 
-## Turning Feedback into Action
+## Protocolo de Resposta de Feedback
 
-Feedback without action is just uncomfortable conversation.
+Use isso ao receber feedback:
 
-### The Feedback-to-Action Process
+1. **&quot;Obrigado por me dizer isso.&quot;**
+   - Apreciação genuína, mesmo que a crítica seja dolorosa.
+
+2. **&quot;Pode me dar um exemplo específico?&quot;**
+   - Passa do geral para o prático.
+
+3. **&quot;O que você sugere que eu experimente?&quot;**
+   - Convida à parceria para a melhoria.
+
+4. **&quot;Vou pensar nisso.&quot;**
+   - Compromisso honesto sem acordo imediato.
+
+---
+
+## Transformando feedback em ação
+
+Feedback sem ação é apenas uma conversa desconfortável.
+
+### O Processo de Feedback para Ação
 
 ```mermaid
 flowchart LR
-    A[Receive Feedback] --> B[Clarify Understanding]
-    B --> C[Identify Pattern]
-    C --> D[Design Practice]
+    A[Receba feedback] --> B[Esclarecer o entendimento]
+    B --> C[Identificar padrão]
+    C --> D[Prática de Design]
     D --> E[Implement]
-    E --> F[Seek Follow-up Feedback]
+    E --> F[Solicite feedback posterior]
     F --> A
 ```
 
-### Action Template
+### Modelo de ação
 
-For each piece of actionable feedback:
+Para cada feedback acionável:
 
-| Element | Your Response |
+| Elemento | Sua resposta |
 |---------|---------------|
-| **The Feedback** | (What was said) |
-| **The Pattern** | (What recurring issue does this reveal?) |
-| **The Action** | (What specific thing will you practice?) |
-| **The Measure** | (How will you know if you've improved?) |
-| **The Timeline** | (When will you reassess?) |
+| **O Feedback** | (O que foi dito) |
+| **O Padrão** | (Que problema recorrente isso revela?) |
+| **A Ação** | (O que especificamente você vai praticar?) |
+| **A Medida** | (Como você saberá se houve melhora?) |
+| **A Linha do Tempo** | (Quando você fará uma nova avaliação?) |
 
 ---
 
-## Creating a Feedback Culture
+## Criando uma cultura de feedback
 
-### With Your Team
+### Com sua equipe
 
-- **Normalize it:** Regular feedback becomes expected, not exceptional
-- **Two-way street:** Give feedback to receive it comfortably
-- **Timing agreements:** "Let's debrief after matches" vs. unsolicited criticism
-- **Focus on specifics:** "I noticed X" is better than "You always Y"
+- **Normalizar:** O feedback regular passa a ser esperado, não excepcional.
+- **Via de mão dupla:** Dê feedback para recebê-lo com tranquilidade.
+- **Acordos de tempo:** &quot;Vamos conversar depois das partidas&quot; versus críticas não solicitadas
+- **Dê atenção aos detalhes:** &quot;Notei que X&quot; é melhor do que &quot;Você sempre Y&quot;
 
-### With Yourself
+### Com você mesmo
 
-- **Weekly self-review:** Dedicated time to assess your week
-- **Written reflection:** Writing creates clarity
-- **Pattern tracking:** Look for recurring themes across multiple sources
+- **Autoavaliação semanal:** Reserve um tempo para avaliar sua semana.
+- **Reflexão escrita:** Escrever traz clareza
+- **Rastreamento de padrões:** Procure por temas recorrentes em diversas fontes.
 
 ---
 
-## The Feedback-Resistant Player
+## O jogador resistente ao feedback
 
-If you recognize yourself in any of these, prioritize this work:
+Se você se identificar com alguma dessas situações, priorize este trabalho:
 
-::: warning Signs of Feedback Resistance
-- You can always explain why the feedback doesn't apply
-- You seek feedback only from people who agree with you
-- You feel attacked when receiving constructive input
-- You avoid people who challenge your self-perception
-- You rationalize poor results as external factors
+::: warning Sinais de resistência ao feedback
+- Você sempre pode explicar por que o feedback não se aplica.
+- Você busca feedback apenas de pessoas que concordam com você.
+- Você se sente atacado ao receber feedback construtivo.
+- Você evita pessoas que desafiam sua autoimagem.
+- Você justifica os resultados ruins como fatores externos.
 :::
 
-Breaking these patterns requires conscious effort—but the payoff is accelerated improvement.
+Quebrar esses padrões exige esforço consciente, mas a recompensa é uma melhoria acelerada.
 
 ---
 
-## Related Content
+## Conteúdo relacionado
 
-- [The Self-Awareness Advantage](/pt/education/self-awareness/) — Why self-knowledge matters
-- [Video Analysis](/pt/education/self-awareness/video) — Objective self-observation
-- [Team Dynamics](/pt/education/team-dynamics/) — Communication with teammates
-- [Mental Strength](/pt/education/mental-game/mental-strength/) — Handling difficult truths
+- [A Vantagem da Autoconsciência](/en/education/self-awareness/) — Por que o autoconhecimento é importante
+- [Análise de vídeo](/en/education/self-awareness/video) — Auto-observação objetiva
+- Dinâmica de Equipe — Comunicação com os colegas de equipe
+- [Força Mental](/en/education/mental-game/mental-strength/) — Lidando com verdades difíceis
 

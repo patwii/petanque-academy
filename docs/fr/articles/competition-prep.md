@@ -3,22 +3,22 @@ title: Competition Preparation
 description: Prepare optimally for pétanque competitions. Learn the physical, mental, and tactical preparation that sets you up for peak performance.
 ---
 
-# Competition Preparation
+# Préparation à la compétition
 
-> "The match doesn't start when you throw the first boule — it starts days before."
+> « Le match ne commence pas au moment où l&#39;on lance la première boule, il commence des jours avant. »
 
-How you prepare in the lead-up to competition significantly impacts your performance. Elite players don't leave preparation to chance.
+La manière dont vous vous préparez avant une compétition a un impact considérable sur vos performances. Les joueurs de haut niveau ne laissent rien au hasard en matière de préparation.
 
-::: tip The Preparation Principle
-**Proper preparation prevents poor performance.** Every elite player has a systematic approach to competition readiness.
+::: tip Le principe de préparation
+**Une bonne préparation évite les contre-performances.** Chaque joueur d&#39;élite a une approche systématique de sa préparation à la compétition.
 :::
 
 ```mermaid
 flowchart LR
-    A[1 Week Before] --> B[2 Days Before]
-    B --> C[Day Before]
-    C --> D[Competition Day]
-    D --> E[Peak Performance]
+    A[1 semaine avant] --> B[2 jours avant]
+    B --> C[La veille]
+    C --> D[Journée de compétition]
+    D --> E[Performance optimale]
 
     style A fill:#e3f2fd
     style B fill:#bbdefb
@@ -29,254 +29,254 @@ flowchart LR
 
 ---
 
-## The Preparation Timeline
+## Calendrier de préparation
 
-### One Week Before
+### Une semaine avant
 
-**Physical:**
-- Maintain normal training intensity
-- Ensure adequate rest
-- Address any minor physical issues
-
-**Mental:**
-- Visualize successful performance
-- Review goals for the competition
-- Begin focusing attention
-
-**Tactical:**
-- Research opponents if possible
-- Review your game plan
-- Discuss strategy with teammates
-
-### Two Days Before
-
-**Physical:**
-- Reduce training intensity
-- Focus on feeling good, not improving
-- Prioritize sleep
+**Physique:**
+- Maintenir une intensité d&#39;entraînement normale
+- Assurez-vous de vous reposer suffisamment.
+- Réglez tout problème physique mineur
 
 **Mental:**
-- Increase visualization practice
-- Manage pre-competition nerves
-- Stay positive and confident
+- Visualisez une performance réussie
+- Examiner les objectifs de la compétition
+- Commencez à concentrer votre attention.
 
-**Logistical:**
-- Prepare equipment
-- Plan travel and timing
-- Handle administrative details
+**Tactique:**
+- Faites des recherches sur les adversaires si possible.
+- Revoyez votre plan de match
+- Discutez de la stratégie avec vos coéquipiers.
 
-### Day Before
+### Deux jours avant
 
-**Physical:**
-- Light practice only
-- Rest and recovery
-- Good nutrition and hydration
+**Physique:**
+- Réduire l&#39;intensité de l&#39;entraînement
+- Concentrez-vous sur le bien-être, pas sur l&#39;amélioration.
+- Priorisez le sommeil
 
 **Mental:**
-- Final visualization session
-- Relaxation techniques
-- Positive self-talk
+- Augmentez votre pratique de la visualisation
+- Gérer le stress avant la compétition
+- Restez positif et confiant
 
-**Practical:**
-- Confirm all logistics
-- Prepare what you'll wear
-- Set alarms and reminders
+**Logistique:**
+- Préparer le matériel
+- Planifiez votre voyage et son horaire.
+- Gérer les détails administratifs
 
-### Competition Day
+### La veille
 
-**Morning:**
-- Wake with adequate time
-- Eat familiar, proven foods
-- Begin mental preparation
+**Physique:**
+- Pratique légère seulement
+- Repos et récupération
+- Une bonne nutrition et une bonne hydratation
 
-**Pre-Match:**
-- Arrive early
-- Familiarize with terrain
-- Complete warm-up routine
-- Final team alignment
+**Mental:**
+- Séance de visualisation finale
+- Techniques de relaxation
+- Discours intérieur positif
 
-## Physical Preparation
+**Pratique:**
+- Confirmer toute la logistique
+- Préparez ce que vous porterez
+- Programmer des alarmes et des rappels
 
-### Sleep
+### Journée de compétition
 
-Sleep is performance fuel:
-- Prioritize 7-9 hours in the days before
-- Maintain consistent sleep schedule
-- Avoid alcohol and screens before bed
+**Matin:**
+- Réveillez-vous suffisamment tôt.
+- Mangez des aliments familiers et éprouvés
+- Début de la préparation mentale
+
+**Avant le match :**
+- Arrivez tôt
+- Familiarisez-vous avec le terrain
+- Routine d&#39;échauffement complète
+- Composition finale de l&#39;équipe
+
+## Préparation physique
+
+### Dormir
+
+Le sommeil est un carburant pour la performance :
+- Consacrez 7 à 9 heures aux jours précédents.
+- Maintenez un horaire de sommeil régulier
+- Évitez l&#39;alcool et les écrans avant de vous coucher.
 
 ### Nutrition
 
-Fuel your performance:
-- Eat familiar foods (not experimental)
-- Stay hydrated
-- Avoid heavy meals close to play
-- Have snacks available during competition
+Boostez vos performances :
+- Mangez des aliments que vous connaissez (pas des aliments expérimentaux).
+- Restez hydraté
+- Évitez les repas copieux à proximité du jeu
+- Prévoyez des en-cas pendant la compétition.
 
-### Physical Readiness
+### Préparation physique
 
-Arrive ready to perform:
-- Address any injuries or discomfort
-- Warm up properly
-- Stay loose between matches
+Arrivez prêts à jouer :
+- Signalez toute blessure ou gêne.
+- Échauffez-vous correctement
+- Restez détendu entre les matchs
 
-## Mental Preparation
+## Préparation mentale
 
-### Visualization
+### Visualisation
 
-See success before it happens:
-- Visualize specific scenarios you might face
-- See yourself handling pressure well
-- Feel the confidence of good performance
+Anticipez le succès :
+- Visualisez des scénarios spécifiques auxquels vous pourriez être confronté.
+- Vous vous voyez bien gérer la pression
+- Ressentez la confiance d&#39;une bonne performance
 
-### Goal Setting
+### Définition d&#39;objectifs
 
-Know what you're aiming for:
-- Outcome goals (what you want to achieve)
-- Process goals (how you'll play)
-- Focus goals (where attention goes)
+Sachez quel est votre objectif :
+- Objectifs de résultats (ce que vous souhaitez atteindre)
+- Objectifs du processus (comment vous allez jouer)
+- Objectifs principaux (où se porte l&#39;attention)
 
-### Confidence Building
+### Renforcement de la confiance
 
-Enter competition believing in yourself:
-- Review past successes
-- Affirm your preparation
-- Focus on strengths
+Participez à la compétition en croyant en vous :
+- Analyse des succès passés
+- Affirmez votre préparation
+- Mettez l&#39;accent sur vos points forts
 
-### Anxiety Management
+### Gestion de l&#39;anxiété
 
-Channel nerves productively:
-- Recognize anxiety as normal
-- Use breathing techniques
-- Reframe nerves as excitement
+Canaliser les nerfs de manière productive :
+- Reconnaître l&#39;anxiété comme un phénomène normal
+- Utilisez des techniques de respiration
+- Transformez la nervosité en excitation
 
-## Tactical Preparation
+## Préparation tactique
 
-### Know Your Game
+### Connaissez votre jeu
 
-Be clear on your approach:
-- What's your team's style?
-- What are your strengths to leverage?
-- What weaknesses to manage?
+Soyez clair sur votre approche :
+- Quel est le style de votre équipe ?
+- Quels sont vos atouts à exploiter ?
+- Quelles faiblesses gérer ?
 
-### Know the Competition
+### Connaître la concurrence
 
-Gather useful intelligence:
-- Opponents' tendencies
-- Terrain characteristics
-- Competition format and rules
+Recueillir des renseignements utiles :
+- Tendances des adversaires
+- Caractéristiques du terrain
+- Format et règles de la compétition
 
-### Have a Plan
+### Ayez un plan
 
-Enter with clear intentions:
-- Opening strategy
-- Adjustments for different scenarios
-- Roles and responsibilities
+Entrez avec des intentions claires :
+- stratégie d&#39;ouverture
+- Ajustements pour différents scénarios
+- Rôles et responsabilités
 
-## Team Preparation
+## Préparation de l&#39;équipe
 
-### Alignment
+### Alignement
 
-Ensure everyone is on the same page:
-- Shared goals
-- Clear roles
-- Agreed communication approach
+S&#39;assurer que tout le monde est sur la même longueur d&#39;onde :
+- Objectifs partagés
+- Rôles clairs
+- Approche de communication convenue
 
-### Support Systems
+### Systèmes de soutien
 
-Set up mutual support:
-- How will you encourage each other?
-- How will you handle setbacks?
-- What does support look like?
+Mettre en place un soutien mutuel :
+- Comment allez-vous vous encourager mutuellement ?
+- Comment gérerez-vous les revers ?
+- À quoi ressemble le soutien ?
 
-### Logistics
+### Logistique
 
-Handle practical matters:
-- Travel arrangements
-- Meeting times and places
-- Equipment responsibilities
+Gérer les questions pratiques :
+- Organisation du voyage
+- Horaires et lieux de rencontre
+- Responsabilités liées à l&#39;équipement
 
-## The Warm-Up Routine
+## La routine d&#39;échauffement
 
-### Physical Warm-Up (15-20 minutes)
+### Échauffement physique (15-20 minutes)
 
-1. Light movement (walking, arm circles)
-2. Dynamic stretching
-3. Gradual throwing (short to long distance)
-4. Full-intensity throws
+1. Mouvements légers (marche, cercles avec les bras)
+2. étirements dynamiques
+3. Lancer progressif (de courte à longue distance)
+4. Lancers à pleine intensité
 
-### Mental Warm-Up (5-10 minutes)
+### Échauffement mental (5 à 10 minutes)
 
-1. Transition focus to competition
-2. Brief visualization
-3. Positive self-talk
-4. Intention setting
+1. Transition vers la compétition
+2. brève visualisation
+3. Discours intérieur positif
+4. Définition des intentions
 
-### Terrain Familiarization
+### Familiarisation avec le terrain
 
-1. Observe the playing surface
-2. Note any irregularities
-3. Test different areas if possible
-4. Discuss observations with team
+1. Observez la surface de jeu
+2. Signaler toute irrégularité
+3. Testez différentes zones si possible.
+4. Discutez de vos observations avec l&#39;équipe.
 
 ---
 
-## Common Preparation Mistakes
+## Erreurs courantes de préparation
 
-::: danger Avoid These Traps
+::: danger Évitez ces pièges
 
-| Mistake | Why It Hurts |
+| Erreur | Pourquoi ça fait mal |
 |---------|--------------|
-| **Over-Training** | Trying to improve in final days leads to fatigue, not gains |
-| **Under-Sleeping** | Sacrificing sleep for extra practice backfires |
-| **New Experiments** | Competition day is not for trying new techniques |
-| **Ignoring Nerves** | Pretending you're not nervous doesn't help |
-| **Poor Logistics** | Rushing creates unnecessary stress |
+| **Surentraînement** | Tenter de s&#39;améliorer dans les derniers jours engendre de la fatigue, et non des gains. |
+| **Manque de sommeil** | Sacrifier son sommeil pour s&#39;entraîner davantage est contre-productif. |
+| **Nouvelles expériences** | Le jour de la compétition n&#39;est pas fait pour essayer de nouvelles techniques |
+| **Ignorer les nerfs** | Faire semblant de ne pas être nerveux n&#39;aide pas |
+| **Mauvaise logistique** | Se précipiter engendre un stress inutile |
 
 :::
 
-## The Night Before
+## La nuit précédant
 
-### Do:
-- Prepare everything you need
-- Get to bed at normal time
-- Use relaxation techniques if needed
-- Trust your preparation
+### Faire:
+- Préparez tout ce dont vous avez besoin
+- Couchez-vous à une heure normale.
+- Utilisez des techniques de relaxation si nécessaire
+- Ayez confiance en votre préparation
 
-### Don't:
-- Stay up late worrying
-- Over-analyze strategy
-- Consume alcohol or heavy food
-- Engage in stressful activities
+### Ne le faites pas:
+- Rester éveillé tard à s&#39;inquiéter
+- Suranalyser la stratégie
+- Consommez de l&#39;alcool ou des aliments lourds
+- S&#39;adonner à des activités stressantes
 
-## Competition Morning
+## Matinée de compétition
 
-### Routine Matters
+### Affaires courantes
 
-Stick to familiar patterns:
-- Wake at planned time
-- Eat proven foods
-- Follow your normal morning routine
-- Leave with plenty of time
+Restez fidèle aux schémas habituels :
+- Réveil à l&#39;heure prévue
+- Consommez des aliments dont l&#39;efficacité est prouvée.
+- Suivez votre routine matinale habituelle
+- Partez avec suffisamment de temps.
 
-### Mental State
+### État mental
 
-Cultivate the right mindset:
-- Excited, not anxious
-- Confident, not arrogant
-- Focused, not tense
-- Ready, not desperate
+Cultivez le bon état d&#39;esprit :
+- Enthousiaste, pas anxieuse
+- Confiant, pas arrogant.
+- Concentré, pas tendu
+- Prêts, pas désespérés
 
-## Arriving at the Venue
+## Arrivée sur le lieu de l&#39;événement
 
-1. **Settle in**: Find your space, organize equipment
-2. **Observe**: Look at terrain, note conditions
-3. **Warm up**: Complete your routine
-4. **Connect**: Brief team alignment
-5. **Focus**: Final mental preparation
+1. **Installez-vous** : Trouvez votre espace, organisez votre équipement
+2. **Observer** : Examiner le terrain, noter les conditions
+3. **Échauffement** : Terminez votre routine
+4. **Connexion** : Brève réunion d’équipe
+5. **Objectif** : Préparation mentale finale
 
-You've prepared well. Now trust it and compete.
+Tu t&#39;es bien préparé. Maintenant, fais-toi confiance et lance-toi dans la compétition.
 
 ---
 
-*Related: [Training Methods](/fr/education/technique/training/) | [Handling Pressure](/fr/education/mental-game/mental-strength/handling-pressure) | [Pre-Shot Routine](/fr/education/mental-game/mental-strength/pre-shot-routine)*
+| *En lien avec : [Méthodes de formation](/en/education/technique/training/) | [Gérer la pression](/en/education/mental-game/mental-strength/handling-pressure) | [Routine d&#39;avant-tir](/en/education/mental-game/mental-strength/pre-shot-routine)* |
 

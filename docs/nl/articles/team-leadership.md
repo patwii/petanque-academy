@@ -3,280 +3,280 @@ title: Leadership in Pétanque
 description: Develop leadership skills that elevate your team's performance. Learn how to lead effectively whether you're the captain or a supporting player.
 ---
 
-# Leadership in Pétanque
+# Leiderschap in pétanque
 
-> "Leadership isn't just about being the captain — it's about bringing out the best in your team."
+> &quot;Leiderschap gaat niet alleen over aanvoerder zijn, maar ook over het beste in je team naar boven halen.&quot;
 
-Every player can lead in different ways. It's about influence, support, and modeling excellence.
+Iedere speler kan op een andere manier leidinggeven. Het gaat om invloed, steun en het tonen van uitmuntendheid.
 
-::: tip Everyone Can Lead
-**You don't need a title to be a leader.** Leadership is behavior, not position.
+::: tip Iedereen kan leidinggeven
+**Je hebt geen titel nodig om een leider te zijn.** Leiderschap is gedrag, geen positie.
 :::
 
 ---
 
-## What Is Pétanque Leadership?
+## Wat houdt pétanque-leiderschap in?
 
 ```mermaid
 flowchart LR
-    A[Effective Leadership] --> B[Good Decisions]
-    A --> C[Team Support]
-    A --> D[Focus & Energy]
-    A --> E[Model Behavior]
-    A --> F[Take Responsibility]
+    A[Effectief leiderschap] --> B[Goede beslissingen]
+    A --> C[Teamondersteuning]
+    A --> D[Focus &amp; Energie]
+    A --> E[Voorbeeldgedrag]
+    A --> F[Neem je verantwoordelijkheid]
 
     style A fill:#FF9800,color:#fff
 ```
 
 ---
 
-## Types of Leadership
+## Soorten leiderschap
 
-| Type | Focus | How It Looks |
+| Type | Focus | Hoe het eruitziet |
 |------|-------|--------------|
-| **Positional** | Authority | Captain makes final decisions, sets culture |
-| **Performance** | Excellence | Consistent skill, handling pressure well |
-| **Emotional** | Energy | Staying positive, supporting others |
-| **Tactical** | Strategy | Reading the game, offering insights |
+| **Functie** | Autoriteit | De kapitein neemt de uiteindelijke beslissingen en bepaalt de cultuur. |
+| **Prestatie** | Uitmuntendheid | Constante vaardigheid, goed bestand tegen druk. |
+| **Emotioneel** | Energie | Positief blijven en anderen steunen. |
+| **Tactisch** | Strategie | Het spel analyseren en inzichten delen |
 
-### Positional Leadership
+### Positioneel leiderschap
 
-The designated captain or team leader:
-- Makes final strategic decisions
-- Represents the team officially
-- Manages team dynamics
-- Sets the tone and culture
+De aangewezen aanvoerder of teamleider:
+- Neemt de uiteindelijke strategische beslissingen.
+- Vertegenwoordigt het team officieel
+- Beheert de teamdynamiek.
+- Bepaalt de toon en de cultuur.
 
-### Performance Leadership
+### Prestatieleiderschap
 
-Leading through excellence:
-- Demonstrating skill and consistency
-- Showing how to handle pressure
-- Setting standards through action
-- Inspiring through performance
+Leiderschap door uitmuntendheid:
+- Blik op vaardigheid en consistentie
+- Laten zien hoe je met druk omgaat
+- Het stellen van normen door middel van daden
+- Inspireren door middel van optredens
 
-### Emotional Leadership
+### Emotioneel leiderschap
 
-::: info Often Undervalued
-**Emotional leadership is critical** — the player who stays positive when down 2-10 can turn the entire match around.
+::: info Vaak ondergewaardeerd
+**Emotioneel leiderschap is cruciaal** — de speler die positief blijft bij een achterstand van 2-10 kan de hele wedstrijd omdraaien.
 :::
 
-Managing team energy and morale:
-- Staying positive under pressure
-- Supporting struggling teammates
-- Celebrating successes
-- Maintaining perspective
+Het managen van teamenergie en -moraal:
+- Positief blijven onder druk
+- Het ondersteunen van teamgenoten die het moeilijk hebben.
+- Het vieren van successen
+- Het behouden van perspectief
 
-### Tactical Leadership
+### Tactisch leiderschap
 
-Contributing strategic thinking:
-- Reading the game well
-- Offering valuable insights
-- Seeing patterns others miss
-- Thinking ahead
+Bijdragen aan strategisch denken:
+- Het spel goed lezen
+- Het bieden van waardevolle inzichten
+- Patronen zien die anderen over het hoofd zien.
+- Vooruitdenken
 
-## The Effective Leader
+## De effectieve leider
 
-### In Practice
+### In de praktijk
 
-- Arrives prepared and focused
-- Works hard and encourages others
-- Provides constructive feedback
-- Creates a positive training environment
+- Komt voorbereid en geconcentreerd aan.
+- Werkt hard en moedigt anderen aan.
+- Geeft constructieve feedback
+- Creëert een positieve trainingsomgeving.
 
-### Before Competition
+### Voor de wedstrijd
 
-- Ensures team is prepared
-- Sets clear expectations
-- Manages pre-match nerves
-- Creates focus and confidence
+- Zorgt ervoor dat het team voorbereid is.
+- Stelt duidelijke verwachtingen vast
+- Beheerst de zenuwen voor de wedstrijd.
+- Zorgt voor focus en zelfvertrouwen.
 
-### During Competition
+### Tijdens de wedstrijd
 
-- Makes clear, timely decisions
-- Supports teammates visibly
-- Stays calm under pressure
-- Adapts strategy as needed
+- Neemt duidelijke en tijdige beslissingen.
+- Biedt zichtbare steun aan teamgenoten.
+- Blijft kalm onder druk
+- Past de strategie aan waar nodig.
 
-### After Competition
+### Na de wedstrijd
 
-- Handles wins with grace
-- Handles losses with perspective
-- Leads constructive debriefs
-- Maintains team relationships
+- Handles wint met elegantie.
+- Gaat op een evenwichtige manier om met verliezen.
+- Leidt constructieve nabesprekingen.
+- Onderhoudt teamrelaties
 
-## Leadership Challenges
+## Leiderschapsuitdagingen
 
-### Making Tough Decisions
+### Moeilijke beslissingen nemen
 
-Sometimes you must:
-- Choose between options with no clear answer
-- Disagree with teammates
-- Take responsibility for outcomes
-- Act decisively despite uncertainty
+Soms moet je:
+- Kies tussen opties zonder duidelijk antwoord.
+- Het oneens zijn met teamgenoten
+- Neem de verantwoordelijkheid voor de resultaten.
+- Handel daadkrachtig, ondanks de onzekerheid.
 
-**Approach:**
-- Gather input quickly
-- Make the decision
-- Commit fully
-- Learn from results
+**Benadering:**
+- Verzamel snel input.
+- Neem de beslissing
+- Ga er volledig voor.
+- Leer van de resultaten
 
-### Managing Conflict
+### Conflicthantering
 
-Team friction is inevitable:
-- Different opinions on strategy
-- Frustration after mistakes
-- Personality clashes
-- Unequal commitment
+Teamwrijving is onvermijdelijk:
+- Verschillende meningen over de strategie.
+- Frustratie na fouten
+- Persoonlijkheidsconflicten
+- Ongelijke inzet
 
-**Approach:**
-- Address issues early
-- Listen to all perspectives
-- Focus on solutions
-- Maintain respect
+**Benadering:**
+- Pak problemen vroegtijdig aan.
+- Luister naar alle perspectieven.
+- Focus op oplossingen
+- Behoud respect.
 
-### Supporting Struggling Players
+### Het ondersteunen van spelers die het moeilijk hebben
 
-When a teammate is underperforming:
-- Don't add pressure
-- Offer specific, positive support
-- Adjust strategy if needed
-- Maintain confidence in them
+Wanneer een teamgenoot ondermaats presteert:
+- Oefen geen extra druk uit.
+- Bied concrete, positieve ondersteuning.
+- Pas de strategie indien nodig aan.
+- Blijf vertrouwen in hen houden.
 
-### Handling Your Own Struggles
+### Je eigen problemen aanpakken
 
-Leaders struggle too:
-- Acknowledge it (to yourself)
-- Don't let it affect your leadership
-- Lean on teammates
-- Model resilience
+Ook leiders hebben het moeilijk:
+- Erken het (tegenover jezelf)
+- Laat het uw leiderschap niet beïnvloeden.
+- Vertrouw op je teamgenoten
+- Model veerkracht
 
-## Leadership Styles
+## Leiderschapsstijlen
 
-### The Commander
+### De Commandant
 
-- Direct and decisive
-- Clear expectations
-- Takes charge in crisis
-- Risk: Can be overbearing
+- Direct en beslissend
+- Duidelijke verwachtingen
+- Neemt het voortouw in crisissituaties
+- Risico: Kan overweldigend zijn.
 
-### The Coach
+### De coach
 
-- Develops others
-- Asks questions
-- Builds capability
-- Risk: Can be slow in crisis
+- Ontwikkelt anderen
+- Stelt vragen
+- Bouwt capaciteit op
+- Risico: Kan traag reageren in crisissituaties
 
-### The Collaborator
+### De medewerker
 
-- Seeks input
-- Builds consensus
-- Values all voices
-- Risk: Can be indecisive
+- Vraagt om invoer
+- Bouwt consensus op
+- Waardeert alle stemmen
+- Risico: Kan besluiteloos zijn.
 
-### The Supporter
+### De supporter
 
-- Focuses on relationships
-- Creates safety
-- Encourages and affirms
-- Risk: Can avoid hard truths
+- Richt zich op relaties
+- Zorgt voor veiligheid
+- Stimuleert en bevestigt
+- Risico: Kan harde waarheden vermijden
 
-**Best leaders adapt their style to the situation.**
+**De beste leiders passen hun stijl aan de situatie aan.**
 
-## Developing Leadership Skills
+## Het ontwikkelen van leiderschapsvaardigheden
 
-### Self-Awareness
+### Zelfbewustzijn
 
-Know your:
-- Natural leadership style
-- Strengths and weaknesses
-- Impact on others
-- Triggers and reactions
+Ken je:
+- Natuurlijke leiderschapsstijl
+- Sterke en zwakke punten
+- Invloed op anderen
+- Aanleidingen en reacties
 
-### Emotional Intelligence
+### Emotionele intelligentie
 
-Develop ability to:
-- Recognize emotions (yours and others')
-- Manage your responses
-- Empathize with teammates
-- Navigate social dynamics
+Ontwikkel de volgende vaardigheden:
+- Herken emoties (die van jezelf en die van anderen).
+- Beheer uw reacties
+- Leef je in in je teamgenoten.
+- Navigeer door sociale dynamieken
 
-### Communication Skills
+### Communicatievaardigheden
 
-Practice:
-- Clear, concise messaging
-- Active listening
-- Giving constructive feedback
-- Difficult conversations
+Oefening:
+- Duidelijke en bondige berichten
+- Actief luisteren
+- Het geven van constructieve feedback
+- Moeilijke gesprekken
 
-### Decision-Making
+### Besluitvorming
 
-Improve through:
-- Analyzing past decisions
-- Seeking feedback
-- Learning from mistakes
-- Practicing under pressure
+Verbeteren door:
+- Analyse van beslissingen uit het verleden
+- Feedback vragen
+- Leren van fouten
+- Oefenen onder druk
 
-## Leading Without the Title
+## Leiderschap zonder titel
 
-You don't need to be captain to lead:
+Je hoeft geen aanvoerder te zijn om leiding te geven:
 
-### Lead by Example
-- Show up prepared
-- Give full effort
-- Handle adversity well
-- Support teammates
+### Geef het goede voorbeeld.
+- Kom voorbereid opdagen.
+- Doe je uiterste best
+- Ga goed om met tegenslagen.
+- Ondersteun je teamgenoten
 
-### Lead Through Support
-- Encourage others
-- Offer help
-- Celebrate teammates' success
-- Be reliable
+### Leiderschap door ondersteuning
+- Moedig anderen aan
+- Bied hulp aan
+- Vier de successen van je teamgenoten
+- Wees betrouwbaar
 
-### Lead Through Contribution
-- Share observations
-- Offer ideas respectfully
-- Take initiative
-- Fill gaps
+### Leiderschap tonen door middel van bijdrage
+- Deel je observaties
+- Breng ideeën op een respectvolle manier naar voren.
+- Neem het initiatief
+- Vul de gaten op
 
-## The Leadership Mindset
+## De leiderschapsmentaliteit
 
-### Responsibility Over Blame
+### Verantwoordelijkheid boven schuld
 
-Leaders take responsibility:
-- "We didn't execute well" not "They missed"
-- "I should have communicated better" not "They didn't listen"
+Leiders nemen hun verantwoordelijkheid:
+- &quot;We hebben het niet goed uitgevoerd&quot;, niet &quot;Ze hebben gemist&quot;.
+- &quot;Ik had beter moeten communiceren&quot;, niet &quot;Ze hebben niet geluisterd&quot;.
 
-### Team Over Self
+### Het team boven jezelf
 
-Leaders prioritize team success:
-- Celebrate team achievements
-- Share credit generously
-- Take blame personally
-- Put team needs first
+Leiders stellen teamsucces voorop:
+- Vier de successen van het team.
+- Deel het krediet royaal uit.
+- Neem de schuld persoonlijk op.
+- Stel de behoeften van het team voorop.
 
-### Growth Over Comfort
+### Groei boven comfort
 
-Leaders embrace challenge:
-- Seek difficult situations
-- Learn from failures
-- Push for improvement
-- Model continuous growth
+Leiders omarmen uitdagingen:
+- Zoek moeilijke situaties op.
+- Leer van je fouten.
+- Streven naar verbetering
+- Model voor continue groei
 
-## When Leadership Fails
+## Wanneer leiderschap faalt
 
-Even good leaders fail sometimes:
-- Wrong decisions happen
-- Teams lose despite good leadership
-- Relationships strain
+Zelfs goede leiders maken soms fouten:
+- Verkeerde beslissingen komen voor.
+- Teams verliezen ondanks goed leiderschap.
+- Relaties staan onder druk.
 
-**Recovery:**
-1. Acknowledge what happened
-2. Take appropriate responsibility
-3. Learn the lessons
-4. Move forward with humility
+**Herstel:**
+1. Erken wat er is gebeurd
+2. Neem de gepaste verantwoordelijkheid.
+3. Leer de lessen
+4. Ga vooruit met nederigheid.
 
 ---
 
-*Related: [Team Dynamics](/nl/education/team-dynamics/) | [Communication](/nl/education/team-dynamics/communication) | [Building Team Chemistry](/nl/articles/team-chemistry)*
+| *Gerelateerd: [Teamdynamiek](/en/education/team-dynamics/) | [Communicatie](/en/education/team-dynamics/communication) | [Teamchemie opbouwen](/en/articles/team-chemistry)* |
 

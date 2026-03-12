@@ -3,31 +3,31 @@ title: Mindfulness in Competition
 description: Apply mindfulness principles during pétanque matches to stay present, manage emotions, and perform at your best when it matters most.
 ---
 
-# Mindfulness in Competition
+# Mindfulness i tävling
 
-> "Mindfulness isn't just for meditation cushions — it's a competitive advantage."
+> &quot;Mindfulness är inte bara för meditationskuddar – det är en konkurrensfördel.&quot;
 
-The ability to stay present, aware, and non-reactive during matches separates elite performers from those who crumble under pressure.
+Förmågan att vara närvarande, medveten och icke-reaktiv under matcher skiljer elitutövare från de som faller sönder under press.
 
-::: tip The Present Moment Advantage
-**You can only throw one boule at a time.** Mindfulness keeps you in the only moment that matters — this one.
+::: tip Fördelen med nuet
+**Du kan bara kasta ett klot åt gången.** Mindfulness håller dig kvar i det enda ögonblicket som spelar roll – det här.
 :::
 
 ---
 
-## What Mindfulness Means in Competition
+## Vad mindfulness innebär i tävling
 
 ```mermaid
 flowchart TD
-    A[Competitive Mindfulness] --> B[Present-Moment<br/>Awareness]
-    A --> C[Non-Judgmental<br/>Observation]
-    A --> D[Intentional<br/>Attention]
-    A --> E[Emotional<br/>Regulation]
+    A[Tävlingsinriktad mindfulness] --> B[Nuvarande ögonblick <br/> Medvetenhet]
+    A --> C[Icke-dömande <br/> Observation]
+    A --> D[Avsiktlig <br/> Uppmärksamhet]
+    A --> E[Emotionell <br/> Förordning]
 
-    B --> F[Not in past or future]
-    C --> G[Notice without judging]
-    D --> H[Choose your focus]
-    E --> I[Feel without being controlled]
+    B --> F[Inte i det förflutna eller framtiden]
+    C --> G[Lägg märke till utan att döma]
+    D --> H[Välj ditt fokus]
+    E --> I[Känna utan att bli kontrollerad]
 
     style A fill:#9C27B0,color:#fff
     style F fill:#e1bee7
@@ -38,160 +38,160 @@ flowchart TD
 
 ---
 
-## The Wandering Mind Problem
+## Problemet med det vandrande sinnet
 
-::: danger The 47% Problem
-**Research shows the average mind wanders 47% of the time.** In competition, this wandering is costly.
+::: danger 47%-problemet
+**Forskning visar att ett genomsnittligt sinne vandrar iväg 47 % av tiden.** I konkurrens är detta irrande kostsamt.
 :::
 
-| Where Mind Goes | What You Miss |
+| Vart sinnet går | Vad du saknar |
 |-----------------|---------------|
-| Last missed shot | Current terrain reading |
-| Worrying about score | Optimal throw selection |
-| What others think | Feel of the boule |
-| Planning celebrations | Present-moment execution |
+| Senaste missade skottet | Aktuell terrängavläsning |
+| Orolig för poängen | Optimalt kastval |
+| Vad andra tycker | Känslan av boule |
+| Planera firanden | Nuvarande utförande |
 
-Every moment spent in mental time-travel is a moment not spent on the throw in front of you.
+Varje ögonblick som spenderas i mental tidsresa är ett ögonblick som inte spenderas på kastet framför dig.
 
-## Mindfulness Skills for Competition
+## Mindfulness-färdigheter för tävling
 
-### 1. Anchoring to the Present
+### 1. Förankring i nuet
 
-Use sensory anchors to return to now:
+Använd sensoriska ankare för att återgå till nuet:
 
-**Physical anchors:**
-- Feel the weight of the boule
-- Notice your feet on the ground
-- Feel the texture of the grip
+**Fysiska ankare:**
+- Känn boulens tyngd
+- Lägg märke till dina fötter på marken
+- Känn greppets struktur
 
-**Environmental anchors:**
-- Look at specific details of the terrain
-- Listen to ambient sounds
-- Feel the temperature and wind
+**Miljöankare:**
+- Titta på specifika detaljer i terrängen
+- Lyssna på omgivande ljud
+- Känn temperaturen och vinden
 
-### 2. Observing Without Reacting
+### 2. Observera utan att reagera
 
-When emotions arise (frustration, anxiety, excitement), practice:
+När känslor uppstår (frustration, ångest, upphetsning), öva:
 
-1. **Notice**: "I'm feeling frustrated"
-2. **Name**: "This is frustration"
-3. **Allow**: Let it be there without fighting
-4. **Return**: Bring attention back to the present task
+1. **Meddelande**: &quot;Jag känner mig frustrerad&quot;
+2. **Namn**: &quot;Detta är frustration&quot;
+3. **Tillåt**: Låt det vara där utan att slåss
+4. **Återgå**: Rikta uppmärksamheten tillbaka till den aktuella uppgiften
 
-The emotion doesn't disappear, but it loses its power to control you.
+Känslan försvinner inte, men den förlorar sin kraft att kontrollera dig.
 
-### 3. Single-Pointed Focus
+### 3. Enpunktsfokus
 
-Train your attention to stay on one thing:
+Träna din uppmärksamhet att fokusera på en sak:
 
-**Before the throw:**
-- Focus only on reading the terrain
-- Then only on visualizing the result
-- Then only on your body position
+**Före kastet:**
+- Fokusera bara på att läsa terrängen
+- Sedan bara genom att visualisera resultatet
+- Sedan bara på din kroppsställning
 
-**During the throw:**
-- Focus only on the target
-- Let the body execute without interference
+**Under kastet:**
+- Fokusera bara på målet
+- Låt kroppen fungera utan störningar
 
-### 4. Beginner's Mind
+### 4. Nybörjarens sinne
 
-Approach each throw as if it's your first:
-- No assumptions based on past performance
-- Fresh eyes on the terrain
-- Curiosity rather than expectation
+Ta dig an varje kast som om det vore ditt första:
+- Inga antaganden baserade på tidigare resultat
+- Friska ögon på terrängen
+- Nyfikenhet snarare än förväntan
 
-## Practical Applications
+## Praktiska tillämpningar
 
-### Between Throws
+### Mellan kast
 
-The time between throws is when minds wander most. Use this time mindfully:
+Tiden mellan kasten är den tid då tankarna vandrar mest. Använd denna tid medvetet:
 
-- **Watch actively**: Observe teammates and opponents with full attention
-- **Stay embodied**: Notice your breathing, posture, physical state
-- **Prepare mentally**: Visualize potential scenarios
-- **Rest attention**: Give your focus brief breaks
+- **Aktivt tittande**: Observera lagkamrater och motståndare med full uppmärksamhet
+- **Förbli förkroppsligad**: Lägg märke till din andning, hållning, fysiska tillstånd
+- **Förbered dig mentalt**: Visualisera potentiella scenarier
+- **Vila uppmärksamhet**: Ge ditt fokus korta pauser
 
-### During Pressure Moments
+### Under tryckmoment
 
-When stakes are highest:
+När insatserna är som högst:
 
-1. **Slow down**: Take an extra breath
-2. **Ground yourself**: Feel your feet, the boule
-3. **Narrow focus**: This throw only
-4. **Trust**: Let go of outcome attachment
+1. **Sakna ner**: Ta ett extra andetag
+2. **Jorda dig själv**: Känn dina fötter, boulen
+3. **Smalt fokus**: Endast detta kast
+4. **Tillit**: Släpp taget om att fästa sig vid resultat
 
-### After Mistakes
+### Efter misstag
 
-Mistakes trigger rumination. Break the cycle:
+Misstag utlöser funderingar. Bryt cykeln:
 
-1. **Acknowledge**: "That didn't go as planned"
-2. **Extract**: "What can I learn?"
-3. **Release**: "It's done, moving on"
-4. **Refocus**: "What's next?"
+1. **Erkänner**: &quot;Det gick inte som planerat&quot;
+2. **Utdrag**: &quot;Vad kan jag lära mig?&quot;
+3. **Släpp**: &quot;Det är klart, vi går vidare&quot;
+4. **Omfokusera**: &quot;Vad händer härnäst?&quot;
 
-## The Mindful Pre-Shot Routine
+## Den medvetna rutinen före skott
 
-Integrate mindfulness into your routine:
+Integrera mindfulness i din rutin:
 
-1. **Arrive**: Step into the circle with full presence
-2. **Breathe**: One conscious breath to center
-3. **See**: Mindfully observe the terrain
-4. **Visualize**: See the result with clarity
-5. **Feel**: Notice the boule, your body
-6. **Release**: Let go and trust
+1. **Ankomst**: Gå in i cirkeln med full närvaro
+2. **Andas**: Ett medvetet andetag till centrum
+3. **Se**: Observera terrängen noggrant
+4. **Visualisera**: Se resultatet med tydlighet
+5. **Känn**: Lägg märke till klotet, din kropp
+6. **Släpp loss**: Släpp taget och lita på
 
-## Common Challenges
+## Vanliga utmaningar
 
-### "I can't stop thinking"
+### &quot;Jag kan inte sluta tänka&quot;
 
-You don't need to stop thoughts — just don't follow them. Notice the thought, let it pass, return to your anchor.
+Du behöver inte stoppa tankar – följ dem bara inte. Lägg märke till tanken, låt den passera, återvänd till ditt ankare.
 
-### "Mindfulness makes me too relaxed"
+### &quot;Mindfulness gör mig för avslappnad&quot;
 
-Competitive mindfulness isn't about being calm — it's about being present. You can be alert, energized, and mindful simultaneously.
+Tävlingsinriktad mindfulness handlar inte om att vara lugn – det handlar om att vara närvarande. Du kan vara alert, energisk och medveten samtidigt.
 
-### "I forget to be mindful"
+### &quot;Jag glömmer att vara uppmärksam&quot;
 
-Use triggers:
-- Picking up the boule = mindfulness cue
-- Stepping into the circle = presence reminder
-- Taking your stance = attention anchor
+Använd utlösare:
+- Att plocka upp boulen = mindfulness-signal
+- Att gå in i cirkeln = närvaropåminnelse
+- Att ta ställning = uppmärksamhetsankare
 
-## Building the Skill
+## Bygga upp färdigheten
 
-### Daily Practice
+### Daglig övning
 
-5-10 minutes of formal mindfulness practice builds the neural pathways:
-- Breath awareness meditation
-- Body scan practice
-- Mindful observation exercises
+5–10 minuters formell mindfulnessövning bygger upp nervbanorna:
+- Andningsmedvetenhetsmeditation
+- Övning på kroppsskanning
+- Medvetna observationsövningar
 
-### Training Integration
+### Utbildningsintegration
 
-Practice mindfulness during every training session:
-- Full presence for each throw
-- Notice when attention wanders
-- Practice returning to focus
+Öva mindfulness under varje träningspass:
+- Full närvaro för varje kast
+- Lägg märke till när uppmärksamheten vandrar
+- Öva på att återgå till fokus
 
-### Competition Preparation
+### Tävlingsförberedelser
 
-Before matches:
-- Brief mindfulness practice
-- Set intention for present-focus
-- Remind yourself of your anchors
+Före matcher:
+- Kort mindfulnessövning
+- Sätt intention för nuets fokus
+- Påminn dig själv om dina ankare
 
-## The Competitive Edge
+## Konkurrensfördelen
 
-Mindful competitors have advantages:
-- **Faster recovery** from mistakes
-- **Better decision-making** under pressure
-- **More consistent** performance
-- **Greater enjoyment** of competition
-- **Reduced burnout** and anxiety
+Medvetna konkurrenter har fördelar:
+- **Snabbare återhämtning** från misstag
+- **Bättre beslutsfattande** under press
+- **Mer konsekvent** prestanda
+- **Större njutning** av tävling
+- **Minskad utbrändhet** och ångest
 
-The player who is fully present for each throw, while others are lost in thought, has a significant edge.
+Den spelare som är helt närvarande vid varje kast, medan andra är försjunkna i tankar, har en betydande fördel.
 
 ---
 
-*Related: [Mindfulness Introduction](/sv/education/mental-game/mindfulness/) | [Mindfulness Techniques](/sv/education/mental-game/mindfulness/techniques) | [Daily Practice](/sv/education/mental-game/mindfulness/daily-practice)*
+| *Relaterat: [Introduktion till mindfulness](/sv/utbildning/mentalt spel/mindfulness/) | [Mindfulnesstekniker](/sv/utbildning/mentalt spel/mindfulness/tekniker) | [Daglig övning](/sv/utbildning/mentalt spel/mindfulness/daglig-övning)* |
 

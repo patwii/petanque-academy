@@ -1,109 +1,109 @@
-# Goal Setting & Tracking Template
+# Sjabloon voor het stellen en bijhouden van doelen
 
 
-## How to Use This Template
+## Hoe gebruik je deze sjabloon?
 
-This template helps you set meaningful goals and track your progress systematically. Use the templates below directly on this page, or copy them to your preferred digital tool.
+Met deze sjabloon kunt u zinvolle doelen stellen en uw voortgang systematisch bijhouden. Gebruik de onderstaande sjablonen direct op deze pagina, of kopieer ze naar uw favoriete digitale tool.
 
-::: tip The Goal-Setting Philosophy
-**Goals without tracking are just wishes. Tracking without reflection is just data.** This template combines both: clear goal-setting with structured reflection to ensure continuous improvement.
+::: tip De filosofie van het stellen van doelen
+**Doelen zonder monitoring zijn slechts wensen. Monitoring zonder reflectie is slechts data.** Deze template combineert beide: heldere doelstellingen met gestructureerde reflectie om continue verbetering te garanderen.
 :::
 
-## Quick Access
+## Sneltoegang
 
-| Template | Purpose | Access |
+| Sjabloon | Doel | Toegang |
 |----------|---------|--------|
-| **Annual Goal Setting** | Set yearly goals across all areas | [View Template](#annual-goal-setting-template) |
-| **Quarterly Review** | Track progress every 3 months | [View Template](#quarterly-review-template) |
-| **Monthly Check-In** | Monthly progress assessment | [View Template](#monthly-check-in-template) |
-| **Weekly Planning** | Plan your weekly training focus | [View Template](#weekly-planning-template) |
+| **Jaarlijkse doelstellingen vaststellen** | Stel jaarlijkse doelen vast voor alle gebieden. | [Sjabloon bekijken](#sjabloon-voor-jaarlijkse-doelen) |
+| **Kwartaaloverzicht** | Houd elke 3 maanden de voortgang bij. | [Sjabloon bekijken](#kwartaaloverzicht-sjabloon) |
+| **Maandelijkse check-in** | Maandelijkse voortgangsbeoordeling | [Sjabloon bekijken](#maandelijks-check-in-sjabloon) |
+| **Wekelijkse planning** | Plan je wekelijkse trainingsfocus. | [Sjabloon bekijken](#weekly-planning-template) |
 
-::: tip Digital-First Approach
-All templates are available on this page for easy access on any device. Bookmark this page and use it directly, or copy sections to your preferred note-taking app.
+::: tip Digitale aanpak voorop
+Alle sjablonen zijn op deze pagina beschikbaar voor gemakkelijke toegang op elk apparaat. Voeg deze pagina toe aan uw bladwijzers en gebruik de sjablonen direct, of kopieer gedeeltes naar uw favoriete notitie-app.
 :::
 
-## Annual Goal Setting Template
+## Sjabloon voor het vaststellen van jaarlijkse doelen
 
-### Copy This Section to Your Document
-
----
-
-**Year:** ________
-
-**My Pétanque Vision for This Year:**
-
-(In one sentence, what do I want to achieve this year?)
+### Kopieer dit gedeelte naar uw document.
 
 ---
 
-### 1. Competition Goals
+**Jaar:** ________
 
-| Goal Type | Specific Goal | Why This Matters | Success Metric |
+**Mijn visie voor pétanque dit jaar:**
+
+(Wat wil ik dit jaar in één zin bereiken?)
+
+---
+
+### 1. Wedstrijddoelen
+
+| Doeltype | Specifiek doel | Waarom dit belangrijk is | Succesindicator |
 |-----------|---------------|------------------|----------------|
-| **Tournament Results** | Example: Top 8 in Regional Championship | To prove I can compete at regional level | Placement in top 8 |
-| **Ranking** | | | |
-| **Consistency** | | | |
-| **Team Performance** | | | |
+| **Toernooiuitslagen** | Voorbeeld: Top 8 in het regionale kampioenschap | Om te bewijzen dat ik op regionaal niveau kan meedoen. | Plaatsing in de top 8 |
+| **Ranglijst** |
+| **Samenhang** |
+| **Teamprestaties** |
 
-### 2. Technical Goals
+### 2. Technische doelstellingen
 
-| Skill Area | Current Level (1-10) | Target Level | Specific Focus |
+| Vaardigheidsgebied | Huidig niveau (1-10) | Doelstellingsniveau | Specifieke focus |
 |------------|---------------------|--------------|----------------|
-| **Pointing Accuracy** | | | Example: 70% within 10cm at 7m |
-| **Shooting Consistency** | | | |
-| **Terrain Adaptation** | | | |
-| **Shot Selection** | | | |
+| **Nauwkeurigheid van de richting** | Voorbeeld: 70% binnen 10 cm op 7 m |
+| **Schietconsistentie** |
+| **Terreinaanpassing** |
+| **Opnameselectie** |
 
-### 3. Mental Game Goals
+### 3. Mentale speldoelen
 
-| Area | Current State | Target State | Practice Method |
+| Gebied | Huidige toestand | Doelstaat | Oefenmethode |
 |------|---------------|--------------|-----------------|
-| **Pressure Management** | | | Example: Use 3-breath reset before every shot |
-| **Inner Critic** | | | |
-| **Focus/Concentration** | | | |
-| **Confidence** | | | |
+| **Drukbeheersing** | Voorbeeld: Neem voor elk schot drie keer diep adem. |
+| **Innerlijke criticus** |
+| **Focus/Concentratie** |
+| **Vertrouwen** |
 
-### 4. Physical Goals
+### 4. Fysieke doelen
 
-| Area | Current | Target | Action Plan |
+| Gebied | Huidig | Doel | Actieplan |
 |------|---------|--------|-------------|
-| **Fitness Level** | | | |
-| **Flexibility** | | | |
-| **Endurance** | | | |
-| **Injury Prevention** | | | |
+| **Fitheidsniveau** |
+| **Flexibiliteit** |
+| **Uithoudingsvermogen** |
+| **Blessurepreventie** |
 
 ---
 
-## Quarterly Review Template
+## Sjabloon voor kwartaalbeoordeling
 
-### Copy This Section Every 3 Months
+### Kopieer dit gedeelte elke 3 maanden.
 
 ---
 
-**Quarter:** Q1 / Q2 / Q3 / Q4
-**Review Date:** ________
+**Kwartaal:** Q1 / Q2 / Q3 / Q4
+**Revisiedatum:** ________
 
-### What Went Well?
-
-1.
-2.
-3.
-
-### What Didn't Go As Planned?
+### Wat ging er goed?
 
 1.
 2.
 3.
 
-### Key Learnings
+### Wat ging er niet volgens plan?
 
 1.
 2.
 3.
 
-### Adjustments for Next Quarter
+### Belangrijkste leerpunten
 
-| Goal Area | Original Goal | Adjustment Needed | New Target |
+1.
+2.
+3.
+
+### Aanpassingen voor het volgende kwartaal
+
+| Doelgebied | Oorspronkelijk doel | Aanpassing nodig | Nieuw doelwit |
 |-----------|---------------|-------------------|------------|
 | | | | |
 | | | | |
@@ -111,98 +111,98 @@ All templates are available on this page for easy access on any device. Bookmark
 
 ---
 
-## Monthly Goal Template
+## Sjabloon voor maandelijkse doelen
 
-### Copy This Section Each Month
+### Kopieer dit gedeelte elke maand.
 
 ---
 
-**Month:** ________
-**Year:** ________
+**Maand:** ________
+**Jaar:** ________
 
-### This Month's Focus
+### Focus van deze maand
 
-**Primary Goal:**
+**Hoofddoel:**
 
-**Why This Month:**
+**Waarom deze maand:**
 
-### Weekly Breakdown
+### Wekelijkse analyse
 
-| Week | Specific Target | Training Focus | Competition/Test |
+| Week | Specifiek doelwit | Trainingsfocus | Wedstrijd/Test |
 |------|----------------|----------------|------------------|
-| **Week 1** | | | |
-| **Week 2** | | | |
-| **Week 3** | | | |
-| **Week 4** | | | |
+| **Week 1** |
+| **Week 2** |
+| **Week 3** |
+| **Week 4** |
 
-### Monthly Metrics to Track
+### Maandelijkse statistieken om bij te houden
 
-- [ ] Training sessions completed: _____ / _____
-- [ ] Competitions entered: _____ / _____
-- [ ] Mental training practice: _____ days
-- [ ] Physical conditioning: _____ sessions
-- [ ] Reflection/journaling: _____ entries
-
----
-
-## Weekly Planning Template
-
-### Copy This Section Each Week
+- [ ] Aantal voltooide trainingssessies: _____ / _____
+- [ ] Deelgenomen wedstrijden: _____ / _____
+- [ ] Mentale training oefening: _____ dagen
+- [ ] Fysieke conditie: _____ sessies
+- [ ] Reflectie/dagboek: _____ inzichten
 
 ---
 
-**Week of:** ________
+## Sjabloon voor wekelijkse planning
 
-### This Week's Intention
+### Kopieer dit gedeelte elke week.
 
-(What is my one main focus this week?)
+---
 
-### Training Schedule
+**Week van:** ________
 
-| Day | Activity | Duration | Focus Area | Notes |
+### Voornemen voor deze week
+
+(Wat is mijn belangrijkste focus deze week?)
+
+### Trainingsschema
+
+| Dag | Activiteit | Duur | Focusgebied | Notities |
 |-----|----------|----------|------------|-------|
-| **Monday** | | | | |
-| **Tuesday** | | | | |
-| **Wednesday** | | | | |
-| **Thursday** | | | | |
-| **Friday** | | | | |
-| **Saturday** | | | | |
-| **Sunday** | | | | |
+| **Maandag** |
+| **Dinsdag** |
+| **Woensdag** |
+| **Donderdag** |
+| **Vrijdag** |
+| **Zaterdag** |
+| **Zondag** |
 
-### Weekly Targets
+### Wekelijkse doelen
 
-- [ ] Technical practice: _____ hours
-- [ ] Competition/match play: _____ hours
-- [ ] Mental training: _____ minutes
-- [ ] Physical training: _____ sessions
-- [ ] Video analysis: _____ sessions
+- [ ] Technische praktijk: _____ uur
+- [ ] Competitie/wedstrijdspel: _____ uur
+- [ ] Mentale training: _____ minuten
+- [ ] Fysieke training: _____ sessies
+- [ ] Videoanalyse: _____ sessies
 
 ---
 
 
-## Progress Tracking Sheet
+## Voortgangsregistratieformulier
 
-### Copy This to Excel/Google Sheets
+### Kopieer dit naar Excel/Google Sheets
 
-| Date | Goal Area | Target | Actual | Notes | Feeling (1-10) |
+| Datum | Doelgebied | Doel | Werkelijk | Notities | Gevoel (1-10) |
 |------|-----------|--------|--------|-------|----------------|
 | | | | | | |
 | | | | | | |
 | | | | | | |
 
-**Instructions for Spreadsheet:**
-1. Create columns: Date, Goal Area, Target, Actual, Notes, Feeling
-2. Add new row after each training session or competition
-3. Use conditional formatting: Green if Actual ≥ Target, Yellow if close, Red if far off
-4. Create charts to visualize progress over time
+**Instructies voor het spreadsheet:**
+1. Maak de volgende kolommen aan: Datum, Doelgebied, Doel, Werkelijk, Notities, Gevoel
+2. Voeg na elke trainingssessie of wedstrijd een nieuwe rij toe.
+3. Gebruik voorwaardelijke opmaak: groen als Werkelijk ≥ Doel, geel als dichtbij, rood als ver uit elkaar.
+4. Maak grafieken om de voortgang in de loop van de tijd te visualiseren.
 
 ---
 
-## Competition Performance Tracker
+## Prestatietracker voor wedstrijden
 
-### Copy This to Track Tournament Results
+### Kopieer dit om de toernooiresultaten bij te houden.
 
-| Date | Tournament | Round Reached | Placement | Key Strengths | Areas to Improve | Mental State (1-10) |
+| Datum | Toernooi | Ronde bereikt | Plaatsing | Belangrijkste sterke punten | Verbeterpunten | Mentale toestand (1-10) |
 |------|------------|---------------|-----------|---------------|------------------|---------------------|
 | | | | | | | |
 | | | | | | | |
@@ -210,19 +210,19 @@ All templates are available on this page for easy access on any device. Bookmark
 
 ---
 
-## Goal Achievement Celebration
+## Viering van het behalen van een doel
 
-::: tip Celebrate Progress!
-**Every goal achieved deserves recognition.** When you hit a target:
-1. ✅ Mark it complete
-2. 🎉 Acknowledge the effort it took
-3. 📝 Write what you learned
-4. 🎯 Set the next challenge
+::: tip Vier de vooruitgang!
+**Elke behaalde prestatie verdient erkenning.** Wanneer je een doel bereikt:
+1. ✅ Markeer het als voltooid
+2. 🎉 Erken de moeite die het heeft gekost
+3. 📝 Schrijf op wat je hebt geleerd
+4. 🎯 Stel de volgende uitdaging vast
 :::
 
-### Achievement Log
+### Prestatielogboek
 
-| Date | Goal Achieved | What It Took | Key Learning | Next Challenge |
+| Datum | Doel bereikt | Wat ervoor nodig was | Kernleerpunten | Volgende uitdaging |
 |------|---------------|--------------|--------------|----------------|
 | | | | | |
 | | | | | |
@@ -230,168 +230,168 @@ All templates are available on this page for easy access on any device. Bookmark
 
 ---
 
-## Tips for Effective Goal Setting
+## Tips voor effectieve doelstellingen
 
-### 1. Start Small, Build Momentum
+### 1. Begin klein, bouw momentum op
 
-Don't set 20 goals at once. Start with:
-- **1 competition goal**
-- **1 technical goal**
-- **1 mental game goal**
+Stel niet meteen 20 doelen. Begin met:
+- **1 wedstrijddoel**
+- **1 technisch doel**
+- **1 mentaal speldoel**
 
-Master tracking these before adding more.
+Beheers deze gegevens eerst voordat je er meer toevoegt.
 
-### 2. Review Regularly
+### 2. Regelmatig evalueren
 
-- **Daily:** Check today's intention
-- **Weekly:** Review week's progress, plan next week
-- **Monthly:** Assess monthly targets, adjust if needed
-- **Quarterly:** Deep reflection, major adjustments
-- **Annually:** Celebrate year, set new vision
+- **Dagelijks:** Controleer je intentie voor vandaag.
+- **Wekelijks:** Bespreek de voortgang van de week en plan de volgende week.
+- **Maandelijks:** Evalueer de maandelijkse doelstellingen en pas deze indien nodig aan.
+- **Kwartaaloverzicht:** Diepgaande reflectie, grote aanpassingen
+- **Jaarlijks:** Vier het jaar, formuleer een nieuwe visie
 
-### 3. Be Honest, Not Harsh
+### 3. Wees eerlijk, niet hard.
 
-When you miss a target:
-- ❌ **Don't:** "I'm terrible, I'll never improve"
-- ✅ **Do:** "What got in the way? What can I adjust?"
+Als je een doel mist:
+- ❌ **Niet doen:** &quot;Ik ben vreselijk, ik zal nooit beter worden&quot;
+- ✅ **Doe:** &quot;Wat stond in de weg? Wat kan ik aanpassen?&quot;
 
-### 4. Link Goals to Your Why
+### 4. Koppel je doelen aan je drijfveer.
 
-Every goal should connect to your deeper motivation:
-- Why do you play pétanque?
-- What does improvement mean to you?
-- How will achieving this goal feel?
+Elk doel moet aansluiten op je diepere motivatie:
+- Waarom speel je pétanque?
+- Wat betekent verbetering voor jou?
+- Hoe zal het voelen om dit doel te bereiken?
 
-### 5. Make It Visible
+### 5. Maak het zichtbaar
 
-- Print your annual goals and post them where you see them daily
-- Set phone reminders for weekly reviews
-- Share goals with your training partner for accountability
-
----
-
-## Digital vs. Paper Tracking
-
-### Digital (Google Sheets/Excel)
-**Pros:**
-- Easy to update anywhere
-- Automatic calculations and charts
-- Can share with coach/training partner
-- Search and filter data
-
-**Cons:**
-- Requires device
-- Can feel impersonal
-- Easy to ignore notifications
-
-### Paper (Notebook/Printed Templates)
-**Pros:**
-- Tactile, personal connection
-- No distractions
-- Easy to review during training
-- Satisfying to check boxes
-
-**Cons:**
-- Can't easily create charts
-- Risk of losing notebook
-- Harder to share
-
-**Recommendation:** Use both! Digital for data tracking, paper for daily intentions and reflections.
+- Print je jaarlijkse doelen uit en hang ze op een plek waar je ze dagelijks ziet.
+- Stel telefoonherinneringen in voor wekelijkse evaluaties.
+- Deel je doelen met je trainingspartner om elkaar verantwoordelijk te houden.
 
 ---
 
-## Related Resources
+## Digitale versus papieren registratie
 
-- [Workshop](/nl/guides/workshop/) - Group sessions on goal setting and mental game
-- [Training Session](/nl/guides/training-session/) - Practice with accountability partners
-- [Mental Strength](/nl/education/mental-game/mental-strength/) - Build the mindset for goal achievement
-- [Training Diary Template](/nl/guides/templates/diary-template) - Daily practice tracking
+### Digitaal (Google Sheets/Excel)
+**Voordelen:**
+- Eenvoudig overal te updaten
+- Automatische berekeningen en grafieken
+- Kan gedeeld worden met coach/trainingspartner
+- Zoek- en filtergegevens
+
+**Nadelen:**
+- Vereist een apparaat
+- Kan onpersoonlijk aanvoelen
+- Meldingen zijn makkelijk te negeren.
+
+### Papier (notitieboekje/geprinte sjablonen)
+**Voordelen:**
+- Tastbare, persoonlijke verbinding
+- Geen afleiding
+- Gemakkelijk te herhalen tijdens de training
+- Het is fijn om vakjes aan te vinken.
+
+**Nadelen:**
+- Grafieken maken gaat niet makkelijk.
+- Risico op verlies van het notitieboekje
+- Moeilijker om te delen
+
+**Aanbeveling:** Gebruik ze allebei! Digitaal voor het bijhouden van gegevens, papier voor dagelijkse intenties en reflecties.
 
 ---
 
-## Quick Start Guide
+## Gerelateerde bronnen
 
-**New to goal setting? Start here:**
-
-1. **Week 1:** Set ONE monthly goal using SMART framework
-2. **Week 2:** Track daily progress in simple table
-3. **Week 3:** Do first weekly review
-4. **Week 4:** Adjust goal if needed, celebrate progress
-
-**After one month:** Add quarterly and annual goals.
+- [Workshop](/en/guides/workshop/) - Groepssessies over het stellen van doelen en mentale training
+- [Trainingssessie](/en/guides/training-session/) - Oefenen met verantwoordingspartners
+- [Mentale kracht](/en/education/mental-game/mental-strength/) - Ontwikkel de juiste mindset voor het behalen van je doelen
+- [Trainingsdagboeksjabloon](/en/guides/templates/diary-template) - Dagelijkse oefening bijhouden
 
 ---
 
-::: warning Common Goal-Setting Mistakes
-1. **Too many goals** - Focus is diluted
-2. **Too vague** - "Get better" isn't measurable
-3. **No tracking** - Can't see progress
-4. **No review** - Miss opportunities to adjust
-5. **All outcome, no process** - Focus on what you can control
+## Snelstartgids
+
+**Nieuw met het stellen van doelen? Begin hier:**
+
+1. **Week 1:** Stel ÉÉN maandelijks doel vast met behulp van het SMART-raamwerk.
+2. **Week 2:** Houd je dagelijkse voortgang bij in een eenvoudige tabel.
+3. **Week 3:** Doe de eerste wekelijkse evaluatie
+4. **Week 4:** Pas je doel indien nodig aan en vier je vooruitgang.
+
+**Na een maand:** Voeg kwartaal- en jaardoelen toe.
+
+---
+
+::: warning Veelvoorkomende fouten bij het stellen van doelen
+1. **Te veel doelen** - De focus is verwaterd
+2. **Te vaag** - &quot;Beter worden&quot; is niet meetbaar.
+3. **Geen tracking** - Voortgang niet zichtbaar
+4. **Geen beoordeling** - Gemiste kansen om aanpassingen te maken
+5. **Alleen resultaat, geen proces** - Focus op wat je kunt beheersen
 :::
 
 ---
 
-## Download Templates
+## Sjablonen downloaden
 
-::: tip Copy-Paste Ready
-All templates on this page are designed to be copied directly into:
+::: tip Kopiëren en plakken klaar
+Alle sjablonen op deze pagina zijn ontworpen om direct te worden gekopieerd naar:
 - Microsoft Word
 - Google Docs
 - Microsoft Excel
 - Google Sheets
-- Notion
-- Any note-taking app
+- Begrip
+- Elke notitie-app
 
-Simply select the template section you want, copy (Ctrl+C / Cmd+C), and paste into your preferred tool.
+Selecteer eenvoudig het gewenste gedeelte van de sjabloon, kopieer (Ctrl+C / Cmd+C) en plak het in uw favoriete programma.
 :::
 
-**Start with these three:**
-1. Annual Goal Setting Template
-2. Weekly Planning Template
-3. Progress Tracking Sheet
+**Begin met deze drie:**
+1. Sjabloon voor het vaststellen van jaarlijkse doelen
+2. Sjabloon voor wekelijkse planning
+3. Voortgangsregistratieformulier
 
 ---
 
 
-Use this framework to make your goals specific and achievable:
+Gebruik dit raamwerk om uw doelen specifiek en haalbaar te maken:
 
-### SMART Goal Template
+### SMART-doelsjabloon
 
-**S - Specific:** (What exactly do I want to achieve?)
+**S - Specifiek:** (Wat wil ik precies bereiken?)
 
-**M - Measurable:** (How will I know I've achieved it?)
+**M - Meetbaar:** (Hoe weet ik of ik het bereikt heb?)
 
-**A - Achievable:** (Is this realistic given my current level and resources?)
+**A - Haalbaar:** (Is dit realistisch gezien mijn huidige niveau en middelen?)
 
-**R - Relevant:** (Why does this matter to my overall vision?)
+**R - Relevant:** (Waarom is dit belangrijk voor mijn algehele visie?)
 
-**T - Time-bound:** (By when will I achieve this?)
+**T - Tijdsgebonden:** (Wanneer zal ik dit bereiken?)
 
-### Example SMART Goals
+### Voorbeelden van SMART-doelen
 
-::: details Example 1: Technical Goal
-**S - Specific:** Improve pointing accuracy on hard terrain
-**M - Measurable:** Land within 20cm of cochonnet 7 out of 10 attempts
-**A - Achievable:** Currently at 4/10, so 7/10 is challenging but realistic
-**R - Relevant:** Hard terrain is common in regional tournaments
-**T - Time-bound:** Achieve by end of Q2 (June 30)
+::: details Voorbeeld 1: Technisch doel
+**S - Specifiek:** Verbeterde richtnauwkeurigheid op moeilijk terrein
+**M - Meetbaar:** Landen binnen 20 cm van cochonnet in 7 van de 10 pogingen
+**A - Haalbaar:** Momenteel op 4/10, dus 7/10 is een uitdaging maar realistisch.
+**R - Relevant:** Moeilijk terrein komt vaak voor bij regionale toernooien.
+**T - Tijdsgebonden:** Te behalen vóór het einde van het tweede kwartaal (30 juni)
 :::
 
-::: details Example 2: Competition Goal
-**S - Specific:** Reach semi-finals in Club Championship
-**M - Measurable:** Finish in top 4 of 32-player tournament
-**A - Achievable:** Currently ranked 8-12 in club, improvement is realistic
-**R - Relevant:** Builds confidence and proves progress
-**T - Time-bound:** Championship is September 15
+::: details Voorbeeld 2: Competitiedoel
+**S - Specifiek:** De halve finales bereiken in het clubkampioenschap
+**M - Meetbaar:** Eindigen in de top 4 van een toernooi met 32 deelnemers
+**A - Haalbaar:** Momenteel 8e-12e in de clubranglijst, verbetering is realistisch.
+**R - Relevant:** Bouwt zelfvertrouwen op en bewijst vooruitgang
+**T - Tijdsgebonden:** Het kampioenschap is op 15 september.
 :::
 
-::: details Example 3: Mental Game Goal
-**S - Specific:** Manage inner critic during competition
-**M - Measurable:** Use Inner Coach reframe after every miss
-**A - Achievable:** Have practiced technique in training
-**R - Relevant:** Negative self-talk is my biggest barrier
-**T - Time-bound:** Consistent use in next 3 tournaments
+::: details Voorbeeld 3: Doel van het mentale spel
+**S - Specifiek:** Beheers je innerlijke criticus tijdens een wedstrijd
+**M - Meetbaar:** Gebruik de Inner Coach-herkadering na elke misser.
+**A - Haalbaar:** De techniek geoefend tijdens de training.
+**R - Relevant:** Negatieve zelfpraat is mijn grootste belemmering.
+**T - Tijdsgebonden:** Consistent gebruik in de volgende 3 toernooien
 :::
 
 ---

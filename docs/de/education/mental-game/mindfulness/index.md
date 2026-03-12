@@ -164,8 +164,8 @@ graph LR
 
 ## In diesem Abschnitt
 
-- **[Techniken](/de/education/mental-game/mindfulness/techniques)** - Praktische Übungen, die Sie nutzen können
-- **[Tägliche Übung](/de/education/mental-game/mindfulness/daily-practice)** – Achtsamkeit in Ihr Leben integrieren
+- **[Techniken](/en/education/mental-game/mindfulness/techniques)** - Praktische Übungen, die Sie nutzen können
+- **[Tägliche Übung](/en/education/mental-game/mindfulness/daily-practice)** - Achtsamkeit in dein Leben integrieren
 
 ## Zusammenfassung: Achtsamkeitsregeln
 

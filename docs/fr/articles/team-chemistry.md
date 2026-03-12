@@ -3,226 +3,226 @@ title: Building Team Chemistry
 description: Develop the intangible bonds that transform individual players into a cohesive pétanque team. Learn how chemistry is built, maintained, and leveraged.
 ---
 
-# Building Team Chemistry
+# Créer une cohésion d&#39;équipe
 
-> "You've seen it: teams where the whole exceeds the sum of parts."
+> «Vous l&#39;avez vu : des équipes où le tout dépasse la somme des parties.»
 
-Players who anticipate each other, support each other, and perform better together than alone. This is team chemistry — and it's not accidental.
+Des joueurs qui anticipent les actions des autres, se soutiennent mutuellement et sont plus performants ensemble que séparément. C&#39;est ce qu&#39;on appelle la cohésion d&#39;équipe — et ce n&#39;est pas le fruit du hasard.
 
-::: tip Chemistry Is Built, Not Found
-**Great teams aren't assembled — they're developed.** Chemistry requires intentional effort over time.
+::: tip La chimie se construit, elle ne se découvre pas.
+**Les grandes équipes ne se forment pas par assemblage, elles se construisent.** La cohésion d&#39;équipe exige un effort intentionnel et constant.
 :::
 
 ---
 
-## What Is Team Chemistry?
+## Qu&#39;est-ce que la chimie d&#39;équipe ?
 
 ```mermaid
 flowchart TD
-    A[Team Chemistry] --> B[Trust]
-    A --> C[Understanding]
+    A[Chimie d&#39;équipe] --> B[Confiance]
+    A --> C[Compréhension]
     A --> D[Communication]
-    A --> E[Support]
-    A --> F[Enjoyment]
+    A --> E[Soutien]
+    A --> F[Jouissance]
 
-    B --> G[Confidence in abilities]
-    C --> H[Know how teammates think]
-    D --> I[Effective information flow]
-    E --> J[Mutual encouragement]
-    F --> K[Pleasure in playing together]
+    B --> G[Confiance en ses capacités]
+    C --> H[Comprendre comment pensent les coéquipiers]
+    D --> I[Flux d&#39;information efficace]
+    E --> J[Encouragement mutuel]
+    F --> K[Le plaisir de jouer ensemble]
 
     style A fill:#9C27B0,color:#fff
 ```
 
 ---
 
-## Why Chemistry Matters
+## Pourquoi la chimie est importante
 
-| With Chemistry ✅ | Without Chemistry ❌ |
+| Avec la chimie ✅ | Sans chimie ❌ |
 |-------------------|----------------------|
-| Make better collective decisions | Blame each other for failures |
-| Recover faster from setbacks | Communicate poorly under stress |
-| Perform consistently under pressure | Underperform relative to talent |
-| Enjoy competition more | Experience conflict and frustration |
-| Stay together longer | Team dissolves |
+| Prendre de meilleures décisions collectives | Se rejeter la faute les uns sur les autres en cas d&#39;échec |
+| Se remettre plus rapidement des revers | Communication difficile en situation de stress |
+| performer de manière constante sous pression | Sous-performance par rapport au talent |
+| Appréciez davantage la compétition | Vivez des conflits et de la frustration |
+| Restez ensemble plus longtemps | L&#39;équipe se dissout |
 
-## The Building Blocks
+## Les éléments constitutifs
 
-### 1. Shared Goals
+### 1. Objectifs partagés
 
-Chemistry starts with alignment:
-- What are we trying to achieve?
-- What does success look like?
-- What are we willing to sacrifice?
+La chimie commence par l&#39;alignement :
+- Quel est notre objectif ?
+- À quoi ressemble le succès ?
+- Qu&#39;est-ce que nous sommes prêts à sacrifier ?
 
-Teams with conflicting goals (one wants fun, another wants to win at all costs) struggle to build chemistry.
+Les équipes aux objectifs contradictoires (l&#39;une veut s&#39;amuser, l&#39;autre gagner à tout prix) ont du mal à créer une bonne cohésion.
 
-### 2. Role Clarity
+### 2. Clarté des rôles
 
-Each player needs to know:
-- What's expected of them
-- How they contribute to team success
-- When to lead and when to follow
+Chaque joueur doit savoir :
+- Qu’attend-on d’eux ?
+- Comment ils contribuent au succès de l&#39;équipe
+- Quand diriger et quand suivre
 
-Unclear roles create friction and resentment.
+Des rôles mal définis créent des frictions et du ressentiment.
 
-### 3. Mutual Respect
+### 3. Respect mutuel
 
-Respect means:
-- Valuing each teammate's contribution
-- Accepting different styles and approaches
-- Treating each other with dignity, especially under pressure
+Le respect signifie :
+- Valoriser la contribution de chaque coéquipier
+- Accepter différents styles et approches
+- Se traiter les uns les autres avec dignité, surtout sous pression
 
-### 4. Psychological Safety
+### 4. Sécurité psychologique
 
-Players need to feel safe to:
-- Make mistakes without harsh judgment
-- Express opinions and concerns
-- Be themselves without pretense
+Les joueurs doivent se sentir en sécurité pour :
+- Faire des erreurs sans jugement sévère
+- Exprimer ses opinions et ses préoccupations
+- Soyez vous-mêmes sans prétention.
 
-## Building Chemistry: Practical Steps
+## La chimie du bâtiment : étapes pratiques
 
-### Time Together
+### Du temps ensemble
 
-Chemistry requires investment:
-- Practice together regularly
-- Spend time together off the terrain
-- Share experiences beyond pétanque
+La chimie exige un investissement :
+- Pratiquez ensemble régulièrement
+- Passez du temps ensemble en dehors du terrain.
+- Partagez des expériences au-delà de la pétanque
 
-### Structured Team Building
+### Constitution d&#39;équipe structurée
 
-Intentional activities help:
-- Team goal-setting sessions
-- Post-match debriefs (constructive)
-- Discussions about playing styles and preferences
+Les activités intentionnelles aident :
+- séances de définition d&#39;objectifs d&#39;équipe
+- Débriefings d&#39;après-match (constructifs)
+- Discussions sur les styles de jeu et les préférences
 
-### Conflict Resolution
+### Résolution des conflits
 
-Address issues before they fester:
-- Create space for honest conversation
-- Focus on behaviors, not personalities
-- Seek solutions, not blame
+Réglez les problèmes avant qu&#39;ils ne s&#39;enveniment :
+- Créer un espace pour une conversation honnête
+- Concentrez-vous sur les comportements, pas sur les personnalités.
+- Cherchez des solutions, pas des coupables.
 
-### Celebrate Together
+### Célébrons ensemble
 
-Shared joy builds bonds:
-- Acknowledge good performances
-- Celebrate team achievements
-- Mark milestones together
+La joie partagée renforce les liens :
+- Reconnaître les bonnes performances
+- Célébrez les réussites de l&#39;équipe
+- Célébrez ensemble les moments importants
 
-## Chemistry Killers
+## Les tueurs de la chimie
 
-### Blame Culture
+### La culture du blâme
 
-When mistakes lead to criticism rather than support, trust erodes quickly.
+Lorsque les erreurs entraînent des critiques plutôt que du soutien, la confiance s&#39;érode rapidement.
 
-### Unequal Commitment
+### Engagement inégal
 
-If some players invest more than others, resentment builds.
+Si certains joueurs investissent plus que d&#39;autres, le ressentiment s&#39;installe.
 
-### Poor Communication
+### Mauvaise communication
 
-Misunderstandings and assumptions create distance.
+Les malentendus et les suppositions créent de la distance.
 
-### Ego Conflicts
+### Conflits d&#39;ego
 
-When individual recognition matters more than team success, chemistry suffers.
+Lorsque la reconnaissance individuelle prime sur le succès de l&#39;équipe, la cohésion en pâtit.
 
-### Unresolved Conflict
+### Conflit non résolu
 
-Issues that aren't addressed don't disappear — they grow.
+Les problèmes qui ne sont pas résolus ne disparaissent pas, ils s&#39;aggravent.
 
-## Chemistry in Competition
+## La chimie en compétition
 
-### Before Matches
+### Avant les matchs
 
-- Arrive together, warm up together
-- Brief team discussion on approach
-- Positive energy and mutual encouragement
+- Arrivez ensemble, échauffez-vous ensemble
+- Brève discussion d&#39;équipe sur l&#39;approche
+- Énergie positive et encouragement mutuel
 
-### During Matches
+### Pendant les matchs
 
-- Visible support for each other
-- Constructive communication only
-- Shared celebration of good plays
-- Collective response to setbacks
+- Un soutien visible les uns pour les autres
+- Communication constructive uniquement
+- Célébration partagée des bonnes pièces de théâtre
+- Réponse collective aux revers
 
-### After Matches
+### Après les matchs
 
-- Win or lose, stay together
-- Brief debrief (what worked, what to improve)
-- Maintain positive relationships regardless of result
+- Victoire ou défaite, restez ensemble
+- Bref débriefing (ce qui a fonctionné, ce qu&#39;il faut améliorer)
+- Maintenez des relations positives quel que soit le résultat.
 
-## Different Personalities
+## Personnalités différentes
 
-Strong teams often include different personality types:
+Les équipes performantes comprennent souvent différents types de personnalités :
 
-- **The Steady One**: Calm under pressure, consistent
-- **The Energizer**: Brings enthusiasm and motivation
-- **The Strategist**: Thinks ahead, sees patterns
-- **The Competitor**: Drives the will to win
+- **La personne stable** : Calme sous pression, constante
+- **L&#39;Énergisant** : Apporte enthousiasme et motivation
+- **Le stratège** : Anticipe, repère les tendances
+- **Le Compétiteur** : Il alimente la volonté de gagner.
 
-Chemistry isn't about everyone being the same — it's about differences working together.
+La chimie ne consiste pas à ce que tout le monde soit identique, mais à ce que les différences collaborent.
 
-## When Chemistry Is Missing
+## Quand la chimie fait défaut
 
-### Signs of Poor Chemistry
+### Signes d&#39;une mauvaise chimie
 
-- Visible frustration with teammates
-- Blame after mistakes
-- Lack of communication
-- Playing as individuals, not a team
-- Dreading rather than enjoying matches
+- Frustration visible envers ses coéquipiers
+- Blâmer après les erreurs
+- Manque de communication
+- Jouer individuellement, pas en équipe
+- Redouter plutôt qu&#39;apprécier les matchs
 
-### Rebuilding Chemistry
+### Reconstruire la chimie
 
-1. **Acknowledge the problem**: Name it openly
-2. **Identify causes**: What's creating the friction?
-3. **Commit to change**: All parties must invest
-4. **Take action**: Specific steps to improve
-5. **Be patient**: Chemistry takes time to rebuild
+1. **Reconnaître le problème** : le nommer ouvertement
+2. **Identifier les causes** : Qu’est-ce qui crée la friction ?
+3. **S&#39;engager pour le changement** : Toutes les parties doivent investir
+4. **Passer à l&#39;action** : Mesures spécifiques à prendre pour améliorer
+5. **Soyez patient** : la chimie met du temps à se reconstituer.
 
-### When to Move On
+### Quand passer à autre chose
 
-Sometimes chemistry can't be fixed:
-- Fundamental value differences
-- Repeated broken trust
-- Unwillingness to change
+Parfois, la chimie est irrémédiable :
+- Différences fondamentales de valeurs
+- Des trahisons répétées de la confiance
+- Réticence au changement
 
-It's okay to recognize when a team isn't working.
+Il est normal de reconnaître lorsqu&#39;une équipe ne fonctionne pas.
 
-## The Captain's Role
+## Le rôle du capitaine
 
-If you're the team leader:
-- Model the behavior you want to see
-- Address issues early and directly
-- Create opportunities for connection
-- Protect the team culture
-- Balance individual needs with team needs
+Si vous êtes le chef d&#39;équipe :
+- Modélisez le comportement que vous souhaitez observer.
+- Abordez les problèmes rapidement et directement.
+- Créer des opportunités de connexion
+- Protéger la culture d&#39;équipe
+- Concilier les besoins individuels et les besoins de l&#39;équipe
 
-## Long-Term Chemistry
+## Chimie à long terme
 
-Chemistry isn't static — it requires maintenance:
+La chimie n&#39;est pas statique — elle nécessite un entretien :
 
-### Regular Check-Ins
+### Suivi régulier
 
-- How are we functioning as a team?
-- What's working? What isn't?
-- Any issues to address?
+- Comment fonctionnons-nous en équipe ?
+- Qu&#39;est-ce qui fonctionne ? Qu&#39;est-ce qui ne fonctionne pas ?
+- Des problèmes à signaler ?
 
-### Continuous Investment
+### Investissement continu
 
-- Keep spending time together
-- Keep communicating openly
-- Keep supporting each other
+- Continuez à passer du temps ensemble
+- Continuez à communiquer ouvertement
+- Continuez à vous soutenir mutuellement
 
 ### Adaptation
 
-- As players grow and change, so must the team
-- Be willing to evolve roles and dynamics
-- Stay curious about each other
+- À mesure que les joueurs évoluent, l&#39;équipe doit évoluer elle aussi.
+- Soyez prêt à faire évoluer les rôles et les dynamiques.
+- Restez curieux les uns des autres
 
 ---
 
-*Related: [Team Dynamics](/fr/education/team-dynamics/) | [Communication](/fr/education/team-dynamics/communication) | [Leadership in Pétanque](/fr/articles/team-leadership)*
+| *À consulter également : [Dynamique d&#39;équipe](/en/education/team-dynamics/) | [Communication](/en/education/team-dynamics/communication) | [Leadership en pétanque](/en/articles/team-leadership)* |
 

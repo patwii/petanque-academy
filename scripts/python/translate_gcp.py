@@ -196,6 +196,7 @@ def translate_text_gcp(text, target_language, translate_client):
     _cache_misses += 1
 
     try:
+        # No delay needed with authenticated API (high rate limits)
         result = translate_client.translate(text, target_language=target_language, source_language='en')
         translated = result['translatedText']
 
@@ -204,8 +205,17 @@ def translate_text_gcp(text, target_language, translate_client):
 
         return translated
     except Exception as e:
-        print(f"\n    Error: {e}", flush=True)
-        return text
+        print(f"\n    Error translating '{text[:50]}...': {e}", flush=True)
+        # Retry once after longer delay
+        try:
+            time.sleep(2)
+            result = translate_client.translate(text, target_language=target_language, source_language='en')
+            translated = result['translatedText']
+            _translation_cache[cache_key] = translated
+            return translated
+        except Exception as e2:
+            print(f"\n    Retry failed: {e2}", flush=True)
+            return text
 
 def extract_text_only(line):
     """Extract only the translatable text from a line, preserving all syntax"""

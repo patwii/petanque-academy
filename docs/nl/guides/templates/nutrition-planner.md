@@ -1,137 +1,137 @@
-# Competition Nutrition Planner
+# Voedingsplanner voor wedstrijden
 
-Plan what and when to eat for optimal performance on competition days.
+Plan van tevoren wat en wanneer je eet voor optimale prestaties op wedstrijddagen.
 
-::: tip Stable Energy = Steady Hands
-**Your brain is your most important tool in pétanque.** Feed it stable fuel, not roller coaster energy. This planner helps you avoid blood sugar spikes and crashes.
+::: tip Stabiele energie = vaste handen
+**Je hersenen zijn je belangrijkste hulpmiddel bij pétanque.** Geef ze stabiele brandstof, geen schommelende energie. Deze planner helpt je bloedsuikerspiegelschommelingen te voorkomen.
 :::
 
 ---
 
-## Quick Reference Card
+## Snel naslagkaart
 
-### ✅ Competition Day Foods
+### ✅ Eten voor de wedstrijddag
 
-| Type | Good Choices |
+| Type | Goede keuzes |
 |------|--------------|
-| **Protein** | Eggs, chicken, cheese, nuts, jerky |
-| **Healthy Fats** | Avocado, olive oil, nuts, cheese |
-| **Complex Carbs** | Vegetables, legumes, berries |
-| **Hydration** | Water, herbal tea |
+| **Eiwit** | Eieren, kip, kaas, noten, gedroogd vlees |
+| **Gezonde vetten** | Avocado, olijfolie, noten, kaas |
+| **Complexe koolhydraten** | Groenten, peulvruchten, bessen |
+| **Hydratatie** | Water, kruidenthee |
 
-### ❌ Foods to Avoid
+### ❌ Te vermijden voedingsmiddelen
 
-| Type | Avoid |
+| Type | Voorkomen |
 |------|-------|
-| **Sugar** | Candy, soda, pastries, cookies |
-| **Simple Carbs** | White bread, pasta, pizza |
-| **Drinks** | Fruit juice, energy drinks, excess caffeine |
+| **Suiker** | Snoep, frisdrank, gebak, koekjes |
+| **Eenvoudige koolhydraten** | Witbrood, pasta, pizza |
+| **Dranken** | Vruchtensap, energiedrankjes, overmatige cafeïne |
 
 ---
 
-## Competition Day Timeline
+## Tijdschema voor de wedstrijddag
 
-### Night Before
+### De avond ervoor
 
-**Dinner (6-8pm):**
-- [ ] Protein (chicken, fish, eggs)
-- [ ] Vegetables or salad
-- [ ] No heavy carbs or alcohol
-- [ ] Stop eating 3+ hours before bed
+**Diner (18:00-20:00):**
+- [ ] Eiwitten (kip, vis, eieren)
+- [ ] Groenten of salade
+- [ ] Geen zware koolhydraten of alcohol.
+- [ ] Stop met eten 3 uur of langer voordat je naar bed gaat.
 
-**Hydration:**
-- [ ] 2L water throughout the day
-- [ ] Stop caffeine after 2pm
+**Hydratatie:**
+- [ ] 2 liter water gedurende de dag
+- [ ] Stop met cafeïne na 14.00 uur.
 
 ---
 
-### Competition Morning
+### Wedstrijdochtend
 
-**2-3 Hours Before First Match:**
+**2-3 uur voor de eerste wedstrijd:**
 
-| Component | Example | Notes |
+| component | Voorbeeld | Notities |
 |-----------|---------|-------|
-| **Protein** | 2-3 eggs | Slow, steady energy |
-| **Vegetables** | Spinach, tomatoes | Fiber & nutrients |
-| **Healthy Fat** | Avocado or olive oil | Sustained fuel |
-| **Avoid** | Toast, juice, pastries | Causes crash |
+| **Eiwit** | 2-3 eieren | Langzame, constante energie |
+| **Groenten** | Spinazie, tomaten | Vezels en voedingsstoffen |
+| **Gezonde vetten** | Avocado- of olijfolie | Aanhoudende brandstof |
+| **Voorkomen** | Toast, sap, gebak | Veroorzaakt een crash |
 
-**Example Meals:**
-- Eggs with vegetables (scrambled/omelet)
-- Salad with chicken and olive oil
-- Cheese with nuts and vegetable sticks
+**Voorbeelden van maaltijden:**
+- Eieren met groenten (roerei/omelet)
+- Salade met kip en olijfolie
+- Kaas met noten en groentesticks
 
 ---
 
-### During Competition
+### Tijdens de wedstrijd
 
-**Between Games:**
+**Tussen de wedstrijden door:**
 
-| Timing | What to Eat | What to Drink |
+| Timing | Wat te eten | Wat te drinken |
 |--------|-------------|---------------|
-| Every 2 hours | Small protein snack | Sip water consistently |
-| When hungry | Nuts, cheese, jerky | Avoid sugary drinks |
-| Before important match | Light snack 30 min before | Stay hydrated |
+| Elke 2 uur | Kleine eiwitsnack | Drink regelmatig kleine slokjes water. |
+| Als ik honger heb | Noten, kaas, gedroogd vlees | Vermijd suikerhoudende dranken. |
+| Voor een belangrijke wedstrijd | Een lichte snack 30 minuten van tevoren | Zorg dat je voldoende drinkt. |
 
-**Competition Snack Kit:**
-- [ ] Mixed nuts (unsalted, small portions)
-- [ ] Hard-boiled eggs
-- [ ] Cheese cubes or string cheese
-- [ ] Beef or turkey jerky
-- [ ] Vegetable sticks (carrots, celery)
-- [ ] Water bottle (1.5L minimum)
+**Wedstrijdsnackpakket:**
+- [ ] Gemengde noten (ongezouten, kleine porties)
+- [ ] Hardgekookte eieren
+- [ ] Kaasblokjes of strengkaas
+- [ ] Gedroogd rundvlees of kalkoen
+- [ ] Groentesticks (wortels, selderij)
+- [ ] Waterfles (minimaal 1,5 liter)
 
 ---
 
-### Warning Signs: Eat Now!
+### Waarschuwingssignalen: Eet nu!
 
-| Symptom | What It Means |
+| Symptoom | Wat het betekent |
 |---------|---------------|
-| 🖐️ Trembling hands | Blood sugar crash |
-| 😵 Difficulty concentrating | Brain needs fuel |
-| 😤 Irritability | Blood sugar unstable |
-| 😴 Fatigue | Energy depleting |
-| 🤕 Headache | Dehydration or hunger |
+| 🖐️ Trillende handen | Bloedsuikerdip |
+| 😵 Moeite met concentreren | De hersenen hebben brandstof nodig. |
+| 😤 Prikkelbaarheid | Onstabiele bloedsuikerspiegel |
+| 😴 Vermoeidheid | Energie-uitputtend |
+| 🤕 Hoofdpijn | Uitdroging of honger |
 
-**Action:** Eat protein/fat snack + drink water immediately
+**Actie:** Eet een eiwit-/vetrijke snack en drink direct water.
 
 ---
 
-## My Competition Day Plan
+## Mijn plan voor de wedstrijddag
 
-### Night Before
+### De avond ervoor
 
-**Dinner time:** ________ 
+**Etenstijd:** ________
 **Menu:**
-- Protein: ________
-- Vegetables: ________
-- Avoid: ________
+- Eiwit: ________
+- Groenten: ________
+- Voorkomen: ________
 
 ---
 
-### Competition Day
+### Wedstrijddag
 
-**Wake time:** ________
-**First match:** ________
+**Wakker worden:** ________
+**Eerste wedstrijd:** ________
 
-**Breakfast (time: ________):**
-- Protein: ________
-- Vegetables: ________
-- Fat source: ________
+**Ontbijt (tijd: ________):**
+- Eiwit: ________
+- Groenten: ________
+- Vetbron: ________
 
-**Snacks packed:**
+**Ingepakte snacks:**
 - [ ] ________
 - [ ] ________
 - [ ] ________
 - [ ] ________
 
-**Water bottles:** _____ L
+**Waterflessen:** _____ L
 
 ---
 
-### Snack Schedule
+### Snackschema
 
-| Time | Snack | Notes |
+| Tijd | Snack | Notities |
 |------|-------|-------|
 | | | |
 | | | |
@@ -140,32 +140,32 @@ Plan what and when to eat for optimal performance on competition days.
 
 ---
 
-## Post-Competition
+## Na de wedstrijd
 
-**Within 1 hour:**
-- [ ] Balanced meal with protein
-- [ ] Rehydrate fully
-- [ ] Avoid "celebrating" with sugar
+**Binnen 1 uur:**
+- [ ] Evenwichtige maaltijd met eiwitten
+- [ ] Hydrateer volledig.
+- [ ] Vermijd het &#39;vieren&#39; met suiker.
 
 ---
 
-## Practice Your Nutrition
+## Houd rekening met je voedingsbehoeften.
 
-::: warning Important
-**Don't try new foods on competition day!** Practice your competition nutrition during training sessions. Your body needs time to adapt.
+::: warning Belangrijk
+**Probeer geen nieuwe voedingsmiddelen op de wedstrijddag!** Oefen je wedstrijdvoeding tijdens de trainingen. Je lichaam heeft tijd nodig om zich aan te passen.
 :::
 
-**Training day practice:**
-- [ ] Eat the same pre-training meal as competition
-- [ ] Bring the same snacks
-- [ ] Note how you feel during training
-- [ ] Adjust based on what works
+**Oefening op de trainingsdag:**
+- [ ] Eet dezelfde maaltijd vóór de training als tijdens de wedstrijd.
+- [ ] Neem dezelfde snacks mee.
+- [ ] Let op hoe je je voelt tijdens de training.
+- [ ] Pas het aan op basis van wat werkt.
 
 ---
 
-## Related Resources
+## Gerelateerde bronnen
 
-- [Nutrition Education](/nl/education/nutrition/) — Full nutrition guide
-- [Pre-Competition Checklist](/nl/guides/templates/pre-competition-checklist) — Complete preparation guide
-- [Sleep Tracker](/nl/guides/templates/sleep-tracker) — Optimize recovery
+- [Voedingsvoorlichting](/en/education/nutrition/) — Volledige voedingsgids
+- [Checklist voor de wedstrijd](/en/guides/templates/pre-competition-checklist) — Complete voorbereidingsgids
+- [Slaaptracker](/en/guides/templates/sleep-tracker) — Optimaliseer herstel
 

@@ -228,13 +228,13 @@ _________________________________________________
 **Website:** carreau.app
 
 **Recommended Starting Point:**
-- [The Zone](/nl/education/mental-game/the-zone/) - Deep dive into flow states
-- [Mental Strength](/nl/education/mental-game/mental-strength/) - Building resilience
-- [Mindfulness](/nl/education/mental-game/mindfulness/) - Daily practice guide
+- [The Zone](/en/education/mental-game/the-zone/) - Deep dive into flow states
+- [Mental Strength](/en/education/mental-game/mental-strength/) - Building resilience
+- [Mindfulness](/en/education/mental-game/mindfulness/) - Daily practice guide
 
 **Tools:**
-- [Goal Template](/nl/guides/templates/goal-template) - Structure your development
-- [Diary Template](/nl/guides/templates/diary-template) - Track your progress
+- [Goal Template](/en/guides/templates/goal-template) - Structure your development
+- [Diary Template](/en/guides/templates/diary-template) - Track your progress
 
 ### Questions?
 
@@ -631,9 +631,9 @@ Een beknopte samenvatting van één pagina die deelnemers kunnen bewaren.
 **Email:** patrik.wiik@gmail.com
 
 **Next Steps:**
-1. Read [The Zone](/nl/education/mental-game/the-zone/)
-2. Use [Goal Template](/nl/guides/templates/goal-template)
-3. Track progress in [Diary](/nl/guides/templates/diary-template)
+1. Read [The Zone](/en/education/mental-game/the-zone/)
+2. Use [Goal Template](/en/guides/templates/goal-template)
+3. Track progress in [Diary](/en/guides/templates/diary-template)
 ```
 
 </details>
@@ -654,7 +654,7 @@ Interactieve werkbladen voor activiteiten tijdens de sessie. Deelnemers kunnen d
 ### Werkblad 4: Actieplan
 
 ::: tip Digitale werkbladen
-Moedig deelnemers aan om de [Doelsjabloon](/nl/guides/templates/goal-template) en [Dagboeksjabloon](/nl/guides/templates/diary-template) te gebruiken voor voortdurende oefening.
+Moedig deelnemers aan om de [Doelsjabloon](/en/guides/templates/goal-template) en [Dagboeksjabloon](/en/guides/templates/diary-template) te gebruiken voor voortdurende oefening.
 :::
 
 
@@ -714,8 +714,8 @@ Voor sessies op afstand of hybride sessies:
 
 **Vragen over materialen?**
 - E-mail: patrik.wiik@gmail.com
-- Bekijk de [Sessiehandleiding](/nl/guides/mental-journey/session-guide)
-- Raadpleeg de [Workshopgids](/nl/guides/workshop/) voor een geavanceerde versie.
+- Bekijk de [Sessiehandleiding](/en/guides/mental-journey/session-guide)
+- Raadpleeg de [Workshopgids](/en/guides/workshop/) voor een geavanceerde versie.
 
 
 ---

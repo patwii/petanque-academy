@@ -1,50 +1,50 @@
-# Goal Setting for Pétanque Players
+# Målsättning för boulespelare
 
 
-Clear goals are your compass. They give direction to your training, motivation when things get hard, and a way to measure progress. Without goals, you're just throwing boules. With goals, you're building toward something.
+Tydliga mål är din kompass. De ger riktning till din träning, motivation när det blir svårt och ett sätt att mäta framsteg. Utan mål kastar du bara boule. Med mål bygger du mot något.
 
-::: tip The Core Principle
-**A goal without a plan is just a wish.** Set clear goals, break them down, focus on what you control, and track your progress.
+::: tip Kärnprincipen
+**Ett mål utan en plan är bara en önskan.** Sätt tydliga mål, bryt ner dem, fokusera på det du kontrollerar och följ dina framsteg.
 :::
 
-## Why Goals Matter
+## Varför mål är viktiga
 
-Goals serve multiple purposes:
-- **Direction:** Know what to work on
-- **Motivation:** Have something to strive for
-- **Measurement:** Track your progress
-- **Focus:** Prioritize your limited time
+Mål tjänar flera syften:
+- **Riktning:** Veta vad du ska arbeta med
+- **Motivation:** Ha något att sträva efter
+- **Mätning:** Följ dina framsteg
+- **Fokus:** Prioritera din begränsade tid
 
-For the self-directed player, goals are especially important. Without a coach pushing you, your goals become your guide.
+För den självstyrda spelaren är målsättningar särskilt viktiga. Utan en tränare som pushar dig blir dina mål din vägledning.
 
-## The Three Types of Goals
+## De tre typerna av mål
 
-Not all goals are equal. Understanding the different types helps you set better ones.
+Alla mål är inte likadana. Att förstå de olika typerna hjälper dig att sätta bättre mål.
 
-### 1. Outcome Goals
-**What:** The end result you want
-**Example:** "Win the regional championship"
-**Control level:** Low - depends on opponents, conditions, luck
+### 1. Resultatmål
+**Vad:** Slutresultatet du vill ha
+**Exempel:** &quot;Vinn regionsmästerskapet&quot;
+**Kontrollnivå:** Låg – beror på motståndare, förhållanden och tur
 
-### 2. Performance Goals
-**What:** Specific performance standards
-**Example:** "Achieve 80% accuracy on shooting drills"
-**Control level:** Medium - depends mostly on you
+### 2. Prestationsmål
+**Vad:** Specifika prestationsstandarder
+**Exempel:** &quot;Uppnå 80 % noggrannhet på skjutövningar&quot;
+**Kontrollnivå:** Medel – beror mest på dig
 
-### 3. Process Goals
-**What:** Actions and behaviors you control
-**Example:** "Complete my pre-shot routine on every throw"
-**Control level:** High - entirely up to you
+### 3. Processmål
+**Vad:** Handlingar och beteenden du kontrollerar
+**Exempel:** &quot;Slutför min rutinen före skottet vid varje kast&quot;
+**Kontrollnivå:** Hög – helt upp till dig
 
-### The Goal Hierarchy
+### Målhierarkin
 
 ```mermaid
 graph TD
-    A[Outcome Goal<br/>The Dream] --> B[Performance Goals<br/>Milestones]
-    B --> C[Process Goals<br/>Daily Actions]
+    A[Resultatmål <br/> Drömmen] --> B[Prestationsmål <br/> Milstolpar]
+    B --> C[Processmål <br/> Dagliga åtgärder]
 
-    A2["Win Regional Championship"] --> B2["80% shooting accuracy"]
-    B2 --> C2["Complete pre-shot routine<br/>every throw"]
+    A2[&quot;Vinn regionsmästerskapet&quot;] --> B2[&quot;80 % skottprecision&quot;]
+    B2 --> C2[&quot;Komplett rutin före skotttagning&quot; <br/> varje kast&quot;]
 
     style A fill:#e1f5ff
     style B fill:#fff9c4
@@ -54,123 +54,123 @@ graph TD
     style C2 fill:#c8e6c9
 ```
 
-::: warning Key Insight
-**Focus most of your attention on process goals.** They're what you control, and they lead to the outcomes you want.
+::: warning Viktig insikt
+**Fokusera mestadels på processmål.** Det är de du kontrollerar, och de leder till de resultat du vill ha.
 
-- **Outcome goals:** Low control, high motivation
-- **Performance goals:** Medium control, measurable progress
-- **Process goals:** High control, daily focus ← **Focus here**
+- **Resultatmål:** Låg kontroll, hög motivation
+- **Prestationsmål:** Medelhög kontroll, mätbara framsteg
+- **Processmål:** Hög kontroll, dagligt fokus ← **Fokus här**
 :::
 
-## The SMART Framework
+## SMART-ramverket
 
-::: info SMART Goals Checklist
-Every goal should be:
-- ✅ **S**pecific - Clear and well-defined
-- ✅ **M**easurable - You can track progress
-- ✅ **A**chievable - Challenging but possible
-- ✅ **R**elevant - Aligned with your bigger picture
-- ✅ **T**ime-bound - Has a deadline
+::: info Checklista för SMART-mål
+Varje mål bör vara:
+- ✅ **Specifik** - Tydlig och väldefinierad
+- ✅ **Mätbar** - Du kan följa framstegen
+- ✅ **Uppnåeligt - Utmanande men möjligt
+- ✅ **R**elevant - I linje med din större bild
+- ✅ **Tidsbunden - Har en deadline
 :::
 
 
-### S - Specific
-❌ "Get better at shooting"
-✅ "Improve my au fer (direct hit) accuracy from 8 meters"
+### S - Specifik
+❌ &quot;Bli bättre på att skjuta&quot;
+✅ &quot;Förbättra min precision i direktträff från 8 meter&quot;
 
-### M - Measurable
-❌ "Shoot more accurately"
-✅ "Score at least 24/30 on the shooting ladder drill"
+### M - Mätbar
+❌ &quot;Skjuta mer exakt&quot;
+✅ &quot;Gör minst 24/30 poäng på övningen med skjutstegen&quot;
 
-### A - Achievable
-❌ "Never miss a shot" (impossible)
-✅ "Improve accuracy by 10% over 8 weeks" (challenging but realistic)
+### A - Uppnåelig
+❌ &quot;Missa aldrig ett skott&quot; (omöjligt)
+✅ &quot;Förbättra noggrannheten med 10 % under 8 veckor&quot; (utmanande men realistiskt)
 
 ### R - Relevant
-❌ "Run a marathon" (not directly related)
-✅ "Improve balance and stability for better throwing" (supports your game)
+❌ &quot;Spring ett maraton&quot; (inte direkt relaterat)
+✅ &quot;Förbättra balans och stabilitet för bättre kastförmåga&quot; (stödjer ditt spel)
 
-### T - Time-bound
-❌ "Someday I'll be better"
-✅ "By March 15th, I will achieve..."
+### T - Tidsbunden
+❌ &quot;En dag kommer jag att bli bättre&quot;
+✅ &quot;Senast den 15 mars kommer jag att uppnå...&quot;
 
-## Goal Examples for Pétanque
+## Målexempel för boule
 
-| Type | Poor Goal | SMART Goal |
+| Typ | Dåligt mål | SMART-mål |
 |------|-----------|------------|
-| Outcome | "Win more" | "Reach the semi-finals at the Spring Tournament" |
-| Performance | "Point better" | "Achieve 70% of points within 50cm at 8m distance" |
-| Process | "Practice more" | "Complete 3 focused training sessions per week" |
+| Resultat | &quot;Vinn mer&quot; | &quot;Nå semifinal i vårturneringen&quot; |
+| Prestanda | &quot;Peka bättre&quot; | &quot;Uppnå 70 % av poängen inom 50 cm på 8 m avstånd&quot; |
+| Behandla | &quot;Öva mer&quot; | &quot;Slutför 3 fokuserade träningspass per vecka&quot; |
 
-## Breaking Down Big Goals
+## Att bryta ner stora mål
 
-Large goals can feel overwhelming. Break them into smaller pieces:
+Stora mål kan kännas överväldigande. Bryt ner dem i mindre bitar:
 
-### Example: "Win the Club Championship (12 months away)"
+### Exempel: &quot;Vinn klubbmästerskapet (om 12 månader)&quot;
 
-**Yearly goal:** Win club championship
+**Årsmål:** Vinna klubbmästerskapet
 
-**Quarterly goals:**
-- Q1: Improve shooting accuracy to 75%
-- Q2: Develop consistent pre-shot routine
-- Q3: Master pressure situations
-- Q4: Peak performance and competition prep
+**Kvartalsmål:**
+- Q1: Förbättra skottnoggrannheten till 75 %
+- Q2: Utveckla en konsekvent rutin före sprutning
+- Q3: Situationer med överlägsen press
+- Q4: Topprestation och tävlingsförberedelser
 
-**Monthly goals (Q1):**
-- Month 1: Establish baseline, identify weaknesses
-- Month 2: Focus on shooting technique
-- Month 3: Add pressure to shooting practice
+**Månadsmål (Q1):**
+- Månad 1: Etablera baslinje, identifiera svagheter
+- Månad 2: Fokus på skjutteknik
+- Månad 3: Öka press på skytteträningen
 
-**Weekly goals (Month 2):**
-- Week 1: 3 shooting sessions, video analysis
-- Week 2: Work on identified technique issue
-- Week 3: Increase distance gradually
-- Week 4: Test progress, adjust plan
+**Veckovisa mål (Månad 2):**
+- Vecka 1: 3 fotograferingstillfällen, videoanalys
+- Vecka 2: Arbeta med identifierat teknikproblem
+- Vecka 3: Öka avståndet gradvis
+- Vecka 4: Testa framsteg, justera planen
 
-## Connecting Goals to Your "Why"
+## Koppla mål till ditt &quot;varför&quot;
 
-Goals work better when connected to deeper motivation.
+Mål fungerar bättre när de är kopplade till djupare motivation.
 
-Ask yourself:
-- Why do I want to achieve this?
-- What will it mean to me?
-- How will I feel when I succeed?
-- What's driving me to improve?
+Fråga dig själv:
+- Varför vill jag uppnå detta?
+- Vad kommer det att betyda för mig?
+- Hur kommer jag att känna mig när jag lyckas?
+- Vad driver mig att förbättra mig?
 
-Write down your answers. Return to them when motivation fades.
+Skriv ner dina svar. Återvänd till dem när motivationen avtar.
 
-## In This Section
+## I detta avsnitt
 
-- **[Psychology of Motivation](/sv/education/motivation/motivation)** — Intrinsic vs extrinsic, Self-Determination Theory
-- **[SMART Goals in Detail](/sv/education/motivation/smart-goals)** — Deep dive into creating effective goals
-- **[Creating Your Training Plan](/sv/education/motivation/planning)** — Turn goals into action
-- **[Maintaining Motivation](/sv/education/motivation/maintaining)** — Long-term sustainability, burnout prevention
+- **[Motivationspsykologi](/sv/utbildning/motivation/motivation)** — Intrinsisk vs. yttre, Självbestämmande teori
+- **[SMARTA Mål i Detaljer](/sv/utbildning/motivation/smarta-mål)** — Djupdykning i att skapa effektiva mål
+- **[Skapa din träningsplan](/sv/utbildning/motivation/planering)** — Förvandla mål till handling
+- **[Att bibehålla motivationen](/sv/utbildning/motivation/bibehålla)** — Långsiktig hållbarhet, förebyggande av utbrändhet
 
-## Summary: Goal Setting Rules
+## Sammanfattning: Regler för målsättning
 
-::: tip Rule #1: The Control Rule
-**Focus on process goals (what you control) over outcome goals.**
-Process goals lead to performance goals, which lead to outcome goals.
+::: tip Regel nr 1: Kontrollregeln
+**Fokusera på processmål (vad du kontrollerar) framför resultatmål.**
+Processmål leder till prestationsmål, vilket leder till resultatmål.
 :::
 
-::: tip Rule #2: The SMART Rule
-**Goals must be Specific, Measurable, Achievable, Relevant, Time-bound.**
-Vague goals produce vague results. SMART goals produce progress.
+::: tip Regel #2: SMART-regeln
+**Mål måste vara specifika, mätbara, uppnåeliga, relevanta och tidsbundna.**
+Vaga mål ger vaga resultat. SMARTA mål ger framsteg.
 :::
 
-::: tip Rule #3: The Breakdown Rule
-**Large goals need quarterly, monthly, and weekly milestones.**
-Break big goals into small, actionable steps you can complete this week.
+::: tip Regel nr 3: Uppdelningsregeln
+**Stora mål behöver delmål kvartalsvis, månatligen och veckovis.**
+Bryt ner stora mål i små, konkreta steg som du kan genomföra den här veckan.
 :::
 
-::: tip Rule #4: The Connection Rule
-**Connect goals to your deeper "why."**
-When motivation fades, your "why" keeps you going.
+::: tip Regel nr 4: Kopplingsregeln
+**Koppla mål till ditt djupare &quot;varför&quot;.**
+När motivationen avtar är det ditt &quot;varför&quot; som håller dig igång.
 :::
 
-## Key Takeaway
+## Viktig slutsats
 
-> A goal without a plan is just a wish.
+> Ett mål utan en plan är bara en önskan.
 
-Set clear goals. Break them down. Focus on what you control. Track your progress.
+Sätt tydliga mål. Bryt ner dem. Fokusera på det du kontrollerar. Följ dina framsteg.
 

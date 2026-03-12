@@ -17,9 +17,9 @@ Ya sea que seas un jugador que busca mejorar su juego mental o un entrenador que
 | Recurso | Objetivo | Acceso |
 |----------|---------|--------|
 | **Empezando** | Introducción a los conceptos de juegos mentales | [Lea a continuación](#por-qué-es-importante-el-entrenamiento-mental) |
-| **Guía de la sesión** | Guía completa de taller de 2-3 horas para facilitadores | [Ver guía](/es/guides/mental-journey/session-guide) |
-| **Materiales** | Guías, diapositivas y hojas de trabajo para los participantes | [Ver materiales](/es/guides/mental-journey/materials) |
-| **Guías relacionadas** | Formatos avanzados | [Taller](/es/guides/workshop/) • [Campo de entrenamiento](/es/campo-de-entrenamiento) |
+| **Guía de la sesión** | Guía completa de taller de 2-3 horas para facilitadores | [Ver guía](/es/guias/viaje-mental/guia-de-sesion) |
+| **Materiales** | Guías, diapositivas y hojas de trabajo para los participantes | [Ver materiales](/es/guias/viaje-mental/materiales) |
+| **Guías relacionadas** | Formatos avanzados | [Taller](/es/guias/taller/) • [Campo de entrenamiento](/es/guias/campo-de-entrenamiento/) |
 
 ## Por qué es importante el entrenamiento mental
 
@@ -77,23 +77,23 @@ graph TD
 ### Opción 1: Autoaprendizaje (para jugadores)
 
 **Semana 1: Comprensión de los conceptos básicos**
-1. Leer el módulo [La Zona](/es/education/mental-game/the-zone/)
+1. Leer el módulo [La Zona](/es/educacion/juego-mental/la-zona/)
 2. Pruebe la técnica de reinicio de 3 respiraciones
 3. Observa cuándo estás en &quot;modo técnico&quot; frente a &quot;modo de flujo&quot;
 
 **Semana 2: Generando conciencia**
-1. Lea el módulo [Fuerza Mental](/es/education/mental-game/mental-strength/)
+1. Lea el módulo [Fuerza Mental](/es/educacion/juego-mental/fuerza-mental/)
 2. Identifica tus patrones de crítica interna
 3. Practique la observación neutral después de los errores
 
 **Semana 3: Creando Estructura**
-1. Leer el módulo [Mindfulness](/es/education/mindfulness/)
+1. Leer el módulo [Mindfulness](/es/educacion/juego-mental/mindfulness/)
 2. Comience una práctica diaria de 5 minutos
 3. Desarrollar una rutina sencilla previa al disparo
 
 **Semana 4: Integración**
 1. Utilice su rutina en la práctica
-2. Realice un seguimiento del rendimiento mental en [Plantilla de diario](/es/guides/templates/diary-template)
+2. Monitorea tu rendimiento mental con [Plantilla de diario](/es/guides/templates/diary-template)
 3. Establezca objetivos de juego mental utilizando [Plantilla de objetivos](/es/guides/templates/goal-template)
 
 ### Opción 2: Taller grupal (para entrenadores)
@@ -167,19 +167,19 @@ El entrenamiento mental no reemplaza la práctica técnica. Pero te ayuda a mejo
 ### Para jugadores
 - Módulos educativos: 8 guías completas
 - [Plantilla de objetivo](/es/guides/templates/goal-template) - Estructura tu desarrollo
-- [Plantilla de diario](/es/guides/templates/diary-template) - Sigue tu progreso
-- [Casos prácticos](/es/casos-de-estudio) - Ejemplos reales
+- [Plantilla de diario](/es/guias/plantillas/plantilla-de-diario) - Sigue tu progreso
+- [Casos prácticos](/es/articulos/casos-practicos) - Ejemplos reales
 
 ### Para entrenadores/guías
-- [Guía de la sesión](/es/guides/mental-journey/session-guide) - Taller completo de 2-3 horas
+- [Guía de la sesión](/es/guias/viaje-mental/guia-de-la-sesion) - Taller completo de 2-3 horas
 - [Materiales para el facilitador](/es/guides/mental-journey/materials) - Guías y diapositivas digitales
-- [Guía del taller](/es/guides/workshop/) - Formato avanzado de 3-4 horas
-- [Guía del Training Camp](/es/guides/training-camp/) - Programa de fin de semana
+- [Guía del taller](/es/guias/taller/) - Formato avanzado de 3-4 horas
+- [Guía del campo de entrenamiento](/es/guias/campo-de-entrenamiento/) - Programa de fin de semana
 
 ## Próximos pasos
 
 ### Para jugadores individuales
-1. **Empieza con consciencia** - Lee [La Zona](/es/education/mental-game/the-zone/)
+1. **Empieza con consciencia** - Lee [La Zona](/es/educacion/juego-mental/la-zona/)
 2. **Prueba una técnica**: utiliza el reinicio de 3 respiraciones esta semana
 3. **Sigue tu experiencia** - Observa qué cambios hay
 4. **Desarrolla gradualmente** - Agrega una nueva habilidad por semana
@@ -195,17 +195,17 @@ El entrenamiento mental no reemplaza la práctica técnica. Pero te ayuda a mejo
 
 **¿Preguntas sobre cómo empezar?**
 - Correo electrónico: [patrik.wiik@gmail.com](mailto:patrik.wiik@gmail.com)
-- Revise [Estudios de caso](/es/estudios-de-caso) para ver ejemplos
+- Revise [Estudios de caso](/es/articles/case-studies) para ver ejemplos
 - Únete a las discusiones en tu club
 
 
 ---
 
 ::: tip ¿Listo para comenzar?
-**Jugadores:** Comienza con el módulo [La Zona](/es/education/mental-game/the-zone/)
+**Jugadores:** Empezar con el módulo [La Zona](/es/educacion/juego-mental/la-zona/)
 
-**Entrenadores:** Vayan a [Guía de sesiones](/es/guides/mental-journey/session-guide)
+**Entrenadores:** Vayan a [Guía de sesiones](/es/guias/viaje-mental/guia-de-sesiones)
 
-**Descargar materiales:** Visita [Materiales del facilitador](/es/guides/mental-journey/materials)
+**Descargar materiales:** Visita [Materiales del facilitador](/es/guias/viaje-mental/materiales)
 :::
 

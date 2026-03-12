@@ -169,8 +169,8 @@ Concentrarse en:
 
 ::: info Próximos pasos
 Una vez que tienes una técnica sólida, el verdadero crecimiento proviene de:
-- **[La Zona](/es/education/mental-game/the-zone/)** - Acceder a estados de flujo de forma consistente
-- **[Métodos de entrenamiento](/es/education/entrenamiento/)** - Cómo practicar eficazmente
-- **[Fuerza mental](/es/education/mental-game/mental-strength/)** - Rendimiento bajo presión
+- **[La Zona](/es/educacion/juego-mental/la-zona/)** - Acceder a estados de flujo de forma consistente
+- **[Métodos de entrenamiento](/es/educacion/técnica/entrenamiento/)** - Cómo practicar eficazmente
+- **[Fuerza mental](/es/educacion/juego-mental/fuerza-mental/)** - Rendimiento bajo presión
 :::
 

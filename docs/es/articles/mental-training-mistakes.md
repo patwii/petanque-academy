@@ -3,25 +3,25 @@ title: 5 Mental Training Mistakes
 description: Avoid the common pitfalls that undermine mental training in pétanque. Learn what doesn't work and what to do instead for real mental improvement.
 ---
 
-# 5 Mental Training Mistakes
+# 5 errores de entrenamiento mental
 
-> "Many players invest time in mental skills only to see little improvement. Here's why."
+> Muchos jugadores invierten tiempo en sus habilidades mentales y solo ven poca mejora. He aquí por qué.
 
-Mental training can transform your pétanque performance — but only if done correctly.
+El entrenamiento mental puede transformar tu rendimiento en la petanca, pero solo si se realiza correctamente.
 
-::: danger Common Pattern
-**Most mental training fails not because the techniques don't work**, but because of how they're applied.
+::: danger Patrón común
+**La mayoría de los entrenamientos mentales fracasan no porque las técnicas no funcionen**, sino por cómo se aplican.
 :::
 
 ```mermaid
 flowchart LR
-    A[Wrong Approach] --> B[Little Progress]
-    B --> C[Give Up]
-    C --> D[Mental Training Doesn't Work]
+    A[Enfoque equivocado] --> B[Poco progreso]
+    B --> C[Abandonar]
+    C --> D[El entrenamiento mental no funciona]
 
-    E[Right Approach] --> F[Gradual Progress]
-    F --> G[Build Confidence]
-    G --> H[Lasting Mental Strength]
+    E[Enfoque correcto] --> F[Progreso gradual]
+    F --> G[Desarrollar la confianza]
+    G --> H[Fortaleza mental duradera]
 
     style A fill:#f44336,color:#fff
     style D fill:#f44336,color:#fff
@@ -31,159 +31,159 @@ flowchart LR
 
 ---
 
-## Mistake #1: Treating Mental Skills as Optional
+## Error n.° 1: Tratar las habilidades mentales como algo opcional
 
-::: warning The Problem
-Many players view mental training as a nice-to-have, something to work on "when there's time."
+::: warning El problema
+Muchos jugadores consideran que el entrenamiento mental es algo deseable, algo en lo que trabajar &quot;cuando haya tiempo&quot;.
 :::
 
-### Why It Fails
+### Por qué falla
 
-Mental skills are skills — they require the same consistent practice as throwing technique. Occasional attention produces occasional results.
+Las habilidades mentales son habilidades: requieren la misma práctica constante que la técnica de lanzamiento. La atención ocasional produce resultados ocasionales.
 
-### The Fix
+### La solución
 
-| Action | Implementation |
+| Acción | Implementación |
 |--------|---------------|
-| Schedule it | Like physical training |
-| Start small | Just 10 minutes daily |
-| Make it non-negotiable | No excuses |
-| Track it | Alongside physical practice |
+| Prográmalo | Me gusta el entrenamiento físico |
+| Empieza poco a poco | Sólo 10 minutos diarios |
+| Hazlo no negociable | No hay excusas |
+| Rastrearlo | Junto con la práctica física |
 
-**Remember:** At elite levels, mental skills often determine who wins.
+**Recuerda:** En los niveles de élite, las habilidades mentales a menudo determinan quién gana.
 
-## Mistake #2: Only Training When Things Go Wrong
+## Error n.° 2: Entrenar solo cuando las cosas van mal
 
-### The Problem
+### El problema
 
-Players often turn to mental training only after a bad performance or during a slump. They see it as remedial rather than developmental.
+Los jugadores suelen recurrir al entrenamiento mental solo después de un mal rendimiento o durante una mala racha. Lo ven como una terapia más que como un desarrollo.
 
-### Why It Fails
+### Por qué falla
 
-Mental skills built in crisis are fragile. You can't develop deep capabilities when you're already struggling. It's like trying to learn to swim while drowning.
+Las habilidades mentales que se desarrollan en tiempos de crisis son frágiles. No se pueden desarrollar capacidades profundas cuando ya se está luchando. Es como intentar aprender a nadar mientras uno se ahoga.
 
-### The Fix
+### La solución
 
-- Build mental skills during good times
-- Practice when you're performing well
-- Create a foundation before you need it
-- Maintain practice consistently, regardless of results
+- Desarrolla habilidades mentales durante los buenos momentos
+- Practica cuando tengas un buen desempeño
+- Crea una base antes de necesitarla
+- Mantener la práctica de manera constante, independientemente de los resultados.
 
-**Remember:** The best time to build mental strength is when you don't desperately need it.
+**Recuerda:** El mejor momento para desarrollar fuerza mental es cuando no la necesitas desesperadamente.
 
-## Mistake #3: Expecting Instant Results
+## Error n.° 3: Esperar resultados inmediatos
 
-### The Problem
+### El problema
 
-Players try visualization for a week, don't see immediate improvement, and conclude "it doesn't work for me."
+Los jugadores prueban la visualización durante una semana, no ven una mejora inmediata y concluyen &quot;no funciona para mí&quot;.
 
-### Why It Fails
+### Por qué falla
 
-Mental skills develop slowly, often invisibly at first. The neural pathways that support mental strength take time to build. Expecting quick results leads to abandonment before benefits appear.
+Las habilidades mentales se desarrollan lentamente, a menudo de forma invisible al principio. Las vías neuronales que sustentan la fortaleza mental tardan en desarrollarse. Esperar resultados rápidos lleva al abandono antes de que se manifiesten los beneficios.
 
-### The Fix
+### La solución
 
-- Commit to at least 8-12 weeks of consistent practice
-- Look for subtle improvements, not dramatic changes
-- Trust the process even when progress isn't visible
-- Keep a journal to track gradual changes
+- Comprométete a practicar de forma constante durante al menos 8 a 12 semanas.
+- Busque mejoras sutiles, no cambios dramáticos
+- Confía en el proceso incluso cuando el progreso no sea visible
+- Mantenga un diario para realizar un seguimiento de los cambios graduales
 
-**Remember:** You wouldn't expect to master a new throw in a week. Mental skills deserve the same patience.
+**Recuerda:** No esperarías dominar un nuevo lanzamiento en una semana. La habilidad mental requiere la misma paciencia.
 
-## Mistake #4: Generic Practice Without Personalization
+## Error n.° 4: Práctica genérica sin personalización
 
-### The Problem
+### El problema
 
-Players follow generic mental training programs without adapting them to their specific needs, personality, and playing style.
+Los jugadores siguen programas genéricos de entrenamiento mental sin adaptarlos a sus necesidades específicas, personalidad y estilo de juego.
 
-### Why It Fails
+### Por qué falla
 
-Mental training isn't one-size-fits-all. What works for one player may not work for another. A visualization technique that helps a visual thinker may frustrate someone who thinks in feelings.
+El entrenamiento mental no es universal. Lo que funciona para un jugador puede no funcionar para otro. Una técnica de visualización que ayuda a un pensador visual puede frustrar a alguien que piensa con sentimientos.
 
-### The Fix
+### La solución
 
-- Identify YOUR specific mental challenges
-- Experiment with different techniques
-- Adapt methods to your learning style
-- Focus on what actually helps you
+- Identifique SUS desafíos mentales específicos
+- Experimente con diferentes técnicas
+- Adapte los métodos a su estilo de aprendizaje
+- Concéntrese en lo que realmente le ayuda
 
-**Questions to ask:**
-- What mental challenges do I face most often?
-- How do I naturally process information?
-- What has worked for me in the past?
-- What feels authentic to me?
+**Preguntas para hacer:**
+- ¿A qué desafíos mentales me enfrento con más frecuencia?
+- ¿Cómo proceso la información de forma natural?
+- ¿Qué me ha funcionado en el pasado?
+- ¿Qué me parece auténtico?
 
-## Mistake #5: Separating Mental and Physical Training
+## Error n.° 5: separar el entrenamiento mental del físico
 
-### The Problem
+### El problema
 
-Players do mental training in isolation — meditation at home, visualization before bed — but don't integrate it with physical practice.
+Los jugadores realizan entrenamiento mental de forma aislada (meditación en casa, visualización antes de acostarse), pero no lo integran con la práctica física.
 
-### Why It Fails
+### Por qué falla
 
-Mental skills need to be connected to physical performance. Practicing mindfulness on a cushion is different from practicing it while throwing. The transfer isn't automatic.
+Las habilidades mentales deben estar conectadas con el rendimiento físico. Practicar la atención plena sobre una almohadilla es diferente a practicarla mientras se lanza. La transferencia no es automática.
 
-### The Fix
+### La solución
 
-- Use mental skills during every practice session
-- Practice your pre-shot routine with full mental engagement
-- Apply pressure management techniques in training
-- Create practice situations that require mental skills
+- Utilice habilidades mentales durante cada sesión de práctica.
+- Practica tu rutina previa al disparo con total compromiso mental.
+- Aplicar técnicas de gestión de la presión en el entrenamiento.
+- Crear situaciones de práctica que requieran habilidades mentales.
 
-**Integration examples:**
-- Visualize each throw before executing
-- Use breathing techniques between throws
-- Practice your focus routine in training
-- Simulate pressure situations regularly
+**Ejemplos de integración:**
+- Visualiza cada lanzamiento antes de ejecutarlo
+- Utilice técnicas de respiración entre lanzamientos.
+- Practica tu rutina de concentración en el entrenamiento
+- Simular situaciones de presión periódicamente
 
-## Bonus Mistakes
+## Errores de bonificación
 
-### Mistake #6: All Theory, No Practice
+### Error n.° 6: Solo teoría, nada de práctica
 
-Reading about mental skills isn't the same as practicing them. Knowledge without application changes nothing.
+Leer sobre habilidades mentales no es lo mismo que practicarlas. El conocimiento sin aplicación no cambia nada.
 
-### Mistake #7: Ignoring the Basics
+### Error n.° 7: ignorar lo básico
 
-Advanced techniques built on weak foundations crumble. Master basic breathing, focus, and routine before complex methods.
+Las técnicas avanzadas construidas sobre bases débiles se desmoronan. Domina la respiración básica, la concentración y la rutina antes que los métodos complejos.
 
-### Mistake #8: Going It Alone
+### Error n.° 8: hacerlo solo
 
-Mental training benefits from guidance. Consider working with a sports psychologist or experienced mentor.
+El entrenamiento mental se beneficia de la orientación. Considere trabajar con un psicólogo deportivo o un mentor con experiencia.
 
-## The Right Approach
+## El enfoque correcto
 
-Effective mental training:
+Entrenamiento mental efectivo:
 
-1. **Is consistent** — Regular practice, not occasional attention
-2. **Is proactive** — Built before needed, not in crisis
-3. **Is patient** — Allows time for development
-4. **Is personalized** — Adapted to your needs
-5. **Is integrated** — Connected to physical practice
+1. **Es consistente**: práctica regular, no atención ocasional
+2. **Es proactivo** — Construido antes de que se necesite, no en crisis
+3. **Es paciente** — Permite tiempo para el desarrollo
+4. **Es personalizado** — Adaptado a tus necesidades
+5. **Está integrado** — Conectado a la práctica física
 
-## Getting Started Right
+## Empezando bien
 
-If you're beginning mental training:
+Si estás comenzando un entrenamiento mental:
 
-1. **Assess** your current mental game honestly
-2. **Identify** 1-2 specific areas to improve
-3. **Choose** techniques that fit your style
-4. **Schedule** regular practice time
-5. **Integrate** with physical training
-6. **Track** progress over time
-7. **Adjust** based on what works
+1. **Evalúa** honestamente tu juego mental actual
+2. **Identificar** 1 o 2 áreas específicas para mejorar
+3. **Elige** técnicas que se adapten a tu estilo
+4. **Programar** tiempo de práctica regular
+5. **Integrar** con el entrenamiento físico
+6. **Seguimiento** del progreso a lo largo del tiempo
+7. **Ajustar** según lo que funcione
 
-## The Payoff
+## La recompensa
 
-Players who avoid these mistakes and train their minds consistently report:
-- Greater consistency under pressure
-- Faster recovery from mistakes
-- More enjoyment in competition
-- Better focus and concentration
-- Increased confidence
+Los jugadores que evitan estos errores y entrenan sus mentes de manera constante informan:
+- Mayor consistencia bajo presión
+- Recuperación más rápida de los errores
+- Más diversión en la competición
+- Mejor enfoque y concentración
+- Mayor confianza
 
-The mental game is trainable. Train it right.
+El juego mental se puede entrenar. Entrénalo bien.
 
 ---
 
-*Related: [Mental Strength](/es/education/mental-game/mental-strength/) | [Training Methods](/es/education/technique/training/) | [Mindfulness](/es/education/mental-game/mindfulness/)*
+| *Relacionado: [Fuerza mental](/es/educacion/juego-mental/fuerza-mental/) | [Métodos de entrenamiento](/es/educación/técnica/entrenamiento/) | [Mindfulness](/es/educacion/juego-mental/mindfulness/)* |
 

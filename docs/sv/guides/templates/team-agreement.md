@@ -1,56 +1,56 @@
-# Team Agreement Template
+# Mall för teamavtal
 
-A framework for establishing clear communication, roles, and conflict resolution within your team.
+Ett ramverk för att etablera tydlig kommunikation, roller och konfliktlösning inom ditt team.
 
-::: tip Why a Team Agreement?
-**Great teams don't hope for chemistry—they build it.** A clear agreement prevents misunderstandings and creates a foundation for honest communication.
+::: tip Varför ett teamavtal?
+**Bra team hoppas inte på kemi – de bygger den.** Ett tydligt avtal förhindrar missförstånd och skapar en grund för ärlig kommunikation.
 :::
 
-## Team Information
+## Laginformation
 
-**Team name:** ________
-**Members:**
-1. ________ (Role: ________)
-2. ________ (Role: ________)
-3. ________ (Role: ________)
+**Lagnamn:** ________
+**Medlemmar:**
+1. ________ (Roll: ________)
+2. ________ (Roll: ________)
+3. ________ (Roll: ________)
 
-**Agreement date:** ________
-**Review date:** ________ (recommend every 3-6 months)
+**Avtalsdatum:** ________
+**Granskningsdatum:** ________ (rekommenderas var 3–6:e månad)
 
 ---
 
-## 1. Roles & Responsibilities
+## 1. Roller och ansvar
 
-### Playing Roles
+### Spelar roller
 
-| Position | Primary Player | Backup | Strengths |
+| Placera | Primär spelare | Säkerhetskopiering | Styrkor |
 |----------|---------------|--------|-----------|
-| **Pointer** | | | |
-| **Middle** | | | |
-| **Shooter** | | | |
+| **Pekare** |
+| **Mitten** |
+| **Skytt** |
 
-### Off-Field Roles
+### Roller utanför planen
 
-| Role | Person | Responsibilities |
+| Roll | Person | Ansvar |
 |------|--------|------------------|
-| **Captain** (decisions) | | Final call on tactics |
-| **Organizer** (logistics) | | Bookings, schedule, communication |
-| **Motivator** (energy) | | Keep spirits up, positive reinforcement |
+| **Kapten** (beslut) | Sista beslutet om taktik |
+| **Organisatör** (logistik) | Bokningar, schema, kommunikation |
+| **Motivator** (energi) | Håll humöret uppe, positiv förstärkning |
 
 ---
 
-## 2. Communication Agreements
+## 2. Kommunikationsavtal
 
-### During Matches
+### Under matcher
 
-**Before each end:**
-- [ ] Brief terrain discussion
-- [ ] Agree on strategy
-- [ ] Confirm who plays first
+**Före varje slut:**
+- [ ] Kort terrängdiskussion
+- [ ] Överens om strategi
+- [ ] Bekräfta vem som spelar först
 
-**Hand signals we use:**
+**Handsignaler vi använder:**
 
-| Signal | Meaning |
+| Signal | Menande |
 |--------|---------|
 | | Point close |
 | | Point far |
@@ -58,168 +58,168 @@ A framework for establishing clear communication, roles, and conflict resolution
 | | Wait/discuss |
 | | Your choice |
 
-**After mistakes:**
-- [ ] No blame language ("why did you...")
-- [ ] Supportive response ("unlucky, next one")
-- [ ] Quick reset, move forward
+**Efter misstag:**
+- [ ] Inget skuldbeläggande språk (&quot;varför gjorde du...&quot;)
+- [ ] Stödjande svar (&quot;otur, nästa&quot;)
+- [ ] Snabb återställning, gå vidare
 
-**We agree NOT to:**
-- [ ] Criticize during play
-- [ ] Show negative body language
-- [ ] Discuss other options after a throw
-- [ ] Blame teammates for losses
-
----
-
-## 3. Decision Making
-
-### Tactical Decisions
-
-**Who decides shot selection?**
-- [ ] Player throwing decides
-- [ ] Captain suggests, player decides
-- [ ] Team discusses briefly
-
-**When we disagree:**
-1. Each person states view briefly (10 sec)
-2. Captain makes final call
-3. Everyone commits 100%
-4. Review after match, not during
-
-### Substitution Decisions
-
-**How we decide who plays:**
-
-**Criteria:**
-- [ ] Form/recent performance
-- [ ] Terrain suitability
-- [ ] Physical condition
-- [ ] Rotation fairness
+**Vi samtycker till att INTE:**
+- [ ] Kritisera under spelets gång
+- [ ] Visa negativt kroppsspråk
+- [ ] Diskutera andra alternativ efter ett kast
+- [ ] Skyll på lagkamraterna för förlusterna
 
 ---
 
-## 4. Training Commitment
+## 3. Beslutsfattande
 
-**Regular training:**
-- Frequency: ________ times per week
-- Duration: ________ hours
-- Location: ________
+### Taktiska beslut
 
-**Attendance expectations:**
-- [ ] Communicate absences 24h in advance
-- [ ] Miss max _____ sessions per month
-- [ ] Arrive on time / _____ min early
+**Vem bestämmer valet av skott?**
+- [ ] Spelaren som kastar avgör
+- [ ] Kaptenen föreslår, spelaren bestämmer
+- [ ] Teamet diskuterar kortfattat
 
-**What we practice:**
-- [ ] Individual skills
-- [ ] Team tactics
-- [ ] Pressure situations
-- [ ] Competition simulation
+**När vi är oense:**
+1. Varje person ger en kort beskrivning av sin åsikt (10 sekunder)
+2. Kaptenen fattar det sista beslutet
+3. Alla engagerar sig till 100%
+4. Granskning efter matchen, inte under matchen
+
+### Beslut om ersättning
+
+**Hur vi bestämmer vilka som spelar:**
+
+**Kriterier:**
+- [ ] Form/senaste prestation
+- [ ] Terrängens lämplighet
+- [ ] Fysiskt tillstånd
+- [ ] Rotationsrättvisa
 
 ---
 
-## 5. Competition Commitments
+## 4. Utbildningsåtagande
 
-**Tournaments we commit to:**
+**Regelbunden träning:**
+- Frekvens: ________ gånger per vecka
+- Varaktighet: ________ timmar
+- Plats: ________
+
+**Förväntade deltaganden:**
+- [ ] Meddela frånvaro 24 timmar i förväg
+- [ ] Missa max _____ sessioner per månad
+- [ ] Kom i tid / _____ min tidigt
+
+**Vad vi övar på:**
+- [ ] Individuella färdigheter
+- [ ] Lagtaktik
+- [ ] Presssituationer
+- [ ] Tävlingssimulering
+
+---
+
+## 5. Konkurrensåtaganden
+
+**Turneringar vi åtar oss att delta i:**
 1. ________
 2. ________
 3. ________
 
-**Pre-competition:**
-- [ ] Confirm availability 1 week before
-- [ ] Arrive _____ min before first match
-- [ ] Warm up together
+**Förtävling:**
+- [ ] Bekräfta tillgänglighet 1 vecka innan
+- [ ] Anländ _____ min före första match
+- [ ] Värm upp tillsammans
 
-**Post-competition:**
-- [ ] Brief debrief (win or lose)
-- [ ] Celebrate efforts
-- [ ] Save detailed analysis for training
-
----
-
-## 6. Conflict Resolution
-
-### When Tensions Arise
-
-**Step 1: Cool down**
-- Don't address conflict during/immediately after match
-- Wait minimum 24 hours if emotions high
-
-**Step 2: Direct conversation**
-- Person with issue approaches the other directly
-- Use "I" statements ("I felt..." not "You always...")
-- Listen without defending
-
-**Step 3: Mediation (if needed)**
-- Third team member facilitates
-- Each person shares perspective
-- Find solution together
-
-**Step 4: Team meeting (if unresolved)**
-- All members present
-- Structured discussion
-- Agree on path forward
-
-### We Commit To:
-- [ ] Address issues, not let them fester
-- [ ] Assume good intentions
-- [ ] Prioritize team over ego
-- [ ] Keep disagreements private (not to others)
+**Efter tävlingen:**
+- [ ] Kort genomgång (vinst eller förlust)
+- [ ] Fira ansträngningar
+- [ ] Spara detaljerad analys för träning
 
 ---
 
-## 7. Feedback Culture
+## 6. Konfliktlösning
 
-**How we give feedback:**
-- [ ] Specific and actionable
-- [ ] Balance positive and developmental
-- [ ] In private (not in front of others)
-- [ ] Regular (not just when problems)
+### När spänningar uppstår
 
-**Feedback schedule:**
-- [ ] Brief check-in after each tournament
-- [ ] Deeper feedback session every _____ weeks
-- [ ] Annual team review
+**Steg 1: Nedkylning**
+- Ta inte upp konflikter under/omedelbart efter matchen
+- Vänta minst 24 timmar om känslorna är höga
 
----
+**Steg 2: Direkt konversation**
+- Personen med problemet vänder sig direkt till den andra
+- Använd &quot;jag&quot;-uttryck (&quot;Jag kände...&quot; inte &quot;Du har alltid...&quot;)
+- Lyssna utan att försvara dig
 
-## 8. Fun & Connection
+**Steg 3: Medling (vid behov)**
+- Tredje teammedlemmen faciliterar
+- Varje person delar perspektiv
+- Hitta lösningen tillsammans
 
-**We agree to:**
-- [ ] Celebrate wins together
-- [ ] Support each other in losses
-- [ ] Social activity every _____ months
-- [ ] Remember why we play: ________
+**Steg 4: Teammöte (om olöst)**
+- Alla medlemmar närvarande
+- Strukturerad diskussion
+- Överens om vägen framåt
 
----
-
-## Signatures
-
-By signing, we commit to this agreement and to revisiting it when needed.
-
-**Name:** ________ **Signature:** ________ **Date:** ________
-
-**Name:** ________ **Signature:** ________ **Date:** ________
-
-**Name:** ________ **Signature:** ________ **Date:** ________
+### Vi åtar oss att:
+- [ ] Ta itu med problemen, låt dem inte gro
+- [ ] Anta goda avsikter
+- [ ] Prioritera teamet framför egot
+- [ ] Håll meningsskiljaktigheter privata (inte för andra)
 
 ---
 
-## Review Notes
+## 7. Feedbackkultur
 
-**Review date:** ________
+**Hur vi ger feedback:**
+- [ ] Specifik och handlingsbar
+- [ ] Balans mellan positivt och utvecklande
+- [ ] Privat (inte inför andra)
+- [ ] Regelbunden (inte bara vid problem)
 
-**What's working:**
-
-**What needs adjustment:**
-
-**Updated agreements:**
+**Feedbackschema:**
+- [ ] Kort incheckning efter varje tävling
+- [ ] Djupare feedbacksession var _____ vecka
+- [ ] Årlig teamöversyn
 
 ---
 
-## Related Resources
+## 8. Kul och gemenskap
 
-- [Team Dynamics Education](/sv/education/team-dynamics/) — Build stronger team bonds
-- [Peer Feedback Template](/sv/guides/templates/peer-feedback) — Structured feedback tools
-- [Training Session Guide](/sv/guides/training-session/) — Practice together effectively
+**Vi godkänner:**
+- [ ] Fira vinster tillsammans
+- [ ] Stöd varandra i förluster
+- [ ] Social aktivitet var _____ månad
+- [ ] Kom ihåg varför vi spelar: ________
+
+---
+
+## Signaturer
+
+Genom att underteckna förbinder vi oss att följa detta avtal och att ompröva det vid behov.
+
+**Namn:** ________ **Underskrift:** ________ **Datum:** ________
+
+**Namn:** ________ **Underskrift:** ________ **Datum:** ________
+
+**Namn:** ________ **Underskrift:** ________ **Datum:** ________
+
+---
+
+## Granskningsanteckningar
+
+**Granskningsdatum:** ________
+
+**Vad fungerar:**
+
+**Vad som behöver justeras:**
+
+**Uppdaterade avtal:**
+
+---
+
+## Relaterade resurser
+
+- [Utbildning i teamdynamik](/sv/utbildning/teamdynamik/) — Bygg starkare teamband
+- [Mall för kamratfeedback](/sv/guider/mallar/kammaraffeedback) — Verktyg för strukturerad feedback
+- [Guide för träningssession](/sv/guider/träningssession/) — Öva effektivt tillsammans
 

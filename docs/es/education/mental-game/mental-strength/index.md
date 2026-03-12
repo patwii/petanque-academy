@@ -153,8 +153,8 @@ graph LR
 
 ## En esta sección
 
-- **[Manejo de la presión](/es/education/mental-game/mental-strength/manejo-de-la-presion)** - Técnicas para situaciones de alto riesgo
-- **[Rutina pre-disparo](/es/education/mental-game/mental-strength/rutina-pre-disparo)** - Desarrolla tu disparador de rendimiento
+- **[Manejo de la presión](/es/educacion/juego-mental/fuerza-mental/manejo-de-la-presion)** - Técnicas para situaciones de alto riesgo
+- **[Rutina pre-tiro](/es/educacion/juego-mental/fuerza-mental/rutina-pre-tiro)** - Desarrolla tu disparador de rendimiento
 
 ## Resumen: Reglas de fortaleza mental
 

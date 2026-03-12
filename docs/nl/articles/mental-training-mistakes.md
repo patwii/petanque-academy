@@ -3,25 +3,25 @@ title: 5 Mental Training Mistakes
 description: Avoid the common pitfalls that undermine mental training in pétanque. Learn what doesn't work and what to do instead for real mental improvement.
 ---
 
-# 5 Mental Training Mistakes
+# 5 veelgemaakte fouten bij mentale training
 
-> "Many players invest time in mental skills only to see little improvement. Here's why."
+> &quot;Veel spelers investeren tijd in mentale vaardigheden, maar zien weinig verbetering. Dit is waarom.&quot;
 
-Mental training can transform your pétanque performance — but only if done correctly.
+Mentale training kan je pétanque-prestaties aanzienlijk verbeteren, maar alleen als je het op de juiste manier doet.
 
-::: danger Common Pattern
-**Most mental training fails not because the techniques don't work**, but because of how they're applied.
+::: danger Algemeen patroon
+**De meeste mentale trainingen mislukken niet omdat de technieken niet werken**, maar vanwege de manier waarop ze worden toegepast.
 :::
 
 ```mermaid
 flowchart LR
-    A[Wrong Approach] --> B[Little Progress]
-    B --> C[Give Up]
-    C --> D[Mental Training Doesn't Work]
+    A[Verkeerde aanpak] --> B[Weinig vooruitgang]
+    B --> C[Geef het op]
+    C --> D[Mentale training werkt niet.]
 
-    E[Right Approach] --> F[Gradual Progress]
-    F --> G[Build Confidence]
-    G --> H[Lasting Mental Strength]
+    E[Juiste aanpak] --> F[Geleidelijke vooruitgang]
+    F --> G[Bouw zelfvertrouwen op]
+    G --> H[Duurzame mentale kracht]
 
     style A fill:#f44336,color:#fff
     style D fill:#f44336,color:#fff
@@ -31,159 +31,159 @@ flowchart LR
 
 ---
 
-## Mistake #1: Treating Mental Skills as Optional
+## Fout nr. 1: Mentale vaardigheden als optioneel beschouwen
 
-::: warning The Problem
-Many players view mental training as a nice-to-have, something to work on "when there's time."
+::: warning Het probleem
+Veel spelers beschouwen mentale training als iets dat niet gepast is, iets waar ze aan kunnen werken &quot;als er tijd voor is&quot;.
 :::
 
-### Why It Fails
+### Waarom het mislukt
 
-Mental skills are skills — they require the same consistent practice as throwing technique. Occasional attention produces occasional results.
+Mentale vaardigheden zijn vaardigheden – ze vereisen dezelfde consistente oefening als werptechniek. Incidentele aandacht levert incidentele resultaten op.
 
-### The Fix
+### De oplossing
 
-| Action | Implementation |
+| Actie | Uitvoering |
 |--------|---------------|
-| Schedule it | Like physical training |
-| Start small | Just 10 minutes daily |
-| Make it non-negotiable | No excuses |
-| Track it | Alongside physical practice |
+| Plan het in | Net als fysieke training |
+| Begin klein. | Slechts 10 minuten per dag |
+| Maak het ononderhandelbaar. | Geen excuses |
+| Volg het | Naast fysieke oefening |
 
-**Remember:** At elite levels, mental skills often determine who wins.
+**Onthoud:** Op topniveau bepalen mentale vaardigheden vaak wie er wint.
 
-## Mistake #2: Only Training When Things Go Wrong
+## Fout nr. 2: Alleen trainen als er iets misgaat
 
-### The Problem
+### Het probleem
 
-Players often turn to mental training only after a bad performance or during a slump. They see it as remedial rather than developmental.
+Spelers wenden zich vaak pas tot mentale training na een slechte prestatie of tijdens een dip. Ze zien het als een noodoplossing in plaats van een manier om hun spel te verbeteren.
 
-### Why It Fails
+### Waarom het mislukt
 
-Mental skills built in crisis are fragile. You can't develop deep capabilities when you're already struggling. It's like trying to learn to swim while drowning.
+Mentale vaardigheden die in crisissituaties worden opgebouwd, zijn kwetsbaar. Je kunt geen diepgaande competenties ontwikkelen als je het al moeilijk hebt. Het is alsof je probeert te leren zwemmen terwijl je aan het verdrinken bent.
 
-### The Fix
+### De oplossing
 
-- Build mental skills during good times
-- Practice when you're performing well
-- Create a foundation before you need it
-- Maintain practice consistently, regardless of results
+- Ontwikkel mentale vaardigheden tijdens goede tijden.
+- Oefen wanneer je goed presteert.
+- Leg een basis voordat je die nodig hebt.
+- Blijf consequent oefenen, ongeacht de resultaten.
 
-**Remember:** The best time to build mental strength is when you don't desperately need it.
+**Onthoud:** De beste tijd om mentale kracht op te bouwen is wanneer je die niet wanhopig nodig hebt.
 
-## Mistake #3: Expecting Instant Results
+## Fout nr. 3: Directe resultaten verwachten
 
-### The Problem
+### Het probleem
 
-Players try visualization for a week, don't see immediate improvement, and conclude "it doesn't work for me."
+Spelers proberen visualisatie een week lang uit, zien geen onmiddellijke verbetering en concluderen: &quot;Het werkt niet voor mij.&quot;
 
-### Why It Fails
+### Waarom het mislukt
 
-Mental skills develop slowly, often invisibly at first. The neural pathways that support mental strength take time to build. Expecting quick results leads to abandonment before benefits appear.
+Mentale vaardigheden ontwikkelen zich langzaam, vaak in eerste instantie onmerkbaar. De neurale verbindingen die mentale kracht ondersteunen, hebben tijd nodig om zich te ontwikkelen. Snelle resultaten verwachten leidt ertoe dat men opgeeft voordat de voordelen zichtbaar worden.
 
-### The Fix
+### De oplossing
 
-- Commit to at least 8-12 weeks of consistent practice
-- Look for subtle improvements, not dramatic changes
-- Trust the process even when progress isn't visible
-- Keep a journal to track gradual changes
+- Neem je voor om minstens 8-12 weken consistent te oefenen.
+- Zoek naar subtiele verbeteringen, niet naar dramatische veranderingen.
+- Vertrouw op het proces, zelfs als er geen zichtbare vooruitgang is.
+- Houd een dagboek bij om geleidelijke veranderingen te documenteren.
 
-**Remember:** You wouldn't expect to master a new throw in a week. Mental skills deserve the same patience.
+**Onthoud dit:** Je zou ook niet verwachten dat je een nieuwe worp in een week onder de knie hebt. Mentale vaardigheden verdienen hetzelfde geduld.
 
-## Mistake #4: Generic Practice Without Personalization
+## Fout nr. 4: Algemene werkwijze zonder personalisatie
 
-### The Problem
+### Het probleem
 
-Players follow generic mental training programs without adapting them to their specific needs, personality, and playing style.
+Spelers volgen generieke mentale trainingsprogramma&#39;s zonder deze aan te passen aan hun specifieke behoeften, persoonlijkheid en speelstijl.
 
-### Why It Fails
+### Waarom het mislukt
 
-Mental training isn't one-size-fits-all. What works for one player may not work for another. A visualization technique that helps a visual thinker may frustrate someone who thinks in feelings.
+Mentale training is niet voor iedereen hetzelfde. Wat voor de ene speler werkt, werkt misschien niet voor de andere. Een visualisatietechniek die een visueel ingestelde denker helpt, kan iemand die op gevoel denkt juist frustreren.
 
-### The Fix
+### De oplossing
 
-- Identify YOUR specific mental challenges
-- Experiment with different techniques
-- Adapt methods to your learning style
-- Focus on what actually helps you
+- Identificeer JOUW specifieke mentale uitdagingen
+- Experimenteer met verschillende technieken.
+- Pas de methoden aan je leerstijl aan.
+- Focus op wat je daadwerkelijk helpt.
 
-**Questions to ask:**
-- What mental challenges do I face most often?
-- How do I naturally process information?
-- What has worked for me in the past?
-- What feels authentic to me?
+**Vragen om te stellen:**
+- Welke mentale uitdagingen ondervind ik het vaakst?
+- Hoe verwerk ik informatie van nature?
+- Wat heeft in het verleden voor mij gewerkt?
+- Wat voelt voor mij authentiek aan?
 
-## Mistake #5: Separating Mental and Physical Training
+## Fout nr. 5: Mentale en fysieke training van elkaar scheiden.
 
-### The Problem
+### Het probleem
 
-Players do mental training in isolation — meditation at home, visualization before bed — but don't integrate it with physical practice.
+Spelers doen mentale training in isolatie — meditatie thuis, visualisatie voor het slapengaan — maar integreren dit niet met fysieke training.
 
-### Why It Fails
+### Waarom het mislukt
 
-Mental skills need to be connected to physical performance. Practicing mindfulness on a cushion is different from practicing it while throwing. The transfer isn't automatic.
+Mentale vaardigheden moeten gekoppeld worden aan fysieke prestaties. Mindfulness beoefenen op een kussen is anders dan mindfulness beoefenen tijdens het werpen. De overdracht verloopt niet automatisch.
 
-### The Fix
+### De oplossing
 
-- Use mental skills during every practice session
-- Practice your pre-shot routine with full mental engagement
-- Apply pressure management techniques in training
-- Create practice situations that require mental skills
+- Gebruik mentale vaardigheden tijdens elke oefensessie.
+- Oefen je voorbereiding op de opname met volledige mentale concentratie.
+- Pas drukbeheersingstechnieken toe tijdens de training.
+- Creëer oefensituaties die mentale vaardigheden vereisen.
 
-**Integration examples:**
-- Visualize each throw before executing
-- Use breathing techniques between throws
-- Practice your focus routine in training
-- Simulate pressure situations regularly
+**Integratievoorbeelden:**
+- Visualiseer elke worp voordat je hem uitvoert.
+- Gebruik ademhalingstechnieken tussen de worpen door.
+- Oefen je concentratieoefening tijdens de training.
+- Simuleer regelmatig stressvolle situaties.
 
-## Bonus Mistakes
+## Bonusfouten
 
-### Mistake #6: All Theory, No Practice
+### Fout nr. 6: Alleen maar theorie, geen praktijk.
 
-Reading about mental skills isn't the same as practicing them. Knowledge without application changes nothing.
+Lezen over mentale vaardigheden is niet hetzelfde als ze in de praktijk brengen. Kennis zonder toepassing verandert niets.
 
-### Mistake #7: Ignoring the Basics
+### Fout nr. 7: De basisprincipes negeren
 
-Advanced techniques built on weak foundations crumble. Master basic breathing, focus, and routine before complex methods.
+Geavanceerde technieken die op een zwakke basis zijn gebouwd, zullen instorten. Beheers eerst de basisprincipes van ademhaling, focus en routine voordat je complexere methoden toepast.
 
-### Mistake #8: Going It Alone
+### Fout nr. 8: Alles alleen doen
 
-Mental training benefits from guidance. Consider working with a sports psychologist or experienced mentor.
+Mentale training heeft baat bij begeleiding. Overweeg om samen te werken met een sportpsycholoog of een ervaren mentor.
 
-## The Right Approach
+## De juiste aanpak
 
-Effective mental training:
+Effectieve mentale training:
 
-1. **Is consistent** — Regular practice, not occasional attention
-2. **Is proactive** — Built before needed, not in crisis
-3. **Is patient** — Allows time for development
-4. **Is personalized** — Adapted to your needs
-5. **Is integrated** — Connected to physical practice
+1. **Is consistent** — Regelmatig oefenen, niet af en toe aandacht besteden.
+2. **Is proactief** — Gebouwd voordat het nodig is, niet in crisissituaties.
+3. **Is geduldig** — Geeft tijd voor ontwikkeling
+4. **Is gepersonaliseerd** — Afgestemd op uw behoeften
+5. **Is geïntegreerd** — Verbonden met fysieke oefening
 
-## Getting Started Right
+## Goed van start gaan
 
-If you're beginning mental training:
+Als je begint met mentale training:
 
-1. **Assess** your current mental game honestly
-2. **Identify** 1-2 specific areas to improve
-3. **Choose** techniques that fit your style
-4. **Schedule** regular practice time
-5. **Integrate** with physical training
-6. **Track** progress over time
-7. **Adjust** based on what works
+1. **Eerlijk beoordelen** hoe mentaal je er momenteel voor staat
+2. **Identificeer** 1-2 specifieke verbeterpunten.
+3. **Kies** technieken die bij jouw stijl passen.
+4. **Plan** regelmatige oefentijd in
+5. **Integreer** met fysieke training
+6. **Volg** de voortgang in de loop van de tijd
+7. **Pas aan** op basis van wat werkt.
 
-## The Payoff
+## De beloning
 
-Players who avoid these mistakes and train their minds consistently report:
-- Greater consistency under pressure
-- Faster recovery from mistakes
-- More enjoyment in competition
-- Better focus and concentration
-- Increased confidence
+Spelers die deze fouten vermijden en hun geest consequent trainen, melden het volgende:
+- Meer consistentie onder druk
+- Sneller herstel van fouten
+- Meer plezier in de competitie
+- Betere focus en concentratie
+- Toegenomen zelfvertrouwen
 
-The mental game is trainable. Train it right.
+Mentale vaardigheden zijn trainbaar. Train ze op de juiste manier.
 
 ---
 
-*Related: [Mental Strength](/nl/education/mental-game/mental-strength/) | [Training Methods](/nl/education/technique/training/) | [Mindfulness](/nl/education/mental-game/mindfulness/)*
+| *Gerelateerd: [Mentale kracht](/en/education/mental-game/mental-strength/) | [Trainingsmethoden](/en/education/technique/training/) | [Mindfulness](/en/education/mental-game/mindfulness/)* |
 

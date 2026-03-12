@@ -11,7 +11,7 @@ Questo workshop è una sessione teorica avanzata di 3-4 ore per 6-8 giocatori d&
 :::
 
 **Differenza rispetto alla sessione per principianti:**
-- **Principiante (2-3 ore):** Introduzione ai concetti del gioco mentale → [Vedi Guida al viaggio mentale](/it/guides/mental-journey/session-guide)
+- **Principiante (2-3 ore):** Introduzione ai concetti del gioco mentale → [Vedi Guida al viaggio mentale](/it/guide/viaggio-mentale/guida-alla-sessione)
 - **Avanzato (3-4 ore):** Lavoro psicologico profondo con esercizi di vulnerabilità (questa pagina)
 
 ## Accesso rapido

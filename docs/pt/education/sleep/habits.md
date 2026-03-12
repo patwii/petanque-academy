@@ -3,227 +3,227 @@ title: Sleep Hygiene for Athletes
 description: The 10 fundamentals of athletic sleep, evening routines, and a 30-day sleep optimization challenge.
 ---
 
-# Sleep Hygiene for Athletes
+# Higiene do sono para atletas
 
-Sleep hygiene refers to the habits and environmental factors that promote consistent, restorative sleep. This page provides actionable protocols specifically designed for competitive pétanque players.
+A higiene do sono refere-se aos hábitos e fatores ambientais que promovem um sono consistente e reparador. Esta página fornece protocolos práticos especificamente desenvolvidos para jogadores de petanca de competição.
 
 ---
 
-## The 10 Fundamentals of Athletic Sleep
+## Os 10 Fundamentos do Sono do Atleta
 
-### 1. Consistent Wake Time
+### 1. Horário de despertar consistente
 
-**The single most important factor for sleep quality.**
+**O fator mais importante para a qualidade do sono.**
 
-Your body's circadian rhythm is anchored to your wake time. A consistent wake time:
-- Regulates melatonin release
-- Improves sleep efficiency
-- Makes falling asleep easier
+O ritmo circadiano do seu corpo está ancorado no horário em que você acorda. Um horário de despertar consistente:
+- Regula a liberação de melatonina
+- Melhora a eficiência do sono
+- Facilita o adormecer
 
-::: tip The 30-Minute Rule
-Keep your wake time within 30 minutes of normal—even on weekends. Yes, even after late nights.
+::: tip A Regra dos 30 Minutos
+Mantenha seu horário de despertar dentro de uma margem de 30 minutos do normal — mesmo nos fins de semana. Sim, mesmo depois de noites em claro.
 :::
 
-### 2. Strategic Light Exposure
+### 2. Exposição Estratégica à Luz
 
-Light is the most powerful signal for your circadian rhythm:
+A luz é o sinal mais poderoso para o seu ritmo circadiano:
 
-| Time of Day | Goal | Actions |
+| Hora do dia | Meta | Ações |
 |-------------|------|---------|
-| **Morning** | Bright light | Go outside within 30 min of waking, 10-20 min minimum |
-| **Daytime** | Maintain exposure | Work near windows, take outdoor breaks |
-| **Evening** | Reduce intensity | Dim lights, warm tones, minimize screens |
-| **Night** | Darkness | Blackout curtains, eye mask, no light leaks |
+| **Manhã** | luz brilhante | Saia ao ar livre em até 30 minutos após acordar, com um mínimo de 10 a 20 minutos. |
+| **Dia** | Manter a exposição | Trabalhe perto de janelas, faça pausas ao ar livre. |
+| **Noite** | Reduzir a intensidade | Luzes baixas, tons quentes, minimizar o uso de telas. |
+| **Noite** | Escuridão | Cortinas blackout, máscara para os olhos, sem entrada de luz. |
 
-### 3. Temperature Management
+### 3. Gestão da temperatura
 
-Your body needs to drop 1-2°C (2-3°F) to initiate sleep:
+Seu corpo precisa de uma queda de temperatura de 1 a 2 °C (2 a 3 °F) para iniciar o sono:
 
-- **Bedroom temperature:** 16-19°C (60-67°F)
-- **A warm shower 90 min before bed** — Counter-intuitively, this helps cooling
-- **Breathable bedding** — Natural fibers allow heat dissipation
-- **Cool feet, warm body** — Socks can help some people
+- **Temperatura do quarto:** 16-19°C (60-67°F)
+- **Um banho quente 90 minutos antes de dormir** — Contrariamente ao que se possa pensar, isso ajuda a refrescar o corpo.
+- **Roupa de cama respirável** — As fibras naturais permitem a dissipação do calor.
+- **Pés frescos, corpo aquecido** — Meias podem ajudar algumas pessoas
 
-### 4. Caffeine Discipline
+### 4. Disciplina da Cafeína
 
-Caffeine has a half-life of 5-6 hours, meaning half is still in your system after that time:
+A cafeína tem uma meia-vida de 5 a 6 horas, o que significa que metade dela ainda estará presente no seu organismo após esse período:
 
-- **Last caffeine:** Before 2pm (or earlier for sensitive individuals)
-- **Hidden sources:** Chocolate, some medications, tea, some sodas
-- **Individual variation:** Some people metabolize caffeine faster/slower
+- **Última ingestão de cafeína:** Antes das 14h (ou mais cedo para pessoas sensíveis)
+- **Fontes ocultas:** Chocolate, alguns medicamentos, chá, alguns refrigerantes
+- **Variação individual:** Algumas pessoas metabolizam a cafeína mais rápido/mais lentamente
 
-### 5. Alcohol Awareness
+### 5. Conscientização sobre o álcool
 
-Alcohol may help you fall asleep but **severely disrupts sleep quality**:
+O álcool pode ajudar a adormecer, mas **prejudica gravemente a qualidade do sono**:
 
-- Suppresses REM sleep
-- Causes more nighttime awakenings
-- Leads to dehydration
+- Suprime o sono REM
+- Provoca mais despertares noturnos
+- Leva à desidratação
 
-**Guideline:** If you drink, finish at least 3 hours before bed.
+**Recomendação:** Se for beber, termine pelo menos 3 horas antes de dormir.
 
-### 6. Evening Nutrition Timing
+### 6. Horário das refeições noturnas
 
-- **Large meals:** Finish 3+ hours before bed
-- **Light snacks:** OK if needed
-- **Best bedtime snacks:** Complex carbs + protein (e.g., banana, yogurt)
-- **Avoid:** High sugar, spicy food, excessive liquids (bathroom trips)
+- **Refeições grandes:** Termine pelo menos 3 horas antes de dormir.
+- **Lanches leves:** Permitidos, se necessário
+- **Melhores lanches para antes de dormir:** Carboidratos complexos + proteína (ex.: banana, iogurte)
+- **Evite:** Alimentos com alto teor de açúcar e picantes, e ingestão excessiva de líquidos (incluindo idas frequentes ao banheiro).
 
-### 7. Movement & Exercise
+### 7. Movimento e Exercício
 
-Exercise improves sleep quality, but timing matters:
+O exercício físico melhora a qualidade do sono, mas o horário é importante:
 
-- **Morning/afternoon exercise:** Ideal for sleep
-- **Evening exercise:** Finish 2-3 hours before bed
-- **Light stretching/yoga:** OK close to bedtime
+- **Exercício matinal/vespertino:** Ideal para dormir
+- **Exercício noturno:** Termine 2 a 3 horas antes de dormir.
+- **Alongamentos leves/ioga:** Adequado perto da hora de dormir
 
-### 8. Wind-Down Routine
+### 8. Rotina de Relaxamento
 
-Your brain needs transition time. Create a 30-60 minute pre-sleep routine:
+Seu cérebro precisa de um período de transição. Crie uma rotina de 30 a 60 minutos antes de dormir:
 
-1. **Stop stimulating activities** — Work, intense conversations, news
-2. **Dim the lights** — Signal to your body
-3. **Relaxation activity** — Reading, gentle stretching, quiet music
-4. **Consistent sequence** — Same activities, same order, each night
+1. **Pare com atividades estimulantes** — Trabalho, conversas intensas, notícias
+2. **Apague as luzes** — Sinalize para o seu corpo
+3. **Atividade relaxante** — Leitura, alongamentos leves, música tranquila.
+4. **Sequência consistente** — As mesmas atividades, na mesma ordem, todas as noites.
 
-### 9. Sleep Environment Optimization
+### 9. Otimização do ambiente de sono
 
-Your bedroom should be:
-- **Dark** — No visible light sources
-- **Quiet** — Or consistent white noise
-- **Cool** — 16-19°C (60-67°F)
-- **Comfortable** — Quality mattress and pillow
-- **Reserved for sleep** — Minimize other activities in bed
+Seu quarto deve ser:
+- **Escuro** — Sem fontes de luz visíveis
+- **Silêncio** — Ou ruído branco constante
+- **Frio** — 16-19°C (60-67°F)
+- **Confortável** — Colchão e travesseiro de qualidade
+- **Reservado para dormir** — Minimize outras atividades na cama.
 
-### 10. Stress & Worry Management
+### 10. Gestão do Estresse e da Preocupação
 
-Racing thoughts are the #1 sleep disruptor:
+Pensamentos acelerados são o principal fator que perturba o sono:
 
-- **Brain dump:** Write worries on paper before bed (gets them "out of your head")
-- **Tomorrow's plan:** Brief list of tomorrow's priorities
-- **Relaxation techniques:** PMR, breathing exercises, body scan
-- **The 4-7-8 breath:** Inhale 4 counts, hold 7, exhale 8
+- **Desabafo mental:** Escreva suas preocupações em um papel antes de dormir (isso as tira da cabeça).
+- **Plano para amanhã:** Breve lista das prioridades de amanhã
+- **Técnicas de relaxamento:** Relaxamento Muscular Progressivo (RMP), exercícios respiratórios, escaneamento corporal
+- **Respiração 4-7-8:** Inspire contando até 4, segure por 7, expire contando até 8.
 
 ---
 
-## Evening Routine Template
+## Modelo de rotina noturna
 
-Here's a sample 60-minute wind-down routine:
+Aqui está um exemplo de rotina relaxante de 60 minutos:
 
-| Time Before Bed | Activity |
+| Hora antes de dormir | Atividade |
 |-----------------|----------|
-| **60 min** | Dim lights, stop work, no more screens |
-| **45 min** | Light snack if needed, prepare tomorrow |
-| **30 min** | Personal hygiene routine, change clothes |
-| **15 min** | Relaxation: reading, stretching, or breathing |
-| **0 min** | Lights out |
+| **60 min** | Luzes baixas, pare o trabalho, chega de telas. |
+| **45 min** | Se precisar de um lanche leve, prepare para amanhã. |
+| **30 min** | Rotina de higiene pessoal, troca de roupa |
+| **15 min** | Relaxamento: leitura, alongamento ou respiração. |
+| **0 min** | Apagadas as luzes |
 
-::: tip Personalize It
-This is a template. The key is consistency, not specific activities. Find what works for you and repeat it nightly.
+::: tip Personalize-o
+Este é um modelo. O importante é a consistência, não atividades específicas. Descubra o que funciona para você e repita todas as noites.
 :::
 
 ---
 
-## The 30-Day Sleep Challenge
+## O Desafio de 30 Dias para Dormir Bem
 
-A structured program to transform your sleep habits:
+Um programa estruturado para transformar seus hábitos de sono:
 
-### Week 1: Foundation (Days 1-7)
-**Focus: Wake time consistency**
+### Semana 1: Fundamentos (Dias 1-7)
+**Foco: Consistência no horário de despertar**
 
-- [ ] Set a consistent wake time
-- [ ] Wake at that time ±30 min every day
-- [ ] Track in a simple log
+- [ ] Defina um horário de despertar consistente
+- [ ] Acorde nesse horário com uma margem de erro de 30 minutos todos os dias.
+- [ ] Registre em um log simples
 
-### Week 2: Environment (Days 8-14)
-**Focus: Optimize your sleep space**
+### Semana 2: Meio Ambiente (Dias 8-14)
+**Foco: Otimize seu espaço de sono**
 
-- [ ] Audit your bedroom for light leaks
-- [ ] Address temperature issues
-- [ ] Remove or silence all electronics
-- [ ] Consider blackout solutions
+- [ ] Verifique se há vazamentos de luz no seu quarto.
+- [ ] Abordar problemas de temperatura
+- [ ] Remova ou silencie todos os aparelhos eletrônicos.
+- [ ] Considere soluções para apagões
 
-### Week 3: Habits (Days 15-21)
-**Focus: Daytime behaviors**
+### Semana 3: Hábitos (Dias 15-21)
+**Foco: Comportamentos diurnos**
 
-- [ ] Implement caffeine cutoff (2pm)
-- [ ] Get morning light exposure
-- [ ] Exercise timing check
-- [ ] Evening meal timing
+- [ ] Implementar um limite de cafeína (14h)
+- [ ] Exponha-se à luz da manhã.
+- [ ] verificação do tempo do exercício
+- [ ] Horário do jantar
 
-### Week 4: Routine (Days 22-30)
-**Focus: Wind-down ritual**
+### Semana 4: Rotina (Dias 22-30)
+**Foco: Ritual de relaxamento**
 
-- [ ] Create 30-60 minute routine
-- [ ] Practice every night
-- [ ] Refine based on what works
-- [ ] Celebrate completion!
+- [ ] Crie uma rotina de 30 a 60 minutos.
+- [ ] Pratique todas as noites.
+- [ ] Aprimore com base no que funciona.
+- [ ] Comemore a conclusão!
 
 ---
 
-## Troubleshooting Common Issues
+## Solução de problemas comuns
 
-### "I can't fall asleep"
+### &quot;Não consigo dormir&quot;
 
-**Possible causes and solutions:**
+**Possíveis causas e soluções:**
 
-| Cause | Solution |
+| Causa | Solução |
 |-------|----------|
-| Too much light | Blackout curtains, eye mask |
-| Caffeine | Earlier cutoff, check hidden sources |
-| Stress/worry | Brain dump, breathing exercises |
-| Too hot | Lower room temp, lighter bedding |
-| Inconsistent schedule | Strict wake time for 2 weeks |
+| Luz em excesso | Cortinas blackout, máscara para os olhos |
+| Cafeína | Corte antecipado, verifique fontes ocultas |
+| Estresse/preocupação | Desabafo mental, exercícios de respiração |
+| Muito quente | Temperatura ambiente mais baixa, roupa de cama mais leve. |
+| Horário inconsistente | Horário de despertar rigoroso por 2 semanas |
 
-### "I wake up during the night"
+### &quot;Eu acordo durante a noite&quot;
 
-**Common triggers:**
+**Gatilhos comuns:**
 
-- **Alcohol** — Even moderate amounts cause fragmented sleep
-- **Bladder** — Reduce evening liquids
-- **Temperature** — Often too hot
-- **Noise** — White noise can help
-- **Stress** — Middle-of-night worry is common; keep notepad nearby
+- **Álcool** — Mesmo em quantidades moderadas, o sono fica fragmentado.
+- **Bexiga** — Reduzir a ingestão de líquidos à noite
+- **Temperatura** — Frequentemente muito quente
+- **Ruído** — O ruído branco pode ajudar
+- **Estresse** — Preocupações no meio da noite são comuns; mantenha um bloco de notas por perto.
 
-### "I wake up too early"
+### &quot;Acordo muito cedo&quot;
 
-- Often a sign of going to bed too early
-- Could indicate depression—monitor mood
-- Strong morning light may help reset rhythm
-- Avoid clock-watching if you wake early
+- Frequentemente, é um sinal de que a pessoa está indo para a cama muito cedo.
+- Pode indicar depressão — monitore o humor.
+- A forte luz da manhã pode ajudar a restabelecer o ritmo circadiano.
+- Evite ficar olhando para o relógio se você acordar cedo.
 
-### "I don't feel rested despite sleeping"
+### &quot;Não me sinto descansado apesar de ter dormido.&quot;
 
-Possible issues:
-- **Sleep apnea** — Snoring? Consider a sleep study
-- **Poor sleep architecture** — Alcohol, late caffeine
-- **Stress** — Even if you sleep, quality is compromised
-- **Unrealistic expectations** — Not every morning feels amazing
-
----
-
-## Sleep Tracking
-
-Should you track your sleep? Consider:
-
-**Pros:**
-- Awareness of patterns
-- Data for troubleshooting
-- Motivation for consistency
-
-**Cons:**
-- Can increase anxiety about sleep
-- Consumer devices aren't highly accurate
-- Obsessing over numbers vs. how you feel
-
-**Recommendation:** Track for 2-4 weeks to identify patterns, then reduce tracking unless troubleshooting.
+Possíveis problemas:
+- **Apneia do sono** — Ronca? Considere fazer um exame de sono.
+- **Arquitetura de sono inadequada** — Álcool, cafeína tardia
+- **Estresse** — Mesmo que você durma, a qualidade do seu sono fica comprometida.
+- **Expectativas irreais** — Nem todas as manhãs são incríveis
 
 ---
 
-## Related Content
+## Monitoramento do sono
 
-- [Sleep Science](/pt/education/sleep/) — Understanding why sleep matters
-- [Competition Protocols](/pt/education/sleep/competition) — Sleep around tournaments
-- [Tension Management](/pt/education/tension/) — PMR and relaxation for sleep
-- [Mindfulness](/pt/education/mental-game/mindfulness/) — Breathing techniques
+Você deve monitorar seu sono? Considere:
+
+**Prós:**
+- Consciência de padrões
+- Dados para resolução de problemas
+- Motivação para a consistência
+
+**Contras:**
+- Pode aumentar a ansiedade em relação ao sono.
+- Os dispositivos de consumo não são muito precisos.
+- Obsessão por números versus como você se sente
+
+**Recomendação:** Monitore por 2 a 4 semanas para identificar padrões e, em seguida, reduza o monitoramento, a menos que seja necessário solucionar problemas.
+
+---
+
+## Conteúdo relacionado
+
+- [Ciência do Sono](/en/education/sleep/) — Entendendo por que o sono é importante
+- [Protocolos de Competição](/en/education/sleep/competition) — Dormir em torno de torneios
+- [Gestão da Tensão](/en/education/tension/) — Relaxamento Muscular Progressivo e Relaxamento para Dormir
+- [Mindfulness](/en/education/mental-game/mindfulness/) — Técnicas de respiração
 

@@ -164,8 +164,8 @@ graph LR
 
 ## I detta avsnitt
 
-- **[Tekniker](/sv/education/mental-game/mindfulness/tekniker)** - Praktiska övningar du kan använda
-- **[Daglig övning](/sv/education/mental-game/mindfulness/daglig-övning)** - Bygg in mindfulness i ditt liv
+- **[Tekniker](/sv/utbildning/mentalt-spel/mindfulness/tekniker)** - Praktiska övningar du kan använda
+- **[Daglig övning](/sv/utbildning/mentalt spel/mindfulness/daglig-övning)** - Bygg in mindfulness i ditt liv
 
 ## Sammanfattning: Mindfulnessregler
 

@@ -3,37 +3,37 @@ title: Goal Setting for Elite Athletes
 description: Learn advanced goal-setting strategies used by elite pétanque players to drive continuous improvement and achieve peak performance.
 ---
 
-# Goal Setting for Elite Athletes
+# Fixer des objectifs aux athlètes d&#39;élite
 
-> "The right goals accelerate development; the wrong ones create frustration and stagnation."
+> « Les bons objectifs accélèrent le développement ; les mauvais engendrent frustration et stagnation. »
 
-Goal setting seems simple: decide what you want, work toward it. But elite-level goal setting is more nuanced.
+Se fixer des objectifs semble simple : décider de ce que l’on veut et œuvrer pour l’obtenir. Mais la définition d’objectifs de haut niveau est plus nuancée.
 
-::: warning Common Mistake
-**Most players only set outcome goals** ("Win the championship"). You can't control outcomes — only the process that leads to them.
+::: warning Erreur courante
+La plupart des joueurs ne se fixent que des objectifs de résultat (« Gagner le championnat »). On ne contrôle pas les résultats, seulement le processus qui y mène.
 :::
 
 ---
 
-## Beyond Basic Goals
+## Au-delà des objectifs de base
 
-| Outcome Goal Problems | Why It's a Problem |
+| Problèmes liés aux objectifs de résultats | Pourquoi c&#39;est un problème |
 |----------------------|-------------------|
-| Can't fully control outcomes | Creates helplessness |
-| Creates pressure without direction | Anxiety without action |
-| Success or failure is binary | No partial wins |
-| Doesn't guide daily practice | What do you actually do? |
+| On ne peut pas contrôler entièrement les résultats | Engage l&#39;impuissance |
+| Crée une pression sans direction | Anxiété sans action |
+| Le succès ou l&#39;échec est binaire. | Pas de victoires partielles |
+| Ne guide pas la pratique quotidienne | Que faites-vous concrètement ? |
 
-Elite goal setting goes deeper.
+La définition d&#39;objectifs d&#39;élite va plus loin.
 
 ---
 
-## The Goal Hierarchy
+## La hiérarchie des objectifs
 
 ```mermaid
 flowchart TD
-    A[Level 1: DREAM GOALS<br/>1-5 years] --> B[Level 2: PERFORMANCE GOALS<br/>Season/Year]
-    B --> C[Level 3: PROCESS GOALS<br/>Daily/Weekly]
+    A[Niveau 1 : OBJECTIFS DE RÊVE <br/> 1 à 5 ans] --> B[Niveau 2 : OBJECTIFS DE PERFORMANCE <br/> Saison/Année]
+    B --> C[Niveau 3 : OBJECTIFS DE PROCESSUS <br/> Quotidien/Hebdomadaire]
 
     A -.->|"Compete at national level"| A
     B -.->|"Shooting accuracy 60% → 70%"| B
@@ -44,164 +44,164 @@ flowchart TD
     style C fill:#4CAF50,color:#fff
 ```
 
-### Level 1: Dream Goals (1-5 years)
-Your ultimate aspirations:
-- "Compete at national level"
-- "Be recognized as an elite shooter"
-- "Win a major championship"
+### Niveau 1 : Objectifs de rêve (1 à 5 ans)
+Vos aspirations ultimes :
+- « Participer à la compétition nationale »
+- « Être reconnu comme un tireur d&#39;élite »
+- « Gagner un championnat majeur »
 
-::: info Direction, Not Action
-These provide direction and motivation but aren't actionable daily.
+::: info Direction, pas action
+Elles fournissent une orientation et une motivation, mais ne sont pas applicables au quotidien.
 :::
 
-### Level 2: Performance Goals (Season/Year)
-Measurable improvements in your game:
-- "Increase shooting accuracy from 60% to 70%"
-- "Reduce unforced errors by 25%"
-- "Develop a reliable plombée"
+### Niveau 2 : Objectifs de performance (Saison/Année)
+Améliorations mesurables dans votre jeu :
+- « Augmenter la précision de tir de 60 % à 70 % »
+- « Réduire les erreurs non provoquées de 25 % »
+- &quot;Développez une plombée fiable&quot;
 
-These are within your control and measurable.
+Ces éléments sont sous votre contrôle et mesurables.
 
-### Level 3: Process Goals (Daily/Weekly)
-The actions that drive improvement:
-- "Complete pre-shot routine on every throw"
-- "Practice visualization for 10 minutes daily"
-- "Train shooting technique 3x per week"
+### Niveau 3 : Objectifs de processus (quotidiens/hebdomadaires)
+Les actions qui favorisent l&#39;amélioration :
+- &quot;Routine complète de préparation avant chaque lancer&quot;
+- &quot;Pratiquez la visualisation pendant 10 minutes par jour&quot;
+- &quot;Entraînez-vous à la technique de tir 3 fois par semaine&quot;
 
-::: tip Full Control
-**Process goals are 100% controllable.** Focus here for maximum impact.
+::: tip Contrôle total
+**Les objectifs du processus sont 100 % maîtrisables.** Concentrez-vous ici pour un impact maximal.
 :::
 
-## The SMART+ Framework
+## Le cadre SMART+
 
-Go beyond basic SMART goals:
+Allez au-delà des objectifs SMART de base :
 
-### Specific
-Not "improve my pointing" but "develop a consistent demi-portée that lands within 30cm of target from 8 meters."
+### Spécifique
+Non pas « améliorer mon pointage », mais « développer une demi-portée régulière qui atterrisse à moins de 30 cm de la cible à 8 mètres ».
 
-### Measurable
-Define how you'll track progress:
-- Success rate percentages
-- Consistency metrics
-- Video analysis markers
+### Mesurable
+Définissez comment vous suivrez les progrès :
+- Pourcentages de réussite
+- Mesures de cohérence
+- marqueurs d&#39;analyse vidéo
 
-### Achievable but Stretching
-The goal should require growth but be realistic. A 60% shooter aiming for 65% is achievable; aiming for 90% is fantasy.
+### Réalisable mais ambitieux
+L&#39;objectif doit encourager la progression tout en restant réaliste. Un tireur à 60 % qui vise 65 % a un objectif atteignable ; viser 90 % relève de l&#39;utopie.
 
-### Relevant
-Goals must connect to your larger aspirations and address actual weaknesses, not just what's easy to improve.
+### Pertinent
+Les objectifs doivent être en lien avec vos aspirations plus larges et s&#39;attaquer aux faiblesses réelles, et non pas seulement à ce qui est facile à améliorer.
 
-### Time-bound
-Set clear deadlines:
-- "By end of season"
-- "Within 3 months"
-- "By the national championship"
+### Limité dans le temps
+Fixez des échéances claires :
+- &quot;D&#39;ici la fin de la saison&quot;
+- «Dans les 3 mois»
+- &quot;Par le championnat national&quot;
 
-### + Personally Meaningful
-The goal must matter to YOU, not just your coach or teammates. Internal motivation sustains effort when progress is slow.
+### + Personnellement significatif
+Cet objectif doit avoir de l&#39;importance pour VOUS, et pas seulement pour votre entraîneur ou vos coéquipiers. La motivation intrinsèque permet de maintenir l&#39;effort même lorsque les progrès sont lents.
 
-## Process vs. Outcome Focus
+## Processus vs. résultat
 
-### The Problem with Outcome Goals
+### Le problème des objectifs de résultats
 
-"Win the match" creates problems:
-- Anxiety about things you can't control
-- Distraction from execution
-- All-or-nothing thinking
-- Pressure without guidance
+« Gagner le match » pose problème :
+- L&#39;anxiété liée à des choses que vous ne pouvez pas contrôler
+- Distraction par rapport à l&#39;exécution
+- Pensée du tout ou rien
+- Pression sans conseils
 
-### The Power of Process Goals
+### Le pouvoir des objectifs de processus
 
-"Execute my pre-shot routine perfectly" offers:
-- Full control
-- Clear focus
-- Immediate feedback
-- Builds toward outcomes naturally
+« Exécuter parfaitement ma routine de préparation à la prise de vue » propose :
+- Contrôle total
+- Concentration claire
+- Réponse immédiate
+- Construit naturellement vers des résultats.
 
-### The Balance
+### L&#39;équilibre
 
-Use outcome goals for motivation and direction. Use process goals for daily focus and execution.
+Utilisez les objectifs de résultat pour la motivation et l&#39;orientation. Utilisez les objectifs de processus pour la concentration et l&#39;exécution au quotidien.
 
-## Goal Setting for Different Phases
+## Définition des objectifs pour les différentes phases
 
-### Off-Season
-Focus on development goals:
-- Technical improvements
-- Physical conditioning
-- Mental skill building
-- Expanding your palette of throws
+### Hors saison
+Mettre l&#39;accent sur les objectifs de développement :
+- Améliorations techniques
+- Conditionnement physique
+- Développement des compétences mentales
+- Élargir votre palette de jetés
 
-### Pre-Season
-Transition to integration:
-- Combining skills in match-like conditions
-- Testing improvements in friendly competition
-- Refining strategies
+### Pré-saison
+Transition vers l&#39;intégration :
+- Combiner les compétences dans des conditions similaires à celles d&#39;un match
+- Améliorations testées en compétition amicale
+- Stratégies d&#39;amélioration
 
-### Competition Season
-Shift to performance and process:
-- Executing what you've developed
-- Process goals for each match
-- Minimal technical changes
+### Saison de compétition
+Passer à la performance et aux processus :
+- Mettre en œuvre ce que vous avez développé
+- Objectifs de processus pour chaque match
+- Modifications techniques minimales
 
-### Post-Competition
-Reflection and planning:
-- Analyze what worked
-- Identify areas for growth
-- Set goals for next cycle
+### Après la compétition
+Réflexion et planification :
+- Analysez ce qui a fonctionné
+- Identifier les axes de croissance
+- Fixez-vous des objectifs pour le prochain cycle.
 
-## Common Goal-Setting Mistakes
+## Erreurs courantes lors de la définition d&#39;objectifs
 
-### Too Many Goals
-Focus is power. 2-3 key goals beat 10 scattered ones.
+### Trop d&#39;objectifs
+La concentration est la clé du succès. 2 ou 3 objectifs clés valent mieux que 10 objectifs dispersés.
 
-### Only Outcome Goals
-Without process goals, you have no roadmap.
+### Objectifs de résultats uniquement
+Sans objectifs de processus, vous n&#39;avez pas de feuille de route.
 
-### No Flexibility
-Goals should adapt to new information. Rigid adherence to outdated goals wastes effort.
+### Aucune flexibilité
+Les objectifs doivent s&#39;adapter aux nouvelles informations. S&#39;en tenir rigidement à des objectifs obsolètes est une perte de temps.
 
-### Comparison-Based Goals
-"Be better than [player]" puts your success in someone else's hands.
+### Objectifs fondés sur la comparaison
+« Être meilleur que [joueur] » revient à confier son succès à quelqu&#39;un d&#39;autre.
 
-### Neglecting Mental Goals
-Technical and physical goals dominate, but mental skills often determine who wins.
+### Négliger les objectifs mentaux
+Les objectifs techniques et physiques prédominent, mais les aptitudes mentales déterminent souvent le vainqueur.
 
-## Implementation Strategies
+## Stratégies de mise en œuvre
 
-### Write Them Down
-Written goals are significantly more likely to be achieved.
+### Notez-les
+Les objectifs écrits ont beaucoup plus de chances d&#39;être atteints.
 
-### Review Regularly
-Weekly review keeps goals present and allows adjustment.
+### Examiner régulièrement
+Un bilan hebdomadaire permet de garder les objectifs en tête et de les ajuster.
 
-### Share Selectively
-Share with those who will support, not undermine.
+### Partager de manière sélective
+Partagez avec ceux qui vous soutiendront, et non ceux qui vous discréditeront.
 
-### Visualize Achievement
-Regularly imagine achieving your goals — the feeling, the moment.
+### Visualiser la réussite
+Visualisez régulièrement la réalisation de vos objectifs — la sensation, le moment.
 
-### Track Progress
-What gets measured gets managed. Keep records.
+### Suivre les progrès
+Ce qui se mesure se gère. Conservez des traces.
 
-## When Goals Aren't Met
+## Lorsque les objectifs ne sont pas atteints
 
-Unmet goals aren't failures — they're data:
+Les objectifs non atteints ne sont pas des échecs, ce sont des données :
 
-1. **Analyze**: Why wasn't it achieved?
-2. **Learn**: What does this teach you?
-3. **Adjust**: Modify the goal or approach
-4. **Continue**: Persistence beats perfection
+1. **Analyse** : Pourquoi cet objectif n’a-t-il pas été atteint ?
+2. **Apprenez** : Qu’est-ce que cela vous apprend ?
+3. **Ajuster** : Modifier l’objectif ou l’approche
+4. **À suivre** : La persévérance l&#39;emporte sur la perfection
 
-## The Mental Game of Goals
+## Le jeu mental des objectifs
 
-Goals affect psychology:
-- **Too easy**: Boredom, complacency
-- **Too hard**: Anxiety, discouragement
-- **Just right**: Engagement, flow, growth
+Les objectifs influencent la psychologie :
+- **Trop facile** : Ennui, complaisance
+- **Trop difficile** : Anxiété, découragement
+- **Parfait** : Engagement, fluidité, croissance
 
-Find the sweet spot where goals challenge without overwhelming.
+Trouvez le juste milieu où les objectifs sont stimulants sans être insurmontables.
 
 ---
 
-*Related: [Goal Setting Introduction](/fr/education/motivation/) | [SMART Goals](/fr/education/motivation/smart-goals) | [Planning Your Development](/fr/education/motivation/planning)*
+| *À lire aussi : [Introduction à la fixation d’objectifs](/en/education/motivation/) | [Objectifs SMART](/en/education/motivation/smart-goals) | [Planifier votre développement](/en/education/motivation/planning)* |
 

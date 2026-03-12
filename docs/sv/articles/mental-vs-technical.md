@@ -3,218 +3,218 @@ title: Why Elite Players Need Mental Training More Than Technical
 description: Discover why more technical practice might be holding you back, and how the training ratio should invert as you advance.
 ---
 
-# Why Elite Players Need Mental Training More Than Technical Training
+# Varför elitspelare behöver mental träning mer än teknisk träning
 
-> "If you've been playing pétanque for years and have solid technique, more technical practice might be holding you back."
+> &quot;Om du har spelat boule i flera år och har en gedigen teknik, kan mer teknisk övning hålla dig tillbaka.&quot;
 
-::: tip The Uncomfortable Truth
-**At the elite level, your technique isn't the bottleneck — your mind is.**
+::: tip Den obekväma sanningen
+**På elitnivå är det inte din teknik som är flaskhalsen – det är din hjärna.**
 :::
 
 ---
 
-## The Paradox of Elite Development
+## Paradoxen med elitutveckling
 
-Here's something that surprises most players:
+Här är något som förvånar de flesta spelare:
 
-::: warning The Inversion Principle
-As your technical skill increases, the ratio of technical to mental training should **invert**.
+::: warning Inversionsprincipen
+Allt eftersom din tekniska skicklighet ökar, bör förhållandet mellan teknisk och mental träning **inverteras**.
 
-- **Beginners:** 90% technical, 10% mental
-- **Intermediate:** 70% technical, 30% mental  
-- **Advanced:** 50% technical, 50% mental
-- **Elite:** 20% technical, 80% mental
+- **Nybörjare:** 90 % teknisk, 10 % mental
+- **Medel:** 70 % teknisk, 30 % mental
+- **Avancerad:** 50 % teknisk, 50 % mental
+- **Elit:** 20 % teknisk, 80 % mental
 :::
 
-This isn't intuitive. Most players assume that to get better, they need to practice their technique more. But at the elite level, this approach actually causes problems.
+Detta är inte intuitivt. De flesta spelare antar att de behöver öva mer på sin teknik för att bli bättre. Men på elitnivå orsakar detta tillvägagångssätt faktiskt problem.
 
-## Why Technical Training Can Hurt Elite Performance
+## Varför teknisk träning kan skada elitprestationer
 
-### The Overthinking Problem
+### Problemet med övertänkande
 
-When you practice technique extensively, you reinforce **conscious awareness** of your movements. This is perfect for beginners who are building neural pathways. But for elite players, it creates a dangerous habit: thinking about technique during execution.
+När du övar teknik flitigt förstärker du **medveten medvetenhet** om dina rörelser. Detta är perfekt för nybörjare som bygger nervbanor. Men för elitspelare skapar det en farlig vana: att tänka på teknik under utförandet.
 
 
-**Example from the terrain:**
+**Exempel från terrängen:**
 
-*Beginner:* Needs to think "bend knees, smooth release, follow through" to execute properly.
+*Nybörjare:* Behöver tänka &quot;böj knäna, släpp smidigt, följ upp&quot; för att utföra korrekt.
 
-*Elite player:* Already has 10,000+ hours of practice. The movement is automatic. Thinking about "bend knees" actually disrupts the trained pattern.
+*Elitspelare:* Har redan 10 000+ timmars träning. Rörelsen är automatisk. Att tänka på att &quot;böja knäna&quot; stör faktiskt det tränade mönstret.
 
-### The Flow State Barrier
+### Flödestillståndsbarriären
 
-Flow states (being "in the zone") require **transient hypofrontality**—a temporary reduction in activity in the prefrontal cortex (the analytical part of your brain).
+Flödestillstånd (att vara &quot;i zonen&quot;) kräver **övergående hypofrontalitet** – en tillfällig minskning av aktiviteten i prefrontala cortex (den analytiska delen av din hjärna).
 
 ```mermaid
 graph LR
-    A[Technical Practice] -->|Reinforces| B[Conscious Awareness]
-    B -->|Prevents| C[Flow State]
-    C -->|Required for| D[Elite Performance]
+    A[Teknisk praktik] -->|Reinforces| B[Medveten medvetenhet]
+    B -->|Prevents| C[Flödesstatus]
+    C -->|Required for| D[Elitprestanda]
     
     style A fill:#ffebee
     style C fill:#e8f5e9
     style D fill:#e3f2fd
 ```
 
-The more you practice technique consciously, the harder it becomes to "switch off" during competition.
+Ju mer du övar teknik medvetet, desto svårare blir det att &quot;stänga av&quot; under tävling.
 
-## What Elite Players Actually Need
+## Vad elitspelare faktiskt behöver
 
-### 1. The Ability to Switch Modes
+### 1. Möjligheten att byta läge
 
-Elite performance requires mastering the transition between two brain modes:
+Elitprestationer kräver att man bemästrar övergången mellan två hjärnlägen:
 
-**Planning Mode (Outside the Circle)**
-- Analytical thinking
-- Strategy assessment
-- Decision making
-- Risk evaluation
+**Planeringsläge (utanför cirkeln)**
+- Analytiskt tänkande
+- Strategibedömning
+- Beslutsfattande
+- Riskbedömning
 
-**Execution Mode (Inside the Circle)**
-- Automatic movement
-- Target focus only
-- Trust in training
-- Flow state access
+**Utförandeläge (inuti cirkeln)**
+- Automatiskt urverk
+- Endast målfokus
+- Lita på träning
+- Åtkomst till flödesstatus
 
-Most elite players are stuck in planning mode during execution. They need to train the **switch**, not the technique.
+De flesta elitspelare sitter fast i planeringsläge under utförandet. De behöver träna på **växlingen**, inte tekniken.
 
-### 2. Pressure Management
+### 2. Tryckhantering
 
-Technical practice in comfortable conditions doesn't prepare you for the psychological pressure of competition.
+Teknisk träning under bekväma förhållanden förbereder dig inte för den psykologiska pressen som tävlingen medför.
 
-**What happens under pressure:**
-- Heart rate increases
-- Breathing becomes shallow
-- Muscles tense
-- Attention narrows
-- Inner critic activates
+**Vad händer under press:**
+- Hjärtfrekvensen ökar
+- Andningen blir ytlig
+- Musklerna spänns
+- Uppmärksamheten minskar
+- Inre kritiker aktiveras
 
-You can have perfect technique in practice and completely lose it under pressure. This isn't a technical problem—it's a mental one.
+Du kan ha perfekt teknik på träning och tappa den helt under press. Det här är inte ett tekniskt problem – det är ett mentalt.
 
-### 3. Mistake Recovery
+### 3. Återställning av misstag
 
-Elite players don't make fewer mistakes than good players. They **recover faster**.
+Elitspelare gör inte färre misstag än bra spelare. De **återhämtar sig snabbare**.
 
-**Good player after a bad throw:**
-- Dwells on the mistake
-- Analyzes what went wrong
-- Worries about the next throw
-- Performance deteriorates
+**Bra spelare efter ett dåligt kast:**
+- Uppehåller sig vid misstaget
+- Analyserar vad som gick fel
+- Oro för nästa kast
+- Prestandan försämras
 
-**Elite player after a bad throw:**
+**Elitspelare efter ett dåligt kast:**
 - Neutral observation
-- Quick learning
-- Immediate reset
-- Performance maintained
+- Snabb inlärning
+- Omedelbar återställning
+- Bibehållen prestanda
 
-This is a trained skill, not a personality trait.
+Detta är en tränad färdighet, inte ett personlighetsdrag.
 
-## The Science: Why Mental Training Works
+## Vetenskapen: Varför mental träning fungerar
 
-### Neuroscience of Expertise
+### Neurovetenskaplig expertis
 
-Research on expert performance shows that elite athletes have:
+Forskning om experters prestationer visar att elitidrottare har:
 
-1. **Automated motor patterns** - Movements happen without conscious control
-2. **Superior pattern recognition** - See situations faster
-3. **Better emotional regulation** - Manage pressure effectively
-4. **Faster recovery** - Reset after mistakes quickly
+1. **Automatiserade motoriska mönster** - Rörelser sker utan medveten kontroll
+2. **Överlägsen mönsterigenkänning** - Se situationer snabbare
+3. **Bättre känsloreglering** - Hantera press effektivt
+4. **Snabbare återhämtning** - Återställer snabbt efter misstag
 
-Notice: Only #1 is technical. The other three are mental.
+Observera: Endast punkt 1 är teknisk. De andra tre är mentala.
 
-### The 10,000 Hour Threshold
+### 10 000-timmarsgränsen
 
-Once you've invested roughly 10,000 hours in deliberate practice (about 8-10 years of serious play), your technical patterns are largely established. Further technical improvement shows diminishing returns.
+När du har investerat ungefär 10 000 timmar i avsiktlig övning (ungefär 8–10 års seriöst spelande) är dina tekniska mönster i stort sett etablerade. Ytterligare teknisk förbättring visar avtagande avkastning.
 
-But mental game development? That's where massive gains are still possible.
+Men mental spelutveckling? Det är där massiva vinster fortfarande är möjliga.
 
-## How to Restructure Your Training
+## Hur du omstrukturerar din träning
 
-### For Elite Players (8+ years experience)
+### För elitspelare (8+ års erfarenhet)
 
-**Current typical split:**
-- 80% technical practice
-- 20% playing/competition
+**Nuvarande typisk uppdelning:**
+- 80 % teknisk praktik
+- 20 % spelande/tävling
 
-**Recommended split:**
-- 20% technical maintenance
-- 40% mental game training
-- 40% competition/pressure situations
+**Rekommenderad uppdelning:**
+- 20 % tekniskt underhåll
+- 40 % mental spelträning
+- 40 % tävlings-/presssituationer
 
-### What Mental Game Training Looks Like
+### Hur mental spelträning ser ut
 
-**Not this:**
-- "Just relax"
-- "Don't think about it"
-- "Be confident"
+**Inte detta:**
+- &quot;Bara slappna av&quot;
+- &quot;Tänk inte på det&quot;
+- &quot;Var självsäker&quot;
 
-**But this:**
-- Structured mindfulness practice (10 min daily)
-- Pre-shot routine development and practice
-- Pressure simulation in training
-- Mistake recovery protocols
-- Flow state trigger identification
-- Inner coach vs inner critic work
+**Men det här:**
+- Strukturerad mindfulnessövning (10 min dagligen)
+- Utveckling och övning av rutiner före skotttagning
+- Trycksimulering i träning
+- Protokoll för felåterställning
+- Identifiering av utlösare för flödestillstånd
+- Inre coach kontra inre kritikerarbete
 
-See our [Education](/sv/education/) section for specific techniques.
+Se vårt avsnitt [Utbildning](/sv/utbildning/) för specifika tekniker.
 
-## The Uncomfortable Truth
+## Den obekväma sanningen
 
-If you're an elite player still spending 80% of your training time on technical drills, you're training like a beginner. Your technique is already good enough. The limitation isn't your arm—it's your mind.
+Om du är en elitspelare som fortfarande lägger 80 % av din träningstid på tekniska övningar, tränar du som en nybörjare. Din teknik är redan tillräckligt bra. Begränsningen är inte din arm – det är ditt sinne.
 
-::: tip The Real Question
-It's not "How can I improve my pointing technique?"
+::: tip Den verkliga frågan
+Det är inte &quot;Hur kan jag förbättra min pekteknik?&quot;
 
-It's "How can I access my best technique consistently under pressure?"
+Det är &quot;Hur kan jag konsekvent använda min bästa teknik under press?&quot;
 :::
 
-## Practical Next Steps
+## Praktiska nästa steg
 
-### 1. Assess Your Current Ratio
+### 1. Bedöm din nuvarande kvot
 
-Track your training for one week:
-- Hours on technical practice
-- Hours on mental game work
-- Hours in competition/pressure situations
+Följ din träning i en vecka:
+- Timmar på teknisk övning
+- Timmar av mentalt spelarbete
+- Timmar i tävlings-/pressade situationer
 
-### 2. Start Small
+### 2. Börja smått
 
-Don't flip the ratio overnight. Add:
-- 10 minutes daily mindfulness
-- One mental game focus per training session
-- Pre-shot routine practice
+Ändra inte förhållandet över en natt. Lägg till:
+- 10 minuter daglig mindfulness
+- Ett mentalt spelfokus per träningspass
+- Rutinövning före skott
 
-### 3. Measure Mental Performance
+### 3. Mät mental prestation
 
-Track:
-- Recovery time after mistakes
-- Consistency under pressure
-- Flow state frequency
-- Pre-shot routine adherence
+Spåra:
+- Återhämtningstid efter misstag
+- Konsekvens under press
+- Flödestillståndsfrekvens
+- Efterlevnad av rutinen före sprutan
 
-### 4. Use the Education Modules
+### 4. Använd utbildningsmodulerna
 
-Start with:
-1. [The Zone](/sv/education/mental-game/the-zone/) - Understand flow states
-2. [Mental Strength](/sv/education/mental-game/mental-strength/) - Build pressure skills
-3. [Mindfulness](/sv/education/mental-game/mindfulness/) - Develop present-moment focus
+Börja med:
+1. [Zonen](/sv/utbildning/mentalt-spel/zonen/) - Förstå flödestillstånd
+2. [Mental styrka](/sv/utbildning/mentalt-spel/mental-styrka/) - Bygg upp pressförmåga
+3. [Mindfulness](/sv/utbildning/mentalt-spel/mindfulness/) - Utveckla fokus i nuet
 
-## Conclusion
+## Slutsats
 
-The path to elite performance isn't more technical practice—it's smarter mental training. Your technique is already good enough. The question is: can you access it when it matters?
+Vägen till elitprestationer är inte mer teknisk övning – det är smartare mental träning. Din teknik är redan tillräckligt bra. Frågan är: kan du använda den när det gäller?
 
-The players who make this shift—who embrace mental training as their primary development focus—are the ones who break through performance plateaus and achieve consistent excellence.
+De spelare som gör denna förändring – som anammar mental träning som sitt primära utvecklingsfokus – är de som bryter igenom prestationsplatåer och uppnår konsekvent excellens.
 
-**The choice is yours:** Keep training like a beginner, or start training like an elite player.
+**Valet är ditt:** Fortsätt träna som en nybörjare eller börja träna som en elitspelare.
 
 
 ---
 
-## Related Resources
+## Relaterade resurser
 
-- [The Zone: Understanding Flow State](/sv/education/mental-game/the-zone/)
-- [Case Studies: Elite Players in Action](/sv/articles/case-studies)
-- [Goal Template](/sv/guides/templates/goal-template) - Plan your mental game development
+- [Zonen: Att förstå flödestillstånd](/sv/utbildning/mentalt spel/zonen/)
+- [Fallstudier: Elitspelare i aktion](/sv/artiklar/fallstudier)
+- [Målmall](/sv/guider/mallar/målmall) - Planera din mentala spelutveckling
 
-**Questions or comments?** Email [patrik.wiik@gmail.com](mailto:patrik.wiik@gmail.com)
+**Frågor eller kommentarer?** Mejla [patrik.wiik@gmail.com](mailto:patrik.wiik@gmail.com)
 

@@ -1,44 +1,44 @@
-# Training Camp: Weekend Mental Game Intensive
+# Treningsleir: Helgebasert mental spillintensiv
 
 
-## Overview
+## Oversikt
 
-A comprehensive weekend training camp (Friday-Sunday) for 10-20 players that combines mental game theory, on-piste practice, and competitive application. This intensive format creates transformational learning through integration of all three elements.
+En omfattende helgekurs (fredag–søndag) for 10–20 spillere som kombinerer mental spillteori, trening i løypa og konkurransepreget bruk. Dette intensive formatet skaper transformerende læring gjennom integrering av alle tre elementene.
 
-::: tip Two Sections in This Guide
-- **[For Participants](#for-participants)** - What players will experience during the weekend
-- **[For Organizers](#for-organizers)** - How to plan and run the training camp
+::: tip To deler i denne veiledningen
+- **[For deltakere](#for-deltakere)** – Hva spillerne vil oppleve i løpet av helgen
+- **[For arrangører](#for-arrangører)** - Hvordan planlegge og gjennomføre treningsleiren
 :::
 
-::: tip The Training Camp Philosophy
-**Theory without practice is just information. Practice without theory is just repetition. Competition without reflection is just playing.** This weekend integrates all three for transformational learning.
+::: tip Treningsleirens filosofi
+**Teori uten praksis er bare informasjon. Praksis uten teori er bare repetisjon. Konkurranse uten refleksjon er bare lek.** Denne helgen integrerer alle tre for transformerende læring.
 :::
 
-## Quick Access
+## Hurtigtilgang
 
-| Section | Purpose | Access |
+| Del | Hensikt | Adgang |
 |---------|---------|--------|
-| **For Participants** | Weekend schedule and what to bring | [View Section](#for-participants) |
-| **For Organizers** | Complete planning and facilitation guide | [View Section](#for-organizers) |
-| **Daily Schedules** | Detailed timing and activities | [Friday](#friday-evening-mental-game-foundation-3-4-hours) • [Saturday](#saturday-practice-application-full-day) • [Sunday](#sunday-competition-integration-full-day) |
-| **Related Guides** | Other training formats | [Mental Journey](/no/guides/mental-journey/) • [Workshop](/no/guides/workshop/) |
+| **For deltakere** | Helgeplan og hva du bør ta med | [Vis seksjon](#for-deltakere) |
+| **For arrangører** | Komplett planleggings- og tilretteleggingsguide | [Vis seksjon](#for-arrangører) |
+| **Daglige timeplaner** | Detaljert tidsplan og aktiviteter | [Fredag](#fredag-kveld-mentalt-spill-grunnleggende-3-4-timer) • [Lørdag](#lørdag-trening-søknad-heldag) • [Søndag](#søndag-konkurranse-integrering-heldag) |
+| **Relaterte guider** | Andre treningsformater | [Mental reise](/no/guider/mental-reise/) • [Workshop](/no/guider/workshop/) |
 
 ---
 
-## For Participants
+## For deltakere
 
-### What to Expect
+### Hva du kan forvente
 
-This is an intensive weekend that will challenge you mentally, physically, and emotionally. You'll learn mental game concepts, practice them on the piste, and apply them in competition - all while building deep connections with fellow players.
+Dette er en intensiv helg som vil utfordre deg mentalt, fysisk og følelsesmessig. Du lærer mentale spillkonsepter, øver på dem i løypa og bruker dem i konkurranser – samtidig som du bygger dype bånd med medspillere.
 
-**Weekend Structure:**
+**Helgestruktur:**
 
 ```mermaid
 graph LR
-    A[Weekend Camp] --> B[Friday: Theory]
-    B --> C[Saturday: Practice]
-    C --> D[Sunday: Competition]
-    D --> E[Integration]
+    A[Helgeleir] --> B[Fredag: Teori]
+    B --> C[Lørdag: Trening]
+    C --> D[Søndag: Konkurranse]
+    D --> E[Integrering]
 
     style A fill:#e8f5e9
     style B fill:#fff4e1
@@ -47,259 +47,259 @@ graph LR
     style E fill:#f3e5f5
 ```
 
-### Daily Breakdown
+### Daglig oversikt
 
-#### Friday Evening: Mental Game Foundation (3-4 hours)
-**What:** Theory session on mental game concepts
-**Where:** Indoor meeting room
-**Format:** Circle discussion and exercises
+#### Fredag kveld: Grunnleggende mental lek (3–4 timer)
+**Hva:** Teoriøkt om mentale spillkonsepter
+**Hvor:** Innendørs møterom
+**Format:** Sirkeldiskusjon og øvelser
 
-**You'll Learn:**
-- The Zone and flow states
-- Inner Critic vs Inner Coach
-- Pressure response patterns
-- Pre-shot routine fundamentals
+**Du vil lære:**
+- Sone- og strømningstilstandene
+- Indre kritiker vs. indre coach
+- Trykkresponsmønstre
+- Grunnleggende rutiner før sprøyting
 
-**Activities:**
-- Check-in and ground rules
-- The Iceberg of Pétanque
-- User Manual creation
-- Fear in a Hat exercise
+**Aktiviteter:**
+- Innsjekking og grunnregler
+- Isfjellet i petanque
+- Oppretting av brukerhåndbok
+- Frykt i en hatt-øvelse
 
-#### Saturday: Practice & Application (Full Day)
-**Morning (3 hours):** Structured practice with mental focus
-**Afternoon (3 hours):** Pressure simulation drills
-**Evening (2 hours):** Reflection and integration
+#### Lørdag: Øvelse og søknad (heldag)
+**Morgen (3 timer):** Strukturert trening med mentalt fokus
+**Ettermiddag (3 timer):** Trykksimuleringsøvelser
+**Kveld (2 timer):** Refleksjon og integrering
 
-**You'll Practice:**
-- Pre-shot routines in real throws
-- Reset techniques after mistakes
-- Focus anchors under pressure
-- Team communication protocols
+**Du skal øve:**
+- Rutiner før skudd i ekte kast
+- Tilbakestill teknikker etter feil
+- Fokusankere under press
+- Protokoller for teamkommunikasjon
 
 **Format:**
-- Small group drills (3-4 players)
-- Video analysis of mental patterns
-- Pressure scenarios
-- Evening debrief session
+- Øvelser i små grupper (3–4 spillere)
+- Videoanalyse av mentale mønstre
+- Trykkscenarier
+- Kveldsdebriefing
 
-#### Sunday: Competition & Integration (Full Day)
-**Morning (3 hours):** Tournament play
-**Afternoon (2 hours):** Final rounds
-**Evening (1 hour):** Closing reflection
+#### Søndag: Konkurranse og integrering (heldag)
+**Morgen (3 timer):** Turneringsspill
+**Ettermiddag (2 timer):** Finalerunder
+**Kveld (1 time):** Avsluttende refleksjon
 
-**You'll Apply:**
-- All mental tools in competition
-- Team protocols under pressure
-- Mistake recovery in real time
-- Post-game reflection process
+**Du søker:**
+- Alle mentale verktøy i konkurranse
+- Teamprotokoller under press
+- Feilgjenoppretting i sanntid
+- Refleksjonsprosess etter kampen
 
-### What to Bring
+### Hva du skal ta med
 
-**Required:**
-- Your boules and equipment
-- Comfortable clothing for all weather
-- Notebook and pen
-- Open mind and willingness to share
-- Water bottle
+**Påkrevd:**
+- Dine bouler og utstyr
+- Komfortable klær for all slags vær
+- Notisbok og penn
+- Åpent sinn og vilje til å dele
+- Vannflaske
 
-**Optional:**
-- Training diary
-- Questions about specific mental challenges
-- Examples of pressure situations you face
+**Valgfri:**
+- Treningsdagbok
+- Spørsmål om spesifikke mentale utfordringer
+- Eksempler på pressede situasjoner du står overfor
 
-**Not Needed:**
-- Technical coaching requests (this is mental game focused)
-- Ego or need to prove yourself
-- Judgment of others
+**Ikke nødvendig:**
+- Forespørsler om teknisk coaching (dette er mentalt spillfokusert)
+- Ego eller behov for å bevise deg selv
+- Andres dom
 
-### Ground Rules for the Weekend
+### Grunnregler for helgen
 
-::: tip The Container
-All participants agree to:
-1. **Confidentiality** - What's shared stays here
-2. **Respect** - Honor others' vulnerability
-3. **Participation** - Engage fully in all activities
-4. **Growth Mindset** - Embrace discomfort as learning
-5. **Support** - Help teammates apply concepts
+::: tip Beholderen
+Alle deltakerne samtykker i:
+1. **Konfidensialitet** – Det som deles forblir her
+2. **Respekt** - Vis respekt for andres sårbarhet
+3. **Deltakelse** - Engasjer deg fullt ut i alle aktiviteter
+4. **Veksttankegang** - Omfavn ubehag som læring
+5. **Støtte** – Hjelp lagkamerater med å anvende konsepter
 :::
 
-### What You'll Leave With
+### Det du sitter igjen med
 
-**Knowledge:**
-- Deep understanding of your mental patterns
-- Practical tools for pressure management
-- Team protocols for competition
-- Personalized pre-shot routine
+**Kunnskap:**
+- Dyp forståelse av dine mentale mønstre
+- Praktiske verktøy for trykkhåndtering
+- Lagprotokoller for konkurranser
+- Personlig rutine før bruk
 
-**Skills:**
-- Ability to access flow states
-- Mistake recovery techniques
-- Inner Coach reframing
-- Focus anchors
+**Ferdigheter:**
+- Mulighet for å få tilgang til flyttilstander
+- Teknikker for feilgjenoppretting
+- Indre coach-omformulering
+- Fokusankere
 
-**Connection:**
-- Deeper bonds with teammates
-- Shared language for mental game
-- Support network for continued growth
+**Forbindelse:**
+- Dypere bånd med lagkamerater
+- Felles språk for mentalt spill
+- Støttenettverk for fortsatt vekst
 
-**Materials:**
-- Completed worksheets and exercises
-- Video analysis of your mental patterns
-- Action plan for next 30 days
-- Access to all education modules
+**Materialer:**
+- Fullførte arbeidsark og øvelser
+- Videoanalyse av dine mentale mønstre
+- Handlingsplan for de neste 30 dagene
+- Tilgang til alle utdanningsmoduler
 
-### Typical Schedule
+### Typisk timeplan
 
-**Friday:**
-- 18:00 - Arrival and check-in
-- 19:00 - Dinner
-- 20:00 - Opening session (theory)
-- 23:00 - Free time / rest
+**Fredag:**
+- 18:00 - Ankomst og innsjekking
+- 19:00 - Middag
+- 20:00 - Åpningsøkt (teori)
+- 23:00 - Fritid / hvile
 
-**Saturday:**
-- 08:00 - Breakfast
-- 09:00 - Morning practice session
-- 12:00 - Lunch
-- 13:30 - Afternoon practice session
-- 17:00 - Break
-- 18:00 - Dinner
-- 19:30 - Evening reflection session
-- 21:00 - Free time / rest
+**Lørdag:**
+- 08:00 - Frokost
+- 09:00 - Morgentrening
+- 12:00 - Lunsj
+- 13:30 - Ettermiddagstrening
+- 17:00 - Pause
+- 18:00 - Middag
+- 19:30 - Refleksjonssesjon på kvelden
+- 21:00 - Fritid / hvile
 
-**Sunday:**
-- 08:00 - Breakfast
-- 09:00 - Tournament begins
-- 12:00 - Lunch
-- 13:00 - Final rounds
-- 15:00 - Awards and recognition
-- 16:00 - Closing circle
-- 17:00 - Departure
+**Søndag:**
+- 08:00 - Frokost
+- 09:00 - Turneringen starter
+- 12:00 - Lunsj
+- 13:00 - Finalerunder
+- 15:00 - Priser og anerkjennelse
+- 16:00 - Sirkelslutt
+- 17:00 - Avreise
 
 
 ---
 
-## For Organizers
+## For arrangører
 
-### Planning Overview
+### Planleggingsoversikt
 
-This section provides everything you need to organize and run a successful weekend training camp for 10-20 players.
+Denne delen inneholder alt du trenger for å organisere og gjennomføre en vellykket helgetreningsleir for 10–20 spillere.
 
-### Pre-Camp Planning (6-8 Weeks Before)
+### Planlegging før leir (6–8 uker før)
 
-### Group Size & Structure
+### Gruppestørrelse og -struktur
 
-**Optimal:** 10-20 players
-- **Small camp (10-12):** More intimate, deeper sharing
-- **Large camp (16-20):** More diverse perspectives, requires sub-groups
+**Optimal:** 10–20 spillere
+- **Liten leir (10–12):** Mer intimt, dypere deling
+- **Stor leir (16–20):** Mer mangfoldige perspektiver, krever undergrupper
 
-**Team Structure:**
-- Divide into teams of 3-4 for practice and competition
-- Mix skill levels and playing styles
-- Rotate teams throughout weekend
+**Lagstruktur:**
+- Del inn i lag på 3-4 for trening og konkurranse
+- Bland ferdighetsnivåer og spillestiler
+- Roter lagene gjennom helgen
 
-### Staffing Requirements
+### Bemanningskrav
 
-| Role | Responsibilities | Quantity |
+| Rolle | Ansvar | Mengde |
 |------|------------------|----------|
-| **Mental Performance Coordinator** | Facilitate theory sessions, group dynamics | 1 |
-| **Technical Coach** | Oversee practice, provide feedback | 1-2 |
-| **Competition Director** | Run tournament, manage logistics | 1 |
-| **Support Staff** | Meals, setup, admin | 1-2 |
+| **Koordinator for mental ytelse** | Tilrettelegge teoriøkter, gruppedynamikk | 1 |
+| **Teknisk trener** | Overvåke praksis, gi tilbakemeldinger | 1-2 |
+| **Konkurransedirektør** | Gjennomfør turnering, administrer logistikk | 1 |
+| **Støttepersonell** | Måltider, oppsett, administrasjon | 1-2 |
 
-### Location Requirements
+### Krav til plassering
 
-::: info Facility Needs
-**Piste:**
-- Multiple terrains (minimum 3-4 pistes)
-- Different surfaces if possible (gravel, sand, hard)
-- Lighting for evening play
+::: info Fasilitetsbehov
+**Løype:**
+- Flere terreng (minimum 3-4 løyper)
+- Ulike underlag hvis mulig (grus, sand, hardt)
+- Belysning for kveldslek
 
-**Indoor Space:**
-- Room for 20 people in circle (theory sessions)
-- Separate from piste
-- Whiteboard/projector
-- Comfortable seating
+**Innendørsrom:**
+- Plass til 20 personer i sirkel (teoriøkter)
+- Separat fra løypa
+- Tavle/projektor
+- Komfortable sitteplasser
 
-**Accommodation:**
-- On-site or nearby (walking distance)
-- Shared rooms encourage bonding
-- Quiet space for reflection
+**Overnatting:**
+- På stedet eller i nærheten (gangavstand)
+- Delte rom oppmuntrer til tilknytning
+- Stille rom for refleksjon
 
 **Catering:**
-- Nutrition-focused meals (see [Food Guide](./food))
-- Avoid sugar crashes
-- Hydration stations
+- Næringsfokuserte måltider (se [Matguide](./food))
+- Unngå sukkerkrasj
+- Drikkestasjoner
 :::
 
-### Materials Checklist
+### Sjekkliste for materialer
 
-::: details Complete Materials List
-**Theory Sessions:**
-- [ ] Chairs for circle (no tables)
-- [ ] Boules and cochonnet for center
-- [ ] Flip charts and markers
-- [ ] Sticky notes
-- [ ] Worksheets (User Manual, Inner Critic, etc.)
-- [ ] Paper and pens
-- [ ] Projector (for website content)
+::: details Komplett materialliste
+**Teoriøkter:**
+- [ ] Stoler til sirkel (ingen bord)
+- [ ] Boule og cochonett for senter
+- [ ] Flipover og tusjer
+- [ ] Klistrelapper
+- [ ] Arbeidsark (brukermanual, indre kritiker, osv.)
+- [ ] Papir og penner
+- [ ] Projektor (for nettstedsinnhold)
 
-**Practice Sessions:**
-- [ ] Measuring tape
-- [ ] Cones/markers for drills
-- [ ] Video camera/tripod
-- [ ] Clipboard and paper (tracking)
-- [ ] Whistle
+**Øvingsøkter:**
+- [ ] Målebånd
+- [ ] Kjegler/markører for øvelser
+- [ ] Videokamera/stativ
+- [ ] Utklippstavle og papir (sporing)
+- [ ] Plystre
 
-**Competition:**
-- [ ] Score sheets
-- [ ] Tournament bracket
-- [ ] Prizes/recognition
-- [ ] First aid kit
+**Konkurranse:**
+- [ ] Poenglister
+- [ ] Turneringsbrakett
+- [ ] Premier/anerkjennelse
+- [ ] Førstehjelpsskrin
 
-**Logistics:**
-- [ ] Name tags
-- [ ] Participant list with contacts
-- [ ] Emergency contact info
-- [ ] Water bottles
-- [ ] Sunscreen
-- [ ] Tissues (for emotional work!)
+**Logistikk:**
+- [ ] Navneskilt
+- [ ] Deltakerliste med kontakter
+- [ ] Kontaktinformasjon i nødstilfeller
+- [ ] Vannflasker
+- [ ] Solkrem
+- [ ] Vev (for emosjonelt arbeid!)
 :::
 
-## Weekend Schedule
+## Helgeplan
 
-### Friday Evening (3 hours)
+### Fredag kveld (3 timer)
 
-**18:00-18:30 - Arrival & Welcome**
-- Check-in
-- Room assignments
-- Overview of weekend
+**18:00–18:30 – Ankomst og velkomst**
+- Innsjekking
+- Romtildelinger
+- Oversikt over helgen
 
-**18:30-19:30 - Dinner**
-- Nutrition-focused meal
-- Informal introductions
+**18:30–19:30 – Middag**
+- Ernæringsfokusert måltid
+- Uformelle introduksjoner
 
-**19:30-22:30 - Theory Session: Foundation**
+**19:30–22:30 – Teoriøkt: Grunnleggende**
 
-Use the [Workshop guide](./workshop) for detailed facilitation:
+Bruk [Workshop-guiden](./workshop) for detaljert veiledning:
 
-1. **Ground Rules (15 min)** - Establish psychological safety
-2. **Check-In Matrix (20 min)** - Assess group energy
-3. **The Iceberg (30 min)** - Explore inner thoughts
-4. **User Manual (45 min)** - Build team understanding
-5. **Fear in a Hat (45 min)** - Break isolation
-6. **Check-Out (15 min)** - Close the loop
+1. **Grunnregler (15 min)** - Etabler psykologisk trygghet
+2. **Innsjekkingsmatrise (20 min)** - Vurder gruppens energi
+3. **Isfjellet (30 min)** - Utforsk indre tanker
+4. **Brukermanual (45 min)** – Bygg teamforståelse
+5. **Frykt i en hatt (45 min)** - Bryt isolasjonen
+6. **Utsjekking (15 min)** - Slutt på sirkelen
 
-**22:30 - Free Time**
-- Informal socializing
-- Rest and reflection
+**22:30 - Fritid**
+- Uformell sosialisering
+- Hvile og refleksjon
 
 ```mermaid
 graph TD
-    A[Friday Theory] --> B[Psychological Safety]
-    B --> C[Self-Awareness]
-    C --> D[Team Understanding]
-    D --> E[Ready for Practice]
+    A[Fredagsteori] --> B[Psykologisk sikkerhet]
+    B --> C[Selvinnsikt]
+    C --> D[Teamforståelse]
+    D --> E[Klar for øvelse]
 
     style A fill:#fff4e1
     style E fill:#e8f5e9
@@ -307,436 +307,436 @@ graph TD
 
 
 
-### Saturday (Full Day - Theory + Practice)
+### Lørdag (heldag - teori + praksis)
 
-**08:00-09:00 - Breakfast & Mindfulness**
-- Quiet breakfast
-- Optional 15-minute guided meditation
-- Set intentions for the day
+**08:00–09:00 – Frokost og mindfulness**
+- Rolig frokost
+- Valgfri 15-minutters guidet meditasjon
+- Sett intensjoner for dagen
 
-**09:00-10:30 - Theory Session: Connecting Content to Experience**
+**09:00–10:30 – Teoriøkt: Koble innhold til opplevelse**
 
-Choose 3-4 topics from the Academy website and explore the inner game:
+Velg 3–4 emner fra akademiets nettside og utforsk det indre spillet:
 
-**Example Topics:**
+**Eksempler på emner:**
 
-1. **[Nutrition](./education/nutrition/)** (20 min)
-   - "How does your food choice change under pressure?"
-   - "Do you eat what your body needs or what your anxiety wants?"
-   - Practice: Plan competition-day nutrition
+1. **[Ernæring](./utdanning/ernæring/)** (20 min)
+   - «Hvordan endrer matvalget ditt seg under press?»
+   - &quot;Spiser du det kroppen din trenger, eller det angsten din vil ha?&quot;
+   - Øvelse: Planlegg ernæring på konkurransedagen
 
-2. **[Mental Strength](./education/mental-game/mental-strength/)** (25 min)
-   - "What's your relationship with failure?"
-   - "How do you talk to yourself after a miss?"
-   - Activity: Reframe Inner Critic to Inner Coach
+2. **[Mental styrke](./utdanning/mentalt-spill/mental-styrke/)** (25 min)
+   - &quot;Hva er ditt forhold til fiasko?&quot;
+   - «Hvordan snakker du til deg selv etter en bom?»
+   - Aktivitet: Omformuler indre kritiker til indre coach
 
-3. **[Mindfulness](./education/mental-game/mindfulness/)** (25 min)
-   - "Where does your mind go during the pause before throwing?"
-   - "What pulls you out of the present moment?"
-   - Practice: 5-minute body scan
+3. **[Mindfulness](./utdanning/mentalt-spill/mindfulness/)** (25 min)
+   - «Hvor går tankene dine i pausen før du kaster?»
+   - «Hva trekker deg ut av nåtiden?»
+   - Øvelse: 5-minutters kroppsskanning
 
-4. **[Tactics](./education/technique/tactics/)** (20 min)
-   - "Is your shot choice based on strategy or fear?"
-   - "When do you play it safe vs. take risks?"
-   - Discuss: Risk profiles in the group
+4. **[Taktikk](./utdanning/teknikk/taktikk/)** (20 min)
+   - «Er skuddvalget ditt basert på strategi eller frykt?»
+   - &quot;Når spiller du det trygt kontra å ta risikoer?&quot;
+   - Diskuter: Risikoprofiler i gruppen
 
-**10:30-10:45 - Break**
+**10:30–10:45 – Pause**
 
-**10:45-12:30 - On-Piste Integration: Drills with Mental Focus**
+**10:45–12:30 – Integrering i løypa: Øvelser med mentalt fokus**
 
-**Drill 1: Call Your Shot (30 min)**
+**Øvelse 1: Ta din sjanse (30 min)**
 
-From the [Workshop guide](./workshop) - practice owning intention and doubt:
+Fra [Workshop-guiden](./workshop) – øv på å eie intensjon og tvil:
 
-1. Announce the target: "I am shooting the iron"
-2. State confidence: "I am a 7 out of 10"
-3. Name the inner thought: "My inner voice is worrying about backspin"
-4. Execute the shot
-5. Reflect: "What happened? What did you learn?"
+1. Kunngjør målet: «Jeg skyter med jernet»
+2. Statens tillit: «Jeg får 7 av 10»
+3. Navngi den indre tanken: «Min indre stemme bekymrer seg for bakspinn»
+4. Utfør skuddet
+5. Reflekter: «Hva skjedde? Hva lærte du?»
 
-**Drill 2: Cognitive Interference (30 min)**
+**Øvelse 2: Kognitiv interferens (30 min)**
 
-Test if technique has become automatic:
-- Coordinator asks complex questions while player shoots
-- "Name 5 capital cities" or "Count backwards from 100 by 7s"
-- Success = technique is implicit, not consciously processed
+Test om teknikken har blitt automatisk:
+- Koordinator stiller komplekse spørsmål mens spilleren skyter
+- «Nevn 5 hovedsteder» eller «Tell baklengs fra 100 med 7-tallet»
+- Suksess = teknikk er implisitt, ikke bevisst bearbeidet
 
-**Drill 3: User Manual Practice (30 min)**
+**Øvelse 3: Brukermanualøvelse (30 min)**
 
-Apply the User Manuals from Friday:
-- Play in teams of 3
-- After each shot, teammates respond according to User Manual
-- "Marc needs silence after a miss" - team honors that
-- Debrief: "How did it feel to be understood?"
+Bruk brukerhåndbøkene fra fredag:
+- Spill i lag på 3
+- Etter hvert skudd svarer lagkameratene i henhold til brukerhåndboken
+- «Marc trenger stillhet etter en bom» – laget ærer det
+- Oppsummering: «Hvordan føltes det å bli forstått?»
 
-**12:30-14:00 - Lunch & Rest**
-- Nutrition-focused meal
-- Quiet time for reflection
-- Optional: Individual check-ins with coordinator
+**12:30–14:00 – Lunsj og hvile**
+- Ernæringsfokusert måltid
+- Stille tid for refleksjon
+- Valgfritt: Individuelle innsjekkinger med koordinator
 
-**14:00-17:00 - Practice Session: Terrain Adaptation**
+**14:00–17:00 – Øving: Terrengtilpasning**
 
-**Goal:** Build adaptability and mental flexibility
+**Mål:** Bygge tilpasningsevne og mental fleksibilitet
 
-**Setup:**
-- Rotate through 3-4 different terrains/pistes
-- 45 minutes per terrain
-- Focus on mental adaptation, not just technical
+**Oppsett:**
+- Roter gjennom 3-4 forskjellige terreng/løyper
+- 45 minutter per terreng
+- Fokus på mental tilpasning, ikke bare teknisk
 
-**Rotation Structure:**
+**Rotasjonsstruktur:**
 
-| Terrain | Mental Focus | Practice |
+| Terreng | Mentalt fokus | Øvelse |
 |---------|--------------|----------|
-| **Terrain 1: Soft/Sand** | Acceptance of uncertainty | "The donnée - accept what is" |
-| **Terrain 2: Hard/Gravel** | Precision under pressure | "Trust your technique" |
-| **Terrain 3: Uneven** | Emotional regulation | "Stay calm when it's unfair" |
-| **Terrain 4: Competition** | Flow state access | "Find the zone" |
+| **Terreng 1: Mykt/sand** | Aksept av usikkerhet | &quot;Den uskyldige - aksepter det som er&quot; |
+| **Terreng 2: Hardt/Gruset** | Presisjon under press | &quot;Stol på teknikken din&quot; |
+| **Terreng 3: Ujevnt** | Emosjonell regulering | &quot;Hold deg rolig når det er urettferdig&quot; |
+| **Terreng 4: Konkurranse** | Tilgang til flyttilstand | &quot;Finn sonen&quot; |
 
-**Facilitation:**
-- Technical coach provides feedback on technique
-- MPC asks: "What's happening in your mind right now?"
-- Players journal between rotations
+**Tilrettelegging:**
+- Teknisk trener gir tilbakemelding på teknikk
+- MPC spør: «Hva skjer i tankene dine akkurat nå?»
+- Spillerjournal mellom rotasjoner
 
-**17:00-18:00 - Break & Reflection**
-- Individual journaling
-- "What did you learn about yourself today?"
-- "What's one thing you'll do differently tomorrow?"
+**17:00–18:00 – Pause og refleksjon**
+- Individuell journalføring
+- &quot;Hva lærte du om deg selv i dag?&quot;
+- «Hva er én ting du vil gjøre annerledes i morgen?»
 
-**18:00-19:00 - Dinner**
+**18:00–19:00 – Middag**
 
-**19:00-21:00 - Evening Theory: Deep Vulnerability**
+**19:00–21:00 – Kveldsteori: Dyp sårbarhet**
 
-**Activity 1: Reframing the Inner Critic (45 min)**
+**Aktivitet 1: Å omformulere den indre kritikeren (45 min)**
 
-See [Workshop guide](./workshop) for full protocol:
-1. Identify the exact Critic phrase
-2. Reframe as Inner Coach
-3. Partner practice
+Se [Verkstedsveiledning](./workshop) for fullstendig protokoll:
+1. Identifiser den nøyaktige kritikerfrasen
+2. Omformuler som indre coach
+3. Partnerpraksis
 
-**Activity 2: Competition Preparation (45 min)**
+**Aktivitet 2: Konkurranseforberedelse (45 min)**
 
-Tomorrow is competition day. Prepare mentally:
+I morgen er det konkurransedag. Forbered deg mentalt:
 
-1. **Visualization (15 min)**
-   - Close eyes
-   - Imagine perfect shot
-   - Feel the confidence
-   - Notice the calm
+1. **Visualisering (15 min)**
+   - Lukk øynene
+   - Tenk deg et perfekt skudd
+   - Føl selvtilliten
+   - Legg merke til roen
 
-2. **Team Protocols (20 min)**
-   - Create signals for support
-   - "I need a reset" = touch boules
-   - "I need encouragement" = fist bump
-   - "I need space" = step back
+2. **Teamprotokoller (20 min)**
+   - Lag signaler for støtte
+   - «Jeg trenger en tilbakestilling» = berør boules
+   - «Jeg trenger oppmuntring» = knyttnevestøt
+   - «Jeg trenger plass» = et skritt tilbake
 
-3. **Set Intentions (10 min)**
-   - "Tomorrow, I will focus on..."
-   - "My goal is not to win, but to..."
-   - "I will practice..."
+3. **Sett intensjoner (10 min)**
+   - &quot;I morgen skal jeg fokusere på...&quot;
+   - «Målet mitt er ikke å vinne, men å ...»
+   - &quot;Jeg skal øve...&quot;
 
-**Check-Out (30 min)**
-- Share one fear about tomorrow
-- Share one intention
-- Group support
+**Utsjekking (30 min)**
+- Del én frykt om morgendagen
+- Del én intensjon
+- Gruppestøtte
 
-**21:00 - Free Time**
-- Early to bed (competition tomorrow!)
-- Quiet reflection
+**21:00 - Fritid**
+- Tidlig i seng (konkurranse i morgen!)
+- Stille refleksjon
 
-### Sunday (Competition Day)
+### Søndag (konkurransedag)
 
-**08:00-09:00 - Breakfast & Mental Preparation**
-- Light breakfast (see [Nutrition guide](./education/nutrition/))
-- 15-minute mindfulness practice
-- Team huddles
+**08:00–09:00 – Frokost og mental forberedelse**
+- Lett frokost (se [Ernæringsveiledning](./education/nutrition/))
+- 15-minutters mindfulness-øvelse
+- Teammøter
 
-**09:00-09:30 - Competition Briefing**
+**09:00–09:30 – Konkurransebriefing**
 
-**Format:** Round-robin tournament
-- Teams of 3
-- Play to 13 points
-- Everyone plays everyone
-- Focus on PROCESS, not outcome
+**Format:** Round-robin-turnering
+- Lag på 3
+- Spill til 13 poeng
+- Alle spiller alle
+- Fokuser på PROSESS, ikke resultat
 
-**The Twist: Mental Performance Scoring**
+**Twist: Mental ytelsespoengsum**
 
-::: tip Dual Scoring System
-**Traditional:** Points won
-**Mental Performance:** Scored by MPC
+::: tip Dobbelt poengsystem
+**Tradisjonell:** Poeng vunnet
+**Mental ytelse:** Poengbedømmelse fra MPC
 
-Mental Performance Points (0-5 per game):
-- Used User Manual tools
-- Supported teammates effectively
-- Managed inner critic
-- Stayed present (not dwelling on past shots)
-- Demonstrated psychological safety
+Mentale prestasjonspoeng (0–5 per kamp):
+- Brukte brukerhåndbokverktøy
+- Støttet lagkamerater effektivt
+- Håndtert indre kritiker
+- Forble til stede (ikke dvelende ved tidligere bilder)
+- Demonstrert psykologisk trygghet
 
-**Winner:** Best combined score (traditional + mental)
+**Vinner:** Beste kombinerte poengsum (tradisjonell + mental)
 :::
 
-**09:30-13:00 - Morning Competition**
-- Round-robin games
-- MPC observes and scores
-- Technical coach provides brief feedback between games
-- Hydration and snack breaks
+**09:30–13:00 – Morgenkonkurranse**
+- Round-robin-spill
+- MPC observerer og scorer
+- Teknisk trener gir kort tilbakemelding mellom kampene
+- Hydrering og mellommåltidpauser
 
-**13:00-14:00 - Lunch**
-- Nutrition-focused
-- Informal reflection
-- Rest
+**13:00–14:00 – Lunsj**
+- Ernæringsfokusert
+- Uformell refleksjon
+- Hvile
 
-**14:00-17:00 - Afternoon Competition**
-- Continue round-robin
-- Semi-finals and finals
-- Increasing pressure
-- Apply morning learnings
+**14:00–17:00 – Ettermiddagskonkurranse**
+- Fortsett runde-robin
+- Semifinaler og finaler
+- Økende press
+- Bruk morgenlærdommene
 
-**17:00-17:30 - Awards & Recognition**
+**17:00–17:30 – Priser og anerkjennelse**
 
-**Categories:**
-- Traditional winner
-- Mental performance winner
-- Most improved
-- Best teammate
-- Courage award (most vulnerable)
+**Kategorier:**
+- Tradisjonell vinner
+- Vinner av mental ytelse
+- Mest forbedret
+- Beste lagkamerat
+- Motpris (mest sårbare)
 
-**17:30-19:00 - Final Reflection Session**
+**17:30–19:00 – Avsluttende refleksjonsøkt**
 
-**Critical:** This is where learning is cemented.
+**Kritisk:** Det er her læring sementeres.
 
-**Structure:**
+**Struktur:**
 
-**1. Individual Reflection (15 min)**
-Write in journal:
-- What did you learn about yourself this weekend?
-- What surprised you?
-- What will you do differently?
-- What are you taking home?
+**1. Individuell refleksjon (15 min)**
+Skriv i journalen:
+- Hva lærte du om deg selv i helgen?
+- Hva overrasket deg?
+- Hva vil du gjøre annerledes?
+- Hva tar du med deg hjem?
 
-**2. Small Group Sharing (30 min)**
-Groups of 4-5:
-- Share key insights
-- What resonated most?
-- What was hardest?
-- What was most valuable?
+**2. Gruppedeling i liten gruppe (30 min)**
+Grupper på 4-5:
+- Del viktig innsikt
+- Hva resonnerte mest?
+- Hva var vanskeligst?
+- Hva var mest verdifullt?
 
-**3. Full Group Integration (30 min)**
-Circle up:
-- Each person shares ONE key takeaway
-- MPC validates and connects themes
-- Discuss: "How will you apply this?"
+**3. Full gruppeintegrasjon (30 min)**
+Ring opp:
+- Hver person deler ÉN viktig lærdom
+- MPC validerer og kobler sammen temaer
+- Diskuter: «Hvordan vil dere anvende dette?»
 
-**4. Commitments (15 min)**
-- Each person states one commitment
-- "In my next competition, I will..."
-- Group witnesses and supports
+**4. Forpliktelser (15 min)**
+- Hver person forplikter seg til én ting
+- &quot;I min neste konkurranse skal jeg...&quot;
+- Gruppevitner og støttespillere
 
-**5. Closing (15 min)**
-- Thank participants for courage
-- Remind of confidentiality
-- Exchange contacts
-- Plan follow-up (optional online session)
+**5. Avslutning (15 min)**
+- Takk deltakerne for motet
+- Minn om taushetsplikt
+- Utveksle kontakter
+- Planlegg oppfølging (valgfri nettbasert økt)
 
-**19:00 - Dinner & Departure**
+**19:00 - Middag og avreise**
 
 
-## Facilitation Tips
+## Tips for tilrettelegging
 
-### Balancing Theory and Practice
+### Balansering av teori og praksis
 
-::: warning Don't Overload Theory
-**The mistake:** Too much talking, not enough doing
+::: warning Ikke overbelast teorien
+**Feilen:** For mye snakk, ikke nok handling
 
-**The balance:**
-- Theory creates awareness
-- Practice builds skill
-- Competition tests integration
-- Reflection cements learning
+**Saldoen:**
+- Teori skaper bevissthet
+- Øvelse bygger ferdigheter
+- Integrering av konkurransetester
+- Refleksjon sementerer læring
 
-**Rule of thumb:** 30% theory, 40% practice, 20% competition, 10% reflection
+**Tommelfingerregel:** 30 % teori, 40 % praksis, 20 % konkurranse, 10 % refleksjon
 :::
 
-### Managing Group Dynamics
+### Håndtering av gruppedynamikk
 
-**The Competitive Alpha:**
-- Wants to win at all costs
-- Resists vulnerability
-- **Strategy:** Channel competitiveness into mental performance scoring
+**Den konkurransedyktige alfaen:**
+- Vil vinne for enhver pris
+- Motstår sårbarhet
+- **Strategi:** Kanaliser konkurranseevne inn i mental prestasjonsscoring
 
-**The Quiet Observer:**
-- Takes it all in, doesn't share
-- **Strategy:** Create low-stakes entry points, validate observation as participation
+**Den stille observatøren:**
+- Tar alt inn, deler ikke
+- **Strategi:** Lag inngangspunkter med lav innsats, valider observasjon som deltakelse
 
-**The Skeptic:**
-- "This touchy-feely stuff doesn't work"
-- **Strategy:** Verbal Aikido - align and pivot (see [Workshop guide](./workshop))
+**Skeptikeren:**
+- &quot;Denne følsomme greia fungerer ikke&quot;
+- **Strategi:** Verbal Aikido – innrett og drei (se [Workshop-guide](./workshop))
 
-**The Over-Sharer:**
-- Dominates discussion
-- **Strategy:** "Thank you, let's hear from others"
+**Overdeleren:**
+- Dominerer diskusjonen
+- **Strategi:** «Takk, la oss høre fra andre»
 
-### Handling Emotional Moments
+### Håndtering av emosjonelle øyeblikk
 
-**Someone cries during Fear in a Hat:**
-- ✅ Normalize: "Tears are courage, not weakness"
-- ✅ Offer tissue, don't rush
-- ✅ Ask: "What do you need right now?"
-- ❌ Don't: "It's okay, don't cry"
+**Noen gråter under Frykt i hatten:**
+- ✅ Normaliser: «Tårer er mot, ikke svakhet»
+- ✅ Tilby papirservietter, ikke forhast deg
+- ✅ Spør: «Hva trenger du akkurat nå?»
+- ❌ Ikke gjør: «Det er greit, ikke gråt»
 
-**Conflict between players:**
-- ✅ Pause and address
-- ✅ "What's happening right now?"
-- ✅ Use as learning moment
-- ❌ Don't: Ignore or minimize
+**Konflikt mellom spillere:**
+- ✅ Pause og adressere
+- ✅ &quot;Hva skjer akkurat nå?&quot;
+- ✅ Bruk som læringsøyeblikk
+- ❌ Ikke: Ignorer eller minimer
 
-**Someone shuts down:**
-- ✅ Check in privately during break
-- ✅ "I noticed you went quiet. What's up?"
-- ✅ Offer options: participate differently, take a break
-- ❌ Don't: Call out publicly
+**Noen slår av:**
+- ✅ Sjekk inn privat i pausen
+- ✅ «Jeg la merke til at du ble stille. Hva skjer?»
+- ✅ Tilbudsalternativer: delta annerledes, ta en pause
+- ❌ Ikke: Ring ut offentlig
 
-## Post-Camp Follow-Up
+## Oppfølging etter leiren
 
-### Immediate (24-48 hours)
+### Umiddelbar (24–48 timer)
 
-**Send to all participants:**
-- Thank you message
-- Key takeaways summary
-- Photos from weekend
-- Contact list (with permission)
-- Link to resources on website
+**Send til alle deltakere:**
+- Takkemelding
+- Sammendrag av viktige poenger
+- Bilder fra helgen
+- Kontaktliste (med tillatelse)
+- Lenke til ressurser på nettsiden
 
-**Individual check-ins:**
-- Text anyone who shared heavily
-- "How are you feeling about the weekend?"
-- Address any vulnerability hangover
+**Individuelle innsjekkinger:**
+- Send melding til alle som delte mye
+- &quot;Hvordan føler du deg om helgen?&quot;
+- Ta tak i eventuelle sårbarhetsbakgrunner
 
-### Short-term (2 weeks)
+### Kortsiktig (2 uker)
 
-**Optional online session (60-90 min):**
-- How have you applied learnings?
-- What's working? What's challenging?
-- Peer support and problem-solving
-- Reinforce commitments
+**Valgfri nettbasert økt (60–90 min):**
+- Hvordan har du anvendt lærdommene?
+- Hva fungerer? Hva er utfordrende?
+- Likemannsstøtte og problemløsning
+- Forsterk forpliktelsene
 
-### Long-term (1-3 months)
+### Langsiktig (1–3 måneder)
 
-**Survey participants:**
-- What's different in your game?
-- What tools are you still using?
-- What would make the next camp better?
-- Would you recommend to others?
+**Deltakere i undersøkelsen:**
+- Hva er annerledes i spillet ditt?
+- Hvilke verktøy bruker du fortsatt?
+- Hva ville gjort den neste leiren bedre?
+- Ville du anbefalt til andre?
 
-**Track impact:**
-- Competition results
-- Self-reported confidence
-- Team dynamics
-- Continued engagement
+**Påvirkning av banen:**
+- Konkurranseresultater
+- Selvrapportert selvtillit
+- Teamdynamikk
+- Fortsatt engasjement
 
-## Adapting for Different Group Sizes
+## Tilpasning for ulike gruppestørrelser
 
-### Small Camp (10-12 players)
+### Liten leir (10–12 spillere)
 
-**Advantages:**
-- Deeper sharing
-- More individual attention
-- Stronger bonds
+**Fordeler:**
+- Dypere deling
+- Mer individuell oppmerksomhet
+- Sterkere bånd
 
-**Adjustments:**
-- Single group for all theory
-- More time per person in activities
-- Intimate competition format
+**Justeringer:**
+- Enkelt gruppe for all teori
+- Mer tid per person til aktiviteter
+- Intimt konkurranseformat
 
-### Large Camp (16-20 players)
+### Stor leir (16–20 spillere)
 
-**Advantages:**
-- Diverse perspectives
-- More competition variety
-- Economies of scale
+**Fordeler:**
+- Ulike perspektiver
+- Mer variasjon i konkurranser
+- Stordriftsfordeler
 
-**Adjustments:**
-- Split into 2 groups for some theory sessions
-- Need 2 MPC/facilitators
-- Larger tournament bracket
-- More structured rotations
+**Justeringer:**
+- Del inn i to grupper for noen teoriøkter
+- Trenger 2 MPC/tilretteleggere
+- Større turneringsramme
+- Mer strukturerte rotasjoner
 
-## Budget Considerations
+## Budsjetthensyn
 
-### Revenue
+### Inntekter
 
-| Item | Price per Person | 20 People | 10 People |
+| Punkt | Pris per person | 20 personer | 10 personer |
 |------|------------------|-----------|-----------|
-| **Registration** | €150-250 | €3,000-5,000 | €1,500-2,500 |
+| **Registrering** | €150–250 | €3 000–5 000 | 1500–2500 euro |
 
-### Expenses
+### Utgifter
 
-| Category | Cost | Notes |
+| Kategori | Koste | Notater |
 |----------|------|-------|
-| **Facility rental** | €500-1,000 | Weekend rate |
-| **Accommodation** | €40-60/person/night | Shared rooms |
-| **Meals** | €30-40/person/day | 6 meals |
-| **Staff** | €500-1,000 | MPC + coaches |
-| **Materials** | €100-200 | Worksheets, supplies |
-| **Prizes** | €100-200 | Recognition items |
+| **Utleie av lokaler** | €500–1000 | Helgepris |
+| **Overnatting** | €40–60/person/natt | Delte rom |
+| **Måltider** | €30–40/person/dag | 6 måltider |
+| **Personale** | €500–1000 | MPC + trenere |
+| **Materialer** | €100–200 | Arbeidsark, rekvisita |
+| **Premier** | €100–200 | Anerkjennelseselementer |
 
-**Total per person:** €120-180
-**Margin:** €30-70/person (or break-even for community building)
+**Totalt per person:** €120–180
+**Margin:** €30–70/person (eller nullpunkt for fellesskapsbygging)
 
-## Success Metrics
+## Suksessmålinger
 
-### Immediate Indicators
+### Umiddelbare indikatorer
 
-- [ ] Psychological safety score (1-10 average >7)
-- [ ] Participation rate (>80% actively sharing)
-- [ ] Completion rate (>90% stay full weekend)
-- [ ] Satisfaction score (1-10 average >8)
+- [ ] Psykologisk sikkerhetspoengsum (gjennomsnitt 1–10 &gt;7)
+- [ ] Deltakelsesrate (&gt;80 % som deler aktivt)
+- [ ] Fullføringsgrad (&gt;90 % holder seg hele helgen)
+- [ ] Tilfredshetspoengsum (gjennomsnitt 1–10 &gt;8)
 
-### Long-term Indicators
+### Langsiktige indikatorer
 
-- [ ] Behavior change (using tools in competition)
-- [ ] Performance improvement (self-reported)
-- [ ] Community building (staying in touch)
-- [ ] Referrals (recommending to others)
+- [ ] Atferdsendring (ved bruk av verktøy i konkurranse)
+- [ ] Ytelsesforbedring (selvrapportert)
+- [ ] Fellesskapsbygging (holde kontakten)
+- [ ] Anbefalinger (anbefalinger til andre)
 
-## Common Mistakes to Avoid
+## Vanlige feil å unngå
 
-::: danger Pitfalls
-**1. Too much content**
-- Trying to cover everything
-- **Fix:** Focus on depth, not breadth
+::: danger Fallgruver
+**1. For mye innhold**
+- Prøver å dekke alt
+- **Rettelse:** Fokuser på dybde, ikke bredde
 
-**2. Skipping reflection**
-- Rushing to next activity
-- **Fix:** Build in processing time
+**2. Hoppe over refleksjon**
+- Skynder seg til neste aktivitet
+- **Rettelse:** Innebygd behandlingstid
 
-**3. Ignoring resistance**
-- Pushing through skepticism
-- **Fix:** Address it directly with Verbal Aikido
+**3. Ignorerer motstand**
+- Å presse seg gjennom skepsis
+- **Løsning:** Ta det opp direkte med verbal aikido
 
-**4. Technical coaching during theory**
-- Mixing roles
-- **Fix:** Clear boundaries between MPC and technical coach
+**4. Teknisk veiledning under teorien**
+- Blanding av roller
+- **Rettelse:** Tydelige grenser mellom MPC og teknisk trener
 
-**5. No follow-up**
-- Weekend ends, learning stops
-- **Fix:** Plan post-camp touchpoints
+**5. Ingen oppfølging**
+- Helgen er over, læringen stopper
+- **Rettelse:** Planlegg kontaktpunkter etter leiren
 :::
 
-## Resources
+## Ressurser
 
-### From This Site
+### Fra dette nettstedet
 
-- [Workshop Guide](./workshop) - Detailed facilitation protocols
-- [Training Session Guide](./training-session) - For ongoing practice
-- [Nutrition](./education/nutrition/) - Competition-day protocols
-- [Mental Strength](./education/mental-game/mental-strength/) - Inner game concepts
-- [Mindfulness](./education/mental-game/mindfulness/) - Presence techniques
-- [Tactics](./education/technique/tactics/) - Strategic thinking
+- [Workshopguide](./workshop) - Detaljerte tilretteleggingsprotokoller
+- [Veiledning for treningsøkt](./training-session) – For kontinuerlig trening
+- [Ernæring](./utdanning/ernæring/) - Protokoller for konkurransedagen
+- [Mental styrke](./utdanning/mental-spill/mental-styrke/) - Indre spillkonsepter
+- [Mindfulness](./utdanning/mentalt-spill/mindfulness/) - Nærværsteknikker
+- [Taktikk](./utdanning/teknikk/taktikk/) - Strategisk tenkning
 
-### Recommended Reading
+### Anbefalt lesning
 
-- *The Inner Game of Tennis* by Timothy Gallwey
-- *Mindset* by Carol Dweck
-- *The Fearless Organization* by Amy Edmondson
+- *Tennisens indre spill* av Timothy Gallwey
+- *Tankegang* av Carol Dweck
+- *Den fryktløse organisasjonen* av Amy Edmondson
 
 

@@ -3,83 +3,83 @@ title: Sleep & Recovery
 description: Optimize your sleep for peak pétanque performance. Learn sleep science, competition protocols, and habits for precision athletes.
 ---
 
-# Sleep & Recovery
+# Sommeil et récupération
 
-::: tip A Critical Performance Factor
-**Weight: 400 points** — Sleep is the most underrated factor in precision sports. Your hands, decisions, and emotions all depend on quality rest.
+::: tip Un facteur de performance critique
+**Poids : 400 points** — Le sommeil est le facteur le plus sous-estimé dans les sports de précision. Vos mains, vos décisions et vos émotions dépendent toutes d’un repos de qualité.
 :::
 
-## The Hidden Performance Edge
+## L&#39;avantage caché en matière de performance
 
-> "The player who slept better often wins."
+> « Le joueur qui a le mieux dormi gagne souvent. »
 
-In pétanque, unlike endurance sports where athletes can sometimes "push through" fatigue, **precision is non-negotiable**. Your ability to place a boule within centimeters of the cochonnet depends on systems that are exquisitely sensitive to sleep deprivation:
+À la pétanque, contrairement aux sports d&#39;endurance où les athlètes peuvent parfois surmonter la fatigue, la précision est primordiale. Votre capacité à placer une boule à quelques centimètres du cochonnet dépend de systèmes extrêmement sensibles au manque de sommeil :
 
-- Fine motor control
-- Decision-making under pressure
-- Emotional regulation
-- Memory consolidation
+- Contrôle de la motricité fine
+- Prise de décision sous pression
+- Régulation émotionnelle
+- Consolidation de la mémoire
 
-This module reveals why sleep may be your biggest untapped competitive advantage.
+Ce module révèle pourquoi le sommeil pourrait être votre plus grand avantage concurrentiel inexploité.
 
 ---
 
-## How Sleep Affects Your Game
+## Comment le sommeil influence votre jeu
 
-### Hand Steadiness & Motor Control
+### Stabilité de la main et contrôle moteur
 
-Research shows that fine motor control degrades **10-15% per hour of accumulated sleep debt**. For pétanque players, this manifests as:
+Des études montrent que la motricité fine se dégrade de **10 à 15 % par heure de manque de sommeil**. Chez les joueurs de pétanque, cela se traduit par :
 
-- **Increased micro-tremors** — Imperceptible to you, but affecting release consistency
-- **Reduced proprioception** — Less awareness of grip pressure and arm position
-- **Slower error correction** — Your body can't make the micro-adjustments that produce accuracy
+- **Augmentation des micro-tremblements** — Imperceptibles pour vous, mais affectant la régularité du lâcher
+- **Proprioception réduite** — Moins de conscience de la pression exercée sur la main et de la position du bras
+- **Correction d&#39;erreur plus lente** — Votre corps ne peut pas effectuer les micro-ajustements nécessaires à une précision optimale.
 
-::: warning Why Pointing Suffers First
-Pointing requires the finest motor control of any shot. It's often the first skill to degrade when you're under-slept—even when you "feel fine."
+::: warning Pourquoi la désignation des cibles souffre en premier
+Le tir exige une maîtrise motrice extrêmement précise. C&#39;est souvent la première compétence à se dégrader en cas de manque de sommeil, même lorsqu&#39;on se sent bien.
 :::
 
-### Decision-Making & Tactics
+### Prise de décision et tactiques
 
-Your prefrontal cortex—responsible for planning, risk assessment, and strategic thinking—is highly sensitive to sleep loss:
+Votre cortex préfrontal, responsable de la planification, de l&#39;évaluation des risques et de la pensée stratégique, est très sensible au manque de sommeil :
 
-- **Risk assessment becomes impaired** — You may attempt lower-percentage shots
-- **Tactical flexibility decreases** — Harder to adapt mid-game
-- **The "2am decision" phenomenon** — Choices that seem reasonable when tired look questionable in hindsight
+- **L&#39;évaluation des risques est altérée** — Vous pouvez tenter des tirs à plus faible pourcentage de réussite.
+- **La flexibilité tactique diminue** — Il est plus difficile de s&#39;adapter en cours de partie.
+- **Le phénomène des « décisions de 2 h du matin »** — Des choix qui paraissent raisonnables sur le moment semblent discutables avec le recul
 
-### Emotional Regulation
+### Régulation émotionnelle
 
-Sleep deprivation causes **hyperactivity in the amygdala**, your brain's emotional center:
+Le manque de sommeil provoque une **hyperactivité de l&#39;amygdale**, le centre émotionnel du cerveau :
 
-- Pressure feels more intense
-- Frustration after misses is amplified
-- Recovery from setbacks takes longer
-- Team dynamics can suffer from shortened tempers
+- La pression semble plus intense.
+- La frustration après les échecs est amplifiée.
+- Se remettre d&#39;un revers prend plus de temps.
+- La dynamique d&#39;équipe peut pâtir d&#39;un agacement général.
 
-### Memory Consolidation
+### Consolidation de la mémoire
 
-Motor memory consolidates during sleep—particularly during deep sleep phases:
+La mémoire motrice se consolide pendant le sommeil, en particulier pendant les phases de sommeil profond :
 
-- **Practice without sleep = limited retention**
-- **"Sleeping on it" actually works** for technique changes
-- The formula: **Quality Practice + Quality Sleep = Permanent Skill**
+- **S&#39;entraîner sans dormir = mémorisation limitée**
+- « La nuit de réflexion » fonctionne vraiment pour les changements de technique.
+- La formule : **Pratique de qualité + Sommeil de qualité = Compétence permanente**
 
 ---
 
-## The Sleep-Performance Connection
+## Le lien entre le sommeil et la performance
 
 ```mermaid
 flowchart TD
-    A[Sleep Quality] --> B[Hand Steadiness]
-    A --> C[Decision Making]
-    A --> D[Emotional Control]
-    A --> E[Physical Recovery]
+    A[Qualité du sommeil] --> B[Stabilité de la main]
+    A --> C[Prise de décision]
+    A --> D[Contrôle émotionnel]
+    A --> E[Récupération physique]
 
-    B --> F[Precision]
+    B --> F[Précision]
     C --> F
     D --> F
-    E --> G[Consistency Over Time]
+    E --> G[Cohérence au fil du temps]
 
-    F --> H[Match Performance]
+    F --> H[Performance du match]
     G --> H
 
     style A fill:#9C27B0,color:#fff
@@ -88,109 +88,109 @@ flowchart TD
 
 ---
 
-## The Sleep Debt Reality
+## La réalité de la dette de sommeil
 
-### What Is Sleep Debt?
+### Qu&#39;est-ce que la dette de sommeil ?
 
-Sleep debt is **cumulative**. Missing one hour of sleep doesn't just affect that day—it accumulates:
+La dette de sommeil est **cumulative**. Manquer une heure de sommeil n&#39;affecte pas seulement la journée en cours, elle s&#39;accumule :
 
-| Days | Hours Short | Total Debt | Performance Impact |
+| Jours | Heures courtes | Dette totale | Impact sur la performance |
 |------|-------------|------------|-------------------|
-| 1 | -1 hour | 1 hour | Minimal |
-| 3 | -1 hour/day | 3 hours | Noticeable |
-| 7 | -1 hour/day | 7 hours | Significant |
-| 14 | -1 hour/day | 14 hours | Severe |
+| 1 | -1 heure | 1 heure | Minimal |
+| 3 | -1 heure/jour | 3 heures | Perceptible |
+| 7 | -1 heure/jour | 7 heures | Significatif |
+| 14 | -1 heure/jour | 14 heures | Grave |
 
-::: danger The Weekend Myth
-You **cannot fully "catch up"** on weekends. While extra sleep helps, it doesn't erase accumulated debt. Consistency is more important than occasional long sleeps.
+::: danger Le mythe du week-end
+Il est impossible de rattraper complètement son retard le week-end. Dormir davantage est certes utile, mais cela n&#39;efface pas les dettes accumulées. La régularité est plus importante que de longues siestes occasionnelles.
 :::
 
-### How Much Do You Need?
+### De combien avez-vous besoin ?
 
-The "8 hours for everyone" is a myth. Individual needs vary:
+L&#39;idée des « 8 heures pour tout le monde » est un mythe. Les besoins individuels varient.
 
-- **Most adults:** 7-9 hours
-- **Some function well on:** 6-7 hours
-- **Some require:** 9+ hours
+- **La plupart des adultes :** 7 à 9 heures
+- **Certains fonctionnent bien pendant :** 6 à 7 heures
+- **Certains nécessitent :** 9 heures ou plus
 
-**Finding YOUR optimal sleep need:**
-1. During a vacation (no alarm), let yourself sleep naturally for 5-7 days
-2. After the initial "catch-up" phase, note how long you sleep
-3. That's likely close to your biological need
+**Trouver VOTRE besoin optimal en sommeil :**
+1. Pendant vos vacances (sans réveil), laissez-vous dormir naturellement pendant 5 à 7 jours.
+2. Après la phase initiale de « rattrapage », notez la durée de votre sommeil.
+3. Cela correspond probablement à peu près à vos besoins biologiques
 
 ---
 
-## The Science in Brief
+## La science en bref
 
-### Sleep Stages That Matter
+### Les phases du sommeil qui comptent
 
-| Stage | Function | Pétanque Relevance |
+| Scène | Fonction | Pertinence de la pétanque |
 |-------|----------|-------------------|
-| **Deep Sleep (N3)** | Physical recovery, growth hormone | Muscle recovery, energy restoration |
-| **REM Sleep** | Emotional processing, memory consolidation | Motor skill retention, emotional resilience |
-| **Light Sleep (N1-N2)** | Transition, maintenance | Supports overall architecture |
+| **Sommeil profond (N3)** | Récupération physique, hormone de croissance | Récupération musculaire, restauration de l&#39;énergie |
+| **Sommeil paradoxal** | Traitement émotionnel, consolidation de la mémoire | Maintien des habiletés motrices, résilience émotionnelle |
+| **Sommeil léger (N1-N2)** | Transition, maintenance | Soutient l&#39;architecture globale |
 
-### Key Research Findings
+### Principaux résultats de la recherche
 
-1. **Stanford Basketball Study** — Players who extended sleep to 10 hours improved free-throw accuracy by 9% (Mah et al., 2011)
-2. **Tennis Serve Accuracy** — Sleep restriction reduced serve accuracy by 53% (Reyner & Horne, 2013)
-3. **Reaction Time Meta-Analysis** — Even one night of poor sleep slows reaction time by 300% (Lim & Dinges, 2010)
+1. **Étude de basketball de Stanford** — Les joueurs qui ont prolongé leur sommeil à 10 heures ont amélioré leur précision aux lancers francs de 9 % (Mah et al., 2011).
+2. **Précision du service au tennis** — La restriction du sommeil a réduit la précision du service de 53 % (Reyner &amp; Horne, 2013)
+3. **Méta-analyse du temps de réaction** — Une seule nuit de mauvais sommeil ralentit le temps de réaction de 300 % (Lim &amp; Dinges, 2010).
 
 ---
 
-## Self-Assessment: Your Sleep Reality
+## Auto-évaluation : Votre réalité du sommeil
 
-Rate yourself honestly (1-5):
+Évaluez-vous honnêtement (1-5) :
 
 | Question | Score |
 |----------|-------|
-| I get the same amount of sleep most nights | /5 |
-| I fall asleep within 15-20 minutes | /5 |
-| I rarely wake during the night | /5 |
-| I wake feeling refreshed | /5 |
-| I maintain energy throughout the day | /5 |
+| Je dors autant la plupart des nuits. | /5 |
+| Je m&#39;endors en 15 à 20 minutes. | /5 |
+| Je me réveille rarement la nuit | /5 |
+| Je me réveille en pleine forme. | /5 |
+| Je conserve mon énergie tout au long de la journée | /5 |
 
-**Scoring:**
-- **20-25:** Excellent sleep habits
-- **15-19:** Good, but room for improvement
-- **10-14:** Sleep is likely affecting your performance
-- **Below 10:** Sleep improvement should be a priority
-
----
-
-## In This Module
-
-### [Competition Sleep Protocols](/fr/education/sleep/competition)
-- The week before competition
-- Travel and time zone management
-- Power napping protocols
-- Emergency "I couldn't sleep" strategies
-
-### [Sleep Hygiene for Athletes](/fr/education/sleep/habits)
-- The 10 sleep fundamentals
-- Evening routine templates
-- The 30-day sleep challenge
-- Troubleshooting common issues
+**Score :**
+- **20-25 ans :** Excellentes habitudes de sommeil
+- **15-19 :** Bien, mais perfectible
+- **10-14 :** Le sommeil a probablement une incidence sur vos performances.
+- **En dessous de 10 ans :** L&#39;amélioration du sommeil devrait être une priorité
 
 ---
 
-## Quick Win: Tonight
+## Dans ce module
 
-If you do nothing else, implement these two changes tonight:
+### [Protocoles de sommeil en compétition](/en/education/sleep/competition)
+- La semaine précédant la compétition
+- Gestion des voyages et des fuseaux horaires
+- Protocoles de sieste rapide
+- Stratégies d&#39;urgence « Je n&#39;arrivais pas à dormir »
 
-1. **Set a consistent wake time** — Same time tomorrow as today, within 30 minutes
-2. **No screens 30 minutes before bed** — Read, stretch, or prepare for tomorrow instead
-
-These two changes alone can improve sleep quality within days.
+### [Hygiène du sommeil pour les athlètes](/en/education/sleep/habits)
+- Les 10 principes fondamentaux du sommeil
+- Modèles de routine du soir
+- Le défi du sommeil sur 30 jours
+- Résolution des problèmes courants
 
 ---
 
-## Related Factors
+## Victoire rapide : ce soir
 
-Sleep connects to everything else in your performance:
+Si vous ne faites rien d&#39;autre, mettez en œuvre ces deux changements ce soir :
 
-- [Tension Management](/fr/education/tension/) — PMR and relaxation techniques aid sleep
-- [Nutrition](/fr/education/nutrition/) — Meal timing and blood sugar affect sleep quality
-- [Mental Game](/fr/education/mental-game/) — Sleep supports cognitive function and emotional control
-- [Self-Awareness](/fr/education/self-awareness/) — Recognizing when fatigue is affecting your game
+1. **Définissez une heure de réveil régulière** — La même heure demain qu&#39;aujourd&#39;hui, à 30 minutes près
+2. **Pas d&#39;écrans 30 minutes avant le coucher** — Lisez, étirez-vous ou préparez-vous pour le lendemain.
+
+Ces deux changements à eux seuls peuvent améliorer la qualité du sommeil en quelques jours.
+
+---
+
+## Facteurs associés
+
+Le sommeil est lié à tout le reste de votre performance :
+
+- Gestion de la tension : les techniques de relaxation et de relaxation musculaire progressive favorisent le sommeil.
+- [Nutrition](/en/education/nutrition/) — Le moment des repas et la glycémie influencent la qualité du sommeil
+- [Mental Game](/en/education/mental-game/) — Le sommeil favorise les fonctions cognitives et le contrôle émotionnel
+- Conscience de soi — Reconnaître quand la fatigue affecte votre jeu
 

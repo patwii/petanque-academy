@@ -3,30 +3,30 @@ title: Maintaining Long-Term Motivation
 description: Prevent burnout and sustain your drive over years of competitive pétanque.
 ---
 
-# Maintaining Long-Term Motivation
+# Opretholdelse af langsigtet motivation
 
-Elite performance requires sustained effort over years, not weeks. This page addresses the challenges of maintaining motivation through plateaus, setbacks, and the inevitable ebbs and flows of a long athletic journey.
+Elitepræstationer kræver vedvarende indsats over år, ikke uger. Denne side omhandler udfordringerne ved at opretholde motivationen gennem plateauer, tilbageslag og de uundgåelige op- og nedture på en lang atletisk rejse.
 
 ---
 
-## The Long-Term Motivation Challenge
+## Den langsigtede motivationsudfordring
 
-### Why Motivation Fades
+### Hvorfor motivationen svigter
 
-Even passionate players experience motivation drops:
+Selv passionerede spillere oplever fald i motivationen:
 
-| Challenge | Description |
+| Udfordring | Beskrivelse |
 |-----------|-------------|
-| **Plateau phases** | Improvement slows or stops |
-| **Accumulated fatigue** | Physical and mental tiredness |
-| **Life competition** | Work, family, other priorities |
-| **Comparison trap** | Others seem to improve faster |
-| **Result dependency** | Motivation tied only to winning |
-| **Routine boredom** | Same training, same competitions |
+| **Plateaufaser** | Forbedringen aftager eller stopper |
+| **Akkumuleret træthed** | Fysisk og mental træthed |
+| **Livskonkurrence** | Arbejde, familie, andre prioriteter |
+| **Sammenligningsfælde** | Andre synes at forbedre sig hurtigere |
+| **Resultatafhængighed** | Motivation kun knyttet til sejr |
+| **Rutinemæssig kedsomhed** | Samme træning, samme konkurrencer |
 
-### The Motivation Cycle
+### Motivationscyklussen
 
-Motivation naturally fluctuates:
+Motivation svinger naturligt:
 
 ```
 High ────────╮    ╭────────────╮
@@ -36,232 +36,232 @@ Low ─────────────────────────�
     Start   Plateau  Recovery   Growth
 ```
 
-**Key insight:** Dips are normal. The goal isn't constant high motivation—it's resilience through low periods.
+**Vigtig indsigt:** Nedture er normale. Målet er ikke konstant høj motivation – det er modstandsdygtighed gennem perioder med lav motivation.
 
 ---
 
-## Burnout: Recognize and Prevent
+## Udbrændthed: Genkend og forebyg
 
-### What Is Burnout?
+### Hvad er udbrændthed?
 
-Burnout is chronic exhaustion combined with reduced sense of accomplishment and depersonalization from the sport.
+Udbrændthed er kronisk udmattelse kombineret med reduceret følelse af præstation og depersonalisering fra sporten.
 
-### Warning Signs
+### Advarselstegn
 
-**Physical:**
-- Chronic fatigue
-- Frequent illness
-- Sleep disturbances
-- Persistent muscle tension
+**Fysisk:**
+- Kronisk træthed
+- Hyppig sygdom
+- Søvnforstyrrelser
+- Vedvarende muskelspænding
 
-**Emotional:**
-- Dread before training/competition
-- Irritability and frustration
-- Emotional flatness about results
-- Loss of enjoyment
+**Følelsesmæssig:**
+- Frygt før træning/konkurrence
+- Irritabilitet og frustration
+- Følelsesmæssig fladhed omkring resultater
+- Tab af nydelse
 
-**Behavioral:**
-- Skipping training
-- Going through the motions
-- Reduced effort
-- Withdrawal from team/community
+**Adfærdsmæssig:**
+- Spring træning over
+- At gå gennem bevægelserne
+- Reduceret indsats
+- Tilbagetrækning fra team/fællesskab
 
-::: danger Early Intervention
-If you recognize 3+ warning signs, take action now. Burnout is much easier to prevent than recover from.
+::: danger Tidlig intervention
+Hvis du genkender 3+ advarselstegn, så tag affære nu. Udbrændthed er meget lettere at forebygge end at komme sig over.
 :::
 
-### Burnout Prevention Strategies
+### Strategier til forebyggelse af udbrændthed
 
-| Strategy | Implementation |
+| Strategi | Implementering |
 |----------|----------------|
-| **Rest cycles** | Plan regular recovery weeks |
-| **Variety** | Change training routines periodically |
-| **Boundaries** | Protect non-pétanque life areas |
-| **Social connection** | Maintain relationships beyond sport |
-| **Purpose reconnection** | Remember your "why" |
-| **Professional help** | Sports psychologist if needed |
+| **Hvilecyklusser** | Planlæg regelmæssige uger med restitution |
+| **Sort** | Ændr træningsrutiner med jævne mellemrum |
+| **Grænser** | Beskyt områder med ikke-petanqueliv |
+| **Social forbindelse** | Vedligehold relationer ud over sport |
+| **Formål: Genopkobling** | Husk dit &quot;hvorfor&quot; |
+| **Professionel hjælp** | Sportspsykolog hvis nødvendigt |
 
 ---
 
-## Navigating Plateaus
+## Navigering på plateauer
 
-### Understanding Plateaus
+### Forståelse af plateauer
 
-Plateaus are normal parts of development:
+Plateauer er normale dele af udviklingen:
 
-- Skills consolidate before next jump
-- Hidden improvements accumulate
-- Old limits are being restructured
+- Færdigheder konsolideres inden næste spring
+- Skjulte forbedringer akkumuleres
+- Gamle grænser bliver omstruktureret
 
-**The problem isn't the plateau—it's how you respond to it.**
+**Problemet er ikke plateauet – det er, hvordan du reagerer på det.**
 
-### Plateau Strategies
+### Plateaustrategier
 
-**1. Change Your Metrics**
-- If results aren't changing, measure something else
-- Process goals become especially important
-- Find micro-improvements others wouldn't notice
+**1. Skift dine målinger**
+- Hvis resultaterne ikke ændrer sig, så mål noget andet
+- Procesmål bliver særligt vigtige
+- Find mikroforbedringer, som andre ikke ville bemærke
 
-**2. Vary Your Approach**
-- Try new training methods
-- Work on different skills
-- Change your environment
+**2. Variér din tilgang**
+- Prøv nye træningsmetoder
+- Arbejd med forskellige færdigheder
+- Ændr dine omgivelser
 
-**3. Seek External Input**
-- Fresh eyes see things you don't
-- A coach or experienced player may spot issues
-- Video analysis reveals hidden changes
+**3. Søg ekstern input**
+- Friske øjne ser ting, du ikke ser
+- En træner eller en erfaren spiller kan muligvis få øje på problemer
+- Videoanalyse afslører skjulte ændringer
 
-**4. Embrace the Plateau**
-- This is consolidation time
-- Mastery requires these phases
-- Trust the process
+**4. Omfavn plateauet**
+- Dette er konsolideringstid
+- Mestring kræver disse faser
+- Stol på processen
 
 ---
 
-## Dealing with Setbacks
+## Håndtering af tilbageslag
 
-### The Setback Response
+### Tilbageslagsresponsen
 
-How you respond to setbacks determines their impact:
+Hvordan du reagerer på tilbageslag bestemmer deres effekt:
 
-| Response | Short-term | Long-term |
+| Svar | Kortsigtet | Langsigtet |
 |----------|------------|-----------|
-| **Denial** | Feels better | Problems compound |
-| **Catastrophizing** | Feels worse | Problems magnify |
-| **Acceptance + Action** | May feel hard | Problems become learning |
+| **Afslag** | Føles bedre | Problemerne forværres |
+| **Katastrofal** | Føles værre | Problemer forstørres |
+| **Accept + Handling** | Kan føles hårdt | Problemer bliver til læring |
 
-### The Setback Protocol
+### Tilbageslagsprotokollen
 
-**Day 1-2: Feel It**
-- Allow disappointment
-- Don't analyze yet
-- Rest if needed
+**Dag 1-2: Føl det**
+- Tillad skuffelse
+- Analysér ikke endnu
+- Hvile hvis nødvendigt
 
-**Day 3-5: Understand It**
-- What happened objectively?
-- What was in your control?
-- What can you learn?
+**Dag 3-5: Forstå det**
+- Hvad skete der objektivt set?
+- Hvad var under din kontrol?
+- Hvad kan du lære?
 
-**Day 6+: Act On It**
-- Adjust what needs adjusting
-- Return to process focus
-- Move forward
-
----
-
-## Seasonal Motivation Management
-
-### Competition Season
-
-- Higher intensity, more pressure
-- Focus on performance and results
-- Maintain recovery routines
-- Accept some stress as normal
-
-### Off-Season
-
-- Deliberate rest period
-- Address physical issues
-- Reconnect with enjoyment
-- Varied activities
-
-### Transition Periods
-
-- Gradual intensity changes
-- Goal setting for next season
-- Skill development focus
-- Building motivation reserves
+**Dag 6+: Handl på det**
+- Justér det, der skal justeres
+- Tilbage til procesfokus
+- Gå fremad
 
 ---
 
-## The Motivation Toolkit
+## Sæsonbestemt motivationsstyring
 
-### Daily Tools
+### Konkurrencesæson
 
-| Tool | When to Use |
+- Højere intensitet, mere pres
+- Fokus på præstation og resultater
+- Vedligehold restitutionsrutiner
+- Accepter noget stress som normalt
+
+### Lavsæson
+
+- Bevidst hvileperiode
+- Håndter fysiske problemer
+- Genopret forbindelsen med nydelsen
+- Varierede aktiviteter
+
+### Overgangsperioder
+
+- Gradvise intensitetsændringer
+- Målsætning for næste sæson
+- Fokus på kompetenceudvikling
+- Opbygning af motivationsreserver
+
+---
+
+## Motivationsværktøjskassen
+
+### Daglige værktøjer
+
+| Værktøj | Hvornår skal man bruge |
 |------|-------------|
-| **Intention setting** | Start of each session |
-| **Gratitude practice** | After training/competition |
-| **Small wins tracking** | Daily or weekly |
-| **Process focus** | Every throw |
+| **Intentionsindstilling** | Start af hver session |
+| **Taknemmelighedspraksis** | Efter træning/konkurrence |
+| **Sporing af små sejre** | Dagligt eller ugentligt |
+| **Procesfokus** | Hvert kast |
 
-### Weekly Tools
+### Ugentlige værktøjer
 
-| Tool | When to Use |
+| Værktøj | Hvornår skal man bruge |
 |------|-------------|
-| **Reflection journaling** | End of week |
-| **Progress review** | Weekly check-in |
-| **Social connection** | Team/community time |
-| **Rest day(s)** | Scheduled recovery |
+| **Refleksionsjournal** | Slutningen af ugen |
+| **Statusevaluering** | Ugentlig indtjekning |
+| **Social forbindelse** | Hold-/fællesskabstid |
+| **Hviledag(e)** | Planlagt genopretning |
 
-### Periodic Tools
+### Periodiske værktøjer
 
-| Tool | When to Use |
+| Værktøj | Hvornår skal man bruge |
 |------|-------------|
-| **Goal reassessment** | Monthly/quarterly |
-| **Fresh experiences** | Try new aspects of sport |
-| **Complete breaks** | Off-season, vacations |
-| **"Why" reconnection** | When motivation dips |
+| **Genvurdering af mål** | Månedligt/kvartalsvis |
+| **Friske oplevelser** | Prøv nye aspekter af sport |
+| **Komplete pauser** | Uden for sæsonen, ferier |
+| **&quot;Hvorfor&quot; genforbindelse** | Når motivationen falder |
 
 ---
 
-## Building Motivation Reserves
+## Opbygning af motivationsreserver
 
-### The Motivation Account
+### Motivationskontoen
 
-Think of motivation like a bank account:
+Tænk på motivation som en bankkonto:
 
-**Deposits:**
-- Enjoyable experiences
-- Achievements and progress
-- Social connection
-- Rest and recovery
-- Learning new things
+**Indskud:**
+- Behagelige oplevelser
+- Resultater og fremskridt
+- Social forbindelse
+- Hvile og restitution
+- At lære nye ting
 
-**Withdrawals:**
-- Pressure and stress
-- Setbacks and failures
-- Overtraining
-- Conflict
-- Life demands
+**Udbetalinger:**
+- Pres og stress
+- Tilbageslag og fiaskoer
+- Overtræning
+- Konflikt
+- Livets krav
 
-**Goal:** Keep the account positive. Make more deposits than withdrawals over time.
+**Mål:** Hold kontoen positiv. Foretag flere indbetalinger end udbetalinger over tid.
 
 ---
 
-## When to Push Through vs. Back Off
+## Hvornår skal man presse igennem vs. bakke ud
 
-| Push Through When | Back Off When |
+| Skub igennem når | Træk dig tilbage, når |
 |-------------------|---------------|
-| Temporary tiredness | Chronic exhaustion |
-| Single bad session | Pattern of bad sessions |
-| Normal nervousness | Dread and avoidance |
-| Challenge stretches you | Challenge breaks you |
-| Commitment to process | Obligation without joy |
+| Midlertidig træthed | Kronisk udmattelse |
+| Enkelt dårlig session | Mønster af dårlige sessioner |
+| Normal nervøsitet | Frygt og undgåelse |
+| Udfordringen strækker dig | Udfordringen knækker dig |
+| Forpligtelse til proces | Forpligtelse uden glæde |
 
-::: tip Listen to Your Body and Mind
-"No pain, no gain" is outdated. Smart training includes knowing when to rest.
+::: tip Lyt til din krop og dit sind
+&quot;Ingen smerte, ingen gevinst&quot; er forældet. Smart træning inkluderer at vide, hvornår man skal hvile.
 :::
 
 ---
 
-## Long-Term Success Factors
+## Langsigtede succesfaktorer
 
-Research on sustained athletic motivation shows:
+Forskning i vedvarende atletisk motivation viser:
 
-1. **Intrinsic motivation** is more sustainable than extrinsic
-2. **Autonomy** in training choices preserves motivation
-3. **Social support** buffers against burnout
-4. **Balanced life** prevents over-identification with sport
-5. **Growth mindset** helps navigate setbacks
+1. **Indre motivation** er mere bæredygtig end ydre motivation
+2. **Autonomi** i træningsvalg bevarer motivationen
+3. **Social støtte** beskytter mod udbrændthed
+4. **Et balanceret liv** forebygger overdreven identifikation med sport
+5. **Væksttankegang** hjælper med at navigere i tilbageslag
 
 ---
 
-## Related Content
+## Relateret indhold
 
-- [Psychology of Motivation](/da/education/motivation/motivation) — Understanding motivation types
-- [Goal Setting](/da/education/motivation/) — Creating effective goals
-- [Sleep & Recovery](/da/education/sleep/) — Physical recovery
-- [Mindfulness](/da/education/mental-game/mindfulness/) — Mental recovery tools
+- [Motivationspsykologi](/da/uddannelse/motivation/motivation) — Forståelse af motivationstyper
+- [Målsætning](/da/uddannelse/motivation/) — Oprettelse af effektive mål
+- [Søvn og restitution](/da/uddannelse/søvn/) — Fysisk restitution
+- [Mindfulness](/da/uddannelse/mentalt-spil/mindfulness/) — Værktøjer til mental restitution
 

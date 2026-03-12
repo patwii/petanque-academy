@@ -3,76 +3,76 @@ title: The Self-Awareness Advantage
 description: Develop accurate self-perception to accelerate your pétanque improvement. Learn to identify blind spots and use feedback effectively.
 ---
 
-# The Self-Awareness Advantage
+# Het voordeel van zelfbewustzijn
 
-::: tip The Meta-Skill That Multiplies Everything
-**Weight: 400 points** — Players with accurate self-perception improve 2-3x faster because they train what actually needs work.
+::: tip De meta-vaardigheid die alles vermenigvuldigt
+**Gewicht: 400 punten** — Spelers met een accurate zelfperceptie verbeteren 2-3 keer sneller omdat ze trainen wat daadwerkelijk verbetering behoeft.
 :::
 
-## Why This Is Your Hidden Multiplier
+## Waarom dit jouw verborgen vermenigvuldiger is
 
-> "You can't improve what you can't see."
+> &quot;Je kunt niet verbeteren wat je niet kunt zien.&quot;
 
-Most players spend hours practicing, but **are they practicing the right things?** Self-awareness is the meta-skill that ensures your training time is actually effective.
+De meeste spelers besteden uren aan oefenen, maar **oefenen ze wel de juiste dingen?** Zelfbewustzijn is de meta-vaardigheid die ervoor zorgt dat je trainingstijd daadwerkelijk effectief is.
 
-### The Improvement Multiplier Effect
+### Het verbeteringsmultiplicatoreffect
 
 ```mermaid
 flowchart TD
-    A[Self-Awareness] --> B[Accurate Self-Assessment]
-    A --> C[Blind Spot Recognition]
-    A --> D[Feedback Reception]
+    A[Zelfbewustzijn] --> B[Nauwkeurige zelfevaluatie]
+    A --> C[Blinde vlekherkenning]
+    A --> D[Feedbackontvangst]
 
-    B --> E[Train What Actually Needs Work]
+    B --> E[Train wat daadwerkelijk moet werken]
     C --> E
     D --> E
 
-    E --> F[2-3x Faster Improvement]
+    E --> F[2-3 keer snellere verbetering]
 
     style A fill:#FF9800,color:#fff
     style F fill:#4CAF50,color:#fff
 ```
 
-Without self-awareness, you might:
-- Practice what you're already good at (feels good, limited growth)
-- Miss technical flaws you can't see
-- Misattribute losses to external factors
-- Resist feedback that could help you
+Zonder zelfbewustzijn zou je bijvoorbeeld het volgende kunnen doen:
+- Oefen waar je al goed in bent (voelt goed, beperkte groei)
+- Mis technische gebreken die je niet kunt zien.
+- Verliezen ten onrechte toeschrijven aan externe factoren
+- Weersta feedback die je zou kunnen helpen.
 
-With self-awareness, you:
-- Identify actual weaknesses accurately
-- Accept and integrate useful feedback
-- Understand how pressure affects your specific game
-- Know your patterns under different conditions
+Met zelfbewustzijn kun je:
+- Identificeer daadwerkelijke zwakke punten nauwkeurig.
+- Accepteer en verwerk nuttige feedback.
+- Begrijp hoe druk jouw specifieke spel beïnvloedt.
+- Ken je patronen onder verschillende omstandigheden.
 
 ---
 
-## The Self-Awareness Paradox
+## De paradox van zelfbewustzijn
 
-::: danger The Uncomfortable Truth
-Research consistently shows: Those who need more self-awareness typically believe they have excellent self-knowledge. Those with high self-awareness constantly question themselves and seek external input.
+::: danger De ongemakkelijke waarheid
+Onderzoek toont consequent aan: Degenen die meer zelfinzicht nodig hebben, denken doorgaans dat ze een uitstekend zelfinzicht hebben. Degenen met een hoog zelfinzicht stellen zichzelf voortdurend vragen en zoeken externe input.
 
-**Which one are you?**
+**Welke ben jij?**
 :::
 
-This is called the **Dunning-Kruger effect** applied to self-perception. The very lack of awareness that holds you back also prevents you from seeing that you lack awareness.
+Dit wordt het **Dunning-Kruger-effect** genoemd, toegepast op zelfperceptie. Juist het gebrek aan zelfbewustzijn dat je tegenhoudt, verhindert je ook om te zien dat je zelfbewustzijn ontbreekt.
 
-### The Solution: External Mirrors
+### De oplossing: externe spiegels
 
-Since we can't fully trust our internal perception, we need external mirrors:
+Omdat we niet volledig op onze innerlijke waarneming kunnen vertrouwen, hebben we externe spiegels nodig:
 
-| Mirror | What It Reveals |
+| Spiegel | Wat het onthult |
 |--------|-----------------|
-| **Video Analysis** | Technical reality vs. what you think you're doing |
-| **Performance Data** | Patterns you might not notice |
-| **Teammate Feedback** | How you're perceived under pressure |
-| **Coach Observation** | Expert eye on your game |
+| **Videoanalyse** | De technische realiteit versus wat je denkt te doen. |
+| **Prestatiegegevens** | Patronen die je misschien niet opmerkt |
+| **Feedback van teamgenoten** | Hoe je wordt gezien onder druk |
+| **Observatie door de coach** | Een deskundige blik op jouw spel |
 
 ---
 
-## The Johari Window for Pétanque Players
+## Het Johari-venster voor pétanque-spelers
 
-The Johari Window is a psychological model that maps what you and others know about your game:
+Het Johari-venster is een psychologisch model dat in kaart brengt wat jij en anderen weten over jouw spel:
 
 ```
                     Known to Self    Unknown to Self
@@ -93,128 +93,128 @@ The Johari Window is a psychological model that maps what you and others know ab
                    └────────────────┴────────────────┘
 ```
 
-### Your Goal: Expand the "Open" Area
+### Uw doel: het &quot;open&quot; gebied uitbreiden.
 
-**1. Reduce your Blind Spots**
-- Seek video analysis
-- Ask for specific feedback
-- Watch for patterns in results
+**1. Verminder je dode hoeken**
+- Zoek videoanalyse
+- Vraag om specifieke feedback.
+- Let op patronen in de resultaten.
 
-**2. Share More (Reduce Hidden)**
-- Tell teammates when you're struggling
-- Discuss your approach openly
-- Ask for help when needed
+**2. Meer delen (verminder verborgen items)**
+- Vertel het je teamgenoten als je het moeilijk hebt.
+- Bespreek je aanpak openlijk.
+- Vraag om hulp wanneer dat nodig is.
 
-**3. Discover Your Unknown Potential**
-- Try new approaches
+**3. Ontdek je onbekende potentieel**
+- Probeer nieuwe benaderingen.
 - Experiment in training
-- Push outside comfort zone
+- Verleg je grenzen
 
 ---
 
-## Self-Awareness vs. Self-Criticism
+## Zelfbewustzijn versus zelfkritiek
 
-::: warning Critical Distinction
-Self-awareness is **neutral observation** of reality.
-Self-criticism is **negative judgment** of yourself.
+::: warning Kritisch onderscheid
+Zelfbewustzijn is **neutrale observatie** van de werkelijkheid.
+Zelfkritiek is **negatief oordeel** over jezelf.
 
-They are NOT the same thing.
+Het zijn NIET dezelfde dingen.
 :::
 
-| Self-Awareness | Self-Criticism |
+| Zelfbewustzijn | Zelfkritiek |
 |----------------|----------------|
-| "I missed three carreaux today" | "I'm terrible at carreaux" |
-| "I tense up in close games" | "I always choke under pressure" |
-| "My pointing is less accurate when tired" | "I can't handle long tournaments" |
-| "I communicate less when losing" | "I'm a bad teammate when stressed" |
+| &quot;Ik heb vandaag drie carreaux gemist&quot; | &quot;Ik ben vreselijk slecht in carreaux&quot; |
+| &quot;Ik raak gespannen in spannende wedstrijden.&quot; | &quot;Ik faal altijd onder druk.&quot; |
+| &quot;Als ik moe ben, kan ik minder nauwkeurig wijzen.&quot; | &quot;Ik kan niet tegen lange toernooien.&quot; |
+| &quot;Ik communiceer minder als ik verlies.&quot; | &quot;Ik ben een slechte teamgenoot als ik gestrest ben.&quot; |
 
-**The difference matters because:**
-- Self-awareness leads to targeted improvement
-- Self-criticism leads to shame and avoidance
-- Self-awareness is factual and specific
-- Self-criticism is emotional and generalized
-
----
-
-## The Three Levels of Self-Awareness
-
-### Level 1: Technical Self-Awareness
-*"How am I actually performing?"*
-
-- Accuracy under different conditions
-- Technical execution patterns
-- Physical state effects on performance
-
-### Level 2: Psychological Self-Awareness
-*"How do I respond mentally and emotionally?"*
-
-- Stress responses and triggers
-- Confidence fluctuations
-- Focus patterns and distractors
-
-### Level 3: Social Self-Awareness
-*"How do I affect others and how do they see me?"*
-
-- Team communication patterns
-- Leadership moments (or gaps)
-- How your emotions affect teammates
+**Het verschil is belangrijk omdat:**
+- Zelfbewustzijn leidt tot gerichte verbetering.
+- Zelfkritiek leidt tot schaamte en vermijding.
+- Zelfbewustzijn is feitelijk en specifiek.
+- Zelfkritiek is emotioneel en generaliserend.
 
 ---
 
-## Self-Assessment: Your Current Self-Awareness
+## De drie niveaus van zelfbewustzijn
 
-Rate yourself honestly (1 = Never, 5 = Always):
+### Niveau 1: Technisch zelfbewustzijn
+*&quot;Hoe presteer ik eigenlijk?&quot;*
 
-| Question | Score |
+- Nauwkeurigheid onder verschillende omstandigheden
+- Technische uitvoeringspatronen
+- Fysieke toestand en de invloed daarvan op de prestaties
+
+### Niveau 2: Psychologisch zelfbewustzijn
+*&quot;Hoe reageer ik hier mentaal en emotioneel op?&quot;*
+
+- Stressreacties en -triggers
+- Schommelingen in het vertrouwen
+- Focuspatronen en afleidingen
+
+### Niveau 3: Sociaal zelfbewustzijn
+*&quot;Hoe beïnvloed ik anderen en hoe zien zij mij?&quot;*
+
+- Communicatiepatronen binnen een team
+- Momenten (of tekortkomingen) in leiderschap
+- Hoe jouw emoties je teamgenoten beïnvloeden
+
+---
+
+## Zelfevaluatie: Uw huidige zelfbewustzijn
+
+Geef jezelf een eerlijke beoordeling (1 = Nooit, 5 = Altijd):
+
+| Vraag | Score |
 |----------|-------|
-| I can accurately predict my performance in different situations | /5 |
-| I know what conditions cause me to underperform | /5 |
-| I understand how teammates perceive me under pressure | /5 |
-| I welcome and integrate critical feedback | /5 |
-| My self-assessment matches my coach's/teammates' assessment | /5 |
-| I can objectively analyze my performance without emotional reaction | /5 |
-| I notice my own mental state changes during competition | /5 |
+| Ik kan mijn prestaties in verschillende situaties nauwkeurig voorspellen. | /5 |
+| Ik weet welke omstandigheden ervoor zorgen dat ik ondermaats presteer. | /5 |
+| Ik begrijp hoe mijn teamgenoten mij onder druk zien. | /5 |
+| Ik sta open voor kritische feedback en verwerk deze. | /5 |
+| Mijn zelfbeoordeling komt overeen met de beoordeling van mijn coach/teamgenoten. | /5 |
+| Ik kan mijn prestaties objectief analyseren zonder emotionele reacties. | /5 |
+| Ik merk dat mijn eigen mentale toestand verandert tijdens wedstrijden. | /5 |
 
-**Scoring:**
-- **28-35:** High self-awareness (but stay humble—keep seeking input)
-- **21-27:** Moderate self-awareness (good foundation to build on)
-- **14-20:** Self-awareness gap (this module is critical for you)
-- **Below 14:** Significant blind spots (prioritize this work)
-
----
-
-## In This Module
-
-### [Getting and Using Feedback](/nl/education/self-awareness/feedback)
-- Sources of objective feedback
-- How to ask for feedback effectively
-- Receiving feedback without defensiveness
-- Turning feedback into action
-
-### [Video Analysis for Self-Discovery](/nl/education/self-awareness/video)
-- What to record and when
-- What to look for in your footage
-- Comparing self-perception to video reality
-- Video analysis protocols
+**Score:**
+- **28-35:** Groot zelfbewustzijn (maar blijf bescheiden – blijf feedback zoeken)
+- **21-27:** Matig zelfbewustzijn (goede basis om op voort te bouwen)
+- **14-20:** Zelfbewustzijnskloof (deze module is cruciaal voor jou)
+- **Onder de 14:** Belangrijke blinde vlekken (geef prioriteit aan dit werk)
 
 ---
 
-## Quick Win: The Three Questions
+## In deze module
 
-After your next training session or match, ask yourself:
+### [Feedback ontvangen en gebruiken](/en/education/self-awareness/feedback)
+- Bronnen van objectieve feedback
+- Hoe vraag je effectief om feedback?
+- Feedback ontvangen zonder in de verdediging te schieten.
+- Feedback omzetten in actie.
 
-1. **What did I think I did well?** (Be specific)
-2. **What would an objective observer say?** (Separate perception from reality)
-3. **What's one thing I'm avoiding looking at?** (Find the blind spot)
-
-Write your answers down. Compare them over time. Patterns will emerge.
+### [Videoanalyse voor zelfontdekking](/en/education/self-awareness/video)
+- Wat je moet opnemen en wanneer.
+- Waarop te letten in je videomateriaal
+- Zelfperceptie vergelijken met videorealiteit
+- Videoanalyseprotocollen
 
 ---
 
-## Related Factors
+## Snelle overwinning: De drie vragen
 
-- [Mental Game](/nl/education/mental-game/) — Self-awareness supports mental training
-- [Team Dynamics](/nl/education/team-dynamics/) — Understand how others perceive you
-- [Motivation](/nl/education/motivation/) — Know your real drivers
-- [Technique](/nl/education/technique/) — Video analysis reveals technical truth
+Stel jezelf na je volgende training of wedstrijd de volgende vraag:
+
+1. **Wat vond ik dat ik goed gedaan heb?** (Wees specifiek)
+2. **Wat zou een objectieve waarnemer zeggen?** (Maak onderscheid tussen perceptie en realiteit)
+3. **Waar kijk ik liever niet naar?** (Vind je blinde vlek)
+
+Schrijf je antwoorden op. Vergelijk ze na verloop van tijd. Er zullen patronen zichtbaar worden.
+
+---
+
+## Gerelateerde factoren
+
+- [Mentale Spel](/en/education/mental-game/) — Zelfbewustzijn ondersteunt mentale training
+- [Teamdynamiek](/en/education/team-dynamics/) — Begrijp hoe anderen jou zien.
+- [Motivatie](/en/education/motivation/) — Ken je echte drijfveren
+- [Techniek](/en/education/technique/) — Videoanalyse onthult technische waarheid
 

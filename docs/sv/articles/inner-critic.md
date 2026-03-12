@@ -3,35 +3,35 @@ title: Understanding the Inner Critic
 description: Learn to recognize and manage the negative self-talk that undermines your pétanque performance. Transform your inner critic into a supportive voice.
 ---
 
-# Understanding the Inner Critic
+# Att förstå den inre kritikern
 
-> "Every pétanque player knows that voice — the one that whispers 'you're going to miss' just as you're about to throw."
+> &quot;Varje boulespelare känner till den där rösten – den som viskar &#39;du kommer att missa&#39; precis när du ska kasta.&quot;
 
-This is your inner critic — and learning to manage it is essential for elite performance.
+Detta är din inre kritiker – och att lära sig hantera den är avgörande för elitprestationer.
 
-::: warning The Paradox
-**Your inner critic isn't trying to hurt you** — it's a misguided attempt at protection. But this "protection" becomes self-sabotage.
+::: warning Paradoxen
+**Din inre kritiker försöker inte skada dig** – det är ett missriktat försök till skydd. Men detta &quot;skydd&quot; blir till självsabotage.
 :::
 
 ---
 
-## What Is the Inner Critic?
+## Vad är den inre kritikern?
 
-The inner critic is that internal voice that judges, criticizes, and undermines your confidence:
+Den inre kritikern är den inre rösten som dömer, kritiserar och undergräver ditt självförtroende:
 
 ```mermaid
 flowchart TD
-    A[Pressure Situation] --> B[Inner Critic Activates]
-    B --> C["You're going to miss"]
-    B --> D["Everyone is watching"]
-    B --> E["You always choke"]
+    A[Trycksituation] --> B[Inre kritiker aktiveras]
+    B --> C[&quot;Du kommer att sakna&quot;]
+    B --> D[&quot;Alla tittar&quot;]
+    B --> E[&quot;Du kvävs alltid&quot;]
 
-    C --> F[Muscle Tension ↑]
+    C --> F[Muskelspänning ↑]
     D --> F
     E --> F
 
-    F --> G[Performance ↓]
-    G --> H[More Ammunition for Critic]
+    F --> G[Prestanda ↓]
+    G --> H[Mer ammunition till kritikern]
     H --> B
 
     style A fill:#FF9800,color:#fff
@@ -39,102 +39,102 @@ flowchart TD
     style G fill:#f44336,color:#fff
 ```
 
-### When It Appears
+### När det dyker upp
 
-| Moment | Inner Critic Says |
+| Ögonblick | Inre kritiker säger |
 |--------|-------------------|
-| **Before crucial shot** | "Everyone is watching. Don't mess this up." |
-| **After a miss** | "You always choke under pressure." |
-| **During losing streak** | "You're not good enough for this level." |
+| **Före avgörande skott** | &quot;Alla tittar. Stör inte till det här.&quot; |
+| **Efter en miss** | &quot;Du kvävs alltid under press.&quot; |
+| **Under förlustsviten** | &quot;Du är inte tillräckligt bra för den här nivån.&quot; |
 
-## Recognizing Your Patterns
+## Att känna igen dina mönster
 
-The first step is awareness. Start noticing when your inner critic appears:
+Det första steget är medvetenhet. Börja lägga märke till när din inre kritiker dyker upp:
 
-### Common Triggers
-- High-pressure situations (match point, important tournaments)
-- After making a mistake
-- When opponents are performing well
-- When teammates seem frustrated
-- Physical fatigue or discomfort
+### Vanliga utlösare
+- Högpressade situationer (matchboll, viktiga turneringar)
+- Efter att ha gjort ett misstag
+- När motståndarna presterar bra
+- När lagkamraterna verkar frustrerade
+- Fysisk trötthet eller obehag
 
-### Common Messages
-- "You can't handle pressure"
-- "You're not as good as them"
-- "Everyone is judging you"
-- "You always fail when it matters"
+### Vanliga meddelanden
+- &quot;Du klarar inte av press&quot;
+- &quot;Du är inte lika bra som dem&quot;
+- &quot;Alla dömer dig&quot;
+- &quot;Du misslyckas alltid när det gäller&quot;
 
-## The Impact on Performance
+## Påverkan på prestanda
 
-When the inner critic takes over, your body responds:
+När den inre kritikern tar över, reagerar din kropp:
 
-1. **Muscle tension increases** — Your throw becomes rigid
-2. **Breathing becomes shallow** — Less oxygen, less focus
-3. **Vision narrows** — You lose awareness of the terrain
-4. **Decision-making suffers** — You second-guess yourself
+1. **Muskelspänningen ökar** — Ditt kast blir stelt
+2. **Andningen blir ytlig** — Mindre syre, mindre fokus
+3. **Synen försvagas** — Du förlorar medvetenheten om terrängen
+4. **Beslutsfattandet lider** — Du tvivlar på dig själv
 
-This creates a vicious cycle: the inner critic causes poor performance, which gives the critic more ammunition.
+Detta skapar en ond cirkel: den inre kritikern orsakar dåliga prestationer, vilket ger kritikern mer ammunition.
 
-## Strategies for Managing the Inner Critic
+## Strategier för att hantera den inre kritikern
 
-### 1. Name It to Tame It
+### 1. Namnge det för att tämja det
 
-Give your inner critic a name — something slightly ridiculous. "Oh, there goes Negative Nils again." This creates distance between you and the voice, making it easier to dismiss.
+Ge din inre kritiker ett namn – något lite löjligt. ”Åh, där går Negative Nils igen.” Detta skapar distans mellan dig och rösten, vilket gör den lättare att avfärda.
 
-### 2. Challenge the Evidence
+### 2. Utmana bevisen
 
-When the critic says "you always miss under pressure," ask yourself: Is that actually true? Can you think of times you performed well under pressure? The critic deals in absolutes that rarely reflect reality.
+När kritikern säger &quot;du misslyckas alltid under press&quot;, fråga dig själv: Är det verkligen sant? Kan du komma på tillfällen då du presterade bra under press? Kritikern använder sig av absoluta värden som sällan återspeglar verkligheten.
 
-### 3. Reframe the Message
+### 3. Omformulera meddelandet
 
-Transform criticism into coaching:
-- "You're going to miss" → "Focus on your routine"
-- "Everyone is watching" → "This is your moment to shine"
-- "You always choke" → "You've handled pressure before"
+Omvandla kritik till coachning:
+- &quot;Du kommer att sakna&quot; → &quot;Fokusera på din rutin&quot;
+- &quot;Alla tittar&quot; → &quot;Det här är ditt ögonblick att glänsa&quot;
+- &quot;Du kvävs alltid&quot; → &quot;Du har hanterat press förut&quot;
 
-### 4. Use Your Pre-Shot Routine
+### 4. Använd din rutin före skott
 
-A solid [pre-shot routine](/sv/education/mental-game/mental-strength/pre-shot-routine) gives your mind something constructive to focus on, leaving less room for the critic.
+En gedigen [rutin före skottet](/sv/utbildning/mentalt-spel/mental-styrka/rutin-före-skottet) ger ditt sinne något konstruktivt att fokusera på, vilket lämnar mindre utrymme för kritikern.
 
-### 5. Practice Self-Compassion
+### 5. Öva självmedkänsla
 
-Treat yourself as you would a teammate. Would you tell a struggling teammate "you're terrible"? Of course not. Extend the same kindness to yourself.
+Behandla dig själv som du skulle behandla en lagkamrat. Skulle du säga till en lagkamrat som kämpar &quot;du är hemsk&quot;? Självklart inte. Visa samma vänlighet mot dig själv.
 
-## Building a Supportive Inner Voice
+## Att bygga en stödjande inre röst
 
-The goal isn't to silence the inner critic completely — that's nearly impossible. Instead, develop a stronger supportive voice:
+Målet är inte att tysta den inre kritikern helt – det är nästan omöjligt. Utveckla istället en starkare stödjande röst:
 
-### The Supportive Voice Says:
-- "One throw at a time"
-- "Trust your training"
-- "You've done this before"
-- "Stay in the present"
-- "Breathe and reset"
+### Den stödjande rösten säger:
+- &quot;Ett kast i taget&quot;
+- &quot;Lita på din träning&quot;
+- &quot;Du har gjort det här förut&quot;
+- &quot;Stanna kvar i nuet&quot;
+- &quot;Andas och återställ&quot;
 
-### Daily Practice
+### Daglig övning
 
-Spend 5 minutes each day:
-1. Recall a moment when you performed well
-2. Remember how it felt in your body
-3. Hear what your supportive voice was saying
-4. Anchor this feeling with a physical gesture (touching your boule, adjusting your stance)
+Tillbringa 5 minuter varje dag:
+1. Minns ett ögonblick när du presterade bra
+2. Kom ihåg hur det kändes i din kropp
+3. Hör vad din stödjande röst sa
+4. Förankra denna känsla med en fysisk gest (att röra vid din boule, justera din ställning)
 
-## In Competition
+## I tävling
 
-When the inner critic appears during a match:
+När den inre kritikern dyker upp under en match:
 
-1. **Acknowledge it**: "I notice I'm being self-critical"
-2. **Take a breath**: Slow, deep breath to reset
-3. **Use your anchor**: The physical gesture from your practice
-4. **Return to routine**: Focus on your pre-shot process
+1. **Erkänn det**: &quot;Jag märker att jag är självkritisk&quot;
+2. **Ta ett andetag**: Långsamt, djupt andetag för att återställa
+3. **Använd ditt ankare**: Den fysiska gesten från din praktik
+4. **Återgå till rutinen**: Fokusera på din process före behandlingen
 
-## The Long-Term Journey
+## Den långsiktiga resan
 
-Managing the inner critic is not a one-time fix. It's an ongoing practice that becomes easier with time. Elite players don't eliminate self-doubt — they learn to perform despite it.
+Att hantera den inre kritikern är inte en engångslösning. Det är en pågående övning som blir lättare med tiden. Elitspelare eliminerar inte självtvivel – de lär sig att prestera trots det.
 
-The inner critic will always be part of you. But with practice, its voice becomes quieter, and your supportive voice becomes stronger. That's the mental edge that separates good players from great ones.
+Den inre kritikern kommer alltid att vara en del av dig. Men med övning blir dess röst tystare och din stödjande röst starkare. Det är den mentala fördelen som skiljer bra spelare från fantastiska.
 
 ---
 
-*Related: [Handling Pressure](/sv/education/mental-game/mental-strength/handling-pressure) | [Pre-Shot Routine](/sv/education/mental-game/mental-strength/pre-shot-routine) | [Mindfulness Techniques](/sv/education/mental-game/mindfulness/techniques)*
+| *Relaterat: [Hantera press](/sv/utbildning/mentalt-spel/mental-styrka/hantera-press) | [Rutin före skott](/sv/utbildning/mentalt-spel/mental-styrka/rutin-före-skott) | [Mindfulnesstekniker](/sv/utbildning/mentalt spel/mindfulness/tekniker)* |
 

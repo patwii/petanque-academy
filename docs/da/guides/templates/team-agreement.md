@@ -1,56 +1,56 @@
-# Team Agreement Template
+# Skabelon til teamaftale
 
-A framework for establishing clear communication, roles, and conflict resolution within your team.
+En ramme for at etablere klar kommunikation, roller og konfliktløsning i dit team.
 
-::: tip Why a Team Agreement?
-**Great teams don't hope for chemistry—they build it.** A clear agreement prevents misunderstandings and creates a foundation for honest communication.
+::: tip Hvorfor en teamaftale?
+**Gode teams håber ikke på kemi – de opbygger den.** En klar aftale forhindrer misforståelser og skaber et fundament for ærlig kommunikation.
 :::
 
-## Team Information
+## Holdinformation
 
-**Team name:** ________
-**Members:**
-1. ________ (Role: ________)
-2. ________ (Role: ________)
-3. ________ (Role: ________)
+**Holdnavn:** ________
+**Medlemmer:**
+1. ________ (Rolle: ________)
+2. ________ (Rolle: ________)
+3. ________ (Rolle: ________)
 
-**Agreement date:** ________
-**Review date:** ________ (recommend every 3-6 months)
+**Aftaledato:** ________
+**Gennemgangsdato:** ________ (anbefales hver 3.-6. måned)
 
 ---
 
-## 1. Roles & Responsibilities
+## 1. Roller og ansvar
 
-### Playing Roles
+### Spiller roller
 
-| Position | Primary Player | Backup | Strengths |
+| Position | Primær spiller | Sikkerhedskopiering | Styrker |
 |----------|---------------|--------|-----------|
-| **Pointer** | | | |
-| **Middle** | | | |
-| **Shooter** | | | |
+| **Peger** |
+| **Mellem** |
+| **Skydespil** |
 
-### Off-Field Roles
+### Roller uden for banen
 
-| Role | Person | Responsibilities |
+| Rolle | Person | Ansvar |
 |------|--------|------------------|
-| **Captain** (decisions) | | Final call on tactics |
-| **Organizer** (logistics) | | Bookings, schedule, communication |
-| **Motivator** (energy) | | Keep spirits up, positive reinforcement |
+| **Kaptajn** (beslutninger) | Sidste beslutning om taktik |
+| **Organisator** (logistik) | Bookinger, tidsplan, kommunikation |
+| **Motivator** (energi) | Hold humøret oppe, positiv forstærkning |
 
 ---
 
-## 2. Communication Agreements
+## 2. Kommunikationsaftaler
 
-### During Matches
+### Under kampene
 
-**Before each end:**
-- [ ] Brief terrain discussion
-- [ ] Agree on strategy
-- [ ] Confirm who plays first
+**Før hver ende:**
+- [ ] Kort diskussion af terrænet
+- [ ] Enighed om strategi
+- [ ] Bekræft hvem der spiller først
 
-**Hand signals we use:**
+**Håndsignaler vi bruger:**
 
-| Signal | Meaning |
+| Signal | Mening |
 |--------|---------|
 | | Point close |
 | | Point far |
@@ -58,168 +58,168 @@ A framework for establishing clear communication, roles, and conflict resolution
 | | Wait/discuss |
 | | Your choice |
 
-**After mistakes:**
-- [ ] No blame language ("why did you...")
-- [ ] Supportive response ("unlucky, next one")
-- [ ] Quick reset, move forward
+**Efter fejl:**
+- [ ] Ingen bebrejdelsessprog (&quot;hvorfor gjorde du...&quot;)
+- [ ] Støttende svar (&quot;uheldig, den næste&quot;)
+- [ ] Hurtig nulstilling, gå videre
 
-**We agree NOT to:**
-- [ ] Criticize during play
-- [ ] Show negative body language
-- [ ] Discuss other options after a throw
-- [ ] Blame teammates for losses
-
----
-
-## 3. Decision Making
-
-### Tactical Decisions
-
-**Who decides shot selection?**
-- [ ] Player throwing decides
-- [ ] Captain suggests, player decides
-- [ ] Team discusses briefly
-
-**When we disagree:**
-1. Each person states view briefly (10 sec)
-2. Captain makes final call
-3. Everyone commits 100%
-4. Review after match, not during
-
-### Substitution Decisions
-
-**How we decide who plays:**
-
-**Criteria:**
-- [ ] Form/recent performance
-- [ ] Terrain suitability
-- [ ] Physical condition
-- [ ] Rotation fairness
+**Vi accepterer IKKE at:**
+- [ ] Kritisere under spillet
+- [ ] Vis negativt kropssprog
+- [ ] Diskuter andre muligheder efter et kast
+- [ ] Giv holdkammeraterne skylden for tab
 
 ---
 
-## 4. Training Commitment
+## 3. Beslutningstagning
 
-**Regular training:**
-- Frequency: ________ times per week
-- Duration: ________ hours
-- Location: ________
+### Taktiske beslutninger
 
-**Attendance expectations:**
-- [ ] Communicate absences 24h in advance
-- [ ] Miss max _____ sessions per month
-- [ ] Arrive on time / _____ min early
+**Hvem bestemmer valget af skud?**
+- [ ] Spillerens kast bestemmer
+- [ ] Kaptajn foreslår, spiller beslutter
+- [ ] Teamet diskuterer kort
 
-**What we practice:**
-- [ ] Individual skills
-- [ ] Team tactics
-- [ ] Pressure situations
-- [ ] Competition simulation
+**Når vi er uenige:**
+1. Hver person giver kort udtryk for sin mening (10 sek.)
+2. Kaptajnen træffer den sidste beslutning
+3. Alle forpligter sig 100%
+4. Gennemgang efter kampen, ikke under kampen
+
+### Afgørelser om erstatning
+
+**Sådan bestemmer vi, hvem der spiller:**
+
+**Kriterier:**
+- [ ] Form/nylig præstation
+- [ ] Terrænegnethed
+- [ ] Fysisk tilstand
+- [ ] Rotationsretfærdighed
 
 ---
 
-## 5. Competition Commitments
+## 4. Træningsforpligtelse
 
-**Tournaments we commit to:**
+**Regelmæssig træning:**
+- Hyppighed: ________ gange om ugen
+- Varighed: ________ timer
+- Sted: ________
+
+**Forventninger til fremmøde:**
+- [ ] Meddel fravær 24 timer i forvejen
+- [ ] Gå glip af maks. _____ sessioner pr. måned
+- [ ] Ankom til tiden / _____ min. før tid
+
+**Hvad vi praktiserer:**
+- [ ] Individuelle færdigheder
+- [ ] Holdtaktik
+- [ ] Pressede situationer
+- [ ] Konkurrencesimulering
+
+---
+
+## 5. Konkurrenceforpligtelser
+
+**Turneringer vi forpligter os til:**
 1. ________
 2. ________
 3. ________
 
-**Pre-competition:**
-- [ ] Confirm availability 1 week before
-- [ ] Arrive _____ min before first match
-- [ ] Warm up together
+**Forud for konkurrencen:**
+- [ ] Bekræft tilgængelighed 1 uge før
+- [ ] Ankom _____ min før første kamp
+- [ ] Varm op sammen
 
-**Post-competition:**
-- [ ] Brief debrief (win or lose)
-- [ ] Celebrate efforts
-- [ ] Save detailed analysis for training
-
----
-
-## 6. Conflict Resolution
-
-### When Tensions Arise
-
-**Step 1: Cool down**
-- Don't address conflict during/immediately after match
-- Wait minimum 24 hours if emotions high
-
-**Step 2: Direct conversation**
-- Person with issue approaches the other directly
-- Use "I" statements ("I felt..." not "You always...")
-- Listen without defending
-
-**Step 3: Mediation (if needed)**
-- Third team member facilitates
-- Each person shares perspective
-- Find solution together
-
-**Step 4: Team meeting (if unresolved)**
-- All members present
-- Structured discussion
-- Agree on path forward
-
-### We Commit To:
-- [ ] Address issues, not let them fester
-- [ ] Assume good intentions
-- [ ] Prioritize team over ego
-- [ ] Keep disagreements private (not to others)
+**Efter konkurrencen:**
+- [ ] Kort opsummering (sejr eller tab)
+- [ ] Fejr indsatsen
+- [ ] Gem detaljeret analyse til træning
 
 ---
 
-## 7. Feedback Culture
+## 6. Konfliktløsning
 
-**How we give feedback:**
-- [ ] Specific and actionable
-- [ ] Balance positive and developmental
-- [ ] In private (not in front of others)
-- [ ] Regular (not just when problems)
+### Når spændinger opstår
 
-**Feedback schedule:**
-- [ ] Brief check-in after each tournament
-- [ ] Deeper feedback session every _____ weeks
-- [ ] Annual team review
+**Trin 1: Nedkøling**
+- Tag ikke konflikten op under/umiddelbart efter kampen
+- Vent mindst 24 timer, hvis følelserne er høje
 
----
+**Trin 2: Direkte samtale**
+- Personen med problemet henvender sig direkte til den anden
+- Brug &quot;jeg&quot;-udsagn (&quot;Jeg følte...&quot; ikke &quot;Du har altid...&quot;)
+- Lyt uden at forsvare
 
-## 8. Fun & Connection
+**Trin 3: Mægling (hvis nødvendigt)**
+- Tredje teammedlem faciliterer
+- Hver person deler perspektiv
+- Find løsningen sammen
 
-**We agree to:**
-- [ ] Celebrate wins together
-- [ ] Support each other in losses
-- [ ] Social activity every _____ months
-- [ ] Remember why we play: ________
+**Trin 4: Teammøde (hvis uafklaret)**
+- Alle medlemmer til stede
+- Struktureret diskussion
+- Enig om vejen frem
 
----
-
-## Signatures
-
-By signing, we commit to this agreement and to revisiting it when needed.
-
-**Name:** ________ **Signature:** ________ **Date:** ________
-
-**Name:** ________ **Signature:** ________ **Date:** ________
-
-**Name:** ________ **Signature:** ________ **Date:** ________
+### Vi forpligter os til:
+- [ ] Håndter problemerne, lad dem ikke ulme
+- [ ] Antag gode intentioner
+- [ ] Prioritér teamet frem for egoet
+- [ ] Hold uenigheder private (ikke for andre)
 
 ---
 
-## Review Notes
+## 7. Feedbackkultur
 
-**Review date:** ________
+**Sådan giver vi feedback:**
+- [ ] Specifik og handlingsrettet
+- [ ] Balance mellem positiv og udviklende
+- [ ] Privat (ikke foran andre)
+- [ ] Regelmæssigt (ikke kun når der er problemer)
 
-**What's working:**
-
-**What needs adjustment:**
-
-**Updated agreements:**
+**Feedbackplan:**
+- [ ] Kort check-in efter hver turnering
+- [ ] Dybere feedbacksession hver _____ uge
+- [ ] Årlig teamevaluering
 
 ---
 
-## Related Resources
+## 8. Sjov og forbindelse
 
-- [Team Dynamics Education](/da/education/team-dynamics/) — Build stronger team bonds
-- [Peer Feedback Template](/da/guides/templates/peer-feedback) — Structured feedback tools
-- [Training Session Guide](/da/guides/training-session/) — Practice together effectively
+**Vi accepterer:**
+- [ ] Fejr sejre sammen
+- [ ] Støt hinanden i nederlag
+- [ ] Social aktivitet hver _____ måned
+- [ ] Husk hvorfor vi spiller: ________
+
+---
+
+## Underskrifter
+
+Ved at underskrive forpligter vi os til denne aftale og til at revidere den, når det er nødvendigt.
+
+**Navn:** ________ **Underskrift:** ________ **Dato:** ________
+
+**Navn:** ________ **Underskrift:** ________ **Dato:** ________
+
+**Navn:** ________ **Underskrift:** ________ **Dato:** ________
+
+---
+
+## Gennemgå noter
+
+**Gennemgangsdato:** ________
+
+**Hvad virker:**
+
+**Hvad skal justeres:**
+
+**Opdaterede aftaler:**
+
+---
+
+## Relaterede ressourcer
+
+- [Uddannelse i teamdynamik](/da/uddannelse/teamdynamik/) — Skab stærkere teambånd
+- [Skabelon til peerfeedback](/da/vejledninger/skabeloner/peerfeedback) — Strukturerede feedbackværktøjer
+- [Guide til træningssession](/da/guider/træningssession/) — Øv effektivt sammen
 

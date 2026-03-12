@@ -3,30 +3,30 @@ title: Maintaining Long-Term Motivation
 description: Prevent burnout and sustain your drive over years of competitive pétanque.
 ---
 
-# Maintaining Long-Term Motivation
+# Mantener la motivación a largo plazo
 
-Elite performance requires sustained effort over years, not weeks. This page addresses the challenges of maintaining motivation through plateaus, setbacks, and the inevitable ebbs and flows of a long athletic journey.
+El rendimiento de élite requiere un esfuerzo sostenido durante años, no semanas. Esta página aborda los desafíos de mantener la motivación durante los estancamientos, los reveses y los inevitables altibajos de una larga trayectoria deportiva.
 
 ---
 
-## The Long-Term Motivation Challenge
+## El desafío de la motivación a largo plazo
 
-### Why Motivation Fades
+### ¿Por qué se desvanece la motivación?
 
-Even passionate players experience motivation drops:
+Incluso los jugadores más apasionados sufren caídas de motivación:
 
-| Challenge | Description |
+| Desafío | Descripción |
 |-----------|-------------|
-| **Plateau phases** | Improvement slows or stops |
-| **Accumulated fatigue** | Physical and mental tiredness |
-| **Life competition** | Work, family, other priorities |
-| **Comparison trap** | Others seem to improve faster |
-| **Result dependency** | Motivation tied only to winning |
-| **Routine boredom** | Same training, same competitions |
+| **Fases de meseta** | La mejora se ralentiza o se detiene |
+| **Fatiga acumulada** | Cansancio físico y mental |
+| **Competencia de vida** | Trabajo, familia, otras prioridades |
+| **Trampa de comparación** | Otros parecen mejorar más rápido |
+| **Dependencia del resultado** | Motivación ligada únicamente a ganar |
+| **Aburrimiento rutinario** | Mismo entrenamiento, mismas competiciones |
 
-### The Motivation Cycle
+### El ciclo de la motivación
 
-Motivation naturally fluctuates:
+La motivación fluctúa naturalmente:
 
 ```
 High ────────╮    ╭────────────╮
@@ -36,232 +36,232 @@ Low ─────────────────────────�
     Start   Plateau  Recovery   Growth
 ```
 
-**Key insight:** Dips are normal. The goal isn't constant high motivation—it's resilience through low periods.
+**Consideración clave:** Las caídas son normales. El objetivo no es una motivación alta y constante, sino la resiliencia durante los períodos bajos.
 
 ---
 
-## Burnout: Recognize and Prevent
+## Burnout: reconocer y prevenir
 
-### What Is Burnout?
+### ¿Qué es el síndrome del burnout?
 
-Burnout is chronic exhaustion combined with reduced sense of accomplishment and depersonalization from the sport.
+El agotamiento es un agotamiento crónico combinado con una menor sensación de logro y despersonalización del deporte.
 
-### Warning Signs
+### Señales de advertencia
 
-**Physical:**
-- Chronic fatigue
-- Frequent illness
-- Sleep disturbances
-- Persistent muscle tension
+**Físico:**
+- Fatiga crónica
+- Enfermedad frecuente
+- Trastornos del sueño
+- Tensión muscular persistente
 
-**Emotional:**
-- Dread before training/competition
-- Irritability and frustration
-- Emotional flatness about results
-- Loss of enjoyment
+**Emocional:**
+- Miedo antes del entrenamiento/competición
+- Irritabilidad y frustración
+- Planitud emocional ante los resultados
+- Pérdida del disfrute
 
-**Behavioral:**
-- Skipping training
-- Going through the motions
-- Reduced effort
-- Withdrawal from team/community
+**Comportamiento:**
+- Saltarse el entrenamiento
+- Siguiendo los pasos
+- Esfuerzo reducido
+- Retirada del equipo/comunidad
 
-::: danger Early Intervention
-If you recognize 3+ warning signs, take action now. Burnout is much easier to prevent than recover from.
+::: danger Intervención temprana
+Si reconoces 3 o más señales de advertencia, actúa ahora. El agotamiento es mucho más fácil de prevenir que de superar.
 :::
 
-### Burnout Prevention Strategies
+### Estrategias para la prevención del agotamiento
 
-| Strategy | Implementation |
+| Estrategia | Implementación |
 |----------|----------------|
-| **Rest cycles** | Plan regular recovery weeks |
-| **Variety** | Change training routines periodically |
-| **Boundaries** | Protect non-pétanque life areas |
-| **Social connection** | Maintain relationships beyond sport |
-| **Purpose reconnection** | Remember your "why" |
-| **Professional help** | Sports psychologist if needed |
+| **Ciclos de descanso** | Planifique semanas de recuperación regulares |
+| **Variedad** | Cambiar las rutinas de entrenamiento periódicamente |
+| **Límites** | Proteger las zonas de vida distintas a la petanca |
+| **Conexión social** | Mantener relaciones más allá del deporte |
+| **Reconexión de propósito** | Recuerda tu &quot;por qué&quot; |
+| **Ayuda profesional** | Psicólogo deportivo si es necesario |
 
 ---
 
-## Navigating Plateaus
+## Navegando por las mesetas
 
-### Understanding Plateaus
+### Entendiendo las Mesetas
 
-Plateaus are normal parts of development:
+Las mesetas son partes normales del desarrollo:
 
-- Skills consolidate before next jump
-- Hidden improvements accumulate
-- Old limits are being restructured
+- Las habilidades se consolidan antes del siguiente salto
+- Las mejoras ocultas se acumulan
+- Se están reestructurando los viejos límites
 
-**The problem isn't the plateau—it's how you respond to it.**
+**El problema no es la meseta, sino cómo respondes a ella.**
 
-### Plateau Strategies
+### Estrategias de meseta
 
-**1. Change Your Metrics**
-- If results aren't changing, measure something else
-- Process goals become especially important
-- Find micro-improvements others wouldn't notice
+**1. Cambia tus métricas**
+- Si los resultados no cambian, mida algo más
+- Los objetivos del proceso se vuelven especialmente importantes
+- Encuentre micromejoras que otros no notarían
 
-**2. Vary Your Approach**
-- Try new training methods
-- Work on different skills
-- Change your environment
+**2. Varía tu enfoque**
+- Pruebe nuevos métodos de entrenamiento
+- Trabajar en diferentes habilidades
+- Cambia tu entorno
 
-**3. Seek External Input**
-- Fresh eyes see things you don't
-- A coach or experienced player may spot issues
-- Video analysis reveals hidden changes
+**3. Busque información externa**
+- Los ojos nuevos ven cosas que tú no ves
+- Un entrenador o un jugador experimentado puede detectar problemas
+- El análisis de vídeo revela cambios ocultos
 
-**4. Embrace the Plateau**
-- This is consolidation time
-- Mastery requires these phases
-- Trust the process
+**4. Abraza la meseta**
+- Este es el momento de consolidación
+- El dominio requiere estas fases
+- Confía en el proceso
 
 ---
 
-## Dealing with Setbacks
+## Cómo afrontar los reveses
 
-### The Setback Response
+### La respuesta al revés
 
-How you respond to setbacks determines their impact:
+La forma en que respondemos a los reveses determina su impacto:
 
-| Response | Short-term | Long-term |
+| Respuesta | Corto plazo | A largo plazo |
 |----------|------------|-----------|
-| **Denial** | Feels better | Problems compound |
-| **Catastrophizing** | Feels worse | Problems magnify |
-| **Acceptance + Action** | May feel hard | Problems become learning |
+| **Negación** | Se siente mejor | Los problemas se agravan |
+| **Catastrofismo** | Se siente peor | Los problemas se magnifican |
+| **Aceptación + Acción** | Puede sentirse duro | Los problemas se convierten en aprendizaje |
 
-### The Setback Protocol
+### El Protocolo de Retroceso
 
-**Day 1-2: Feel It**
-- Allow disappointment
-- Don't analyze yet
-- Rest if needed
+**Día 1-2: Siéntelo**
+- Permitir la decepción
+- No analices todavía
+- Descansar si es necesario
 
-**Day 3-5: Understand It**
-- What happened objectively?
-- What was in your control?
-- What can you learn?
+**Día 3-5: Entiéndelo**
+- ¿Qué pasó objetivamente?
+- ¿Qué estaba bajo tu control?
+- ¿Qué puedes aprender?
 
-**Day 6+: Act On It**
-- Adjust what needs adjusting
-- Return to process focus
-- Move forward
-
----
-
-## Seasonal Motivation Management
-
-### Competition Season
-
-- Higher intensity, more pressure
-- Focus on performance and results
-- Maintain recovery routines
-- Accept some stress as normal
-
-### Off-Season
-
-- Deliberate rest period
-- Address physical issues
-- Reconnect with enjoyment
-- Varied activities
-
-### Transition Periods
-
-- Gradual intensity changes
-- Goal setting for next season
-- Skill development focus
-- Building motivation reserves
+**Día 6+: Actúa en consecuencia**
+- Ajusta lo que necesite ajuste
+- Regresar al enfoque del proceso
+- Avanzar
 
 ---
 
-## The Motivation Toolkit
+## Gestión de la motivación estacional
 
-### Daily Tools
+### Temporada de competición
 
-| Tool | When to Use |
+- Mayor intensidad, más presión
+- Centrarse en el rendimiento y los resultados
+- Mantener rutinas de recuperación
+- Acepta algo de estrés como algo normal
+
+### Fuera de temporada
+
+- Período de descanso deliberado
+- Abordar los problemas físicos
+- Reconecta con el disfrute
+- Actividades variadas
+
+### Períodos de transición
+
+- Cambios graduales de intensidad
+- Establecimiento de objetivos para la próxima temporada
+- Enfoque en el desarrollo de habilidades
+- Construyendo reservas de motivación
+
+---
+
+## El kit de herramientas de motivación
+
+### Herramientas diarias
+
+| Herramienta | Cuándo usarlo |
 |------|-------------|
-| **Intention setting** | Start of each session |
-| **Gratitude practice** | After training/competition |
-| **Small wins tracking** | Daily or weekly |
-| **Process focus** | Every throw |
+| **Establecimiento de intenciones** | Inicio de cada sesión |
+| **Práctica de gratitud** | Después del entrenamiento/competición |
+| **Seguimiento de pequeñas victorias** | Diariamente o semanalmente |
+| **Enfoque en el proceso** | Cada lanzamiento |
 
-### Weekly Tools
+### Herramientas semanales
 
-| Tool | When to Use |
+| Herramienta | Cuándo usarlo |
 |------|-------------|
-| **Reflection journaling** | End of week |
-| **Progress review** | Weekly check-in |
-| **Social connection** | Team/community time |
-| **Rest day(s)** | Scheduled recovery |
+| **Diario de reflexión** | Fin de semana |
+| **Revisión del progreso** | Check-in semanal |
+| **Conexión social** | Tiempo en equipo/comunidad |
+| **Día(s) de descanso** | Recuperación programada |
 
-### Periodic Tools
+### Herramientas periódicas
 
-| Tool | When to Use |
+| Herramienta | Cuándo usarlo |
 |------|-------------|
-| **Goal reassessment** | Monthly/quarterly |
-| **Fresh experiences** | Try new aspects of sport |
-| **Complete breaks** | Off-season, vacations |
-| **"Why" reconnection** | When motivation dips |
+| **Reevaluación de objetivos** | Mensual/trimestral |
+| **Experiencias frescas** | Pruebe nuevos aspectos del deporte |
+| **Pausas completas** | Fuera de temporada, vacaciones |
+| **¿Por qué? Reconexión** | Cuando la motivación decae |
 
 ---
 
-## Building Motivation Reserves
+## Construyendo reservas de motivación
 
-### The Motivation Account
+### La cuenta de motivación
 
-Think of motivation like a bank account:
+Piense en la motivación como si fuera una cuenta bancaria:
 
-**Deposits:**
-- Enjoyable experiences
-- Achievements and progress
-- Social connection
-- Rest and recovery
-- Learning new things
+**Depósitos:**
+- Experiencias agradables
+- Logros y progreso
+- Conexión social
+- Descanso y recuperación
+- Aprendiendo cosas nuevas
 
-**Withdrawals:**
-- Pressure and stress
-- Setbacks and failures
-- Overtraining
-- Conflict
-- Life demands
+**Retiros:**
+- Presión y estrés
+- Retrocesos y fracasos
+- Sobreentrenamiento
+- Conflicto
+- La vida exige
 
-**Goal:** Keep the account positive. Make more deposits than withdrawals over time.
+**Objetivo:** Mantener la cuenta con saldo positivo. Realizar más depósitos que retiros a lo largo del tiempo.
 
 ---
 
-## When to Push Through vs. Back Off
+## Cuándo seguir adelante o retroceder
 
-| Push Through When | Back Off When |
+| Seguir adelante cuando | Retroceda cuando |
 |-------------------|---------------|
-| Temporary tiredness | Chronic exhaustion |
-| Single bad session | Pattern of bad sessions |
-| Normal nervousness | Dread and avoidance |
-| Challenge stretches you | Challenge breaks you |
-| Commitment to process | Obligation without joy |
+| cansancio temporal | Agotamiento crónico |
+| Una sola mala sesión | Patrón de malas sesiones |
+| Nerviosismo normal | Miedo y evasión |
+| El desafío te pone a prueba | El desafío te rompe |
+| Compromiso con el proceso | Obligación sin alegría |
 
-::: tip Listen to Your Body and Mind
-"No pain, no gain" is outdated. Smart training includes knowing when to rest.
+::: tip Escucha a tu cuerpo y a tu mente
+El dicho &quot;sin dolor no hay ganancia&quot; está obsoleto. Un entrenamiento inteligente implica saber cuándo descansar.
 :::
 
 ---
 
-## Long-Term Success Factors
+## Factores de éxito a largo plazo
 
-Research on sustained athletic motivation shows:
+Las investigaciones sobre la motivación deportiva sostenida muestran lo siguiente:
 
-1. **Intrinsic motivation** is more sustainable than extrinsic
-2. **Autonomy** in training choices preserves motivation
-3. **Social support** buffers against burnout
-4. **Balanced life** prevents over-identification with sport
-5. **Growth mindset** helps navigate setbacks
+1. **La motivación intrínseca** es más sostenible que la extrínseca
+2. **La autonomía** en las elecciones de entrenamiento preserva la motivación
+3. **El apoyo social** protege contra el agotamiento
+4. **Una vida equilibrada** evita la sobreidentificación con el deporte
+5. **La mentalidad de crecimiento** ayuda a superar los reveses
 
 ---
 
-## Related Content
+## Contenido relacionado
 
-- [Psychology of Motivation](/es/education/motivation/motivation) — Understanding motivation types
-- [Goal Setting](/es/education/motivation/) — Creating effective goals
-- [Sleep & Recovery](/es/education/sleep/) — Physical recovery
-- [Mindfulness](/es/education/mental-game/mindfulness/) — Mental recovery tools
+- [Psicología de la motivación](/es/educacion/motivacion/motivacion) — Comprender los tipos de motivación
+- [Establecimiento de objetivos](/es/educación/motivación/) — Creación de objetivos efectivos
+- [Sueño y recuperación](/es/educacion/sueño/) — Recuperación física
+- [Mindfulness](/es/educacion/juego-mental/mindfulness/) — Herramientas de recuperación mental
 

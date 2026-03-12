@@ -3,127 +3,127 @@ title: Psychology of Motivation
 description: Understand intrinsic vs extrinsic motivation and Self-Determination Theory to fuel sustainable drive.
 ---
 
-# Psychology of Motivation
+# Motivationspsykologi
 
-Understanding WHY you're motivated—not just that you are—helps you build sustainable drive that doesn't depend on results.
+At forstå HVORFOR du er motiveret – ikke bare at du er det – hjælper dig med at opbygge en bæredygtig drivkraft, der ikke afhænger af resultater.
 
 ---
 
-## Intrinsic vs. Extrinsic Motivation
+## Intrinsisk vs. Ekstrem Motivation
 
-### Extrinsic Motivation
+### Ekstrem motivation
 
-Motivation driven by external rewards or pressures:
+Motivation drevet af eksterne belønninger eller pres:
 
-| Source | Example |
+| Kilde | Eksempel |
 |--------|---------|
-| **Trophies/medals** | "I want to win the championship" |
-| **Rankings** | "I want to be top 10 in my region" |
-| **Recognition** | "I want others to see me as a good player" |
-| **Avoid criticism** | "I don't want to disappoint my team" |
-| **Financial** | "I want to win prize money" |
+| **Trofæer/medaljer** | &quot;Jeg vil vinde mesterskabet&quot; |
+| **Rangeringer** | &quot;Jeg vil gerne være i top 10 i min region&quot; |
+| **Anerkendelse** | &quot;Jeg vil have, at andre ser mig som en god spiller&quot; |
+| **Undgå kritik** | &quot;Jeg vil ikke skuffe mit hold&quot; |
+| **Finansiel** | &quot;Jeg vil gerne vinde præmiepenge&quot; |
 
-**Characteristics:**
-- Can provide strong initial motivation
-- Often diminishes over time
-- Dependent on factors outside your control
-- Can undermine enjoyment
+**Karakteristika:**
+- Kan give stærk indledende motivation
+- Ofte aftager med tiden
+- Afhængig af faktorer uden for din kontrol
+- Kan undergrave nydelsen
 
-### Intrinsic Motivation
+### Intrinsisk motivation
 
-Motivation from the activity itself:
+Motivation fra selve aktiviteten:
 
-| Source | Example |
+| Kilde | Eksempel |
 |--------|---------|
-| **Mastery** | "I love the feeling of improving" |
-| **Flow** | "Time disappears when I'm playing" |
-| **Challenge** | "I enjoy testing myself against problems" |
-| **Expression** | "Pétanque allows me to express who I am" |
-| **Joy** | "I simply love playing this game" |
+| **Mestring** | &quot;Jeg elsker følelsen af at blive bedre&quot; |
+| **Flyde** | &quot;Tiden forsvinder, når jeg spiller&quot; |
+| **Udfordring** | &quot;Jeg nyder at teste mig selv i forhold til problemer&quot; |
+| **Udtryk** | &quot;Petanque giver mig mulighed for at udtrykke, hvem jeg er&quot; |
+| **Glæde** | &quot;Jeg elsker simpelthen at spille dette spil&quot; |
 
-**Characteristics:**
-- More sustainable over time
-- Independent of results
-- Connected to deeper satisfaction
-- Enhances performance naturally
+**Karakteristika:**
+- Mere bæredygtig over tid
+- Uafhængig af resultater
+- Forbundet til dybere tilfredshed
+- Forbedrer ydeevnen naturligt
 
-::: tip The Research
-Studies consistently show that **intrinsic motivation leads to better performance, more persistence, and greater well-being** than extrinsic motivation alone.
+::: tip Forskningen
+Studier viser konsekvent, at **indre motivation fører til bedre præstationer, mere vedholdenhed og større velvære** end ydre motivation alene.
 :::
 
 ---
 
-## Self-Determination Theory (SDT)
+## Selvbestemmelsesteori (SDT)
 
-Developed by Deci & Ryan, SDT identifies three fundamental psychological needs that drive intrinsic motivation:
+SDT, udviklet af Deci &amp; Ryan, identificerer tre grundlæggende psykologiske behov, der driver indre motivation:
 
-### 1. Autonomy
+### 1. Autonomi
 
-**The need to feel in control of your choices**
+**Behovet for at føle kontrol over dine valg**
 
-| Supports Autonomy | Undermines Autonomy |
+| Understøtter autonomi | Underminerer autonomi |
 |-------------------|---------------------|
-| Choosing your training focus | Being told exactly what to do |
-| Setting your own goals | External pressure to perform |
-| Deciding how to practice | Forced participation |
-| Having input on team decisions | Controlling coaches/teammates |
+| Valg af dit træningsfokus | Får at vide præcis, hvad man skal gøre |
+| At sætte dine egne mål | Eksternt pres for at præstere |
+| Beslutning om, hvordan man skal øve sig | Tvungen deltagelse |
+| At have indflydelse på teamets beslutninger | Kontrollerende trænere/holdkammerater |
 
-**For pétanque:**
-- Choose what aspects to work on
-- Set your own development path
-- Make tactical decisions yourself
-- Own your training schedule
+**Til petanque:**
+- Vælg hvilke aspekter du vil arbejde med
+- Sæt din egen udviklingssti
+- Træf selv taktiske beslutninger
+- Ejer din træningsplan
 
-### 2. Competence
+### 2. Kompetence
 
-**The need to feel effective and capable**
+**Behovet for at føle sig effektiv og dygtig**
 
-| Supports Competence | Undermines Competence |
+| Understøtter kompetence | Underminerer kompetence |
 |---------------------|----------------------|
-| Appropriate challenges | Tasks too easy or too hard |
-| Clear feedback on progress | No feedback or only negative |
-| Visible improvement | Stagnation without explanation |
-| Skill-appropriate competition | Constant over-matching |
+| Passende udfordringer | Opgaver for lette eller for svære |
+| Tydelig feedback på fremskridt | Ingen feedback eller kun negativ |
+| Synlig forbedring | Stagnation uden forklaring |
+| Færdighedsrelateret konkurrence | Konstant overmatchning |
 
-**For pétanque:**
-- Track your improvement metrics
-- Seek appropriate competition levels
-- Celebrate small wins
-- Get specific feedback (not just results)
+**Til petanque:**
+- Spor dine forbedringsmålinger
+- Søg passende konkurrenceniveauer
+- Fejr små sejre
+- Få specifik feedback (ikke kun resultater)
 
-### 3. Relatedness
+### 3. Relationalitet
 
-**The need for connection with others**
+**Behovet for kontakt med andre**
 
-| Supports Relatedness | Undermines Relatedness |
+| Understøtter beslægtethed | Underminerer tilknytning |
 |----------------------|------------------------|
-| Positive team relationships | Isolation |
-| Shared goals with teammates | Purely individual focus |
-| Community belonging | Exclusion or conflict |
-| Mentorship (giving/receiving) | Competitive-only relationships |
+| Positive teamrelationer | Isolation |
+| Delte mål med holdkammerater | Rent individuelt fokus |
+| Tilhørsforhold til fællesskabet | Udelukkelse eller konflikt |
+| Mentorskab (at give/modtage) | Kun konkurrenceprægede relationer |
 
-**For pétanque:**
-- Build genuine team connections
-- Find training partners
-- Join club community activities
-- Share knowledge with others
+**Til petanque:**
+- Skab ægte teamforbindelser
+- Find træningspartnere
+- Deltag i klubbens fællesskabsaktiviteter
+- Del viden med andre
 
 ---
 
-## The SDT Formula
+## SDT-formlen
 
 ```
 Autonomy + Competence + Relatedness = Intrinsic Motivation
 ```
 
-When all three needs are met, intrinsic motivation flourishes naturally.
+Når alle tre behov er opfyldt, blomstrer den indre motivation naturligt.
 
 ```mermaid
 graph TD
-    A[Autonomy<br/>Choice & Control] --> D[Intrinsic<br/>Motivation]
-    B[Competence<br/>Mastery & Growth] --> D
-    C[Relatedness<br/>Connection & Belonging] --> D
-    D --> E[Sustainable<br/>Performance]
+    A[Autonomi <br/> Valg og kontrol] --> D[Intrinsisk <br/> Motivering]
+    B[Kompetence <br/> Mestring og vækst] --> D
+    C[Relaterethed <br/> Forbindelse og tilhørsforhold] --> D
+    D --> E[Bæredygtig <br/> Præstation]
     
     style D fill:#4CAF50,color:#fff
     style E fill:#2196F3,color:#fff
@@ -131,82 +131,82 @@ graph TD
 
 ---
 
-## Motivation Types Spectrum
+## Motivationstyper Spektrum
 
-SDT describes motivation on a spectrum from external to internal:
+SDT beskriver motivation på et spektrum fra ekstern til intern:
 
-| Type | Description | Example | Quality |
+| Type | Beskrivelse | Eksempel | Kvalitet |
 |------|-------------|---------|---------|
-| **Amotivation** | No motivation | "Why bother?" | ❌ |
-| **External** | For rewards/avoid punishment | "I'll get a trophy" | ⭐ |
-| **Introjected** | Internal pressure, guilt | "I should practice" | ⭐⭐ |
-| **Identified** | Valued outcome | "This helps me improve" | ⭐⭐⭐ |
-| **Integrated** | Aligned with values | "This is who I am" | ⭐⭐⭐⭐ |
-| **Intrinsic** | Pure enjoyment | "I love this" | ⭐⭐⭐⭐⭐ |
+| **Motivation** | Ingen motivation | &quot;Hvorfor besvære dig?&quot; | ❌ |
+| **Ekstern** | For at opnå belønninger/undgå straf | &quot;Jeg får en trofæ&quot; | ⭐ |
+| **Introduceret** | Indre pres, skyldfølelse | &quot;Jeg burde øve mig&quot; | ⭐⭐ |
+| **Identificeret** | Værdifuldt resultat | &quot;Dette hjælper mig med at forbedre mig&quot; | ⭐⭐⭐ |
+| **Integreret** | I overensstemmelse med værdier | &quot;Det her er jeg&quot; | ⭐⭐⭐⭐⭐ |
+| **Iboende** | Ren nydelse | &quot;Jeg elsker dette&quot; | ⭐⭐⭐⭐⭐⭐ |
 
-**Goal:** Move your motivation toward the intrinsic end of the spectrum.
+**Mål:** Flyt din motivation mod den indre ende af spektret.
 
 ---
 
-## Self-Assessment: Your Motivation Profile
+## Selvevaluering: Din motivationsprofil
 
-Rate each statement (1 = Not at all, 5 = Completely):
+Bedøm hvert udsagn (1 = Slet ikke, 5 = Helt):
 
-**Extrinsic Indicators:**
-| Statement | Score |
+**Ydre indikatorer:**
+| Erklæring | Score |
 |-----------|-------|
-| I mainly play to win tournaments | /5 |
-| Recognition from others matters a lot to me | /5 |
-| I'd lose interest without competitive success | /5 |
-| **Extrinsic Total** | /15 |
+| Jeg spiller primært for at vinde turneringer | /5 |
+| Anerkendelse fra andre betyder meget for mig | /5 |
+| Jeg ville miste interessen uden konkurrencemæssig succes | /5 |
+| **Ekstrinsik total** | /15 |
 
-**Intrinsic Indicators:**
-| Statement | Score |
+**Intrinsiske indikatorer:**
+| Erklæring | Score |
 |-----------|-------|
-| I'd play even if there were no competitions | /5 |
-| The feeling of improvement excites me | /5 |
-| I lose track of time when playing | /5 |
-| **Intrinsic Total** | /15 |
+| Jeg ville spille, selvom der ikke var nogen konkurrencer | /5 |
+| Følelsen af forbedring begejstrer mig | /5 |
+| Jeg mister tidsfornemmelsen, når jeg spiller | /5 |
+| **Intrinsisk total** | /15 |
 
-**Interpretation:**
-- Higher intrinsic total = more sustainable motivation
-- Balance is fine, but ensure intrinsic ≥ extrinsic
-- If extrinsic >> intrinsic, reconnect with your love of the game
-
----
-
-## Shifting Toward Intrinsic Motivation
-
-### Reconnect with Joy
-
-- **Remember why you started** — What attracted you initially?
-- **Play without stakes** — Occasional "just for fun" sessions
-- **Appreciate moments** — Notice when you're enjoying the game
-
-### Focus on Mastery
-
-- **Set learning goals** not just outcome goals
-- **Celebrate improvement** regardless of results
-- **Embrace challenges** as growth opportunities
-
-### Build Autonomy
-
-- **Make your own choices** about training
-- **Own your development** path
-- **Resist external pressure** to train certain ways
-
-### Cultivate Connection
-
-- **Invest in relationships** beyond competition
-- **Share knowledge** with developing players
-- **Find your community** within the sport
+**Fortolkning:**
+- Højere intrinsisk total = mere bæredygtig motivation
+- Balancen er fin, men sørg for at intrinsisk ≥ ydre
+- Hvis det er ydre &gt;&gt; iboende, så genoptag forbindelsen til din kærlighed til spillet
 
 ---
 
-## Related Content
+## Skift mod indre motivation
 
-- [Goal Setting](/da/education/motivation/) — Setting effective goals
-- [Maintaining Motivation](/da/education/motivation/maintaining) — Long-term sustainability
-- [The Zone](/da/education/mental-game/the-zone/) — Intrinsic motivation and flow
-- [Team Dynamics](/da/education/team-dynamics/) — Relatedness in team context
+### Genopret forbindelsen med glæden
+
+- **Husk hvorfor du startede** — Hvad tiltrak dig i starten?
+- **Spil uden indsatser** — Lejlighedsvise sessioner &quot;bare for sjov&quot;
+- **Sæt pris på øjeblikke** — Læg mærke til, hvornår du nyder spillet
+
+### Fokus på mestring
+
+- **Sæt læringsmål** ikke kun resultatmål
+- **Fejr forbedringer** uanset resultater
+- **Omfavn udfordringer** som vækstmuligheder
+
+### Opbyg autonomi
+
+- **Træf dine egne valg** om træning
+- **Tag ejerskab over din udvikling**
+- **Modstå ydre pres** for at træne på bestemte måder
+
+### Dyrk forbindelse
+
+- **Investér i relationer** ud over konkurrencen
+- **Del viden** med spillere i udvikling
+- **Find dit fællesskab** inden for sporten
+
+---
+
+## Relateret indhold
+
+- [Målsætning](/da/uddannelse/motivation/) — Sætte effektive mål
+- [Opretholdelse af motivation](/da/uddannelse/motivation/opretholdelse) — Langsigtet bæredygtighed
+- [Zonen](/da/uddannelse/mentalt-spil/zonen/) — Indre motivation og flow
+- [Teamdynamik](/da/uddannelse/teamdynamik/) — Sammenhæng i teamkontekst
 

@@ -3,22 +3,22 @@ title: Sleep Tracker Template
 description: Track your sleep patterns and correlate them with pétanque performance. Printable templates for daily logging and weekly analysis.
 ---
 
-# Sleep Tracker Template
+# Modèle de suivi du sommeil
 
-> "The player who slept better often wins."
+> « Le joueur qui a le mieux dormi gagne souvent. »
 
-Track your sleep patterns and correlate them with performance to optimize recovery.
+Analysez vos cycles de sommeil et corrélez-les avec vos performances pour optimiser votre récupération.
 
-::: tip Why Track Sleep?
-**Sleep is the #1 recovery tool.** Elite athletes who track sleep consistently report better energy, faster reaction times, and improved decision-making under pressure.
+::: tip Pourquoi suivre son sommeil ?
+**Le sommeil est le meilleur outil de récupération.** Les athlètes de haut niveau qui suivent régulièrement leur sommeil font état d&#39;une meilleure énergie, de temps de réaction plus rapides et d&#39;une meilleure prise de décision sous pression.
 :::
 
 ```mermaid
 flowchart LR
-    A[Track Sleep] --> B[Identify Patterns]
-    B --> C[Adjust Habits]
-    C --> D[Better Performance]
-    D --> E[Track Results]
+    A[Suivi du sommeil] --> B[Identifier les modèles]
+    B --> C[Modifier ses habitudes]
+    C --> D[Meilleures performances]
+    D --> E[Résultats du suivi]
     E --> A
 
     style A fill:#9C27B0,color:#fff
@@ -27,174 +27,174 @@ flowchart LR
 
 ---
 
-## Quick Daily Entry
+## Entrée quotidienne rapide
 
-### Copy This for Each Day
+### Copiez ceci pour chaque jour
 
 ---
 
 **Date:** ________
 
-**Bedtime:** ________ | **Wake time:** ________
-**Total sleep:** ________ hours
+| **Heure du coucher :** ________ | **Heure de réveil :** ________ |
+**Durée totale du sommeil :** ________ heures
 
-**Sleep Quality (1-10):** _____
+**Qualité du sommeil (1-10) :** _____
 
-**Factors affecting sleep:**
-- [ ] Caffeine after 2pm
-- [ ] Alcohol
-- [ ] Screen time before bed
-- [ ] Stress/worry
-- [ ] Noise/light disturbance
-- [ ] Temperature issues
-- [ ] Late meal
-- [ ] Other: ________
+**Facteurs influençant le sommeil :**
+- [ ] Caféine après 14h
+- [ ] Alcool
+- [ ] Temps passé devant les écrans avant le coucher
+- [ ] Stress/inquiétude
+- [ ] Nuisances sonores et lumineuses
+- [ ] Problèmes de température
+- [ ] Repas tardif
+- [ ] Autre: ________
 
-**Morning energy (1-10):** _____
+**Énergie matinale (1-10) :** _____
 
-**Notes:**
-
----
-
-## Weekly Sleep Summary
-
-### Copy This Each Week
+**Remarques :**
 
 ---
 
-**Week of:** ________
+## Résumé hebdomadaire du sommeil
 
-| Day | Bedtime | Wake | Hours | Quality | Energy | Notes |
+### Copiez ceci chaque semaine
+
+---
+
+**Semaine du :** ________
+
+| Jour | Heure du coucher | Se réveiller | Heures | Qualité | Énergie | Notes |
 |-----|---------|------|-------|---------|--------|-------|
-| Mon | | | | /10 | /10 | |
-| Tue | | | | /10 | /10 | |
-| Wed | | | | /10 | /10 | |
-| Thu | | | | /10 | /10 | |
-| Fri | | | | /10 | /10 | |
-| Sat | | | | /10 | /10 | |
-| Sun | | | | /10 | /10 | |
+| Lun | /10 | /10 |
+| Mar | /10 | /10 |
+| Épouser | /10 | /10 |
+| Jeu | /10 | /10 |
+| Ven | /10 | /10 |
+| Assis | /10 | /10 |
+| Soleil | /10 | /10 |
 
-**Weekly Average:** _____ hours | Quality: _____/10 | Energy: _____/10
+| **Moyenne hebdomadaire :** _____ heures | Qualité : _____/10 | Énergie : _____/10 |
 
-**Best night:** ________ Why? ________
+**Meilleure soirée :** ________ Pourquoi ? ________
 
-**Worst night:** ________ Why? ________
+**Pire soirée :** ________ Pourquoi ? ________
 
-**Pattern noticed:**
+**Schéma observé :**
 
 ---
 
-## Pre-Competition Sleep Protocol
+## Protocole de sommeil pré-compétition
 
-### 3 Days Before Competition
+### 3 jours avant la compétition
 
-| Night | Target Bedtime | Actual | Hours | Quality | Notes |
+| Nuit | Objectif Coucher | Réel | Heures | Qualité | Notes |
 |-------|----------------|--------|-------|---------|-------|
-| -3 days | | | | | |
-| -2 days | | | | | |
-| -1 day | | | | | |
+| -3 jours |
+| -2 jours |
+| -1 jour |
 
-**Competition day energy (1-10):** _____
+**Niveau d&#39;énergie pour le jour de la compétition (1-10) :** _____
 
-**Performance correlation:**
-- Did sleep affect my play? Yes / No / Maybe
-- How?
+**Corrélation des performances :**
+- Le sommeil a-t-il influencé mon jeu ? Oui / Non / Peut-être
+- Comment?
 
 ---
 
-## Sleep Environment Checklist
+## Liste de contrôle de l&#39;environnement de sommeil
 
-Rate your sleep environment:
+Évaluez votre environnement de sommeil :
 
-| Factor | Score (1-10) | Improvement needed? |
+| Facteur | Note (1-10) | Des améliorations sont-elles nécessaires ? |
 |--------|--------------|---------------------|
-| **Darkness** | | |
-| **Temperature** (16-19°C ideal) | | |
-| **Noise level** | | |
-| **Mattress comfort** | | |
-| **Pillow support** | | |
-| **Air quality** | | |
-| **Phone out of room** | | |
+| **Obscurité** |
+| **Température** (16-19°C idéale) |
+| **Niveau sonore** |
+| **Confort du matelas** |
+| **Support d&#39;oreiller** |
+| **Qualité de l&#39;air** |
+| **Téléphone hors de la chambre** |
 
 ---
 
-## Sleep Hygiene Habits
+## Habitudes d&#39;hygiène du sommeil
 
-Track which habits you're following:
+Suivez les habitudes que vous adoptez :
 
-### Evening Routine (2 hours before bed)
+### Routine du soir (2 heures avant le coucher)
 
-- [ ] No caffeine after 2pm
-- [ ] No alcohol (or limit to 1 drink, 3+ hours before bed)
-- [ ] Light dinner, not too late
-- [ ] Dim lights in home
-- [ ] No intense exercise
-- [ ] Screen curfew (1 hour before bed)
-- [ ] Relaxation activity (reading, stretching, breathing)
+- [ ] Pas de caféine après 14h
+- [ ] Pas d&#39;alcool (ou limitez-vous à 1 verre, au moins 3 heures avant le coucher).
+- [ ] Dîner léger, pas trop tard
+- [ ] Lumière tamisée à la maison
+- [ ] Pas d&#39;exercice intense
+- [ ] Couvre-feu des écrans (1 heure avant le coucher)
+- [ ] Activité de relaxation (lecture, étirements, respiration)
 
-### Bedroom Rules
+### Règles de la chambre
 
-- [ ] Room temperature 16-19°C
-- [ ] Complete darkness (or sleep mask)
-- [ ] Phone on silent, face down (or out of room)
-- [ ] Consistent bedtime (±30 min)
-- [ ] Bed only for sleep (not work/scrolling)
+- [ ] Température ambiante 16-19°C
+- [ ] Obscurité totale (ou masque de sommeil)
+- [ ] Téléphone en mode silencieux, face cachée (ou hors de la pièce)
+- [ ] Heure de coucher régulière (±30 min)
+- [ ] Lit réservé au sommeil (pas au travail ni à la navigation sur internet)
 
-**Habits followed this week:** _____/12
+**Habitudes suivies cette semaine :** _____/12
 
 ---
 
-## Sleep & Performance Correlation
+## Corrélation entre le sommeil et les performances
 
-Track over 4 weeks to see patterns:
+Suivi sur 4 semaines pour observer les tendances :
 
-| Week | Avg Sleep | Avg Quality | Training Performance | Competition Result |
+| Semaine | Durée moyenne du sommeil | Qualité moyenne | Performance d&#39;entraînement | Résultat du concours |
 |------|-----------|-------------|---------------------|-------------------|
-| 1 | hrs | /10 | /10 | |
-| 2 | hrs | /10 | /10 | |
-| 3 | hrs | /10 | /10 | |
-| 4 | hrs | /10 | /10 | |
+| 1 | heures | /10 | /10 |
+| 2 | heures | /10 | /10 |
+| 3 | heures | /10 | /10 |
+| 4 | heures | /10 | /10 |
 
-**Correlation discovered:**
-
----
-
-## Travel Sleep Protocol
-
-For away competitions:
-
-**Before travel:**
-- [ ] Adjust bedtime 30 min earlier/later for time zone
-- [ ] Pack sleep essentials (mask, earplugs, pillow)
-- [ ] Book quiet room (away from elevator/street)
-
-**At destination:**
-- [ ] Set room temperature immediately
-- [ ] Block light sources
-- [ ] Maintain home bedtime routine
-- [ ] Avoid naps >20 min after travel
-
-**Notes for next trip:**
+**Corrélation découverte :**
 
 ---
 
+## Protocole de sommeil en voyage
+
+Pour les compétitions à l&#39;extérieur :
+
+**Avant le voyage :**
+- [ ] Ajustez l&#39;heure du coucher de 30 minutes en fonction du fuseau horaire.
+- [ ] Emportez les articles de sommeil essentiels (masque, bouchons d&#39;oreilles, oreiller).
+- [ ] Réservez une chambre calme (à l&#39;écart de l&#39;ascenseur/de la rue)
+
+**À destination :**
+- [ ] Réglez immédiatement la température ambiante.
+- [ ] Bloquer les sources lumineuses
+- [ ] Maintenir une routine du coucher à la maison
+- [ ] Évitez les siestes de plus de 20 minutes après le voyage.
+
+**Remarques pour le prochain voyage :**
+
 ---
 
-## Quick Win: Start Tonight
+---
 
-::: info The 3-Day Challenge
-Track your sleep for just 3 days. You'll likely discover a pattern you didn't know existed.
+## Victoire rapide : commencez ce soir
+
+::: info Le défi des 3 jours
+Analysez votre sommeil pendant seulement 3 jours. Vous découvrirez probablement un schéma dont vous ignoriez l&#39;existence.
 :::
 
-1. **Tonight** — Note your bedtime and any factors
-2. **Tomorrow morning** — Rate quality and energy immediately
-3. **Repeat for 3 days** — Look for patterns
+1. **Ce soir** — Notez votre heure de coucher et tout facteur pertinent
+2. **Demain matin** — Évaluez immédiatement la qualité et l&#39;énergie
+3. **Répéter pendant 3 jours** — Recherchez des motifs
 
 ---
 
-## Related Resources
+## Ressources connexes
 
-- [Sleep & Recovery Education](/fr/education/sleep/) — The science behind sleep
-- [Competition Checklist](/fr/guides/templates/pre-competition-checklist) — Full preparation guide
-- [Training Diary](/fr/guides/templates/diary-template) — Track all aspects of training
+- [Éducation sur le sommeil et la récupération](/en/education/sleep/) — La science du sommeil
+- [Liste de vérification pour la compétition](/en/guides/templates/pre-competition-checklist) — Guide de préparation complet
+- [Journal d&#39;entraînement](/en/guides/templates/diary-template) — Suivez tous les aspects de votre entraînement
 

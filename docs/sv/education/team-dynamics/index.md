@@ -182,7 +182,7 @@ Bra team utvecklas gemensamt:
 
 ## I detta avsnitt
 
-- **[Teamkommunikation](/sv/education/team-dynamics/kommunikation)** - Detaljerad guide till effektiv kommunikation
+- **[Teamkommunikation](/sv/utbildning/teamdynamik/kommunikation)** - Detaljerad guide till effektiv kommunikation
 
 ## Viktig slutsats
 

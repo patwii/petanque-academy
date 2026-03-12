@@ -3,31 +3,31 @@ title: Understanding Tension
 description: Master physical and mental tension for precision performance. Learn the science of tension and find your optimal arousal zone.
 ---
 
-# Understanding Tension in Precision Sports
+# Att förstå spänning i precisionssporter
 
-::: tip Tension Is Precision's Enemy
-**Weight: 300 points** — You cannot be both tense and precise. Learning to manage tension is essential for consistent performance.
+::: tip Spänning är precisionens fiende
+**Vikt: 300 poäng** — Du kan inte vara både spänd och precis. Att lära sig hantera spänning är avgörande för konsekvent prestation.
 :::
 
-## The Precision Paradox
+## Precisionsparadoxen
 
-> "The harder you try, the worse you do."
+> &quot;Ju hårdare du försöker, desto värre går det.&quot;
 
-This isn't weakness—it's physics and physiology. Pétanque requires relaxed, fluid movements. Tension destroys the very qualities that produce accurate throws.
+Det här är inte svaghet – det är fysik och fysiologi. Boule kräver avslappnade, flytande rörelser. Spänning förstör just de egenskaper som ger precisa kast.
 
-### How Tension Destroys Precision
+### Hur spänning förstör precision
 
 ```mermaid
 flowchart TD
-    A[Tension] --> B[Grip Pressure ↑]
-    A --> C[Shoulder Tightness]
-    A --> D[Rushed Movement]
-    A --> E[Shallow Breathing]
+    A[Spänning] --> B[Grepptryck ↑]
+    A --> C[Spännhet i axeln]
+    A --> D[Rusad rörelse]
+    A --> E[Ytlig andning]
 
-    B --> F[Feel & Control ↓]
-    C --> G[Arm Swing Restricted]
-    D --> H[Timing Destroyed]
-    E --> I[Focus ↓]
+    B --> F[Känsla och kontroll ↓]
+    C --> G[Armsvängning begränsad]
+    D --> H[Tidpunkten förstördes]
+    E --> I[Fokus ↓]
 
     F --> J[Precision ↓]
     G --> J
@@ -40,44 +40,44 @@ flowchart TD
 
 ---
 
-## Physical vs. Mental Tension
+## Fysisk kontra mental spänning
 
-Tension exists in two connected forms:
+Spänning existerar i två sammanhängande former:
 
-### Physical Tension
+### Fysisk spänning
 
-Muscle tightness that directly affects your throw:
+Muskelspänning som direkt påverkar ditt kast:
 
-| Area | Effect on Throw |
+| Område | Effekt på kast |
 |------|-----------------|
-| **Grip** | Loss of feel, inconsistent release |
-| **Forearm** | Restricted wrist movement |
-| **Shoulder** | Shortened, choppy arm swing |
-| **Neck** | Restricted head position, vision |
-| **Jaw** | Connected to overall body tension |
-| **Core** | Balance and weight transfer issues |
+| **Grepp** | Förlust av känsel, inkonsekvent frisättning |
+| **Underarm** | Begränsad handledsrörelse |
+| **Axel** | Förkortad, hackig armsving |
+| **Hals** | Begränsad huvudställning, syn |
+| **Käke** | Kopplat till den övergripande kroppsspänningen |
+| **Kärna** | Balans- och viktöverföringsproblem |
 
-### Mental Tension
+### Mental spänning
 
-Psychological stress that creates physical symptoms:
+Psykisk stress som skapar fysiska symtom:
 
-- Racing thoughts
-- Worry about outcomes
-- Fear of failure
-- Pressure awareness
-- Past mistakes replaying
+- Tävlingstankar
+- Oroa dig för resultaten
+- Rädsla för misslyckande
+- Tryckmedvetenhet
+- Tidigare misstag uppspelning
 
-::: warning The Tension Loop
-Mental tension → Physical tension → Poor performance → More mental tension
+::: warning Spänningsslingan
+Mental spänning → Fysisk spänning → Dålig prestation → Mer mental spänning
 
-Breaking this loop is essential for consistent play.
+Att bryta den här loopen är avgörande för ett konsekvent spel.
 :::
 
 ---
 
-## The Yerkes-Dodson Law
+## Yerkes-Dodson-lagen
 
-The relationship between arousal (activation level) and performance follows an inverted-U curve:
+Sambandet mellan upphetsning (aktiveringsnivå) och prestation följer en inverterad U-kurva:
 
 ```
 Performance
@@ -96,137 +96,137 @@ Performance
    Unfocused Relaxed  Anxious
 ```
 
-### Too Low (Under-aroused)
-- Flat, unfocused
-- Careless mistakes
-- Lack of intensity
-- Going through the motions
+### För låg (underupphetsad)
+- Platt, ofokuserad
+- Slarviga misstag
+- Brist på intensitet
+- Att gå igenom rörelserna
 
-### Too High (Over-aroused)
-- Tense, rushed
-- Overthinking
-- Tight grip, restricted movement
-- Can't recover from mistakes
+### För hög (överupphetsad)
+- Spänd, stressad
+- Övertänkande
+- Hårt grepp, begränsad rörelse
+- Kan inte återhämta sig från misstag
 
-### Optimal Zone
-- Alert but relaxed
-- Focused yet fluid
-- Appropriate intensity
-- Quick recovery
+### Optimal zon
+- Vaken men avslappnad
+- Fokuserad men ändå flytande
+- Lämplig intensitet
+- Snabb återhämtning
 
 ---
 
-## Finding YOUR Optimal Zone
+## Hitta DIN optimala zon
 
-Every player has a different optimal arousal level:
+Varje spelare har en annan optimal upphetsningsnivå:
 
-### The Self-Assessment Process
+### Självbedömningsprocessen
 
-1. **Recall your best performances**
-   - How did you feel physically?
-   - What was your energy level?
-   - How would you rate your arousal (1-10)?
+1. **Minns dina bästa prestationer**
+   - Hur kände du dig fysiskt?
+   - Vad var din energinivå?
+   - Hur skulle du betygsätta din upphetsning (1-10)?
 
-2. **Recall your worst performances**
-   - Were you too flat or too tense?
-   - What physical symptoms did you notice?
-   - What triggered the sub-optimal state?
+2. **Minns dina sämsta prestationer**
+   - Var du för platt eller för spänd?
+   - Vilka fysiska symtom märkte du?
+   - Vad utlöste det suboptimala tillståndet?
 
-3. **Identify your pattern**
-   - Do you tend toward over-arousal or under-arousal?
-   - What situations trigger your pattern?
-   - What helps you return to optimal?
+3. **Identifiera ditt mönster**
+   - Tenderar du att bli överaktiv eller underaktiv?
+   - Vilka situationer utlöser ditt mönster?
+   - Vad hjälper dig att återgå till optimalt läge?
 
-### Common Player Profiles
+### Vanliga spelarprofiler
 
-| Profile | Tendency | Risk Situations | Strategy |
+| Profil | Tendens | Risksituationer | Strategi |
 |---------|----------|-----------------|----------|
-| **The Worrier** | Over-arousal | High stakes, close games | Relaxation techniques |
-| **The Flat-liner** | Under-arousal | Low-stakes, early rounds | Activation techniques |
-| **The Reactor** | Variable | After misses, momentum shifts | Emotional regulation |
-| **The Chaser** | Over-arousal when behind | Comebacks, time pressure | Acceptance techniques |
+| **Den orolige** | Överdriven upphetsning | Höga insatser, jämna matcher | Avslappningstekniker |
+| **Flatlinern** | Under-arousal | Låga insatser, tidiga rundor | Aktiveringstekniker |
+| **Reaktorn** | Variabel | Efter missar skiftar momentum | Emotionell reglering |
+| **Jägaren** | Överdriven upphetsning när man är bakom | Comebacks, tidspress | Acceptanstekniker |
 
 ---
 
-## Recognizing Tension Signals
+## Att känna igen spänningssignaler
 
-### Physical Warning Signs
+### Fysiska varningstecken
 
-Learn to notice these before they affect your throw:
+Lär dig att lägga märke till dessa innan de påverkar ditt kast:
 
-| Signal | Location | Action |
+| Signal | Plats | Handling |
 |--------|----------|--------|
-| **Tight grip** | Hand | Soften before each throw |
-| **Raised shoulders** | Upper back | Drop and roll |
-| **Clenched jaw** | Face | Open mouth slightly |
-| **Shallow breath** | Chest | Deep belly breath |
-| **Rushed movement** | Whole body | Slow down deliberately |
-| **Restless fidgeting** | General | Ground yourself |
+| **Fast grepp** | Hand | Mjuka upp före varje kast |
+| **Höjda axlar** | Övre delen av ryggen | Släpp och rulla |
+| **Knuten käke** | Ansikte | Öppna munnen lätt |
+| **Ytlig andedräkt** | Bröst | Djupt andetag i magen |
+| **Snabb rörelse** | Hela kroppen | Sakta ner medvetet |
+| **Rostlöst nervositet** | Allmän | Jorda dig själv |
 
-### Mental Warning Signs
+### Mentala varningstecken
 
-- Racing thoughts
-- Negative self-talk increasing
-- Focus on outcome, not process
-- Awareness of stakes/score
-- Thinking about past mistakes
+- Tävlingstankar
+- Negativt självprat ökar
+- Fokusera på resultat, inte process
+- Medvetenhet om insatser/poäng
+- Att tänka på tidigare misstag
 
 ---
 
-## The Tension-Performance Self-Check
+## Självkontroll av spänning och prestanda
 
-Use this quick assessment between throws or at breaks:
+Använd denna snabba bedömning mellan kast eller vid pauser:
 
-**Physical Scan (5 seconds):**
-1. Grip → Soft?
-2. Shoulders → Down?
-3. Jaw → Unclenched?
-4. Breathing → Slow and deep?
+**Fysisk skanning (5 sekunder):**
+1. Grepp → Mjukt?
+2. Axlar → Ner?
+3. Käke → Ospänd?
+4. Andning → Långsam och djup?
 
-**Mental Scan (5 seconds):**
-1. Thoughts → Present focused?
-2. Energy → Optimal range?
-3. Next action → Clear?
+**Mental skanning (5 sekunder):**
+1. Tankar → Fokuserad på nuet?
+2. Energi → Optimalt intervall?
+3. Nästa åtgärd → Rensa?
 
-::: tip Make It a Habit
-The best players do this automatically. You can train yourself to do the same through repetition.
+::: tip Gör det till en vana
+De bästa spelarna gör detta automatiskt. Du kan träna dig själv att göra detsamma genom repetition.
 :::
 
 ---
 
-## In This Module
+## I den här modulen
 
-### [Tension Release Techniques](/sv/education/tension/techniques)
-- Progressive Muscle Relaxation (PMR)
-- Quick release techniques for competition
-- Breathing protocols
-- Pre-throw tension reset
+### [Tekniker för spänningsfrigöring](/sv/utbildning/spänning/tekniker)
+- Progressiv muskelavslappning (PMR)
+- Snabbfrigöringstekniker för tävling
+- Andningsprotokoll
+- Återställning av förkastspänning
 
-### [Managing Tension in Competition](/sv/education/tension/competition)
-- Pre-match preparation
-- During-match protocols
-- Emergency "too tense" recovery
-- Post-mistake recovery
-
----
-
-## Quick Win: The 10-Second Reset
-
-Before your next throw, use this quick protocol:
-
-1. **Shoulders** — Drop them consciously
-2. **Grip** — Lighten it 20%
-3. **Jaw** — Unclench, tongue off roof of mouth
-4. **Breath** — One slow, full exhale
-
-This takes 10 seconds and can immediately improve your next throw.
+### [Hantera spänningar i tävling](/sv/utbildning/spänning/tävling)
+- Förberedelser inför matchen
+- Protokoll under matchen
+- Akut &quot;för spänd&quot; återhämtning
+- Återställning efter misstag
 
 ---
 
-## Related Factors
+## Snabbvinst: 10-sekunders återställning
 
-- [Mental Strength](/sv/education/mental-game/mental-strength/) — Handling pressure
-- [Sleep & Recovery](/sv/education/sleep/) — Rest reduces baseline tension
-- [Mindfulness](/sv/education/mental-game/mindfulness/) — Present-moment awareness
-- [The Zone](/sv/education/mental-game/the-zone/) — Optimal performance state
+Innan ditt nästa kast, använd detta snabba protokoll:
+
+1. **Axlar** — Sänk dem medvetet
+2. **Grepp** — Lättare med 20 %
+3. **Käke** — Avklämning, tungan borttagen från gommen
+4. **Andning** — En långsam, full utandning
+
+Detta tar 10 sekunder och kan omedelbart förbättra ditt nästa kast.
+
+---
+
+## Relaterade faktorer
+
+- [Mental styrka](/sv/utbildning/mentalt-spel/mental-styrka/) — Hantering av press
+- [Sömn och återhämtning](/sv/utbildning/sömn/) — Vila minskar grundspänningen
+- [Mindfulness](/sv/utbildning/mentalt-spel/mindfulness/) — Medvetenhet i nuet
+- [Zonen](/sv/utbildning/mentalt-spel/zonen/) — Optimalt prestationstillstånd
 

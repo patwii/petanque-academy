@@ -3,227 +3,227 @@ title: Sleep Hygiene for Athletes
 description: The 10 fundamentals of athletic sleep, evening routines, and a 30-day sleep optimization challenge.
 ---
 
-# Sleep Hygiene for Athletes
+# Søvnhygiene for idrettsutøvere
 
-Sleep hygiene refers to the habits and environmental factors that promote consistent, restorative sleep. This page provides actionable protocols specifically designed for competitive pétanque players.
+Søvnhygiene refererer til vaner og miljøfaktorer som fremmer jevn og gjenoppbyggende søvn. Denne siden inneholder handlingsrettede protokoller spesielt utviklet for konkurransedyktige petanque-spillere.
 
 ---
 
-## The 10 Fundamentals of Athletic Sleep
+## De 10 grunnprinsippene for atletisk søvn
 
-### 1. Consistent Wake Time
+### 1. Konsekvent våketid
 
-**The single most important factor for sleep quality.**
+**Den aller viktigste faktoren for søvnkvalitet.**
 
-Your body's circadian rhythm is anchored to your wake time. A consistent wake time:
-- Regulates melatonin release
-- Improves sleep efficiency
-- Makes falling asleep easier
+Kroppens døgnrytme er forankret til hvor lenge du våkner. En konsistent våkentid:
+- Regulerer melatoninfrigjøring
+- Forbedrer søvneffektiviteten
+- Gjør det lettere å sovne
 
-::: tip The 30-Minute Rule
-Keep your wake time within 30 minutes of normal—even on weekends. Yes, even after late nights.
+::: tip 30-minuttersregelen
+Hold oppvåkningstiden din innenfor 30 minutter fra normalen – selv i helgene. Ja, selv etter sene kvelder.
 :::
 
-### 2. Strategic Light Exposure
+### 2. Strategisk lyseksponering
 
-Light is the most powerful signal for your circadian rhythm:
+Lys er det kraftigste signalet for døgnrytmen din:
 
-| Time of Day | Goal | Actions |
+| Tid på dagen | Mål | Handlinger |
 |-------------|------|---------|
-| **Morning** | Bright light | Go outside within 30 min of waking, 10-20 min minimum |
-| **Daytime** | Maintain exposure | Work near windows, take outdoor breaks |
-| **Evening** | Reduce intensity | Dim lights, warm tones, minimize screens |
-| **Night** | Darkness | Blackout curtains, eye mask, no light leaks |
+| **Morgen** | Sterkt lys | Gå ut innen 30 minutter etter at du har våknet, minimum 10–20 minutter |
+| **Dagtid** | Oppretthold eksponeringen | Arbeid i nærheten av vinduer, ta pauser utendørs |
+| **Kveld** | Reduser intensiteten | Dempet lys, varme toner, minimer skjermer |
+| **Natt** | Mørke | Mørkleggingsgardiner, øyemaske, ingen lyslekkasjer |
 
-### 3. Temperature Management
+### 3. Temperaturstyring
 
-Your body needs to drop 1-2°C (2-3°F) to initiate sleep:
+Kroppen din trenger å synke 1–2 °C for å starte søvnen:
 
-- **Bedroom temperature:** 16-19°C (60-67°F)
-- **A warm shower 90 min before bed** — Counter-intuitively, this helps cooling
-- **Breathable bedding** — Natural fibers allow heat dissipation
-- **Cool feet, warm body** — Socks can help some people
+- **Soveromstemperatur:** 16–19 °C (60–67 °F)
+- **En varm dusj 90 minutter før leggetid** – Mot forventningene bidrar dette til å kjøle ned
+- **Pustende sengetøy** — Naturfibre tillater varmespredning
+- **Kjølige føtter, varm kropp** — Sokker kan hjelpe noen
 
-### 4. Caffeine Discipline
+### 4. Koffeindisiplin
 
-Caffeine has a half-life of 5-6 hours, meaning half is still in your system after that time:
+Koffein har en halveringstid på 5–6 timer, noe som betyr at halvparten fortsatt er i systemet ditt etter den tiden:
 
-- **Last caffeine:** Before 2pm (or earlier for sensitive individuals)
-- **Hidden sources:** Chocolate, some medications, tea, some sodas
-- **Individual variation:** Some people metabolize caffeine faster/slower
+- **Siste koffeininntak:** Før kl. 14.00 (eller tidligere for sensitive personer)
+- **Skjulte kilder:** Sjokolade, noen medisiner, te, litt brus
+- **Individuell variasjon:** Noen mennesker metaboliserer koffein raskere/saktere
 
-### 5. Alcohol Awareness
+### 5. Alkoholbevissthet
 
-Alcohol may help you fall asleep but **severely disrupts sleep quality**:
+Alkohol kan hjelpe deg med å sovne, men **forstyrrer søvnkvaliteten alvorlig**:
 
-- Suppresses REM sleep
-- Causes more nighttime awakenings
-- Leads to dehydration
+- Undertrykker REM-søvn
+- Forårsaker flere oppvåkninger om natten
+- Fører til dehydrering
 
-**Guideline:** If you drink, finish at least 3 hours before bed.
+**Retningslinje:** Hvis du drikker, bør du fullføre minst 3 timer før du legger deg.
 
-### 6. Evening Nutrition Timing
+### 6. Kveldsnæringstidspunkt
 
-- **Large meals:** Finish 3+ hours before bed
-- **Light snacks:** OK if needed
-- **Best bedtime snacks:** Complex carbs + protein (e.g., banana, yogurt)
-- **Avoid:** High sugar, spicy food, excessive liquids (bathroom trips)
+- **Store måltider:** Ferdig 3+ timer før leggetid
+- **Lette snacks:** Greit om nødvendig
+- **Beste mellommåltider ved sengetid:** Komplekse karbohydrater + protein (f.eks. banan, yoghurt)
+- **Unngå:** Høyt sukkerinnhold, krydret mat, for mye væske (toalettbesøk)
 
-### 7. Movement & Exercise
+### 7. Bevegelse og trening
 
-Exercise improves sleep quality, but timing matters:
+Trening forbedrer søvnkvaliteten, men timing er viktig:
 
-- **Morning/afternoon exercise:** Ideal for sleep
-- **Evening exercise:** Finish 2-3 hours before bed
-- **Light stretching/yoga:** OK close to bedtime
+- **Morgen-/ettermiddagstrening:** Ideell for søvn
+- **Kveldstrening:** Fullfør 2–3 timer før leggetid
+- **Lett tøying/yoga:** OK nær leggetid
 
-### 8. Wind-Down Routine
+### 8. Avslapningsrutine
 
-Your brain needs transition time. Create a 30-60 minute pre-sleep routine:
+Hjernen din trenger overgangstid. Lag en rutine før du sovner på 30–60 minutter:
 
-1. **Stop stimulating activities** — Work, intense conversations, news
-2. **Dim the lights** — Signal to your body
-3. **Relaxation activity** — Reading, gentle stretching, quiet music
-4. **Consistent sequence** — Same activities, same order, each night
+1. **Slutt med stimulerende aktiviteter** — Arbeid, intense samtaler, nyheter
+2. **Dem lysene** — Signaler til kroppen din
+3. **Avslappingsaktivitet** — Lesing, skånsom tøying, rolig musikk
+4. **Konsekvent rekkefølge** — Samme aktiviteter, samme rekkefølge, hver kveld
 
-### 9. Sleep Environment Optimization
+### 9. Optimalisering av søvnmiljø
 
-Your bedroom should be:
-- **Dark** — No visible light sources
-- **Quiet** — Or consistent white noise
-- **Cool** — 16-19°C (60-67°F)
-- **Comfortable** — Quality mattress and pillow
-- **Reserved for sleep** — Minimize other activities in bed
+Soverommet ditt bør være:
+- **Mørk** — Ingen synlige lyskilder
+- **Stille** — Eller vedvarende hvit støy
+- **Kjølig** — 16–19 °C (60–67 °F)
+- **Komfortabel** — Kvalitetsmadrass og -pute
+- **Reservert for søvn** — Minimer andre aktiviteter i sengen
 
-### 10. Stress & Worry Management
+### 10. Stress- og bekymringshåndtering
 
-Racing thoughts are the #1 sleep disruptor:
+Tankeløp er den vanligste søvnforstyrreren:
 
-- **Brain dump:** Write worries on paper before bed (gets them "out of your head")
-- **Tomorrow's plan:** Brief list of tomorrow's priorities
-- **Relaxation techniques:** PMR, breathing exercises, body scan
-- **The 4-7-8 breath:** Inhale 4 counts, hold 7, exhale 8
+- **Hjernedump:** Skriv bekymringer på papir før leggetid (får dem «ut av hodet»)
+- **Morgendagens plan:** Kort liste over morgendagens prioriteringer
+- **Avslappingsteknikker:** PMR, pusteøvelser, kroppsskanning
+- **4-7-8-pustet:** Pust inn 4 tellinger, hold 7, pust ut 8
 
 ---
 
-## Evening Routine Template
+## Mal for kveldsrutine
 
-Here's a sample 60-minute wind-down routine:
+Her er et eksempel på en 60-minutters avslapningsrutine:
 
-| Time Before Bed | Activity |
+| Tid før leggetid | Aktivitet |
 |-----------------|----------|
-| **60 min** | Dim lights, stop work, no more screens |
-| **45 min** | Light snack if needed, prepare tomorrow |
-| **30 min** | Personal hygiene routine, change clothes |
-| **15 min** | Relaxation: reading, stretching, or breathing |
-| **0 min** | Lights out |
+| **60 minutter** | Dempet lys, stopp arbeidet, ingen flere skjermer |
+| **45 minutter** | Lett snacks om nødvendig, lag dem i morgen |
+| **30 minutter** | Personlig hygienerutine, klesskift |
+| **15 minutter** | Avslapning: lesing, tøying eller pusting |
+| **0 minutter** | Lysene slukkes |
 
-::: tip Personalize It
-This is a template. The key is consistency, not specific activities. Find what works for you and repeat it nightly.
+::: tip Tilpass det
+Dette er en mal. Nøkkelen er konsistens, ikke spesifikke aktiviteter. Finn det som fungerer for deg og gjenta det hver kveld.
 :::
 
 ---
 
-## The 30-Day Sleep Challenge
+## 30-dagers søvnutfordring
 
-A structured program to transform your sleep habits:
+Et strukturert program for å forandre søvnvanene dine:
 
-### Week 1: Foundation (Days 1-7)
-**Focus: Wake time consistency**
+### Uke 1: Grunnleggende (dag 1–7)
+**Fokus: Konsistens ved oppvåkningstidspunkt**
 
-- [ ] Set a consistent wake time
-- [ ] Wake at that time ±30 min every day
-- [ ] Track in a simple log
+- [ ] Angi en konsistent oppvåkningstid
+- [ ] Våkn opp på det tidspunktet ±30 min hver dag
+- [ ] Spor i en enkel logg
 
-### Week 2: Environment (Days 8-14)
-**Focus: Optimize your sleep space**
+### Uke 2: Miljø (dag 8–14)
+**Fokus: Optimaliser soveplassen din**
 
-- [ ] Audit your bedroom for light leaks
-- [ ] Address temperature issues
-- [ ] Remove or silence all electronics
-- [ ] Consider blackout solutions
+- [ ] Sjekk soverommet ditt for lyslekkasjer
+- [ ] Løs temperaturproblemer
+- [ ] Fjern eller deaktiver all elektronikk
+- [ ] Vurder løsninger for mørklegging
 
-### Week 3: Habits (Days 15-21)
-**Focus: Daytime behaviors**
+### Uke 3: Vaner (dag 15–21)
+**Fokus: Dagtidsadferd**
 
-- [ ] Implement caffeine cutoff (2pm)
-- [ ] Get morning light exposure
-- [ ] Exercise timing check
-- [ ] Evening meal timing
+- [ ] Implementer koffeingrense (kl. 14.00)
+- [ ] Få morgenlyseksponering
+- [ ] Sjekk av treningstid
+- [ ] Tidspunkt for kveldsmåltid
 
-### Week 4: Routine (Days 22-30)
-**Focus: Wind-down ritual**
+### Uke 4: Rutine (dag 22–30)
+**Fokus: Avslapningsritual**
 
-- [ ] Create 30-60 minute routine
-- [ ] Practice every night
-- [ ] Refine based on what works
-- [ ] Celebrate completion!
+- [ ] Lag en rutine på 30–60 minutter
+- [ ] Øv hver kveld
+- [ ] Avgrens basert på hva som fungerer
+- [ ] Feir ferdigstillelsen!
 
 ---
 
-## Troubleshooting Common Issues
+## Feilsøking av vanlige problemer
 
-### "I can't fall asleep"
+### &quot;Jeg får ikke sovne&quot;
 
-**Possible causes and solutions:**
+**Mulige årsaker og løsninger:**
 
-| Cause | Solution |
+| Forårsake | Løsning |
 |-------|----------|
-| Too much light | Blackout curtains, eye mask |
-| Caffeine | Earlier cutoff, check hidden sources |
-| Stress/worry | Brain dump, breathing exercises |
-| Too hot | Lower room temp, lighter bedding |
-| Inconsistent schedule | Strict wake time for 2 weeks |
+| For mye lys | Mørkleggingsgardiner, øyemaske |
+| Koffein | Tidligere frist, sjekk skjulte kilder |
+| Stress/bekymring | Hjernedump, pusteøvelser |
+| For varmt | Lavere romtemperatur, lettere sengetøy |
+| Inkonsekvent tidsplan | Streng oppvåkningstid i 2 uker |
 
-### "I wake up during the night"
+### &quot;Jeg våkner om natten&quot;
 
-**Common triggers:**
+**Vanlige utløsere:**
 
-- **Alcohol** — Even moderate amounts cause fragmented sleep
-- **Bladder** — Reduce evening liquids
-- **Temperature** — Often too hot
-- **Noise** — White noise can help
-- **Stress** — Middle-of-night worry is common; keep notepad nearby
+- **Alkohol** – Selv moderate mengder forårsaker fragmentert søvn
+- **Blære** — Reduser kveldsvæskeinntaket
+- **Temperatur** — Ofte for høy
+- **Støy** – Hvit støy kan hjelpe
+- **Stress** — Bekymring midt på natten er vanlig; ha notisblokken i nærheten
 
-### "I wake up too early"
+### &quot;Jeg våkner for tidlig&quot;
 
-- Often a sign of going to bed too early
-- Could indicate depression—monitor mood
-- Strong morning light may help reset rhythm
-- Avoid clock-watching if you wake early
+- Ofte et tegn på at man legger seg for tidlig
+- Kan tyde på depresjon – følg med på humøret
+- Sterkt morgenlys kan bidra til å tilbakestille rytmen
+- Unngå å se på klokken hvis du våkner tidlig
 
-### "I don't feel rested despite sleeping"
+### «Jeg føler meg ikke uthvilt til tross for at jeg sover»
 
-Possible issues:
-- **Sleep apnea** — Snoring? Consider a sleep study
-- **Poor sleep architecture** — Alcohol, late caffeine
-- **Stress** — Even if you sleep, quality is compromised
-- **Unrealistic expectations** — Not every morning feels amazing
-
----
-
-## Sleep Tracking
-
-Should you track your sleep? Consider:
-
-**Pros:**
-- Awareness of patterns
-- Data for troubleshooting
-- Motivation for consistency
-
-**Cons:**
-- Can increase anxiety about sleep
-- Consumer devices aren't highly accurate
-- Obsessing over numbers vs. how you feel
-
-**Recommendation:** Track for 2-4 weeks to identify patterns, then reduce tracking unless troubleshooting.
+Mulige problemer:
+- **Søvnapné** — Snorking? Vurder en søvnstudie
+- **Dårlig søvnarkitektur** — Alkohol, sen koffeinproduksjon
+- **Stress** – Selv om du sover, går kvaliteten på spill
+- **Urealistiske forventninger** – Ikke hver morgen føles fantastisk
 
 ---
 
-## Related Content
+## Søvnsporing
 
-- [Sleep Science](/no/education/sleep/) — Understanding why sleep matters
-- [Competition Protocols](/no/education/sleep/competition) — Sleep around tournaments
-- [Tension Management](/no/education/tension/) — PMR and relaxation for sleep
-- [Mindfulness](/no/education/mental-game/mindfulness/) — Breathing techniques
+Bør du spore søvnen din? Vurder dette:
+
+**Fordeler:**
+- Bevissthet om mønstre
+- Data for feilsøking
+- Motivasjon for konsistens
+
+**Ulemper:**
+- Kan øke angsten for søvn
+- Forbrukerenheter er ikke særlig nøyaktige
+- Besatt av tall kontra hvordan du føler deg
+
+**Anbefaling:** Spor i 2–4 uker for å identifisere mønstre, og reduser deretter sporingen med mindre det er behov for feilsøking.
+
+---
+
+## Relatert innhold
+
+- [Søvnvitenskap](/no/utdanning/søvn/) — Forstå hvorfor søvn er viktig
+- [Konkurranseprotokoller](/no/utdanning/søvn/konkurranse) — Søvn rundt turneringer
+- [Spenningsmestring](/no/utdanning/spenning/) — PMR og avslapning for søvn
+- [Mindfulness](/no/utdanning/mentalt-spill/mindfulness/) — Pusteteknikker
 

@@ -3,29 +3,29 @@ title: "Sleep: The Most Underrated Performance Factor"
 description: How sleep quality directly impacts precision, decision-making, and consistency in pétanque.
 ---
 
-# Sleep: The Most Underrated Performance Factor
+# Søvn: Den mest undervurderede præstationsfaktor
 
-> "The player who slept better often wins."
+> &quot;Den spiller, der sov bedre, vinder oftest.&quot;
 
-Most players focus on technique and mental training. Few optimize their sleep. This is a mistake—sleep may be the highest-ROI improvement available to most competitive players.
+De fleste spillere fokuserer på teknik og mental træning. Få optimerer deres søvn. Dette er en fejltagelse – søvn er muligvis den forbedring med det højeste ROI, der er tilgængelig for de fleste konkurrencespillere.
 
-::: tip High-ROI Improvement
-**Sleep optimization requires zero talent and delivers massive returns.** It's the closest thing to a legal performance enhancer.
+::: tip Forbedring af højt ROI
+**Søvnoptimering kræver intet talent og leverer massive afkast.** Det er det tætteste, man kommer på en lovlig præstationsfremmende middel.
 :::
 
 ```mermaid
 flowchart TD
-    A[Poor Sleep] --> B[Fine Motor ↓]
-    A --> C[Decision Making ↓]
-    A --> D[Emotional Control ↓]
-    A --> E[Focus ↓]
+    A[Dårlig søvn] --> B[Finmotorik ↓]
+    A --> C[Beslutningstagning ↓]
+    A --> D[Følelsesmæssig kontrol ↓]
+    A --> E[Fokus ↓]
 
-    B --> F[Inconsistent Throws]
+    B --> F[Inkonsekvente kast]
     C --> F
     D --> F
     E --> F
 
-    F --> G[Poor Performance]
+    F --> G[Dårlig præstation]
 
     style A fill:#f44336,color:#fff
     style G fill:#f44336,color:#fff
@@ -33,170 +33,170 @@ flowchart TD
 
 ---
 
-## The Research
+## Forskningen
 
-Sleep science reveals striking effects on precision sport performance:
+Søvnvidenskab afslører slående effekter på præcisionssportspræstationer:
 
-### Reaction Time
-- **24 hours without sleep** = reaction time equivalent to 0.1% blood alcohol
-- **6 hours/night for 2 weeks** = equivalent to staying awake 48 hours
-- Elite athletes average **8.5+ hours** vs 7 hours for general population
+### Reaktionstid
+- **24 timer uden søvn** = reaktionstid svarende til 0,1% alkohol i blodet
+- **6 timer/nat i 2 uger** = svarer til at være vågen i 48 timer
+- Eliteatleter bruger i gennemsnit **8,5+ timer** mod 7 timer for den generelle befolkning
 
-### Decision Making
-- Sleep deprivation impairs the prefrontal cortex first
-- Tactical decisions deteriorate before obvious fatigue appears
-- You don't notice your impairment (meta-cognition fails too)
+### Beslutningstagning
+- Søvnmangel forringer først den præfrontale cortex
+- Taktiske beslutninger forringes, før tydelig træthed viser sig
+- Du bemærker ikke din funktionsnedsættelse (metakognition fejler også)
 
-### Motor Control
-- Fine motor skills (grip, release) require consolidated memory
-- Memory consolidation happens during deep sleep
-- Skill learning without adequate sleep = wasted practice
+### Motorstyring
+- Finmotorik (greb, slip) kræver konsolideret hukommelse
+- Hukommelseskonsolidering sker under dyb søvn
+- Færdighedsindlæring uden tilstrækkelig søvn = spildt øvelse
 
-## The Precision Connection
+## Præcisionsforbindelsen
 
-Pétanque requires exactly what sleep deprivation destroys:
+Petanque kræver præcis det, som søvnmangel ødelægger:
 
-| Skill Required | Sleep Deprivation Effect |
+| Nødvendig færdighed | Søvnmangel-effekt |
 |----------------|--------------------------|
-| Fine motor control | Grip pressure becomes inconsistent |
-| Visual processing | Distance judgment impaired |
-| Decision making | Tactical errors increase |
-| Emotional regulation | Frustration after mistakes increases |
-| Sustained attention | Focus drifts in longer matches |
+| Finmotorisk kontrol | Gribetrykket bliver ustabilt |
+| Visuel bearbejdning | Forringet afstandsdømmekraft |
+| Beslutningstagning | Taktiske fejl stiger |
+| Følelsesmæssig regulering | Frustrationen efter fejltagelser stiger |
+| Vedvarende opmærksomhed | Fokus skifter i længere kampe |
 
-## Signs You're Under-Sleeping
+## Tegn på, at du sover for lidt
 
-You've adapted to chronic sleep deprivation if:
+Du har tilpasset dig kronisk søvnmangel, hvis:
 
-- You need an alarm to wake up
-- You're drowsy in early afternoon
-- You fall asleep within 5 minutes of lying down
-- You "catch up" on weekends
-- Coffee is essential, not optional
+- Du har brug for en alarm for at vågne
+- Du er døsig tidligt på eftermiddagen
+- Du falder i søvn inden for 5 minutter efter du har lagt dig ned
+- Du &quot;indhenter&quot; det forsømte i weekenderne
+- Kaffe er essentielt, ikke valgfrit
 
-**Reality check:** If you need caffeine to function normally, you're sleep deprived.
+**Realitetstjek:** Hvis du har brug for koffein for at fungere normalt, har du søvnmangel.
 
-## The Competition Week Protocol
+## Protokollen for konkurrenceugen
 
-### 7 Days Before
-- Begin sleeping 30 minutes more per night
-- Stabilize wake time (same time every day)
+### 7 dage før
+- Begynd at sove 30 minutter mere om natten
+- Stabiliser vågnetiden (samme tidspunkt hver dag)
 
-### 3 Days Before
-- No alcohol (disrupts sleep architecture)
-- No heavy meals after 7pm
-- Reduce screen time after sunset
+### 3 dage før
+- Ingen alkohol (forstyrrer søvnstrukturen)
+- Ingen tunge måltider efter kl. 19
+- Reducer skærmtid efter solnedgang
 
-### Night Before
-- Normal bedtime (don't go to bed early—you'll just lie awake)
-- Familiar environment if possible
-- Relaxation routine
+### Natten før
+- Normal sengetid (gå ikke tidligt i seng – du ligger bare vågen)
+- Velkendte omgivelser, hvis muligt
+- Afslapningsrutine
 
-### Competition Morning
-- Wake at normal time
-- Light exposure immediately
-- Normal breakfast routine
+### Konkurrencemorgen
+- Vågn op til normal tid
+- Lyseksponering øjeblikkeligt
+- Normal morgenmadsrutine
 
-## Optimizing Sleep Quality
+## Optimering af søvnkvalitet
 
-It's not just duration—quality matters more.
+Det er ikke kun varighed – kvaliteten er vigtigere.
 
-### Sleep Environment
-- **Temperature:** 18-20°C (65-68°F) is optimal
-- **Darkness:** Complete darkness or sleep mask
-- **Sound:** Consistent (white noise) or silent
-- **Bedding:** Comfortable, not too warm
+### Søvnmiljø
+- **Temperatur:** 18-20°C (65-68°F) er optimal
+- **Mørke:** Fuldstændig mørke eller sovemaske
+- **Lyd:** Konsekvent (hvid støj) eller lydløs
+- **Sengetøj:** Komfortabelt, ikke for varmt
 
-### Pre-Sleep Routine
-- Screen-free 60+ minutes before bed
-- Dim lights in evening
-- Consistent wind-down activities
-- Cool shower can trigger sleep onset
+### Rutine før søvn
+- Skærmfri 60+ minutter før sengetid
+- Dæmpede lys om aftenen
+- Konsekvente afslapningsaktiviteter
+- Køligt brusebad kan udløse søvnbesvær
 
 ### Timing
-- Consistent wake time (more important than bedtime)
-- Avoid sleeping in more than 30 minutes on weekends
-- Naps: before 3pm, under 20 minutes
+- Konsekvent vågentid (vigtigere end sengetid)
+- Undgå at sove mere end 30 minutter i weekenderne
+- Lur: før kl. 15, under 20 minutter
 
-## The Nap Strategy
+## Nap-strategien
 
-Strategic napping for competition days:
+Strategisk lur til konkurrencedage:
 
-### The Power Nap (10-20 min)
-- Reduces fatigue without grogginess
-- Best for between morning and afternoon sessions
-- Set alarm—don't oversleep
+### Power Nap (10-20 min)
+- Reducerer træthed uden at blive døsig
+- Bedst til mellem formiddags- og eftermiddagssessioner
+- Sæt alarm – sov ikke for længe
 
-### The Full Cycle (90 min)
-- Complete sleep cycle
-- Only if you have 2+ hours before competition
-- Risk of grogginess if interrupted
+### Den fulde cyklus (90 min)
+- Komplet søvncyklus
+- Kun hvis du har 2+ timer før konkurrencen
+- Risiko for omtågethed ved afbrydelse
 
-### Never Nap If:
-- You have sleep onset insomnia
-- Competition is within 90 minutes
-- It's after 3pm and you need to sleep that night
+### Tag aldrig en lur, hvis:
+- Du har søvnløshed
+- Konkurrencen er inden for 90 minutter
+- Klokken er over 15, og du skal sove den nat.
 
-## Travel Considerations
+## Rejsehensyn
 
-For away competitions:
+Til udebanekonkurrencer:
 
-### Before Travel
-- Bring familiar sleep items (pillow, sleep mask)
-- Research hotel room (request quiet room)
-- Adjust schedule if crossing time zones
+### Før rejsen
+- Medbring velkendte soveartikler (pude, sovemaske)
+- Undersøg hotelværelse (anmod om stille værelse)
+- Juster tidsplanen, hvis du krydser tidszoner
 
-### At Destination
-- Stick to home sleep schedule if possible
-- Light exposure controls circadian rhythm
-- Avoid heavy meals close to bedtime
+### Ved destinationen
+- Hold dig til din soveplan derhjemme, hvis det er muligt
+- Lyseksponering styrer døgnrytmen
+- Undgå tunge måltider tæt på sengetid
 
-### Time Zone Crossing
-- 1 day per hour to fully adjust
-- Morning light exposure speeds eastward adjustment
-- Evening light exposure speeds westward adjustment
+### Tidszoneovergang
+- 1 dag i timen for fuldt ud at tilpasse sig
+- Morgenlyseksponering fremskynder tilpasning mod øst
+- Eksponering for aftenlys fremskynder vestlig tilpasning
 
-## Tracking Your Sleep
+## Sporing af din søvn
 
-What gets measured gets managed:
+Det, der måles, styres:
 
-### Simple Tracking
-- Wake time and bedtime
-- Subjective quality (1-10)
-- Performance correlation notes
+### Simpel sporing
+- Vågnetid og sengetid
+- Subjektiv kvalitet (1-10)
+- Noter om præstationskorrelation
 
-### Advanced Tracking
-- Sleep tracker or wearable
-- HRV (heart rate variability) trends
-- Sleep stage data
+### Avanceret sporing
+- Søvntracker eller bærbar
+- HRV-tendenser (pulsvariabilitet)
+- Data om søvnstadier
 
-### What to Look For
-- Correlation between sleep and performance
-- Patterns (weekend catch-up, pre-competition insomnia)
-- Trends over time
+### Hvad skal man kigge efter
+- Sammenhæng mellem søvn og præstation
+- Mønstre (weekendindhentning, søvnløshed før konkurrence)
+- Tendenser over tid
 
-## Common Mistakes
+## Almindelige fejl
 
-::: warning Avoid These
-- **Alcohol as sleep aid** — Helps onset, destroys quality
-- **Catching up on weekends** — Can't "pay back" sleep debt
-- **Screens in bed** — Trains brain that bed ≠ sleep
-- **Inconsistent schedule** — Circadian rhythm needs consistency
-- **Ignoring sleep for training** — Trading quality for quantity
+::: warning Undgå disse
+- **Alkohol som søvnmiddel** — Hjælper med at starte, ødelægger kvaliteten
+- **Indhenter det forsømte i weekenderne** — Kan ikke &quot;betale&quot; søvngæld tilbage
+- **Skærme i sengen** — Træner hjernen til at være seng ≠ søvn
+- **Inkonsekvent tidsplan** — Døgnrytmen skal være konsistent
+- **Ignorerer søvn for træning** — Bytter kvalitet for kvantitet
 :::
 
-## Action Steps
+## Handlingstrin
 
-1. **This week:** Track your actual sleep (duration + quality)
-2. **Next week:** Establish consistent wake time
-3. **Following weeks:** Optimize environment and routine
-4. **Pre-competition:** Implement the competition week protocol
+1. **Denne uge:** Spor din faktiske søvn (varighed + kvalitet)
+2. **Næste uge:** Etabler et fast vågnetidspunkt
+3. **Følgende uger:** Optimer miljø og rutine
+4. **Før konkurrence:** Implementer konkurrenceugens protokol
 
 ---
 
-## Related Content
+## Relateret indhold
 
-- [Sleep & Recovery Module](/da/education/sleep/) — Complete sleep education
-- [Sleep Habits](/da/education/sleep/habits) — Building sustainable routines
-- [Competition Sleep](/da/education/sleep/competition) — Event-specific protocols
+- [Søvn- og restitutionsmodul](/da/uddannelse/søvn/) — Komplet søvnuddannelse
+- [Søvnvaner](/da/uddannelse/søvn/vaner) — Opbygning af bæredygtige rutiner
+- [Konkurrencesøvn](/da/uddannelse/søvn/konkurrence) — Begivenhedsspecifikke protokoller
 

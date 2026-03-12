@@ -3,35 +3,35 @@ title: Understanding the Inner Critic
 description: Learn to recognize and manage the negative self-talk that undermines your pétanque performance. Transform your inner critic into a supportive voice.
 ---
 
-# Understanding the Inner Critic
+# Comprendre le critique intérieur
 
-> "Every pétanque player knows that voice — the one that whispers 'you're going to miss' just as you're about to throw."
+> « Tous les joueurs de pétanque connaissent cette voix — celle qui murmure &quot;tu vas rater&quot; juste au moment où tu t&#39;apprêtes à lancer. »
 
-This is your inner critic — and learning to manage it is essential for elite performance.
+Il s&#39;agit de votre critique intérieure — et apprendre à la gérer est essentiel pour atteindre des performances d&#39;élite.
 
-::: warning The Paradox
-**Your inner critic isn't trying to hurt you** — it's a misguided attempt at protection. But this "protection" becomes self-sabotage.
+::: warning Le paradoxe
+**Votre critique intérieure ne cherche pas à vous nuire** — c&#39;est une tentative maladroite de protection. Mais cette « protection » se transforme en autosabotage.
 :::
 
 ---
 
-## What Is the Inner Critic?
+## Qu&#39;est-ce que le critique intérieur ?
 
-The inner critic is that internal voice that judges, criticizes, and undermines your confidence:
+Le critique intérieur est cette voix intérieure qui juge, critique et mine votre confiance :
 
 ```mermaid
 flowchart TD
-    A[Pressure Situation] --> B[Inner Critic Activates]
-    B --> C["You're going to miss"]
-    B --> D["Everyone is watching"]
-    B --> E["You always choke"]
+    A[Situation de pression] --> B[La voix critique intérieure s&#39;active]
+    B --> C[«Tu vas rater.»]
+    B --> D[« Tout le monde regarde »]
+    B --> E[«Tu t&#39;étouffes toujours.»]
 
-    C --> F[Muscle Tension ↑]
+    C --> F[Tension musculaire ↑]
     D --> F
     E --> F
 
     F --> G[Performance ↓]
-    G --> H[More Ammunition for Critic]
+    G --> H[Plus de munitions pour Critique]
     H --> B
 
     style A fill:#FF9800,color:#fff
@@ -39,102 +39,102 @@ flowchart TD
     style G fill:#f44336,color:#fff
 ```
 
-### When It Appears
+### Quand il apparaît
 
-| Moment | Inner Critic Says |
+| Moment | La voix intérieure critique dit |
 |--------|-------------------|
-| **Before crucial shot** | "Everyone is watching. Don't mess this up." |
-| **After a miss** | "You always choke under pressure." |
-| **During losing streak** | "You're not good enough for this level." |
+| **Avant le tir crucial** | « Tout le monde regarde. Ne gâchez pas tout. » |
+| **Après un échec** | «Tu perds toujours tes moyens sous la pression.» |
+| **Pendant une série de défaites** | « Tu n&#39;es pas assez bon pour ce niveau. » |
 
-## Recognizing Your Patterns
+## Identifier vos schémas
 
-The first step is awareness. Start noticing when your inner critic appears:
+La première étape est la prise de conscience. Commencez par remarquer quand votre critique intérieure se manifeste :
 
-### Common Triggers
-- High-pressure situations (match point, important tournaments)
-- After making a mistake
-- When opponents are performing well
-- When teammates seem frustrated
-- Physical fatigue or discomfort
+### Déclencheurs courants
+- Situations de haute pression (balle de match, tournois importants)
+- Après avoir commis une erreur
+- Lorsque les adversaires performent bien
+- Quand les coéquipiers semblent frustrés
+- fatigue ou inconfort physique
 
-### Common Messages
-- "You can't handle pressure"
-- "You're not as good as them"
-- "Everyone is judging you"
-- "You always fail when it matters"
+### Messages courants
+- « Tu ne supportes pas la pression »
+- « Tu n&#39;es pas aussi bon qu&#39;eux. »
+- « Tout le monde te juge »
+- « Tu échoues toujours quand c&#39;est important. »
 
-## The Impact on Performance
+## L&#39;impact sur la performance
 
-When the inner critic takes over, your body responds:
+Lorsque la voix critique intérieure prend le dessus, votre corps réagit :
 
-1. **Muscle tension increases** — Your throw becomes rigid
-2. **Breathing becomes shallow** — Less oxygen, less focus
-3. **Vision narrows** — You lose awareness of the terrain
-4. **Decision-making suffers** — You second-guess yourself
+1. **La tension musculaire augmente** — Votre lancer devient rigide
+2. **La respiration devient superficielle** — Moins d&#39;oxygène, moins de concentration
+3. **La vision se rétrécit** — Vous perdez conscience du terrain
+4. **La prise de décision est compromise** — Vous doutez de vous-même
 
-This creates a vicious cycle: the inner critic causes poor performance, which gives the critic more ammunition.
+Cela crée un cercle vicieux : la critique intérieure engendre de mauvaises performances, ce qui donne encore plus de munitions à cette critique.
 
-## Strategies for Managing the Inner Critic
+## Stratégies pour gérer sa voix critique intérieure
 
-### 1. Name It to Tame It
+### 1. Nommez-le pour l&#39;apprivoiser
 
-Give your inner critic a name — something slightly ridiculous. "Oh, there goes Negative Nils again." This creates distance between you and the voice, making it easier to dismiss.
+Donnez un nom à votre critique intérieure – quelque chose d&#39;un peu ridicule. « Oh, revoilà Negative Nils ! » Cela crée une distance entre vous et cette voix, ce qui vous permet de l&#39;ignorer plus facilement.
 
-### 2. Challenge the Evidence
+### 2. Remettre en question les preuves
 
-When the critic says "you always miss under pressure," ask yourself: Is that actually true? Can you think of times you performed well under pressure? The critic deals in absolutes that rarely reflect reality.
+Quand un critique vous dit « tu rates toujours tes coups sous pression », demandez-vous : est-ce vraiment vrai ? Pouvez-vous citer des moments où vous avez bien performé sous pression ? Le critique s’appuie sur des affirmations absolues qui reflètent rarement la réalité.
 
-### 3. Reframe the Message
+### 3. Reformuler le message
 
-Transform criticism into coaching:
-- "You're going to miss" → "Focus on your routine"
-- "Everyone is watching" → "This is your moment to shine"
-- "You always choke" → "You've handled pressure before"
+Transformer la critique en coaching :
+- « Tu vas rater quelque chose » → « Concentre-toi sur ta routine »
+- &quot;Tout le monde vous regarde&quot; → &quot;C&#39;est votre moment de briller&quot;
+- &quot;Tu perds toujours tes moyens&quot; → &quot;Tu as déjà su gérer la pression&quot;
 
-### 4. Use Your Pre-Shot Routine
+### 4. Utilisez votre routine d&#39;avant-tir
 
-A solid [pre-shot routine](/fr/education/mental-game/mental-strength/pre-shot-routine) gives your mind something constructive to focus on, leaving less room for the critic.
+Une bonne routine d&#39;avant-tir donne à votre esprit quelque chose de constructif sur lequel se concentrer, laissant moins de place au critique.
 
-### 5. Practice Self-Compassion
+### 5. Pratiquez l&#39;autocompassion
 
-Treat yourself as you would a teammate. Would you tell a struggling teammate "you're terrible"? Of course not. Extend the same kindness to yourself.
+Traitez-vous comme vous traiteriez un coéquipier. Diriez-vous à un coéquipier en difficulté « tu es nul » ? Bien sûr que non. Faites preuve de la même bienveillance envers vous-même.
 
-## Building a Supportive Inner Voice
+## Développer une voix intérieure bienveillante
 
-The goal isn't to silence the inner critic completely — that's nearly impossible. Instead, develop a stronger supportive voice:
+L’objectif n’est pas de faire taire complètement la voix critique intérieure — c’est quasiment impossible. Il s’agit plutôt de développer une voix plus constructive :
 
-### The Supportive Voice Says:
-- "One throw at a time"
-- "Trust your training"
-- "You've done this before"
-- "Stay in the present"
-- "Breathe and reset"
+### La voix du soutien dit :
+- &quot;Un lancer à la fois&quot;
+- «Faites confiance à votre formation»
+- «Vous avez déjà fait ça»
+- « Restez dans le présent »
+- &quot;Respirez et réinitialisez-vous&quot;
 
-### Daily Practice
+### Pratique quotidienne
 
-Spend 5 minutes each day:
-1. Recall a moment when you performed well
-2. Remember how it felt in your body
-3. Hear what your supportive voice was saying
-4. Anchor this feeling with a physical gesture (touching your boule, adjusting your stance)
+Consacrez 5 minutes par jour :
+1. Repensez à un moment où vous avez bien performé.
+2. Souvenez-vous de ce que vous ressentiez dans votre corps.
+3. Écoutez ce que disait votre voix encourageante
+4. Ancrez cette sensation par un geste physique (toucher votre boule, ajuster votre position).
 
-## In Competition
+## En compétition
 
-When the inner critic appears during a match:
+Quand la voix intérieure critique se manifeste pendant un match :
 
-1. **Acknowledge it**: "I notice I'm being self-critical"
-2. **Take a breath**: Slow, deep breath to reset
-3. **Use your anchor**: The physical gesture from your practice
-4. **Return to routine**: Focus on your pre-shot process
+1. **Reconnaissez-le** : « Je remarque que je suis autocritique. »
+2. **Respirez** : Respirez lentement et profondément pour vous ressourcer.
+3. **Utilisez votre point d&#39;ancrage** : Le geste physique issu de votre pratique
+4. **Retour à la routine** : Concentrez-vous sur votre préparation avant la prise de vue
 
-## The Long-Term Journey
+## Le voyage à long terme
 
-Managing the inner critic is not a one-time fix. It's an ongoing practice that becomes easier with time. Elite players don't eliminate self-doubt — they learn to perform despite it.
+Gérer sa voix intérieure critique n&#39;est pas une solution miracle. C&#39;est un travail de longue haleine qui s&#39;améliore avec le temps. Les athlètes de haut niveau n&#39;éliminent pas le doute ; ils apprennent à performer malgré lui.
 
-The inner critic will always be part of you. But with practice, its voice becomes quieter, and your supportive voice becomes stronger. That's the mental edge that separates good players from great ones.
+Votre critique intérieure fera toujours partie de vous. Mais avec la pratique, sa voix s&#39;apaise et votre voix bienveillante se renforce. C&#39;est cet avantage mental qui distingue les bons joueurs des grands champions.
 
 ---
 
-*Related: [Handling Pressure](/fr/education/mental-game/mental-strength/handling-pressure) | [Pre-Shot Routine](/fr/education/mental-game/mental-strength/pre-shot-routine) | [Mindfulness Techniques](/fr/education/mental-game/mindfulness/techniques)*
+| *À lire aussi : [Gérer la pression](/en/education/mental-game/mental-strength/handling-pressure) | [Routine d&#39;avant-tir](/en/education/mental-game/mental-strength/pre-shot-routine) | [Techniques de pleine conscience](/en/education/mental-game/mindfulness/techniques)* |
 

@@ -1,184 +1,184 @@
-# Pre-Competition Checklist
+# Checklist voor de wedstrijd
 
-A complete preparation guide for the day before and day of competition.
+Een complete voorbereidingsgids voor de dag vóór en de dag van de wedstrijd.
 
-::: tip Preparation = Confidence
-**The best players don't wing it.** Having a checklist removes decision fatigue and ensures you arrive at peak readiness.
+::: tip Voorbereiding = zelfvertrouwen
+**De beste spelers improviseren niet.** Een checklist vermindert besluiteloosheid en zorgt ervoor dat je optimaal voorbereid aan de start verschijnt.
 :::
 
-## Day Before Competition
+## De dag voor de wedstrijd
 
-### Evening (6-10pm)
+### Avond (18.00-22.00 uur)
 
-**Logistics:**
-- [ ] Equipment packed and checked
-- [ ] Clothes laid out (layers for weather)
-- [ ] Transport arranged / route checked
-- [ ] Registration confirmed
-- [ ] Wake-up alarm set (+backup)
+**Logistiek:**
+- [ ] Apparatuur ingepakt en gecontroleerd
+- [ ] Kleding klaargelegd (in laagjes, afhankelijk van het weer)
+- [ ] Vervoer geregeld / route gecontroleerd
+- [ ] Registratie bevestigd
+- [ ] Wekwekker ingesteld (+ reserve)
 
-**Nutrition:**
-- [ ] Light, familiar dinner (no experiments)
-- [ ] Hydration: 2L water throughout day
-- [ ] Competition snacks prepared
-- [ ] No alcohol
-- [ ] No heavy/spicy food
+**Voeding:**
+- [ ] Een lichte, vertrouwde maaltijd (geen experimenten)
+- [ ] Hydratatie: 2 liter water gedurende de dag.
+- [ ] Wedstrijdsnacks bereid
+- [ ] Geen alcohol
+- [ ] Geen zwaar/pittig eten
 
-**Mental Preparation:**
-- [ ] Visualize tomorrow's matches (5-10 min)
-- [ ] Review personal goals for competition
-- [ ] Set intention (one word/phrase)
-- [ ] Gratitude practice (why I love this sport)
+**Mentale voorbereiding:**
+- [ ] Visualiseer de wedstrijden van morgen (5-10 min)
+- [ ] Evalueer je persoonlijke doelen voor de wedstrijd.
+- [ ] Formuleer je intentie (één woord/zin)
+- [ ] Oefening in dankbaarheid (waarom ik van deze sport houd)
 
-**Sleep:**
-- [ ] Bedtime 8+ hours before wake time
-- [ ] Room dark and cool
-- [ ] Phone on silent
-- [ ] Relaxation routine (reading/breathing)
+**Slaap:**
+- [ ] Ga minimaal 8 uur voor het opstaan naar bed.
+- [ ] De kamer is donker en koel.
+- [ ] Telefoon op stil
+- [ ] Ontspanningsoefening (lezen/ademhalingsoefeningen)
 
-**Notes for tomorrow:**
-
----
-
-## Competition Morning
-
-### Wake Up Routine
-
-**Time:** ________ (_____ hours before first match)
-
-**Physical:**
-- [ ] Light breakfast (2-3 hours before play)
-- [ ] Hydration started
-- [ ] Bathroom
-- [ ] Comfortable clothes on
-
-**Mental:**
-- [ ] 5 min mindfulness/breathing
-- [ ] Recall intention for the day
-- [ ] Positive self-talk: "I am prepared"
+**Aantekeningen voor morgen:**
 
 ---
 
-### Arrival at Venue
+## Wedstrijdochtend
 
-**Arrive:** ________ (_____ min before first match)
+### Ochtendroutine
 
-**Setup:**
-- [ ] Find terrain / check conditions
-- [ ] Locate facilities (toilet, food, shade)
-- [ ] Check draw / opponents
-- [ ] Find teammates
+**Tijd:** ________ (_____ uur voor de eerste wedstrijd)
 
-**Physical Warm-up (15-20 min):**
-- [ ] Light walking (5 min)
-- [ ] Dynamic stretches
-- [ ] Arm circles, wrist rotations
-- [ ] Practice throws (pointing, then shooting)
-- [ ] Feel the terrain
+**Fysiek:**
+- [ ] Licht ontbijt (2-3 uur voor aanvang van de activiteit)
+- [ ] Hydratatie begon
+- [ ] Badkamer
+- [ ] comfortabele kleding aan
 
-**Mental Warm-up:**
-- [ ] 3-breath reset practice
-- [ ] Visualize first few throws
-- [ ] Connect with teammates
-- [ ] "I am ready" affirmation
+**Mentaal:**
+- [ ] 5 minuten mindfulness/ademhaling
+- [ ] Houd je voornemen voor vandaag in gedachten.
+- [ ] Positieve zelfspraak: &quot;Ik ben er klaar voor&quot;
 
 ---
 
-## During Competition
+### Aankomst op de locatie
 
-### Between Matches
+**Aankomst:** ________ (_____ min voor de eerste wedstrijd)
 
-**Physical:**
-- [ ] Light snack every 2 hours
-- [ ] Sip water consistently
-- [ ] Shade/shelter if hot
-- [ ] Light movement (don't sit too long)
+**Installatie:**
+- [ ] Terrein opzoeken / omstandigheden controleren
+- [ ] Zoek naar voorzieningen (toilet, eten, schaduw).
+- [ ] Controleer de loting / tegenstanders
+- [ ] Zoek teamgenoten
 
-**Mental:**
-- [ ] Review last match (1 learning, then let go)
-- [ ] Reset for next match
-- [ ] Stay present (not results-focused)
+**Fysieke warming-up (15-20 min):**
+- [ ] Lichte wandeling (5 min)
+- [ ] Dynamische rekoefeningen
+- [ ] Armcirkels, polsrotaties
+- [ ] Oefenworpen (wijzen, dan gooien)
+- [ ] Voel het terrein
 
-### Match Routine
-
-**Before each end:**
-- [ ] Read terrain
-- [ ] Team strategy discussion
-- [ ] Focus on process, not score
-
-**Before each throw:**
-- [ ] Pre-shot routine (consistent)
-- [ ] 3-breath reset if needed
-- [ ] Visualize the throw
-- [ ] Trust and release
-
-**After mistakes:**
-- [ ] Inner Coach response
-- [ ] Physical reset (shake it off)
-- [ ] Next throw mindset
+**Mentale warming-up:**
+- [ ] 3-ademhaling reset oefening
+- [ ] Visualiseer de eerste paar worpen.
+- [ ] Leg contact met teamgenoten
+- [ ] &quot;Ik ben er klaar voor&quot;-bevestiging
 
 ---
 
-## Competition Bag Checklist
+## Tijdens de wedstrijd
 
-### Essential Equipment
-- [ ] Boules (cleaned)
-- [ ] Measuring tools
-- [ ] Cochonnets (backup)
-- [ ] Towel/cloth for boules
-- [ ] Magnet (if allowed)
+### Tussen de wedstrijden
 
-### Clothing
-- [ ] Competition shirt
-- [ ] Comfortable pants/shorts
-- [ ] Layers (jacket, vest)
-- [ ] Hat/cap
-- [ ] Sunglasses
-- [ ] Rain gear (if forecast)
-- [ ] Extra socks
+**Fysiek:**
+- [ ] Lichte snack om de 2 uur.
+- [ ] Drink regelmatig kleine slokjes water.
+- [ ] Zoek schaduw/beschutting als het warm is.
+- [ ] Lichte beweging (niet te lang zitten)
 
-### Nutrition
-- [ ] Water bottle (1.5L minimum)
-- [ ] Electrolyte tabs/powder
-- [ ] Bananas
-- [ ] Nuts/trail mix
-- [ ] Energy bars
-- [ ] Sandwiches (for long days)
-- [ ] Avoid: sugary snacks, caffeine overload
+**Mentaal:**
+- [ ] Bekijk de laatste wedstrijd (1 leerpunt, daarna loslaten)
+- [ ] Reset voor de volgende wedstrijd
+- [ ] Blijf in het moment (niet gericht op resultaten)
 
-### Comfort & Recovery
-- [ ] Sunscreen
-- [ ] Folding chair
-- [ ] Shade solution
-- [ ] First aid basics
-- [ ] Pain relief (if needed)
+### Wedstrijdroutine
 
-### Mental Game Tools
-- [ ] This checklist!
-- [ ] Goal card / intention reminder
-- [ ] Music/headphones (for focus)
+**Vóór elk einde:**
+- [ ] Lees terrein
+- [ ] Teamstrategiebespreking
+- [ ] Focus op het proces, niet op de score.
+
+**Voor elke worp:**
+- [ ] Voorbereidingsroutine (consistent)
+- [ ] 3-ademhaling reset indien nodig
+- [ ] Visualiseer de worp.
+- [ ] Vertrouwen en loslaten
+
+**Na fouten:**
+- [ ] Inner Coach-reactie
+- [ ] Fysieke reset (afschudden)
+- [ ] Volgende worp mentaliteit
 
 ---
 
-## Post-Competition
+## Checklist voor de wedstrijdtas
 
-**Immediately after:**
+### Essentiële uitrusting
+- [ ] Boules (schoongemaakt)
+- [ ] Meetinstrumenten
+- [ ] Cochonnets (reserve)
+- [ ] Handdoek/doek voor jeu de boules
+- [ ] Magneet (indien toegestaan)
+
+### Kleding
+- [ ] Wedstrijdshirt
+- [ ] Comfortabele broek/short
+- [ ] Laagjes (jas, vest)
+- [ ] Hoed/pet
+- [ ] Zonnebril
+- [ ] Regenkleding (indien voorspeld)
+- [ ] Extra sokken
+
+### Voeding
+- [ ] Waterfles (minimaal 1,5 liter)
+- [ ] Elektrolytentabletten/poeder
+- [ ] Bananen
+- [ ] Noten/trailmix
+- [ ] Energierepen
+- [ ] Broodjes (voor lange dagen)
+- [ ] Vermijd: suikerrijke snacks, overmatige cafeïne-inname.
+
+### Comfort en herstel
+- [ ] Zonnebrandcrème
+- [ ] Klapstoel
+- [ ] Schaduwoplossing
+- [ ] Basisprincipes van eerste hulp
+- [ ] Pijnbestrijding (indien nodig)
+
+### Mentale speltools
+- [ ] Deze checklist!
+- [ ] Doelkaart / herinnering aan intentie
+- [ ] Muziek/koptelefoon (om je te concentreren)
+
+---
+
+## Na de wedstrijd
+
+**Direct daarna:**
 - [ ] Hydrate
-- [ ] Eat recovery meal within 1 hour
-- [ ] Brief reflection (3 wins, 1 learning)
-- [ ] Thank teammates/opponents
+- [ ] Eet binnen 1 uur een herstelmaaltijd.
+- [ ] Korte reflectie (3 successen, 1 leerpunt)
+- [ ] Bedank je teamgenoten/tegenstanders.
 
-**Evening:**
-- [ ] Full diary entry
-- [ ] What to practice next
-- [ ] Celebrate effort (regardless of result)
-- [ ] Good sleep for recovery
+**Avond:**
+- [ ] Volledig dagboekfragment
+- [ ] Wat kun je hierna oefenen?
+- [ ] Vier de inspanning (ongeacht het resultaat).
+- [ ] Goede nachtrust is essentieel voor herstel.
 
 ---
 
-## Quick Reference Card
+## Snel naslagkaart
 
-Print this and keep in your bag:
+Print dit uit en bewaar het in je tas:
 
 ```
 PRE-MATCH CHECKLIST
@@ -205,10 +205,10 @@ AFTER MISTAKES
 
 ---
 
-## Related Resources
+## Gerelateerde bronnen
 
-- [Sleep Tracker](/nl/guides/templates/sleep-tracker) — Optimize pre-competition sleep
-- [Nutrition Guide](/nl/education/nutrition/) — Competition fueling strategies
-- [Mental Strength](/nl/education/mental-game/mental-strength/) — Pressure management
-- [Tension Management](/nl/education/tension/) — Stay relaxed under pressure
+- [Slaaptracker](/en/guides/templates/sleep-tracker) — Optimaliseer je slaap vóór de wedstrijd
+- [Voedingsgids](/en/education/nutrition/) — Voedingsstrategieën voor wedstrijden
+- [Mentale kracht](/en/education/mental-game/mental-strength/) — Drukbeheer
+- [Spanningsmanagement](/en/education/tension/) — Blijf ontspannen onder druk
 

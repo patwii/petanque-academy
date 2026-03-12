@@ -50,21 +50,21 @@ Voici un résultat concret :
 - « Je veux un plan en mouvement qui décrit une courbe vers la gauche sur ce type de terrain. »
 - « Je veux un tir doux devant qui effleure à peine la boule cible. »
 
-**Commencez par explorer la [Palette de projections](/fr/education/technique/throws)** pour comprendre les possibilités. Ensuite, choisissez la projection spécifique que vous souhaitez ajouter à votre répertoire. Ce n&#39;est qu&#39;après cela que vous pourrez commencer à travailler sur les mouvements de votre bras, de votre poignet et de votre corps nécessaires pour obtenir ce résultat.
+**Commencez par explorer la [Palette de projections](/en/education/technique/throws)** pour comprendre les possibilités. Ensuite, choisissez la projection spécifique que vous souhaitez ajouter à votre répertoire. Ce n&#39;est qu&#39;après cela que vous pourrez commencer à travailler sur les mouvements de votre bras, de votre poignet et de votre corps nécessaires pour obtenir ce résultat.
 
 ## La bonne méthode pour travailler la technique
 
 Nous ne disons pas qu&#39;il ne faut jamais travailler son bras, son poignet, son lâcher ou sa position corporelle. **Le travail technique sur l&#39;exécution est tout à fait valable**, mais il doit avoir le bon objectif.
 
 ::: info La finalité appropriée des travaux techniques
-**Objectif correct :** "Je veux ajouter un nouveau lancer à ma palette"
+**Objectif correct :** « Je veux ajouter un nouveau jeté à ma palette »
 
-**Objectif erroné :** "Je veux réussir plus de tirs" ou "Je veux être plus régulier"
+**Objectif erroné :** « Je veux marquer plus de paniers » ou « Je veux être plus régulier ».
 :::
 
 Voici le processus :
 
-1. **Explorez la [Palette de projections](/fr/education/technique/throws)** — Identifiez la projection ou la technique que vous souhaitez ajouter à votre répertoire
+1. **Explorez la [Palette de projections](/en/education/technique/throws)** — Identifiez la projection ou la technique que vous souhaitez ajouter à votre répertoire
 2. **Visualisez le résultat** — Que doit faire la boule ? Quelle trajectoire, quel atterrissage, quelle rotation et quel comportement sont nécessaires ?
 3. **Ensuite, travaillez l&#39;exécution** — Vous pouvez maintenant vous concentrer sur le bras, le poignet, la position du corps et le relâchement pour atteindre ce résultat précis.
 
@@ -119,14 +119,14 @@ De nombreux joueurs expérimentés passent des années à perfectionner une tech
 ### La voie à suivre
 
 **Pour de meilleures prises de vue (nouvelles fonctionnalités) :**
-- Explorez la [Palette de lancers](/fr/education/technique/throws)
+- Explorez la [Palette de lancers](/en/education/technique/throws)
 - Choisissez un nouveau lancer spécifique à développer
 - Pratiquer l&#39;exécution technique
 
 **Pour plus de tirs (régularité sous pression) :**
-- Travaillez sur votre [force mentale](/fr/education/mental-game/mental-strength/)
-- Apprenez à accéder à [La Zone](/fr/education/mental-game/the-zone/)
-- Développer des [routines de préparation au tir](/fr/education/mental-game/mental-strength/pre-shot-routine)
+- Travaillez sur votre [force mentale](/en/education/mental-game/mental-strength/)
+- Apprenez à accéder à [La Zone](/en/education/mental-game/the-zone/)
+- Développer des [routines d&#39;avant-tir](/en/education/mental-game/mental-strength/pre-shot-routine)
 
 ## Notre perspective
 
@@ -159,13 +159,13 @@ Si vous avez une approche technique et souhaitez élargir votre répertoire, cet
 
 ## Sujets
 
-### [Palette de lancers](/fr/education/technique/throws)
+### [Palette de lancers](/en/education/technique/throws)
 Quelles sont toutes les techniques de lancer possibles ? Un aperçu complet des possibilités techniques en pétanque.
 
 ::: tip Après la technique, quelle est la prochaine étape ?
 Une fois que vous maîtrisez la technique, la véritable progression provient de :
-- **[La Zone](/fr/education/mental-game/the-zone/)** - Accéder aux états de flux
-- **[Force mentale](/fr/education/mental-game/mental-strength/)** - Gérer la pression
-- **[Méthodes de formation](/fr/education/technique/training/)** - Comment pratiquer efficacement
+- **[La Zone](/en/education/mental-game/the-zone/)** - Accéder aux états de flow
+- **[Force mentale](/en/education/mental-game/mental-strength/)** - Gérer la pression
+- **[Méthodes de formation](/en/education/technique/training/)** - Comment s&#39;entraîner efficacement
 :::
 

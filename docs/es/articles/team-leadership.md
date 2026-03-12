@@ -3,280 +3,280 @@ title: Leadership in Pétanque
 description: Develop leadership skills that elevate your team's performance. Learn how to lead effectively whether you're the captain or a supporting player.
 ---
 
-# Leadership in Pétanque
+# Liderazgo en la petanca
 
-> "Leadership isn't just about being the captain — it's about bringing out the best in your team."
+> &quot;El liderazgo no se trata solo de ser el capitán: se trata de sacar lo mejor de tu equipo&quot;.
 
-Every player can lead in different ways. It's about influence, support, and modeling excellence.
+Cada jugador puede liderar de diferentes maneras. Se trata de influencia, apoyo y ser un ejemplo de excelencia.
 
-::: tip Everyone Can Lead
-**You don't need a title to be a leader.** Leadership is behavior, not position.
+::: tip Todos pueden liderar
+**No necesitas un título para ser líder.** El liderazgo es comportamiento, no posición.
 :::
 
 ---
 
-## What Is Pétanque Leadership?
+## ¿Qué es el liderazgo en la petanca?
 
 ```mermaid
 flowchart LR
-    A[Effective Leadership] --> B[Good Decisions]
-    A --> C[Team Support]
-    A --> D[Focus & Energy]
-    A --> E[Model Behavior]
-    A --> F[Take Responsibility]
+    A[Liderazgo eficaz] --> B[Buenas decisiones]
+    A --> C[Soporte de equipo]
+    A --> D[Enfoque y energía]
+    A --> E[Comportamiento del modelo]
+    A --> F[Asumir la responsabilidad]
 
     style A fill:#FF9800,color:#fff
 ```
 
 ---
 
-## Types of Leadership
+## Tipos de liderazgo
 
-| Type | Focus | How It Looks |
+| Tipo | Enfocar | Cómo se ve |
 |------|-------|--------------|
-| **Positional** | Authority | Captain makes final decisions, sets culture |
-| **Performance** | Excellence | Consistent skill, handling pressure well |
-| **Emotional** | Energy | Staying positive, supporting others |
-| **Tactical** | Strategy | Reading the game, offering insights |
+| **Posicional** | Autoridad | El capitán toma las decisiones finales y establece la cultura. |
+| **Actuación** | Excelencia | Habilidad constante, buen manejo de la presión. |
+| **Emocional** | Energía | Mantenerse positivo, apoyar a los demás |
+| **Táctico** | Estrategia | Leyendo el juego, ofreciendo perspectivas |
 
-### Positional Leadership
+### Liderazgo posicional
 
-The designated captain or team leader:
-- Makes final strategic decisions
-- Represents the team officially
-- Manages team dynamics
-- Sets the tone and culture
+El capitán o líder del equipo designado:
+- Toma decisiones estratégicas finales
+- Representa oficialmente al equipo
+- Gestiona la dinámica del equipo
+- Establece el tono y la cultura
 
-### Performance Leadership
+### Liderazgo de desempeño
 
-Leading through excellence:
-- Demonstrating skill and consistency
-- Showing how to handle pressure
-- Setting standards through action
-- Inspiring through performance
+Liderando a través de la excelencia:
+- Demostrando habilidad y consistencia
+- Mostrando cómo manejar la presión
+- Establecer estándares a través de la acción
+- Inspirando a través del rendimiento
 
-### Emotional Leadership
+### Liderazgo emocional
 
-::: info Often Undervalued
-**Emotional leadership is critical** — the player who stays positive when down 2-10 can turn the entire match around.
+::: info A menudo subvalorado
+**El liderazgo emocional es fundamental**: el jugador que mantiene una actitud positiva cuando va perdiendo 2-10 puede cambiar el resultado del partido.
 :::
 
-Managing team energy and morale:
-- Staying positive under pressure
-- Supporting struggling teammates
-- Celebrating successes
-- Maintaining perspective
+Gestión de la energía y la moral del equipo:
+- Mantenerse positivo bajo presión
+- Apoyando a compañeros de equipo con dificultades
+- Celebrando los éxitos
+- Manteniendo la perspectiva
 
-### Tactical Leadership
+### Liderazgo táctico
 
-Contributing strategic thinking:
-- Reading the game well
-- Offering valuable insights
-- Seeing patterns others miss
-- Thinking ahead
+Aportando pensamiento estratégico:
+- Leyendo bien el juego
+- Ofreciendo información valiosa
+- Ver patrones que otros pasan por alto
+- Pensando en el futuro
 
-## The Effective Leader
+## El líder eficaz
 
-### In Practice
+### En la práctica
 
-- Arrives prepared and focused
-- Works hard and encourages others
-- Provides constructive feedback
-- Creates a positive training environment
+- Llega preparado y concentrado
+- Trabaja duro y anima a los demás.
+- Proporciona retroalimentación constructiva
+- Crea un ambiente de entrenamiento positivo
 
-### Before Competition
+### Antes de la competición
 
-- Ensures team is prepared
-- Sets clear expectations
-- Manages pre-match nerves
-- Creates focus and confidence
+- Se asegura de que el equipo esté preparado
+- Establece expectativas claras
+- Maneja los nervios previos al partido
+- Crea concentración y confianza.
 
-### During Competition
+### Durante la competición
 
-- Makes clear, timely decisions
-- Supports teammates visibly
-- Stays calm under pressure
-- Adapts strategy as needed
+- Toma decisiones claras y oportunas
+- Apoya visiblemente a sus compañeros de equipo
+- Mantiene la calma bajo presión
+- Adapta la estrategia según sea necesario
 
-### After Competition
+### Después de la competición
 
-- Handles wins with grace
-- Handles losses with perspective
-- Leads constructive debriefs
-- Maintains team relationships
+- Maneja las victorias con gracia
+- Maneja las pérdidas con perspectiva
+- Dirige informes constructivos
+- Mantiene las relaciones del equipo
 
-## Leadership Challenges
+## Desafíos del liderazgo
 
-### Making Tough Decisions
+### Tomando decisiones difíciles
 
-Sometimes you must:
-- Choose between options with no clear answer
-- Disagree with teammates
-- Take responsibility for outcomes
-- Act decisively despite uncertainty
+A veces debes:
+- Elija entre opciones sin respuesta clara
+- No estar de acuerdo con los compañeros de equipo
+- Asumir la responsabilidad de los resultados
+- Actuar con decisión a pesar de la incertidumbre
 
-**Approach:**
-- Gather input quickly
-- Make the decision
-- Commit fully
-- Learn from results
+**Acercarse:**
+- Recopilar información rápidamente
+- Toma la decisión
+- Comprometerse plenamente
+- Aprender de los resultados
 
-### Managing Conflict
+### Gestión de conflictos
 
-Team friction is inevitable:
-- Different opinions on strategy
-- Frustration after mistakes
-- Personality clashes
-- Unequal commitment
+La fricción del equipo es inevitable:
+- Diferentes opiniones sobre la estrategia
+- Frustración después de los errores
+- Choques de personalidad
+- Compromiso desigual
 
-**Approach:**
-- Address issues early
-- Listen to all perspectives
-- Focus on solutions
-- Maintain respect
+**Acercarse:**
+- Abordar los problemas de forma temprana
+- Escuche todas las perspectivas
+- Centrarse en las soluciones
+- Mantener el respeto
 
-### Supporting Struggling Players
+### Apoyando a los jugadores con dificultades
 
-When a teammate is underperforming:
-- Don't add pressure
-- Offer specific, positive support
-- Adjust strategy if needed
-- Maintain confidence in them
+Cuando un compañero de equipo no rinde al máximo:
+- No agregue presión
+- Ofrecer apoyo específico y positivo
+- Ajustar la estrategia si es necesario
+- Mantener la confianza en ellos
 
-### Handling Your Own Struggles
+### Cómo afrontar tus propias luchas
 
-Leaders struggle too:
-- Acknowledge it (to yourself)
-- Don't let it affect your leadership
-- Lean on teammates
-- Model resilience
+Los líderes también luchan:
+- Reconócelo (a ti mismo)
+- No dejes que afecte tu liderazgo
+- Apóyate en tus compañeros de equipo
+- Resiliencia del modelo
 
-## Leadership Styles
+## Estilos de liderazgo
 
-### The Commander
+### El comandante
 
-- Direct and decisive
-- Clear expectations
-- Takes charge in crisis
-- Risk: Can be overbearing
+- Directo y decisivo
+- Expectativas claras
+- Toma el control en tiempos de crisis
+- Riesgo: Puede ser abrumador.
 
-### The Coach
+### El entrenador
 
-- Develops others
-- Asks questions
-- Builds capability
-- Risk: Can be slow in crisis
+- Desarrolla a otros
+- Hace preguntas
+- Desarrolla capacidad
+- Riesgo: Puede ser lento en crisis
 
-### The Collaborator
+### El colaborador
 
-- Seeks input
-- Builds consensus
-- Values all voices
-- Risk: Can be indecisive
+- Busca aportaciones
+- Crea consenso
+- Valora todas las voces
+- Riesgo: Puede ser indeciso
 
-### The Supporter
+### El partidario
 
-- Focuses on relationships
-- Creates safety
-- Encourages and affirms
-- Risk: Can avoid hard truths
+- Se centra en las relaciones
+- Crea seguridad
+- Anima y afirma
+- Riesgo: Puede evitar verdades duras
 
-**Best leaders adapt their style to the situation.**
+**Los mejores líderes adaptan su estilo a la situación.**
 
-## Developing Leadership Skills
+## Desarrollo de habilidades de liderazgo
 
-### Self-Awareness
+### Autoconciencia
 
-Know your:
-- Natural leadership style
-- Strengths and weaknesses
-- Impact on others
-- Triggers and reactions
+Conozca su:
+- Estilo de liderazgo natural
+- Fortalezas y debilidades
+- Impacto en los demás
+- Desencadenantes y reacciones
 
-### Emotional Intelligence
+### Inteligencia emocional
 
-Develop ability to:
-- Recognize emotions (yours and others')
-- Manage your responses
-- Empathize with teammates
-- Navigate social dynamics
+Desarrollar la capacidad para:
+- Reconocer las emociones (las tuyas y las de los demás)
+- Gestiona tus respuestas
+- Empatizar con los compañeros de equipo
+- Navegar por la dinámica social
 
-### Communication Skills
+### Habilidades de comunicación
 
-Practice:
-- Clear, concise messaging
-- Active listening
-- Giving constructive feedback
-- Difficult conversations
+Práctica:
+- Mensajes claros y concisos
+- escucha activa
+- Dar retroalimentación constructiva
+- Conversaciones difíciles
 
-### Decision-Making
+### Toma de decisiones
 
-Improve through:
-- Analyzing past decisions
-- Seeking feedback
-- Learning from mistakes
-- Practicing under pressure
+Mejorar a través de:
+- Analizando decisiones pasadas
+- Buscando retroalimentación
+- Aprendiendo de los errores
+- Practicando bajo presión
 
-## Leading Without the Title
+## Liderando sin el título
 
-You don't need to be captain to lead:
+No es necesario ser capitán para liderar:
 
-### Lead by Example
-- Show up prepared
-- Give full effort
-- Handle adversity well
-- Support teammates
+### Predicar con el ejemplo
+- Preséntese preparado
+- Dar todo el esfuerzo
+- Manejar bien la adversidad
+- Compañeros de equipo de apoyo
 
-### Lead Through Support
-- Encourage others
-- Offer help
-- Celebrate teammates' success
-- Be reliable
+### Liderar a través del apoyo
+- Animar a los demás
+- Ofrecer ayuda
+- Celebre el éxito de sus compañeros de equipo
+- Sea confiable
 
-### Lead Through Contribution
-- Share observations
-- Offer ideas respectfully
-- Take initiative
-- Fill gaps
+### Liderar a través de la contribución
+- Compartir observaciones
+- Ofrecer ideas con respeto
+- Tomar la iniciativa
+- Rellenar huecos
 
-## The Leadership Mindset
+## La mentalidad de liderazgo
 
-### Responsibility Over Blame
+### Responsabilidad por encima de culpa
 
-Leaders take responsibility:
-- "We didn't execute well" not "They missed"
-- "I should have communicated better" not "They didn't listen"
+Los líderes asumen la responsabilidad:
+- &quot;No ejecutamos bien&quot; no &quot;fallaron&quot;
+- &quot;Debería haberme comunicado mejor&quot; no &quot;No me escucharon&quot;
 
-### Team Over Self
+### El equipo por encima de uno mismo
 
-Leaders prioritize team success:
-- Celebrate team achievements
-- Share credit generously
-- Take blame personally
-- Put team needs first
+Los líderes priorizan el éxito del equipo:
+- Celebrar los logros del equipo
+- Comparte el crédito generosamente
+- Tomar la culpa personalmente
+- Poner las necesidades del equipo primero
 
-### Growth Over Comfort
+### Crecimiento por encima de comodidad
 
-Leaders embrace challenge:
-- Seek difficult situations
-- Learn from failures
-- Push for improvement
-- Model continuous growth
+Los líderes aceptan el desafío:
+- Busca situaciones difíciles
+- Aprende de los fracasos
+- Impulsar la mejora
+- Modelo de crecimiento continuo
 
-## When Leadership Fails
+## Cuando el liderazgo falla
 
-Even good leaders fail sometimes:
-- Wrong decisions happen
-- Teams lose despite good leadership
-- Relationships strain
+Incluso los buenos líderes fallan a veces:
+- Se toman decisiones equivocadas
+- Los equipos pierden a pesar del buen liderazgo
+- Las relaciones se tensan
 
-**Recovery:**
-1. Acknowledge what happened
-2. Take appropriate responsibility
-3. Learn the lessons
-4. Move forward with humility
+**Recuperación:**
+1. Reconocer lo que pasó
+2. Asumir la responsabilidad apropiada
+3. Aprende las lecciones
+4. Avanzar con humildad
 
 ---
 
-*Related: [Team Dynamics](/es/education/team-dynamics/) | [Communication](/es/education/team-dynamics/communication) | [Building Team Chemistry](/es/articles/team-chemistry)*
+| *Relacionado: [Dinámica de equipo](/es/educacion/dinamica-de-equipo/) | [Comunicación](/es/educacion/dinamica-de-equipo/comunicacion) | [Desarrollando la química en equipo](/es/articles/quimica-de-equipo)* |
 

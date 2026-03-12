@@ -3,189 +3,189 @@ title: Pressure Management in Pétanque
 description: Master the art of performing under pressure. Learn practical techniques to stay calm, focused, and effective when the stakes are highest.
 ---
 
-# Pressure Management in Pétanque
+# Gestión de la presión en la petanca
 
-> "Elite players don't eliminate pressure; they learn to perform with it, sometimes even because of it."
+> &quot;Los jugadores de élite no eliminan la presión; aprenden a jugar con ella, a veces incluso gracias a ella&quot;.
 
-Pressure is inevitable in competitive pétanque. The question isn't whether you'll feel it — you will. The question is how you'll respond.
+La presión es inevitable en la petanca de competición. La cuestión no es si la sentirás, sino cómo responderás.
 
-::: tip The Pressure Truth
-**Pressure isn't the problem — your response to it is.** Learn to use pressure as fuel, not as a brake.
+::: tip La verdad sobre la presión
+**La presión no es el problema; tu respuesta a ella sí lo es.** Aprende a usar la presión como combustible, no como freno.
 :::
 
 ---
 
-## Understanding Pressure
+## Entendiendo la presión
 
-Pressure is your body's response to perceived high stakes. When you face a crucial shot, your nervous system activates:
+La presión es la respuesta de tu cuerpo a la percepción de algo muy importante. Cuando te enfrentas a un tiro crucial, tu sistema nervioso se activa:
 
 ```mermaid
 flowchart TD
-    A[High Stakes Moment] --> B[Fight-or-Flight Response]
-    B --> C[Heart Rate ↑]
-    B --> D[Shallow Breathing]
-    B --> E[Muscle Tension]
-    B --> F[Narrowed Focus]
+    A[Momento de alto riesgo] --> B[Respuesta de lucha o huida]
+    B --> C[Frecuencia cardíaca ↑]
+    B --> D[Respiración superficial]
+    B --> E[Tensión muscular]
+    B --> F[Enfoque estrecho]
 
     C --> G{Your Response}
     D --> G
     E --> G
     F --> G
 
-    G -->|Threat Mode| H[Performance ↓]
-    G -->|Challenge Mode| I[Performance ↑]
+    G -->|Threat Mode| H[Rendimiento ↓]
+    G -->|Challenge Mode| I[Rendimiento ↑]
 
     style A fill:#f44336,color:#fff
     style H fill:#f44336,color:#fff
     style I fill:#4CAF50,color:#fff
 ```
 
-This is the fight-or-flight response — useful for escaping predators, less useful for throwing a boule with precision.
+Esta es la respuesta de lucha o huida: útil para escapar de los depredadores, menos útil para lanzar una bola con precisión.
 
 ---
 
-## The Pressure Paradox
+## La paradoja de la presión
 
-::: warning The Trap
-The harder you try to eliminate pressure, the stronger it becomes. Telling yourself "don't be nervous" only amplifies the nervousness.
+::: warning La trampa
+Cuanto más intentas eliminar la presión, más fuerte se vuelve. Decirte a ti mismo &quot;no te pongas nervioso&quot; solo aumenta el nerviosismo.
 :::
 
-The solution isn't to fight pressure but to change your relationship with it.
+La solución no es luchar contra la presión, sino cambiar tu relación con ella.
 
-## Reframing Pressure
+## Reformulando la presión
 
-### From Threat to Challenge
+### De la amenaza al desafío
 
-Your brain interprets pressure situations in one of two ways:
-- **Threat**: "This could go wrong, I might fail"
-- **Challenge**: "This is an opportunity to show what I can do"
+Tu cerebro interpreta las situaciones de presión de una de dos maneras:
+- **Amenaza**: &quot;Esto podría salir mal, podría fracasar&quot;
+- **Desafío**: &quot;Esta es una oportunidad para demostrar lo que puedo hacer&quot;
 
-Both interpretations produce arousal, but challenge states lead to better performance. The physical sensations are similar — it's the meaning you assign that differs.
+Ambas interpretaciones producen excitación, pero los estados de desafío conducen a un mejor rendimiento. Las sensaciones físicas son similares; lo que difiere es el significado que se les asigna.
 
-### Practical Reframes
+### Reencuadres prácticos
 
-| Pressure Thought | Reframe |
+| Pensamiento de presión | Reencuadrar |
 |-----------------|---------|
-| "I can't miss this" | "I get to take this shot" |
-| "Everyone is watching" | "I'm ready for this moment" |
-| "This is too important" | "This is what I train for" |
-| "I'm so nervous" | "I'm excited and ready" |
+| &quot;No me lo puedo perder&quot; | &quot;Yo puedo tomar esta foto&quot; |
+| &quot;Todo el mundo está mirando&quot; | &quot;Estoy listo para este momento&quot; |
+| &quot;Esto es demasiado importante&quot; | &quot;Para esto me entreno&quot; |
+| &quot;Estoy tan nervioso&quot; | &quot;Estoy emocionado y listo&quot; |
 
-## Physical Techniques
+## Técnicas físicas
 
-### Breathing Control
+### Control de la respiración
 
-The fastest way to calm your nervous system:
+La forma más rápida de calmar tu sistema nervioso:
 
-**Box Breathing:**
-1. Inhale for 4 counts
-2. Hold for 4 counts
-3. Exhale for 4 counts
-4. Hold for 4 counts
-5. Repeat 2-3 times
+**Respiración de caja:**
+1. Inhala durante 4 segundos
+2. Mantener durante 4 tiempos
+3. Exhala contando hasta 4
+4. Mantener durante 4 tiempos
+5. Repetir 2-3 veces
 
-**Extended Exhale:**
-- Inhale for 4 counts
-- Exhale for 8 counts
-- The longer exhale activates the parasympathetic nervous system
+**Exhalación prolongada:**
+- Inhala durante 4 segundos
+- Exhala durante 8 segundos
+- La exhalación más larga activa el sistema nervioso parasimpático.
 
-### Progressive Relaxation
+### Relajación progresiva
 
-Between throws:
-1. Clench your fists tight for 3 seconds
-2. Release and feel the relaxation
-3. Roll your shoulders up, hold, release
-4. Shake out your hands
+Entre lanzamientos:
+1. Aprieta los puños con fuerza durante 3 segundos.
+2. Suelta y siente la relajación.
+3. Enrolle los hombros hacia arriba, sostenga y suelte.
+4. Sacude tus manos
 
-### Grounding
+### Toma de tierra
 
-When pressure feels overwhelming:
-- Feel your feet on the ground
-- Notice the weight of the boule in your hand
-- Look at specific details in your environment
-- Name 5 things you can see
+Cuando la presión se siente abrumadora:
+- Siente tus pies en el suelo
+- Observa el peso de la bola en tu mano
+- Observa detalles específicos de tu entorno
+- Nombra 5 cosas que puedas ver
 
-## Mental Techniques
+## Técnicas mentales
 
-### Narrow Your Focus
+### Limita tu enfoque
 
-Pressure often comes from thinking too far ahead. Bring your attention to:
-- This throw only
-- This moment only
-- The process, not the outcome
+La presión suele provenir de pensar demasiado a futuro. Presta atención a:
+- Este lanzamiento solamente
+- Este momento solamente
+- El proceso, no el resultado
 
-### Use Cue Words
+### Utilice palabras clave
 
-Single words that anchor your focus:
-- "Smooth"
-- "Trust"
-- "Now"
-- "Breathe"
+Palabras individuales que anclan tu enfoque:
+- &quot;Liso&quot;
+- &quot;Confianza&quot;
+- &quot;Ahora&quot;
+- &quot;Respirar&quot;
 
-### Visualization
+### Visualización
 
-Before high-pressure shots:
-1. Close your eyes briefly
-2. See the boule traveling to its target
-3. Feel the successful throw in your body
-4. Open your eyes and execute
+Antes de disparos de alta presión:
+1. Cierra los ojos brevemente
+2. Vea la bola viajando hacia su objetivo
+3. Siente el lanzamiento exitoso en tu cuerpo
+4. Abre los ojos y ejecuta
 
-## Building Pressure Tolerance
+## Tolerancia a la presión del edificio
 
-### Pressure Training
+### Entrenamiento de presión
 
-You can't learn to handle pressure without experiencing it. Create pressure in practice:
+No se puede aprender a manejar la presión sin experimentarla. Crea presión en la práctica:
 
-- **Consequence drills**: Miss and you do push-ups
-- **Competition simulation**: Practice with something at stake
-- **Audience practice**: Invite people to watch your training
-- **Fatigue training**: Practice when tired
+- **Ejercicios de consecuencias**: Si fallas, haces flexiones.
+- **Simulación de competición**: Práctica con algo en juego
+- **Práctica con la audiencia**: Invita a la gente a ver tu capacitación
+- **Entrenamiento de fatiga**: Practica cuando estés cansado
 
-### Exposure Ladder
+### Escalera de exposición
 
-Gradually increase pressure exposure:
-1. Practice alone with no stakes
-2. Practice with a training partner watching
-3. Practice with small consequences
-4. Friendly matches
-5. Club competitions
-6. Regional tournaments
-7. National events
+Aumente gradualmente la exposición a la presión:
+1. Practica solo sin apuestas
+2. Practica con un compañero de entrenamiento que te observe.
+3. Práctica con pequeñas consecuencias
+4. Partidos amistosos
+5. Competiciones de clubes
+6. Torneos regionales
+7. Eventos nacionales
 
-## In-Match Strategies
+## Estrategias durante el partido
 
-### Before the Match
-- Arrive early, familiarize yourself with the terrain
-- Complete your warm-up routine
-- Use positive self-talk
-- Visualize successful performance
+### Antes del partido
+- Llega temprano, familiarízate con el terreno.
+- Completa tu rutina de calentamiento
+- Utilice un diálogo interno positivo
+- Visualizar un desempeño exitoso
 
-### During Pressure Moments
-1. Recognize the pressure ("I'm feeling the pressure")
-2. Accept it ("This is normal, it means I care")
-3. Breathe (2-3 controlled breaths)
-4. Refocus (return to your pre-shot routine)
-5. Execute (trust your training)
+### Durante los momentos de presión
+1. Reconoce la presión (&quot;Estoy sintiendo la presión&quot;)
+2. Acéptalo (&quot;Esto es normal, significa que me importa&quot;)
+3. Respirar (2-3 respiraciones controladas)
+4. Reenfocar (volver a tu rutina previa a la toma)
+5. Ejecutar (confía en tu entrenamiento)
 
-### After Mistakes
-- Take a physical step back
-- One deep breath
-- Let go of the result
-- Focus on the next opportunity
+### Después de los errores
+- Da un paso físico hacia atrás
+- Una respiración profunda
+- Deja ir el resultado
+- Concéntrese en la próxima oportunidad
 
-## The Pressure Advantage
+## La ventaja de la presión
 
-With practice, pressure becomes fuel rather than friction. Elite performers often describe their best performances as happening under the highest pressure — not despite it, but because of it.
+Con la práctica, la presión se convierte en combustible en lugar de fricción. Los deportistas de élite suelen describir sus mejores actuaciones como resultado de la mayor presión, no a pesar de ella, sino gracias a ella.
 
-The arousal that pressure creates can enhance:
-- Focus and concentration
-- Physical readiness
-- Memory and recall
-- Reaction time
+La excitación que crea la presión puede aumentar:
+- Enfoque y concentración
+- preparación física
+- Memoria y recuerdo
+- Tiempo de reacción
 
-The key is channeling this energy productively rather than letting it overwhelm you.
+La clave es canalizar esta energía productivamente en lugar de dejar que nos abrume.
 
 ---
 
-*Related: [Handling Pressure](/es/education/mental-game/mental-strength/handling-pressure) | [Pre-Shot Routine](/es/education/mental-game/mental-strength/pre-shot-routine) | [The Zone](/es/education/mental-game/the-zone/)*
+| *Relacionado: [Manejo de la presión](/es/educacion/juego-mental/fuerza-mental/manejo-de-la-presion) | [Rutina pre-tiro](/es/educacion/juego-mental/fuerza-mental/rutina-pre-tiro) | [La Zona](/es/educacion/juego-mental/la-zona/)* |
 

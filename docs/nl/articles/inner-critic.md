@@ -3,35 +3,35 @@ title: Understanding the Inner Critic
 description: Learn to recognize and manage the negative self-talk that undermines your pétanque performance. Transform your inner critic into a supportive voice.
 ---
 
-# Understanding the Inner Critic
+# Het begrijpen van de innerlijke criticus
 
-> "Every pétanque player knows that voice — the one that whispers 'you're going to miss' just as you're about to throw."
+> &quot;Elke pétanque-speler kent die stem wel: die stem die fluistert &#39;je gaat missen&#39; net voordat je gooit.&quot;
 
-This is your inner critic — and learning to manage it is essential for elite performance.
+Dit is je innerlijke criticus – en leren omgaan met die criticus is essentieel voor topprestaties.
 
-::: warning The Paradox
-**Your inner critic isn't trying to hurt you** — it's a misguided attempt at protection. But this "protection" becomes self-sabotage.
+::: warning De paradox
+**Je innerlijke criticus probeert je niet te kwetsen** — het is een misplaatste poging tot bescherming. Maar deze &quot;bescherming&quot; verandert in zelfsabotage.
 :::
 
 ---
 
-## What Is the Inner Critic?
+## Wat is de innerlijke criticus?
 
-The inner critic is that internal voice that judges, criticizes, and undermines your confidence:
+De innerlijke criticus is die interne stem die oordeelt, bekritiseert en je zelfvertrouwen ondermijnt:
 
 ```mermaid
 flowchart TD
-    A[Pressure Situation] --> B[Inner Critic Activates]
-    B --> C["You're going to miss"]
-    B --> D["Everyone is watching"]
-    B --> E["You always choke"]
+    A[Druksituatie] --> B[De innerlijke criticus wordt geactiveerd]
+    B --> C[&quot;Je gaat missen&quot;]
+    B --> D[&quot;Iedereen kijkt toe&quot;]
+    B --> E[&quot;Je faalt altijd&quot;]
 
-    C --> F[Muscle Tension ↑]
+    C --> F[Spierspanning ↑]
     D --> F
     E --> F
 
-    F --> G[Performance ↓]
-    G --> H[More Ammunition for Critic]
+    F --> G[Prestatie ↓]
+    G --> H[Meer munitie voor de criticus]
     H --> B
 
     style A fill:#FF9800,color:#fff
@@ -39,102 +39,102 @@ flowchart TD
     style G fill:#f44336,color:#fff
 ```
 
-### When It Appears
+### Wanneer het verschijnt
 
-| Moment | Inner Critic Says |
+| Moment | De innerlijke criticus zegt |
 |--------|-------------------|
-| **Before crucial shot** | "Everyone is watching. Don't mess this up." |
-| **After a miss** | "You always choke under pressure." |
-| **During losing streak** | "You're not good enough for this level." |
+| **Vóór het cruciale schot** | &quot;Iedereen kijkt toe. Verknoei dit niet.&quot; |
+| **Na een misser** | &quot;Je bezwijkt altijd onder druk.&quot; |
+| **Tijdens een verliesreeks** | &quot;Je bent niet goed genoeg voor dit niveau.&quot; |
 
-## Recognizing Your Patterns
+## Je eigen patronen herkennen
 
-The first step is awareness. Start noticing when your inner critic appears:
+De eerste stap is bewustwording. Begin op te merken wanneer je innerlijke criticus opduikt:
 
-### Common Triggers
-- High-pressure situations (match point, important tournaments)
-- After making a mistake
-- When opponents are performing well
-- When teammates seem frustrated
-- Physical fatigue or discomfort
+### Veelvoorkomende triggers
+- Situaties onder hoge druk (matchpoint, belangrijke toernooien)
+- Na een fout te hebben gemaakt
+- Wanneer tegenstanders goed presteren
+- Wanneer teamgenoten gefrustreerd lijken
+- Lichamelijke vermoeidheid of ongemak
 
-### Common Messages
-- "You can't handle pressure"
-- "You're not as good as them"
-- "Everyone is judging you"
-- "You always fail when it matters"
+### Algemene berichten
+- &quot;Je kunt niet tegen druk.&quot;
+- &quot;Jij bent niet zo goed als zij.&quot;
+- &quot;Iedereen oordeelt over je&quot;
+- &quot;Je faalt altijd wanneer het erop aankomt.&quot;
 
-## The Impact on Performance
+## De impact op de prestaties
 
-When the inner critic takes over, your body responds:
+Wanneer je innerlijke criticus de overhand neemt, reageert je lichaam als volgt:
 
-1. **Muscle tension increases** — Your throw becomes rigid
-2. **Breathing becomes shallow** — Less oxygen, less focus
-3. **Vision narrows** — You lose awareness of the terrain
-4. **Decision-making suffers** — You second-guess yourself
+1. **Spierspanning neemt toe** — Je worp wordt stijver.
+2. **De ademhaling wordt oppervlakkiger** — Minder zuurstof, minder concentratie
+3. **Zicht vernauwt** — Je verliest het besef van het terrein.
+4. **Besluitvorming lijdt eronder** — Je twijfelt aan jezelf.
 
-This creates a vicious cycle: the inner critic causes poor performance, which gives the critic more ammunition.
+Dit creëert een vicieuze cirkel: de innerlijke criticus leidt tot slechte prestaties, wat de criticus meer munitie geeft.
 
-## Strategies for Managing the Inner Critic
+## Strategieën om de innerlijke criticus te beheersen
 
-### 1. Name It to Tame It
+### 1. Geef het een naam om het te temmen
 
-Give your inner critic a name — something slightly ridiculous. "Oh, there goes Negative Nils again." This creates distance between you and the voice, making it easier to dismiss.
+Geef je innerlijke criticus een naam – iets ietwat belachelijks. &quot;Oh, daar gaat Negatieve Nul weer.&quot; Dit creëert afstand tussen jou en de stem, waardoor het makkelijker wordt om die te negeren.
 
-### 2. Challenge the Evidence
+### 2. Betwist het bewijsmateriaal
 
-When the critic says "you always miss under pressure," ask yourself: Is that actually true? Can you think of times you performed well under pressure? The critic deals in absolutes that rarely reflect reality.
+Als een criticus zegt: &quot;Je presteert altijd onder druk&quot;, vraag je dan af: is dat wel echt zo? Kun je je momenten herinneren waarop je juist goed presteerde onder druk? De criticus spreekt vaak absolute termen die zelden de werkelijkheid weerspiegelen.
 
-### 3. Reframe the Message
+### 3. Herformuleer de boodschap
 
-Transform criticism into coaching:
-- "You're going to miss" → "Focus on your routine"
-- "Everyone is watching" → "This is your moment to shine"
-- "You always choke" → "You've handled pressure before"
+Zet kritiek om in coaching:
+- &quot;Je gaat het missen&quot; → &quot;Concentreer je op je routine&quot;
+- &quot;Iedereen kijkt toe&quot; → &quot;Dit is jouw moment om te schitteren&quot;
+- &quot;Je faalt altijd&quot; → &quot;Je hebt al eerder met druk omgegaan&quot;
 
-### 4. Use Your Pre-Shot Routine
+### 4. Gebruik je routine van vóór de injectie.
 
-A solid [pre-shot routine](/nl/education/mental-game/mental-strength/pre-shot-routine) gives your mind something constructive to focus on, leaving less room for the critic.
+Een degelijke voorbereiding op het schieten geeft je geest iets constructiefs om zich op te concentreren, waardoor er minder ruimte overblijft voor zelfkritiek.
 
-### 5. Practice Self-Compassion
+### 5. Oefen zelfcompassie
 
-Treat yourself as you would a teammate. Would you tell a struggling teammate "you're terrible"? Of course not. Extend the same kindness to yourself.
+Behandel jezelf zoals je een teamgenoot zou behandelen. Zou je tegen een teamgenoot die het moeilijk heeft zeggen: &quot;Je bent waardeloos&quot;? Natuurlijk niet. Wees net zo vriendelijk voor jezelf.
 
-## Building a Supportive Inner Voice
+## Een ondersteunende innerlijke stem ontwikkelen
 
-The goal isn't to silence the inner critic completely — that's nearly impossible. Instead, develop a stronger supportive voice:
+Het doel is niet om de innerlijke criticus volledig het zwijgen op te leggen – dat is vrijwel onmogelijk. Ontwikkel in plaats daarvan een sterkere, ondersteunende stem:
 
-### The Supportive Voice Says:
-- "One throw at a time"
-- "Trust your training"
-- "You've done this before"
-- "Stay in the present"
-- "Breathe and reset"
+### De ondersteunende stem zegt:
+- &quot;Eén worp tegelijk&quot;
+- &quot;Vertrouw op je training&quot;
+- &quot;Dit heb je al eerder gedaan.&quot;
+- &quot;Blijf in het nu&quot;
+- &quot;Adem in en kom tot rust&quot;
 
-### Daily Practice
+### Dagelijkse oefening
 
-Spend 5 minutes each day:
-1. Recall a moment when you performed well
-2. Remember how it felt in your body
-3. Hear what your supportive voice was saying
-4. Anchor this feeling with a physical gesture (touching your boule, adjusting your stance)
+Besteed elke dag 5 minuten aan:
+1. Denk terug aan een moment waarop je goed presteerde.
+2. Onthoud hoe het in je lichaam voelde.
+3. Luister naar wat jouw steunende stem zei.
+4. Veranker dit gevoel met een fysieke handeling (je boule aanraken, je houding aanpassen).
 
-## In Competition
+## In competitie
 
-When the inner critic appears during a match:
+Wanneer de innerlijke criticus opduikt tijdens een wedstrijd:
 
-1. **Acknowledge it**: "I notice I'm being self-critical"
-2. **Take a breath**: Slow, deep breath to reset
-3. **Use your anchor**: The physical gesture from your practice
-4. **Return to routine**: Focus on your pre-shot process
+1. **Erken het**: &quot;Ik merk dat ik zelfkritisch ben.&quot;
+2. **Haal adem**: Haal langzaam en diep adem om tot rust te komen.
+3. **Gebruik je anker**: Het fysieke gebaar uit je oefening
+4. **Terug naar de routine**: Concentreer je op je voorbereiding op de foto.
 
-## The Long-Term Journey
+## De reis op de lange termijn
 
-Managing the inner critic is not a one-time fix. It's an ongoing practice that becomes easier with time. Elite players don't eliminate self-doubt — they learn to perform despite it.
+Het beheersen van je innerlijke criticus is geen eenmalige oplossing. Het is een voortdurende oefening die met de tijd steeds makkelijker wordt. Topspelers elimineren zelfkritiek niet, ze leren presteren ondanks die zelfkritiek.
 
-The inner critic will always be part of you. But with practice, its voice becomes quieter, and your supportive voice becomes stronger. That's the mental edge that separates good players from great ones.
+De innerlijke criticus zal altijd deel van je blijven uitmaken. Maar met oefening wordt zijn stem stiller en je eigen ondersteunende stem sterker. Dat is het mentale voordeel dat goede spelers van geweldige spelers onderscheidt.
 
 ---
 
-*Related: [Handling Pressure](/nl/education/mental-game/mental-strength/handling-pressure) | [Pre-Shot Routine](/nl/education/mental-game/mental-strength/pre-shot-routine) | [Mindfulness Techniques](/nl/education/mental-game/mindfulness/techniques)*
+| *Gerelateerd: [Omgaan met druk](/en/education/mental-game/mental-strength/handling-pressure) | [Voorbereidingsroutine](/en/education/mental-game/mental-strength/pre-shot-routine) | [Mindfulnesstechnieken](/en/education/mental-game/mindfulness/techniques)* |
 

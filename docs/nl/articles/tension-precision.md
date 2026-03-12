@@ -3,33 +3,33 @@ title: "Tension and Precision: The Hidden Connection"
 description: How unconscious muscle tension destroys throwing accuracy and what elite players do to maintain optimal relaxation under pressure.
 ---
 
-# Tension and Precision: The Hidden Connection
+# Spanning en precisie: de verborgen verbinding
 
-> "You cannot be both tense and precise. It's physically impossible."
+> &quot;Je kunt niet tegelijkertijd gespannen en nauwkeurig zijn. Dat is fysiek onmogelijk.&quot;
 
-You've felt it: the crucial throw where your body tightens, your grip increases, and the ball goes exactly where you didn't want it. Tension is the silent killer of precision.
+Je kent het wel: die cruciale worp waarbij je lichaam zich aanspant, je grip verbetert en de bal precies terechtkomt waar je hem niet wilde hebben. Spanning is de stille moordenaar van precisie.
 
-::: danger The Hidden Enemy
-**Most tension is invisible to the player experiencing it.** You don't know you're tense until it's too late.
+::: danger De verborgen vijand
+**De meeste spanning is onzichtbaar voor de speler die het ervaart.** Je weet pas dat je gespannen bent als het te laat is.
 :::
 
 ---
 
-## The Biomechanics of Tension
+## De biomechanica van spanning
 
 ```mermaid
 flowchart TD
-    A[Tension] --> B[Grip Pressure ↑]
-    A --> C[Shoulder Tightness]
-    A --> D[Jerky Motion]
-    A --> E[Held Breath]
+    A[Spanning] --> B[Grijpdruk ↑]
+    A --> C[Schouderstijfheid]
+    A --> D[Schokkerige beweging]
+    A --> E[Adem ingehouden]
 
-    B --> F[Inconsistent Release]
-    C --> G[Restricted Swing]
-    D --> H[Lost Fluidity]
-    E --> I[Broken Rhythm]
+    B --> F[Inconsistente release]
+    C --> G[Beperkte swing]
+    D --> H[Verlies van vloeibaarheid]
+    E --> I[Gebroken ritme]
 
-    F --> J[Precision ↓]
+    F --> J[Nauwkeurigheid ↓]
     G --> J
     H --> J
     I --> J
@@ -40,31 +40,31 @@ flowchart TD
 
 ---
 
-## Where Tension Hides
+## Waar spanning schuilgaat
 
-Most players are aware of gross tension (tight shoulders before a big throw). Few notice subtle tension that consistently degrades performance:
+De meeste spelers zijn zich bewust van grove spanning (gespannen schouders voor een belangrijke worp). Weinigen merken echter de subtiele spanning op die de prestaties consequent negatief beïnvloedt:
 
-| Location | Effect on Throw | How to Notice |
+| Locatie | Effect bij gooien | Hoe je het kunt opmerken |
 |----------|-----------------|---------------|
-| **Grip** | Inconsistent release timing | Ball marks on palm |
-| **Forearm** | Reduced wrist fluidity | Burning sensation |
-| **Shoulder** | Restricted swing arc | Throw feels "short" |
-| **Neck** | Altered head position | Stiffness after matches |
-| **Jaw** | Full-body tension cascade | Clenched teeth |
-| **Breath** | Disrupted rhythm | Holding breath |
+| **Grip** | Inconsistente timing van de release | Balafdrukken op de handpalm |
+| **Onderarm** | Verminderde beweeglijkheid van de pols | Brandend gevoel |
+| **Schouder** | Beperkte zwaaihoek | De worp voelt &quot;kort&quot; aan. |
+| **Nek** | Gewijzigde hoofdpositie | Stijfheid na wedstrijden |
+| **Kaak** | Spanningscascade over het hele lichaam | Op elkaar geklemde tanden |
+| **Adem** | Verstoord ritme | Adem inhouden |
 
 ---
 
-## The Pressure-Tension Spiral
+## De druk-spanningspiraal
 
-Under pressure, a destructive cycle begins:
+Onder druk begint een destructieve cyclus:
 
 ```mermaid
 flowchart LR
-    A[Stakes ↑] --> B[Body Tenses]
-    B --> C[Precision ↓]
-    C --> D[Anxiety ↑]
-    D --> E[More Tension]
+    A[Inzet ↑] --> B[Lichaamsspanningen]
+    B --> C[Nauwkeurigheid ↓]
+    C --> D[Angst ↑]
+    D --> E[Meer spanning]
     E --> B
 
     style A fill:#fff3e0
@@ -74,163 +74,163 @@ flowchart LR
     style E fill:#f44336,color:#fff
 ```
 
-::: tip Break the Cycle
-**Interrupt at Step 2** — before tension affects performance. This is why pre-shot routines with tension checks are essential.
+::: tip Doorbreek de cyclus
+**Onderbreek bij stap 2** — voordat spanning de prestatie beïnvloedt. Daarom zijn routines met spanningsmetingen vóór de opname essentieel.
 :::
 
-## Detecting Your Tension Patterns
+## Je spanningspatronen opsporen
 
-### The Body Scan Method
+### De lichaamsscanmethode
 
-Before practicing, close your eyes and scan:
+Sluit voordat je gaat oefenen je ogen en kijk even rond:
 
-1. Start at your feet — Any gripping of toes?
-2. Move up through legs — Any locked knees?
-3. Notice hips and core — Any bracing?
-4. Check shoulders — Any elevation?
-5. Scan arms and hands — Any premature grip?
-6. Notice neck and face — Any clenching?
+1. Begin bij je voeten — grijp je je tenen vast?
+2. Beweeg je benen omhoog — Zijn je knieën gestrekt?
+3. Let op je heupen en romp — Span je je spieren aan?
+4. Kijk over je schouders — Zijn er hoogteverschillen?
+5. Controleer armen en handen — Is er sprake van een voortijdige greep?
+6. Let op nek en gezicht — zie je spanning in je spieren?
 
-Rate tension 0-10 at each location. **Your baseline should be 2 or less.**
+Beoordeel de spanning op elke locatie met een score van 0-10. **Uw basiswaarde moet 2 of lager zijn.**
 
-### The Video Method
+### De videomethode
 
-Record yourself throwing in:
-- Low-stakes practice
-- Moderate-stakes practice
-- High-stakes competition
+Neem jezelf op terwijl je de bal gooit:
+- Oefening met lage inzet
+- Oefening met matige inzet
+- Competitie met hoge inzet
 
-Compare your body language. Where do you tense up as stakes increase?
+Vergelijk je lichaamstaal. Waar span je je aan naarmate de spanning toeneemt?
 
-### The Partner Method
+### De partnermethode
 
-Ask a teammate to observe:
-- Your face before important throws
-- Your stance changes under pressure
-- Your breathing patterns
-- Your grip behavior
+Vraag een teamgenoot om te observeren:
+- Je gezichtsuitdrukking vlak voor belangrijke worpen
+- Je houding verandert onder druk.
+- Je ademhalingspatronen
+- Uw greepgedrag
 
-External observers see what we cannot feel.
+Externe waarnemers zien wat wij niet kunnen voelen.
 
-## Release Techniques
+## Releasetechnieken
 
-### Quick Releases (Use During Competition)
+### Snelontgrendelaars (te gebruiken tijdens wedstrijden)
 
-**The Shake-Out**
-- Brief, vigorous shake of hands and arms
-- Releases holding patterns
-- Takes 2-3 seconds
+**De definitieve uitslag**
+- Een korte, krachtige hand- en armdruk.
+- Vrijgave van wachtpatronen
+- Duurt 2-3 seconden
 
-**The Exhale Drop**
-- Deep breath in
-- On exhale, consciously drop shoulders
-- Release jaw tension simultaneously
+**De Uitademingsdruppel**
+- Adem diep in
+- Laat bij het uitademen bewust je schouders zakken.
+- Ontspan tegelijkertijd de spanning in je kaak.
 
-**The Grip Reset**
-- Open hand completely
-- Spread fingers wide
-- Re-grip with minimum necessary force
+**De Grip Reset**
+- Open je hand volledig
+- Spreid je vingers wijd uit.
+- Pak opnieuw vast met de minimaal noodzakelijke kracht.
 
-### Deep Releases (Use in Practice/Pre-Competition)
+### Diepe releases (gebruik tijdens training/voorafgaand aan wedstrijden)
 
-**Progressive Muscle Relaxation**
-- Tense each muscle group deliberately (5 seconds)
-- Release completely (15 seconds)
-- Notice the difference
-- Work through entire body
+**Progressieve spierontspanning**
+- Span elke spiergroep bewust aan (5 seconden).
+- Laat volledig los (15 seconden)
+- Merk het verschil op.
+- Werk aan je hele lichaam.
 
-**Breath-Body Connection**
-- Slow breathing (4 counts in, 6 counts out)
-- On each exhale, release one body area
-- Continue until full-body relaxation achieved
+**Verband tussen ademhaling en lichaam**
+- Langzaam ademhalen (4 tellen in, 6 tellen uit)
+- Ontspan bij elke uitademing een lichaamsdeel.
+- Ga door tot je hele lichaam ontspannen is.
 
-## The Pre-Shot Integration
+## De pre-opname-integratie
 
-Build tension awareness into your pre-shot routine:
+Integreer spanningsbewustzijn in je voorbereiding op de opname:
 
-### Before Stepping to the Circle
-- Quick body scan (2 seconds)
-- One releasing exhale
-- Confirm relaxed grip
+### Voordat je de cirkel betreedt
+- Snelle lichaamsscan (2 seconden)
+- Eén loslatende uitademing
+- Zorg voor een ontspannen greep.
 
-### In the Circle
-- Final breath to settle
-- Soft focus on target
-- Initiate throw from relaxed state
+### In de Cirkel
+- Laatste adem om tot rust te komen
+- Zachte focus op het doel
+- Begin de worp vanuit een ontspannen houding.
 
-### After the Throw
-- Notice where tension accumulated
-- Shake out if needed
-- Reset for next throw
+### Na de worp
+- Let op waar de spanning zich heeft opgebouwd.
+- Schud indien nodig uit.
+- Reset voor de volgende worp
 
-## Training Tension Awareness
+## Training in spanningsbewustzijn
 
-### Exercise 1: The Minimum Grip
+### Oefening 1: De minimale greep
 
-Find the minimum grip pressure that maintains control:
-- Start with firm grip — throw 5 balls
-- Reduce grip 20% — throw 5 balls
-- Continue reducing until control is lost
-- Back up one level — this is your optimal grip
+Zoek de minimale grijpdruk waarbij de controle behouden blijft:
+- Begin met een stevige grip en gooi 5 ballen.
+- Verminder je grip met 20% — gooi 5 ballen
+- Ga door met het verlagen van de reductie totdat de controle verloren gaat.
+- Ga een niveau terug — dit is je optimale grip.
 
-Most players grip 40-60% harder than necessary.
+De meeste spelers grijpen 40-60% harder dan nodig.
 
-### Exercise 2: Pressure Simulation
+### Oefening 2: Druksimulatie
 
-Practice under artificial pressure while monitoring tension:
-- Create consequences for practice throws
-- Notice where tension appears
-- Practice releasing while maintaining focus
-- Gradually increase pressure tolerance
+Oefen onder kunstmatige druk en houd daarbij de spanning in de gaten:
+- Verbind consequenties aan oefenworpen.
+- Let op waar spanning ontstaat.
+- Oefen het loslaten terwijl je je blijft concentreren.
+- Verhoog geleidelijk de druktolerantie
 
-### Exercise 3: The Relaxed Pointer
+### Oefening 3: De ontspannen aanwijsstok
 
-Score yourself on two dimensions:
-- Technical result (where did the ball land?)
-- Tension level (how relaxed were you?)
+Beoordeel jezelf op twee dimensies:
+- Technisch resultaat (waar landde de bal?)
+- Spanningsniveau (hoe ontspannen was je?)
 
-**Goal:** Maximize both simultaneously. Many players must accept slightly worse results initially as they learn to throw relaxed.
+**Doel:** Beide tegelijkertijd maximaliseren. Veel spelers moeten in eerste instantie genoegen nemen met iets mindere resultaten, omdat ze moeten leren om ontspannen te gooien.
 
-## Competition Day Protocol
+## Protocol voor de wedstrijddag
 
-### Pre-Match
-- 10-minute progressive relaxation
-- Body scan to identify holding patterns
-- Shake-out routine
+### Voorafgaand aan de wedstrijd
+- 10 minuten progressieve ontspanning
+- Lichaamsscan om spanningspatronen te identificeren
+- Schudroutine
 
-### Between Ends
-- Brief shake-out
-- One releasing breath
-- Tension check before critical throws
+### Tussen de uiteinden
+- Korte opruimactie
+- Eén loslatende ademhaling
+- Spanningscontrole vóór kritieke worpen
 
-### During Throw
-- Trust your pre-shot routine
-- Release technique is pre-programmed
-- Don't consciously control during execution
+### Tijdens het gooien
+- Vertrouw op je voorbereiding op de foto.
+- De ontgrendelingstechniek is voorgeprogrammeerd.
+- Tijdens de uitvoering moet je niet bewust controle uitoefenen.
 
-## Common Mistakes
+## Veelgemaakte fouten
 
-::: warning Avoid These
-- **Over-relaxation** — Some activation is necessary
-- **Conscious control during throw** — Disrupts flow
-- **Only relaxing for big throws** — Should be consistent
-- **Ignoring breath** — Breath and tension are linked
-- **Rushing the routine** — Tension release takes time
+::: warning Vermijd deze
+- **Overmatige ontspanning** — Enige activering is noodzakelijk
+- **Bewuste controle tijdens het gooien** — Verstoort de flow
+- **Alleen ontspannen bij grote worpen** — Moet consistent zijn
+- **Ademhaling negeren** — Ademhaling en spanning zijn met elkaar verbonden.
+- **De routine overhaasten** — Het loslaten van spanning kost tijd.
 :::
 
-## The Long-Term Benefit
+## Het voordeel op lange termijn
 
-Players who master tension management:
-- Perform more consistently under pressure
-- Experience less physical fatigue
-- Recover faster from mistakes
-- Enjoy competition more
+Spelers die de kunst van het omgaan met spanning beheersen:
+- Presteer consistenter onder druk
+- Ervaar minder fysieke vermoeidheid
+- Sneller herstellen van fouten
+- Geniet meer van de competitie.
 
 ---
 
-## Related Content
+## Gerelateerde inhoud
 
-- [Tension Management Module](/nl/education/tension/) — Complete education
-- [Physical Preparation](/nl/education/tension/physical) — Body readiness
-- [Pressure Management](/nl/articles/pressure-management) — Mental aspects
+- [Module Spanningsmanagement](/en/education/tension/) — Complete education
+- [Fysieke voorbereiding](/en/education/tension/physical) — Lichaamsgereedheid
+- [Drukmanagement](/en/articles/pressure-management) — Mentale aspecten
 

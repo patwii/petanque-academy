@@ -3,31 +3,31 @@ title: "Developing Self-Awareness: The Foundation of Improvement"
 description: How accurate self-perception enables targeted development and prevents blind spots from limiting your pétanque performance.
 ---
 
-# Developing Self-Awareness: The Foundation of Improvement
+# Entwicklung von Selbstwahrnehmung: Die Grundlage für Verbesserung
 
-> "You can't improve what you don't accurately perceive."
+> „Was man nicht richtig wahrnimmt, kann man nicht verbessern.“
 
-Self-awareness—knowing your actual strengths and weaknesses—is the foundation of effective development.
+Selbstwahrnehmung – das Wissen um die eigenen Stärken und Schwächen – ist die Grundlage für eine effektive Entwicklung.
 
-::: danger The Uncomfortable Truth
-**Most players are working on the wrong things** because they don't see themselves clearly.
+::: danger Die unbequeme Wahrheit
+**Die meisten Spieler arbeiten an den falschen Dingen,** weil sie sich selbst nicht klar sehen.
 :::
 
 ---
 
-## The Self-Awareness Paradox
+## Das Selbstbewusstseinsparadoxon
 
 ```mermaid
 flowchart TD
-    A[The Self-Awareness Paradox] --> B[Dunning-Kruger Effect]
-    A --> C[Expert Blind Spots]
-    A --> D[Emotional Interference]
+    A[Das Selbstbewusstseinsparadoxon] --> B[Dunning-Kruger-Effekt]
+    A --> C[Experten-Blindstellen]
+    A --> D[Emotionale Interferenz]
 
-    B --> E[Low skill = overestimate ability]
-    C --> F[Even skilled players misjudge]
-    D --> G[We want to believe we're better]
+    B --> E[Geringe Fähigkeiten = Überschätzung der eigenen Fähigkeiten]
+    C --> F[Selbst erfahrene Spieler verschätzen sich.]
+    D --> G[Wir wollen glauben, dass wir besser sind.]
 
-    E --> H[Working on Wrong Things]
+    E --> H[An den falschen Dingen arbeiten]
     F --> H
     G --> H
 
@@ -37,151 +37,151 @@ flowchart TD
 
 ---
 
-## Why Pétanque Players Struggle
+## Warum Pétanque-Spieler Schwierigkeiten haben
 
-Pétanque makes self-assessment particularly difficult:
+Pétanque macht die Selbsteinschätzung besonders schwierig:
 
-| Challenge | Why It's Hard |
+| Herausforderung | Warum es schwierig ist |
 |-----------|--------------|
-| **Result Variance** | Good decisions can produce bad outcomes (and vice versa) |
-| **Comparison Bias** | We remember best performances, explain away worst |
-| **Identity Protection** | Admitting weakness feels threatening |
+| **Ergebnisabweichung** | Gute Entscheidungen können zu schlechten Ergebnissen führen (und umgekehrt). |
+| **Vergleichsverzerrung** | Wir erinnern uns an die besten Leistungen, erklären die schlechtesten weg. |
+| **Identitätsschutz** | Schwäche einzugestehen, fühlt sich bedrohlich an. |
 
-::: warning Memory Is Not Data
-**We construct narratives that protect our self-image.** Objective tracking is essential.
+::: warning Speicher ist nicht gleich Daten
+Wir konstruieren Narrative, die unser Selbstbild schützen. Objektive Nachverfolgung ist unerlässlich.
 :::
 
 ---
 
-## The Components of Self-Awareness
+## Die Komponenten der Selbstwahrnehmung
 
-True self-awareness requires insight into multiple domains:
+Wahre Selbsterkenntnis erfordert Einblick in mehrere Bereiche:
 
-| Domain | Key Questions |
+| Domain | Schlüsselfragen |
 |--------|---------------|
-| **Technical** | Which throws are actually reliable? Which are inconsistent? |
-| **Mental** | How do I respond to pressure? What triggers my inner critic? |
-| **Physical** | When is my energy highest? How does fatigue affect me? |
-| **Tactical** | Do I over-attack? Under-attack? How do I read situations? |
-| **Emotional** | What frustrates me? When do I play tight? |
-| **Interpersonal** | How do teammates perceive my communication? |
+| **Technisch** | Welche Würfe sind tatsächlich zuverlässig? Welche sind unbeständig? |
+| **Psychisch** | Wie reagiere ich auf Druck? Was triggert meinen inneren Kritiker? |
+| **Physisch** | Wann habe ich am meisten Energie? Wie wirkt sich Müdigkeit auf mich aus? |
+| **Taktisch** | Greife ich zu stark an? Greife ich zu schwach an? Wie schätze ich Situationen ein? |
+| **Emotional** | Was frustriert mich? Wann spiele ich zu konzentriert? |
+| **Zwischenmenschliche Beziehungen** | Wie nehmen meine Teamkollegen meine Kommunikation wahr? |
 
-## External Feedback: The Mirror You Need
+## Externes Feedback: Der Spiegel, den Sie brauchen
 
-You cannot see your own blind spots. You need external perspectives.
+Man kann seine eigenen blinden Flecken nicht erkennen. Man braucht Außenperspektiven.
 
-### Structured Feedback Methods
+### Methoden für strukturiertes Feedback
 
-**Video Analysis**
-- Record matches and practice
-- Watch with specific focus areas
-- Notice patterns you miss in the moment
+**Videoanalyse**
+- Spiele und Training aufzeichnen
+- Beobachten Sie mit Blick auf bestimmte Bereiche
+- Achten Sie auf Muster, die Ihnen im Moment entgehen.
 
-**Peer Assessment**
-- Ask trusted teammates for honest feedback
-- Use the [Assessment Tool](/de/assessment/) for peer validation
-- Compare your self-rating with their rating
+**Peer-Bewertung**
+- Bitten Sie vertrauenswürdige Teammitglieder um ehrliches Feedback.
+- Nutzen Sie das [Bewertungsinstrument](/en/assessment/) zur Peer-Validierung.
+- Vergleichen Sie Ihre Selbsteinschätzung mit deren Bewertung.
 
-**Coach Observation**
-- Fresh eyes see what familiar eyes miss
-- Request specific feedback, not general impressions
-- Track feedback themes over time
+**Trainerbeobachtung**
+- Ein frischer Blick sieht, was dem vertrauten Blick entgeht.
+- Bitten Sie um konkretes Feedback, nicht um allgemeine Eindrücke.
+- Feedbackthemen im Zeitverlauf verfolgen
 
-### The Feedback Gap
+### Die Feedback-Lücke
 
-When your self-assessment differs significantly from external feedback, pay attention:
+Wenn Ihre Selbsteinschätzung deutlich von externem Feedback abweicht, sollten Sie aufmerksam sein:
 
-| Gap Type | Meaning | Action |
+| Lückentyp | Bedeutung | Aktion |
 |----------|---------|--------|
-| You rate higher | Possible blind spot | Investigate with video/data |
-| You rate lower | Possible confidence issue | Focus on evidence of competence |
-| Consistent gap | Systematic perception error | Recalibrate your mental model |
+| Sie schneiden besser ab | Möglicher toter Winkel | Mithilfe von Video-/Datenrecherchen |
+| Sie bewerten niedriger | Mögliches Vertrauensproblem | Schwerpunkt auf Kompetenznachweisen |
+| Konstante Lücke | Systematischer Wahrnehmungsfehler | Kalibrieren Sie Ihr mentales Modell neu. |
 
-## Building Self-Awareness Habits
+## Gewohnheiten zur Förderung der Selbstwahrnehmung
 
-### Daily Reflection (5 minutes)
+### Tägliche Reflexion (5 Minuten)
 
-After each session, ask yourself:
+Fragen Sie sich nach jeder Sitzung:
 
-1. **What went well?** (Be specific)
-2. **What didn't go well?** (Be honest)
-3. **What would I do differently?** (Be constructive)
-4. **What surprised me?** (Be curious)
+1. **Was lief gut?** (Bitte konkret sein.)
+2. **Was lief nicht gut?** (Seien Sie ehrlich)
+3. **Was würde ich anders machen?** (Bitte konstruktiv antworten.)
+4. **Was hat mich überrascht?** (Seid neugierig!)
 
-### Weekly Review (15 minutes)
+### Wöchentlicher Rückblick (15 Minuten)
 
-Look for patterns:
+Achten Sie auf Muster:
 
-- Which situations consistently challenge me?
-- Where am I improving?
-- What feedback have I received?
-- What am I avoiding looking at?
+- Welche Situationen fordern mich immer wieder heraus?
+- Wo sehe ich Verbesserungspotenzial?
+- Welches Feedback habe ich erhalten?
+- Was vermeide ich anzusehen.
 
-### Monthly Assessment
+### Monatliche Bewertung
 
-Use the [Player Assessment](/de/assessment/) tool:
+Nutzen Sie das [Spielerbewertungstool](/en/assessment/):
 
-- Rate yourself on all 8 factors
-- Request peer validation
-- Compare to previous month
-- Identify largest gaps
+- Bewerten Sie sich selbst anhand aller 8 Faktoren
+- Peer-Validierung anfordern
+- Vergleich zum Vormonat
+- Identifizieren Sie die größten Lücken
 
-## The Data Advantage
+## Der Datenvorteil
 
-Subjective perception is unreliable. Data provides objectivity:
+Subjektive Wahrnehmung ist unzuverlässig. Daten liefern Objektivität.
 
-### What to Track
+### Was zu verfolgen ist
 
-**Performance Data**
-- Success rates by throw type
-- Performance under pressure vs. no pressure
-- First set vs. later sets
-- With different partners
+**Leistungsdaten**
+- Erfolgsquoten nach Wurfart
+- Leistung unter Druck vs. ohne Druck
+- Erster Satz vs. spätere Sätze
+- Mit verschiedenen Partnern
 
-**Process Data**
-- Sleep quality before matches
-- Pre-match routine compliance
-- Mental state during key moments
-- Recovery time after mistakes
+**Verarbeitungsdaten**
+- Schlafqualität vor den Spielen
+- Einhaltung der Routine vor dem Spiel
+- Mentaler Zustand in Schlüsselmomenten
+- Erholungszeit nach Fehlern
 
-### How to Use Data
+### Wie man Daten nutzt
 
-1. **Identify patterns** — What correlates with good/poor performance?
-2. **Challenge assumptions** — Does data match your beliefs?
-3. **Guide training** — Focus on actual weaknesses, not perceived ones
-4. **Track progress** — Improvement is often invisible without measurement
+1. **Muster erkennen** — Was korreliert mit guter/schlechter Leistung?
+2. **Hinterfragen Sie Ihre Annahmen** – Stimmen die Daten mit Ihren Überzeugungen überein?
+3. **Anleitung zum Training** – Konzentrieren Sie sich auf tatsächliche Schwächen, nicht auf vermeintliche.
+4. **Fortschritte verfolgen** – Verbesserungen sind ohne Messung oft unsichtbar.
 
-## Common Self-Awareness Blocks
+## Häufige Blockaden der Selbstwahrnehmung
 
-::: warning Watch For These
-- **Defensiveness** when receiving feedback
-- **Explaining away** poor performances
-- **Seeking confirmation** rather than truth
-- **Avoiding measurement** of weak areas
-- **Blaming external factors** consistently
+::: warning Achten Sie auf Folgendes
+- **Abwehrverhalten** beim Empfang von Feedback
+- **Beschönigung** schlechter Leistungen
+- **Bestätigung suchen** statt Wahrheit zu finden
+- **Vermeidung der Messung** von Schwachstellen
+- **Ständige Schuldzuweisung an externe Faktoren**
 :::
 
-## The Growth Mindset Connection
+## Die Verbindung zum Wachstumsdenken
 
-Self-awareness requires accepting that:
+Selbsterkenntnis erfordert die Akzeptanz folgender Tatsachen:
 
-- Current ability is not fixed
-- Weakness is information, not identity
-- Feedback is a gift, not an attack
-- Improvement requires honest assessment
+- Die aktuelle Fähigkeit ist nicht festgelegt.
+- Schwäche ist Information, nicht Identität
+- Feedback ist ein Geschenk, kein Angriff.
+- Verbesserung erfordert eine ehrliche Bewertung
 
-## Action Steps
+## Handlungsschritte
 
-1. **Today:** Complete the [Self-Assessment](/de/assessment/)
-2. **This week:** Request peer feedback from 2 trusted teammates
-3. **Ongoing:** Establish daily reflection habit
-4. **Monthly:** Track progress with repeated assessments
+1. **Heute:** Füllen Sie die [Selbstbewertung](/en/assessment/) aus.
+2. **Diese Woche:** Bitten Sie zwei vertraute Teammitglieder um Feedback.
+3. **Laufend:** Etablieren Sie eine tägliche Reflexionsgewohnheit.
+4. **Monatlich:** Fortschritte durch wiederholte Beurteilungen verfolgen
 
 ---
 
-## Related Content
+## Verwandte Inhalte
 
-- [Self-Awareness Module](/de/education/self-awareness/) — Complete education
-- [Player Assessment](/de/assessment/) — Evaluate your 8 factors
-- [The Inner Critic](/de/articles/inner-critic) — Managing self-judgment
+- [Modul zur Selbstwahrnehmung](/en/education/self-awareness/) — Vollständige Bildung
+- [Spielerbewertung](/en/assessment/) — Bewerten Sie Ihre 8 Faktoren
+- [Der innere Kritiker](/en/articles/inner-critic) — Umgang mit Selbstverurteilung
 

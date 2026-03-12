@@ -50,21 +50,21 @@ Et reelt resultat ser slik ut:
 - «Jeg vil ha et rullende skudd som svinger til venstre i denne typen terreng.»
 - «Jeg vil ha et mykt, devantslag som så vidt berører målkulen»
 
-**Først bør du utforske [Kastpaletten](/no/education/technique/throws)** for å forstå hva som er mulig. Deretter bør du bestemme hvilket spesifikt kast du vil legge til i repertoaret ditt. Først da bør du begynne å jobbe med hvordan armen, håndleddet og kroppen din må bevege seg for å skape det resultatet.
+**Først bør du utforske [Palette of Throws](/no/education/technic/throws)** for å forstå hva som er mulig. Deretter bestemmer du deg for hvilket spesifikt kast du vil legge til i repertoaret ditt. Først da bør du begynne å jobbe med hvordan armen, håndleddet og kroppen din må bevege seg for å skape det resultatet.**
 
 ## Den riktige måten å jobbe med teknikk på
 
 Vi sier ikke at du aldri skal jobbe med arm, håndledd, avlastning eller kroppsstilling. **Teknisk arbeid med utførelse er absolutt gyldig** – men det må ha riktig formål.
 
 ::: info Det riktige formålet med teknisk arbeid
-**Riktig formål:** "Jeg vil legge til et nytt kast i repertoaret mitt"
+**Riktig formål:** «Jeg vil legge til et nytt pledd i paletten min»
 
-**Feil formål:** "Jeg vil treffe flere skudd" eller "Jeg vil være mer konsekvent"
+**Feil formål:** «Jeg vil ta flere skudd» eller «Jeg vil være mer konsekvent»
 :::
 
 Her er prosessen:
 
-1. **Utforsk [Kastpaletten](/no/teknisk/kast)** — Identifiser hvilket kast eller hvilken teknikk du vil legge til i repertoaret ditt
+1. **Utforsk [Kastpaletten](/no/utdanning/teknikk/kast)** — Identifiser hvilket kast eller hvilken teknikk du vil legge til i repertoaret ditt
 2. **Visualiser resultatet** – Hva skal kulen gjøre? Hvilken bane, landing, spinn og oppførsel trenger du?
 3. **Jobb deretter med utførelse** – Nå kan du fokusere på arm, håndledd, kroppsposisjon og slipp for å oppnå det spesifikke resultatet
 
@@ -119,14 +119,14 @@ Mange erfarne spillere bruker år på å finpusse teknikker de allerede har, nå
 ### Veien videre
 
 **For bedre bilder (nye funksjoner):**
-- Utforsk [Paletten av kast](/no/education/technique/throws)
+- Utforsk [Paletten av pledd](/no/utdanning/teknikk/pledd)
 - Velg et spesifikt nytt kast å utvikle
 - Øv på den tekniske utførelsen
 
 **For flere skudd (konsistens under press):**
-- Arbeid med [Mental styrke](/no/education/mental-game/mental-strength/)
-- Lær å få tilgang til [Sonen](/no/education/mental-game/the-zone/)
-- Utvikle [Rutiner før skudd](/no/education/mental-game/mental-strength/rutine-før-skudd)
+- Arbeid med [Mental styrke](/no/utdanning/mentalt-spill/mental-styrke/)
+- Lær å få tilgang til [Sonen](/no/utdanning/mentalt spill/sonen/)
+- Utvikle [Rutiner før skudd](/no/utdanning/mentalt-spill/mental-styrke/rutine-før-skudd)
 
 ## Vårt perspektiv
 
@@ -159,13 +159,13 @@ Hvis du har et teknisk fokus og ønsker å utvide repertoaret ditt, skisserer de
 
 ## Emner
 
-### [Palett av kast](/no/teknisk/kast)
+### [Palett av kast](/no/utdanning/teknikk/kast)
 Hva slags kast finnes det? En omfattende oversikt over de tekniske mulighetene innen petanque.
 
 ::: tip Etter teknikk, hva er det neste?
 Når du har en solid teknikk, kommer den virkelige veksten fra:
-- **[Sonen](/no/education/mental-game/the-zone/)** - Tilgang til flyttilstander
-- **[Mental styrke](/no/education/mental-game/mental-strength/)** - Håndtering av press
-- **[Opplæringsmetoder](/no/education/technique/training/)** - Hvordan øve effektivt
+- **[Sonen](/no/utdanning/mentalt-spill/sonen/)** - Tilgang til flyttilstander
+- **[Mental styrke](/no/utdanning/mentalt-spill/mental-styrke/)** - Håndtering av press
+- **[Opplæringsmetoder](/no/utdanning/teknikk/opplæring/)** - Hvordan øve effektivt
 :::
 

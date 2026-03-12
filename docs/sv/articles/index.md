@@ -3,91 +3,91 @@ title: Articles
 description: In-depth articles on mental training, performance psychology, and all 8 performance factors for elite pétanque players.
 ---
 
-# Articles
+# Artiklar
 
-Research-backed articles to deepen your understanding of elite performance.
-
----
-
-## Featured
-
-### [The Science of Flow States](/sv/articles/flow-state-science)
-What happens in your brain when you're "in the zone"? Understanding flow neuroscience helps you access it consistently.
-
-### [Why Elite Players Need Mental Training](/sv/articles/mental-vs-technical)
-The paradox: as technical skill increases, mental training becomes MORE important.
-
-### [Sleep: The Underrated Factor](/sv/articles/sleep-performance)
-How sleep quality directly impacts precision, decision-making, and consistency.
+Forskningsbaserade artiklar för att fördjupa din förståelse av elitprestationer.
 
 ---
 
-## By Performance Factor
+## Utvalt
 
-### 🧠 Mental Game
-- [The Science Behind Flow States](/sv/articles/flow-state-science)
-- [Understanding the Inner Critic](/sv/articles/inner-critic)
-- [Building Pre-Shot Routines](/sv/articles/pre-shot-routines)
-- [Pressure Management](/sv/articles/pressure-management)
-- [Mindfulness in Competition](/sv/articles/mindfulness-competition)
+### [Vetenskapen om flödestillstånd](/sv/artiklar/flödestillståndsvetenskap)
+Vad händer i din hjärna när du är &quot;i zonen&quot;? Att förstå flödesneurovetenskap hjälper dig att konsekvent använda den.
+
+### [Varför elitspelare behöver mental träning](/sv/artiklar/mental-vs-teknisk)
+Paradoxen: i takt med att den tekniska skickligheten ökar blir mental träning MER viktig.
+
+### [Sömn: Den underskattade faktorn](/sv/artiklar/sömnprestanda)
+Hur sömnkvalitet direkt påverkar precision, beslutsfattande och konsekvens.
+
+---
+
+## Efter prestationsfaktor
+
+### 🧠 Mentalt spel
+- [Vetenskapen bakom flödestillstånd](/sv/artiklar/flödestillståndsvetenskap)
+- [Att förstå den inre kritikern](/sv/artiklar/inre-kritiker)
+- [Bygga rutiner före inspelning](/sv/artiklar/rutiner-för-inspelning)
+- [Tryckhantering](/sv/artiklar/tryckhantering)
+- [Mindfulness i tävling](/sv/artiklar/mindfulness-tävling)
 
 ### 🔥 Motivation
-- [Goal Setting for Elite Athletes](/sv/articles/elite-goal-setting)
-- [Mental Resilience](/sv/articles/mental-resilience)
+- [Målsättning för elitidrottare](/sv/artiklar/elitmalsättning)
+- [Mental motståndskraft](/sv/artiklar/mental-motståndskraft)
 
-### 😴 Sleep & Recovery
-- [Sleep: The Underrated Factor](/sv/articles/sleep-performance)
+### 😴 Sömn och återhämtning
+- [Sömn: Den underskattade faktorn](/sv/artiklar/sömnprestanda)
 
-### 🪞 Self-Awareness
-- [Developing Self-Awareness](/sv/articles/self-awareness-development)
+### 🪞 Självkännedom
+- [Utveckla självkännedom](/sv/artiklar/självkännedomsutveckling)
 
-### 🤝 Team Dynamics
-- [Communication Under Pressure](/sv/articles/team-communication)
-- [Building Team Chemistry](/sv/articles/team-chemistry)
-- [Leadership in Pétanque](/sv/articles/team-leadership)
+### 🤝 Teamdynamik
+- [Kommunikation under press](/sv/artiklar/teamkommunikation)
+- [Bygg lagkemi](/sv/artiklar/lagkemi)
+- [Ledarskap i boule](/sv/artiklar/lagledarskap)
 
-### 💆 Tension Management
-- [Tension and Precision](/sv/articles/tension-precision)
+### 💆 Spänningshantering
+- [Spänning och precision](/sv/artiklar/spänning-precision)
 
-### 🥗 Nutrition
-- [Nutrition for Competition](/sv/articles/nutrition-competition)
+### 🥗 Näring
+- [Näring för tävling](/sv/artiklar/näringstävling)
 
-### 🎯 Training & Technique
-- [5 Mental Training Mistakes](/sv/articles/mental-training-mistakes)
-- [Structuring Your Practice](/sv/articles/practice-structure)
-- [Competition Preparation](/sv/articles/competition-prep)
-- [Why Mental Training Matters](/sv/articles/mental-vs-technical)
+### 🎯 Träning och teknik
+- [5 misstag vid mental träning](/sv/artiklar/misstag-vid-mental-träning)
+- [Strukturering av din praktik](/sv/artiklar/praktikstruktur)
+- [Tävlingsförberedelse](/sv/artiklar/tävlingsförberedelse)
+- [Varför mental träning är viktig](/sv/artiklar/mental-vs-teknisk)
 
 ---
 
-## All Articles
+## Alla artiklar
 
-| Article | Factor |
+| Artikel | Faktor |
 |---------|--------|
-| [Flow State Science](/sv/articles/flow-state-science) | Mental |
-| [Inner Critic](/sv/articles/inner-critic) | Mental |
-| [Pre-Shot Routines](/sv/articles/pre-shot-routines) | Mental |
-| [Pressure Management](/sv/articles/pressure-management) | Mental |
-| [Mindfulness Competition](/sv/articles/mindfulness-competition) | Mental |
-| [Mental vs Technical](/sv/articles/mental-vs-technical) | Mental |
-| [Elite Goal Setting](/sv/articles/elite-goal-setting) | Motivation |
-| [Mental Resilience](/sv/articles/mental-resilience) | Motivation |
-| [Sleep Performance](/sv/articles/sleep-performance) | Sleep |
-| [Self-Awareness Development](/sv/articles/self-awareness-development) | Self-Awareness |
-| [Team Communication](/sv/articles/team-communication) | Team |
-| [Team Chemistry](/sv/articles/team-chemistry) | Team |
-| [Team Leadership](/sv/articles/team-leadership) | Team |
-| [Tension Precision](/sv/articles/tension-precision) | Tension |
-| [Nutrition Competition](/sv/articles/nutrition-competition) | Nutrition |
-| [Mental Training Mistakes](/sv/articles/mental-training-mistakes) | Training |
-| [Practice Structure](/sv/articles/practice-structure) | Training |
-| [Competition Prep](/sv/articles/competition-prep) | Training |
+| [Flödestillståndsvetenskap](/sv/artiklar/flödestillståndsvetenskap) | Mental |
+| [Inre kritiker](/sv/artiklar/inre-kritiker) | Mental |
+| [Rutiner före fotografering](/sv/artiklar/rutiner-före-tagning) | Mental |
+| [Tryckhantering](/sv/artiklar/tryckhantering) | Mental |
+| [Mindfulnesstävling](/sv/artiklar/mindfulnesstävling) | Mental |
+| [Mental vs Teknisk](/sv/artiklar/mental-vs-teknisk) | Mental |
+| [Elitmålsättning](/sv/artiklar/elitmålsättning) | Motivering |
+| [Mental motståndskraft](/sv/artiklar/mental-motståndskraft) | Motivering |
+| [Sömnprestanda](/sv/artiklar/sömnprestanda) | Sova |
+| [Utveckling av självkännedom](/sv/artiklar/utveckling-av-självkännedom) | Självmedvetenhet |
+| [Teamkommunikation](/sv/artiklar/teamkommunikation) | Team |
+| [Teamkemi](/sv/artiklar/teamkemi) | Team |
+| [Teamledning](/sv/artiklar/teamledning) | Team |
+| [Spänningsprecision](/sv/artiklar/spänningsprecision) | Spänning |
+| [Näringstävling](/sv/artiklar/näringstävling) | Näring |
+| [Misstag vid mental träning](/sv/artiklar/misstag-vid-mental-träning) | Utbildning |
+| [Övningsstruktur](/sv/artiklar/övningsstruktur) | Utbildning |
+| [Tävlingsförberedelser](/sv/artiklar/tävlingsförberedelser) | Utbildning |
 
 ---
 
-## Related
+## Släkt
 
-- [🎯 Assessment](/sv/assessment/) — Find your improvement priorities
-- [📚 Education](/sv/education/) — Structured learning modules
-- [📋 Guides](/sv/guides/) — Practical implementation tools
+- [🎯 Bedömning](/sv/bedömning/) — Hitta dina förbättringsprioriteringar
+- [📚 Utbildning](/sv/utbildning/) — Strukturerade inlärningsmoduler
+- [📋 Guider](/sv/guider/) — Praktiska implementeringsverktyg
 

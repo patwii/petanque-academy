@@ -3,26 +3,26 @@ title: Communication Under Pressure
 description: Master the art of team communication in high-pressure pétanque situations. Learn what to say, when to say it, and how to support teammates effectively.
 ---
 
-# Communication Under Pressure
+# Comunicação sob pressão
 
-> "The right words at the right moment build confidence. The wrong words can unravel even skilled teams."
+> &quot;As palavras certas no momento certo constroem confiança. As palavras erradas podem desestabilizar até mesmo equipes talentosas.&quot;
 
-::: tip The Communication Truth
-**Under pressure, less is more.** Clear, concise communication beats lengthy discussions every time.
+::: tip A Verdade da Comunicação
+**Sob pressão, menos é mais.** Uma comunicação clara e concisa sempre supera discussões longas.
 :::
 
 ---
 
-## Why Communication Matters
+## Por que a comunicação é importante
 
 ```mermaid
 flowchart TD
-    A[Effective Communication] --> B[Shared Strategy]
-    A --> C[Mutual Support]
-    A --> D[Quick Decisions]
-    A --> E[Team Resilience]
+    A[Comunicação eficaz] --> B[Estratégia Compartilhada]
+    A --> C[Apoio mútuo]
+    A --> D[Decisões rápidas]
+    A --> E[Resiliência da Equipe]
 
-    B --> F[Better Performance]
+    B --> F[Melhor desempenho]
     C --> F
     D --> F
     E --> F
@@ -31,197 +31,197 @@ flowchart TD
     style F fill:#4CAF50,color:#fff
 ```
 
-Pétanque teams face unique challenges:
-- Decisions must be made quickly
-- Pressure affects how we speak and listen
-- Non-verbal cues are visible to opponents
-- Individual performance affects team dynamics
+As equipas de petanca enfrentam desafios únicos:
+- As decisões precisam ser tomadas rapidamente.
+- A pressão afeta a forma como falamos e ouvimos.
+- Sinais não verbais são visíveis para os oponentes.
+- O desempenho individual afeta a dinâmica da equipe.
 
 ---
 
-## The Communication Principles
+## Os Princípios da Comunicação
 
-### 1. Clarity Over Quantity
+### 1. Clareza acima de quantidade
 
-| ❌ Don't Say | ✅ Say Instead |
+| ❌ Não diga | ✅ Diga em vez disso |
 |-------------|---------------|
-| "I think maybe we should try to point here, but I'm not sure..." | "I'll point to the left side. The ground is better there." |
+| &quot;Acho que talvez devêssemos tentar apontar para cá, mas não tenho certeza...&quot; | &quot;Vou apontar para o lado esquerdo. O terreno é melhor lá.&quot; |
 
-### 2. Positive Framing
+### 2. Enquadramento Positivo
 
-| ❌ Negative | ✅ Positive |
+| ❌ Negativo | ✅ Positivo |
 |------------|------------|
-| "Don't miss this one" | "You've got this — trust your throw" |
-| "That was terrible" | "Shake it off, next one" |
+| &quot;Não perca esta oportunidade&quot; | &quot;Você consegue — confie no seu arremesso&quot; |
+| &quot;Aquilo foi terrível&quot; | &quot;Deixa pra lá, próxima.&quot; |
 
-### 3. Present Focus
+### 3. Foco no presente
 
-::: warning Past vs Present
-**Instead of:** "Why did you throw it there?"
-**Say:** "Okay, what's our best option now?"
+::: warning Passado versus Presente
+**Em vez de:** &quot;Por que você jogou isso ali?&quot;
+**Diga:** &quot;Certo, qual é a nossa melhor opção agora?&quot;
 :::
 
-### 4. Ownership Language
+### 4. Linguagem de Propriedade
 
-Use "I" statements for your own actions, "we" for team situations:
+Use frases com &quot;eu&quot; para suas próprias ações e frases com &quot;nós&quot; para situações em equipe:
 
-- "I'll take this shot"
-- "We need to protect the point"
-- "I think we should..."
+- &quot;Eu vou tomar essa decisão.&quot;
+- &quot;Precisamos proteger o ponto&quot;
+- &quot;Acho que deveríamos...&quot;
 
-## What to Communicate
+## O que comunicar
 
-### Before Each End
+### Antes de cada fim
 
-- **Strategy discussion**: Brief alignment on approach
-- **Role clarity**: Who's doing what
-- **Terrain observations**: Relevant conditions
+- **Discussão estratégica**: Breve alinhamento de abordagem.
+- **Definição clara de funções**: Quem faz o quê?
+- **Observações do terreno**: Condições relevantes
 
-### During Play
+### Durante o jogo
 
-- **Decisions**: Clear statement of intended action
-- **Support**: Encouragement before throws
-- **Information**: Relevant observations about terrain or opponents
+- **Decisões**: Declaração clara da ação pretendida
+- **Apoio**: Encorajamento antes dos arremessos
+- **Informação**: Observações relevantes sobre o terreno ou os oponentes.
 
-### After Throws
+### Após os lançamentos
 
-- **Acknowledgment**: Brief recognition (good or bad)
-- **Adjustment**: Any strategic changes needed
-- **Reset**: Help teammate refocus
+- **Agradecimento**: Breve reconhecimento (bom ou ruim)
+- **Ajuste**: Quaisquer mudanças estratégicas necessárias
+- **Recomeçar**: Ajude o colega a se concentrar novamente.
 
-## What NOT to Communicate
+## O que NÃO comunicar
 
-### Avoid During Pressure Moments
+### Evite em momentos de pressão.
 
-- Technical instructions ("Keep your elbow in")
-- Criticism of past throws
-- Expressions of frustration
-- Doubt about teammate's ability
-- Excessive analysis
+- Instruções técnicas (&quot;Mantenha o cotovelo junto ao corpo&quot;)
+- Críticas a lançamentos anteriores
+- Expressões de frustração
+- Dúvidas sobre a capacidade do companheiro de equipe
+- Análise excessiva
 
-### Avoid in General
+### Evite em geral
 
-- Blame language
-- Sarcasm or passive aggression
-- Comparisons to other players
-- Predictions of failure
+- Linguagem de culpa
+- Sarcasmo ou agressão passiva
+- Comparações com outros jogadores
+- Previsões de falha
 
-## Non-Verbal Communication
+## Comunicação não verbal
 
-Your body language speaks loudly:
+Sua linguagem corporal fala por si só:
 
-### Positive Signals
-- Eye contact with teammates
-- Open, relaxed posture
-- Nodding and acknowledgment
-- Calm, steady movements
+### Sinais Positivos
+- Contato visual com os colegas de equipe
+- Postura aberta e relaxada
+- Acenar com a cabeça e demonstrar concordância.
+- Movimentos calmos e constantes
 
-### Negative Signals (Avoid)
-- Eye rolling or sighing
-- Turning away from teammates
-- Crossed arms or closed posture
-- Visible frustration
+### Sinais negativos (Evitar)
+- Revirar os olhos ou suspirar
+- Afastando-se dos companheiros de equipe
+- Braços cruzados ou postura fechada
+- Frustração visível
 
-### Reading Teammates
+### Colegas de equipe de leitura
 
-Learn to recognize when teammates need:
-- **Space**: They're processing, don't interrupt
-- **Support**: They're struggling, offer encouragement
-- **Information**: They're uncertain, provide clarity
-- **Energy**: They're flat, bring enthusiasm
+Aprenda a reconhecer quando seus colegas de equipe precisam de:
+- **Espaço**: Eles estão processando, não interrompa.
+- **Apoio**: Eles estão com dificuldades, ofereça encorajamento.
+- **Informação**: Eles estão incertos, forneça esclarecimentos.
+- **Energia**: São planas e trazem entusiasmo.
 
-## Communication Roles
+## Funções de comunicação
 
-### The Pointer
-- Communicate your read of the terrain
-- State your intended placement clearly
-- Ask for input when uncertain
+### O ponteiro
+- Comunique sua leitura do terreno.
+- Indique claramente a colocação pretendida.
+- Peça a opinião de outras pessoas quando estiver em dúvida.
 
-### The Shooter
-- Confirm target selection
-- Communicate confidence level
-- Request information about angles
+### O Atirador
+- Confirme a seleção do alvo.
+- Comunique o nível de confiança.
+- Solicitar informações sobre ângulos
 
-### The Milieu/Captain
-- Facilitate team discussions
-- Make final decisions when needed
-- Manage team energy and focus
+### O Meio/Capitão
+- Facilitar discussões em equipe
+- Tomar as decisões finais quando necessário.
+- Gerenciar a energia e o foco da equipe
 
-## Pressure Situations
+## Situações de pressão
 
-### When Behind
+### Quando atrás
 
-- Stay solution-focused
-- Maintain positive energy
-- Avoid blame or frustration
-- Celebrate small wins
+- Mantenha o foco na solução.
+- Mantenha a energia positiva.
+- Evite culpar os outros ou se frustrar.
+- Comemore as pequenas vitórias
 
-### When Ahead
+### Quando à frente
 
-- Stay focused, avoid complacency
-- Keep communication consistent
-- Don't change what's working
+- Mantenha o foco, evite a complacência.
+- Mantenha a comunicação consistente.
+- Não mexa no que está funcionando.
 
-### Match Point (Theirs)
+### Ponto de jogo (deles)
 
-- Acknowledge the pressure briefly
-- Focus on the process
-- Support each other visibly
+- Reconheça brevemente a pressão.
+- Concentre-se no processo.
+- Apoiem-se mutuamente de forma visível.
 
-### Match Point (Ours)
+### Ponto de jogo (nosso)
 
-- Stay calm and focused
-- Avoid premature celebration
-- Execute as normal
+- Mantenha a calma e o foco.
+- Evite comemorações prematuras.
+- Execute normalmente
 
-## Building Communication Skills
+## Desenvolvendo Habilidades de Comunicação
 
-### In Practice
+### Na prática
 
-- Practice communicating during training
-- Give and receive feedback on communication
-- Experiment with different approaches
+- Pratique a comunicação durante o treinamento.
+- Dar e receber feedback sobre a comunicação.
+- Experimente diferentes abordagens.
 
-### Team Agreements
+### Acordos de Equipe
 
-Establish team norms:
-- How we handle disagreements
-- What support looks like
-- When to speak and when to stay quiet
+Estabelecer normas de equipe:
+- Como lidamos com divergências
+- Como é o suporte?
+- Quando falar e quando ficar em silêncio
 
-### Post-Match Review
+### Análise pós-jogo
 
-Discuss communication:
-- What worked well?
-- What could improve?
-- Any misunderstandings to address?
+Discutir a comunicação:
+- O que funcionou bem?
+- O que poderia ser melhorado?
+- Há algum mal-entendido a esclarecer?
 
-## When Communication Breaks Down
+## Quando a comunicação falha
 
-### In the Moment
+### No momento
 
-1. Take a breath
-2. Reset with a simple statement: "Let's focus on this throw"
-3. Return to basics: clear, positive, present
+1. Respire fundo.
+2. Recomece com uma frase simples: &quot;Vamos nos concentrar neste arremesso&quot;.
+3. Retorno ao básico: claro, positivo, presente
 
-### After the Match
+### Após a partida
 
-- Address issues calmly
-- Focus on behaviors, not personalities
-- Agree on improvements
-- Move forward together
+- Aborde os problemas com calma.
+- Foque nos comportamentos, não nas personalidades.
+- Concordar com as melhorias
+- Avancemos juntos
 
-## The Silent Support
+## O apoio silencioso
 
-Sometimes the best communication is presence:
-- Standing with a struggling teammate
-- A hand on the shoulder
-- A nod of confidence
-- Simply being there
+Às vezes, a melhor comunicação é a presença:
+- Ao lado de um companheiro de equipe que está com dificuldades.
+- Uma mão no ombro
+- Um aceno de confiança
+- Simplesmente estar lá
 
-Words aren't always necessary. Connection is.
+As palavras nem sempre são necessárias. A conexão, sim.
 
 ---
 
-*Related: [Team Dynamics](/pt/education/team-dynamics/) | [Communication](/pt/education/team-dynamics/communication) | [Handling Pressure](/pt/education/mental-game/mental-strength/handling-pressure)*
+| *Relacionado: [Dinâmica de Equipe](/en/education/team-dynamics/) | [Comunicação](/en/education/team-dynamics/communication) | [Lidando com a Pressão](/en/education/mental-game/mental-strength/handling-pressure)* |
 

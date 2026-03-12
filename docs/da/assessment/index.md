@@ -3,108 +3,108 @@ title: Player Development Assessment
 description: Evaluate yourself on 8 key performance factors and discover your optimal improvement path with ROI-based recommendations.
 ---
 
-# Player Development Assessment
+# Vurdering af spillerudvikling
 
 <AssessmentForm />
 
 ---
 
-## How It Works
+## Sådan fungerer det
 
-### The 8-Factor Model
+### 8-faktormodellen
 
-Our assessment is based on 8 key performance factors, each weighted by their impact on elite performance:
+Vores vurdering er baseret på 8 nøglefaktorer for præstation, der hver især vægtes efter deres indflydelse på elitepræstationer:
 
-| Factor | Weight | Why It Matters |
+| Faktor | Vægt | Hvorfor det er vigtigt |
 |--------|--------|----------------|
-| 🧠 **Mental Game** | 600 | Thought patterns, focus, and flow states determine consistency |
-| 🔥 **Motivation** | 500 | Sustained drive enables long-term improvement |
-| 😴 **Sleep & Recovery** | 400 | Rest directly impacts reaction time and decision-making |
-| 🪞 **Self-Awareness** | 400 | You can't improve what you can't see |
-| 🥗 **Nutrition** | 300 | Stable energy = stable performance |
-| 🤝 **Team Dynamics** | 300 | Communication and trust often outweigh talent |
-| 💆 **Tension Management** | 300 | Tension is precision's enemy |
-| 🎯 **Technique** | 100 | At elite level, everyone has good technique |
+| 🧠 **Mentalt spil** | 600 | Tankemønstre, fokus og flowtilstande bestemmer konsistens |
+| 🔥 **Motivation** | 500 | Vedvarende drivkraft muliggør langsigtede forbedringer |
+| 😴 **Søvn og restitution** | 400 | Hvile påvirker direkte reaktionstid og beslutningstagning |
+| 🪞 **Selvbevidsthed** | 400 | Du kan ikke forbedre det, du ikke kan se |
+| 🥗 **Ernæring** | 300 | Stabil energi = stabil ydeevne |
+| 🤝 **Holddynamik** | 300 | Kommunikation og tillid vejer ofte tungere end talent |
+| 💆 **Spændingshåndtering** | 300 | Spænding er præcisionens fjende |
+| 🎯 **Teknik** | 100 | På eliteniveau har alle god teknik |
 
-### The ROI Formula
+### ROI-formlen
 
-Not all improvements are equal. We calculate **Return on Investment (ROI)** to find where your effort will have the most impact:
+Ikke alle forbedringer er lige. Vi beregner **Return on Investment (ROI)** for at finde ud af, hvor din indsats vil have størst effekt:
 
 ```
 ROI = (Potential Gain × Weight) / Effort Required
 ```
 
-**Key insight:** A low score in a high-weight factor often gives better ROI than a medium score in a lower-weight factor.
+**Vigtig indsigt:** En lav score i en højvægtet faktor giver ofte et bedre investeringsafkast end en mellemscore i en laverevægtet faktor.
 
-### Example
+### Eksempel
 
-| Factor | Weight | Current | ROI |
+| Faktor | Vægt | Strøm | ROI |
 |--------|--------|---------|-----|
-| Sleep | 400 | 30% | 312 |
-| Mental Game | 600 | 70% | 169 |
-| Technique | 100 | 80% | 18 |
+| Sove | 400 | 30% | 312 |
+| Mentalt spil | 600 | 70% | 169 |
+| Teknik | 100 | 80% | 18 |
 
-Despite Mental Game having the highest weight, improving Sleep from 30% offers **1.8x better ROI** because:
-- More room for improvement (low current level)
-- Less effort required (not fighting against plateau)
-
----
-
-## Rating Guidelines
-
-### 0-25%: Beginner
-- No experience or awareness
-- Learning basic concepts
-- Limited consistency
-
-### 25-50%: Developing
-- Some awareness but inconsistent
-- Basic understanding
-- Occasional success
-
-### 50-75%: Competent
-- Regular application
-- Good consistency
-- Can handle normal situations
-
-### 75-100%: Advanced/World-Class
-- Reliable execution
-- Works under pressure
-- Consistent excellence
+Selvom Mental Game vægter højest, giver en forbedring af søvn fra 30% **1,8 gange bedre ROI** fordi:
+- Mere plads til forbedring (lavt strømniveau)
+- Mindre indsats kræves (ikke kæmpende mod plateau)
 
 ---
 
-## The Self-Awareness Catch-22
+## Retningslinjer for vurdering
 
-::: warning Important Note
-Low self-awareness affects the accuracy of ALL your assessments. If you suspect your self-awareness might be low, consider:
+### 0-25%: Begynder
+- Ingen erfaring eller bevidsthed
+- Læring af grundlæggende begreber
+- Begrænset konsistens
 
-1. **Ask trusted teammates** how they would rate you
-2. **Review video** of your play
-3. **Compare results** over time to calibrate
+### 25-50%: Udvikling
+- Nogen bevidsthed, men inkonsekvent
+- Grundlæggende forståelse
+- Lejlighedsvis succes
+
+### 50-75%: Kompetent
+- Regelmæssig anvendelse
+- God konsistens
+- Kan håndtere normale situationer
+
+### 75-100%: Avanceret/Verdensklasse
+- Pålidelig udførelse
+- Arbejder under pres
+- Konsekvent ekspertise
+
+---
+
+## Selvbevidsthedens Catch-22
+
+::: warning Vigtig bemærkning
+Lav selvbevidsthed påvirker nøjagtigheden af ALLE dine vurderinger. Hvis du har mistanke om, at din selvbevidsthed kan være lav, så overvej:
+
+1. **Spørg dine betroede holdkammerater** hvordan de ville bedømme dig
+2. **Gennemgå video** af dit spil
+3. **Sammenlign resultater** over tid for at kalibrere
 :::
 
 ---
 
-## What's Next?
+## Hvad er det næste?
 
-After completing your assessment:
+Efter at have gennemført din vurdering:
 
-1. **Focus on your #1 recommendation** — Don't try to improve everything at once
-2. **Explore the education modules** — Each factor has in-depth content
-3. **Track progress over time** — Your data is saved locally
-4. **Re-assess monthly** — Track your improvement
+1. **Fokuser på din anbefaling nr. 1** — Forsøg ikke at forbedre alt på én gang
+2. **Udforsk uddannelsesmodulerne** — Hver faktor har dybdegående indhold
+3. **Spor fremskridt over tid** — Dine data gemmes lokalt
+4. **Genoplev månedligt** — Spor din forbedring
 
 ---
 
-## Learn More About Each Factor
+## Lær mere om hver faktor
 
-- [🧠 Mental Game](/en_US.UTF-8/education/mental-game/) — Flow states, mental strength, mindfulness
-- [🔥 Motivation](/en_US.UTF-8/education/motivation/) — Goal setting, psychology, long-term drive
-- [😴 Sleep & Recovery](/en_US.UTF-8/education/sleep/) — Sleep science, habits, competition protocols
-- [🪞 Self-Awareness](/en_US.UTF-8/education/self-awareness/) — Feedback, video analysis, blind spots
-- [🥗 Nutrition](/en_US.UTF-8/education/nutrition/) — Blood sugar, hydration, competition fuel
-- [🤝 Team Dynamics](/en_US.UTF-8/education/team-dynamics/) — Communication, trust, team culture
-- [💆 Tension Management](/en_US.UTF-8/education/tension/) — Relaxation techniques, breathing, protocols
-- [🎯 Technique](/en_US.UTF-8/education/technique/) — Training methods, tactics, drills
+- [🧠 Mentalt spil](/da/uddannelse/mentalt-spil/) — Flowtilstande, mental styrke, mindfulness
+- [🔥 Motivation](/da/uddannelse/motivation/) — Målsætning, psykologi, langsigtet drivkraft
+- [😴 Søvn &amp; Restitution](/da/uddannelse/søvn/) — Søvnvidenskab, vaner, konkurrenceprotokoller
+- [🪞 Selvbevidsthed](/da/uddannelse/selvbevidsthed/) — Feedback, videoanalyse, blinde vinkler
+- [🥗 Ernæring](/da/uddannelse/ernæring/) — Blodsukker, hydrering, konkurrencebrændstof
+- [🤝 Teamdynamik](/da/uddannelse/teamdynamik/) — Kommunikation, tillid, teamkultur
+- [💆 Spændingshåndtering](/da/uddannelse/spænding/) — Afspændingsteknikker, vejrtrækning, protokoller
+- [🎯 Teknik](/da/uddannelse/teknik/) — Træningsmetoder, taktikker, øvelser
 

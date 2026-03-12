@@ -3,31 +3,31 @@ title: Mindfulness in Competition
 description: Apply mindfulness principles during pétanque matches to stay present, manage emotions, and perform at your best when it matters most.
 ---
 
-# Mindfulness in Competition
+# Atención plena en la competición
 
-> "Mindfulness isn't just for meditation cushions — it's a competitive advantage."
+> &quot;La atención plena no es solo para cojines de meditación: es una ventaja competitiva&quot;.
 
-The ability to stay present, aware, and non-reactive during matches separates elite performers from those who crumble under pressure.
+La capacidad de permanecer presente, consciente y no reactivo durante los partidos separa a los jugadores de élite de aquellos que se derrumban bajo presión.
 
-::: tip The Present Moment Advantage
-**You can only throw one boule at a time.** Mindfulness keeps you in the only moment that matters — this one.
+::: tip La ventaja del momento presente
+**Solo puedes lanzar una bola a la vez.** La atención plena te mantiene en el único momento que importa: este.
 :::
 
 ---
 
-## What Mindfulness Means in Competition
+## Qué significa la atención plena en la competición
 
 ```mermaid
 flowchart TD
-    A[Competitive Mindfulness] --> B[Present-Moment<br/>Awareness]
-    A --> C[Non-Judgmental<br/>Observation]
-    A --> D[Intentional<br/>Attention]
-    A --> E[Emotional<br/>Regulation]
+    A[Atención plena competitiva] --> B[Momento presente <br/> Conciencia]
+    A --> C[Sin prejuicios <br/> Observación]
+    A --> D[Intencional <br/> Atención]
+    A --> E[Emocional <br/> Regulación]
 
-    B --> F[Not in past or future]
-    C --> G[Notice without judging]
-    D --> H[Choose your focus]
-    E --> I[Feel without being controlled]
+    B --> F[Ni en pasado ni en futuro]
+    C --> G[Observar sin juzgar]
+    D --> H[Elige tu enfoque]
+    E --> I[Sentir sin ser controlado]
 
     style A fill:#9C27B0,color:#fff
     style F fill:#e1bee7
@@ -38,160 +38,160 @@ flowchart TD
 
 ---
 
-## The Wandering Mind Problem
+## El problema de la mente errante
 
-::: danger The 47% Problem
-**Research shows the average mind wanders 47% of the time.** In competition, this wandering is costly.
+::: danger El problema del 47%
+**Las investigaciones muestran que la mente promedio divaga el 47% del tiempo.** En la competencia, esta divagación es costosa.
 :::
 
-| Where Mind Goes | What You Miss |
+| A dónde va la mente | Lo que te pierdes |
 |-----------------|---------------|
-| Last missed shot | Current terrain reading |
-| Worrying about score | Optimal throw selection |
-| What others think | Feel of the boule |
-| Planning celebrations | Present-moment execution |
+| Último tiro fallado | Lectura actual del terreno |
+| Preocuparse por la puntuación | Selección óptima del tiro |
+| Lo que piensan los demás | Sensación de la bola |
+| Planificación de celebraciones | Ejecución en el momento presente |
 
-Every moment spent in mental time-travel is a moment not spent on the throw in front of you.
+Cada momento invertido en un viaje mental en el tiempo es un momento que no se pasa lanzando algo delante de uno.
 
-## Mindfulness Skills for Competition
+## Habilidades de atención plena para la competición
 
-### 1. Anchoring to the Present
+### 1. Anclaje al presente
 
-Use sensory anchors to return to now:
+Utilice anclajes sensoriales para regresar al ahora:
 
-**Physical anchors:**
-- Feel the weight of the boule
-- Notice your feet on the ground
-- Feel the texture of the grip
+**Anclajes físicos:**
+- Siente el peso de la bola
+- Nota tus pies en el suelo
+- Siente la textura del agarre
 
-**Environmental anchors:**
-- Look at specific details of the terrain
-- Listen to ambient sounds
-- Feel the temperature and wind
+**Anclajes ambientales:**
+- Observar detalles específicos del terreno.
+- Escuchar sonidos ambientales
+- Siente la temperatura y el viento
 
-### 2. Observing Without Reacting
+### 2. Observar sin reaccionar
 
-When emotions arise (frustration, anxiety, excitement), practice:
+Cuando surjan emociones (frustración, ansiedad, excitación), practique:
 
-1. **Notice**: "I'm feeling frustrated"
-2. **Name**: "This is frustration"
-3. **Allow**: Let it be there without fighting
-4. **Return**: Bring attention back to the present task
+1. **Aviso**: &quot;Me siento frustrado&quot;
+2. **Nombre**: &quot;Esto es frustración&quot;
+3. **Permitir**: Déjalo estar ahí sin luchar.
+4. **Regresar**: Volver la atención a la tarea actual
 
-The emotion doesn't disappear, but it loses its power to control you.
+La emoción no desaparece, pero pierde su poder de controlarte.
 
-### 3. Single-Pointed Focus
+### 3. Enfoque en un solo punto
 
-Train your attention to stay on one thing:
+Entrena tu atención para permanecer en una sola cosa:
 
-**Before the throw:**
-- Focus only on reading the terrain
-- Then only on visualizing the result
-- Then only on your body position
+**Antes del lanzamiento:**
+- Concéntrese únicamente en leer el terreno
+- Luego solo visualizando el resultado
+- Entonces solo en la posición de tu cuerpo
 
-**During the throw:**
-- Focus only on the target
-- Let the body execute without interference
+**Durante el lanzamiento:**
+- Concéntrese sólo en el objetivo
+- Deje que el cuerpo se ejecute sin interferencias
 
-### 4. Beginner's Mind
+### 4. Mente de principiante
 
-Approach each throw as if it's your first:
-- No assumptions based on past performance
-- Fresh eyes on the terrain
-- Curiosity rather than expectation
+Aborda cada lanzamiento como si fuera el primero:
+- No hay suposiciones basadas en el desempeño pasado
+- Una mirada fresca al terreno
+- Curiosidad en lugar de expectativa
 
-## Practical Applications
+## Aplicaciones prácticas
 
-### Between Throws
+### Entre lanzamientos
 
-The time between throws is when minds wander most. Use this time mindfully:
+El tiempo entre lanzamientos es cuando la mente divaga más. Aprovecha este tiempo conscientemente:
 
-- **Watch actively**: Observe teammates and opponents with full attention
-- **Stay embodied**: Notice your breathing, posture, physical state
-- **Prepare mentally**: Visualize potential scenarios
-- **Rest attention**: Give your focus brief breaks
+- **Observar activamente**: Observar a compañeros de equipo y oponentes con total atención.
+- **Mantente encarnado**: Observa tu respiración, tu postura y tu estado físico.
+- **Prepárese mentalmente**: visualice escenarios potenciales
+- **Descansa la atención**: Dale a tu concentración breves descansos
 
-### During Pressure Moments
+### Durante los momentos de presión
 
-When stakes are highest:
+Cuando hay más en juego:
 
-1. **Slow down**: Take an extra breath
-2. **Ground yourself**: Feel your feet, the boule
-3. **Narrow focus**: This throw only
-4. **Trust**: Let go of outcome attachment
+1. **Disminuya la velocidad**: tome una respiración más profunda
+2. **Conéctate a tierra**: Siente tus pies, la bola
+3. **Enfoque estrecho**: Este lanzamiento solamente
+4. **Confianza**: Deja ir el apego al resultado
 
-### After Mistakes
+### Después de los errores
 
-Mistakes trigger rumination. Break the cycle:
+Los errores provocan la rumia. Rompe el ciclo:
 
-1. **Acknowledge**: "That didn't go as planned"
-2. **Extract**: "What can I learn?"
-3. **Release**: "It's done, moving on"
-4. **Refocus**: "What's next?"
+1. **Reconocer**: &quot;Eso no salió como estaba planeado&quot;
+2. **Extracto**: &quot;¿Qué puedo aprender?&quot;
+3. **Comunicado**: &quot;Está hecho, sigamos adelante&quot;
+4. **Reenfoque**: &quot;¿Qué sigue?&quot;
 
-## The Mindful Pre-Shot Routine
+## La rutina consciente previa al disparo
 
-Integrate mindfulness into your routine:
+Integra la atención plena en tu rutina:
 
-1. **Arrive**: Step into the circle with full presence
-2. **Breathe**: One conscious breath to center
-3. **See**: Mindfully observe the terrain
-4. **Visualize**: See the result with clarity
-5. **Feel**: Notice the boule, your body
-6. **Release**: Let go and trust
+1. **Llegar**: Entrar al círculo con plena presencia.
+2. **Respira**: Una respiración consciente para centrarse
+3. **Ver**: Observa atentamente el terreno
+4. **Visualizar**: Ver el resultado con claridad
+5. **Siente**: Nota la bola, tu cuerpo
+6. **Liberación**: Suelta y confía.
 
-## Common Challenges
+## Desafíos comunes
 
-### "I can't stop thinking"
+### &quot;No puedo dejar de pensar&quot;
 
-You don't need to stop thoughts — just don't follow them. Notice the thought, let it pass, return to your anchor.
+No necesitas detener los pensamientos, simplemente no los sigas. Observa el pensamiento, déjalo pasar y regresa a tu punto de apoyo.
 
-### "Mindfulness makes me too relaxed"
+### &quot;La atención plena me relaja demasiado&quot;
 
-Competitive mindfulness isn't about being calm — it's about being present. You can be alert, energized, and mindful simultaneously.
+La atención plena competitiva no se trata de estar tranquilo, sino de estar presente. Puedes estar alerta, con energía y consciente al mismo tiempo.
 
-### "I forget to be mindful"
+### &quot;Me olvido de ser consciente&quot;
 
-Use triggers:
-- Picking up the boule = mindfulness cue
-- Stepping into the circle = presence reminder
-- Taking your stance = attention anchor
+Utilice activadores:
+- Recoger la bola = señal de atención plena
+- Entrar en el círculo = recordatorio de presencia
+- Tomar tu postura = ancla de atención
 
-## Building the Skill
+## Desarrollando la habilidad
 
-### Daily Practice
+### Práctica diaria
 
-5-10 minutes of formal mindfulness practice builds the neural pathways:
-- Breath awareness meditation
-- Body scan practice
-- Mindful observation exercises
+De 5 a 10 minutos de práctica formal de atención plena fortalecen las vías neuronales:
+- Meditación de conciencia de la respiración
+- Práctica de escaneo corporal
+- Ejercicios de observación consciente
 
-### Training Integration
+### Integración de la formación
 
-Practice mindfulness during every training session:
-- Full presence for each throw
-- Notice when attention wanders
-- Practice returning to focus
+Practica la atención plena durante cada sesión de entrenamiento:
+- Presencia completa en cada lanzamiento
+- Observa cuando la atención se desvía
+- Practica volver a concentrarte
 
-### Competition Preparation
+### Preparación para la competición
 
-Before matches:
-- Brief mindfulness practice
-- Set intention for present-focus
-- Remind yourself of your anchors
+Antes de los partidos:
+- Práctica breve de atención plena
+- Establecer la intención de centrarse en el presente
+- Recuerda tus anclas
 
-## The Competitive Edge
+## La ventaja competitiva
 
-Mindful competitors have advantages:
-- **Faster recovery** from mistakes
-- **Better decision-making** under pressure
-- **More consistent** performance
-- **Greater enjoyment** of competition
-- **Reduced burnout** and anxiety
+Los competidores conscientes tienen ventajas:
+- **Recuperación más rápida** de los errores
+- **Mejor toma de decisiones** bajo presión
+- **Rendimiento más consistente**
+- **Mayor disfrute** de la competición
+- **Reducción del agotamiento** y la ansiedad
 
-The player who is fully present for each throw, while others are lost in thought, has a significant edge.
+El jugador que está completamente presente en cada lanzamiento, mientras los demás están perdidos en sus pensamientos, tiene una ventaja significativa.
 
 ---
 
-*Related: [Mindfulness Introduction](/es/education/mental-game/mindfulness/) | [Mindfulness Techniques](/es/education/mental-game/mindfulness/techniques) | [Daily Practice](/es/education/mental-game/mindfulness/daily-practice)*
+| *Relacionado: [Introducción a la atención plena](/es/educacion/juego-mental/atención-plena/) | [Técnicas de atención plena](/es/educacion/juego-mental/atención-plena/tecnicas) | [Práctica diaria](/es/educacion/juego-mental/mindfulness/practica-diaria)* |
 

@@ -1,14 +1,14 @@
-# Tension Release Quick Card
+# Spændingsfrigørelseskort
 
-A printable pocket card for tension release techniques during competition.
+Et printbart lommekort til teknikker til spændingsudløsning under konkurrence.
 
-::: tip Print & Carry
-**Cut this card out and keep it in your pocket or boule bag.** Quick reference when tension builds during competition.
+::: tip Print &amp; Carry
+**Klip dette kort ud og opbevar det i din lomme eller boulepose.** En hurtig reference, når spændingen opstår under konkurrencen.
 :::
 
 ---
 
-## ✂️ Cut Here — Pocket Card
+## ✂️ Klip her — Lommekort
 
 ```
 ┌─────────────────────────────────────────────────┐
@@ -56,82 +56,82 @@ A printable pocket card for tension release techniques during competition.
 
 ---
 
-## Technique Details
+## Teknikdetaljer
 
-### 🔴 30-Second Reset
+### 🔴 30-sekunders nulstilling
 
-Use between points or during short breaks:
+Brug mellem punkter eller under korte pauser:
 
-| Step | Action | Duration |
+| Trin | Handling | Varighed |
 |------|--------|----------|
-| 1 | Deep breath in through nose | 4 counts |
-| 2 | Shoulders up to ears, then drop completely | 3 sec |
-| 3 | Shake hands loosely | 5 sec |
-| 4 | Open jaw wide, let it close naturally | 3 sec |
-| 5 | Slow exhale through mouth | 6 counts |
+| 1 | Dyb indånding gennem næsen | 4 tællinger |
+| 2 | Skuldrene op til ørerne, og sænk derefter helt ned | 3 sek. |
+| 3 | Ryst løst hænder | 5 sek. |
+| 4 | Åbn kæben vidt, lad den lukke sig naturligt | 3 sek. |
+| 5 | Langsom udånding gennem munden | 6 tællinger |
 
-### 🟡 Grip Reset
+### 🟡 Greb Reset
 
-Before each throw:
+Før hvert kast:
 
-1. **Squeeze hard** — 80% grip pressure for 2 seconds
-2. **Release to optimal** — Find your ideal pressure (40-50%)
-3. **Notice** — Feel the contrast between tension and relaxation
+1. **Klem hårdt** — 80% grebtryk i 2 sekunder
+2. **Udløsn til optimalt tryk** — Find dit ideelle tryk (40-50%)
+3. **Bemærk** — Mærk kontrasten mellem spænding og afslapning
 
-This creates a reference point for proper grip pressure.
+Dette skaber et referencepunkt for korrekt grebtryk.
 
-### 🟢 15-Second Pre-Throw Protocol
+### 🟢 15-sekunders protokol før kast
 
-For important throws:
+Ved vigtige kast:
 
-| Time | Action |
+| Tid | Handling |
 |------|--------|
-| 0-3 sec | Body scan: notice any tension |
-| 3-6 sec | One deep breath |
-| 6-9 sec | Shoulder drop |
-| 9-12 sec | Grip check (tense-release if needed) |
-| 12-15 sec | Final breath, begin routine |
+| 0-3 sek. | Kropsscanning: læg mærke til eventuelle spændinger |
+| 3-6 sek. | En dyb indånding |
+| 6-9 sek. | Skulderfald |
+| 9-12 sekunder | Grebstest (spænd og slip om nødvendigt) |
+| 12-15 sek. | Sidste åndedrag, start rutinen |
 
-### 🔵 4-7-8 Breathing
+### 🔵 4-7-8 Vejrtrækning
 
-When highly stressed or over-aroused:
+Når man er meget stresset eller overophidset:
 
-- **Inhale** through nose: 4 counts
-- **Hold** breath: 7 counts
-- **Exhale** through mouth: 8 counts
-- Repeat 3-4 times
+- **Indånd** gennem næsen: 4 tællinger
+- **Hold vejret**: 7 tællinger
+- **Udånd** gennem munden: 8 tællinger
+- Gentag 3-4 gange
 
-### 💬 Your Cue Word
+### 💬 Dit stikord
 
-Choose a single word that triggers relaxation:
-- "Soft"
-- "Easy"
-- "Flow"
-- "Release"
+Vælg et enkelt ord, der udløser afslapning:
+- &quot;Blød&quot;
+- &quot;Let&quot;
+- &quot;Flyde&quot;
+- &quot;Frigøre&quot;
 
-Practice saying this word mentally while releasing tension. Eventually, the word alone triggers the relaxation response.
+Øv dig i at sige dette ord mentalt, mens du slipper spændinger. Til sidst vil ordet alene udløse afslapningsresponsen.
 
 ---
 
-## How to Use This Card
+## Sådan bruger du dette kort
 
-1. **Print** on cardstock for durability
-2. **Cut** along the dotted line
-3. **Laminate** if possible
-4. **Keep** in your pocket or boule bag
-5. **Review** between games as needed
-6. **Practice** these techniques in training first
+1. **Tryk** på karton for holdbarhed
+2. **Klip** langs den stiplede linje
+3. **Laminér** hvis muligt
+4. **Opbevares** i lommen eller bouleposen
+5. **Gennemgang** mellem spil efter behov
+6. **Øv** disse teknikker i træningen først
 
-::: warning Practice First
-These techniques work best when practiced regularly. Don't try them for the first time in a crucial competition moment.
+::: warning Øv dig først
+Disse teknikker fungerer bedst, når de øves regelmæssigt. Prøv dem ikke for første gang i et afgørende konkurrenceøjeblik.
 :::
 
 ---
 
-## Related Resources
+## Relaterede ressourcer
 
-- [Tension Release Techniques](/da/education/tension/techniques) — Full technique guide
-- [Understanding Tension](/da/education/tension/) — The science behind tension
-- [Competition Tension Management](/da/education/tension/competition) — Match-day protocols
-- [Pre-Shot Routine](/da/education/mental-game/mental-strength/pre-shot-routine) — Complete routine integration
+- [Teknikker til spændingsfrigørelse](/da/uddannelse/spænding/teknikker) — Fuld teknikguide
+- [Forståelse af spænding](/da/uddannelse/spænding/) — Videnskaben bag spænding
+- [Håndtering af konkurrencespændinger](/da/uddannelse/spænding/konkurrence) — Protokoller på kampdagen
+- [Rutine før skud](/da/uddannelse/mentalt-spil/mental-styrke/rutine før skud) — Komplet rutineintegration
 

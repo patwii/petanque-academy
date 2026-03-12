@@ -164,8 +164,8 @@ graph LR
 
 ## I denne delen
 
-- **[Teknikker](/no/education/mental-game/mindfulness/teknikker)** - Praktiske øvelser du kan bruke
-- **[Daglig praksis](/no/education/mental-game/mindfulness/daglig-praksis)** - Bygg mindfulness inn i livet ditt
+- **[Teknikker](/no/utdanning/mentalt-spill/mindfulness/teknikker)** - Praktiske øvelser du kan bruke
+- **[Daglig praksis](/no/utdanning/mentalt spill/mindfulness/daglig praksis)** - Bygg mindfulness inn i livet ditt
 
 ## Sammendrag: Mindfulness-regler
 

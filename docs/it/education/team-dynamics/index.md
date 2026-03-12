@@ -182,7 +182,7 @@ I grandi team sviluppano in modo condiviso:
 
 ## In questa sezione
 
-- **[Comunicazione di squadra](/it/education/team-dynamics/communication)** - Guida dettagliata per comunicare in modo efficace
+- **[Comunicazione di squadra](/it/istruzione/dinamiche-di-squadra/comunicazione)** - Guida dettagliata per comunicare in modo efficace
 
 ## Conclusione chiave
 

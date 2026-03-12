@@ -153,8 +153,8 @@ graph LR
 
 ## I denne delen
 
-- **[Håndtering av press](/no/education/mental-game/mental-strength/håndtering-av-press)** - Teknikker for situasjoner med høy innsats
-- **[Rutine før sprøyte](/no/education/mental-game/mental-strength/rutine-før-sprøyte)** - Bygg din prestasjonsutløser
+- **[Håndtering av press](/no/utdanning/mentalt-spill/mental-styrke/håndtering-av-press)** - Teknikker for situasjoner med høy innsats
+- **[Rutine før skudd](/no/utdanning/mentalt-spill/mental-styrke/rutine-før-skudd)** - Bygg din prestasjonsutløser
 
 ## Sammendrag: Regler for mental styrke
 

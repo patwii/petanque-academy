@@ -164,8 +164,8 @@ graph LR
 
 ## In questa sezione
 
-- **[Tecniche](/it/education/mindfulness/tecniche)** - Esercizi pratici che puoi usare
-- **[Pratica quotidiana](/it/education/mindfulness/pratica-quotidiana)** - Integrare la consapevolezza nella tua vita
+- **[Tecniche](/it/educazione/gioco-mentale/mindfulness/tecniche)** - Esercizi pratici che puoi usare
+- **[Pratica quotidiana](/it/educazione/gioco-mentale/mindfulness/pratica-quotidiana)** - Integrare la consapevolezza nella tua vita
 
 ## Riepilogo: Regole della consapevolezza
 

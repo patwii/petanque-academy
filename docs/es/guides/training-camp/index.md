@@ -1,44 +1,44 @@
-# Training Camp: Weekend Mental Game Intensive
+# Campamento de entrenamiento: Fin de semana de juego mental intensivo
 
 
-## Overview
+## Descripción general
 
-A comprehensive weekend training camp (Friday-Sunday) for 10-20 players that combines mental game theory, on-piste practice, and competitive application. This intensive format creates transformational learning through integration of all three elements.
+Un campamento de entrenamiento integral de fin de semana (viernes a domingo) para 10 a 20 jugadores que combina la teoría del juego mental, la práctica en pista y la aplicación competitiva. Este formato intensivo fomenta un aprendizaje transformador mediante la integración de los tres elementos.
 
-::: tip Two Sections in This Guide
-- **[For Participants](#for-participants)** - What players will experience during the weekend
-- **[For Organizers](#for-organizers)** - How to plan and run the training camp
+::: tip Dos secciones en esta guía
+- **[Para los participantes](#para-participantes)** - Lo que los jugadores experimentarán durante el fin de semana
+- **[Para organizadores](#para-organizadores)** - Cómo planificar y ejecutar el campamento de entrenamiento
 :::
 
-::: tip The Training Camp Philosophy
-**Theory without practice is just information. Practice without theory is just repetition. Competition without reflection is just playing.** This weekend integrates all three for transformational learning.
+::: tip La filosofía del campo de entrenamiento
+**La teoría sin práctica es solo información. La práctica sin teoría es solo repetición. La competencia sin reflexión es solo juego.** Este fin de semana integra las tres para un aprendizaje transformador.
 :::
 
-## Quick Access
+## Acceso rápido
 
-| Section | Purpose | Access |
+| Sección | Objetivo | Acceso |
 |---------|---------|--------|
-| **For Participants** | Weekend schedule and what to bring | [View Section](#for-participants) |
-| **For Organizers** | Complete planning and facilitation guide | [View Section](#for-organizers) |
-| **Daily Schedules** | Detailed timing and activities | [Friday](#friday-evening-mental-game-foundation-3-4-hours) • [Saturday](#saturday-practice-application-full-day) • [Sunday](#sunday-competition-integration-full-day) |
-| **Related Guides** | Other training formats | [Mental Journey](/es/guides/mental-journey/) • [Workshop](/es/guides/workshop/) |
+| **Para los participantes** | Horario del fin de semana y qué llevar | [Ver sección](#para-participantes) |
+| **Para organizadores** | Guía completa de planificación y facilitación | [Ver sección](#para-organizadores) |
+| **Horarios diarios** | Cronograma detallado y actividades | [Viernes](#viernes-noche-juego-mental-fundamento-3-4-horas) • [Sábado](#sábado-aplicación-práctica-día-completo) • [Domingo](#domingo-integración-competencia-día-completo) |
+| **Guías relacionadas** | Otros formatos de formación | [Viaje Mental](/es/guides/mental-journey/) • [Taller](/es/guides/workshop/) |
 
 ---
 
-## For Participants
+## Para los participantes
 
-### What to Expect
+### Qué esperar
 
-This is an intensive weekend that will challenge you mentally, physically, and emotionally. You'll learn mental game concepts, practice them on the piste, and apply them in competition - all while building deep connections with fellow players.
+Este fin de semana intensivo te desafiará mental, física y emocionalmente. Aprenderás conceptos de juego mental, los practicarás en la pista y los aplicarás en la competición, todo ello mientras construyes vínculos profundos con tus compañeros.
 
-**Weekend Structure:**
+**Estructura del fin de semana:**
 
 ```mermaid
 graph LR
-    A[Weekend Camp] --> B[Friday: Theory]
-    B --> C[Saturday: Practice]
-    C --> D[Sunday: Competition]
-    D --> E[Integration]
+    A[Campamento de fin de semana] --> B[Viernes: Teoría]
+    B --> C[Sábado: Práctica]
+    C --> D[Domingo: Competición]
+    D --> E[Integración]
 
     style A fill:#e8f5e9
     style B fill:#fff4e1
@@ -47,259 +47,259 @@ graph LR
     style E fill:#f3e5f5
 ```
 
-### Daily Breakdown
+### Desglose diario
 
-#### Friday Evening: Mental Game Foundation (3-4 hours)
-**What:** Theory session on mental game concepts
-**Where:** Indoor meeting room
-**Format:** Circle discussion and exercises
+#### Viernes por la noche: Fundación del juego mental (3-4 horas)
+**Qué:** Sesión teórica sobre conceptos de juegos mentales
+**Dónde:** Sala de reuniones interior
+**Formato:** Discusión en círculo y ejercicios
 
-**You'll Learn:**
-- The Zone and flow states
-- Inner Critic vs Inner Coach
-- Pressure response patterns
-- Pre-shot routine fundamentals
+**Aprenderás:**
+- Los estados de zona y flujo
+- Crítico interno vs. Coach interno
+- Patrones de respuesta a la presión
+- Fundamentos de la rutina previa al disparo
 
-**Activities:**
-- Check-in and ground rules
-- The Iceberg of Pétanque
-- User Manual creation
-- Fear in a Hat exercise
+**Actividades:**
+- Registro y normas básicas
+- El iceberg de la petanca
+- Creación del manual de usuario
+- Ejercicio de miedo en un sombrero
 
-#### Saturday: Practice & Application (Full Day)
-**Morning (3 hours):** Structured practice with mental focus
-**Afternoon (3 hours):** Pressure simulation drills
-**Evening (2 hours):** Reflection and integration
+#### Sábado: Práctica y aplicación (día completo)
+**Mañana (3 horas):** Práctica estructurada con enfoque mental
+**Tarde (3 horas):** Simulacros de simulación de presión
+**Tarde (2 horas):** Reflexión e integración
 
-**You'll Practice:**
-- Pre-shot routines in real throws
-- Reset techniques after mistakes
-- Focus anchors under pressure
-- Team communication protocols
+**Practicarás:**
+- Rutinas previas al lanzamiento en lanzamientos reales
+- Técnicas de reinicio después de errores
+- Enfoque los anclajes bajo presión
+- Protocolos de comunicación en equipo
 
-**Format:**
-- Small group drills (3-4 players)
-- Video analysis of mental patterns
-- Pressure scenarios
-- Evening debrief session
+**Formato:**
+- Ejercicios en grupos pequeños (3-4 jugadores)
+- Análisis de vídeo de patrones mentales
+- Escenarios de presión
+- Sesión informativa vespertina
 
-#### Sunday: Competition & Integration (Full Day)
-**Morning (3 hours):** Tournament play
-**Afternoon (2 hours):** Final rounds
-**Evening (1 hour):** Closing reflection
+#### Domingo: Competición e Integración (Día Completo)
+**Mañana (3 horas):** Juego de torneo
+**Tarde (2 horas):** Rondas finales
+**Tarde (1 hora):** Reflexión de cierre
 
-**You'll Apply:**
-- All mental tools in competition
-- Team protocols under pressure
-- Mistake recovery in real time
-- Post-game reflection process
+**Aplicarás:**
+- Todas las herramientas mentales en competición
+- Protocolos de equipo bajo presión
+- Recuperación de errores en tiempo real
+- Proceso de reflexión posterior al partido
 
-### What to Bring
+### Qué llevar
 
-**Required:**
-- Your boules and equipment
-- Comfortable clothing for all weather
-- Notebook and pen
-- Open mind and willingness to share
-- Water bottle
+**Requerido:**
+- Tus bolas y tu equipo
+- Ropa cómoda para todo tipo de clima
+- Cuaderno y bolígrafo
+- Mente abierta y voluntad de compartir.
+- Botella de agua
 
-**Optional:**
-- Training diary
-- Questions about specific mental challenges
-- Examples of pressure situations you face
+**Opcional:**
+- Diario de entrenamiento
+- Preguntas sobre desafíos mentales específicos
+- Ejemplos de situaciones de presión a las que te enfrentas
 
-**Not Needed:**
-- Technical coaching requests (this is mental game focused)
-- Ego or need to prove yourself
-- Judgment of others
+**No necesario:**
+- Solicitudes de entrenamiento técnico (esto se centra en el juego mental)
+- Ego o necesidad de demostrar tu valía
+- Juicio de los demás
 
-### Ground Rules for the Weekend
+### Reglas básicas para el fin de semana
 
-::: tip The Container
-All participants agree to:
-1. **Confidentiality** - What's shared stays here
-2. **Respect** - Honor others' vulnerability
-3. **Participation** - Engage fully in all activities
-4. **Growth Mindset** - Embrace discomfort as learning
-5. **Support** - Help teammates apply concepts
+::: tip El contenedor
+Todos los participantes acuerdan:
+1. **Confidencialidad** - Lo compartido se queda aquí
+2. **Respeto** - Honrar la vulnerabilidad de los demás
+3. **Participación** - Participar plenamente en todas las actividades
+4. **Mentalidad de crecimiento**: acepte la incomodidad como aprendizaje
+5. **Soporte** - Ayuda a los compañeros de equipo a aplicar conceptos
 :::
 
-### What You'll Leave With
+### Con lo que te irás
 
-**Knowledge:**
-- Deep understanding of your mental patterns
-- Practical tools for pressure management
-- Team protocols for competition
-- Personalized pre-shot routine
+**Conocimiento:**
+- Comprensión profunda de sus patrones mentales
+- Herramientas prácticas para la gestión de la presión
+- Protocolos de equipo para competición
+- Rutina personalizada previa a la inyección
 
-**Skills:**
-- Ability to access flow states
-- Mistake recovery techniques
-- Inner Coach reframing
-- Focus anchors
+**Habilidades:**
+- Capacidad de acceder a estados de flujo
+- Técnicas de recuperación de errores
+- Reformulación del Coach Interior
+- Anclajes de enfoque
 
-**Connection:**
-- Deeper bonds with teammates
-- Shared language for mental game
-- Support network for continued growth
+**Conexión:**
+- Lazos más profundos con los compañeros de equipo
+- Lenguaje compartido para el juego mental
+- Red de apoyo para el crecimiento continuo
 
-**Materials:**
-- Completed worksheets and exercises
-- Video analysis of your mental patterns
-- Action plan for next 30 days
-- Access to all education modules
+**Materiales:**
+- Hojas de trabajo y ejercicios completados
+- Análisis en vídeo de tus patrones mentales
+- Plan de acción para los próximos 30 días
+- Acceso a todos los módulos educativos
 
-### Typical Schedule
+### Horario típico
 
-**Friday:**
-- 18:00 - Arrival and check-in
-- 19:00 - Dinner
-- 20:00 - Opening session (theory)
-- 23:00 - Free time / rest
+**Viernes:**
+- 18:00 - Llegada y check-in
+- 19:00 - Cena
+- 20:00 - Sesión inaugural (teoría)
+- 23:00 - Tiempo libre / descanso
 
-**Saturday:**
-- 08:00 - Breakfast
-- 09:00 - Morning practice session
-- 12:00 - Lunch
-- 13:30 - Afternoon practice session
-- 17:00 - Break
-- 18:00 - Dinner
-- 19:30 - Evening reflection session
-- 21:00 - Free time / rest
+**Sábado:**
+- 08:00 - Desayuno
+- 09:00 - Sesión de práctica matutina
+- 12:00 - Almuerzo
+- 13:30 - Sesión de práctica de la tarde
+- 17:00 - Descanso
+- 18:00 - Cena
+- 19:30 - Sesión de reflexión vespertina
+- 21:00 - Tiempo libre / descanso
 
-**Sunday:**
-- 08:00 - Breakfast
-- 09:00 - Tournament begins
-- 12:00 - Lunch
-- 13:00 - Final rounds
-- 15:00 - Awards and recognition
-- 16:00 - Closing circle
-- 17:00 - Departure
+**Domingo:**
+- 08:00 - Desayuno
+- 09:00 - Comienza el torneo
+- 12:00 - Almuerzo
+- 13:00 - Rondas finales
+- 15:00 - Premios y reconocimientos
+- 16:00 - Círculo de cierre
+- 17:00 - Salida
 
 
 ---
 
-## For Organizers
+## Para organizadores
 
-### Planning Overview
+### Descripción general de la planificación
 
-This section provides everything you need to organize and run a successful weekend training camp for 10-20 players.
+Esta sección proporciona todo lo que necesitas para organizar y ejecutar un campamento de entrenamiento de fin de semana exitoso para 10 a 20 jugadores.
 
-### Pre-Camp Planning (6-8 Weeks Before)
+### Planificación previa al campamento (6-8 semanas antes)
 
-### Group Size & Structure
+### Tamaño y estructura del grupo
 
-**Optimal:** 10-20 players
-- **Small camp (10-12):** More intimate, deeper sharing
-- **Large camp (16-20):** More diverse perspectives, requires sub-groups
+**Óptimo:** 10-20 jugadores
+- **Campamento pequeño (10-12):** Intercambio más íntimo y profundo
+- **Campamento grande (16-20):** Perspectivas más diversas, requiere subgrupos
 
-**Team Structure:**
-- Divide into teams of 3-4 for practice and competition
-- Mix skill levels and playing styles
-- Rotate teams throughout weekend
+**Estructura del equipo:**
+- Divídanse en equipos de 3-4 para practicar y competir.
+- Mezcla niveles de habilidad y estilos de juego.
+- Rotar equipos durante el fin de semana
 
-### Staffing Requirements
+### Requisitos de personal
 
-| Role | Responsibilities | Quantity |
+| Role | Responsabilidades | Cantidad |
 |------|------------------|----------|
-| **Mental Performance Coordinator** | Facilitate theory sessions, group dynamics | 1 |
-| **Technical Coach** | Oversee practice, provide feedback | 1-2 |
-| **Competition Director** | Run tournament, manage logistics | 1 |
-| **Support Staff** | Meals, setup, admin | 1-2 |
+| **Coordinador de Rendimiento Mental** | Facilitar sesiones teóricas, dinámicas de grupo. | 1 |
+| **Entrenador técnico** | Supervisar la práctica, proporcionar retroalimentación | 1-2 |
+| **Director de Competición** | Organizar torneos, gestionar la logística. | 1 |
+| **Personal de apoyo** | Comidas, montaje, administración | 1-2 |
 
-### Location Requirements
+### Requisitos de ubicación
 
-::: info Facility Needs
-**Piste:**
-- Multiple terrains (minimum 3-4 pistes)
-- Different surfaces if possible (gravel, sand, hard)
-- Lighting for evening play
+::: info Necesidades de instalaciones
+**Pista:**
+- Múltiples terrenos (mínimo 3-4 pistas)
+- Diferentes superficies si es posible (grava, arena, dura)
+- Iluminación para el juego nocturno
 
-**Indoor Space:**
-- Room for 20 people in circle (theory sessions)
-- Separate from piste
-- Whiteboard/projector
-- Comfortable seating
+**Espacio interior:**
+- Sala para 20 personas en círculo (sesiones teóricas)
+- Separado de la pista
+- Pizarra/proyector
+- Asientos cómodos
 
-**Accommodation:**
-- On-site or nearby (walking distance)
-- Shared rooms encourage bonding
-- Quiet space for reflection
+**Alojamiento:**
+- En el sitio o cerca (a poca distancia)
+- Las habitaciones compartidas fomentan la unión
+- Espacio tranquilo para la reflexión
 
-**Catering:**
-- Nutrition-focused meals (see [Food Guide](./food))
-- Avoid sugar crashes
-- Hydration stations
+**Abastecimiento:**
+- Comidas centradas en la nutrición (ver [Guía de alimentos](./food))
+- Evitar los bajones de azúcar
+- Estaciones de hidratación
 :::
 
-### Materials Checklist
+### Lista de verificación de materiales
 
-::: details Complete Materials List
-**Theory Sessions:**
-- [ ] Chairs for circle (no tables)
-- [ ] Boules and cochonnet for center
-- [ ] Flip charts and markers
-- [ ] Sticky notes
-- [ ] Worksheets (User Manual, Inner Critic, etc.)
-- [ ] Paper and pens
-- [ ] Projector (for website content)
+::: details Lista completa de materiales
+**Sesiones teóricas:**
+- [ ] Sillas para círculo (sin mesas)
+- [ ] Petanca y cochonnet para el centro
+- [ ] Rotafolios y marcadores
+- [ ] Notas adhesivas
+- [ ] Hojas de trabajo (Manual de usuario, Crítico interno, etc.)
+- [ ] Papel y bolígrafos
+- [ ] Proyector (para contenido del sitio web)
 
-**Practice Sessions:**
-- [ ] Measuring tape
-- [ ] Cones/markers for drills
-- [ ] Video camera/tripod
-- [ ] Clipboard and paper (tracking)
-- [ ] Whistle
+**Sesiones de práctica:**
+- [ ] Cinta métrica
+- [ ] Conos/marcadores para ejercicios
+- [ ] Cámara de vídeo/trípode
+- [ ] Portapapeles y papel (seguimiento)
+- [ ] Silbar
 
-**Competition:**
-- [ ] Score sheets
-- [ ] Tournament bracket
-- [ ] Prizes/recognition
-- [ ] First aid kit
+**Competencia:**
+- [ ] Hojas de puntuación
+- [ ] Cuadro del torneo
+- [ ] Premios/reconocimientos
+- [ ] botiquín de primeros auxilios
 
-**Logistics:**
-- [ ] Name tags
-- [ ] Participant list with contacts
-- [ ] Emergency contact info
-- [ ] Water bottles
-- [ ] Sunscreen
-- [ ] Tissues (for emotional work!)
+**Logística:**
+- [ ] etiquetas de nombre
+- [ ] Lista de participantes con contactos
+- [ ] Información de contacto de emergencia
+- [ ] Botellas de agua
+- [ ] Protector solar
+- [ ] Pañuelos (¡para trabajo emocional!)
 :::
 
-## Weekend Schedule
+## Horario de fin de semana
 
-### Friday Evening (3 hours)
+### Viernes por la noche (3 horas)
 
-**18:00-18:30 - Arrival & Welcome**
-- Check-in
-- Room assignments
-- Overview of weekend
+**18:00-18:30 - Llegada y bienvenida**
+- Registrarse
+- Asignación de habitaciones
+- Resumen del fin de semana
 
-**18:30-19:30 - Dinner**
-- Nutrition-focused meal
-- Informal introductions
+**18:30-19:30 - Cena**
+- Comida centrada en la nutrición
+- Presentaciones informales
 
-**19:30-22:30 - Theory Session: Foundation**
+**19:30-22:30 - Sesión teórica: Fundamentos**
 
-Use the [Workshop guide](./workshop) for detailed facilitation:
+Utilice la [Guía del taller](./workshop) para una facilitación detallada:
 
-1. **Ground Rules (15 min)** - Establish psychological safety
-2. **Check-In Matrix (20 min)** - Assess group energy
-3. **The Iceberg (30 min)** - Explore inner thoughts
-4. **User Manual (45 min)** - Build team understanding
-5. **Fear in a Hat (45 min)** - Break isolation
-6. **Check-Out (15 min)** - Close the loop
+1. **Reglas básicas (15 min)** - Establecer seguridad psicológica
+2. **Matriz de registro (20 min)** - Evaluar la energía del grupo
+3. **El Iceberg (30 min)** - Explora tus pensamientos internos
+4. **Manual del usuario (45 min)** - Fomentar la comprensión del equipo
+5. **Miedo en un sombrero (45 min)** - Romper el aislamiento
+6. **Check-Out (15 min)** - Cierra el círculo
 
-**22:30 - Free Time**
-- Informal socializing
-- Rest and reflection
+**22:30 - Tiempo libre**
+- Socialización informal
+- Descanso y reflexión
 
 ```mermaid
 graph TD
-    A[Friday Theory] --> B[Psychological Safety]
-    B --> C[Self-Awareness]
-    C --> D[Team Understanding]
-    D --> E[Ready for Practice]
+    A[Teoría del viernes] --> B[Seguridad psicológica]
+    B --> C[Autoconciencia]
+    C --> D[Comprensión del equipo]
+    D --> E[Listo para la práctica]
 
     style A fill:#fff4e1
     style E fill:#e8f5e9
@@ -307,436 +307,436 @@ graph TD
 
 
 
-### Saturday (Full Day - Theory + Practice)
+### Sábado (Día completo - Teoría + Práctica)
 
-**08:00-09:00 - Breakfast & Mindfulness**
-- Quiet breakfast
-- Optional 15-minute guided meditation
-- Set intentions for the day
+**08:00-09:00 - Desayuno y Mindfulness**
+- Desayuno tranquilo
+- Meditación guiada opcional de 15 minutos
+- Establezca intenciones para el día
 
-**09:00-10:30 - Theory Session: Connecting Content to Experience**
+**09:00-10:30 - Sesión teórica: Conectando el contenido con la experiencia**
 
-Choose 3-4 topics from the Academy website and explore the inner game:
+Elige entre 3 y 4 temas del sitio web de la Academia y explora el juego interior:
 
-**Example Topics:**
+**Temas de ejemplo:**
 
-1. **[Nutrition](./education/nutrition/)** (20 min)
-   - "How does your food choice change under pressure?"
-   - "Do you eat what your body needs or what your anxiety wants?"
-   - Practice: Plan competition-day nutrition
+1. **[Nutrición](./educación/nutrición/)** (20 min)
+   - ¿Cómo cambia tu elección de alimentos bajo presión?
+   - ¿Comes lo que tu cuerpo necesita o lo que tu ansiedad quiere?
+   - Práctica: Planificar la nutrición el día de la competición
 
-2. **[Mental Strength](./education/mental-game/mental-strength/)** (25 min)
-   - "What's your relationship with failure?"
-   - "How do you talk to yourself after a miss?"
-   - Activity: Reframe Inner Critic to Inner Coach
+2. **[Fuerza mental](./educacion/juego-mental/fuerza-mental/)** (25 min)
+   - ¿Cuál es tu relación con el fracaso?
+   - &quot;¿Cómo te hablas a ti mismo después de un fallo?&quot;
+   - Actividad: Reformular al crítico interno en entrenador interno
 
-3. **[Mindfulness](./education/mental-game/mindfulness/)** (25 min)
-   - "Where does your mind go during the pause before throwing?"
-   - "What pulls you out of the present moment?"
-   - Practice: 5-minute body scan
+3. **[Mindfulness](./educacion/juego-mental/mindfulness/)** (25 min)
+   - &quot;¿A dónde va tu mente durante la pausa antes de lanzar?&quot;
+   - &quot;¿Qué te saca del momento presente?&quot;
+   - Práctica: escaneo corporal de 5 minutos
 
-4. **[Tactics](./education/technique/tactics/)** (20 min)
-   - "Is your shot choice based on strategy or fear?"
-   - "When do you play it safe vs. take risks?"
-   - Discuss: Risk profiles in the group
+4. **[Tácticas](./educación/técnica/tácticas/)** (20 min)
+   - &quot;¿Tu elección de tiro se basa en la estrategia o en el miedo?&quot;
+   - &quot;¿Cuándo jugar a lo seguro y cuándo tomar riesgos?&quot;
+   - Discutir: Perfiles de riesgo en el grupo
 
-**10:30-10:45 - Break**
+**10:30-10:45 - Descanso**
 
-**10:45-12:30 - On-Piste Integration: Drills with Mental Focus**
+**10:45-12:30 - Integración en pista: ejercicios con enfoque mental**
 
-**Drill 1: Call Your Shot (30 min)**
+**Ejercicio 1: Apunta tu tiro (30 min)**
 
-From the [Workshop guide](./workshop) - practice owning intention and doubt:
+De la [Guía del taller](./taller) - Practica la posesión de la intención y la duda:
 
-1. Announce the target: "I am shooting the iron"
-2. State confidence: "I am a 7 out of 10"
-3. Name the inner thought: "My inner voice is worrying about backspin"
-4. Execute the shot
-5. Reflect: "What happened? What did you learn?"
+1. Anunciar el objetivo: &quot;Estoy disparando el hierro&quot;
+2. Confianza del Estado: &quot;Soy un 7 sobre 10&quot;
+3. Nombra el pensamiento interior: &quot;Mi voz interior se preocupa por el efecto retroceso&quot;
+4. Ejecutar el tiro
+5. Reflexiona: &quot;¿Qué pasó? ¿Qué aprendiste?&quot;
 
-**Drill 2: Cognitive Interference (30 min)**
+**Ejercicio 2: Interferencia cognitiva (30 min)**
 
-Test if technique has become automatic:
-- Coordinator asks complex questions while player shoots
-- "Name 5 capital cities" or "Count backwards from 100 by 7s"
-- Success = technique is implicit, not consciously processed
+Prueba si la técnica se ha vuelto automática:
+- El coordinador hace preguntas complejas mientras el jugador dispara
+- &quot;Nombra 5 capitales&quot; o &quot;Cuenta hacia atrás desde 100 de 7 en 7&quot;
+- Éxito = la técnica es implícita, no se procesa conscientemente
 
-**Drill 3: User Manual Practice (30 min)**
+**Ejercicio 3: Práctica del manual del usuario (30 min)**
 
-Apply the User Manuals from Friday:
-- Play in teams of 3
-- After each shot, teammates respond according to User Manual
-- "Marc needs silence after a miss" - team honors that
-- Debrief: "How did it feel to be understood?"
+Aplicar los Manuales de Usuario del viernes:
+- Jugar en equipos de 3
+- Después de cada disparo, los compañeros de equipo responden según el Manual del usuario
+- &quot;Marc necesita silencio después de un fallo&quot;: el equipo lo reconoce
+- Informe final: &quot;¿Cómo te sentiste al ser comprendido?&quot;
 
-**12:30-14:00 - Lunch & Rest**
-- Nutrition-focused meal
-- Quiet time for reflection
-- Optional: Individual check-ins with coordinator
+**12:30-14:00 - Almuerzo y descanso**
+- Comida centrada en la nutrición
+- Momento tranquilo para la reflexión
+- Opcional: Check-in individual con coordinador
 
-**14:00-17:00 - Practice Session: Terrain Adaptation**
+**14:00-17:00 - Sesión práctica: Adaptación del terreno**
 
-**Goal:** Build adaptability and mental flexibility
+**Objetivo:** Desarrollar adaptabilidad y flexibilidad mental.
 
-**Setup:**
-- Rotate through 3-4 different terrains/pistes
-- 45 minutes per terrain
-- Focus on mental adaptation, not just technical
+**Configuración:**
+- Gira a través de 3-4 terrenos/pistas diferentes
+- 45 minutos por terreno
+- Centrarse en la adaptación mental, no sólo en la técnica
 
-**Rotation Structure:**
+**Estructura de rotación:**
 
-| Terrain | Mental Focus | Practice |
+| Terreno | Enfoque mental | Práctica |
 |---------|--------------|----------|
-| **Terrain 1: Soft/Sand** | Acceptance of uncertainty | "The donnée - accept what is" |
-| **Terrain 2: Hard/Gravel** | Precision under pressure | "Trust your technique" |
-| **Terrain 3: Uneven** | Emotional regulation | "Stay calm when it's unfair" |
-| **Terrain 4: Competition** | Flow state access | "Find the zone" |
+| **Terreno 1: Blando/Arena** | Aceptación de la incertidumbre | &quot;La donación - aceptar lo que es&quot; |
+| **Terreno 2: Duro/Grava** | Precisión bajo presión | &quot;Confía en tu técnica&quot; |
+| **Terreno 3: Desigual** | Regulación emocional | &quot;Mantén la calma cuando sea injusto&quot; |
+| **Terreno 4: Competición** | Acceso al estado de flujo | &quot;Encuentra la zona&quot; |
 
-**Facilitation:**
-- Technical coach provides feedback on technique
-- MPC asks: "What's happening in your mind right now?"
-- Players journal between rotations
+**Facilitación:**
+- El entrenador técnico proporciona retroalimentación sobre la técnica.
+- MPC pregunta: &quot;¿Qué está pasando en tu mente ahora mismo?&quot;
+- Diario de jugadores entre rotaciones
 
-**17:00-18:00 - Break & Reflection**
-- Individual journaling
-- "What did you learn about yourself today?"
-- "What's one thing you'll do differently tomorrow?"
+**17:00-18:00 - Descanso y reflexión**
+- Diario individual
+- ¿Qué aprendiste sobre ti hoy?
+- &quot;¿Qué cosa harás diferente mañana?&quot;
 
-**18:00-19:00 - Dinner**
+**18:00-19:00 - Cena**
 
-**19:00-21:00 - Evening Theory: Deep Vulnerability**
+**19:00-21:00 - Teoría de la tarde: Vulnerabilidad profunda**
 
-**Activity 1: Reframing the Inner Critic (45 min)**
+**Actividad 1: Reformulando al crítico interno (45 min)**
 
-See [Workshop guide](./workshop) for full protocol:
-1. Identify the exact Critic phrase
-2. Reframe as Inner Coach
-3. Partner practice
+Consulte la [Guía del taller](./workshop) para ver el protocolo completo:
+1. Identificar la frase crítica exacta
+2. Reencuadre como entrenador interno
+3. Práctica de socios
 
-**Activity 2: Competition Preparation (45 min)**
+**Actividad 2: Preparación para la competición (45 min)**
 
-Tomorrow is competition day. Prepare mentally:
+Mañana es día de competición. Prepárense mentalmente:
 
-1. **Visualization (15 min)**
-   - Close eyes
-   - Imagine perfect shot
-   - Feel the confidence
-   - Notice the calm
+1. **Visualización (15 min)**
+   - Cierra los ojos
+   - Imagina la toma perfecta
+   - Siente la confianza
+   - Observa la calma
 
-2. **Team Protocols (20 min)**
-   - Create signals for support
-   - "I need a reset" = touch boules
-   - "I need encouragement" = fist bump
-   - "I need space" = step back
+2. **Protocolos de equipo (20 min)**
+   - Crear señales de apoyo
+   - &quot;Necesito un reinicio&quot; = tocar la petanca
+   - &quot;Necesito ánimo&quot; = chocar los puños
+   - &quot;Necesito espacio&quot; = dar un paso atrás
 
-3. **Set Intentions (10 min)**
-   - "Tomorrow, I will focus on..."
-   - "My goal is not to win, but to..."
-   - "I will practice..."
+3. **Establecer intenciones (10 min)**
+   - &quot;Mañana me centraré en...&quot;
+   - &quot;Mi objetivo no es ganar, sino...&quot;
+   - &quot;Voy a practicar...&quot;
 
-**Check-Out (30 min)**
-- Share one fear about tomorrow
-- Share one intention
-- Group support
+**Salida (30 min)**
+- Comparte un miedo sobre el mañana
+- Compartir una intención
+- Apoyo grupal
 
-**21:00 - Free Time**
-- Early to bed (competition tomorrow!)
-- Quiet reflection
+**21:00 - Tiempo libre**
+- A la cama temprano (¡mañana hay competición!)
+- Reflexión tranquila
 
-### Sunday (Competition Day)
+### Domingo (Día de la competición)
 
-**08:00-09:00 - Breakfast & Mental Preparation**
-- Light breakfast (see [Nutrition guide](./education/nutrition/))
-- 15-minute mindfulness practice
-- Team huddles
+**08:00-09:00 - Desayuno y preparación mental**
+- Desayuno ligero (ver [Guía nutricional](./educacion/nutricion/))
+- Práctica de atención plena de 15 minutos
+- reuniones de equipo
 
-**09:00-09:30 - Competition Briefing**
+**09:00-09:30 - Reunión informativa sobre la competencia**
 
-**Format:** Round-robin tournament
-- Teams of 3
-- Play to 13 points
-- Everyone plays everyone
-- Focus on PROCESS, not outcome
+**Formato:** Torneo todos contra todos
+- Equipos de 3
+- Jugar hasta 13 puntos
+- Todos juegan contra todos
+- Centrarse en el PROCESO, no en el resultado
 
-**The Twist: Mental Performance Scoring**
+**El giro: Puntuación del rendimiento mental**
 
-::: tip Dual Scoring System
-**Traditional:** Points won
-**Mental Performance:** Scored by MPC
+::: tip Sistema de puntuación dual
+**Tradicional:** Puntos ganados
+**Rendimiento mental:** Calificado por MPC
 
-Mental Performance Points (0-5 per game):
-- Used User Manual tools
-- Supported teammates effectively
-- Managed inner critic
-- Stayed present (not dwelling on past shots)
-- Demonstrated psychological safety
+Puntos de rendimiento mental (0-5 por juego):
+- Herramientas del Manual de Usuario Usadas
+- Apoyó a sus compañeros de equipo de manera efectiva
+- Crítico interno gestionado
+- Permanecer presente (sin detenerse en tomas pasadas)
+- Seguridad psicológica demostrada
 
-**Winner:** Best combined score (traditional + mental)
+**Ganador:** Mejor puntuación combinada (tradicional + mental)
 :::
 
-**09:30-13:00 - Morning Competition**
-- Round-robin games
-- MPC observes and scores
-- Technical coach provides brief feedback between games
-- Hydration and snack breaks
+**09:30-13:00 - Competición matutina**
+- Juegos de todos contra todos
+- El MPC observa y califica
+- El entrenador técnico proporciona una breve retroalimentación entre juegos.
+- Pausas para hidratarse y tomar refrigerios
 
-**13:00-14:00 - Lunch**
-- Nutrition-focused
-- Informal reflection
-- Rest
+**13:00-14:00 - Almuerzo**
+- Centrado en la nutrición
+- Reflexión informal
+- Descansar
 
-**14:00-17:00 - Afternoon Competition**
-- Continue round-robin
-- Semi-finals and finals
-- Increasing pressure
-- Apply morning learnings
+**14:00-17:00 - Competición de la tarde**
+- Continuar con el sistema round-robin
+- Semifinales y finales
+- Aumento de la presión
+- Aplicar los aprendizajes de la mañana
 
-**17:00-17:30 - Awards & Recognition**
+**17:00-17:30 - Premios y reconocimientos**
 
-**Categories:**
-- Traditional winner
-- Mental performance winner
-- Most improved
-- Best teammate
-- Courage award (most vulnerable)
+**Categorías:**
+- Ganador tradicional
+- Ganador en rendimiento mental
+- Más mejorado
+- Mejor compañero de equipo
+- Premio al coraje (los más vulnerables)
 
-**17:30-19:00 - Final Reflection Session**
+**17:30-19:00 - Sesión de reflexión final**
 
-**Critical:** This is where learning is cemented.
+**Crítico:** Aquí es donde se consolida el aprendizaje.
 
-**Structure:**
+**Estructura:**
 
-**1. Individual Reflection (15 min)**
-Write in journal:
-- What did you learn about yourself this weekend?
-- What surprised you?
-- What will you do differently?
-- What are you taking home?
+**1. Reflexión individual (15 min)**
+Escribe en el diario:
+- ¿Qué aprendiste sobre ti mismo este fin de semana?
+- ¿Qué te sorprendió?
+- ¿Qué harás diferente?
+- ¿Qué te llevas a casa?
 
-**2. Small Group Sharing (30 min)**
-Groups of 4-5:
-- Share key insights
-- What resonated most?
-- What was hardest?
-- What was most valuable?
+**2. Intercambio en grupos pequeños (30 min)**
+Grupos de 4-5:
+- Compartir información clave
+- ¿Qué fue lo que más te resonó?
+- ¿Qué fue lo más difícil?
+- ¿Qué fue lo más valioso?
 
-**3. Full Group Integration (30 min)**
-Circle up:
-- Each person shares ONE key takeaway
-- MPC validates and connects themes
-- Discuss: "How will you apply this?"
+**3. Integración grupal completa (30 min)**
+Hacer un círculo:
+- Cada persona comparte UNA conclusión clave
+- MPC valida y conecta temas
+- Discutir: &quot;¿Cómo aplicarás esto?&quot;
 
-**4. Commitments (15 min)**
-- Each person states one commitment
-- "In my next competition, I will..."
-- Group witnesses and supports
+**4. Compromisos (15 min)**
+- Cada persona declara un compromiso
+- &quot;En mi próxima competición, voy a...&quot;
+- El grupo es testigo y apoya
 
-**5. Closing (15 min)**
-- Thank participants for courage
-- Remind of confidentiality
-- Exchange contacts
-- Plan follow-up (optional online session)
+**5. Cierre (15 min)**
+- Agradecer a los participantes por su valentía
+- Recordar la confidencialidad
+- Intercambiar contactos
+- Seguimiento del plan (sesión online opcional)
 
-**19:00 - Dinner & Departure**
+**19:00 - Cena y salida**
 
 
-## Facilitation Tips
+## Consejos de facilitación
 
-### Balancing Theory and Practice
+### Equilibrando la teoría y la práctica
 
-::: warning Don't Overload Theory
-**The mistake:** Too much talking, not enough doing
+::: warning No sobrecargues la teoría
+**El error:** Hablar demasiado y hacer poco
 
-**The balance:**
-- Theory creates awareness
-- Practice builds skill
-- Competition tests integration
-- Reflection cements learning
+**El equilibrio:**
+- La teoría crea conciencia
+- La práctica desarrolla habilidades
+- Integración de pruebas de competencia
+- La reflexión consolida el aprendizaje
 
-**Rule of thumb:** 30% theory, 40% practice, 20% competition, 10% reflection
+**Regla general:** 30% teoría, 40% práctica, 20% competencia, 10% reflexión
 :::
 
-### Managing Group Dynamics
+### Gestión de la dinámica de grupo
 
-**The Competitive Alpha:**
-- Wants to win at all costs
-- Resists vulnerability
-- **Strategy:** Channel competitiveness into mental performance scoring
+**El Alfa Competitivo:**
+- Quiere ganar a toda costa
+- Resiste la vulnerabilidad
+- **Estrategia:** Canalizar la competitividad hacia la puntuación del rendimiento mental
 
-**The Quiet Observer:**
-- Takes it all in, doesn't share
-- **Strategy:** Create low-stakes entry points, validate observation as participation
+**El observador silencioso:**
+- Lo absorbe todo, no lo comparte
+- **Estrategia:** Crear puntos de entrada de bajo riesgo, validar la observación como participación
 
-**The Skeptic:**
-- "This touchy-feely stuff doesn't work"
-- **Strategy:** Verbal Aikido - align and pivot (see [Workshop guide](./workshop))
+**El escéptico:**
+- &quot;Esto de ser tan sensiblero no funciona&quot;
+- **Estrategia:** Aikido verbal: alinear y pivotar (ver [Guía del taller](./taller))
 
-**The Over-Sharer:**
-- Dominates discussion
-- **Strategy:** "Thank you, let's hear from others"
+**El que comparte demasiado:**
+- Domina la discusión
+- **Estrategia:** &quot;Gracias, escuchemos a los demás&quot;
 
-### Handling Emotional Moments
+### Cómo manejar momentos emocionales
 
-**Someone cries during Fear in a Hat:**
-- ✅ Normalize: "Tears are courage, not weakness"
-- ✅ Offer tissue, don't rush
-- ✅ Ask: "What do you need right now?"
-- ❌ Don't: "It's okay, don't cry"
+**Alguien llora durante Miedo en un sombrero:**
+- ✅ Normalizar: “Las lágrimas son coraje, no debilidad”
+- ✅ Ofrece pañuelos, no te apresures
+- ✅ Pregunta: &quot;¿Qué necesitas ahora mismo?&quot;
+- ❌ No: &quot;Está bien, no llores&quot;
 
-**Conflict between players:**
-- ✅ Pause and address
-- ✅ "What's happening right now?"
-- ✅ Use as learning moment
-- ❌ Don't: Ignore or minimize
+**Conflicto entre jugadores:**
+- ✅ Pausa y dirección
+- ✅ &quot;¿Qué está pasando ahora mismo?&quot;
+- ✅ Úselo como momento de aprendizaje
+- ❌ No: Ignorar o minimizar
 
-**Someone shuts down:**
-- ✅ Check in privately during break
-- ✅ "I noticed you went quiet. What's up?"
-- ✅ Offer options: participate differently, take a break
-- ❌ Don't: Call out publicly
+**Alguien se apaga:**
+- ✅ Regístrese de forma privada durante el descanso
+- ✅ &quot;Me di cuenta de que te quedaste en silencio. ¿Qué pasa?&quot;
+- ✅ Ofrece opciones: participa de manera diferente, tómate un descanso
+- ❌ No: Llamar públicamente
 
-## Post-Camp Follow-Up
+## Seguimiento posterior al campamento
 
-### Immediate (24-48 hours)
+### Inmediato (24-48 horas)
 
-**Send to all participants:**
-- Thank you message
-- Key takeaways summary
-- Photos from weekend
-- Contact list (with permission)
-- Link to resources on website
+**Enviar a todos los participantes:**
+- mensaje de agradecimiento
+- Resumen de las conclusiones clave
+- Fotos del fin de semana
+- Lista de contactos (con permiso)
+- Enlace a recursos en el sitio web
 
-**Individual check-ins:**
-- Text anyone who shared heavily
-- "How are you feeling about the weekend?"
-- Address any vulnerability hangover
+**Check-in individual:**
+- Envía un mensaje de texto a cualquiera que haya compartido mucho.
+- ¿Cómo te sientes acerca del fin de semana?
+- Abordar cualquier resaca de vulnerabilidad
 
-### Short-term (2 weeks)
+### Corto plazo (2 semanas)
 
-**Optional online session (60-90 min):**
-- How have you applied learnings?
-- What's working? What's challenging?
-- Peer support and problem-solving
-- Reinforce commitments
+**Sesión online opcional (60-90 min):**
+- ¿Cómo has aplicado lo aprendido?
+- ¿Qué funciona? ¿Qué supone un reto?
+- Apoyo entre pares y resolución de problemas
+- Reforzar los compromisos
 
-### Long-term (1-3 months)
+### A largo plazo (1-3 meses)
 
-**Survey participants:**
-- What's different in your game?
-- What tools are you still using?
-- What would make the next camp better?
-- Would you recommend to others?
+**Participantes de la encuesta:**
+- ¿Qué es diferente en tu juego?
+- ¿Qué herramientas sigues utilizando?
+- ¿Qué haría que el próximo campamento fuera mejor?
+- ¿Lo recomendarías a otros?
 
-**Track impact:**
-- Competition results
-- Self-reported confidence
-- Team dynamics
-- Continued engagement
+**Impacto en la pista:**
+- Resultados de la competición
+- Confianza autoinformada
+- Dinámica de equipo
+- Compromiso continuo
 
-## Adapting for Different Group Sizes
+## Adaptación para diferentes tamaños de grupos
 
-### Small Camp (10-12 players)
+### Campamento pequeño (10-12 jugadores)
 
-**Advantages:**
-- Deeper sharing
-- More individual attention
-- Stronger bonds
+**Ventajas:**
+- Compartir más profundamente
+- Más atención individualizada
+- Lazos más fuertes
 
-**Adjustments:**
-- Single group for all theory
-- More time per person in activities
-- Intimate competition format
+**Ajustes:**
+- Un solo grupo para toda la teoría
+- Más tiempo por persona en actividades
+- Formato de competición íntima
 
-### Large Camp (16-20 players)
+### Campamento grande (16-20 jugadores)
 
-**Advantages:**
-- Diverse perspectives
-- More competition variety
-- Economies of scale
+**Ventajas:**
+- Perspectivas diversas
+- Más variedad de competencia
+- Economías de escala
 
-**Adjustments:**
-- Split into 2 groups for some theory sessions
-- Need 2 MPC/facilitators
-- Larger tournament bracket
-- More structured rotations
+**Ajustes:**
+- Dividirse en 2 grupos para algunas sesiones teóricas.
+- Se necesitan 2 MPC/facilitadores
+- Cuadro de torneo más grande
+- Rotaciones más estructuradas
 
-## Budget Considerations
+## Consideraciones presupuestarias
 
-### Revenue
+### Ganancia
 
-| Item | Price per Person | 20 People | 10 People |
+| Artículo | Precio por persona | 20 personas | 10 personas |
 |------|------------------|-----------|-----------|
-| **Registration** | €150-250 | €3,000-5,000 | €1,500-2,500 |
+| **Registro** | 150-250 € | 3.000-5.000 € | 1.500-2.500 € |
 
-### Expenses
+### Gastos
 
-| Category | Cost | Notes |
+| Categoría | Costo | Notas |
 |----------|------|-------|
-| **Facility rental** | €500-1,000 | Weekend rate |
-| **Accommodation** | €40-60/person/night | Shared rooms |
-| **Meals** | €30-40/person/day | 6 meals |
-| **Staff** | €500-1,000 | MPC + coaches |
-| **Materials** | €100-200 | Worksheets, supplies |
-| **Prizes** | €100-200 | Recognition items |
+| **Alquiler de instalaciones** | 500-1.000 € | Tarifa de fin de semana |
+| **Alojamiento** | 40-60 €/persona/noche | Habitaciones compartidas |
+| **Comidas** | 30-40 €/persona/día | 6 comidas |
+| **Personal** | 500-1.000 € | MPC + autocares |
+| **Materiales** | 100-200 € | Hojas de trabajo, materiales |
+| **Premios** | 100-200 € | Elementos de reconocimiento |
 
-**Total per person:** €120-180
-**Margin:** €30-70/person (or break-even for community building)
+**Total por persona:** 120-180 €
+**Margen:** 30-70 €/persona (o punto de equilibrio para la creación de comunidad)
 
-## Success Metrics
+## Métricas de éxito
 
-### Immediate Indicators
+### Indicadores inmediatos
 
-- [ ] Psychological safety score (1-10 average >7)
-- [ ] Participation rate (>80% actively sharing)
-- [ ] Completion rate (>90% stay full weekend)
-- [ ] Satisfaction score (1-10 average >8)
+- [ ] Puntuación de seguridad psicológica (promedio 1-10 &gt;7)
+- [ ] Tasa de participación (&gt;80% compartiendo activamente)
+- [ ] Tasa de finalización (&gt;90% estancia fin de semana completo)
+- [ ] Puntuación de satisfacción (promedio 1-10 &gt;8)
 
-### Long-term Indicators
+### Indicadores a largo plazo
 
-- [ ] Behavior change (using tools in competition)
-- [ ] Performance improvement (self-reported)
-- [ ] Community building (staying in touch)
-- [ ] Referrals (recommending to others)
+- [ ] Cambio de comportamiento (utilización de herramientas en la competición)
+- [ ] Mejora del rendimiento (autoinformada)
+- [ ] Construcción de comunidad (mantenerse en contacto)
+- [ ] Referencias (recomendar a otros)
 
-## Common Mistakes to Avoid
+## Errores comunes que se deben evitar
 
-::: danger Pitfalls
-**1. Too much content**
-- Trying to cover everything
-- **Fix:** Focus on depth, not breadth
+::: danger Trampas
+**1. Demasiado contenido**
+- Tratando de cubrirlo todo
+- **Solución:** Concéntrese en la profundidad, no en la amplitud
 
-**2. Skipping reflection**
-- Rushing to next activity
-- **Fix:** Build in processing time
+**2. Saltarse la reflexión**
+- Corriendo hacia la siguiente actividad
+- **Solución:** Tiempo de procesamiento incorporado
 
-**3. Ignoring resistance**
-- Pushing through skepticism
-- **Fix:** Address it directly with Verbal Aikido
+**3. Ignorar la resistencia**
+- Superando el escepticismo
+- **Solución:** Abordarlo directamente con Aikido Verbal
 
-**4. Technical coaching during theory**
-- Mixing roles
-- **Fix:** Clear boundaries between MPC and technical coach
+**4. Coaching técnico durante la teoría**
+- Mezcla de roles
+- **Solución:** Límites claros entre el MPC y el entrenador técnico
 
-**5. No follow-up**
-- Weekend ends, learning stops
-- **Fix:** Plan post-camp touchpoints
+**5. Sin seguimiento**
+- El fin de semana termina, el aprendizaje se detiene
+- **Solución:** Planificar puntos de contacto posteriores al campamento
 :::
 
-## Resources
+## Recursos
 
-### From This Site
+### Desde este sitio
 
-- [Workshop Guide](./workshop) - Detailed facilitation protocols
-- [Training Session Guide](./training-session) - For ongoing practice
-- [Nutrition](./education/nutrition/) - Competition-day protocols
-- [Mental Strength](./education/mental-game/mental-strength/) - Inner game concepts
-- [Mindfulness](./education/mental-game/mindfulness/) - Presence techniques
-- [Tactics](./education/technique/tactics/) - Strategic thinking
+- [Guía del taller](./taller) - Protocolos detallados de facilitación
+- [Guía de sesiones de entrenamiento](./training-session) - Para la práctica continua
+- [Nutrición](./educacion/nutricion/) - Protocolos para el día de competición
+- [Fuerza Mental](./educacion/juego-mental/fuerza-mental/) - Conceptos del juego interior
+- [Mindfulness](./educacion/juego-mental/mindfulness/) - Técnicas de presencia
+- [Tácticas](./educación/técnica/tácticas/) - Pensamiento estratégico
 
-### Recommended Reading
+### Lectura recomendada
 
-- *The Inner Game of Tennis* by Timothy Gallwey
-- *Mindset* by Carol Dweck
-- *The Fearless Organization* by Amy Edmondson
+- *El juego interior del tenis* de Timothy Gallwey
+- *Mentalidad* de Carol Dweck
+- *La organización intrépida* de Amy Edmondson
 
 

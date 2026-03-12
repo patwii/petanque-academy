@@ -153,8 +153,8 @@ graph LR
 
 ## In questa sezione
 
-- **[Gestire la pressione](/it/education/mental-game/mental-strength/gestire-la-pressione)** - Tecniche per situazioni ad alto rischio
-- **[Routine pre-tiro](/it/education/mental-game/mental-strength/routine-pre-tiro)** - Costruisci il tuo trigger di prestazione
+- **[Gestire la pressione](/it/educazione/gioco-mentale/forza-mentale/gestire-la-pressione)** - Tecniche per situazioni ad alto rischio
+- **[Routine pre-tiro](/it/educazione/gioco-mentale/forza-mentale/routine-pre-tiro)** - Costruisci il tuo trigger di prestazione
 
 ## Riepilogo: Regole della forza mentale
 

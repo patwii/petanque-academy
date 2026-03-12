@@ -1,223 +1,223 @@
-# Training Diary Template
+# Mall för träningsdagbok
 
 
-## How to Use This Template
+## Så här använder du den här mallen
 
-A training diary is your personal record of practice, progress, and insights. It helps you track what works, identify patterns, and accelerate improvement. Use the templates below directly on this page, or copy them to your preferred digital tool.
+En träningsdagbok är din personliga dokumentation av övning, framsteg och insikter. Den hjälper dig att spåra vad som fungerar, identifiera mönster och påskynda förbättringar. Använd mallarna nedan direkt på den här sidan eller kopiera dem till ditt föredragna digitala verktyg.
 
-::: tip The Power of Reflection
-**What gets measured gets improved. What gets reflected on gets mastered.** A training diary transforms random practice into deliberate development.
+::: tip Reflektionens kraft
+**Det som mäts förbättras. Det som reflekteras över bemästras.** En träningsdagbok omvandlar slumpmässig övning till avsiktlig utveckling.
 :::
 
-## Quick Access
+## Snabbåtkomst
 
-| Template | Purpose | Access |
+| Mall | Ändamål | Tillträde |
 |----------|---------|--------|
-| **Daily Training Entry** | Record each practice session | [View Template](#daily-training-entry-template) |
-| **Competition Diary** | Track tournament performance | [View Template](#competition-diary-template) |
-| **Weekly Summary** | Reflect on the week's training | [View Template](#weekly-summary-template) |
-| **Monthly Review** | Analyze patterns and progress | [View Template](#monthly-review-template) |
+| **Daglig träningsinträde** | Spela in varje övningspass | [Visa mall](#mall-för-daglig-utbildningsinträde) |
+| **Tävlingsdagbok** | Följ turneringsresultat | [Visa mall](#mall-för-tävlingsdagbok) |
+| **Veckovis sammanfattning** | Reflektera över veckans träning | [Visa mall](#mall för veckosammanfattning) |
+| **Månadsöversikt** | Analysera mönster och framsteg | [Visa mall](#mall-för-månadsöversikt) |
 
-::: tip Digital-First Approach
-All templates are available on this page for easy access on any device. Bookmark this page and use it directly, or copy sections to your preferred note-taking app.
+::: tip Digitalt först-strategi
+Alla mallar finns tillgängliga på den här sidan för enkel åtkomst på alla enheter. Bokmärk den här sidan och använd den direkt, eller kopiera avsnitt till din föredragna anteckningsapp.
 :::
 
-## Daily Training Entry Template
+## Mall för daglig träningsinmatning
 
-### Copy This Section for Each Training Session
-
----
-
-**Date:** ________
-**Time:** ________ to ________
-**Duration:** ________ minutes
-**Location:** ________
-**Terrain:** Hard / Medium / Soft / Mixed
-**Weather:** Sunny / Cloudy / Windy / Rain
-
-### Training Partners
-
--
--
--
-
-### Today's Intention
-
-(What was my main focus for this session?)
+### Kopiera detta avsnitt för varje träningspass
 
 ---
 
-### Technical Practice
+**Datum:** ________
+**Tid:** ________ till ________
+**Längd:** ________ minuter
+**Plats:** ________
+**Terräng:** Hård / Medelsvår / Mjuk / Blandad
+**Väder:** Soligt / Molnigt / Blåsigt / Regn
 
-| Skill Practiced | Reps/Time | Success Rate | Notes |
+### Utbildningspartners
+
+-
+-
+-
+
+### Dagens avsikt
+
+(Vad var mitt huvudfokus under den här sessionen?)
+
+---
+
+### Teknisk praktik
+
+| Övad färdighet | Repetitioner/Tid | Framgångsfrekvens | Anteckningar |
 |----------------|-----------|--------------|-------|
-| **Pointing** | | | |
-| **Shooting** | | | |
-| **Terrain Reading** | | | |
-| **Shot Selection** | | | |
+| **Pekande** |
+| **Skytte** |
+| **Terrängavläsning** |
+| **Val av bilder** |
 
-### What Worked Well?
-
-1.
-2.
-3.
-
-### What Needs Improvement?
+### Vad fungerade bra?
 
 1.
 2.
 3.
 
-### Key Insight
+### Vad behöver förbättras?
 
-(One main learning from today)
+1.
+2.
+3.
 
----
+### Viktig insikt
 
-### Mental Game
-
-**Energy Level (1-10):** _____
-**Focus Quality (1-10):** _____
-**Confidence (1-10):** _____
-
-**Mental Challenges Today:**
-
-**How I Handled Them:**
-
-**Mental Technique Practiced:**
-- [ ] 3-Breath Reset
-- [ ] Inner Coach Reframe
-- [ ] Mindful Awareness
-- [ ] Visualization
-- [ ] Other: ________
+(En viktig lärdom från idag)
 
 ---
 
-### Physical Condition
+### Mentalt spel
 
-**Body Feeling (1-10):** _____
-**Any Pain/Discomfort:** _____
-**Fatigue Level (1-10):** _____
+**Energinivå (1-10):** _____
+**Fokuskvalitet (1–10):** _____
+**Självförtroende (1–10):** _____
 
-**Physical Notes:**
+**Mentala utmaningar idag:**
 
----
+**Hur jag hanterade dem:**
 
-### Tomorrow's Focus
-
-(Based on today, what will I work on next session?)
-
----
-
-## Competition/Match Entry Template
-
-### Copy This Section for Each Competition
+**Övad mental teknik:**
+- [ ] 3-andetagsåterställning
+- [ ] Inre coachens omformulering
+- [ ] Medveten medvetenhet
+- [ ] Visualisering
+- [ ] Annat: ________
 
 ---
 
-**Date:** ________
-**Tournament:** ________
-**Format:** Triples / Doubles / Singles
-**Team:** ________
+### Fysisk kondition
 
-### Pre-Competition
+**Kroppskänsla (1-10):** _____
+**Vilken smärta/obehag:** _____
+**Trötthetsnivå (1–10):** _____
 
-**Sleep Quality (1-10):** _____
-**Nutrition:** _____
-**Mental State (1-10):** _____
-**Physical Warm-up:** Yes / No
-**Mental Warm-up:** Yes / No
+**Fysiska anteckningar:**
 
 ---
 
-### Match Results
+### Morgondagens fokus
 
-| Round | Opponent | Score | Result | Key Moments |
+(Baserat på idag, vad ska jag arbeta med nästa session?)
+
+---
+
+## Mall för tävlings-/matchanmälan
+
+### Kopiera detta avsnitt för varje tävling
+
+---
+
+**Datum:** ________
+**Turnering:** ________
+**Format:** Trippel / Dubbel / Singel
+**Lag:** ________
+
+### Förtävling
+
+**Sömnkvalitet (1–10):** _____
+**Näringsinnehåll:** _____
+**Mentalt tillstånd (1-10):** _____
+**Uppvärmning:** Ja / Nej
+**Mental uppvärmning:** Ja / Nej
+
+---
+
+### Matchresultat
+
+| Runda | Motståndare | Göra | Resultat | Viktiga ögonblick |
 |-------|----------|-------|--------|-------------|
-| **1** | | | W / L | |
-| **2** | | | W / L | |
-| **3** | | | W / L | |
-| **4** | | | W / L | |
+| **1** | V / L |
+| **2** | V / L |
+| **3** | V / L |
+| **4** | V / L |
 
-**Final Placement:** _____
+**Slutplacering:** _____
 
 ---
 
-### Performance Analysis
+### Prestandanalys
 
-**Technical Performance (1-10):** _____
-**Mental Performance (1-10):** _____
-**Tactical Decisions (1-10):** _____
-**Team Communication (1-10):** _____
+**Teknisk prestanda (1-10):** _____
+**Mental prestation (1-10):** _____
+**Taktiska beslut (1-10):** _____
+**Teamkommunikation (1-10):** _____
 
-### What I Did Well
+### Vad jag gjorde bra
 
 1.
 2.
 3.
 
-### What Cost Me Points
+### Vad kostade mig poäng
 
 1.
 2.
 
-## Monthly Summary Template
+## Mall för månatlig sammanfattning
 
-### Copy This Section Each Month
+### Kopiera detta avsnitt varje månad
 
 ---
 
-**Month:** ________
-**Year:** ________
+**Månad:** ________
+**År:** ________
 
-### Monthly Statistics
+### Månadsstatistik
 
-**Total Training Hours:** _____
-**Total Sessions:** _____
-**Competitions Entered:** _____
-**Win Rate:** _____%
+**Totalt antal träningstimmar:** _____
+**Totalt antal sessioner:** _____
+**Deltagna tävlingar:** _____
+**Vinstfrekvens:** _____%
 
-### Technical Progress
+### Tekniska framsteg
 
-| Skill | Start of Month | End of Month | Improvement |
+| Skicklighet | Början av månaden | Slutet av månaden | Förbättring |
 |-------|----------------|--------------|-------------|
-| **Pointing Accuracy** | | | |
-| **Shooting Consistency** | | | |
-| **Terrain Adaptation** | | | |
-| **Shot Selection** | | | |
+| **Pekningsprecision** |
+| **Konsekvens i skytte** |
+| **Terränganpassning** |
+| **Val av bilder** |
 
-### Mental Game Progress
+### Mental spelframsteg
 
-| Area | Start of Month | End of Month | Improvement |
+| Område | Början av månaden | Slutet av månaden | Förbättring |
 |------|----------------|--------------|-------------|
-| **Pressure Management** | | | |
-| **Focus Quality** | | | |
-| **Confidence** | | | |
-| **Inner Coach Usage** | | | |
+| **Tryckhantering** |
+| **Fokuskvalitet** |
+| **Förtroende** |
+| **Användning av inre tränare** |
 
-### Monthly Highlights
+### Månatliga höjdpunkter
 
-**Best Training Session:**
+**Bästa träningspass:**
 
-**Best Competition Performance:**
+**Bästa tävlingsprestanda:**
 
-**Biggest Breakthrough:**
+**Största genombrottet:**
 
-**Most Valuable Learning:**
+**Mest värdefullt lärande:**
 
-### Challenges Overcome
-
-1.
-2.
-3.
-
-### Ongoing Challenges
+### Utmaningar övervunna
 
 1.
 2.
 3.
 
-### Next Month's Priorities
+### Pågående utmaningar
+
+1.
+2.
+3.
+
+### Nästa månads prioriteringar
 
 1.
 2.
@@ -225,384 +225,384 @@ All templates are available on this page for easy access on any device. Bookmark
 
 ---
 
-## Specific Practice Tracking Templates
+## Specifika mallar för övningsspårning
 
-### Pointing Practice Log
+### Logg för pekövning
 
-| Date | Distance | Terrain | Attempts | Within 10cm | Within 20cm | Within 50cm | Notes |
+| Datum | Avstånd | Terräng | Försök | Inom 10 cm | Inom 20 cm | Inom 50 cm | Anteckningar |
 |------|----------|---------|----------|-------------|-------------|-------------|-------|
 | | | | | | | | |
 | | | | | | | | |
 | | | | | | | | |
 
-**Instructions:**
-- Track pointing accuracy at different distances (6m, 7m, 8m, 9m, 10m)
-- Record terrain type (hard, medium, soft)
-- Count successes in each distance range
-- Calculate success rate over time
+**Instruktioner:**
+- Spårpekningens noggrannhet på olika avstånd (6m, 7m, 8m, 9m, 10m)
+- Registrera terrängtyp (hård, medelhård, mjuk)
+- Räkna framgångar inom varje distansintervall
+- Beräkna framgångsgraden över tid
 
 ---
 
-### Shooting Practice Log
+### Skjutövningslogg
 
-| Date | Target Type | Distance | Attempts | Direct Hits | Carreau | Displacement | Notes |
+| Datum | Måltyp | Avstånd | Försök | Direkta träffar | Carreau | Förflyttning | Anteckningar |
 |------|-------------|----------|----------|-------------|---------|--------------|-------|
 | | | | | | | | |
 | | | | | | | | |
 | | | | | | | | |
 
-**Target Types:**
-- Static ball
-- Ball against cochonnet
-- Ball in cluster
-- Moving target (advanced)
+**Måltyper:**
+- Statisk boll
+- Bollen mot cochonnet
+- Bollen i kluster
+- Rörligt mål (avancerat)
 
 ---
 
-### Mental Training Log
+### Mental träningslogg
 
-| Date | Technique Practiced | Duration | Situation | Effectiveness (1-10) | Notes |
+| Datum | Teknik som övats | Varaktighet | Situation | Effektivitet (1-10) | Anteckningar |
 |------|---------------------|----------|-----------|---------------------|-------|
 | | | | | | |
 | | | | | | |
 | | | | | | |
 
-**Techniques:**
-- 3-Breath Reset
-- Inner Coach Reframe
-- Visualization
-- Mindfulness Practice
-- Pre-shot Routine
-- Pressure Simulation
+**Tekniker:**
+- 3-andetagsåterställning
+- Inre coachens omformulering
+- Visualisering
+- Mindfulness-övning
+- Rutin före skott
+- Trycksimulering
 
 ---
 
-## Quick Daily Entry (Simplified)
+## Snabb daglig inmatning (förenklad)
 
-### For Busy Days - Copy This Minimal Template
-
----
-
-**Date:** ________
-
-**Trained:** Yes / No
-**Duration:** _____ min
-**Focus:** ________
-**Energy (1-10):** _____
-**Quality (1-10):** _____
-
-**One Win:**
-
-**One Learning:**
-
-**Tomorrow's Focus:**
+### För hektiska dagar - Kopiera denna minimalistiska mall
 
 ---
 
-## Reflection Prompts
+**Datum:** ________
 
-Use these prompts to deepen your diary entries:
+**Utbildad:** Ja / Nej
+**Längd:** _____ min
+**Fokus:** ________
+**Energi (1-10):** _____
+**Kvalitet (1–10):** _____
 
-### After Training
+**En vinst:**
 
-1. What surprised me today?
-2. When did I feel most confident?
-3. When did I struggle? Why?
-4. What would I do differently?
-5. What am I grateful for from this session?
+**En lärdom:**
 
-### After Competition
-
-1. What did I learn about myself today?
-2. How did I handle pressure?
-3. What would my Inner Coach say about my performance?
-4. What will I practice differently based on today?
-5. What am I proud of, regardless of the result?
-
-### Weekly Reflection
-
-1. What pattern am I noticing in my practice?
-2. Am I practicing what I struggle with in competition?
-3. Is my mental game improving?
-4. Am I enjoying the process?
-5. What needs to change next week?
-
-### Monthly Reflection
-
-1. Am I closer to my goals than last month?
-2. What's working in my training approach?
-3. What's not working?
-4. Do I need to adjust my goals?
-5. What do I want to remember from this month?
+**Morgondagens fokus:**
 
 ---
 
-## Tips for Effective Diary Keeping
+## Reflektionsuppmaningar
 
-### 1. Write Immediately After Training
+Använd dessa uppmaningar för att fördjupa dina dagboksanteckningar:
 
-**Why:** Details are fresh, emotions are real, insights are clear
+### Efter träning
 
-**How:** Keep diary in your bag, set 10 minutes aside after each session
+1. Vad överraskade mig idag?
+2. När kände jag mig som mest självsäker?
+3. När hade jag det svårt? Varför?
+4. Vad skulle jag göra annorlunda?
+5. Vad är jag tacksam för från den här sessionen?
 
-### 2. Be Honest, Not Perfect
+### Efter tävlingen
 
-**Don't:** Write what you think you should write
-**Do:** Write what actually happened and how you really felt
+1. Vad lärde jag mig om mig själv idag?
+2. Hur hanterade jag pressen?
+3. Vad skulle min inre coach säga om min prestation?
+4. Vad kommer jag att öva annorlunda baserat på idag?
+5. Vad är jag stolt över, oavsett resultatet?
 
-### 3. Focus on Process, Not Just Results
+### Veckoreflektion
 
-**Don't:** "Missed 7 out of 10 shots - terrible"
-**Do:** "Missed 7 out of 10 shots - noticed I was rushing my routine, will slow down next time"
+1. Vilket mönster ser jag i min praktik?
+2. Tränar jag på det jag kämpar med i tävlingar?
+3. Bättras mitt mentala spel?
+4. Njuter jag av processen?
+5. Vad behöver ändras nästa vecka?
 
-### 4. Look for Patterns
+### Månadsreflektion
 
-Review your diary weekly to spot:
-- Recurring technical issues
-- Mental game patterns
-- Energy/performance correlations
-- What conditions you perform best in
-
-### 5. Celebrate Progress
-
-**Every month:** Read entries from 3 months ago
-**Notice:** How much you've improved
-**Acknowledge:** The work you've put in
-
----
-
-## Digital vs. Paper Diary
-
-### Digital (Google Docs/Sheets, Notion, Apps)
-
-**Pros:**
-- Easy to search past entries
-- Can add photos/videos
-- Automatic date stamps
-- Can share with coach
-- Always accessible on phone
-
-**Cons:**
-- Screen time
-- Can feel impersonal
-- Distractions from notifications
-
-**Best For:** Detailed statistics tracking, long-term pattern analysis
-
-### Paper (Notebook, Printed Templates)
-
-**Pros:**
-- Tactile, personal connection
-- No distractions
-- Easy to sketch diagrams
-- Satisfying ritual
-- Better for reflection
-
-**Cons:**
-- Can lose notebook
-- Hard to search old entries
-- Can't easily share
-
-**Best For:** Daily reflections, immediate post-training notes
-
-**Recommendation:** Hybrid approach - paper for daily entries, digital for monthly summaries and statistics
+1. Är jag närmare mina mål än förra månaden?
+2. Vad fungerar i mitt träningsupplägg?
+3. Vad fungerar inte?
+4. Behöver jag justera mina mål?
+5. Vad vill jag minnas från den här månaden?
 
 ---
 
-## Sample Entries
+## Tips för effektiv dagboksföring
 
-### Example: Good Training Entry
+### 1. Skriv omedelbart efter träning
 
-::: details Click to See Example
-**Date:** March 15, 2024
-**Duration:** 90 minutes
-**Location:** Club terrain
-**Terrain:** Hard
-**Weather:** Sunny, light wind
+**Varför:** Detaljerna är färska, känslorna är verkliga, insikterna är tydliga
 
-**Today's Intention:** Improve pointing accuracy at 8m
+**Hur:** Förvara dagboken i din väska, avsätt 10 minuter efter varje session
 
-**Technical Practice:**
-- Pointing at 8m: 30 attempts, 18 within 20cm (60%)
-- Noticed I'm more accurate when I take 3 breaths before throwing
-- Struggled when wind picked up - need to adjust for wind better
+### 2. Var ärlig, inte perfekt
 
-**What Worked Well:**
-1. Pre-shot routine was consistent
-2. Stayed calm after misses
-3. Adjusted grip for hard terrain
+**Gör inte:** Skriv vad du tycker att du borde skriva
+**Gör:** Skriv vad som faktiskt hände och hur du verkligen kände dig
 
-**Key Insight:** My accuracy drops when I rush. Slowing down by 2 seconds improves success rate significantly.
+### 3. Fokusera på process, inte bara resultat
 
-**Mental Game:**
-- Energy: 8/10
-- Focus: 7/10
-- Used Inner Coach after 3 bad throws - helped me reset
+**Gör inte:** &quot;Missade 7 av 10 skott - hemskt&quot;
+**Gör:** &quot;Missade 7 av 10 skott - märkte att jag rusade iväg med min rutin, ska sakta ner nästa gång&quot;
 
-**Tomorrow's Focus:** Practice pointing in windy conditions, maintain slow routine
+### 4. Leta efter mönster
+
+Gå igenom din dagbok varje vecka för att upptäcka:
+- Återkommande tekniska problem
+- Mentala spelmönster
+- Energi/prestanda-korrelationer
+- Vilka förhållanden presterar du bäst under
+
+### 5. Fira framsteg
+
+**Varje månad:** Läs inlägg från 3 månader sedan
+**Meddelande:** Hur mycket du har förbättrats
+**Bekräfta:** Det arbete du har lagt ner
+
+---
+
+## Digital kontra pappersdagbok
+
+### Digitalt (Google Dokument/Kalkylark, Notion, Appar)
+
+**Fördelar:**
+- Enkelt att söka efter tidigare inlägg
+- Kan lägga till foton/videor
+- Automatiska datumstämplar
+- Kan dela med tränaren
+- Alltid tillgänglig på telefon
+
+**Nackdelar:**
+- Skärmtid
+- Kan kännas opersonligt
+- Distraktioner från aviseringar
+
+**Bäst för:** Detaljerad statistikspårning, långsiktig mönsteranalys
+
+### Papper (anteckningsblock, utskrivna mallar)
+
+**Fördelar:**
+- Taktil, personlig kontakt
+- Inga distraktioner
+- Lätt att skissa diagram
+- Tillfredsställande ritual
+- Bättre för reflektion
+
+**Nackdelar:**
+- Kan tappa bort anteckningsboken
+- Svårt att söka efter gamla inlägg
+- Kan inte dela lätt
+
+**Bäst för:** Dagliga reflektioner, anteckningar direkt efter träning
+
+**Rekommendation:** Hybridmetod – papper för dagliga poster, digital för månatliga sammanfattningar och statistik
+
+---
+
+## Exempelinlägg
+
+### Exempel: Bra utbildningsinträde
+
+::: details Klicka för att se exempel
+**Datum:** 15 mars 2024
+**Längd:** 90 minuter
+**Plats:** Klubbannerräng
+**Terräng:** Svår
+**Väder:** Soligt, lätt vind
+
+**Dagens avsikt:** Förbättra peknoggrannheten på 8 m
+
+**Teknisk praktik:**
+- Pekar på 8m: 30 försök, 18 inom 20cm (60%)
+- Märkte att jag är mer exakt när jag tar 3 andetag innan jag kastar
+- Kämpade när vinden tilltog - behöver anpassa sig bättre efter vinden
+
+**Vad som fungerade bra:**
+1. Rutinen före sprutan var konsekvent
+2. Behöll lugnet efter missarna
+3. Justerat grepp för hård terräng
+
+**Viktig insikt:** Min noggrannhet minskar när jag rusar. Att sakta ner med 2 sekunder förbättrar framgångsgraden avsevärt.
+
+**Mentalt spel:**
+- Energi: 8/10
+- Fokus: 7/10
+- Använde Inner Coach efter 3 dåliga kast - hjälpte mig att återställa
+
+**Morgondagens fokus:** Öva på att peka i blåsiga förhållanden, håll en långsam rutin
 :::
 
-### Example: Good Competition Entry
+### Exempel: Bra tävlingsbidrag
 
-::: details Click to See Example
-**Date:** March 20, 2024
-**Tournament:** Regional Championship
-**Format:** Triples
-**Final Placement:** 5th of 16 teams
+::: details Klicka för att se exempel
+**Datum:** 20 mars 2024
+**Turnering:** Regionalmästerskapet
+**Format:** Trippelspel
+**Slutplacering:** 5:e av 16 lag
 
-**Performance Analysis:**
-- Technical: 7/10 - Pointing was solid, shooting was inconsistent
-- Mental: 8/10 - Stayed calm under pressure
-- Tactical: 6/10 - Made one bad decision in semi-final
+**Prestandaanalys:**
+- Tekniskt: 7/10 - Poängsättningen var stabil, skyttet var inkonsekvent
+- Mentalt: 8/10 - Behöll lugnet under press
+- Taktiskt: 6/10 - Tog ett dåligt beslut i semifinalen
 
-**Best Moment:** Carreau in quarter-final to win 13-12
+**Bästa ögonblick:** Carreau i kvartsfinal och vinner med 13-12
 
-**Toughest Moment:** Semi-final, 11-11, rushed a shot and missed badly
+**Tuffaste ögonblicket:** Semifinal, 11-11, rusade fram ett skott och missade rejält
 
-**Key Learning:** When score is tight, I need to slow down even more, not speed up. My Inner Critic tried to take over ("Don't mess this up!") but I caught it and used Inner Coach instead ("You've made this shot 100 times, trust your routine").
+**Viktig lärdom:** När det är pressat behöver jag sakta ner ännu mer, inte öka farten. Min inre kritiker försökte ta över (&quot;Stör inte till det här!&quot;) men jag fångade det och använde min inre coach istället (&quot;Du har gjort den här bilden 100 gånger, lita på din rutin&quot;).
 
-**For Next Competition:** Practice pressure situations in training - simulate 11-11 scenarios
-:::
-
----
-
-## Related Resources
-
-- [Goal Setting Template](/sv/guides/templates/goal-template) - Set and track your improvement goals
-- [Workshop](/sv/guides/workshop/) - Group sessions on mental game and reflection
-- [Training Session](/sv/guides/training-session/) - Structured practice with peers
-- [Mental Strength](/sv/education/mental-game/mental-strength/) - Build mental resilience
-- [Mindfulness](/sv/education/mental-game/mindfulness/) - Develop awareness and focus
-
----
-
-## Quick Start Guide
-
-**New to diary keeping? Start here:**
-
-**Week 1:** Use Quick Daily Entry (5 minutes after each session)
-**Week 2:** Add one reflection prompt per entry
-**Week 3:** Try full Daily Training Entry
-**Week 4:** Do first Weekly Summary
-
-**After one month:** Add Monthly Summary and specific practice logs
-
----
-
-::: warning Common Diary Mistakes
-1. **Too detailed** - Spending 30 minutes writing, then quitting after a week
-2. **Too vague** - "Trained today, was okay" doesn't help you improve
-3. **Only recording failures** - Celebrate wins too!
-4. **Never reviewing** - The power is in reading past entries
-5. **Waiting too long** - Write within 30 minutes of finishing
+**Inför nästa tävling:** Öva på pressade situationer under träning - simulera 11-11 scenarier
 :::
 
 ---
 
-## Download Templates
+## Relaterade resurser
 
-::: tip Copy-Paste Ready
-All templates on this page are designed to be copied directly into:
+- [Mall för målsättning](/sv/guider/mallar/målmall) - Sätt upp och följ upp dina förbättringsmål
+- [Workshop](/sv/guider/workshop/) - Gruppsessioner om mentalt spel och reflektion
+- [Utbildningssession](/sv/guider/utbildningssession/) - Strukturerad övning med kollegor
+- [Mental styrka](/sv/utbildning/mentalt-spel/mental-styrka/) - Bygg mental motståndskraft
+- [Mindfulness](/sv/utbildning/mentalt-spel/mindfulness/) - Utveckla medvetenhet och fokus
+
+---
+
+## Snabbstartsguide
+
+**Nybörjare på att föra dagbok? Börja här:**
+
+**Vecka 1:** Använd snabb daglig inmatning (5 minuter efter varje session)
+**Vecka 2:** Lägg till en reflektionsuppmaning per bidrag
+**Vecka 3:** Prova hela dagliga träningsprogrammet
+**Vecka 4:** Gör den första veckosammanfattningen
+
+**Efter en månad:** Lägg till månadssammanfattning och specifika träningsloggar
+
+---
+
+::: warning Vanliga dagboksmisstag
+1. **För detaljerad** - Tillbringar 30 minuter med att skriva och slutar sedan efter en vecka
+2. **För vagt** - &quot;Tränade idag, var okej&quot; hjälper dig inte att förbättra dig
+3. **Endast att registrera misslyckanden** - Fira vinster också!
+4. **Recenserar aldrig** - Styrkan ligger i att läsa tidigare inlägg
+5. **Väntar för länge** - Skriv inom 30 minuter efter avslutad text
+:::
+
+---
+
+## Ladda ner mallar
+
+::: tip Klar för kopiering och klistring
+Alla mallar på den här sidan är utformade för att kopieras direkt till:
 - Microsoft Word
-- Google Docs
+- Google Dokument
 - Microsoft Excel
-- Google Sheets
-- Notion
+- Google Kalkylark
+- Begrepp
 - Evernote
-- Any note-taking app
+- Vilken anteckningsapp som helst
 
-Simply select the template section you want, copy (Ctrl+C / Cmd+C), and paste into your preferred tool.
+Välj bara den mallsektion du vill ha, kopiera (Ctrl+C / Cmd+C) och klistra in i ditt föredragna verktyg.
 :::
 
-**Start with these three:**
-1. Daily Training Entry Template
-2. Competition/Match Entry Template
-3. Weekly Summary Template
+**Börja med dessa tre:**
+1. Mall för daglig träningsinmatning
+2. Mall för tävlings-/matchanmälan
+3. Mall för veckosammanfattning
 
 ---
 
 
-**Best Moment:**
+**Bästa ögonblicket:**
 
-**Toughest Moment:**
+**Tuffaste ögonblicket:**
 
-**How I Responded:**
-
----
-
-### Mental Game in Competition
-
-**Pressure Situations:**
-
-**How I Managed Pressure:**
-
-**Inner Critic Activity (1-10):** _____
-**Inner Coach Activity (1-10):** _____
-
-**Mental Techniques Used:**
-- [ ] 3-Breath Reset
-- [ ] Inner Coach Reframe
-- [ ] Mindful Awareness
-- [ ] Visualization
-- [ ] Routine Consistency
-- [ ] Other: ________
+**Hur jag svarade:**
 
 ---
 
-### Key Learnings
+### Mentalt spel i tävling
 
-**Technical:**
+**Presssituationer:**
 
-**Tactical:**
+**Hur jag hanterade press:**
+
+**Inre kritikeraktivitet (1-10):** _____
+**Inre coachaktivitet (1-10):** _____
+
+**Använda mentala tekniker:**
+- [ ] 3-andetagsåterställning
+- [ ] Inre coachens omformulering
+- [ ] Medveten medvetenhet
+- [ ] Visualisering
+- [ ] Rutinmässig konsekvens
+- [ ] Annat: ________
+
+---
+
+### Viktiga lärdomar
+
+**Teknisk:**
+
+**Taktisk:**
 
 **Mental:**
 
-**For Next Competition:**
+**För nästa tävling:**
 
 ---
 
 
-## Weekly Summary Template
+## Mall för veckosammanfattning
 
-### Copy This Section Each Week
+### Kopiera detta avsnitt varje vecka
 
 ---
 
-**Week of:** ________
+**Vecka:** ________
 
-### Training Overview
+### Översikt över utbildning
 
-**Total Training Hours:** _____
-**Number of Sessions:** _____
-**Competition Hours:** _____
-**Mental Training:** _____ minutes
-**Physical Training:** _____ sessions
+**Totalt antal träningstimmar:** _____
+**Antal sessioner:** _____
+**Tävlingstider:** _____
+**Mental träning:** _____ minuter
+**Fysisk träning:** _____ sessioner
 
-### Weekly Progress
+### Veckans framsteg
 
-| Goal Area | Target | Actual | Progress |
+| Målområdet | Mål | Faktisk | Framsteg |
 |-----------|--------|--------|----------|
 | | | | |
 | | | | |
 | | | | |
 
-### This Week's Wins
+### Denna veckas vinster
 
 1.
 2.
 3.
 
-### This Week's Challenges
+### Denna veckas utmaningar
 
 1.
 2.
 3.
 
-### Pattern Recognition
+### Mönsterigenkänning
 
-(What patterns am I noticing in my practice/performance?)
+(Vilka mönster ser jag i min övning/framträdande?)
 
-### Next Week's Focus
+### Nästa veckas fokus
 
 1.
 2.

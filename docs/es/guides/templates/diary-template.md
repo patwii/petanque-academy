@@ -1,223 +1,223 @@
-# Training Diary Template
+# Plantilla de diario de entrenamiento
 
 
-## How to Use This Template
+## Cómo utilizar esta plantilla
 
-A training diary is your personal record of practice, progress, and insights. It helps you track what works, identify patterns, and accelerate improvement. Use the templates below directly on this page, or copy them to your preferred digital tool.
+Un diario de entrenamiento es tu registro personal de práctica, progreso y aprendizaje. Te ayuda a registrar lo que funciona, identificar patrones y acelerar la mejora. Usa las plantillas a continuación directamente en esta página o cópialas en tu herramienta digital preferida.
 
-::: tip The Power of Reflection
-**What gets measured gets improved. What gets reflected on gets mastered.** A training diary transforms random practice into deliberate development.
+::: tip El poder de la reflexión
+**Lo que se mide se mejora. Lo que se reflexiona se domina.** Un diario de entrenamiento transforma la práctica aleatoria en desarrollo deliberado.
 :::
 
-## Quick Access
+## Acceso rápido
 
-| Template | Purpose | Access |
+| Plantilla | Objetivo | Acceso |
 |----------|---------|--------|
-| **Daily Training Entry** | Record each practice session | [View Template](#daily-training-entry-template) |
-| **Competition Diary** | Track tournament performance | [View Template](#competition-diary-template) |
-| **Weekly Summary** | Reflect on the week's training | [View Template](#weekly-summary-template) |
-| **Monthly Review** | Analyze patterns and progress | [View Template](#monthly-review-template) |
+| **Entrada de entrenamiento diario** | Graba cada sesión de práctica | [Ver plantilla](#plantilla-de-entrada-de-entrenamiento-diario) |
+| **Diario de la competición** | Seguimiento del rendimiento en torneos | [Ver plantilla](#competition-diary-template) |
+| **Resumen semanal** | Reflexiona sobre el entrenamiento de la semana | [Ver plantilla](#plantilla-de-resumen-semanal) |
+| **Revisión mensual** | Analizar patrones y progreso | [Ver plantilla](#monthly-review-template) |
 
-::: tip Digital-First Approach
-All templates are available on this page for easy access on any device. Bookmark this page and use it directly, or copy sections to your preferred note-taking app.
+::: tip Enfoque digital primero
+Todas las plantillas están disponibles en esta página para acceder fácilmente desde cualquier dispositivo. Guarda esta página en tus favoritos y úsala directamente, o copia secciones en tu aplicación de notas preferida.
 :::
 
-## Daily Training Entry Template
+## Plantilla de entrada de entrenamiento diario
 
-### Copy This Section for Each Training Session
-
----
-
-**Date:** ________
-**Time:** ________ to ________
-**Duration:** ________ minutes
-**Location:** ________
-**Terrain:** Hard / Medium / Soft / Mixed
-**Weather:** Sunny / Cloudy / Windy / Rain
-
-### Training Partners
-
--
--
--
-
-### Today's Intention
-
-(What was my main focus for this session?)
+### Copie esta sección para cada sesión de capacitación
 
 ---
 
-### Technical Practice
+**Fecha:** ________
+**Hora:** ________ a ________
+**Duración:** ________ minutos
+**Ubicación:** ________
+**Terreno:** Duro / Medio / Blando / Mixto
+**Clima:** Soleado / Nublado / Ventoso / Lluvioso
 
-| Skill Practiced | Reps/Time | Success Rate | Notes |
+### Socios de formación
+
+-
+-
+-
+
+### Intención de hoy
+
+(¿Cuál fue mi enfoque principal para esta sesión?)
+
+---
+
+### Práctica técnica
+
+| Habilidad practicada | Repeticiones/Tiempo | Tasa de éxito | Notas |
 |----------------|-----------|--------------|-------|
-| **Pointing** | | | |
-| **Shooting** | | | |
-| **Terrain Reading** | | | |
-| **Shot Selection** | | | |
+| **Señalando** |
+| **Tiroteo** |
+| **Lectura del terreno** |
+| **Selección de disparos** |
 
-### What Worked Well?
-
-1.
-2.
-3.
-
-### What Needs Improvement?
+### ¿Qué funcionó bien?
 
 1.
 2.
 3.
 
-### Key Insight
+### ¿Qué necesita mejorar?
 
-(One main learning from today)
+1.
+2.
+3.
 
----
+### Visión clave
 
-### Mental Game
-
-**Energy Level (1-10):** _____
-**Focus Quality (1-10):** _____
-**Confidence (1-10):** _____
-
-**Mental Challenges Today:**
-
-**How I Handled Them:**
-
-**Mental Technique Practiced:**
-- [ ] 3-Breath Reset
-- [ ] Inner Coach Reframe
-- [ ] Mindful Awareness
-- [ ] Visualization
-- [ ] Other: ________
+(Un aprendizaje principal de hoy)
 
 ---
 
-### Physical Condition
+### Juego mental
 
-**Body Feeling (1-10):** _____
-**Any Pain/Discomfort:** _____
-**Fatigue Level (1-10):** _____
+**Nivel de energía (1-10):** _____
+**Calidad de enfoque (1-10):** _____
+**Confianza (1-10):** _____
 
-**Physical Notes:**
+**Desafíos mentales de hoy:**
 
----
+**Cómo los manejé:**
 
-### Tomorrow's Focus
-
-(Based on today, what will I work on next session?)
-
----
-
-## Competition/Match Entry Template
-
-### Copy This Section for Each Competition
+**Técnica mental practicada:**
+- [ ] Reinicio de 3 respiraciones
+- [ ] Reformulación del entrenador interior
+- [ ] Conciencia plena
+- [ ] Visualización
+- [ ] Otro: ________
 
 ---
 
-**Date:** ________
-**Tournament:** ________
-**Format:** Triples / Doubles / Singles
-**Team:** ________
+### Condición física
 
-### Pre-Competition
+**Sensación corporal (1-10):** _____
+**Cualquier dolor/malestar:** _____
+**Nivel de fatiga (1-10):** _____
 
-**Sleep Quality (1-10):** _____
-**Nutrition:** _____
-**Mental State (1-10):** _____
-**Physical Warm-up:** Yes / No
-**Mental Warm-up:** Yes / No
+**Notas físicas:**
 
 ---
 
-### Match Results
+### El enfoque del mañana
 
-| Round | Opponent | Score | Result | Key Moments |
+(En base a hoy, ¿en qué trabajaré la próxima sesión?)
+
+---
+
+## Plantilla de inscripción para competición/partido
+
+### Copiar esta sección para cada competencia
+
+---
+
+**Fecha:** ________
+**Torneo:** ________
+**Formato:** Triples / Dobles / Individuales
+**Equipo:** ________
+
+### Precompetición
+
+**Calidad del sueño (1-10):** _____
+**Nutrición:** _____
+**Estado mental (1-10):** _____
+**Calentamiento físico:** Sí / No
+**Calentamiento mental:** Sí / No
+
+---
+
+### Resultados del partido
+
+| Redondo | Adversario | Puntaje | Resultado | Momentos clave |
 |-------|----------|-------|--------|-------------|
-| **1** | | | W / L | |
-| **2** | | | W / L | |
-| **3** | | | W / L | |
-| **4** | | | W / L | |
+| **1** | Ancho / Largo |
+| **2** | Ancho / Largo |
+| **3** | Ancho / Largo |
+| **4** | Ancho / Largo |
 
-**Final Placement:** _____
+**Colocación final:** _____
 
 ---
 
-### Performance Analysis
+### Análisis de rendimiento
 
-**Technical Performance (1-10):** _____
-**Mental Performance (1-10):** _____
-**Tactical Decisions (1-10):** _____
-**Team Communication (1-10):** _____
+**Rendimiento técnico (1-10):** _____
+**Rendimiento mental (1-10):** _____
+**Decisiones tácticas (1-10):** _____
+**Comunicación en equipo (1-10):** _____
 
-### What I Did Well
+### Lo que hice bien
 
 1.
 2.
 3.
 
-### What Cost Me Points
+### ¿Qué me costó puntos?
 
 1.
 2.
 
-## Monthly Summary Template
+## Plantilla de resumen mensual
 
-### Copy This Section Each Month
+### Copiar esta sección cada mes
 
 ---
 
-**Month:** ________
-**Year:** ________
+**Mes:** ________
+**Año:** ________
 
-### Monthly Statistics
+### Estadísticas mensuales
 
-**Total Training Hours:** _____
-**Total Sessions:** _____
-**Competitions Entered:** _____
-**Win Rate:** _____%
+**Total de horas de capacitación:** _____
+**Total de sesiones:** _____
+**Concursos en los que participó:** _____
+**Tasa de victorias:** _____%
 
-### Technical Progress
+### Progreso técnico
 
-| Skill | Start of Month | End of Month | Improvement |
+| Habilidad | Inicio de mes | Fin de mes | Mejora |
 |-------|----------------|--------------|-------------|
-| **Pointing Accuracy** | | | |
-| **Shooting Consistency** | | | |
-| **Terrain Adaptation** | | | |
-| **Shot Selection** | | | |
+| **Precisión de puntería** |
+| **Consistencia en los disparos** |
+| **Adaptación al terreno** |
+| **Selección de disparos** |
 
-### Mental Game Progress
+### Progreso del juego mental
 
-| Area | Start of Month | End of Month | Improvement |
+| Área | Inicio de mes | Fin de mes | Mejora |
 |------|----------------|--------------|-------------|
-| **Pressure Management** | | | |
-| **Focus Quality** | | | |
-| **Confidence** | | | |
-| **Inner Coach Usage** | | | |
+| **Gestión de la presión** |
+| **Calidad de enfoque** |
+| **Confianza** |
+| **Uso del Coach Interno** |
 
-### Monthly Highlights
+### Aspectos destacados del mes
 
-**Best Training Session:**
+**Mejor sesión de entrenamiento:**
 
-**Best Competition Performance:**
+**Mejor actuación en competición:**
 
-**Biggest Breakthrough:**
+**El mayor avance:**
 
-**Most Valuable Learning:**
+**Aprendizaje más valioso:**
 
-### Challenges Overcome
-
-1.
-2.
-3.
-
-### Ongoing Challenges
+### Desafíos superados
 
 1.
 2.
 3.
 
-### Next Month's Priorities
+### Desafíos actuales
+
+1.
+2.
+3.
+
+### Prioridades del próximo mes
 
 1.
 2.
@@ -225,384 +225,384 @@ All templates are available on this page for easy access on any device. Bookmark
 
 ---
 
-## Specific Practice Tracking Templates
+## Plantillas de seguimiento de prácticas específicas
 
-### Pointing Practice Log
+### Registro de práctica de señalización
 
-| Date | Distance | Terrain | Attempts | Within 10cm | Within 20cm | Within 50cm | Notes |
+| Fecha | Distancia | Terreno | Intentos | Dentro de 10 cm | Dentro de 20 cm | Dentro de 50cm | Notas |
 |------|----------|---------|----------|-------------|-------------|-------------|-------|
 | | | | | | | | |
 | | | | | | | | |
 | | | | | | | | |
 
-**Instructions:**
-- Track pointing accuracy at different distances (6m, 7m, 8m, 9m, 10m)
-- Record terrain type (hard, medium, soft)
-- Count successes in each distance range
-- Calculate success rate over time
+**Instrucciones:**
+- Precisión de orientación de la pista a diferentes distancias (6 m, 7 m, 8 m, 9 m, 10 m)
+- Registrar el tipo de terreno (duro, medio, blando)
+- Contar los éxitos en cada rango de distancia
+- Calcular la tasa de éxito a lo largo del tiempo
 
 ---
 
-### Shooting Practice Log
+### Registro de prácticas de tiro
 
-| Date | Target Type | Distance | Attempts | Direct Hits | Carreau | Displacement | Notes |
+| Fecha | Tipo de objetivo | Distancia | Intentos | Impactos directos | Carreau | Desplazamiento | Notas |
 |------|-------------|----------|----------|-------------|---------|--------------|-------|
 | | | | | | | | |
 | | | | | | | | |
 | | | | | | | | |
 
-**Target Types:**
-- Static ball
-- Ball against cochonnet
-- Ball in cluster
-- Moving target (advanced)
+**Tipos de objetivos:**
+- Bola estática
+- Balón contra cochonnet
+- Bola en racimo
+- Objetivo móvil (avanzado)
 
 ---
 
-### Mental Training Log
+### Registro de entrenamiento mental
 
-| Date | Technique Practiced | Duration | Situation | Effectiveness (1-10) | Notes |
+| Fecha | Técnica practicada | Duración | Situación | Eficacia (1-10) | Notas |
 |------|---------------------|----------|-----------|---------------------|-------|
 | | | | | | |
 | | | | | | |
 | | | | | | |
 
-**Techniques:**
-- 3-Breath Reset
-- Inner Coach Reframe
-- Visualization
-- Mindfulness Practice
-- Pre-shot Routine
-- Pressure Simulation
+**Técnicas:**
+- Reinicio de 3 respiraciones
+- Reformulación del entrenador interior
+- Visualización
+- Práctica de atención plena
+- Rutina previa al disparo
+- Simulación de presión
 
 ---
 
-## Quick Daily Entry (Simplified)
+## Entrada diaria rápida (simplificada)
 
-### For Busy Days - Copy This Minimal Template
-
----
-
-**Date:** ________
-
-**Trained:** Yes / No
-**Duration:** _____ min
-**Focus:** ________
-**Energy (1-10):** _____
-**Quality (1-10):** _____
-
-**One Win:**
-
-**One Learning:**
-
-**Tomorrow's Focus:**
+### Para días ocupados: copia esta plantilla minimalista
 
 ---
 
-## Reflection Prompts
+**Fecha:** ________
 
-Use these prompts to deepen your diary entries:
+**Capacitado:** Sí / No
+**Duración:** _____ min
+**Enfocar:** ________
+**Energía (1-10):** _____
+**Calidad (1-10):** _____
 
-### After Training
+**Una victoria:**
 
-1. What surprised me today?
-2. When did I feel most confident?
-3. When did I struggle? Why?
-4. What would I do differently?
-5. What am I grateful for from this session?
+**Un aprendizaje:**
 
-### After Competition
-
-1. What did I learn about myself today?
-2. How did I handle pressure?
-3. What would my Inner Coach say about my performance?
-4. What will I practice differently based on today?
-5. What am I proud of, regardless of the result?
-
-### Weekly Reflection
-
-1. What pattern am I noticing in my practice?
-2. Am I practicing what I struggle with in competition?
-3. Is my mental game improving?
-4. Am I enjoying the process?
-5. What needs to change next week?
-
-### Monthly Reflection
-
-1. Am I closer to my goals than last month?
-2. What's working in my training approach?
-3. What's not working?
-4. Do I need to adjust my goals?
-5. What do I want to remember from this month?
+**El foco del mañana:**
 
 ---
 
-## Tips for Effective Diary Keeping
+## Sugerencias para la reflexión
 
-### 1. Write Immediately After Training
+Utilice estas indicaciones para profundizar en las entradas de su diario:
 
-**Why:** Details are fresh, emotions are real, insights are clear
+### Después del entrenamiento
 
-**How:** Keep diary in your bag, set 10 minutes aside after each session
+1. ¿Qué me sorprendió hoy?
+2. ¿Cuándo me sentí más seguro?
+3. ¿Cuándo tuve dificultades? ¿Por qué?
+4. ¿Qué haría diferente?
+5. ¿De qué estoy agradecido por esta sesión?
 
-### 2. Be Honest, Not Perfect
+### Después de la competición
 
-**Don't:** Write what you think you should write
-**Do:** Write what actually happened and how you really felt
+1. ¿Qué aprendí sobre mí hoy?
+2. ¿Cómo manejé la presión?
+3. ¿Qué diría mi Coach Interno sobre mi desempeño?
+4. ¿Qué practicaré diferente a partir de hoy?
+5. ¿De qué estoy orgulloso, independientemente del resultado?
 
-### 3. Focus on Process, Not Just Results
+### Reflexión semanal
 
-**Don't:** "Missed 7 out of 10 shots - terrible"
-**Do:** "Missed 7 out of 10 shots - noticed I was rushing my routine, will slow down next time"
+1. ¿Qué patrón estoy notando en mi práctica?
+2. ¿Estoy practicando lo que me cuesta hacer en la competición?
+3. ¿Está mejorando mi juego mental?
+4. ¿Estoy disfrutando el proceso?
+5. ¿Qué necesita cambiar la próxima semana?
 
-### 4. Look for Patterns
+### Reflexión mensual
 
-Review your diary weekly to spot:
-- Recurring technical issues
-- Mental game patterns
-- Energy/performance correlations
-- What conditions you perform best in
-
-### 5. Celebrate Progress
-
-**Every month:** Read entries from 3 months ago
-**Notice:** How much you've improved
-**Acknowledge:** The work you've put in
-
----
-
-## Digital vs. Paper Diary
-
-### Digital (Google Docs/Sheets, Notion, Apps)
-
-**Pros:**
-- Easy to search past entries
-- Can add photos/videos
-- Automatic date stamps
-- Can share with coach
-- Always accessible on phone
-
-**Cons:**
-- Screen time
-- Can feel impersonal
-- Distractions from notifications
-
-**Best For:** Detailed statistics tracking, long-term pattern analysis
-
-### Paper (Notebook, Printed Templates)
-
-**Pros:**
-- Tactile, personal connection
-- No distractions
-- Easy to sketch diagrams
-- Satisfying ritual
-- Better for reflection
-
-**Cons:**
-- Can lose notebook
-- Hard to search old entries
-- Can't easily share
-
-**Best For:** Daily reflections, immediate post-training notes
-
-**Recommendation:** Hybrid approach - paper for daily entries, digital for monthly summaries and statistics
+1. ¿Estoy más cerca de mis objetivos que el mes pasado?
+2. ¿Qué está funcionando en mi enfoque de entrenamiento?
+3. ¿Qué no está funcionando?
+4. ¿Necesito ajustar mis objetivos?
+5. ¿Qué quiero recordar de este mes?
 
 ---
 
-## Sample Entries
+## Consejos para llevar un diario eficaz
 
-### Example: Good Training Entry
+### 1. Escribe inmediatamente después del entrenamiento
 
-::: details Click to See Example
-**Date:** March 15, 2024
-**Duration:** 90 minutes
-**Location:** Club terrain
-**Terrain:** Hard
-**Weather:** Sunny, light wind
+**Por qué:** Los detalles son frescos, las emociones son reales, las ideas son claras.
 
-**Today's Intention:** Improve pointing accuracy at 8m
+**Cómo:** Lleva un diario en tu bolso y reserva 10 minutos después de cada sesión.
 
-**Technical Practice:**
-- Pointing at 8m: 30 attempts, 18 within 20cm (60%)
-- Noticed I'm more accurate when I take 3 breaths before throwing
-- Struggled when wind picked up - need to adjust for wind better
+### 2. Sé honesto, no perfecto
 
-**What Worked Well:**
-1. Pre-shot routine was consistent
-2. Stayed calm after misses
-3. Adjusted grip for hard terrain
+**No:** Escriba lo que cree que debería escribir
+**Hazlo:** Escribe lo que realmente sucedió y cómo te sentiste realmente.
 
-**Key Insight:** My accuracy drops when I rush. Slowing down by 2 seconds improves success rate significantly.
+### 3. Concéntrese en el proceso, no solo en los resultados
 
-**Mental Game:**
-- Energy: 8/10
-- Focus: 7/10
-- Used Inner Coach after 3 bad throws - helped me reset
+**No:** &quot;Fallé 7 de 10 tiros, terrible&quot;
+**Hacer:** &quot;Fallé 7 de 10 tiros. Me di cuenta de que estaba apurando mi rutina; la próxima vez iré más despacio&quot;.
 
-**Tomorrow's Focus:** Practice pointing in windy conditions, maintain slow routine
+### 4. Busque patrones
+
+Revise su diario semanalmente para detectar:
+- Problemas técnicos recurrentes
+- Patrones de juego mental
+- Correlaciones energía/rendimiento
+- ¿En qué condiciones te desempeñas mejor?
+
+### 5. Celebra el progreso
+
+**Cada mes:** Leer entradas de hace 3 meses
+**Aviso:** Cuánto has mejorado
+**Reconocer:** El trabajo que has realizado
+
+---
+
+## Diario digital vs. diario en papel
+
+### Digital (Documentos/Hojas de cálculo de Google, Notion, aplicaciones)
+
+**Ventajas:**
+- Fácil búsqueda de entradas anteriores
+- Puede agregar fotos/videos
+- Sellos de fecha automáticos
+- Se puede compartir con el entrenador.
+- Siempre accesible en el teléfono
+
+**Desventajas:**
+- Tiempo frente a la pantalla
+- Puede sentirse impersonal
+- Distracciones de las notificaciones
+
+**Ideal para:** Seguimiento de estadísticas detalladas, análisis de patrones a largo plazo
+
+### Papel (Cuaderno, Plantillas Impresas)
+
+**Ventajas:**
+- Conexión táctil y personal
+- Sin distracciones
+- Diagramas fáciles de esbozar
+- Ritual satisfactorio
+- Mejor para la reflexión
+
+**Desventajas:**
+- ¿Puede perder el cuaderno?
+- Es difícil buscar entradas antiguas
+- No se puede compartir fácilmente
+
+**Ideal para:** Reflexiones diarias, notas inmediatamente posteriores al entrenamiento.
+
+**Recomendación:** Enfoque híbrido: papel para las entradas diarias, digital para los resúmenes y estadísticas mensuales.
+
+---
+
+## Entradas de muestra
+
+### Ejemplo: Buena entrada de formación
+
+::: details Haga clic para ver el ejemplo
+**Fecha:** 15 de marzo de 2024
+**Duración:** 90 minutos
+**Ubicación:** Terreno del club
+**Terreno:** Difícil
+**Clima:** Soleado, viento ligero
+
+**Intención de hoy:** Mejorar la precisión de puntería a 8 m
+
+**Práctica técnica:**
+- Apuntando a 8 m: 30 intentos, 18 dentro de 20 cm (60%)
+- Me di cuenta de que soy más preciso cuando tomo 3 respiraciones antes de lanzar.
+- Tuve dificultades cuando el viento se levantó; es necesario adaptarse mejor al viento.
+
+**Lo que funcionó bien:**
+1. La rutina previa al disparo fue consistente
+2. Mantuvo la calma después de los fallos
+3. Agarre ajustado para terrenos duros.
+
+**Consejo clave:** Mi precisión disminuye al acelerar. Disminuir la velocidad 2 segundos mejora significativamente la probabilidad de éxito.
+
+**Juego mental:**
+- Energía: 8/10
+- Enfoque: 7/10
+- Usé Inner Coach después de 3 malos lanzamientos: me ayudó a reiniciarme.
+
+**Enfoque de mañana:** Practique apuntar en condiciones de viento, mantenga una rutina lenta
 :::
 
-### Example: Good Competition Entry
+### Ejemplo: Buena entrada a la competencia
 
-::: details Click to See Example
-**Date:** March 20, 2024
-**Tournament:** Regional Championship
-**Format:** Triples
-**Final Placement:** 5th of 16 teams
+::: details Haga clic para ver el ejemplo
+**Fecha:** 20 de marzo de 2024
+**Torneo:** Campeonato Regional
+**Formato:** Triples
+**Clasificación final:** 5º de 16 equipos
 
-**Performance Analysis:**
-- Technical: 7/10 - Pointing was solid, shooting was inconsistent
-- Mental: 8/10 - Stayed calm under pressure
-- Tactical: 6/10 - Made one bad decision in semi-final
+**Análisis de rendimiento:**
+- Técnico: 7/10 - El apuntado fue sólido, el disparo fue inconsistente.
+- Mental: 8/10 - Mantuvo la calma bajo presión
+- Táctico: 6/10 - Tomó una mala decisión en la semifinal.
 
-**Best Moment:** Carreau in quarter-final to win 13-12
+**Mejor momento:** Carreau en cuartos de final para ganar 13-12
 
-**Toughest Moment:** Semi-final, 11-11, rushed a shot and missed badly
+**Momento más difícil:** Semifinal, 11-11, me apresuré a lanzar y fallé por completo.
 
-**Key Learning:** When score is tight, I need to slow down even more, not speed up. My Inner Critic tried to take over ("Don't mess this up!") but I caught it and used Inner Coach instead ("You've made this shot 100 times, trust your routine").
+**Aprendizaje clave:** Cuando el marcador está ajustado, necesito bajar el ritmo aún más, no acelerar. Mi Crítico Interno intentó tomar el control (&quot;¡No lo arruines!&quot;), pero lo capté y usé a mi Entrenador Interno (&quot;Ya has anotado este tiro 100 veces, confía en tu rutina&quot;).
 
-**For Next Competition:** Practice pressure situations in training - simulate 11-11 scenarios
-:::
-
----
-
-## Related Resources
-
-- [Goal Setting Template](/es/guides/templates/goal-template) - Set and track your improvement goals
-- [Workshop](/es/guides/workshop/) - Group sessions on mental game and reflection
-- [Training Session](/es/guides/training-session/) - Structured practice with peers
-- [Mental Strength](/es/education/mental-game/mental-strength/) - Build mental resilience
-- [Mindfulness](/es/education/mental-game/mindfulness/) - Develop awareness and focus
-
----
-
-## Quick Start Guide
-
-**New to diary keeping? Start here:**
-
-**Week 1:** Use Quick Daily Entry (5 minutes after each session)
-**Week 2:** Add one reflection prompt per entry
-**Week 3:** Try full Daily Training Entry
-**Week 4:** Do first Weekly Summary
-
-**After one month:** Add Monthly Summary and specific practice logs
-
----
-
-::: warning Common Diary Mistakes
-1. **Too detailed** - Spending 30 minutes writing, then quitting after a week
-2. **Too vague** - "Trained today, was okay" doesn't help you improve
-3. **Only recording failures** - Celebrate wins too!
-4. **Never reviewing** - The power is in reading past entries
-5. **Waiting too long** - Write within 30 minutes of finishing
+**Para la próxima competencia:** Practique situaciones de presión en el entrenamiento: simule escenarios 11-11
 :::
 
 ---
 
-## Download Templates
+## Recursos relacionados
 
-::: tip Copy-Paste Ready
-All templates on this page are designed to be copied directly into:
+- [Plantilla de establecimiento de objetivos](/es/guides/templates/goal-template) - Establezca y realice un seguimiento de sus objetivos de mejora
+- [Taller](/es/guias/taller/) - Sesiones grupales sobre juego mental y reflexión
+- [Sesión de Formación](/es/guias/sesion-de-formacion/) - Práctica estructurada con compañeros
+- [Fuerza mental](/es/educacion/juego-mental/fuerza-mental/) - Desarrolla la resiliencia mental
+- [Mindfulness](/es/educacion/juego-mental/mindfulness/) - Desarrollar la conciencia y la concentración
+
+---
+
+## Guía de inicio rápido
+
+¿Eres nuevo en esto de llevar un diario? Empieza aquí:
+
+**Semana 1:** Utilice la entrada diaria rápida (5 minutos después de cada sesión)
+**Semana 2:** Agregue una propuesta de reflexión por entrada
+**Semana 3:** Prueba la entrada completa de entrenamiento diario
+**Semana 4:** Haz el primer resumen semanal
+
+**Después de un mes:** Agregar resumen mensual y registros de prácticas específicos
+
+---
+
+::: warning Errores comunes en el diario
+1. **Demasiado detallado**: pasar 30 minutos escribiendo y luego dejarlo después de una semana.
+2. **Demasiado vago**: &quot;Entré hoy y estuvo bien&quot; no te ayuda a mejorar.
+3. **Solo registramos los fracasos** - ¡Celebra también los triunfos!
+4. **Nunca revisar** - El poder está en leer entradas pasadas
+5. **Esperando demasiado** - Escribe dentro de los 30 minutos de haber terminado
+:::
+
+---
+
+## Descargar plantillas
+
+::: tip Copiar y pegar listo
+Todas las plantillas de esta página están diseñadas para copiarse directamente en:
 - Microsoft Word
-- Google Docs
+- Documentos de Google
 - Microsoft Excel
-- Google Sheets
-- Notion
+- Hojas de cálculo de Google
+- Noción
 - Evernote
-- Any note-taking app
+- Cualquier aplicación para tomar notas
 
-Simply select the template section you want, copy (Ctrl+C / Cmd+C), and paste into your preferred tool.
+Simplemente seleccione la sección de plantilla que desee, copie (Ctrl+C / Cmd+C) y péguela en su herramienta preferida.
 :::
 
-**Start with these three:**
-1. Daily Training Entry Template
-2. Competition/Match Entry Template
-3. Weekly Summary Template
+**Empiece con estos tres:**
+1. Plantilla de entrada de entrenamiento diario
+2. Plantilla de inscripción para competición/partido
+3. Plantilla de resumen semanal
 
 ---
 
 
-**Best Moment:**
+**Mejor momento:**
 
-**Toughest Moment:**
+**Momento más difícil:**
 
-**How I Responded:**
-
----
-
-### Mental Game in Competition
-
-**Pressure Situations:**
-
-**How I Managed Pressure:**
-
-**Inner Critic Activity (1-10):** _____
-**Inner Coach Activity (1-10):** _____
-
-**Mental Techniques Used:**
-- [ ] 3-Breath Reset
-- [ ] Inner Coach Reframe
-- [ ] Mindful Awareness
-- [ ] Visualization
-- [ ] Routine Consistency
-- [ ] Other: ________
+**Cómo respondí:**
 
 ---
 
-### Key Learnings
+### Juego mental en competición
 
-**Technical:**
+**Situaciones de presión:**
 
-**Tactical:**
+**Cómo manejé la presión:**
+
+**Actividad del crítico interno (1-10):** _____
+**Actividad del Coach Interno (1-10):** _____
+
+**Técnicas mentales utilizadas:**
+- [ ] Reinicio de 3 respiraciones
+- [ ] Reformulación del entrenador interior
+- [ ] Conciencia plena
+- [ ] Visualización
+- [ ] Consistencia de rutina
+- [ ] Otro: ________
+
+---
+
+### Aprendizajes clave
+
+**Técnico:**
+
+**Táctico:**
 
 **Mental:**
 
-**For Next Competition:**
+**Para la próxima competición:**
 
 ---
 
 
-## Weekly Summary Template
+## Plantilla de resumen semanal
 
-### Copy This Section Each Week
+### Copiar esta sección cada semana
 
 ---
 
-**Week of:** ________
+**Semana de:** ________
 
-### Training Overview
+### Descripción general de la capacitación
 
-**Total Training Hours:** _____
-**Number of Sessions:** _____
-**Competition Hours:** _____
-**Mental Training:** _____ minutes
-**Physical Training:** _____ sessions
+**Total de horas de capacitación:** _____
+**Número de sesiones:** _____
+**Horas de competencia:** _____
+**Entrenamiento mental:** _____ minutos
+**Entrenamiento físico:** _____ sesiones
 
-### Weekly Progress
+### Progreso semanal
 
-| Goal Area | Target | Actual | Progress |
+| Área de gol | Objetivo | Actual | Progreso |
 |-----------|--------|--------|----------|
 | | | | |
 | | | | |
 | | | | |
 
-### This Week's Wins
+### Las victorias de esta semana
 
 1.
 2.
 3.
 
-### This Week's Challenges
+### Los desafíos de esta semana
 
 1.
 2.
 3.
 
-### Pattern Recognition
+### Reconocimiento de patrones
 
-(What patterns am I noticing in my practice/performance?)
+¿Qué patrones estoy notando en mi práctica/desempeño?
 
-### Next Week's Focus
+### Enfoque de la próxima semana
 
 1.
 2.

@@ -11,7 +11,7 @@ Deze workshop is een geavanceerde theoretische sessie van 3-4 uur voor 6-8 topsp
 :::
 
 **Verschil met de beginnerssessie:**
-- **Beginners (2-3 uur):** Introductie tot mentale spelconcepten → [Zie Mentale Reisgids](/nl/guides/mental-journey/session-guide)
+- **Beginners (2-3 uur):** Introductie tot mentale spelconcepten → [Zie Mentale Reisgids](/en/guides/mental-journey/session-guide)
 - **Gevorderd (3-4 uur):** Diepgaand psychologisch werk met kwetsbaarheidsoefeningen (deze pagina)
 
 ## Sneltoegang
@@ -21,7 +21,7 @@ Deze workshop is een geavanceerde theoretische sessie van 3-4 uur voor 6-8 topsp
 | **Voor deelnemers** | Wat je kunt verwachten en hoe je je kunt voorbereiden | [Sectie bekijken](#voor-deelnemers) |
 | **Voor begeleiders** | Complete sessiehandleiding en oefeningen | [Sectie bekijken](#voor-facilitatoren) |
 | **Sessiematerialen** | Oefeningen en werkbladen | [Materialen bekijken](#facilitator-materials) |
-| **Gerelateerde handleidingen** | Andere trainingsvormen | [Mentale Reis](/nl/guides/mental-journey/) • [Trainingskamp](/nl/guides/training-camp/) |
+| **Gerelateerde handleidingen** | Andere trainingsvormen | [Mentale Reis](/en/guides/mental-journey/) • [Trainingskamp](/en/guides/training-camp/) |
 
 ---
 

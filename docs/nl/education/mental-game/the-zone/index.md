@@ -115,8 +115,8 @@ De oplossing is niet om *minder* na te denken, maar om op het **juiste moment** 
 
 Leer hoe je de zone beheerst:
 
-- **[Technische training versus flowtraining](/nl/education/mental-game/the-zone/technical-vs-flow)** - Begrijpen wanneer je je op techniek moet concentreren en wanneer je moet loslaten
-- **[De zone betreden](/nl/education/mental-game/the-zone/entering-the-zone)** - Praktische technieken om de flowtoestand te bereiken
+- **[Technische vs. Flow Training](/en/education/mental-game/the-zone/technical-vs-flow)** - Begrijpen wanneer je je op techniek moet concentreren en wanneer je los moet laten
+- **[De zone bereiken](/en/education/mental-game/the-zone/entering-the-zone)** - Praktische technieken om de flowtoestand te bereiken
 
 ## Samenvatting: De zoneregels
 

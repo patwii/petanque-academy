@@ -3,37 +3,37 @@ title: Goal Setting for Elite Athletes
 description: Learn advanced goal-setting strategies used by elite pétanque players to drive continuous improvement and achieve peak performance.
 ---
 
-# Goal Setting for Elite Athletes
+# Doelstellingen formuleren voor topsporters
 
-> "The right goals accelerate development; the wrong ones create frustration and stagnation."
+> &quot;De juiste doelen versnellen de ontwikkeling; de verkeerde doelen leiden tot frustratie en stagnatie.&quot;
 
-Goal setting seems simple: decide what you want, work toward it. But elite-level goal setting is more nuanced.
+Doelstellingen formuleren lijkt eenvoudig: bepaal wat je wilt en werk ernaartoe. Maar doelstellingen formuleren op topniveau is complexer.
 
-::: warning Common Mistake
-**Most players only set outcome goals** ("Win the championship"). You can't control outcomes — only the process that leads to them.
+::: warning Veelgemaakte fout
+**De meeste spelers stellen alleen resultaatdoelen** (&quot;Het kampioenschap winnen&quot;). Je kunt de uitkomst niet controleren, alleen het proces dat ertoe leidt.
 :::
 
 ---
 
-## Beyond Basic Goals
+## Voorbij de basisdoelen
 
-| Outcome Goal Problems | Why It's a Problem |
+| Resultaat Doel Problemen | Waarom het een probleem is |
 |----------------------|-------------------|
-| Can't fully control outcomes | Creates helplessness |
-| Creates pressure without direction | Anxiety without action |
-| Success or failure is binary | No partial wins |
-| Doesn't guide daily practice | What do you actually do? |
+| Je kunt de uitkomsten niet volledig beheersen. | Schept hulpeloosheid |
+| Creëert druk zonder duidelijke richting. | Angst zonder actie |
+| Succes of mislukking is binair. | Geen gedeeltelijke overwinningen |
+| Biedt geen leidraad voor de dagelijkse praktijk. | Wat doe je precies? |
 
-Elite goal setting goes deeper.
+Het stellen van topdoelen gaat verder dan dat.
 
 ---
 
-## The Goal Hierarchy
+## De doelhiërarchie
 
 ```mermaid
 flowchart TD
-    A[Level 1: DREAM GOALS<br/>1-5 years] --> B[Level 2: PERFORMANCE GOALS<br/>Season/Year]
-    B --> C[Level 3: PROCESS GOALS<br/>Daily/Weekly]
+    A[Niveau 1: DROOMDOELEN <br/> 1-5 jaar] --> B[Niveau 2: PRESTATIEDOELEN <br/> Seizoen/Jaar]
+    B --> C[Niveau 3: PROCESDOELEN <br/> Dagelijks/Wekelijks]
 
     A -.->|"Compete at national level"| A
     B -.->|"Shooting accuracy 60% → 70%"| B
@@ -44,164 +44,164 @@ flowchart TD
     style C fill:#4CAF50,color:#fff
 ```
 
-### Level 1: Dream Goals (1-5 years)
-Your ultimate aspirations:
-- "Compete at national level"
-- "Be recognized as an elite shooter"
-- "Win a major championship"
+### Niveau 1: Droomdoelen (1-5 jaar)
+Jouw ultieme ambities:
+- &quot;Deelnemen aan wedstrijden op nationaal niveau&quot;
+- &quot;Word erkend als een topschutter&quot;
+- &quot;Win een belangrijk kampioenschap&quot;
 
-::: info Direction, Not Action
-These provide direction and motivation but aren't actionable daily.
+::: info Richting, geen actie.
+Deze bieden richting en motivatie, maar zijn niet dagelijks in de praktijk te brengen.
 :::
 
-### Level 2: Performance Goals (Season/Year)
-Measurable improvements in your game:
-- "Increase shooting accuracy from 60% to 70%"
-- "Reduce unforced errors by 25%"
-- "Develop a reliable plombée"
+### Niveau 2: Prestatiedoelen (Seizoen/Jaar)
+Meetbare verbeteringen in je spel:
+- &quot;Verhoog de schietnauwkeurigheid van 60% naar 70%&quot;
+- &quot;Verminder onnodige fouten met 25%&quot;
+- &quot;Ontwikkel een betrouwbare plombée&quot;
 
-These are within your control and measurable.
+Deze zaken heb je zelf in de hand en zijn meetbaar.
 
-### Level 3: Process Goals (Daily/Weekly)
-The actions that drive improvement:
-- "Complete pre-shot routine on every throw"
-- "Practice visualization for 10 minutes daily"
-- "Train shooting technique 3x per week"
+### Niveau 3: Procesdoelen (dagelijks/wekelijks)
+De acties die tot verbetering leiden:
+- &quot;Voltooi elke worp vóór de worp&quot;
+- &quot;Oefen dagelijks 10 minuten met visualisatie.&quot;
+- &quot;Train je schiettechniek 3 keer per week&quot;
 
-::: tip Full Control
-**Process goals are 100% controllable.** Focus here for maximum impact.
+::: tip Volledige controle
+**Procesdoelen zijn 100% beheersbaar.** Focus hierop voor maximaal effect.
 :::
 
-## The SMART+ Framework
+## Het SMART+ raamwerk
 
-Go beyond basic SMART goals:
+Ga verder dan de basis SMART-doelen:
 
-### Specific
-Not "improve my pointing" but "develop a consistent demi-portée that lands within 30cm of target from 8 meters."
+### Specifiek
+Niet &quot;mijn richtvermogen verbeteren&quot;, maar &quot;een consistente demi-portée ontwikkelen waarmee ik vanaf 8 meter binnen 30 cm van het doel kan landen.&quot;
 
-### Measurable
-Define how you'll track progress:
-- Success rate percentages
-- Consistency metrics
-- Video analysis markers
+### Meetbaar
+Bepaal hoe je de voortgang zult bijhouden:
+- Succespercentages
+- Consistentiemetrieken
+- Videoanalyse-markers
 
-### Achievable but Stretching
-The goal should require growth but be realistic. A 60% shooter aiming for 65% is achievable; aiming for 90% is fantasy.
+### Haalbaar, maar wel een uitdaging.
+Het doel moet groei vereisen, maar wel realistisch zijn. Een schutter met een schotpercentage van 60% die streeft naar 65% is haalbaar; streven naar 90% is pure fantasie.
 
 ### Relevant
-Goals must connect to your larger aspirations and address actual weaknesses, not just what's easy to improve.
+Doelen moeten aansluiten bij je grotere ambities en daadwerkelijke zwakke punten aanpakken, niet alleen zaken die makkelijk te verbeteren zijn.
 
-### Time-bound
-Set clear deadlines:
-- "By end of season"
-- "Within 3 months"
-- "By the national championship"
+### Tijdsgebonden
+Stel duidelijke deadlines vast:
+- &quot;Tegen het einde van het seizoen&quot;
+- &quot;Binnen 3 maanden&quot;
+- &quot;Door het nationale kampioenschap&quot;
 
-### + Personally Meaningful
-The goal must matter to YOU, not just your coach or teammates. Internal motivation sustains effort when progress is slow.
+### + Persoonlijk betekenisvol
+Het doel moet voor JOU belangrijk zijn, niet alleen voor je coach of teamgenoten. Innerlijke motivatie zorgt ervoor dat je volhoudt, ook als de vooruitgang traag is.
 
-## Process vs. Outcome Focus
+## Focus op het proces versus focus op het resultaat
 
-### The Problem with Outcome Goals
+### Het probleem met resultaatgerichte doelen
 
-"Win the match" creates problems:
-- Anxiety about things you can't control
-- Distraction from execution
-- All-or-nothing thinking
-- Pressure without guidance
+&quot;De wedstrijd winnen&quot; leidt tot problemen:
+- Angst voor dingen waar je geen controle over hebt.
+- Afleiding van de uitvoering
+- Alles-of-niets-denken
+- Druk uitoefenen zonder begeleiding
 
-### The Power of Process Goals
+### De kracht van procesdoelen
 
-"Execute my pre-shot routine perfectly" offers:
-- Full control
-- Clear focus
-- Immediate feedback
-- Builds toward outcomes naturally
+&quot;Voer mijn voorbereidingsroutine perfect uit&quot; biedt:
+- Volledige controle
+- Duidelijke focus
+- Directe feedback
+- Bouwt op natuurlijke wijze toe naar resultaten.
 
-### The Balance
+### De balans
 
-Use outcome goals for motivation and direction. Use process goals for daily focus and execution.
+Gebruik resultaatdoelen voor motivatie en richting. Gebruik procesdoelen voor dagelijkse focus en uitvoering.
 
-## Goal Setting for Different Phases
+## Doelstellingen formuleren voor verschillende fasen
 
-### Off-Season
-Focus on development goals:
-- Technical improvements
-- Physical conditioning
-- Mental skill building
-- Expanding your palette of throws
+### Buiten het seizoen
+Focus op ontwikkelingsdoelen:
+- Technische verbeteringen
+- Fysieke conditie
+- Het ontwikkelen van mentale vaardigheden
+- Je assortiment plaids uitbreiden
 
-### Pre-Season
-Transition to integration:
-- Combining skills in match-like conditions
-- Testing improvements in friendly competition
-- Refining strategies
+### Voorseizoen
+Overgang naar integratie:
+- Het combineren van vaardigheden onder wedstrijdomstandigheden.
+- Testen van verbeteringen in vriendschappelijke competitie
+- Verfijningsstrategieën
 
-### Competition Season
-Shift to performance and process:
-- Executing what you've developed
-- Process goals for each match
-- Minimal technical changes
+### Wedstrijdseizoen
+Schakel over naar prestaties en processen:
+- Het uitvoeren van wat je hebt ontwikkeld
+- Doelstellingen voor het proces bij elke wedstrijd
+- Minimale technische wijzigingen
 
-### Post-Competition
-Reflection and planning:
-- Analyze what worked
-- Identify areas for growth
-- Set goals for next cycle
+### Na de wedstrijd
+Reflectie en planning:
+- Analyseer wat wel werkte
+- Identificeer groeimogelijkheden.
+- Stel doelen voor de volgende cyclus
 
-## Common Goal-Setting Mistakes
+## Veelvoorkomende fouten bij het stellen van doelen
 
-### Too Many Goals
-Focus is power. 2-3 key goals beat 10 scattered ones.
+### Te veel doelen
+Focus is kracht. 2-3 kerndoelen zijn beter dan 10 verspreide doelen.
 
-### Only Outcome Goals
-Without process goals, you have no roadmap.
+### Alleen resultaatgerichte doelen
+Zonder procesdoelen heb je geen routekaart.
 
-### No Flexibility
-Goals should adapt to new information. Rigid adherence to outdated goals wastes effort.
+### Geen flexibiliteit
+Doelstellingen moeten zich aanpassen aan nieuwe informatie. Het star vasthouden aan verouderde doelstellingen is verspilling van inspanning.
 
-### Comparison-Based Goals
-"Be better than [player]" puts your success in someone else's hands.
+### Doelstellingen gebaseerd op vergelijking
+&quot;Wees beter dan [speler]&quot; legt je succes in de handen van iemand anders.
 
-### Neglecting Mental Goals
-Technical and physical goals dominate, but mental skills often determine who wins.
+### Mentale doelen verwaarlozen
+Technische en fysieke doelen staan centraal, maar mentale vaardigheden bepalen vaak wie er wint.
 
-## Implementation Strategies
+## Implementatiestrategieën
 
-### Write Them Down
-Written goals are significantly more likely to be achieved.
+### Schrijf ze op.
+Het is aanzienlijk waarschijnlijker dat schriftelijk vastgelegde doelen worden bereikt.
 
-### Review Regularly
-Weekly review keeps goals present and allows adjustment.
+### Regelmatig evalueren
+Een wekelijkse evaluatie houdt de doelen scherp en maakt bijsturing mogelijk.
 
-### Share Selectively
-Share with those who will support, not undermine.
+### Deel selectief
+Deel dit met mensen die je zullen steunen, niet ondermijnen.
 
-### Visualize Achievement
-Regularly imagine achieving your goals — the feeling, the moment.
+### Visualiseer je prestaties
+Stel je regelmatig voor dat je je doelen bereikt – het gevoel, het moment.
 
-### Track Progress
-What gets measured gets managed. Keep records.
+### Voortgang bijhouden
+Wat gemeten wordt, kan beheerd worden. Houd gegevens bij.
 
-## When Goals Aren't Met
+## Wanneer doelen niet worden bereikt
 
-Unmet goals aren't failures — they're data:
+Niet behaalde doelen zijn geen mislukkingen, maar data:
 
-1. **Analyze**: Why wasn't it achieved?
-2. **Learn**: What does this teach you?
-3. **Adjust**: Modify the goal or approach
-4. **Continue**: Persistence beats perfection
+1. **Analyseer**: Waarom is het niet gelukt?
+2. **Wat leer je hiervan?**
+3. **Aanpassen**: Het doel of de aanpak wijzigen
+4. **Vervolg**: Volharding wint van perfectie
 
-## The Mental Game of Goals
+## Het mentale spel van doelpunten
 
-Goals affect psychology:
-- **Too easy**: Boredom, complacency
-- **Too hard**: Anxiety, discouragement
-- **Just right**: Engagement, flow, growth
+Doelen beïnvloeden de psychologie:
+- **Te makkelijk**: Verveling, zelfgenoegzaamheid
+- **Te moeilijk**: Angst, ontmoediging
+- **Precies goed**: Betrokkenheid, flow, groei
 
-Find the sweet spot where goals challenge without overwhelming.
+Vind de ideale balans waarbij doelen uitdagend zijn zonder overweldigend te werken.
 
 ---
 
-*Related: [Goal Setting Introduction](/nl/education/motivation/) | [SMART Goals](/nl/education/motivation/smart-goals) | [Planning Your Development](/nl/education/motivation/planning)*
+| *Gerelateerd: [Inleiding tot het stellen van doelen](/en/education/motivation/) | [SMART-doelen](/en/education/motivation/smart-goals) | [Je ontwikkeling plannen](/en/education/motivation/planning)* |
 

@@ -228,13 +228,13 @@ _________________________________________________
 **Website:** carreau.app
 
 **Recommended Starting Point:**
-- [The Zone](/es/education/mental-game/the-zone/) - Deep dive into flow states
-- [Mental Strength](/es/education/mental-game/mental-strength/) - Building resilience
-- [Mindfulness](/es/education/mental-game/mindfulness/) - Daily practice guide
+- [The Zone](/en/education/mental-game/the-zone/) - Deep dive into flow states
+- [Mental Strength](/en/education/mental-game/mental-strength/) - Building resilience
+- [Mindfulness](/en/education/mental-game/mindfulness/) - Daily practice guide
 
 **Tools:**
-- [Goal Template](/es/guides/templates/goal-template) - Structure your development
-- [Diary Template](/es/guides/templates/diary-template) - Track your progress
+- [Goal Template](/en/guides/templates/goal-template) - Structure your development
+- [Diary Template](/en/guides/templates/diary-template) - Track your progress
 
 ### Questions?
 
@@ -631,9 +631,9 @@ Una página para que los participantes la conserven.
 **Email:** patrik.wiik@gmail.com
 
 **Next Steps:**
-1. Read [The Zone](/es/education/mental-game/the-zone/)
-2. Use [Goal Template](/es/guides/templates/goal-template)
-3. Track progress in [Diary](/es/guides/templates/diary-template)
+1. Read [The Zone](/en/education/mental-game/the-zone/)
+2. Use [Goal Template](/en/guides/templates/goal-template)
+3. Track progress in [Diary](/en/guides/templates/diary-template)
 ```
 
 </details>
@@ -654,7 +654,7 @@ Hojas de trabajo interactivas para actividades durante la sesión. Los participa
 ### Hoja de trabajo 4: Plan de acción
 
 ::: tip Hojas de trabajo digitales
-Anime a los participantes a utilizar la [Plantilla de objetivos](/es/guides/templates/goal-template) y la [Plantilla de diario](/es/guides/templates/diary-template) para la práctica continua.
+Anime a los participantes a utilizar la [Plantilla de objetivo](/es/guides/templates/goal-template) y la [Plantilla de diario](/es/guides/templates/diary-template) para la práctica continua.
 :::
 
 
@@ -714,7 +714,7 @@ Para sesiones remotas o híbridas:
 
 **¿Preguntas sobre los materiales?**
 - Correo electrónico: patrik.wiik@gmail.com
-- Revisa la [Guía de sesiones](/es/guides/mental-journey/session-guide)
+- Revisa la [Guía de la sesión](/es/guides/mental-journey/session-guide)
 - Consulte la [Guía del taller](/es/guides/workshop/) para obtener un formato avanzado
 
 

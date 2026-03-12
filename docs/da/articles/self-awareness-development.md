@@ -3,31 +3,31 @@ title: "Developing Self-Awareness: The Foundation of Improvement"
 description: How accurate self-perception enables targeted development and prevents blind spots from limiting your pétanque performance.
 ---
 
-# Developing Self-Awareness: The Foundation of Improvement
+# Udvikling af selvbevidsthed: Fundamentet for forbedring
 
-> "You can't improve what you don't accurately perceive."
+> &quot;Du kan ikke forbedre det, du ikke opfatter korrekt.&quot;
 
-Self-awareness—knowing your actual strengths and weaknesses—is the foundation of effective development.
+Selvbevidsthed – at kende dine faktiske styrker og svagheder – er fundamentet for effektiv udvikling.
 
-::: danger The Uncomfortable Truth
-**Most players are working on the wrong things** because they don't see themselves clearly.
+::: danger Den ubehagelige sandhed
+**De fleste spillere arbejder på de forkerte ting** fordi de ikke ser sig selv klart.
 :::
 
 ---
 
-## The Self-Awareness Paradox
+## Selvbevidsthedsparadokset
 
 ```mermaid
 flowchart TD
-    A[The Self-Awareness Paradox] --> B[Dunning-Kruger Effect]
-    A --> C[Expert Blind Spots]
-    A --> D[Emotional Interference]
+    A[Selvbevidsthedsparadokset] --> B[Dunning-Kruger-effekten]
+    A --> C[Ekspert blinde vinkler]
+    A --> D[Følelsesmæssig interferens]
 
-    B --> E[Low skill = overestimate ability]
-    C --> F[Even skilled players misjudge]
-    D --> G[We want to believe we're better]
+    B --> E[Lav færdighed = overvurder evne]
+    C --> F[Selv dygtige spillere fejlvurderer]
+    D --> G[Vi vil gerne tro, at vi er bedre]
 
-    E --> H[Working on Wrong Things]
+    E --> H[Arbejder på forkerte ting]
     F --> H
     G --> H
 
@@ -37,151 +37,151 @@ flowchart TD
 
 ---
 
-## Why Pétanque Players Struggle
+## Hvorfor petanquespillere kæmper
 
-Pétanque makes self-assessment particularly difficult:
+Petanque gør selvevaluering særligt vanskelig:
 
-| Challenge | Why It's Hard |
+| Udfordring | Hvorfor det er svært |
 |-----------|--------------|
-| **Result Variance** | Good decisions can produce bad outcomes (and vice versa) |
-| **Comparison Bias** | We remember best performances, explain away worst |
-| **Identity Protection** | Admitting weakness feels threatening |
+| **Resultatvarians** | Gode beslutninger kan føre til dårlige resultater (og omvendt) |
+| **Sammenligningsbias** | Vi husker de bedste præstationer, bortforklarer de værste |
+| **Identitetsbeskyttelse** | At indrømme svaghed føles truende |
 
-::: warning Memory Is Not Data
-**We construct narratives that protect our self-image.** Objective tracking is essential.
+::: warning Hukommelse er ikke data
+**Vi konstruerer fortællinger, der beskytter vores selvbillede.** Objektiv sporing er afgørende.
 :::
 
 ---
 
-## The Components of Self-Awareness
+## Komponenterne af selvbevidsthed
 
-True self-awareness requires insight into multiple domains:
+Sand selverkendelse kræver indsigt i flere domæner:
 
-| Domain | Key Questions |
+| Domæne | Nøglespørgsmål |
 |--------|---------------|
-| **Technical** | Which throws are actually reliable? Which are inconsistent? |
-| **Mental** | How do I respond to pressure? What triggers my inner critic? |
-| **Physical** | When is my energy highest? How does fatigue affect me? |
-| **Tactical** | Do I over-attack? Under-attack? How do I read situations? |
-| **Emotional** | What frustrates me? When do I play tight? |
-| **Interpersonal** | How do teammates perceive my communication? |
+| **Teknisk** | Hvilke kast er faktisk pålidelige? Hvilke er inkonsistente? |
+| **Mental** | Hvordan reagerer jeg på pres? Hvad udløser min indre kritiker? |
+| **Fysisk** | Hvornår er min energi højest? Hvordan påvirker træthed mig? |
+| **Taktisk** | Overangriber jeg? Underangriber jeg? Hvordan aflæser jeg situationer? |
+| **Følelsesmæssig** | Hvad frustrerer mig? Hvornår spiller jeg tight? |
+| **Interpersonel** | Hvordan opfatter holdkammeraterne min kommunikation? |
 
-## External Feedback: The Mirror You Need
+## Ekstern feedback: Det spejl, du har brug for
 
-You cannot see your own blind spots. You need external perspectives.
+Du kan ikke se dine egne blinde vinkler. Du har brug for eksterne perspektiver.
 
-### Structured Feedback Methods
+### Strukturerede feedbackmetoder
 
-**Video Analysis**
-- Record matches and practice
-- Watch with specific focus areas
-- Notice patterns you miss in the moment
+**Videoanalyse**
+- Optag kampe og træning
+- Se med specifikke fokusområder
+- Læg mærke til mønstre, du overser i øjeblikket
 
-**Peer Assessment**
-- Ask trusted teammates for honest feedback
-- Use the [Assessment Tool](/da/assessment/) for peer validation
-- Compare your self-rating with their rating
+**Fællebedømmelse**
+- Spørg betroede holdkammerater om ærlig feedback
+- Brug [Vurderingsværktøjet](/da/vurdering/) til validering af fagfæller
+- Sammenlign din egen vurdering med deres vurdering
 
-**Coach Observation**
-- Fresh eyes see what familiar eyes miss
-- Request specific feedback, not general impressions
-- Track feedback themes over time
+**Trænerobservation**
+- Friske øjne ser, hvad velkendte øjne overser
+- Bed om specifik feedback, ikke generelle indtryk
+- Spor feedbacktemaer over tid
 
-### The Feedback Gap
+### Feedbackkløften
 
-When your self-assessment differs significantly from external feedback, pay attention:
+Når din selvevaluering afviger væsentligt fra ekstern feedback, skal du være opmærksom på:
 
-| Gap Type | Meaning | Action |
+| Mellemrumstype | Mening | Handling |
 |----------|---------|--------|
-| You rate higher | Possible blind spot | Investigate with video/data |
-| You rate lower | Possible confidence issue | Focus on evidence of competence |
-| Consistent gap | Systematic perception error | Recalibrate your mental model |
+| Du vurderer højere | Mulig blind vinkel | Undersøg med video/data |
+| Du vurderer lavere | Muligt tillidsproblem | Fokus på bevis for kompetence |
+| Konsekvent hul | Systematisk opfattelsesfejl | Genkalibrer din mentale model |
 
-## Building Self-Awareness Habits
+## Opbygning af selvbevidsthedsvaner
 
-### Daily Reflection (5 minutes)
+### Daglig refleksion (5 minutter)
 
-After each session, ask yourself:
+Efter hver session, spørg dig selv:
 
-1. **What went well?** (Be specific)
-2. **What didn't go well?** (Be honest)
-3. **What would I do differently?** (Be constructive)
-4. **What surprised me?** (Be curious)
+1. **Hvad gik godt?** (Vær specifik)
+2. **Hvad gik ikke godt?** (Vær ærlig)
+3. **Hvad ville jeg gøre anderledes?** (Vær konstruktiv)
+4. **Hvad overraskede mig?** (Vær nysgerrig)
 
-### Weekly Review (15 minutes)
+### Ugentlig gennemgang (15 minutter)
 
-Look for patterns:
+Se efter mønstre:
 
-- Which situations consistently challenge me?
-- Where am I improving?
-- What feedback have I received?
-- What am I avoiding looking at?
+- Hvilke situationer udfordrer mig konsekvent?
+- Hvor forbedrer jeg mig?
+- Hvilken feedback har jeg modtaget?
+- Hvad undgår jeg at se på?
 
-### Monthly Assessment
+### Månedlig vurdering
 
-Use the [Player Assessment](/da/assessment/) tool:
+Brug værktøjet [Spillervurdering](/da/vurdering/):
 
-- Rate yourself on all 8 factors
-- Request peer validation
-- Compare to previous month
-- Identify largest gaps
+- Bedøm dig selv på alle 8 faktorer
+- Anmod om peer-validering
+- Sammenlign med foregående måned
+- Identificér de største huller
 
-## The Data Advantage
+## Datafordelen
 
-Subjective perception is unreliable. Data provides objectivity:
+Subjektiv opfattelse er upålidelig. Data giver objektivitet:
 
-### What to Track
+### Hvad skal spores
 
-**Performance Data**
-- Success rates by throw type
-- Performance under pressure vs. no pressure
-- First set vs. later sets
-- With different partners
+**Ydelsesdata**
+- Succesrater efter kasttype
+- Ydeevne under pres vs. intet pres
+- Første sæt vs. senere sæt
+- Med forskellige partnere
 
-**Process Data**
-- Sleep quality before matches
-- Pre-match routine compliance
-- Mental state during key moments
-- Recovery time after mistakes
+**Procesdata**
+- Søvnkvalitet før kampene
+- Overholdelse af rutine før kamp
+- Mental tilstand i afgørende øjeblikke
+- Restitutionstid efter fejl
 
-### How to Use Data
+### Sådan bruger du data
 
-1. **Identify patterns** — What correlates with good/poor performance?
-2. **Challenge assumptions** — Does data match your beliefs?
-3. **Guide training** — Focus on actual weaknesses, not perceived ones
-4. **Track progress** — Improvement is often invisible without measurement
+1. **Identificer mønstre** — Hvad korrelerer med god/dårlig præstation?
+2. **Udfordr antagelser** — Stemmer dataene overens med dine overbevisninger?
+3. **Guidetræning** — Fokus på faktiske svagheder, ikke opfattede
+4. **Spor fremskridt** — Forbedring er ofte usynlig uden måling
 
-## Common Self-Awareness Blocks
+## Almindelige selvbevidsthedsblokeringer
 
-::: warning Watch For These
-- **Defensiveness** when receiving feedback
-- **Explaining away** poor performances
-- **Seeking confirmation** rather than truth
-- **Avoiding measurement** of weak areas
-- **Blaming external factors** consistently
+::: warning Hold øje med disse
+- **Defensivitet** ved modtagelse af feedback
+- **Bortforklaring** på dårlige præstationer
+- **Søger bekræftelse** snarere end sandhed
+- **Undgå måling** af svage områder
+- **Give konsekvent skylden på eksterne faktorer**
 :::
 
-## The Growth Mindset Connection
+## Forbindelsen mellem væksttankegangen
 
-Self-awareness requires accepting that:
+Selvbevidsthed kræver accept af, at:
 
-- Current ability is not fixed
-- Weakness is information, not identity
-- Feedback is a gift, not an attack
-- Improvement requires honest assessment
+- Nuværende evne er ikke fast
+- Svaghed er information, ikke identitet
+- Feedback er en gave, ikke et angreb
+- Forbedring kræver ærlig vurdering
 
-## Action Steps
+## Handlingstrin
 
-1. **Today:** Complete the [Self-Assessment](/da/assessment/)
-2. **This week:** Request peer feedback from 2 trusted teammates
-3. **Ongoing:** Establish daily reflection habit
-4. **Monthly:** Track progress with repeated assessments
+1. **I dag:** Udfyld [Selvvurderingen](/da/vurdering/)
+2. **Denne uge:** Anmod om feedback fra to betroede holdkammerater
+3. **Løbende:** Etabler daglig refleksionsvane
+4. **Månedligt:** Følg fremskridt med gentagne evalueringer
 
 ---
 
-## Related Content
+## Relateret indhold
 
-- [Self-Awareness Module](/da/education/self-awareness/) — Complete education
-- [Player Assessment](/da/assessment/) — Evaluate your 8 factors
-- [The Inner Critic](/da/articles/inner-critic) — Managing self-judgment
+- [Selvbevidsthedsmodul](/da/uddannelse/selvbevidsthed/) — Fuldstændig uddannelse
+- [Spillervurdering](/da/vurdering/) — Evaluer dine 8 faktorer
+- [Den indre kritiker](/da/artikler/indre-kritiker) — Håndtering af selvdømmelse
 

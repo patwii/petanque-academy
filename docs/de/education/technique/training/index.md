@@ -187,7 +187,7 @@ Widmen Sie sich gezielt Zeit für mentale Fähigkeiten:
 
 ## In diesem Abschnitt
 
-- **[Trainingsübungen](/de/education/technique/training/drills)** - Spezielle Übungen für verschiedene Fertigkeiten
+- **[Trainingsübungen](/en/education/technique/training/drills)** - Spezielle Übungen für verschiedene Fertigkeiten
 
 ## Wichtigste Erkenntnis
 

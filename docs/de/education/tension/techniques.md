@@ -3,142 +3,142 @@ title: Tension Release Techniques
 description: Learn Progressive Muscle Relaxation (PMR), quick release protocols, and breathing techniques for pétanque performance.
 ---
 
-# Tension Release Techniques
+# Techniken zur Spannungslösung
 
-This page provides practical techniques for releasing tension, from the full Progressive Muscle Relaxation protocol to quick competition-ready methods.
+Diese Seite bietet praktische Techniken zum Lösen von Verspannungen, vom vollständigen Protokoll der progressiven Muskelentspannung bis hin zu schnellen, wettkampftauglichen Methoden.
 
 ---
 
-## Progressive Muscle Relaxation (PMR)
+## Progressive Muskelentspannung (PMR)
 
-PMR is the foundation technique for learning body awareness and tension control. Developed by Edmund Jacobson in the 1930s, it teaches you to recognize and release tension systematically.
+PMR ist die grundlegende Technik zum Erlernen von Körperwahrnehmung und Spannungsregulierung. Sie wurde in den 1930er Jahren von Edmund Jacobson entwickelt und lehrt, Spannungen systematisch zu erkennen und zu lösen.
 
-### The Core Principle
+### Das Kernprinzip
 
-**Tension → Recognition → Release**
+**Spannung → Erkennung → Entspannung**
 
-By deliberately tensing muscles, you learn to:
-1. Notice tension (often we don't realize we're tense)
-2. Feel the contrast when releasing
-3. Achieve deeper relaxation than without the tension phase
+Durch das bewusste Anspannen von Muskeln lernt man:
+1. Achten Sie auf Anspannung (oft merken wir gar nicht, dass wir angespannt sind).
+2. Spüre den Kontrast beim Loslassen
+3. Erreichen Sie eine tiefere Entspannung als ohne die Spannungsphase.
 
-### The Full PMR Protocol (15-20 minutes)
+### Das vollständige PMR-Protokoll (15-20 Minuten)
 
-Practice this daily for 2-3 weeks to build the skill.
+Üben Sie dies täglich 2-3 Wochen lang, um die Fertigkeit aufzubauen.
 
-**Setup:**
-- Quiet, comfortable space
-- Lying down or reclined
-- Eyes closed
-- Loose clothing
+**Aufstellen:**
+- Ruhiger, komfortabler Raum
+- Im Liegen oder Zurücklehnen
+- Augen geschlossen
+- Lockere Kleidung
 
-**The Sequence:**
+**Der Ablauf:**
 
-For each muscle group:
-1. **Tense** for 5-7 seconds (50-70% max effort)
-2. **Release** suddenly and completely
-3. **Notice** the relaxation for 15-20 seconds
-4. Move to next group
+Für jede Muskelgruppe:
+1. **Anspannen** für 5-7 Sekunden (50-70 % maximale Anstrengung)
+2. **Lassen Sie sich** plötzlich und vollständig los
+3. **Beachten Sie** die Entspannung für 15-20 Sekunden.
+4. Zur nächsten Gruppe wechseln
 
-| # | Muscle Group | How to Tense |
+| # | Muskelgruppe | Wie man die Zeitform bildet |
 |---|--------------|--------------|
-| 1 | Right hand/forearm | Make a fist |
-| 2 | Right upper arm | Bend elbow, flex bicep |
-| 3 | Left hand/forearm | Make a fist |
-| 4 | Left upper arm | Bend elbow, flex bicep |
-| 5 | Forehead | Raise eyebrows |
-| 6 | Eyes/cheeks | Squeeze eyes shut |
-| 7 | Jaw | Clench teeth gently |
-| 8 | Neck/shoulders | Shrug shoulders to ears |
-| 9 | Chest | Deep breath, hold |
-| 10 | Stomach | Tighten abs |
-| 11 | Right thigh | Tense upper leg |
-| 12 | Right calf | Point toes up |
-| 13 | Right foot | Curl toes |
-| 14 | Left thigh | Tense upper leg |
-| 15 | Left calf | Point toes up |
-| 16 | Left foot | Curl toes |
+| 1 | Rechte Hand/Unterarm | Balle die Faust |
+| 2 | Rechter Oberarm | Beugen Sie den Ellbogen, spannen Sie den Bizeps an. |
+| 3 | Linke Hand/Unterarm | Balle die Faust |
+| 4 | Linker Oberarm | Beugen Sie den Ellbogen, spannen Sie den Bizeps an. |
+| 5 | Stirn | Augenbrauen hochziehen |
+| 6 | Augen/Wangen | Augen fest zusammenkneifen |
+| 7 | Kiefer | Zähne leicht zusammenbeißen |
+| 8 | Nacken/Schultern | Schultern zu den Ohren ziehen |
+| 9 | Brust | Tief einatmen, anhalten |
+| 10 | Magen | Bauchmuskeln anspannen |
+| 11 | Rechter Oberschenkel | Verspannter Oberschenkel |
+| 12 | Rechte Wade | Zehenspitzen nach oben |
+| 13 | Rechter Fuß | Zehen krümmen |
+| 14 | Linker Oberschenkel | Verspannter Oberschenkel |
+| 15 | Linke Wade | Zehenspitzen nach oben |
+| 16 | Linker Fuß | Zehen krümmen |
 
-::: warning Important Notes
-- Don't overtense (strain risk)
-- Skip any injured areas
-- Focus on the release phase
-- Notice the difference between tension and relaxation
+::: warning Wichtige Hinweise
+- Nicht überanstrengen (Überlastungsrisiko)
+- Überspringen Sie alle verletzten Bereiche.
+- Fokus auf die Freigabephase
+- Beachten Sie den Unterschied zwischen Anspannung und Entspannung.
 :::
 
-### Abbreviated PMR (5-7 minutes)
+### Verkürzte PMR (5-7 Minuten)
 
-Once you've mastered the full protocol, use this shorter version:
+Sobald Sie das vollständige Protokoll beherrschen, verwenden Sie diese kürzere Version:
 
-| Group | Muscles Combined |
+| Gruppe | Muskeln kombiniert |
 |-------|------------------|
-| 1 | Both arms (hands, forearms, upper arms) |
-| 2 | Face (forehead, eyes, jaw) |
-| 3 | Neck and shoulders |
-| 4 | Torso (chest, stomach, back) |
-| 5 | Both legs (thighs, calves, feet) |
+| 1 | Beide Arme (Hände, Unterarme, Oberarme) |
+| 2 | Gesicht (Stirn, Augen, Kiefer) |
+| 3 | Nacken und Schultern |
+| 4 | Rumpf (Brust, Bauch, Rücken) |
+| 5 | Beide Beine (Oberschenkel, Waden, Füße) |
 
 ---
 
-## Quick Release Techniques
+## Schnellverschlusstechniken
 
-For use during competition when full PMR isn't practical.
+Zur Verwendung während Wettkämpfen, wenn die vollständige PMR-Technik nicht praktikabel ist.
 
-### The 30-Second Reset
+### Der 30-Sekunden-Reset
 
-Between points or during short breaks:
+Zwischen den Spielpunkten oder während kurzer Pausen:
 
-1. **Deep breath** — Slow inhale through nose (4 counts)
-2. **Shoulder drop** — Raise shoulders to ears, then drop completely
-3. **Hand shake** — Shake hands loosely for 5 seconds
-4. **Jaw release** — Open mouth wide, then let it close naturally
-5. **Final breath** — Slow exhale (6 counts)
+1. **Tief durchatmen** — Langsam durch die Nase einatmen (4 Zählzeiten)
+2. **Schultern fallen lassen** – Schultern bis zu den Ohren hochziehen und dann vollständig fallen lassen.
+3. **Händeschütteln** – Schütteln Sie Ihre Hände locker für 5 Sekunden.
+4. **Kieferentspannung** – Öffnen Sie den Mund weit und lassen Sie ihn dann natürlich schließen.
+5. **Letzter Atemzug** — Langsames Ausatmen (6 Zählzeiten)
 
-### The Grip Reset
+### Der Griff-Reset
 
-Before each throw:
+Vor jedem Wurf:
 
-1. **Squeeze hard** — Grip the boule at 80% for 2 seconds
-2. **Release to optimal** — Find your ideal grip pressure (usually 40-50%)
-3. **Notice** — Feel the difference
+1. **Fest zudrücken** – Halten Sie die Kugel 2 Sekunden lang zu 80 % fest.
+2. **Optimale Griffkraft finden** – Finden Sie Ihren idealen Griffdruck (normalerweise 40–50 %)
+3. **Achten Sie darauf** – Spüren Sie den Unterschied.
 
-This creates a reference point for proper grip pressure.
+Dadurch wird ein Bezugspunkt für den richtigen Griffdruck geschaffen.
 
-### The Shoulder Protocol
+### Das Schulterprotokoll
 
-Shoulders are tension magnets. Use this frequently:
+Schultern sind wie Magneten für Spannungen. Nutzen Sie dies häufig:
 
-1. **Raise** shoulders toward ears
-2. **Hold** for 3 seconds
-3. **Drop** suddenly and completely
-4. **Breathe** out as you drop
+1. **Schultern zu den Ohren hochziehen**
+2. **3 Sekunden lang gedrückt halten**
+3. **Lassen** Sie es plötzlich und vollständig fallen
+4. Atme aus, während du dich fallen lässt.
 
 ---
 
-## Breathing Techniques
+## Atemtechniken
 
-Breath control directly affects your nervous system.
+Die Atemkontrolle beeinflusst direkt Ihr Nervensystem.
 
-### Why Breathing Works
+### Warum das Atmen funktioniert
 
-- **Exhale activates parasympathetic system** (calming)
-- **Slow breathing reduces heart rate**
-- **Rhythmic breathing creates focus**
+- **Ausatmen aktiviert das parasympathische Nervensystem** (beruhigend)
+- **Langsames Atmen senkt die Herzfrequenz.**
+- **Rhythmische Atmung fördert die Konzentration**
 
-### The 4-7-8 Technique
+### Die 4-7-8-Technik
 
-A powerful calming breath:
+Ein kraftvoller, beruhigender Atemzug:
 
-1. **Inhale** through nose for 4 counts
-2. **Hold** for 7 counts
-3. **Exhale** through mouth for 8 counts
-4. Repeat 3-4 times
+1. **Durch die Nase einatmen**, bis viermal gezählt wurde.
+2. **Halten** für 7 Zählzeiten
+3. **Atmen Sie** 8 Sekunden lang durch den Mund aus.
+4. 3-4 Mal wiederholen
 
-Use this between games or during breaks when you're over-aroused.
+Nutze dies zwischen den Spielen oder in den Pausen, wenn du übererregt bist.
 
-### Box Breathing
+### Boxatmung
 
-Good for maintaining steady arousal:
+Gut geeignet zur Aufrechterhaltung einer gleichmäßigen Erregung:
 
 ```
     Inhale 4 → → → →
@@ -148,90 +148,90 @@ Good for maintaining steady arousal:
     ← ← ← ← Exhale 4
 ```
 
-4-4-4-4 rhythm. Use during competition for stable focus.
+4-4-4-4-Rhythmus. Im Wettkampf für stabile Konzentration nutzen.
 
-### Competition Breath
+### Wettbewerbsatem
 
-Quick version for before a throw:
+Kurzfassung für vor dem Wurf:
 
-1. **Full exhale** — Push all air out
-2. **Natural inhale** — Let air flow in naturally
-3. **Slow exhale** — Controlled release
-4. **Begin routine** — Step to the circle
+1. **Vollständig ausatmen** – Die gesamte Luft ausstoßen
+2. **Natürliches Einatmen** – Lassen Sie die Luft natürlich einströmen.
+3. **Langsames Ausatmen** — Kontrollierte Freisetzung
+4. **Routine beginnen** — Treten Sie in den Kreis
 
 ---
 
-## Pre-Throw Tension Protocol
+## Spannungsprotokoll vor dem Wurf
 
-A complete sequence to use before important throws:
+Eine vollständige Sequenz, die vor wichtigen Würfen ausgeführt werden sollte:
 
-### The 15-Second Protocol
+### Das 15-Sekunden-Protokoll
 
-| Step | Time | Action |
+| Schritt | Zeit | Aktion |
 |------|------|--------|
-| 1 | 3 sec | Body scan: notice any tension |
-| 2 | 3 sec | One deep breath |
-| 3 | 3 sec | Shoulder drop |
-| 4 | 3 sec | Grip check (tense-release if needed) |
-| 5 | 3 sec | Final breath, begin routine |
+| 1 | 3 Sekunden | Körperscan: Achten Sie auf Verspannungen. |
+| 2 | 3 Sekunden | Ein tiefer Atemzug |
+| 3 | 3 Sekunden | Schulterabfall |
+| 4 | 3 Sekunden | Griffprüfung (ggf. anspannen und entspannen) |
+| 5 | 3 Sekunden | Letzter Atemzug, Beginn der Routine |
 
-### The "Reset" Cue Word
+### Das Stichwort &quot;Reset&quot;.
 
-Choose a single word that cues your body to release:
-- "Soft"
-- "Easy"
-- "Flow"
-- "Release"
+Wähle ein einzelnes Wort, das deinem Körper das Signal zum Loslassen gibt:
+- &quot;Weich&quot;
+- &quot;Einfach&quot;
+- &quot;Fließen&quot;
+- &quot;Freigeben&quot;
 
-Practice saying this word mentally while releasing tension. Eventually, the word alone triggers the relaxation response.
-
----
-
-## Building the Skill
-
-### Week 1-2: Foundation
-- Practice full PMR daily (15-20 min)
-- Learn to recognize tension vs. relaxation
-- Don't use in competition yet
-
-### Week 3-4: Abbreviated
-- Switch to abbreviated PMR (5-7 min daily)
-- Begin using shoulder drops and grip resets in training
-- Notice tension patterns during practice
-
-### Week 5+: Competition Application
-- Integrate quick techniques into competition routine
-- Use pre-throw protocol on important throws
-- Develop your cue word
+Üben Sie, dieses Wort in Gedanken auszusprechen, während Sie Anspannung lösen. Schließlich löst allein das Wort die Entspannungsreaktion aus.
 
 ---
 
-## Troubleshooting
+## Aufbau der Fähigkeit
 
-### "I can't relax"
+### Woche 1-2: Grundlagen
+- Üben Sie täglich die vollständige PMR (15-20 Minuten).
+- Lerne, Anspannung von Entspannung zu unterscheiden.
+- Noch nicht im Wettkampf einsetzen
 
-- You're trying too hard (paradox)
-- Focus on the release, not on "being relaxed"
-- It's a skill—requires practice
+### Woche 3-4: Abgekürzt
+- Umstellung auf verkürzte PMR (5-7 Minuten täglich)
+- Beginnen Sie mit dem Einsatz von Schultersenkungen und Griffneusetzungen im Training.
+- Achten Sie während des Trainings auf Spannungsmuster.
 
-### "I don't notice tension"
-
-- This is common initially
-- PMR trains recognition
-- Keep practicing, awareness develops
-
-### "It works in practice but not competition"
-
-- Start with lower-pressure situations
-- Build up gradually
-- Use abbreviated techniques more frequently
+### Woche 5+: Wettbewerbsbewerbung
+- Integriere schnelle Techniken in deine Wettkampfroutine
+- Bei wichtigen Würfen das Vorwurfprotokoll anwenden
+- Entwickle dein Stichwort
 
 ---
 
-## Related Content
+## Fehlerbehebung
 
-- [Understanding Tension](/de/education/tension/) — The science of tension
-- [Competition Tension Management](/de/education/tension/competition) — Match-day protocols
-- [Mindfulness](/de/education/mental-game/mindfulness/) — Present-moment awareness
-- [Pre-Shot Routine](/de/education/mental-game/mental-strength/pre-shot-routine) — Complete routine integration
+### &quot;Ich kann mich nicht entspannen.&quot;
+
+- Du strengst dich zu sehr an (Paradoxon).
+- Konzentriere dich auf die Entspannung, nicht auf das &quot;Entspannen&quot;.
+- Es ist eine Fähigkeit – sie erfordert Übung.
+
+### &quot;Ich spüre keine Spannungen.&quot;
+
+- Dies ist anfangs üblich.
+- PMR-Zugerkennung
+- Übung macht den Meister, das Bewusstsein entwickelt sich.
+
+### „In der Praxis funktioniert es, aber nicht im Wettkampf.“
+
+- Beginnen Sie mit Situationen mit geringerem Druck.
+- allmählich aufbauen
+- Verwenden Sie häufiger abgekürzte Techniken.
+
+---
+
+## Verwandte Inhalte
+
+- [Spannung verstehen](/en/education/tension/) — Die Wissenschaft der Spannung
+- [Bewältigung von Wettkampfspannungen](/en/education/tension/competition) — Spieltagsprotokolle
+- [Achtsamkeit](/en/education/mental-game/mindfulness/) — Bewusstsein für den gegenwärtigen Moment
+- [Vorbereitungsroutine](/en/education/mental-game/mental-strength/pre-shot-routine) — Vollständige Integration der Routine
 

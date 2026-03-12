@@ -16,7 +16,7 @@ Esta guía te ayuda a realizar una sesión introductoria de 2 a 3 horas sobre en
 |---------|---------|--------|
 | **Para los participantes** | Qué esperar de la sesión | [Ver sección](#para-participantes) |
 | **Para facilitadores** | Plan completo de la sesión y cronograma | [Ver sección](#para-facilitadores) |
-| **Materiales de la sesión** | Guías, diapositivas y hojas de trabajo | [Ver materiales](/es/guides/mental-journey/materials) |
+| **Materiales de la sesión** | Guías, diapositivas y hojas de trabajo | [Ver materiales](/es/guias/viaje-mental/materiales) |
 | **Lista de verificación de preparación** | Qué preparar antes de la sesión | [Ver lista de verificación](#preparación-1-semana-antes) |
 
 ---
@@ -109,7 +109,7 @@ Recibirás:
 **1 semana antes:**
 - [ ] Reservar habitación por 2-3 horas
 - [ ] Invitar de 6 a 12 participantes
-- [ ] Marcar páginas de materiales (ver [Materiales](/es/guides/mental-journey/materiales))
+- [ ] Marcar páginas de materiales (ver [Materiales](/es/guides/mental-journey/materials))
 - [ ] Revise esta guía a fondo
 - [ ] Prepare un rotafolio o una pizarra blanca
 
@@ -360,7 +360,7 @@ Piensa en un error reciente. Sigue los tres pasos.
 **Recursos:**
 - Entregar hoja resumen
 - Compartir sitio web: carreau.app
-- Módulo de inicio recomendado: [La Zona](/es/education/mental-game/the-zone/)
+- Módulo de inicio recomendado: [La Zona](/es/educacion/juego-mental/la-zona/)
 
 **Círculo de cierre:**
 &quot;Una palabra para describir cómo te sientes ahora mismo.&quot;
@@ -419,10 +419,10 @@ El entrenamiento mental es una habilidad como cualquier otra: requiere práctica
 
 ## Materiales
 
-- [Guía del participante](/es/guides/mental-journey/materials#guia-del-participante)
-- [Diapositivas del facilitador](/es/viaje-mental/materiales#diapositivas-del-facilitador)
-- [Hoja de resumen](/es/viaje-mental/materiales#hoja-de-resumen)
-- [Hojas de ejercicios](/es/guides/mental-journey/materials#exercise-worksheets)
+- [Guía del participante](/es/guias/viaje-mental/materiales#guia-del-participante)
+- [Diapositivas del facilitador](/es/guides/mental-journey/materiales#diapositivas-del-facilitador)
+- [Hoja de resumen](/es/guias/viaje-mental/materiales#hoja-de-resumen)
+- [Hojas de ejercicios](/es/guias/viaje-mental/materiales#hojas-de-ejercicios)
 
 ---
 

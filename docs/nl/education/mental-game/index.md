@@ -3,28 +3,28 @@ title: Mental Game
 description: Master the psychological aspects of pétanque. Learn to access flow states, build mental strength, and develop mindfulness for peak performance.
 ---
 
-# Mental Game
+# Mentaal spel
 
-::: tip The Most Important Factor
-**Weight: 600 points** — The mental game has the highest impact on your performance. Master your mind, and everything else follows.
+::: tip De belangrijkste factor
+**Gewicht: 600 punten** — De mentale kant heeft de grootste impact op je prestaties. Beheers je geest, en de rest volgt vanzelf.
 :::
 
-The mental game encompasses everything that happens between your ears: your thoughts, focus, confidence, and self-talk. Elite players don't just have better technique—they have better control over their mental state.
+Het mentale aspect omvat alles wat er zich tussen je oren afspeelt: je gedachten, focus, zelfvertrouwen en innerlijke dialoog. Topspelers beschikken niet alleen over een betere techniek, maar hebben ook meer controle over hun mentale toestand.
 
 ```mermaid
 graph TD
-    A[Mental Game] --> B[The Zone]
-    A --> C[Mental Strength]
+    A[Mentaal spel] --> B[De Zone]
+    A --> C[Mentale kracht]
     A --> D[Mindfulness]
     
-    B --> E[Flow States]
-    B --> F[Peak Performance]
+    B --> E[Stroomtoestanden]
+    B --> F[Maximale prestaties]
     
-    C --> G[Confidence]
-    C --> H[Pressure Handling]
+    C --> G[Vertrouwen]
+    C --> H[Drukhantering]
     
-    D --> I[Present Moment]
-    D --> J[Emotional Control]
+    D --> I[Het huidige moment]
+    D --> J[Emotionele controle]
     
     style A fill:#4CAF50,color:#fff
     style B fill:#81C784
@@ -32,52 +32,52 @@ graph TD
     style D fill:#81C784
 ```
 
-## The Three Pillars
+## De drie pijlers
 
-### 🎯 [The Zone](/nl/education/mental-game/the-zone/)
-Access the flow state where performance feels effortless. Learn what triggers flow and how to enter it consistently.
+### 🎯 [De Zone](/en/education/mental-game/the-zone/)
+Bereik de flowtoestand waarin presteren moeiteloos aanvoelt. Leer wat flow triggert en hoe je er consistent in terechtkomt.
 
-- [Introduction to The Zone](/nl/education/mental-game/the-zone/)
-- [Technical vs Flow Training](/nl/education/mental-game/the-zone/technical-vs-flow)
-- [Entering the Zone](/nl/education/mental-game/the-zone/entering-the-zone)
+- [Inleiding tot De Zone](/en/education/mental-game/the-zone/)
+- [Technische training versus flowtraining](/en/education/mental-game/the-zone/technical-vs-flow)
+- [De Zone Betreden](/en/education/mental-game/the-zone/entering-the-zone)
 
-### 💪 [Mental Strength](/nl/education/mental-game/mental-strength/)
-Build the psychological resilience to perform under pressure. Develop confidence, handle setbacks, and maintain composure.
+### 💪 [Mentale Kracht](/en/education/mental-game/mental-strength/)
+Ontwikkel psychologische veerkracht om onder druk te presteren. Bouw zelfvertrouwen op, leer omgaan met tegenslagen en bewaar je kalmte.
 
-- [Building Mental Strength](/nl/education/mental-game/mental-strength/)
-- [Handling Pressure](/nl/education/mental-game/mental-strength/handling-pressure)
-- [Pre-Shot Routine](/nl/education/mental-game/mental-strength/pre-shot-routine)
+- [Mentale kracht opbouwen](/en/education/mental-game/mental-strength/)
+- [Omgaan met druk](/en/education/mental-game/mental-strength/handling-pressure)
+- [Voorbereidingsroutine](/en/education/mental-game/mental-strength/pre-shot-routine)
 
-### 🧘 [Mindfulness](/nl/education/mental-game/mindfulness/)
-Develop present-moment awareness to stay focused and recover quickly from mistakes.
+### 🧘 [Mindfulness](/en/education/mental-game/mindfulness/)
+Ontwikkel bewustzijn van het huidige moment om gefocust te blijven en snel te herstellen van fouten.
 
-- [Introduction to Mindfulness](/nl/education/mental-game/mindfulness/)
-- [Mindfulness Techniques](/nl/education/mental-game/mindfulness/techniques)
-- [Daily Practice](/nl/education/mental-game/mindfulness/daily-practice)
+- [Inleiding tot Mindfulness](/en/education/mental-game/mindfulness/)
+- [Mindfulnesstechnieken](/en/education/mental-game/mindfulness/techniques)
+- [Dagelijkse oefening](/en/education/mental-game/mindfulness/daily-practice)
 
-## Why Mental Game Matters Most
+## Waarom mentale kracht het belangrijkst is
 
-| Aspect | Technical Training | Mental Training |
+| Aspect | Technische training | Mentale training |
 |--------|-------------------|-----------------|
-| **In practice** | You can make the shot | You can make the shot |
-| **In competition** | Technique may fail under pressure | Mental skills maintain performance |
-| **The difference** | Physical skill is necessary | Mental skill is the multiplier |
+| **In de praktijk** | Je kunt het schot maken. | Je kunt het schot maken. |
+| **In competitie** | De techniek kan onder druk falen. | Mentale vaardigheden zorgen ervoor dat de prestaties behouden blijven. |
+| **Het verschil** | Fysieke vaardigheden zijn vereist. | Mentale vaardigheid is de vermenigvuldigingsfactor. |
 
-::: warning The Common Mistake
-Most players spend 90% of their time on technique and 10% on mental skills. Elite players often reverse this ratio once they have solid fundamentals.
+::: warning De veelgemaakte fout
+De meeste spelers besteden 90% van hun tijd aan techniek en 10% aan mentale vaardigheden. Topspelers draaien deze verhouding vaak om zodra ze de basis onder de knie hebben.
 :::
 
-## Where to Start?
+## Waar te beginnen?
 
-**New to mental training?** Start with [The Zone](/nl/education/mental-game/the-zone/) to understand what peak performance feels like.
+**Nieuw in mentale training?** Begin met [The Zone](/en/education/mental-game/the-zone/) om te begrijpen hoe topprestaties aanvoelen.
 
-**Struggling under pressure?** Go to [Mental Strength](/nl/education/mental-game/mental-strength/) for practical techniques.
+**Heb je moeite met druk?** Ga naar [Mentale Kracht](/en/education/mental-game/mental-strength/) voor praktische technieken.
 
-**Mind wandering during matches?** [Mindfulness](/nl/education/mental-game/mindfulness/) will help you stay present.
+**Dwalen je gedachten af tijdens wedstrijden?** [Mindfulness](/en/education/mental-game/mindfulness/) helpt je om in het moment te blijven.
 
-## Related Resources
+## Gerelateerde bronnen
 
-- [Self-Awareness](/nl/education/self-awareness/) — Know yourself to improve faster
-- [Tension Management](/nl/education/tension/) — Physical relaxation enables mental clarity
-- [Assessment Tool](/nl/education/) — Evaluate your mental game and get personalized recommendations
+- [Zelfbewustzijn](/en/education/self-awareness/) — Ken jezelf om sneller vooruit te komen
+- [Spanningsmanagement](/en/education/tension/) — Lichamelijke ontspanning bevordert mentale helderheid
+- [Beoordelingstool](/en/education/) — Evalueer je mentale spel en ontvang persoonlijke aanbevelingen
 

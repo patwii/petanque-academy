@@ -3,32 +3,32 @@ title: Mental Resilience in Pétanque
 description: Build the mental toughness to bounce back from setbacks, maintain confidence through adversity, and perform consistently under pressure.
 ---
 
-# Mental Resilience in Pétanque
+# Mentale veerkracht bij jeu de boules
 
-> "Resilience isn't about never falling — it's about how quickly you get back up."
+> &quot;Veerkracht gaat er niet om dat je nooit valt, maar hoe snel je weer opstaat.&quot;
 
-In pétanque, where momentum shifts rapidly and single throws can change everything, mental resilience often determines who wins.
+Bij pétanque, waar het momentum snel kan omslaan en een enkele worp alles kan veranderen, is mentale veerkracht vaak doorslaggevend voor de winnaar.
 
-::: tip The Resilience Truth
-**Every elite player has bad moments.** What separates them is recovery speed — minutes, not matches.
+::: tip De waarheid over veerkracht
+**Elke topspeler kent wel eens mindere momenten.** Wat hen onderscheidt, is de snelheid waarmee ze herstellen — minuten, geen wedstrijden.
 :::
 
 ---
 
-## What Is Mental Resilience?
+## Wat is mentale veerkracht?
 
 ```mermaid
 flowchart TD
-    A[Setback Occurs] --> B{Resilient?}
+    A[Er treedt een tegenslag op.] --> B{Resilient?}
 
-    B -->|Yes| C[Accept → Learn → Reset]
-    B -->|No| D[Frustration → Tension → More Errors]
+    B -->|Yes| C[Accepteren → Leren → Resetten]
+    B -->|No| D[Frustratie → Spanning → Meer fouten]
 
-    C --> E[Quick Recovery]
-    D --> F[Spiral Down]
+    C --> E[Snel herstel]
+    D --> F[Spiraal omlaag]
 
-    E --> G[Performance Maintained]
-    F --> H[Performance Collapses]
+    E --> G[Prestaties behouden]
+    F --> H[Prestaties storten in]
 
     style A fill:#FF9800,color:#fff
     style E fill:#4CAF50,color:#fff
@@ -37,194 +37,194 @@ flowchart TD
     style H fill:#f44336,color:#fff
 ```
 
-Mental resilience is the ability to:
-- Recover quickly from setbacks
-- Maintain effort despite difficulties
-- Adapt to changing circumstances
-- Stay confident through adversity
-- Learn from failures without being defined by them
+Mentale veerkracht is het vermogen om:
+- Herstel snel van tegenslagen.
+- Houd vol, ondanks de moeilijkheden.
+- Aanpassen aan veranderende omstandigheden
+- Blijf zelfverzekerd, ook in tegenspoed.
+- Leer van mislukkingen zonder erdoor gedefinieerd te worden.
 
 ---
 
-## Why Resilience Matters in Pétanque
+## Waarom veerkracht belangrijk is bij pétanque
 
-Pétanque tests resilience constantly:
+Petanque stelt de veerkracht voortdurend op de proef:
 
-| Challenge | Resilient Response | Non-Resilient Response |
+| Uitdaging | Veerkrachtige reactie | Niet-veerkrachtige reactie |
 |-----------|-------------------|------------------------|
-| Perfect point gets shot | "Next throw" | "Unfair!" |
-| Miss an "easy" shot | "Reset, move on" | "I always choke" |
-| Opponents come back | "Stay focused" | "We're going to lose" |
-| Teammate struggles | "Support them" | "They're ruining it" |
+| Perfecte positie wordt beschoten | &quot;Volgende worp&quot; | &quot;Oneerlijk!&quot; |
+| Een &quot;makkelijke&quot; slag missen | &quot;Opnieuw beginnen, verder gaan&quot; | &quot;Ik verslik me altijd.&quot; |
+| Tegenstanders komen terug | &quot;Blijf geconcentreerd&quot; | &quot;We gaan verliezen&quot; |
+| Teamgenoot worstelt | &quot;Steun ze&quot; | &quot;Ze verpesten het&quot; |
 
 ---
 
-## The Resilience Mindset
+## De veerkrachtige mindset
 
-### Fixed vs. Growth Mindset
+### Vaste versus groeigerichte mindset
 
-| Fixed Mindset | Growth Mindset |
+| Vaste denkwijze | Groeimindset |
 |---------------|----------------|
-| "I missed because I'm not good enough" | "I missed — what can I learn?" |
-| "I can't handle pressure" | "I'm learning to handle pressure" |
-| "Failure means I'm a failure" | "Failure means I'm growing" |
+| &quot;Ik heb het gemist omdat ik niet goed genoeg ben.&quot; | &quot;Ik heb het gemist - wat kan ik ervan leren?&quot; |
+| &quot;Ik kan niet tegen druk.&quot; | &quot;Ik leer omgaan met druk.&quot; |
+| &quot;Mislukking betekent dat ik een mislukkeling ben.&quot; | &quot;Mislukking betekent dat ik groei&quot; |
 
-::: info Key Insight
-**Resilient players see setbacks as information, not identity.**
+::: info Kerninzicht
+**Veerkrachtige spelers zien tegenslagen als informatie, niet als onderdeel van hun identiteit.**
 :::
 
-### Controllables Focus
+### Bedieningselementen Focus
 
-Resilient players focus on what they can control:
-- Their preparation
-- Their effort
-- Their attitude
-- Their response to events
+Veerkrachtige spelers richten zich op wat ze wél kunnen beheersen:
+- Hun voorbereiding
+- Hun inspanning
+- Hun houding
+- Hun reactie op de gebeurtenissen
 
-They release what they can't control:
-- Opponents' performance
-- Weather conditions
-- Lucky or unlucky bounces
-- Others' opinions
+Ze laten los wat ze niet kunnen beheersen:
+- Prestaties van de tegenstanders
+- Weersomstandigheden
+- gelukkige of ongelukkige stuiters
+- Meningen van anderen
 
-### Long-Term Perspective
+### Langetermijnperspectief
 
-One throw, one match, one tournament — none define your career. Resilient players maintain perspective:
-- "This is one moment in a long journey"
-- "I've overcome setbacks before"
-- "This will make me stronger"
+Eén worp, één wedstrijd, één toernooi – niets daarvan bepaalt je carrière. Veerkrachtige spelers behouden het juiste perspectief:
+- &quot;Dit is slechts een moment op een lange reis.&quot;
+- &quot;Ik heb al eerder tegenslagen overwonnen.&quot;
+- &quot;Hierdoor word ik sterker.&quot;
 
-## Building Resilience
+## Veerkracht opbouwen
 
-### 1. Develop a Strong Foundation
+### 1. Ontwikkel een sterke basis
 
-Resilience is easier when you have:
-- **Solid technique**: Confidence in your abilities
-- **Physical fitness**: Energy to sustain effort
-- **Mental skills**: Tools for managing adversity
-- **Support network**: People who believe in you
+Veerkracht is makkelijker te ontwikkelen als je beschikt over:
+- **Solide techniek**: Vertrouwen in je vaardigheden
+- **Fysieke fitheid**: Energie om inspanning vol te houden
+- **Mentale vaardigheden**: Hulpmiddelen om met tegenslagen om te gaan
+- **Ondersteunend netwerk**: Mensen die in je geloven
 
-### 2. Practice Adversity
+### 2. Oefen met tegenslagen.
 
-You can't build resilience without facing challenges:
-- Train in difficult conditions
-- Practice when tired
-- Compete against better players
-- Put yourself in pressure situations
+Je kunt geen veerkracht opbouwen zonder uitdagingen aan te gaan:
+- Trainen onder moeilijke omstandigheden
+- Oefen ook als je moe bent
+- Neem het op tegen betere spelers.
+- Stel jezelf bloot aan situaties onder druk.
 
-### 3. Develop Recovery Routines
+### 3. Ontwikkel herstelroutines
 
-Create rituals for bouncing back:
+Ontwikkel rituelen om weer op te staan na tegenslag:
 
-**Physical reset:**
-- Deep breath
-- Shake out tension
-- Change posture
+**Fysieke reset:**
+- Diep ademhalen
+- Schud de spanning van je af
+- Verander je houding.
 
-**Mental reset:**
-- Acknowledge the setback
-- Extract any lesson
-- Refocus on the present
+**Mentale reset:**
+- Erken de tegenslag.
+- Haal er een willekeurige les uit.
+- Richt je aandacht weer op het heden.
 
-### 4. Build a Resilience Bank
+### 4. Bouw een veerkrachtbank op
 
-Keep a mental record of times you've overcome adversity:
-- Comebacks you've made
-- Challenges you've faced
-- Growth you've achieved
+Houd een mentaal overzicht bij van de momenten waarop je tegenslagen hebt overwonnen:
+- Reacties die je hebt gemaakt
+- Uitdagingen waarmee je te maken hebt gehad
+- Groei die je hebt bereikt
 
-Draw on these memories when current challenges feel overwhelming.
+Put deze herinneringen in je op als de huidige uitdagingen overweldigend aanvoelen.
 
-## Resilience in Action
+## Veerkracht in actie
 
-### After a Missed Shot
+### Na een gemiste schot
 
-1. **Accept**: "That happened"
-2. **Breathe**: One deep breath
-3. **Learn**: Quick assessment (if useful)
-4. **Release**: Let it go
-5. **Refocus**: Next opportunity
+1. **Accepteren**: &quot;Dat is gebeurd&quot;
+2. **Adem in**: één keer diep ademhalen
+3. **Leerpunten**: Snelle beoordeling (indien nuttig)
+4. **Loslaten**: Laat het los
+5. **Heroriënteer**: Volgende kans
 
-### During a Losing Streak
+### Tijdens een verliesreeks
 
-1. **Perspective**: "Streaks end"
-2. **Process**: Focus on execution, not results
-3. **Patience**: Trust that performance will return
-4. **Persistence**: Keep showing up
+1. **Perspectief**: &quot;Reeksen eindigen&quot;
+2. **Proces**: Focus op de uitvoering, niet op de resultaten.
+3. **Geduld**: Vertrouw erop dat de prestaties zullen terugkeren.
+4. **Volharding**: Blijf opdagen
 
-### When Opponents Are Dominating
+### Wanneer tegenstanders domineren
 
-1. **Respect**: Acknowledge their good play
-2. **Focus**: Control what you can
-3. **Compete**: Make them earn every point
-4. **Learn**: What can you take from this?
+1. **Respect**: Erken hun goede spel.
+2. **Focus**: Beheers wat je wél kunt beheersen
+3. **Wedstrijd**: Laat ze elk punt verdienen.
+4. **Leerpunten**: Wat kun je hiervan meenemen?
 
-### After a Tough Loss
+### Na een zware nederlaag
 
-1. **Feel**: Allow disappointment (briefly)
-2. **Analyze**: What went well? What didn't?
-3. **Extract**: Lessons for next time
-4. **Move on**: Don't carry it forward
+1. **Gevoel**: Sta teleurstelling toe (kortstondig)
+2. **Analyseer**: Wat ging goed? Wat ging niet goed?
+3. **Uittreksel**: Lessen voor de volgende keer
+4. **Ga verder**: sleep het niet mee naar een ander.
 
-## The Resilience Killers
+## De moordenaars van de veerkracht
 
-### Perfectionism
-Expecting perfection guarantees disappointment. Excellence, not perfection, is the goal.
+### Perfectionisme
+Het verwachten van perfectie leidt gegarandeerd tot teleurstelling. Uitmuntendheid, niet perfectie, is het doel.
 
-### Catastrophizing
-"I missed that shot, the match is over, I'm terrible." One event doesn't determine everything.
+### Catastroferen
+&quot;Ik heb die slag gemist, de wedstrijd is voorbij, ik ben vreselijk.&quot; Eén gebeurtenis bepaalt niet alles.
 
-### Comparison
-Measuring yourself against others puts your confidence in their hands.
+### Vergelijking
+Door jezelf met anderen te vergelijken, leg je je zelfvertrouwen in hun handen.
 
-### Rumination
-Replaying failures doesn't change them — it just extends their impact.
+### Herkauwen
+Het herhalen van mislukkingen verandert ze niet, het verlengt alleen hun impact.
 
-## Team Resilience
+## Teamveerkracht
 
-Resilience is contagious — both ways:
+Veerkracht is besmettelijk – in beide richtingen:
 
-**Building team resilience:**
-- Support struggling teammates
-- Celebrate effort, not just results
-- Model resilient responses
-- Maintain positive body language
+**Het versterken van de veerkracht van het team:**
+- Steun teamgenoten die het moeilijk hebben.
+- Vier de inspanning, niet alleen de resultaten.
+- Geef het goede voorbeeld van veerkrachtige reacties.
+- Houd een positieve lichaamstaal aan.
 
-**Protecting against negativity:**
-- Don't join complaint sessions
-- Redirect negative conversations
-- Focus on solutions, not problems
+**Bescherming tegen negativiteit:**
+- Neem niet deel aan klachtensessies.
+- Negatieve gesprekken in een andere richting sturen
+- Focus op oplossingen, niet op problemen.
 
-## Long-Term Resilience Development
+## Ontwikkeling van veerkracht op lange termijn
 
-### Daily Practices
-- Gratitude journaling (builds positive perspective)
-- Mindfulness meditation (builds emotional regulation)
-- Physical exercise (builds stress tolerance)
+### Dagelijkse oefeningen
+- Een dankbaarheidsdagboek bijhouden (bevordert een positieve kijk op het leven)
+- Mindfulnessmeditatie (bevordert emotionele regulatie)
+- Lichamelijke oefening (verhoogt de stresstolerantie)
 
-### Weekly Reflection
-- What challenges did I face?
-- How did I respond?
-- What would I do differently?
-- What am I proud of?
+### Wekelijkse reflectie
+- Welke uitdagingen ben ik tegengekomen?
+- Hoe heb ik gereageerd?
+- Wat zou ik anders doen?
+- Waar ben ik trots op?
 
-### Seasonal Review
-- Major setbacks and how I handled them
-- Growth in resilience capacity
-- Areas for continued development
+### Seizoensoverzicht
+- Grote tegenslagen en hoe ik daarmee omging.
+- Groei in veerkrachtcapaciteit
+- Gebieden voor verdere ontwikkeling
 
-## The Resilient Competitor
+## De veerkrachtige concurrent
 
-The most resilient competitors share traits:
-- They expect challenges and prepare for them
-- They see setbacks as temporary and specific
-- They maintain effort when results lag
-- They learn from every experience
-- They keep perspective on what matters
+De meest veerkrachtige concurrenten hebben de volgende eigenschappen gemeen:
+- Ze verwachten uitdagingen en bereiden zich daarop voor.
+- Ze beschouwen tegenslagen als tijdelijk en specifiek.
+- Ze blijven zich inzetten, ook als de resultaten uitblijven.
+- Ze leren van elke ervaring.
+- Ze behouden het perspectief op wat er echt toe doet.
 
-Resilience isn't a trait you have or don't have — it's a skill you build through practice and intention.
+Veerkracht is geen eigenschap die je wel of niet hebt, maar een vaardigheid die je ontwikkelt door oefening en intentie.
 
 ---
 
-*Related: [Mental Strength](/nl/education/mental-game/mental-strength/) | [Handling Pressure](/nl/education/mental-game/mental-strength/handling-pressure) | [The Zone](/nl/education/mental-game/the-zone/)*
+| *Gerelateerd: [Mentale kracht](/en/education/mental-game/mental-strength/) | [Omgaan met druk](/en/education/mental-game/mental-strength/handling-pressure) | [De Zone](/en/education/mental-game/the-zone/)* |
 

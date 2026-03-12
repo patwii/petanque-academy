@@ -1,154 +1,154 @@
-# About Pétanque Academy
+# Sobre a Academia de Pétanque
 
 
-## A Passion for Pétanque
+## Uma paixão pela petanca
 
-Welcome to Pétanque Academy, where a deep-seated passion for pétanque has been a driving force for over 45 years. My journey with this sport has been one of dedication, skill, and continuous enthusiasm.
+Bem-vindo à Academia de Pétanque, onde uma profunda paixão pela pétanque tem sido a força motriz por mais de 45 anos. Minha jornada neste esporte tem sido marcada por dedicação, habilidade e entusiasmo constante.
 
-Pétanque isn't just a game; it's a way to connect, strategize, and enjoy the outdoors, and I've been fortunate to experience its many facets for nearly half a century. Whether it's the precise placement of a boule or the camaraderie on the terrain, my commitment to pétanque remains as strong as ever.
+A petanca não é apenas um jogo; é uma forma de se conectar, criar estratégias e desfrutar do ar livre, e eu tive a sorte de vivenciar suas muitas facetas por quase meio século. Seja o posicionamento preciso de uma bola ou a camaradagem no campo, meu compromisso com a petanca permanece tão forte como sempre.
 
-![Patrik Wiik with friends](/img.png)
+![Patrik Wiik com amigos](/img.png)
 
-*Sharing this passion with friends is truly what makes pétanque so special. The countless hours spent on the terrain, filled with laughter, friendly competition, and shared stories, build bonds that last a lifetime.*
-
----
-
-## My Mission
-
-The mission of Pétanque Academy is to help elite players unlock their full potential by addressing the mental game - the often-overlooked aspect that separates good players from great ones.
-
-Through this site, I share:
-- **Mental game frameworks** developed from decades of experience
-- **Practical tools and templates** for goal setting and training
-- **Workshop methodologies** for building psychological safety
-- **Evidence-based approaches** to performance under pressure
-
-This isn't about technical coaching - it's about creating the mental foundation that allows your technical skills to shine when it matters most.
+Compartilhar essa paixão com os amigos é o que realmente torna a petanca tão especial. As incontáveis horas passadas no campo, repletas de risos, competição amigável e histórias compartilhadas, criam laços que duram a vida toda.
 
 ---
 
-## Why I Created This Site
+## Minha missão
 
-After 45+ years in pétanque, I've seen countless talented players struggle not with technique, but with:
-- **Inner critic** that destroys confidence after mistakes
-- **Pressure** that makes them play differently in competition
-- **Lack of structure** in mental training
-- **Isolation** in their development journey
+A missão da Academia de Pétanque é ajudar jogadores de elite a desbloquearem todo o seu potencial, abordando o jogo mental – o aspecto muitas vezes negligenciado que diferencia os bons jogadores dos excelentes.
 
-This site exists to change that. Every piece of content here is designed to be immediately practical - templates you can copy, frameworks you can apply today, and tools that work in real competition.
+Por meio deste site, compartilho:
+- **Estruturas de jogos mentais** desenvolvidas a partir de décadas de experiência
+- **Ferramentas e modelos práticos** para definição de metas e treinamento
+- **Metodologias de workshop** para construir segurança psicológica
+- **Abordagens baseadas em evidências** para o desempenho sob pressão
+
+Não se trata de treinamento técnico, mas sim de criar a base mental que permitirá que suas habilidades técnicas brilhem quando mais importa.
+
+---
+
+## Por que eu criei este site
+
+Após mais de 45 anos praticando petanca, vi inúmeros jogadores talentosos lutarem não com a técnica, mas com:
+- **O crítico interno** destrói a confiança após erros.
+- **Pressão** que os faz jogar de forma diferente na competição.
+- **Falta de estrutura** no treinamento mental
+- **Isolamento** em sua jornada de desenvolvimento
+
+Este site existe para mudar isso. Todo o conteúdo aqui foi desenvolvido para ser imediatamente prático: modelos que você pode copiar, estruturas que você pode aplicar hoje mesmo e ferramentas que funcionam em competições reais.
 
 ---
 
 
-## Get in Touch
+## Entre em contato
 
-I'd love to hear from you! Whether you have questions, want to share your experience, or are interested in workshops and training, feel free to reach out.
+Adoraria ouvir de você! Seja para tirar dúvidas, compartilhar sua experiência ou se interessar por workshops e treinamentos, fique à vontade para entrar em contato.
 
-### Contact Information
+### Informações de contato
 
-**Email:** [patrik.wiik@gmail.com](mailto:patrik.wiik@gmail.com)
+**E-mail:** [patrik.wiik@gmail.com](mailto:patrik.wiik@gmail.com)
 
 **Facebook:** [facebook.com/patrik.wiik](https://www.facebook.com/patrik.wiik)
 
 ---
 
-## Help Me Improve This Site
+## Ajude-me a melhorar este site
 
-Your feedback is invaluable! This site is constantly evolving based on what elite players actually need.
+Seu feedback é muito importante! Este site está em constante evolução, baseado nas reais necessidades dos jogadores de elite.
 
-### I'd Love to Hear From You About:
+### Adoraria ouvir sua opinião sobre:
 
-::: tip What Would Help You Most?
-- **What content would you like to see more of?**
-  - More mental game techniques?
-  - More practical templates?
-  - Case studies from elite players?
+::: tip O que mais lhe ajudaria?
+- **Que tipo de conteúdo você gostaria de ver mais?**
+  - Mais técnicas de jogo mental?
+  - Mais modelos práticos?
+  - Estudos de caso de jogadores de elite?
 
-- **What's missing from the site?**
-  - Topics not covered?
-  - Tools you wish existed?
-  - Resources you can't find?
+- **O que está faltando no site?**
+  - Tópicos não abordados?
+  - Ferramentas que você gostaria que existissem?
+  - Recursos que você não consegue encontrar?
 
-- **What's working well?**
-  - Which pages have been most helpful?
-  - Which tools have you actually used?
-  - What made the biggest difference for you?
+- **O que está funcionando bem?**
+  - Quais páginas foram mais úteis?
+  - Quais ferramentas você realmente utilizou?
+  - O que fez a maior diferença para você?
 
-- **How can I make it better?**
-  - Navigation improvements?
-  - Content organization?
-  - More examples?
-  - Different formats?
+- **Como posso melhorar isso?**
+  - Melhorias na navegação?
+  - Organização de conteúdo?
+  - Mais exemplos?
+  - Formatos diferentes?
 :::
 
-### Send Me Your Feedback
+### Envie-me seu feedback
 
-**Email your thoughts to:** [patrik.wiik@gmail.com](mailto:patrik.wiik@gmail.com)
+**Envie suas ideias para:** [patrik.wiik@gmail.com](mailto:patrik.wiik@gmail.com)
 
-**Subject line suggestions:**
-- "Site Feedback: [Your Topic]"
-- "Content Request: [What You Need]"
-- "Success Story: [How It Helped]"
-- "Suggestion: [Your Idea]"
+**Sugestões para o assunto do e-mail:**
+- &quot;Feedback do site: [Seu tópico]&quot;
+- &quot;Solicitação de conteúdo: [O que você precisa]&quot;
+- &quot;História de sucesso: [Como isso ajudou]&quot;
+- Sugestão: [Sua ideia]
 
-**What to include:**
-- Your current level/experience
-- What you're working on
-- Specific feedback or requests
-- Any success stories using the content
+**O que incluir:**
+- Seu nível/experiência atual
+- Em que você está trabalhando?
+- Feedback ou solicitações específicas
+- Alguma história de sucesso utilizando o conteúdo?
 
 ---
 
-## What Others Are Saying
+## O que outros estão dizendo
 
-::: details Feedback from Elite Players
-*"The mental game content has completely changed how I approach competition. The Inner Coach framework alone was worth finding this site."*  
-— Regional Champion, France
+::: details Feedback de jogadores de elite
+*&quot;O conteúdo sobre o aspecto mental do jogo mudou completamente a minha forma de encarar as competições. Só o método Inner Coach já valeu a pena ter encontrado este site.&quot;*
+— Campeão Regional, França
 
-*"Finally, someone who understands that technique isn't the problem. The workshop methodology gave our club a whole new way to train."*  
-— National Team Player, Sweden
+*&quot;Finalmente, alguém que entende que a técnica não é o problema. A metodologia do workshop deu ao nosso clube uma maneira totalmente nova de treinar.&quot;*
+— Jogador da Seleção Nacional da Suécia
 
-*"The goal template and diary template are exactly what I needed. Simple, practical, and actually usable."*  
-— Tournament Player, Spain
+*&quot;O modelo de metas e o modelo de diário são exatamente o que eu precisava. Simples, práticos e realmente utilizáveis.&quot;*
+— Jogador de torneio, Espanha
 :::
 
 ---
 
-## About the Content
+## Sobre o conteúdo
 
-All content on this site is:
-- **Free and accessible** - No paywalls, no hidden content
-- **Practical and actionable** - Templates you can use today
-- **Evidence-based** - Built on psychology research and 45+ years of experience
-- **Continuously updated** - New content added based on your feedback
-
----
-
-## Privacy & Cookies
-
-This site uses Google AdSense to help support its operation. By using this site, you agree to Google's use of cookies for ad personalization and analytics.
-
-**We respect your privacy:**
-- No personal data is collected beyond standard analytics
-- No email lists or spam
-- Contact information is only used to respond to your messages
+Todo o conteúdo deste site é:
+- **Gratuito e acessível** - Sem paywalls, sem conteúdo oculto
+- **Prático e aplicável** - Modelos que você pode usar hoje mesmo
+- **Baseado em evidências** - Fundamentado em pesquisas de psicologia e mais de 45 anos de experiência.
+- **Atualizado continuamente** - Novo conteúdo adicionado com base no seu feedback
 
 ---
 
-## Connect & Share
+## Privacidade e Cookies
 
-If you find this content valuable:
-- **Share it** with your training partners
-- **Recommend it** to your club
-- **Link to it** from your own resources
-- **Give feedback** to help it improve
+Este site utiliza o Google AdSense para ajudar a manter seu funcionamento. Ao usar este site, você concorda com o uso de cookies pelo Google para personalização de anúncios e análise de dados.
 
-Together, we can elevate the mental game of pétanque worldwide.
+**Respeitamos a sua privacidade:**
+- Nenhum dado pessoal é coletado além das análises padrão.
+- Sem listas de e-mail ou spam.
+- As informações de contato são usadas apenas para responder às suas mensagens.
+
+---
+
+## Conecte-se e compartilhe
+
+Se você achar este conteúdo útil:
+- **Compartilhe** com seus parceiros de treino.
+- **Recomende** ao seu clube
+- **Inclua um link para isso** a partir de seus próprios recursos.
+- **Dê seu feedback** para ajudar a melhorar.
+
+Juntos, podemos elevar o nível do jogo mental da petanca em todo o mundo.
 
 ---
 
 
-**Thank you for being part of Pétanque Academy!**
+**Obrigado por fazer parte da Academia de Pétanque!**
 
-*— Patrik Wiik*
+— Patrik Wiik
 

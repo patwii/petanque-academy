@@ -3,22 +3,22 @@ title: Sleep Tracker Template
 description: Track your sleep patterns and correlate them with pétanque performance. Printable templates for daily logging and weekly analysis.
 ---
 
-# Sleep Tracker Template
+# Mal for søvnsporing
 
-> "The player who slept better often wins."
+> «Spilleren som sov bedre vinner ofte.»
 
-Track your sleep patterns and correlate them with performance to optimize recovery.
+Spor søvnmønstrene dine og korreler dem med ytelse for å optimalisere restitusjonen.
 
-::: tip Why Track Sleep?
-**Sleep is the #1 recovery tool.** Elite athletes who track sleep consistently report better energy, faster reaction times, and improved decision-making under pressure.
+::: tip Hvorfor spore søvn?
+**Søvn er det viktigste restitusjonsverktøyet.** Eliteidrettsutøvere som regelmessig måler søvn rapporterer bedre energi, raskere reaksjonstider og forbedret beslutningstaking under press.
 :::
 
 ```mermaid
 flowchart LR
-    A[Track Sleep] --> B[Identify Patterns]
-    B --> C[Adjust Habits]
-    C --> D[Better Performance]
-    D --> E[Track Results]
+    A[Spor søvn] --> B[Identifiser mønstre]
+    B --> C[Juster vaner]
+    C --> D[Bedre ytelse]
+    D --> E[Spor resultater]
     E --> A
 
     style A fill:#9C27B0,color:#fff
@@ -27,174 +27,174 @@ flowchart LR
 
 ---
 
-## Quick Daily Entry
+## Rask daglig inngang
 
-### Copy This for Each Day
-
----
-
-**Date:** ________
-
-**Bedtime:** ________ | **Wake time:** ________
-**Total sleep:** ________ hours
-
-**Sleep Quality (1-10):** _____
-
-**Factors affecting sleep:**
-- [ ] Caffeine after 2pm
-- [ ] Alcohol
-- [ ] Screen time before bed
-- [ ] Stress/worry
-- [ ] Noise/light disturbance
-- [ ] Temperature issues
-- [ ] Late meal
-- [ ] Other: ________
-
-**Morning energy (1-10):** _____
-
-**Notes:**
+### Kopier dette for hver dag
 
 ---
 
-## Weekly Sleep Summary
+**Dato:** ________
 
-### Copy This Each Week
+| **Sengetid:** ________ | **Oppvåkningstidspunkt:** ________ |
+**Total søvn:** ________ timer
+
+**Søvnkvalitet (1–10):** _____
+
+**Faktorer som påvirker søvn:**
+- [ ] Koffein etter kl. 14.00
+- [ ] Alkohol
+- [ ] Skjermtid før leggetid
+- [ ] Stress/bekymring
+- [ ] Støy/lysforstyrrelser
+- [ ] Temperaturproblemer
+- [ ] Sent måltid
+- [ ] Annet: ________
+
+**Morgenenergi (1–10):** _____
+
+**Merknader:**
 
 ---
 
-**Week of:** ________
+## Ukentlig søvnoppsummering
 
-| Day | Bedtime | Wake | Hours | Quality | Energy | Notes |
+### Kopier dette hver uke
+
+---
+
+**Uke med:** ________
+
+| Dag | Sengetid | Våkne | Timer | Kvalitet | Energi | Notater |
 |-----|---------|------|-------|---------|--------|-------|
-| Mon | | | | /10 | /10 | |
-| Tue | | | | /10 | /10 | |
-| Wed | | | | /10 | /10 | |
-| Thu | | | | /10 | /10 | |
-| Fri | | | | /10 | /10 | |
-| Sat | | | | /10 | /10 | |
-| Sun | | | | /10 | /10 | |
+| man | /10 | /10 |
+| tirsdag | /10 | /10 |
+| Ons | /10 | /10 |
+| Torsdag | /10 | /10 |
+| Fre | /10 | /10 |
+| Lør | /10 | /10 |
+| Sol | /10 | /10 |
 
-**Weekly Average:** _____ hours | Quality: _____/10 | Energy: _____/10
+| **Ukentlig gjennomsnitt:** _____ timer | Kvalitet: _____/10 | Energi: _____/10 |
 
-**Best night:** ________ Why? ________
+**Beste kveld:** ________ Hvorfor? ________
 
-**Worst night:** ________ Why? ________
+**Verste natt:** ________ Hvorfor? ________
 
-**Pattern noticed:**
+**Mønster observert:**
 
 ---
 
-## Pre-Competition Sleep Protocol
+## Søvnprotokoll før konkurranse
 
-### 3 Days Before Competition
+### 3 dager før konkurransen
 
-| Night | Target Bedtime | Actual | Hours | Quality | Notes |
+| Natt | Mål for leggetid | Faktisk | Timer | Kvalitet | Notater |
 |-------|----------------|--------|-------|---------|-------|
-| -3 days | | | | | |
-| -2 days | | | | | |
-| -1 day | | | | | |
+| -3 dager |
+| -2 dager |
+| -1 dag |
 
-**Competition day energy (1-10):** _____
+**Energi på konkurransedagen (1–10):** _____
 
-**Performance correlation:**
-- Did sleep affect my play? Yes / No / Maybe
-- How?
+**Ytelseskorrelasjon:**
+- Påvirket søvn spillet mitt? Ja / Nei / Kanskje
+- Hvordan?
 
 ---
 
-## Sleep Environment Checklist
+## Sjekkliste for søvnmiljø
 
-Rate your sleep environment:
+Vurder søvnmiljøet ditt:
 
-| Factor | Score (1-10) | Improvement needed? |
+| Faktor | Poengsum (1–10) | Trenger du forbedring? |
 |--------|--------------|---------------------|
-| **Darkness** | | |
-| **Temperature** (16-19°C ideal) | | |
-| **Noise level** | | |
-| **Mattress comfort** | | |
-| **Pillow support** | | |
-| **Air quality** | | |
-| **Phone out of room** | | |
+| **Mørke** |
+| **Temperatur** (16–19 °C ideelt) |
+| **Støynivå** |
+| **Madrasskomfort** |
+| **Putestøtte** |
+| **Luftkvalitet** |
+| **Telefon ut av rommet** |
 
 ---
 
-## Sleep Hygiene Habits
+## Søvnhygienevaner
 
-Track which habits you're following:
+Spor hvilke vaner du følger:
 
-### Evening Routine (2 hours before bed)
+### Kveldsrutine (2 timer før leggetid)
 
-- [ ] No caffeine after 2pm
-- [ ] No alcohol (or limit to 1 drink, 3+ hours before bed)
-- [ ] Light dinner, not too late
-- [ ] Dim lights in home
-- [ ] No intense exercise
-- [ ] Screen curfew (1 hour before bed)
-- [ ] Relaxation activity (reading, stretching, breathing)
+- [ ] Ingen koffein etter kl. 14.00
+- [ ] Ingen alkohol (eller begrenset til 1 drink, 3+ timer før leggetid)
+- [ ] Lett middag, ikke for sent
+- [ ] Dempede lys i hjemmet
+- [ ] Ingen intens trening
+- [ ] Skjermportforbud (1 time før leggetid)
+- [ ] Avslapningsaktivitet (lesing, tøying, pusting)
 
-### Bedroom Rules
+### Regler for soverommet
 
-- [ ] Room temperature 16-19°C
-- [ ] Complete darkness (or sleep mask)
-- [ ] Phone on silent, face down (or out of room)
-- [ ] Consistent bedtime (±30 min)
-- [ ] Bed only for sleep (not work/scrolling)
+- [ ] Romtemperatur 16–19 °C
+- [ ] Fullstendig mørke (eller sovemaske)
+- [ ] Telefon på lydløs, med forsiden ned (eller utenfor rommet)
+- [ ] Konsekvent leggetid (±30 min)
+- [ ] Kun seng for søvn (ikke arbeid/skrolling)
 
-**Habits followed this week:** _____/12
+**Vaner fulgt denne uken:** _____/12
 
 ---
 
-## Sleep & Performance Correlation
+## Korrelasjon mellom søvn og ytelse
 
-Track over 4 weeks to see patterns:
+Spor over 4 uker for å se mønstre:
 
-| Week | Avg Sleep | Avg Quality | Training Performance | Competition Result |
+| Uke | Gjennomsnittlig søvn | Gjennomsnittlig kvalitet | Treningsytelse | Konkurranseresultat |
 |------|-----------|-------------|---------------------|-------------------|
-| 1 | hrs | /10 | /10 | |
-| 2 | hrs | /10 | /10 | |
-| 3 | hrs | /10 | /10 | |
-| 4 | hrs | /10 | /10 | |
+| 1 | timer | /10 | /10 |
+| 2 | timer | /10 | /10 |
+| 3 | timer | /10 | /10 |
+| 4 | timer | /10 | /10 |
 
-**Correlation discovered:**
-
----
-
-## Travel Sleep Protocol
-
-For away competitions:
-
-**Before travel:**
-- [ ] Adjust bedtime 30 min earlier/later for time zone
-- [ ] Pack sleep essentials (mask, earplugs, pillow)
-- [ ] Book quiet room (away from elevator/street)
-
-**At destination:**
-- [ ] Set room temperature immediately
-- [ ] Block light sources
-- [ ] Maintain home bedtime routine
-- [ ] Avoid naps >20 min after travel
-
-**Notes for next trip:**
+**Korrelasjon oppdaget:**
 
 ---
 
+## Reise søvnprotokoll
+
+For bortekamper:
+
+**Før reisen:**
+- [ ] Juster leggetid 30 minutter tidligere/senere for tidssone
+- [ ] Pakk det viktigste for søvn (maske, ørepropper, pute)
+- [ ] Bestill stille rom (vekk fra heis/gate)
+
+**Ved destinasjonen:**
+- [ ] Still inn romtemperaturen umiddelbart
+- [ ] Blokker lyskilder
+- [ ] Oppretthold leggetidsrutinen hjemme
+- [ ] Unngå lurer &gt;20 minutter etter reise
+
+**Merknader for neste tur:**
+
 ---
 
-## Quick Win: Start Tonight
+---
 
-::: info The 3-Day Challenge
-Track your sleep for just 3 days. You'll likely discover a pattern you didn't know existed.
+## Rask seier: Start i kveld
+
+::: info 3-dagers utfordringen
+Spor søvnen din i bare tre dager. Du vil sannsynligvis oppdage et mønster du ikke visste eksisterte.
 :::
 
-1. **Tonight** — Note your bedtime and any factors
-2. **Tomorrow morning** — Rate quality and energy immediately
-3. **Repeat for 3 days** — Look for patterns
+1. **I kveld** — Noter deg leggetid og eventuelle faktorer
+2. **I morgen tidlig** — Vurder kvalitet og energi umiddelbart
+3. **Gjenta i 3 dager** — Se etter mønstre
 
 ---
 
-## Related Resources
+## Relaterte ressurser
 
-- [Sleep & Recovery Education](/no/education/sleep/) — The science behind sleep
-- [Competition Checklist](/no/guides/templates/pre-competition-checklist) — Full preparation guide
-- [Training Diary](/no/guides/templates/diary-template) — Track all aspects of training
+- [Søvn- og restitusjonsopplæring](/no/opplæring/søvn/) — Vitenskapen bak søvn
+- [Konkurransesjekkliste](/no/guider/maler/sjekkliste-for-konkurranse) — Fullstendig forberedelsesguide
+- [Treningsdagbok](/no/guider/maler/dagbokmal) — Spor alle aspekter av treningen
 

@@ -1,184 +1,184 @@
-# Pre-Competition Checklist
+# Tjekliste før konkurrencen
 
-A complete preparation guide for the day before and day of competition.
+En komplet forberedelsesguide til dagen før og konkurrencedagen.
 
-::: tip Preparation = Confidence
-**The best players don't wing it.** Having a checklist removes decision fatigue and ensures you arrive at peak readiness.
+::: tip Forberedelse = Selvtillid
+**De bedste spillere er ikke ude af stand til at tage chancen.** At have en tjekliste fjerner beslutningstræthed og sikrer, at du når frem til optimal parathed.
 :::
 
-## Day Before Competition
+## Dagen før konkurrencen
 
-### Evening (6-10pm)
+### Aften (kl. 18-22)
 
-**Logistics:**
-- [ ] Equipment packed and checked
-- [ ] Clothes laid out (layers for weather)
-- [ ] Transport arranged / route checked
-- [ ] Registration confirmed
-- [ ] Wake-up alarm set (+backup)
+**Logistik:**
+- [ ] Udstyr pakket og kontrolleret
+- [ ] Tøj lagt frem (lag efter vejret)
+- [ ] Transport arrangeret / rute tjekket
+- [ ] Registrering bekræftet
+- [ ] Vækkeur indstillet (+backup)
 
-**Nutrition:**
-- [ ] Light, familiar dinner (no experiments)
-- [ ] Hydration: 2L water throughout day
-- [ ] Competition snacks prepared
-- [ ] No alcohol
-- [ ] No heavy/spicy food
+**Ernæring:**
+- [ ] Let, velkendt middag (ingen eksperimenter)
+- [ ] Hydrering: 2 liter vand i løbet af dagen
+- [ ] Tilberedte konkurrencesnacks
+- [ ] Ingen alkohol
+- [ ] Ingen tung/krydret mad
 
-**Mental Preparation:**
-- [ ] Visualize tomorrow's matches (5-10 min)
-- [ ] Review personal goals for competition
-- [ ] Set intention (one word/phrase)
-- [ ] Gratitude practice (why I love this sport)
+**Mental forberedelse:**
+- [ ] Visualiser morgendagens kampe (5-10 min)
+- [ ] Gennemgå personlige mål for konkurrencen
+- [ ] Sæt intention (ét ord/sætning)
+- [ ] Taknemmelighedsøvelse (hvorfor jeg elsker denne sport)
 
-**Sleep:**
-- [ ] Bedtime 8+ hours before wake time
-- [ ] Room dark and cool
-- [ ] Phone on silent
-- [ ] Relaxation routine (reading/breathing)
+**Sove:**
+- [ ] Sengetid 8+ timer før vågnetid
+- [ ] Værelse mørkt og køligt
+- [ ] Telefon på lydløs
+- [ ] Afslapningsrutine (læsning/vejrtrækning)
 
-**Notes for tomorrow:**
+**Noter til i morgen:**
 
 ---
 
-## Competition Morning
+## Konkurrencemorgen
 
-### Wake Up Routine
+### Vågnerutine
 
-**Time:** ________ (_____ hours before first match)
+**Tidspunkt:** ________ (_____ timer før første kamp)
 
-**Physical:**
-- [ ] Light breakfast (2-3 hours before play)
-- [ ] Hydration started
-- [ ] Bathroom
-- [ ] Comfortable clothes on
+**Fysisk:**
+- [ ] Let morgenmad (2-3 timer før kamp)
+- [ ] Hydrering startet
+- [ ] Badeværelse
+- [ ] Behageligt tøj på
 
 **Mental:**
-- [ ] 5 min mindfulness/breathing
-- [ ] Recall intention for the day
-- [ ] Positive self-talk: "I am prepared"
+- [ ] 5 minutters mindfulness/åndedræt
+- [ ] Husk dagens intention
+- [ ] Positiv selvsnak: &quot;Jeg er forberedt&quot;
 
 ---
 
-### Arrival at Venue
+### Ankomst til spillestedet
 
-**Arrive:** ________ (_____ min before first match)
+**Ankomst:** ________ (_____ min. før første kamp)
 
-**Setup:**
-- [ ] Find terrain / check conditions
-- [ ] Locate facilities (toilet, food, shade)
-- [ ] Check draw / opponents
-- [ ] Find teammates
+**Opsætning:**
+- [ ] Find terræn / tjek forholdene
+- [ ] Find faciliteter (toilet, mad, skygge)
+- [ ] Tjek uafgjort / modstandere
+- [ ] Find holdkammerater
 
-**Physical Warm-up (15-20 min):**
-- [ ] Light walking (5 min)
-- [ ] Dynamic stretches
-- [ ] Arm circles, wrist rotations
-- [ ] Practice throws (pointing, then shooting)
-- [ ] Feel the terrain
+**Fysisk opvarmning (15-20 min):**
+- [ ] Let gåtur (5 min.)
+- [ ] Dynamiske stræk
+- [ ] Armcirkler, håndledsrotationer
+- [ ] Øvelseskast (pege, derefter skyde)
+- [ ] Føl terrænet
 
-**Mental Warm-up:**
-- [ ] 3-breath reset practice
-- [ ] Visualize first few throws
-- [ ] Connect with teammates
-- [ ] "I am ready" affirmation
+**Mental opvarmning:**
+- [ ] 3-åndedræts nulstillingsøvelse
+- [ ] Visualiser de første par kast
+- [ ] Få kontakt med holdkammerater
+- [ ] &quot;Jeg er klar&quot;-bekræftelse
 
 ---
 
-## During Competition
+## Under konkurrencen
 
-### Between Matches
+### Mellem kampene
 
-**Physical:**
-- [ ] Light snack every 2 hours
-- [ ] Sip water consistently
-- [ ] Shade/shelter if hot
-- [ ] Light movement (don't sit too long)
+**Fysisk:**
+- [ ] Let snack hver 2. time
+- [ ] Drik vand regelmæssigt
+- [ ] Skygge/ly hvis det er varmt
+- [ ] Let bevægelse (sid ikke for længe)
 
 **Mental:**
-- [ ] Review last match (1 learning, then let go)
-- [ ] Reset for next match
-- [ ] Stay present (not results-focused)
+- [ ] Gennemgå sidste kamp (1 læring, så slip)
+- [ ] Nulstil til næste kamp
+- [ ] Vær nærværende (ikke resultatfokuseret)
 
-### Match Routine
+### Kamprutine
 
-**Before each end:**
-- [ ] Read terrain
-- [ ] Team strategy discussion
-- [ ] Focus on process, not score
+**Før hver ende:**
+- [ ] Læs terræn
+- [ ] Diskussion af teamstrategi
+- [ ] Fokus på proces, ikke score
 
-**Before each throw:**
-- [ ] Pre-shot routine (consistent)
-- [ ] 3-breath reset if needed
-- [ ] Visualize the throw
-- [ ] Trust and release
+**Før hvert kast:**
+- [ ] Rutine før indsprøjtning (konsekvent)
+- [ ] 3-åndedrætsnulstilling, hvis nødvendigt
+- [ ] Visualiser kastet
+- [ ] Tillid og frigivelse
 
-**After mistakes:**
-- [ ] Inner Coach response
-- [ ] Physical reset (shake it off)
-- [ ] Next throw mindset
+**Efter fejl:**
+- [ ] Indre coach-respons
+- [ ] Fysisk nulstilling (ryst det af dig)
+- [ ] Næste kast-tankegang
 
 ---
 
-## Competition Bag Checklist
+## Tjekliste til konkurrencetasker
 
-### Essential Equipment
-- [ ] Boules (cleaned)
-- [ ] Measuring tools
+### Vigtigt udstyr
+- [ ] Boules (rengjort)
+- [ ] Måleværktøjer
 - [ ] Cochonnets (backup)
-- [ ] Towel/cloth for boules
-- [ ] Magnet (if allowed)
+- [ ] Håndklæde/klud til petanque
+- [ ] Magnet (hvis tilladt)
 
-### Clothing
-- [ ] Competition shirt
-- [ ] Comfortable pants/shorts
-- [ ] Layers (jacket, vest)
-- [ ] Hat/cap
-- [ ] Sunglasses
-- [ ] Rain gear (if forecast)
-- [ ] Extra socks
+### Tøj
+- [ ] Konkurrencetrøje
+- [ ] Komfortable bukser/shorts
+- [ ] Lag (jakke, vest)
+- [ ] Hat/kasket
+- [ ] Solbriller
+- [ ] Regntøj (hvis vejrudsigt)
+- [ ] Ekstra sokker
 
-### Nutrition
-- [ ] Water bottle (1.5L minimum)
-- [ ] Electrolyte tabs/powder
-- [ ] Bananas
-- [ ] Nuts/trail mix
-- [ ] Energy bars
-- [ ] Sandwiches (for long days)
-- [ ] Avoid: sugary snacks, caffeine overload
+### Ernæring
+- [ ] Vandflaske (minimum 1,5 l)
+- [ ] Elektrolyttabletter/pulver
+- [ ] Bananer
+- [ ] Nødder/trail mix
+- [ ] Energibarer
+- [ ] Sandwiches (til lange dage)
+- [ ] Undgå: sukkerholdige snacks, koffeinoverbelastning
 
-### Comfort & Recovery
-- [ ] Sunscreen
-- [ ] Folding chair
-- [ ] Shade solution
-- [ ] First aid basics
-- [ ] Pain relief (if needed)
+### Komfort og genopretning
+- [ ] Solcreme
+- [ ] Klapstol
+- [ ] Skyggeløsning
+- [ ] Grundlæggende førstehjælp
+- [ ] Smertelindring (hvis nødvendigt)
 
-### Mental Game Tools
-- [ ] This checklist!
-- [ ] Goal card / intention reminder
-- [ ] Music/headphones (for focus)
-
----
-
-## Post-Competition
-
-**Immediately after:**
-- [ ] Hydrate
-- [ ] Eat recovery meal within 1 hour
-- [ ] Brief reflection (3 wins, 1 learning)
-- [ ] Thank teammates/opponents
-
-**Evening:**
-- [ ] Full diary entry
-- [ ] What to practice next
-- [ ] Celebrate effort (regardless of result)
-- [ ] Good sleep for recovery
+### Mentale spilværktøjer
+- [ ] Denne tjekliste!
+- [ ] Målkort / påmindelse om intention
+- [ ] Musik/hovedtelefoner (til fokus)
 
 ---
 
-## Quick Reference Card
+## Efter konkurrencen
 
-Print this and keep in your bag:
+**Umiddelbart efter:**
+- [ ] Hydrer
+- [ ] Spis et restitutionsmåltid inden for 1 time
+- [ ] Kort refleksion (3 sejre, 1 læring)
+- [ ] Tak holdkammerater/modstandere
+
+**Aften:**
+- [ ] Fuld dagbogsnotat
+- [ ] Hvad skal man øve sig på næste gang
+- [ ] Fejr indsatsen (uanset resultatet)
+- [ ] God søvn til restitution
+
+---
+
+## Hurtigreferencekort
+
+Print dette ud og opbevar det i din taske:
 
 ```
 PRE-MATCH CHECKLIST
@@ -205,10 +205,10 @@ AFTER MISTAKES
 
 ---
 
-## Related Resources
+## Relaterede ressourcer
 
-- [Sleep Tracker](/da/guides/templates/sleep-tracker) — Optimize pre-competition sleep
-- [Nutrition Guide](/da/education/nutrition/) — Competition fueling strategies
-- [Mental Strength](/da/education/mental-game/mental-strength/) — Pressure management
-- [Tension Management](/da/education/tension/) — Stay relaxed under pressure
+- [Søvntracker](/da/guider/skabeloner/søvntracker) — Optimer søvn før konkurrence
+- [Ernæringsvejledning](/da/uddannelse/ernæring/) — Strategier til konkurrenceforstærkning
+- [Mental styrke](/da/uddannelse/mentalt-spil/mental-styrke/) — Preshåndtering
+- [Spændingshåndtering](/da/uddannelse/spænding/) — Forbliv afslappet under pres
 

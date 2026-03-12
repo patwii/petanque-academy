@@ -1,89 +1,89 @@
-# Peer Feedback Template
+# Sjabloon voor collegiale feedback
 
-Structured templates for requesting and giving honest feedback to teammates.
+Gestructureerde sjablonen voor het vragen en geven van eerlijke feedback aan teamgenoten.
 
-::: tip Why Peer Feedback?
-**We all have blind spots.** Research shows self-assessment accuracy improves dramatically when combined with peer feedback. Your teammates see things you can't.
+::: tip Waarom feedback van collega&#39;s?
+**We hebben allemaal blinde vlekken.** Onderzoek toont aan dat de nauwkeurigheid van zelfevaluatie aanzienlijk verbetert wanneer deze wordt gecombineerd met feedback van collega&#39;s. Je teamgenoten zien dingen die jij niet ziet.
 :::
 
-## Requesting Feedback
+## Feedback vragen
 
-### How to Ask
+### Hoe vraag je het?
 
-**When:** After training sessions or competitions (not during)
-**Who:** Teammates who've played with you recently
-**How:** Share this form or use the digital assessment
+**Wanneer:** Na trainingen of wedstrijden (niet tijdens)
+**Wie:** Teamgenoten met wie je recent hebt gespeeld.
+**Hoe te gebruiken:** Deel dit formulier of gebruik de digitale beoordeling.
 
-::: info Digital Option
-Use the [Player Assessment Tool](/nl/assessment/) with the "Get Peer Feedback" feature for automatic comparison and blind spot detection.
+::: info Digitale optie
+Gebruik de [Spelersbeoordelingstool](/en/assessment/) met de functie &quot;Feedback van collega&#39;s verkrijgen&quot; voor automatische vergelijking en het opsporen van blinde vlekken.
 :::
 
 ---
 
-### Feedback Request Form
+### Feedbackverzoekformulier
 
-**To:** ________ (teammate name)
-**From:** ________ (your name)
-**Date:** ________
+**Aan:** ________ (naam teamgenoot)
+**Van:** ________ (uw naam)
+**Datum:** ________
 
-**Context:** I'm working on improving my game and would value your honest perspective. Please rate me based on what you've observed, not what you think I want to hear.
+**Context:** Ik werk eraan om mijn spel te verbeteren en zou uw eerlijke mening zeer waarderen. Beoordeel me alstublieft op basis van wat u hebt waargenomen, niet op basis van wat u denkt dat ik wil horen.
 
 ---
 
-**Rate me 1-10 on each area:**
+**Geef me een cijfer van 1 tot 10 op elk onderdeel:**
 
-| Area | Your Rating | Comments |
+| Gebied | Jouw beoordeling | Opmerkingen |
 |------|-------------|----------|
-| **Technical consistency** | /10 | |
-| **Shot selection decisions** | /10 | |
-| **Performance under pressure** | /10 | |
-| **Communication with team** | /10 | |
-| **Body language after mistakes** | /10 | |
-| **Focus/concentration** | /10 | |
-| **Energy/motivation** | /10 | |
-| **Supportiveness to teammates** | /10 | |
+| **Technische consistentie** | /10 |
+| **Beslissingen over de keuze van het schot** | /10 |
+| **Presteren onder druk** | /10 |
+| **Communicatie met het team** | /10 |
+| **Lichaamstaal na fouten** | /10 |
+| **Focus/concentratie** | /10 |
+| **Energie/motivatie** | /10 |
+| **Ondersteuning van teamgenoten** | /10 |
 
 ---
 
-**Open questions:**
+**Open vragen:**
 
-1. **What do I do well that I should keep doing?**
+1. **Wat doe ik goed dat ik zou moeten blijven doen?**
 
-2. **What's one thing holding me back that I might not see?**
+2. **Wat is één ding dat me tegenhoudt, maar dat ik misschien over het hoofd zie?**
 
-3. **In pressure situations, what do you notice about me?**
+3. **Wat valt u op aan mij in stressvolle situaties?**
 
-4. **How could I better support the team?**
+4. **Hoe kan ik het team beter ondersteunen?**
 
-5. **Any other observations?**
-
----
-
-## Giving Feedback
-
-### Guidelines for Honest, Helpful Feedback
-
-**Be specific:** Not "you're inconsistent" but "I noticed your pointing accuracy drops in the last 3 ends"
-
-**Be kind but honest:** Sugarcoating doesn't help growth
-
-**Focus on behavior, not personality:** Not "you're negative" but "after misses, your body language affects the team"
-
-**Include positives:** Balance areas for improvement with genuine strengths
-
-**Offer observations, not judgments:** "I observed..." not "You always..."
+5. **Nog andere opmerkingen?**
 
 ---
 
-### Feedback Response Form
+## Feedback geven
 
-**For:** ________ (requester name)
-**From:** ________ (your name)
-**Date:** ________
+### Richtlijnen voor eerlijke en behulpzame feedback
+
+**Wees specifiek:** Niet &quot;je bent inconsistent&quot;, maar &quot;ik merkte dat je richtnauwkeurigheid in de laatste 3 rondes afnam&quot;.
+
+**Wees vriendelijk maar eerlijk:** Het verbloemen van de waarheid bevordert de groei niet.
+
+**Focus op gedrag, niet op persoonlijkheid:** Niet &quot;je bent negatief&quot;, maar &quot;na missers heeft je lichaamstaal invloed op het team&quot;.
+
+**Vermeld de positieve punten:** Breng verbeterpunten in balans met echte sterke punten.
+
+**Geef observaties, geen oordelen:** &quot;Ik heb geconstateerd...&quot; in plaats van &quot;Jij doet altijd...&quot;
 
 ---
 
-**Strengths I've observed:**
+### Feedbackformulier
+
+**Voor:** ________ (naam aanvrager)
+**Van:** ________ (uw naam)
+**Datum:** ________
+
+---
+
+**Sterke punten die ik heb waargenomen:**
 
 1.
 
@@ -93,95 +93,95 @@ Use the [Player Assessment Tool](/nl/assessment/) with the "Get Peer Feedback" f
 
 ---
 
-**Areas for development:**
+**Ontwikkelingsgebieden:**
 
-1. **Area:** ________
-   **Specific observation:**
-   **Suggestion:**
+1. **Gebied:** ________
+   **Specifieke observatie:**
+   **Suggestie:**
 
-2. **Area:** ________
-   **Specific observation:**
-   **Suggestion:**
-
----
-
-**Under pressure, I notice you:**
+2. **Gebied:** ________
+   **Specifieke observatie:**
+   **Suggestie:**
 
 ---
 
-**One thing that might be a blind spot:**
+**Onder druk merk ik je op:**
 
 ---
 
-**Overall, I think you could take your game to the next level by:**
+**Een punt dat mogelijk over het hoofd gezien wordt:**
 
 ---
 
-## Team Feedback Session Format
-
-For teams wanting structured feedback conversations:
-
-### Setup (5 min)
-- Each person has given written feedback beforehand
-- Safe space agreement: honest but respectful
-- Focus on growth, not criticism
-
-### Round 1: Strengths (15 min)
-Each player shares:
-- "What I appreciate about [teammate]'s contribution to the team"
-- Go around for each team member
-
-### Round 2: Growth Areas (20 min)
-Each player shares:
-- "One thing [teammate] could work on that would help the team"
-- Receiver listens without defending
-- Ask clarifying questions only
-
-### Round 3: Commitments (10 min)
-Each player states:
-- "Based on this feedback, I will focus on..."
-
-### Close (5 min)
-- Thank each other for honesty
-- Schedule follow-up in 4-6 weeks
+**Over het algemeen denk ik dat je je spel naar een hoger niveau kunt tillen door:**
 
 ---
 
-## Receiving Feedback
+## Format voor een teamfeedbacksessie
 
-### How to Receive Well
+Voor teams die behoefte hebben aan gestructureerde feedbackgesprekken:
 
-**Don't:**
-- Defend or explain
-- Dismiss ("they don't understand")
-- Get emotional
-- Argue
+### Installatie (5 min)
+- Iedereen heeft vooraf schriftelijke feedback gegeven.
+- Afspraak inzake veilige ruimte: eerlijk maar respectvol
+- Focus op groei, niet op kritiek.
 
-**Do:**
-- Listen fully
-- Ask clarifying questions
-- Thank them for honesty
-- Reflect before responding
-- Look for patterns across multiple sources
+### Ronde 1: Sterke punten (15 min)
+Elke speler deelt:
+- &quot;Wat ik waardeer aan de bijdrage van [teamgenoot] aan het team&quot;
+- Ga bij elk teamlid langs.
 
-### Processing Template
+### Ronde 2: Groeigebieden (20 min)
+Elke speler deelt:
+- &quot;Eén ding waar [teamgenoot] aan zou kunnen werken dat het team zou helpen&quot;
+- De ontvanger luistert zonder zich te verdedigen.
+- Stel alleen verduidelijkende vragen.
 
-**Feedback received:**
+### Ronde 3: Toezeggingen (10 min)
+Elke speler verklaart:
+- &quot;Op basis van deze feedback zal ik me richten op...&quot;
 
-**My initial reaction:**
-
-**After reflection, I think:**
-
-**Pattern I'm noticing (if multiple sources):**
-
-**Action I will take:**
+### Sluiten (5 min)
+- Bedank elkaar voor je eerlijkheid.
+- Plan een vervolgafspraak over 4-6 weken.
 
 ---
 
-## Related Resources
+## Feedback ontvangen
 
-- [🎯 Assessment Tool](/nl/assessment/) — Digital self + peer assessment
-- [Self-Awareness Education](/nl/education/self-awareness/) — Understanding blind spots
-- [Team Agreement Template](/nl/guides/templates/team-agreement) — Build team communication
-- [Training Diary](/nl/guides/templates/diary-template) — Track your development
+### Hoe je een goede ontvangst kunt krijgen
+
+**Niet doen:**
+- Verdedig of leg uit
+- Afwijzen (&quot;ze begrijpen het niet&quot;)
+- Word emotioneel
+- Ruzie maken
+
+**Doen:**
+- Luister aandachtig
+- Stel verduidelijkende vragen.
+- Bedank hen voor hun eerlijkheid.
+- Denk na voordat je antwoordt.
+- Zoek naar patronen in meerdere bronnen.
+
+### Verwerkingssjabloon
+
+**Feedback ontvangen:**
+
+**Mijn eerste reactie:**
+
+**Na enig nadenken denk ik:**
+
+**Patroon dat ik opmerk (indien er meerdere bronnen zijn):**
+
+**Wat ik ga doen:**
+
+---
+
+## Gerelateerde bronnen
+
+- [🎯 Beoordelingstool](/en/assessment/) — Digitale zelf- en peerbeoordeling
+- [Zelfbewustzijnsonderwijs](/en/education/self-awareness/) — Blinde vlekken begrijpen
+- [Teamovereenkomstsjabloon](/en/guides/templates/team-agreement) — Bouw teamcommunicatie op
+- [Trainingsdagboek](/en/guides/templates/diary-template) — Houd je ontwikkeling bij
 

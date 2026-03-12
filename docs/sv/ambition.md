@@ -1,35 +1,35 @@
 # Ambition
 
-Our mission is to help elite players take the next step in their development.
+Vårt uppdrag är att hjälpa elitspelare att ta nästa steg i sin utveckling.
 
-::: tip Our Vision
-**Transform elite players from technically proficient to mentally unstoppable.** We use a data-driven approach to identify your highest-impact improvement areas.
+::: tip Vår vision
+**Förvandla elitspelare från tekniskt skickliga till mentalt ostoppbara.** Vi använder en datadriven metod för att identifiera era förbättringsområden med störst effekt.
 :::
 
-## The 8-Factor Performance Model
+## 8-faktorers prestationsmodell
 
-Research and experience show that elite pétanque performance depends on **8 interconnected factors**. Most players over-invest in technique while neglecting the factors that actually separate good from great.
+Forskning och erfarenhet visar att prestationer i boule på elitnivå beror på **8 sammankopplade faktorer**. De flesta spelare överinvesterar i teknik samtidigt som de försummar de faktorer som faktiskt skiljer bra från fantastiskt.
 
 ```mermaid
 graph TD
     subgraph "High Impact (1500 points)"
-        A[🧠 Mental Game<br/>600 pts]
-        B[🔥 Motivation<br/>500 pts]
-        C[😴 Sleep<br/>400 pts]
+        A[🧠 Mentalt spel <br/> 600 poäng]
+        B[🔥 Motivation <br/> 500 poäng]
+        C[😴 Sömn <br/> 400 poäng]
     end
 
     subgraph "Medium Impact (1000 points)"
-        D[🪞 Self-Awareness<br/>400 pts]
-        E[🥗 Nutrition<br/>300 pts]
-        F[🤝 Team Dynamics<br/>300 pts]
+        D[🪞 Självkännedom <br/> 400 poäng]
+        E[🥗 Näring <br/> 300 poäng]
+        F[🤝 Teamdynamik <br/> 300 poäng]
     end
 
     subgraph "Foundation (400 points)"
-        G[💆 Tension Management<br/>300 pts]
-        H[🎯 Technique<br/>100 pts]
+        G[💆 Spänningshantering <br/> 300 poäng]
+        H[🎯 Teknik <br/> 100 poäng]
     end
 
-    A --> I[Peak Performance]
+    A --> I[Topprestanda]
     B --> I
     C --> I
     D --> I
@@ -44,84 +44,84 @@ graph TD
     style I fill:#4CAF50,color:#fff
 ```
 
-### Why Technique Has the Lowest Weight
+### Varför teknik har den lägsta vikten
 
-::: warning The Uncomfortable Truth
-**Technique accounts for only 100 of 2,900 total points** in our model.
+::: warning Den obekväma sanningen
+**Tekniken står endast för 100 av totalt 2 900 poäng** i vår modell.
 
-This isn't because technique doesn't matter—it's because elite players have already developed adequate technique. The marginal improvement from perfecting your release is tiny compared to optimizing your sleep, managing tension, or strengthening your mental game.
+Det beror inte på att teknik inte spelar någon roll – det beror på att elitspelare redan har utvecklat adekvat teknik. Den marginella förbättringen av att finslipa din spänning är liten jämfört med att optimera din sömn, hantera spänningar eller stärka ditt mentala spel.
 :::
 
-## The ROI Principle
+## ROI-principen
 
-Not all improvements are equal. We use **Return on Investment (ROI)** calculations to identify where your training time will have the biggest impact.
+Alla förbättringar är inte likadana. Vi använder **Avkastning på investeringen (ROI)**-beräkningar för att identifiera var din utbildningstid kommer att ha störst effekt.
 
-| Your Level | Factor Weight | ROI Potential |
+| Din nivå | Faktorvikt | Avkastningspotential |
 |------------|---------------|---------------|
-| Low skill in high-weight area | High (e.g., 600) | **Maximum** |
-| High skill in high-weight area | High (e.g., 600) | Low (diminishing returns) |
-| Low skill in low-weight area | Low (e.g., 100) | Moderate |
-| High skill in low-weight area | Low (e.g., 100) | **Minimal** |
+| Låg skicklighet i högviktsområde | Hög (t.ex. 600) | **Maximal** |
+| Hög skicklighet inom högviktsområde | Hög (t.ex. 600) | Låg (minskande avkastning) |
+| Låg skicklighet i lågviktsområde | Låg (t.ex. 100) | Måttlig |
+| Hög skicklighet inom lågviktsområde | Låg (t.ex. 100) | **Minimal** |
 
-**Example:** Improving your sleep from 30% to 60% (high-weight factor, low current skill) will likely have more impact than improving technique from 75% to 85% (low-weight factor, already high skill).
+**Exempel:** Att förbättra din sömn från 30 % till 60 % (hög viktfaktor, låg nuvarande färdighet) kommer sannolikt att ha större effekt än att förbättra tekniken från 75 % till 85 % (låg viktfaktor, redan hög färdighet).
 
-## The 8 Factors Explained
+## De 8 faktorerna förklarade
 
-| Factor | Weight | What It Covers |
+| Faktor | Vikt | Vad det täcker |
 |--------|--------|----------------|
-| 🧠 **Mental Game** | 600 | Thought patterns, focus, confidence, flow state access |
-| 🔥 **Motivation** | 500 | Drive, purpose, goal orientation, persistence |
-| 😴 **Sleep & Recovery** | 400 | Quality rest, pre-competition protocols, energy management |
-| 🪞 **Self-Awareness** | 400 | Accurate self-perception, blind spot recognition, feedback use |
-| 🥗 **Nutrition** | 300 | Blood sugar stability, hydration, competition fueling |
-| 🤝 **Team Dynamics** | 300 | Communication, trust, role clarity, team contribution |
-| 💆 **Tension Management** | 300 | Physical relaxation, breath control, optimal arousal |
-| 🎯 **Technique** | 100 | Physical mechanics, throw repertoire, consistency |
+| 🧠 **Mentalt spel** | 600 | Tankemönster, fokus, självförtroende, tillgång till flödestillstånd |
+| 🔥 **Motivation** | 500 | Drivkraft, syfte, målinriktning, uthållighet |
+| 😴 **Sömn och återhämtning** | 400 | Kvalitetsvila, protokoll före tävling, energihantering |
+| 🪞 **Självkännedom** | 400 | Noggrann självuppfattning, blindvinkeligenkänning, feedbackanvändning |
+| 🥗 **Näringsinnehåll** | 300 | Blodsockerstabilitet, hydrering, bränsletillförsel till tävlingar |
+| 🤝 **Teamdynamik** | 300 | Kommunikation, förtroende, rolltydlighet, teambidrag |
+| 💆 **Spänningshantering** | 300 | Fysisk avslappning, andningskontroll, optimal upphetsning |
+| 🎯 **Teknik** | 100 | Fysisk mekanik, kastrepertoar, konsekvens |
 
-## Discover Your Path
+## Upptäck din väg
 
-We've built a **free assessment tool** that analyzes your current levels across all 8 factors and calculates your personalized improvement priorities.
+Vi har skapat ett **kostnadsfritt bedömningsverktyg** som analyserar dina nuvarande nivåer utifrån alla 8 faktorer och beräknar dina personliga förbättringsprioriteringar.
 
-::: info Take the Assessment
-**[→ Start Your Player Development Assessment](/sv/assessment/)**
+::: info Gör bedömningen
+**[→ Starta din spelarutvecklingsbedömning](/sv/bedömning/)**
 
-In 5 minutes, you'll receive:
-- Your radar chart across all 8 factors
-- ROI-ranked recommendations for what to work on
-- Links to specific educational content for your top priorities
-- Option to get peer feedback from teammates
+Om 5 minuter får du:
+- Ditt radardiagram över alla 8 faktorer
+- ROI-rankade rekommendationer för vad man ska arbeta med
+- Länkar till specifikt utbildningsinnehåll för dina högsta prioriteringar
+- Möjlighet att få feedback från kollegor
 :::
 
-## What We Offer
+## Vad vi erbjuder
 
-| Offering | Description | Link |
+| Erbjudande | Beskrivning | Länk |
 |----------|-------------|------|
-| **Assessment Tool** | Identify your highest-ROI improvement areas | [Take Assessment](/sv/assessment/) |
-| **Education Modules** | Deep content on all 8 factors | [Browse Education](/sv/education/) |
-| **Workshops** | 3-4 hour sessions for groups of 6-8 players | [Workshop Guide](/sv/guides/workshop/) |
-| **Training Camps** | Weekend intensives mixing theory and practice | [Camp Guide](/sv/guides/training-camp/) |
+| **Utvärderingsverktyg** | Identifiera dina förbättringsområden med högst ROI | [Gör bedömning](/sv/bedömning/) |
+| **Utbildningsmoduler** | Djupgående innehåll om alla 8 faktorer | [Bläddra bland Utbildning](/sv/utbildning/) |
+| **Workshops** | 3-4 timmars sessioner för grupper om 6-8 spelare | [Verkstadsguide](/sv/guider/verkstad/) |
+| **Träningsläger** | Helgintensivkurser som blandar teori och praktik | [Lägerguide](/sv/guider/träningsläger/) |
 
-## Our Approach
+## Vårt tillvägagångssätt
 
-### 1. Assess First
-Start with honest self-evaluation. Get peer feedback to identify blind spots.
+### 1. Bedöm först
+Börja med ärlig självvärdering. Få feedback från kollegor för att identifiera blinda fläckar.
 
-### 2. Prioritize by ROI
-Focus on high-weight factors where you have room to grow—not what feels comfortable.
+### 2. Prioritera efter avkastning på investeringen
+Fokusera på viktiga faktorer där du har utrymme att utvecklas – inte det som känns bekvämt.
 
-### 3. Learn the Science
-Understand *why* something works, not just *what* to do.
+### 3. Lär dig vetenskapen
+Förstå *varför* något fungerar, inte bara *vad* man ska göra.
 
-### 4. Practice Deliberately
-Apply techniques in training before competition. Build habits, not just knowledge.
+### 4. Öva medvetet
+Tillämpa tekniker i träningen före tävling. Bygg upp vanor, inte bara kunskap.
 
-### 5. Reassess Regularly
-Track your progress. Your priorities will shift as you improve.
+### 5. Omvärdera regelbundet
+Följ dina framsteg. Dina prioriteringar kommer att förändras allt eftersom du förbättrar dig.
 
-::: tip Ready to Take the Next Step?
-**[→ Start with the Assessment](/sv/assessment/)** — It's free and takes 5 minutes.
+::: tip Redo att ta nästa steg?
+**[→ Börja med bedömningen](/sv/bedömning/)** — Det är gratis och tar 5 minuter.
 
-Or explore our [Education](/sv/education/) section to dive into any of the 8 factors.
+Eller utforska vår sektion [Utbildning](/sv/utbildning/) för att fördjupa dig i någon av de 8 faktorerna.
 :::
 
 

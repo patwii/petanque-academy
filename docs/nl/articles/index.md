@@ -3,91 +3,91 @@ title: Articles
 description: In-depth articles on mental training, performance psychology, and all 8 performance factors for elite pétanque players.
 ---
 
-# Articles
+# Artikelen
 
-Research-backed articles to deepen your understanding of elite performance.
-
----
-
-## Featured
-
-### [The Science of Flow States](/nl/articles/flow-state-science)
-What happens in your brain when you're "in the zone"? Understanding flow neuroscience helps you access it consistently.
-
-### [Why Elite Players Need Mental Training](/nl/articles/mental-vs-technical)
-The paradox: as technical skill increases, mental training becomes MORE important.
-
-### [Sleep: The Underrated Factor](/nl/articles/sleep-performance)
-How sleep quality directly impacts precision, decision-making, and consistency.
+Onderzoeksgebaseerde artikelen om uw begrip van topprestaties te verdiepen.
 
 ---
 
-## By Performance Factor
+## Uitgelicht
 
-### 🧠 Mental Game
-- [The Science Behind Flow States](/nl/articles/flow-state-science)
-- [Understanding the Inner Critic](/nl/articles/inner-critic)
-- [Building Pre-Shot Routines](/nl/articles/pre-shot-routines)
-- [Pressure Management](/nl/articles/pressure-management)
-- [Mindfulness in Competition](/nl/articles/mindfulness-competition)
+### [De wetenschap van flowtoestanden](/en/articles/flow-state-science)
+Wat gebeurt er in je hersenen als je &quot;in de flow&quot; bent? Inzicht in de neurowetenschap van flow helpt je om die flow consistent te ervaren.
 
-### 🔥 Motivation
-- [Goal Setting for Elite Athletes](/nl/articles/elite-goal-setting)
-- [Mental Resilience](/nl/articles/mental-resilience)
+### [Waarom topspelers mentale training nodig hebben](/en/articles/mental-vs-technical)
+De paradox: naarmate de technische vaardigheden toenemen, wordt mentale training JUIST belangrijker.
 
-### 😴 Sleep & Recovery
-- [Sleep: The Underrated Factor](/nl/articles/sleep-performance)
-
-### 🪞 Self-Awareness
-- [Developing Self-Awareness](/nl/articles/self-awareness-development)
-
-### 🤝 Team Dynamics
-- [Communication Under Pressure](/nl/articles/team-communication)
-- [Building Team Chemistry](/nl/articles/team-chemistry)
-- [Leadership in Pétanque](/nl/articles/team-leadership)
-
-### 💆 Tension Management
-- [Tension and Precision](/nl/articles/tension-precision)
-
-### 🥗 Nutrition
-- [Nutrition for Competition](/nl/articles/nutrition-competition)
-
-### 🎯 Training & Technique
-- [5 Mental Training Mistakes](/nl/articles/mental-training-mistakes)
-- [Structuring Your Practice](/nl/articles/practice-structure)
-- [Competition Preparation](/nl/articles/competition-prep)
-- [Why Mental Training Matters](/nl/articles/mental-vs-technical)
+### [Slaap: De onderschatte factor](/en/articles/sleep-performance)
+Hoe de kwaliteit van de slaap direct van invloed is op precisie, besluitvorming en consistentie.
 
 ---
 
-## All Articles
+## Op basis van de prestatiefactor
 
-| Article | Factor |
+### 🧠 Mentaal spel
+- [De wetenschap achter flow-toestanden](/en/articles/flow-state-science)
+- [Het begrijpen van de innerlijke criticus](/en/articles/inner-critic)
+- [Het bouwen van pre-shot routines](/en/articles/pre-shot-routines)
+- [Drukmanagement](/en/articles/pressure-management)
+- [Mindfulness in Competitie](/en/articles/mindfulness-competition)
+
+### 🔥 Motivatie
+- [Doelstellingen formuleren voor topsporters](/en/articles/elite-goal-setting)
+- [Mentale veerkracht](/en/articles/mental-resilience)
+
+### 😴 Slaap en herstel
+- [Slaap: De onderschatte factor](/en/articles/sleep-performance)
+
+### 🪞 Zelfbewustzijn
+- [Zelfbewustzijn ontwikkelen](/en/articles/self-awareness-development)
+
+### 🤝 Teamdynamiek
+- [Communicatie onder druk](/en/articles/team-communication)
+- [Teamchemie opbouwen](/en/articles/team-chemistry)
+- [Leiderschap in pétanque](/en/articles/team-leadership)
+
+### 💆 Spanningsmanagement
+- [Spanning en precisie](/en/articles/tension-precision)
+
+### 🥗 Voeding
+- [Voeding voor wedstrijden](/en/articles/nutrition-competition)
+
+### 🎯 Training &amp; Techniek
+- [5 Fouten bij mentale training](/en/articles/mental-training-mistakes)
+- [Uw praktijk structureren](/en/articles/practice-structure)
+- [Wedstrijdvoorbereiding](/en/articles/competition-prep)
+- [Waarom mentale training belangrijk is](/en/articles/mental-vs-technical)
+
+---
+
+## Alle artikelen
+
+| Artikel | Factor |
 |---------|--------|
-| [Flow State Science](/nl/articles/flow-state-science) | Mental |
-| [Inner Critic](/nl/articles/inner-critic) | Mental |
-| [Pre-Shot Routines](/nl/articles/pre-shot-routines) | Mental |
-| [Pressure Management](/nl/articles/pressure-management) | Mental |
-| [Mindfulness Competition](/nl/articles/mindfulness-competition) | Mental |
-| [Mental vs Technical](/nl/articles/mental-vs-technical) | Mental |
-| [Elite Goal Setting](/nl/articles/elite-goal-setting) | Motivation |
-| [Mental Resilience](/nl/articles/mental-resilience) | Motivation |
-| [Sleep Performance](/nl/articles/sleep-performance) | Sleep |
-| [Self-Awareness Development](/nl/articles/self-awareness-development) | Self-Awareness |
-| [Team Communication](/nl/articles/team-communication) | Team |
-| [Team Chemistry](/nl/articles/team-chemistry) | Team |
-| [Team Leadership](/nl/articles/team-leadership) | Team |
-| [Tension Precision](/nl/articles/tension-precision) | Tension |
-| [Nutrition Competition](/nl/articles/nutrition-competition) | Nutrition |
-| [Mental Training Mistakes](/nl/articles/mental-training-mistakes) | Training |
-| [Practice Structure](/nl/articles/practice-structure) | Training |
-| [Competition Prep](/nl/articles/competition-prep) | Training |
+| [Flow State Science](/en/articles/flow-state-science) | Mentaal |
+| [Inner Critic](/en/articles/inner-critic) | Mentaal |
+| [Voorbereidende procedures](/en/articles/pre-shot-routines) | Mentaal |
+| [Drukmanagement](/en/articles/pressure-management) | Mentaal |
+| [Mindfulnesswedstrijd](/en/articles/mindfulness-competition) | Mentaal |
+| [Mentaal versus Technisch](/en/articles/mental-vs-technical) | Mentaal |
+| [Elite Goal Setting](/en/articles/elite-goal-setting) | Motivatie |
+| [Mentale veerkracht](/en/articles/mental-resilience) | Motivatie |
+| [Slaapprestaties](/en/articles/sleep-performance) | Slaap |
+| [Ontwikkeling van zelfbewustzijn](/en/articles/self-awareness-development) | Zelfbewustzijn |
+| [Teamcommunicatie](/en/articles/team-communication) | Team |
+| [Teamchemie](/en/articles/team-chemistry) | Team |
+| [Teamleiderschap](/en/articles/team-leadership) | Team |
+| [Spanningsprecisie](/en/articles/tension-precision) | Spanning |
+| [Voedingswedstrijd](/en/articles/nutrition-competition) | Voeding |
+| [Fouten bij mentale training](/en/articles/mental-training-mistakes) | Opleiding |
+| [Praktijkstructuur](/en/articles/practice-structure) | Opleiding |
+| [Wedstrijdvoorbereiding](/en/articles/competition-prep) | Opleiding |
 
 ---
 
-## Related
+## Verwant
 
-- [🎯 Assessment](/nl/assessment/) — Find your improvement priorities
-- [📚 Education](/nl/education/) — Structured learning modules
-- [📋 Guides](/nl/guides/) — Practical implementation tools
+- [🎯 Beoordeling](/en/assessment/) — Vind uw verbeterprioriteiten
+- [📚 Onderwijs](/en/education/) — Gestructureerde leermodules
+- [📋 Handleidingen](/en/guides/) — Praktische implementatietools
 

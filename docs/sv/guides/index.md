@@ -3,19 +3,19 @@ title: Guides & Tools
 description: Practical guides for implementing mental training in your pétanque journey. From beginner workshops to advanced training camps.
 ---
 
-# Guides & Tools
+# Guider och verktyg
 
-Practical resources for players, coaches, and clubs to implement structured mental training programs.
+Praktiska resurser för spelare, tränare och klubbar för att implementera strukturerade mentala träningsprogram.
 
-## Choose Your Format
+## Välj ditt format
 
 ```mermaid
 graph LR
-    A[Your Level] --> B{Experience?}
-    B -->|New to Mental Training| C[Mental Journey]
-    B -->|Some Experience| D[Workshop]
-    B -->|Ready for Intensive| E[Training Camp]
-    B -->|Regular Training| F[Training Session]
+    A[Din nivå] --> B{Experience?}
+    B -->|New to Mental Training| C[Mental resa]
+    B -->|Some Experience| D[Verkstad]
+    B -->|Ready for Intensive| E[Träningsläger]
+    B -->|Regular Training| F[Träningspass]
     
     style C fill:#4CAF50,color:#fff
     style D fill:#2196F3,color:#fff
@@ -23,84 +23,84 @@ graph LR
     style F fill:#FF9800,color:#fff
 ```
 
-## Guide Formats
+## Guideformat
 
-### 🌱 [Mental Journey](/sv/guides/mental-journey/)
-**For Beginners** — 2-3 hour introduction
+### 🌱 [Mental resa](/sv/guider/mental-resa/)
+**För nybörjare** — 2–3 timmars introduktion
 
-Perfect for players new to mental training. A gentle introduction to the core concepts with practical exercises.
+Perfekt för spelare som är nya inom mental träning. En skonsam introduktion till kärnkoncepten med praktiska övningar.
 
-- Duration: 2-3 hours
-- Group size: 4-12 players
-- Materials: Provided
-- [View Guide →](/sv/guides/mental-journey/)
-
----
-
-### 🎯 [Workshop](/sv/guides/workshop/)
-**For Intermediate** — 3-4 hour deep-dive
-
-Structured workshop format for clubs and teams wanting to explore mental training more seriously.
-
-- Duration: 3-4 hours
-- Group size: 6-8 players
-- Includes: Coordinator guide + downloadable materials
-- [View Guide →](/sv/guides/workshop/)
+- Längd: 2–3 timmar
+- Gruppstorlek: 4–12 spelare
+- Material: Tillhandahålls
+- [Visa guide →](/sv/guider/mental-resa/)
 
 ---
 
-### 🏕️ [Training Camp](/sv/guides/training-camp/)
-**For Committed Teams** — Weekend intensive
+### 🎯 [Workshop](/sv/guider/workshop/)
+**För medelnivå** — 3–4 timmars djupdykning
 
-Full weekend program mixing theory, practice, and competition. Ideal for teams preparing for important tournaments.
+Strukturerat workshopformat för klubbar och lag som vill utforska mental träning mer seriöst.
 
-- Duration: 2-3 days
-- Group size: 10-20 players
-- Includes: Full program + organizer materials
-- [View Guide →](/sv/guides/training-camp/)
-
----
-
-### 🔄 [Training Session](/sv/guides/training-session/)
-**For Regular Practice** — 2-4 hour structured sessions
-
-Framework for regular training sessions that incorporate mental skills alongside technical practice.
-
-- Duration: 2-4 hours
-- Group size: 4 players (one team)
-- Focus: Competition simulation with reflection
-- [View Guide →](/sv/guides/training-session/)
+- Längd: 3–4 timmar
+- Gruppstorlek: 6-8 spelare
+- Innehåller: Samordnarhandledning + nedladdningsbart material
+- [Visa guide →](/sv/guider/verkstad/)
 
 ---
 
-## Templates & Tools
+### 🏕️ [Träningsläger](/sv/guider/träningsläger/)
+**För engagerade team** — Helgintensivkurs
 
-Downloadable templates to support your development:
+Helhelgsprogram som blandar teori, praktik och tävling. Perfekt för lag som förbereder sig inför viktiga turneringar.
 
-### 📋 [Goal Template](/sv/guides/templates/goal-template)
-Structured worksheet for setting and tracking your pétanque goals using the SMART framework.
-
-### 📓 [Diary Template](/sv/guides/templates/diary-template)
-Training and competition diary template for tracking progress, insights, and areas for improvement.
+- Varaktighet: 2–3 dagar
+- Gruppstorlek: 10–20 spelare
+- Inkluderar: Fullständigt program + organiseringsmaterial
+- [Visa guide →](/sv/guider/träningsläger/)
 
 ---
 
-## Which Format Is Right for You?
+### 🔄 [Träningspass](/sv/guider/träningspass/)
+**För regelbunden träning** — 2–4 timmars strukturerade sessioner
 
-| Format | Best For | Time Commitment | Depth |
+Ramverk för regelbundna träningspass som integrerar mentala färdigheter tillsammans med teknisk övning.
+
+- Längd: 2–4 timmar
+- Gruppstorlek: 4 spelare (ett lag)
+- Fokus: Tävlingssimulering med reflektion
+- [Visa guide →](/sv/guider/träningssession/)
+
+---
+
+## Mallar och verktyg
+
+Nedladdningsbara mallar som stödjer din utveckling:
+
+### 📋 [Målmall](/sv/guider/mallar/målmall)
+Strukturerat arbetsblad för att sätta och följa upp dina boulemål med hjälp av SMART-ramverket.
+
+### 📓 [Dagboksmall](/sv/guider/mallar/dagboksmall)
+Mall för tränings- och tävlingsdagbok för att följa framsteg, insikter och förbättringsområden.
+
+---
+
+## Vilket format är rätt för dig?
+
+| Formatera | Bäst för | Tidsåtagande | Djup |
 |--------|----------|-----------------|-------|
-| **Mental Journey** | First introduction | 2-3 hours | ⭐ |
-| **Workshop** | Club training days | 3-4 hours | ⭐⭐ |
-| **Training Camp** | Team preparation | Weekend | ⭐⭐⭐ |
-| **Training Session** | Ongoing development | Regular 2-4h | ⭐⭐ |
+| **Mental resa** | Första introduktionen | 2–3 timmar | ⭐ |
+| **Verkstad** | Klubbens träningsdagar | 3–4 timmar | ⭐⭐ |
+| **Träningsläger** | Lagförberedelser | Helgen | ⭐⭐⭐ |
+| **Träningspass** | Pågående utveckling | Regelbunden 2–4 timmar | ⭐⭐ |
 
-::: tip For Coaches & Club Leaders
-Each guide includes materials for both participants AND facilitators/organizers. Look for the "For Coordinators" sections with downloadable PDFs and presentation slides.
+::: tip För tränare och klubbledare
+Varje guide innehåller material för både deltagare OCH handledare/organisatörer. Leta efter avsnittet &quot;För koordinatorer&quot; med nedladdningsbara PDF-filer och presentationsbilder.
 :::
 
-## Related Resources
+## Relaterade resurser
 
-- [🎯 Assessment](/sv/assessment/) — Evaluate your 8 factors and find priorities
-- [📚 Education Hub](/sv/education/) — Deep-dive into the 8 performance factors
-- [📝 Articles](/sv/articles/) — Research and insights
+- [🎯 Bedömning](/sv/bedömning/) — Utvärdera dina 8 faktorer och hitta prioriteringar
+- [📚 Education Hub](/sv/utbildning/) — Djupdyk i de 8 prestationsfaktorerna
+- [📝 Artiklar](/sv/artiklar/) — Forskning och insikter
 

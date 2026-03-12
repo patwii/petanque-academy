@@ -1,137 +1,137 @@
-# Competition Nutrition Planner
+# Konkurranseplanlegger for ernæring
 
-Plan what and when to eat for optimal performance on competition days.
+Planlegg hva og når du skal spise for optimal ytelse på konkurransedager.
 
-::: tip Stable Energy = Steady Hands
-**Your brain is your most important tool in pétanque.** Feed it stable fuel, not roller coaster energy. This planner helps you avoid blood sugar spikes and crashes.
+::: tip Stabil energi = Stødige hender
+**Hjernen din er ditt viktigste verktøy i petanque.** Gi den stabil drivstoff, ikke berg-og-dal-bane-energi. Denne planleggeren hjelper deg med å unngå blodsukkertopper og krasj.
 :::
 
 ---
 
-## Quick Reference Card
+## Hurtigreferansekort
 
-### ✅ Competition Day Foods
+### ✅ Mat til konkurransedagen
 
-| Type | Good Choices |
+| Type | Gode valg |
 |------|--------------|
-| **Protein** | Eggs, chicken, cheese, nuts, jerky |
-| **Healthy Fats** | Avocado, olive oil, nuts, cheese |
-| **Complex Carbs** | Vegetables, legumes, berries |
-| **Hydration** | Water, herbal tea |
+| **Protein** | Egg, kylling, ost, nøtter, tørrfôr |
+| **Sunt fett** | Avokado, olivenolje, nøtter, ost |
+| **Komplekse karbohydrater** | Grønnsaker, belgfrukter, bær |
+| **Hydrering** | Vann, urtete |
 
-### ❌ Foods to Avoid
+### ❌ Matvarer du bør unngå
 
-| Type | Avoid |
+| Type | Unngå |
 |------|-------|
-| **Sugar** | Candy, soda, pastries, cookies |
-| **Simple Carbs** | White bread, pasta, pizza |
-| **Drinks** | Fruit juice, energy drinks, excess caffeine |
+| **Sukker** | Godteri, brus, bakverk, kjeks |
+| **Enkle karbohydrater** | Hvitt brød, pasta, pizza |
+| **Drikkevarer** | Fruktjuice, energidrikker, overflødig koffein |
 
 ---
 
-## Competition Day Timeline
+## Tidslinje for konkurransedagen
 
-### Night Before
+### Kvelden før
 
-**Dinner (6-8pm):**
-- [ ] Protein (chicken, fish, eggs)
-- [ ] Vegetables or salad
-- [ ] No heavy carbs or alcohol
-- [ ] Stop eating 3+ hours before bed
+**Middag (18.00–20.00):**
+- [ ] Protein (kylling, fisk, egg)
+- [ ] Grønnsaker eller salat
+- [ ] Ingen tunge karbohydrater eller alkohol
+- [ ] Slutt å spise 3+ timer før leggetid
 
-**Hydration:**
-- [ ] 2L water throughout the day
-- [ ] Stop caffeine after 2pm
+**Hydrering:**
+- [ ] 2 liter vann i løpet av dagen
+- [ ] Slutt med koffein etter kl. 14.00
 
 ---
 
-### Competition Morning
+### Konkurransemorgen
 
-**2-3 Hours Before First Match:**
+**2–3 timer før første kamp:**
 
-| Component | Example | Notes |
+| Komponent | Eksempel | Notater |
 |-----------|---------|-------|
-| **Protein** | 2-3 eggs | Slow, steady energy |
-| **Vegetables** | Spinach, tomatoes | Fiber & nutrients |
-| **Healthy Fat** | Avocado or olive oil | Sustained fuel |
-| **Avoid** | Toast, juice, pastries | Causes crash |
+| **Protein** | 2–3 egg | Langsom, jevn energi |
+| **Grønnsaker** | Spinat, tomater | Fiber og næringsstoffer |
+| **Sunt fett** | Avokado- eller olivenolje | Vedvarende drivstoff |
+| **Unngå** | Ristet brød, juice, bakverk | Forårsaker krasj |
 
-**Example Meals:**
-- Eggs with vegetables (scrambled/omelet)
-- Salad with chicken and olive oil
-- Cheese with nuts and vegetable sticks
+**Eksempelmåltider:**
+- Egg med grønnsaker (eggrøre/omelett)
+- Salat med kylling og olivenolje
+- Ost med nøtter og grønnsakstaver
 
 ---
 
-### During Competition
+### Under konkurransen
 
-**Between Games:**
+**Mellom spillene:**
 
-| Timing | What to Eat | What to Drink |
+| Tidspunkt | Hva du skal spise | Hva du skal drikke |
 |--------|-------------|---------------|
-| Every 2 hours | Small protein snack | Sip water consistently |
-| When hungry | Nuts, cheese, jerky | Avoid sugary drinks |
-| Before important match | Light snack 30 min before | Stay hydrated |
+| Hver 2. time | Liten proteinsnack | Drikk vann jevnlig |
+| Når du er sulten | Nøtter, ost, jerky | Unngå sukkerholdige drikker |
+| Før viktig kamp | Lett matbit 30 minutter før | Hold deg hydrert |
 
-**Competition Snack Kit:**
-- [ ] Mixed nuts (unsalted, small portions)
-- [ ] Hard-boiled eggs
-- [ ] Cheese cubes or string cheese
-- [ ] Beef or turkey jerky
-- [ ] Vegetable sticks (carrots, celery)
-- [ ] Water bottle (1.5L minimum)
+**Konkurranse-snacksett:**
+- [ ] Blandede nøtter (usaltede, små porsjoner)
+- [ ] Hardkokte egg
+- [ ] Ostebiter eller strengost
+- [ ] Jerky av oksekjøtt eller kalkun
+- [ ] Grønnsaksstaver (gulrøtter, selleri)
+- [ ] Vannflaske (minimum 1,5 l)
 
 ---
 
-### Warning Signs: Eat Now!
+### Varseltegn: Spis nå!
 
-| Symptom | What It Means |
+| Symptom | Hva det betyr |
 |---------|---------------|
-| 🖐️ Trembling hands | Blood sugar crash |
-| 😵 Difficulty concentrating | Brain needs fuel |
-| 😤 Irritability | Blood sugar unstable |
-| 😴 Fatigue | Energy depleting |
-| 🤕 Headache | Dehydration or hunger |
+| 🖐️ Skjelvende hender | Blodsukkerkrasj |
+| 😵 Konsentrasjonsvansker | Hjernen trenger drivstoff |
+| 😤 Irritabilitet | Blodsukkeret er ustabilt |
+| 😴 Tretthet | Energiutarming |
+| 🤕 Hodepine | Dehydrering eller sult |
 
-**Action:** Eat protein/fat snack + drink water immediately
+**Tiltak:** Spis protein-/fettmellommåltid + drikk vann umiddelbart
 
 ---
 
-## My Competition Day Plan
+## Min plan for konkurransedagen
 
-### Night Before
+### Kvelden før
 
-**Dinner time:** ________ 
-**Menu:**
+**Middagstid:** ________
+**Meny:**
 - Protein: ________
-- Vegetables: ________
-- Avoid: ________
+- Grønnsaker: ________
+- Unngå: ________
 
 ---
 
-### Competition Day
+### Konkurransedagen
 
-**Wake time:** ________
-**First match:** ________
+**Oppvåkningstidspunkt:** ________
+**Første kamp:** ________
 
-**Breakfast (time: ________):**
+**Frokost (tid: ________):**
 - Protein: ________
-- Vegetables: ________
-- Fat source: ________
+- Grønnsaker: ________
+- Fettkilde: ________
 
-**Snacks packed:**
+**Pakket snacks:**
 - [ ] ________
 - [ ] ________
 - [ ] ________
 - [ ] ________
 
-**Water bottles:** _____ L
+**Vannflasker:** _____ L
 
 ---
 
-### Snack Schedule
+### Snackplan
 
-| Time | Snack | Notes |
+| Tid | Matbit | Notater |
 |------|-------|-------|
 | | | |
 | | | |
@@ -140,32 +140,32 @@ Plan what and when to eat for optimal performance on competition days.
 
 ---
 
-## Post-Competition
+## Etter konkurransen
 
-**Within 1 hour:**
-- [ ] Balanced meal with protein
-- [ ] Rehydrate fully
-- [ ] Avoid "celebrating" with sugar
+**Innen 1 time:**
+- [ ] Balansert måltid med protein
+- [ ] Rehydrer fullstendig
+- [ ] Unngå å «feire» med sukker
 
 ---
 
-## Practice Your Nutrition
+## Øv på ernæringen din
 
-::: warning Important
-**Don't try new foods on competition day!** Practice your competition nutrition during training sessions. Your body needs time to adapt.
+::: warning Viktig
+**Ikke prøv nye matvarer på konkurransedagen!** Øv på konkurranseernæring under treningsøktene. Kroppen din trenger tid til å tilpasse seg.
 :::
 
-**Training day practice:**
-- [ ] Eat the same pre-training meal as competition
-- [ ] Bring the same snacks
-- [ ] Note how you feel during training
-- [ ] Adjust based on what works
+**Treningsdag:**
+- [ ] Spis det samme måltidet før trening som under konkurransen
+- [ ] Ta med de samme snacksene
+- [ ] Legg merke til hvordan du føler deg under treningen
+- [ ] Juster basert på hva som fungerer
 
 ---
 
-## Related Resources
+## Relaterte ressurser
 
-- [Nutrition Education](/no/education/nutrition/) — Full nutrition guide
-- [Pre-Competition Checklist](/no/guides/templates/pre-competition-checklist) — Complete preparation guide
-- [Sleep Tracker](/no/guides/templates/sleep-tracker) — Optimize recovery
+- [Ernæringsopplæring](/no/utdanning/ernæring/) — Fullstendig ernæringsguide
+- [Sjekkliste før konkurranse](/no/guider/maler/sjekkliste-før-konkurranse) — Komplett forberedelsesguide
+- [Søvnsporing](/no/guider/maler/søvnsporing) — Optimaliser restitusjonen
 

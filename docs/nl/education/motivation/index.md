@@ -1,50 +1,50 @@
-# Goal Setting for Pétanque Players
+# Doelstellingen formuleren voor pétanque-spelers
 
 
-Clear goals are your compass. They give direction to your training, motivation when things get hard, and a way to measure progress. Without goals, you're just throwing boules. With goals, you're building toward something.
+Duidelijke doelen zijn je kompas. Ze geven richting aan je training, motiveren je wanneer het moeilijk wordt en stellen je in staat je vooruitgang te meten. Zonder doelen gooi je maar wat rond. Met doelen werk je ergens naartoe.
 
-::: tip The Core Principle
-**A goal without a plan is just a wish.** Set clear goals, break them down, focus on what you control, and track your progress.
+::: tip Het kernprincipe
+**Een doel zonder plan is slechts een wens.** Stel duidelijke doelen, verdeel ze in kleinere stappen, focus op wat je wél kunt beïnvloeden en houd je voortgang bij.
 :::
 
-## Why Goals Matter
+## Waarom doelen belangrijk zijn
 
-Goals serve multiple purposes:
-- **Direction:** Know what to work on
-- **Motivation:** Have something to strive for
-- **Measurement:** Track your progress
-- **Focus:** Prioritize your limited time
+Doelen dienen meerdere doeleinden:
+- **Aanwijzingen:** Weet waaraan je moet werken
+- **Motivatie:** Iets hebben om naar te streven
+- **Meten:** Houd je voortgang bij
+- **Aandachtspunt:** Geef prioriteit aan je beperkte tijd.
 
-For the self-directed player, goals are especially important. Without a coach pushing you, your goals become your guide.
+Voor de zelfstandige speler zijn doelen bijzonder belangrijk. Zonder een coach die je aanspoort, worden je doelen je leidraad.
 
-## The Three Types of Goals
+## De drie soorten doelen
 
-Not all goals are equal. Understanding the different types helps you set better ones.
+Niet alle doelen zijn gelijk. Inzicht in de verschillende soorten doelen helpt je betere doelen te stellen.
 
-### 1. Outcome Goals
-**What:** The end result you want
-**Example:** "Win the regional championship"
-**Control level:** Low - depends on opponents, conditions, luck
+### 1. Resultaatdoelen
+**Wat:** Het gewenste eindresultaat
+**Voorbeeld:** &quot;Win het regionale kampioenschap&quot;
+**Controleniveau:** Laag - afhankelijk van tegenstanders, omstandigheden en geluk.
 
-### 2. Performance Goals
-**What:** Specific performance standards
-**Example:** "Achieve 80% accuracy on shooting drills"
-**Control level:** Medium - depends mostly on you
+### 2. Prestatiedoelen
+**Wat:** Specifieke prestatienormen
+**Voorbeeld:** &quot;Behaal een nauwkeurigheid van 80% bij schietoefeningen&quot;
+**Controleniveau:** Gemiddeld - hangt grotendeels van jou af.
 
-### 3. Process Goals
-**What:** Actions and behaviors you control
-**Example:** "Complete my pre-shot routine on every throw"
-**Control level:** High - entirely up to you
+### 3. Procesdoelen
+**Wat:** Handelingen en gedragingen die je zelf in de hand hebt
+**Voorbeeld:** &quot;Voltooi mijn voorbereidingsroutine bij elke worp&quot;
+**Controleniveau:** Hoog - geheel naar uw eigen keuze.
 
-### The Goal Hierarchy
+### De doelhiërarchie
 
 ```mermaid
 graph TD
-    A[Outcome Goal<br/>The Dream] --> B[Performance Goals<br/>Milestones]
-    B --> C[Process Goals<br/>Daily Actions]
+    A[Resultaatdoel <br/> De droom] --> B[Prestatiedoelen <br/> Mijlpalen]
+    B --> C[Procesdoelen <br/> Dagelijkse acties]
 
-    A2["Win Regional Championship"] --> B2["80% shooting accuracy"]
-    B2 --> C2["Complete pre-shot routine<br/>every throw"]
+    A2[&quot;Win het regionale kampioenschap&quot;] --> B2[&quot;Schietnauwkeurigheid van 80%&quot;]
+    B2 --> C2[&quot;Volledige voorbereiding op de opname <br/> elke worp]
 
     style A fill:#e1f5ff
     style B fill:#fff9c4
@@ -54,123 +54,123 @@ graph TD
     style C2 fill:#c8e6c9
 ```
 
-::: warning Key Insight
-**Focus most of your attention on process goals.** They're what you control, and they lead to the outcomes you want.
+::: warning Kerninzicht
+**Richt je aandacht vooral op de procesdoelen.** Die heb je zelf in de hand en leiden tot de gewenste resultaten.
 
-- **Outcome goals:** Low control, high motivation
-- **Performance goals:** Medium control, measurable progress
-- **Process goals:** High control, daily focus ← **Focus here**
+- **Resultaatdoelen:** Weinig controle, veel motivatie
+- **Prestatiedoelen:** Gemiddelde controle, meetbare vooruitgang
+- **Procesdoelen:** Hoge mate van controle, dagelijkse focus ← **Focus hier**
 :::
 
-## The SMART Framework
+## Het SMART-raamwerk
 
-::: info SMART Goals Checklist
-Every goal should be:
-- ✅ **S**pecific - Clear and well-defined
-- ✅ **M**easurable - You can track progress
-- ✅ **A**chievable - Challenging but possible
-- ✅ **R**elevant - Aligned with your bigger picture
-- ✅ **T**ime-bound - Has a deadline
+::: info Checklist voor SMART-doelen
+Elk doel zou moeten zijn:
+- ✅ **Specifiek** - Duidelijk en goed gedefinieerd
+- ✅ **M**emetbaar - Je kunt je voortgang bijhouden
+- ✅ **A**haalbaar - Uitdagend maar mogelijk
+- ✅ **R**elevant - Afgestemd op je grotere geheel
+- ✅ **Tijdgebonden** - Heeft een deadline
 :::
 
 
-### S - Specific
-❌ "Get better at shooting"
-✅ "Improve my au fer (direct hit) accuracy from 8 meters"
+### S - Specifiek
+❌ &quot;Word beter in schieten&quot;
+✅ &quot;Verbeter mijn nauwkeurigheid bij directe treffers vanaf 8 meter&quot;
 
-### M - Measurable
-❌ "Shoot more accurately"
-✅ "Score at least 24/30 on the shooting ladder drill"
+### M - Meetbaar
+❌ &quot;Schiet nauwkeuriger&quot;
+✅ &quot;Behaal minimaal 24/30 punten bij de schietoefening met de ladder&quot;
 
-### A - Achievable
-❌ "Never miss a shot" (impossible)
-✅ "Improve accuracy by 10% over 8 weeks" (challenging but realistic)
+### A - Haalbaar
+❌ &quot;Mis nooit een schot&quot; (onmogelijk)
+✅ &quot;Verbeter je nauwkeurigheid met 10% in 8 weken&quot; (uitdagend maar realistisch)
 
 ### R - Relevant
-❌ "Run a marathon" (not directly related)
-✅ "Improve balance and stability for better throwing" (supports your game)
+❌ &quot;Een marathon lopen&quot; (niet direct gerelateerd)
+✅ &quot;Verbeter je balans en stabiliteit voor een betere worp&quot; (ondersteunt je spel)
 
-### T - Time-bound
-❌ "Someday I'll be better"
-✅ "By March 15th, I will achieve..."
+### T - Tijdsgebonden
+❌ &quot;Ooit zal het beter met me gaan&quot;
+✅ &quot;Voor 15 maart zal ik bereiken...&quot;
 
-## Goal Examples for Pétanque
+## Voorbeelden van doelen bij pétanque
 
-| Type | Poor Goal | SMART Goal |
+| Type | Slecht doel | SMART-doel |
 |------|-----------|------------|
-| Outcome | "Win more" | "Reach the semi-finals at the Spring Tournament" |
-| Performance | "Point better" | "Achieve 70% of points within 50cm at 8m distance" |
-| Process | "Practice more" | "Complete 3 focused training sessions per week" |
+| Resultaat | &quot;Win meer&quot; | &quot;Bereik de halve finales van het voorjaarstoernooi&quot; |
+| Prestatie | &quot;Beter aanwijzen&quot; | &quot;Behaal 70% van de punten binnen 50 cm op een afstand van 8 m&quot; |
+| Proces | &quot;Oefen meer&quot; | &quot;Voltooi 3 gerichte trainingssessies per week&quot; |
 
-## Breaking Down Big Goals
+## Het opdelen van grote doelen
 
-Large goals can feel overwhelming. Break them into smaller pieces:
+Grote doelen kunnen overweldigend aanvoelen. Verdeel ze in kleinere onderdelen:
 
-### Example: "Win the Club Championship (12 months away)"
+### Voorbeeld: &quot;Win het clubkampioenschap (over 12 maanden)&quot;
 
-**Yearly goal:** Win club championship
+**Jaardoel:** Clubkampioenschap winnen
 
-**Quarterly goals:**
-- Q1: Improve shooting accuracy to 75%
-- Q2: Develop consistent pre-shot routine
-- Q3: Master pressure situations
-- Q4: Peak performance and competition prep
+**Doelstellingen per kwartaal:**
+- Vraag 1: Verbeter de schietnauwkeurigheid tot 75%.
+- Vraag 2: Ontwikkel een consistente routine vóór de opname.
+- Vraag 3: Beheers situaties onder druk
+- Vraag 4: Topprestaties en wedstrijdvoorbereiding
 
-**Monthly goals (Q1):**
-- Month 1: Establish baseline, identify weaknesses
-- Month 2: Focus on shooting technique
-- Month 3: Add pressure to shooting practice
+**Maandelijkse doelen (Q1):**
+- Maand 1: Stel de basislijn vast en identificeer de zwakke punten.
+- Maand 2: Focus op de schiettechniek
+- Maand 3: Verhoog de druk tijdens schietoefeningen
 
-**Weekly goals (Month 2):**
-- Week 1: 3 shooting sessions, video analysis
-- Week 2: Work on identified technique issue
-- Week 3: Increase distance gradually
-- Week 4: Test progress, adjust plan
+**Wekelijkse doelen (maand 2):**
+- Week 1: 3 schietsessies, videoanalyse
+- Week 2: Werken aan het geïdentificeerde technische probleem
+- Week 3: De afstand geleidelijk vergroten
+- Week 4: Test de voortgang en pas het plan aan.
 
-## Connecting Goals to Your "Why"
+## Je doelen verbinden met je &#39;waarom&#39;.
 
-Goals work better when connected to deeper motivation.
+Doelen werken beter wanneer ze verbonden zijn met een dieperliggende motivatie.
 
-Ask yourself:
-- Why do I want to achieve this?
-- What will it mean to me?
-- How will I feel when I succeed?
-- What's driving me to improve?
+Stel jezelf de volgende vraag:
+- Waarom wil ik dit bereiken?
+- Wat zal het voor mij betekenen?
+- Hoe zal ik me voelen als het me lukt?
+- Wat motiveert mij om te verbeteren?
 
-Write down your answers. Return to them when motivation fades.
+Schrijf je antwoorden op. Kijk er nog eens naar terug als je motivatie afneemt.
 
-## In This Section
+## In deze sectie
 
-- **[Psychology of Motivation](/nl/education/motivation/motivation)** — Intrinsic vs extrinsic, Self-Determination Theory
-- **[SMART Goals in Detail](/nl/education/motivation/smart-goals)** — Deep dive into creating effective goals
-- **[Creating Your Training Plan](/nl/education/motivation/planning)** — Turn goals into action
-- **[Maintaining Motivation](/nl/education/motivation/maintaining)** — Long-term sustainability, burnout prevention
+- **[Psychologie van motivatie](/en/education/motivation/motivation)** — Intrinsieke versus extrinsieke motivatie, Zelfdeterminatietheorie
+- **[SMART-doelen in detail](/en/education/motivation/smart-goals)** — Een diepgaande analyse van het formuleren van effectieve doelen
+- **[Je trainingsplan opstellen](/en/education/motivation/planning)** — Zet doelen om in actie
+- **[Motivatie behouden](/en/education/motivation/maintaining)** — Duurzaamheid op lange termijn, preventie van burn-out
 
-## Summary: Goal Setting Rules
+## Samenvatting: Regels voor het stellen van doelen
 
-::: tip Rule #1: The Control Rule
-**Focus on process goals (what you control) over outcome goals.**
-Process goals lead to performance goals, which lead to outcome goals.
+::: tip Regel #1: De controleregel
+**Richt je op procesdoelen (wat je kunt beïnvloeden) in plaats van op resultaatdoelen.**
+Procesdoelen leiden tot prestatiedoelen, die op hun beurt leiden tot resultaatdoelen.
 :::
 
-::: tip Rule #2: The SMART Rule
-**Goals must be Specific, Measurable, Achievable, Relevant, Time-bound.**
-Vague goals produce vague results. SMART goals produce progress.
+::: tip Regel #2: De SMART-regel
+**Doelen moeten specifiek, meetbaar, haalbaar, relevant en tijdgebonden zijn.**
+Vage doelen leiden tot vage resultaten. SMART-doelen zorgen voor vooruitgang.
 :::
 
-::: tip Rule #3: The Breakdown Rule
-**Large goals need quarterly, monthly, and weekly milestones.**
-Break big goals into small, actionable steps you can complete this week.
+::: tip Regel #3: De ineenstortingsregel
+**Grote doelen vereisen mijlpalen op kwartaal-, maand- en weekniveau.**
+Deel grote doelen op in kleine, uitvoerbare stappen die je deze week kunt voltooien.
 :::
 
-::: tip Rule #4: The Connection Rule
-**Connect goals to your deeper "why."**
-When motivation fades, your "why" keeps you going.
+::: tip Regel #4: De verbindingsregel
+**Verbind je doelen met je diepere &quot;waarom&quot;.**
+Als je motivatie verdwijnt, houdt je &quot;waarom&quot; je op de been.
 :::
 
-## Key Takeaway
+## Belangrijkste conclusie
 
-> A goal without a plan is just a wish.
+> Een doel zonder plan is slechts een wens.
 
-Set clear goals. Break them down. Focus on what you control. Track your progress.
+Stel duidelijke doelen. Verdeel ze in kleinere stappen. Concentreer je op wat je wél kunt beïnvloeden. Houd je voortgang bij.
 

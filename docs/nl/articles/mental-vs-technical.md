@@ -3,218 +3,218 @@ title: Why Elite Players Need Mental Training More Than Technical
 description: Discover why more technical practice might be holding you back, and how the training ratio should invert as you advance.
 ---
 
-# Why Elite Players Need Mental Training More Than Technical Training
+# Waarom topspelers meer behoefte hebben aan mentale training dan aan technische training.
 
-> "If you've been playing pétanque for years and have solid technique, more technical practice might be holding you back."
+> &quot;Als je al jaren pétanque speelt en een solide techniek hebt, kan meer technische oefening je wellicht belemmeren.&quot;
 
-::: tip The Uncomfortable Truth
-**At the elite level, your technique isn't the bottleneck — your mind is.**
+::: tip De ongemakkelijke waarheid
+**Op topniveau is niet je techniek het knelpunt, maar je mindset.**
 :::
 
 ---
 
-## The Paradox of Elite Development
+## De paradox van eliteontwikkeling
 
-Here's something that surprises most players:
+Dit verrast de meeste spelers:
 
-::: warning The Inversion Principle
-As your technical skill increases, the ratio of technical to mental training should **invert**.
+::: warning Het inversieprincipe
+Naarmate je technische vaardigheden toenemen, zou de verhouding tussen technische en mentale training moeten **omkeren**.
 
-- **Beginners:** 90% technical, 10% mental
-- **Intermediate:** 70% technical, 30% mental  
-- **Advanced:** 50% technical, 50% mental
-- **Elite:** 20% technical, 80% mental
+- **Beginners:** 90% technisch, 10% mentaal
+- **Gemiddeld niveau:** 70% technisch, 30% mentaal
+- **Gevorderd:** 50% technisch, 50% mentaal
+- **Elite:** 20% technisch, 80% mentaal
 :::
 
-This isn't intuitive. Most players assume that to get better, they need to practice their technique more. But at the elite level, this approach actually causes problems.
+Dit is niet intuïtief. De meeste spelers gaan ervan uit dat ze hun techniek meer moeten oefenen om beter te worden. Maar op topniveau leidt deze aanpak juist tot problemen.
 
-## Why Technical Training Can Hurt Elite Performance
+## Waarom technische training topprestaties kan schaden
 
-### The Overthinking Problem
+### Het probleem van overdenken
 
-When you practice technique extensively, you reinforce **conscious awareness** of your movements. This is perfect for beginners who are building neural pathways. But for elite players, it creates a dangerous habit: thinking about technique during execution.
+Door veel te oefenen op een bepaalde techniek, versterk je het **bewustzijn** van je bewegingen. Dit is perfect voor beginners die neurale verbindingen aan het opbouwen zijn. Maar voor topspelers creëert het een gevaarlijke gewoonte: nadenken over de techniek tijdens de uitvoering.
 
 
-**Example from the terrain:**
+**Voorbeeld uit het terrein:**
 
-*Beginner:* Needs to think "bend knees, smooth release, follow through" to execute properly.
+*Beginner:* Moet denken aan &quot;knieën buigen, soepel loslaten, doorzwaaien&quot; om de oefening correct uit te voeren.
 
-*Elite player:* Already has 10,000+ hours of practice. The movement is automatic. Thinking about "bend knees" actually disrupts the trained pattern.
+*Topspeler:* Heeft al meer dan 10.000 uur geoefend. De beweging is automatisch. De gedachte aan &quot;knieën buigen&quot; verstoort juist het aangeleerde patroon.
 
-### The Flow State Barrier
+### De flowtoestandbarrière
 
-Flow states (being "in the zone") require **transient hypofrontality**—a temporary reduction in activity in the prefrontal cortex (the analytical part of your brain).
+Flowtoestanden (het &#39;in de zone zijn&#39;) vereisen **tijdelijke hypofrontaliteit** – een tijdelijke vermindering van de activiteit in de prefrontale cortex (het analytische deel van je hersenen).
 
 ```mermaid
 graph LR
-    A[Technical Practice] -->|Reinforces| B[Conscious Awareness]
-    B -->|Prevents| C[Flow State]
-    C -->|Required for| D[Elite Performance]
+    A[Technische praktijk] -->|Reinforces| B[Bewustzijn]
+    B -->|Prevents| C[Flow-toestand]
+    C -->|Required for| D[Elite prestaties]
     
     style A fill:#ffebee
     style C fill:#e8f5e9
     style D fill:#e3f2fd
 ```
 
-The more you practice technique consciously, the harder it becomes to "switch off" during competition.
+Hoe meer je bewust op een techniek oefent, hoe moeilijker het wordt om je tijdens een wedstrijd af te sluiten.
 
-## What Elite Players Actually Need
+## Wat topspelers echt nodig hebben
 
-### 1. The Ability to Switch Modes
+### 1. De mogelijkheid om van modus te wisselen
 
-Elite performance requires mastering the transition between two brain modes:
+Topprestaties vereisen het beheersen van de overgang tussen twee hersenmodi:
 
-**Planning Mode (Outside the Circle)**
-- Analytical thinking
-- Strategy assessment
-- Decision making
-- Risk evaluation
+**Planningsmodus (buiten de cirkel)**
+- Analytisch denken
+- Strategiebeoordeling
+- Besluitvorming
+- Risicobeoordeling
 
-**Execution Mode (Inside the Circle)**
-- Automatic movement
-- Target focus only
-- Trust in training
-- Flow state access
+**Uitvoeringsmodus (binnen de cirkel)**
+- Automatische beweging
+- Doelgerichte focus
+- Vertrouwen in training
+- Toegang tot de stroomstatus
 
-Most elite players are stuck in planning mode during execution. They need to train the **switch**, not the technique.
+De meeste topspelers zitten vast in de planningsfase tijdens de uitvoering. Ze moeten de **omschakeling** trainen, niet de techniek.
 
-### 2. Pressure Management
+### 2. Drukbeheersing
 
-Technical practice in comfortable conditions doesn't prepare you for the psychological pressure of competition.
+Technische training in comfortabele omstandigheden bereidt je niet voor op de psychologische druk van een wedstrijd.
 
-**What happens under pressure:**
-- Heart rate increases
-- Breathing becomes shallow
-- Muscles tense
-- Attention narrows
-- Inner critic activates
+**Wat er onder druk gebeurt:**
+- De hartslag neemt toe.
+- De ademhaling wordt oppervlakkig.
+- Spieren gespannen
+- De aandacht vernauwt zich
+- De innerlijke criticus wordt geactiveerd
 
-You can have perfect technique in practice and completely lose it under pressure. This isn't a technical problem—it's a mental one.
+Je kunt tijdens de training een perfecte techniek beheersen en die onder druk volledig kwijtraken. Dit is geen technisch probleem, maar een mentaal probleem.
 
-### 3. Mistake Recovery
+### 3. Foutcorrectie
 
-Elite players don't make fewer mistakes than good players. They **recover faster**.
+Topspelers maken niet minder fouten dan goede spelers. Ze herstellen alleen sneller.
 
-**Good player after a bad throw:**
-- Dwells on the mistake
-- Analyzes what went wrong
-- Worries about the next throw
-- Performance deteriorates
+**Goede speler na een slechte worp:**
+- Blijft stilstaan bij de fout.
+- Analyseert wat er mis is gegaan
+- Zorgen over de volgende worp.
+- De prestaties verslechteren.
 
-**Elite player after a bad throw:**
-- Neutral observation
-- Quick learning
-- Immediate reset
-- Performance maintained
+**Topspeler na een slechte worp:**
+- Neutrale observatie
+- Snel leren
+- Directe reset
+- Prestaties gehandhaafd
 
-This is a trained skill, not a personality trait.
+Dit is een aangeleerde vaardigheid, geen persoonlijkheidskenmerk.
 
-## The Science: Why Mental Training Works
+## De wetenschap: waarom mentale training werkt
 
-### Neuroscience of Expertise
+### Neurowetenschap van expertise
 
-Research on expert performance shows that elite athletes have:
+Onderzoek naar de prestaties van experts toont aan dat topsporters de volgende eigenschappen bezitten:
 
-1. **Automated motor patterns** - Movements happen without conscious control
-2. **Superior pattern recognition** - See situations faster
-3. **Better emotional regulation** - Manage pressure effectively
-4. **Faster recovery** - Reset after mistakes quickly
+1. **Geautomatiseerde motorische patronen** - Bewegingen vinden plaats zonder bewuste controle.
+2. **Superieure patroonherkenning** - Situaties sneller doorzien
+3. **Betere emotionele regulatie** - Effectief omgaan met druk.
+4. **Sneller herstel** - Reset snel na fouten
 
-Notice: Only #1 is technical. The other three are mental.
+Let op: alleen punt 1 is technisch. De andere drie zijn mentaal.
 
-### The 10,000 Hour Threshold
+### De drempel van 10.000 uur
 
-Once you've invested roughly 10,000 hours in deliberate practice (about 8-10 years of serious play), your technical patterns are largely established. Further technical improvement shows diminishing returns.
+Als je ongeveer 10.000 uur hebt geïnvesteerd in doelgericht oefenen (zo&#39;n 8-10 jaar serieus spelen), zijn je technische patronen grotendeels vastgelegd. Verdere technische verbetering levert dan steeds minder op.
 
-But mental game development? That's where massive gains are still possible.
+Maar mentale ontwikkeling? Daar valt nog enorm veel te verbeteren.
 
-## How to Restructure Your Training
+## Hoe u uw training kunt herstructureren
 
-### For Elite Players (8+ years experience)
+### Voor topspelers (8+ jaar ervaring)
 
-**Current typical split:**
-- 80% technical practice
-- 20% playing/competition
+**Huidige gebruikelijke verdeling:**
+- 80% technische praktijk
+- 20% spelen/competitie
 
-**Recommended split:**
-- 20% technical maintenance
-- 40% mental game training
-- 40% competition/pressure situations
+**Aanbevolen verdeling:**
+- 20% technisch onderhoud
+- 40% mentale training
+- 40% van de situaties is competitief/onder druk.
 
-### What Mental Game Training Looks Like
+### Hoe ziet mentale training eruit?
 
-**Not this:**
-- "Just relax"
-- "Don't think about it"
-- "Be confident"
+**Niet dit:**
+- &quot;Ontspan je gewoon&quot;
+- &quot;Denk er niet aan&quot;
+- &quot;Wees zelfverzekerd&quot;
 
-**But this:**
-- Structured mindfulness practice (10 min daily)
-- Pre-shot routine development and practice
-- Pressure simulation in training
-- Mistake recovery protocols
-- Flow state trigger identification
-- Inner coach vs inner critic work
+**Maar dit:**
+- Gestructureerde mindfulness-oefening (10 minuten per dag)
+- Ontwikkeling en oefening van de voorbereiding op de opname
+- Druksimulatie in de training
+- Protocollen voor het herstellen van fouten
+- Identificatie van triggers voor stroomtoestanden
+- Innerlijke coach versus innerlijke criticus
 
-See our [Education](/nl/education/) section for specific techniques.
+Zie onze [Onderwijs](/en/education/) sectie voor specifieke technieken.
 
-## The Uncomfortable Truth
+## De ongemakkelijke waarheid
 
-If you're an elite player still spending 80% of your training time on technical drills, you're training like a beginner. Your technique is already good enough. The limitation isn't your arm—it's your mind.
+Als je een topspeler bent en nog steeds 80% van je trainingstijd besteedt aan technische oefeningen, train je als een beginner. Je techniek is al goed genoeg. De beperking zit niet in je arm, maar in je mindset.
 
-::: tip The Real Question
-It's not "How can I improve my pointing technique?"
+::: tip De echte vraag
+Het gaat niet om &quot;Hoe kan ik mijn aanwijstechniek verbeteren?&quot;
 
-It's "How can I access my best technique consistently under pressure?"
+De vraag is: &quot;Hoe kan ik onder druk consistent mijn beste techniek toepassen?&quot;
 :::
 
-## Practical Next Steps
+## Praktische vervolgstappen
 
-### 1. Assess Your Current Ratio
+### 1. Bepaal uw huidige ratio
 
-Track your training for one week:
-- Hours on technical practice
-- Hours on mental game work
-- Hours in competition/pressure situations
+Houd je training gedurende één week bij:
+- Uren technische praktijk
+- Urenlang oefenen met mentale training.
+- Uren in competitieve/druksituaties
 
-### 2. Start Small
+### 2. Begin klein
 
-Don't flip the ratio overnight. Add:
-- 10 minutes daily mindfulness
-- One mental game focus per training session
-- Pre-shot routine practice
+Verander de verhouding niet van de ene op de andere dag. Voeg toe:
+- 10 minuten mindfulness per dag
+- Eén mentale focus per trainingssessie.
+- Oefening van de voorbereiding op de opname
 
-### 3. Measure Mental Performance
+### 3. Mentale prestaties meten
 
-Track:
-- Recovery time after mistakes
-- Consistency under pressure
-- Flow state frequency
-- Pre-shot routine adherence
+Spoor:
+- Hersteltijd na fouten
+- Consistentie onder druk
+- Stroomtoestandfrequentie
+- Naleving van de pre-injectieprocedure
 
-### 4. Use the Education Modules
+### 4. Gebruik de educatieve modules
 
-Start with:
-1. [The Zone](/nl/education/mental-game/the-zone/) - Understand flow states
-2. [Mental Strength](/nl/education/mental-game/mental-strength/) - Build pressure skills
-3. [Mindfulness](/nl/education/mental-game/mindfulness/) - Develop present-moment focus
+Begin met:
+1. [De Zone](/en/education/mental-game/the-zone/) - Flow-toestanden begrijpen
+2. [Mentale kracht](/en/education/mental-game/mental-strength/) - Ontwikkel vaardigheden om onder druk te presteren
+3. [Mindfulness](/en/education/mental-game/mindfulness/) - Ontwikkel focus op het huidige moment
 
-## Conclusion
+## Conclusie
 
-The path to elite performance isn't more technical practice—it's smarter mental training. Your technique is already good enough. The question is: can you access it when it matters?
+De weg naar topprestaties ligt niet in meer technische oefening, maar in slimmere mentale training. Je techniek is al goed genoeg. De vraag is: kun je die toepassen wanneer het erop aankomt?
 
-The players who make this shift—who embrace mental training as their primary development focus—are the ones who break through performance plateaus and achieve consistent excellence.
+De spelers die deze omschakeling maken – die mentale training als hun belangrijkste ontwikkelingsfocus omarmen – zijn degenen die prestatieplateaus doorbreken en consistent uitmuntend presteren.
 
-**The choice is yours:** Keep training like a beginner, or start training like an elite player.
+**De keuze is aan jou:** Blijf trainen als een beginner, of begin te trainen als een topspeler.
 
 
 ---
 
-## Related Resources
+## Gerelateerde bronnen
 
-- [The Zone: Understanding Flow State](/nl/education/mental-game/the-zone/)
-- [Case Studies: Elite Players in Action](/nl/articles/case-studies)
-- [Goal Template](/nl/guides/templates/goal-template) - Plan your mental game development
+- [De Zone: Het begrijpen van de flowtoestand](/en/education/mental-game/the-zone/)
+- [Casestudies: Topspelers in actie](/en/articles/case-studies)
+- [Doelsjabloon](/en/guides/templates/goal-template) - Plan je mentale spelontwikkeling
 
-**Questions or comments?** Email [patrik.wiik@gmail.com](mailto:patrik.wiik@gmail.com)
+**Vragen of opmerkingen?** Stuur een e-mail naar [patrik.wiik@gmail.com](mailto:patrik.wiik@gmail.com)
 

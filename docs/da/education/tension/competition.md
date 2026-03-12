@@ -3,240 +3,240 @@ title: Managing Tension in Competition
 description: Pre-match preparation, during-match protocols, and emergency recovery techniques for competition tension.
 ---
 
-# Managing Tension in Competition
+# Håndtering af spændinger i konkurrencen
 
-Competition creates tension. This page provides protocols for managing tension before, during, and after high-pressure situations.
+Konkurrence skaber spændinger. Denne side indeholder protokoller til håndtering af spændinger før, under og efter pressede situationer.
 
 ---
 
-## Pre-Match Preparation
+## Forberedelse før kampen
 
-### The Night Before
+### Natten før
 
-Tension often begins before you arrive at the terrain:
+Spændingen starter ofte, før du ankommer til terrænet:
 
-| Time | Action |
+| Tid | Handling |
 |------|--------|
-| **Evening** | Light meal, familiar routine |
-| **Before bed** | Brief PMR or relaxation (10 min) |
-| **If anxious** | Write concerns on paper (brain dump) |
-| **Sleep environment** | Cool, dark, quiet |
+| **Aften** | Let måltid, velkendt rutine |
+| **Før sengetid** | Kort PMR eller afslapning (10 min.) |
+| **Hvis du er ængstelig** | Skriv bekymringer ned på papir (brain dump) |
+| **Søvnmiljø** | Køligt, mørkt, stille |
 
-### Morning of Competition
+### Konkurrencemorgen
 
-| Time Before Match | Action |
+| Tid før kampen | Handling |
 |-------------------|--------|
-| **Wake** | Normal time, don't oversleep |
-| **First hour** | Normal routine, avoid checking phone obsessively |
-| **Breakfast** | Familiar foods, adequate but not heavy |
-| **Pre-departure** | Brief PMR or abbreviated relaxation |
+| **Vågne** | Normal tid, sov ikke for meget |
+| **Første time** | Normal rutine, undgå at tjekke telefonen obsessivt |
+| **Morgenmad** | Velkendte fødevarer, tilstrækkelige men ikke tunge |
+| **Før afgang** | Kort PMR eller forkortet afslapning |
 
-### Arrival at Venue
+### Ankomst til spillestedet
 
-**The 20-Minute Protocol:**
+**20-minuttersprotokollen:**
 
-1. **Minutes 1-5:** Arrive, assess environment, locate facilities
-2. **Minutes 6-10:** Light movement, walk around, gentle stretching
-3. **Minutes 11-15:** Find quiet spot, breathing exercises
-4. **Minutes 16-20:** Warm-up throws, gradually increasing focus
+1. **Minut 1-5:** Ankomst, vurder omgivelserne, find faciliteterne
+2. **Minutter 6-10:** Let bevægelse, gå rundt, blid udstrækning
+3. **Minutter 11-15:** Find et roligt sted, åndedrætsøvelser
+4. **Minutter 16-20:** Opvarmningskast, gradvist øget fokus
 
 ---
 
-## During Match Protocols
+## Protokoller under kampene
 
-### Between Points
+### Mellem punkter
 
-**The 30-Second Reset:**
+**30-sekunders nulstilling:**
 
-1. **Step away** from the action (physically if possible)
-2. **Shoulder drop** — Quick tension release
-3. **One deep breath** — Full exhale emphasis
-4. **Refocus** — "What's next?" not "What happened?"
+1. **Træd væk** fra handlingen (fysisk hvis muligt)
+2. **Skuldernedgang** — Hurtig spændingsudløsning
+3. **Én dyb indånding** — Fuld udåndingsbetoning
+4. **Refokusér** — &quot;Hvad er det næste?&quot; ikke &quot;Hvad skete der?&quot;
 
-### Between Ends
+### Mellem enderne
 
-**The 60-Second Protocol:**
+**60-sekundersprotokollen:**
 
-Use breaks between ends to reset completely:
+Brug pauser mellem enderne for at nulstille helt:
 
-1. **Physical reset** (20 sec)
-   - Walk to your area
-   - Shake out hands
-   - Roll shoulders
+1. **Fysisk nulstilling** (20 sek.)
+   - Gå til dit område
+   - Ryst hænderne
+   - Rul skuldrene
 
-2. **Mental reset** (20 sec)
-   - Leave the last end behind
-   - Focus on "new game starts now"
+2. **Mental nulstilling** (20 sek.)
+   - Læg den sidste ende bag dig
+   - Fokus på &quot;et nyt spil starter nu&quot;
 
-3. **Preparation** (20 sec)
-   - Consider position for next end
-   - Visualize your first throw
+3. **Forberedelse** (20 sek.)
+   - Overvej position til næste ende
+   - Visualiser dit første kast
 
-### Before Crucial Throws
+### Før afgørende kast
 
-When the stakes are high:
+Når indsatsen er høj:
 
-1. **Acknowledge** the pressure (don't pretend it's not there)
-2. **Body scan** — Find and release tension
-3. **Grip check** — Tense-release-optimal
-4. **Breath** — Full cycle, slow exhale
-5. **Routine** — Execute your standard pre-shot routine
-6. **Cue word** — Your personal trigger for "release"
+1. **Anerkend** presset (lad ikke som om, det ikke er der)
+2. **Body scan** — Find og frigør spændinger
+3. **Gribtest** — Optimal spænding og frigivelse
+4. **Åndedræt** — Fuld cyklus, langsom udånding
+5. **Rutine** — Udfør din standardrutine før indtagelse
+6. **Signaturord** — Din personlige udløser for &quot;frigivelse&quot;
 
-::: tip Trust Your Routine
-Under pressure, your routine is your anchor. Don't change it—rely on it.
+::: tip Stol på din rutine
+Under pres er din rutine dit anker. Lav ikke om på den – stol på den.
 :::
 
 ---
 
-## Recognizing Arousal Levels
+## Genkendelse af arousalniveauer
 
-### Signs You're Over-Aroused
+### Tegn på, at du er overophidset
 
-| Physical | Mental |
+| Fysisk | Mental |
 |----------|--------|
-| Tight grip | Racing thoughts |
-| Raised shoulders | Focus on outcome |
-| Shallow breathing | Negative self-talk |
-| Rushed movements | Worry about mistakes |
-| Restless, fidgety | Difficulty deciding |
+| Fast greb | Tanker om kapløb |
+| Hævede skuldre | Fokus på resultat |
+| Overfladisk vejrtrækning | Negativ selvsnak |
+| Forhastede bevægelser | Bekymre dig om fejl |
+| Rastløs, urolig | Vanskeligheder med at beslutte |
 
-**Action:** Use calming techniques (4-7-8 breathing, shoulder drops)
+**Handling:** Brug beroligende teknikker (4-7-8 vejrtrækning, skuldersænkninger)
 
-### Signs You're Under-Aroused
+### Tegn på, at du er underophidset
 
-| Physical | Mental |
+| Fysisk | Mental |
 |----------|--------|
-| Sluggish movement | Difficulty focusing |
-| Low energy | Going through motions |
-| Careless setup | Not engaged |
-| Loose attention | Mind wandering |
+| Træg bevægelse | Besvær med at fokusere |
+| Lav energi | Går gennem bevægelser |
+| Uforsigtig opsætning | Ikke engageret |
+| Løs opmærksomhed | Tankerne vandrer |
 
-**Action:** Use activation techniques (quick movements, energizing self-talk, physical shake-out)
+**Handling:** Brug aktiveringsteknikker (hurtige bevægelser, energigivende selvsnak, fysisk afspænding)
 
 ---
 
-## Emergency Protocols
+## Nødprotokoller
 
-### "I'm Too Tense"
+### &quot;Jeg er for anspændt&quot;
 
-When tension is affecting your performance:
+Når spændinger påvirker din præstation:
 
-**The 60-Second Emergency Reset:**
+**60-sekunders nødnulstilling:**
 
-1. **Step away** from immediate situation
-2. **Ground yourself** — Feel feet on ground
-3. **Forceful exhale** — Push air out completely
-4. **Shoulder drop** — Exaggerated raise and drop
-5. **Shake hands** — Loose, 10 seconds
-6. **Slow breath** — 4-7-8 pattern once
-7. **Return** with single focus word
+1. **Træd væk** fra den umiddelbare situation
+2. **Jordn dig selv** — Mærk fødderne stå på jorden
+3. **Kraftig udånding** — Tryk luften helt ud
+4. **Skulderløft** — Overdrevet hævning og drop
+5. **Ryd hænder** — Løst, 10 sekunder
+6. **Langsom vejrtrækning** — 4-7-8 mønster én gang
+7. **Return** med et enkelt fokusord
 
-### "I Can't Stop Thinking About Mistakes"
+### &quot;Jeg kan ikke holde op med at tænke på fejl&quot;
 
-Post-mistake mental spiral:
+Mental spiral efter en fejltagelse:
 
-1. **Acknowledge:** "That happened"
-2. **Accept:** "It's done, can't change it"
-3. **Analyze briefly:** "What's the lesson?" (3 seconds max)
-4. **Act:** "What's my next action?"
+1. **Anerkend:** &quot;Det skete&quot;
+2. **Accepter:** &quot;Det er gjort, det kan ikke ændres&quot;
+3. **Analyser kort:** &quot;Hvad er lektien?&quot; (maks. 3 sekunder)
+4. **Handling:** &quot;Hvad er min næste handling?&quot;
 
-::: warning Don't Suppress
-Trying to "not think about it" increases thoughts. Acknowledge, then redirect.
+::: warning Undertryk ikke
+At forsøge at &quot;ikke tænke på det&quot; forstærker tankerne. Anerkend dem, og omdiriger dem derefter.
 :::
 
-### "I'm Choking"
+### &quot;Jeg kvæles&quot;
 
-When performance has clearly degraded:
+Når ydeevnen er tydeligt forringet:
 
-1. **Call a timeout** if available (water, bathroom)
-2. **Physical first** — Walk, breathe, move
-3. **Slow everything down** — Deliberately move at 70% speed
-4. **Simplify** — Don't try to be brilliant, just execute basics
-5. **One throw at a time** — Forget the score, focus on this single action
-
----
-
-## Score-Specific Tension
-
-### When Winning
-
-Tension can increase when protecting a lead:
-
-- **Risk:** Becoming conservative, tight, "not to lose" mindset
-- **Strategy:** Keep playing your game, don't change what's working
-- **Self-talk:** "Execute the process" not "Protect the lead"
-
-### When Losing
-
-Desperation creates different tension:
-
-- **Risk:** Forcing, taking low-percentage shots, rushing
-- **Strategy:** Accept the deficit, focus on winning THIS point
-- **Self-talk:** "One point at a time" not "I need to catch up"
-
-### Close Games
-
-Maximum tension situations:
-
-- **Risk:** Over-thinking every decision, paralysis
-- **Strategy:** Trust your training, commit fully to choices
-- **Self-talk:** "I've prepared for this" not "This is so important"
+1. **Ring til en timeout** hvis muligt (vand, toilet)
+2. **Fysisk først** — Gå, træk vejret, bevæg dig
+3. **Sænk farten** — Bevæg dig bevidst med 70% hastighed
+4. **Forenkling** — Forsøg ikke at være genial, bare udfør det grundlæggende
+5. **Et kast ad gangen** — Glem scoren, fokuser på denne ene handling
 
 ---
 
-## Post-Match Tension Management
+## Scorespecifik spænding
 
-Win or lose, process the match properly:
+### Når man vinder
 
-### Immediately After
+Spændingen kan øges, når man beskytter en ledning:
 
-1. **Hydrate** — Physical reset
-2. **Brief acknowledgment** — Win: appreciate, Loss: accept
-3. **Avoid analysis** — Too soon for objective review
+- **Risiko:** At blive konservativ, stram og have en &quot;ikke-at-tab&quot;-mentalitet
+- **Strategi:** Fortsæt med at spille dit spil, lav ikke ændringer i det, der virker
+- **Selvsnak:** &quot;Udfør processen&quot;, ikke &quot;Beskyt den potentielle kunde&quot;
 
-### 30-60 Minutes After
+### Når man taber
 
-1. **Light movement** — Walk, stretch
-2. **Social connection** — Talk about something other than the match
-3. **Eat** — Restore energy
+Desperation skaber forskellige spændinger:
 
-### Later That Day
+- **Risiko:** Forcere, tage skud med lav procentdel, løbe
+- **Strategi:** Accepter underskuddet, fokuser på at vinde DETTE point
+- **Selvsnak:** &quot;Én ting ad gangen&quot; ikke &quot;Jeg skal indhente det forsømte&quot;
 
-1. **Brief review** — What went well? What to improve?
-2. **Write it down** — Capture insights
-3. **Let it go** — It's done
+### Luk spil
 
----
+Maksimale spændingssituationer:
 
-## Building Competition Resilience
-
-Tension management improves with practice:
-
-### Training Simulation
-
-- Practice under artificial pressure
-- Create consequences in training
-- Simulate competition scenarios
-
-### Gradual Exposure
-
-- Start with low-stakes competitions
-- Build up to higher pressure
-- Learn your patterns in real situations
-
-### Post-Competition Learning
-
-- Review what triggered tension
-- Note what helped manage it
-- Refine your protocols
+- **Risiko:** Overtænkning af hver beslutning, lammelse
+- **Strategi:** Stol på din træning, forpligt dig fuldt ud til dine valg
+- **Selvsnak:** &quot;Jeg har forberedt mig på dette&quot; ikke &quot;Dette er så vigtigt&quot;
 
 ---
 
-## Related Content
+## Spændingshåndtering efter kampen
 
-- [Understanding Tension](/da/education/tension/) — The science of tension
-- [Tension Release Techniques](/da/education/tension/techniques) — PMR and breathing
-- [Mental Strength](/da/education/mental-game/mental-strength/) — Handling pressure
-- [Pre-Shot Routine](/da/education/mental-game/mental-strength/pre-shot-routine) — Consistent execution
+Vind eller tab, behandl kampen korrekt:
+
+### Umiddelbart efter
+
+1. **Hydrater** — Fysisk nulstilling
+2. **Kort takkeord** — Vind: værdsæt, Tab: acceptér
+3. **Undgå analyse** — For tidligt til objektiv gennemgang
+
+### 30-60 minutter efter
+
+1. **Let bevægelse** — Gå, stræk
+2. **Social forbindelse** — Tal om noget andet end kampen
+3. **Spis** — Genopbyg energien
+
+### Senere samme dag
+
+1. **Kort gennemgang** — Hvad gik godt? Hvad skal forbedres?
+2. **Skriv det ned** — Få indsigt
+3. **Slip det** — Det er færdigt
+
+---
+
+## Opbygning af konkurrencedygtighed
+
+Spændingshåndtering forbedres med øvelse:
+
+### Træningssimulering
+
+- Øvelse under kunstigt pres
+- Skab konsekvenser i træningen
+- Simuler konkurrencescenarier
+
+### Gradvis eksponering
+
+- Start med konkurrencer med lav indsats
+- Opbyg til højere tryk
+- Lær dine mønstre at kende i virkelige situationer
+
+### Læring efter konkurrencen
+
+- Overvej hvad der udløste spændingen
+- Bemærk hvad der hjalp med at håndtere det
+- Forfin dine protokoller
+
+---
+
+## Relateret indhold
+
+- [Forståelse af spænding](/da/uddannelse/spænding/) — Videnskaben om spænding
+- [Teknikker til spændingsfrigørelse](/da/uddannelse/spænding/teknikker) — PMR og vejrtrækning
+- [Mental styrke](/da/uddannelse/mentalt-spil/mental-styrke/) — Håndtering af pres
+- [Rutine før skud](/da/uddannelse/mentalt-spil/mental-styrke/rutine før skud) — Konsekvent udførelse
 

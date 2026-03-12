@@ -3,33 +3,33 @@ title: "Tension and Precision: The Hidden Connection"
 description: How unconscious muscle tension destroys throwing accuracy and what elite players do to maintain optimal relaxation under pressure.
 ---
 
-# Tension and Precision: The Hidden Connection
+# Spænding og præcision: Den skjulte forbindelse
 
-> "You cannot be both tense and precise. It's physically impossible."
+> &quot;Man kan ikke være både anspændt og præcis. Det er fysisk umuligt.&quot;
 
-You've felt it: the crucial throw where your body tightens, your grip increases, and the ball goes exactly where you didn't want it. Tension is the silent killer of precision.
+Du har mærket det: det afgørende kast, hvor din krop strammer sig, dit greb øges, og bolden går præcis derhen, hvor du ikke ønskede den. Spænding er præcisionens stille dræber.
 
-::: danger The Hidden Enemy
-**Most tension is invisible to the player experiencing it.** You don't know you're tense until it's too late.
+::: danger Den skjulte fjende
+**Det meste spænding er usynligt for den spiller, der oplever det.** Du ved ikke, at du er anspændt, før det er for sent.
 :::
 
 ---
 
-## The Biomechanics of Tension
+## Spændingens biomekanik
 
 ```mermaid
 flowchart TD
-    A[Tension] --> B[Grip Pressure ↑]
-    A --> C[Shoulder Tightness]
-    A --> D[Jerky Motion]
-    A --> E[Held Breath]
+    A[Spænding] --> B[Gribetryk ↑]
+    A --> C[Stramhed i skulderen]
+    A --> D[Rykkende bevægelse]
+    A --> E[Holdt vejret]
 
-    B --> F[Inconsistent Release]
-    C --> G[Restricted Swing]
-    D --> H[Lost Fluidity]
-    E --> I[Broken Rhythm]
+    B --> F[Inkonsekvent udgivelse]
+    C --> G[Begrænset sving]
+    D --> H[Mistet flydendehed]
+    E --> I[Ødelagt rytme]
 
-    F --> J[Precision ↓]
+    F --> J[Præcision ↓]
     G --> J
     H --> J
     I --> J
@@ -40,31 +40,31 @@ flowchart TD
 
 ---
 
-## Where Tension Hides
+## Hvor spændingen gemmer sig
 
-Most players are aware of gross tension (tight shoulders before a big throw). Few notice subtle tension that consistently degrades performance:
+De fleste spillere er opmærksomme på grov spænding (spændte skuldre før et stort kast). Få bemærker subtil spænding, der konsekvent forringer præstationen:
 
-| Location | Effect on Throw | How to Notice |
+| Beliggenhed | Effekt på kast | Sådan bemærker du |
 |----------|-----------------|---------------|
-| **Grip** | Inconsistent release timing | Ball marks on palm |
-| **Forearm** | Reduced wrist fluidity | Burning sensation |
-| **Shoulder** | Restricted swing arc | Throw feels "short" |
-| **Neck** | Altered head position | Stiffness after matches |
-| **Jaw** | Full-body tension cascade | Clenched teeth |
-| **Breath** | Disrupted rhythm | Holding breath |
+| **Greb** | Inkonsekvent udgivelsestidspunkt | Boldmærker på håndfladen |
+| **Underarm** | Reduceret håndledsvæske | Brændende fornemmelse |
+| **Skulder** | Begrænset svingbue | Kastet føles &quot;kort&quot; |
+| **Hals** | Ændret hovedstilling | Stivhed efter kampe |
+| **Kæbe** | Helkropsspændingskaskade | Sammenbidte tænder |
+| **Ånde** | Forstyrret rytme | Holder vejret |
 
 ---
 
-## The Pressure-Tension Spiral
+## Tryk-spændingsspiralen
 
-Under pressure, a destructive cycle begins:
+Under pres begynder en destruktiv cyklus:
 
 ```mermaid
 flowchart LR
-    A[Stakes ↑] --> B[Body Tenses]
-    B --> C[Precision ↓]
-    C --> D[Anxiety ↑]
-    D --> E[More Tension]
+    A[Indsatser ↑] --> B[Kropsspændinger]
+    B --> C[Præcision ↓]
+    C --> D[Angst ↑]
+    D --> E[Mere spænding]
     E --> B
 
     style A fill:#fff3e0
@@ -74,163 +74,163 @@ flowchart LR
     style E fill:#f44336,color:#fff
 ```
 
-::: tip Break the Cycle
-**Interrupt at Step 2** — before tension affects performance. This is why pre-shot routines with tension checks are essential.
+::: tip Bryd cyklussen
+**Afbryd ved trin 2** — før spændingen påvirker præstationen. Derfor er rutiner før skud med spændingstjek afgørende.
 :::
 
-## Detecting Your Tension Patterns
+## Registrering af dine spændingsmønstre
 
-### The Body Scan Method
+### Kropsscanningsmetoden
 
-Before practicing, close your eyes and scan:
+Før du øver dig, luk øjnene og scan:
 
-1. Start at your feet — Any gripping of toes?
-2. Move up through legs — Any locked knees?
-3. Notice hips and core — Any bracing?
-4. Check shoulders — Any elevation?
-5. Scan arms and hands — Any premature grip?
-6. Notice neck and face — Any clenching?
+1. Start ved dine fødder — Har du fat i tæerne?
+2. Bevæg dig op gennem benene — Er der låste knæ?
+3. Bemærk hofter og core — Er der nogen afstivning?
+4. Tjek skuldrene — Er der nogen hævning?
+5. Scan arme og hænder — Har du for tidligt greb?
+6. Bemærk hals og ansigt — Nogen klemning?
 
-Rate tension 0-10 at each location. **Your baseline should be 2 or less.**
+Spændingsniveauet skal være 0-10 på hvert sted. **Din basislinje skal være 2 eller mindre.**
 
-### The Video Method
+### Videometoden
 
-Record yourself throwing in:
-- Low-stakes practice
-- Moderate-stakes practice
-- High-stakes competition
+Optag dig selv i at kaste:
+- Lavindsatsøvelse
+- Træning med moderate indsatser
+- Konkurrence med høje indsatser
 
-Compare your body language. Where do you tense up as stakes increase?
+Sammenlign dit kropssprog. Hvor spænder du op, når indsatsen stiger?
 
-### The Partner Method
+### Partnermetoden
 
-Ask a teammate to observe:
-- Your face before important throws
-- Your stance changes under pressure
-- Your breathing patterns
-- Your grip behavior
+Bed en holdkammerat om at observere:
+- Dit ansigt før vigtige kast
+- Din holdning ændrer sig under pres
+- Dine vejrtrækningsmønstre
+- Din grebsadfærd
 
-External observers see what we cannot feel.
+Eksterne observatører ser det, vi ikke kan føle.
 
-## Release Techniques
+## Frigivelsesteknikker
 
-### Quick Releases (Use During Competition)
+### Hurtigudløsninger (brug under konkurrence)
 
-**The Shake-Out**
-- Brief, vigorous shake of hands and arms
-- Releases holding patterns
-- Takes 2-3 seconds
+**Udrystelsen**
+- Korte, kraftige hånd- og armtryk
+- Frigiver holdingmønstre
+- Tager 2-3 sekunder
 
-**The Exhale Drop**
-- Deep breath in
-- On exhale, consciously drop shoulders
-- Release jaw tension simultaneously
+**Udåndingsdråbet**
+- Dyb indånding
+- Sænk bevidst skuldrene ved udånding
+- Slip kæbespændingen samtidigt
 
-**The Grip Reset**
-- Open hand completely
-- Spread fingers wide
-- Re-grip with minimum necessary force
+**Grip-nulstillingen**
+- Åben hånden helt
+- Spred fingrene bredt
+- Grib igen med minimal nødvendig kraft
 
-### Deep Releases (Use in Practice/Pre-Competition)
+### Dybe frigivelser (brug i træning/præ-konkurrence)
 
-**Progressive Muscle Relaxation**
-- Tense each muscle group deliberately (5 seconds)
-- Release completely (15 seconds)
-- Notice the difference
-- Work through entire body
+**Progressiv muskelafslapning**
+- Spænd hver muskelgruppe bevidst (5 sekunder)
+- Slip helt (15 sekunder)
+- Bemærk forskellen
+- Arbejd gennem hele kroppen
 
-**Breath-Body Connection**
-- Slow breathing (4 counts in, 6 counts out)
-- On each exhale, release one body area
-- Continue until full-body relaxation achieved
+**Forbindelse mellem åndedræt og krop**
+- Langsom vejrtrækning (4 tællinger ind, 6 tællinger ud)
+- Slip et kropsområde ved hver udånding
+- Fortsæt indtil fuld kropsafslapning opnås
 
-## The Pre-Shot Integration
+## Pre-shot-integrationen
 
-Build tension awareness into your pre-shot routine:
+Indbyg spændingsbevidsthed i din rutine før optagelserne:
 
-### Before Stepping to the Circle
-- Quick body scan (2 seconds)
-- One releasing exhale
-- Confirm relaxed grip
+### Før man træder ind i cirklen
+- Hurtig kropsscanning (2 sekunder)
+- En udløsende udånding
+- Bekræft et afslappet greb
 
-### In the Circle
-- Final breath to settle
-- Soft focus on target
-- Initiate throw from relaxed state
+### I cirklen
+- Sidste åndedrag for at falde til ro
+- Blødt fokus på målet
+- Start kast fra afslappet tilstand
 
-### After the Throw
-- Notice where tension accumulated
-- Shake out if needed
-- Reset for next throw
+### Efter kastet
+- Bemærk hvor spændingen har samlet sig
+- Ryst ud om nødvendigt
+- Nulstil til næste kast
 
-## Training Tension Awareness
+## Træning af spændingsbevidsthed
 
-### Exercise 1: The Minimum Grip
+### Øvelse 1: Minimumsgrebet
 
-Find the minimum grip pressure that maintains control:
-- Start with firm grip — throw 5 balls
-- Reduce grip 20% — throw 5 balls
-- Continue reducing until control is lost
-- Back up one level — this is your optimal grip
+Find det minimale grebtryk, der opretholder kontrollen:
+- Start med et fast greb — kast 5 bolde
+- Reducer grebet med 20% — kast 5 bolde
+- Fortsæt med at reducere, indtil du mister kontrollen
+- Gå et niveau tilbage – dette er dit optimale greb
 
-Most players grip 40-60% harder than necessary.
+De fleste spillere griber 40-60% hårdere end nødvendigt.
 
-### Exercise 2: Pressure Simulation
+### Øvelse 2: Tryksimulering
 
-Practice under artificial pressure while monitoring tension:
-- Create consequences for practice throws
-- Notice where tension appears
-- Practice releasing while maintaining focus
-- Gradually increase pressure tolerance
+Øv under kunstigt pres, mens du overvåger spændingen:
+- Skab konsekvenser for øvelseskast
+- Læg mærke til hvor spændingen opstår
+- Øv dig i at give slip, mens du bevarer fokus
+- Øg gradvist tryktolerancen
 
-### Exercise 3: The Relaxed Pointer
+### Øvelse 3: Den afslappede peger
 
-Score yourself on two dimensions:
-- Technical result (where did the ball land?)
-- Tension level (how relaxed were you?)
+Bedøm dig selv på to dimensioner:
+- Teknisk resultat (hvor landede bolden?)
+- Spændingsniveau (hvor afslappet var du?)
 
-**Goal:** Maximize both simultaneously. Many players must accept slightly worse results initially as they learn to throw relaxed.
+**Mål:** Maksimere begge dele samtidigt. Mange spillere må acceptere lidt dårligere resultater i starten, efterhånden som de lærer at kaste afslappet.
 
-## Competition Day Protocol
+## Protokol for konkurrencedagen
 
-### Pre-Match
-- 10-minute progressive relaxation
-- Body scan to identify holding patterns
-- Shake-out routine
+### Før kampen
+- 10 minutters progressiv afslapning
+- Kropsscanning for at identificere holdemønstre
+- Shake-out rutine
 
-### Between Ends
-- Brief shake-out
-- One releasing breath
-- Tension check before critical throws
+### Mellem enderne
+- Kort omrøring
+- Et udløsende åndedrag
+- Spændingskontrol før kritiske kast
 
-### During Throw
-- Trust your pre-shot routine
-- Release technique is pre-programmed
-- Don't consciously control during execution
+### Under kast
+- Stol på din rutine før indtagelse
+- Udløsningsteknikken er forprogrammeret
+- Kontroller ikke bevidst under udførelsen
 
-## Common Mistakes
+## Almindelige fejl
 
-::: warning Avoid These
-- **Over-relaxation** — Some activation is necessary
-- **Conscious control during throw** — Disrupts flow
-- **Only relaxing for big throws** — Should be consistent
-- **Ignoring breath** — Breath and tension are linked
-- **Rushing the routine** — Tension release takes time
+::: warning Undgå disse
+- **Overafslapning** — En vis aktivering er nødvendig
+- **Bevidst kontrol under kast** — Forstyrrer flowet
+- **Kun afslappende ved store kast** — Skal være konsekvent
+- **Ignorerer åndedræt** — Åndedræt og spænding er forbundet
+- **At haste rutinen** — At frigøre spændinger tager tid
 :::
 
-## The Long-Term Benefit
+## Den langsigtede fordel
 
-Players who master tension management:
-- Perform more consistently under pressure
-- Experience less physical fatigue
-- Recover faster from mistakes
-- Enjoy competition more
+Spillere, der mestrer spændingshåndtering:
+- Præster mere konsekvent under pres
+- Oplev mindre fysisk træthed
+- Genoprette sig hurtigere efter fejl
+- Nyd konkurrencen mere
 
 ---
 
-## Related Content
+## Relateret indhold
 
-- [Tension Management Module](/da/education/tension/) — Complete education
-- [Physical Preparation](/da/education/tension/physical) — Body readiness
-- [Pressure Management](/da/articles/pressure-management) — Mental aspects
+- [Modul i spændingshåndtering](/da/uddannelse/spænding/) — Fuldstændig uddannelse
+- [Fysisk forberedelse](/da/uddannelse/spænding/fysisk) — Kropsparathed
+- [Preshåndtering](/da/artikler/preshåndtering) — Mentale aspekter
 

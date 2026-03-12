@@ -1,29 +1,29 @@
-# Training Session: Competition Practice Guide
+# Séance d&#39;entraînement : Guide pratique de la compétition
 
 
-## How 4 Players Can Train Together Regularly
+## Comment 4 joueurs peuvent s&#39;entraîner ensemble régulièrement
 
-This guide shows how to create a regular training group of 4 players that competes against each other on different surfaces and environments for 2-4 hours. Emulate real competition while building psychological safety and mental performance skills.
+Ce guide explique comment créer un groupe d&#39;entraînement régulier de 4 joueurs qui s&#39;affrontent sur différentes surfaces et dans divers environnements pendant 2 à 4 heures. L&#39;objectif est de simuler une véritable compétition tout en développant la confiance en soi et les compétences mentales nécessaires à la performance.
 
-::: tip The Training Session Philosophy
-**Competition without reflection is just playing. Training without competition is just practice.** This format combines both: compete hard, then reflect deeply.
+::: tip Philosophie de la séance de formation
+**La compétition sans réflexion, c&#39;est juste du jeu. L&#39;entraînement sans compétition, c&#39;est juste de la pratique.** Ce format combine les deux : s&#39;affronter intensément, puis réfléchir en profondeur.
 :::
 
-## Quick Access
+## Accès rapide
 
-| Section | Purpose | Access |
+| Section | But | Accéder |
 |---------|---------|--------|
-| **Finding Your Group** | How to recruit the right 4 players | [View Section](#finding-your-group) |
-| **Session Structure** | 2-hour and 4-hour formats | [View Section](#session-structure) |
-| **Startup Protocol** | How to begin each session | [View Section](#startup-protocol-15-min) |
-| **Reflection Guide** | Post-session debrief process | [View Section](#reflection-protocol-15-30-min) |
-| **Related Guides** | Other training formats | [Mental Journey](/fr/guides/mental-journey/) • [Workshop](/fr/guides/workshop/) • [Training Camp](/fr/guides/training-camp/) |
+| **Trouver votre groupe** | Comment recruter les 4 bons joueurs | [Voir la section](#trouver-votre-groupe) |
+| **Structure de la session** | Formats de 2 heures et de 4 heures | [Voir la section](#structure-session) |
+| **Protocole de démarrage** | Comment commencer chaque session | [Voir la section](#startup-protocol-15-min) |
+| **Guide de réflexion** | Processus de débriefing post-session | [Voir la section](#reflection-protocol-15-30-min) |
+| **Guides associés** | Autres formats de formation | [Voyage mental](/en/guides/mental-journey/) • [Atelier](/en/guides/workshop/) • [Camp de formation](/en/guides/training-camp/) |
 
 ```mermaid
 graph LR
-    A[Training Session] --> B[Startup 15min]
-    B --> C[Competition 90-180min]
-    C --> D[Reflection 15-30min]
+    A[Séance de formation] --> B[Démarrage 15 min]
+    B --> C[Compétition 90-180 min]
+    C --> D[Réflexion 15-30 min]
 
     style A fill:#e8f5e9
     style B fill:#fff4e1
@@ -31,234 +31,234 @@ graph LR
     style D fill:#e3f2fd
 ```
 
-## Why 4 Players?
+## Pourquoi 4 joueurs ?
 
-**The Perfect Number:**
-- **2v2 format** - Mirrors real competition
-- **Rotation options** - Change partners, play singles
-- **Peer learning** - Diverse playing styles
-- **Accountability** - Hard to cancel on 3 people
-- **Intimacy** - Small enough for deep sharing
+**Le chiffre parfait :**
+- **Format 2v2** - Reflet de la compétition réelle
+- **Options de rotation** - Changer de partenaire, jouer en simple
+- **Apprentissage entre pairs** - Styles de jeu diversifiés
+- **Responsabilité** - Difficile d&#39;annuler pour 3 personnes
+- **Intimité** - Assez petit pour un partage profond
 
-::: info The Group Dynamic
-4 players creates the ideal balance between competition intensity and psychological safety. You compete hard, but you also support each other's growth.
+::: info La dynamique de groupe
+À quatre, on trouve l&#39;équilibre idéal entre l&#39;intensité de la compétition et la sécurité psychologique. On se mesure à l&#39;acharnement, mais on se soutient aussi mutuellement dans sa progression.
 :::
 
-## Finding Your Group
+## Trouver votre groupe
 
-### Ideal Group Composition
+### Composition idéale du groupe
 
-**Skill Level:**
-- Similar level (within 1-2 tiers)
-- All committed to improvement
-- Mix of pointers and shooters
-- Different playing styles
+**Niveau de compétence :**
+- Niveau similaire (à 1 ou 2 niveaux près)
+- Tous engagés dans l&#39;amélioration
+- Mélange de pointeurs et de tireurs
+- Différents styles de jeu
 
-**Mindset:**
-- Open to vulnerability
-- Willing to reflect
-- Competitive but supportive
-- Growth-oriented
+**État d&#39;esprit:**
+- Exposée à la vulnérabilité
+- Prêt à réfléchir
+- Compétitif mais solidaire
+- Axé sur la croissance
 
-**Logistics:**
-- Live within 30 minutes of each other
-- Can commit to regular schedule
-- Similar availability
+**Logistique:**
+- Ils habitent à moins de 30 minutes l&#39;un de l&#39;autre.
+- Peut s&#39;engager à respecter un horaire régulier
+- Disponibilité similaire
 
-### Recruiting Your Group
+### Recruter votre groupe
 
-**Where to find players:**
-- Your club's elite players
-- Regional tournament regulars
-- Online pétanque communities
-- Ask your coach for recommendations
+**Où trouver des joueurs :**
+- Les joueurs d&#39;élite de votre club
+- Les habitués des tournois régionaux
+- communautés de pétanque en ligne
+- Demandez des recommandations à votre entraîneur
 
-**The Invitation:**
-> "I'm forming a small training group of 4 players who want to compete regularly and work on the mental game. We'd meet weekly for 2-3 hours, play hard, then reflect on what we're learning. Interested?"
+**L&#39;invitation :**
+> « Je suis en train de constituer un petit groupe d&#39;entraînement de 4 joueurs qui souhaitent jouer régulièrement et travailler leur mental. On se retrouverait chaque semaine pendant 2 à 3 heures, on jouerait à fond, puis on réfléchirait à ce qu&#39;on a appris. Ça vous intéresse ? »
 
-## Session Structure
+## Structure de la session
 
-### 2-Hour Session
+### Séance de 2 heures
 
-| Time | Activity | Duration |
+| Temps | Activité | Durée |
 |------|----------|----------|
-| **Startup** | Check-in & setup | 15 min |
-| **Competition** | 2v2 matches | 90 min |
-| **Reflection** | Debrief & learning | 15 min |
+| **Démarrer** | Enregistrement et installation | 15 min |
+| **Concours** | Matchs 2v2 | 90 min |
+| **Réflexion** | Débriefing et apprentissage | 15 min |
 
-### 3-Hour Session
+### Séance de 3 heures
 
-| Time | Activity | Duration |
+| Temps | Activité | Durée |
 |------|----------|----------|
-| **Startup** | Check-in & setup | 15 min |
-| **Competition Round 1** | 2v2 matches | 60 min |
-| **Break** | Rest & informal chat | 15 min |
-| **Competition Round 2** | Rotate partners | 60 min |
-| **Reflection** | Deep debrief | 30 min |
+| **Démarrer** | Enregistrement et installation | 15 min |
+| **Premier tour de compétition** | Matchs 2v2 | 60 min |
+| **Casser** | Repos et discussions informelles | 15 min |
+| **Deuxième tour de compétition** | Changer de partenaire | 60 min |
+| **Réflexion** | Débriefing approfondi | 30 min |
 
-### 4-Hour Session
+### Séance de 4 heures
 
-| Time | Activity | Duration |
+| Temps | Activité | Durée |
 |------|----------|----------|
-| **Startup** | Check-in & setup | 20 min |
-| **Competition Round 1** | 2v2 matches | 75 min |
-| **Break** | Rest & snack | 15 min |
-| **Competition Round 2** | Rotate partners | 75 min |
-| **Break** | Rest | 10 min |
-| **Competition Round 3** | Singles or challenge | 45 min |
-| **Reflection** | Deep debrief & planning | 30 min |
+| **Démarrer** | Enregistrement et installation | 20 min |
+| **Premier tour de compétition** | Matchs 2v2 | 75 min |
+| **Casser** | Repos et collation | 15 min |
+| **Deuxième tour de compétition** | Changer de partenaire | 75 min |
+| **Casser** | Repos | 10 min |
+| **Troisième manche du concours** | Simple ou défi | 45 min |
+| **Réflexion** | Débriefing approfondi et planification | 30 min |
 
 
-## Startup Protocol (15-20 minutes)
+## Protocole de démarrage (15-20 minutes)
 
-### 1. Physical Setup (5 min)
+### 1. Installation physique (5 min)
 
-**Choose the terrain:**
-- Rotate through different surfaces each week
-- Vary difficulty and conditions
-- Sometimes choose uncomfortable terrain intentionally
+**Choisissez le terrain :**
+- Alterner les surfaces chaque semaine
+- Difficulté et conditions variables
+- Parfois, on choisit intentionnellement un terrain inconfortable.
 
-**Set up the space:**
-- Mark boundaries clearly
-- Prepare measuring tools
-- Water station
-- Shade if needed
+**Aménagez l&#39;espace :**
+- Délimiter clairement les frontières
+- Préparer les outils de mesure
+- Station d&#39;eau
+- Ombre si nécessaire
 
-### 2. Mental Check-In (10 min)
+### 2. Bilan mental (10 min)
 
-**The Check-In Circle:**
+**Le cercle d&#39;enregistrement :**
 
-Stand in a circle (no boules yet) and go around:
+Formez un cercle (pas de boules pour l&#39;instant) et tournez :
 
-**Each person shares:**
-1. **Energy level** (1-10): "I'm at a 7 today"
-2. **Mental state**: "I'm feeling focused" or "I'm distracted by work stress"
-3. **Intention**: "Today I want to work on staying calm after misses"
+**Chaque personne partage :**
+1. **Niveau d&#39;énergie** (1-10) : « Je suis à 7 aujourd&#39;hui »
+2. **État mental** : « Je me sens concentré » ou « Je suis distrait par le stress au travail ».
+3. **Intention** : « Aujourd&#39;hui, je veux travailler sur le fait de rester calme après des échecs. »
 
-**Why this matters:**
-- Builds awareness of mental state
-- Creates empathy in the group
-- Sets individual focus for the session
-- Normalizes being "off" some days
+**Pourquoi c&#39;est important :**
+- Sensibilise à l&#39;état mental
+- Crée de l&#39;empathie au sein du groupe
+- Définit l&#39;objectif individuel de la séance
+- Il est normal d&#39;être « à côté de la plaque » certains jours.
 
-**Facilitator tip:** Rotate who goes first each week
+**Conseil pour l&#39;animateur :** Faites tourner l&#39;ordre de passage chaque semaine
 
-### 3. Ground Rules Reminder (5 min)
+### 3. Rappel des règles de base (5 min)
 
-**Every session, briefly remind:**
+**À chaque séance, rappelez brièvement :**
 
-::: tip Session Ground Rules
-1. **Compete hard** - Play to win, no holding back
-2. **Support growth** - Help each other learn
-3. **Respect User Manuals** - Honor how each person wants to be treated
-4. **Stay present** - No phones during play
-5. **Reflect honestly** - Share what's really happening inside
-6. **Confidentiality** - What's shared here, stays here
+::: tip Règles de base de la session
+1. **Faites de votre mieux** - Jouez pour gagner, sans retenue
+2. **Soutenir la croissance** - S&#39;entraider pour apprendre
+3. **Respectez les manuels d&#39;utilisation** - Respectez les souhaits de chaque personne en matière de traitement.
+4. **Restez présent** - Pas de téléphones pendant le jeu
+5. **Réfléchissez honnêtement** - Partagez ce qui se passe vraiment en vous.
+6. **Confidentialité** - Ce qui est partagé ici reste ici.
 :::
 
-**The Balance:**
-> "We compete like it's a tournament, but we support like we're teammates. Hard on the game, soft on the person."
+**L&#39;équilibre :**
+> « On est compétitifs comme dans un tournoi, mais on se soutient comme des coéquipiers. On est exigeants avec le jeu, mais indulgents envers les personnes. »
 
-## Competition Conduct Rules
+## Règles de conduite en matière de concurrence
 
-### Match Format
+### Format du match
 
-**Standard 2v2:**
-- Play to 13 points
-- Standard pétanque rules
-- Keep score honestly
-- Measure when needed (don't guess)
+**Standard 2v2 :**
+- Jouez jusqu&#39;à 13 points
+- Règles standard de la pétanque
+- Tenez un score honnête.
+- Mesurez lorsque c&#39;est nécessaire (ne devinez pas).
 
-**Rotation Options:**
+**Options de rotation :**
 
-**Week 1:** A+B vs C+D
-**Week 2:** A+C vs B+D
-**Week 3:** A+D vs B+C
-**Week 4:** Singles round-robin
+**Semaine 1 :** A+B contre C+D
+**Semaine 2 :** A+C contre B+D
+**Semaine 3 :** A+D contre B+C
+**Semaine 4 :** Tournoi toutes rondes en simple
 
-### Creating Competition Environment
+### Créer un environnement de compétition
 
-::: warning Critical: Make It Real
-**This is not casual practice.** Treat it like a tournament:
+::: warning Critique : Rendez-le réel
+**Il ne s&#39;agit pas d&#39;un entraînement anodin.** Considérez cela comme un tournoi :
 
-✅ **Do:**
-- Keep official score
-- Measure accurately
-- Call foot faults
-- Take it seriously
-- Celebrate good shots
-- Show disappointment in misses
+✅ **À faire :**
+- Conserver le score officiel
+- Mesurer avec précision
+- Appeler les défauts de pied
+- Prenez ça au sérieux
+- Célébrez les bons tirs
+- Exprimez votre déception en cas d&#39;échec.
 
-❌ **Don't:**
-- Give "do-overs"
-- Be overly casual
-- Let bad calls slide
-- Joke through the whole game
-- Make excuses
+❌ **Ne faites pas :**
+- Offrir des « secondes chances »
+- Adoptez une attitude excessivement décontractée
+- Laissez passer les mauvaises décisions
+- Blague pendant tout le match
+- Trouvez des excuses
 :::
 
-### The Mental Performance Twist
+### Le tournant de la performance mentale
 
-**Track two scores:**
+**Suivre deux scores :**
 
-1. **Traditional Score** - Points won
-2. **Mental Performance Score** - How well you managed your inner game
+1. **Score traditionnel** - Points gagnés
+2. **Score de performance mentale** - Votre capacité à gérer votre jeu mental
 
-**Mental Performance Criteria (self-scored 1-5 after each game):**
+**Critères de performance mentale (auto-évaluation de 1 à 5 après chaque match) :**
 
-| Criterion | 1 (Poor) | 3 (Good) | 5 (Excellent) |
+| Critère | 1 (Pauvre) | 3 (Bien) | 5 (Excellent) |
 |-----------|----------|----------|---------------|
-| **Stayed Present** | Dwelled on past shots | Mostly present | Fully in the moment |
-| **Managed Inner Critic** | Harsh self-talk | Caught and reframed | Used Inner Coach |
-| **Emotional Regulation** | Visible frustration | Stayed mostly calm | Calm throughout |
-| **Supported Partner** | Ignored or blamed | Basic support | Used User Manual |
-| **Focus** | Distracted, unfocused | Mostly focused | Laser focused |
+| **Rester présent** | Je me suis attardé sur les photos précédentes. | Principalement présent | Pleinement dans l&#39;instant présent |
+| **Gérer sa critique intérieure** | Discours intérieur sévère | Pris et recadré | Coach intérieur utilisé |
+| **Régulation émotionnelle** | Frustration visible | Je suis resté globalement calme. | Calme tout au long |
+| **Partenaire soutenu** | Ignorés ou blâmés | Assistance de base | Manuel d&#39;utilisation d&#39;occasion |
+| **Se concentrer** | Distrait, déconcentré | Principalement axé | Concentration laser |
 
-**Total:** /25 per game
+**Total :** /25 par match
 
-**Why this matters:**
-- Shifts focus from outcome to process
-- Builds awareness of mental game
-- Creates accountability for inner work
-- Celebrates mental performance, not just winning
+**Pourquoi c&#39;est important :**
+- L&#39;accent est mis sur le processus plutôt que sur le résultat.
+- Développe la conscience du jeu mental
+- Crée une responsabilité pour le travail intérieur
+- Célèbre la performance mentale, pas seulement la victoire
 
-### Varying the Environment
+### Varier l&#39;environnement
 
-**Rotate through different challenges:**
+**Alterner les défis :**
 
-**Week 1: Home Terrain**
-- Your regular piste
-- Comfortable conditions
-- Focus: Building confidence
+**Semaine 1 : Terrain d&#39;entraînement**
+- Votre piste habituelle
+- Conditions confortables
+- Objectif : Renforcer la confiance
 
-**Week 2: Difficult Terrain**
-- Uneven, challenging surface
-- Focus: Emotional regulation, acceptance
+**Semaine 2 : Terrain difficile**
+- Surface irrégulière et difficile
+- Objectifs : Régulation émotionnelle, acceptation
 
-**Week 3: Different Location**
-- Another club's piste
-- Focus: Adaptability
+**Semaine 3 : Lieu différent**
+- Piste d&#39;un autre club
+- Axe prioritaire : Adaptabilité
 
-**Week 4: Pressure Conditions**
-- Spectators (invite others to watch)
-- Focus: Managing external pressure
+**Semaine 4 : Conditions de pression**
+- Spectateurs (inviter d&#39;autres personnes à regarder)
+- Objectif : Gérer la pression externe
 
-**Week 5: Weather Challenge**
-- Wind, heat, or cold
-- Focus: Mental toughness
+**Semaine 5 : Défi météo**
+- Vent, chaleur ou froid
+- Objectif : Force mentale
 
-**Week 6: Time Pressure**
-- Shot clock (30 seconds per throw)
-- Focus: Decision-making under pressure
+**Semaine 6 : Pression du temps**
+- Chronomètre de tir (30 secondes par lancer)
+- Objectif : Prise de décision sous pression
 
 ```mermaid
 graph TD
-    A[Vary Environment] --> B[Different Surfaces]
-    A --> C[Different Locations]
-    A --> D[Different Conditions]
-    A --> E[Different Pressures]
+    A[Environnement variable] --> B[Différentes surfaces]
+    A --> C[Différents lieux]
+    A --> D[Différentes conditions]
+    A --> E[Différentes pressions]
 
-    B --> F[Build Adaptability]
+    B --> F[Développer l&#39;adaptabilité]
     C --> F
     D --> F
     E --> F

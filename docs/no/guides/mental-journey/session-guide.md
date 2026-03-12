@@ -16,7 +16,7 @@ Denne veiledningen hjelper deg med å gjennomføre en 2–3 timers introduksjons
 |---------|---------|--------|
 | **For deltakere** | Hva du kan forvente av økten | [Vis seksjon](#for-deltakere) |
 | **For fasilitatorer** | Fullstendig øktplan og tidspunkt | [Vis seksjon](#for-tilretteleggere) |
-| **Materialer for økten** | Guider, lysbilder og arbeidsark | [Se materiale](/no/mental-reise/materialer) |
+| **Materialer for økten** | Guider, lysbilder og arbeidsark | [Se materiale](/no/guider/mental-reise/materialer) |
 | **Sjekkliste for forberedelser** | Hva du bør forberede før økten | [Se sjekkliste](#forberedelse-1-uke-før) |
 
 ---
@@ -360,7 +360,7 @@ Del eksempler.
 **Ressurser:**
 - Del ut sammendragsark
 - Del nettsiden: carreau.app
-- Anbefalt startmodul: [Sonen](/no/education/mental-game/the-zone/)
+- Anbefalt startmodul: [Sonen](/no/utdanning/mentalt-spill/sonen/)
 
 **Sirkelen avsluttes:**
 «Ett ord som beskriver hvordan du føler deg akkurat nå.»
@@ -419,10 +419,10 @@ Del eksempler.
 
 ## Materialer
 
-- [Deltakerguide](/no/mental-reise/materialer#deltakerguide)
-- [Slides for veileder](/no/mental-reise/materialer#slides-for-veileder)
-- [Sammendragsark](/no/mental-reise/materialer#sammendragsark)
-- [Øvelsesark](/no/mental-reise/materialer#øvingsark)
+- [Deltakerguide](/no/guider/mental-reise/materialer#deltakerguide)
+- [Slides for veileder](/no/guider/mental-reise/materialer#slides-for-veileder)
+- [Sammendragsark](/no/guider/mental-reise/materialer#sammendragsark)
+- [Øvelsesark](/no/guider/mental-reise/materiell#øvingsark)
 
 ---
 

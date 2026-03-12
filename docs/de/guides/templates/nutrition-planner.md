@@ -1,137 +1,137 @@
-# Competition Nutrition Planner
+# Wettkampf-Ernährungsplaner
 
-Plan what and when to eat for optimal performance on competition days.
+Plane, was und wann du isst, um an Wettkampftagen optimale Leistungen zu erbringen.
 
-::: tip Stable Energy = Steady Hands
-**Your brain is your most important tool in pétanque.** Feed it stable fuel, not roller coaster energy. This planner helps you avoid blood sugar spikes and crashes.
+::: tip Stabile Energie = Ruhige Hände
+**Ihr Gehirn ist Ihr wichtigstes Werkzeug beim Boule.** Geben Sie ihm stabile Energie, keine Achterbahnfahrt der Gefühle. Dieser Planer hilft Ihnen, Blutzuckerspitzen und -abfälle zu vermeiden.
 :::
 
 ---
 
-## Quick Reference Card
+## Kurzübersichtskarte
 
-### ✅ Competition Day Foods
+### ✅ Verpflegung am Wettkampftag
 
-| Type | Good Choices |
+| Typ | Gute Entscheidungen |
 |------|--------------|
-| **Protein** | Eggs, chicken, cheese, nuts, jerky |
-| **Healthy Fats** | Avocado, olive oil, nuts, cheese |
-| **Complex Carbs** | Vegetables, legumes, berries |
-| **Hydration** | Water, herbal tea |
+| **Protein** | Eier, Hühnchen, Käse, Nüsse, Trockenfleisch |
+| **Gesunde Fette** | Avocado, Olivenöl, Nüsse, Käse |
+| **Komplexe Kohlenhydrate** | Gemüse, Hülsenfrüchte, Beeren |
+| **Flüssigkeitszufuhr** | Wasser, Kräutertee |
 
-### ❌ Foods to Avoid
+### ❌ Zu vermeidende Lebensmittel
 
-| Type | Avoid |
+| Typ | Vermeiden |
 |------|-------|
-| **Sugar** | Candy, soda, pastries, cookies |
-| **Simple Carbs** | White bread, pasta, pizza |
-| **Drinks** | Fruit juice, energy drinks, excess caffeine |
+| **Zucker** | Süßigkeiten, Limonade, Gebäck, Kekse |
+| **Einfache Kohlenhydrate** | Weißbrot, Nudeln, Pizza |
+| **Getränke** | Fruchtsäfte, Energy-Drinks, übermäßiger Koffeinkonsum |
 
 ---
 
-## Competition Day Timeline
+## Zeitplan für den Wettkampftag
 
-### Night Before
+### Am Abend zuvor
 
-**Dinner (6-8pm):**
-- [ ] Protein (chicken, fish, eggs)
-- [ ] Vegetables or salad
-- [ ] No heavy carbs or alcohol
-- [ ] Stop eating 3+ hours before bed
+**Abendessen (18-20 Uhr):**
+- [ ] Protein (Huhn, Fisch, Eier)
+- [ ] Gemüse oder Salat
+- [ ] Keine schweren Kohlenhydrate oder Alkohol
+- [ ] Essen Sie mindestens 3 Stunden vor dem Schlafengehen nichts mehr.
 
-**Hydration:**
-- [ ] 2L water throughout the day
-- [ ] Stop caffeine after 2pm
+**Flüssigkeitszufuhr:**
+- [ ] 2 Liter Wasser über den Tag verteilt
+- [ ] Nach 14 Uhr auf Koffein verzichten.
 
 ---
 
-### Competition Morning
+### Wettbewerbsvormittag
 
-**2-3 Hours Before First Match:**
+**2-3 Stunden vor Spielbeginn:**
 
-| Component | Example | Notes |
+| Komponente | Beispiel | Anmerkungen |
 |-----------|---------|-------|
-| **Protein** | 2-3 eggs | Slow, steady energy |
-| **Vegetables** | Spinach, tomatoes | Fiber & nutrients |
-| **Healthy Fat** | Avocado or olive oil | Sustained fuel |
-| **Avoid** | Toast, juice, pastries | Causes crash |
+| **Protein** | 2-3 Eier | Langsame, stetige Energie |
+| **Gemüse** | Spinat, Tomaten | Ballaststoffe und Nährstoffe |
+| **Gesunde Fette** | Avocado- oder Olivenöl | Anhaltender Treibstoff |
+| **Vermeiden** | Toast, Saft, Gebäck | Verursacht einen Unfall |
 
-**Example Meals:**
-- Eggs with vegetables (scrambled/omelet)
-- Salad with chicken and olive oil
-- Cheese with nuts and vegetable sticks
+**Beispielgerichte:**
+- Eier mit Gemüse (Rührei/Omelett)
+- Salat mit Hähnchen und Olivenöl
+- Käse mit Nüssen und Gemüsesticks
 
 ---
 
-### During Competition
+### Während des Wettbewerbs
 
-**Between Games:**
+**Zwischen den Spielen:**
 
-| Timing | What to Eat | What to Drink |
+| Timing | Was man essen sollte | Was man trinken sollte |
 |--------|-------------|---------------|
-| Every 2 hours | Small protein snack | Sip water consistently |
-| When hungry | Nuts, cheese, jerky | Avoid sugary drinks |
-| Before important match | Light snack 30 min before | Stay hydrated |
+| Alle 2 Stunden | Kleiner Protein-Snack | Trinken Sie regelmäßig kleine Schlucke Wasser. |
+| Wenn ich hungrig bin | Nüsse, Käse, Trockenfleisch | Vermeiden Sie zuckerhaltige Getränke |
+| Vor dem wichtigen Spiel | Leichter Snack 30 Minuten vorher | Bleiben Sie hydratisiert |
 
-**Competition Snack Kit:**
-- [ ] Mixed nuts (unsalted, small portions)
-- [ ] Hard-boiled eggs
-- [ ] Cheese cubes or string cheese
-- [ ] Beef or turkey jerky
-- [ ] Vegetable sticks (carrots, celery)
-- [ ] Water bottle (1.5L minimum)
+**Wettbewerbs-Snack-Set:**
+- [ ] Gemischte Nüsse (ungesalzen, kleine Portionen)
+- [ ] Hartgekochte Eier
+- [ ] Käsewürfel oder Käsesticks
+- [ ] Trockenfleisch vom Rind oder Truthahn
+- [ ] Gemüsesticks (Karotten, Sellerie)
+- [ ] Wasserflasche (mindestens 1,5 l)
 
 ---
 
-### Warning Signs: Eat Now!
+### Warnzeichen: Jetzt essen!
 
-| Symptom | What It Means |
+| Symptom | Was es bedeutet |
 |---------|---------------|
-| 🖐️ Trembling hands | Blood sugar crash |
-| 😵 Difficulty concentrating | Brain needs fuel |
-| 😤 Irritability | Blood sugar unstable |
-| 😴 Fatigue | Energy depleting |
-| 🤕 Headache | Dehydration or hunger |
+| 🖐️ Zitternde Hände | Blutzuckerabfall |
+| 😵 Konzentrationsschwierigkeiten | Das Gehirn braucht Treibstoff |
+| 😤 Reizbarkeit | Blutzucker instabil |
+| 😴 Müdigkeit | Energieerschöpfung |
+| 🤕 Kopfschmerzen | Dehydrierung oder Hunger |
 
-**Action:** Eat protein/fat snack + drink water immediately
+**Maßnahme:** Essen Sie sofort einen protein- und fettreichen Snack und trinken Sie Wasser.
 
 ---
 
-## My Competition Day Plan
+## Mein Plan für den Wettkampftag
 
-### Night Before
+### Am Abend zuvor
 
-**Dinner time:** ________ 
-**Menu:**
+**Essenszeit:** ________
+**Speisekarte:**
 - Protein: ________
-- Vegetables: ________
-- Avoid: ________
+- Gemüse: ________
+- Vermeiden: ________
 
 ---
 
-### Competition Day
+### Wettkampftag
 
-**Wake time:** ________
-**First match:** ________
+**Wachzeit:** ________
+**Erstes Spiel:** ________
 
-**Breakfast (time: ________):**
+**Frühstück (Zeit: ________):**
 - Protein: ________
-- Vegetables: ________
-- Fat source: ________
+- Gemüse: ________
+- Fettquelle: ________
 
-**Snacks packed:**
+**Snacks eingepackt:**
 - [ ] ________
 - [ ] ________
 - [ ] ________
 - [ ] ________
 
-**Water bottles:** _____ L
+**Wasserflaschen:** _____ L
 
 ---
 
-### Snack Schedule
+### Snackplan
 
-| Time | Snack | Notes |
+| Zeit | Snack | Anmerkungen |
 |------|-------|-------|
 | | | |
 | | | |
@@ -140,32 +140,32 @@ Plan what and when to eat for optimal performance on competition days.
 
 ---
 
-## Post-Competition
+## Nach dem Wettbewerb
 
-**Within 1 hour:**
-- [ ] Balanced meal with protein
-- [ ] Rehydrate fully
-- [ ] Avoid "celebrating" with sugar
+**Innerhalb von 1 Stunde:**
+- [ ] Ausgewogene Mahlzeit mit Eiweiß
+- [ ] Vollständig rehydrieren
+- [ ] Vermeiden Sie es, mit Zucker zu „feiern“.
 
 ---
 
-## Practice Your Nutrition
+## Praktiziere deine Ernährung
 
-::: warning Important
-**Don't try new foods on competition day!** Practice your competition nutrition during training sessions. Your body needs time to adapt.
+::: warning Wichtig
+**Probiere am Wettkampftag keine neuen Lebensmittel aus!** Übe deine Wettkampfernährung während der Trainingseinheiten. Dein Körper braucht Zeit, sich anzupassen.
 :::
 
-**Training day practice:**
-- [ ] Eat the same pre-training meal as competition
-- [ ] Bring the same snacks
-- [ ] Note how you feel during training
-- [ ] Adjust based on what works
+**Trainingstagsübung:**
+- [ ] Verzehre vor dem Training die gleiche Mahlzeit wie im Wettkampf.
+- [ ] Bringt die gleichen Snacks mit.
+- [ ] Achten Sie darauf, wie Sie sich während des Trainings fühlen.
+- [ ] Passen Sie die Einstellungen an das an, was funktioniert.
 
 ---
 
-## Related Resources
+## Verwandte Ressourcen
 
-- [Nutrition Education](/de/education/nutrition/) — Full nutrition guide
-- [Pre-Competition Checklist](/de/guides/templates/pre-competition-checklist) — Complete preparation guide
-- [Sleep Tracker](/de/guides/templates/sleep-tracker) — Optimize recovery
+- [Ernährungsbildung](/en/education/nutrition/) — Vollständiger Ernährungsleitfaden
+- [Checkliste vor dem Wettkampf](/en/guides/templates/pre-competition-checklist) — Vollständiger Vorbereitungsleitfaden
+- [Schlaftracker](/en/guides/templates/sleep-tracker) — Erholung optimieren
 

@@ -3,225 +3,225 @@ title: Getting and Using Feedback
 description: Learn to seek, receive, and integrate objective feedback to accelerate your pétanque improvement.
 ---
 
-# Getting and Using Feedback
+# Få och använda feedback
 
-Feedback is one of the most powerful tools for development—and one of the most underused. This page teaches you how to actively seek feedback, receive it constructively, and turn it into actionable improvement.
+Feedback är ett av de kraftfullaste verktygen för utveckling – och ett av de mest underutnyttjade. Den här sidan lär dig hur du aktivt söker feedback, tar emot den konstruktivt och omvandlar den till konkreta förbättringar.
 
 ---
 
-## Why We Resist Feedback
+## Varför vi motsätter oss feedback
 
-Before learning to seek feedback, understand why it's hard:
+Innan du lär dig att söka feedback, förstå varför det är svårt:
 
-### Ego Protection
+### Egoskydd
 
-Your brain treats criticism of your performance as a threat to your identity. This triggers defensive responses:
-- Dismissing the feedback
-- Finding reasons why the person is wrong
-- Avoiding similar situations in the future
+Din hjärna behandlar kritik av din prestation som ett hot mot din identitet. Detta utlöser defensiva reaktioner:
+- Avfärda feedbacken
+- Att hitta orsaker till varför personen har fel
+- Undviker liknande situationer i framtiden
 
-### Confirmation Bias
+### Bekräftelsebias
 
-We naturally seek information that confirms what we already believe. If you think you're a good pointer, you'll notice your successful points and explain away the misses.
+Vi söker naturligt information som bekräftar det vi redan tror. Om du tror att du är en bra pekare kommer du att lägga märke till dina lyckade poänger och bortförklara missarna.
 
-### The Growth Mindset Shift
+### Skiftet i tillväxttänkande
 
-::: tip Reframe Feedback
-**Fixed mindset:** "Criticism means I'm flawed"
-**Growth mindset:** "Feedback is information that helps me improve"
+::: tip Omformulera feedback
+**Fast inställning:** &quot;Kritik betyder att jag har brister&quot;
+**Tillväxttänkande:** &quot;Feedback är information som hjälper mig att förbättra mig&quot;
 
-The difference isn't positivity—it's accuracy. Feedback is data, not judgment.
+Skillnaden är inte positivitet – det är noggrannhet. Feedback är data, inte bedömning.
 :::
 
 ---
 
-## Sources of Objective Feedback
+## Källor till objektiv feedback
 
-### 1. Quantitative Data
+### 1. Kvantitativa data
 
-Numbers don't lie or soften the truth:
+Siffror ljuger inte eller mjukar upp sanningen:
 
-| Metric | What It Reveals |
+| Metrisk | Vad det avslöjar |
 |--------|-----------------|
-| **Pointing accuracy %** | Technical baseline and trends |
-| **First vs. late game accuracy** | Fatigue/pressure effects |
-| **Shooting success rate** | By distance, target type, match situation |
-| **Carreau percentage** | Risk-taking effectiveness |
+| **Peknoggrannhet %** | Teknisk baslinje och trender |
+| **Precision i första vs. sent spel** | Trötthets-/tryckeffekter |
+| **Lyckad skjutning** | Efter avstånd, måltyp, matchsituation |
+| **Carreau-procent** | Risktagande effektivitet |
 
-### 2. Teammates
+### 2. Lagkamrater
 
-Your teammates see you in competition—when your self-perception is least accurate:
+Dina lagkamrater ser dig i tävling – när din självuppfattning är minst korrekt:
 
-**What to ask:**
-- "How do I seem to you when we're behind?"
-- "What do you notice about my approach in close games?"
-- "What's one thing I could do to be a better teammate?"
+**Vad man ska fråga:**
+- &quot;Hur framstår jag i dina ögon när vi ligger efter?&quot;
+- &quot;Vad lägger du märke till med mitt tillvägagångssätt i jämna matcher?&quot;
+- &quot;Vad är en sak jag skulle kunna göra för att bli en bättre lagkamrat?&quot;
 
-### 3. Opponents
+### 3. Motståndare
 
-Post-match conversations with trusted opponents can be revealing:
+Samtal efter matchen med betrodda motståndare kan vara avslöjande:
 
-**What to ask:**
-- "What were you trying to exploit in my game?"
-- "Was there anything that surprised you about how I played?"
+**Vad man ska fråga:**
+- &quot;Vad försökte du utnyttja i mitt spel?&quot;
+- &quot;Var det något som förvånade dig med hur jag spelade?&quot;
 
-### 4. Coaches/Experienced Players
+### 4. Tränare/Erfarna spelare
 
-External expertise provides perspective you can't generate yourself:
+Extern expertis ger perspektiv som du inte kan skapa själv:
 
-**What to ask:**
-- "What's the biggest gap between my potential and my current performance?"
-- "What pattern do you see in my misses?"
-- "What would you prioritize if you were coaching me?"
+**Vad man ska fråga:**
+- &quot;Vad är den största skillnaden mellan min potential och min nuvarande prestation?&quot;
+- &quot;Vilket mönster ser du i mina missar?&quot;
+- &quot;Vad skulle du prioritera om du coachade mig?&quot;
 
-### 5. Video Analysis
+### 5. Videoanalys
 
-The most objective mirror available. See [Video Analysis](/sv/education/self-awareness/video) for detailed protocols.
+Den mest objektiva spegeln som finns tillgänglig. Se [Videoanalys](/sv/utbildning/självmedvetenhet/video) för detaljerade protokoll.
 
 ---
 
-## How to Ask for Feedback Effectively
+## Hur man ber om feedback effektivt
 
-### The SEEK Framework
+### SEEK-ramverket
 
-**S - Specific**
-Don't ask: "How did I play?"
-Ask: "How did my pointing accuracy look in the third end when we were behind?"
+**S - Specifik**
+Fråga inte: &quot;Hur spelade jag?&quot;
+Fråga: &quot;Hur såg min poängprecision ut i tredje omgången när vi låg under?&quot;
 
-**E - Examples**
-Ask: "Can you give me a specific example?"
-This forces concrete feedback instead of generalizations.
+**E - Exempel**
+Fråga: &quot;Kan du ge mig ett specifikt exempel?&quot;
+Detta tvingar fram konkret feedback istället för generaliseringar.
 
-**E - Exploratory**
-Approach with curiosity, not defense.
-"I'm trying to understand my blind spots. What might I be missing?"
+**E - Utforskande**
+Närma dig med nyfikenhet, inte försvar.
+&quot;Jag försöker förstå mina blinda fläckar. Vad kan jag missa?&quot;
 
-**K - Kind (to yourself)**
-Remember: Seeking feedback is brave. You're doing hard work.
+**K - Snäll (mot dig själv)**
+Kom ihåg: Att söka feedback är modigt. Du gör ett hårt arbete.
 
-### Timing Matters
+### Tidpunkten spelar roll
 
-| When | Best For | Avoid |
+| När | Bäst för | Undvika |
 |------|----------|-------|
-| **Immediately after** | Specific technical observations | Emotional processing |
-| **Next day** | Balanced perspective, patterns | If details have faded |
-| **Video review** | Objective analysis | If it delays action too long |
+| **Omedelbart efter** | Specifika tekniska observationer | Emotionell bearbetning |
+| **Nästa dag** | Balanserat perspektiv, mönster | Om detaljerna har bleknat |
+| **Videorecension** | Objektiv analys | Om det fördröjer åtgärder för länge |
 
 ---
 
-## Receiving Feedback Without Defensiveness
+## Att ta emot feedback utan att vara defensiv
 
-When feedback arrives, your brain will want to defend. Here's how to override that:
+När feedback kommer in kommer din hjärna att vilja försvara sig. Så här åsidosätter du det:
 
-### The 3-Second Rule
+### 3-sekundersregeln
 
-When you receive feedback, **wait 3 seconds before responding**. This gives your rational brain time to engage before your emotional brain reacts.
+När du får feedback, **vänta 3 sekunder innan du svarar**. Detta ger din rationella hjärna tid att engagera sig innan din emotionella hjärna reagerar.
 
-### The "Tell Me More" Technique
+### Tekniken &quot;Berätta mer&quot;
 
-Instead of defending, say: "Tell me more about that."
+Istället för att försvara dig, säg: &quot;Berätta mer om det.&quot;
 
-This:
-- Buys processing time
-- Shows you value the input
-- Often reveals the root insight
+Detta:
+- Köper handläggningstid
+- Visar att du värdesätter inputen
+- Avslöjar ofta grundinsikten
 
-### Separate Reception from Evaluation
+### Separat mottagning från utvärdering
 
-**Step 1:** Receive (just listen)
-**Step 2:** Clarify (make sure you understand)
-**Step 3:** Thank (acknowledge the gift)
-**Step 4:** Evaluate (later, privately decide what to act on)
+**Steg 1:** Ta emot (bara lyssna)
+**Steg 2:** Förklara (se till att du förstår)
+**Steg 3:** Tacka (bekräfta gåvan)
+**Steg 4:** Utvärdera (bestäm senare privat vad du ska agera utifrån)
 
-You don't have to agree with feedback immediately. You just have to receive it with openness.
-
----
-
-## The Feedback Response Protocol
-
-Use this when receiving feedback:
-
-1. **"Thank you for telling me that."**
-   - Genuine appreciation, even if the feedback stings
-
-2. **"Can you give me a specific example?"**
-   - Moves from general to actionable
-
-3. **"What would you suggest I try?"**
-   - Invites partnership in improvement
-
-4. **"I'm going to think about that."**
-   - Honest commitment without immediate agreement
+Du behöver inte hålla med om feedback direkt. Du måste bara ta emot den med öppenhet.
 
 ---
 
-## Turning Feedback into Action
+## Protokollet för återkopplingssvar
 
-Feedback without action is just uncomfortable conversation.
+Använd detta när du får feedback:
 
-### The Feedback-to-Action Process
+1. **&quot;Tack för att du berättade det för mig.&quot;**
+   - Genuin uppskattning, även om feedbacken svider
+
+2. **&quot;Kan du ge mig ett specifikt exempel?&quot;**
+   - Går från generellt till handlingsbart
+
+3. **&quot;Vad skulle du föreslå att jag provar?&quot;**
+   - Inbjuder till partnerskap för förbättring
+
+4. **&quot;Jag ska fundera på det.&quot;**
+   - Ärligt åtagande utan omedelbar överenskommelse
+
+---
+
+## Omvandla feedback till handling
+
+Feedback utan handling är bara obehagliga samtal.
+
+### Feedback-till-handling-processen
 
 ```mermaid
 flowchart LR
-    A[Receive Feedback] --> B[Clarify Understanding]
-    B --> C[Identify Pattern]
-    C --> D[Design Practice]
-    D --> E[Implement]
-    E --> F[Seek Follow-up Feedback]
+    A[Få feedback] --> B[Förtydliga förståelsen]
+    B --> C[Identifiera mönster]
+    C --> D[Designpraktik]
+    D --> E[Genomföra]
+    E --> F[Sök uppföljningsfeedback]
     F --> A
 ```
 
-### Action Template
+### Åtgärdsmall
 
-For each piece of actionable feedback:
+För varje handlingsbar feedback:
 
-| Element | Your Response |
+| Element | Ditt svar |
 |---------|---------------|
-| **The Feedback** | (What was said) |
-| **The Pattern** | (What recurring issue does this reveal?) |
-| **The Action** | (What specific thing will you practice?) |
-| **The Measure** | (How will you know if you've improved?) |
-| **The Timeline** | (When will you reassess?) |
+| **Återkopplingen** | (Vad som sades) |
+| **Mönstret** | (Vilket återkommande problem avslöjar detta?) |
+| **Handlingen** | (Vad specifikt kommer du att öva på?) |
+| **Måtet** | (Hur vet du om du har förbättrats?) |
+| **Tidslinjen** | (När kommer du att omvärdera?) |
 
 ---
 
-## Creating a Feedback Culture
+## Skapa en feedbackkultur
 
-### With Your Team
+### Med ditt team
 
-- **Normalize it:** Regular feedback becomes expected, not exceptional
-- **Two-way street:** Give feedback to receive it comfortably
-- **Timing agreements:** "Let's debrief after matches" vs. unsolicited criticism
-- **Focus on specifics:** "I noticed X" is better than "You always Y"
+- **Normalisera det:** Regelbunden feedback blir förväntad, inte exceptionell
+- **Tvåvägsgata:** Ge feedback för att ta emot den på ett bekvämt sätt
+- **Tidsöverenskommelser:** &quot;Låt oss avrapportera efter matcher&quot; kontra oombedd kritik
+- **Fokusera på detaljer:** &quot;Jag märkte att X&quot; är bättre än &quot;Du alltid Y&quot;
 
-### With Yourself
+### Med dig själv
 
-- **Weekly self-review:** Dedicated time to assess your week
-- **Written reflection:** Writing creates clarity
-- **Pattern tracking:** Look for recurring themes across multiple sources
+- **Veckovis självgranskning:** Dedikerad tid för att utvärdera din vecka
+- **Skriftlig reflektion:** Skrivande skapar klarhet
+- **Mönsterspårning:** Leta efter återkommande teman i flera källor
 
 ---
 
-## The Feedback-Resistant Player
+## Den feedbackresistenta spelaren
 
-If you recognize yourself in any of these, prioritize this work:
+Om du känner igen dig i något av detta, prioritera detta arbete:
 
-::: warning Signs of Feedback Resistance
-- You can always explain why the feedback doesn't apply
-- You seek feedback only from people who agree with you
-- You feel attacked when receiving constructive input
-- You avoid people who challenge your self-perception
-- You rationalize poor results as external factors
+::: warning Tecken på återkopplingsmotstånd
+- Du kan alltid förklara varför feedbacken inte gäller
+- Du söker bara feedback från personer som håller med dig
+- Du känner dig attackerad när du får konstruktiv feedback
+- Du undviker människor som utmanar din självuppfattning
+- Du rationaliserar dåliga resultat som externa faktorer
 :::
 
-Breaking these patterns requires conscious effort—but the payoff is accelerated improvement.
+Att bryta dessa mönster kräver medveten ansträngning – men resultatet är snabbare förbättring.
 
 ---
 
-## Related Content
+## Relaterat innehåll
 
-- [The Self-Awareness Advantage](/sv/education/self-awareness/) — Why self-knowledge matters
-- [Video Analysis](/sv/education/self-awareness/video) — Objective self-observation
-- [Team Dynamics](/sv/education/team-dynamics/) — Communication with teammates
-- [Mental Strength](/sv/education/mental-game/mental-strength/) — Handling difficult truths
+- [Fördelen med självkännedom](/sv/utbildning/självkännedom/) — Varför självkännedom är viktig
+- [Videoanalys](/sv/utbildning/självkännedom/video) — Objektiv självobservation
+- [Teamdynamik](/sv/utbildning/teamdynamik/) — Kommunikation med lagkamrater
+- [Mental styrka](/sv/utbildning/mentalt-spel/mental-styrka/) — Att hantera svåra sanningar
 

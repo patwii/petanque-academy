@@ -3,24 +3,24 @@ layout: home
 
 hero:
   name: "Pétanque Academy"
-  text: "Udvikling af Elitespillere"
-  tagline: Fra teknik til flow - hjælper elitespillere med at tage næste skridt
+  text: "Elite Player Development"
+  tagline: From technique to flow - helping elite players reach the next level
   actions:
     - theme: brand
-      text: Vores Ambition
-      link: /da/ambition
+      text: Our Ambition
+      link: /en/ambition
     - theme: alt
-      text: Uddannelse
-      link: /da/education/
+      text: Education
+      link: /en/education/
 
 features:
-  - title: Zonen
-    details: Ud over teknisk træning til et flow-perspektiv, hvor perfekte kugler bliver naturlige.
-  - title: Workshops
-    details: Små grupper på 6-8 elitespillere, der deler erfaringer og indre tanker.
-  - title: Holistisk Tilgang
-    details: Kombinerer mental træning, taktik, teamwork og ernæring for toppræstationer.
+  - title: 🧠 8-Factor Model
+    details: A comprehensive player development system based on 8 weighted performance factors.
+  - title: 🎯 Personal ROI
+    details: Discover which factor gives YOU the best return on investment for improvement.
+  - title: 📚 Complete Education
+    details: In-depth modules on mental game, motivation, sleep, self-awareness, nutrition, team dynamics, tension, and technique.
 ---
 
-
 <AssessmentForm />
+

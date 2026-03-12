@@ -1,14 +1,14 @@
-# Tension Release Quick Card
+# Carte rapide de relâchement des tensions
 
-A printable pocket card for tension release techniques during competition.
+Une fiche de poche imprimable pour les techniques de gestion du stress en compétition.
 
-::: tip Print & Carry
-**Cut this card out and keep it in your pocket or boule bag.** Quick reference when tension builds during competition.
+::: tip Imprimer et transporter
+**Découpez cette fiche et gardez-la dans votre poche ou votre sac de boules.** Aide-mémoire rapide en cas de tension pendant la compétition.
 :::
 
 ---
 
-## ✂️ Cut Here — Pocket Card
+## ✂️ Découper ici — Carte de poche
 
 ```
 ┌─────────────────────────────────────────────────┐
@@ -56,82 +56,82 @@ A printable pocket card for tension release techniques during competition.
 
 ---
 
-## Technique Details
+## Détails techniques
 
-### 🔴 30-Second Reset
+### 🔴 Réinitialisation de 30 secondes
 
-Use between points or during short breaks:
+À utiliser entre les points ou pendant les courtes pauses :
 
-| Step | Action | Duration |
+| Étape | Action | Durée |
 |------|--------|----------|
-| 1 | Deep breath in through nose | 4 counts |
-| 2 | Shoulders up to ears, then drop completely | 3 sec |
-| 3 | Shake hands loosely | 5 sec |
-| 4 | Open jaw wide, let it close naturally | 3 sec |
-| 5 | Slow exhale through mouth | 6 counts |
+| 1 | Inspirez profondément par le nez. | 4 comptes |
+| 2 | Les épaules remontent jusqu&#39;aux oreilles, puis s&#39;abaissent complètement. | 3 secondes |
+| 3 | Serrez la main sans serrer | 5 secondes |
+| 4 | Ouvrez grand la mâchoire, laissez-la se refermer naturellement. | 3 secondes |
+| 5 | Expirez lentement par la bouche. | 6 comptes |
 
-### 🟡 Grip Reset
+### 🟡 Réinitialisation de la poignée
 
-Before each throw:
+Avant chaque lancer :
 
-1. **Squeeze hard** — 80% grip pressure for 2 seconds
-2. **Release to optimal** — Find your ideal pressure (40-50%)
-3. **Notice** — Feel the contrast between tension and relaxation
+1. **Serrez fort** — 80 % de la pression de préhension pendant 2 secondes
+2. **Relâchez à la pression optimale** — Trouvez votre pression idéale (40-50 %)
+3. **Remarquez** — Ressentez le contraste entre tension et détente
 
-This creates a reference point for proper grip pressure.
+Cela crée un point de référence pour une pression de préhension adéquate.
 
-### 🟢 15-Second Pre-Throw Protocol
+### 🟢 Protocole de pré-lancer de 15 secondes
 
-For important throws:
+Pour les lancers importants :
 
-| Time | Action |
+| Temps | Action |
 |------|--------|
-| 0-3 sec | Body scan: notice any tension |
-| 3-6 sec | One deep breath |
-| 6-9 sec | Shoulder drop |
-| 9-12 sec | Grip check (tense-release if needed) |
-| 12-15 sec | Final breath, begin routine |
+| 0-3 secondes | Analyse corporelle : repérer toute tension |
+| 3 à 6 secondes | Une profonde respiration |
+| 6-9 secondes | Épaule tombante |
+| 9-12 secondes | Vérification de la prise en main (tension-relâchement si nécessaire) |
+| 12-15 secondes | Dernier souffle, début de la routine |
 
-### 🔵 4-7-8 Breathing
+### 🔵 Respiration 4-7-8
 
-When highly stressed or over-aroused:
+En cas de stress intense ou d&#39;excitation excessive :
 
-- **Inhale** through nose: 4 counts
-- **Hold** breath: 7 counts
-- **Exhale** through mouth: 8 counts
-- Repeat 3-4 times
+- **Inspirez** par le nez : 4 secondes
+- **Retenir** sa respiration : 7 temps
+- **Expirez** par la bouche : 8 secondes
+- Répéter 3 à 4 fois
 
-### 💬 Your Cue Word
+### 💬 Votre mot-clé
 
-Choose a single word that triggers relaxation:
-- "Soft"
-- "Easy"
-- "Flow"
-- "Release"
+Choisissez un seul mot qui déclenche la relaxation :
+- &quot;Doux&quot;
+- &quot;Facile&quot;
+- &quot;Couler&quot;
+- &quot;Libérer&quot;
 
-Practice saying this word mentally while releasing tension. Eventually, the word alone triggers the relaxation response.
+Entraînez-vous à prononcer ce mot mentalement tout en relâchant vos tensions. Finalement, le mot seul déclenchera la relaxation.
 
 ---
 
-## How to Use This Card
+## Comment utiliser cette carte
 
-1. **Print** on cardstock for durability
-2. **Cut** along the dotted line
-3. **Laminate** if possible
-4. **Keep** in your pocket or boule bag
-5. **Review** between games as needed
-6. **Practice** these techniques in training first
+1. **Imprimez** sur du papier cartonné pour plus de durabilité
+2. Découpez le long de la ligne pointillée.
+3. **Stratifié** si possible
+4. **À garder** dans votre poche ou votre sac à boules
+5. **Révision** entre les matchs, au besoin
+6. **Mettez-vous en pratique** d&#39;abord à l&#39;entraînement
 
-::: warning Practice First
-These techniques work best when practiced regularly. Don't try them for the first time in a crucial competition moment.
+::: warning Pratiquer d&#39;abord
+Ces techniques sont plus efficaces lorsqu&#39;elles sont pratiquées régulièrement. Ne les essayez pas pour la première fois lors d&#39;un moment crucial de la compétition.
 :::
 
 ---
 
-## Related Resources
+## Ressources connexes
 
-- [Tension Release Techniques](/fr/education/tension/techniques) — Full technique guide
-- [Understanding Tension](/fr/education/tension/) — The science behind tension
-- [Competition Tension Management](/fr/education/tension/competition) — Match-day protocols
-- [Pre-Shot Routine](/fr/education/mental-game/mental-strength/pre-shot-routine) — Complete routine integration
+- [Techniques de relâchement des tensions](/en/education/tension/techniques) — Guide technique complet
+- Comprendre la tension — La science derrière la tension
+- [Gestion de la tension compétitive](/en/education/tension/competition) — Protocoles de jour de match
+- [Routine d&#39;avant-tir](/en/education/mental-game/mental-strength/pre-shot-routine) — Intégration complète de la routine
 

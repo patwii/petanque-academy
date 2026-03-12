@@ -1,29 +1,29 @@
-# Training Session: Competition Practice Guide
+# Träningspass: Tävlingsövningsguide
 
 
-## How 4 Players Can Train Together Regularly
+## Hur fyra spelare kan träna tillsammans regelbundet
 
-This guide shows how to create a regular training group of 4 players that competes against each other on different surfaces and environments for 2-4 hours. Emulate real competition while building psychological safety and mental performance skills.
+Den här guiden visar hur man skapar en regelbunden träningsgrupp på fyra spelare som tävlar mot varandra på olika underlag och i olika miljöer i 2–4 timmar. Efterlikna verklig konkurrens samtidigt som man bygger upp psykologisk trygghet och mentala prestationsförmåga.
 
-::: tip The Training Session Philosophy
-**Competition without reflection is just playing. Training without competition is just practice.** This format combines both: compete hard, then reflect deeply.
+::: tip Utbildningssessionens filosofi
+**Tävling utan reflektion är bara lek. Träning utan tävling är bara övning.** Detta format kombinerar båda: tävla hårt och reflektera sedan djupt.
 :::
 
-## Quick Access
+## Snabbåtkomst
 
-| Section | Purpose | Access |
+| Avsnitt | Ändamål | Tillträde |
 |---------|---------|--------|
-| **Finding Your Group** | How to recruit the right 4 players | [View Section](#finding-your-group) |
-| **Session Structure** | 2-hour and 4-hour formats | [View Section](#session-structure) |
-| **Startup Protocol** | How to begin each session | [View Section](#startup-protocol-15-min) |
-| **Reflection Guide** | Post-session debrief process | [View Section](#reflection-protocol-15-30-min) |
-| **Related Guides** | Other training formats | [Mental Journey](/sv/guides/mental-journey/) • [Workshop](/sv/guides/workshop/) • [Training Camp](/sv/guides/training-camp/) |
+| **Hitta din grupp** | Hur man rekryterar rätt 4 spelare | [Visa avsnitt](#hitta-din-grupp) |
+| **Sessionsstruktur** | 2-timmars- och 4-timmarsformat | [Visa avsnitt](#sessionsstruktur) |
+| **Startprotokoll** | Hur man börjar varje session | [Visa avsnitt](#startup-protocol-15-min) |
+| **Reflektionsguide** | Avrapporteringsprocess efter sessionen | [Visa avsnitt](#reflektionsprotokoll-15-30-min) |
+| **Relaterade guider** | Andra träningsformat | [Mental resa](/sv/guider/mental-resa/) • [Workshop](/sv/guider/workshop/) • [Träningsläger](/sv/guider/träningsläger/) |
 
 ```mermaid
 graph LR
-    A[Training Session] --> B[Startup 15min]
-    B --> C[Competition 90-180min]
-    C --> D[Reflection 15-30min]
+    A[Träningspass] --> B[Uppstart 15 min]
+    B --> C[Tävling 90-180 min]
+    C --> D[Reflektion 15–30 min]
 
     style A fill:#e8f5e9
     style B fill:#fff4e1
@@ -31,234 +31,234 @@ graph LR
     style D fill:#e3f2fd
 ```
 
-## Why 4 Players?
+## Varför 4 spelare?
 
-**The Perfect Number:**
-- **2v2 format** - Mirrors real competition
-- **Rotation options** - Change partners, play singles
-- **Peer learning** - Diverse playing styles
-- **Accountability** - Hard to cancel on 3 people
-- **Intimacy** - Small enough for deep sharing
+**Det perfekta numret:**
+- **2v2-format** - Speglar riktig konkurrens
+- **Rotationsalternativ** - Byt partner, spela singel
+- **Kamratlig inlärning** - Olika spelstilar
+- **Ansvar** - Svårt att avboka på 3 personer
+- **Intimitet** - Liten nog för djup delning
 
-::: info The Group Dynamic
-4 players creates the ideal balance between competition intensity and psychological safety. You compete hard, but you also support each other's growth.
+::: info Gruppdynamiken
+4 spelare skapar den perfekta balansen mellan tävlingsintensitet och psykologisk trygghet. Ni tävlar hårt, men ni stödjer också varandras utveckling.
 :::
 
-## Finding Your Group
+## Hitta din grupp
 
-### Ideal Group Composition
+### Ideal gruppsammansättning
 
-**Skill Level:**
-- Similar level (within 1-2 tiers)
-- All committed to improvement
-- Mix of pointers and shooters
-- Different playing styles
+**Färdighetsnivå:**
+- Liknande nivå (inom 1-2 nivåer)
+- Alla engagerade i förbättring
+- Blandning av pointers och skyttar
+- Olika spelstilar
 
-**Mindset:**
-- Open to vulnerability
-- Willing to reflect
-- Competitive but supportive
-- Growth-oriented
+**Tankesätt:**
+- Öppen för sårbarhet
+- Villig att reflektera
+- Tävlingsinriktad men stödjande
+- Tillväxtorienterad
 
-**Logistics:**
-- Live within 30 minutes of each other
-- Can commit to regular schedule
-- Similar availability
+**Logistik:**
+- Bor inom 30 minuter från varandra
+- Kan binda sig till ett vanligt schema
+- Liknande tillgänglighet
 
-### Recruiting Your Group
+### Rekrytering av din grupp
 
-**Where to find players:**
-- Your club's elite players
-- Regional tournament regulars
-- Online pétanque communities
-- Ask your coach for recommendations
+**Var man hittar spelare:**
+- Din klubbs elitspelare
+- Regionala turneringsstamgäster
+- Boule-communities online
+- Fråga din tränare om rekommendationer
 
-**The Invitation:**
-> "I'm forming a small training group of 4 players who want to compete regularly and work on the mental game. We'd meet weekly for 2-3 hours, play hard, then reflect on what we're learning. Interested?"
+**Inbjudan:**
+> &quot;Jag håller på att bilda en liten träningsgrupp på fyra spelare som vill tävla regelbundet och jobba på det mentala spelet. Vi skulle träffas varje vecka i 2–3 timmar, spela hårt och sedan reflektera över vad vi lär oss. Är du intresserad?&quot;
 
-## Session Structure
+## Sessionsstruktur
 
-### 2-Hour Session
+### 2-timmars session
 
-| Time | Activity | Duration |
+| Tid | Aktivitet | Varaktighet |
 |------|----------|----------|
-| **Startup** | Check-in & setup | 15 min |
-| **Competition** | 2v2 matches | 90 min |
-| **Reflection** | Debrief & learning | 15 min |
+| **Uppstart** | Incheckning och installation | 15 minuter |
+| **Konkurrens** | 2v2-matcher | 90 minuter |
+| **Reflexion** | Avrapportering och lärande | 15 minuter |
 
-### 3-Hour Session
+### 3-timmarssession
 
-| Time | Activity | Duration |
+| Tid | Aktivitet | Varaktighet |
 |------|----------|----------|
-| **Startup** | Check-in & setup | 15 min |
-| **Competition Round 1** | 2v2 matches | 60 min |
-| **Break** | Rest & informal chat | 15 min |
-| **Competition Round 2** | Rotate partners | 60 min |
-| **Reflection** | Deep debrief | 30 min |
+| **Uppstart** | Incheckning och installation | 15 minuter |
+| **Tävlingsrunda 1** | 2v2-matcher | 60 minuter |
+| **Bryta** | Vila och informellt samtal | 15 minuter |
+| **Tävlingsrunda 2** | Rotera partners | 60 minuter |
+| **Reflexion** | Djupgående debriefing | 30 minuter |
 
-### 4-Hour Session
+### 4-timmars session
 
-| Time | Activity | Duration |
+| Tid | Aktivitet | Varaktighet |
 |------|----------|----------|
-| **Startup** | Check-in & setup | 20 min |
-| **Competition Round 1** | 2v2 matches | 75 min |
-| **Break** | Rest & snack | 15 min |
-| **Competition Round 2** | Rotate partners | 75 min |
-| **Break** | Rest | 10 min |
-| **Competition Round 3** | Singles or challenge | 45 min |
-| **Reflection** | Deep debrief & planning | 30 min |
+| **Uppstart** | Incheckning och installation | 20 minuter |
+| **Tävlingsrunda 1** | 2v2-matcher | 75 minuter |
+| **Bryta** | Vila och mellanmål | 15 minuter |
+| **Tävlingsrunda 2** | Rotera partners | 75 minuter |
+| **Bryta** | Vila | 10 minuter |
+| **Tävlingsrunda 3** | Singlar eller utmaning | 45 minuter |
+| **Reflexion** | Djupgående debriefing och planering | 30 minuter |
 
 
-## Startup Protocol (15-20 minutes)
+## Startprotokoll (15–20 minuter)
 
-### 1. Physical Setup (5 min)
+### 1. Fysisk uppställning (5 min)
 
-**Choose the terrain:**
-- Rotate through different surfaces each week
-- Vary difficulty and conditions
-- Sometimes choose uncomfortable terrain intentionally
+**Välj terräng:**
+- Rotera genom olika ytor varje vecka
+- Variera svårighetsgrad och förhållanden
+- Ibland väljer man avsiktligt obekväm terräng
 
-**Set up the space:**
-- Mark boundaries clearly
-- Prepare measuring tools
-- Water station
-- Shade if needed
+**Ställ in utrymmet:**
+- Markera gränser tydligt
+- Förbered mätverktyg
+- Vattenstation
+- Skugga vid behov
 
-### 2. Mental Check-In (10 min)
+### 2. Mental incheckning (10 min)
 
-**The Check-In Circle:**
+**Incheckningscirkeln:**
 
-Stand in a circle (no boules yet) and go around:
+Stå i en cirkel (inga boulespel ännu) och gå runt:
 
-**Each person shares:**
-1. **Energy level** (1-10): "I'm at a 7 today"
-2. **Mental state**: "I'm feeling focused" or "I'm distracted by work stress"
-3. **Intention**: "Today I want to work on staying calm after misses"
+**Varje person delar:**
+1. **Energinivå** (1-10): &quot;Jag är på en 7:a idag&quot;
+2. **Mentalt tillstånd**: &quot;Jag känner mig fokuserad&quot; eller &quot;Jag är distraherad av arbetsstress&quot;
+3. **Avsikt**: &quot;Idag vill jag jobba på att hålla mig lugn efter missar&quot;
 
-**Why this matters:**
-- Builds awareness of mental state
-- Creates empathy in the group
-- Sets individual focus for the session
-- Normalizes being "off" some days
+**Varför detta är viktigt:**
+- Bygger medvetenhet om mentalt tillstånd
+- Skapar empati i gruppen
+- Sätter individuellt fokus för sessionen
+- Normaliserar att vara &quot;avstängd&quot; vissa dagar
 
-**Facilitator tip:** Rotate who goes first each week
+**Tips för handledaren:** Rotera vem som går först varje vecka
 
-### 3. Ground Rules Reminder (5 min)
+### 3. Påminnelse om grundregler (5 min)
 
-**Every session, briefly remind:**
+**Påminn kort varje session:**
 
-::: tip Session Ground Rules
-1. **Compete hard** - Play to win, no holding back
-2. **Support growth** - Help each other learn
-3. **Respect User Manuals** - Honor how each person wants to be treated
-4. **Stay present** - No phones during play
-5. **Reflect honestly** - Share what's really happening inside
-6. **Confidentiality** - What's shared here, stays here
+::: tip Grundregler för sessionen
+1. **Tävla hårt** - Spela för att vinna, utan att tveka
+2. **Stödja tillväxt** - Hjälp varandra att lära sig
+3. **Respektera användarmanualer** - Hedra hur varje person vill bli behandlad
+4. **Var närvarande** - Inga telefoner under spel
+5. **Reflektera ärligt** - Dela vad som verkligen händer inombords
+6. **Sekretess** - Det som delas här stannar här
 :::
 
-**The Balance:**
-> "We compete like it's a tournament, but we support like we're teammates. Hard on the game, soft on the person."
+**Balansen:**
+> &quot;Vi tävlar som om det vore en turnering, men vi stöttar som om vi vore lagkamrater. Hårda mot spelet, mjuka mot personen.&quot;
 
-## Competition Conduct Rules
+## Tävlingsregler
 
-### Match Format
+### Matchformat
 
 **Standard 2v2:**
-- Play to 13 points
-- Standard pétanque rules
-- Keep score honestly
-- Measure when needed (don't guess)
+- Spela till 13 poäng
+- Standardregler för boule
+- Håll poängen ärligt
+- Mät vid behov (gissa inte)
 
-**Rotation Options:**
+**Rotationsalternativ:**
 
-**Week 1:** A+B vs C+D
-**Week 2:** A+C vs B+D
-**Week 3:** A+D vs B+C
-**Week 4:** Singles round-robin
+**Vecka 1:** A+B vs C+D
+**Vecka 2:** A+C vs B+D
+**Vecka 3:** A+D vs B+C
+**Vecka 4:** Singel round robin
 
-### Creating Competition Environment
+### Skapa konkurrensmiljö
 
-::: warning Critical: Make It Real
-**This is not casual practice.** Treat it like a tournament:
+::: warning Kritiskt: Gör det verkligt
+**Detta är inte tillfällig träning.** Behandla det som en turnering:
 
-✅ **Do:**
-- Keep official score
-- Measure accurately
-- Call foot faults
-- Take it seriously
-- Celebrate good shots
-- Show disappointment in misses
+✅ **Gör:**
+- Behåll officiell poängställning
+- Mät noggrant
+- Kalla fotfel
+- Ta det på allvar
+- Fira bra bilder
+- Visa besvikelse över missar
 
-❌ **Don't:**
-- Give "do-overs"
-- Be overly casual
-- Let bad calls slide
-- Joke through the whole game
-- Make excuses
+❌ **Gör inte:**
+- Ge &quot;omarbetningar&quot;
+- Var alltför avslappnad
+- Låt dåliga samtal glida
+- Skämta genom hela spelet
+- Kom med ursäkter
 :::
 
-### The Mental Performance Twist
+### Den mentala prestationsvridningen
 
-**Track two scores:**
+**Spåra två poäng:**
 
-1. **Traditional Score** - Points won
-2. **Mental Performance Score** - How well you managed your inner game
+1. **Traditionellt resultat** - Vunna poäng
+2. **Mental prestationspoäng** - Hur väl du hanterade ditt inre spel
 
-**Mental Performance Criteria (self-scored 1-5 after each game):**
+**Kriterier för mental prestation (självpoäng 1–5 efter varje match):**
 
-| Criterion | 1 (Poor) | 3 (Good) | 5 (Excellent) |
+| Kriterium | 1 (Dålig) | 3 (Bra) | 5 (Utmärkt) |
 |-----------|----------|----------|---------------|
-| **Stayed Present** | Dwelled on past shots | Mostly present | Fully in the moment |
-| **Managed Inner Critic** | Harsh self-talk | Caught and reframed | Used Inner Coach |
-| **Emotional Regulation** | Visible frustration | Stayed mostly calm | Calm throughout |
-| **Supported Partner** | Ignored or blamed | Basic support | Used User Manual |
-| **Focus** | Distracted, unfocused | Mostly focused | Laser focused |
+| **Har varit närvarande** | Uppehöll sig vid tidigare bilder | Mestadels närvarande | Helt i nuet |
+| **Hanterad inre kritiker** | Hårt självprat | Fångad och omformulerad | Begagnad inre tränare |
+| **Emotionell reglering** | Synlig frustration | Höll sig mestadels lugn | Lugn rakt igenom |
+| **Stödd partner** | Ignorerad eller klandrad | Grundläggande stöd | Begagnad användarmanual |
+| **Fokus** | Distraherad, ofokuserad | Mestadels fokuserad | Laserfokuserad |
 
-**Total:** /25 per game
+**Totalt:** /25 per match
 
-**Why this matters:**
-- Shifts focus from outcome to process
-- Builds awareness of mental game
-- Creates accountability for inner work
-- Celebrates mental performance, not just winning
+**Varför detta är viktigt:**
+- Flyttar fokus från resultat till process
+- Bygger medvetenhet om mentalt spel
+- Skapar ansvarsskyldighet för inre arbete
+- Hyllar mental prestation, inte bara seger
 
-### Varying the Environment
+### Variera miljön
 
-**Rotate through different challenges:**
+**Rotera genom olika utmaningar:**
 
-**Week 1: Home Terrain**
-- Your regular piste
-- Comfortable conditions
-- Focus: Building confidence
+**Vecka 1: Hemmaterräng**
+- Din vanliga pist
+- Bekväma förhållanden
+- Fokus: Bygga självförtroende
 
-**Week 2: Difficult Terrain**
-- Uneven, challenging surface
-- Focus: Emotional regulation, acceptance
+**Vecka 2: Svår terräng**
+- Ojämn, utmanande yta
+- Fokus: Emotionell reglering, acceptans
 
-**Week 3: Different Location**
-- Another club's piste
-- Focus: Adaptability
+**Vecka 3: Annan plats**
+- En annan klubbs pist
+- Fokus: Anpassningsförmåga
 
-**Week 4: Pressure Conditions**
-- Spectators (invite others to watch)
-- Focus: Managing external pressure
+**Vecka 4: Tryckförhållanden**
+- Åskådare (bjud in andra att titta)
+- Fokus: Hantering av externt tryck
 
-**Week 5: Weather Challenge**
-- Wind, heat, or cold
-- Focus: Mental toughness
+**Vecka 5: Väderutmaning**
+- Vind, värme eller kyla
+- Fokus: Mental styrka
 
-**Week 6: Time Pressure**
-- Shot clock (30 seconds per throw)
-- Focus: Decision-making under pressure
+**Vecka 6: Tidspress**
+- Skottklocka (30 sekunder per kast)
+- Fokus: Beslutsfattande under press
 
 ```mermaid
 graph TD
-    A[Vary Environment] --> B[Different Surfaces]
-    A --> C[Different Locations]
-    A --> D[Different Conditions]
-    A --> E[Different Pressures]
+    A[Variera miljön] --> B[Olika ytor]
+    A --> C[Olika platser]
+    A --> D[Olika villkor]
+    A --> E[Olika tryck]
 
-    B --> F[Build Adaptability]
+    B --> F[Bygg anpassningsförmåga]
     C --> F
     D --> F
     E --> F

@@ -1,53 +1,53 @@
-# Elite Player Development
+# Elite spelersontwikkeling
 
-Welcome to the Pétanque Academy Education program — the complete player development system based on 8 performance factors.
+Welkom bij het Pétanque Academy Educatieprogramma — het complete spelersontwikkelingssysteem gebaseerd op 8 prestatiefactoren.
 
-::: tip Core Principle
-At the elite level, **mental training becomes more important than technical training**. Notice that Technique has the lowest weight — not because it doesn't matter, but because at the elite level, everyone has good technique. The differentiators are mental.
+::: tip Kernprincipe
+Op topniveau wordt **mentale training belangrijker dan technische training**. Merk op dat techniek het laagste gewicht heeft – niet omdat het er niet toe doet, maar omdat iedereen op topniveau een goede techniek heeft. Het verschil zit hem in de mentale aspecten.
 :::
 
 ---
 
-## The 8-Factor Performance Model
+## Het 8-factoren prestatiemodel
 
-Our curriculum is structured around 8 key factors, weighted by their impact on elite performance:
+Ons curriculum is opgebouwd rond 8 kernfactoren, gewogen naar hun impact op topprestaties:
 
-| Factor | Weight | Description |
+| Factor | Gewicht | Beschrijving |
 |--------|--------|-------------|
-| 🧠 [**Mental Game**](/nl/education/mental-game/) | **600** | Thought patterns, focus, flow states, self-talk |
-| 🔥 [**Motivation**](/nl/education/motivation/) | **500** | Drive, purpose, goal orientation, persistence |
-| 😴 [**Sleep & Recovery**](/nl/education/sleep/) | **400** | Sleep quality, recovery, pre-competition rest |
-| 🪞 [**Self-Awareness**](/nl/education/self-awareness/) | **400** | Accurate self-perception, blind spot recognition |
-| 🥗 [**Nutrition**](/nl/education/nutrition/) | **300** | Blood sugar stability, hydration, competition fuel |
-| 🤝 [**Team Dynamics**](/nl/education/team-dynamics/) | **300** | Communication, trust, role clarity |
-| 💆 [**Tension Management**](/nl/education/tension/) | **300** | Physical tension, relaxation, breath control |
-| 🎯 [**Technique**](/nl/education/technique/) | **100** | Physical mechanics, throw repertoire |
+| 🧠 [**Mentale Spel**](/en/education/mental-game/) | **600** | Denkpatronen, focus, flow-toestanden, zelfspraak |
+| 🔥 [**Motivatie**](/en/education/motivation/) | **500** | Gedrevenheid, doelgerichtheid, doorzettingsvermogen |
+| 😴 [**Slaap &amp; Herstel**](/en/education/sleep/) | **400** | Slaapkwaliteit, herstel, rust vóór de wedstrijd |
+| 🪞 [**Zelfbewustzijn**](/en/education/self-awareness/) | **400** | Nauwkeurige zelfperceptie, herkenning van blinde vlekken |
+| 🥗 [**Voeding**](/en/education/nutrition/) | **300** | Bloedsuikerstabiliteit, hydratatie, brandstof voor de wedstrijd |
+| 🤝 [**Teamdynamiek**](/en/education/team-dynamics/) | **300** | Communicatie, vertrouwen, duidelijkheid over rollen |
+| 💆 [**Spanningsmanagement**](/en/education/tension/) | **300** | Fysieke spanning, ontspanning, ademhalingsoefeningen |
+| 🎯 [**Techniek**](/nl/onderwijs/techniek/) | **100** | Fysieke mechanica, werprepertoire |
 
-**Total: 2,900 points**
+**Totaal: 2.900 punten**
 
 ---
 
-## Why These Weights?
+## Waarom deze gewichten?
 
-The weights reflect **impact at the elite level**:
+De gewichten weerspiegelen de **impact op topniveau**:
 
 ```mermaid
 graph LR
     subgraph "High Impact (1500)"
-        A[🧠 Mental Game<br/>600]
-        B[🔥 Motivation<br/>500]
-        C[😴 Sleep<br/>400]
+        A[🧠 Mentaal spel <br/> 600]
+        B[🔥 Motivatie <br/> 500]
+        C[😴 Slapen <br/> 400]
     end
 
     subgraph "Medium Impact (1000)"
-        D[🪞 Self-Awareness<br/>400]
-        E[🥗 Nutrition<br/>300]
-        F[🤝 Team Dynamics<br/>300]
+        D[🪞 Zelfbewustzijn <br/> 400]
+        E[🥗 Voeding <br/> 300]
+        F[🤝 Teamdynamiek <br/> 300]
     end
 
     subgraph "Foundation (400)"
-        G[💆 Tension<br/>300]
-        H[🎯 Technique<br/>100]
+        G[💆 Spanning <br/> 300]
+        H[🎯 Techniek <br/> 100]
     end
 
     style A fill:#4CAF50,color:#fff
@@ -55,155 +55,155 @@ graph LR
     style C fill:#4CAF50,color:#fff
 ```
 
-> "At the regional championship, technique separates the top 50%. At the national championship, everyone in the room has elite technique. What separates them is everything else."
+> &quot;Bij het regionale kampioenschap maakt techniek het verschil tussen de beste 50%. Bij het nationale kampioenschap heeft iedereen in de zaal een uitstekende techniek. Wat hen onderscheidt, is al het andere.&quot;
 
 ---
 
-## Explore Each Factor
+## Onderzoek elke factor
 
-### 🧠 Mental Game (600 points)
+### 🧠 Mentale vaardigheden (600 punten)
 
-**The most impactful factor for elite performance.**
+**De belangrijkste factor voor topprestaties.**
 
-Your ability to manage thoughts, maintain focus, and access flow states.
+Je vermogen om je gedachten te beheersen, je concentratie te behouden en in een flow-toestand te komen.
 
-- [The Zone](/nl/education/mental-game/the-zone/) — Understanding and accessing flow states
-- [Mental Strength](/nl/education/mental-game/mental-strength/) — Handling pressure, pre-shot routines
-- [Mindfulness](/nl/education/mental-game/mindfulness/) — Present-moment focus, recovery from mistakes
+- [De Zone](/en/education/mental-game/the-zone/) — Flow-toestanden begrijpen en bereiken
+- [Mentale kracht](/en/education/mental-game/mental-strength/) — Omgaan met druk, voorbereiding op een schot
+- [Mindfulness](/en/education/mental-game/mindfulness/) — Focus op het huidige moment, herstel van fouten
 
-### 🔥 Motivation (500 points)
+### 🔥 Motivatie (500 punten)
 
-**What drives you to improve day after day, year after year.**
+**Wat motiveert jou om elke dag, elk jaar beter te worden?**
 
-- [Goal Setting](/nl/education/motivation/) — SMART goals, process vs outcome focus
-- [Psychology of Motivation](/nl/education/motivation/motivation) — Intrinsic vs extrinsic, Self-Determination Theory
-- [Maintaining Motivation](/nl/education/motivation/maintaining) — Burnout prevention, plateau navigation
+- [Doelstellingen formuleren](/en/education/motivation/) — SMART-doelen, focus op proces versus resultaat
+- [Psychologie van motivatie](/en/education/motivation/motivation) — Intrinsieke versus extrinsieke motivatie, Zelfdeterminatietheorie
+- [Motivatie behouden](/en/education/motivation/maintaining) — Burnoutpreventie, plateaubeheersing
 
-### 😴 Sleep & Recovery (400 points)
+### 😴 Slaap &amp; Herstel (400 punten)
 
-**Often overlooked, massively impactful.**
+**Vaak over het hoofd gezien, maar enorm impactvol.**
 
-Sleep quality directly affects reaction time, decision-making, and emotional regulation.
+Slaapkwaliteit heeft een directe invloed op reactietijd, besluitvorming en emotionele regulatie.
 
-- [Sleep Science for Athletes](/nl/education/sleep/) — Why sleep matters for precision sports
-- [Building Sleep Habits](/nl/education/sleep/habits) — Practical sleep hygiene
-- [Sleep & Competition](/nl/education/sleep/competition) — Pre-event protocols, travel management
+- [Slaapwetenschap voor atleten](/en/education/sleep/) — Waarom slaap belangrijk is voor precisiesporten
+- [Slaapgewoonten ontwikkelen](/en/education/sleep/habits) — Praktische slaaphygiëne
+- [Slaap &amp; Competitie](/en/education/sleep/competition) — Protocollen voorafgaand aan het evenement, reismanagement
 
-### 🪞 Self-Awareness (400 points)
+### 🪞 Zelfbewustzijn (400 punten)
 
-**You can't improve what you can't see.**
+**Je kunt niet verbeteren wat je niet kunt zien.**
 
-Accurate self-perception enables targeted improvement.
+Een accurate zelfperceptie maakt gerichte verbetering mogelijk.
 
-- [The Self-Awareness Advantage](/nl/education/self-awareness/) — Why self-knowledge matters
-- [Getting Feedback](/nl/education/self-awareness/feedback) — External perspectives
-- [Video Analysis](/nl/education/self-awareness/video) — Using video for self-discovery
+- [Het voordeel van zelfbewustzijn](/en/education/self-awareness/) — Waarom zelfkennis belangrijk is
+- [Feedback krijgen](/en/education/self-awareness/feedback) — Externe perspectieven
+- [Videoanalyse](/en/education/self-awareness/video) — Video gebruiken voor zelfontdekking
 
-### 🥗 Nutrition (300 points)
+### 🥗 Voeding (300 punten)
 
-**Stable energy = stable performance.**
+**Stabiele energie = stabiele prestaties.**
 
-Your brain is a precision instrument — fuel it accordingly.
+Je hersenen zijn een precisie-instrument – geef ze de juiste voeding.
 
-- [Fueling Performance](/nl/education/nutrition/) — Blood sugar, hydration, competition nutrition
+- [Voeding voor optimale prestaties](/en/education/nutrition/) — Bloedsuiker, hydratatie, wedstrijdvoeding
 
-### 🤝 Team Dynamics (300 points)
+### 🤝 Teamdynamiek (300 punten)
 
-**The best teams aren't always the most skilled.**
+**De beste teams zijn niet altijd de meest bekwame.**
 
-Communication and trust often outweigh individual talent.
+Communicatie en vertrouwen wegen vaak zwaarder dan individueel talent.
 
-- [Being a Great Teammate](/nl/education/team-dynamics/) — Team culture and support
-- [Team Communication](/nl/education/team-dynamics/communication) — Clear, positive communication
+- [Een geweldige teamgenoot zijn](/en/education/team-dynamics/) — Teamcultuur en ondersteuning
+- [Teamcommunicatie](/en/education/team-dynamics/communication) — Duidelijke, positieve communicatie
 
-### 💆 Tension Management (300 points)
+### 💆 Spanningsmanagement (300 punten)
 
-**Tension is precision's enemy.**
+**Spanning is de vijand van precisie.**
 
-You cannot be both tense and accurate.
+Je kunt niet tegelijkertijd gespannen en nauwkeurig zijn.
 
-- [Understanding Tension](/nl/education/tension/) — Physical vs mental tension
-- [Release Techniques](/nl/education/tension/techniques) — PMR, breathing, quick resets
-- [Competition Management](/nl/education/tension/competition) — Pre-match, during-match protocols
+- [Spanning begrijpen](/en/education/tension/) — Fysieke versus mentale spanning
+- [Ontspanningstechnieken](/en/education/tension/techiques) — PMR, ademhaling, snelle resets
+- [Wedstrijdmanagement](/en/education/tension/competition) — Protocollen voor en tijdens de wedstrijd
 
-### 🎯 Technique (100 points)
+### 🎯 Techniek (100 punten)
 
-**The foundation — necessary but not sufficient.**
+**De fundering is noodzakelijk, maar niet voldoende.**
 
-At elite level, technique is a given. The differentiators are above.
+Op topniveau is techniek een vanzelfsprekendheid. De onderscheidende kenmerken staan hierboven beschreven.
 
-- [Technique Overview](/nl/education/technique/) — Physical mechanics
-- [Training Methods](/nl/education/technique/training/) — Deliberate practice
-- [Tactics](/nl/education/technique/tactics/) — Strategic decision-making
+- [Techniekoverzicht](/en/education/technique/) — Fysische mechanica
+- [Trainingsmethoden](/en/education/technique/training/) — Doelgerichte oefening
+- [Tactiek](/en/education/technique/tactics/) — Strategische besluitvorming
 
 
 ---
 
-## The Development Journey
+## Het ontwikkelingstraject
 
-As you develop as a player, your training ratio inverts:
+Naarmate je je als speler ontwikkelt, keert je trainingsverhouding om:
 
-| Level | Ratio (Tech:Mental) | Focus |
+| Niveau | Verhouding (Technologie:Mentale vaardigheden) | Focus |
 |-------|---------------------|-------|
-| **Beginner** | 90 : 10 | Build the machine |
-| **Intermediate** | 70 : 30 | Stabilize the skill |
-| **Advanced** | 50 : 50 | Trust the machine |
-| **Expert** | 20 : 80 | Freedom of performance |
+| **Beginner** | 90 : 10 | Bouw de machine |
+| **Tussenliggend** | 70 : 30 | Stabiliseer de vaardigheid |
+| **Geavanceerd** | 50 : 50 | Vertrouw op de machine. |
+| **Deskundige** | 20:80 | Vrijheid van uitvoering |
 
-You cannot train a Beginner like an Expert (they lack the neural pathways), and you cannot train an Expert like a Beginner (high technical volume causes over-thinking).
+Je kunt een beginner niet trainen zoals een expert (beginners missen de benodigde neurale verbindingen), en je kunt een expert niet trainen zoals een beginner (een hoge technische belasting leidt tot overmatig nadenken).
 
 ---
 
-## Quick Reference: Core Principles
+## Snel naslagwerk: Kernprincipes
 
-::: details Click to expand: Complete list of principles
+::: details Klik om uit te breiden: Volledige lijst met principes
 
-### Mental Game Rules
-1. **The Switch Rule:** Analyze before the circle, execute in the circle, observe after
-2. **The Trust Rule:** Your conscious mind plans, your subconscious executes
-3. **The Present Rule:** You can only control this moment, this throw
+### Mentale spelregels
+1. **De Switch-regel:** Analyseer vóór de cirkel, voer uit in de cirkel, observeer erna.
+2. **De Vertrouwensregel:** Je bewuste geest plant, je onderbewuste voert uit.
+3. **De huidige regel:** Je kunt alleen dit moment, deze worp, beheersen.
 
-### Motivation Rules
-1. **The Control Rule:** Focus on process goals over outcome goals
-2. **The SMART Rule:** Goals must be Specific, Measurable, Achievable, Relevant, Time-bound
-3. **The Intrinsic Rule:** Internal motivation outlasts external rewards
+### Motivatieregels
+1. **De controleregel:** Focus op procesdoelen in plaats van resultaatdoelen.
+2. **De SMART-regel:** Doelen moeten specifiek, meetbaar, haalbaar, relevant en tijdgebonden zijn.
+3. **De intrinsieke regel:** Innerlijke motivatie overleeft externe beloningen.
 
-### Sleep Rules
-1. **The Consistency Rule:** Same wake time every day, even weekends
-2. **The Buffer Rule:** Wind down routine 60+ minutes before bed
-3. **The Competition Rule:** Extra sleep the week before, not just the night before
+### Slaapregels
+1. **De regel van consistentie:** Elke dag op hetzelfde tijdstip opstaan, ook in het weekend.
+2. **De Bufferregel:** Ontspanningsroutine 60 minuten of langer voor het slapengaan
+3. **De wedstrijdregel:** Slaap extra in de week ervoor, niet alleen de nacht ervoor.
 
-### Self-Awareness Rules
-1. **The Feedback Rule:** Actively seek external perspectives
-2. **The Video Rule:** What you feel ≠ what's real — record and review
-3. **The Blind Spot Rule:** Low self-awareness affects all other assessments
+### Regels voor zelfbewustzijn
+1. **De feedbackregel:** Zoek actief naar externe perspectieven.
+2. **De videoregel:** Wat je voelt is niet hetzelfde als de werkelijkheid — neem het op en bekijk het later terug.
+3. **De blinde vlekregel:** Een laag zelfbewustzijn beïnvloedt alle andere beoordelingen.
 
-### Nutrition Rules
-1. **The Stability Rule:** Avoid blood sugar spikes and crashes
-2. **The Hydration Rule:** Even 2% dehydration impairs performance
-3. **The Timing Rule:** Eat 2-3 hours before competition
+### Voedingsregels
+1. **De stabiliteitsregel:** Vermijd pieken en dalen in de bloedsuikerspiegel.
+2. **De hydratatieregel:** Zelfs 2% uitdroging kan de prestaties negatief beïnvloeden.
+3. **De timingregel:** Eet 2-3 uur voor de wedstrijd.
 
-### Team Dynamics Rules
-1. **The Communication Rule:** Clear, positive communication builds trust
-2. **The Support Rule:** How you respond to mistakes matters more than skill
-3. **The Role Rule:** Know your role and execute it fully
+### Regels voor teamdynamiek
+1. **De communicatieregel:** Duidelijke, positieve communicatie schept vertrouwen.
+2. **De ondersteuningsregel:** Hoe je op fouten reageert, is belangrijker dan je vaardigheid.
+3. **De rolregel:** Ken je rol en voer deze volledig uit.
 
-### Tension Rules
-1. **The Release Rule:** You cannot be both tense and precise
-2. **The Yerkes-Dodson Rule:** Find your optimal arousal zone
-3. **The Reset Rule:** 10-second reset before every throw
+### Spanningsregels
+1. **De Ontspanningsregel:** Je kunt niet tegelijkertijd gespannen en nauwkeurig zijn.
+2. **De Yerkes-Dodson-regel:** Vind je optimale opwindingszone
+3. **De resetregel:** 10 seconden resetten voor elke worp.
 
-### Technique Rules
-1. **The Specificity Rule:** Train what you want to improve
-2. **The Variation Rule:** Random practice beats blocked practice
-3. **The Recovery Rule:** Rest is when adaptation happens
+### Techniekregels
+1. **De specificiteitsregel:** Train wat je wilt verbeteren.
+2. **De Variatieregel:** Willekeurige oefening is beter dan geblokte oefening.
+3. **De herstelregel:** Rust is wanneer aanpassing plaatsvindt
 :::
 
 ---
 
-## Start Your Journey
+## Begin je reis
 
-::: tip Recommended Starting Point
-Begin with [Mental Game](/nl/education/mental-game/) to understand the foundation of elite performance. Then explore [Sleep](/nl/education/sleep/) — it's often the highest-ROI improvement for developing players.
+::: tip Aanbevolen startpunt
+Begin met [Mentale Spel](/en/education/mental-game/) om de basis van topprestaties te begrijpen. Verken vervolgens [Slaap](/en/education/sleep/) — dit is vaak de verbetering met het hoogste rendement voor spelers in ontwikkeling.
 :::
 

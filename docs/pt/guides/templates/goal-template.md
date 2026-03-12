@@ -1,109 +1,109 @@
-# Goal Setting & Tracking Template
+# Modelo para definição e acompanhamento de metas
 
 
-## How to Use This Template
+## Como usar este modelo
 
-This template helps you set meaningful goals and track your progress systematically. Use the templates below directly on this page, or copy them to your preferred digital tool.
+Este modelo ajuda você a definir metas significativas e acompanhar seu progresso de forma sistemática. Use os modelos abaixo diretamente nesta página ou copie-os para sua ferramenta digital preferida.
 
-::: tip The Goal-Setting Philosophy
-**Goals without tracking are just wishes. Tracking without reflection is just data.** This template combines both: clear goal-setting with structured reflection to ensure continuous improvement.
+::: tip A filosofia de definição de metas
+**Metas sem acompanhamento são apenas desejos. Acompanhamento sem reflexão são apenas dados.** Este modelo combina ambos: definição clara de metas com reflexão estruturada para garantir melhoria contínua.
 :::
 
-## Quick Access
+## Acesso rápido
 
-| Template | Purpose | Access |
+| Modelo | Propósito | Acesso |
 |----------|---------|--------|
-| **Annual Goal Setting** | Set yearly goals across all areas | [View Template](#annual-goal-setting-template) |
-| **Quarterly Review** | Track progress every 3 months | [View Template](#quarterly-review-template) |
-| **Monthly Check-In** | Monthly progress assessment | [View Template](#monthly-check-in-template) |
-| **Weekly Planning** | Plan your weekly training focus | [View Template](#weekly-planning-template) |
+| **Definição de Metas Anuais** | Defina metas anuais em todas as áreas. | [Ver modelo](#modelo-de-definição-de-metas-anuais) |
+| **Revisão Trimestral** | Acompanhe o progresso a cada 3 meses. | [Ver modelo](#quarterly-review-template) |
+| **Acompanhamento Mensal** | Avaliação mensal de progresso | [Ver modelo](#monthly-check-in-template) |
+| **Planejamento Semanal** | Planeje seu foco de treinamento semanal. | [Ver modelo](#weekly-planning-template) |
 
-::: tip Digital-First Approach
-All templates are available on this page for easy access on any device. Bookmark this page and use it directly, or copy sections to your preferred note-taking app.
+::: tip Abordagem digital em primeiro lugar
+Todos os modelos estão disponíveis nesta página para fácil acesso em qualquer dispositivo. Adicione esta página aos seus favoritos e use-a diretamente ou copie seções para o seu aplicativo de anotações preferido.
 :::
 
-## Annual Goal Setting Template
+## Modelo para definição de metas anuais
 
-### Copy This Section to Your Document
-
----
-
-**Year:** ________
-
-**My Pétanque Vision for This Year:**
-
-(In one sentence, what do I want to achieve this year?)
+### Copie esta seção para o seu documento.
 
 ---
 
-### 1. Competition Goals
+**Ano:** ________
 
-| Goal Type | Specific Goal | Why This Matters | Success Metric |
+**Minha visão para a petanca este ano:**
+
+(Em uma frase, o que eu quero alcançar este ano?)
+
+---
+
+### 1. Objetivos da Competição
+
+| Tipo de objetivo | Objetivo específico | Por que isso é importante | Métrica de sucesso |
 |-----------|---------------|------------------|----------------|
-| **Tournament Results** | Example: Top 8 in Regional Championship | To prove I can compete at regional level | Placement in top 8 |
-| **Ranking** | | | |
-| **Consistency** | | | |
-| **Team Performance** | | | |
+| **Resultados do Torneio** | Exemplo: Os 8 melhores no Campeonato Regional | Para provar que posso competir em nível regional. | Classificação entre os 8 melhores |
+| **Classificação** |
+| **Consistência** |
+| **Desempenho da Equipe** |
 
-### 2. Technical Goals
+### 2. Objetivos Técnicos
 
-| Skill Area | Current Level (1-10) | Target Level | Specific Focus |
+| Área de Competência | Nível atual (1-10) | Nível alvo | Foco específico |
 |------------|---------------------|--------------|----------------|
-| **Pointing Accuracy** | | | Example: 70% within 10cm at 7m |
-| **Shooting Consistency** | | | |
-| **Terrain Adaptation** | | | |
-| **Shot Selection** | | | |
+| **Precisão de apontamento** | Exemplo: 70% dentro de 10 cm a 7 m |
+| **Consistência nos disparos** |
+| **Adaptação ao terreno** |
+| **Seleção de Fotos** |
 
-### 3. Mental Game Goals
+### 3. Objetivos do Jogo Mental
 
-| Area | Current State | Target State | Practice Method |
+| Área | Estado atual | Estado alvo | Método de prática |
 |------|---------------|--------------|-----------------|
-| **Pressure Management** | | | Example: Use 3-breath reset before every shot |
-| **Inner Critic** | | | |
-| **Focus/Concentration** | | | |
-| **Confidence** | | | |
+| **Gestão de Pressão** | Exemplo: Use a técnica de reinicialização de 3 respirações antes de cada disparo. |
+| **Crítico Interior** |
+| **Foco/Concentração** |
+| **Confiança** |
 
-### 4. Physical Goals
+### 4. Objetivos Físicos
 
-| Area | Current | Target | Action Plan |
+| Área | Atual | Alvo | Plano de ação |
 |------|---------|--------|-------------|
-| **Fitness Level** | | | |
-| **Flexibility** | | | |
-| **Endurance** | | | |
-| **Injury Prevention** | | | |
+| **Nível de condicionamento físico** |
+| **Flexibilidade** |
+| **Resistência** |
+| **Prevenção de Lesões** |
 
 ---
 
-## Quarterly Review Template
+## Modelo de revisão trimestral
 
-### Copy This Section Every 3 Months
+### Copie esta seção a cada 3 meses.
 
 ---
 
-**Quarter:** Q1 / Q2 / Q3 / Q4
-**Review Date:** ________
+**Trimestre:** 1º trimestre / 2º trimestre / 3º trimestre / 4º trimestre
+**Data da revisão:** ________
 
-### What Went Well?
-
-1.
-2.
-3.
-
-### What Didn't Go As Planned?
+### O que correu bem?
 
 1.
 2.
 3.
 
-### Key Learnings
+### O que não correu como planejado?
 
 1.
 2.
 3.
 
-### Adjustments for Next Quarter
+### Principais Aprendizados
 
-| Goal Area | Original Goal | Adjustment Needed | New Target |
+1.
+2.
+3.
+
+### Ajustes para o próximo trimestre
+
+| Área de gol | Objetivo original | Ajuste necessário | Novo alvo |
 |-----------|---------------|-------------------|------------|
 | | | | |
 | | | | |
@@ -111,98 +111,98 @@ All templates are available on this page for easy access on any device. Bookmark
 
 ---
 
-## Monthly Goal Template
+## Modelo de Meta Mensal
 
-### Copy This Section Each Month
+### Copie esta seção todos os meses.
 
 ---
 
-**Month:** ________
-**Year:** ________
+**Mês:** ________
+**Ano:** ________
 
-### This Month's Focus
+### Destaque deste mês
 
-**Primary Goal:**
+**Objetivo principal:**
 
-**Why This Month:**
+**Por que este mês:**
 
-### Weekly Breakdown
+### Resumo semanal
 
-| Week | Specific Target | Training Focus | Competition/Test |
+| Semana | Alvo específico | Foco do treinamento | Competição/Teste |
 |------|----------------|----------------|------------------|
-| **Week 1** | | | |
-| **Week 2** | | | |
-| **Week 3** | | | |
-| **Week 4** | | | |
+| **Semana 1** |
+| **Semana 2** |
+| **Semana 3** |
+| **Semana 4** |
 
-### Monthly Metrics to Track
+### Métricas mensais a serem monitoradas
 
-- [ ] Training sessions completed: _____ / _____
-- [ ] Competitions entered: _____ / _____
-- [ ] Mental training practice: _____ days
-- [ ] Physical conditioning: _____ sessions
-- [ ] Reflection/journaling: _____ entries
-
----
-
-## Weekly Planning Template
-
-### Copy This Section Each Week
+- [ ] Sessões de treinamento concluídas: _____ / _____
+- [ ] Competições em que participou: _____ / _____
+- [ ] Treinamento mental: _____ dias
+- [ ] Condicionamento físico: sessões de _____
+- [ ] Reflexão/diário: _____ entradas
 
 ---
 
-**Week of:** ________
+## Modelo de Planejamento Semanal
 
-### This Week's Intention
+### Copie esta seção todas as semanas.
 
-(What is my one main focus this week?)
+---
 
-### Training Schedule
+**Semana de:** ________
 
-| Day | Activity | Duration | Focus Area | Notes |
+### Intenção desta semana
+
+Qual é o meu principal objetivo esta semana?
+
+### Cronograma de Treinamento
+
+| Dia | Atividade | Duração | Área de foco | Notas |
 |-----|----------|----------|------------|-------|
-| **Monday** | | | | |
-| **Tuesday** | | | | |
-| **Wednesday** | | | | |
-| **Thursday** | | | | |
-| **Friday** | | | | |
-| **Saturday** | | | | |
-| **Sunday** | | | | |
+| **Segunda-feira** |
+| **Terça-feira** |
+| **Quarta-feira** |
+| **Quinta-feira** |
+| **Sexta-feira** |
+| **Sábado** |
+| **Domingo** |
 
-### Weekly Targets
+### Metas Semanais
 
-- [ ] Technical practice: _____ hours
-- [ ] Competition/match play: _____ hours
-- [ ] Mental training: _____ minutes
-- [ ] Physical training: _____ sessions
-- [ ] Video analysis: _____ sessions
+- [ ] Prática técnica: _____ horas
+- [ ] Competição/jogo: _____ horas
+- [ ] Treinamento mental: _____ minutos
+- [ ] Treinamento físico: sessões de _____
+- [ ] Análise de vídeo: sessões de _____
 
 ---
 
 
-## Progress Tracking Sheet
+## Planilha de acompanhamento de progresso
 
-### Copy This to Excel/Google Sheets
+### Copie isto para o Excel/Google Sheets
 
-| Date | Goal Area | Target | Actual | Notes | Feeling (1-10) |
+| Data | Área de gol | Alvo | Real | Notas | Sentimento (1-10) |
 |------|-----------|--------|--------|-------|----------------|
 | | | | | | |
 | | | | | | |
 | | | | | | |
 
-**Instructions for Spreadsheet:**
-1. Create columns: Date, Goal Area, Target, Actual, Notes, Feeling
-2. Add new row after each training session or competition
-3. Use conditional formatting: Green if Actual ≥ Target, Yellow if close, Red if far off
-4. Create charts to visualize progress over time
+**Instruções para a planilha:**
+1. Criar colunas: Data, Área de Objetivo, Meta, Realizado, Observações, Sentimento
+2. Adicione uma nova linha após cada sessão de treino ou competição.
+3. Use formatação condicional: Verde se o valor real for maior ou igual ao valor alvo, Amarelo se estiver próximo, Vermelho se estiver muito distante.
+4. Crie gráficos para visualizar o progresso ao longo do tempo.
 
 ---
 
-## Competition Performance Tracker
+## Rastreador de desempenho em competições
 
-### Copy This to Track Tournament Results
+### Copie isto para acompanhar os resultados do torneio.
 
-| Date | Tournament | Round Reached | Placement | Key Strengths | Areas to Improve | Mental State (1-10) |
+| Data | Torneio | Rodada alcançada | Colocação | Principais pontos fortes | Áreas a melhorar | Estado mental (1-10) |
 |------|------------|---------------|-----------|---------------|------------------|---------------------|
 | | | | | | | |
 | | | | | | | |
@@ -210,19 +210,19 @@ All templates are available on this page for easy access on any device. Bookmark
 
 ---
 
-## Goal Achievement Celebration
+## Celebração da Conquista de Metas
 
-::: tip Celebrate Progress!
-**Every goal achieved deserves recognition.** When you hit a target:
-1. ✅ Mark it complete
-2. 🎉 Acknowledge the effort it took
-3. 📝 Write what you learned
-4. 🎯 Set the next challenge
+::: tip Celebremos o progresso!
+**Toda meta alcançada merece reconhecimento.** Quando você atinge um objetivo:
+1. ✅ Marque como concluído
+2. 🎉 Reconheça o esforço que foi necessário.
+3. 📝 Escreva o que você aprendeu
+4. 🎯 Defina o próximo desafio
 :::
 
-### Achievement Log
+### Registro de Conquistas
 
-| Date | Goal Achieved | What It Took | Key Learning | Next Challenge |
+| Data | Objetivo alcançado | O que foi necessário | Aprendizados Essenciais | Próximo desafio |
 |------|---------------|--------------|--------------|----------------|
 | | | | | |
 | | | | | |
@@ -230,168 +230,168 @@ All templates are available on this page for easy access on any device. Bookmark
 
 ---
 
-## Tips for Effective Goal Setting
+## Dicas para definir metas eficazes
 
-### 1. Start Small, Build Momentum
+### 1. Comece pequeno, ganhe impulso
 
-Don't set 20 goals at once. Start with:
-- **1 competition goal**
-- **1 technical goal**
-- **1 mental game goal**
+Não defina 20 objetivos de uma só vez. Comece com:
+- **1 objetivo de competição**
+- **1 objetivo técnico**
+- **1 objetivo de jogo mental**
 
-Master tracking these before adding more.
+Domine o rastreamento desses itens antes de adicionar mais.
 
-### 2. Review Regularly
+### 2. Revise regularmente
 
-- **Daily:** Check today's intention
-- **Weekly:** Review week's progress, plan next week
-- **Monthly:** Assess monthly targets, adjust if needed
-- **Quarterly:** Deep reflection, major adjustments
-- **Annually:** Celebrate year, set new vision
+- **Diariamente:** Confira a intenção de hoje
+- **Semanal:** Analisar o progresso da semana e planejar a próxima semana.
+- **Mensalmente:** Avaliar as metas mensais e ajustá-las, se necessário.
+- **Trimestral:** Reflexão profunda, ajustes importantes
+- **Anualmente:** Celebre o ano, defina uma nova visão.
 
-### 3. Be Honest, Not Harsh
+### 3. Seja honesto, não severo.
 
-When you miss a target:
-- ❌ **Don't:** "I'm terrible, I'll never improve"
-- ✅ **Do:** "What got in the way? What can I adjust?"
+Quando você erra o alvo:
+- ❌ **Não diga:** &quot;Sou péssimo, nunca vou melhorar&quot;
+- ✅ **Faça:** &quot;O que atrapalhou? O que posso ajustar?&quot;
 
-### 4. Link Goals to Your Why
+### 4. Vincule seus objetivos ao seu propósito.
 
-Every goal should connect to your deeper motivation:
-- Why do you play pétanque?
-- What does improvement mean to you?
-- How will achieving this goal feel?
+Cada objetivo deve estar ligado à sua motivação mais profunda:
+- Por que você joga petanca?
+- O que significa melhoria para você?
+- Como será a sensação de alcançar esse objetivo?
 
-### 5. Make It Visible
+### 5. Torne-o visível
 
-- Print your annual goals and post them where you see them daily
-- Set phone reminders for weekly reviews
-- Share goals with your training partner for accountability
+- Imprima suas metas anuais e afixe-as em um local onde você as veja diariamente.
+- Configure lembretes no celular para revisões semanais.
+- Compartilhe seus objetivos com seu parceiro de treino para manter o foco e a responsabilidade.
 
 ---
 
-## Digital vs. Paper Tracking
+## Rastreamento digital versus rastreamento em papel
 
 ### Digital (Google Sheets/Excel)
-**Pros:**
-- Easy to update anywhere
-- Automatic calculations and charts
-- Can share with coach/training partner
-- Search and filter data
+**Prós:**
+- Fácil de atualizar em qualquer lugar
+- Cálculos e gráficos automáticos
+- Pode ser compartilhado com o treinador/parceiro de treino.
+- Pesquisar e filtrar dados
 
-**Cons:**
-- Requires device
-- Can feel impersonal
-- Easy to ignore notifications
+**Contras:**
+- Requer dispositivo
+- Pode parecer impessoal.
+- Notificações fáceis de ignorar
 
-### Paper (Notebook/Printed Templates)
-**Pros:**
-- Tactile, personal connection
-- No distractions
-- Easy to review during training
-- Satisfying to check boxes
+### Papel (Caderno/Modelos Impressos)
+**Prós:**
+- Conexão tátil e pessoal
+- Sem distrações
+- Fácil de revisar durante o treinamento.
+- É gratificante marcar as caixas.
 
-**Cons:**
-- Can't easily create charts
-- Risk of losing notebook
-- Harder to share
+**Contras:**
+- Não consigo criar gráficos facilmente.
+- Risco de perder o caderno
+- Mais difícil de compartilhar
 
-**Recommendation:** Use both! Digital for data tracking, paper for daily intentions and reflections.
-
----
-
-## Related Resources
-
-- [Workshop](/pt/guides/workshop/) - Group sessions on goal setting and mental game
-- [Training Session](/pt/guides/training-session/) - Practice with accountability partners
-- [Mental Strength](/pt/education/mental-game/mental-strength/) - Build the mindset for goal achievement
-- [Training Diary Template](/pt/guides/templates/diary-template) - Daily practice tracking
+**Recomendação:** Use ambos! O digital para o registro de dados e o papel para as intenções e reflexões diárias.
 
 ---
 
-## Quick Start Guide
+## Recursos relacionados
 
-**New to goal setting? Start here:**
-
-1. **Week 1:** Set ONE monthly goal using SMART framework
-2. **Week 2:** Track daily progress in simple table
-3. **Week 3:** Do first weekly review
-4. **Week 4:** Adjust goal if needed, celebrate progress
-
-**After one month:** Add quarterly and annual goals.
+- [Workshop](/en/guides/workshop/) - Sessões em grupo sobre definição de metas e jogo mental
+- [Sessão de Treinamento](/en/guides/training-session/) - Pratique com parceiros de responsabilização
+- [Força Mental](/en/education/mental-game/mental-strength/) - Desenvolva a mentalidade necessária para alcançar seus objetivos.
+- [Modelo de Diário de Treinamento](/en/guides/templates/diary-template) - Acompanhamento diário da prática
 
 ---
 
-::: warning Common Goal-Setting Mistakes
-1. **Too many goals** - Focus is diluted
-2. **Too vague** - "Get better" isn't measurable
-3. **No tracking** - Can't see progress
-4. **No review** - Miss opportunities to adjust
-5. **All outcome, no process** - Focus on what you can control
+## Guia de Início Rápido
+
+**É a sua primeira vez definindo metas? Comece aqui:**
+
+1. **Semana 1:** Defina UMA meta mensal usando a metodologia SMART.
+2. **Semana 2:** Acompanhe o progresso diário em uma tabela simples.
+3. **Semana 3:** Faça a primeira revisão semanal.
+4. **Semana 4:** Ajuste a meta, se necessário, e comemore o progresso.
+
+**Após um mês:** Adicione metas trimestrais e anuais.
+
+---
+
+::: warning Erros comuns na definição de metas
+1. **Muitos objetivos** - O foco fica diluído.
+2. **Muito vago** - &quot;Melhorar&quot; não é mensurável.
+3. **Sem rastreamento** - Não consigo ver o progresso.
+4. **Sem avaliação** - Perde-se a oportunidade de fazer ajustes.
+5. **Só foco no resultado, sem se preocupar com o processo** - Concentre-se no que você pode controlar.
 :::
 
 ---
 
-## Download Templates
+## Baixar modelos
 
-::: tip Copy-Paste Ready
-All templates on this page are designed to be copied directly into:
+::: tip Pronto para copiar e colar
+Todos os modelos desta página foram concebidos para serem copiados diretamente para:
 - Microsoft Word
 - Google Docs
 - Microsoft Excel
-- Google Sheets
-- Notion
-- Any note-taking app
+- Planilhas Google
+- Noção
+- Qualquer aplicativo para fazer anotações
 
-Simply select the template section you want, copy (Ctrl+C / Cmd+C), and paste into your preferred tool.
+Basta selecionar a seção do modelo desejada, copiar (Ctrl+C / Cmd+C) e colar na ferramenta de sua preferência.
 :::
 
-**Start with these three:**
-1. Annual Goal Setting Template
-2. Weekly Planning Template
-3. Progress Tracking Sheet
+**Comece com estes três:**
+1. Modelo para definição de metas anuais
+2. Modelo de Planejamento Semanal
+3. Planilha de acompanhamento de progresso
 
 ---
 
 
-Use this framework to make your goals specific and achievable:
+Use essa estrutura para tornar seus objetivos específicos e alcançáveis:
 
-### SMART Goal Template
+### Modelo de Meta SMART
 
-**S - Specific:** (What exactly do I want to achieve?)
+**S - Específico:** (O que exatamente eu quero alcançar?)
 
-**M - Measurable:** (How will I know I've achieved it?)
+**M - Mensurável:** (Como saberei que o alcancei?)
 
-**A - Achievable:** (Is this realistic given my current level and resources?)
+**A - Atingível:** (Isso é realista considerando meu nível e recursos atuais?)
 
-**R - Relevant:** (Why does this matter to my overall vision?)
+**R - Relevante:** (Por que isso é importante para minha visão geral?)
 
-**T - Time-bound:** (By when will I achieve this?)
+**T - Prazo definido:** (Até quando conseguirei atingir esse objetivo?)
 
-### Example SMART Goals
+### Exemplos de metas SMART
 
-::: details Example 1: Technical Goal
-**S - Specific:** Improve pointing accuracy on hard terrain
-**M - Measurable:** Land within 20cm of cochonnet 7 out of 10 attempts
-**A - Achievable:** Currently at 4/10, so 7/10 is challenging but realistic
-**R - Relevant:** Hard terrain is common in regional tournaments
-**T - Time-bound:** Achieve by end of Q2 (June 30)
+::: details Exemplo 1: Objetivo Técnico
+**S - Específico:** Melhora a precisão de apontamento em terrenos acidentados.
+**M - Mensurável:** Aterrissar a menos de 20 cm do cochonnet em 7 de 10 tentativas.
+**A - Atingível:** Atualmente em 4/10, então 7/10 é desafiador, mas realista.
+**R - Relevante:** Terrenos acidentados são comuns em torneios regionais.
+**T - Prazo definido:** Concluir até o final do segundo trimestre (30 de junho)
 :::
 
-::: details Example 2: Competition Goal
-**S - Specific:** Reach semi-finals in Club Championship
-**M - Measurable:** Finish in top 4 of 32-player tournament
-**A - Achievable:** Currently ranked 8-12 in club, improvement is realistic
-**R - Relevant:** Builds confidence and proves progress
-**T - Time-bound:** Championship is September 15
+::: details Exemplo 2: Objetivo da Competição
+**S - Específico:** Chegar às semifinais do Campeonato de Clubes
+**M - Mensurável:** Terminar entre os 4 primeiros colocados em um torneio com 32 jogadores.
+**A - Atingível:** Atualmente classificado entre 8º e 12º no clube, a melhoria é realista.
+**R - Relevante:** Aumenta a confiança e comprova o progresso.
+**T - Prazo definido:** O campeonato será no dia 15 de setembro.
 :::
 
-::: details Example 3: Mental Game Goal
-**S - Specific:** Manage inner critic during competition
-**M - Measurable:** Use Inner Coach reframe after every miss
-**A - Achievable:** Have practiced technique in training
-**R - Relevant:** Negative self-talk is my biggest barrier
-**T - Time-bound:** Consistent use in next 3 tournaments
+::: details Exemplo 3: Objetivo do Jogo Mental
+**S - Específico:** Gerenciar a autocrítica durante a competição
+**M - Mensurável:** Use a reformulação do Inner Coach após cada erro.
+**A - Atingível:** Ter praticado a técnica no treinamento
+**R - Relevante:** A autocrítica negativa é o meu maior obstáculo.
+**T - Temporário:** Uso consistente nos próximos 3 torneios
 :::
 
 ---

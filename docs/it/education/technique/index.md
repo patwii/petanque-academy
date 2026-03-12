@@ -50,21 +50,21 @@ Un risultato reale si presenta così:
 - &quot;Voglio un tiro ondulato che curvi a sinistra su questo tipo di terreno&quot;
 - &quot;Voglio un tiro morbido in avanti che tocchi appena la boccia bersaglio&quot;
 
-**Per prima cosa, esplora la [Tavolozza dei Lanci](/it/education/technique/throws)** per capire cosa è possibile fare. Poi decidi quale lancio specifico vuoi aggiungere al tuo repertorio. Solo allora dovresti iniziare a lavorare su come il tuo braccio, il tuo polso e il tuo corpo devono muoversi per ottenere quel risultato.
+**Per prima cosa, esplora la [Tavolozza dei Lanci](/it/educazione/tecnica/lanci)** per capire cosa è possibile fare. Poi decidi quale lancio specifico vuoi aggiungere al tuo repertorio. Solo allora dovresti iniziare a lavorare su come il tuo braccio, il tuo polso e il tuo corpo devono muoversi per ottenere quel risultato.
 
 ## Il modo giusto per lavorare sulla tecnica
 
 Non stiamo dicendo che non dovresti mai lavorare sul braccio, sul polso, sul rilascio o sulla posizione del corpo. **Il lavoro tecnico sull&#39;esecuzione è assolutamente valido**, ma deve avere lo scopo giusto.
 
 ::: info Lo scopo giusto per il lavoro tecnico
-**Scopo corretto:** "Voglio aggiungere un nuovo lancio al mio repertorio"
+**Scopo corretto:** &quot;Voglio aggiungere un nuovo tiro alla mia tavolozza&quot;
 
-**Scopo sbagliato:** "Voglio fare più tiri a segno" o "Voglio essere più costante"
+**Scopo sbagliato:** &quot;Voglio fare più tiri&quot; o &quot;Voglio essere più costante&quot;
 :::
 
 Ecco il procedimento:
 
-1. **Esplora la [tavolozza di lanci](/it/education/technique/throws)** — Identifica quale lancio o tecnica vuoi aggiungere al tuo repertorio
+1. **Esplora la [tavolozza dei lanci](/it/istruzione/tecnica/lanci)** — Identifica quale lancio o tecnica vuoi aggiungere al tuo repertorio
 2. **Visualizza il risultato** — Cosa dovrebbe fare la boccia? Quale traiettoria, atterraggio, effetto e comportamento ti servono?
 3. **Poi lavora sull&#39;esecuzione** — Ora puoi concentrarti sul braccio, sul polso, sulla posizione del corpo e sul rilascio per raggiungere quel risultato specifico
 
@@ -119,14 +119,14 @@ Molti giocatori esperti trascorrono anni a perfezionare la tecnica che già poss
 ### La strada da seguire
 
 **Per scatti migliori (nuove funzionalità):**
-- Esplora la [Palette di Lanci](/it/education/technique/throws)
+- Esplora la [Tavolozza dei lanci](/it/istruzione/tecnica/lanci)
 - Scegli un nuovo lancio specifico da sviluppare
 - Praticare l&#39;esecuzione tecnica
 
 **Per ulteriori scatti (coerenza sotto pressione):**
-- Lavora sulla [forza mentale](/it/education/mental-game/mental-strength/)
+- Lavora sulla [Forza Mentale](/it/educazione/gioco-mentale/forza-mentale/)
 - Impara ad accedere a [The Zone](/it/education/mental-game/the-zone/)
-- Sviluppare [routine pre-tiro](/it/education/mental-game/mental-strength/routine-pre-tiro)
+- Sviluppa [Routine pre-tiro](/it/educazione/gioco-mentale/forza-mentale/routine-pre-tiro)
 
 ## La nostra prospettiva
 
@@ -159,13 +159,13 @@ Se hai un focus tecnico e vuoi ampliare il tuo repertorio, questa sezione deline
 
 ## Argomenti
 
-### [Tavolozza di lanci](/it/tecnico/lanci)
+### [Tavolozza di lanci](/it/istruzione/tecnica/lanci)
 Quali sono i lanci possibili? Una panoramica completa delle possibilità tecniche della pétanque.
 
 ::: tip Dopo la tecnica, cosa succederà?
 Una volta acquisita una tecnica solida, la vera crescita deriva da:
 - **[The Zone](/it/education/mental-game/the-zone/)** - Accesso agli stati di flusso
-- **[Forza mentale](/it/education/mental-game/mental-strength/)** - Gestire la pressione
-- **[Metodi di allenamento](/it/education/technique/training/)** - Come esercitarsi in modo efficace
+- **[Forza mentale](/it/educazione/gioco-mentale/forza-mentale/)** - Gestire la pressione
+- **[Metodi di allenamento](/it/educazione/tecnica/allenamento/)** - Come esercitarsi in modo efficace
 :::
 

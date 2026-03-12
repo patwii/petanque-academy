@@ -187,7 +187,7 @@ Dedica tiempo específicamente a las habilidades mentales:
 
 ## En esta sección
 
-- **[Ejercicios de entrenamiento](/es/education/entrenamiento/ejercicios)** - Ejercicios específicos para diferentes habilidades
+- **[Ejercicios de entrenamiento](/es/educacion/tecnica/entrenamiento/ejercicios)** - Ejercicios específicos para diferentes habilidades
 
 ## Conclusión clave
 

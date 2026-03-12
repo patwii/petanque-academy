@@ -3,26 +3,26 @@ title: Communication Under Pressure
 description: Master the art of team communication in high-pressure pétanque situations. Learn what to say, when to say it, and how to support teammates effectively.
 ---
 
-# Communication Under Pressure
+# Kommunikation under pres
 
-> "The right words at the right moment build confidence. The wrong words can unravel even skilled teams."
+> &quot;De rigtige ord på det rigtige tidspunkt opbygger selvtillid. De forkerte ord kan ødelægge selv dygtige teams.&quot;
 
-::: tip The Communication Truth
-**Under pressure, less is more.** Clear, concise communication beats lengthy discussions every time.
+::: tip Kommunikationssandheden
+**Under pres er mindre mere.** Klar og præcis kommunikation overgår lange diskussioner hver gang.
 :::
 
 ---
 
-## Why Communication Matters
+## Hvorfor kommunikation er vigtig
 
 ```mermaid
 flowchart TD
-    A[Effective Communication] --> B[Shared Strategy]
-    A --> C[Mutual Support]
-    A --> D[Quick Decisions]
-    A --> E[Team Resilience]
+    A[Effektiv kommunikation] --> B[Fælles strategi]
+    A --> C[Gensidig støtte]
+    A --> D[Hurtige beslutninger]
+    A --> E[Holdmodstandsdygtighed]
 
-    B --> F[Better Performance]
+    B --> F[Bedre ydeevne]
     C --> F
     D --> F
     E --> F
@@ -31,197 +31,197 @@ flowchart TD
     style F fill:#4CAF50,color:#fff
 ```
 
-Pétanque teams face unique challenges:
-- Decisions must be made quickly
-- Pressure affects how we speak and listen
-- Non-verbal cues are visible to opponents
-- Individual performance affects team dynamics
+Petanque-hold står over for unikke udfordringer:
+- Beslutninger skal træffes hurtigt
+- Pres påvirker, hvordan vi taler og lytter
+- Nonverbale signaler er synlige for modstandere
+- Individuel præstation påvirker holddynamikken
 
 ---
 
-## The Communication Principles
+## Kommunikationsprincipperne
 
-### 1. Clarity Over Quantity
+### 1. Klarhed frem for kvantitet
 
-| ❌ Don't Say | ✅ Say Instead |
+| ❌ Sig ikke | ✅ Sig i stedet |
 |-------------|---------------|
-| "I think maybe we should try to point here, but I'm not sure..." | "I'll point to the left side. The ground is better there." |
+| &quot;Jeg tror måske, vi skulle prøve at pege her, men jeg er ikke sikker...&quot; | &quot;Jeg peger på venstre side. Der er jorden bedre.&quot; |
 
-### 2. Positive Framing
+### 2. Positiv indramning
 
-| ❌ Negative | ✅ Positive |
+| ❌ Negativ | ✅ Positiv |
 |------------|------------|
-| "Don't miss this one" | "You've got this — trust your throw" |
-| "That was terrible" | "Shake it off, next one" |
+| &quot;Gå ikke glip af denne&quot; | &quot;Du har styr på det her – stol på dit kast&quot; |
+| &quot;Det var forfærdeligt&quot; | &quot;Ryst den af, den næste&quot; |
 
-### 3. Present Focus
+### 3. Nuværende fokus
 
-::: warning Past vs Present
-**Instead of:** "Why did you throw it there?"
-**Say:** "Okay, what's our best option now?"
+::: warning Fortid vs. nutid
+**I stedet for:** &quot;Hvorfor smed du den der?&quot;
+**Sig:** &quot;Okay, hvad er vores bedste mulighed nu?&quot;
 :::
 
-### 4. Ownership Language
+### 4. Ejerskabssprog
 
-Use "I" statements for your own actions, "we" for team situations:
+Brug &quot;jeg&quot;-udsagn til dine egne handlinger, &quot;vi&quot; til teamsituationer:
 
-- "I'll take this shot"
-- "We need to protect the point"
-- "I think we should..."
+- &quot;Jeg tager dette skud&quot;
+- &quot;Vi skal beskytte pointen&quot;
+- &quot;Jeg synes, vi burde...&quot;
 
-## What to Communicate
+## Hvad skal man kommunikere
 
-### Before Each End
+### Før hver ende
 
-- **Strategy discussion**: Brief alignment on approach
-- **Role clarity**: Who's doing what
-- **Terrain observations**: Relevant conditions
+- **Strategidiskussion**: Kort afstemning om tilgang
+- **Rolleklarhed**: Hvem gør hvad
+- **Terrænobservationer**: Relevante forhold
 
-### During Play
+### Under afspilning
 
-- **Decisions**: Clear statement of intended action
-- **Support**: Encouragement before throws
-- **Information**: Relevant observations about terrain or opponents
+- **Beslutninger**: Tydelig erklæring om den påtænkte handling
+- **Støtte**: Opmuntring før kast
+- **Information**: Relevante observationer om terræn eller modstandere
 
-### After Throws
+### Efter kast
 
-- **Acknowledgment**: Brief recognition (good or bad)
-- **Adjustment**: Any strategic changes needed
-- **Reset**: Help teammate refocus
+- **Anerkendelse**: Kort anerkendelse (god eller dårlig)
+- **Justering**: Eventuelle nødvendige strategiske ændringer
+- **Nulstil**: Hjælp holdkammerater med at fokusere igen
 
-## What NOT to Communicate
+## Hvad man IKKE skal kommunikere
 
-### Avoid During Pressure Moments
+### Undgå under presmomenter
 
-- Technical instructions ("Keep your elbow in")
-- Criticism of past throws
-- Expressions of frustration
-- Doubt about teammate's ability
-- Excessive analysis
+- Tekniske instruktioner (&quot;Hold albuen inde&quot;)
+- Kritik af tidligere kast
+- Udtryk for frustration
+- Tvivl om holdkammeratens evner
+- Overdreven analyse
 
-### Avoid in General
+### Undgå generelt
 
-- Blame language
-- Sarcasm or passive aggression
-- Comparisons to other players
-- Predictions of failure
+- Skyld sprog
+- Sarkasme eller passiv aggression
+- Sammenligninger med andre spillere
+- Forudsigelser om fiasko
 
-## Non-Verbal Communication
+## Nonverbal kommunikation
 
-Your body language speaks loudly:
+Dit kropssprog taler højt:
 
-### Positive Signals
-- Eye contact with teammates
-- Open, relaxed posture
-- Nodding and acknowledgment
-- Calm, steady movements
+### Positive signaler
+- Øjenkontakt med holdkammerater
+- Åben, afslappet kropsholdning
+- Nikken og anerkendelsen
+- Rolige, stabile bevægelser
 
-### Negative Signals (Avoid)
-- Eye rolling or sighing
-- Turning away from teammates
-- Crossed arms or closed posture
-- Visible frustration
+### Negative signaler (undgå)
+- Øjenrulning eller suk
+- Vender sig væk fra holdkammeraterne
+- Krydsede arme eller lukket kropsholdning
+- Synlig frustration
 
-### Reading Teammates
+### Læsende holdkammerater
 
-Learn to recognize when teammates need:
-- **Space**: They're processing, don't interrupt
-- **Support**: They're struggling, offer encouragement
-- **Information**: They're uncertain, provide clarity
-- **Energy**: They're flat, bring enthusiasm
+Lær at genkende, hvornår holdkammerater har brug for:
+- **Mellemrum**: De behandler, afbryd ikke
+- **Støtte**: De kæmper, tilbyd opmuntring
+- **Information**: De er usikre, giv klarhed
+- **Energi**: De er flade, bringer entusiasme
 
-## Communication Roles
+## Kommunikationsroller
 
-### The Pointer
-- Communicate your read of the terrain
-- State your intended placement clearly
-- Ask for input when uncertain
+### Pegeren
+- Kommunikér din læsning af terrænet
+- Angiv tydeligt din ønskede placering
+- Bed om input, når du er usikker
 
-### The Shooter
-- Confirm target selection
-- Communicate confidence level
-- Request information about angles
+### Skytteren
+- Bekræft valg af mål
+- Kommunikér selvtillidsniveau
+- Anmod om information om vinkler
 
-### The Milieu/Captain
-- Facilitate team discussions
-- Make final decisions when needed
-- Manage team energy and focus
+### Miljøet/Kaptajnen
+- Facilitere teamdiskussioner
+- Træf endelige beslutninger, når det er nødvendigt
+- Styr teamets energi og fokus
 
-## Pressure Situations
+## Pressede situationer
 
-### When Behind
+### Når du er bagud
 
-- Stay solution-focused
-- Maintain positive energy
-- Avoid blame or frustration
-- Celebrate small wins
+- Forbliv løsningsfokuseret
+- Bevar positiv energi
+- Undgå bebrejdelse eller frustration
+- Fejr små sejre
 
-### When Ahead
+### Når forude
 
-- Stay focused, avoid complacency
-- Keep communication consistent
-- Don't change what's working
+- Hold fokus, undgå selvtilfredshed
+- Hold kommunikationen konsekvent
+- Lav ikke om på det, der virker
 
-### Match Point (Theirs)
+### Matchpoint (deres)
 
-- Acknowledge the pressure briefly
-- Focus on the process
-- Support each other visibly
+- Anerkend presset kort
+- Fokuser på processen
+- Støt hinanden synligt
 
-### Match Point (Ours)
+### Matchpoint (vores)
 
-- Stay calm and focused
-- Avoid premature celebration
-- Execute as normal
+- Forbliv rolig og fokuseret
+- Undgå for tidlig fejring
+- Udfør som normalt
 
-## Building Communication Skills
+## Opbygning af kommunikationsevner
 
-### In Practice
+### I praksis
 
-- Practice communicating during training
-- Give and receive feedback on communication
-- Experiment with different approaches
+- Øv kommunikation under træning
+- Giv og modtag feedback på kommunikation
+- Eksperimentér med forskellige tilgange
 
-### Team Agreements
+### Teamaftaler
 
-Establish team norms:
-- How we handle disagreements
-- What support looks like
-- When to speak and when to stay quiet
+Etabler teamnormer:
+- Hvordan vi håndterer uenigheder
+- Sådan ser støtten ud
+- Hvornår man skal tale, og hvornår man skal tie stille
 
-### Post-Match Review
+### Gennemgang efter kampen
 
-Discuss communication:
-- What worked well?
-- What could improve?
-- Any misunderstandings to address?
+Diskuter kommunikation:
+- Hvad fungerede godt?
+- Hvad kunne forbedres?
+- Nogle misforståelser at rette op på?
 
-## When Communication Breaks Down
+## Når kommunikationen bryder sammen
 
-### In the Moment
+### I øjeblikket
 
-1. Take a breath
-2. Reset with a simple statement: "Let's focus on this throw"
-3. Return to basics: clear, positive, present
+1. Tag en indånding
+2. Nulstil med en simpel sætning: &quot;Lad os fokusere på dette kast&quot;
+3. Tilbage til det grundlæggende: klar, positiv, nærværende
 
-### After the Match
+### Efter kampen
 
-- Address issues calmly
-- Focus on behaviors, not personalities
-- Agree on improvements
-- Move forward together
+- Håndter problemerne roligt
+- Fokuser på adfærd, ikke personligheder
+- Enighed om forbedringer
+- Gå fremad sammen
 
-## The Silent Support
+## Den stille støtte
 
-Sometimes the best communication is presence:
-- Standing with a struggling teammate
-- A hand on the shoulder
-- A nod of confidence
-- Simply being there
+Nogle gange er den bedste kommunikation tilstedeværelse:
+- Står sammen med en holdkammerat, der kæmper
+- En hånd på skulderen
+- Et nik af tillid
+- Bare at være der
 
-Words aren't always necessary. Connection is.
+Ord er ikke altid nødvendige. Forbindelse er.
 
 ---
 
-*Related: [Team Dynamics](/da/education/team-dynamics/) | [Communication](/da/education/team-dynamics/communication) | [Handling Pressure](/da/education/mental-game/mental-strength/handling-pressure)*
+| *Relateret: [Teamdynamik](/da/uddannelse/teamdynamik/) | [Kommunikation](/da/uddannelse/teamdynamik/kommunikation) | [Håndtering af pres](/da/uddannelse/mentalt-spil/mental-styrke/håndtering-af-pres)* |
 

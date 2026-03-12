@@ -16,7 +16,7 @@ Den här guiden hjälper dig att genomföra en 2–3 timmar lång introduktionss
 |---------|---------|--------|
 | **För deltagare** | Vad du kan förvänta dig av sessionen | [Visa avsnitt](#för-deltagare) |
 | **För handledare** | Komplett sessionsplan och tidsplan | [Visa avsnitt](#för-handledare) |
-| **Material för sessionen** | Guider, bilder och arbetsblad | [Visa material](/sv/guides/mental-journey/material) |
+| **Material för sessionen** | Guider, bilder och arbetsblad | [Visa material](/sv/guider/mental-resa/material) |
 | **Förberedelsechecklista** | Vad man ska förbereda inför sessionen | [Visa checklista](#förberedelse-1-vecka-innan) |
 
 ---
@@ -109,7 +109,7 @@ Du får:
 **1 vecka innan:**
 - [ ] Boka rum i 2-3 timmar
 - [ ] Bjud in 6–12 deltagare
-- [ ] Bokmärk materialsidor (se [Material](/sv/guides/mental-journey/materials))
+- [ ] Bokmärk materialsidor (se [Material](/sv/guider/mental-resa/material))
 - [ ] Läs igenom den här guiden noggrant
 - [ ] Förbered flipchart eller whiteboard
 
@@ -360,7 +360,7 @@ Dela exempel.
 **Resurser:**
 - Dela ut sammanfattningsblad
 - Dela webbplatsen: carreau.app
-- Rekommenderad startmodul: [Zonen](/sv/education/mental-game/the-zone/)
+- Rekommenderad startmodul: [Zonen](/sv/utbildning/mentalt spel/zonen/)
 
 **Slutningscirkel:**
 &quot;Ett ord som beskriver hur du känner dig just nu.&quot;
@@ -419,10 +419,10 @@ Dela exempel.
 
 ## Material
 
-- [Deltagarguide](/sv/mental-resa/material#deltagarguide)
-- [Handledarens bilder](/sv/guides/mental-journey/material#handledarens-bilder)
-- [Sammanfattningsblad](/sv/mental-resa/material#sammanfattningsblad)
-- [Övningsblad](/sv/mental-resa/material#övningsblad)
+- [Deltagarguide](/sv/guider/mental-resa/material#deltagarguide)
+- [Handledarens bilder](/sv/guider/mental-resa/material#handledarens-bilder)
+- [Sammanfattningsblad](/sv/guider/mental-resa/material#sammanfattningsblad)
+- [Övningsblad](/sv/guider/mental-resa/material#övningsblad)
 
 ---
 

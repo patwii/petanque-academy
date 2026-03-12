@@ -3,142 +3,142 @@ title: Tension Release Techniques
 description: Learn Progressive Muscle Relaxation (PMR), quick release protocols, and breathing techniques for pétanque performance.
 ---
 
-# Tension Release Techniques
+# Technieken voor het loslaten van spanning
 
-This page provides practical techniques for releasing tension, from the full Progressive Muscle Relaxation protocol to quick competition-ready methods.
+Deze pagina biedt praktische technieken voor het loslaten van spanning, van het volledige protocol voor progressieve spierontspanning tot snelle methoden die je klaarstomen voor wedstrijden.
 
 ---
 
-## Progressive Muscle Relaxation (PMR)
+## Progressieve spierontspanning (PMR)
 
-PMR is the foundation technique for learning body awareness and tension control. Developed by Edmund Jacobson in the 1930s, it teaches you to recognize and release tension systematically.
+PMR is de basistechniek voor het ontwikkelen van lichaamsbewustzijn en het beheersen van spanning. Deze techniek, ontwikkeld door Edmund Jacobson in de jaren 30, leert je spanning systematisch te herkennen en los te laten.
 
-### The Core Principle
+### Het kernprincipe
 
-**Tension → Recognition → Release**
+**Spanning → Herkenning → Ontspanning**
 
-By deliberately tensing muscles, you learn to:
-1. Notice tension (often we don't realize we're tense)
-2. Feel the contrast when releasing
-3. Achieve deeper relaxation than without the tension phase
+Door bewust je spieren aan te spannen, leer je het volgende:
+1. Merk de spanning op (vaak beseffen we niet dat we gespannen zijn).
+2. Voel het contrast bij het loslaten.
+3. Bereik een diepere ontspanning dan zonder de spanningsfase.
 
-### The Full PMR Protocol (15-20 minutes)
+### Het volledige PMR-protocol (15-20 minuten)
 
-Practice this daily for 2-3 weeks to build the skill.
+Oefen dit dagelijks gedurende 2-3 weken om de vaardigheid te ontwikkelen.
 
-**Setup:**
-- Quiet, comfortable space
-- Lying down or reclined
-- Eyes closed
-- Loose clothing
+**Installatie:**
+- Rustige, comfortabele ruimte
+- Liggend of achteroverleunend
+- Ogen gesloten
+- Losse kleding
 
-**The Sequence:**
+**De volgorde:**
 
-For each muscle group:
-1. **Tense** for 5-7 seconds (50-70% max effort)
-2. **Release** suddenly and completely
-3. **Notice** the relaxation for 15-20 seconds
-4. Move to next group
+Voor elke spiergroep:
+1. **Span** gedurende 5-7 seconden (50-70% van de maximale inspanning)
+2. **Loslaten** plotseling en volledig
+3. **Let op** de ontspanning gedurende 15-20 seconden.
+4. Ga naar de volgende groep
 
-| # | Muscle Group | How to Tense |
+| # | Spiergroep | Hoe je je spieren aanspant |
 |---|--------------|--------------|
-| 1 | Right hand/forearm | Make a fist |
-| 2 | Right upper arm | Bend elbow, flex bicep |
-| 3 | Left hand/forearm | Make a fist |
-| 4 | Left upper arm | Bend elbow, flex bicep |
-| 5 | Forehead | Raise eyebrows |
-| 6 | Eyes/cheeks | Squeeze eyes shut |
-| 7 | Jaw | Clench teeth gently |
-| 8 | Neck/shoulders | Shrug shoulders to ears |
-| 9 | Chest | Deep breath, hold |
-| 10 | Stomach | Tighten abs |
-| 11 | Right thigh | Tense upper leg |
-| 12 | Right calf | Point toes up |
-| 13 | Right foot | Curl toes |
-| 14 | Left thigh | Tense upper leg |
-| 15 | Left calf | Point toes up |
-| 16 | Left foot | Curl toes |
+| 1 | Rechterhand/onderarm | Maak een vuist |
+| 2 | Rechter bovenarm | Buig je elleboog, span je biceps aan. |
+| 3 | Linkerhand/onderarm | Maak een vuist |
+| 4 | Linker bovenarm | Buig je elleboog, span je biceps aan. |
+| 5 | Voorhoofd | Wenkbrauwen optrekken |
+| 6 | Ogen/wangen | Knijp je ogen dicht |
+| 7 | Kaak | Klem uw tanden zachtjes op elkaar. |
+| 8 | Nek/schouders | Schouders naar de oren trekken |
+| 9 | Borst | Adem diep in en houd je adem even vast. |
+| 10 | Maag | Span je buikspieren aan |
+| 11 | Rechter dij | Gespannen bovenbeen |
+| 12 | Rechter kuit | Tenen omhoog wijzen |
+| 13 | Rechtervoet | Krul tenen |
+| 14 | Linker dij | Gespannen bovenbeen |
+| 15 | Linker kuit | Tenen omhoog wijzen |
+| 16 | Linkervoet | Krul tenen |
 
-::: warning Important Notes
-- Don't overtense (strain risk)
-- Skip any injured areas
-- Focus on the release phase
-- Notice the difference between tension and relaxation
+::: warning Belangrijke opmerkingen
+- Niet te veel aanspannen (risico op overbelasting)
+- Sla geblesseerde gebieden over.
+- Focus op de releasefase
+- Merk het verschil op tussen spanning en ontspanning.
 :::
 
-### Abbreviated PMR (5-7 minutes)
+### Verkorte PMR (5-7 minuten)
 
-Once you've mastered the full protocol, use this shorter version:
+Als je het volledige protocol onder de knie hebt, gebruik dan deze kortere versie:
 
-| Group | Muscles Combined |
+| Groep | Spieren gecombineerd |
 |-------|------------------|
-| 1 | Both arms (hands, forearms, upper arms) |
-| 2 | Face (forehead, eyes, jaw) |
-| 3 | Neck and shoulders |
-| 4 | Torso (chest, stomach, back) |
-| 5 | Both legs (thighs, calves, feet) |
+| 1 | Beide armen (handen, onderarmen, bovenarmen) |
+| 2 | Gezicht (voorhoofd, ogen, kaak) |
+| 3 | Nek en schouders |
+| 4 | Romp (borst, buik, rug) |
+| 5 | Beide benen (dijen, kuiten, voeten) |
 
 ---
 
-## Quick Release Techniques
+## Snelontgrendelingstechnieken
 
-For use during competition when full PMR isn't practical.
+Voor gebruik tijdens wedstrijden wanneer een volledige PMR-uitrusting niet praktisch is.
 
-### The 30-Second Reset
+### De reset van 30 seconden
 
-Between points or during short breaks:
+Tussen de punten door of tijdens korte pauzes:
 
-1. **Deep breath** — Slow inhale through nose (4 counts)
-2. **Shoulder drop** — Raise shoulders to ears, then drop completely
-3. **Hand shake** — Shake hands loosely for 5 seconds
-4. **Jaw release** — Open mouth wide, then let it close naturally
-5. **Final breath** — Slow exhale (6 counts)
+1. **Diep ademhalen** — Adem langzaam in door de neus (4 tellen)
+2. **Schouder laten zakken** — Til je schouders op tot aan je oren en laat ze vervolgens volledig zakken.
+3. **Handdruk** — Schud elkaars handen losjes gedurende 5 seconden
+4. **Kaakontspanning** — Open je mond wijd en laat hem dan vanzelf weer sluiten.
+5. **Laatste ademhaling** — Langzaam uitademen (6 tellen)
 
-### The Grip Reset
+### De grip reset
 
-Before each throw:
+Voor elke worp:
 
-1. **Squeeze hard** — Grip the boule at 80% for 2 seconds
-2. **Release to optimal** — Find your ideal grip pressure (usually 40-50%)
-3. **Notice** — Feel the difference
+1. **Knijp stevig** — Pak de boule 2 seconden lang vast met 80% van de maximale kracht.
+2. **Optimale druk bereiken** — Vind de ideale gripdruk (meestal 40-50%).
+3. **Let op** — Voel het verschil
 
-This creates a reference point for proper grip pressure.
+Dit creëert een referentiepunt voor de juiste gripdruk.
 
-### The Shoulder Protocol
+### Het schouderprotocol
 
-Shoulders are tension magnets. Use this frequently:
+Schouders trekken spanning aan. Gebruik deze oefening regelmatig:
 
-1. **Raise** shoulders toward ears
-2. **Hold** for 3 seconds
-3. **Drop** suddenly and completely
-4. **Breathe** out as you drop
+1. **Til** je schouders op richting je oren
+2. **Houd** 3 seconden ingedrukt
+3. **Plotseling en volledig laten vallen**
+4. **Adem uit** terwijl je valt.
 
 ---
 
-## Breathing Techniques
+## Ademhalingstechnieken
 
-Breath control directly affects your nervous system.
+Ademhalingsoefeningen hebben een directe invloed op je zenuwstelsel.
 
-### Why Breathing Works
+### Waarom ademhalen werkt
 
-- **Exhale activates parasympathetic system** (calming)
-- **Slow breathing reduces heart rate**
-- **Rhythmic breathing creates focus**
+- **Uitademen activeert het parasympathische zenuwstelsel** (kalmerend).
+- **Langzaam ademen verlaagt de hartslag.**
+- **Ritmische ademhaling bevordert de concentratie**
 
-### The 4-7-8 Technique
+### De 4-7-8-techniek
 
-A powerful calming breath:
+Een krachtige, kalmerende ademhaling:
 
-1. **Inhale** through nose for 4 counts
-2. **Hold** for 7 counts
-3. **Exhale** through mouth for 8 counts
-4. Repeat 3-4 times
+1. **Adem in** door je neus gedurende 4 tellen.
+2. **Houd** 7 tellen vast
+3. **Adem uit** door de mond gedurende 8 tellen.
+4. Herhaal dit 3-4 keer.
 
-Use this between games or during breaks when you're over-aroused.
+Gebruik dit tussen de spelletjes door of tijdens pauzes wanneer je overmatig opgewonden bent.
 
-### Box Breathing
+### Boxademhaling
 
-Good for maintaining steady arousal:
+Goed voor het behouden van een constante opwinding:
 
 ```
     Inhale 4 → → → →
@@ -148,90 +148,90 @@ Good for maintaining steady arousal:
     ← ← ← ← Exhale 4
 ```
 
-4-4-4-4 rhythm. Use during competition for stable focus.
+4-4-4-4 ritme. Gebruik dit tijdens wedstrijden voor een stabiele focus.
 
-### Competition Breath
+### Competitie-ademhaling
 
-Quick version for before a throw:
+Korte versie voor vlak voor een worp:
 
-1. **Full exhale** — Push all air out
-2. **Natural inhale** — Let air flow in naturally
-3. **Slow exhale** — Controlled release
-4. **Begin routine** — Step to the circle
+1. **Volledig uitademen** — Pers alle lucht uit.
+2. **Natuurlijk inademen** — Laat de lucht op natuurlijke wijze naar binnen stromen.
+3. **Langzaam uitademen** — Gecontroleerde uitademing
+4. **Begin de routine** — Stap naar de cirkel
 
 ---
 
-## Pre-Throw Tension Protocol
+## Pre-Throw Spanning Protocol
 
-A complete sequence to use before important throws:
+Een complete reeks oefeningen die je kunt gebruiken vóór belangrijke worpen:
 
-### The 15-Second Protocol
+### Het 15-secondenprotocol
 
-| Step | Time | Action |
+| Stap | Tijd | Actie |
 |------|------|--------|
-| 1 | 3 sec | Body scan: notice any tension |
-| 2 | 3 sec | One deep breath |
-| 3 | 3 sec | Shoulder drop |
-| 4 | 3 sec | Grip check (tense-release if needed) |
-| 5 | 3 sec | Final breath, begin routine |
+| 1 | 3 seconden | Lichaamsscan: let op eventuele spanning. |
+| 2 | 3 seconden | Eén diepe ademhaling |
+| 3 | 3 seconden | Schouder omlaag |
+| 4 | 3 seconden | Gripcontrole (aanspannen en ontspannen indien nodig) |
+| 5 | 3 seconden | Laatste ademteug, begin routine |
 
-### The "Reset" Cue Word
+### Het trefwoord &quot;Reset&quot;
 
-Choose a single word that cues your body to release:
-- "Soft"
-- "Easy"
-- "Flow"
-- "Release"
+Kies één woord dat je lichaam aanzet tot ontspanning:
+- &quot;Zacht&quot;
+- &quot;Eenvoudig&quot;
+- &quot;Stroom&quot;
+- &quot;Uitgave&quot;
 
-Practice saying this word mentally while releasing tension. Eventually, the word alone triggers the relaxation response.
-
----
-
-## Building the Skill
-
-### Week 1-2: Foundation
-- Practice full PMR daily (15-20 min)
-- Learn to recognize tension vs. relaxation
-- Don't use in competition yet
-
-### Week 3-4: Abbreviated
-- Switch to abbreviated PMR (5-7 min daily)
-- Begin using shoulder drops and grip resets in training
-- Notice tension patterns during practice
-
-### Week 5+: Competition Application
-- Integrate quick techniques into competition routine
-- Use pre-throw protocol on important throws
-- Develop your cue word
+Oefen het mentaal uitspreken van dit woord terwijl je de spanning loslaat. Uiteindelijk zal het woord op zich al de ontspanningsreactie opwekken.
 
 ---
 
-## Troubleshooting
+## De vaardigheid ontwikkelen
 
-### "I can't relax"
+### Week 1-2: Basis
+- Oefen dagelijks de volledige PMR (15-20 min).
+- Leer het verschil te herkennen tussen spanning en ontspanning.
+- Nog niet gebruiken in wedstrijden.
 
-- You're trying too hard (paradox)
-- Focus on the release, not on "being relaxed"
-- It's a skill—requires practice
+### Week 3-4: Verkorte versie
+- Schakel over naar een verkorte PMR-training (5-7 minuten per dag).
+- Begin met het toepassen van shoulder drops en grip resets tijdens de training.
+- Let tijdens de oefening op de spanningspatronen.
 
-### "I don't notice tension"
-
-- This is common initially
-- PMR trains recognition
-- Keep practicing, awareness develops
-
-### "It works in practice but not competition"
-
-- Start with lower-pressure situations
-- Build up gradually
-- Use abbreviated techniques more frequently
+### Week 5+: Aanmelding voor de wedstrijd
+- Integreer snelle technieken in je wedstrijdroutine.
+- Gebruik het pre-throw protocol bij belangrijke worpen.
+- Ontwikkel je sleutelwoord.
 
 ---
 
-## Related Content
+## Probleemoplossing
 
-- [Understanding Tension](/nl/education/tension/) — The science of tension
-- [Competition Tension Management](/nl/education/tension/competition) — Match-day protocols
-- [Mindfulness](/nl/education/mental-game/mindfulness/) — Present-moment awareness
-- [Pre-Shot Routine](/nl/education/mental-game/mental-strength/pre-shot-routine) — Complete routine integration
+### &quot;Ik kan niet ontspannen&quot;
+
+- Je doet te veel je best (paradox)
+- Focus op de ontlading, niet op &quot;ontspannen zijn&quot;.
+- Het is een vaardigheid die oefening vereist.
+
+### &quot;Ik merk geen spanning&quot;
+
+- Dit is aanvankelijk gebruikelijk.
+- PMR-treinen herkenning
+- Blijf oefenen, dan ontwikkelt zich het bewustzijn.
+
+### &quot;In de praktijk werkt het wel, maar niet in de wedstrijd.&quot;
+
+- Begin met situaties met minder druk.
+- Bouw het geleidelijk op
+- Gebruik vaker verkorte technieken.
+
+---
+
+## Gerelateerde inhoud
+
+- [Spanning begrijpen](/en/education/tension/) — De wetenschap van spanning
+- [Competitie-spanningsmanagement](/en/education/tension/competition) — Wedstrijdprotocollen
+- [Mindfulness](/en/education/mental-game/mindfulness/) — Bewustzijn van het huidige moment
+- [Voorbereidende training](/en/education/mental-game/mental-strength/pre-shot-routine) — Volledige routine-integratie
 

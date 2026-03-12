@@ -1,56 +1,56 @@
-# Team Agreement Template
+# Mal for teamavtale
 
-A framework for establishing clear communication, roles, and conflict resolution within your team.
+Et rammeverk for å etablere tydelig kommunikasjon, roller og konfliktløsning i teamet ditt.
 
-::: tip Why a Team Agreement?
-**Great teams don't hope for chemistry—they build it.** A clear agreement prevents misunderstandings and creates a foundation for honest communication.
+::: tip Hvorfor en teamavtale?
+**Gode team håper ikke på kjemi – de bygger den.** En tydelig avtale forhindrer misforståelser og skaper et grunnlag for ærlig kommunikasjon.
 :::
 
-## Team Information
+## Laginformasjon
 
-**Team name:** ________
-**Members:**
-1. ________ (Role: ________)
-2. ________ (Role: ________)
-3. ________ (Role: ________)
+**Lagnavn:** ________
+**Medlemmer:**
+1. ________ (Rolle: ________)
+2. ________ (Rolle: ________)
+3. ________ (Rolle: ________)
 
-**Agreement date:** ________
-**Review date:** ________ (recommend every 3-6 months)
+**Avtaledato:** ________
+**Gjennomgangsdato:** ________ (anbefales hver 3.–6. måned)
 
 ---
 
-## 1. Roles & Responsibilities
+## 1. Roller og ansvar
 
-### Playing Roles
+### Spille roller
 
-| Position | Primary Player | Backup | Strengths |
+| Posisjon | Primærspiller | Sikkerhetskopiering | Styrker |
 |----------|---------------|--------|-----------|
-| **Pointer** | | | |
-| **Middle** | | | |
-| **Shooter** | | | |
+| **Peker** |
+| **Midt** |
+| **Skytter** |
 
-### Off-Field Roles
+### Roller utenfor banen
 
-| Role | Person | Responsibilities |
+| Rolle | Person | Ansvar |
 |------|--------|------------------|
-| **Captain** (decisions) | | Final call on tactics |
-| **Organizer** (logistics) | | Bookings, schedule, communication |
-| **Motivator** (energy) | | Keep spirits up, positive reinforcement |
+| **Kaptein** (avgjørelser) | Siste avgjørelse om taktikk |
+| **Organisator** (logistikk) | Bestillinger, timeplan, kommunikasjon |
+| **Motivator** (energi) | Hold motet oppe, positiv forsterkning |
 
 ---
 
-## 2. Communication Agreements
+## 2. Kommunikasjonsavtaler
 
-### During Matches
+### Under kampene
 
-**Before each end:**
-- [ ] Brief terrain discussion
-- [ ] Agree on strategy
-- [ ] Confirm who plays first
+**Før hver ende:**
+- [ ] Kort diskusjon om terrenget
+- [ ] Enig om strategi
+- [ ] Bekreft hvem som spiller først
 
-**Hand signals we use:**
+**Håndsignaler vi bruker:**
 
-| Signal | Meaning |
+| Signal | Betydning |
 |--------|---------|
 | | Point close |
 | | Point far |
@@ -58,168 +58,168 @@ A framework for establishing clear communication, roles, and conflict resolution
 | | Wait/discuss |
 | | Your choice |
 
-**After mistakes:**
-- [ ] No blame language ("why did you...")
-- [ ] Supportive response ("unlucky, next one")
-- [ ] Quick reset, move forward
+**Etter feil:**
+- [ ] Ikke bruk skyldspråk («hvorfor gjorde du det ...»)
+- [ ] Støttende svar (&quot;uheldig, neste&quot;)
+- [ ] Rask tilbakestilling, gå videre
 
-**We agree NOT to:**
-- [ ] Criticize during play
-- [ ] Show negative body language
-- [ ] Discuss other options after a throw
-- [ ] Blame teammates for losses
-
----
-
-## 3. Decision Making
-
-### Tactical Decisions
-
-**Who decides shot selection?**
-- [ ] Player throwing decides
-- [ ] Captain suggests, player decides
-- [ ] Team discusses briefly
-
-**When we disagree:**
-1. Each person states view briefly (10 sec)
-2. Captain makes final call
-3. Everyone commits 100%
-4. Review after match, not during
-
-### Substitution Decisions
-
-**How we decide who plays:**
-
-**Criteria:**
-- [ ] Form/recent performance
-- [ ] Terrain suitability
-- [ ] Physical condition
-- [ ] Rotation fairness
+**Vi samtykker i å IKKE:**
+- [ ] Kritisere underveis i spillet
+- [ ] Vis negativt kroppsspråk
+- [ ] Diskuter andre alternativer etter et kast
+- [ ] Skyld på lagkameratene for tap
 
 ---
 
-## 4. Training Commitment
+## 3. Beslutningstaking
 
-**Regular training:**
-- Frequency: ________ times per week
-- Duration: ________ hours
-- Location: ________
+### Taktiske avgjørelser
 
-**Attendance expectations:**
-- [ ] Communicate absences 24h in advance
-- [ ] Miss max _____ sessions per month
-- [ ] Arrive on time / _____ min early
+**Hvem bestemmer valg av skudd?**
+- [ ] Spilleren som kaster bestemmer
+- [ ] Kaptein foreslår, spiller bestemmer
+- [ ] Teamet diskuterer kort
 
-**What we practice:**
-- [ ] Individual skills
-- [ ] Team tactics
-- [ ] Pressure situations
-- [ ] Competition simulation
+**Når vi er uenige:**
+1. Hver person gir et kort bilde (10 sekunder)
+2. Kapteinen tar den siste avgjørelsen
+3. Alle forplikter seg 100 %
+4. Gjennomgang etter kampen, ikke underveis
+
+### Avgjørelser om erstatning
+
+**Hvordan vi bestemmer hvem som spiller:**
+
+**Kriterier:**
+- [ ] Form/nylig prestasjon
+- [ ] Terrengegnethet
+- [ ] Fysisk tilstand
+- [ ] Rotasjonsrettferdighet
 
 ---
 
-## 5. Competition Commitments
+## 4. Opplæringsforpliktelse
 
-**Tournaments we commit to:**
+**Regelmessig trening:**
+- Frekvens: ________ ganger per uke
+- Varighet: ________ timer
+- Sted: ________
+
+**Forventninger til oppmøte:**
+- [ ] Meld fravær 24 timer i forveien
+- [ ] Gå glipp av maks _____ økter per måned
+- [ ] Møt opp i tide / _____ minutt for tidlig
+
+**Hva vi øver på:**
+- [ ] Individuelle ferdigheter
+- [ ] Lagtaktikk
+- [ ] Presssituasjoner
+- [ ] Konkurransesimulering
+
+---
+
+## 5. Konkurranseforpliktelser
+
+**Turneringer vi forplikter oss til:**
 1. ________
 2. ________
 3. ________
 
-**Pre-competition:**
-- [ ] Confirm availability 1 week before
-- [ ] Arrive _____ min before first match
-- [ ] Warm up together
+**Forhåndskonkurranse:**
+- [ ] Bekreft tilgjengelighet 1 uke før
+- [ ] Ankom _____ minutt før første kamp
+- [ ] Varm opp sammen
 
-**Post-competition:**
-- [ ] Brief debrief (win or lose)
-- [ ] Celebrate efforts
-- [ ] Save detailed analysis for training
-
----
-
-## 6. Conflict Resolution
-
-### When Tensions Arise
-
-**Step 1: Cool down**
-- Don't address conflict during/immediately after match
-- Wait minimum 24 hours if emotions high
-
-**Step 2: Direct conversation**
-- Person with issue approaches the other directly
-- Use "I" statements ("I felt..." not "You always...")
-- Listen without defending
-
-**Step 3: Mediation (if needed)**
-- Third team member facilitates
-- Each person shares perspective
-- Find solution together
-
-**Step 4: Team meeting (if unresolved)**
-- All members present
-- Structured discussion
-- Agree on path forward
-
-### We Commit To:
-- [ ] Address issues, not let them fester
-- [ ] Assume good intentions
-- [ ] Prioritize team over ego
-- [ ] Keep disagreements private (not to others)
+**Etter konkurransen:**
+- [ ] Kort oppsummering (vinn eller tap)
+- [ ] Feir innsatsen
+- [ ] Lagre detaljert analyse for trening
 
 ---
 
-## 7. Feedback Culture
+## 6. Konfliktløsning
 
-**How we give feedback:**
-- [ ] Specific and actionable
-- [ ] Balance positive and developmental
-- [ ] In private (not in front of others)
-- [ ] Regular (not just when problems)
+### Når spenninger oppstår
 
-**Feedback schedule:**
-- [ ] Brief check-in after each tournament
-- [ ] Deeper feedback session every _____ weeks
-- [ ] Annual team review
+**Trinn 1: Avkjøl**
+- Ikke ta opp konflikt under/rett etter kampen
+- Vent minst 24 timer hvis følelsene er høye
 
----
+**Trinn 2: Direkte samtale**
+- Personen med problemet henvender seg direkte til den andre
+- Bruk «jeg»-setninger («Jeg følte ...», ikke «Du har alltid ...»)
+- Lytt uten å forsvare
 
-## 8. Fun & Connection
+**Trinn 3: Mekling (hvis nødvendig)**
+- Tredje teammedlem tilrettelegger
+- Hver person deler perspektiv
+- Finn løsningen sammen
 
-**We agree to:**
-- [ ] Celebrate wins together
-- [ ] Support each other in losses
-- [ ] Social activity every _____ months
-- [ ] Remember why we play: ________
+**Trinn 4: Teammøte (hvis uløst)**
+- Alle medlemmer til stede
+- Strukturert diskusjon
+- Enig om veien videre
 
----
-
-## Signatures
-
-By signing, we commit to this agreement and to revisiting it when needed.
-
-**Name:** ________ **Signature:** ________ **Date:** ________
-
-**Name:** ________ **Signature:** ________ **Date:** ________
-
-**Name:** ________ **Signature:** ________ **Date:** ________
+### Vi forplikter oss til:
+- [ ] Ta tak i problemene, ikke la dem gro
+- [ ] Anta gode intensjoner
+- [ ] Prioriter teamet fremfor egoet
+- [ ] Hold uenigheter private (ikke for andre)
 
 ---
 
-## Review Notes
+## 7. Tilbakemeldingskultur
 
-**Review date:** ________
+**Hvordan vi gir tilbakemelding:**
+- [ ] Spesifikk og handlingsrettet
+- [ ] Balanse mellom positivt og utviklende
+- [ ] Privat (ikke foran andre)
+- [ ] Regelmessig (ikke bare ved problemer)
 
-**What's working:**
-
-**What needs adjustment:**
-
-**Updated agreements:**
+**Tilbakemeldingsplan:**
+- [ ] Kort innsjekking etter hver turnering
+- [ ] Dypere tilbakemeldingsøkt hver _____ uke
+- [ ] Årlig teamgjennomgang
 
 ---
 
-## Related Resources
+## 8. Moro og samhold
 
-- [Team Dynamics Education](/no/education/team-dynamics/) — Build stronger team bonds
-- [Peer Feedback Template](/no/guides/templates/peer-feedback) — Structured feedback tools
-- [Training Session Guide](/no/guides/training-session/) — Practice together effectively
+**Vi samtykker i:**
+- [ ] Feir seire sammen
+- [ ] Støtt hverandre i tap
+- [ ] Sosial aktivitet hver _____ måned
+- [ ] Husk hvorfor vi spiller: ________
+
+---
+
+## Signaturer
+
+Ved å signere forplikter vi oss til denne avtalen og til å revurdere den ved behov.
+
+**Navn:** ________ **Signatur:** ________ **Dato:** ________
+
+**Navn:** ________ **Signatur:** ________ **Dato:** ________
+
+**Navn:** ________ **Signatur:** ________ **Dato:** ________
+
+---
+
+## Gjennomgangsnotater
+
+**Gjennomgangsdato:** ________
+
+**Hva fungerer:**
+
+**Hva som må justeres:**
+
+**Oppdaterte avtaler:**
+
+---
+
+## Relaterte ressurser
+
+- [Utdanning i teamdynamikk](/no/utdanning/teamdynamikk/) — Bygg sterkere teambånd
+- [Mal for tilbakemelding fra fagfeller](/no/guider/maler/fagfelletilbakemelding) — Verktøy for strukturert tilbakemelding
+- [Guide til treningsøkt](/no/guider/treningsøkt/) — Øv effektivt sammen
 

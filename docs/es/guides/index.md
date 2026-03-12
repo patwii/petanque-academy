@@ -3,19 +3,19 @@ title: Guides & Tools
 description: Practical guides for implementing mental training in your pétanque journey. From beginner workshops to advanced training camps.
 ---
 
-# Guides & Tools
+# Guías y herramientas
 
-Practical resources for players, coaches, and clubs to implement structured mental training programs.
+Recursos prácticos para jugadores, entrenadores y clubes para implementar programas de entrenamiento mental estructurados.
 
-## Choose Your Format
+## Elige tu formato
 
 ```mermaid
 graph LR
-    A[Your Level] --> B{Experience?}
-    B -->|New to Mental Training| C[Mental Journey]
-    B -->|Some Experience| D[Workshop]
-    B -->|Ready for Intensive| E[Training Camp]
-    B -->|Regular Training| F[Training Session]
+    A[Tu nivel] --> B{Experience?}
+    B -->|New to Mental Training| C[Viaje mental]
+    B -->|Some Experience| D[Taller]
+    B -->|Ready for Intensive| E[Campo de entrenamiento]
+    B -->|Regular Training| F[Sesión de entrenamiento]
     
     style C fill:#4CAF50,color:#fff
     style D fill:#2196F3,color:#fff
@@ -23,84 +23,84 @@ graph LR
     style F fill:#FF9800,color:#fff
 ```
 
-## Guide Formats
+## Formatos de guía
 
-### 🌱 [Mental Journey](/es/guides/mental-journey/)
-**For Beginners** — 2-3 hour introduction
+### 🌱 [Viaje Mental](/es/guias/viaje-mental/)
+**Para principiantes**: introducción de 2 a 3 horas
 
-Perfect for players new to mental training. A gentle introduction to the core concepts with practical exercises.
+Perfecto para jugadores que se inician en el entrenamiento mental. Una introducción sencilla a los conceptos básicos con ejercicios prácticos.
 
-- Duration: 2-3 hours
-- Group size: 4-12 players
-- Materials: Provided
-- [View Guide →](/es/guides/mental-journey/)
-
----
-
-### 🎯 [Workshop](/es/guides/workshop/)
-**For Intermediate** — 3-4 hour deep-dive
-
-Structured workshop format for clubs and teams wanting to explore mental training more seriously.
-
-- Duration: 3-4 hours
-- Group size: 6-8 players
-- Includes: Coordinator guide + downloadable materials
-- [View Guide →](/es/guides/workshop/)
+- Duración: 2-3 horas
+- Tamaño del grupo: 4-12 jugadores
+- Materiales: proporcionados
+- [Ver guía →](/es/guias/viaje-mental/)
 
 ---
 
-### 🏕️ [Training Camp](/es/guides/training-camp/)
-**For Committed Teams** — Weekend intensive
+### 🎯 [Taller](/es/guias/taller/)
+**Para nivel intermedio**: inmersión profunda de 3 a 4 horas
 
-Full weekend program mixing theory, practice, and competition. Ideal for teams preparing for important tournaments.
+Formato de taller estructurado para clubes y equipos que quieran explorar el entrenamiento mental más seriamente.
 
-- Duration: 2-3 days
-- Group size: 10-20 players
-- Includes: Full program + organizer materials
-- [View Guide →](/es/guides/training-camp/)
-
----
-
-### 🔄 [Training Session](/es/guides/training-session/)
-**For Regular Practice** — 2-4 hour structured sessions
-
-Framework for regular training sessions that incorporate mental skills alongside technical practice.
-
-- Duration: 2-4 hours
-- Group size: 4 players (one team)
-- Focus: Competition simulation with reflection
-- [View Guide →](/es/guides/training-session/)
+- Duración: 3-4 horas
+- Tamaño del grupo: 6-8 jugadores
+- Incluye: Guía del coordinador + materiales descargables
+- [Ver guía →](/es/guias/taller/)
 
 ---
 
-## Templates & Tools
+### 🏕️ [Campo de entrenamiento](/es/guias/campo-de-entrenamiento/)
+**Para equipos comprometidos** — Fin de semana intensivo
 
-Downloadable templates to support your development:
+Programa completo de fin de semana que combina teoría, práctica y competición. Ideal para equipos que se preparan para torneos importantes.
 
-### 📋 [Goal Template](/es/guides/templates/goal-template)
-Structured worksheet for setting and tracking your pétanque goals using the SMART framework.
-
-### 📓 [Diary Template](/es/guides/templates/diary-template)
-Training and competition diary template for tracking progress, insights, and areas for improvement.
+- Duración: 2-3 días
+- Tamaño del grupo: 10-20 jugadores
+- Incluye: Programa completo + materiales organizadores
+- [Ver guía →](/es/guias/campo-de-entrenamiento/)
 
 ---
 
-## Which Format Is Right for You?
+### 🔄 [Sesión de formación](/es/guias/sesion-de-formacion/)
+**Para práctica regular**: sesiones estructuradas de 2 a 4 horas
 
-| Format | Best For | Time Commitment | Depth |
+Marco para sesiones de entrenamiento regulares que incorporan habilidades mentales junto con la práctica técnica.
+
+- Duración: 2-4 horas
+- Tamaño del grupo: 4 jugadores (un equipo)
+- Enfoque: Simulación de competición con reflexión
+- [Ver guía →](/es/guias/sesion-de-entrenamiento/)
+
+---
+
+## Plantillas y herramientas
+
+Plantillas descargables para apoyar tu desarrollo:
+
+### 📋 [Plantilla de objetivo](/es/guias/plantillas/plantilla-de-objetivo)
+Hoja de trabajo estructurada para establecer y realizar un seguimiento de sus objetivos de petanca utilizando el marco SMART.
+
+### 📓 [Plantilla de diario](/es/guias/plantillas/plantilla-de-diario)
+Plantilla de diario de entrenamiento y competición para realizar un seguimiento del progreso, los conocimientos y las áreas de mejora.
+
+---
+
+## ¿Qué formato es adecuado para usted?
+
+| Formato | Mejor para | Compromiso de tiempo | Profundidad |
 |--------|----------|-----------------|-------|
-| **Mental Journey** | First introduction | 2-3 hours | ⭐ |
-| **Workshop** | Club training days | 3-4 hours | ⭐⭐ |
-| **Training Camp** | Team preparation | Weekend | ⭐⭐⭐ |
-| **Training Session** | Ongoing development | Regular 2-4h | ⭐⭐ |
+| **Viaje mental** | Primera introducción | 2-3 horas | ⭐ |
+| **Taller** | Días de entrenamiento del club | 3-4 horas | ⭐⭐ |
+| **Campo de entrenamiento** | Preparación del equipo | Fin de semana | ⭐⭐⭐ |
+| **Sesión de entrenamiento** | Desarrollo continuo | Regular 2-4h | ⭐⭐ |
 
-::: tip For Coaches & Club Leaders
-Each guide includes materials for both participants AND facilitators/organizers. Look for the "For Coordinators" sections with downloadable PDFs and presentation slides.
+::: tip Para entrenadores y líderes de clubes
+Cada guía incluye materiales tanto para participantes como para facilitadores/organizadores. Busque la sección &quot;Para Coordinadores&quot; con archivos PDF descargables y diapositivas de presentación.
 :::
 
-## Related Resources
+## Recursos relacionados
 
-- [🎯 Assessment](/es/assessment/) — Evaluate your 8 factors and find priorities
-- [📚 Education Hub](/es/education/) — Deep-dive into the 8 performance factors
-- [📝 Articles](/es/articles/) — Research and insights
+- [🎯 Evaluación](/es/evaluación/) — Evalúa tus 8 factores y encuentra prioridades
+- [📚 Centro Educativo](/es/educacion/) — Profundice en los 8 factores de rendimiento
+- [📝 Artículos](/es/articulos/) — Investigación y perspectivas
 

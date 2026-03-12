@@ -3,127 +3,127 @@ title: Psychology of Motivation
 description: Understand intrinsic vs extrinsic motivation and Self-Determination Theory to fuel sustainable drive.
 ---
 
-# Psychology of Motivation
+# Psicología de la motivación
 
-Understanding WHY you're motivated—not just that you are—helps you build sustainable drive that doesn't depend on results.
+Entender POR QUÉ estás motivado (no sólo que lo estás) te ayuda a desarrollar un impulso sustentable que no depende de los resultados.
 
 ---
 
-## Intrinsic vs. Extrinsic Motivation
+## Motivación intrínseca vs. motivación extrínseca
 
-### Extrinsic Motivation
+### Motivación extrínseca
 
-Motivation driven by external rewards or pressures:
+Motivación impulsada por recompensas o presiones externas:
 
-| Source | Example |
+| Fuente | Ejemplo |
 |--------|---------|
-| **Trophies/medals** | "I want to win the championship" |
-| **Rankings** | "I want to be top 10 in my region" |
-| **Recognition** | "I want others to see me as a good player" |
-| **Avoid criticism** | "I don't want to disappoint my team" |
-| **Financial** | "I want to win prize money" |
+| **Trofeos/medallas** | &quot;Quiero ganar el campeonato&quot; |
+| **Clasificaciones** | &quot;Quiero estar entre los 10 mejores de mi región&quot; |
+| **Reconocimiento** | &quot;Quiero que los demás me vean como un buen jugador&quot; |
+| **Evitar las críticas** | &quot;No quiero decepcionar a mi equipo&quot; |
+| **Financiero** | &quot;Quiero ganar un premio en dinero&quot; |
 
-**Characteristics:**
-- Can provide strong initial motivation
-- Often diminishes over time
-- Dependent on factors outside your control
-- Can undermine enjoyment
+**Características:**
+- Puede proporcionar una fuerte motivación inicial
+- A menudo disminuye con el tiempo.
+- Depende de factores fuera de su control
+- Puede socavar el disfrute
 
-### Intrinsic Motivation
+### Motivación intrínseca
 
-Motivation from the activity itself:
+Motivación desde la propia actividad:
 
-| Source | Example |
+| Fuente | Ejemplo |
 |--------|---------|
-| **Mastery** | "I love the feeling of improving" |
-| **Flow** | "Time disappears when I'm playing" |
-| **Challenge** | "I enjoy testing myself against problems" |
-| **Expression** | "Pétanque allows me to express who I am" |
-| **Joy** | "I simply love playing this game" |
+| **Maestría** | &quot;Me encanta la sensación de mejorar&quot; |
+| **Fluir** | &quot;El tiempo desaparece cuando estoy jugando&quot; |
+| **Desafío** | &quot;Disfruto poniéndome a prueba ante los problemas&quot; |
+| **Expresión** | &quot;La petanca me permite expresar quién soy&quot; |
+| **Alegría** | &quot;Simplemente me encanta jugar a este juego&quot; |
 
-**Characteristics:**
-- More sustainable over time
-- Independent of results
-- Connected to deeper satisfaction
-- Enhances performance naturally
+**Características:**
+- Más sostenible en el tiempo
+- Independiente de los resultados
+- Conectado a una satisfacción más profunda
+- Mejora el rendimiento de forma natural
 
-::: tip The Research
-Studies consistently show that **intrinsic motivation leads to better performance, more persistence, and greater well-being** than extrinsic motivation alone.
+::: tip La investigación
+Los estudios muestran consistentemente que la **motivación intrínseca conduce a un mejor desempeño, más persistencia y mayor bienestar** que la motivación extrínseca sola.
 :::
 
 ---
 
-## Self-Determination Theory (SDT)
+## Teoría de la autodeterminación (SDT)
 
-Developed by Deci & Ryan, SDT identifies three fundamental psychological needs that drive intrinsic motivation:
+Desarrollada por Deci y Ryan, la SDT identifica tres necesidades psicológicas fundamentales que impulsan la motivación intrínseca:
 
-### 1. Autonomy
+### 1. Autonomía
 
-**The need to feel in control of your choices**
+**La necesidad de sentirte en control de tus decisiones**
 
-| Supports Autonomy | Undermines Autonomy |
+| Apoya la autonomía | Socava la autonomía |
 |-------------------|---------------------|
-| Choosing your training focus | Being told exactly what to do |
-| Setting your own goals | External pressure to perform |
-| Deciding how to practice | Forced participation |
-| Having input on team decisions | Controlling coaches/teammates |
+| Elegir el enfoque de tu entrenamiento | Que te digan exactamente qué hacer |
+| Establecer tus propios objetivos | Presión externa para actuar |
+| Decidir cómo practicar | Participación forzada |
+| Participar en las decisiones del equipo | Controlar a los entrenadores/compañeros de equipo |
 
-**For pétanque:**
-- Choose what aspects to work on
-- Set your own development path
-- Make tactical decisions yourself
-- Own your training schedule
+**Para la petanca:**
+- Elige en qué aspectos trabajar
+- Establece tu propio camino de desarrollo
+- Tome decisiones tácticas usted mismo
+- Sea dueño de su programa de entrenamiento
 
-### 2. Competence
+### 2. Competencia
 
-**The need to feel effective and capable**
+**La necesidad de sentirse eficaz y capaz**
 
-| Supports Competence | Undermines Competence |
+| Apoya la competencia | Socava la competencia |
 |---------------------|----------------------|
-| Appropriate challenges | Tasks too easy or too hard |
-| Clear feedback on progress | No feedback or only negative |
-| Visible improvement | Stagnation without explanation |
-| Skill-appropriate competition | Constant over-matching |
+| Desafíos apropiados | Tareas demasiado fáciles o demasiado difíciles |
+| Comentarios claros sobre el progreso | No hay comentarios o solo negativos |
+| Mejora visible | Estancamiento sin explicación |
+| Competición apropiada para las habilidades | Sobreajuste constante |
 
-**For pétanque:**
-- Track your improvement metrics
-- Seek appropriate competition levels
-- Celebrate small wins
-- Get specific feedback (not just results)
+**Para la petanca:**
+- Realice un seguimiento de sus métricas de mejora
+- Buscar niveles de competencia adecuados
+- Celebra los pequeños triunfos
+- Obtenga comentarios específicos (no solo resultados)
 
-### 3. Relatedness
+### 3. Relación
 
-**The need for connection with others**
+**La necesidad de conexión con los demás**
 
-| Supports Relatedness | Undermines Relatedness |
+| Apoya la relación | Socava la relación |
 |----------------------|------------------------|
-| Positive team relationships | Isolation |
-| Shared goals with teammates | Purely individual focus |
-| Community belonging | Exclusion or conflict |
-| Mentorship (giving/receiving) | Competitive-only relationships |
+| Relaciones de equipo positivas | Aislamiento |
+| Objetivos compartidos con compañeros de equipo | Enfoque puramente individual |
+| Pertenencia a la comunidad | Exclusión o conflicto |
+| Mentoría (dar/recibir) | Relaciones exclusivamente competitivas |
 
-**For pétanque:**
-- Build genuine team connections
-- Find training partners
-- Join club community activities
-- Share knowledge with others
+**Para la petanca:**
+- Construir conexiones de equipo genuinas
+- Encuentra compañeros de entrenamiento
+- Únase a las actividades comunitarias del club
+- Compartir conocimientos con otros
 
 ---
 
-## The SDT Formula
+## La fórmula SDT
 
 ```
 Autonomy + Competence + Relatedness = Intrinsic Motivation
 ```
 
-When all three needs are met, intrinsic motivation flourishes naturally.
+Cuando se satisfacen las tres necesidades, la motivación intrínseca florece naturalmente.
 
 ```mermaid
 graph TD
-    A[Autonomy<br/>Choice & Control] --> D[Intrinsic<br/>Motivation]
-    B[Competence<br/>Mastery & Growth] --> D
-    C[Relatedness<br/>Connection & Belonging] --> D
-    D --> E[Sustainable<br/>Performance]
+    A[Autonomía <br/> Elección y control] --> D[Intrínseco <br/> Motivación]
+    B[Competencia <br/> Maestría y crecimiento] --> D
+    C[Relación <br/> Conexión y pertenencia] --> D
+    D --> E[Sostenible <br/> Actuación]
     
     style D fill:#4CAF50,color:#fff
     style E fill:#2196F3,color:#fff
@@ -131,82 +131,82 @@ graph TD
 
 ---
 
-## Motivation Types Spectrum
+## Espectro de tipos de motivación
 
-SDT describes motivation on a spectrum from external to internal:
+La SDT describe la motivación en un espectro que va desde lo externo a lo interno:
 
-| Type | Description | Example | Quality |
+| Tipo | Descripción | Ejemplo | Calidad |
 |------|-------------|---------|---------|
-| **Amotivation** | No motivation | "Why bother?" | ❌ |
-| **External** | For rewards/avoid punishment | "I'll get a trophy" | ⭐ |
-| **Introjected** | Internal pressure, guilt | "I should practice" | ⭐⭐ |
-| **Identified** | Valued outcome | "This helps me improve" | ⭐⭐⭐ |
-| **Integrated** | Aligned with values | "This is who I am" | ⭐⭐⭐⭐ |
-| **Intrinsic** | Pure enjoyment | "I love this" | ⭐⭐⭐⭐⭐ |
+| **Desmotivación** | Sin motivación | &quot;¿Por qué molestarse?&quot; | ❌ |
+| **Externo** | Para recompensas/evitar castigos | &quot;Conseguiré un trofeo&quot; | ⭐ |
+| **Introyectado** | Presión interna, culpa | &quot;Debería practicar&quot; | ⭐⭐ |
+| **Identificado** | Resultado valioso | &quot;Esto me ayuda a mejorar&quot; | ⭐⭐⭐ |
+| **Integrado** | Alineado con los valores | &quot;Esto es lo que soy&quot; | ⭐⭐⭐⭐ |
+| **Intrínseco** | Puro disfrute | &quot;Me encanta esto&quot; | ⭐⭐⭐⭐⭐ |
 
-**Goal:** Move your motivation toward the intrinsic end of the spectrum.
+**Objetivo:** Mover tu motivación hacia el extremo intrínseco del espectro.
 
 ---
 
-## Self-Assessment: Your Motivation Profile
+## Autoevaluación: Tu perfil de motivación
 
-Rate each statement (1 = Not at all, 5 = Completely):
+Califica cada afirmación (1 = En absoluto, 5 = Completamente):
 
-**Extrinsic Indicators:**
-| Statement | Score |
+**Indicadores extrínsecos:**
+| Declaración | Puntaje |
 |-----------|-------|
-| I mainly play to win tournaments | /5 |
-| Recognition from others matters a lot to me | /5 |
-| I'd lose interest without competitive success | /5 |
-| **Extrinsic Total** | /15 |
+| Juego principalmente para ganar torneos. | /5 |
+| El reconocimiento de los demás me importa mucho. | /5 |
+| Perdería el interés sin éxito competitivo. | /5 |
+| **Total extrínseco** | /15 |
 
-**Intrinsic Indicators:**
-| Statement | Score |
+**Indicadores intrínsecos:**
+| Declaración | Puntaje |
 |-----------|-------|
-| I'd play even if there were no competitions | /5 |
-| The feeling of improvement excites me | /5 |
-| I lose track of time when playing | /5 |
-| **Intrinsic Total** | /15 |
+| Jugaría incluso si no hubiera competiciones. | /5 |
+| La sensación de mejora me emociona. | /5 |
+| Pierdo la noción del tiempo cuando juego | /5 |
+| **Total intrínseco** | /15 |
 
-**Interpretation:**
-- Higher intrinsic total = more sustainable motivation
-- Balance is fine, but ensure intrinsic ≥ extrinsic
-- If extrinsic >> intrinsic, reconnect with your love of the game
-
----
-
-## Shifting Toward Intrinsic Motivation
-
-### Reconnect with Joy
-
-- **Remember why you started** — What attracted you initially?
-- **Play without stakes** — Occasional "just for fun" sessions
-- **Appreciate moments** — Notice when you're enjoying the game
-
-### Focus on Mastery
-
-- **Set learning goals** not just outcome goals
-- **Celebrate improvement** regardless of results
-- **Embrace challenges** as growth opportunities
-
-### Build Autonomy
-
-- **Make your own choices** about training
-- **Own your development** path
-- **Resist external pressure** to train certain ways
-
-### Cultivate Connection
-
-- **Invest in relationships** beyond competition
-- **Share knowledge** with developing players
-- **Find your community** within the sport
+**Interpretación:**
+- Total intrínseco más alto = motivación más sostenible
+- El equilibrio está bien, pero asegúrese de que lo intrínseco ≥ lo extrínseco
+- Si lo extrínseco &gt;&gt; intrínseco, reconecta con tu amor por el juego.
 
 ---
 
-## Related Content
+## Hacia la motivación intrínseca
 
-- [Goal Setting](/es/education/motivation/) — Setting effective goals
-- [Maintaining Motivation](/es/education/motivation/maintaining) — Long-term sustainability
-- [The Zone](/es/education/mental-game/the-zone/) — Intrinsic motivation and flow
-- [Team Dynamics](/es/education/team-dynamics/) — Relatedness in team context
+### Reconectar con la alegría
+
+- **Recuerda por qué empezaste**: ¿Qué te atrajo inicialmente?
+- **Juega sin apuestas** — Sesiones ocasionales &quot;solo por diversión&quot;
+- **Aprecia los momentos**: observa cuándo estás disfrutando del juego
+
+### Concéntrese en la maestría
+
+- **Establecer objetivos de aprendizaje**, no solo objetivos de resultados
+- **Celebre la mejora** independientemente de los resultados
+- **Acepte los desafíos** como oportunidades de crecimiento
+
+### Construir autonomía
+
+- **Toma tus propias decisiones** sobre el entrenamiento
+- **Sea dueño de su camino de desarrollo**
+- **Resistir la presión externa** para entrenar de ciertas maneras
+
+### Cultivar la conexión
+
+- **Invierte en relaciones** más allá de la competencia
+- **Compartir conocimientos** con jugadores en desarrollo
+- **Encuentra tu comunidad** dentro del deporte
+
+---
+
+## Contenido relacionado
+
+- [Establecimiento de objetivos](/es/educación/motivación/) — Establecer objetivos efectivos
+- [Mantener la motivación](/es/educacion/motivacion/mantener) — Sostenibilidad a largo plazo
+- [La Zona](/es/educacion/juego-mental/la-zona/) — Motivación intrínseca y fluidez
+- Dinámica de equipo: Relación en el contexto del equipo
 

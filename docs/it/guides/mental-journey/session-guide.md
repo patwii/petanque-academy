@@ -16,7 +16,7 @@ Questa guida ti aiuterà a condurre una sessione introduttiva di 2-3 ore sull&#3
 |---------|---------|--------|
 | **Per i partecipanti** | Cosa aspettarsi dalla sessione | [Visualizza sezione](#for-participants) |
 | **Per i facilitatori** | Piano completo della sessione e tempistica | [Visualizza sezione](#for-facilitators) |
-| **Materiali della sessione** | Guide, diapositive e fogli di lavoro | [Visualizza materiali](/it/guides/mental-journey/materials) |
+| **Materiali della sessione** | Guide, diapositive e fogli di lavoro | [Visualizza materiali](/it/guide/viaggio-mentale/materiali) |
 | **Lista di controllo per la preparazione** | Cosa preparare prima della sessione | [Visualizza la lista di controllo](#preparazione-1-settimana-prima) |
 
 ---
@@ -109,7 +109,7 @@ Riceverai:
 **1 settimana prima:**
 - [ ] Prenota la stanza per 2-3 ore
 - [ ] Invita 6-12 partecipanti
-- [ ] Aggiungi ai preferiti le pagine dei materiali (vedi [Materiali](/it/guides/mental-journey/materials))
+- [ ] Aggiungi ai preferiti le pagine dei materiali (vedi [Materiali](/it/guide/mental-journey/materials))
 - [ ] Leggi attentamente questa guida
 - [ ] Preparare una lavagna a fogli mobili o una lavagna bianca
 
@@ -360,7 +360,7 @@ Condividi esempi.
 **Risorse:**
 - Distribuire il foglio riassuntivo
 - Condividi il sito web: carreau.app
-- Modulo di partenza consigliato: [The Zone](/it/education/mental-game/the-zone/)
+- Modulo di partenza consigliato: [La Zona](/it/educazione/gioco-mentale/la-zona/)
 
 **Cerchio di chiusura:**
 &quot;Una parola per descrivere come ti senti in questo momento.&quot;
@@ -419,10 +419,10 @@ Condividi esempi.
 
 ## Materiali
 
-- [Guida per i partecipanti](/it/guides/mental-journey/materials#participant-guide)
-- [Diapositive per il facilitatore](/it/guides/mental-journey/materials#facilitator-slides)
-- [Scheda riassuntiva](/it/guides/mental-journey/materials#summary-sheet)
-- [Schede di esercizi](/it/guides/mental-journey/materials#exercise-worksheets)
+- [Guida per i partecipanti](/it/guide/mental-journey/materials#participant-guide)
+- [Diapositive per il facilitatore](/it/guide/mental-journey/materials#facilitator-slides)
+- [Scheda riassuntiva](/it/guide/viaggio-mentale/materiali#scheda-riassuntiva)
+- [Schede di esercizi](/it/guide/mental-journey/materials#exercise-worksheets)
 
 ---
 

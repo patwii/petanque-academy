@@ -17,9 +17,9 @@ Oavsett om du är en spelare som vill förbättra ditt mentala spel eller en tr�
 | Resurs | Ändamål | Tillträde |
 |----------|---------|--------|
 | **Komma igång** | Introduktion till mentala spelkoncept | [Läs nedan](#varför-mental-träning-är-viktigt) |
-| **Sessionsguide** | Komplett 2-3 timmars workshopguide för handledare | [Visa guide](/sv/guides/mental-journey/sessionsguide) |
-| **Material** | Deltagarguider, bilder och arbetsblad | [Visa material](/sv/guides/mental-journey/material) |
-| **Relaterade guider** | Avancerade format | [Workshop](/sv/guides/workshop/) • [Träningsläger](/sv/guides/training-camp/) |
+| **Sessionsguide** | Komplett 2-3 timmars workshopguide för handledare | [Visa guide](/sv/guider/mental-resa/sessionsguide) |
+| **Material** | Deltagarguider, bilder och arbetsblad | [Visa material](/sv/guider/mental-resa/material) |
+| **Relaterade guider** | Avancerade format | [Workshop](/sv/guider/workshop/) • [Träningsläger](/sv/guider/träningsläger/) |
 
 ## Varför mental träning är viktig
 
@@ -77,30 +77,30 @@ graph TD
 ### Alternativ 1: Självstudier (för spelare)
 
 **Vecka 1: Förstå grunderna**
-1. Läs modulen [Zonen](/sv/education/mental-game/the-zone/)
+1. Läs modulen [Zonen](/sv/utbildning/mentalt-spel/zonen/)
 2. Prova 3-andetagsåterställningstekniken
 3. Lägg märke till när du är i &quot;tekniskt läge&quot; kontra &quot;flödesläge&quot;
 
 **Vecka 2: Bygga medvetenhet**
-1. Läs modulen [Mental styrka](/sv/education/mental-game/mental-strength/)
+1. Läs modulen [Mental styrka](/sv/utbildning/mentalt-spel/mental-styrka/)
 2. Identifiera dina inre kritikmönster
 3. Öva neutral observation efter misstag
 
 **Vecka 3: Skapa struktur**
-1. Läs modulen [Mindfulness](/sv/education/mental-game/mindfulness/)
+1. Läs modulen [Mindfulness](/sv/utbildning/mentalt-spel/mindfulness/)
 2. Börja med 5-minuters daglig träning
 3. Utveckla en enkel rutin före skotttagning
 
 **Vecka 4: Integration**
 1. Använd din rutin i praktiken
-2. Följ mental prestation i [Dagboksmall](/sv/guides/templates/diary-template)
-3. Sätt mentala spelmål med hjälp av [Målmall](/sv/guides/templates/goal-template)
+2. Följ mental prestation i [Dagboksmall](/sv/guider/mallar/dagboksmall)
+3. Sätt mentala spelmål med hjälp av [Målmall](/sv/guider/mallar/målmall)
 
 ### Alternativ 2: Gruppworkshop (för coacher)
 
 **Genomför en 2–3 timmars session:**
 
-Använd vår omfattande [Sessionsguide](/sv/guides/mental-journey/sessionsguide) som inkluderar:
+Använd vår omfattande [Sessionsguide](/sv/guider/mental-journey/sessionsguide) som inkluderar:
 - Komplett sessionsstruktur
 - Diskussionsuppmaningar
 - Gruppövningar
@@ -165,21 +165,21 @@ Mental träning ersätter inte teknisk övning. Men den hjälper dig att konsekv
 ## Tillgängliga resurser
 
 ### För spelare
-- [Utbildningsmoduler](/sv/education/) - 8 omfattande guider
-- [Målmall](/sv/guides/templates/goal-template) - Strukturera din utveckling
-- [Dagboksmall](/sv/guides/templates/diary-template) - Följ dina framsteg
-- [Fallstudier](/sv/articles/) - Verkliga exempel
+- [Utbildningsmoduler](/sv/utbildning/) - 8 omfattande guider
+- [Målmall](/sv/guider/mallar/målmall) - Strukturera din utveckling
+- [Dagboksmall](/sv/guider/mallar/dagboksmall) - Följ dina framsteg
+- [Fallstudier](/sv/artiklar/fallstudier) - Verkliga exempel
 
 ### För tränare/guider
-- [Sessionsguide](/sv/guides/mental-journey/sessionsguide) - Komplett 2-3 timmars workshop
-- [Handledarematerial](/sv/guides/mental-journey/material) - Digitala guider och bilder
-- [Workshopguide](/sv/guides/workshop/) - Avancerat 3-4 timmars format
-- [Träningslägerguide](/sv/guides/training-camp/) - Helgprogram
+- [Sessionsguide](/sv/guider/mental-resa/sessionsguide) - Komplett 2-3 timmars workshop
+- [Handledarens material](/sv/guider/mental-resa/material) - Digitala guider och bilder
+- [Workshopguide](/sv/guider/workshop/) - Avancerat 3-4 timmars format
+- [Träningslägerguide](/sv/guider/träningsläger/) - Helgprogram
 
 ## Nästa steg
 
 ### För individuella spelare
-1. **Börja med medvetenhet** - Läs [Zonen](/sv/education/mental-game/the-zone/)
+1. **Börja med medvetenhet** - Läs [Zonen](/sv/utbildning/mentalt-spel/zonen/)
 2. **Prova en teknik** - Använd 3-andetagsåterställningen den här veckan
 3. **Spåra din upplevelse** - Lägg märke till vilka förändringar
 4. **Bygg gradvis** - Lägg till en ny färdighet per vecka
@@ -195,17 +195,17 @@ Mental träning ersätter inte teknisk övning. Men den hjälper dig att konsekv
 
 **Frågor om att komma igång?**
 - E-post: [patrik.wiik@gmail.com](mailto:patrik.wiik@gmail.com)
-- Granska [Fallstudier](/sv/articles/) för exempel
+- Granska [Fallstudier](/sv/artiklar/fallstudier) för exempel
 - Delta i diskussionerna i din klubb
 
 
 ---
 
 ::: tip Redo att börja?
-**Spelare:** Börja med modulen [Zonen](/sv/education/mental-game/the-zone/)
+**Spelare:** Börja med modulen [Zonen](/sv/utbildning/mentalt-spel/zonen/)
 
-**Coacher:** Gå till [Sessionsguide](/sv/guides/mental-journey/sessionsguide)
+**Coacher:** Gå till [Sessionsguide](/sv/guider/mental-journey/sessionsguide)
 
-**Ladda ner material:** Besök [Handledarens material](/sv/guides/mental-journey/materials)
+**Ladda ner material:** Besök [Handledarens material](/sv/guider/mental-resa/material)
 :::
 

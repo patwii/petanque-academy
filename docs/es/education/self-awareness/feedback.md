@@ -3,225 +3,225 @@ title: Getting and Using Feedback
 description: Learn to seek, receive, and integrate objective feedback to accelerate your pétanque improvement.
 ---
 
-# Getting and Using Feedback
+# Obtener y utilizar retroalimentación
 
-Feedback is one of the most powerful tools for development—and one of the most underused. This page teaches you how to actively seek feedback, receive it constructively, and turn it into actionable improvement.
+La retroalimentación es una de las herramientas más poderosas para el desarrollo, y una de las menos utilizadas. Esta página te enseña a buscar retroalimentación activamente, recibirla de forma constructiva y convertirla en mejoras prácticas.
 
 ---
 
-## Why We Resist Feedback
+## Por qué nos resistimos a la retroalimentación
 
-Before learning to seek feedback, understand why it's hard:
+Antes de aprender a buscar retroalimentación, comprenda por qué es difícil:
 
-### Ego Protection
+### Protección del ego
 
-Your brain treats criticism of your performance as a threat to your identity. This triggers defensive responses:
-- Dismissing the feedback
-- Finding reasons why the person is wrong
-- Avoiding similar situations in the future
+Tu cerebro interpreta las críticas a tu desempeño como una amenaza a tu identidad. Esto desencadena respuestas defensivas:
+- Descartando la retroalimentación
+- Encontrar razones por las cuales la persona está equivocada
+- Evitar situaciones similares en el futuro
 
-### Confirmation Bias
+### Sesgo de confirmación
 
-We naturally seek information that confirms what we already believe. If you think you're a good pointer, you'll notice your successful points and explain away the misses.
+Naturalmente, buscamos información que confirme lo que ya creemos. Si crees que eres un buen asesor, notarás tus aciertos y justificarás tus errores.
 
-### The Growth Mindset Shift
+### El cambio de mentalidad de crecimiento
 
-::: tip Reframe Feedback
-**Fixed mindset:** "Criticism means I'm flawed"
-**Growth mindset:** "Feedback is information that helps me improve"
+::: tip Reformular la retroalimentación
+**Mentalidad fija:** &quot;La crítica significa que tengo defectos&quot;
+Mentalidad de crecimiento: «La retroalimentación es información que me ayuda a mejorar».
 
-The difference isn't positivity—it's accuracy. Feedback is data, not judgment.
+La diferencia no es la positividad, sino la precisión. La retroalimentación se basa en datos, no en juicios.
 :::
 
 ---
 
-## Sources of Objective Feedback
+## Fuentes de retroalimentación objetiva
 
-### 1. Quantitative Data
+### 1. Datos cuantitativos
 
-Numbers don't lie or soften the truth:
+Los números no mienten ni suavizan la verdad:
 
-| Metric | What It Reveals |
+| Métrico | Lo que revela |
 |--------|-----------------|
-| **Pointing accuracy %** | Technical baseline and trends |
-| **First vs. late game accuracy** | Fatigue/pressure effects |
-| **Shooting success rate** | By distance, target type, match situation |
-| **Carreau percentage** | Risk-taking effectiveness |
+| **Precisión de apuntado %** | Línea base técnica y tendencias |
+| **Precisión en el primer y último juego** | Efectos de la fatiga/presión |
+| **Tasa de éxito de disparo** | Por distancia, tipo de objetivo, situación del partido |
+| **Porcentaje de Carreau** | Eficacia en la toma de riesgos |
 
-### 2. Teammates
+### 2. Compañeros de equipo
 
-Your teammates see you in competition—when your self-perception is least accurate:
+Tus compañeros de equipo te ven en competencia, cuando tu autopercepción es menos precisa:
 
-**What to ask:**
-- "How do I seem to you when we're behind?"
-- "What do you notice about my approach in close games?"
-- "What's one thing I could do to be a better teammate?"
+**Qué preguntar:**
+- &quot;¿Cómo me ves cuando vamos perdiendo?&quot;
+- &quot;¿Qué observas sobre mi enfoque en los juegos cerrados?&quot;
+- &quot;¿Qué cosa podría hacer para ser un mejor compañero de equipo?&quot;
 
-### 3. Opponents
+### 3. Oponentes
 
-Post-match conversations with trusted opponents can be revealing:
+Las conversaciones posteriores al partido con oponentes de confianza pueden ser reveladoras:
 
-**What to ask:**
-- "What were you trying to exploit in my game?"
-- "Was there anything that surprised you about how I played?"
+**Qué preguntar:**
+- &quot;¿Qué intentabas explotar en mi juego?&quot;
+- &quot;¿Hubo algo que te sorprendió sobre cómo jugué?&quot;
 
-### 4. Coaches/Experienced Players
+### 4. Entrenadores/Jugadores experimentados
 
-External expertise provides perspective you can't generate yourself:
+La experiencia externa proporciona una perspectiva que usted no puede generar por sí mismo:
 
-**What to ask:**
-- "What's the biggest gap between my potential and my current performance?"
-- "What pattern do you see in my misses?"
-- "What would you prioritize if you were coaching me?"
+**Qué preguntar:**
+- &quot;¿Cuál es la mayor brecha entre mi potencial y mi rendimiento actual?&quot;
+- &quot;¿Qué patrón ves en mis errores?&quot;
+- &quot;¿Qué priorizarías si me estuvieras entrenando?&quot;
 
-### 5. Video Analysis
+### 5. Análisis de vídeo
 
-The most objective mirror available. See [Video Analysis](/es/education/self-awareness/video) for detailed protocols.
+El espejo más objetivo disponible. Consulte [Análisis de video](/es/educación/autoconciencia/video) para obtener protocolos detallados.
 
 ---
 
-## How to Ask for Feedback Effectively
+## Cómo pedir retroalimentación de manera eficaz
 
-### The SEEK Framework
+### El marco SEEK
 
-**S - Specific**
-Don't ask: "How did I play?"
-Ask: "How did my pointing accuracy look in the third end when we were behind?"
+**S - Específico**
+No preguntes: &quot;¿Cómo jugué?&quot;
+Pregunte: &quot;¿Cómo se vio mi precisión al apuntar en el tercer final cuando estábamos atrás?&quot;
 
-**E - Examples**
-Ask: "Can you give me a specific example?"
-This forces concrete feedback instead of generalizations.
+**E - Ejemplos**
+Pregunte: &quot;¿Puede darme un ejemplo específico?&quot;
+Esto obliga a proporcionar una retroalimentación concreta en lugar de generalizaciones.
 
-**E - Exploratory**
-Approach with curiosity, not defense.
-"I'm trying to understand my blind spots. What might I be missing?"
+**E - Exploratorio**
+Acérquese con curiosidad, no con defensa.
+Estoy intentando comprender mis puntos ciegos. ¿Qué podría estar pasando por alto?
 
-**K - Kind (to yourself)**
-Remember: Seeking feedback is brave. You're doing hard work.
+**K - Amable (contigo mismo)**
+Recuerda: pedir retroalimentación es un acto de valentía. Estás trabajando duro.
 
-### Timing Matters
+### El tiempo importa
 
-| When | Best For | Avoid |
+| Cuando | Mejor para | Evitar |
 |------|----------|-------|
-| **Immediately after** | Specific technical observations | Emotional processing |
-| **Next day** | Balanced perspective, patterns | If details have faded |
-| **Video review** | Objective analysis | If it delays action too long |
+| **Inmediatamente después** | Observaciones técnicas específicas | Procesamiento emocional |
+| **Al día siguiente** | Perspectiva equilibrada, patrones | Si los detalles se han desvanecido |
+| **Reseña en vídeo** | Análisis objetivo | Si retrasa demasiado la acción |
 
 ---
 
-## Receiving Feedback Without Defensiveness
+## Recibir retroalimentación sin ponerse a la defensiva
 
-When feedback arrives, your brain will want to defend. Here's how to override that:
+Cuando recibas retroalimentación, tu cerebro querrá defenderse. Aquí te explicamos cómo contrarrestarla:
 
-### The 3-Second Rule
+### La regla de los 3 segundos
 
-When you receive feedback, **wait 3 seconds before responding**. This gives your rational brain time to engage before your emotional brain reacts.
+Cuando recibas retroalimentación, **espera 3 segundos antes de responder**. Esto le da tiempo a tu cerebro racional para reaccionar antes de que tu cerebro emocional reaccione.
 
-### The "Tell Me More" Technique
+### La técnica &quot;Cuéntame más&quot;
 
-Instead of defending, say: "Tell me more about that."
+En lugar de defenderte, di: &quot;Cuéntame más sobre eso&quot;.
 
-This:
-- Buys processing time
-- Shows you value the input
-- Often reveals the root insight
+Este:
+- Compra tiempo de procesamiento
+- Demuestra que valoras la entrada
+- A menudo revela la visión fundamental
 
-### Separate Reception from Evaluation
+### Recepción separada de la evaluación
 
-**Step 1:** Receive (just listen)
-**Step 2:** Clarify (make sure you understand)
-**Step 3:** Thank (acknowledge the gift)
-**Step 4:** Evaluate (later, privately decide what to act on)
+**Paso 1:** Recibir (sólo escuchar)
+**Paso 2:** Aclarar (asegurarse de entender)
+**Paso 3:** Agradecer (reconocer el regalo)
+**Paso 4:** Evaluar (luego, decidir en privado qué hacer)
 
-You don't have to agree with feedback immediately. You just have to receive it with openness.
-
----
-
-## The Feedback Response Protocol
-
-Use this when receiving feedback:
-
-1. **"Thank you for telling me that."**
-   - Genuine appreciation, even if the feedback stings
-
-2. **"Can you give me a specific example?"**
-   - Moves from general to actionable
-
-3. **"What would you suggest I try?"**
-   - Invites partnership in improvement
-
-4. **"I'm going to think about that."**
-   - Honest commitment without immediate agreement
+No tienes que aceptar la retroalimentación de inmediato. Simplemente recíbela con apertura.
 
 ---
 
-## Turning Feedback into Action
+## El Protocolo de Respuesta a la Retroalimentación
 
-Feedback without action is just uncomfortable conversation.
+Utilice esto cuando reciba comentarios:
 
-### The Feedback-to-Action Process
+1. &quot;Gracias por decirme eso.&quot;
+   - Aprecio genuino, incluso si la retroalimentación duele
+
+2. **¿Puedes darme un ejemplo específico?**
+   - Pasa de lo general a lo procesable
+
+3. &quot;¿Qué me sugieres probar?&quot;
+   - Invita a la colaboración para mejorar
+
+4. &quot;Voy a pensar en eso.&quot;
+   - Compromiso honesto sin acuerdo inmediato
+
+---
+
+## Convertir la retroalimentación en acción
+
+La retroalimentación sin acción es sólo una conversación incómoda.
+
+### El proceso de retroalimentación a la acción
 
 ```mermaid
 flowchart LR
-    A[Receive Feedback] --> B[Clarify Understanding]
-    B --> C[Identify Pattern]
-    C --> D[Design Practice]
-    D --> E[Implement]
-    E --> F[Seek Follow-up Feedback]
+    A[Recibir comentarios] --> B[Aclarar la comprensión]
+    B --> C[Identificar patrón]
+    C --> D[Práctica de diseño]
+    D --> E[Implementar]
+    E --> F[Busque retroalimentación de seguimiento]
     F --> A
 ```
 
-### Action Template
+### Plantilla de acción
 
-For each piece of actionable feedback:
+Para cada pieza de retroalimentación procesable:
 
-| Element | Your Response |
+| Elemento | Su respuesta |
 |---------|---------------|
-| **The Feedback** | (What was said) |
-| **The Pattern** | (What recurring issue does this reveal?) |
-| **The Action** | (What specific thing will you practice?) |
-| **The Measure** | (How will you know if you've improved?) |
-| **The Timeline** | (When will you reassess?) |
+| **La retroalimentación** | (Lo que se dijo) |
+| **El Patrón** | (¿Qué problema recurrente revela esto?) |
+| **La acción** | (¿Qué cosa específica practicarás?) |
+| **La medida** | ¿Cómo sabrás si has mejorado? |
+| **La línea de tiempo** | ¿Cuando volverás a evaluar? |
 
 ---
 
-## Creating a Feedback Culture
+## Creando una cultura de retroalimentación
 
-### With Your Team
+### Con tu equipo
 
-- **Normalize it:** Regular feedback becomes expected, not exceptional
-- **Two-way street:** Give feedback to receive it comfortably
-- **Timing agreements:** "Let's debrief after matches" vs. unsolicited criticism
-- **Focus on specifics:** "I noticed X" is better than "You always Y"
+- **Normalízalo:** La retroalimentación regular se vuelve esperada, no excepcional.
+- **Calle de doble sentido:** Dar feedback para recibirlo cómodamente
+- **Acuerdos de horarios:** &quot;Hagamos un informe después de los partidos&quot; vs. críticas no solicitadas
+- **Concéntrese en los detalles:** &quot;Noté X&quot; es mejor que &quot;Siempre Y&quot;
 
-### With Yourself
+### Contigo mismo
 
-- **Weekly self-review:** Dedicated time to assess your week
-- **Written reflection:** Writing creates clarity
-- **Pattern tracking:** Look for recurring themes across multiple sources
+- **Autoevaluación semanal:** Tiempo dedicado a evaluar tu semana
+- **Reflexión escrita:** Escribir crea claridad
+- **Seguimiento de patrones:** Busque temas recurrentes en múltiples fuentes
 
 ---
 
-## The Feedback-Resistant Player
+## El jugador resistente a la retroalimentación
 
-If you recognize yourself in any of these, prioritize this work:
+Si te reconoces en alguno de estos, prioriza este trabajo:
 
-::: warning Signs of Feedback Resistance
-- You can always explain why the feedback doesn't apply
-- You seek feedback only from people who agree with you
-- You feel attacked when receiving constructive input
-- You avoid people who challenge your self-perception
-- You rationalize poor results as external factors
+::: warning Señales de resistencia a la retroalimentación
+- Siempre puedes explicar por qué la retroalimentación no se aplica.
+- Buscas retroalimentación sólo de personas que están de acuerdo contigo.
+- Te sientes atacado cuando recibes aportaciones constructivas
+- Evitas a las personas que desafían tu autopercepción.
+- Racionalizas los malos resultados como factores externos
 :::
 
-Breaking these patterns requires conscious effort—but the payoff is accelerated improvement.
+Romper estos patrones requiere un esfuerzo consciente, pero el resultado es una mejora acelerada.
 
 ---
 
-## Related Content
+## Contenido relacionado
 
-- [The Self-Awareness Advantage](/es/education/self-awareness/) — Why self-knowledge matters
-- [Video Analysis](/es/education/self-awareness/video) — Objective self-observation
-- [Team Dynamics](/es/education/team-dynamics/) — Communication with teammates
-- [Mental Strength](/es/education/mental-game/mental-strength/) — Handling difficult truths
+- [La ventaja de la autoconciencia](/es/educacion/autoconciencia/) — Por qué es importante el autoconocimiento
+- [Análisis de vídeo](/es/educación/autoconciencia/vídeo) — Autoobservación objetiva
+- [Dinámica de equipo](/es/educacion/dinamica-de-equipo/) — Comunicación con los compañeros de equipo
+- [Fuerza mental](/es/educacion/juego-mental/fuerza-mental/) — Cómo afrontar las verdades difíciles
 

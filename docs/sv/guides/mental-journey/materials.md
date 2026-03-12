@@ -228,13 +228,13 @@ _________________________________________________
 **Website:** carreau.app
 
 **Recommended Starting Point:**
-- [The Zone](/sv/education/mental-game/the-zone/) - Deep dive into flow states
-- [Mental Strength](/sv/education/mental-game/mental-strength/) - Building resilience
-- [Mindfulness](/sv/education/mental-game/mindfulness/) - Daily practice guide
+- [The Zone](/en/education/mental-game/the-zone/) - Deep dive into flow states
+- [Mental Strength](/en/education/mental-game/mental-strength/) - Building resilience
+- [Mindfulness](/en/education/mental-game/mindfulness/) - Daily practice guide
 
 **Tools:**
-- [Goal Template](/sv/guides/templates/goal-template) - Structure your development
-- [Diary Template](/sv/guides/templates/diary-template) - Track your progress
+- [Goal Template](/en/guides/templates/goal-template) - Structure your development
+- [Diary Template](/en/guides/templates/diary-template) - Track your progress
 
 ### Questions?
 
@@ -631,9 +631,9 @@ En sidas sammanfattning som deltagarna kan behålla.
 **Email:** patrik.wiik@gmail.com
 
 **Next Steps:**
-1. Read [The Zone](/sv/education/mental-game/the-zone/)
-2. Use [Goal Template](/sv/guides/templates/goal-template)
-3. Track progress in [Diary](/sv/guides/templates/diary-template)
+1. Read [The Zone](/en/education/mental-game/the-zone/)
+2. Use [Goal Template](/en/guides/templates/goal-template)
+3. Track progress in [Diary](/en/guides/templates/diary-template)
 ```
 
 </details>
@@ -654,7 +654,7 @@ Interaktiva arbetsblad för aktiviteter under sessionen. Deltagarna kan använda
 ### Arbetsblad 4: Handlingsplan
 
 ::: tip Digitala arbetsblad
-Uppmuntra deltagarna att använda [Målmallen](/sv/guides/templates/goal-template) och [Dagboksmall](/sv/guides/templates/diary-template) för kontinuerlig övning.
+Uppmuntra deltagarna att använda [Målmallen](/sv/guider/templates/goal-template) och [Dagboksmall](/sv/guider/templates/diary-template) för kontinuerlig övning.
 :::
 
 
@@ -714,8 +714,8 @@ För distans- eller hybridsessioner:
 
 **Frågor om material?**
 - E-post: patrik.wiik@gmail.com
-- Granska [Sessionsguiden](/sv/guides/mental-journey/sessionsguide)
-- Se [Workshop Guide](/sv/guides/workshop/) för avancerat format
+- Granska [Sessionsguiden](/sv/guider/mental-journey/sessionsguide)
+- Se [Workshop Guide](/sv/guider/workshop/) för avancerad formatering
 
 
 ---

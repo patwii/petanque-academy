@@ -3,225 +3,225 @@ title: Getting and Using Feedback
 description: Learn to seek, receive, and integrate objective feedback to accelerate your pétanque improvement.
 ---
 
-# Getting and Using Feedback
+# Feedback ontvangen en gebruiken
 
-Feedback is one of the most powerful tools for development—and one of the most underused. This page teaches you how to actively seek feedback, receive it constructively, and turn it into actionable improvement.
+Feedback is een van de krachtigste instrumenten voor ontwikkeling, maar tegelijkertijd een van de meest onderbenutte. Op deze pagina leer je hoe je actief feedback kunt vragen, constructief kunt ontvangen en kunt omzetten in concrete verbeteringen.
 
 ---
 
-## Why We Resist Feedback
+## Waarom we feedback afwijzen
 
-Before learning to seek feedback, understand why it's hard:
+Voordat je leert om feedback te vragen, is het belangrijk te begrijpen waarom dat moeilijk is:
 
-### Ego Protection
+### Ego-bescherming
 
-Your brain treats criticism of your performance as a threat to your identity. This triggers defensive responses:
-- Dismissing the feedback
-- Finding reasons why the person is wrong
-- Avoiding similar situations in the future
+Je hersenen interpreteren kritiek op je prestaties als een bedreiging voor je identiteit. Dit roept verdedigingsreacties op:
+- De feedback negeren
+- Redenen vinden waarom de persoon ongelijk heeft
+- Het voorkomen van soortgelijke situaties in de toekomst
 
-### Confirmation Bias
+### Bevestigingsbias
 
-We naturally seek information that confirms what we already believe. If you think you're a good pointer, you'll notice your successful points and explain away the misses.
+We zoeken van nature naar informatie die bevestigt wat we al geloven. Als je denkt dat je een goede aanwijzer bent, zul je je succesvolle punten herkennen en de missers verklaren.
 
-### The Growth Mindset Shift
+### De verschuiving naar een groeimindset
 
-::: tip Reframe Feedback
-**Fixed mindset:** "Criticism means I'm flawed"
-**Growth mindset:** "Feedback is information that helps me improve"
+::: tip Feedback herformuleren
+**Vaste mindset:** &quot;Kritiek betekent dat ik gebrekkig ben&quot;
+**Groeimindmentaliteit:** &quot;Feedback is informatie die me helpt te verbeteren.&quot;
 
-The difference isn't positivity—it's accuracy. Feedback is data, not judgment.
+Het verschil zit hem niet in de positiviteit, maar in de nauwkeurigheid. Feedback is gebaseerd op data, niet op oordelen.
 :::
 
 ---
 
-## Sources of Objective Feedback
+## Bronnen van objectieve feedback
 
-### 1. Quantitative Data
+### 1. Kwantitatieve gegevens
 
-Numbers don't lie or soften the truth:
+Cijfers liegen niet en verzachten de waarheid niet:
 
-| Metric | What It Reveals |
+| Metrisch | Wat het onthult |
 |--------|-----------------|
-| **Pointing accuracy %** | Technical baseline and trends |
-| **First vs. late game accuracy** | Fatigue/pressure effects |
-| **Shooting success rate** | By distance, target type, match situation |
-| **Carreau percentage** | Risk-taking effectiveness |
+| **Aanwijsnauwkeurigheid %** | Technische basislijn en trends |
+| **Nauwkeurigheid in de beginfase versus de late fase van de wedstrijd** | Vermoeidheids-/drukeffecten |
+| **Succespercentage bij het schieten** | Op basis van afstand, doeltype en wedstrijdsituatie |
+| **Carreau-percentage** | Effectiviteit van risicobereidheid |
 
-### 2. Teammates
+### 2. Teamgenoten
 
-Your teammates see you in competition—when your self-perception is least accurate:
+Je teamgenoten zien je in competitieverband – op het moment dat je zelfbeeld het minst accuraat is:
 
-**What to ask:**
-- "How do I seem to you when we're behind?"
-- "What do you notice about my approach in close games?"
-- "What's one thing I could do to be a better teammate?"
+**Wat te vragen:**
+- &quot;Hoe kom ik op je over als we achterstaan?&quot;
+- &quot;Wat valt u op aan mijn aanpak in spannende wedstrijden?&quot;
+- &quot;Wat zou ik kunnen doen om een betere teamgenoot te zijn?&quot;
 
-### 3. Opponents
+### 3. Tegenstanders
 
-Post-match conversations with trusted opponents can be revealing:
+Gesprekken na de wedstrijd met vertrouwde tegenstanders kunnen veel onthullen:
 
-**What to ask:**
-- "What were you trying to exploit in my game?"
-- "Was there anything that surprised you about how I played?"
+**Wat te vragen:**
+- &quot;Wat probeerde je in mijn spel uit te buiten?&quot;
+- &quot;Was er iets aan mijn spel dat je verraste?&quot;
 
-### 4. Coaches/Experienced Players
+### 4. Coaches/Ervaren spelers
 
-External expertise provides perspective you can't generate yourself:
+Externe expertise biedt een perspectief dat u zelf niet kunt genereren:
 
-**What to ask:**
-- "What's the biggest gap between my potential and my current performance?"
-- "What pattern do you see in my misses?"
-- "What would you prioritize if you were coaching me?"
+**Wat te vragen:**
+- &quot;Wat is het grootste verschil tussen mijn potentieel en mijn huidige prestaties?&quot;
+- &quot;Welk patroon zie je bij mijn missers?&quot;
+- &quot;Waar zou je prioriteit aan geven als je mij zou coachen?&quot;
 
-### 5. Video Analysis
+### 5. Videoanalyse
 
-The most objective mirror available. See [Video Analysis](/nl/education/self-awareness/video) for detailed protocols.
+De meest objectieve spiegel die er is. Zie [Videoanalyse](/en/education/self-awareness/video) voor gedetailleerde protocollen.
 
 ---
 
-## How to Ask for Feedback Effectively
+## Hoe vraag je effectief om feedback?
 
-### The SEEK Framework
+### Het SEEK-raamwerk
 
-**S - Specific**
-Don't ask: "How did I play?"
-Ask: "How did my pointing accuracy look in the third end when we were behind?"
+**S - Specifiek**
+Vraag niet: &quot;Hoe heb ik gespeeld?&quot;
+Vraag: &quot;Hoe nauwkeurig was mijn werptechniek in de derde end toen we achter stonden?&quot;
 
-**E - Examples**
-Ask: "Can you give me a specific example?"
-This forces concrete feedback instead of generalizations.
+**E - Voorbeelden**
+Vraag: &quot;Kunt u een concreet voorbeeld geven?&quot;
+Dit dwingt tot concrete feedback in plaats van generalisaties.
 
-**E - Exploratory**
-Approach with curiosity, not defense.
-"I'm trying to understand my blind spots. What might I be missing?"
+**E - Verkennend**
+Benader het met nieuwsgierigheid, niet in de verdediging.
+&quot;Ik probeer mijn blinde vlekken te begrijpen. Wat zie ik mogelijk over het hoofd?&quot;
 
-**K - Kind (to yourself)**
-Remember: Seeking feedback is brave. You're doing hard work.
+**K - Vriendelijk (voor jezelf)**
+Onthoud: feedback vragen is moedig. Je levert hard werk.
 
-### Timing Matters
+### Timing is belangrijk
 
-| When | Best For | Avoid |
+| Wanneer | Het beste voor | Voorkomen |
 |------|----------|-------|
-| **Immediately after** | Specific technical observations | Emotional processing |
-| **Next day** | Balanced perspective, patterns | If details have faded |
-| **Video review** | Objective analysis | If it delays action too long |
+| **Direct daarna** | Specifieke technische opmerkingen | Emotionele verwerking |
+| **Volgende dag** | Evenwichtig perspectief, patronen | Als details vervaagd zijn |
+| **Videorecensie** | Objectieve analyse | Als het de actie te lang uitstelt |
 
 ---
 
-## Receiving Feedback Without Defensiveness
+## Feedback ontvangen zonder in de verdediging te schieten
 
-When feedback arrives, your brain will want to defend. Here's how to override that:
+Wanneer je feedback krijgt, zal je brein zich willen verdedigen. Zo kun je dat onderdrukken:
 
-### The 3-Second Rule
+### De 3-secondenregel
 
-When you receive feedback, **wait 3 seconds before responding**. This gives your rational brain time to engage before your emotional brain reacts.
+Wanneer je feedback ontvangt, **wacht dan 3 seconden voordat je reageert**. Dit geeft je rationele brein de tijd om na te denken voordat je emotionele brein reageert.
 
-### The "Tell Me More" Technique
+### De &quot;Vertel me meer&quot;-techniek
 
-Instead of defending, say: "Tell me more about that."
+In plaats van je te verdedigen, zeg je: &quot;Vertel me daar eens meer over.&quot;
 
-This:
-- Buys processing time
-- Shows you value the input
-- Often reveals the root insight
+Dit:
+- Koopt verwerkingstijd
+- Laat zien dat je de invoer waardeert.
+- Vaak onthult het het onderliggende inzicht.
 
-### Separate Reception from Evaluation
+### Aparte ontvangst van de evaluatie
 
-**Step 1:** Receive (just listen)
-**Step 2:** Clarify (make sure you understand)
-**Step 3:** Thank (acknowledge the gift)
-**Step 4:** Evaluate (later, privately decide what to act on)
+**Stap 1:** Ontvang (luister gewoon)
+**Stap 2:** Verduidelijken (zorg ervoor dat je het begrijpt)
+**Stap 3:** Bedank (erken het geschenk)
+**Stap 4:** Evalueer (beslis later in stilte wat je gaat doen)
 
-You don't have to agree with feedback immediately. You just have to receive it with openness.
-
----
-
-## The Feedback Response Protocol
-
-Use this when receiving feedback:
-
-1. **"Thank you for telling me that."**
-   - Genuine appreciation, even if the feedback stings
-
-2. **"Can you give me a specific example?"**
-   - Moves from general to actionable
-
-3. **"What would you suggest I try?"**
-   - Invites partnership in improvement
-
-4. **"I'm going to think about that."**
-   - Honest commitment without immediate agreement
+Je hoeft het niet meteen eens te zijn met feedback. Je hoeft het alleen maar open te ontvangen.
 
 ---
 
-## Turning Feedback into Action
+## Het feedbackresponsprotocol
 
-Feedback without action is just uncomfortable conversation.
+Gebruik dit bij het ontvangen van feedback:
 
-### The Feedback-to-Action Process
+1. &quot;Bedankt dat je me dat verteld hebt.&quot;
+   - Oprechte waardering, zelfs als de feedback pijnlijk is.
+
+2. &quot;Kunt u een concreet voorbeeld geven?&quot;
+   - Van algemeen naar concreet.
+
+3. &quot;Wat zou u me aanraden om te proberen?&quot;
+   - Nodigt uit tot samenwerking bij verbetering
+
+4. &quot;Ik ga daarover nadenken.&quot;
+   - Eerlijke toezegging zonder onmiddellijke overeenkomst.
+
+---
+
+## Feedback omzetten in actie
+
+Feedback zonder actie is slechts een ongemakkelijk gesprek.
+
+### Het feedback-naar-actieproces
 
 ```mermaid
 flowchart LR
-    A[Receive Feedback] --> B[Clarify Understanding]
-    B --> C[Identify Pattern]
-    C --> D[Design Practice]
-    D --> E[Implement]
-    E --> F[Seek Follow-up Feedback]
+    A[Ontvang feedback] --> B[Verduidelijken wat je begrijpt]
+    B --> C[Identificeer patroon]
+    C --> D[Ontwerppraktijk]
+    D --> E[Implementeren]
+    E --> F[Vraag om aanvullende feedback.]
     F --> A
 ```
 
-### Action Template
+### Actiesjabloon
 
-For each piece of actionable feedback:
+Voor elk bruikbaar feedbackpunt:
 
-| Element | Your Response |
+| Element | Uw antwoord |
 |---------|---------------|
-| **The Feedback** | (What was said) |
-| **The Pattern** | (What recurring issue does this reveal?) |
-| **The Action** | (What specific thing will you practice?) |
-| **The Measure** | (How will you know if you've improved?) |
-| **The Timeline** | (When will you reassess?) |
+| **De feedback** | (Wat er gezegd werd) |
+| **Het patroon** | (Welk terugkerend probleem komt hieruit naar voren?) |
+| **De actie** | (Wat ga je precies oefenen?) |
+| **De Maatregel** | (Hoe weet je of je vooruitgang hebt geboekt?) |
+| **De tijdlijn** | (Wanneer zult u de situatie opnieuw beoordelen?) |
 
 ---
 
-## Creating a Feedback Culture
+## Een feedbackcultuur creëren
 
-### With Your Team
+### Met uw team
 
-- **Normalize it:** Regular feedback becomes expected, not exceptional
-- **Two-way street:** Give feedback to receive it comfortably
-- **Timing agreements:** "Let's debrief after matches" vs. unsolicited criticism
-- **Focus on specifics:** "I noticed X" is better than "You always Y"
+- **Normaal maken:** Regelmatige feedback wordt de norm, niet de uitzondering.
+- **Tweewegcommunicatie:** Geef feedback om het zelf ook te kunnen ontvangen.
+- **Afspraken over timing:** &quot;Laten we na de wedstrijden nabespreken&quot; versus ongevraagde kritiek
+- **Focus op de details:** &quot;Ik merkte X op&quot; is beter dan &quot;Je doet altijd Y&quot;.
 
-### With Yourself
+### Met jezelf
 
-- **Weekly self-review:** Dedicated time to assess your week
-- **Written reflection:** Writing creates clarity
-- **Pattern tracking:** Look for recurring themes across multiple sources
+- **Wekelijkse zelfevaluatie:** Een vast moment om je week te evalueren.
+- **Schriftelijke reflectie:** Schrijven zorgt voor helderheid.
+- **Patroonherkenning:** Zoek naar terugkerende thema&#39;s in meerdere bronnen.
 
 ---
 
-## The Feedback-Resistant Player
+## De speler die zich verzet tegen feedback
 
-If you recognize yourself in any of these, prioritize this work:
+Als je jezelf in een van deze punten herkent, geef dan prioriteit aan dit werk:
 
-::: warning Signs of Feedback Resistance
-- You can always explain why the feedback doesn't apply
-- You seek feedback only from people who agree with you
-- You feel attacked when receiving constructive input
-- You avoid people who challenge your self-perception
-- You rationalize poor results as external factors
+::: warning Tekenen van weerstand tegen feedback
+- Je kunt altijd uitleggen waarom de feedback niet van toepassing is.
+- Je vraagt alleen feedback aan mensen die het met je eens zijn.
+- Je voelt je aangevallen wanneer je constructieve feedback krijgt.
+- Je vermijdt mensen die je zelfbeeld ter discussie stellen.
+- Je rationaliseert slechte resultaten door externe factoren toe te schrijven.
 :::
 
-Breaking these patterns requires conscious effort—but the payoff is accelerated improvement.
+Het doorbreken van deze patronen vereist bewuste inspanning, maar de beloning is een versnelde verbetering.
 
 ---
 
-## Related Content
+## Gerelateerde inhoud
 
-- [The Self-Awareness Advantage](/nl/education/self-awareness/) — Why self-knowledge matters
-- [Video Analysis](/nl/education/self-awareness/video) — Objective self-observation
-- [Team Dynamics](/nl/education/team-dynamics/) — Communication with teammates
-- [Mental Strength](/nl/education/mental-game/mental-strength/) — Handling difficult truths
+- [Het voordeel van zelfbewustzijn](/en/education/self-awareness/) — Waarom zelfkennis belangrijk is
+- [Videoanalyse](/en/education/self-awareness/video) — Objectieve zelfobservatie
+- [Teamdynamiek](/en/education/team-dynamics/) — Communicatie met teamgenoten
+- [Mentale kracht](/en/education/mental-game/mental-strength/) — Omgaan met moeilijke waarheden
 

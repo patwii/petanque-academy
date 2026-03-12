@@ -1,35 +1,35 @@
-# Ambition
+# Ehrgeiz
 
-Our mission is to help elite players take the next step in their development.
+Unsere Mission ist es, Spitzenspielern dabei zu helfen, den nächsten Schritt in ihrer Entwicklung zu machen.
 
-::: tip Our Vision
-**Transform elite players from technically proficient to mentally unstoppable.** We use a data-driven approach to identify your highest-impact improvement areas.
+::: tip Unsere Vision
+**Wir verwandeln Spitzenspieler von technisch versiert in mental unaufhaltsam.** Wir nutzen einen datengestützten Ansatz, um Ihre wirkungsvollsten Verbesserungsbereiche zu identifizieren.
 :::
 
-## The 8-Factor Performance Model
+## Das 8-Faktoren-Leistungsmodell
 
-Research and experience show that elite pétanque performance depends on **8 interconnected factors**. Most players over-invest in technique while neglecting the factors that actually separate good from great.
+Forschung und Erfahrung zeigen, dass die Leistung im Pétanque auf höchstem Niveau von **acht miteinander verbundenen Faktoren** abhängt. Die meisten Spieler konzentrieren sich zu sehr auf die Technik und vernachlässigen dabei die Faktoren, die gute von herausragenden Spielern unterscheiden.
 
 ```mermaid
 graph TD
     subgraph "High Impact (1500 points)"
-        A[🧠 Mental Game<br/>600 pts]
-        B[🔥 Motivation<br/>500 pts]
-        C[😴 Sleep<br/>400 pts]
+        A[🧠 Mentales Spiel <br/> 600 Punkte]
+        B[🔥 Motivation <br/> 500 Punkte]
+        C[😴 Schlaf <br/> 400 Punkte]
     end
 
     subgraph "Medium Impact (1000 points)"
-        D[🪞 Self-Awareness<br/>400 pts]
-        E[🥗 Nutrition<br/>300 pts]
-        F[🤝 Team Dynamics<br/>300 pts]
+        D[🪞 Selbstwahrnehmung <br/> 400 Punkte]
+        E[🥗 Ernährung <br/> 300 Punkte]
+        F[🤝 Teamdynamik <br/> 300 Punkte]
     end
 
     subgraph "Foundation (400 points)"
-        G[💆 Tension Management<br/>300 pts]
-        H[🎯 Technique<br/>100 pts]
+        G[💆 Spannungsmanagement <br/> 300 Punkte]
+        H[🎯 Technik <br/> 100 Punkte]
     end
 
-    A --> I[Peak Performance]
+    A --> I[Spitzenleistung]
     B --> I
     C --> I
     D --> I
@@ -44,84 +44,84 @@ graph TD
     style I fill:#4CAF50,color:#fff
 ```
 
-### Why Technique Has the Lowest Weight
+### Warum die Technik das geringste Gewicht hat
 
-::: warning The Uncomfortable Truth
-**Technique accounts for only 100 of 2,900 total points** in our model.
+::: warning Die unbequeme Wahrheit
+**Die Technik macht in unserem Modell nur 100 von insgesamt 2.900 Punkten aus.**
 
-This isn't because technique doesn't matter—it's because elite players have already developed adequate technique. The marginal improvement from perfecting your release is tiny compared to optimizing your sleep, managing tension, or strengthening your mental game.
+Das liegt nicht daran, dass die Technik unwichtig wäre – sondern daran, dass Spitzenspieler bereits eine adäquate Technik entwickelt haben. Die geringfügige Verbesserung durch die Perfektionierung des Wurfs ist minimal im Vergleich zur Optimierung des Schlafs, dem Stressmanagement oder der Stärkung der mentalen Stärke.
 :::
 
-## The ROI Principle
+## Das ROI-Prinzip
 
-Not all improvements are equal. We use **Return on Investment (ROI)** calculations to identify where your training time will have the biggest impact.
+Nicht alle Verbesserungen sind gleichwertig. Wir verwenden **ROI-Berechnungen**, um festzustellen, wo Ihre Trainingszeit den größten Effekt erzielt.
 
-| Your Level | Factor Weight | ROI Potential |
+| Ihr Level | Faktor Gewichtung | ROI-Potenzial |
 |------------|---------------|---------------|
-| Low skill in high-weight area | High (e.g., 600) | **Maximum** |
-| High skill in high-weight area | High (e.g., 600) | Low (diminishing returns) |
-| Low skill in low-weight area | Low (e.g., 100) | Moderate |
-| High skill in low-weight area | Low (e.g., 100) | **Minimal** |
+| Geringe Fähigkeiten im Bereich hoher Gewichte | Hoch (z. B. 600) | **Maximal** |
+| Hohes Können im Schwergewichtsbereich | Hoch (z. B. 600) | Niedrig (abnehmende Erträge) |
+| Geringe Fähigkeiten im Leichtgewichtsbereich | Niedrig (z. B. 100) | Mäßig |
+| Hohes Können im Leichtgewichtsbereich | Niedrig (z. B. 100) | **Minimal** |
 
-**Example:** Improving your sleep from 30% to 60% (high-weight factor, low current skill) will likely have more impact than improving technique from 75% to 85% (low-weight factor, already high skill).
+**Beispiel:** Eine Verbesserung des Schlafs von 30 % auf 60 % (hoher Gewichtungsfaktor, geringes aktuelles Können) wird wahrscheinlich eine größere Wirkung haben als eine Verbesserung der Technik von 75 % auf 85 % (niedriger Gewichtungsfaktor, bereits hohes Können).
 
-## The 8 Factors Explained
+## Die 8 Faktoren erklärt
 
-| Factor | Weight | What It Covers |
+| Faktor | Gewicht | Was es beinhaltet |
 |--------|--------|----------------|
-| 🧠 **Mental Game** | 600 | Thought patterns, focus, confidence, flow state access |
-| 🔥 **Motivation** | 500 | Drive, purpose, goal orientation, persistence |
-| 😴 **Sleep & Recovery** | 400 | Quality rest, pre-competition protocols, energy management |
-| 🪞 **Self-Awareness** | 400 | Accurate self-perception, blind spot recognition, feedback use |
-| 🥗 **Nutrition** | 300 | Blood sugar stability, hydration, competition fueling |
-| 🤝 **Team Dynamics** | 300 | Communication, trust, role clarity, team contribution |
-| 💆 **Tension Management** | 300 | Physical relaxation, breath control, optimal arousal |
-| 🎯 **Technique** | 100 | Physical mechanics, throw repertoire, consistency |
+| 🧠 **Denkspiel** | 600 | Denkmuster, Fokus, Selbstvertrauen, Zugang zum Flow-Zustand |
+| 🔥 **Motivation** | 500 | Antrieb, Zielstrebigkeit, Zielorientierung, Beharrlichkeit |
+| 😴 **Schlaf &amp; Erholung** | 400 | Qualitativ hochwertige Erholung, Wettkampfvorbereitungsprotokolle, Energiemanagement |
+| 🪞 **Selbstwahrnehmung** | 400 | Genaue Selbstwahrnehmung, Erkennung blinder Flecken, Nutzung von Feedback |
+| 🥗 **Ernährung** | 300 | Blutzuckerstabilität, Flüssigkeitszufuhr, Wettkampf-Energieversorgung |
+| 🤝 **Teamdynamik** | 300 | Kommunikation, Vertrauen, Rollenklarheit, Teambeitrag |
+| 💆 **Spannungsmanagement** | 300 | Körperliche Entspannung, Atemkontrolle, optimale Erregung |
+| 🎯 **Technik** | 100 | Physikalische Eigenschaften, Wurfrepertoire, Konstanz |
 
-## Discover Your Path
+## Entdecke deinen Weg
 
-We've built a **free assessment tool** that analyzes your current levels across all 8 factors and calculates your personalized improvement priorities.
+Wir haben ein **kostenloses Bewertungstool** entwickelt, das Ihre aktuellen Werte in allen 8 Faktoren analysiert und Ihre individuellen Verbesserungsprioritäten berechnet.
 
-::: info Take the Assessment
-**[→ Start Your Player Development Assessment](/de/assessment/)**
+::: info Nehmen Sie an der Bewertung teil
+**[→ Starten Sie Ihre Spielerentwicklungsbeurteilung](/en/assessment/)**
 
-In 5 minutes, you'll receive:
-- Your radar chart across all 8 factors
-- ROI-ranked recommendations for what to work on
-- Links to specific educational content for your top priorities
-- Option to get peer feedback from teammates
+In 5 Minuten erhalten Sie:
+- Ihr Radardiagramm über alle 8 Faktoren
+- ROI-basierte Empfehlungen für die zu bearbeitenden Aufgaben
+- Links zu spezifischen Lerninhalten für Ihre wichtigsten Prioritäten
+- Option, Feedback von Teammitgliedern zu erhalten
 :::
 
-## What We Offer
+## Unser Angebot
 
-| Offering | Description | Link |
+| Angebot | Beschreibung | Link |
 |----------|-------------|------|
-| **Assessment Tool** | Identify your highest-ROI improvement areas | [Take Assessment](/de/assessment/) |
-| **Education Modules** | Deep content on all 8 factors | [Browse Education](/de/education/) |
-| **Workshops** | 3-4 hour sessions for groups of 6-8 players | [Workshop Guide](/de/guides/workshop/) |
-| **Training Camps** | Weekend intensives mixing theory and practice | [Camp Guide](/de/guides/training-camp/) |
+| **Bewertungsinstrument** | Identifizieren Sie Ihre Bereiche mit dem höchsten ROI. | [Test absolvieren](/en/assessment/) |
+| **Schulungsmodule** | Tiefgehende Inhalte zu allen 8 Faktoren | [Bildung durchsuchen](/en/education/) |
+| **Workshops** | 3-4-stündige Trainingseinheiten für Gruppen von 6-8 Spielern | [Workshop-Leitfaden](/en/guides/workshop/) |
+| **Trainingslager** | Wochenend-Intensivkurse, die Theorie und Praxis verbinden | [Camp Guide](/en/guides/training-camp/) |
 
-## Our Approach
+## Unser Ansatz
 
-### 1. Assess First
-Start with honest self-evaluation. Get peer feedback to identify blind spots.
+### 1. Zuerst bewerten
+Beginnen Sie mit einer ehrlichen Selbsteinschätzung. Holen Sie sich Feedback von Kollegen, um blinde Flecken zu erkennen.
 
-### 2. Prioritize by ROI
-Focus on high-weight factors where you have room to grow—not what feels comfortable.
+### 2. Priorisierung nach ROI
+Konzentriere dich auf die wichtigsten Faktoren, bei denen du Entwicklungspotenzial hast – nicht auf das, was sich bequem anfühlt.
 
-### 3. Learn the Science
-Understand *why* something works, not just *what* to do.
+### 3. Lerne die Wissenschaft kennen
+Verstehe, *warum* etwas funktioniert, nicht nur, *was* zu tun ist.
 
-### 4. Practice Deliberately
-Apply techniques in training before competition. Build habits, not just knowledge.
+### 4. Gezielt üben
+Wende die Techniken im Training vor dem Wettkampf an. Entwickle Gewohnheiten, nicht nur Wissen.
 
-### 5. Reassess Regularly
-Track your progress. Your priorities will shift as you improve.
+### 5. Regelmäßig neu bewerten
+Verfolge deinen Fortschritt. Deine Prioritäten werden sich mit deinen Fortschritten verändern.
 
-::: tip Ready to Take the Next Step?
-**[→ Start with the Assessment](/de/assessment/)** — It's free and takes 5 minutes.
+::: tip Bereit für den nächsten Schritt?
+**[→ Beginnen Sie mit der Selbsteinschätzung](/en/assessment/)** — Sie ist kostenlos und dauert 5 Minuten.
 
-Or explore our [Education](/de/education/) section to dive into any of the 8 factors.
+Oder erkunden Sie unseren Abschnitt [Bildung](/en/education/), um tiefer in einen der 8 Faktoren einzutauchen.
 :::
 
 

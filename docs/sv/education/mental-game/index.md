@@ -3,28 +3,28 @@ title: Mental Game
 description: Master the psychological aspects of pétanque. Learn to access flow states, build mental strength, and develop mindfulness for peak performance.
 ---
 
-# Mental Game
+# Mentalt spel
 
-::: tip The Most Important Factor
-**Weight: 600 points** — The mental game has the highest impact on your performance. Master your mind, and everything else follows.
+::: tip Den viktigaste faktorn
+**Vikt: 600 poäng** — Det mentala spelet har störst inverkan på din prestation. Bemästra ditt sinne, så följer allt annat.
 :::
 
-The mental game encompasses everything that happens between your ears: your thoughts, focus, confidence, and self-talk. Elite players don't just have better technique—they have better control over their mental state.
+Det mentala spelet omfattar allt som händer mellan dina öron: dina tankar, fokus, självförtroende och självprat. Elitspelare har inte bara bättre teknik – de har bättre kontroll över sitt mentala tillstånd.
 
 ```mermaid
 graph TD
-    A[Mental Game] --> B[The Zone]
-    A --> C[Mental Strength]
+    A[Mentalt spel] --> B[Zonen]
+    A --> C[Mental styrka]
     A --> D[Mindfulness]
     
-    B --> E[Flow States]
-    B --> F[Peak Performance]
+    B --> E[Flödestillstånd]
+    B --> F[Topprestanda]
     
-    C --> G[Confidence]
-    C --> H[Pressure Handling]
+    C --> G[Förtroende]
+    C --> H[Tryckhantering]
     
-    D --> I[Present Moment]
-    D --> J[Emotional Control]
+    D --> I[Nuvarande ögonblick]
+    D --> J[Emotionell kontroll]
     
     style A fill:#4CAF50,color:#fff
     style B fill:#81C784
@@ -32,52 +32,52 @@ graph TD
     style D fill:#81C784
 ```
 
-## The Three Pillars
+## De tre pelarna
 
-### 🎯 [The Zone](/sv/education/mental-game/the-zone/)
-Access the flow state where performance feels effortless. Learn what triggers flow and how to enter it consistently.
+### 🎯 [Zonen](/sv/utbildning/mentalt spel/zonen/)
+Få tillgång till flödet där prestation känns obehindrad. Lär dig vad som utlöser flöde och hur du konsekvent når det.
 
-- [Introduction to The Zone](/sv/education/mental-game/the-zone/)
-- [Technical vs Flow Training](/sv/education/mental-game/the-zone/technical-vs-flow)
-- [Entering the Zone](/sv/education/mental-game/the-zone/entering-the-zone)
+- [Introduktion till Zonen](/sv/utbildning/mentalt spel/zonen/)
+- [Teknisk vs Flow-träning](/sv/utbildning/mentalt-spel/zonen/teknisk-vs-flow)
+- [Att gå in i zonen](/sv/utbildning/mentalt spel/zonen/att gå in i zonen)
 
-### 💪 [Mental Strength](/sv/education/mental-game/mental-strength/)
-Build the psychological resilience to perform under pressure. Develop confidence, handle setbacks, and maintain composure.
+### 💪 [Mental styrka](/sv/utbildning/mentalt-spel/mental-styrka/)
+Bygg upp den psykologiska motståndskraften för att prestera under press. Utveckla självförtroende, hantera motgångar och behåll lugnet.
 
-- [Building Mental Strength](/sv/education/mental-game/mental-strength/)
-- [Handling Pressure](/sv/education/mental-game/mental-strength/handling-pressure)
-- [Pre-Shot Routine](/sv/education/mental-game/mental-strength/pre-shot-routine)
+- [Bygg mental styrka](/sv/utbildning/mentalt-spel/mental-styrka/)
+- [Hantera press](/sv/utbildning/mentalt-spel/mental-styrka/hantera-press)
+- [Rutin före skott](/sv/utbildning/mentalt-spel/mental-styrka/rutin-före-skott)
 
-### 🧘 [Mindfulness](/sv/education/mental-game/mindfulness/)
-Develop present-moment awareness to stay focused and recover quickly from mistakes.
+### 🧘 [Mindfulness](/sv/utbildning/mentalt spel/mindfulness/)
+Utveckla medvetenhet om nuet för att hålla fokus och snabbt återhämta sig från misstag.
 
-- [Introduction to Mindfulness](/sv/education/mental-game/mindfulness/)
-- [Mindfulness Techniques](/sv/education/mental-game/mindfulness/techniques)
-- [Daily Practice](/sv/education/mental-game/mindfulness/daily-practice)
+- [Introduktion till Mindfulness](/sv/utbildning/mentalt spel/mindfulness/)
+- [Mindfulnesstekniker](/sv/utbildning/mentalt spel/mindfulness/tekniker)
+- [Daglig övning](/sv/utbildning/mentalt spel/mindfulness/daglig-övning)
 
-## Why Mental Game Matters Most
+## Varför mentalt spel är viktigast
 
-| Aspect | Technical Training | Mental Training |
+| Aspekt | Teknisk utbildning | Mental träning |
 |--------|-------------------|-----------------|
-| **In practice** | You can make the shot | You can make the shot |
-| **In competition** | Technique may fail under pressure | Mental skills maintain performance |
-| **The difference** | Physical skill is necessary | Mental skill is the multiplier |
+| **I praktiken** | Du kan ta skottet | Du kan ta skottet |
+| **I tävling** | Tekniken kan misslyckas under tryck | Mentala färdigheter upprätthåller prestationsförmågan |
+| **Skillnaden** | Fysisk skicklighet är nödvändig | Mental färdighet är multiplikatorn |
 
-::: warning The Common Mistake
-Most players spend 90% of their time on technique and 10% on mental skills. Elite players often reverse this ratio once they have solid fundamentals.
+::: warning Det vanliga misstaget
+De flesta spelare lägger 90 % av sin tid på teknik och 10 % på mentala färdigheter. Elitspelare vänder ofta på detta förhållande när de har solida grunder.
 :::
 
-## Where to Start?
+## Var ska man börja?
 
-**New to mental training?** Start with [The Zone](/sv/education/mental-game/the-zone/) to understand what peak performance feels like.
+**Nybörjare inom mental träning?** Börja med [Zonen](/sv/utbildning/mentalt-spel/zonen/) för att förstå hur det känns att prestera på topp.
 
-**Struggling under pressure?** Go to [Mental Strength](/sv/education/mental-game/mental-strength/) for practical techniques.
+**Kämpar du under press?** Gå till [Mental styrka](/sv/utbildning/mentalt-spel/mental-styrka/) för praktiska tekniker.
 
-**Mind wandering during matches?** [Mindfulness](/sv/education/mental-game/mindfulness/) will help you stay present.
+**Tankar vandrar iväg under matcher?** [Mindfulness](/sv/utbildning/mentalt-spel/mindfulness/) hjälper dig att hålla dig närvarande.
 
-## Related Resources
+## Relaterade resurser
 
-- [Self-Awareness](/sv/education/self-awareness/) — Know yourself to improve faster
-- [Tension Management](/sv/education/tension/) — Physical relaxation enables mental clarity
-- [Assessment Tool](/sv/education/) — Evaluate your mental game and get personalized recommendations
+- [Självkännedom](/sv/utbildning/självkännedom/) — Lär känna dig själv för att förbättra dig snabbare
+- [Spänningshantering](/sv/utbildning/spänning/) — Fysisk avslappning möjliggör mental klarhet
+- [Bedömningsverktyg](/sv/utbildning/) — Utvärdera ditt mentala spel och få personliga rekommendationer
 

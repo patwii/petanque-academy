@@ -3,225 +3,225 @@ title: Getting and Using Feedback
 description: Learn to seek, receive, and integrate objective feedback to accelerate your pétanque improvement.
 ---
 
-# Getting and Using Feedback
+# Ottenere e utilizzare il feedback
 
-Feedback is one of the most powerful tools for development—and one of the most underused. This page teaches you how to actively seek feedback, receive it constructively, and turn it into actionable improvement.
+Il feedback è uno degli strumenti più potenti per lo sviluppo, ma anche uno dei meno utilizzati. Questa pagina ti insegna come cercare attivamente feedback, riceverlo in modo costruttivo e trasformarlo in miglioramenti concreti.
 
 ---
 
-## Why We Resist Feedback
+## Perché resistiamo al feedback
 
-Before learning to seek feedback, understand why it's hard:
+Prima di imparare a chiedere feedback, è importante capire perché è difficile:
 
-### Ego Protection
+### Protezione dell&#39;ego
 
-Your brain treats criticism of your performance as a threat to your identity. This triggers defensive responses:
-- Dismissing the feedback
-- Finding reasons why the person is wrong
-- Avoiding similar situations in the future
+Il tuo cervello considera le critiche alle tue prestazioni come una minaccia alla tua identità. Questo innesca risposte difensive:
+- Ignorare il feedback
+- Trovare le ragioni per cui la persona sbaglia
+- Evitare situazioni simili in futuro
 
-### Confirmation Bias
+### Bias di conferma
 
-We naturally seek information that confirms what we already believe. If you think you're a good pointer, you'll notice your successful points and explain away the misses.
+Cerchiamo naturalmente informazioni che confermino ciò in cui già crediamo. Se pensi di essere un buon indicatore, noterai i tuoi punti vincenti e spiegherai quelli sbagliati.
 
-### The Growth Mindset Shift
+### Il cambiamento di mentalità verso la crescita
 
-::: tip Reframe Feedback
-**Fixed mindset:** "Criticism means I'm flawed"
-**Growth mindset:** "Feedback is information that helps me improve"
+::: tip Riformulare il feedback
+**Mentalità fissa:** &quot;Le critiche significano che sono imperfetto&quot;
+**Mentalità di crescita:** &quot;Il feedback è un&#39;informazione che mi aiuta a migliorare&quot;
 
-The difference isn't positivity—it's accuracy. Feedback is data, not judgment.
+La differenza non è la positività, ma l&#39;accuratezza. Il feedback è dato, non giudizio.
 :::
 
 ---
 
-## Sources of Objective Feedback
+## Fonti di feedback oggettivo
 
-### 1. Quantitative Data
+### 1. Dati quantitativi
 
-Numbers don't lie or soften the truth:
+I numeri non mentono né attenuano la verità:
 
-| Metric | What It Reveals |
+| Metrico | Cosa rivela |
 |--------|-----------------|
-| **Pointing accuracy %** | Technical baseline and trends |
-| **First vs. late game accuracy** | Fatigue/pressure effects |
-| **Shooting success rate** | By distance, target type, match situation |
-| **Carreau percentage** | Risk-taking effectiveness |
+| **Precisione di puntamento %** | Base tecnica e tendenze |
+| **Precisione nel primo e nel secondo tempo** | Effetti di fatica/pressione |
+| **Percentuale di successo al tiro** | Per distanza, tipo di bersaglio, situazione di partita |
+| **Percentuale di Carreau** | Efficacia nell&#39;assunzione del rischio |
 
-### 2. Teammates
+### 2. Compagni di squadra
 
-Your teammates see you in competition—when your self-perception is least accurate:
+I tuoi compagni di squadra ti vedono in gara, quando la tua percezione di te stesso è meno accurata:
 
-**What to ask:**
-- "How do I seem to you when we're behind?"
-- "What do you notice about my approach in close games?"
-- "What's one thing I could do to be a better teammate?"
+**Cosa chiedere:**
+- &quot;Come ti sembro quando siamo indietro?&quot;
+- &quot;Cosa noti del mio approccio nelle partite ravvicinate?&quot;
+- &quot;Cosa potrei fare per essere un compagno di squadra migliore?&quot;
 
-### 3. Opponents
+### 3. Avversari
 
-Post-match conversations with trusted opponents can be revealing:
+Le conversazioni post-partita con avversari fidati possono essere rivelatrici:
 
-**What to ask:**
-- "What were you trying to exploit in my game?"
-- "Was there anything that surprised you about how I played?"
+**Cosa chiedere:**
+- &quot;Cosa stavi cercando di sfruttare nel mio gioco?&quot;
+- &quot;C&#39;è stato qualcosa che ti ha sorpreso nel modo in cui ho giocato?&quot;
 
-### 4. Coaches/Experienced Players
+### 4. Allenatori/Giocatori esperti
 
-External expertise provides perspective you can't generate yourself:
+Le competenze esterne forniscono una prospettiva che non potresti generare da solo:
 
-**What to ask:**
-- "What's the biggest gap between my potential and my current performance?"
-- "What pattern do you see in my misses?"
-- "What would you prioritize if you were coaching me?"
+**Cosa chiedere:**
+- &quot;Qual è il divario più grande tra il mio potenziale e le mie prestazioni attuali?&quot;
+- &quot;Quale schema vedi nei miei errori?&quot;
+- &quot;Quali sarebbero le priorità per te se fossi il mio allenatore?&quot;
 
-### 5. Video Analysis
+### 5. Analisi video
 
-The most objective mirror available. See [Video Analysis](/it/education/self-awareness/video) for detailed protocols.
+Lo specchio più obiettivo disponibile. Vedi [Analisi Video](/it/educazione/consapevolezza-di-sé/video) per protocolli dettagliati.
 
 ---
 
-## How to Ask for Feedback Effectively
+## Come chiedere feedback in modo efficace
 
-### The SEEK Framework
+### Il quadro SEEK
 
-**S - Specific**
-Don't ask: "How did I play?"
-Ask: "How did my pointing accuracy look in the third end when we were behind?"
+**S - Specifico**
+Non chiedere: &quot;Come ho giocato?&quot;
+Chiedi: &quot;Com&#39;è stata la mia precisione di puntamento nel terzo lato quando eravamo indietro?&quot;
 
-**E - Examples**
-Ask: "Can you give me a specific example?"
-This forces concrete feedback instead of generalizations.
+**E - Esempi**
+Chiedi: &quot;Puoi farmi un esempio specifico?&quot;
+Ciò impone un feedback concreto anziché generalizzazioni.
 
-**E - Exploratory**
-Approach with curiosity, not defense.
-"I'm trying to understand my blind spots. What might I be missing?"
+**E - Esplorativo**
+Avvicinatevi con curiosità, non con atteggiamento difensivo.
+&quot;Sto cercando di capire i miei punti ciechi. Cosa potrebbe sfuggirmi?&quot;
 
-**K - Kind (to yourself)**
-Remember: Seeking feedback is brave. You're doing hard work.
+**K - Gentile (con te stesso)**
+Ricorda: chiedere feedback è un atto di coraggio. Stai lavorando sodo.
 
-### Timing Matters
+### Il tempismo è importante
 
-| When | Best For | Avoid |
+| Quando | Ideale per | Evitare |
 |------|----------|-------|
-| **Immediately after** | Specific technical observations | Emotional processing |
-| **Next day** | Balanced perspective, patterns | If details have faded |
-| **Video review** | Objective analysis | If it delays action too long |
+| **Subito dopo** | Osservazioni tecniche specifiche | Elaborazione emotiva |
+| **Il giorno dopo** | Prospettiva equilibrata, modelli | Se i dettagli sono sbiaditi |
+| **Recensione video** | Analisi oggettiva | Se ritarda l&#39;azione troppo a lungo |
 
 ---
 
-## Receiving Feedback Without Defensiveness
+## Ricevere feedback senza mettersi sulla difensiva
 
-When feedback arrives, your brain will want to defend. Here's how to override that:
+Quando arriva un feedback, il tuo cervello vorrà difendersi. Ecco come ignorarlo:
 
-### The 3-Second Rule
+### La regola dei 3 secondi
 
-When you receive feedback, **wait 3 seconds before responding**. This gives your rational brain time to engage before your emotional brain reacts.
+Quando ricevi un feedback, **aspetta 3 secondi prima di rispondere**. Questo dà al tuo cervello razionale il tempo di attivarsi prima che quello emotivo reagisca.
 
-### The "Tell Me More" Technique
+### La tecnica &quot;Dimmi di più&quot;
 
-Instead of defending, say: "Tell me more about that."
+Invece di difenderti, dì: &quot;Dimmi di più a riguardo&quot;.
 
-This:
-- Buys processing time
-- Shows you value the input
-- Often reveals the root insight
+Questo:
+- Acquista tempo di elaborazione
+- Dimostra che apprezzi l&#39;input
+- Spesso rivela l&#39;intuizione fondamentale
 
-### Separate Reception from Evaluation
+### Separare la ricezione dalla valutazione
 
-**Step 1:** Receive (just listen)
-**Step 2:** Clarify (make sure you understand)
-**Step 3:** Thank (acknowledge the gift)
-**Step 4:** Evaluate (later, privately decide what to act on)
+**Passaggio 1:** Ricevi (semplicemente ascolta)
+**Passaggio 2:** Chiarire (assicurarsi di aver capito)
+**Passaggio 3:** Ringrazia (riconosci il dono)
+**Passaggio 4:** Valutare (in seguito, decidere privatamente su cosa agire)
 
-You don't have to agree with feedback immediately. You just have to receive it with openness.
-
----
-
-## The Feedback Response Protocol
-
-Use this when receiving feedback:
-
-1. **"Thank you for telling me that."**
-   - Genuine appreciation, even if the feedback stings
-
-2. **"Can you give me a specific example?"**
-   - Moves from general to actionable
-
-3. **"What would you suggest I try?"**
-   - Invites partnership in improvement
-
-4. **"I'm going to think about that."**
-   - Honest commitment without immediate agreement
+Non è necessario accettare immediatamente il feedback. Basta accoglierlo con apertura.
 
 ---
 
-## Turning Feedback into Action
+## Il protocollo di risposta al feedback
 
-Feedback without action is just uncomfortable conversation.
+Utilizza questo quando ricevi feedback:
 
-### The Feedback-to-Action Process
+1. **&quot;Grazie per avermelo detto.&quot;**
+   - Apprezzamento genuino, anche se il feedback brucia
+
+2. **&quot;Puoi farmi un esempio specifico?&quot;**
+   - Passa dal generale all&#39;attuabile
+
+3. **&quot;Cosa mi suggeriresti di provare?&quot;**
+   - Invita alla collaborazione nel miglioramento
+
+4. **&quot;Ci penserò.&quot;**
+   - Impegno onesto senza accordo immediato
+
+---
+
+## Trasformare il feedback in azione
+
+Un feedback senza azione non è altro che una conversazione scomoda.
+
+### Il processo di feedback-azione
 
 ```mermaid
 flowchart LR
-    A[Receive Feedback] --> B[Clarify Understanding]
-    B --> C[Identify Pattern]
-    C --> D[Design Practice]
-    D --> E[Implement]
-    E --> F[Seek Follow-up Feedback]
+    A[Ricevi feedback] --> B[Chiarire la comprensione]
+    B --> C[Identificare il modello]
+    C --> D[Pratica di progettazione]
+    D --> E[Attrezzo]
+    E --> F[Richiedi un feedback di follow-up]
     F --> A
 ```
 
-### Action Template
+### Modello di azione
 
-For each piece of actionable feedback:
+Per ogni feedback utile:
 
-| Element | Your Response |
+| Elemento | La tua risposta |
 |---------|---------------|
-| **The Feedback** | (What was said) |
-| **The Pattern** | (What recurring issue does this reveal?) |
-| **The Action** | (What specific thing will you practice?) |
-| **The Measure** | (How will you know if you've improved?) |
-| **The Timeline** | (When will you reassess?) |
+| **Il feedback** | (Ciò che è stato detto) |
+| **Il modello** | (Quale problema ricorrente rivela questo?) |
+| **L&#39;azione** | (Quale cosa specifica metterai in pratica?) |
+| **La misura** | (Come saprai se sei migliorato?) |
+| **La cronologia** | (Quando rivaluterete la situazione?) |
 
 ---
 
-## Creating a Feedback Culture
+## Creare una cultura del feedback
 
-### With Your Team
+### Con la tua squadra
 
-- **Normalize it:** Regular feedback becomes expected, not exceptional
-- **Two-way street:** Give feedback to receive it comfortably
-- **Timing agreements:** "Let's debrief after matches" vs. unsolicited criticism
-- **Focus on specifics:** "I noticed X" is better than "You always Y"
+- **Normalizzalo:** Il feedback regolare diventa previsto, non eccezionale
+- **Strada a doppio senso:** Fornisci un feedback per riceverlo comodamente
+- **Accordi sui tempi:** &quot;Facciamo il punto dopo le partite&quot; vs. critiche non richieste
+- **Concentrati sui dettagli:** &quot;Ho notato X&quot; è meglio di &quot;Tu fai sempre Y&quot;
 
-### With Yourself
+### Con te stesso
 
-- **Weekly self-review:** Dedicated time to assess your week
-- **Written reflection:** Writing creates clarity
-- **Pattern tracking:** Look for recurring themes across multiple sources
+- **Autovalutazione settimanale:** Tempo dedicato per valutare la tua settimana
+- **Riflessione scritta:** La scrittura crea chiarezza
+- **Monitoraggio dei pattern:** Cerca temi ricorrenti in più fonti
 
 ---
 
-## The Feedback-Resistant Player
+## Il giocatore resistente al feedback
 
-If you recognize yourself in any of these, prioritize this work:
+Se ti riconosci in una di queste situazioni, dai priorità a questo lavoro:
 
-::: warning Signs of Feedback Resistance
-- You can always explain why the feedback doesn't apply
-- You seek feedback only from people who agree with you
-- You feel attacked when receiving constructive input
-- You avoid people who challenge your self-perception
-- You rationalize poor results as external factors
+::: warning Segnali di resistenza al feedback
+- Puoi sempre spiegare perché il feedback non è valido
+- Cerchi feedback solo da persone che sono d&#39;accordo con te
+- Ti senti attaccato quando ricevi input costruttivi
+- Eviti le persone che mettono in discussione la tua percezione di te stesso
+- Razionalizzi i risultati scadenti come fattori esterni
 :::
 
-Breaking these patterns requires conscious effort—but the payoff is accelerated improvement.
+Per rompere questi schemi è necessario uno sforzo consapevole, ma il risultato è un miglioramento accelerato.
 
 ---
 
-## Related Content
+## Contenuti correlati
 
-- [The Self-Awareness Advantage](/it/education/self-awareness/) — Why self-knowledge matters
-- [Video Analysis](/it/education/self-awareness/video) — Objective self-observation
-- [Team Dynamics](/it/education/team-dynamics/) — Communication with teammates
-- [Mental Strength](/it/education/mental-game/mental-strength/) — Handling difficult truths
+- [Il vantaggio dell&#39;autoconsapevolezza](/it/educazione/autoconsapevolezza/) — Perché la conoscenza di sé è importante
+- [Analisi video](/it/educazione/autoconsapevolezza/video) — Auto-osservazione oggettiva
+- [Dinamiche di squadra](/it/education/team-dynamics/) — Comunicazione con i compagni di squadra
+- [Forza mentale](/it/educazione/gioco-mentale/forza-mentale/) — Gestire verità difficili
 

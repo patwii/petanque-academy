@@ -3,22 +3,22 @@ title: Sleep Tracker Template
 description: Track your sleep patterns and correlate them with pétanque performance. Printable templates for daily logging and weekly analysis.
 ---
 
-# Sleep Tracker Template
+# Slaaptracker-sjabloon
 
-> "The player who slept better often wins."
+> &quot;De speler die het beste geslapen heeft, wint vaak.&quot;
 
-Track your sleep patterns and correlate them with performance to optimize recovery.
+Houd je slaappatroon bij en koppel het aan je prestaties om je herstel te optimaliseren.
 
-::: tip Why Track Sleep?
-**Sleep is the #1 recovery tool.** Elite athletes who track sleep consistently report better energy, faster reaction times, and improved decision-making under pressure.
+::: tip Waarom zou je je slaap bijhouden?
+**Slaap is hét belangrijkste hulpmiddel voor herstel.** Topsporters die hun slaap consequent bijhouden, melden meer energie, snellere reactietijden en een beter vermogen om onder druk beslissingen te nemen.
 :::
 
 ```mermaid
 flowchart LR
-    A[Track Sleep] --> B[Identify Patterns]
-    B --> C[Adjust Habits]
-    C --> D[Better Performance]
-    D --> E[Track Results]
+    A[Slaap bijhouden] --> B[Patronen herkennen]
+    B --> C[Gewoonten aanpassen]
+    C --> D[Betere prestaties]
+    D --> E[Trackresultaten]
     E --> A
 
     style A fill:#9C27B0,color:#fff
@@ -27,174 +27,174 @@ flowchart LR
 
 ---
 
-## Quick Daily Entry
+## Snelle dagelijkse invoer
 
-### Copy This for Each Day
+### Kopieer dit elke dag.
 
 ---
 
-**Date:** ________
+**Datum:** ________
 
-**Bedtime:** ________ | **Wake time:** ________
-**Total sleep:** ________ hours
+| **Bedtijd:** ________ | **Wakker worden:** ________ |
+**Totale slaapduur:** ________ uur
 
-**Sleep Quality (1-10):** _____
+**Slaapkwaliteit (1-10):** _____
 
-**Factors affecting sleep:**
-- [ ] Caffeine after 2pm
+**Factoren die de slaap beïnvloeden:**
+- [ ] Cafeïne na 14.00 uur.
 - [ ] Alcohol
-- [ ] Screen time before bed
-- [ ] Stress/worry
-- [ ] Noise/light disturbance
-- [ ] Temperature issues
-- [ ] Late meal
-- [ ] Other: ________
+- [ ] Schermtijd voor het slapengaan
+- [ ] Stress/zorgen
+- [ ] Geluids-/lichtoverlast
+- [ ] Temperatuurproblemen
+- [ ] Late maaltijd
+- [ ] Ander: ________
 
-**Morning energy (1-10):** _____
+**Ochtendenergie (1-10):** _____
 
-**Notes:**
-
----
-
-## Weekly Sleep Summary
-
-### Copy This Each Week
+**Opmerkingen:**
 
 ---
 
-**Week of:** ________
+## Wekelijkse slaapsamenvatting
 
-| Day | Bedtime | Wake | Hours | Quality | Energy | Notes |
+### Kopieer dit elke week.
+
+---
+
+**Week van:** ________
+
+| Dag | Bedtijd | Wakker worden | Uren | Kwaliteit | Energie | Notities |
 |-----|---------|------|-------|---------|--------|-------|
-| Mon | | | | /10 | /10 | |
-| Tue | | | | /10 | /10 | |
-| Wed | | | | /10 | /10 | |
-| Thu | | | | /10 | /10 | |
-| Fri | | | | /10 | /10 | |
-| Sat | | | | /10 | /10 | |
-| Sun | | | | /10 | /10 | |
+| ma | /10 | /10 |
+| di | /10 | /10 |
+| woensdag | /10 | /10 |
+| Do | /10 | /10 |
+| vr | /10 | /10 |
+| Zat | /10 | /10 |
+| Zon | /10 | /10 |
 
-**Weekly Average:** _____ hours | Quality: _____/10 | Energy: _____/10
+| **Wekelijks gemiddelde:** _____ uur | Kwaliteit: _____/10 | Energie: _____/10 |
 
-**Best night:** ________ Why? ________
+**Beste avond:** ________ Waarom? ________
 
-**Worst night:** ________ Why? ________
+**Slechtste nacht:** ________ Waarom? ________
 
-**Pattern noticed:**
+**Opgemerkt patroon:**
 
 ---
 
-## Pre-Competition Sleep Protocol
+## Slaapprotocol voorafgaand aan de wedstrijd
 
-### 3 Days Before Competition
+### 3 dagen voor de wedstrijd
 
-| Night | Target Bedtime | Actual | Hours | Quality | Notes |
+| Nacht | Streeftijd voor het naar bed gaan | Werkelijk | Uren | Kwaliteit | Notities |
 |-------|----------------|--------|-------|---------|-------|
-| -3 days | | | | | |
-| -2 days | | | | | |
-| -1 day | | | | | |
+| -3 dagen |
+| -2 dagen |
+| -1 dag |
 
-**Competition day energy (1-10):** _____
+**Energieniveau op de wedstrijddag (1-10):** _____
 
-**Performance correlation:**
-- Did sleep affect my play? Yes / No / Maybe
-- How?
+**Prestatiecorrelatie:**
+- Heeft slaap mijn spel beïnvloed? Ja / Nee / Misschien
+- Hoe?
 
 ---
 
-## Sleep Environment Checklist
+## Checklist voor de slaapomgeving
 
-Rate your sleep environment:
+Beoordeel je slaapomgeving:
 
-| Factor | Score (1-10) | Improvement needed? |
+| Factor | Score (1-10) | Is verbetering nodig? |
 |--------|--------------|---------------------|
-| **Darkness** | | |
-| **Temperature** (16-19°C ideal) | | |
-| **Noise level** | | |
-| **Mattress comfort** | | |
-| **Pillow support** | | |
-| **Air quality** | | |
-| **Phone out of room** | | |
+| **Duisternis** |
+| **Temperatuur** (16-19°C ideaal) |
+| **Geluidsniveau** |
+| **Matrascomfort** |
+| **Kussenondersteuning** |
+| **Luchtkwaliteit** |
+| **Telefoon niet in de kamer** |
 
 ---
 
-## Sleep Hygiene Habits
+## Slaaphygiëne
 
-Track which habits you're following:
+Houd bij welke gewoonten je volgt:
 
-### Evening Routine (2 hours before bed)
+### Avondroutine (2 uur voor het slapengaan)
 
-- [ ] No caffeine after 2pm
-- [ ] No alcohol (or limit to 1 drink, 3+ hours before bed)
-- [ ] Light dinner, not too late
-- [ ] Dim lights in home
-- [ ] No intense exercise
-- [ ] Screen curfew (1 hour before bed)
-- [ ] Relaxation activity (reading, stretching, breathing)
+- [ ] Geen cafeïne meer na 14.00 uur.
+- [ ] Geen alcohol (of maximaal 1 drankje, 3 uur of langer voor het slapengaan)
+- [ ] Een lichte avondmaaltijd, niet te laat
+- [ ] Gedempte verlichting in huis
+- [ ] Geen intensieve lichaamsbeweging
+- [ ] Schermtijdbeperking (1 uur voor het slapengaan)
+- [ ] Ontspanningsactiviteit (lezen, stretchen, ademhalingsoefeningen)
 
-### Bedroom Rules
+### Slaapkamerregels
 
-- [ ] Room temperature 16-19°C
-- [ ] Complete darkness (or sleep mask)
-- [ ] Phone on silent, face down (or out of room)
-- [ ] Consistent bedtime (±30 min)
-- [ ] Bed only for sleep (not work/scrolling)
+- [ ] Kamertemperatuur 16-19°C
+- [ ] Volledige duisternis (of een slaapmasker)
+- [ ] Telefoon op stil, met het scherm naar beneden (of buiten de kamer).
+- [ ] Vaste bedtijd (±30 min)
+- [ ] Bed alleen om te slapen (niet om te werken/scrollen).
 
-**Habits followed this week:** _____/12
+**Gewoonten die ik deze week heb gevolgd:** _____/12
 
 ---
 
-## Sleep & Performance Correlation
+## Correlatie tussen slaap en prestaties
 
-Track over 4 weeks to see patterns:
+Houd de gegevens 4 weken lang bij om patronen te ontdekken:
 
-| Week | Avg Sleep | Avg Quality | Training Performance | Competition Result |
+| Week | Gemiddelde slaap | Gemiddelde kwaliteit | Trainingsprestaties | Wedstrijdresultaat |
 |------|-----------|-------------|---------------------|-------------------|
-| 1 | hrs | /10 | /10 | |
-| 2 | hrs | /10 | /10 | |
-| 3 | hrs | /10 | /10 | |
-| 4 | hrs | /10 | /10 | |
+| 1 | uren | /10 | /10 |
+| 2 | uren | /10 | /10 |
+| 3 | uren | /10 | /10 |
+| 4 | uren | /10 | /10 |
 
-**Correlation discovered:**
-
----
-
-## Travel Sleep Protocol
-
-For away competitions:
-
-**Before travel:**
-- [ ] Adjust bedtime 30 min earlier/later for time zone
-- [ ] Pack sleep essentials (mask, earplugs, pillow)
-- [ ] Book quiet room (away from elevator/street)
-
-**At destination:**
-- [ ] Set room temperature immediately
-- [ ] Block light sources
-- [ ] Maintain home bedtime routine
-- [ ] Avoid naps >20 min after travel
-
-**Notes for next trip:**
+**Correlatie ontdekt:**
 
 ---
 
+## Slaapprotocol voor op reis
+
+Voor uitwedstrijden:
+
+**Voor vertrek:**
+- [ ] Pas de bedtijd 30 minuten eerder/later aan, afhankelijk van de tijdzone.
+- [ ] Neem slaapbenodigdheden mee (masker, oordopjes, kussen).
+- [ ] Boek een rustige kamer (ver weg van de lift/straat).
+
+**Op de bestemming:**
+- [ ] Stel de kamertemperatuur direct in.
+- [ ] Blokkeer lichtbronnen
+- [ ] Houd het bedtijdritueel thuis aan.
+- [ ] Vermijd dutjes langer dan 20 minuten na de reis.
+
+**Aantekeningen voor de volgende reis:**
+
 ---
 
-## Quick Win: Start Tonight
+---
 
-::: info The 3-Day Challenge
-Track your sleep for just 3 days. You'll likely discover a pattern you didn't know existed.
+## Snelle winst: begin vanavond nog
+
+::: info De 3-daagse uitdaging
+Houd je slaap gedurende slechts 3 dagen bij. Je zult waarschijnlijk een patroon ontdekken waarvan je het bestaan niet wist.
 :::
 
-1. **Tonight** — Note your bedtime and any factors
-2. **Tomorrow morning** — Rate quality and energy immediately
-3. **Repeat for 3 days** — Look for patterns
+1. **Vanavond** — Noteer je bedtijd en eventuele andere factoren
+2. **Morgenochtend** — Beoordeel direct de kwaliteit en energie.
+3. **Herhaal dit 3 dagen lang** — Zoek naar patronen
 
 ---
 
-## Related Resources
+## Gerelateerde bronnen
 
-- [Sleep & Recovery Education](/nl/education/sleep/) — The science behind sleep
-- [Competition Checklist](/nl/guides/templates/pre-competition-checklist) — Full preparation guide
-- [Training Diary](/nl/guides/templates/diary-template) — Track all aspects of training
+- [Slaap &amp; Herstel Educatie](/en/education/sleep/) — De wetenschap achter slaap
+- [Wedstrijdchecklist](/en/guides/templates/pre-competition-checklist) — Volledige voorbereidingsgids
+- [Trainingsdagboek](/en/guides/templates/diary-template) — Houd alle aspecten van de training bij
 

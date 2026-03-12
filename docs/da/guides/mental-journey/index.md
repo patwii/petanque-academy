@@ -17,9 +17,9 @@ Uanset om du er en spiller, der ønsker at forbedre dit mentale spil, eller en t
 | Ressource | Formål | Adgang |
 |----------|---------|--------|
 | **Kom godt i gang** | Introduktion til mentale spilkoncepter | [Læs nedenfor](#hvorfor-mental-træning-er-vigtigt) |
-| **Sessionsguide** | Komplet 2-3 timers workshopguide for facilitatorer | [Se guide](/da/mental-rejse/sessionsguide) |
-| **Materialer** | Deltagervejledninger, slides og arbejdsark | [Se materialer](/da/guides/mental-journey/materialer) |
-| **Relaterede vejledninger** | Avancerede formater | [Workshop](/da/guides/workshop/) • [Træningslejr](/da/guides/training-camp/) |
+| **Sessionsguide** | Komplet 2-3 timers workshopguide for facilitatorer | [Se guide](/da/guider/mental-rejse/sessionsguide) |
+| **Materialer** | Deltagervejledninger, slides og arbejdsark | [Se materialer](/da/guider/mental-rejse/materialer) |
+| **Relaterede vejledninger** | Avancerede formater | [Workshop](/da/guider/workshop/) • [Træningslejr](/da/guider/træningslejr/) |
 
 ## Hvorfor mental træning er vigtig
 
@@ -77,23 +77,23 @@ graph TD
 ### Mulighed 1: Selvstudium (for spillere)
 
 **Uge 1: Forståelse af det grundlæggende**
-1. Læs modulet [Zonen](/da/education/mental-game/the-zone/)
+1. Læs [Zonen](/da/uddannelse/mentalt-spil/zonen/) modulet
 2. Prøv 3-åndedræts-nulstillingsteknikken
 3. Læg mærke til, hvornår du er i &quot;teknisk tilstand&quot; versus &quot;flowtilstand&quot;
 
 **Uge 2: Opbygning af bevidsthed**
-1. Læs modulet [Mental styrke](/da/education/mental-game/mental-strength/)
+1. Læs modulet [Mental styrke](/da/uddannelse/mentalt-spil/mental-styrke/)
 2. Identificér dine indre kritikmønstre
 3. Øv neutral observation efter fejl
 
 **Uge 3: Skab struktur**
-1. Læs [Mindfulness](/da/education/mental-game/mindfulness/) modulet
+1. Læs [Mindfulness](/da/uddannelse/mentalt-spil/mindfulness/) modul
 2. Start med 5-minutters daglig træning
 3. Udvikl en simpel rutine før indtagelse
 
 **Uge 4: Integration**
 1. Brug din rutine i praksis
-2. Spor mental præstation i [Dagbogsskabelon](/da/guides/templates/diary-template)
+2. Spor mental præstation i [Dagbogsskabelon](/da/guides/templates/dagbogsskabelon)
 3. Sæt mentale spilmål ved hjælp af [Målskabelon](/da/guides/templates/goal-template)
 
 ### Mulighed 2: Gruppeworkshop (for trænere)
@@ -165,21 +165,21 @@ Mental træning erstatter ikke teknisk øvelse. Men det hjælper dig med at få 
 ## Tilgængelige ressourcer
 
 ### For spillere
-- [Uddannelsesmoduler](/da/education/) - 8 omfattende guider
-- [Målskabelon](/da/guides/templates/goal-template) - Strukturer din udvikling
-- [Skabelon til dagbog](/da/guides/templates/diary-template) - Følg dine fremskridt
-- [Casestudier](/da/articles/) - Virkelige eksempler
+- [Uddannelsesmoduler](/da/uddannelse/) - 8 omfattende guider
+- [Målskabelon](/da/vejledninger/skabeloner/målskabelon) - Strukturer din udvikling
+- [Skabelon til dagbog](/da/guider/skabeloner/dagbogskabelon) - Følg dine fremskridt
+- [Casestudier](/da/artikler/casestudier) - Virkelige eksempler
 
 ### For trænere/guider
-- [Sessionsguide](/da/guides/mental-journey/sessionsguide) - Komplet 2-3 timers workshop
-- [Materialer til undervisere](/da/guides/mental-journey/materialer) - Digitale guider og slides
+- [Sessionsguide](/da/guider/mental-rejse/sessionsguide) - Komplet workshop på 2-3 timer
+- [Materialer til undervisere](/da/vejledninger/mental-rejse/materialer) - Digitale vejledninger og slides
 - [Workshopguide](/da/guides/workshop/) - Avanceret 3-4 timers format
-- [Træningslejrguide](/da/guides/training-camp/) - Weekendprogram
+- [Træningslejrguide](/da/guider/træningslejr/) - Weekendprogram
 
 ## Næste trin
 
 ### For individuelle spillere
-1. **Start med bevidsthed** - Læs [Zonen](/da/education/mental-game/the-zone/)
+1. **Start med bevidsthed** - Læs [Zonen](/da/uddannelse/mentalt-spil/zonen/)
 2. **Prøv én teknik** - Brug 3-åndedræts-nulstillingen i denne uge
 3. **Spor din oplevelse** - Bemærk, hvilke ændringer der sker
 4. **Udbyg gradvist** - Tilføj én ny færdighed om ugen
@@ -195,17 +195,17 @@ Mental træning erstatter ikke teknisk øvelse. Men det hjælper dig med at få 
 
 **Spørgsmål om at komme i gang?**
 - E-mail: [patrik.wiik@gmail.com](mailto:patrik.wiik@gmail.com)
-- Se [Casestudier](/da/articles/) for eksempler
+- Gennemgå [Casestudier](/da/artikler/casestudier) for eksempler
 - Deltag i diskussionerne i din klub
 
 
 ---
 
 ::: tip Klar til at begynde?
-**Spillere:** Start med modulet [Zonen](/da/education/mental-game/the-zone/)
+**Spillere:** Start med [Zonen](/da/uddannelse/mentalt-spil/zonen/) modul
 
-**Trænere:** Gå til [Sessionsguide](/da/guides/mental-journey/sessionsguide)
+**Trænere:** Gå til [Sessionsguide](/da/guider/mental-rejse/sessionsguide)
 
-**Download materialer:** Besøg [Facilitatormaterialer](/da/guides/mental-journey/materialer)
+**Download materialer:** Besøg [Facilitatormaterialer](/da/guider/mental-rejse/materialer)
 :::
 

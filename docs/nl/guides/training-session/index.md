@@ -1,29 +1,29 @@
-# Training Session: Competition Practice Guide
+# Trainingssessie: Handleiding voor wedstrijdvoorbereiding
 
 
-## How 4 Players Can Train Together Regularly
+## Hoe 4 spelers regelmatig samen kunnen trainen
 
-This guide shows how to create a regular training group of 4 players that competes against each other on different surfaces and environments for 2-4 hours. Emulate real competition while building psychological safety and mental performance skills.
+Deze handleiding laat zien hoe je een vaste trainingsgroep van 4 spelers kunt opzetten die 2 tot 4 uur lang tegen elkaar spelen op verschillende ondergronden en in diverse omgevingen. Zo simuleer je een echte wedstrijd en bouw je tegelijkertijd een gevoel van veiligheid en mentale prestatieverbetering op.
 
-::: tip The Training Session Philosophy
-**Competition without reflection is just playing. Training without competition is just practice.** This format combines both: compete hard, then reflect deeply.
+::: tip De trainingssessiefilosofie
+**Competitie zonder reflectie is gewoon spelen. Training zonder competitie is gewoon oefenen.** Deze aanpak combineert beide: hard strijden, en vervolgens diepgaand reflecteren.
 :::
 
-## Quick Access
+## Sneltoegang
 
-| Section | Purpose | Access |
+| Sectie | Doel | Toegang |
 |---------|---------|--------|
-| **Finding Your Group** | How to recruit the right 4 players | [View Section](#finding-your-group) |
-| **Session Structure** | 2-hour and 4-hour formats | [View Section](#session-structure) |
-| **Startup Protocol** | How to begin each session | [View Section](#startup-protocol-15-min) |
-| **Reflection Guide** | Post-session debrief process | [View Section](#reflection-protocol-15-30-min) |
-| **Related Guides** | Other training formats | [Mental Journey](/nl/guides/mental-journey/) • [Workshop](/nl/guides/workshop/) • [Training Camp](/nl/guides/training-camp/) |
+| **Je groep vinden** | Hoe rekruteer je de juiste 4 spelers? | [Sectie bekijken](#je-groep-vinden) |
+| **Sessie-opzet** | Formaten van 2 uur en 4 uur | [Sectie bekijken](#session-structure) |
+| **Opstartprotocol** | Hoe begin je elke sessie? | [Sectie bekijken](#startup-protocol-15-min) |
+| **Reflectiegids** | Nabesprekingsproces na de sessie | [Bekijk sectie](#reflectieprotocol-15-30-min) |
+| **Gerelateerde handleidingen** | Andere trainingsvormen | [Mentale Reis](/en/guides/mental-journey/) • [Workshop](/en/guides/workshop/) • [Trainingskamp](/en/guides/training-camp/) |
 
 ```mermaid
 graph LR
-    A[Training Session] --> B[Startup 15min]
-    B --> C[Competition 90-180min]
-    C --> D[Reflection 15-30min]
+    A[trainingssessie] --> B[Opstarttijd: 15 minuten]
+    B --> C[Wedstrijd 90-180 minuten]
+    C --> D[Reflectie 15-30 minuten]
 
     style A fill:#e8f5e9
     style B fill:#fff4e1
@@ -31,234 +31,234 @@ graph LR
     style D fill:#e3f2fd
 ```
 
-## Why 4 Players?
+## Waarom 4 spelers?
 
-**The Perfect Number:**
-- **2v2 format** - Mirrors real competition
-- **Rotation options** - Change partners, play singles
-- **Peer learning** - Diverse playing styles
-- **Accountability** - Hard to cancel on 3 people
-- **Intimacy** - Small enough for deep sharing
+**Het perfecte getal:**
+- **2 tegen 2-formaat** - Nabootst de echte competitie
+- **Rotatiemogelijkheden** - Wissel van partner, speel enkelspel
+- **Leren van elkaar** - Diverse speelstijlen
+- **Verantwoordelijkheid** - Lastig om bij 3 personen af te zeggen
+- **Intimiteit** - Klein genoeg voor diepgaande uitwisseling.
 
-::: info The Group Dynamic
-4 players creates the ideal balance between competition intensity and psychological safety. You compete hard, but you also support each other's growth.
+::: info De groepsdynamiek
+Met 4 spelers ontstaat de ideale balans tussen competitie-intensiteit en psychologische veiligheid. Je strijdt hard, maar je ondersteunt elkaar ook in je groei.
 :::
 
-## Finding Your Group
+## Je groep vinden
 
-### Ideal Group Composition
+### Ideale groepssamenstelling
 
-**Skill Level:**
-- Similar level (within 1-2 tiers)
-- All committed to improvement
-- Mix of pointers and shooters
-- Different playing styles
+**Vaardigheidsniveau:**
+- Vergelijkbaar niveau (binnen 1-2 niveaus)
+- Allen zetten zich in voor verbetering.
+- Een mix van aanwijzers en schutters.
+- Verschillende speelstijlen
 
-**Mindset:**
-- Open to vulnerability
-- Willing to reflect
-- Competitive but supportive
-- Growth-oriented
+**Denkwijze:**
+- kwetsbaarheid
+- Bereid om te reflecteren
+- Competitief maar ondersteunend
+- Groei-georiënteerd
 
-**Logistics:**
-- Live within 30 minutes of each other
-- Can commit to regular schedule
-- Similar availability
+**Logistiek:**
+- Ze wonen binnen 30 minuten van elkaar.
+- Kan zich aan een vast schema houden
+- Vergelijkbare beschikbaarheid
 
-### Recruiting Your Group
+### Uw groep rekruteren
 
-**Where to find players:**
-- Your club's elite players
-- Regional tournament regulars
-- Online pétanque communities
-- Ask your coach for recommendations
+**Waar spelers te vinden zijn:**
+- De topspelers van jouw club
+- Regelmatige deelnemers aan regionale toernooien
+- Online pétanque-gemeenschappen
+- Vraag je coach om aanbevelingen.
 
-**The Invitation:**
-> "I'm forming a small training group of 4 players who want to compete regularly and work on the mental game. We'd meet weekly for 2-3 hours, play hard, then reflect on what we're learning. Interested?"
+**De uitnodiging:**
+> &quot;Ik ben een kleine trainingsgroep aan het samenstellen met 4 spelers die regelmatig willen spelen en aan hun mentale spel willen werken. We komen wekelijks 2-3 uur samen, spelen intensief en reflecteren vervolgens op wat we hebben geleerd. Interesse?&quot;
 
-## Session Structure
+## Sessiestructuur
 
-### 2-Hour Session
+### Sessie van 2 uur
 
-| Time | Activity | Duration |
+| Tijd | Activiteit | Duur |
 |------|----------|----------|
-| **Startup** | Check-in & setup | 15 min |
-| **Competition** | 2v2 matches | 90 min |
-| **Reflection** | Debrief & learning | 15 min |
+| **Start-up** | Inchecken en installatie | 15 min |
+| **Concurrentie** | 2 tegen 2 wedstrijden | 90 minuten |
+| **Reflectie** | Nabespreking en leerpunten | 15 min |
 
-### 3-Hour Session
+### Sessie van 3 uur
 
-| Time | Activity | Duration |
+| Tijd | Activiteit | Duur |
 |------|----------|----------|
-| **Startup** | Check-in & setup | 15 min |
-| **Competition Round 1** | 2v2 matches | 60 min |
-| **Break** | Rest & informal chat | 15 min |
-| **Competition Round 2** | Rotate partners | 60 min |
-| **Reflection** | Deep debrief | 30 min |
+| **Start-up** | Inchecken en installatie | 15 min |
+| **Wedstrijdronde 1** | 2 tegen 2 wedstrijden | 60 min |
+| **Pauze** | Rust en informeel geklets | 15 min |
+| **Wedstrijdronde 2** | Wissel partners | 60 min |
+| **Reflectie** | Uitgebreide nabespreking | 30 min |
 
-### 4-Hour Session
+### Sessie van 4 uur
 
-| Time | Activity | Duration |
+| Tijd | Activiteit | Duur |
 |------|----------|----------|
-| **Startup** | Check-in & setup | 20 min |
-| **Competition Round 1** | 2v2 matches | 75 min |
-| **Break** | Rest & snack | 15 min |
-| **Competition Round 2** | Rotate partners | 75 min |
-| **Break** | Rest | 10 min |
-| **Competition Round 3** | Singles or challenge | 45 min |
-| **Reflection** | Deep debrief & planning | 30 min |
+| **Start-up** | Inchecken en installatie | 20 min |
+| **Wedstrijdronde 1** | 2 tegen 2 wedstrijden | 75 min |
+| **Pauze** | Rust en een tussendoortje | 15 min |
+| **Wedstrijdronde 2** | Wissel partners | 75 min |
+| **Pauze** | Rest | 10 min |
+| **Wedstrijdronde 3** | Individueel of uitdaging | 45 min |
+| **Reflectie** | Grondige nabespreking en planning | 30 min |
 
 
-## Startup Protocol (15-20 minutes)
+## Opstartprotocol (15-20 minuten)
 
-### 1. Physical Setup (5 min)
+### 1. Fysieke installatie (5 min)
 
-**Choose the terrain:**
-- Rotate through different surfaces each week
-- Vary difficulty and conditions
-- Sometimes choose uncomfortable terrain intentionally
+**Kies het terrein:**
+- Wissel elke week van ondergrond.
+- Verschillende moeilijkheidsgraden en omstandigheden.
+- Soms kiezen ze bewust voor oncomfortabel terrein.
 
-**Set up the space:**
-- Mark boundaries clearly
-- Prepare measuring tools
-- Water station
-- Shade if needed
+**De ruimte inrichten:**
+- Markeer de grenzen duidelijk.
+- Meetinstrumenten klaarleggen
+- Waterstation
+- Schaduw indien nodig
 
-### 2. Mental Check-In (10 min)
+### 2. Mentale check-in (10 min)
 
-**The Check-In Circle:**
+**De incheckcirkel:**
 
-Stand in a circle (no boules yet) and go around:
+Ga in een cirkel staan (nog geen jeu de boules) en loop eromheen:
 
-**Each person shares:**
-1. **Energy level** (1-10): "I'm at a 7 today"
-2. **Mental state**: "I'm feeling focused" or "I'm distracted by work stress"
-3. **Intention**: "Today I want to work on staying calm after misses"
+**Iedere persoon deelt:**
+1. **Energieniveau** (1-10): &quot;Vandaag zit ik op een 7&quot;
+2. **Mentale toestand**: &quot;Ik voel me geconcentreerd&quot; of &quot;Ik word afgeleid door werkstress&quot;
+3. **Doel**: &quot;Vandaag wil ik oefenen om kalm te blijven na missers.&quot;
 
-**Why this matters:**
-- Builds awareness of mental state
-- Creates empathy in the group
-- Sets individual focus for the session
-- Normalizes being "off" some days
+**Waarom dit belangrijk is:**
+- Vergroot het bewustzijn van de mentale toestand.
+- Wekt empathie op in de groep.
+- Bepaalt de individuele focus voor de sessie.
+- Het normaliseert het om af en toe een &#39;niet-bestaande&#39; dag te hebben.
 
-**Facilitator tip:** Rotate who goes first each week
+**Tip voor de begeleider:** Wissel elke week af wie als eerste aan de beurt is.
 
-### 3. Ground Rules Reminder (5 min)
+### 3. Herinnering aan de huisregels (5 min)
 
-**Every session, briefly remind:**
+**Herinner tijdens elke sessie kort aan het volgende:**
 
-::: tip Session Ground Rules
-1. **Compete hard** - Play to win, no holding back
-2. **Support growth** - Help each other learn
-3. **Respect User Manuals** - Honor how each person wants to be treated
-4. **Stay present** - No phones during play
-5. **Reflect honestly** - Share what's really happening inside
-6. **Confidentiality** - What's shared here, stays here
+::: tip Sessieregels
+1. **Ga de strijd aan** - Speel om te winnen, zonder je in te houden.
+2. **Stimuleer groei** - Help elkaar leren
+3. **Respecteer de gebruikershandleidingen** - Houd rekening met hoe iedereen behandeld wil worden.
+4. **Blijf in het moment** - Geen telefoons tijdens het spelen
+5. **Wees eerlijk** - Deel wat er zich werkelijk vanbinnen afspeelt.
+6. **Vertrouwelijkheid** - Wat hier gedeeld wordt, blijft hier.
 :::
 
-**The Balance:**
-> "We compete like it's a tournament, but we support like we're teammates. Hard on the game, soft on the person."
+**De balans:**
+> &quot;We strijden alsof het een toernooi is, maar we steunen elkaar als teamgenoten. Hard op het spel, zacht voor de persoon.&quot;
 
-## Competition Conduct Rules
+## Wedstrijdgedragsregels
 
-### Match Format
+### Wedstrijdformaat
 
-**Standard 2v2:**
-- Play to 13 points
-- Standard pétanque rules
-- Keep score honestly
-- Measure when needed (don't guess)
+**Standaard 2 tegen 2:**
+- Speel tot 13 punten
+- Standaard pétanque-regels
+- Houd de score eerlijk bij.
+- Meet indien nodig (ga niet gokken).
 
-**Rotation Options:**
+**Rotatieopties:**
 
-**Week 1:** A+B vs C+D
-**Week 2:** A+C vs B+D
-**Week 3:** A+D vs B+C
+**Week 1:** A+B versus C+D
+**Week 2:** A+C versus B+D
+**Week 3:** A+D versus B+C
 **Week 4:** Singles round-robin
 
-### Creating Competition Environment
+### Het creëren van een competitieve omgeving
 
-::: warning Critical: Make It Real
-**This is not casual practice.** Treat it like a tournament:
+::: warning Cruciaal: maak het echt
+**Dit is geen ontspannen oefening.** Behandel het als een toernooi:
 
-✅ **Do:**
-- Keep official score
-- Measure accurately
-- Call foot faults
-- Take it seriously
-- Celebrate good shots
-- Show disappointment in misses
+✅ **Doe het volgende:**
+- Houd de officiële score bij.
+- Nauwkeurig meten
+- Meld voetfouten
+- Neem het serieus
+- Vier de goede schoten
+- Toon je teleurstelling bij gemiste kansen.
 
-❌ **Don't:**
-- Give "do-overs"
-- Be overly casual
-- Let bad calls slide
-- Joke through the whole game
-- Make excuses
+❌ **Niet doen:**
+- Geef herkansingen.
+- Wees te nonchalant.
+- Laat slechte beslissingen door de vingers zien.
+- Maak de hele wedstrijd door grappen.
+- Verzin excuses
 :::
 
-### The Mental Performance Twist
+### De mentale prestatietwist
 
-**Track two scores:**
+**Track twee scores:**
 
-1. **Traditional Score** - Points won
-2. **Mental Performance Score** - How well you managed your inner game
+1. **Traditionele score** - Behaalde punten
+2. **Score voor mentale prestaties** - Hoe goed je je innerlijke zelf hebt beheerst
 
-**Mental Performance Criteria (self-scored 1-5 after each game):**
+**Criteria voor mentale prestaties (zelfbeoordeling 1-5 na elke wedstrijd):**
 
-| Criterion | 1 (Poor) | 3 (Good) | 5 (Excellent) |
+| Criterium | 1 (Slecht) | 3 (Goed) | 5 (Uitstekend) |
 |-----------|----------|----------|---------------|
-| **Stayed Present** | Dwelled on past shots | Mostly present | Fully in the moment |
-| **Managed Inner Critic** | Harsh self-talk | Caught and reframed | Used Inner Coach |
-| **Emotional Regulation** | Visible frustration | Stayed mostly calm | Calm throughout |
-| **Supported Partner** | Ignored or blamed | Basic support | Used User Manual |
-| **Focus** | Distracted, unfocused | Mostly focused | Laser focused |
+| **Bleef aanwezig** | Hij bleef stilstaan bij eerdere opnames. | Meestal aanwezig | Volledig in het moment |
+| **Je innerlijke criticus onder controle houden** | Kritische zelfkritiek | Betrapt en opnieuw ingekaderd | Inner Coach gebruikt |
+| **Emotieregulatie** | Zichtbare frustratie | Bleef grotendeels kalm | Overal rustig |
+| **Ondersteunde partner** | Genegeerd of de schuld gegeven | Basisondersteuning | Gebruikte gebruikershandleiding |
+| **Focus** | Afgeleid, ongeconcentreerd | Voornamelijk gefocust | Laserfocus |
 
-**Total:** /25 per game
+**Totaal:** /25 per spel
 
-**Why this matters:**
-- Shifts focus from outcome to process
-- Builds awareness of mental game
-- Creates accountability for inner work
-- Celebrates mental performance, not just winning
+**Waarom dit belangrijk is:**
+- Verlegt de focus van resultaat naar proces.
+- Vergroot het bewustzijn van het mentale aspect van het spel.
+- Creëert verantwoordelijkheid voor innerlijk werk.
+- Het viert mentale prestaties, niet alleen winnen.
 
-### Varying the Environment
+### De omgeving variëren
 
-**Rotate through different challenges:**
+**Wissel af tussen verschillende uitdagingen:**
 
-**Week 1: Home Terrain**
-- Your regular piste
-- Comfortable conditions
-- Focus: Building confidence
+**Week 1: Thuisbasis**
+- Uw vaste piste
+- Comfortabele omstandigheden
+- Focus: Zelfvertrouwen opbouwen
 
-**Week 2: Difficult Terrain**
-- Uneven, challenging surface
-- Focus: Emotional regulation, acceptance
+**Week 2: Moeilijk terrein**
+- Oneffen, uitdagend oppervlak
+- Focus: Emotionele regulatie, acceptatie
 
-**Week 3: Different Location**
-- Another club's piste
-- Focus: Adaptability
+**Week 3: Andere locatie**
+- Een piste van een andere club
+- Focus: Aanpassingsvermogen
 
-**Week 4: Pressure Conditions**
-- Spectators (invite others to watch)
-- Focus: Managing external pressure
+**Week 4: Drukcondities**
+- Toeschouwers (nodig anderen uit om te komen kijken)
+- Focus: Omgaan met externe druk
 
-**Week 5: Weather Challenge**
-- Wind, heat, or cold
-- Focus: Mental toughness
+**Week 5: Weeruitdaging**
+- Wind, hitte of kou
+- Focus: Mentale veerkracht
 
-**Week 6: Time Pressure**
-- Shot clock (30 seconds per throw)
-- Focus: Decision-making under pressure
+**Week 6: Tijdsdruk**
+- Schotklok (30 seconden per worp)
+- Focus: Besluitvorming onder druk
 
 ```mermaid
 graph TD
-    A[Vary Environment] --> B[Different Surfaces]
-    A --> C[Different Locations]
-    A --> D[Different Conditions]
-    A --> E[Different Pressures]
+    A[Variabele omgeving] --> B[Verschillende oppervlakken]
+    A --> C[Verschillende locaties]
+    A --> D[Verschillende omstandigheden]
+    A --> E[Verschillende drukken]
 
-    B --> F[Build Adaptability]
+    B --> F[Ontwikkel aanpassingsvermogen]
     C --> F
     D --> F
     E --> F

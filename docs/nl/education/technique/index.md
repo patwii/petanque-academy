@@ -50,21 +50,21 @@ Een echt resultaat ziet er als volgt uit:
 - &quot;Ik wil een vloeiende opname die naar links afbuigt op dit soort terrein.&quot;
 - &quot;Ik wil een zachte devant-shot die de boule nauwelijks raakt.&quot;
 
-**Verken eerst het [Palet van Werptechnieken](/nl/education/technique/throws)** om te begrijpen wat er mogelijk is. Bepaal vervolgens welke specifieke worp je aan je repertoire wilt toevoegen. Pas daarna kun je beginnen met het oefenen van de juiste bewegingen van je arm, pols en lichaam om dat resultaat te bereiken.
+**Verken eerst het [Palet van Werptechnieken](/en/education/technique/throws)** om te begrijpen wat er mogelijk is. Bepaal vervolgens welke specifieke worp je aan je repertoire wilt toevoegen. Pas daarna kun je beginnen met het oefenen van de juiste bewegingen van je arm, pols en lichaam om dat resultaat te bereiken.
 
 ## De juiste manier om aan je techniek te werken
 
 We zeggen niet dat je nooit aan je arm, pols, release of lichaamshouding moet werken. **Technische training op uitvoering is absoluut waardevol** — maar het moet wel een goed doel dienen.
 
 ::: info Het juiste doel voor technisch werk
-**Correcte bedoeling:** "Ik wil een nieuwe worp aan mijn repertoire toevoegen"
+**Correcte bedoeling:** &quot;Ik wil een nieuwe kleur aan mijn palet toevoegen&quot;
 
-**Verkeerd doel:** "Ik wil meer schoten raken" of "Ik wil consistenter zijn"
+**Verkeerd doel:** &quot;Ik wil meer schoten maken&quot; of &quot;Ik wil consistenter zijn&quot;
 :::
 
 Dit is de procedure:
 
-1. **Verken het [Palet van Werptechnieken](/nl/education/technique/throws)** — Bepaal welke worp of techniek je aan je repertoire wilt toevoegen.
+1. **Verken het [Palet van Werptechnieken](/en/education/technique/throws)** — Bepaal welke worp of techniek je aan je repertoire wilt toevoegen.
 2. **Visualiseer het resultaat** — Wat moet de boule doen? Welke baan, landing, draaiing en gedrag heb je nodig?
 3. **Werk vervolgens aan de uitvoering** — Nu kun je je concentreren op de arm-, pols- en lichaamshouding en de ontspanning om dat specifieke resultaat te bereiken.
 
@@ -119,14 +119,14 @@ Veel ervaren spelers besteden jaren aan het verfijnen van hun bestaande techniek
 ### De weg vooruit
 
 **Voor betere foto&#39;s (nieuwe mogelijkheden):**
-- Verken het [Palet van worpen](/nl/education/technique/throws)
+- Ontdek het [Palet van worpen](/en/education/technique/throws)
 - Kies een specifieke nieuwe worp om te ontwikkelen.
 - Oefen de technische uitvoering.
 
 **Voor meer foto&#39;s (consistentie onder druk):**
-- Werk aan [Mentale Kracht](/nl/education/mental-game/mental-strength/)
-- Leer hoe je toegang krijgt tot [The Zone](/nl/education/mental-game/the-zone/)
-- Ontwikkel [routines voor de vaccinatie](/nl/education/mental-game/mental-strength/pre-shot-routine)
+- Werk aan [Mentale Kracht](/en/education/mental-game/mental-strength/)
+- Leer hoe je toegang krijgt tot [De Zone](/en/education/mental-game/the-zone/)
+- Ontwikkel [Routines vóór het schieten](/en/education/mental-game/mental-strength/pre-shot-routine)
 
 ## Ons perspectief
 
@@ -159,13 +159,13 @@ Als je een technische focus hebt en je repertoire wilt uitbreiden, beschrijft di
 
 ## Onderwerpen
 
-### [Palet van worpen](/nl/education/technique/throws)
+### [Palet van worpen](/en/education/technique/throws)
 Welke worpen zijn er allemaal mogelijk? Een uitgebreid overzicht van de technische mogelijkheden bij pétanque.
 
 ::: tip Wat komt er na de techniek?
 Als je eenmaal een solide techniek beheerst, komt de echte groei voort uit:
-- **[De Zone](/nl/education/mental-game/the-zone/)** - Toegang tot flowtoestanden
-- **[Mentale kracht](/nl/education/mental-game/mental-strength/)** - Omgaan met druk
-- **[Trainingsmethoden](/nl/education/technique/training/)** - Hoe effectief te oefenen
+- **[De Zone](/en/education/mental-game/the-zone/)** - Toegang tot flowtoestanden
+- **[Mentale kracht](/en/education/mental-game/mental-strength/)** - Omgaan met druk
+- **[Trainingsmethoden](/en/education/technique/training/)** - Hoe effectief te oefenen
 :::
 

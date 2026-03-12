@@ -228,13 +228,13 @@ _________________________________________________
 **Website:** carreau.app
 
 **Recommended Starting Point:**
-- [The Zone](/no/education/mental-game/the-zone/) - Deep dive into flow states
-- [Mental Strength](/no/education/mental-game/mental-strength/) - Building resilience
-- [Mindfulness](/no/education/mental-game/mindfulness/) - Daily practice guide
+- [The Zone](/en/education/mental-game/the-zone/) - Deep dive into flow states
+- [Mental Strength](/en/education/mental-game/mental-strength/) - Building resilience
+- [Mindfulness](/en/education/mental-game/mindfulness/) - Daily practice guide
 
 **Tools:**
-- [Goal Template](/no/guides/templates/goal-template) - Structure your development
-- [Diary Template](/no/guides/templates/diary-template) - Track your progress
+- [Goal Template](/en/guides/templates/goal-template) - Structure your development
+- [Diary Template](/en/guides/templates/diary-template) - Track your progress
 
 ### Questions?
 
@@ -631,9 +631,9 @@ Website: carreau.app
 **Email:** patrik.wiik@gmail.com
 
 **Next Steps:**
-1. Read [The Zone](/no/education/mental-game/the-zone/)
-2. Use [Goal Template](/no/guides/templates/goal-template)
-3. Track progress in [Diary](/no/guides/templates/diary-template)
+1. Read [The Zone](/en/education/mental-game/the-zone/)
+2. Use [Goal Template](/en/guides/templates/goal-template)
+3. Track progress in [Diary](/en/guides/templates/diary-template)
 ```
 
 </details>
@@ -654,7 +654,7 @@ Interaktive arbeidsark for aktiviteter i øktene. Deltakerne kan bruke disse dig
 ### Arbeidsark 4: Handlingsplan
 
 ::: tip Digitale arbeidsark
-Oppfordre deltakerne til å bruke [Målmal](/no/guides/templates/goal-template) og [Dagbokmal](/no/guides/templates/diary-template) til kontinuerlig øving.
+Oppfordre deltakerne til å bruke [Målmal](/en/guides/templates/goal-template) og [Dagbokmal](/en/guides/templates/diary-template) for kontinuerlig øving.
 :::
 
 
@@ -714,8 +714,8 @@ For eksterne eller hybride økter:
 
 **Spørsmål om materialer?**
 - E-post: patrik.wiik@gmail.com
-- Se gjennom [Øktguiden](/no/guides/mental-journey/øktguide)
-- Sjekk [Workshop Guide](/no/guides/workshop/) for avansert format
+- Se gjennom [Øktguiden](/no/guider/mental-reise/øktguide)
+- Sjekk [Workshop Guide](/en/guides/workshop/) for avansert format
 
 
 ---

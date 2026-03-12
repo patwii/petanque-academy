@@ -3,24 +3,24 @@ layout: home
 
 hero:
   name: "Pétanque Academy"
-  text: "Ontwikkeling van Elitespelers"
-  tagline: Van techniek naar flow - elitespelers helpen de volgende stap te zetten
+  text: "Elite Player Development"
+  tagline: From technique to flow - helping elite players reach the next level
   actions:
     - theme: brand
-      text: Onze Ambitie
-      link: /nl/ambition
+      text: Our Ambition
+      link: /en/ambition
     - theme: alt
-      text: Educatie
-      link: /nl/education/
+      text: Education
+      link: /en/education/
 
 features:
-  - title: De Zone
-    details: Voorbij technische training naar een flow-perspectief waar perfecte ballen natuurlijk worden.
-  - title: Workshops
-    details: Kleine groepen van 6-8 elitespelers die ervaringen en innerlijke gedachten delen.
-  - title: Holistische Aanpak
-    details: Combinatie van mentale training, tactiek, teamwork en voeding voor topprestaties.
+  - title: 🧠 8-Factor Model
+    details: A comprehensive player development system based on 8 weighted performance factors.
+  - title: 🎯 Personal ROI
+    details: Discover which factor gives YOU the best return on investment for improvement.
+  - title: 📚 Complete Education
+    details: In-depth modules on mental game, motivation, sleep, self-awareness, nutrition, team dynamics, tension, and technique.
 ---
 
-
 <AssessmentForm />
+

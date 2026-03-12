@@ -3,177 +3,177 @@ title: Video Analysis for Self-Discovery
 description: Learn to use video as an objective mirror for technical and psychological self-awareness in pétanque.
 ---
 
-# Video Analysis for Self-Discovery
+# Videoanalyse voor zelfontdekking
 
-Video is the most honest mirror available. What you think you're doing and what you're actually doing are often very different. This page teaches you to use video effectively for self-improvement.
+Video is de meest eerlijke spiegel die er is. Wat je denkt te doen en wat je daadwerkelijk doet, zijn vaak heel verschillend. Deze pagina leert je hoe je video effectief kunt gebruiken voor zelfverbetering.
 
 ---
 
-## The Perception Gap
+## De perceptiekloof
 
-### What You Feel vs. What's Real
+### Wat je voelt versus wat echt is
 
-| You Think | Video Shows |
+| Je denkt | Video toont |
 |-----------|-------------|
-| "My release is consistent" | Subtle variations in release point |
-| "I stay calm under pressure" | Visible tension in face and shoulders |
-| "My stance is stable" | Weight shifts before throwing |
-| "I follow through the same way" | Inconsistent follow-through patterns |
+| &quot;Mijn ejaculatie is consistent&quot; | Subtiele variaties in het loslaatpunt |
+| &quot;Ik blijf kalm onder druk.&quot; | Zichtbare spanning in gezicht en schouders |
+| &quot;Mijn standpunt is stabiel.&quot; | Gewicht verschuift vóór het gooien |
+| &quot;Ik ga op dezelfde manier te werk.&quot; | Inconsistente vervolgpatronen |
 
-This gap between perception and reality is normal—everyone has it. The goal isn't to eliminate the gap, but to make it visible so you can work on it.
+Deze kloof tussen perceptie en realiteit is normaal – iedereen heeft ermee te maken. Het doel is niet om de kloof te dichten, maar om hem zichtbaar te maken zodat je eraan kunt werken.
 
 ---
 
-## What to Record
+## Wat moet je vastleggen?
 
-### Training Sessions
+### Trainingssessies
 
-**Focus:** Technical execution without match pressure
+**Focus:** Technische uitvoering zonder wedstrijddruk
 
-Record:
-- Full throwing motion from multiple angles
-- Routine before the throw
-- Face/expression during execution
-- Follow-through and body position after release
+Dossier:
+- Volledige werpbeweging vanuit meerdere hoeken
+- Oefening voorafgaand aan de worp
+- Gezichtsuitdrukking tijdens de uitvoering
+- Nazwaai en lichaamshouding na het loslaten
 
-### Competition Matches
+### Competitiewedstrijden
 
-**Focus:** Performance under real pressure
+**Focus:** Prestaties onder echte druk
 
-Record:
-- Key moments (close games, pressure situations)
-- Your demeanor between throws
-- Team communication
-- Recovery after misses
+Dossier:
+- Belangrijke momenten (spannende wedstrijden, situaties onder druk)
+- Je houding tussen de worpen door
+- Teamcommunicatie
+- Herstel na missers
 
-### The Multi-Angle Advantage
+### Het voordeel van meerdere hoeken
 
-| Angle | What It Reveals |
+| Hoek | Wat het onthult |
 |-------|-----------------|
-| **Behind** | Body alignment, target line, follow-through direction |
-| **Side** | Release point, arm path, balance |
-| **Front** | Facial expression, shoulders, grip tension |
+| **Achter** | Lichaamshouding, doellijn, richting van de doorzwaai |
+| **Kant** | Loslaatpunt, armbeweging, balans |
+| **Voorkant** | Gezichtsuitdrukking, schouders, gripspanning |
 
-::: tip Smartphone is Enough
-You don't need expensive equipment. A smartphone on a simple tripod captures plenty of useful information.
+::: tip Een smartphone is voldoende.
+Je hebt geen dure apparatuur nodig. Een smartphone op een eenvoudig statief legt al genoeg nuttige informatie vast.
 :::
 
 ---
 
-## Recording Protocol
+## Opnameprotocol
 
-### Training Recording Session (Monthly)
+### Opnamesessie voor de training (maandelijks)
 
-1. **Set up camera** at consistent angle
-2. **Warm up normally** (don't record warm-up)
-3. **Record 15-20 throws** of each type you want to analyze
-4. **Include both successful and unsuccessful throws**
-5. **Mark notable throws** in real-time if possible
+1. **Stel de camera in** onder een constante hoek.
+2. **Doe een normale warming-up** (neem de warming-up niet op)
+3. **Noteer 15-20 worpen** van elk type dat je wilt analyseren
+4. **Vermeld zowel geslaagde als mislukte worpen**
+5. **Markeer opvallende worpen** indien mogelijk in realtime.
 
-### Competition Recording
+### Wedstrijdregistratie
 
-- **Ask permission** from opponents/organizers
-- **Position discreetly** — Don't distract players
-- **Focus on you**, not on opponents
-- **Review the same day** while memory is fresh
+- **Vraag toestemming** aan tegenstanders/organisatoren
+- **Neem een discrete positie in** — Leid spelers niet af.
+- **Richt je op jezelf**, niet op je tegenstanders.
+- **Bekijk het dezelfde dag nog**, zolang het geheugen nog vers is.
 
 ---
 
-## What to Look For
+## Waarop moet je letten?
 
-### Technical Analysis Checklist
+### Checklist voor technische analyse
 
-**Setup:**
-- [ ] Consistent starting position
-- [ ] Grip pressure visible/consistent
-- [ ] Alignment to target
-- [ ] Balance and stance stability
+**Installatie:**
+- [ ] Vaste startpositie
+- [ ] Grijpdruk zichtbaar/consistent
+- [ ] Afstemming op het doel
+- [ ] Evenwicht en stabiliteit van de houding
 
-**Execution:**
-- [ ] Backswing consistency
-- [ ] Release point height
+**Uitvoering:**
+- [ ] consistentie van de backswing
+- [ ] Loslaatpunthoogte
 - [ ] Release timing
-- [ ] Arm path through release
+- [ ] Armpad door release
 
-**Follow-through:**
-- [ ] Follow-through direction
-- [ ] Body stability after release
-- [ ] Recovery position
+**Vervolgactie:**
+- [ ] vervolginstructies
+- [ ] Lichaamsstabiliteit na loslating
+- [ ] Herstelpositie
 
-### Psychological Analysis Checklist
+### Checklist voor psychologische analyse
 
-**Before Throw:**
-- [ ] Facial expression (tense/relaxed)
-- [ ] Body language (confident/hesitant)
-- [ ] Routine consistency
-- [ ] Tempo (rushed/deliberate)
+**Voor de worp:**
+- [ ] Gezichtsuitdrukking (gespannen/ontspannen)
+- [ ] Lichaamstaal (zelfverzekerd/twijfelend)
+- [ ] Routineconsistentie
+- [ ] Tempo (gehaast/weloverwogen)
 
-**After Throw:**
-- [ ] Reaction to outcome
-- [ ] Body language after miss
-- [ ] Recovery time before next decision
-- [ ] Communication with teammates
-
----
-
-## The Analysis Process
-
-### Step 1: First Watch (Overview)
-
-Watch the full footage without pausing.
-- What's your general impression?
-- What stands out immediately?
-- How does it feel to watch yourself?
-
-### Step 2: Focused Review (Details)
-
-Watch again, pausing to examine:
-- Specific technical elements
-- Patterns across multiple throws
-- Differences between successful and unsuccessful attempts
-
-### Step 3: Comparison Analysis
-
-Compare:
-- Your successful throws vs. your misses
-- Your execution vs. elite players
-- Today vs. previous recordings
-
-### Step 4: Identify Patterns
-
-Look for:
-- What's consistent (both good and bad)
-- What changes under pressure
-- What correlates with success/failure
+**Na de worp:**
+- [ ] Reactie op de uitkomst
+- [ ] Lichaamstaal na de misser
+- [ ] Hersteltijd tot de volgende beslissing
+- [ ] Communicatie met teamgenoten
 
 ---
 
-## Comparing Self-Perception to Reality
+## Het analyseproces
 
-### The Reality Check Exercise
+### Stap 1: Eerste keer kijken (Overzicht)
 
-**Before watching video:**
-1. Write down how you think you looked
-2. Rate your technical execution (1-10)
-3. Describe your emotional state
+Bekijk de volledige video zonder te pauzeren.
+- Wat is je algemene indruk?
+- Wat valt direct op?
+- Hoe voelt het om naar jezelf te kijken?
 
-**After watching video:**
-1. Write what you actually saw
-2. Rate what you observed (1-10)
-3. Describe visible emotional indicators
+### Stap 2: Gerichte beoordeling (details)
 
-**Compare the two lists:**
-- Where were you accurate?
-- Where were you off?
-- What surprised you?
+Kijk nogmaals, en pauzeer om het volgende te bekijken:
+- Specifieke technische elementen
+- Patronen over meerdere worpen
+- Verschillen tussen geslaagde en mislukte pogingen
+
+### Stap 3: Vergelijkende analyse
+
+Vergelijken:
+- Je succesvolle worpen versus je missers
+- Jouw prestaties tegen topspelers
+- Vandaag versus eerdere opnames
+
+### Stap 4: Patronen identificeren
+
+Zoek naar:
+- Wat is consistent (zowel in positieve als negatieve zin)?
+- Wat verandert er onder druk?
+- Wat hangt samen met succes/falen?
 
 ---
 
-## Creating a Video Library
+## Zelfperceptie vergelijken met de realiteit
 
-Organize your footage for long-term learning:
+### De realiteitscheck-oefening
 
-### Folder Structure
+**Voordat je de video bekijkt:**
+1. Schrijf op hoe je denkt dat je eruitzag.
+2. Beoordeel je technische uitvoering (1-10)
+3. Beschrijf je emotionele toestand.
+
+**Na het bekijken van de video:**
+1. Schrijf op wat je daadwerkelijk hebt gezien.
+2. Geef een cijfer aan wat je hebt waargenomen (1-10)
+3. Beschrijf zichtbare emotionele indicatoren
+
+**Vergelijk de twee lijsten:**
+- Waarin had je gelijk?
+- Waar was je naartoe gegaan?
+- Wat heeft je verrast?
+
+---
+
+## Een videobibliotheek maken
+
+Organiseer je videomateriaal voor langdurig leerplezier:
+
+### Mapstructuur
 
 ```
 /Video Analysis
@@ -189,65 +189,65 @@ Organize your footage for long-term learning:
     /Comparison Clips
 ```
 
-### What to Keep
+### Wat te bewaren
 
-- **Best performances:** Reference for what's possible
-- **Breakthrough moments:** When something clicked
-- **Persistent problems:** To track if they improve
-- **Before/after pairs:** Evidence of improvement
+- **Beste prestaties:** Referentie voor wat mogelijk is
+- **Doorbraakmomenten:** Het moment waarop er iets op zijn plek viel
+- **Terugkerende problemen:** Om te volgen of ze verbeteren.
+- **Voor/na-vergelijkingen:** Bewijs van verbetering
 
 ---
 
-## Video Analysis Session Template
+## Sjabloon voor een videoanalysesessie
 
-Use this structure for systematic review:
+Gebruik deze structuur voor een systematische review:
 
-| Phase | Time | Focus |
+| Fase | Tijd | Focus |
 |-------|------|-------|
-| **Overview** | 5 min | Watch full footage, note impressions |
-| **Technical** | 10 min | Pause on specific elements |
-| **Psychological** | 5 min | Body language, expressions, recovery |
-| **Patterns** | 5 min | What recurs across clips |
-| **Action Items** | 5 min | What to work on, specific drills |
+| **Overzicht** | 5 min | Bekijk de volledige video en noteer je indrukken. |
+| **Technische gegevens** | 10 min | Pauzeer bij specifieke elementen |
+| **Psychologisch** | 5 min | Lichaamstaal, gezichtsuitdrukkingen, herstel |
+| **Patronen** | 5 min | Wat komt er steeds terug in de verschillende fragmenten? |
+| **Actiepunten** | 5 min | Waaraan te werken, specifieke oefeningen |
 
-**Total:** 30 minutes for a useful session
-
----
-
-## Working with Others
-
-### Video Review with Coach
-
-Prepare questions in advance:
-- "What do you see in my setup?"
-- "Is my release consistent across these throws?"
-- "What would you prioritize?"
-
-### Video Review with Teammates
-
-Compare footage:
-- "Watch my reaction after misses vs. yours"
-- "Let's compare our routines"
-- "What do you notice that I might miss?"
+**Totaal:** 30 minuten voor een nuttige sessie
 
 ---
 
-## Common Mistakes
+## Samenwerken met anderen
 
-::: warning Avoid These Pitfalls
-- **Only filming successful sessions** — You need failure footage too
-- **Watching without focus** — Use checklists
-- **Analyzing too much at once** — One element per session
-- **Not acting on insights** — Analysis without practice is wasted
-- **Comparing to pros too early** — Compare to your own previous footage first
+### Video-review met de coach
+
+Bereid de vragen van tevoren voor:
+- &quot;Wat zie je in mijn opstelling?&quot;
+- &quot;Is mijn worp consistent bij al deze pogingen?&quot;
+- &quot;Wat zou je prioriteit geven?&quot;
+
+### Videobespreking met teamgenoten
+
+Vergelijk de beelden:
+- &quot;Bekijk mijn reactie na missers en vergelijk die van jou.&quot;
+- &quot;Laten we onze routines vergelijken&quot;
+- &quot;Wat valt u op dat ik mogelijk over het hoofd zie?&quot;
+
+---
+
+## Veelgemaakte fouten
+
+::: warning Vermijd deze valkuilen
+- **Film alleen succesvolle sessies** — Je hebt ook beelden van mislukte sessies nodig.
+- **Kijken zonder focus** — Gebruik checklists
+- **Te veel tegelijk analyseren** — Eén element per sessie
+- **Niet handelen naar inzichten** — Analyse zonder toepassing is zinloos.
+- **Te vroeg vergelijken met professionals** — Vergelijk eerst met je eigen eerdere opnames.
 :::
 
 ---
 
-## Related Content
+## Gerelateerde inhoud
 
-- [The Self-Awareness Advantage](/nl/education/self-awareness/) — Why self-knowledge matters
-- [Getting Feedback](/nl/education/self-awareness/feedback) — External perspectives
-- [Technique Fundamentals](/nl/education/technique/) — What good technique looks like
-- [Training Methods](/nl/education/technique/training/) — How to practice what you learn
+- [Het voordeel van zelfbewustzijn](/en/education/self-awareness/) — Waarom zelfkennis belangrijk is
+- [Feedback krijgen](/en/education/self-awareness/feedback) — Externe perspectieven
+- [Technische basisprincipes](/en/education/technique/) — Hoe een goede techniek eruitziet
+- [Trainingsmethoden](/en/education/technique/training/) — Hoe je in de praktijk brengt wat je leert
 

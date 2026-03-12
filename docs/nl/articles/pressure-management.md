@@ -3,189 +3,189 @@ title: Pressure Management in Pétanque
 description: Master the art of performing under pressure. Learn practical techniques to stay calm, focused, and effective when the stakes are highest.
 ---
 
-# Pressure Management in Pétanque
+# Drukbeheer bij jeu de boules
 
-> "Elite players don't eliminate pressure; they learn to perform with it, sometimes even because of it."
+> &quot;Topspelers elimineren de druk niet; ze leren ermee om te gaan, soms zelfs dankzij de druk.&quot;
 
-Pressure is inevitable in competitive pétanque. The question isn't whether you'll feel it — you will. The question is how you'll respond.
+Bij competitief pétanque is druk onvermijdelijk. De vraag is niet óf je het zult voelen – dat zul je zeker. De vraag is hoe je erop zult reageren.
 
-::: tip The Pressure Truth
-**Pressure isn't the problem — your response to it is.** Learn to use pressure as fuel, not as a brake.
+::: tip De drukwaarheid
+**Druk is niet het probleem, maar je reactie erop wel.** Leer druk te gebruiken als brandstof, niet als rem.
 :::
 
 ---
 
-## Understanding Pressure
+## Druk begrijpen
 
-Pressure is your body's response to perceived high stakes. When you face a crucial shot, your nervous system activates:
+Druk is de reactie van je lichaam op een gevoel van hoge inzet. Wanneer je voor een cruciale foto staat, activeert je zenuwstelsel:
 
 ```mermaid
 flowchart TD
-    A[High Stakes Moment] --> B[Fight-or-Flight Response]
-    B --> C[Heart Rate ↑]
-    B --> D[Shallow Breathing]
-    B --> E[Muscle Tension]
-    B --> F[Narrowed Focus]
+    A[Moment met hoge inzet] --> B[Vecht-of-vluchtreactie]
+    B --> C[Hartslag ↑]
+    B --> D[Oppervlakkige ademhaling]
+    B --> E[Spierspanning]
+    B --> F[Vernauwde focus]
 
     C --> G{Your Response}
     D --> G
     E --> G
     F --> G
 
-    G -->|Threat Mode| H[Performance ↓]
-    G -->|Challenge Mode| I[Performance ↑]
+    G -->|Threat Mode| H[Prestatie ↓]
+    G -->|Challenge Mode| I[Prestaties ↑]
 
     style A fill:#f44336,color:#fff
     style H fill:#f44336,color:#fff
     style I fill:#4CAF50,color:#fff
 ```
 
-This is the fight-or-flight response — useful for escaping predators, less useful for throwing a boule with precision.
+Dit is de vecht-of-vluchtreactie – handig om aan roofdieren te ontsnappen, maar minder handig om een boule met precisie te gooien.
 
 ---
 
-## The Pressure Paradox
+## De drukparadox
 
-::: warning The Trap
-The harder you try to eliminate pressure, the stronger it becomes. Telling yourself "don't be nervous" only amplifies the nervousness.
+::: warning De val
+Hoe harder je probeert de druk te verminderen, hoe sterker die wordt. Jezelf vertellen &quot;wees niet nerveus&quot; versterkt de nervositeit alleen maar.
 :::
 
-The solution isn't to fight pressure but to change your relationship with it.
+De oplossing is niet om tegen de druk te vechten, maar om je relatie ermee te veranderen.
 
-## Reframing Pressure
+## Herkadering van de druk
 
-### From Threat to Challenge
+### Van bedreiging naar uitdaging
 
-Your brain interprets pressure situations in one of two ways:
-- **Threat**: "This could go wrong, I might fail"
-- **Challenge**: "This is an opportunity to show what I can do"
+Je hersenen interpreteren stressvolle situaties op twee manieren:
+- **Dreiging**: &quot;Dit kan misgaan, ik zou kunnen falen&quot;
+- **Uitdaging**: &quot;Dit is een kans om te laten zien wat ik kan&quot;
 
-Both interpretations produce arousal, but challenge states lead to better performance. The physical sensations are similar — it's the meaning you assign that differs.
+Beide interpretaties wekken opwinding op, maar uitdagende situaties leiden tot betere prestaties. De fysieke sensaties zijn vergelijkbaar; het is de betekenis die je eraan toekent die verschilt.
 
-### Practical Reframes
+### Praktische herkaderingen
 
-| Pressure Thought | Reframe |
+| Drukgedachte | Herformuleren |
 |-----------------|---------|
-| "I can't miss this" | "I get to take this shot" |
-| "Everyone is watching" | "I'm ready for this moment" |
-| "This is too important" | "This is what I train for" |
-| "I'm so nervous" | "I'm excited and ready" |
+| &quot;Dit mag ik niet missen&quot; | &quot;Ik mag deze foto maken&quot; |
+| &quot;Iedereen kijkt toe&quot; | &quot;Ik ben klaar voor dit moment&quot; |
+| &quot;Dit is te belangrijk&quot; | &quot;Hier train ik voor&quot; |
+| &quot;Ik ben zo nerveus&quot; | &quot;Ik ben enthousiast en er klaar voor.&quot; |
 
-## Physical Techniques
+## Fysieke technieken
 
-### Breathing Control
+### Ademhalingsbeheersing
 
-The fastest way to calm your nervous system:
+De snelste manier om je zenuwstelsel te kalmeren:
 
-**Box Breathing:**
-1. Inhale for 4 counts
-2. Hold for 4 counts
-3. Exhale for 4 counts
-4. Hold for 4 counts
-5. Repeat 2-3 times
+**Boxademhaling:**
+1. Adem 4 tellen in.
+2. Houd 4 tellen vast
+3. Adem 4 tellen uit.
+4. Houd 4 tellen vast
+5. Herhaal dit 2-3 keer.
 
-**Extended Exhale:**
-- Inhale for 4 counts
-- Exhale for 8 counts
-- The longer exhale activates the parasympathetic nervous system
+**Langdurig uitademen:**
+- Adem 4 tellen in.
+- Adem 8 tellen uit.
+- Een langere uitademing activeert het parasympathische zenuwstelsel.
 
-### Progressive Relaxation
+### Progressieve ontspanning
 
-Between throws:
-1. Clench your fists tight for 3 seconds
-2. Release and feel the relaxation
-3. Roll your shoulders up, hold, release
-4. Shake out your hands
+Tussen de worpen door:
+1. Bal je vuisten 3 seconden lang stevig samen.
+2. Ontspan en voel de ontspanning.
+3. Rol je schouders omhoog, houd even vast en laat los.
+4. Schud je handen uit
 
-### Grounding
+### Aarding
 
-When pressure feels overwhelming:
-- Feel your feet on the ground
-- Notice the weight of the boule in your hand
-- Look at specific details in your environment
-- Name 5 things you can see
+Wanneer de druk overweldigend aanvoelt:
+- Voel je voeten op de grond.
+- Voel het gewicht van de boule in je hand.
+- Kijk naar specifieke details in je omgeving.
+- Noem 5 dingen die je kunt zien.
 
-## Mental Techniques
+## Mentale technieken
 
-### Narrow Your Focus
+### Verklein je focus
 
-Pressure often comes from thinking too far ahead. Bring your attention to:
-- This throw only
-- This moment only
-- The process, not the outcome
+Druk ontstaat vaak doordat je te ver vooruit denkt. Richt je aandacht op:
+- Deze worp alleen
+- Alleen op dit moment
+- Het proces, niet het resultaat.
 
-### Use Cue Words
+### Gebruik signaalwoorden
 
-Single words that anchor your focus:
-- "Smooth"
-- "Trust"
-- "Now"
-- "Breathe"
+Enkele woorden die je focus verankeren:
+- &quot;Zacht&quot;
+- &quot;Vertrouwen&quot;
+- &quot;Nu&quot;
+- &quot;Ademen&quot;
 
-### Visualization
+### Visualisatie
 
-Before high-pressure shots:
-1. Close your eyes briefly
-2. See the boule traveling to its target
-3. Feel the successful throw in your body
-4. Open your eyes and execute
+Vóór hogedrukshots:
+1. Sluit even je ogen.
+2. Zie hoe de boule naar zijn doel vliegt.
+3. Voel de succesvolle worp in je lichaam.
+4. Open je ogen en voer het uit.
 
-## Building Pressure Tolerance
+## Bouwdruktolerantie
 
-### Pressure Training
+### Druktraining
 
-You can't learn to handle pressure without experiencing it. Create pressure in practice:
+Je kunt niet leren omgaan met druk zonder het te ervaren. Oefen met het creëren van druk:
 
-- **Consequence drills**: Miss and you do push-ups
-- **Competition simulation**: Practice with something at stake
-- **Audience practice**: Invite people to watch your training
-- **Fatigue training**: Practice when tired
+- **Gevolgoefeningen**: Als je mist, moet je push-ups doen.
+- **Wedstrijdsimulatie**: Oefen met iets dat op het spel staat.
+- **Oefening met publiek**: Nodig mensen uit om naar je training te kijken.
+- **Training bij vermoeidheid**: Oefen als je moe bent.
 
-### Exposure Ladder
+### Blootstellingsladder
 
-Gradually increase pressure exposure:
-1. Practice alone with no stakes
-2. Practice with a training partner watching
-3. Practice with small consequences
-4. Friendly matches
-5. Club competitions
-6. Regional tournaments
-7. National events
+Verhoog de blootstelling aan druk geleidelijk:
+1. Oefen alleen, zonder dat er iets op het spel staat.
+2. Oefen met een trainingspartner die toekijkt.
+3. Oefen met kleine consequenties.
+4. Vriendschappelijke wedstrijden
+5. Clubcompetities
+6. Regionale toernooien
+7. Nationale evenementen
 
-## In-Match Strategies
+## Strategieën tijdens de wedstrijd
 
-### Before the Match
-- Arrive early, familiarize yourself with the terrain
-- Complete your warm-up routine
-- Use positive self-talk
-- Visualize successful performance
+### Voor de wedstrijd
+- Kom vroeg aan en verken het terrein.
+- Voltooi je warming-uproutine.
+- Gebruik positieve zelfspraak.
+- Visualiseer succesvolle prestaties
 
-### During Pressure Moments
-1. Recognize the pressure ("I'm feeling the pressure")
-2. Accept it ("This is normal, it means I care")
-3. Breathe (2-3 controlled breaths)
-4. Refocus (return to your pre-shot routine)
-5. Execute (trust your training)
+### Tijdens stressvolle momenten
+1. Erken de druk (&quot;Ik voel de druk&quot;).
+2. Accepteer het (&quot;Dit is normaal, het betekent dat ik erom geef&quot;).
+3. Adem in en uit (2-3 gecontroleerde ademhalingen)
+4. Herpak jezelf (keer terug naar je routine van vóór de opname)
+5. Voer het uit (vertrouw op je training)
 
-### After Mistakes
-- Take a physical step back
-- One deep breath
-- Let go of the result
-- Focus on the next opportunity
+### Na fouten
+- Doe een fysieke stap achteruit.
+- Eén diepe ademhaling
+- Laat het resultaat los.
+- Richt je op de volgende kans.
 
-## The Pressure Advantage
+## Het drukvoordeel
 
-With practice, pressure becomes fuel rather than friction. Elite performers often describe their best performances as happening under the highest pressure — not despite it, but because of it.
+Met oefening wordt druk brandstof in plaats van wrijving. Topsporters beschrijven hun beste prestaties vaak als prestaties die onder de hoogste druk plaatsvonden – niet ondanks, maar juist dankzij de druk.
 
-The arousal that pressure creates can enhance:
-- Focus and concentration
-- Physical readiness
-- Memory and recall
-- Reaction time
+De opwinding die door druk ontstaat, kan het volgende versterken:
+- Focus en concentratie
+- Fysieke paraatheid
+- Geheugen en herinnering
+- Reactietijd
 
-The key is channeling this energy productively rather than letting it overwhelm you.
+De kunst is om deze energie productief te kanaliseren in plaats van je erdoor te laten overweldigen.
 
 ---
 
-*Related: [Handling Pressure](/nl/education/mental-game/mental-strength/handling-pressure) | [Pre-Shot Routine](/nl/education/mental-game/mental-strength/pre-shot-routine) | [The Zone](/nl/education/mental-game/the-zone/)*
+| *Gerelateerd: [Omgaan met druk](/en/education/mental-game/mental-strength/handling-pressure) | [Voorbereidingsroutine](/en/education/mental-game/mental-strength/pre-shot-routine) | [De Zone](/en/education/mental-game/the-zone/)* |
 

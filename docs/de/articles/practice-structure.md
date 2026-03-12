@@ -3,28 +3,28 @@ title: Structuring Your Practice
 description: Design practice sessions that maximize improvement. Learn how to structure training time for optimal skill development in pétanque.
 ---
 
-# Structuring Your Practice
+# Strukturierung Ihrer Praxis
 
-> "Two players can spend the same hours on the terrain and see vastly different improvement."
+> „Zwei Spieler können die gleiche Zeit auf dem Gelände verbringen und dabei völlig unterschiedliche Fortschritte erzielen.“
 
-The difference is often in how practice is structured.
+Der Unterschied liegt oft in der Struktur der Praxis.
 
-::: tip The 10,000 Hour Myth
-**It's not about hours — it's about how you use them.** Deliberate practice beats mindless repetition every time.
+::: tip Der 10.000-Stunden-Mythos
+**Es geht nicht um die Stunden – es geht darum, wie man sie nutzt.** Gezieltes Üben ist sinnloser Wiederholung immer überlegen.
 :::
 
 ---
 
-## The Problem with Unstructured Practice
+## Das Problem mit unstrukturiertem Training
 
 ```mermaid
 flowchart TD
-    A[Unstructured Practice] --> B[Repeat Comfortable Patterns]
-    A --> C[Avoid Weaknesses]
-    A --> D[No Focused Development]
-    A --> E[Can't Track Progress]
+    A[Unstrukturierte Praxis] --> B[Bequeme, sich wiederholende Muster]
+    A --> C[Schwächen vermeiden]
+    A --> D[Keine zielgerichtete Entwicklung]
+    A --> E[Fortschritt kann nicht verfolgt werden]
 
-    B --> F[Slow or No Improvement]
+    B --> F[Langsame oder keine Besserung]
     C --> F
     D --> F
     E --> F
@@ -33,240 +33,240 @@ flowchart TD
     style F fill:#f44336,color:#fff
 ```
 
-Most recreational practice looks like this:
-- Show up, throw some boules
-- Play a few casual games
-- Chat with friends
-- Go home
+Die meisten Freizeitaktivitäten sehen folgendermaßen aus:
+- Komm vorbei und spiel ein paar Boule-Runden
+- Spiele ein paar Gelegenheitsspiele
+- Chatte mit Freunden
+- Nach Hause gehen
 
-This is enjoyable but inefficient for improvement.
+Das macht zwar Spaß, ist aber für Verbesserungen ineffizient.
 
 ---
 
-## Principles of Effective Practice
+## Grundsätze effektiver Praxis
 
-| Principle | Question to Ask |
+| Prinzip | Frage, die man stellen sollte |
 |-----------|----------------|
-| **Purposeful** | What am I working on today? |
-| **Deliberate** | Is this challenging me? |
-| **Feedback-rich** | How do I know if I'm improving? |
-| **Focused** | Am I fully present? |
+| **Zielgerichtet** | Woran arbeite ich heute? |
+| **Absichtlich** | Ist das eine Herausforderung für mich? |
+| **Referentiell mit Feedback** | Woran merke ich, ob ich mich verbessere? |
+| **Fokussiert** | Bin ich voll und ganz präsent? |
 
-### 1. Purposeful Practice
+### 1. Gezielte Übung
 
-Every session should have a clear purpose:
-- What am I working on today?
-- What does success look like?
-- How will I know if I've improved?
+Jede Sitzung sollte einen klaren Zweck haben:
+- Woran arbeite ich heute?
+- Wie sieht Erfolg aus?
+- Woran werde ich merken, ob ich mich verbessert habe?
 
-### 2. Deliberate Difficulty
+### 2. Vorsätzliche Schwierigkeit
 
-::: info The Edge of Ability
-**Practice should challenge you.** If it's comfortable, you're not growing.
+::: info Der Vorteil der Fähigkeit
+**Übung sollte dich herausfordern.** Wenn es bequem ist, entwickelst du dich nicht weiter.
 :::
 
-- Work at the edge of your ability
-- Include elements that are hard
-- Avoid pure comfort zone repetition
+- Arbeite am Rande deiner Fähigkeiten
+- Fügen Sie Elemente hinzu, die schwierig sind
+- Vermeiden Sie reine Wiederholungen in Ihrer Komfortzone.
 
-### 3. Immediate Feedback
+### 3. Unmittelbares Feedback
 
-You need to know how you're doing:
-- Track results of drills
-- Use video when possible
-- Get input from training partners
+Sie müssen wissen, wie Sie sich schlagen:
+- Ergebnisse der Übungen verfolgen
+- Nutzen Sie nach Möglichkeit Videos.
+- Holen Sie sich Feedback von Trainingspartnern.
 
-### 4. Focused Attention
+### 4. Fokussierte Aufmerksamkeit
 
-Quality over quantity:
-- Full concentration during practice
-- Shorter, focused sessions beat long, distracted ones
-- Mental engagement is essential
+Qualität vor Quantität:
+- Volle Konzentration während des Trainings
+- Kürzere, fokussierte Sitzungen sind besser als lange, ablenkende.
+- Geistige Beteiligung ist unerlässlich
 
-## Session Structure
+## Sitzungsstruktur
 
-### Warm-Up (10-15 minutes)
+### Aufwärmen (10-15 Minuten)
 
-**Physical:**
-- Light movement
-- Arm and shoulder preparation
-- Gradual intensity increase
-
-**Mental:**
-- Transition from daily life
-- Set intention for session
-- Begin focusing attention
-
-### Technical Work (20-30 minutes)
-
-Focus on specific skills:
-- Isolated technique practice
-- Drills targeting weaknesses
-- Repetition with attention
-
-**Example focus areas:**
-- Pointing accuracy at specific distances
-- Shooting from different angles
-- Specific throw types (plombée, portée, etc.)
-
-### Applied Practice (20-30 minutes)
-
-Use skills in realistic contexts:
-- Simulated game situations
-- Pressure drills
-- Decision-making practice
-
-### Cool-Down (10 minutes)
-
-**Physical:**
-- Light throwing
-- Stretching
+**Körperliche Anforderungen:**
+- Lichtbewegung
+- Vorbereitung von Arm und Schulter
+- Allmähliche Intensitätssteigerung
 
 **Mental:**
-- Review what you learned
-- Note areas for future work
-- Transition out of practice mode
+- Übergang vom Alltag
+- Zielsetzung für die Sitzung
+- Beginnen Sie damit, Ihre Aufmerksamkeit zu fokussieren
 
-## Types of Practice Sessions
+### Technische Arbeit (20-30 Minuten)
 
-### Skill Development Session
+Konzentration auf spezifische Fähigkeiten:
+- Übung der isolierten Technik
+- Übungen zur Schwachstellenanalyse
+- Wiederholung mit Aufmerksamkeit
 
-Focus: Building or refining specific techniques
+**Beispielhafte Schwerpunkte:**
+- Zielgenauigkeit auf bestimmte Entfernungen
+- Aufnahmen aus verschiedenen Blickwinkeln
+- Spezifische Wurfarten (Plombée, Portée usw.)
 
-- 70% technical drills
-- 20% applied practice
-- 10% warm-up/cool-down
+### Angewandte Praxis (20-30 Minuten)
 
-### Competition Simulation
+Fähigkeiten in realistischen Kontexten anwenden:
+- Simulierte Spielsituationen
+- Druckbohrmaschinen
+- Entscheidungsfindungspraxis
 
-Focus: Preparing for match conditions
+### Abkühlphase (10 Minuten)
 
-- 20% warm-up with purpose
-- 60% match-like play with pressure
-- 20% debrief and adjustment
+**Körperliche Anforderungen:**
+- Lichtwurf
+- Dehnen
 
-### Maintenance Session
+**Mental:**
+- Wiederholen Sie, was Sie gelernt haben.
+- Bereiche für zukünftige Arbeiten notieren
+- Übergang aus dem Übungsmodus
 
-Focus: Keeping skills sharp
+## Arten von Übungseinheiten
 
-- Balanced work across all areas
-- No intense focus on any one thing
-- Enjoyable but purposeful
+### Kompetenzentwicklungssitzung
 
-### Recovery Session
+Schwerpunkt: Entwicklung oder Verfeinerung spezifischer Techniken
 
-Focus: Light practice after competition
+- 70 % technische Übungen
+- 20 % angewandte Praxis
+- 10 % Aufwärmen/Abkühlen
 
-- Low intensity
-- Enjoyable throwing
-- Mental reset
+### Wettbewerbssimulation
 
-## Designing Drills
+Schwerpunkt: Vorbereitung auf die Spielbedingungen
 
-Effective drills have:
+- 20 % Aufwärmen mit einem bestimmten Ziel
+- 60 % spielähnliches Verhalten mit Druck
+- 20 % Nachbesprechung und Anpassung
 
-### Clear Objectives
-What specifically are you practicing?
+### Wartungssitzung
 
-### Measurable Outcomes
-How do you track success?
+Fokus: Fähigkeiten auf dem neuesten Stand halten
 
-### Appropriate Challenge
-Hard enough to stretch, not so hard you can't succeed
+- Ausgewogene Arbeit in allen Bereichen
+- Keine intensive Konzentration auf eine einzige Sache
+- Angenehm, aber zielgerichtet
 
-### Relevance
-Connected to actual game situations
+### Erholungssitzung
+
+Fokus: Leichtes Training nach dem Wettkampf
+
+- Niedrige Intensität
+- Viel Spaß beim Werfen
+- Mentale Neuorientierung
+
+## Bohrer entwerfen
+
+Effektive Übungen haben:
+
+### Klare Ziele
+Was genau übst du?
+
+### Messbare Ergebnisse
+Wie misst man Erfolg?
+
+### Angemessene Herausforderung
+Schwer genug, um sich zu dehnen, aber nicht so schwer, dass man es nicht schaffen kann.
+
+### Relevanz
+Bezug zu tatsächlichen Spielsituationen
 
 ### Progression
-Ways to increase difficulty as you improve
+Möglichkeiten zur Steigerung des Schwierigkeitsgrades im Laufe der Zeit
 
-## Sample Drills
+## Beispielbohrungen
 
-### Pointing Accuracy
+### Zielgenauigkeit
 
-**Setup:** Target at 8 meters
-**Goal:** Land within 30cm of target
-**Track:** Success rate over 20 throws
-**Progress:** Decrease target size, increase distance
+**Aufstellung:** Ziel in 8 Metern Entfernung
+**Ziel:** Innerhalb von 30 cm vom Ziel landen
+**Erfolgsquote:** Erfolgsquote bei über 20 Würfen
+**Fortschritt:** Zielgröße verringern, Entfernung erhöhen
 
-### Shooting Consistency
+### Schusskonstanz
 
-**Setup:** Stationary target boule
-**Goal:** Hit the target
-**Track:** Hits per 10 attempts
-**Progress:** Vary angles, add movement
+**Aufbau:** Stationäre Zielscheibe
+**Ziel:** Das Tor treffen
+**Track:** Treffer pro 10 Versuche
+**Fortschritt:** Winkel variieren, Bewegung hinzufügen
 
-### Pressure Simulation
+### Drucksimulation
 
-**Setup:** Must make 3 in a row to "win"
-**Goal:** Complete the sequence
-**Track:** Attempts needed
-**Progress:** Increase required sequence
+**Spielablauf:** Man muss 3 Symbole in einer Reihe erzielen, um zu &quot;gewinnen&quot;.
+**Ziel:** Vervollständige die Sequenz
+**Track:** Versuche erforderlich
+**Fortschritt:** Erhöhung der erforderlichen Sequenz
 
-## Weekly Planning
+## Wochenplanung
 
-### Balanced Week Example
+### Beispiel für eine ausgeglichene Woche
 
-**Monday:** Skill development (pointing focus)
-**Wednesday:** Competition simulation
-**Friday:** Skill development (shooting focus)
-**Weekend:** Match play
+**Montag:** Kompetenzentwicklung (Fokus auf das Zeigen)
+**Mittwoch:** Wettbewerbssimulation
+**Freitag:** Fertigkeitsentwicklung (Schwerpunkt Schießen)
+**Wochenende:** Spielbetrieb
 
-### Periodization
+### Periodisierung
 
-Vary intensity across the season:
+Die Intensität im Laufe der Saison variieren:
 
-**Off-season:** Heavy skill development
-**Pre-season:** Integration and simulation
-**Competition season:** Maintenance and sharpening
-**Post-season:** Recovery and reflection
+**Nebensaison:** Intensives Techniktraining
+**Vorsaison:** Integration und Simulation
+**Wettkampfsaison:** Wartung und Schärfen
+**Nachsaison:** Erholung und Reflexion
 
-## Common Mistakes
+## Häufige Fehler
 
-### Too Much Game Play
+### Zu viel Spiel
 
-Playing games is fun but doesn't target weaknesses efficiently.
+Videospiele machen zwar Spaß, zielen aber nicht effizient auf Schwächen ab.
 
-### No Tracking
+### Keine Sendungsverfolgung
 
-Without measurement, you can't know if you're improving.
+Ohne Messung kann man nicht wissen, ob man sich verbessert.
 
-### Avoiding Weaknesses
+### Schwächen vermeiden
 
-We naturally practice what we're good at. Force yourself to work on weaknesses.
+Wir üben naturgemäß das, was wir gut können. Zwingen Sie sich, an Ihren Schwächen zu arbeiten.
 
-### Inconsistent Schedule
+### Unregelmäßiger Zeitplan
 
-Sporadic practice produces sporadic results.
+Unregelmäßiges Üben führt zu unregelmäßigen Ergebnissen.
 
-### No Mental Practice
+### Keine mentale Übung
 
-Physical repetition without mental engagement limits improvement.
+Körperliche Wiederholung ohne geistige Beteiligung begrenzt den Fortschritt.
 
-## Making Practice Stick
+## Übungsstab herstellen
 
-### Before Practice
-- Set clear intentions
-- Prepare mentally
-- Review previous session notes
+### Vor dem Training
+- Setzen Sie klare Ziele
+- Bereite dich mental vor
+- Notizen der vorherigen Sitzung durchsehen
 
-### During Practice
-- Stay focused
-- Track results
-- Adjust as needed
+### Während des Trainings
+- Bleib konzentriert
+- Ergebnisse der Rennstrecke
+- Bei Bedarf anpassen
 
-### After Practice
-- Note what you learned
-- Identify next steps
-- Celebrate progress
+### Nach dem Training
+- Notieren Sie, was Sie gelernt haben.
+- Nächste Schritte identifizieren
+- Den Fortschritt feiern
 
-## The 10,000 Hour Myth
+## Der 10.000-Stunden-Mythos
 
-It's not just about hours — it's about quality. 1,000 hours of deliberate practice beats 10,000 hours of mindless repetition.
+Es geht nicht nur um die Stunden – es geht um die Qualität. 1.000 Stunden gezieltes Üben sind besser als 10.000 Stunden gedankenloses Wiederholen.
 
-Structure your practice with purpose, and every hour counts more.
+Wenn du dein Training zielgerichtet gestaltest, zählt jede Stunde mehr.
 
 ---
 
-*Related: [Training Methods](/de/education/technique/training/) | [Training Drills](/de/education/technique/training/drills) | [Goal Setting](/de/education/motivation/)*
+| *Verwandt: [Trainingsmethoden](/en/education/technique/training/) | [Trainingsübungen](/en/education/technique/training/drills) | [Zielsetzung](/en/education/motivation/)* |
 

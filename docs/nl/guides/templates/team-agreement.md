@@ -1,56 +1,56 @@
-# Team Agreement Template
+# Sjabloon voor teamovereenkomst
 
-A framework for establishing clear communication, roles, and conflict resolution within your team.
+Een raamwerk voor het vaststellen van duidelijke communicatie, rollen en conflictoplossing binnen uw team.
 
-::: tip Why a Team Agreement?
-**Great teams don't hope for chemistry—they build it.** A clear agreement prevents misunderstandings and creates a foundation for honest communication.
+::: tip Waarom een teamovereenkomst?
+**Geweldige teams hopen niet op chemie, ze bouwen eraan.** Duidelijke afspraken voorkomen misverstanden en vormen de basis voor eerlijke communicatie.
 :::
 
-## Team Information
+## Teaminformatie
 
-**Team name:** ________
-**Members:**
-1. ________ (Role: ________)
-2. ________ (Role: ________)
-3. ________ (Role: ________)
+**Teamnaam:** ________
+**Leden:**
+1. ________ (Rol: ________)
+2. ________ (Rol: ________)
+3. ________ (Rol: ________)
 
-**Agreement date:** ________
-**Review date:** ________ (recommend every 3-6 months)
+**Datum van de overeenkomst:** ________
+**Reviewdatum:** ________ (aanbevolen om de 3-6 maanden)
 
 ---
 
-## 1. Roles & Responsibilities
+## 1. Rollen en verantwoordelijkheden
 
-### Playing Roles
+### Rollen spelen
 
-| Position | Primary Player | Backup | Strengths |
+| Positie | Primaire speler | Back-up | Sterke punten |
 |----------|---------------|--------|-----------|
-| **Pointer** | | | |
-| **Middle** | | | |
-| **Shooter** | | | |
+| **Wijzer** |
+| **Midden** |
+| **Schutter** |
 
-### Off-Field Roles
+### Rollen buiten het veld
 
-| Role | Person | Responsibilities |
+| Rol | Persoon | Verantwoordelijkheden |
 |------|--------|------------------|
-| **Captain** (decisions) | | Final call on tactics |
-| **Organizer** (logistics) | | Bookings, schedule, communication |
-| **Motivator** (energy) | | Keep spirits up, positive reinforcement |
+| **Kapitein** (beslissingen) | Definitieve beslissing over de tactiek |
+| **Organisator** (logistiek) | Reserveringen, planning, communicatie |
+| **Motiverend** (energie) | Houd de moed erin, positieve bekrachtiging |
 
 ---
 
-## 2. Communication Agreements
+## 2. Communicatieovereenkomsten
 
-### During Matches
+### Tijdens wedstrijden
 
-**Before each end:**
-- [ ] Brief terrain discussion
-- [ ] Agree on strategy
-- [ ] Confirm who plays first
+**Vóór elk einde:**
+- [ ] Korte bespreking van het terrein
+- [ ] Stem een strategie af
+- [ ] Bevestig wie als eerste speelt.
 
-**Hand signals we use:**
+**Handgebaren die we gebruiken:**
 
-| Signal | Meaning |
+| Signaal | Betekenis |
 |--------|---------|
 | | Point close |
 | | Point far |
@@ -58,168 +58,168 @@ A framework for establishing clear communication, roles, and conflict resolution
 | | Wait/discuss |
 | | Your choice |
 
-**After mistakes:**
-- [ ] No blame language ("why did you...")
-- [ ] Supportive response ("unlucky, next one")
-- [ ] Quick reset, move forward
+**Na fouten:**
+- [ ] Geen verwijtende taal (&quot;waarom heb je...&quot;)
+- [ ] Ondersteunend antwoord (&quot;jammer, de volgende&quot;)
+- [ ] Snel opnieuw beginnen, verder gaan
 
-**We agree NOT to:**
-- [ ] Criticize during play
-- [ ] Show negative body language
-- [ ] Discuss other options after a throw
-- [ ] Blame teammates for losses
+**Wij stemmen ermee in om NIET:**
+- [ ] Geef kritiek tijdens het spel.
+- [ ] Negatieve lichaamstaal tonen
+- [ ] Bespreek andere opties na een worp.
+- [ ] Geef teamgenoten de schuld van verliezen
 
 ---
 
-## 3. Decision Making
+## 3. Besluitvorming
 
-### Tactical Decisions
+### Tactische beslissingen
 
-**Who decides shot selection?**
-- [ ] Player throwing decides
-- [ ] Captain suggests, player decides
-- [ ] Team discusses briefly
+**Wie beslist over de shotselectie?**
+- [ ] De speler die gooit, beslist.
+- [ ] De kapitein doet een voorstel, de speler beslist.
+- [ ] Het team bespreekt dit kort.
 
-**When we disagree:**
-1. Each person states view briefly (10 sec)
-2. Captain makes final call
-3. Everyone commits 100%
-4. Review after match, not during
+**Wanneer we het oneens zijn:**
+1. Iedereen geeft zijn of haar mening kort weer (10 seconden).
+2. De kapitein neemt de laatste beslissing.
+3. Iedereen zet zich voor 100% in.
+4. Evalueer na de wedstrijd, niet tijdens.
 
-### Substitution Decisions
+### Vervangingsbeslissingen
 
-**How we decide who plays:**
+**Hoe we bepalen wie er speelt:**
 
 **Criteria:**
-- [ ] Form/recent performance
-- [ ] Terrain suitability
-- [ ] Physical condition
-- [ ] Rotation fairness
+- [ ] Vorm/recente prestaties
+- [ ] terreingeschiktheid
+- [ ] Fysieke conditie
+- [ ] Eerlijke rotatie
 
 ---
 
-## 4. Training Commitment
+## 4. Trainingsverplichting
 
-**Regular training:**
-- Frequency: ________ times per week
-- Duration: ________ hours
-- Location: ________
+**Regelmatige training:**
+- Frequentie: ________ keer per week
+- Duur: ________ uur
+- Locatie: ________
 
-**Attendance expectations:**
-- [ ] Communicate absences 24h in advance
-- [ ] Miss max _____ sessions per month
-- [ ] Arrive on time / _____ min early
+**Aanwezigheidsverwachtingen:**
+- [ ] Meld afwezigheid minimaal 24 uur van tevoren.
+- [ ] Miss max _____ sessies per maand
+- [ ] Kom op tijd / _____ minuten te vroeg
 
-**What we practice:**
-- [ ] Individual skills
-- [ ] Team tactics
-- [ ] Pressure situations
-- [ ] Competition simulation
+**Wat we doen:**
+- [ ] Individuele vaardigheden
+- [ ] Teamtactieken
+- [ ] Druksituaties
+- [ ] Competitiesimulatie
 
 ---
 
-## 5. Competition Commitments
+## 5. Concurrentieverplichtingen
 
-**Tournaments we commit to:**
+**Toernooien waaraan we deelnemen:**
 1. ________
 2. ________
 3. ________
 
-**Pre-competition:**
-- [ ] Confirm availability 1 week before
-- [ ] Arrive _____ min before first match
-- [ ] Warm up together
+**Voorafgaand aan de wedstrijd:**
+- [ ] Bevestig beschikbaarheid 1 week van tevoren.
+- [ ] Kom _____ minuten voor de eerste wedstrijd aan.
+- [ ] Warm je samen op
 
-**Post-competition:**
-- [ ] Brief debrief (win or lose)
-- [ ] Celebrate efforts
-- [ ] Save detailed analysis for training
-
----
-
-## 6. Conflict Resolution
-
-### When Tensions Arise
-
-**Step 1: Cool down**
-- Don't address conflict during/immediately after match
-- Wait minimum 24 hours if emotions high
-
-**Step 2: Direct conversation**
-- Person with issue approaches the other directly
-- Use "I" statements ("I felt..." not "You always...")
-- Listen without defending
-
-**Step 3: Mediation (if needed)**
-- Third team member facilitates
-- Each person shares perspective
-- Find solution together
-
-**Step 4: Team meeting (if unresolved)**
-- All members present
-- Structured discussion
-- Agree on path forward
-
-### We Commit To:
-- [ ] Address issues, not let them fester
-- [ ] Assume good intentions
-- [ ] Prioritize team over ego
-- [ ] Keep disagreements private (not to others)
+**Na de wedstrijd:**
+- [ ] Korte nabespreking (winst of verlies)
+- [ ] Vier de inspanningen
+- [ ] Bewaar de gedetailleerde analyse voor de training.
 
 ---
 
-## 7. Feedback Culture
+## 6. Conflictresolutie
 
-**How we give feedback:**
-- [ ] Specific and actionable
-- [ ] Balance positive and developmental
-- [ ] In private (not in front of others)
-- [ ] Regular (not just when problems)
+### Wanneer er spanningen ontstaan
 
-**Feedback schedule:**
-- [ ] Brief check-in after each tournament
-- [ ] Deeper feedback session every _____ weeks
-- [ ] Annual team review
+**Stap 1: Afkoelen**
+- Ga conflicten niet aan tijdens of direct na de wedstrijd.
+- Wacht minimaal 24 uur als je emotioneel sterk bent.
 
----
+**Stap 2: Direct gesprek**
+- De persoon met het probleem benadert de ander direct.
+- Gebruik &#39;ik&#39;-zinnen (&quot;Ik voelde...&quot; in plaats van &quot;Jij altijd...&quot;).
+- Luister zonder je te verdedigen.
 
-## 8. Fun & Connection
+**Stap 3: Bemiddeling (indien nodig)**
+- Derde teamlid faciliteert
+- Iedereen deelt zijn of haar perspectief.
+- Samen tot een oplossing komen
 
-**We agree to:**
-- [ ] Celebrate wins together
-- [ ] Support each other in losses
-- [ ] Social activity every _____ months
-- [ ] Remember why we play: ________
+**Stap 4: Teamvergadering (indien onopgelost)**
+- Alle aanwezige leden
+- Gestructureerde discussie
+- Overeenstemming bereiken over de te volgen koers.
 
----
-
-## Signatures
-
-By signing, we commit to this agreement and to revisiting it when needed.
-
-**Name:** ________ **Signature:** ________ **Date:** ________
-
-**Name:** ________ **Signature:** ________ **Date:** ________
-
-**Name:** ________ **Signature:** ________ **Date:** ________
+### Wij verbinden ons ertoe:
+- [ ] Pak problemen aan, laat ze niet sudderen.
+- [ ] Ga uit van goede bedoelingen.
+- [ ] Geef prioriteit aan het team boven je ego.
+- [ ] Bespreek meningsverschillen privé (niet met anderen).
 
 ---
 
-## Review Notes
+## 7. Feedbackcultuur
 
-**Review date:** ________
+**Hoe we feedback geven:**
+- [ ] Specifiek en uitvoerbaar
+- [ ] Zorg voor een goede balans tussen positieve en ontwikkelingsgerichte aspecten.
+- [ ] In privé (niet in het bijzijn van anderen)
+- [ ] Regelmatig (niet alleen als er problemen zijn)
 
-**What's working:**
-
-**What needs adjustment:**
-
-**Updated agreements:**
+**Feedbackschema:**
+- [ ] Korte check-in na elk toernooi.
+- [ ] Een uitgebreidere feedbacksessie elke _____ weken
+- [ ] Jaarlijkse teamevaluatie
 
 ---
 
-## Related Resources
+## 8. Plezier en verbinding
 
-- [Team Dynamics Education](/nl/education/team-dynamics/) — Build stronger team bonds
-- [Peer Feedback Template](/nl/guides/templates/peer-feedback) — Structured feedback tools
-- [Training Session Guide](/nl/guides/training-session/) — Practice together effectively
+**Wij stemmen in met:**
+- [ ] Vier samen de overwinningen
+- [ ] Steun elkaar bij verlies.
+- [ ] Sociale activiteit elke _____ maanden
+- [ ] Onthoud waarom we spelen: ________
+
+---
+
+## Handtekeningen
+
+Door te tekenen, verbinden we ons aan deze overeenkomst en aan het herzien ervan wanneer dat nodig is.
+
+**Naam:** ________ **Handtekening:** ________ **Datum:** ________
+
+**Naam:** ________ **Handtekening:** ________ **Datum:** ________
+
+**Naam:** ________ **Handtekening:** ________ **Datum:** ________
+
+---
+
+## Beoordelingsnotities
+
+**Datum van beoordeling:** ________
+
+**Wat werkt:**
+
+**Wat moet er aangepast worden:**
+
+**Bijgewerkte overeenkomsten:**
+
+---
+
+## Gerelateerde bronnen
+
+- [Team Dynamics Education](/en/education/team-dynamics/) — Bouw sterkere teambanden op
+- [Sjabloon voor collegiale feedback](/en/guides/templates/peer-feedback) — Gestructureerde feedbacktools
+- [Handleiding voor de trainingssessie](/en/guides/training-session/) — Oefen samen effectief
 

@@ -1,89 +1,89 @@
-# Peer Feedback Template
+# Modèle de rétroaction par les pairs
 
-Structured templates for requesting and giving honest feedback to teammates.
+Modèles structurés pour demander et donner un retour d&#39;information honnête à ses coéquipiers.
 
-::: tip Why Peer Feedback?
-**We all have blind spots.** Research shows self-assessment accuracy improves dramatically when combined with peer feedback. Your teammates see things you can't.
+::: tip Pourquoi le feedback entre pairs ?
+Nous avons tous des angles morts. Les recherches montrent que la précision de l&#39;auto-évaluation s&#39;améliore considérablement lorsqu&#39;elle est combinée aux commentaires des pairs. Vos coéquipiers voient des choses que vous ne voyez pas.
 :::
 
-## Requesting Feedback
+## Demande de commentaires
 
-### How to Ask
+### Comment demander
 
-**When:** After training sessions or competitions (not during)
-**Who:** Teammates who've played with you recently
-**How:** Share this form or use the digital assessment
+**Quand :** Après les séances d&#39;entraînement ou les compétitions (pas pendant)
+**Qui :** Les coéquipiers avec lesquels vous avez joué récemment
+**Comment :** Partagez ce formulaire ou utilisez l’évaluation numérique
 
-::: info Digital Option
-Use the [Player Assessment Tool](/fr/assessment/) with the "Get Peer Feedback" feature for automatic comparison and blind spot detection.
+::: info Option numérique
+Utilisez l&#39;[Outil d&#39;évaluation des joueurs](/en/assessment/) avec la fonction « Obtenir des commentaires des pairs » pour une comparaison automatique et une détection des angles morts.
 :::
 
 ---
 
-### Feedback Request Form
+### Formulaire de demande de commentaires
 
-**To:** ________ (teammate name)
-**From:** ________ (your name)
+**À :** ________ (nom du coéquipier)
+**De la part de :** ________ (votre nom)
 **Date:** ________
 
-**Context:** I'm working on improving my game and would value your honest perspective. Please rate me based on what you've observed, not what you think I want to hear.
+**Contexte :** Je cherche à améliorer mon jeu et j’apprécierais votre avis sincère. Veuillez m’évaluer en fonction de vos observations, et non de ce que vous pensez que je veux entendre.
 
 ---
 
-**Rate me 1-10 on each area:**
+**Évaluez-moi de 1 à 10 pour chaque critère :**
 
-| Area | Your Rating | Comments |
+| Zone | Votre note | Commentaires |
 |------|-------------|----------|
-| **Technical consistency** | /10 | |
-| **Shot selection decisions** | /10 | |
-| **Performance under pressure** | /10 | |
-| **Communication with team** | /10 | |
-| **Body language after mistakes** | /10 | |
-| **Focus/concentration** | /10 | |
-| **Energy/motivation** | /10 | |
-| **Supportiveness to teammates** | /10 | |
+| **Cohérence technique** | /10 |
+| **Décisions relatives au choix du tir** | /10 |
+| **Performance sous pression** | /10 |
+| **Communication avec l&#39;équipe** | /10 |
+| **Le langage corporel après les erreurs** | /10 |
+| **Concentration** | /10 |
+| **Énergie/motivation** | /10 |
+| **Soutien aux coéquipiers** | /10 |
 
 ---
 
-**Open questions:**
+**Questions ouvertes :**
 
-1. **What do I do well that I should keep doing?**
+1. **Qu&#39;est-ce que je fais bien et que je devrais continuer à faire ?**
 
-2. **What's one thing holding me back that I might not see?**
+2. **Quel est l&#39;obstacle que je ne vois peut-être pas ?**
 
-3. **In pressure situations, what do you notice about me?**
+3. **Que remarquez-vous chez moi dans les situations de pression ?**
 
-4. **How could I better support the team?**
+4. **Comment pourrais-je mieux soutenir l&#39;équipe ?**
 
-5. **Any other observations?**
-
----
-
-## Giving Feedback
-
-### Guidelines for Honest, Helpful Feedback
-
-**Be specific:** Not "you're inconsistent" but "I noticed your pointing accuracy drops in the last 3 ends"
-
-**Be kind but honest:** Sugarcoating doesn't help growth
-
-**Focus on behavior, not personality:** Not "you're negative" but "after misses, your body language affects the team"
-
-**Include positives:** Balance areas for improvement with genuine strengths
-
-**Offer observations, not judgments:** "I observed..." not "You always..."
+5. **D&#39;autres observations ?**
 
 ---
 
-### Feedback Response Form
+## Donner des commentaires
 
-**For:** ________ (requester name)
-**From:** ________ (your name)
+### Règles pour des commentaires honnêtes et constructifs
+
+**Soyez précis :** Ne dites pas « vous êtes incohérent », mais plutôt « j’ai remarqué une baisse de votre précision de pointage lors des 3 dernières manches ».
+
+**Soyez bienveillant mais honnête :** Enjoliver la réalité ne favorise pas la croissance
+
+**Concentrez-vous sur le comportement, pas sur la personnalité :** Il ne s’agit pas de dire « tu es négatif », mais plutôt « après des erreurs, ton langage corporel affecte l’équipe ».
+
+**Inclure les points positifs :** Équilibrer les points à améliorer avec les véritables atouts
+
+**Faites des observations, pas des jugements :** « J’ai observé… » et non « Tu as toujours… »
+
+---
+
+### Formulaire de réponse aux commentaires
+
+**Pour :** ________ (nom du demandeur)
+**De la part de :** ________ (votre nom)
 **Date:** ________
 
 ---
 
-**Strengths I've observed:**
+**Points forts que j&#39;ai observés :**
 
 1.
 
@@ -93,95 +93,95 @@ Use the [Player Assessment Tool](/fr/assessment/) with the "Get Peer Feedback" f
 
 ---
 
-**Areas for development:**
+**Axes de développement :**
 
-1. **Area:** ________
-   **Specific observation:**
+1. **Zone:** ________
+   **Observation spécifique :**
    **Suggestion:**
 
-2. **Area:** ________
-   **Specific observation:**
+2. **Zone:** ________
+   **Observation spécifique :**
    **Suggestion:**
 
 ---
 
-**Under pressure, I notice you:**
+**Sous pression, je te remarque :**
 
 ---
 
-**One thing that might be a blind spot:**
+**Un point qui pourrait être négligé :**
 
 ---
 
-**Overall, I think you could take your game to the next level by:**
+**En résumé, je pense que vous pourriez passer au niveau supérieur en :**
 
 ---
 
-## Team Feedback Session Format
+## Format de la séance de retour d&#39;information de l&#39;équipe
 
-For teams wanting structured feedback conversations:
+Pour les équipes souhaitant des échanges structurés sur le feedback :
 
-### Setup (5 min)
-- Each person has given written feedback beforehand
-- Safe space agreement: honest but respectful
-- Focus on growth, not criticism
+### Installation (5 min)
+- Chaque personne a préalablement fourni un retour d&#39;information écrit.
+- Accord d&#39;espace sécurisé : honnête mais respectueux
+- Concentrez-vous sur la croissance, pas sur la critique
 
-### Round 1: Strengths (15 min)
-Each player shares:
-- "What I appreciate about [teammate]'s contribution to the team"
-- Go around for each team member
+### Tour 1 : Points forts (15 min)
+Chaque joueur partage :
+- « Ce que j&#39;apprécie dans la contribution de [coéquipier] à l&#39;équipe »
+- Faites le tour pour chaque membre de l&#39;équipe
 
-### Round 2: Growth Areas (20 min)
-Each player shares:
-- "One thing [teammate] could work on that would help the team"
-- Receiver listens without defending
-- Ask clarifying questions only
+### Deuxième manche : Domaines de croissance (20 min)
+Chaque joueur partage :
+- « Il y a une chose sur laquelle [son coéquipier] pourrait travailler et qui serait bénéfique à l&#39;équipe. »
+- Le récepteur écoute sans se défendre
+- Posez uniquement des questions de clarification
 
-### Round 3: Commitments (10 min)
-Each player states:
-- "Based on this feedback, I will focus on..."
+### Tour 3 : Engagements (10 min)
+Chaque joueur déclare :
+- « En fonction de ces commentaires, je vais me concentrer sur… »
 
-### Close (5 min)
-- Thank each other for honesty
-- Schedule follow-up in 4-6 weeks
-
----
-
-## Receiving Feedback
-
-### How to Receive Well
-
-**Don't:**
-- Defend or explain
-- Dismiss ("they don't understand")
-- Get emotional
-- Argue
-
-**Do:**
-- Listen fully
-- Ask clarifying questions
-- Thank them for honesty
-- Reflect before responding
-- Look for patterns across multiple sources
-
-### Processing Template
-
-**Feedback received:**
-
-**My initial reaction:**
-
-**After reflection, I think:**
-
-**Pattern I'm noticing (if multiple sources):**
-
-**Action I will take:**
+### Fermer (5 min)
+- Remerciez-vous mutuellement pour votre honnêteté.
+- Planifiez un suivi dans 4 à 6 semaines.
 
 ---
 
-## Related Resources
+## Recevoir des commentaires
 
-- [🎯 Assessment Tool](/fr/assessment/) — Digital self + peer assessment
-- [Self-Awareness Education](/fr/education/self-awareness/) — Understanding blind spots
-- [Team Agreement Template](/fr/guides/templates/team-agreement) — Build team communication
-- [Training Diary](/fr/guides/templates/diary-template) — Track your development
+### Comment bien recevoir
+
+**Ne le faites pas:**
+- Défendre ou expliquer
+- Rejeter (« ils ne comprennent pas »)
+- Laissez-vous emporter par vos émotions
+- Argumenter
+
+**Faire:**
+- Écoutez attentivement
+- Posez des questions de clarification
+- Remerciez-les pour leur honnêteté.
+- Réfléchissez avant de répondre
+- Recherchez des tendances dans plusieurs sources
+
+### Modèle de traitement
+
+**Commentaires reçus :**
+
+**Ma première réaction :**
+
+**Après réflexion, je pense :**
+
+**Schéma que je remarque (en cas de sources multiples) :**
+
+**Mesures que je prendrai :**
+
+---
+
+## Ressources connexes
+
+- [🎯 Outil d&#39;évaluation](/en/assessment/) — Auto-évaluation numérique et évaluation par les pairs
+- [Éducation à la conscience de soi](/en/education/self-awareness/) — Comprendre les angles morts
+- [Modèle d&#39;accord d&#39;équipe](/en/guides/templates/team-agreement) — Améliorer la communication d&#39;équipe
+- [Journal de formation](/en/guides/templates/diary-template) — Suivez votre développement
 

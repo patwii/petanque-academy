@@ -3,154 +3,154 @@ title: Building Pre-Shot Routines
 description: Develop a consistent pre-shot routine that anchors your focus, manages pressure, and creates the conditions for peak performance in pétanque.
 ---
 
-# Building Pre-Shot Routines
+# Opbygning af rutiner før optagelse
 
-> "The difference between a good throw and a great throw often happens before the boule leaves your hand."
+> &quot;Forskellen mellem et godt kast og et fremragende kast sker ofte, før kuglen forlader din hånd.&quot;
 
-A well-designed pre-shot routine is your anchor in the storm of competition — a reliable sequence that prepares your mind and body for optimal performance.
+En veldesignet træningsrutine før skudskiftet er dit anker i konkurrencens storm – en pålidelig sekvens, der forbereder dit sind og din krop til optimal præstation.
 
-::: tip Your Competitive Advantage
-**A consistent routine creates consistent results.** It's the one thing you can control completely, regardless of pressure or circumstances.
+::: tip Din konkurrencefordel
+**En konsekvent rutine skaber ensartede resultater.** Det er den ene ting, du kan kontrollere fuldstændigt, uanset pres eller omstændigheder.
 :::
 
 ---
 
-## Why Pre-Shot Routines Matter
+## Hvorfor rutiner før optagelse er vigtige
 
-Elite athletes across all sports use pre-shot routines. In pétanque, where each throw is discrete and pressure can build between shots, routines serve multiple purposes:
+Eliteatleter i alle sportsgrene bruger rutiner før kast. I petanque, hvor hvert kast er diskret, og der kan opbygges pres mellem slagene, tjener rutinerne flere formål:
 
-| Purpose | How It Helps |
+| Formål | Hvordan det hjælper |
 |---------|--------------|
-| **Consistency** | Same preparation → more consistent execution |
-| **Focus** | Constructive task instead of worrying |
-| **Transition** | Shift from thinking to doing |
-| **Pressure management** | Familiar actions calm nervous system |
-| **Reset** | Clears previous shot from mind |
+| **Konsistens** | Samme forberedelse → mere ensartet udførelse |
+| **Fokus** | Konstruktiv opgave i stedet for bekymring |
+| **Overgang** | Skift fra at tænke til at handle |
+| **Trykhåndtering** | Velkendte handlinger beroliger nervesystemet |
+| **Nulstil** | Rydder forrige skud fra hukommelsen |
 
 ---
 
-## Anatomy of an Effective Routine
+## Anatomien af en effektiv rutine
 
 ```mermaid
 flowchart LR
-    A[Phase 1<br/>ASSESS<br/>5-10 sec] --> B[Phase 2<br/>PREPARE<br/>5-10 sec]
-    B --> C[Phase 3<br/>EXECUTE<br/>3-5 sec]
+    A[Fase 1 <br/> VURDERE <br/> 5-10 sek.] --> B[Fase 2 <br/> FORBEREDE <br/> 5-10 sek.]
+    B --> C[Fase 3 <br/> UDFØR <br/> 3-5 sek.]
 
     style A fill:#2196F3,color:#fff
     style B fill:#FF9800,color:#fff
     style C fill:#4CAF50,color:#fff
 ```
 
-### Phase 1: Assessment (5-10 seconds)
-- Read the terrain
-- Visualize the intended result
-- Choose your throw type
-- Commit to the decision
+### Fase 1: Vurdering (5-10 sekunder)
+- Læs terrænet
+- Visualiser det tilsigtede resultat
+- Vælg din kastetype
+- Forpligt dig til beslutningen
 
-### Phase 2: Preparation (5-10 seconds)
-- Take your position
-- Find your grip
-- Settle your breathing
-- Feel the weight of the boule
+### Fase 2: Forberedelse (5-10 sekunder)
+- Tag din position
+- Find dit greb
+- Få ro på din vejrtrækning
+- Mærk vægten af kuglen
 
-### Phase 3: Execution (3-5 seconds)
-- Final focus on target
-- Trust your body
-- Release without thought
-- Follow through naturally
+### Fase 3: Udførelse (3-5 sekunder)
+- Endelig fokus på målet
+- Stol på din krop
+- Slip fri uden tanke
+- Følg op naturligt
 
-## Building Your Personal Routine
+## Opbygning af din personlige rutine
 
-### Step 1: Observe Your Current Patterns
+### Trin 1: Observer dine nuværende mønstre
 
-Before creating a new routine, notice what you already do:
-- What do you do before successful throws?
-- What changes when you're under pressure?
-- What feels natural to you?
+Før du opretter en ny rutine, så læg mærke til, hvad du allerede gør:
+- Hvad gør man før succesfulde kast?
+- Hvad ændrer sig, når man er under pres?
+- Hvad føles naturligt for dig?
 
-### Step 2: Design Your Sequence
+### Trin 2: Design din sekvens
 
-Create a routine that includes:
+Lav en rutine, der inkluderer:
 
-**Physical elements:**
-- How you approach the circle
-- How you pick up and hold the boule
-- Your stance and positioning
-- A specific breathing pattern
+**Fysiske elementer:**
+- Hvordan du griber cirklen an
+- Sådan løfter og holder du kuglen
+- Din holdning og positionering
+- Et specifikt åndedrætsmønster
 
-**Mental elements:**
-- A visualization of the result
-- A focus word or phrase
-- A commitment point (the moment you decide "this is the throw")
+**Mentale elementer:**
+- En visualisering af resultatet
+- Et fokusord eller en fokusfrase
+- Et forpligtelsespunkt (det øjeblik du beslutter dig for, at &quot;dette er kastet&quot;)
 
-### Step 3: Keep It Simple
+### Trin 3: Hold det enkelt
 
-Your routine should be:
-- **Short enough** to maintain under pressure (15-25 seconds total)
-- **Simple enough** to remember when stressed
-- **Flexible enough** to adapt to different situations
+Din rutine bør være:
+- **Kort nok** til at opretholde trykket (15-25 sekunder i alt)
+- **Simpel nok** til at huske, når man er stresset
+- **Fleksibel nok** til at tilpasse sig forskellige situationer
 
-## Example Routines
+## Eksempelrutiner
 
-### The Pointer's Routine
-1. Stand behind the circle, assess the terrain
-2. Visualize the boule's path and landing spot
-3. Step into the circle, find your stance
-4. Three slow breaths while feeling the boule
-5. Eyes on the target, release
+### Pointerens rutine
+1. Stil dig bag cirklen og vurder terrænet
+2. Visualiser kuglens bane og landingssted
+3. Træd ind i cirklen, find din holdning
+4. Tre langsomme vejrtrækninger mens du mærker på kuglen
+5. Øjnene på målet, slip
 
-### The Shooter's Routine
-1. Identify the target boule, choose the angle
-2. Visualize the impact and result
-3. Enter the circle with purpose
-4. One deep breath, feel the weight
-5. Lock eyes on target, execute
+### Skytterens rutine
+1. Identificér målkuglen, vælg vinklen
+2. Visualiser effekten og resultatet
+3. Gå ind i cirklen med et formål
+4. En dyb indånding, mærk vægten
+5. Hold blikket rettet mod målet, udfør
 
-## Common Mistakes to Avoid
+## Almindelige fejl at undgå
 
-### Too Long
-If your routine takes more than 30 seconds, you're overthinking. Long routines give anxiety more time to build.
+### For lang
+Hvis din rutine tager mere end 30 sekunder, tænker du for meget. Lange rutiner giver angst mere tid til at opbygge sig.
 
-### Too Rigid
-If any interruption destroys your routine, it's too fragile. Build in flexibility — if something breaks your concentration, have a reset trigger.
+### For stiv
+Hvis en afbrydelse ødelægger din rutine, er den for skrøbelig. Indbyg fleksibilitet – hvis noget forstyrrer din koncentration, så hav en nulstillingsmekanisme.
 
-### Skipping Under Pressure
-The routine matters most when pressure is highest. If you abandon it when stressed, you lose its protective benefits.
+### Springe over under pres
+Rutinen er vigtigst, når presset er højest. Hvis du opgiver den, når du er stresset, mister du dens beskyttende fordele.
 
-### Focusing on Mechanics
-Your routine should end with focus on the result, not on technique. "Hit the target" not "keep your elbow straight."
+### Fokus på mekanik
+Din træningsrutine bør slutte med fokus på resultatet, ikke på teknik. &quot;Ram målet&quot; ikke &quot;hold albuen lige&quot;.
 
-## Practicing Your Routine
+## Øvelse af din rutine
 
-### In Training
-- Use your full routine for every throw, even casual ones
-- Time yourself to ensure consistency
-- Practice with distractions to build resilience
+### Under træning
+- Brug din fulde rutine til hvert kast, selv de mere afslappede
+- Tag tid på dig selv for at sikre konsistens
+- Øv dig med distraktioner for at opbygge modstandsdygtighed
 
-### Building Automaticity
-The goal is for your routine to become automatic — something you do without thinking. This takes repetition:
-- 100+ throws with the same routine
-- Consistent use across different situations
-- Gradual exposure to pressure while maintaining the routine
+### Bygningsautomatik
+Målet er, at din rutine bliver automatisk – noget du gør uden at tænke over det. Dette kræver gentagelse:
+- 100+ kast med samme rutine
+- Konsekvent brug i forskellige situationer
+- Gradvis eksponering for pres, samtidig med at rutinen opretholdes
 
-## Adapting to Competition
+## Tilpasning til konkurrence
 
-In matches, your routine may need slight adjustments:
+I kampe kan din rutine have brug for små justeringer:
 
-- **Time pressure**: Have a shortened version ready
-- **Weather conditions**: Adjust physical elements as needed
-- **High pressure moments**: Slow down slightly, don't speed up
+- **Tidspres**: Hav en forkortet version klar
+- **Vejrforhold**: Juster de fysiske elementer efter behov
+- **Øjeblikke med højt tryk**: Sænk farten en smule, øg ikke farten
 
-## The Reset Routine
+## Nulstillingsrutinen
 
-Equally important is what you do after a throw:
+Lige så vigtigt er, hvad du gør efter et kast:
 
-1. **Accept the result** — good or bad, it's done
-2. **Physical reset** — step back, shake out tension
-3. **Mental reset** — clear the throw from your mind
-4. **Prepare for next** — shift focus to what's coming
+1. **Accepter resultatet** — godt eller dårligt, det er gjort
+2. **Fysisk nulstilling** — træd tilbage, ryst spændinger ud
+3. **Mental nulstilling** — ryd kastet ud af dit sind
+4. **Forbered dig på det næste** — skift fokus til det, der kommer
 
 ---
 
-*Related: [Pre-Shot Routine Guide](/da/education/mental-game/mental-strength/pre-shot-routine) | [Handling Pressure](/da/education/mental-game/mental-strength/handling-pressure) | [Mindfulness Techniques](/da/education/mental-game/mindfulness/techniques)*
+| *Relateret: [Guide til træningsrutine før skud](/da/uddannelse/mentalt-spil/mental-styrke/træningsrutine-før-skud) | [Håndtering af pres](/da/uddannelse/mentalt-spil/mental-styrke/håndtering-af-pres) | [Mindfulness-teknikker](/da/uddannelse/mentalt-spil/mindfulness/teknikker)* |
 

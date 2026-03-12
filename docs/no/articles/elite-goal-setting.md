@@ -3,37 +3,37 @@ title: Goal Setting for Elite Athletes
 description: Learn advanced goal-setting strategies used by elite pétanque players to drive continuous improvement and achieve peak performance.
 ---
 
-# Goal Setting for Elite Athletes
+# Målsetting for eliteutøvere
 
-> "The right goals accelerate development; the wrong ones create frustration and stagnation."
+> «De riktige målene akselererer utviklingen; de gale målene skaper frustrasjon og stagnasjon.»
 
-Goal setting seems simple: decide what you want, work toward it. But elite-level goal setting is more nuanced.
+Målsetting virker enkelt: bestem deg for hva du vil, og jobb mot det. Men målsetting på elitenivå er mer nyansert.
 
-::: warning Common Mistake
-**Most players only set outcome goals** ("Win the championship"). You can't control outcomes — only the process that leads to them.
+::: warning Vanlig feil
+**De fleste spillere setter seg bare resultatmål** («Vinn mesterskapet»). Du kan ikke kontrollere resultatene – bare prosessen som fører til dem.
 :::
 
 ---
 
-## Beyond Basic Goals
+## Utover grunnleggende mål
 
-| Outcome Goal Problems | Why It's a Problem |
+| Problemer med resultatmål | Hvorfor det er et problem |
 |----------------------|-------------------|
-| Can't fully control outcomes | Creates helplessness |
-| Creates pressure without direction | Anxiety without action |
-| Success or failure is binary | No partial wins |
-| Doesn't guide daily practice | What do you actually do? |
+| Kan ikke kontrollere resultatene fullt ut | Skaper hjelpeløshet |
+| Skaper press uten retning | Angst uten handling |
+| Suksess eller fiasko er binært | Ingen delvise seire |
+| Veileder ikke daglig praksis | Hva gjør du egentlig? |
 
-Elite goal setting goes deeper.
+Elitemålsetting går dypere.
 
 ---
 
-## The Goal Hierarchy
+## Målhierarkiet
 
 ```mermaid
 flowchart TD
-    A[Level 1: DREAM GOALS<br/>1-5 years] --> B[Level 2: PERFORMANCE GOALS<br/>Season/Year]
-    B --> C[Level 3: PROCESS GOALS<br/>Daily/Weekly]
+    A[Nivå 1: DRØMMEMÅL <br/> 1–5 år] --> B[Nivå 2: YTELSESMÅL <br/> Sesong/år]
+    B --> C[Nivå 3: PROSESSMÅL <br/> Daglig/Ukentlig]
 
     A -.->|"Compete at national level"| A
     B -.->|"Shooting accuracy 60% → 70%"| B
@@ -44,164 +44,164 @@ flowchart TD
     style C fill:#4CAF50,color:#fff
 ```
 
-### Level 1: Dream Goals (1-5 years)
-Your ultimate aspirations:
-- "Compete at national level"
-- "Be recognized as an elite shooter"
-- "Win a major championship"
+### Nivå 1: Drømmemål (1–5 år)
+Dine ultimate ambisjoner:
+- &quot;Konkurrer på nasjonalt nivå&quot;
+- &quot;Bli anerkjent som en eliteskytter&quot;
+- &quot;Vinne et stort mesterskap&quot;
 
-::: info Direction, Not Action
-These provide direction and motivation but aren't actionable daily.
+::: info Retning, ikke handling
+Disse gir retning og motivasjon, men er ikke handlingsrettede i det daglige.
 :::
 
-### Level 2: Performance Goals (Season/Year)
-Measurable improvements in your game:
-- "Increase shooting accuracy from 60% to 70%"
-- "Reduce unforced errors by 25%"
-- "Develop a reliable plombée"
+### Nivå 2: Prestasjonsmål (sesong/år)
+Målbare forbedringer i spillet ditt:
+- &quot;Øk skytepresisjonen fra 60 % til 70 %&quot;
+- &quot;Reduser upålagte feil med 25 %&quot;
+- &quot;Utvikle en pålitelig plombée&quot;
 
-These are within your control and measurable.
+Disse er innenfor din kontroll og målbare.
 
-### Level 3: Process Goals (Daily/Weekly)
-The actions that drive improvement:
-- "Complete pre-shot routine on every throw"
-- "Practice visualization for 10 minutes daily"
-- "Train shooting technique 3x per week"
+### Nivå 3: Prosessmål (daglig/ukentlig)
+Tiltakene som driver forbedring:
+- &quot;Komplett rutine før skuddet på hvert kast&quot;
+- &quot;Øv visualisering i 10 minutter daglig&quot;
+- &quot;Tren skyteteknikk 3 ganger i uken&quot;
 
-::: tip Full Control
-**Process goals are 100% controllable.** Focus here for maximum impact.
+::: tip Full kontroll
+**Prosessmålinger er 100 % kontrollerbare.** Fokuser her for maksimal effekt.
 :::
 
-## The SMART+ Framework
+## SMART+-rammeverket
 
-Go beyond basic SMART goals:
+Gå utover grunnleggende SMART-mål:
 
-### Specific
-Not "improve my pointing" but "develop a consistent demi-portée that lands within 30cm of target from 8 meters."
+### Spesiell
+Ikke «forbedre pekingen min», men «utvikle en konsistent demiportée som lander innenfor 30 cm fra målet fra 8 meter».
 
-### Measurable
-Define how you'll track progress:
-- Success rate percentages
-- Consistency metrics
-- Video analysis markers
+### Målbar
+Definer hvordan du skal spore fremdriften:
+- Suksessrateprosenter
+- Konsistensmålinger
+- Videoanalysemarkører
 
-### Achievable but Stretching
-The goal should require growth but be realistic. A 60% shooter aiming for 65% is achievable; aiming for 90% is fantasy.
+### Oppnåelig, men utfordrende
+Målet bør kreve vekst, men være realistisk. En skytter på 60 % som sikter mot 65 % er oppnåelig; en sikting mot 90 % er fantasi.
 
 ### Relevant
-Goals must connect to your larger aspirations and address actual weaknesses, not just what's easy to improve.
+Mål må knyttes til dine større ambisjoner og adressere faktiske svakheter, ikke bare det som er lett å forbedre.
 
-### Time-bound
-Set clear deadlines:
-- "By end of season"
-- "Within 3 months"
-- "By the national championship"
+### Tidsbundet
+Sett tydelige tidsfrister:
+- &quot;Innen sesongslutt&quot;
+- &quot;Innen 3 måneder&quot;
+- &quot;Ved det nasjonale mesterskapet&quot;
 
-### + Personally Meaningful
-The goal must matter to YOU, not just your coach or teammates. Internal motivation sustains effort when progress is slow.
+### + Personlig meningsfull
+Målet må bety noe for DEG, ikke bare treneren eller lagkameratene dine. Indre motivasjon opprettholder innsatsen når fremgangen er langsom.
 
-## Process vs. Outcome Focus
+## Prosess vs. resultatfokus
 
-### The Problem with Outcome Goals
+### Problemet med resultatmål
 
-"Win the match" creates problems:
-- Anxiety about things you can't control
-- Distraction from execution
-- All-or-nothing thinking
-- Pressure without guidance
+«Å vinne kampen» skaper problemer:
+- Angst for ting du ikke kan kontrollere
+- Distraksjon fra utførelsen
+- Alt-eller-ingenting-tenkning
+- Press uten veiledning
 
-### The Power of Process Goals
+### Kraften i prosessmål
 
-"Execute my pre-shot routine perfectly" offers:
-- Full control
-- Clear focus
-- Immediate feedback
-- Builds toward outcomes naturally
+«Utfør rutinen min før bruk perfekt» tilbyr:
+- Full kontroll
+- Klart fokus
+- Umiddelbar tilbakemelding
+- Bygger naturlig mot resultater
 
-### The Balance
+### Balansen
 
-Use outcome goals for motivation and direction. Use process goals for daily focus and execution.
+Bruk resultatmål for motivasjon og retning. Bruk prosessmål for daglig fokus og gjennomføring.
 
-## Goal Setting for Different Phases
+## Målsetting for ulike faser
 
-### Off-Season
-Focus on development goals:
-- Technical improvements
-- Physical conditioning
-- Mental skill building
-- Expanding your palette of throws
+### Lavsesong
+Fokus på utviklingsmål:
+- Tekniske forbedringer
+- Fysisk kondisjonering
+- Mental ferdighetsbygging
+- Utvider palett av pledd
 
-### Pre-Season
-Transition to integration:
-- Combining skills in match-like conditions
-- Testing improvements in friendly competition
-- Refining strategies
+### Før-sesong
+Overgang til integrering:
+- Kombinere ferdigheter i kamplignende forhold
+- Testing av forbedringer i vennskapelig konkurranse
+- Raffinering av strategier
 
-### Competition Season
-Shift to performance and process:
-- Executing what you've developed
-- Process goals for each match
-- Minimal technical changes
+### Konkurransesesong
+Skift til ytelse og prosess:
+- Å gjennomføre det du har utviklet
+- Prosess mål for hver kamp
+- Minimale tekniske endringer
 
-### Post-Competition
-Reflection and planning:
-- Analyze what worked
-- Identify areas for growth
-- Set goals for next cycle
+### Etter konkurransen
+Refleksjon og planlegging:
+- Analyser hva som fungerte
+- Identifiser områder for vekst
+- Sett mål for neste syklus
 
-## Common Goal-Setting Mistakes
+## Vanlige feil ved målsetting
 
-### Too Many Goals
-Focus is power. 2-3 key goals beat 10 scattered ones.
+### For mange mål
+Fokus er makt. 2–3 viktige mål slår 10 spredte mål.
 
-### Only Outcome Goals
-Without process goals, you have no roadmap.
+### Kun resultatmål
+Uten prosessmål har du ingen plan.
 
-### No Flexibility
-Goals should adapt to new information. Rigid adherence to outdated goals wastes effort.
+### Ingen fleksibilitet
+Mål bør tilpasses ny informasjon. Streng overholdelse av utdaterte mål er sløsing med innsats.
 
-### Comparison-Based Goals
-"Be better than [player]" puts your success in someone else's hands.
+### Sammenligningsbaserte mål
+«Vær bedre enn [spiller]» legger suksessen din i andres hender.
 
-### Neglecting Mental Goals
-Technical and physical goals dominate, but mental skills often determine who wins.
+### Forsømmelse av mentale mål
+Tekniske og fysiske mål dominerer, men mentale ferdigheter avgjør ofte hvem som vinner.
 
-## Implementation Strategies
+## Implementeringsstrategier
 
-### Write Them Down
-Written goals are significantly more likely to be achieved.
+### Skriv dem ned
+Det er betydelig større sannsynlighet for at skriftlige mål blir nådd.
 
-### Review Regularly
-Weekly review keeps goals present and allows adjustment.
+### Gjennomgå regelmessig
+Ukentlig gjennomgang holder målene presentert og gir mulighet for justeringer.
 
-### Share Selectively
-Share with those who will support, not undermine.
+### Del selektivt
+Del med de som vil støtte, ikke undergrave.
 
-### Visualize Achievement
-Regularly imagine achieving your goals — the feeling, the moment.
+### Visualiser prestasjon
+Se regelmessig for deg at du når målene dine – følelsen, øyeblikket.
 
-### Track Progress
-What gets measured gets managed. Keep records.
+### Spor fremgang
+Det som blir målt, blir håndtert. Hold oversikt.
 
-## When Goals Aren't Met
+## Når målene ikke blir nådd
 
-Unmet goals aren't failures — they're data:
+Uoppnådde mål er ikke feil – de er data:
 
-1. **Analyze**: Why wasn't it achieved?
-2. **Learn**: What does this teach you?
-3. **Adjust**: Modify the goal or approach
-4. **Continue**: Persistence beats perfection
+1. **Analyser**: Hvorfor ble det ikke oppnådd?
+2. **Lær**: Hva lærer dette deg?
+3. **Juster**: Endre målet eller tilnærmingen
+4. **Fortsett**: Utholdenhet slår perfeksjon
 
-## The Mental Game of Goals
+## Det mentale spillet om mål
 
-Goals affect psychology:
-- **Too easy**: Boredom, complacency
-- **Too hard**: Anxiety, discouragement
-- **Just right**: Engagement, flow, growth
+Mål påvirker psykologien:
+- **For lett**: Kjedsomhet, selvtilfredshet
+- **For vanskelig**: Angst, motløshet
+- **Akkurat passe**: Engasjement, flyt, vekst
 
-Find the sweet spot where goals challenge without overwhelming.
+Finn det optimale punktet der målene utfordrer uten å bli overveldende.
 
 ---
 
-*Related: [Goal Setting Introduction](/no/education/motivation/) | [SMART Goals](/no/education/motivation/smart-goals) | [Planning Your Development](/no/education/motivation/planning)*
+| *Relatert: [Introduksjon til målsetting](/no/utdanning/motivasjon/) | [SMART-mål](/no/utdanning/motivasjon/smarte-mål) | [Planlegging av utviklingen din](/no/utdanning/motivasjon/planlegging)* |
 

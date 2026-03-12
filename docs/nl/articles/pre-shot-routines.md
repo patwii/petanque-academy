@@ -3,154 +3,154 @@ title: Building Pre-Shot Routines
 description: Develop a consistent pre-shot routine that anchors your focus, manages pressure, and creates the conditions for peak performance in pétanque.
 ---
 
-# Building Pre-Shot Routines
+# Het opbouwen van routines vóór de opname
 
-> "The difference between a good throw and a great throw often happens before the boule leaves your hand."
+> &quot;Het verschil tussen een goede en een geweldige worp zit hem vaak al in het moment dat de boule je hand verlaat.&quot;
 
-A well-designed pre-shot routine is your anchor in the storm of competition — a reliable sequence that prepares your mind and body for optimal performance.
+Een goed doordachte warming-up is je anker in de storm van de competitie – een betrouwbare reeks oefeningen die je lichaam en geest voorbereidt op optimale prestaties.
 
-::: tip Your Competitive Advantage
-**A consistent routine creates consistent results.** It's the one thing you can control completely, regardless of pressure or circumstances.
+::: tip Uw concurrentievoordeel
+**Een consistente routine leidt tot consistente resultaten.** Het is het enige dat je volledig in de hand hebt, ongeacht de druk of omstandigheden.
 :::
 
 ---
 
-## Why Pre-Shot Routines Matter
+## Waarom routines vóór de opname belangrijk zijn
 
-Elite athletes across all sports use pre-shot routines. In pétanque, where each throw is discrete and pressure can build between shots, routines serve multiple purposes:
+Topsporters in alle sporten gebruiken routines voorafgaand aan een worp. Bij pétanque, waar elke worp op zichzelf staat en de spanning tussen de worpen kan oplopen, dienen deze routines meerdere doelen:
 
-| Purpose | How It Helps |
+| Doel | Hoe het helpt |
 |---------|--------------|
-| **Consistency** | Same preparation → more consistent execution |
-| **Focus** | Constructive task instead of worrying |
-| **Transition** | Shift from thinking to doing |
-| **Pressure management** | Familiar actions calm nervous system |
-| **Reset** | Clears previous shot from mind |
+| **Samenhang** | Dezelfde voorbereiding → consistentere uitvoering |
+| **Focus** | Een constructieve taak in plaats van piekeren. |
+| **Overgang** | Schakel over van denken naar doen. |
+| **Drukbeheersing** | Bekende handelingen kalmeren het zenuwstelsel. |
+| **Reset** | Wis de vorige foto uit mijn geheugen. |
 
 ---
 
-## Anatomy of an Effective Routine
+## Anatomie van een effectieve routine
 
 ```mermaid
 flowchart LR
-    A[Phase 1<br/>ASSESS<br/>5-10 sec] --> B[Phase 2<br/>PREPARE<br/>5-10 sec]
-    B --> C[Phase 3<br/>EXECUTE<br/>3-5 sec]
+    A[Fase 1 <br/> SCHATTEN <br/> 5-10 seconden] --> B[Fase 2 <br/> VOORBEREIDEN <br/> 5-10 seconden]
+    B --> C[Fase 3 <br/> UITVOEREN <br/> 3-5 seconden]
 
     style A fill:#2196F3,color:#fff
     style B fill:#FF9800,color:#fff
     style C fill:#4CAF50,color:#fff
 ```
 
-### Phase 1: Assessment (5-10 seconds)
-- Read the terrain
-- Visualize the intended result
-- Choose your throw type
-- Commit to the decision
+### Fase 1: Beoordeling (5-10 seconden)
+- Lees het terrein
+- Visualiseer het beoogde resultaat.
+- Kies je werptype
+- Houd vast aan de beslissing.
 
-### Phase 2: Preparation (5-10 seconds)
-- Take your position
-- Find your grip
-- Settle your breathing
-- Feel the weight of the boule
+### Fase 2: Voorbereiding (5-10 seconden)
+- Neem je positie in.
+- Vind je grip
+- Kom tot rust tijdens het ademhalen.
+- Voel het gewicht van de boule.
 
-### Phase 3: Execution (3-5 seconds)
-- Final focus on target
-- Trust your body
-- Release without thought
-- Follow through naturally
+### Fase 3: Uitvoering (3-5 seconden)
+- Laatste focus op het doel
+- Vertrouw op je lichaam.
+- Loslaten zonder na te denken
+- Ga er natuurlijk mee door
 
-## Building Your Personal Routine
+## Het opbouwen van je persoonlijke routine
 
-### Step 1: Observe Your Current Patterns
+### Stap 1: Observeer je huidige patronen
 
-Before creating a new routine, notice what you already do:
-- What do you do before successful throws?
-- What changes when you're under pressure?
-- What feels natural to you?
+Voordat je een nieuwe routine creëert, kijk eerst eens naar wat je al doet:
+- Wat doe je voordat je een succesvolle worp maakt?
+- Wat verandert er als je onder druk staat?
+- Wat voelt voor jou natuurlijk aan?
 
-### Step 2: Design Your Sequence
+### Stap 2: Ontwerp je volgorde
 
-Create a routine that includes:
+Stel een routine samen die het volgende omvat:
 
-**Physical elements:**
-- How you approach the circle
-- How you pick up and hold the boule
-- Your stance and positioning
-- A specific breathing pattern
+**Fysieke elementen:**
+- Hoe je de cirkel benadert
+- Hoe je de boule oppakt en vasthoudt.
+- Uw houding en positionering
+- Een specifiek ademhalingspatroon
 
-**Mental elements:**
-- A visualization of the result
-- A focus word or phrase
-- A commitment point (the moment you decide "this is the throw")
+**Mentale elementen:**
+- Een visualisatie van het resultaat
+- Een kernwoord of -zin
+- Een beslissend moment (het moment waarop je besluit: &quot;dit is de worp&quot;).
 
-### Step 3: Keep It Simple
+### Stap 3: Houd het simpel
 
-Your routine should be:
-- **Short enough** to maintain under pressure (15-25 seconds total)
-- **Simple enough** to remember when stressed
-- **Flexible enough** to adapt to different situations
+Je routine zou er als volgt uit moeten zien:
+- **Kort genoeg** om onder druk vol te houden (15-25 seconden in totaal)
+- **Simpel genoeg** om te onthouden als je gestrest bent.
+- **Flexibel genoeg** om zich aan verschillende situaties aan te passen.
 
-## Example Routines
+## Voorbeelden van routines
 
-### The Pointer's Routine
-1. Stand behind the circle, assess the terrain
-2. Visualize the boule's path and landing spot
-3. Step into the circle, find your stance
-4. Three slow breaths while feeling the boule
-5. Eyes on the target, release
+### De routine van de aanwijzer
+1. Ga achter de cirkel staan en beoordeel het terrein.
+2. Stel je het traject en de landingsplek van de boule voor.
+3. Stap in de cirkel, vind je houding.
+4. Drie langzame ademhalingen terwijl je de boule voelt.
+5. Ogen op het doel, loslaten
 
-### The Shooter's Routine
-1. Identify the target boule, choose the angle
-2. Visualize the impact and result
-3. Enter the circle with purpose
-4. One deep breath, feel the weight
-5. Lock eyes on target, execute
+### De routine van de schutter
+1. Bepaal de doelboule en kies de hoek.
+2. Visualiseer de impact en het resultaat.
+3. Betreed de kring met een doel.
+4. Haal diep adem en voel het gewicht.
+5. Richt je blik op het doel en voer de actie uit.
 
-## Common Mistakes to Avoid
+## Veelgemaakte fouten die je moet vermijden
 
-### Too Long
-If your routine takes more than 30 seconds, you're overthinking. Long routines give anxiety more time to build.
+### Te lang
+Als je routine langer dan 30 seconden duurt, denk je te veel na. Lange routines geven angst meer tijd om zich op te bouwen.
 
-### Too Rigid
-If any interruption destroys your routine, it's too fragile. Build in flexibility — if something breaks your concentration, have a reset trigger.
+### Te stijf
+Als elke onderbreking je routine verstoort, is die te kwetsbaar. Zorg voor flexibiliteit: als iets je concentratie verstoort, zorg dan voor een manier om de draad weer op te pakken.
 
-### Skipping Under Pressure
-The routine matters most when pressure is highest. If you abandon it when stressed, you lose its protective benefits.
+### Touwtjespringen onder druk
+De routine is het belangrijkst wanneer de druk het hoogst is. Als je die routine loslaat wanneer je gestrest bent, verlies je de beschermende werking ervan.
 
-### Focusing on Mechanics
-Your routine should end with focus on the result, not on technique. "Hit the target" not "keep your elbow straight."
+### Focus op mechanica
+Je routine moet eindigen met de focus op het resultaat, niet op de techniek. &quot;Raak het doel&quot; in plaats van &quot;houd je elleboog recht&quot;.
 
-## Practicing Your Routine
+## Je routine oefenen
 
-### In Training
-- Use your full routine for every throw, even casual ones
-- Time yourself to ensure consistency
-- Practice with distractions to build resilience
+### In opleiding
+- Gebruik je volledige routine bij elke worp, zelfs bij de meest informele.
+- Neem de tijd om consistentie te garanderen.
+- Oefen met afleidingen om veerkracht op te bouwen.
 
-### Building Automaticity
-The goal is for your routine to become automatic — something you do without thinking. This takes repetition:
-- 100+ throws with the same routine
-- Consistent use across different situations
-- Gradual exposure to pressure while maintaining the routine
+### Automatisering bouwen
+Het doel is dat je routine automatisch wordt – iets wat je doet zonder erbij na te denken. Dit vereist herhaling:
+- Meer dan 100 worpen met dezelfde routine.
+- Consistent gebruik in verschillende situaties.
+- Geleidelijke blootstelling aan druk met behoud van de routine.
 
-## Adapting to Competition
+## Aanpassen aan de concurrentie
 
-In matches, your routine may need slight adjustments:
+Tijdens wedstrijden kan het nodig zijn je routine enigszins aan te passen:
 
-- **Time pressure**: Have a shortened version ready
-- **Weather conditions**: Adjust physical elements as needed
-- **High pressure moments**: Slow down slightly, don't speed up
+- **Tijdsdruk**: Zorg dat je een verkorte versie klaar hebt.
+- **Weersomstandigheden**: Pas de fysieke elementen indien nodig aan.
+- **Momenten met hoge druk**: Vertraag iets, maar versnel niet.
 
-## The Reset Routine
+## De resetprocedure
 
-Equally important is what you do after a throw:
+Net zo belangrijk is wat je doet na een worp:
 
-1. **Accept the result** — good or bad, it's done
-2. **Physical reset** — step back, shake out tension
-3. **Mental reset** — clear the throw from your mind
-4. **Prepare for next** — shift focus to what's coming
+1. **Accepteer het resultaat** — goed of slecht, het is gebeurd.
+2. **Fysieke reset** — neem afstand en schud de spanning van je af.
+3. **Mentale reset** — maak de worp uit je gedachten.
+4. **Bereid je voor op de toekomst** — richt je aandacht op wat komen gaat.
 
 ---
 
-*Related: [Pre-Shot Routine Guide](/nl/education/mental-game/mental-strength/pre-shot-routine) | [Handling Pressure](/nl/education/mental-game/mental-strength/handling-pressure) | [Mindfulness Techniques](/nl/education/mental-game/mindfulness/techniques)*
+| *Gerelateerd: [Handleiding voor de voorbereiding op een schot](/en/education/mental-game/mental-strength/pre-shot-routine) | [Omgaan met druk](/en/education/mental-game/mental-strength/handling-pressure) | [Mindfulnesstechnieken](/en/education/mental-game/mindfulness/techniques)* |
 

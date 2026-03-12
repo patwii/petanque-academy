@@ -3,218 +3,218 @@ title: Why Elite Players Need Mental Training More Than Technical
 description: Discover why more technical practice might be holding you back, and how the training ratio should invert as you advance.
 ---
 
-# Why Elite Players Need Mental Training More Than Technical Training
+# Por qué los jugadores de élite necesitan entrenamiento mental más que entrenamiento técnico
 
-> "If you've been playing pétanque for years and have solid technique, more technical practice might be holding you back."
+> &quot;Si llevas años jugando a la petanca y tienes una técnica sólida, es posible que la práctica más técnica te esté frenando&quot;.
 
-::: tip The Uncomfortable Truth
-**At the elite level, your technique isn't the bottleneck — your mind is.**
+::: tip La incómoda verdad
+**En el nivel de élite, tu técnica no es el cuello de botella: lo es tu mente.**
 :::
 
 ---
 
-## The Paradox of Elite Development
+## La paradoja del desarrollo de las élites
 
-Here's something that surprises most players:
+Aquí hay algo que sorprende a la mayoría de los jugadores:
 
-::: warning The Inversion Principle
-As your technical skill increases, the ratio of technical to mental training should **invert**.
+::: warning El principio de inversión
+A medida que aumenta su habilidad técnica, la relación entre entrenamiento técnico y mental debería **invertirse**.
 
-- **Beginners:** 90% technical, 10% mental
-- **Intermediate:** 70% technical, 30% mental  
-- **Advanced:** 50% technical, 50% mental
-- **Elite:** 20% technical, 80% mental
+- **Principiantes:** 90% técnico, 10% mental
+- **Intermedio:** 70% técnico, 30% mental
+- **Avanzado:** 50% técnico, 50% mental
+- **Élite:** 20% técnico, 80% mental
 :::
 
-This isn't intuitive. Most players assume that to get better, they need to practice their technique more. But at the elite level, this approach actually causes problems.
+Esto no es intuitivo. La mayoría de los jugadores asumen que, para mejorar, necesitan practicar más su técnica. Pero en el nivel de élite, este enfoque causa problemas.
 
-## Why Technical Training Can Hurt Elite Performance
+## Por qué el entrenamiento técnico puede perjudicar el rendimiento de élite
 
-### The Overthinking Problem
+### El problema de pensar demasiado
 
-When you practice technique extensively, you reinforce **conscious awareness** of your movements. This is perfect for beginners who are building neural pathways. But for elite players, it creates a dangerous habit: thinking about technique during execution.
+Al practicar la técnica con frecuencia, se refuerza la **conciencia** de los movimientos. Esto es perfecto para principiantes que están desarrollando sus conexiones neuronales. Pero para los jugadores de élite, crea un hábito peligroso: pensar en la técnica durante la ejecución.
 
 
-**Example from the terrain:**
+**Ejemplo del terreno:**
 
-*Beginner:* Needs to think "bend knees, smooth release, follow through" to execute properly.
+*Principiante:* Necesita pensar &quot;doblar las rodillas, soltar suavemente y continuar&quot; para ejecutar correctamente.
 
-*Elite player:* Already has 10,000+ hours of practice. The movement is automatic. Thinking about "bend knees" actually disrupts the trained pattern.
+*Jugador de élite:* Ya tiene más de 10,000 horas de práctica. El movimiento es automático. Pensar en &quot;doblar las rodillas&quot; interrumpe el patrón entrenado.
 
-### The Flow State Barrier
+### La barrera del estado de flujo
 
-Flow states (being "in the zone") require **transient hypofrontality**—a temporary reduction in activity in the prefrontal cortex (the analytical part of your brain).
+Los estados de flujo (estar &quot;en la zona&quot;) requieren **hipofrontalidad transitoria**, una reducción temporal de la actividad en la corteza prefrontal (la parte analítica del cerebro).
 
 ```mermaid
 graph LR
-    A[Technical Practice] -->|Reinforces| B[Conscious Awareness]
-    B -->|Prevents| C[Flow State]
-    C -->|Required for| D[Elite Performance]
+    A[Práctica técnica] -->|Reinforces| B[Conciencia consciente]
+    B -->|Prevents| C[Estado de flujo]
+    C -->|Required for| D[Rendimiento de élite]
     
     style A fill:#ffebee
     style C fill:#e8f5e9
     style D fill:#e3f2fd
 ```
 
-The more you practice technique consciously, the harder it becomes to "switch off" during competition.
+Cuanto más practiques la técnica conscientemente, más difícil será &quot;desconectarse&quot; durante la competición.
 
-## What Elite Players Actually Need
+## Lo que realmente necesitan los jugadores de élite
 
-### 1. The Ability to Switch Modes
+### 1. La capacidad de cambiar de modo
 
-Elite performance requires mastering the transition between two brain modes:
+El rendimiento de élite requiere dominar la transición entre dos modos cerebrales:
 
-**Planning Mode (Outside the Circle)**
-- Analytical thinking
-- Strategy assessment
-- Decision making
-- Risk evaluation
+**Modo de planificación (fuera del círculo)**
+- Pensamiento analítico
+- Evaluación de la estrategia
+- Toma de decisiones
+- Evaluación de riesgos
 
-**Execution Mode (Inside the Circle)**
-- Automatic movement
-- Target focus only
-- Trust in training
-- Flow state access
+**Modo de ejecución (dentro del círculo)**
+- Movimiento automático
+- Enfoque solo en el objetivo
+- Confianza en la formación
+- Acceso al estado de flujo
 
-Most elite players are stuck in planning mode during execution. They need to train the **switch**, not the technique.
+La mayoría de los jugadores de élite se quedan estancados en el modo de planificación durante la ejecución. Necesitan entrenar el **cambio**, no la técnica.
 
-### 2. Pressure Management
+### 2. Gestión de la presión
 
-Technical practice in comfortable conditions doesn't prepare you for the psychological pressure of competition.
+La práctica técnica en condiciones cómodas no te prepara para la presión psicológica de la competición.
 
-**What happens under pressure:**
-- Heart rate increases
-- Breathing becomes shallow
-- Muscles tense
-- Attention narrows
-- Inner critic activates
+**Qué sucede bajo presión:**
+- La frecuencia cardíaca aumenta
+- La respiración se vuelve superficial
+- Músculos tensos
+- La atención se estrecha
+- El crítico interno se activa
 
-You can have perfect technique in practice and completely lose it under pressure. This isn't a technical problem—it's a mental one.
+Puedes tener una técnica perfecta en la práctica y perderla por completo bajo presión. No se trata de un problema técnico, sino mental.
 
-### 3. Mistake Recovery
+### 3. Recuperación de errores
 
-Elite players don't make fewer mistakes than good players. They **recover faster**.
+Los jugadores de élite no cometen menos errores que los buenos. Se recuperan **más rápido**.
 
-**Good player after a bad throw:**
-- Dwells on the mistake
-- Analyzes what went wrong
-- Worries about the next throw
-- Performance deteriorates
+**Buen jugador después de un mal lanzamiento:**
+- Se detiene en el error
+- Analiza lo que salió mal
+- Preocupaciones por el próximo lanzamiento
+- El rendimiento se deteriora
 
-**Elite player after a bad throw:**
-- Neutral observation
-- Quick learning
-- Immediate reset
-- Performance maintained
+**Jugador de élite después de un mal lanzamiento:**
+- Observación neutral
+- Aprendizaje rápido
+- Reinicio inmediato
+- Rendimiento mantenido
 
-This is a trained skill, not a personality trait.
+Esta es una habilidad entrenada, no un rasgo de personalidad.
 
-## The Science: Why Mental Training Works
+## La ciencia: Por qué funciona el entrenamiento mental
 
-### Neuroscience of Expertise
+### Neurociencia de la experiencia
 
-Research on expert performance shows that elite athletes have:
+Las investigaciones sobre el rendimiento de los expertos muestran que los atletas de élite tienen:
 
-1. **Automated motor patterns** - Movements happen without conscious control
-2. **Superior pattern recognition** - See situations faster
-3. **Better emotional regulation** - Manage pressure effectively
-4. **Faster recovery** - Reset after mistakes quickly
+1. **Patrones motores automatizados**: los movimientos ocurren sin control consciente.
+2. **Reconocimiento de patrones superior**: vea las situaciones más rápido
+3. **Mejor regulación emocional** - Gestionar la presión de forma eficaz
+4. **Recuperación más rápida** - Restablecerse rápidamente después de errores
 
-Notice: Only #1 is technical. The other three are mental.
+Aviso: Solo el punto 1 es técnico. Los otros tres son mentales.
 
-### The 10,000 Hour Threshold
+### El umbral de las 10.000 horas
 
-Once you've invested roughly 10,000 hours in deliberate practice (about 8-10 years of serious play), your technical patterns are largely established. Further technical improvement shows diminishing returns.
+Una vez que hayas invertido aproximadamente 10 000 horas en práctica deliberada (unos 8-10 años de juego serio), tus patrones técnicos estarán prácticamente consolidados. Una mayor mejora técnica muestra resultados decrecientes.
 
-But mental game development? That's where massive gains are still possible.
+¿Pero el desarrollo del juego mental? Ahí es donde aún se pueden lograr grandes avances.
 
-## How to Restructure Your Training
+## Cómo reestructurar tu entrenamiento
 
-### For Elite Players (8+ years experience)
+### Para jugadores de élite (más de 8 años de experiencia)
 
-**Current typical split:**
-- 80% technical practice
-- 20% playing/competition
+**División típica actual:**
+- 80% práctica técnica
+- 20% juego/competición
 
-**Recommended split:**
-- 20% technical maintenance
-- 40% mental game training
-- 40% competition/pressure situations
+**División recomendada:**
+- 20% de mantenimiento técnico
+- 40% de entrenamiento de juego mental
+- 40% situaciones de competencia/presión
 
-### What Mental Game Training Looks Like
+### ¿Cómo es el entrenamiento del juego mental?
 
-**Not this:**
-- "Just relax"
-- "Don't think about it"
-- "Be confident"
+**Esto no:**
+- &quot;Simplemente relájate&quot;
+- &quot;No pienses en ello&quot;
+- &quot;Ten confianza&quot;
 
-**But this:**
-- Structured mindfulness practice (10 min daily)
-- Pre-shot routine development and practice
-- Pressure simulation in training
-- Mistake recovery protocols
-- Flow state trigger identification
-- Inner coach vs inner critic work
+**Pero esto:**
+- Práctica estructurada de atención plena (10 minutos diarios)
+- Desarrollo y práctica de rutinas previas al disparo
+- Simulación de presión en el entrenamiento
+- Protocolos de recuperación de errores
+- Identificación del disparador del estado de flujo
+- Trabajo de entrenador interno vs. crítico interno
 
-See our [Education](/es/education/) section for specific techniques.
+Consulte nuestra sección [Educación](/es/education/) para conocer técnicas específicas.
 
-## The Uncomfortable Truth
+## La incómoda verdad
 
-If you're an elite player still spending 80% of your training time on technical drills, you're training like a beginner. Your technique is already good enough. The limitation isn't your arm—it's your mind.
+Si eres un jugador de élite que aún dedica el 80 % de su tiempo de entrenamiento a ejercicios técnicos, estás entrenando como un principiante. Tu técnica ya es bastante buena. La limitación no es tu brazo, sino tu mente.
 
-::: tip The Real Question
-It's not "How can I improve my pointing technique?"
+::: tip La verdadera pregunta
+No es &quot;¿Cómo puedo mejorar mi técnica de señalización?&quot;
 
-It's "How can I access my best technique consistently under pressure?"
+La pregunta es &quot;¿Cómo puedo acceder a mi mejor técnica de manera consistente bajo presión?&quot;
 :::
 
-## Practical Next Steps
+## Próximos pasos prácticos
 
-### 1. Assess Your Current Ratio
+### 1. Evalúe su ratio actual
 
-Track your training for one week:
-- Hours on technical practice
-- Hours on mental game work
-- Hours in competition/pressure situations
+Realiza un seguimiento de tu entrenamiento durante una semana:
+- Horas de práctica técnica
+- Horas de trabajo de juego mental
+- Horas en situaciones de competición/presión
 
-### 2. Start Small
+### 2. Empieza poco a poco
 
-Don't flip the ratio overnight. Add:
-- 10 minutes daily mindfulness
-- One mental game focus per training session
-- Pre-shot routine practice
+No cambies la proporción de la noche a la mañana. Añade:
+- 10 minutos diarios de atención plena
+- Un enfoque de juego mental por sesión de entrenamiento
+- Práctica de rutina previa al disparo
 
-### 3. Measure Mental Performance
+### 3. Medir el rendimiento mental
 
-Track:
-- Recovery time after mistakes
-- Consistency under pressure
-- Flow state frequency
-- Pre-shot routine adherence
+Pista:
+- Tiempo de recuperación después de los errores
+- Consistencia bajo presión
+- Frecuencia del estado de flujo
+- Cumplimiento de la rutina previa a la inyección
 
-### 4. Use the Education Modules
+### 4. Utilice los módulos educativos
 
-Start with:
-1. [The Zone](/es/education/mental-game/the-zone/) - Understand flow states
-2. [Mental Strength](/es/education/mental-game/mental-strength/) - Build pressure skills
-3. [Mindfulness](/es/education/mental-game/mindfulness/) - Develop present-moment focus
+Empezar con:
+1. [La Zona](/es/educacion/juego-mental/la-zona/) - Comprender los estados de flujo
+2. [Fuerza mental](/es/educacion/juego-mental/fuerza-mental/) - Desarrolla habilidades de presión
+3. [Mindfulness](/es/educacion/juego-mental/mindfulness/) - Desarrollar la concentración en el momento presente
 
-## Conclusion
+## Conclusión
 
-The path to elite performance isn't more technical practice—it's smarter mental training. Your technique is already good enough. The question is: can you access it when it matters?
+El camino al rendimiento de élite no es practicar más técnicamente, sino entrenar la mente de forma más inteligente. Tu técnica ya es lo suficientemente buena. La pregunta es: ¿puedes acceder a ella cuando importa?
 
-The players who make this shift—who embrace mental training as their primary development focus—are the ones who break through performance plateaus and achieve consistent excellence.
+Los jugadores que hacen este cambio —que adoptan el entrenamiento mental como su principal enfoque de desarrollo— son los que superan las mesetas de rendimiento y alcanzan una excelencia constante.
 
-**The choice is yours:** Keep training like a beginner, or start training like an elite player.
+**La elección es tuya:** Sigue entrenando como un principiante o comienza a entrenar como un jugador de élite.
 
 
 ---
 
-## Related Resources
+## Recursos relacionados
 
-- [The Zone: Understanding Flow State](/es/education/mental-game/the-zone/)
-- [Case Studies: Elite Players in Action](/es/articles/case-studies)
-- [Goal Template](/es/guides/templates/goal-template) - Plan your mental game development
+- [La Zona: Entendiendo el Estado de Flujo](/es/educacion/juego-mental/la-zona/)
+- [Estudios de caso: Jugadores de élite en acción](/es/articulos/estudios-de-caso)
+- [Plantilla de objetivo](/es/guides/templates/goal-template) - Planifica el desarrollo de tu juego mental
 
-**Questions or comments?** Email [patrik.wiik@gmail.com](mailto:patrik.wiik@gmail.com)
+**¿Preguntas o comentarios?** Correo electrónico: [patrik.wiik@gmail.com](mailto:patrik.wiik@gmail.com)
 

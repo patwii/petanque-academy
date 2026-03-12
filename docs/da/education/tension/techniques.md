@@ -3,142 +3,142 @@ title: Tension Release Techniques
 description: Learn Progressive Muscle Relaxation (PMR), quick release protocols, and breathing techniques for pétanque performance.
 ---
 
-# Tension Release Techniques
+# Teknikker til frigørelse af spændinger
 
-This page provides practical techniques for releasing tension, from the full Progressive Muscle Relaxation protocol to quick competition-ready methods.
+Denne side indeholder praktiske teknikker til at frigøre spændinger, lige fra den fulde Progressive Muscle Relaxation-protokol til hurtige konkurrenceklare metoder.
 
 ---
 
-## Progressive Muscle Relaxation (PMR)
+## Progressiv muskelafslapning (PMR)
 
-PMR is the foundation technique for learning body awareness and tension control. Developed by Edmund Jacobson in the 1930s, it teaches you to recognize and release tension systematically.
+PMR er den grundlæggende teknik til at lære kropsbevidsthed og spændingskontrol. Den blev udviklet af Edmund Jacobson i 1930&#39;erne og lærer dig at genkende og frigive spændinger systematisk.
 
-### The Core Principle
+### Kerneprincippet
 
-**Tension → Recognition → Release**
+**Spænding → Genkendelse → Frigørelse**
 
-By deliberately tensing muscles, you learn to:
-1. Notice tension (often we don't realize we're tense)
-2. Feel the contrast when releasing
-3. Achieve deeper relaxation than without the tension phase
+Ved bevidst at spænde musklerne lærer du at:
+1. Læg mærke til spændinger (vi er ofte ikke klar over, at vi er anspændte)
+2. Mærk kontrasten, når du slipper
+3. Opnå dybere afslapning end uden spændingsfasen
 
-### The Full PMR Protocol (15-20 minutes)
+### Den fulde PMR-protokol (15-20 minutter)
 
-Practice this daily for 2-3 weeks to build the skill.
+Øv dette dagligt i 2-3 uger for at opbygge færdigheden.
 
-**Setup:**
-- Quiet, comfortable space
-- Lying down or reclined
-- Eyes closed
-- Loose clothing
+**Opsætning:**
+- Stille, behageligt rum
+- Liggende eller tilbagelænet
+- Lukkede øjne
+- Løst tøj
 
-**The Sequence:**
+**Sekvensen:**
 
-For each muscle group:
-1. **Tense** for 5-7 seconds (50-70% max effort)
-2. **Release** suddenly and completely
-3. **Notice** the relaxation for 15-20 seconds
-4. Move to next group
+For hver muskelgruppe:
+1. **Spænd** i 5-7 sekunder (50-70% maks. indsats)
+2. **Slipp** pludselig og fuldstændigt
+3. **Bemærk** afslapningen i 15-20 sekunder
+4. Gå til næste gruppe
 
-| # | Muscle Group | How to Tense |
+| # | Muskelgruppe | Sådan spænder du |
 |---|--------------|--------------|
-| 1 | Right hand/forearm | Make a fist |
-| 2 | Right upper arm | Bend elbow, flex bicep |
-| 3 | Left hand/forearm | Make a fist |
-| 4 | Left upper arm | Bend elbow, flex bicep |
-| 5 | Forehead | Raise eyebrows |
-| 6 | Eyes/cheeks | Squeeze eyes shut |
-| 7 | Jaw | Clench teeth gently |
-| 8 | Neck/shoulders | Shrug shoulders to ears |
-| 9 | Chest | Deep breath, hold |
-| 10 | Stomach | Tighten abs |
-| 11 | Right thigh | Tense upper leg |
-| 12 | Right calf | Point toes up |
-| 13 | Right foot | Curl toes |
-| 14 | Left thigh | Tense upper leg |
-| 15 | Left calf | Point toes up |
-| 16 | Left foot | Curl toes |
+| 1 | Højre hånd/underarm | Lav en knytnæve |
+| 2 | Højre overarm | Bøj albuen, fleks bicepsen |
+| 3 | Venstre hånd/underarm | Lav en knytnæve |
+| 4 | Venstre overarm | Bøj albuen, fleks bicepsen |
+| 5 | Pande | Løft øjenbrynene |
+| 6 | Øjne/kinder | Klem øjnene sammen |
+| 7 | Kæbe | Bid tænderne forsigtigt |
+| 8 | Nakke/skuldre | Træk skuldrene op mod ørerne |
+| 9 | Bryst | Dyb indånding, hold |
+| 10 | Mave | Spænd mavemusklerne |
+| 11 | Højre lår | Spændt overben |
+| 12 | Højre læg | Peg tæerne opad |
+| 13 | Højre fod | Krøllede tæer |
+| 14 | Venstre lår | Spændt overben |
+| 15 | Venstre læg | Peg tæerne opad |
+| 16 | Venstre fod | Krøllede tæer |
 
-::: warning Important Notes
-- Don't overtense (strain risk)
-- Skip any injured areas
-- Focus on the release phase
-- Notice the difference between tension and relaxation
+::: warning Vigtige bemærkninger
+- Overspænd ikke (risiko for forstrækning)
+- Spring eventuelle skadede områder over
+- Fokus på udgivelsesfasen
+- Læg mærke til forskellen mellem spænding og afslapning
 :::
 
-### Abbreviated PMR (5-7 minutes)
+### Forkortet PMR (5-7 minutter)
 
-Once you've mastered the full protocol, use this shorter version:
+Når du har mestret hele protokollen, skal du bruge denne kortere version:
 
-| Group | Muscles Combined |
+| Gruppe | Muskler kombineret |
 |-------|------------------|
-| 1 | Both arms (hands, forearms, upper arms) |
-| 2 | Face (forehead, eyes, jaw) |
-| 3 | Neck and shoulders |
-| 4 | Torso (chest, stomach, back) |
-| 5 | Both legs (thighs, calves, feet) |
+| 1 | Begge arme (hænder, underarme, overarme) |
+| 2 | Ansigt (pande, øjne, kæbe) |
+| 3 | Nakke og skuldre |
+| 4 | Torso (bryst, mave, ryg) |
+| 5 | Begge ben (lår, lægge, fødder) |
 
 ---
 
-## Quick Release Techniques
+## Teknikker til hurtig frigørelse
 
-For use during competition when full PMR isn't practical.
+Til brug under konkurrence, når fuld PMR ikke er praktisk.
 
-### The 30-Second Reset
+### 30-sekunders nulstilling
 
-Between points or during short breaks:
+Mellem punkter eller under korte pauser:
 
-1. **Deep breath** — Slow inhale through nose (4 counts)
-2. **Shoulder drop** — Raise shoulders to ears, then drop completely
-3. **Hand shake** — Shake hands loosely for 5 seconds
-4. **Jaw release** — Open mouth wide, then let it close naturally
-5. **Final breath** — Slow exhale (6 counts)
+1. **Dyb indånding** — Langsom indånding gennem næsen (4 tællinger)
+2. **Skuldernedgang** — Løft skuldrene op til ørerne, og sænk dig derefter helt ned
+3. **Håndtryk** — Giv hånden løst i 5 sekunder
+4. **Kæbefrielse** — Åbn munden helt, og lad den derefter lukke sig naturligt
+5. **Sidste åndedrag** — Langsom udånding (6 tællinger)
 
-### The Grip Reset
+### Grip-nulstillingen
 
-Before each throw:
+Før hvert kast:
 
-1. **Squeeze hard** — Grip the boule at 80% for 2 seconds
-2. **Release to optimal** — Find your ideal grip pressure (usually 40-50%)
-3. **Notice** — Feel the difference
+1. **Klem hårdt** — Hold fat i kuglen ved 80% i 2 sekunder
+2. **Slip til optimal** — Find dit ideelle grebtryk (normalt 40-50%)
+3. **Bemærk** — Mærk forskellen
 
-This creates a reference point for proper grip pressure.
+Dette skaber et referencepunkt for korrekt grebtryk.
 
-### The Shoulder Protocol
+### Skulderprotokollen
 
-Shoulders are tension magnets. Use this frequently:
+Skuldre er spændingsmagneter. Brug dette ofte:
 
-1. **Raise** shoulders toward ears
-2. **Hold** for 3 seconds
-3. **Drop** suddenly and completely
-4. **Breathe** out as you drop
+1. **Løft** skuldrene op mod ørerne
+2. **Hold** i 3 sekunder
+3. **Fald** pludseligt og helt
+4. **Ånd ud** mens du falder
 
 ---
 
-## Breathing Techniques
+## Åndedrætsteknikker
 
-Breath control directly affects your nervous system.
+Åndedrætskontrol påvirker direkte dit nervesystem.
 
-### Why Breathing Works
+### Hvorfor vejrtrækning virker
 
-- **Exhale activates parasympathetic system** (calming)
-- **Slow breathing reduces heart rate**
-- **Rhythmic breathing creates focus**
+- **Udånding aktiverer det parasympatiske system** (beroligende)
+- **Langsom vejrtrækning reducerer hjertefrekvensen**
+- **Rytmisk vejrtrækning skaber fokus**
 
-### The 4-7-8 Technique
+### 4-7-8-teknikken
 
-A powerful calming breath:
+Et kraftfuldt beroligende åndedræt:
 
-1. **Inhale** through nose for 4 counts
-2. **Hold** for 7 counts
-3. **Exhale** through mouth for 8 counts
-4. Repeat 3-4 times
+1. **Indånd** gennem næsen i 4 tællinger
+2. **Hold** i 7 tællinger
+3. **Udånd** gennem munden i 8 tællinger
+4. Gentag 3-4 gange
 
-Use this between games or during breaks when you're over-aroused.
+Brug dette mellem spil eller i pauser, når du er overophidset.
 
-### Box Breathing
+### Boksåndedræt
 
-Good for maintaining steady arousal:
+God til at opretholde en stabil ophidselse:
 
 ```
     Inhale 4 → → → →
@@ -148,90 +148,90 @@ Good for maintaining steady arousal:
     ← ← ← ← Exhale 4
 ```
 
-4-4-4-4 rhythm. Use during competition for stable focus.
+4-4-4-4 rytme. Brug under konkurrence for stabilt fokus.
 
-### Competition Breath
+### Konkurrenceåndedræt
 
-Quick version for before a throw:
+Hurtig version før et kast:
 
-1. **Full exhale** — Push all air out
-2. **Natural inhale** — Let air flow in naturally
-3. **Slow exhale** — Controlled release
-4. **Begin routine** — Step to the circle
+1. **Fuld udånding** — Tryk al luft ud
+2. **Naturlig indånding** — Lad luften strømme ind naturligt
+3. **Langsom udånding** — Kontrolleret frigivelse
+4. **Startrutine** — Gå til cirklen
 
 ---
 
-## Pre-Throw Tension Protocol
+## Protokol for spænding før kast
 
-A complete sequence to use before important throws:
+En komplet sekvens at bruge før vigtige kast:
 
-### The 15-Second Protocol
+### 15-sekundersprotokollen
 
-| Step | Time | Action |
+| Trin | Tid | Handling |
 |------|------|--------|
-| 1 | 3 sec | Body scan: notice any tension |
-| 2 | 3 sec | One deep breath |
-| 3 | 3 sec | Shoulder drop |
-| 4 | 3 sec | Grip check (tense-release if needed) |
-| 5 | 3 sec | Final breath, begin routine |
+| 1 | 3 sek. | Kropsscanning: læg mærke til eventuelle spændinger |
+| 2 | 3 sek. | En dyb indånding |
+| 3 | 3 sek. | Skulderfald |
+| 4 | 3 sek. | Grebstest (spænd og slip om nødvendigt) |
+| 5 | 3 sek. | Sidste åndedrag, start rutinen |
 
-### The "Reset" Cue Word
+### &quot;Nulstil&quot;-køreordet
 
-Choose a single word that cues your body to release:
-- "Soft"
-- "Easy"
-- "Flow"
-- "Release"
+Vælg et enkelt ord, der får din krop til at give slip:
+- &quot;Blød&quot;
+- &quot;Let&quot;
+- &quot;Flyde&quot;
+- &quot;Frigøre&quot;
 
-Practice saying this word mentally while releasing tension. Eventually, the word alone triggers the relaxation response.
-
----
-
-## Building the Skill
-
-### Week 1-2: Foundation
-- Practice full PMR daily (15-20 min)
-- Learn to recognize tension vs. relaxation
-- Don't use in competition yet
-
-### Week 3-4: Abbreviated
-- Switch to abbreviated PMR (5-7 min daily)
-- Begin using shoulder drops and grip resets in training
-- Notice tension patterns during practice
-
-### Week 5+: Competition Application
-- Integrate quick techniques into competition routine
-- Use pre-throw protocol on important throws
-- Develop your cue word
+Øv dig i at sige dette ord mentalt, mens du slipper spændinger. Til sidst vil ordet alene udløse afslapningsresponsen.
 
 ---
 
-## Troubleshooting
+## Opbygning af færdigheden
 
-### "I can't relax"
+### Uge 1-2: Grundlæggende
+- Øv fuld PMR dagligt (15-20 min.)
+- Lær at genkende spænding kontra afslapning
+- Må ikke bruges i konkurrence endnu
 
-- You're trying too hard (paradox)
-- Focus on the release, not on "being relaxed"
-- It's a skill—requires practice
+### Uge 3-4: Forkortet
+- Skift til forkortet PMR (5-7 min dagligt)
+- Begynd at bruge skulderdrop og grebsjusteringer i træningen
+- Læg mærke til spændingsmønstre under træning
 
-### "I don't notice tension"
-
-- This is common initially
-- PMR trains recognition
-- Keep practicing, awareness develops
-
-### "It works in practice but not competition"
-
-- Start with lower-pressure situations
-- Build up gradually
-- Use abbreviated techniques more frequently
+### Uge 5+: Konkurrenceansøgning
+- Integrer hurtige teknikker i konkurrencerutinen
+- Brug protokollen før kast ved vigtige kast
+- Udvikl dit stikord
 
 ---
 
-## Related Content
+## Fejlfinding
 
-- [Understanding Tension](/da/education/tension/) — The science of tension
-- [Competition Tension Management](/da/education/tension/competition) — Match-day protocols
-- [Mindfulness](/da/education/mental-game/mindfulness/) — Present-moment awareness
-- [Pre-Shot Routine](/da/education/mental-game/mental-strength/pre-shot-routine) — Complete routine integration
+### &quot;Jeg kan ikke slappe af&quot;
+
+- Du prøver for hårdt (paradoks)
+- Fokuser på frigørelsen, ikke på at &quot;være afslappet&quot;
+- Det er en færdighed – kræver øvelse
+
+### &quot;Jeg mærker ikke spændinger&quot;
+
+- Dette er almindeligt i starten
+- PMR træner genkendelse
+- Bliv ved med at øve, bevidstheden udvikler sig
+
+### &quot;Det virker i praksis, men ikke i konkurrencen&quot;
+
+- Start med situationer med lavere pres
+- Byg gradvist op
+- Brug forkortede teknikker oftere
+
+---
+
+## Relateret indhold
+
+- [Forståelse af spænding](/da/uddannelse/spænding/) — Videnskaben om spænding
+- [Håndtering af konkurrencespændinger](/da/uddannelse/spænding/konkurrence) — Protokoller på kampdagen
+- [Mindfulness](/da/uddannelse/mentalt-spil/mindfulness/) — Bevidsthed i nuet
+- [Rutine før skud](/da/uddannelse/mentalt-spil/mental-styrke/rutine før skud) — Komplet rutineintegration
 

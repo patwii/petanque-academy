@@ -3,76 +3,76 @@ title: The Self-Awareness Advantage
 description: Develop accurate self-perception to accelerate your pétanque improvement. Learn to identify blind spots and use feedback effectively.
 ---
 
-# The Self-Awareness Advantage
+# Fordelen med selvinnsikt
 
-::: tip The Meta-Skill That Multiplies Everything
-**Weight: 400 points** — Players with accurate self-perception improve 2-3x faster because they train what actually needs work.
+::: tip Metaferdigheten som multipliserer alt
+**Vekt: 400 poeng** — Spillere med nøyaktig selvoppfatning forbedrer seg 2–3 ganger raskere fordi de trener det som faktisk trenger arbeid.
 :::
 
-## Why This Is Your Hidden Multiplier
+## Hvorfor dette er din skjulte multiplikator
 
-> "You can't improve what you can't see."
+> &quot;Du kan ikke forbedre det du ikke kan se.&quot;
 
-Most players spend hours practicing, but **are they practicing the right things?** Self-awareness is the meta-skill that ensures your training time is actually effective.
+De fleste spillere bruker timevis på å øve, men **øver de på de riktige tingene?** Selvinnsikt er metaferdigheten som sikrer at treningstiden din faktisk er effektiv.
 
-### The Improvement Multiplier Effect
+### Forbedringsmultiplikatoreffekten
 
 ```mermaid
 flowchart TD
-    A[Self-Awareness] --> B[Accurate Self-Assessment]
-    A --> C[Blind Spot Recognition]
-    A --> D[Feedback Reception]
+    A[Selvinnsikt] --> B[Nøyaktig egenvurdering]
+    A --> C[Blindsonegjenkjenning]
+    A --> D[Mottak av tilbakemeldinger]
 
-    B --> E[Train What Actually Needs Work]
+    B --> E[Tren det som faktisk trenger arbeid]
     C --> E
     D --> E
 
-    E --> F[2-3x Faster Improvement]
+    E --> F[2–3 ganger raskere forbedring]
 
     style A fill:#FF9800,color:#fff
     style F fill:#4CAF50,color:#fff
 ```
 
-Without self-awareness, you might:
-- Practice what you're already good at (feels good, limited growth)
-- Miss technical flaws you can't see
-- Misattribute losses to external factors
-- Resist feedback that could help you
+Uten selvinnsikt kan du:
+- Øv på det du allerede er god på (føles bra, begrenset vekst)
+- Gå glipp av tekniske feil du ikke kan se
+- Feiltilskriv tap til eksterne faktorer
+- Motstå tilbakemeldinger som kan hjelpe deg
 
-With self-awareness, you:
-- Identify actual weaknesses accurately
-- Accept and integrate useful feedback
-- Understand how pressure affects your specific game
-- Know your patterns under different conditions
+Med selvinnsikt kan du:
+- Identifiser faktiske svakheter nøyaktig
+- Aksepter og integrer nyttig tilbakemelding
+- Forstå hvordan press påvirker ditt spesifikke spill
+- Kjenn dine mønstre under ulike forhold
 
 ---
 
-## The Self-Awareness Paradox
+## Selvinnsiktsparadokset
 
-::: danger The Uncomfortable Truth
-Research consistently shows: Those who need more self-awareness typically believe they have excellent self-knowledge. Those with high self-awareness constantly question themselves and seek external input.
+::: danger Den ubehagelige sannheten
+Forskning viser konsekvent: De som trenger mer selvinnsikt tror vanligvis at de har utmerket selvinnsikt. De med høy selvinnsikt stiller stadig spørsmål ved seg selv og søker ekstern innspill.
 
-**Which one are you?**
+**Hvilken er du?**
 :::
 
-This is called the **Dunning-Kruger effect** applied to self-perception. The very lack of awareness that holds you back also prevents you from seeing that you lack awareness.
+Dette kalles **Dunning-Kruger-effekten** anvendt på selvoppfatning. Nettopp mangelen på bevissthet som holder deg tilbake, hindrer deg også i å se at du mangler bevissthet.
 
-### The Solution: External Mirrors
+### Løsningen: Utvendige speil
 
-Since we can't fully trust our internal perception, we need external mirrors:
+Siden vi ikke fullt ut kan stole på vår indre oppfatning, trenger vi ytre speil:
 
-| Mirror | What It Reveals |
+| Speil | Hva det avslører |
 |--------|-----------------|
-| **Video Analysis** | Technical reality vs. what you think you're doing |
-| **Performance Data** | Patterns you might not notice |
-| **Teammate Feedback** | How you're perceived under pressure |
-| **Coach Observation** | Expert eye on your game |
+| **Videoanalyse** | Teknisk virkelighet kontra hva du tror du gjør |
+| **Ytelsesdata** | Mønstre du kanskje ikke legger merke til |
+| **Tilbakemeldinger fra lagkamerater** | Hvordan du blir oppfattet under press |
+| **Trenerobservasjon** | Ekspert øye på spillet ditt |
 
 ---
 
-## The Johari Window for Pétanque Players
+## Johari-vinduet for petanquespillere
 
-The Johari Window is a psychological model that maps what you and others know about your game:
+Johari-vinduet er en psykologisk modell som kartlegger hva du og andre vet om spillet ditt:
 
 ```
                     Known to Self    Unknown to Self
@@ -93,128 +93,128 @@ The Johari Window is a psychological model that maps what you and others know ab
                    └────────────────┴────────────────┘
 ```
 
-### Your Goal: Expand the "Open" Area
+### Målet ditt: Utvid det «åpne» området
 
-**1. Reduce your Blind Spots**
-- Seek video analysis
-- Ask for specific feedback
-- Watch for patterns in results
+**1. Reduser blindsonene dine**
+- Søk videoanalyse
+- Be om spesifikk tilbakemelding
+- Se etter mønstre i resultatene
 
-**2. Share More (Reduce Hidden)**
-- Tell teammates when you're struggling
-- Discuss your approach openly
-- Ask for help when needed
+**2. Del mer (Reduser skjult)**
+- Si ifra til lagkameratene dine når du sliter
+- Diskuter din tilnærming åpent
+- Be om hjelp når det trengs
 
-**3. Discover Your Unknown Potential**
-- Try new approaches
-- Experiment in training
-- Push outside comfort zone
+**3. Oppdag ditt ukjente potensial**
+- Prøv nye tilnærminger
+- Eksperiment i trening
+- Press deg utenfor komfortsonen
 
 ---
 
-## Self-Awareness vs. Self-Criticism
+## Selvinnsikt vs. selvkritikk
 
-::: warning Critical Distinction
-Self-awareness is **neutral observation** of reality.
-Self-criticism is **negative judgment** of yourself.
+::: warning Kritisk skille
+Selvinnsikt er **nøytral observasjon** av virkeligheten.
+Selvkritikk er **negativ dom** av deg selv.
 
-They are NOT the same thing.
+De er IKKE det samme.
 :::
 
-| Self-Awareness | Self-Criticism |
+| Selvinnsikt | Selvkritikk |
 |----------------|----------------|
-| "I missed three carreaux today" | "I'm terrible at carreaux" |
-| "I tense up in close games" | "I always choke under pressure" |
-| "My pointing is less accurate when tired" | "I can't handle long tournaments" |
-| "I communicate less when losing" | "I'm a bad teammate when stressed" |
+| «Jeg gikk glipp av tre karuseller i dag» | «Jeg er forferdelig dårlig på karuseller» |
+| «Jeg blir spent i jevne kamper» | «Jeg kveles alltid under press» |
+| «Pekingen min er mindre nøyaktig når jeg er trøtt.» | «Jeg takler ikke lange turneringer» |
+| «Jeg kommuniserer mindre når jeg taper» | «Jeg er en dårlig lagkamerat når jeg er stresset» |
 
-**The difference matters because:**
-- Self-awareness leads to targeted improvement
-- Self-criticism leads to shame and avoidance
-- Self-awareness is factual and specific
-- Self-criticism is emotional and generalized
-
----
-
-## The Three Levels of Self-Awareness
-
-### Level 1: Technical Self-Awareness
-*"How am I actually performing?"*
-
-- Accuracy under different conditions
-- Technical execution patterns
-- Physical state effects on performance
-
-### Level 2: Psychological Self-Awareness
-*"How do I respond mentally and emotionally?"*
-
-- Stress responses and triggers
-- Confidence fluctuations
-- Focus patterns and distractors
-
-### Level 3: Social Self-Awareness
-*"How do I affect others and how do they see me?"*
-
-- Team communication patterns
-- Leadership moments (or gaps)
-- How your emotions affect teammates
+**Forskjellen er viktig fordi:**
+- Selvinnsikt fører til målrettet forbedring
+- Selvkritikk fører til skam og unngåelse
+- Selvinnsikt er faktabasert og spesifikk
+- Selvkritikk er emosjonell og generalisert
 
 ---
 
-## Self-Assessment: Your Current Self-Awareness
+## De tre nivåene av selvinnsikt
 
-Rate yourself honestly (1 = Never, 5 = Always):
+### Nivå 1: Teknisk selvinnsikt
+*&quot;Hvordan presterer jeg egentlig?&quot;*
 
-| Question | Score |
+- Nøyaktighet under forskjellige forhold
+- Tekniske utførelsesmønstre
+- Fysisk tilstand påvirker ytelse
+
+### Nivå 2: Psykologisk selvinnsikt
+*&quot;Hvordan reagerer jeg mentalt og følelsesmessig?&quot;*
+
+- Stressresponser og triggere
+- Tillitssvingninger
+- Fokusmønstre og distraherende faktorer
+
+### Nivå 3: Sosial selvinnsikt
+*&quot;Hvordan påvirker jeg andre, og hvordan ser de på meg?&quot;*
+
+- Kommunikasjonsmønstre i teamet
+- Lederøyeblikk (eller hull)
+- Hvordan følelsene dine påvirker lagkameratene
+
+---
+
+## Selvvurdering: Din nåværende selvinnsikt
+
+Vurder deg selv ærlig (1 = Aldri, 5 = Alltid):
+
+| Spørsmål | Poengsum |
 |----------|-------|
-| I can accurately predict my performance in different situations | /5 |
-| I know what conditions cause me to underperform | /5 |
-| I understand how teammates perceive me under pressure | /5 |
-| I welcome and integrate critical feedback | /5 |
-| My self-assessment matches my coach's/teammates' assessment | /5 |
-| I can objectively analyze my performance without emotional reaction | /5 |
-| I notice my own mental state changes during competition | /5 |
+| Jeg kan nøyaktig forutsi prestasjonen min i ulike situasjoner | /5 |
+| Jeg vet hvilke forhold som gjør at jeg underpresterer | /5 |
+| Jeg forstår hvordan lagkamerater oppfatter meg under press | /5 |
+| Jeg tar imot og integrerer kritisk tilbakemelding | /5 |
+| Min selvvurdering samsvarer med trenerens/lagkameratenes vurdering | /5 |
+| Jeg kan objektivt analysere prestasjonen min uten emosjonelle reaksjoner | /5 |
+| Jeg merker at min egen mentale tilstand endrer seg under konkurranser | /5 |
 
-**Scoring:**
-- **28-35:** High self-awareness (but stay humble—keep seeking input)
-- **21-27:** Moderate self-awareness (good foundation to build on)
-- **14-20:** Self-awareness gap (this module is critical for you)
-- **Below 14:** Significant blind spots (prioritize this work)
-
----
-
-## In This Module
-
-### [Getting and Using Feedback](/no/education/self-awareness/feedback)
-- Sources of objective feedback
-- How to ask for feedback effectively
-- Receiving feedback without defensiveness
-- Turning feedback into action
-
-### [Video Analysis for Self-Discovery](/no/education/self-awareness/video)
-- What to record and when
-- What to look for in your footage
-- Comparing self-perception to video reality
-- Video analysis protocols
+**Poengsum:**
+- **28–35:** Høy selvinnsikt (men vær ydmyk – fortsett å søke innspill)
+- **21–27:** Moderat selvinnsikt (godt grunnlag å bygge videre på)
+- **14–20:** Selvinnsiktsgap (denne modulen er kritisk for deg)
+- **Under 14:** Vesentlige blindsoner (prioriter dette arbeidet)
 
 ---
 
-## Quick Win: The Three Questions
+## I denne modulen
 
-After your next training session or match, ask yourself:
+### [Å få og bruke tilbakemeldinger](/no/utdanning/selvinnsikt/tilbakemeldinger)
+- Kilder til objektiv tilbakemelding
+- Hvordan be om tilbakemeldinger effektivt
+- Motta tilbakemeldinger uten å være forsvarsfull
+- Gjør tilbakemeldinger om til handling
 
-1. **What did I think I did well?** (Be specific)
-2. **What would an objective observer say?** (Separate perception from reality)
-3. **What's one thing I'm avoiding looking at?** (Find the blind spot)
-
-Write your answers down. Compare them over time. Patterns will emerge.
+### [Videoanalyse for selvoppdagelse](/no/utdanning/selvinnsikt/video)
+- Hva som skal tas opp og når
+- Hva du skal se etter i opptakene dine
+- Sammenligning av selvoppfatning med videovirkelighet
+- Protokoller for videoanalyse
 
 ---
 
-## Related Factors
+## Rask seier: De tre spørsmålene
 
-- [Mental Game](/no/education/mental-game/) — Self-awareness supports mental training
-- [Team Dynamics](/no/education/team-dynamics/) — Understand how others perceive you
-- [Motivation](/no/education/motivation/) — Know your real drivers
-- [Technique](/no/education/technique/) — Video analysis reveals technical truth
+Etter neste treningsøkt eller kamp, spør deg selv:
+
+1. **Hva syntes jeg jeg gjorde bra?** (Vær spesifikk)
+2. **Hva ville en objektiv observatør si?** (Skill persepsjon fra virkelighet)
+3. **Hva er én ting jeg unngår å se på?** (Finn blindsonen)
+
+Skriv ned svarene dine. Sammenlign dem over tid. Mønstre vil dukke opp.
+
+---
+
+## Relaterte faktorer
+
+- [Mentalt spill](/no/utdanning/mentalt-spill/) — Selvinnsikt støtter mental trening
+- [Teamdynamikk](/no/utdanning/teamdynamikk/) — Forstå hvordan andre oppfatter deg
+- [Motivasjon](/no/utdanning/motivasjon/) — Kjenn dine virkelige drivkrefter
+- [Teknikk](/no/utdanning/teknikk/) — Videoanalyse avslører teknisk sannhet
 

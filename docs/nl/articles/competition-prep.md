@@ -3,22 +3,22 @@ title: Competition Preparation
 description: Prepare optimally for pétanque competitions. Learn the physical, mental, and tactical preparation that sets you up for peak performance.
 ---
 
-# Competition Preparation
+# Wedstrijdvoorbereiding
 
-> "The match doesn't start when you throw the first boule — it starts days before."
+> &quot;De wedstrijd begint niet wanneer je de eerste boule gooit, maar dagen daarvoor.&quot;
 
-How you prepare in the lead-up to competition significantly impacts your performance. Elite players don't leave preparation to chance.
+De manier waarop je je voorbereidt op een wedstrijd heeft een grote invloed op je prestaties. Topspelers laten hun voorbereiding niet aan het toeval over.
 
-::: tip The Preparation Principle
-**Proper preparation prevents poor performance.** Every elite player has a systematic approach to competition readiness.
+::: tip Het voorbereidingsprincipe
+**Goede voorbereiding voorkomt slechte prestaties.** Elke topspeler heeft een systematische aanpak om zich klaar te stomen voor de wedstrijd.
 :::
 
 ```mermaid
 flowchart LR
-    A[1 Week Before] --> B[2 Days Before]
-    B --> C[Day Before]
-    C --> D[Competition Day]
-    D --> E[Peak Performance]
+    A[1 week van tevoren] --> B[2 dagen van tevoren]
+    B --> C[De dag ervoor]
+    C --> D[Wedstrijddag]
+    D --> E[Maximale prestaties]
 
     style A fill:#e3f2fd
     style B fill:#bbdefb
@@ -29,254 +29,254 @@ flowchart LR
 
 ---
 
-## The Preparation Timeline
+## De voorbereidingstijdlijn
 
-### One Week Before
+### Een week van tevoren
 
-**Physical:**
-- Maintain normal training intensity
-- Ensure adequate rest
-- Address any minor physical issues
+**Fysiek:**
+- Handhaaf de normale trainingsintensiteit.
+- Zorg voor voldoende rust.
+- Verhelp eventuele kleine fysieke problemen.
 
-**Mental:**
-- Visualize successful performance
-- Review goals for the competition
-- Begin focusing attention
+**Mentaal:**
+- Visualiseer succesvolle prestaties
+- Evalueer de doelstellingen voor de wedstrijd.
+- Begin je aandacht te richten
 
-**Tactical:**
-- Research opponents if possible
-- Review your game plan
-- Discuss strategy with teammates
+**Tactisch:**
+- Onderzoek tegenstanders indien mogelijk.
+- Bekijk je spelplan nog eens.
+- Bespreek de strategie met je teamgenoten.
 
-### Two Days Before
+### Twee dagen van tevoren
 
-**Physical:**
-- Reduce training intensity
-- Focus on feeling good, not improving
-- Prioritize sleep
+**Fysiek:**
+- Verminder de trainingsintensiteit
+- Focus op je goed voelen, niet op verbeteren.
+- Geef prioriteit aan slaap.
 
-**Mental:**
-- Increase visualization practice
-- Manage pre-competition nerves
-- Stay positive and confident
+**Mentaal:**
+- Verbeter je visualisatieoefeningen
+- Beheers de zenuwen voor de wedstrijd.
+- Blijf positief en vol vertrouwen.
 
-**Logistical:**
-- Prepare equipment
-- Plan travel and timing
-- Handle administrative details
+**Logistiek:**
+- Apparatuur voorbereiden
+- Plan je reis en de timing.
+- Administratieve zaken afhandelen
 
-### Day Before
+### De dag ervoor
 
-**Physical:**
-- Light practice only
-- Rest and recovery
-- Good nutrition and hydration
+**Fysiek:**
+- Lichte oefening alleen
+- Rust en herstel
+- Goede voeding en voldoende hydratatie
 
-**Mental:**
-- Final visualization session
-- Relaxation techniques
-- Positive self-talk
+**Mentaal:**
+- Eindvisualisatiesessie
+- Ontspanningstechnieken
+- Positieve zelfspraak
 
-**Practical:**
-- Confirm all logistics
-- Prepare what you'll wear
-- Set alarms and reminders
+**Praktisch:**
+- Bevestig alle logistieke zaken.
+- Zorg dat je weet wat je aan zult trekken.
+- Stel alarmen en herinneringen in.
 
-### Competition Day
+### Wedstrijddag
 
-**Morning:**
-- Wake with adequate time
-- Eat familiar, proven foods
-- Begin mental preparation
+**Ochtend:**
+- Sta op tijd op
+- Eet bekende, beproefde voedingsmiddelen.
+- Begin met de mentale voorbereiding.
 
-**Pre-Match:**
-- Arrive early
-- Familiarize with terrain
-- Complete warm-up routine
-- Final team alignment
+**Voorafgaand aan de wedstrijd:**
+- Kom vroeg aan
+- Maak uzelf vertrouwd met het terrein.
+- Volledige warming-uproutine
+- Definitieve teamindeling
 
-## Physical Preparation
+## Fysieke voorbereiding
 
-### Sleep
+### Slaap
 
-Sleep is performance fuel:
-- Prioritize 7-9 hours in the days before
-- Maintain consistent sleep schedule
-- Avoid alcohol and screens before bed
+Slaap is brandstof voor optimale prestaties:
+- Plan 7-9 uur in de dagen ervoor.
+- Zorg voor een consistent slaapritme.
+- Vermijd alcohol en schermen voor het slapengaan.
 
-### Nutrition
+### Voeding
 
-Fuel your performance:
-- Eat familiar foods (not experimental)
-- Stay hydrated
-- Avoid heavy meals close to play
-- Have snacks available during competition
+Geef je prestaties een boost:
+- Eet bekende gerechten (geen experimentele gerechten).
+- Zorg dat je voldoende drinkt.
+- Vermijd zware maaltijden vlak voor het spelen.
+- Zorg dat er tijdens de wedstrijd snacks beschikbaar zijn.
 
-### Physical Readiness
+### Fysieke paraatheid
 
-Arrive ready to perform:
-- Address any injuries or discomfort
-- Warm up properly
-- Stay loose between matches
+Kom klaar om op te treden:
+- Verzorg eventuele verwondingen of ongemakken.
+- Doe een goede warming-up
+- Ontspan tussen de wedstrijden door.
 
-## Mental Preparation
+## Mentale voorbereiding
 
-### Visualization
+### Visualisatie
 
-See success before it happens:
-- Visualize specific scenarios you might face
-- See yourself handling pressure well
-- Feel the confidence of good performance
+Zie succes aankomen voordat het gebeurt:
+- Visualiseer specifieke scenario&#39;s waarmee je te maken kunt krijgen.
+- Zie jezelf goed omgaan met druk.
+- Ervaar het zelfvertrouwen van goede prestaties.
 
-### Goal Setting
+### Doelstellingen
 
-Know what you're aiming for:
-- Outcome goals (what you want to achieve)
-- Process goals (how you'll play)
-- Focus goals (where attention goes)
+Weet wat je wilt bereiken:
+- Resultaatdoelen (wat je wilt bereiken)
+- Procesdoelen (hoe je gaat spelen)
+- Focusdoelen (waar de aandacht naartoe gaat)
 
-### Confidence Building
+### Zelfvertrouwen opbouwen
 
-Enter competition believing in yourself:
-- Review past successes
-- Affirm your preparation
-- Focus on strengths
+Ga de wedstrijd aan met zelfvertrouwen:
+- Bekijk eerdere successen
+- Bevestig je voorbereiding.
+- Focus op sterke punten
 
-### Anxiety Management
+### Angstbeheersing
 
-Channel nerves productively:
-- Recognize anxiety as normal
-- Use breathing techniques
-- Reframe nerves as excitement
+Zenuwen productief inzetten:
+- Erken angst als iets normaals.
+- Gebruik ademhalingstechnieken
+- Herformuleer zenuwen als opwinding.
 
-## Tactical Preparation
+## Tactische voorbereiding
 
-### Know Your Game
+### Ken je spel
 
-Be clear on your approach:
-- What's your team's style?
-- What are your strengths to leverage?
-- What weaknesses to manage?
+Wees duidelijk over je aanpak:
+- Wat is de speelstijl van jouw team?
+- Wat zijn je sterke punten die je kunt benutten?
+- Welke zwakke punten moeten worden aangepakt?
 
-### Know the Competition
+### Ken de concurrentie
 
-Gather useful intelligence:
-- Opponents' tendencies
-- Terrain characteristics
-- Competition format and rules
+Verzamel nuttige informatie:
+- Neigingen van tegenstanders
+- Terreinkenmerken
+- Wedstrijdformat en -regels
 
-### Have a Plan
+### Maak een plan
 
-Enter with clear intentions:
-- Opening strategy
-- Adjustments for different scenarios
-- Roles and responsibilities
+Ga erheen met duidelijke intenties:
+- Openingsstrategie
+- Aanpassingen voor verschillende scenario&#39;s
+- Rollen en verantwoordelijkheden
 
-## Team Preparation
+## Teamvoorbereiding
 
-### Alignment
+### Uitlijning
 
-Ensure everyone is on the same page:
-- Shared goals
-- Clear roles
-- Agreed communication approach
+Zorg ervoor dat iedereen op één lijn zit:
+- Gedeelde doelen
+- Duidelijke rollen
+- Afgesproken communicatieaanpak
 
-### Support Systems
+### Ondersteuningssystemen
 
-Set up mutual support:
-- How will you encourage each other?
-- How will you handle setbacks?
-- What does support look like?
+Zorg voor wederzijdse ondersteuning:
+- Hoe zullen jullie elkaar aanmoedigen?
+- Hoe ga je om met tegenslagen?
+- Hoe ziet ondersteuning eruit?
 
-### Logistics
+### Logistiek
 
-Handle practical matters:
-- Travel arrangements
-- Meeting times and places
-- Equipment responsibilities
+Regel praktische zaken:
+- Reisarrangementen
+- Tijden en locaties van de bijeenkomsten
+- Verantwoordelijkheden met betrekking tot de apparatuur
 
-## The Warm-Up Routine
+## De warming-uproutine
 
-### Physical Warm-Up (15-20 minutes)
+### Fysieke warming-up (15-20 minuten)
 
-1. Light movement (walking, arm circles)
-2. Dynamic stretching
-3. Gradual throwing (short to long distance)
-4. Full-intensity throws
+1. Lichte beweging (wandelen, armcirkels)
+2. Dynamische rekoefeningen
+3. Geleidelijk werpen (van korte naar lange afstand)
+4. Werpen met volle intensiteit
 
-### Mental Warm-Up (5-10 minutes)
+### Mentale warming-up (5-10 minuten)
 
-1. Transition focus to competition
-2. Brief visualization
-3. Positive self-talk
-4. Intention setting
+1. Focus verschuiven naar concurrentie
+2. Korte visualisatie
+3. Positieve zelfspraak
+4. Intentiebepaling
 
-### Terrain Familiarization
+### Terreinverkenning
 
-1. Observe the playing surface
-2. Note any irregularities
-3. Test different areas if possible
-4. Discuss observations with team
+1. Bekijk het speeloppervlak.
+2. Noteer eventuele onregelmatigheden.
+3. Test indien mogelijk verschillende gebieden.
+4. Bespreek de observaties met het team.
 
 ---
 
-## Common Preparation Mistakes
+## Veelvoorkomende voorbereidingsfouten
 
-::: danger Avoid These Traps
+::: danger Vermijd deze valkuilen.
 
-| Mistake | Why It Hurts |
+| Fout | Waarom het pijn doet |
 |---------|--------------|
-| **Over-Training** | Trying to improve in final days leads to fatigue, not gains |
-| **Under-Sleeping** | Sacrificing sleep for extra practice backfires |
-| **New Experiments** | Competition day is not for trying new techniques |
-| **Ignoring Nerves** | Pretending you're not nervous doesn't help |
-| **Poor Logistics** | Rushing creates unnecessary stress |
+| **Overtraining** | Proberen om in de laatste dagen nog te verbeteren leidt tot vermoeidheid, niet tot winst. |
+| **Te weinig slapen** | Slaap opofferen voor extra training pakt averechts uit. |
+| **Nieuwe experimenten** | De wedstrijddag is niet bedoeld om nieuwe technieken uit te proberen. |
+| **Zenuwen negeren** | Doen alsof je niet nerveus bent, helpt niet. |
+| **Slechte logistiek** | Haasten zorgt voor onnodige stress. |
 
 :::
 
-## The Night Before
+## De avond ervoor
 
-### Do:
-- Prepare everything you need
-- Get to bed at normal time
-- Use relaxation techniques if needed
-- Trust your preparation
+### Doen:
+- Zorg dat je alles bij de hand hebt wat je nodig hebt.
+- Ga op de normale tijd naar bed.
+- Gebruik ontspanningstechnieken indien nodig.
+- Vertrouw op je voorbereiding.
 
-### Don't:
-- Stay up late worrying
-- Over-analyze strategy
-- Consume alcohol or heavy food
-- Engage in stressful activities
+### Niet doen:
+- &#39;s Nachts wakker blijven en piekeren
+- Overanalyseerstrategie
+- Het nuttigen van alcohol of zwaar eten is niet toegestaan.
+- Neem deel aan stressvolle activiteiten.
 
-## Competition Morning
+## Wedstrijdochtend
 
-### Routine Matters
+### Routinezaken
 
-Stick to familiar patterns:
-- Wake at planned time
-- Eat proven foods
-- Follow your normal morning routine
-- Leave with plenty of time
+Houd je aan bekende patronen:
+- Wakker worden op het geplande tijdstip
+- Eet bewezen voedingsmiddelen
+- Volg je normale ochtendroutine.
+- Vertrek ruim op tijd.
 
-### Mental State
+### Geestelijke toestand
 
-Cultivate the right mindset:
-- Excited, not anxious
-- Confident, not arrogant
-- Focused, not tense
-- Ready, not desperate
+Ontwikkel de juiste mentaliteit:
+- Opgewonden, niet angstig.
+- Zelfverzekerd, maar niet arrogant.
+- Geconcentreerd, niet gespannen.
+- Klaar, maar niet wanhopig
 
-## Arriving at the Venue
+## Aankomst op de locatie
 
-1. **Settle in**: Find your space, organize equipment
-2. **Observe**: Look at terrain, note conditions
-3. **Warm up**: Complete your routine
-4. **Connect**: Brief team alignment
-5. **Focus**: Final mental preparation
+1. **Neem plaats**: Zoek je plekje en organiseer je apparatuur.
+2. **Observeer**: Bekijk het terrein en noteer de omstandigheden.
+3. **Opwarming**: Voltooi je routine.
+4. **Verbinden**: Korte teamafstemming
+5. **Focus**: Laatste mentale voorbereiding
 
-You've prepared well. Now trust it and compete.
+Je hebt je goed voorbereid. Vertrouw er nu op en ga de strijd aan.
 
 ---
 
-*Related: [Training Methods](/nl/education/technique/training/) | [Handling Pressure](/nl/education/mental-game/mental-strength/handling-pressure) | [Pre-Shot Routine](/nl/education/mental-game/mental-strength/pre-shot-routine)*
+| *Gerelateerd: [Trainingsmethoden](/en/education/technique/training/) | [Omgaan met druk](/en/education/mental-game/mental-strength/handling-pressure) | [Voorbereidingsroutine](/en/education/mental-game/mental-strength/pre-shot-routine)* |
 

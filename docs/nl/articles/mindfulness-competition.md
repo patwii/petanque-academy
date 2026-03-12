@@ -3,31 +3,31 @@ title: Mindfulness in Competition
 description: Apply mindfulness principles during pétanque matches to stay present, manage emotions, and perform at your best when it matters most.
 ---
 
-# Mindfulness in Competition
+# Aandacht in competitieverband
 
-> "Mindfulness isn't just for meditation cushions — it's a competitive advantage."
+> &quot;Mindfulness is niet alleen voor meditatiekussens — het is een concurrentievoordeel.&quot;
 
-The ability to stay present, aware, and non-reactive during matches separates elite performers from those who crumble under pressure.
+Het vermogen om tijdens wedstrijden aanwezig, alert en niet-reactief te blijven, onderscheidt topsporters van degenen die onder druk bezwijken.
 
-::: tip The Present Moment Advantage
-**You can only throw one boule at a time.** Mindfulness keeps you in the only moment that matters — this one.
+::: tip Het voordeel van het huidige moment
+**Je kunt maar één boule tegelijk gooien.** Mindfulness zorgt ervoor dat je in het enige moment blijft dat ertoe doet: dit moment.
 :::
 
 ---
 
-## What Mindfulness Means in Competition
+## Wat mindfulness betekent in een competitieve omgeving
 
 ```mermaid
 flowchart TD
-    A[Competitive Mindfulness] --> B[Present-Moment<br/>Awareness]
-    A --> C[Non-Judgmental<br/>Observation]
-    A --> D[Intentional<br/>Attention]
-    A --> E[Emotional<br/>Regulation]
+    A[Competitieve Mindfulness] --> B[Het huidige moment <br/> Bewustzijn]
+    A --> C[Niet-oordelend <br/> Observatie]
+    A --> D[Opzettelijk <br/> Aandacht]
+    A --> E[Emotioneel <br/> Verordening]
 
-    B --> F[Not in past or future]
-    C --> G[Notice without judging]
-    D --> H[Choose your focus]
-    E --> I[Feel without being controlled]
+    B --> F[Niet in het verleden of de toekomst.]
+    C --> G[Observeer zonder te oordelen]
+    D --> H[Kies je focus.]
+    E --> I[Voel zonder gecontroleerd te worden]
 
     style A fill:#9C27B0,color:#fff
     style F fill:#e1bee7
@@ -38,160 +38,160 @@ flowchart TD
 
 ---
 
-## The Wandering Mind Problem
+## Het probleem van de dwalende geest
 
-::: danger The 47% Problem
-**Research shows the average mind wanders 47% of the time.** In competition, this wandering is costly.
+::: danger Het 47%-probleem
+**Onderzoek toont aan dat de gemiddelde persoon 47% van de tijd met zijn of haar gedachten afdwaalt.** In een competitieve omgeving zijn deze afdwalende gedachten kostbaar.
 :::
 
-| Where Mind Goes | What You Miss |
+| Waarheen de gedachten gaan | Wat je mist |
 |-----------------|---------------|
-| Last missed shot | Current terrain reading |
-| Worrying about score | Optimal throw selection |
-| What others think | Feel of the boule |
-| Planning celebrations | Present-moment execution |
+| Laatste gemiste schot | Actuele terreinmeting |
+| Piekeren over de score | Optimale worpselectie |
+| Wat anderen denken | Gevoel van de boule |
+| Feesten plannen | Uitvoering op dit moment |
 
-Every moment spent in mental time-travel is a moment not spent on the throw in front of you.
+Elke seconde die je besteedt aan mentale tijdreizen is een seconde die je niet besteedt aan de worp die voor je ligt.
 
-## Mindfulness Skills for Competition
+## Mindfulnessvaardigheden voor wedstrijden
 
-### 1. Anchoring to the Present
+### 1. Verankering in het heden
 
-Use sensory anchors to return to now:
+Gebruik zintuiglijke ankers om terug te keren naar het hier en nu:
 
-**Physical anchors:**
-- Feel the weight of the boule
-- Notice your feet on the ground
-- Feel the texture of the grip
+**Fysieke ankers:**
+- Voel het gewicht van de boule.
+- Let op waar je voeten zich op de grond bevinden.
+- Voel de textuur van de grip.
 
-**Environmental anchors:**
-- Look at specific details of the terrain
-- Listen to ambient sounds
-- Feel the temperature and wind
+**Milieu-ankers:**
+- Bekijk specifieke details van het terrein.
+- Luister naar omgevingsgeluiden
+- Voel de temperatuur en de wind.
 
-### 2. Observing Without Reacting
+### 2. Observeren zonder te reageren
 
-When emotions arise (frustration, anxiety, excitement), practice:
+Wanneer emoties opkomen (frustratie, angst, opwinding), oefen dan het volgende:
 
-1. **Notice**: "I'm feeling frustrated"
-2. **Name**: "This is frustration"
-3. **Allow**: Let it be there without fighting
-4. **Return**: Bring attention back to the present task
+1. **Opmerking**: &quot;Ik voel me gefrustreerd&quot;
+2. **Naam**: &quot;Dit is frustratie&quot;
+3. **Toestaan**: Laat het er zijn zonder ertegen te vechten.
+4. **Terugkeer**: Breng de aandacht terug naar de huidige taak.
 
-The emotion doesn't disappear, but it loses its power to control you.
+De emotie verdwijnt niet, maar ze verliest wel haar macht om je te beheersen.
 
-### 3. Single-Pointed Focus
+### 3. Enkelvoudige focus
 
-Train your attention to stay on one thing:
+Train je aandacht om op één ding gefocust te blijven:
 
-**Before the throw:**
-- Focus only on reading the terrain
-- Then only on visualizing the result
-- Then only on your body position
+**Vóór de worp:**
+- Concentreer je uitsluitend op het lezen van het terrein.
+- Pas dan, na het visualiseren van het resultaat.
+- Dan alleen op basis van je lichaamshouding
 
-**During the throw:**
-- Focus only on the target
-- Let the body execute without interference
+**Tijdens de worp:**
+- Richt je uitsluitend op het doel.
+- Laat het lichaam zijn werk doen zonder inmenging.
 
-### 4. Beginner's Mind
+### 4. De geest van de beginner
 
-Approach each throw as if it's your first:
-- No assumptions based on past performance
-- Fresh eyes on the terrain
-- Curiosity rather than expectation
+Benader elke worp alsof het je eerste is:
+- Geen aannames gebaseerd op prestaties uit het verleden.
+- Een frisse blik op het terrein
+- Nieuwsgierigheid in plaats van verwachting
 
-## Practical Applications
+## Praktische toepassingen
 
-### Between Throws
+### Tussen de worpen door
 
-The time between throws is when minds wander most. Use this time mindfully:
+De tijd tussen de worpen is het moment waarop je gedachten het meest afdwalen. Gebruik deze tijd bewust:
 
-- **Watch actively**: Observe teammates and opponents with full attention
-- **Stay embodied**: Notice your breathing, posture, physical state
-- **Prepare mentally**: Visualize potential scenarios
-- **Rest attention**: Give your focus brief breaks
+- **Let goed op**: Observeer je teamgenoten en tegenstanders met volle aandacht.
+- **Blijf in je lichaam aanwezig**: let op je ademhaling, houding en fysieke gesteldheid.
+- **Bereid je mentaal voor**: Visualiseer mogelijke scenario&#39;s
+- **Rust je aandacht**: Gun je concentratie korte pauzes.
 
-### During Pressure Moments
+### Tijdens stressvolle momenten
 
-When stakes are highest:
+Wanneer de inzet het hoogst is:
 
-1. **Slow down**: Take an extra breath
-2. **Ground yourself**: Feel your feet, the boule
-3. **Narrow focus**: This throw only
-4. **Trust**: Let go of outcome attachment
+1. **Doe het rustiger aan**: Haal even diep adem.
+2. **Aard jezelf**: Voel je voeten, de boule
+3. **Gerichte focus**: Deze worp alleen
+4. **Vertrouwen**: Laat de gehechtheid aan het resultaat los.
 
-### After Mistakes
+### Na fouten
 
-Mistakes trigger rumination. Break the cycle:
+Fouten leiden tot piekeren. Doorbrek de cyclus:
 
-1. **Acknowledge**: "That didn't go as planned"
-2. **Extract**: "What can I learn?"
-3. **Release**: "It's done, moving on"
-4. **Refocus**: "What's next?"
+1. **Erkenning**: &quot;Dat ging niet zoals gepland&quot;
+2. **Fragment**: &quot;Wat kan ik leren?&quot;
+3. **Reactie**: &quot;Het is klaar, we gaan verder&quot;
+4. **Heroriënteren**: &quot;Wat is de volgende stap?&quot;
 
-## The Mindful Pre-Shot Routine
+## De mindful voorbereiding op de foto
 
-Integrate mindfulness into your routine:
+Integreer mindfulness in je dagelijkse routine:
 
-1. **Arrive**: Step into the circle with full presence
-2. **Breathe**: One conscious breath to center
-3. **See**: Mindfully observe the terrain
-4. **Visualize**: See the result with clarity
-5. **Feel**: Notice the boule, your body
-6. **Release**: Let go and trust
+1. **Aankomst**: Stap met volledige aanwezigheid de cirkel binnen.
+2. **Ademhaling**: Eén bewuste ademhaling om tot rust te komen.
+3. **Kijk**: Observeer het terrein aandachtig.
+4. **Visualiseer**: Zie het resultaat duidelijk voor je.
+5. **Voel**: Merk de boule op, je lichaam
+6. **Loslaten**: Laat los en vertrouw
 
-## Common Challenges
+## Gemeenschappelijke uitdagingen
 
-### "I can't stop thinking"
+### &quot;Ik kan niet stoppen met denken&quot;
 
-You don't need to stop thoughts — just don't follow them. Notice the thought, let it pass, return to your anchor.
+Je hoeft je gedachten niet te stoppen, maar volg ze gewoon niet. Merk de gedachte op, laat hem voorbijgaan en keer terug naar je anker.
 
-### "Mindfulness makes me too relaxed"
+### &quot;Mindfulness maakt me te ontspannen.&quot;
 
-Competitive mindfulness isn't about being calm — it's about being present. You can be alert, energized, and mindful simultaneously.
+Competitieve mindfulness draait niet om kalm zijn, maar om aanwezig zijn in het moment. Je kunt tegelijkertijd alert, energiek en mindful zijn.
 
-### "I forget to be mindful"
+### &quot;Ik vergeet om bewust te zijn.&quot;
 
-Use triggers:
-- Picking up the boule = mindfulness cue
-- Stepping into the circle = presence reminder
-- Taking your stance = attention anchor
+Gebruik triggers:
+- Het oppakken van de boule = aanwijzing voor mindfulness
+- In de cirkel stappen = herinnering aan aanwezigheid
+- Je standpunt innemen = aandachtsanker
 
-## Building the Skill
+## De vaardigheid ontwikkelen
 
-### Daily Practice
+### Dagelijkse oefening
 
-5-10 minutes of formal mindfulness practice builds the neural pathways:
-- Breath awareness meditation
-- Body scan practice
-- Mindful observation exercises
+5-10 minuten formele mindfulness-oefening versterkt de neurale verbindingen:
+- Ademhalingsmeditatie
+- Lichaamsscan oefening
+- Oefeningen voor aandachtige observatie
 
-### Training Integration
+### Trainingsintegratie
 
-Practice mindfulness during every training session:
-- Full presence for each throw
-- Notice when attention wanders
-- Practice returning to focus
+Oefen mindfulness tijdens elke trainingssessie:
+- Volledige concentratie bij elke worp.
+- Let op wanneer de aandacht afdwaalt.
+- Oefen om je weer te concentreren.
 
-### Competition Preparation
+### Wedstrijdvoorbereiding
 
-Before matches:
-- Brief mindfulness practice
-- Set intention for present-focus
-- Remind yourself of your anchors
+Voor de wedstrijden:
+- Korte mindfulness-oefening
+- Stel je intentie vast om je op het heden te concentreren.
+- Herinner jezelf aan je ankers.
 
-## The Competitive Edge
+## Het concurrentievoordeel
 
-Mindful competitors have advantages:
-- **Faster recovery** from mistakes
-- **Better decision-making** under pressure
-- **More consistent** performance
-- **Greater enjoyment** of competition
-- **Reduced burnout** and anxiety
+Bewuste concurrenten hebben voordelen:
+- **Sneller herstel** van fouten
+- **Betere besluitvorming** onder druk
+- **Consistentere** prestaties
+- **Meer plezier** in de competitie
+- **Minder burn-out** en angst
 
-The player who is fully present for each throw, while others are lost in thought, has a significant edge.
+De speler die zich bij elke worp volledig concentreert, terwijl anderen in gedachten verzonken zijn, heeft een aanzienlijk voordeel.
 
 ---
 
-*Related: [Mindfulness Introduction](/nl/education/mental-game/mindfulness/) | [Mindfulness Techniques](/nl/education/mental-game/mindfulness/techniques) | [Daily Practice](/nl/education/mental-game/mindfulness/daily-practice)*
+| *Gerelateerd: [Inleiding tot mindfulness](/en/education/mental-game/mindfulness/) | [Mindfulnesstechnieken](/en/education/mental-game/mindfulness/techniques) | [Dagelijkse oefening](/en/education/mental-game/mindfulness/daily-practice)* |
 

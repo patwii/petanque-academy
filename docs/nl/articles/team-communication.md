@@ -3,26 +3,26 @@ title: Communication Under Pressure
 description: Master the art of team communication in high-pressure pétanque situations. Learn what to say, when to say it, and how to support teammates effectively.
 ---
 
-# Communication Under Pressure
+# Communicatie onder druk
 
-> "The right words at the right moment build confidence. The wrong words can unravel even skilled teams."
+> &quot;De juiste woorden op het juiste moment scheppen zelfvertrouwen. De verkeerde woorden kunnen zelfs bekwame teams ontwrichten.&quot;
 
-::: tip The Communication Truth
-**Under pressure, less is more.** Clear, concise communication beats lengthy discussions every time.
+::: tip De communicatiewaarheid
+**Onder druk geldt: minder is meer.** Duidelijke en bondige communicatie is altijd beter dan langdurige discussies.
 :::
 
 ---
 
-## Why Communication Matters
+## Waarom communicatie belangrijk is
 
 ```mermaid
 flowchart TD
-    A[Effective Communication] --> B[Shared Strategy]
-    A --> C[Mutual Support]
-    A --> D[Quick Decisions]
-    A --> E[Team Resilience]
+    A[Effectieve communicatie] --> B[Gedeelde strategie]
+    A --> C[Wederzijdse ondersteuning]
+    A --> D[Snelle beslissingen]
+    A --> E[Teamveerkracht]
 
-    B --> F[Better Performance]
+    B --> F[Betere prestaties]
     C --> F
     D --> F
     E --> F
@@ -31,197 +31,197 @@ flowchart TD
     style F fill:#4CAF50,color:#fff
 ```
 
-Pétanque teams face unique challenges:
-- Decisions must be made quickly
-- Pressure affects how we speak and listen
-- Non-verbal cues are visible to opponents
-- Individual performance affects team dynamics
+Jeu de boules-teams staan voor unieke uitdagingen:
+- Er moeten snel beslissingen worden genomen.
+- Druk beïnvloedt hoe we spreken en luisteren.
+- Non-verbale signalen zijn zichtbaar voor tegenstanders.
+- Individuele prestaties beïnvloeden de teamdynamiek.
 
 ---
 
-## The Communication Principles
+## De communicatieprincipes
 
-### 1. Clarity Over Quantity
+### 1. Duidelijkheid boven kwantiteit
 
-| ❌ Don't Say | ✅ Say Instead |
+| ❌ Niet zeggen | ✅ Zeg in plaats daarvan |
 |-------------|---------------|
-| "I think maybe we should try to point here, but I'm not sure..." | "I'll point to the left side. The ground is better there." |
+| &quot;Ik denk dat we misschien hierheen moeten wijzen, maar ik weet het niet zeker...&quot; | &quot;Ik wijs naar de linkerkant. Daar is de grond beter.&quot; |
 
-### 2. Positive Framing
+### 2. Positieve framing
 
-| ❌ Negative | ✅ Positive |
+| ❌ Negatief | ✅ Positief |
 |------------|------------|
-| "Don't miss this one" | "You've got this — trust your throw" |
-| "That was terrible" | "Shake it off, next one" |
+| &quot;Mis dit niet!&quot; | &quot;Je kunt dit - vertrouw op je worp&quot; |
+| &quot;Dat was vreselijk&quot; | &quot;Schud het van je af, op naar de volgende.&quot; |
 
-### 3. Present Focus
+### 3. Focus op het heden
 
-::: warning Past vs Present
-**Instead of:** "Why did you throw it there?"
-**Say:** "Okay, what's our best option now?"
+::: warning Verleden versus heden
+**In plaats van:** &quot;Waarom heb je het daar gegooid?&quot;
+**Zeg:** &quot;Oké, wat is nu onze beste optie?&quot;
 :::
 
-### 4. Ownership Language
+### 4. Eigendomstaal
 
-Use "I" statements for your own actions, "we" for team situations:
+Gebruik &#39;ik&#39;-zinnen voor je eigen handelingen en &#39;wij&#39;-zinnen voor teamsituaties:
 
-- "I'll take this shot"
-- "We need to protect the point"
-- "I think we should..."
+- &quot;Ik neem deze foto.&quot;
+- &quot;We moeten het punt beschermen.&quot;
+- &quot;Ik denk dat we...&quot;
 
-## What to Communicate
+## Wat te communiceren
 
-### Before Each End
+### Voor elk einde
 
-- **Strategy discussion**: Brief alignment on approach
-- **Role clarity**: Who's doing what
-- **Terrain observations**: Relevant conditions
+- **Strategische bespreking**: Korte afstemming over de aanpak
+- **Rolduidelijkheid**: Wie doet wat?
+- **Terreinobservaties**: Relevante omstandigheden
 
-### During Play
+### Tijdens het spelen
 
-- **Decisions**: Clear statement of intended action
-- **Support**: Encouragement before throws
-- **Information**: Relevant observations about terrain or opponents
+- **Beslissingen**: Duidelijke verklaring van de beoogde actie
+- **Ondersteuning**: Aanmoediging vóór de worpen
+- **Informatie**: Relevante opmerkingen over het terrein of de tegenstanders
 
-### After Throws
+### Na worpen
 
-- **Acknowledgment**: Brief recognition (good or bad)
-- **Adjustment**: Any strategic changes needed
-- **Reset**: Help teammate refocus
+- **Erkenning**: Korte erkenning (positief of negatief)
+- **Aanpassing**: Eventuele strategische wijzigingen die nodig zijn
+- **Reset**: Help je teamgenoot zich opnieuw te concentreren
 
-## What NOT to Communicate
+## Wat je NIET moet communiceren
 
-### Avoid During Pressure Moments
+### Vermijd dit tijdens stressvolle momenten.
 
-- Technical instructions ("Keep your elbow in")
-- Criticism of past throws
-- Expressions of frustration
-- Doubt about teammate's ability
-- Excessive analysis
+- Technische instructies (&quot;Houd je elleboog naar binnen&quot;)
+- Kritiek op eerdere worpen
+- Uitingen van frustratie
+- Twijfel aan het vermogen van een teamgenoot
+- Overmatige analyse
 
-### Avoid in General
+### Vermijd in het algemeen
 
-- Blame language
-- Sarcasm or passive aggression
-- Comparisons to other players
-- Predictions of failure
+- Beschuldigende taal
+- Sarcasme of passieve agressie
+- Vergelijkingen met andere spelers
+- Voorspellingen van mislukking
 
-## Non-Verbal Communication
+## Non-verbale communicatie
 
-Your body language speaks loudly:
+Je lichaamstaal spreekt boekdelen:
 
-### Positive Signals
-- Eye contact with teammates
-- Open, relaxed posture
-- Nodding and acknowledgment
-- Calm, steady movements
+### Positieve signalen
+- Oogcontact met teamgenoten
+- Open, ontspannen houding
+- Knikkend en bevestigend
+- Rustige, gelijkmatige bewegingen
 
-### Negative Signals (Avoid)
-- Eye rolling or sighing
-- Turning away from teammates
-- Crossed arms or closed posture
-- Visible frustration
+### Negatieve signalen (vermijden)
+- Met de ogen rollen of zuchten
+- Zich afwenden van teamgenoten
+- Gekruiste armen of gesloten houding
+- Zichtbare frustratie
 
-### Reading Teammates
+### Leesteamgenoten
 
-Learn to recognize when teammates need:
-- **Space**: They're processing, don't interrupt
-- **Support**: They're struggling, offer encouragement
-- **Information**: They're uncertain, provide clarity
-- **Energy**: They're flat, bring enthusiasm
+Leer herkennen wanneer teamgenoten het volgende nodig hebben:
+- **Space**: Ze zijn bezig met de verwerking, niet onderbreken.
+- **Ondersteuning**: Ze hebben het moeilijk, bied ze een hart onder de riem.
+- **Informatie**: Ze zijn onzeker, geef duidelijkheid.
+- **Energie**: Ze zijn vlak, brengen enthousiasme.
 
-## Communication Roles
+## Communicatierollen
 
-### The Pointer
-- Communicate your read of the terrain
-- State your intended placement clearly
-- Ask for input when uncertain
+### De aanwijzer
+- Geef uw inschatting van het terrein weer.
+- Geef duidelijk aan waar u de plaatsing wilt plaatsen.
+- Vraag om advies als je ergens niet zeker van bent.
 
-### The Shooter
-- Confirm target selection
-- Communicate confidence level
-- Request information about angles
+### De schutter
+- Bevestig de doelselectie
+- Communiceer je vertrouwensniveau
+- Vraag informatie aan over hoeken.
 
-### The Milieu/Captain
-- Facilitate team discussions
-- Make final decisions when needed
-- Manage team energy and focus
+### Het milieu/de kapitein
+- Faciliteer teamdiscussies
+- Neem definitieve beslissingen wanneer dat nodig is.
+- Beheer de energie en focus van het team.
 
-## Pressure Situations
+## Druksituaties
 
-### When Behind
+### Wanneer achter
 
-- Stay solution-focused
-- Maintain positive energy
-- Avoid blame or frustration
-- Celebrate small wins
+- Blijf oplossingsgericht.
+- Behoud positieve energie.
+- Vermijd verwijten of frustratie.
+- Vier de kleine successen.
 
-### When Ahead
+### Wanneer vooruit
 
-- Stay focused, avoid complacency
-- Keep communication consistent
-- Don't change what's working
+- Blijf geconcentreerd, vermijd zelfgenoegzaamheid.
+- Zorg voor consistente communicatie.
+- Verander niets aan wat werkt.
 
-### Match Point (Theirs)
+### Match Point (van hen)
 
-- Acknowledge the pressure briefly
-- Focus on the process
-- Support each other visibly
+- Erken de druk kortstondig.
+- Focus op het proces
+- Steun elkaar zichtbaar.
 
-### Match Point (Ours)
+### Match Point (van ons)
 
-- Stay calm and focused
-- Avoid premature celebration
-- Execute as normal
+- Blijf kalm en geconcentreerd.
+- Vermijd voortijdige vieringen.
+- Voer het zoals gebruikelijk uit.
 
-## Building Communication Skills
+## Communicatieve vaardigheden ontwikkelen
 
-### In Practice
+### In de praktijk
 
-- Practice communicating during training
-- Give and receive feedback on communication
-- Experiment with different approaches
+- Oefen communicatie tijdens de training.
+- Feedback geven en ontvangen over communicatie.
+- Experimenteer met verschillende benaderingen.
 
-### Team Agreements
+### Teamovereenkomsten
 
-Establish team norms:
-- How we handle disagreements
-- What support looks like
-- When to speak and when to stay quiet
+Stel teamnormen vast:
+- Hoe we omgaan met meningsverschillen
+- Hoe ziet ondersteuning eruit?
+- Wanneer te spreken en wanneer te zwijgen
 
-### Post-Match Review
+### Nabespreking van de wedstrijd
 
-Discuss communication:
-- What worked well?
-- What could improve?
-- Any misunderstandings to address?
+Communicatie bespreken:
+- Wat werkte goed?
+- Wat zou er verbeterd kunnen worden?
+- Zijn er nog misverstanden die we moeten rechtzetten?
 
-## When Communication Breaks Down
+## Wanneer de communicatie vastloopt
 
-### In the Moment
+### In het moment
 
-1. Take a breath
-2. Reset with a simple statement: "Let's focus on this throw"
-3. Return to basics: clear, positive, present
+1. Haal even diep adem.
+2. Begin opnieuw met een simpele opmerking: &quot;Laten we ons concentreren op deze worp.&quot;
+3. Terug naar de basis: helder, positief, aanwezig
 
-### After the Match
+### Na de wedstrijd
 
-- Address issues calmly
-- Focus on behaviors, not personalities
-- Agree on improvements
-- Move forward together
+- Pak problemen rustig aan.
+- Focus op gedrag, niet op persoonlijkheden.
+- Overeenstemming bereiken over verbeteringen
+- Samen vooruit
 
-## The Silent Support
+## De stille ondersteuning
 
-Sometimes the best communication is presence:
-- Standing with a struggling teammate
-- A hand on the shoulder
-- A nod of confidence
-- Simply being there
+Soms is aanwezigheid de beste manier van communiceren:
+- Sta naast een teamgenoot die het moeilijk heeft.
+- Een hand op de schouder
+- Een knikje van vertrouwen
+- Gewoon aanwezig zijn
 
-Words aren't always necessary. Connection is.
+Woorden zijn niet altijd nodig. Verbinding wel.
 
 ---
 
-*Related: [Team Dynamics](/nl/education/team-dynamics/) | [Communication](/nl/education/team-dynamics/communication) | [Handling Pressure](/nl/education/mental-game/mental-strength/handling-pressure)*
+| *Gerelateerd: [Teamdynamiek](/en/education/team-dynamics/) | [Communicatie](/en/education/team-dynamics/communication) | [Omgaan met druk](/en/education/mental-game/mental-strength/handling-pressure)* |
 

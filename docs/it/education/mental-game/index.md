@@ -3,28 +3,28 @@ title: Mental Game
 description: Master the psychological aspects of pétanque. Learn to access flow states, build mental strength, and develop mindfulness for peak performance.
 ---
 
-# Mental Game
+# Gioco mentale
 
-::: tip The Most Important Factor
-**Weight: 600 points** — The mental game has the highest impact on your performance. Master your mind, and everything else follows.
+::: tip Il fattore più importante
+**Peso: 600 punti** — Il gioco mentale ha il massimo impatto sulle tue prestazioni. Padroneggia la tua mente e tutto il resto verrà da sé.
 :::
 
-The mental game encompasses everything that happens between your ears: your thoughts, focus, confidence, and self-talk. Elite players don't just have better technique—they have better control over their mental state.
+Il gioco mentale comprende tutto ciò che accade tra le tue orecchie: i tuoi pensieri, la concentrazione, la sicurezza e il dialogo interiore. I giocatori d&#39;élite non hanno solo una tecnica migliore, ma hanno anche un maggiore controllo sul loro stato mentale.
 
 ```mermaid
 graph TD
-    A[Mental Game] --> B[The Zone]
-    A --> C[Mental Strength]
-    A --> D[Mindfulness]
+    A[Gioco mentale] --> B[La zona]
+    A --> C[Forza mentale]
+    A --> D[Consapevolezza]
     
-    B --> E[Flow States]
-    B --> F[Peak Performance]
+    B --> E[Stati di flusso]
+    B --> F[Massima prestazione]
     
-    C --> G[Confidence]
-    C --> H[Pressure Handling]
+    C --> G[Fiducia]
+    C --> H[Gestione della pressione]
     
-    D --> I[Present Moment]
-    D --> J[Emotional Control]
+    D --> I[Momento presente]
+    D --> J[Controllo emotivo]
     
     style A fill:#4CAF50,color:#fff
     style B fill:#81C784
@@ -32,52 +32,52 @@ graph TD
     style D fill:#81C784
 ```
 
-## The Three Pillars
+## I tre pilastri
 
-### 🎯 [The Zone](/it/education/mental-game/the-zone/)
-Access the flow state where performance feels effortless. Learn what triggers flow and how to enter it consistently.
+### 🎯 [La Zona](/it/educazione/gioco-mentale/la-zona/)
+Accedi allo stato di flusso in cui le prestazioni risultano fluide e senza sforzo. Scopri cosa innesca il flusso e come entrarci in modo coerente.
 
-- [Introduction to The Zone](/it/education/mental-game/the-zone/)
-- [Technical vs Flow Training](/it/education/mental-game/the-zone/technical-vs-flow)
-- [Entering the Zone](/it/education/mental-game/the-zone/entering-the-zone)
+- [Introduzione a The Zone](/it/educazione/gioco-mentale/the-zone/)
+- [Allenamento tecnico vs. allenamento di flusso](/it/istruzione/gioco-mentale/la-zona/allenamento-tecnico-vs-allenamento-di-flusso)
+- [Entrare nella zona](/it/educazione/gioco-mentale/la-zona/entrare-nella-zona)
 
-### 💪 [Mental Strength](/it/education/mental-game/mental-strength/)
-Build the psychological resilience to perform under pressure. Develop confidence, handle setbacks, and maintain composure.
+### 💪 [Forza mentale](/it/educazione/gioco-mentale/forza-mentale/)
+Sviluppa la resilienza psicologica necessaria per lavorare sotto pressione. Sviluppa la fiducia in te stesso, gestisci le battute d&#39;arresto e mantieni la calma.
 
-- [Building Mental Strength](/it/education/mental-game/mental-strength/)
-- [Handling Pressure](/it/education/mental-game/mental-strength/handling-pressure)
-- [Pre-Shot Routine](/it/education/mental-game/mental-strength/pre-shot-routine)
+- [Sviluppare la forza mentale](/it/educazione/gioco-mentale/forza-mentale/)
+- [Gestire la pressione](/it/educazione/gioco-mentale/forza-mentale/gestire-la-pressione)
+- [Routine pre-tiro](/it/educazione/gioco-mentale/forza-mentale/routine-pre-tiro)
 
-### 🧘 [Mindfulness](/it/education/mental-game/mindfulness/)
-Develop present-moment awareness to stay focused and recover quickly from mistakes.
+### 🧘 [Mindfulness](/it/educazione/gioco-mentale/mindfulness/)
+Sviluppa la consapevolezza del momento presente per rimanere concentrato e riprenderti rapidamente dagli errori.
 
-- [Introduction to Mindfulness](/it/education/mental-game/mindfulness/)
-- [Mindfulness Techniques](/it/education/mental-game/mindfulness/techniques)
-- [Daily Practice](/it/education/mental-game/mindfulness/daily-practice)
+- [Introduzione alla Mindfulness](/it/educazione/gioco-mentale/mindfulness/)
+- [Tecniche di consapevolezza](/it/educazione/gioco-mentale/mindfulness/tecniche)
+- [Pratica quotidiana](/it/educazione/gioco-mentale/mindfulness/pratica-quotidiana)
 
-## Why Mental Game Matters Most
+## Perché il gioco mentale è ciò che conta di più
 
-| Aspect | Technical Training | Mental Training |
+| Aspetto | Formazione tecnica | Allenamento mentale |
 |--------|-------------------|-----------------|
-| **In practice** | You can make the shot | You can make the shot |
-| **In competition** | Technique may fail under pressure | Mental skills maintain performance |
-| **The difference** | Physical skill is necessary | Mental skill is the multiplier |
+| **In pratica** | Puoi fare il tiro | Puoi fare il tiro |
+| **In competizione** | La tecnica può fallire sotto pressione | Le capacità mentali mantengono le prestazioni |
+| **La differenza** | È necessaria abilità fisica | L&#39;abilità mentale è il moltiplicatore |
 
-::: warning The Common Mistake
-Most players spend 90% of their time on technique and 10% on mental skills. Elite players often reverse this ratio once they have solid fundamentals.
+::: warning L&#39;errore comune
+La maggior parte dei giocatori dedica il 90% del proprio tempo alla tecnica e il 10% alle capacità mentali. I giocatori d&#39;élite spesso invertono questa proporzione una volta acquisiti solidi fondamentali.
 :::
 
-## Where to Start?
+## Da dove cominciare?
 
-**New to mental training?** Start with [The Zone](/it/education/mental-game/the-zone/) to understand what peak performance feels like.
+**Sei nuovo all&#39;allenamento mentale?** Inizia con [The Zone](/it/education/mental-game/the-zone/) per capire cosa significa raggiungere le massime prestazioni.
 
-**Struggling under pressure?** Go to [Mental Strength](/it/education/mental-game/mental-strength/) for practical techniques.
+**Hai difficoltà sotto pressione?** Vai a [Forza mentale](/it/educazione/gioco-mentale/forza-mentale/) per tecniche pratiche.
 
-**Mind wandering during matches?** [Mindfulness](/it/education/mental-game/mindfulness/) will help you stay present.
+**La mente vaga durante le partite?** La [Mindfulness](/it/educazione/gioco-mentale/mindfulness/) ti aiuterà a rimanere presente.
 
-## Related Resources
+## Risorse correlate
 
-- [Self-Awareness](/it/education/self-awareness/) — Know yourself to improve faster
-- [Tension Management](/it/education/tension/) — Physical relaxation enables mental clarity
-- [Assessment Tool](/it/education/) — Evaluate your mental game and get personalized recommendations
+- [Consapevolezza di sé](/it/educazione/consapevolezza di sé/) — Conosci te stesso per migliorare più velocemente
+- [Gestione della tensione](/it/educazione/tensione/) — Il rilassamento fisico consente la chiarezza mentale
+- [Strumento di valutazione](/it/education/) — Valuta il tuo gioco mentale e ricevi consigli personalizzati
 

@@ -1,109 +1,109 @@
-# Goal Setting & Tracking Template
+# Skabelon til målsætning og sporing
 
 
-## How to Use This Template
+## Sådan bruger du denne skabelon
 
-This template helps you set meaningful goals and track your progress systematically. Use the templates below directly on this page, or copy them to your preferred digital tool.
+Denne skabelon hjælper dig med at sætte meningsfulde mål og systematisk spore dine fremskridt. Brug skabelonerne nedenfor direkte på denne side, eller kopier dem til dit foretrukne digitale værktøj.
 
-::: tip The Goal-Setting Philosophy
-**Goals without tracking are just wishes. Tracking without reflection is just data.** This template combines both: clear goal-setting with structured reflection to ensure continuous improvement.
+::: tip Målsætningsfilosofien
+**Mål uden sporing er blot ønsker. Sporing uden refleksion er blot data.** Denne skabelon kombinerer begge dele: klar målsætning med struktureret refleksion for at sikre løbende forbedringer.
 :::
 
-## Quick Access
+## Hurtig adgang
 
-| Template | Purpose | Access |
+| Skabelon | Formål | Adgang |
 |----------|---------|--------|
-| **Annual Goal Setting** | Set yearly goals across all areas | [View Template](#annual-goal-setting-template) |
-| **Quarterly Review** | Track progress every 3 months | [View Template](#quarterly-review-template) |
-| **Monthly Check-In** | Monthly progress assessment | [View Template](#monthly-check-in-template) |
-| **Weekly Planning** | Plan your weekly training focus | [View Template](#weekly-planning-template) |
+| **Årlig målsætning** | Sæt årlige mål på tværs af alle områder | [Se skabelon](#skabelon-til-årlig-målsætning) |
+| **Kvartalsoversigt** | Spor fremskridt hver 3. måned | [Vis skabelon](#skabelon-til-kvartalsgennemgang) |
+| **Månedlig indtjekning** | Månedlig fremskridtsvurdering | [Se skabelon](#månedlig-indtjekningsskabelon) |
+| **Ugentlig planlægning** | Planlæg dit ugentlige træningsfokus | [Se skabelon](#ugentlig-planlægningsskabelon) |
 
-::: tip Digital-First Approach
-All templates are available on this page for easy access on any device. Bookmark this page and use it directly, or copy sections to your preferred note-taking app.
+::: tip Digital-først-tilgang
+Alle skabeloner er tilgængelige på denne side, så du nemt kan få adgang til dem på enhver enhed. Bogmærk denne side, og brug den direkte, eller kopier sektioner til din foretrukne note-app.
 :::
 
-## Annual Goal Setting Template
+## Skabelon til årlig målsætning
 
-### Copy This Section to Your Document
-
----
-
-**Year:** ________
-
-**My Pétanque Vision for This Year:**
-
-(In one sentence, what do I want to achieve this year?)
+### Kopiér denne sektion til dit dokument
 
 ---
 
-### 1. Competition Goals
+**År:** ________
 
-| Goal Type | Specific Goal | Why This Matters | Success Metric |
+**Min petanque-vision for i år:**
+
+(Kort sagt, hvad vil jeg opnå i år?)
+
+---
+
+### 1. Konkurrencemål
+
+| Måltype | Specifikt mål | Hvorfor dette er vigtigt | Succesmåling |
 |-----------|---------------|------------------|----------------|
-| **Tournament Results** | Example: Top 8 in Regional Championship | To prove I can compete at regional level | Placement in top 8 |
-| **Ranking** | | | |
-| **Consistency** | | | |
-| **Team Performance** | | | |
+| **Turneringsresultater** | Eksempel: Top 8 i regionalt mesterskab | For at bevise, at jeg kan konkurrere på regionalt niveau | Placering i top 8 |
+| **Rangering** |
+| **Konsistens** |
+| **Holdpræstation** |
 
-### 2. Technical Goals
+### 2. Tekniske mål
 
-| Skill Area | Current Level (1-10) | Target Level | Specific Focus |
+| Færdighedsområde | Nuværende niveau (1-10) | Målniveau | Specifikt fokus |
 |------------|---------------------|--------------|----------------|
-| **Pointing Accuracy** | | | Example: 70% within 10cm at 7m |
-| **Shooting Consistency** | | | |
-| **Terrain Adaptation** | | | |
-| **Shot Selection** | | | |
+| **Pegernøjagtighed** | Eksempel: 70% inden for 10 cm ved 7 m |
+| **Konsistens i skydning** |
+| **Terræntilpasning** |
+| **Udvalg af billeder** |
 
-### 3. Mental Game Goals
+### 3. Mentale spilmål
 
-| Area | Current State | Target State | Practice Method |
+| Areal | Nuværende tilstand | Målstat | Øvelsesmetode |
 |------|---------------|--------------|-----------------|
-| **Pressure Management** | | | Example: Use 3-breath reset before every shot |
-| **Inner Critic** | | | |
-| **Focus/Concentration** | | | |
-| **Confidence** | | | |
+| **Trykhåndtering** | Eksempel: Brug 3-åndedrætsnulstilling før hvert skud |
+| **Indre kritiker** |
+| **Fokus/Koncentration** |
+| **Tillid** |
 
-### 4. Physical Goals
+### 4. Fysiske mål
 
-| Area | Current | Target | Action Plan |
+| Areal | Strøm | Mål | Handlingsplan |
 |------|---------|--------|-------------|
-| **Fitness Level** | | | |
-| **Flexibility** | | | |
-| **Endurance** | | | |
-| **Injury Prevention** | | | |
+| **Fitnessniveau** |
+| **Fleksibilitet** |
+| **Udholdenhed** |
+| **Forebyggelse af skader** |
 
 ---
 
-## Quarterly Review Template
+## Skabelon til kvartalsvis gennemgang
 
-### Copy This Section Every 3 Months
+### Kopier denne sektion hver 3. måned
 
 ---
 
-**Quarter:** Q1 / Q2 / Q3 / Q4
-**Review Date:** ________
+**Kvartal:** 1. kvartal / 2. kvartal / 3. kvartal / 4. kvartal
+**Gennemgangsdato:** ________
 
-### What Went Well?
-
-1.
-2.
-3.
-
-### What Didn't Go As Planned?
+### Hvad gik godt?
 
 1.
 2.
 3.
 
-### Key Learnings
+### Hvad gik ikke som planlagt?
 
 1.
 2.
 3.
 
-### Adjustments for Next Quarter
+### Vigtige lærdomme
 
-| Goal Area | Original Goal | Adjustment Needed | New Target |
+1.
+2.
+3.
+
+### Justeringer for næste kvartal
+
+| Målområdet | Oprindeligt mål | Justering nødvendig | Nyt mål |
 |-----------|---------------|-------------------|------------|
 | | | | |
 | | | | |
@@ -111,98 +111,98 @@ All templates are available on this page for easy access on any device. Bookmark
 
 ---
 
-## Monthly Goal Template
+## Månedlig målskabelon
 
-### Copy This Section Each Month
+### Kopier denne sektion hver måned
 
 ---
 
-**Month:** ________
-**Year:** ________
+**Måned:** ________
+**År:** ________
 
-### This Month's Focus
+### Denne måneds fokus
 
-**Primary Goal:**
+**Primært mål:**
 
-**Why This Month:**
+**Hvorfor denne måned:**
 
-### Weekly Breakdown
+### Ugentlig oversigt
 
-| Week | Specific Target | Training Focus | Competition/Test |
+| Uge | Specifikt mål | Træningsfokus | Konkurrence/Test |
 |------|----------------|----------------|------------------|
-| **Week 1** | | | |
-| **Week 2** | | | |
-| **Week 3** | | | |
-| **Week 4** | | | |
+| **Uge 1** |
+| **Uge 2** |
+| **Uge 3** |
+| **Uge 4** |
 
-### Monthly Metrics to Track
+### Månedlige målinger at spore
 
-- [ ] Training sessions completed: _____ / _____
-- [ ] Competitions entered: _____ / _____
-- [ ] Mental training practice: _____ days
-- [ ] Physical conditioning: _____ sessions
-- [ ] Reflection/journaling: _____ entries
-
----
-
-## Weekly Planning Template
-
-### Copy This Section Each Week
+- [ ] Gennemførte træningssessioner: _____ / _____
+- [ ] Tilmeldte konkurrencer: _____ / _____
+- [ ] Mental træning: _____ dage
+- [ ] Fysisk konditionering: _____ sessioner
+- [ ] Refleksion/journalføring: _____ opslag
 
 ---
 
-**Week of:** ________
+## Skabelon til ugentlig planlægning
 
-### This Week's Intention
+### Kopier denne sektion hver uge
 
-(What is my one main focus this week?)
+---
 
-### Training Schedule
+**Uge med:** ________
 
-| Day | Activity | Duration | Focus Area | Notes |
+### Denne uges intention
+
+(Hvad er mit ene hovedfokus i denne uge?)
+
+### Træningsplan
+
+| Dag | Aktivitet | Varighed | Fokusområde | Noter |
 |-----|----------|----------|------------|-------|
-| **Monday** | | | | |
-| **Tuesday** | | | | |
-| **Wednesday** | | | | |
-| **Thursday** | | | | |
-| **Friday** | | | | |
-| **Saturday** | | | | |
-| **Sunday** | | | | |
+| **Mandag** |
+| **Tirsdag** |
+| **Onsdag** |
+| **Torsdag** |
+| **Fredag** |
+| **Lørdag** |
+| **Søndag** |
 
-### Weekly Targets
+### Ugentlige mål
 
-- [ ] Technical practice: _____ hours
-- [ ] Competition/match play: _____ hours
-- [ ] Mental training: _____ minutes
-- [ ] Physical training: _____ sessions
-- [ ] Video analysis: _____ sessions
+- [ ] Teknisk øvelse: _____ timer
+- [ ] Konkurrence/kampspil: _____ timer
+- [ ] Mental træning: _____ minutter
+- [ ] Fysisk træning: _____ sessioner
+- [ ] Videoanalyse: _____ sessioner
 
 ---
 
 
-## Progress Tracking Sheet
+## Ark til sporing af fremskridt
 
-### Copy This to Excel/Google Sheets
+### Kopiér dette til Excel/Google Sheets
 
-| Date | Goal Area | Target | Actual | Notes | Feeling (1-10) |
+| Dato | Målområdet | Mål | Faktisk | Noter | Følelse (1-10) |
 |------|-----------|--------|--------|-------|----------------|
 | | | | | | |
 | | | | | | |
 | | | | | | |
 
-**Instructions for Spreadsheet:**
-1. Create columns: Date, Goal Area, Target, Actual, Notes, Feeling
-2. Add new row after each training session or competition
-3. Use conditional formatting: Green if Actual ≥ Target, Yellow if close, Red if far off
-4. Create charts to visualize progress over time
+**Instruktioner til regneark:**
+1. Opret kolonner: Dato, Målområde, Mål, Faktisk, Noter, Følelse
+2. Tilføj en ny række efter hver træningssession eller konkurrence
+3. Brug betinget formatering: Grøn hvis Faktisk ≥ Mål, Gul hvis tæt på, Rød hvis langt væk
+4. Opret diagrammer for at visualisere fremskridt over tid
 
 ---
 
-## Competition Performance Tracker
+## Konkurrencepræstationssporing
 
-### Copy This to Track Tournament Results
+### Kopiér dette for at spore turneringsresultater
 
-| Date | Tournament | Round Reached | Placement | Key Strengths | Areas to Improve | Mental State (1-10) |
+| Dato | Turnering | Runde nået | Placering | Vigtigste styrker | Områder, der skal forbedres | Mental tilstand (1-10) |
 |------|------------|---------------|-----------|---------------|------------------|---------------------|
 | | | | | | | |
 | | | | | | | |
@@ -210,19 +210,19 @@ All templates are available on this page for easy access on any device. Bookmark
 
 ---
 
-## Goal Achievement Celebration
+## Målopnåelsesfest
 
-::: tip Celebrate Progress!
-**Every goal achieved deserves recognition.** When you hit a target:
-1. ✅ Mark it complete
-2. 🎉 Acknowledge the effort it took
-3. 📝 Write what you learned
-4. 🎯 Set the next challenge
+::: tip Fejr fremskridt!
+**Hvert opnået mål fortjener anerkendelse.** Når du når et mål:
+1. ✅ Marker det som færdigt
+2. 🎉 Anerkend den indsats, det krævede
+3. 📝 Skriv hvad du har lært
+4. 🎯 Sæt den næste udfordring
 :::
 
-### Achievement Log
+### Præstationslog
 
-| Date | Goal Achieved | What It Took | Key Learning | Next Challenge |
+| Dato | Mål opnået | Hvad det krævede | Nøglelæring | Næste udfordring |
 |------|---------------|--------------|--------------|----------------|
 | | | | | |
 | | | | | |
@@ -230,168 +230,168 @@ All templates are available on this page for easy access on any device. Bookmark
 
 ---
 
-## Tips for Effective Goal Setting
+## Tips til effektiv målsætning
 
-### 1. Start Small, Build Momentum
+### 1. Start småt, opbyg momentum
 
-Don't set 20 goals at once. Start with:
-- **1 competition goal**
-- **1 technical goal**
-- **1 mental game goal**
+Sæt dig ikke 20 mål på én gang. Start med:
+- **1 konkurrencemål**
+- **1 teknisk mål**
+- **1 mentalt kampmål**
 
-Master tracking these before adding more.
+Lær at spore disse, før du tilføjer flere.
 
-### 2. Review Regularly
+### 2. Gennemgå regelmæssigt
 
-- **Daily:** Check today's intention
-- **Weekly:** Review week's progress, plan next week
-- **Monthly:** Assess monthly targets, adjust if needed
-- **Quarterly:** Deep reflection, major adjustments
-- **Annually:** Celebrate year, set new vision
+- **Dagligt:** Tjek dagens intention
+- **Ugentligt:** Gennemgå ugens fremskridt, planlæg næste uge
+- **Månedligt:** Vurder de månedlige mål, juster om nødvendigt
+- **Kvartalsvis:** Dybdegående refleksion, større justeringer
+- **Årligt:** Fejr året, sæt en ny vision
 
-### 3. Be Honest, Not Harsh
+### 3. Vær ærlig, ikke hård
 
-When you miss a target:
-- ❌ **Don't:** "I'm terrible, I'll never improve"
-- ✅ **Do:** "What got in the way? What can I adjust?"
+Når du misser et mål:
+- ❌ **Lad være:** &quot;Jeg er forfærdelig, jeg bliver aldrig bedre&quot;
+- ✅ **Gør:** &quot;Hvad var i vejen? Hvad kan jeg justere?&quot;
 
-### 4. Link Goals to Your Why
+### 4. Forbind mål med dit hvorfor
 
-Every goal should connect to your deeper motivation:
-- Why do you play pétanque?
-- What does improvement mean to you?
-- How will achieving this goal feel?
+Hvert mål bør være forbundet med din dybere motivation:
+- Hvorfor spiller du petanque?
+- Hvad betyder forbedring for dig?
+- Hvordan vil det føles at nå dette mål?
 
-### 5. Make It Visible
+### 5. Gør det synligt
 
-- Print your annual goals and post them where you see them daily
-- Set phone reminders for weekly reviews
-- Share goals with your training partner for accountability
-
----
-
-## Digital vs. Paper Tracking
-
-### Digital (Google Sheets/Excel)
-**Pros:**
-- Easy to update anywhere
-- Automatic calculations and charts
-- Can share with coach/training partner
-- Search and filter data
-
-**Cons:**
-- Requires device
-- Can feel impersonal
-- Easy to ignore notifications
-
-### Paper (Notebook/Printed Templates)
-**Pros:**
-- Tactile, personal connection
-- No distractions
-- Easy to review during training
-- Satisfying to check boxes
-
-**Cons:**
-- Can't easily create charts
-- Risk of losing notebook
-- Harder to share
-
-**Recommendation:** Use both! Digital for data tracking, paper for daily intentions and reflections.
+- Udskriv dine årlige mål og hæng dem op et sted, hvor du ser dem dagligt
+- Indstil telefonpåmindelser til ugentlige evalueringer
+- Del mål med din træningspartner for at sikre ansvarlighed
 
 ---
 
-## Related Resources
+## Digital vs. papirsporing
 
-- [Workshop](/da/guides/workshop/) - Group sessions on goal setting and mental game
-- [Training Session](/da/guides/training-session/) - Practice with accountability partners
-- [Mental Strength](/da/education/mental-game/mental-strength/) - Build the mindset for goal achievement
-- [Training Diary Template](/da/guides/templates/diary-template) - Daily practice tracking
+### Digitalt (Google Sheets/Excel)
+**Fordele:**
+- Nem at opdatere hvor som helst
+- Automatiske beregninger og diagrammer
+- Kan dele med træner/træningspartner
+- Søg og filtrer data
+
+**Ulemper:**
+- Kræver enhed
+- Kan føles upersonlig
+- Nemt at ignorere notifikationer
+
+### Papir (Notesbog/Tregnede skabeloner)
+**Fordele:**
+- Taktil, personlig forbindelse
+- Ingen distraktioner
+- Nem at gennemgå under træning
+- Tilfredsstillende at markere felter
+
+**Ulemper:**
+- Kan ikke nemt oprette diagrammer
+- Risiko for at miste den bærbare computer
+- Sværere at dele
+
+**Anbefaling:** Brug begge dele! Digitalt til datasporing, papir til daglige intentioner og refleksioner.
 
 ---
 
-## Quick Start Guide
+## Relaterede ressourcer
 
-**New to goal setting? Start here:**
-
-1. **Week 1:** Set ONE monthly goal using SMART framework
-2. **Week 2:** Track daily progress in simple table
-3. **Week 3:** Do first weekly review
-4. **Week 4:** Adjust goal if needed, celebrate progress
-
-**After one month:** Add quarterly and annual goals.
+- [Workshop](/da/guides/workshop/) - Gruppesessioner om målsætning og mentalt spil
+- [Træningssession](/da/vejledninger/træningssession/) - Øvelse med ansvarlighedspartnere
+- [Mental styrke](/da/uddannelse/mentalt-spil/mental-styrke/) - Opbyg tankegangen til at nå dine mål
+- [Skabelon til træningsdagbog](/da/guides/templates/dagbogsskabelon) - Daglig træningsregistrering
 
 ---
 
-::: warning Common Goal-Setting Mistakes
-1. **Too many goals** - Focus is diluted
-2. **Too vague** - "Get better" isn't measurable
-3. **No tracking** - Can't see progress
-4. **No review** - Miss opportunities to adjust
-5. **All outcome, no process** - Focus on what you can control
+## Hurtigstartguide
+
+**Ny inden for målsætning? Start her:**
+
+1. **Uge 1:** Sæt ÉT månedligt mål ved hjælp af SMART-rammen
+2. **Uge 2:** Følg daglige fremskridt i en simpel tabel
+3. **Uge 3:** Foretag den første ugentlige evaluering
+4. **Uge 4:** Juster målet om nødvendigt, fejr fremskridt
+
+**Efter en måned:** Tilføj kvartalsvise og årlige mål.
+
+---
+
+::: warning Almindelige fejl ved målsætning
+1. **For mange mål** - Fokus er fortyndet
+2. **For vag** - &quot;Bliv bedre&quot; er ikke målbart
+3. **Ingen sporing** - Kan ikke se fremskridt
+4. **Ingen gennemgang** - Gå glip af muligheder for at justere
+5. **Alt resultat, ingen proces** - Fokuser på det, du kan kontrollere
 :::
 
 ---
 
-## Download Templates
+## Download skabeloner
 
-::: tip Copy-Paste Ready
-All templates on this page are designed to be copied directly into:
+::: tip Klar til kopiering og indsætning
+Alle skabeloner på denne side er designet til at blive kopieret direkte til:
 - Microsoft Word
-- Google Docs
+- Google Dokumenter
 - Microsoft Excel
-- Google Sheets
-- Notion
-- Any note-taking app
+- Google Regneark
+- Begreb
+- Enhver notetagningsapp
 
-Simply select the template section you want, copy (Ctrl+C / Cmd+C), and paste into your preferred tool.
+Du skal blot vælge den ønskede skabelonsektion, kopiere (Ctrl+C / Cmd+C), og indsætte den i dit foretrukne værktøj.
 :::
 
-**Start with these three:**
-1. Annual Goal Setting Template
-2. Weekly Planning Template
-3. Progress Tracking Sheet
+**Start med disse tre:**
+1. Skabelon til årlig målsætning
+2. Skabelon til ugentlig planlægning
+3. Ark til sporing af fremskridt
 
 ---
 
 
-Use this framework to make your goals specific and achievable:
+Brug denne ramme til at gøre dine mål specifikke og opnåelige:
 
-### SMART Goal Template
+### SMART-målskabelon
 
-**S - Specific:** (What exactly do I want to achieve?)
+**S - Specifik:** (Hvad er det præcist, jeg vil opnå?)
 
-**M - Measurable:** (How will I know I've achieved it?)
+**M - Målbar:** (Hvordan ved jeg, at jeg har opnået det?)
 
-**A - Achievable:** (Is this realistic given my current level and resources?)
+**A - Opnåeligt:** (Er dette realistisk givet mit nuværende niveau og mine ressourcer?)
 
-**R - Relevant:** (Why does this matter to my overall vision?)
+**R - Relevant:** (Hvorfor er dette vigtigt for min overordnede vision?)
 
-**T - Time-bound:** (By when will I achieve this?)
+**T - Tidsbegrænset:** (Hvornår vil jeg opnå dette?)
 
-### Example SMART Goals
+### Eksempel på SMART-mål
 
-::: details Example 1: Technical Goal
-**S - Specific:** Improve pointing accuracy on hard terrain
-**M - Measurable:** Land within 20cm of cochonnet 7 out of 10 attempts
-**A - Achievable:** Currently at 4/10, so 7/10 is challenging but realistic
-**R - Relevant:** Hard terrain is common in regional tournaments
-**T - Time-bound:** Achieve by end of Q2 (June 30)
+::: details Eksempel 1: Teknisk mål
+**S - Specifik:** Forbedrer pegepræcisionen i hårdt terræn
+**M - Målbar:** Land inden for 20 cm fra cochonnet 7 ud af 10 forsøg
+**A - Opnåelig:** Lige nu på 4/10, så 7/10 er udfordrende, men realistisk
+**R - Relevant:** Hårdt terræn er almindeligt i regionale turneringer
+**T - Tidsbundet:** Opnås inden udgangen af 2. kvartal (30. juni)
 :::
 
-::: details Example 2: Competition Goal
-**S - Specific:** Reach semi-finals in Club Championship
-**M - Measurable:** Finish in top 4 of 32-player tournament
-**A - Achievable:** Currently ranked 8-12 in club, improvement is realistic
-**R - Relevant:** Builds confidence and proves progress
-**T - Time-bound:** Championship is September 15
+::: details Eksempel 2: Konkurrencemål
+**S - Specifikt:** Nå semifinalerne i klubmesterskabet
+**M - Målbar:** Slut i top 4 i turnering med 32 spillere
+**A - Opnåelig:** Lige nu rangeret som nummer 8-12 i klubben, forbedring er realistisk
+**R - Relevant:** Opbygger selvtillid og dokumenterer fremskridt
+**T - Tidsbegrænset:** Mesterskabet er 15. september
 :::
 
-::: details Example 3: Mental Game Goal
-**S - Specific:** Manage inner critic during competition
-**M - Measurable:** Use Inner Coach reframe after every miss
-**A - Achievable:** Have practiced technique in training
-**R - Relevant:** Negative self-talk is my biggest barrier
-**T - Time-bound:** Consistent use in next 3 tournaments
+::: details Eksempel 3: Mentalt spilmål
+**S - Specifik:** Håndter indre kritiker under konkurrence
+**M - Målbar:** Brug Inner Coach-omformulering efter hver miss
+**A - Opnåelig:** Har øvet teknik i træning
+**R - Relevant:** Negativ selvsnak er min største barriere
+**T - Tidsbegrænset:** Konsekvent brug i de næste 3 turneringer
 :::
 
 ---

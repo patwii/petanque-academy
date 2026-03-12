@@ -1,44 +1,44 @@
-# Training Camp: Weekend Mental Game Intensive
+# Trainingskamp: Intensief weekend gericht op mentale training
 
 
-## Overview
+## Overzicht
 
-A comprehensive weekend training camp (Friday-Sunday) for 10-20 players that combines mental game theory, on-piste practice, and competitive application. This intensive format creates transformational learning through integration of all three elements.
+Een uitgebreid trainingsweekend (vrijdag-zondag) voor 10-20 spelers, waarin mentale speltheorie, praktijk op de piste en competitieve toepassing worden gecombineerd. Deze intensieve opzet zorgt voor een transformerende leerervaring door de integratie van alle drie de elementen.
 
-::: tip Two Sections in This Guide
-- **[For Participants](#for-participants)** - What players will experience during the weekend
-- **[For Organizers](#for-organizers)** - How to plan and run the training camp
+::: tip Deze handleiding bestaat uit twee secties.
+- **[Voor deelnemers](#voor-deelnemers)** - Wat spelers tijdens het weekend zullen ervaren
+- **[Voor organisatoren](#voor-organisatoren)** - Hoe plan en organiseer je het trainingskamp?
 :::
 
-::: tip The Training Camp Philosophy
-**Theory without practice is just information. Practice without theory is just repetition. Competition without reflection is just playing.** This weekend integrates all three for transformational learning.
+::: tip De trainingskampfilosofie
+**Theorie zonder praktijk is slechts informatie. Praktijk zonder theorie is slechts herhaling. Competitie zonder reflectie is slechts spelen.** Dit weekend worden alle drie gecombineerd voor een transformerende leerervaring.
 :::
 
-## Quick Access
+## Sneltoegang
 
-| Section | Purpose | Access |
+| Sectie | Doel | Toegang |
 |---------|---------|--------|
-| **For Participants** | Weekend schedule and what to bring | [View Section](#for-participants) |
-| **For Organizers** | Complete planning and facilitation guide | [View Section](#for-organizers) |
-| **Daily Schedules** | Detailed timing and activities | [Friday](#friday-evening-mental-game-foundation-3-4-hours) • [Saturday](#saturday-practice-application-full-day) • [Sunday](#sunday-competition-integration-full-day) |
-| **Related Guides** | Other training formats | [Mental Journey](/nl/guides/mental-journey/) • [Workshop](/nl/guides/workshop/) |
+| **Voor deelnemers** | Programma voor het weekend en wat je mee moet nemen | [Sectie bekijken](#voor-deelnemers) |
+| **Voor organisatoren** | Complete plannings- en begeleidingshandleiding | [Sectie bekijken](#voor-organisatoren) |
+| **Dagelijkse schema&#39;s** | Gedetailleerde planning en activiteiten | [Vrijdag](#vrijdagavond-mentale-spel-basis-3-4-uur) • [Zaterdag](#zaterdag-oefening-toepassing-hele-dag) • [Zondag](#zondag-competitie-integratie-hele-dag) |
+| **Gerelateerde handleidingen** | Andere trainingsvormen | [Mentale Reis](/en/guides/mental-journey/) • [Workshop](/en/guides/workshop/) |
 
 ---
 
-## For Participants
+## Voor deelnemers
 
-### What to Expect
+### Wat kun je verwachten?
 
-This is an intensive weekend that will challenge you mentally, physically, and emotionally. You'll learn mental game concepts, practice them on the piste, and apply them in competition - all while building deep connections with fellow players.
+Dit is een intensief weekend dat je mentaal, fysiek en emotioneel op de proef stelt. Je leert mentale spelconcepten, oefent ze op de piste en past ze toe in wedstrijden – en dat alles terwijl je hechte banden opbouwt met je medespelers.
 
-**Weekend Structure:**
+**Weekendprogramma:**
 
 ```mermaid
 graph LR
-    A[Weekend Camp] --> B[Friday: Theory]
-    B --> C[Saturday: Practice]
-    C --> D[Sunday: Competition]
-    D --> E[Integration]
+    A[Weekendkamp] --> B[Vrijdag: Theorie]
+    B --> C[Zaterdag: Training]
+    C --> D[Zondag: Wedstrijd]
+    D --> E[Integratie]
 
     style A fill:#e8f5e9
     style B fill:#fff4e1
@@ -47,259 +47,259 @@ graph LR
     style E fill:#f3e5f5
 ```
 
-### Daily Breakdown
+### Dagelijkse analyse
 
-#### Friday Evening: Mental Game Foundation (3-4 hours)
-**What:** Theory session on mental game concepts
-**Where:** Indoor meeting room
-**Format:** Circle discussion and exercises
+#### Vrijdagavond: Mentale Spelbasis (3-4 uur)
+**Wat:** Theoretische sessie over mentale spelconcepten
+**Locatie:** Vergaderruimte binnen
+**Format:** Kringgesprek en oefeningen
 
-**You'll Learn:**
-- The Zone and flow states
-- Inner Critic vs Inner Coach
-- Pressure response patterns
-- Pre-shot routine fundamentals
+**Je leert het volgende:**
+- De zone en de stroomtoestanden
+- Innerlijke criticus versus innerlijke coach
+- Drukreactiepatronen
+- Basisprincipes van de voorbereiding op een foto
 
-**Activities:**
-- Check-in and ground rules
-- The Iceberg of Pétanque
-- User Manual creation
-- Fear in a Hat exercise
+**Activiteiten:**
+- Inchecken en huisregels
+- De ijsberg van pétanque
+- Gebruikershandleiding maken
+- Angst in een hoed-oefening
 
-#### Saturday: Practice & Application (Full Day)
-**Morning (3 hours):** Structured practice with mental focus
-**Afternoon (3 hours):** Pressure simulation drills
-**Evening (2 hours):** Reflection and integration
+#### Zaterdag: Oefening en toepassing (hele dag)
+**Ochtend (3 uur):** Gestructureerde oefening met mentale focus
+**Middag (3 uur):** Druksimulatieoefeningen
+**Avond (2 uur):** Reflectie en integratie
 
-**You'll Practice:**
-- Pre-shot routines in real throws
-- Reset techniques after mistakes
-- Focus anchors under pressure
-- Team communication protocols
+**Je gaat oefenen met:**
+- Voorbereidingsoefeningen voor echte worpen
+- Herstel de technieken na fouten
+- Focusankers onder druk
+- Communicatieprotocollen voor teams
 
-**Format:**
-- Small group drills (3-4 players)
-- Video analysis of mental patterns
-- Pressure scenarios
-- Evening debrief session
+**Formaat:**
+- Oefeningen in kleine groepjes (3-4 spelers)
+- Videoanalyse van mentale patronen
+- Druksituaties
+- Nabespreking &#39;s avonds
 
-#### Sunday: Competition & Integration (Full Day)
-**Morning (3 hours):** Tournament play
-**Afternoon (2 hours):** Final rounds
-**Evening (1 hour):** Closing reflection
+#### Zondag: Competitie &amp; Integratie (hele dag)
+**Ochtend (3 uur):** Toernooispel
+**Middag (2 uur):** Finale rondes
+**Avond (1 uur):** Afsluitende reflectie
 
-**You'll Apply:**
-- All mental tools in competition
-- Team protocols under pressure
-- Mistake recovery in real time
-- Post-game reflection process
+**U kunt solliciteren door:**
+- Alle mentale vaardigheden in de competitie
+- Teamprotocollen onder druk
+- Foutcorrectie in realtime
+- Nabesprekingsproces na de wedstrijd
 
-### What to Bring
+### Wat mee te nemen
 
-**Required:**
-- Your boules and equipment
-- Comfortable clothing for all weather
-- Notebook and pen
-- Open mind and willingness to share
-- Water bottle
+**Vereist:**
+- Je boules en uitrusting
+- Comfortabele kleding voor alle weersomstandigheden
+- Notitieboekje en pen
+- Een open houding en de bereidheid om te delen
+- Waterfles
 
-**Optional:**
-- Training diary
-- Questions about specific mental challenges
-- Examples of pressure situations you face
+**Optioneel:**
+- Trainingsdagboek
+- Vragen over specifieke psychische problemen
+- Voorbeelden van stressvolle situaties waarmee u te maken krijgt.
 
-**Not Needed:**
-- Technical coaching requests (this is mental game focused)
-- Ego or need to prove yourself
-- Judgment of others
+**Niet nodig:**
+- Technische coachingverzoeken (gericht op het mentale aspect van het spel)
+- ego of de behoefte om jezelf te bewijzen
+- Oordeel over anderen
 
-### Ground Rules for the Weekend
+### Regels voor het weekend
 
-::: tip The Container
-All participants agree to:
-1. **Confidentiality** - What's shared stays here
-2. **Respect** - Honor others' vulnerability
-3. **Participation** - Engage fully in all activities
-4. **Growth Mindset** - Embrace discomfort as learning
-5. **Support** - Help teammates apply concepts
+::: tip De container
+Alle deelnemers stemmen ermee in:
+1. **Vertrouwelijkheid** - Wat gedeeld wordt, blijft hier.
+2. **Respect** - Eer de kwetsbaarheid van anderen.
+3. **Participatie** - Neem volledig deel aan alle activiteiten
+4. **Groeimindset** - Omarm ongemak als leerervaring
+5. **Ondersteuning** - Help teamgenoten bij het toepassen van concepten
 :::
 
-### What You'll Leave With
+### Wat je mee naar huis neemt
 
-**Knowledge:**
-- Deep understanding of your mental patterns
-- Practical tools for pressure management
-- Team protocols for competition
-- Personalized pre-shot routine
+**Kennis:**
+- Diepgaand inzicht in uw mentale patronen
+- Praktische hulpmiddelen voor drukbeheersing
+- Teamprotocollen voor wedstrijden
+- Gepersonaliseerde voorbereidingsroutine
 
-**Skills:**
-- Ability to access flow states
-- Mistake recovery techniques
-- Inner Coach reframing
-- Focus anchors
+**Vaardigheden:**
+- Mogelijkheid om toegang te krijgen tot flowtoestanden
+- Fouthersteltechnieken
+- Inner Coach herformulering
+- Focusankers
 
-**Connection:**
-- Deeper bonds with teammates
-- Shared language for mental game
-- Support network for continued growth
+**Verbinding:**
+- Diepere banden met teamgenoten
+- Gemeenschappelijke taal voor een mentaal spel
+- Ondersteuningsnetwerk voor verdere groei
 
-**Materials:**
-- Completed worksheets and exercises
-- Video analysis of your mental patterns
-- Action plan for next 30 days
-- Access to all education modules
+**Materialen:**
+- Voltooide werkbladen en oefeningen
+- Videoanalyse van uw mentale patronen
+- Actieplan voor de komende 30 dagen
+- Toegang tot alle onderwijsmodules
 
-### Typical Schedule
+### Typisch schema
 
-**Friday:**
-- 18:00 - Arrival and check-in
-- 19:00 - Dinner
-- 20:00 - Opening session (theory)
-- 23:00 - Free time / rest
+**Vrijdag:**
+- 18:00 - Aankomst en inchecken
+- 19:00 - Diner
+- 20:00 - Openingssessie (theorie)
+- 23:00 - Vrije tijd / rust
 
-**Saturday:**
-- 08:00 - Breakfast
-- 09:00 - Morning practice session
+**Zaterdag:**
+- 08:00 - Ontbijt
+- 09:00 - Ochtendtraining
 - 12:00 - Lunch
-- 13:30 - Afternoon practice session
-- 17:00 - Break
-- 18:00 - Dinner
-- 19:30 - Evening reflection session
-- 21:00 - Free time / rest
+- 13:30 - Middagtraining
+- 17:00 - Pauze
+- 18:00 - Diner
+- 19:30 - Avondreflectiesessie
+- 21:00 - Vrije tijd / rust
 
-**Sunday:**
-- 08:00 - Breakfast
-- 09:00 - Tournament begins
+**Zondag:**
+- 08:00 - Ontbijt
+- 09:00 - Het toernooi begint
 - 12:00 - Lunch
-- 13:00 - Final rounds
-- 15:00 - Awards and recognition
-- 16:00 - Closing circle
-- 17:00 - Departure
+- 13:00 - Finale rondes
+- 15:00 - Prijsuitreiking en erkenning
+- 16:00 - Afsluiting
+- 17:00 - Vertrek
 
 
 ---
 
-## For Organizers
+## Voor organisatoren
 
-### Planning Overview
+### Planningsoverzicht
 
-This section provides everything you need to organize and run a successful weekend training camp for 10-20 players.
+In dit gedeelte vind je alles wat je nodig hebt om een succesvol trainingsweekend voor 10-20 spelers te organiseren en te leiden.
 
-### Pre-Camp Planning (6-8 Weeks Before)
+### Voorbereiding op het kamp (6-8 weken van tevoren)
 
-### Group Size & Structure
+### Groepsgrootte en -structuur
 
-**Optimal:** 10-20 players
-- **Small camp (10-12):** More intimate, deeper sharing
-- **Large camp (16-20):** More diverse perspectives, requires sub-groups
+**Optimaal:** 10-20 spelers
+- **Klein kamp (10-12 personen):** Intiemere, diepere uitwisseling.
+- **Groot kamp (16-20 personen):** Meer diverse perspectieven, vereist subgroepen.
 
-**Team Structure:**
-- Divide into teams of 3-4 for practice and competition
-- Mix skill levels and playing styles
-- Rotate teams throughout weekend
+**Teamstructuur:**
+- Verdeel je in teams van 3-4 personen voor de training en de wedstrijd.
+- Mix van verschillende vaardigheidsniveaus en speelstijlen
+- Wissel de teams gedurende het weekend.
 
-### Staffing Requirements
+### Personeelsbehoeften
 
-| Role | Responsibilities | Quantity |
+| Rol | Verantwoordelijkheden | Hoeveelheid |
 |------|------------------|----------|
-| **Mental Performance Coordinator** | Facilitate theory sessions, group dynamics | 1 |
-| **Technical Coach** | Oversee practice, provide feedback | 1-2 |
-| **Competition Director** | Run tournament, manage logistics | 1 |
-| **Support Staff** | Meals, setup, admin | 1-2 |
+| **Coördinator Mentale Prestaties** | Begeleid theoriesessies en groepsdynamiek. | 1 |
+| **Technische coach** | Begeleid de praktijk, geef feedback | 1-2 |
+| **Wedstrijdleider** | Organiseer het toernooi en regel de logistiek. | 1 |
+| **Ondersteunend personeel** | Maaltijden, voorbereiding, administratie | 1-2 |
 
-### Location Requirements
+### Locatievereisten
 
-::: info Facility Needs
+::: info Faciliteitsbehoeften
 **Piste:**
-- Multiple terrains (minimum 3-4 pistes)
-- Different surfaces if possible (gravel, sand, hard)
-- Lighting for evening play
+- Meerdere terreinen (minimaal 3-4 pistes)
+- Bij voorkeur verschillende ondergronden (grind, zand, harde ondergrond).
+- Verlichting voor avondspel
 
-**Indoor Space:**
-- Room for 20 people in circle (theory sessions)
-- Separate from piste
+**Binnenruimte:**
+- Ruimte voor 20 personen in een kringopstelling (theoriesessies)
+- Gescheiden van de piste
 - Whiteboard/projector
-- Comfortable seating
+- Comfortabele zitplaatsen
 
-**Accommodation:**
-- On-site or nearby (walking distance)
-- Shared rooms encourage bonding
-- Quiet space for reflection
+**Accommodatie:**
+- Op locatie of in de buurt (op loopafstand)
+- Gedeelde kamers bevorderen de onderlinge band.
+- Een rustige plek om te reflecteren.
 
 **Catering:**
-- Nutrition-focused meals (see [Food Guide](./food))
-- Avoid sugar crashes
-- Hydration stations
+- Maaltijden met de nadruk op voeding (zie [Voedingsgids](./food))
+- Voorkom suikerdips.
+- Hydratatiestations
 :::
 
-### Materials Checklist
+### Materialenlijst
 
-::: details Complete Materials List
-**Theory Sessions:**
-- [ ] Chairs for circle (no tables)
-- [ ] Boules and cochonnet for center
-- [ ] Flip charts and markers
-- [ ] Sticky notes
-- [ ] Worksheets (User Manual, Inner Critic, etc.)
-- [ ] Paper and pens
-- [ ] Projector (for website content)
+::: details Complete materiaallijst
+**Theoriesessies:**
+- [ ] Stoelen voor een kring (geen tafels)
+- [ ] Jeu de boules en cochonnet voor het midden
+- [ ] Flipcharts en stiften
+- [ ] Plakbriefjes
+- [ ] Werkbladen (Gebruikershandleiding, De innerlijke criticus, enz.)
+- [ ] Papier en pennen
+- [ ] Projector (voor websitecontent)
 
-**Practice Sessions:**
-- [ ] Measuring tape
-- [ ] Cones/markers for drills
-- [ ] Video camera/tripod
-- [ ] Clipboard and paper (tracking)
-- [ ] Whistle
+**Oefensessies:**
+- [ ] Meetlint
+- [ ] Kegels/markeringen voor oefeningen
+- [ ] Videocamera/statief
+- [ ] Klembord en papier (voor het bijhouden van gegevens)
+- [ ] Fluit
 
-**Competition:**
-- [ ] Score sheets
-- [ ] Tournament bracket
-- [ ] Prizes/recognition
-- [ ] First aid kit
+**Concurrentie:**
+- [ ] Scoreformulieren
+- [ ] Toernooischema
+- [ ] Prijzen/erkenning
+- [ ] EHBO-kit
 
-**Logistics:**
-- [ ] Name tags
-- [ ] Participant list with contacts
-- [ ] Emergency contact info
-- [ ] Water bottles
-- [ ] Sunscreen
-- [ ] Tissues (for emotional work!)
+**Logistiek:**
+- [ ] Naamplaatjes
+- [ ] Deelnemerslijst met contactpersonen
+- [ ] Contactgegevens voor noodgevallen
+- [ ] Waterflessen
+- [ ] Zonnebrandcrème
+- [ ] Zakdoekjes (voor emotioneel werk!)
 :::
 
-## Weekend Schedule
+## Weekendprogramma
 
-### Friday Evening (3 hours)
+### Vrijdagavond (3 uur)
 
-**18:00-18:30 - Arrival & Welcome**
-- Check-in
-- Room assignments
-- Overview of weekend
+**18:00-18:30 - Aankomst en welkom**
+- Inchecken
+- Kamerindelingen
+- Overzicht van het weekend
 
-**18:30-19:30 - Dinner**
-- Nutrition-focused meal
-- Informal introductions
+**18:30-19:30 - Diner**
+- Voedingsgerichte maaltijd
+- Informele kennismakingen
 
-**19:30-22:30 - Theory Session: Foundation**
+**19:30-22:30 - Theoriesessie: Basisprincipes**
 
-Use the [Workshop guide](./workshop) for detailed facilitation:
+Gebruik de [Workshopgids](./workshop) voor gedetailleerde instructies:
 
-1. **Ground Rules (15 min)** - Establish psychological safety
-2. **Check-In Matrix (20 min)** - Assess group energy
-3. **The Iceberg (30 min)** - Explore inner thoughts
-4. **User Manual (45 min)** - Build team understanding
-5. **Fear in a Hat (45 min)** - Break isolation
-6. **Check-Out (15 min)** - Close the loop
+1. **Basisregels (15 min)** - Zorg voor psychologische veiligheid
+2. **Check-in matrix (20 min)** - Beoordeel de energie van de groep
+3. **De ijsberg (30 min)** - Verken je innerlijke gedachten
+4. **Gebruikershandleiding (45 min)** - Bevorder teaminzicht
+5. **Angst in een hoed (45 min)** - Doorbreek de isolatie
+6. **Afronding (15 min)** - Sluit de lus
 
-**22:30 - Free Time**
-- Informal socializing
-- Rest and reflection
+**22:30 - Vrije tijd**
+- Informeel sociaal contact
+- Rust en bezinning
 
 ```mermaid
 graph TD
-    A[Friday Theory] --> B[Psychological Safety]
-    B --> C[Self-Awareness]
-    C --> D[Team Understanding]
-    D --> E[Ready for Practice]
+    A[Vrijdagtheorie] --> B[Psychologische veiligheid]
+    B --> C[Zelfbewustzijn]
+    C --> D[Teaminzicht]
+    D --> E[Klaar voor de training]
 
     style A fill:#fff4e1
     style E fill:#e8f5e9
@@ -307,436 +307,436 @@ graph TD
 
 
 
-### Saturday (Full Day - Theory + Practice)
+### Zaterdag (hele dag - theorie + praktijk)
 
-**08:00-09:00 - Breakfast & Mindfulness**
-- Quiet breakfast
-- Optional 15-minute guided meditation
-- Set intentions for the day
+**08:00-09:00 - Ontbijt &amp; Mindfulness**
+- Rustig ontbijt
+- Optionele begeleide meditatie van 15 minuten
+- Stel doelen voor de dag.
 
-**09:00-10:30 - Theory Session: Connecting Content to Experience**
+**09:00-10:30 - Theoriesessie: Inhoud verbinden met ervaring**
 
-Choose 3-4 topics from the Academy website and explore the inner game:
+Kies 3-4 onderwerpen van de Academy-website en verken het innerlijke spel:
 
-**Example Topics:**
+**Voorbeelden van onderwerpen:**
 
-1. **[Nutrition](./education/nutrition/)** (20 min)
-   - "How does your food choice change under pressure?"
-   - "Do you eat what your body needs or what your anxiety wants?"
-   - Practice: Plan competition-day nutrition
+1. **[Voeding](./educatie/voeding/)** (20 min)
+   - &quot;Hoe verandert je voedselkeuze onder druk?&quot;
+   - &quot;Eet je wat je lichaam nodig heeft of wat je angst je ingeeft?&quot;
+   - Praktische oefening: Plan je voeding voor de wedstrijddag.
 
-2. **[Mental Strength](./education/mental-game/mental-strength/)** (25 min)
-   - "What's your relationship with failure?"
-   - "How do you talk to yourself after a miss?"
-   - Activity: Reframe Inner Critic to Inner Coach
+2. **[Mentale kracht](./education/mental-game/mental-strength/)** (25 min)
+   - &quot;Wat is jouw relatie met falen?&quot;
+   - &quot;Hoe praat je tegen jezelf na een gemiste kans?&quot;
+   - Activiteit: Herformuleer je innerlijke criticus naar je innerlijke coach.
 
 3. **[Mindfulness](./education/mental-game/mindfulness/)** (25 min)
-   - "Where does your mind go during the pause before throwing?"
-   - "What pulls you out of the present moment?"
-   - Practice: 5-minute body scan
+   - &quot;Waar gaan je gedachten heen tijdens de pauze voordat je gooit?&quot;
+   - &quot;Wat haalt je uit het huidige moment?&quot;
+   - Oefening: 5 minuten lichaamsscan
 
-4. **[Tactics](./education/technique/tactics/)** (20 min)
-   - "Is your shot choice based on strategy or fear?"
-   - "When do you play it safe vs. take risks?"
-   - Discuss: Risk profiles in the group
+4. **[Tactieken](./education/technique/tactics/)** (20 min)
+   - &quot;Is je schotkeuze gebaseerd op strategie of angst?&quot;
+   - &quot;Wanneer kies je voor de veilige optie en wanneer neem je risico&#39;s?&quot;
+   - Bespreking: Risicoprofielen binnen de groep
 
-**10:30-10:45 - Break**
+**10:30-10:45 - Pauze**
 
-**10:45-12:30 - On-Piste Integration: Drills with Mental Focus**
+**10:45-12:30 - Integratie op de piste: Oefeningen met mentale focus**
 
-**Drill 1: Call Your Shot (30 min)**
+**Oefening 1: Bepaal je schot (30 min)**
 
-From the [Workshop guide](./workshop) - practice owning intention and doubt:
+Uit de [Workshophandleiding](./workshop) - oefen met het erkennen van intentie en twijfel:
 
-1. Announce the target: "I am shooting the iron"
-2. State confidence: "I am a 7 out of 10"
-3. Name the inner thought: "My inner voice is worrying about backspin"
-4. Execute the shot
-5. Reflect: "What happened? What did you learn?"
+1. Kondig het doel aan: &quot;Ik schiet op het ijzeren doelwit&quot;
+2. Zelfvertrouwen: &quot;Ik geef mezelf een 7 op 10&quot;
+3. Benoem de innerlijke gedachte: &quot;Mijn innerlijke stem maakt zich zorgen over backspin&quot;
+4. Voer het schot uit.
+5. Reflecteer: &quot;Wat is er gebeurd? Wat heb je ervan geleerd?&quot;
 
-**Drill 2: Cognitive Interference (30 min)**
+**Oefening 2: Cognitieve interferentie (30 min)**
 
-Test if technique has become automatic:
-- Coordinator asks complex questions while player shoots
-- "Name 5 capital cities" or "Count backwards from 100 by 7s"
-- Success = technique is implicit, not consciously processed
+Test of de techniek automatisch is geworden:
+- De coördinator stelt complexe vragen terwijl de speler schiet.
+- &quot;Noem 5 hoofdsteden&quot; of &quot;Tel terug vanaf 100 met stappen van 7&quot;
+- Succes = techniek is impliciet, niet bewust verwerkt
 
-**Drill 3: User Manual Practice (30 min)**
+**Oefening 3: Oefening met de gebruikershandleiding (30 min)**
 
-Apply the User Manuals from Friday:
-- Play in teams of 3
-- After each shot, teammates respond according to User Manual
-- "Marc needs silence after a miss" - team honors that
-- Debrief: "How did it feel to be understood?"
+Gebruik de gebruikershandleidingen vanaf vrijdag:
+- Speel in teams van 3.
+- Na elk schot reageren teamgenoten volgens de gebruikershandleiding.
+- &quot;Marc heeft stilte nodig na een gemiste kans&quot; - het team respecteert dat.
+- Nabespreking: &quot;Hoe voelde het om begrepen te worden?&quot;
 
-**12:30-14:00 - Lunch & Rest**
-- Nutrition-focused meal
-- Quiet time for reflection
-- Optional: Individual check-ins with coordinator
+**12:30-14:00 - Lunch &amp; Rust**
+- Voedingsgerichte maaltijd
+- Rustig moment voor bezinning
+- Optioneel: Individuele contactmomenten met de coördinator
 
-**14:00-17:00 - Practice Session: Terrain Adaptation**
+**14:00-17:00 - Oefensessie: Terreinaanpassing**
 
-**Goal:** Build adaptability and mental flexibility
+**Doel:** Aanpassingsvermogen en mentale flexibiliteit ontwikkelen
 
-**Setup:**
-- Rotate through 3-4 different terrains/pistes
-- 45 minutes per terrain
-- Focus on mental adaptation, not just technical
+**Installatie:**
+- Roteer door 3-4 verschillende terreinen/pistes
+- 45 minuten per terrein
+- Focus op mentale aanpassing, niet alleen op technische aanpassing.
 
-**Rotation Structure:**
+**Rotatiestructuur:**
 
-| Terrain | Mental Focus | Practice |
+| Terrein | Mentale focus | Oefening |
 |---------|--------------|----------|
-| **Terrain 1: Soft/Sand** | Acceptance of uncertainty | "The donnée - accept what is" |
-| **Terrain 2: Hard/Gravel** | Precision under pressure | "Trust your technique" |
-| **Terrain 3: Uneven** | Emotional regulation | "Stay calm when it's unfair" |
-| **Terrain 4: Competition** | Flow state access | "Find the zone" |
+| **Terrein 1: Zachte grond/Zand** | Aanvaarding van onzekerheid | &quot;De donnée - accepteer wat is&quot; |
+| **Terrein 2: Hard/Grind** | Precisie onder druk | &quot;Vertrouw op je techniek&quot; |
+| **Terrein 3: Oneffen** | Emotionele regulatie | &quot;Blijf kalm, ook als het oneerlijk is.&quot; |
+| **Terrein 4: Competitie** | Toegang tot de stroomstatus | &quot;Vind de zone&quot; |
 
-**Facilitation:**
-- Technical coach provides feedback on technique
-- MPC asks: "What's happening in your mind right now?"
-- Players journal between rotations
+**Begeleiding:**
+- De technische coach geeft feedback op de techniek.
+- MPC vraagt: &quot;Wat gaat er op dit moment door je hoofd?&quot;
+- Spelers houden een logboek bij tussen de rotaties.
 
-**17:00-18:00 - Break & Reflection**
-- Individual journaling
-- "What did you learn about yourself today?"
-- "What's one thing you'll do differently tomorrow?"
+**17:00-18:00 - Pauze &amp; Reflectie**
+- Individueel dagboek bijhouden
+- &quot;Wat heb je vandaag over jezelf geleerd?&quot;
+- &quot;Wat ga je morgen anders doen?&quot;
 
-**18:00-19:00 - Dinner**
+**18:00-19:00 - Diner**
 
-**19:00-21:00 - Evening Theory: Deep Vulnerability**
+**19:00-21:00 - Avondtheorie: Diepe kwetsbaarheid**
 
-**Activity 1: Reframing the Inner Critic (45 min)**
+**Activiteit 1: De innerlijke criticus herkaderen (45 min)**
 
-See [Workshop guide](./workshop) for full protocol:
-1. Identify the exact Critic phrase
-2. Reframe as Inner Coach
-3. Partner practice
+Zie [Workshophandleiding](./workshop) voor het volledige protocol:
+1. Identificeer de exacte formulering van de criticus.
+2. Herformuleer jezelf als innerlijke coach.
+3. Partnerpraktijk
 
-**Activity 2: Competition Preparation (45 min)**
+**Activiteit 2: Wedstrijdvoorbereiding (45 min)**
 
-Tomorrow is competition day. Prepare mentally:
+Morgen is de wedstrijddag. Bereid je mentaal voor:
 
-1. **Visualization (15 min)**
-   - Close eyes
-   - Imagine perfect shot
-   - Feel the confidence
-   - Notice the calm
+1. **Visualisatie (15 min)**
+   - Sluit je ogen
+   - Stel je de perfecte foto voor
+   - Voel het zelfvertrouwen
+   - Merk de rust op.
 
-2. **Team Protocols (20 min)**
-   - Create signals for support
-   - "I need a reset" = touch boules
-   - "I need encouragement" = fist bump
-   - "I need space" = step back
+2. **Teamprotocollen (20 min)**
+   - Creëer signalen voor ondersteuning
+   - &quot;Ik heb een reset nodig&quot; = touch boules
+   - &quot;Ik heb aanmoediging nodig&quot; = vuistje
+   - &quot;Ik heb ruimte nodig&quot; = een stap terug
 
-3. **Set Intentions (10 min)**
-   - "Tomorrow, I will focus on..."
-   - "My goal is not to win, but to..."
-   - "I will practice..."
+3. **Stel je intenties vast (10 min)**
+   - &quot;Morgen zal ik me concentreren op...&quot;
+   - &quot;Mijn doel is niet om te winnen, maar om...&quot;
+   - &quot;Ik ga oefenen...&quot;
 
-**Check-Out (30 min)**
-- Share one fear about tomorrow
-- Share one intention
-- Group support
+**Uitchecken (30 min)**
+- Deel één angst over morgen.
+- Deel één intentie
+- Groepsondersteuning
 
-**21:00 - Free Time**
-- Early to bed (competition tomorrow!)
-- Quiet reflection
+**21:00 - Vrije tijd**
+- Vroeg naar bed (morgen een wedstrijd!)
+- Stille reflectie
 
-### Sunday (Competition Day)
+### Zondag (Wedstrijddag)
 
-**08:00-09:00 - Breakfast & Mental Preparation**
-- Light breakfast (see [Nutrition guide](./education/nutrition/))
-- 15-minute mindfulness practice
-- Team huddles
+**08:00-09:00 - Ontbijt &amp; mentale voorbereiding**
+- Licht ontbijt (zie [Voedingsgids](./education/nutrition/))
+- 15 minuten mindfulness-oefening
+- Teamoverleg
 
-**09:00-09:30 - Competition Briefing**
+**09:00-09:30 - Briefing over de wedstrijd**
 
-**Format:** Round-robin tournament
-- Teams of 3
-- Play to 13 points
-- Everyone plays everyone
-- Focus on PROCESS, not outcome
+**Format:** Round-robin toernooi
+- Teams van 3
+- Speel tot 13 punten
+- Iedereen speelt tegen iedereen.
+- Focus op het proces, niet op het resultaat.
 
-**The Twist: Mental Performance Scoring**
+**De twist: Beoordeling op basis van mentale prestaties**
 
-::: tip Dual Scoring System
-**Traditional:** Points won
-**Mental Performance:** Scored by MPC
+::: tip Dubbel puntensysteem
+**Traditioneel:** Gewonnen punten
+**Mentale prestaties:** Beoordeeld door MPC
 
-Mental Performance Points (0-5 per game):
-- Used User Manual tools
-- Supported teammates effectively
-- Managed inner critic
-- Stayed present (not dwelling on past shots)
-- Demonstrated psychological safety
+Mentale prestatiepunten (0-5 per wedstrijd):
+- Gebruikte gebruikershandleidingen
+- Teamgenoten effectief ondersteund
+- Beheerste innerlijke criticus
+- Ik bleef in het heden (zonder stil te staan bij eerdere opnames).
+- Aangetoond psychologisch veilig
 
-**Winner:** Best combined score (traditional + mental)
+**Winnaar:** Beste gecombineerde score (traditioneel + mentaal)
 :::
 
-**09:30-13:00 - Morning Competition**
-- Round-robin games
-- MPC observes and scores
-- Technical coach provides brief feedback between games
-- Hydration and snack breaks
+**09:30-13:00 - Ochtendwedstrijd**
+- Round-robin wedstrijden
+- MPC observeert en scoort
+- De technisch coach geeft tussen de wedstrijden door korte feedback.
+- Hydratatie- en snackpauzes
 
 **13:00-14:00 - Lunch**
-- Nutrition-focused
-- Informal reflection
+- Voedingsgericht
+- Informele reflectie
 - Rest
 
-**14:00-17:00 - Afternoon Competition**
-- Continue round-robin
-- Semi-finals and finals
-- Increasing pressure
-- Apply morning learnings
+**14:00-17:00 - Middagwedstrijd**
+- Ga door met de round-robin
+- Halve finales en finales
+- Toenemende druk
+- Pas de geleerde lessen van vanochtend toe.
 
-**17:00-17:30 - Awards & Recognition**
+**17:00-17:30 - Prijsuitreiking en erkenning**
 
-**Categories:**
-- Traditional winner
-- Mental performance winner
-- Most improved
-- Best teammate
-- Courage award (most vulnerable)
+**Categorieën:**
+- Traditionele winnaar
+- Winnaar mentale prestaties
+- Meest verbeterd
+- Beste teamgenoot
+- Moedprijs (meest kwetsbaren)
 
-**17:30-19:00 - Final Reflection Session**
+**17:30-19:00 - Eindreflectiesessie**
 
-**Critical:** This is where learning is cemented.
+**Cruciaal:** Hier wordt het geleerde verankerd.
 
-**Structure:**
+**Structuur:**
 
-**1. Individual Reflection (15 min)**
-Write in journal:
-- What did you learn about yourself this weekend?
-- What surprised you?
-- What will you do differently?
-- What are you taking home?
+**1. Individuele reflectie (15 min)**
+Schrijf in je dagboek:
+- Wat heb je dit weekend over jezelf geleerd?
+- Wat heeft je verrast?
+- Wat ga je anders doen?
+- Wat neem je mee naar huis?
 
-**2. Small Group Sharing (30 min)**
-Groups of 4-5:
-- Share key insights
-- What resonated most?
-- What was hardest?
-- What was most valuable?
+**2. Delen in kleine groepjes (30 min)**
+Groepen van 4-5 personen:
+- Deel belangrijke inzichten
+- Wat sprak je het meest aan?
+- Wat was het moeilijkst?
+- Wat was het meest waardevol?
 
-**3. Full Group Integration (30 min)**
-Circle up:
-- Each person shares ONE key takeaway
-- MPC validates and connects themes
-- Discuss: "How will you apply this?"
+**3. Volledige groepsintegratie (30 min)**
+Vorm een kring:
+- Iedereen deelt ÉÉN belangrijk inzicht.
+- MPC valideert en verbindt thema&#39;s
+- Bespreking: &quot;Hoe ga je dit toepassen?&quot;
 
-**4. Commitments (15 min)**
-- Each person states one commitment
-- "In my next competition, I will..."
-- Group witnesses and supports
+**4. Verplichtingen (15 min)**
+- Iedereen verklaart één toezegging.
+- &quot;Bij mijn volgende wedstrijd zal ik...&quot;
+- Getuigen en ondersteuners van de groep
 
-**5. Closing (15 min)**
-- Thank participants for courage
-- Remind of confidentiality
-- Exchange contacts
-- Plan follow-up (optional online session)
+**5. Afsluiting (15 min)**
+- Dank aan de deelnemers voor hun moed.
+- Herinner aan de vertrouwelijkheid.
+- Contacten uitwisselen
+- Plan een vervolgsessie (optionele online sessie)
 
-**19:00 - Dinner & Departure**
+**19:00 - Diner en vertrek**
 
 
-## Facilitation Tips
+## Tips voor het begeleiden van een sessie
 
-### Balancing Theory and Practice
+### Het evenwicht tussen theorie en praktijk
 
-::: warning Don't Overload Theory
-**The mistake:** Too much talking, not enough doing
+::: warning Overlaad de theorie niet.
+**De fout:** Te veel praten, te weinig doen.
 
-**The balance:**
-- Theory creates awareness
-- Practice builds skill
-- Competition tests integration
-- Reflection cements learning
+**De balans:**
+- Theorie schept bewustzijn.
+- Oefening baart kunst.
+- Integratie van concurrentietests
+- Reflectie versterkt het leerproces.
 
-**Rule of thumb:** 30% theory, 40% practice, 20% competition, 10% reflection
+**Vuistregel:** 30% theorie, 40% praktijk, 20% competitie, 10% reflectie
 :::
 
-### Managing Group Dynamics
+### Het managen van groepsdynamiek
 
-**The Competitive Alpha:**
-- Wants to win at all costs
-- Resists vulnerability
-- **Strategy:** Channel competitiveness into mental performance scoring
+**De Competitieve Alfa:**
+- Wil koste wat kost winnen.
+- Bestand tegen kwetsbaarheid
+- **Strategie:** Zet competitiviteit om in een score voor mentale prestaties.
 
-**The Quiet Observer:**
-- Takes it all in, doesn't share
-- **Strategy:** Create low-stakes entry points, validate observation as participation
+**De stille waarnemer:**
+- Neemt alles in zich op, maar deelt niets.
+- **Strategie:** Creëer laagdrempelige instapmomenten en valideer observatie als participatie.
 
-**The Skeptic:**
-- "This touchy-feely stuff doesn't work"
-- **Strategy:** Verbal Aikido - align and pivot (see [Workshop guide](./workshop))
+**De scepticus:**
+- &quot;Dat sentimentele gedoe werkt niet.&quot;
+- **Strategie:** Verbale Aikido - uitlijnen en draaien (zie [Workshophandleiding](./workshop))
 
-**The Over-Sharer:**
-- Dominates discussion
-- **Strategy:** "Thank you, let's hear from others"
+**De persoon die alles te veel deelt:**
+- Domineert de discussie
+- **Strategie:** &quot;Bedankt, we horen graag van anderen&quot;
 
-### Handling Emotional Moments
+### Omgaan met emotionele momenten
 
-**Someone cries during Fear in a Hat:**
-- ✅ Normalize: "Tears are courage, not weakness"
-- ✅ Offer tissue, don't rush
-- ✅ Ask: "What do you need right now?"
-- ❌ Don't: "It's okay, don't cry"
+**Iemand huilt tijdens Fear in a Hat:**
+- ✅ Normaliseer: &quot;Tranen zijn een teken van moed, geen zwakte&quot;
+- ✅ Bied een servetje aan, maar neem de tijd.
+- ✅ Vraag: &quot;Wat heb je nu nodig?&quot;
+- ❌ Niet doen: &quot;Het is oké, niet huilen&quot;
 
-**Conflict between players:**
-- ✅ Pause and address
-- ✅ "What's happening right now?"
-- ✅ Use as learning moment
-- ❌ Don't: Ignore or minimize
+**Conflict tussen spelers:**
+- ✅ Pauzeer en beantwoord de vraag
+- ✅ &quot;Wat gebeurt er op dit moment?&quot;
+- ✅ Gebruik dit als leermoment
+- ❌ Niet doen: Negeer of minimaliseer
 
-**Someone shuts down:**
-- ✅ Check in privately during break
-- ✅ "I noticed you went quiet. What's up?"
-- ✅ Offer options: participate differently, take a break
-- ❌ Don't: Call out publicly
+**Iemand schakelt uit:**
+- ✅ Check privé in tijdens de pauze
+- ✅ &quot;Ik merkte dat je stil was. Wat is er aan de hand?&quot;
+- ✅ Bied opties aan: doe op een andere manier mee, neem een pauze
+- ❌ Niet doen: Openlijk aan de kaak stellen
 
-## Post-Camp Follow-Up
+## Nazorg na het kamp
 
-### Immediate (24-48 hours)
+### Direct (24-48 uur)
 
-**Send to all participants:**
-- Thank you message
-- Key takeaways summary
-- Photos from weekend
-- Contact list (with permission)
-- Link to resources on website
+**Verstuur naar alle deelnemers:**
+- Bedankbericht
+- Samenvatting van de belangrijkste conclusies
+- Foto&#39;s van het weekend
+- Contactenlijst (met toestemming)
+- Link naar bronnen op de website
 
-**Individual check-ins:**
-- Text anyone who shared heavily
-- "How are you feeling about the weekend?"
-- Address any vulnerability hangover
+**Individuele check-ins:**
+- Stuur een bericht naar iedereen die veel heeft gedeeld.
+- &quot;Hoe voel je je over het weekend?&quot;
+- Pak eventuele kwetsbaarheden aan die na de blessure nog steeds een rol spelen.
 
-### Short-term (2 weeks)
+### Kortdurend (2 weken)
 
-**Optional online session (60-90 min):**
-- How have you applied learnings?
-- What's working? What's challenging?
-- Peer support and problem-solving
-- Reinforce commitments
+**Optionele online sessie (60-90 min):**
+- Hoe heb je de opgedane kennis toegepast?
+- Wat werkt goed? Wat is een uitdaging?
+- Ondersteuning door lotgenoten en probleemoplossing
+- Bevestig afspraken
 
-### Long-term (1-3 months)
+### Langdurig (1-3 maanden)
 
-**Survey participants:**
-- What's different in your game?
-- What tools are you still using?
-- What would make the next camp better?
-- Would you recommend to others?
+**Deelnemers aan de enquête:**
+- Wat is er anders aan jouw spel?
+- Welke tools gebruik je nog steeds?
+- Wat zou het volgende trainingskamp verbeteren?
+- Zou je het anderen aanraden?
 
-**Track impact:**
-- Competition results
-- Self-reported confidence
-- Team dynamics
-- Continued engagement
+**Impact van het spoor:**
+- Wedstrijdresultaten
+- Zelfgerapporteerd vertrouwen
+- Teamdynamiek
+- Voortdurende betrokkenheid
 
-## Adapting for Different Group Sizes
+## Aanpassen aan verschillende groepsgroottes
 
-### Small Camp (10-12 players)
+### Klein kamp (10-12 spelers)
 
-**Advantages:**
-- Deeper sharing
-- More individual attention
-- Stronger bonds
+**Voordelen:**
+- Dieper delen
+- Meer individuele aandacht
+- Sterkere banden
 
-**Adjustments:**
-- Single group for all theory
-- More time per person in activities
-- Intimate competition format
+**Aanpassingen:**
+- Eén groep voor alle theorieën
+- Meer tijd per persoon voor activiteiten
+- Intiem wedstrijdformaat
 
-### Large Camp (16-20 players)
+### Groot kamp (16-20 spelers)
 
-**Advantages:**
-- Diverse perspectives
-- More competition variety
-- Economies of scale
+**Voordelen:**
+- Diverse perspectieven
+- Meer variatie in de competitie
+- schaalvoordelen
 
-**Adjustments:**
-- Split into 2 groups for some theory sessions
-- Need 2 MPC/facilitators
-- Larger tournament bracket
-- More structured rotations
+**Aanpassingen:**
+- Voor sommige theorielessen worden we in twee groepen verdeeld.
+- We hebben 2 MPC&#39;s/facilitatoren nodig.
+- Groter toernooischema
+- Meer gestructureerde rotaties
 
-## Budget Considerations
+## Budgettaire overwegingen
 
-### Revenue
+### Winst
 
-| Item | Price per Person | 20 People | 10 People |
+| Item | Prijs per persoon | 20 mensen | 10 personen |
 |------|------------------|-----------|-----------|
-| **Registration** | €150-250 | €3,000-5,000 | €1,500-2,500 |
+| **Registratie** | €150-250 | €3.000-5.000 | €1.500-2.500 |
 
-### Expenses
+### Uitgaven
 
-| Category | Cost | Notes |
+| Categorie | Kosten | Notities |
 |----------|------|-------|
-| **Facility rental** | €500-1,000 | Weekend rate |
-| **Accommodation** | €40-60/person/night | Shared rooms |
-| **Meals** | €30-40/person/day | 6 meals |
-| **Staff** | €500-1,000 | MPC + coaches |
-| **Materials** | €100-200 | Worksheets, supplies |
-| **Prizes** | €100-200 | Recognition items |
+| **Faciliteitsverhuur** | €500-1.000 | Weekendtarief |
+| **Accommodatie** | €40-60 per persoon per nacht | Gedeelde kamers |
+| **Maaltijden** | €30-40 per persoon per dag | 6 maaltijden |
+| **Personeel** | €500-1.000 | MPC + coaches |
+| **Materialen** | €100-200 | Werkbladen, benodigdheden |
+| **Prijzen** | €100-200 | Herkenningsitems |
 
-**Total per person:** €120-180
-**Margin:** €30-70/person (or break-even for community building)
+**Totaal per persoon:** €120-180
+**Winstmarge:** €30-70 per persoon (of quitte spelen voor gemeenschapsopbouw)
 
-## Success Metrics
+## Succesindicatoren
 
-### Immediate Indicators
+### Onmiddellijke indicatoren
 
-- [ ] Psychological safety score (1-10 average >7)
-- [ ] Participation rate (>80% actively sharing)
-- [ ] Completion rate (>90% stay full weekend)
-- [ ] Satisfaction score (1-10 average >8)
+- [ ] Psychologische veiligheidsscore (1-10, gemiddelde &gt;7)
+- [ ] Deelnamepercentage (&gt;80% actief delen)
+- [ ] Voltooiingspercentage (&gt;90% verblijft het hele weekend)
+- [ ] Tevredenheidsscore (1-10, gemiddelde &gt;8)
 
-### Long-term Indicators
+### Indicatoren voor de lange termijn
 
-- [ ] Behavior change (using tools in competition)
-- [ ] Performance improvement (self-reported)
-- [ ] Community building (staying in touch)
-- [ ] Referrals (recommending to others)
+- [ ] Gedragsverandering (gebruik van hulpmiddelen in een wedstrijd)
+- [ ] Prestatieverbetering (zelfgerapporteerd)
+- [ ] Gemeenschapsvorming (contact houden)
+- [ ] Aanbevelingen (anderen aanbevelen)
 
-## Common Mistakes to Avoid
+## Veelgemaakte fouten die je moet vermijden
 
-::: danger Pitfalls
-**1. Too much content**
-- Trying to cover everything
-- **Fix:** Focus on depth, not breadth
+::: danger Valkuilen
+**1. Te veel inhoud**
+- Ik probeer alles te behandelen.
+- **Oplossing:** Focus op diepgang, niet op breedte
 
-**2. Skipping reflection**
-- Rushing to next activity
-- **Fix:** Build in processing time
+**2. Reflectie overslaan**
+- Haastig doorgaan naar de volgende activiteit
+- **Oplossing:** Verwerkingstijd inbouwen
 
-**3. Ignoring resistance**
-- Pushing through skepticism
-- **Fix:** Address it directly with Verbal Aikido
+**3. Weerstand negeren**
+- Door scepsis heen breken
+- **Oplossing:** Pak het direct aan met Verbale Aikido.
 
-**4. Technical coaching during theory**
-- Mixing roles
-- **Fix:** Clear boundaries between MPC and technical coach
+**4. Technische begeleiding tijdens de theorielessen**
+- Rollen vermengen
+- **Oplossing:** Duidelijke afbakening tussen MPC en technische coach
 
-**5. No follow-up**
-- Weekend ends, learning stops
-- **Fix:** Plan post-camp touchpoints
+**5. Geen vervolg**
+- Het weekend is voorbij, het leren stopt.
+- **Oplossing:** Plan contactmomenten na het kamp.
 :::
 
-## Resources
+## Bronnen
 
-### From This Site
+### Van deze site
 
-- [Workshop Guide](./workshop) - Detailed facilitation protocols
-- [Training Session Guide](./training-session) - For ongoing practice
-- [Nutrition](./education/nutrition/) - Competition-day protocols
-- [Mental Strength](./education/mental-game/mental-strength/) - Inner game concepts
-- [Mindfulness](./education/mental-game/mindfulness/) - Presence techniques
-- [Tactics](./education/technique/tactics/) - Strategic thinking
+- [Workshophandleiding](./workshop) - Gedetailleerde begeleidingsprotocollen
+- [Trainingssessiehandleiding](./training-session) - Voor voortdurende oefening
+- [Voeding](./educatie/voeding/) - Protocollen voor de wedstrijddag
+- [Mentale kracht](./education/mental-game/mental-strength/) - Innerlijke spelconcepten
+- [Mindfulness](./education/mental-game/mindfulness/) - Aanwezigheidstechnieken
+- [Tactieken](./education/technique/tactics/) - Strategisch denken
 
-### Recommended Reading
+### Aanbevolen lectuur
 
-- *The Inner Game of Tennis* by Timothy Gallwey
-- *Mindset* by Carol Dweck
-- *The Fearless Organization* by Amy Edmondson
+- *Het innerlijke spel van tennis* door Timothy Gallwey
+- *Mindset* van Carol Dweck
+- *De Onverschrokken Organisatie* van Amy Edmondson
 
 

@@ -3,171 +3,171 @@ title: Templates & Tools
 description: Downloadable templates for goal setting, training diaries, sleep tracking, competition preparation, and team development.
 ---
 
-# Templates & Tools
+# Maler og verktøy
 
-Practical templates to support your development journey.
+Praktiske maler som støtter utviklingsreisen din.
 
-## Available Templates
+## Tilgjengelige maler
 
-### Priority 1: Most Requested
+### Prioritet 1: Mest etterspurt
 
-#### 😴 [Sleep Tracker](/no/guides/templates/sleep-tracker)
+#### 😴 [Søvnmåler](/no/guider/maler/søvnmåler)
 
-Track your sleep patterns and correlate them with performance.
+Spor søvnmønstrene dine og korreler dem med ytelse.
 
-**Includes:**
-- Daily sleep logging
-- Weekly sleep summary
-- Pre-competition sleep protocol
-- Sleep environment checklist
-- Sleep & performance correlation tracker
+**Inkluderer:**
+- Daglig søvnlogging
+- Ukentlig søvnoppsummering
+- Søvnprotokoll før konkurranse
+- Sjekkliste for søvnmiljø
+- Søvn- og ytelseskorrelasjonssporing
 
-**Best for:** Optimizing recovery, pre-competition preparation, identifying sleep patterns
+**Best for:** Optimalisering av restitusjon, forberedelser før konkurranser, identifisering av søvnmønstre
 
-[View Sleep Tracker →](/no/guides/templates/sleep-tracker)
-
----
-
-#### ✅ [Pre-Competition Checklist](/no/guides/templates/pre-competition-checklist)
-
-Complete preparation guide for day before and day of competition.
-
-**Includes:**
-- Day before checklist (logistics, nutrition, mental prep, sleep)
-- Competition morning routine
-- During competition protocols
-- Competition bag checklist
-- Post-competition reflection
-
-**Best for:** Tournament preparation, eliminating pre-match stress, building consistent routines
-
-[View Pre-Competition Checklist →](/no/guides/templates/pre-competition-checklist)
+[Vis søvntracker →](/no/guider/maler/søvntracker)
 
 ---
 
-### Priority 2: Team Development
+#### ✅ [Sjekkliste før konkurranse](/no/guider/maler/sjekkliste-for-konkurranse)
 
-#### 🎯 [Peer Feedback Template](/no/guides/templates/peer-feedback)
+Komplett forberedelsesguide for dagen før og konkurransedagen.
 
-Structured templates for requesting and giving honest feedback.
+**Inkluderer:**
+- Sjekkliste dagen før (logistikk, ernæring, mental forberedelse, søvn)
+- Konkurranse morgenrutine
+- Under konkurranseprotokoller
+- Sjekkliste for konkurransebag
+- Refleksjon etter konkurransen
 
-**Includes:**
-- Feedback request form
-- Guidelines for giving feedback
-- Team feedback session format
-- Receiving feedback framework
+**Best for:** Turneringsforberedelser, eliminering av stress før kampen, bygging av konsistente rutiner
 
-**Best for:** Identifying blind spots, team improvement, honest development conversations
-
-[View Peer Feedback Template →](/no/guides/templates/peer-feedback)
-
----
-
-#### 🤝 [Team Agreement Template](/no/guides/templates/team-agreement)
-
-Framework for roles, communication, and conflict resolution.
-
-**Includes:**
-- Role assignment (playing & off-field)
-- Communication agreements & hand signals
-- Decision-making protocols
-- Training & competition commitments
-- Conflict resolution steps
-- Feedback culture guidelines
-
-**Best for:** New teams, improving team chemistry, preventing conflicts
-
-[View Team Agreement Template →](/no/guides/templates/team-agreement)
+[Se sjekkliste før konkurranse →](/no/guider/maler/sjekkliste-for-konkurranse)
 
 ---
 
-### Priority 3: Quick Reference
+### Prioritet 2: Teamutvikling
 
-#### 💆 [Tension Release Quick Card](/no/guides/templates/tension-quick-card)
+#### 🎯 [Mal for tilbakemelding fra fagfeller](/no/guider/maler/tilbakemelding-fra-fagfeller)
 
-Printable pocket card for tension release techniques during competition.
+Strukturerte maler for å be om og gi ærlig tilbakemelding.
 
-**Includes:**
-- 30-second reset protocol
-- Grip reset technique
-- 15-second pre-throw protocol
-- Emergency 4-7-8 breathing
-- Cue word reminder
+**Inkluderer:**
+- Skjema for tilbakemeldingsforespørsel
+- Retningslinjer for å gi tilbakemelding
+- Format for tilbakemeldingsøkt for teamet
+- Rammeverk for å motta tilbakemeldinger
 
-**Best for:** Quick reference during competition, pocket/bag carry
+**Best for:** Identifisering av blindsoner, teamforbedring, ærlige utviklingssamtaler
 
-[View Tension Quick Card →](/no/guides/templates/tension-quick-card)
-
----
-
-#### 🍎 [Competition Nutrition Planner](/no/guides/templates/nutrition-planner)
-
-Plan what and when to eat for optimal performance on competition days.
-
-**Includes:**
-- Competition day foods (good vs avoid)
-- Timeline from night before to competition
-- Competition snack kit checklist
-- Warning signs to eat now
-- Personal meal planning template
-
-**Best for:** Competition preparation, avoiding blood sugar crashes, stable energy
-
-[View Nutrition Planner →](/no/guides/templates/nutrition-planner)
+[Se mal for tilbakemelding fra fagfeller →](/no/guider/maler/tilbakemelding-fra-fagfeller)
 
 ---
 
-### Foundation Templates
+#### 🤝 [Mal for teamavtale](/no/guider/maler/teamavtale)
 
-#### 📋 [Goal Template](/no/guides/templates/goal-template)
+Rammeverk for roller, kommunikasjon og konfliktløsning.
 
-Structured worksheet for setting effective pétanque goals.
+**Inkluderer:**
+- Rolletildeling (spillende og utenfor banen)
+- Kommunikasjonsavtaler og håndsignaler
+- Beslutningsprotokoller
+- Trenings- og konkurranseforpliktelser
+- Trinn for konfliktløsning
+- Retningslinjer for tilbakemeldingskultur
 
-**Includes:**
-- SMART goal framework
-- Short-term and long-term goal sections
-- Progress tracking
-- Reflection prompts
+**Best for:** Nye lag, forbedre lagkjemien, forebygge konflikter
 
-**Best for:** Season planning, tournament preparation, skill development goals
-
-[View Goal Template →](/no/guides/templates/goal-template)
-
----
-
-#### 📓 [Diary Template](/no/guides/templates/diary-template)
-
-Training and competition diary for tracking your journey.
-
-**Includes:**
-- Pre-session intention setting
-- Post-session reflection
-- Competition notes
-- Mental state tracking
-- Progress indicators
-
-**Best for:** Regular training, competition analysis, long-term development
-
-[View Diary Template →](/no/guides/templates/diary-template)
+[Se mal for teamavtale →](/no/guider/maler/teamavtale)
 
 ---
 
-## How to Use These Templates
+### Prioritet 3: Hurtigreferanse
 
-1. **Download** the template that fits your needs
-2. **Customize** it to your personal goals and situation
-3. **Use consistently** — the value comes from regular use
-4. **Review periodically** — look for patterns and progress
+#### 💆 [Hurtigkort for spenningsfrigjøring](/no/guider/maler/hurtigkort for spenning)
 
-::: tip Digital or Paper?
-Both work. Some players prefer paper for the tactile experience and to stay off screens. Others prefer digital for searchability and convenience. Choose what you'll actually use.
+Utskrivbart lommekort for teknikker for spenningsutløsning under konkurranse.
+
+**Inkluderer:**
+- 30-sekunders tilbakestillingsprotokoll
+- Teknikk for tilbakestilling av grep
+- 15-sekunders protokoll før kast
+- Nødpust 4-7-8
+- Påminnelse om ledetrådord
+
+**Best for:** Rask referanse under konkurranse, lomme/bag
+
+[Se hurtigkort for spenning →](/no/guider/maler/hurtigkort for spenning)
+
+---
+
+#### 🍎 [Ernæringsplanlegger for konkurranser](/no/guider/maler/ernæringsplanlegger)
+
+Planlegg hva og når du skal spise for optimal ytelse på konkurransedager.
+
+**Inkluderer:**
+- Mat på konkurransedagen (bra vs. unngå)
+- Tidslinje fra kvelden før til konkurransen
+- Sjekkliste for konkurransematpakke
+- Varseltegn om å spise nå
+- Mal for personlig måltidsplanlegging
+
+**Best for:** Konkurranseforberedelse, unngå blodsukkerfall, stabil energi
+
+[Se Ernæringsplanlegger →](/no/guider/maler/ernæringsplanlegger)
+
+---
+
+### Stiftelsesmaler
+
+#### 📋 [Målmal](/no/guider/maler/målmal)
+
+Strukturert arbeidsark for å sette effektive mål for petanque.
+
+**Inkluderer:**
+- SMART-målrammeverk
+- Kortsiktige og langsiktige måldeler
+- Fremdriftssporing
+- Refleksjonsspørsmål
+
+**Best for:** Sesongplanlegging, turneringsforberedelser, mål for ferdighetsutvikling
+
+[Vis målmal →](/no/guider/maler/målmal)
+
+---
+
+#### 📓 [Mal for dagbok](/no/guider/maler/mal-for-dagbok)
+
+Trening- og konkurransedagbok for å spore reisen din.
+
+**Inkluderer:**
+- Innstilling av intensjon før økten
+- Refleksjon etter økten
+- Konkurransenotater
+- Sporing av mental tilstand
+- Fremdriftsindikatorer
+
+**Best for:** Regelmessig trening, konkurranseanalyse, langsiktig utvikling
+
+[Vis dagbokmal →](/no/guider/maler/dagbokmal)
+
+---
+
+## Slik bruker du disse malene
+
+1. **Last ned** malen som passer dine behov
+2. **Tilpass** den til dine personlige mål og situasjon
+3. **Bruk regelmessig** – verdien kommer fra regelmessig bruk
+4. **Gjennomgå regelmessig** – se etter mønstre og fremgang
+
+::: tip Digitalt eller papir?
+Begge deler fungerer. Noen spillere foretrekker papir for den taktile opplevelsen og for å holde seg unna skjermene. Andre foretrekker digitalt for søkbarhet og bekvemmelighet. Velg hva du faktisk skal bruke.
 :::
 
-## Related Resources
+## Relaterte ressurser
 
-- [Sleep & Recovery Education](/no/education/sleep/) — The science behind sleep
-- [Self-Awareness](/no/education/self-awareness/) — Understanding blind spots
-- [Team Dynamics](/no/education/team-dynamics/) — Build stronger team bonds
-- [Goal Setting Guide](/no/education/motivation/) — Learn the theory behind effective goals
-- [Training Methods](/no/education/technique/training/) — How to structure your practice
+- [Søvn- og restitusjonsopplæring](/no/opplæring/søvn/) — Vitenskapen bak søvn
+- [Selvinnsikt](/no/utdanning/selvinnsikt/) — Forstå blindsoner
+- [Teamdynamikk](/no/utdanning/teamdynamikk/) — Bygg sterkere teambånd
+- [Veiledning for målsetting](/no/utdanning/motivasjon/) — Lær teorien bak effektive mål
+- [Opplæringsmetoder](/no/utdanning/teknikk/opplæring/) — Hvordan strukturere praksisen din
 

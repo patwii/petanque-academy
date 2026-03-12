@@ -153,8 +153,8 @@ graph LR
 
 ## I dette afsnit
 
-- **[Håndtering af pres](/da/education/mental-game/mental-strength/håndtering-af-pres)** - Teknikker til situationer med høje indsatser
-- **[Rutine før skud](/da/education/mental-game/mental-strength/rutine-før-skud)** - Opbygning af din præstationstrigger
+- **[Håndtering af pres](/da/uddannelse/mentalt-spil/mental-styrke/håndtering-af-pres)** - Teknikker til situationer med høj indsats
+- **[Rutine før skud](/da/uddannelse/mentalt-spil/mental-styrke/rutine-før-skud)** - Opbygning af din præstationstrigger
 
 ## Resumé: Regler for mental styrke
 

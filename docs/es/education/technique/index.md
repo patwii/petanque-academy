@@ -57,14 +57,14 @@ Un resultado real se ve así:
 No decimos que nunca debas trabajar el brazo, la muñeca, la liberación ni la posición corporal. **El trabajo técnico de ejecución es absolutamente válido**, pero debe tener el propósito correcto.
 
 ::: info El propósito correcto para el trabajo técnico
-**Propósito correcto:** "Quiero agregar un nuevo lanzamiento a mi repertorio"
+**Propósito correcto:** &quot;Quiero agregar un nuevo diseño a mi paleta&quot;
 
-**Propósito equivocado:** "Quiero acertar más tiros" o "Quiero ser más consistente"
+**Propósito equivocado:** &quot;Quiero hacer más tiros&quot; o &quot;Quiero ser más consistente&quot;
 :::
 
 Aquí está el proceso:
 
-1. **Explora la [Paleta de Lanzamientos](/es/education/technique/throws)** — Identifica qué lanzamiento o técnica quieres agregar a tu repertorio
+1. **Explora la [Paleta de Lanzamientos](/es/educacion/tecnica/lanzamientos)** — Identifica qué lanzamiento o técnica quieres agregar a tu repertorio
 2. **Visualiza el resultado**: ¿Qué debería hacer la bola? ¿Qué trayectoria, aterrizaje, giro y comportamiento necesitas?
 3. **Luego trabaja en la ejecución**: ahora puedes concentrarte en el brazo, la muñeca, la posición del cuerpo y la liberación para lograr ese resultado específico.
 
@@ -119,14 +119,14 @@ Muchos jugadores experimentados pasan años perfeccionando la técnica que ya ti
 ### El camino a seguir
 
 **Para mejores tomas (nuevas capacidades):**
-- Explora la [Paleta de Lanzamientos](/es/técnico/lanzamientos)
+- Explora la [Paleta de Lanzamientos](/es/educacion/tecnica/lanzamientos)
 - Elige un nuevo lanzamiento específico para desarrollar
 - Practica la ejecución técnica
 
 **Para más disparos (consistencia bajo presión):**
-- Trabajar la [Fuerza Mental](/es/education/mental-game/mental-strength/)
-- Aprende a acceder a [La Zona](/es/education/mental-game/the-zone/)
-- Desarrollar [Rutinas Previas al Tiro](/es/education/mental-game/mental-strength/rutina-previa-al-tiro)
+- Trabajar la [Fuerza Mental](/es/educacion/juego-mental/fuerza-mental/)
+- Aprende a acceder a [La Zona](/es/educacion/juego-mental/la-zona/)
+- Desarrollar [Rutinas Previas al Tiro](/es/educacion/juego-mental/fuerza-mental/rutina-previa-al-tiro)
 
 ## Nuestra perspectiva
 
@@ -159,13 +159,13 @@ Si tiene un enfoque técnico y desea ampliar su repertorio, esta sección descri
 
 ## Temas
 
-### [Paleta de Lanzamientos](/es/técnico/lanzamientos)
+### [Paleta de Lanzamientos](/es/educacion/tecnica/lanzamientos)
 ¿Qué lanzamientos hay? Un resumen completo de las posibilidades técnicas en la petanca.
 
 ::: tip Después de la técnica, ¿qué sigue?
 Una vez que tienes una técnica sólida, el verdadero crecimiento proviene de:
-- **[La Zona](/es/education/mental-game/the-zone/)** - Acceso a estados de flujo
-- **[Fuerza mental](/es/education/mental-game/mental-strength/)** - Manejo de la presión
-- **[Métodos de entrenamiento](/es/education/entrenamiento/)** - Cómo practicar eficazmente
+- **[La Zona](/es/educacion/juego-mental/la-zona/)** - Accediendo a estados de flujo
+- **[Fuerza mental](/es/educacion/juego-mental/fuerza-mental/)** - Manejo de la presión
+- **[Métodos de entrenamiento](/es/educacion/técnica/entrenamiento/)** - Cómo practicar eficazmente
 :::
 

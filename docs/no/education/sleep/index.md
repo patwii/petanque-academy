@@ -3,83 +3,83 @@ title: Sleep & Recovery
 description: Optimize your sleep for peak pétanque performance. Learn sleep science, competition protocols, and habits for precision athletes.
 ---
 
-# Sleep & Recovery
+# Søvn og restitusjon
 
-::: tip A Critical Performance Factor
-**Weight: 400 points** — Sleep is the most underrated factor in precision sports. Your hands, decisions, and emotions all depend on quality rest.
+::: tip En kritisk ytelsesfaktor
+**Vekt: 400 poeng** – Søvn er den mest undervurderte faktoren i presisjonssport. Hendene, avgjørelsene og følelsene dine avhenger av god hvile.
 :::
 
-## The Hidden Performance Edge
+## Den skjulte ytelsesfordelen
 
-> "The player who slept better often wins."
+> «Spilleren som sov bedre vinner ofte.»
 
-In pétanque, unlike endurance sports where athletes can sometimes "push through" fatigue, **precision is non-negotiable**. Your ability to place a boule within centimeters of the cochonnet depends on systems that are exquisitely sensitive to sleep deprivation:
+I motsetning til utholdenhetsidretter, hvor utøvere noen ganger kan &quot;presse gjennom&quot; tretthet, er **presisjon ikke til forhandlingspunkt**. Din evne til å plassere en kule innenfor centimeter fra cochonnetten avhenger av systemer som er utsøkt følsomme for søvnmangel:
 
-- Fine motor control
-- Decision-making under pressure
-- Emotional regulation
-- Memory consolidation
+- Finmotorisk kontroll
+- Beslutningstaking under press
+- Emosjonell regulering
+- Minnekonsolidering
 
-This module reveals why sleep may be your biggest untapped competitive advantage.
+Denne modulen avslører hvorfor søvn kan være ditt største uutnyttede konkurransefortrinn.
 
 ---
 
-## How Sleep Affects Your Game
+## Hvordan søvn påvirker spillet ditt
 
-### Hand Steadiness & Motor Control
+### Håndstabilitet og motorisk kontroll
 
-Research shows that fine motor control degrades **10-15% per hour of accumulated sleep debt**. For pétanque players, this manifests as:
+Forskning viser at finmotorikk reduserer **10–15 % av akkumulert søvnmangel per time**. For petanque-spillere manifesterer dette seg som:
 
-- **Increased micro-tremors** — Imperceptible to you, but affecting release consistency
-- **Reduced proprioception** — Less awareness of grip pressure and arm position
-- **Slower error correction** — Your body can't make the micro-adjustments that produce accuracy
+- **Økte mikrotremorer** – Umerkelig for deg, men påvirker frigjøringskonsistensen
+- **Redusert propriosepsjon** — Mindre bevissthet om greptrykk og armposisjon
+- **Saktere feilretting** – Kroppen din klarer ikke å gjøre mikrojusteringene som gir nøyaktighet
 
-::: warning Why Pointing Suffers First
-Pointing requires the finest motor control of any shot. It's often the first skill to degrade when you're under-slept—even when you "feel fine."
+::: warning Hvorfor peking lider først
+Peking krever den beste motorkontrollen av alle skudd. Det er ofte den første ferdigheten som svekkes når du sover for lite – selv når du «føler deg bra».
 :::
 
-### Decision-Making & Tactics
+### Beslutningstaking og taktikk
 
-Your prefrontal cortex—responsible for planning, risk assessment, and strategic thinking—is highly sensitive to sleep loss:
+Din prefrontale cortex – ansvarlig for planlegging, risikovurdering og strategisk tenkning – er svært følsom for søvnmangel:
 
-- **Risk assessment becomes impaired** — You may attempt lower-percentage shots
-- **Tactical flexibility decreases** — Harder to adapt mid-game
-- **The "2am decision" phenomenon** — Choices that seem reasonable when tired look questionable in hindsight
+- **Risikovurderingen blir svekket** – Du kan forsøke doser med lavere prosentandel
+- **Taktisk fleksibilitet avtar** — Vanskeligere å tilpasse seg midt i spillet
+- **Fenomenet «02:00-avgjørelsen» – Valg som virker fornuftige når man er sliten, ser tvilsomme ut i ettertid.**
 
-### Emotional Regulation
+### Emosjonell regulering
 
-Sleep deprivation causes **hyperactivity in the amygdala**, your brain's emotional center:
+Søvnmangel forårsaker **hyperaktivitet i amygdala**, hjernens emosjonelle senter:
 
-- Pressure feels more intense
-- Frustration after misses is amplified
-- Recovery from setbacks takes longer
-- Team dynamics can suffer from shortened tempers
+- Trykket føles mer intenst
+- Frustrasjonen etter bommer forsterkes
+- Restitusjon etter tilbakeslag tar lengre tid
+- Lagdynamikken kan lide av kortvarig lunte
 
-### Memory Consolidation
+### Minnekonsolidering
 
-Motor memory consolidates during sleep—particularly during deep sleep phases:
+Motorhukommelsen konsolideres under søvn – spesielt i dyp søvnfaser:
 
-- **Practice without sleep = limited retention**
-- **"Sleeping on it" actually works** for technique changes
-- The formula: **Quality Practice + Quality Sleep = Permanent Skill**
+- **Øvelse uten søvn = begrenset retensjon**
+- **Å «sove på det» fungerer faktisk** for teknikkendringer
+- Formelen: **Kvalitetspraksis + Kvalitetssøvn = Permanent ferdighet**
 
 ---
 
-## The Sleep-Performance Connection
+## Forbindelsen mellom søvn og ytelse
 
 ```mermaid
 flowchart TD
-    A[Sleep Quality] --> B[Hand Steadiness]
-    A --> C[Decision Making]
-    A --> D[Emotional Control]
-    A --> E[Physical Recovery]
+    A[Søvnkvalitet] --> B[Håndstabilitet]
+    A --> C[Beslutningstaking]
+    A --> D[Emosjonell kontroll]
+    A --> E[Fysisk restitusjon]
 
-    B --> F[Precision]
+    B --> F[Presisjon]
     C --> F
     D --> F
-    E --> G[Consistency Over Time]
+    E --> G[Konsistens over tid]
 
-    F --> H[Match Performance]
+    F --> H[Kampytelse]
     G --> H
 
     style A fill:#9C27B0,color:#fff
@@ -88,109 +88,109 @@ flowchart TD
 
 ---
 
-## The Sleep Debt Reality
+## Søvngjeldens virkelighet
 
-### What Is Sleep Debt?
+### Hva er søvngjeld?
 
-Sleep debt is **cumulative**. Missing one hour of sleep doesn't just affect that day—it accumulates:
+Søvngjeld er **kumulativ**. Å gå glipp av én times søvn påvirker ikke bare den dagen – den akkumuleres:
 
-| Days | Hours Short | Total Debt | Performance Impact |
+| Dager | Timer korte | Total gjeld | Ytelsespåvirkning |
 |------|-------------|------------|-------------------|
-| 1 | -1 hour | 1 hour | Minimal |
-| 3 | -1 hour/day | 3 hours | Noticeable |
-| 7 | -1 hour/day | 7 hours | Significant |
-| 14 | -1 hour/day | 14 hours | Severe |
+| 1 | -1 time | 1 time | Minimal |
+| 3 | -1 time/dag | 3 timer | Merkbar |
+| 7 | -1 time/dag | 7 timer | Betydelig |
+| 14 | -1 time/dag | 14 timer | Alvorlig |
 
-::: danger The Weekend Myth
-You **cannot fully "catch up"** on weekends. While extra sleep helps, it doesn't erase accumulated debt. Consistency is more important than occasional long sleeps.
+::: danger Helgemyten
+Du kan ikke ta igjen det tapte i helgene. Ekstra søvn hjelper, men det sletter ikke oppsamlet gjeld. Konsistens er viktigere enn sporadiske lange søvnpauser.
 :::
 
-### How Much Do You Need?
+### Hvor mye trenger du?
 
-The "8 hours for everyone" is a myth. Individual needs vary:
+«8 timer for alle» er en myte. Individuelle behov varierer:
 
-- **Most adults:** 7-9 hours
-- **Some function well on:** 6-7 hours
-- **Some require:** 9+ hours
+- **De fleste voksne:** 7–9 timer
+- **Noen fungerer bra på:** 6–7 timer
+- **Noen krever:** 9+ timer
 
-**Finding YOUR optimal sleep need:**
-1. During a vacation (no alarm), let yourself sleep naturally for 5-7 days
-2. After the initial "catch-up" phase, note how long you sleep
-3. That's likely close to your biological need
+**Finne DITT optimale søvnbehov:**
+1. I løpet av ferien (uten alarm), la deg selv sove naturlig i 5–7 dager
+2. Etter den første «ta igjen»-fasen, legg merke til hvor lenge du sover
+3. Det er sannsynligvis nært ditt biologiske behov
 
 ---
 
-## The Science in Brief
+## Vitenskapen i korte trekk
 
-### Sleep Stages That Matter
+### Søvnstadier som betyr noe
 
-| Stage | Function | Pétanque Relevance |
+| Scene | Funksjon | Relevans for petanque |
 |-------|----------|-------------------|
-| **Deep Sleep (N3)** | Physical recovery, growth hormone | Muscle recovery, energy restoration |
-| **REM Sleep** | Emotional processing, memory consolidation | Motor skill retention, emotional resilience |
-| **Light Sleep (N1-N2)** | Transition, maintenance | Supports overall architecture |
+| **Dyp søvn (N3)** | Fysisk restitusjon, veksthormon | Muskelgjenoppretting, energigjenoppretting |
+| **REM-søvn** | Emosjonell bearbeiding, minnekonsolidering | Bevaring av motoriske ferdigheter, emosjonell motstandskraft |
+| **Lett søvn (N1–N2)** | Overgang, vedlikehold | Støtter den overordnede arkitekturen |
 
-### Key Research Findings
+### Viktige forskningsfunn
 
-1. **Stanford Basketball Study** — Players who extended sleep to 10 hours improved free-throw accuracy by 9% (Mah et al., 2011)
-2. **Tennis Serve Accuracy** — Sleep restriction reduced serve accuracy by 53% (Reyner & Horne, 2013)
-3. **Reaction Time Meta-Analysis** — Even one night of poor sleep slows reaction time by 300% (Lim & Dinges, 2010)
+1. **Stanford Basketball Study** — Spillere som forlenget søvnen til 10 timer forbedret straffekastpresisjonen med 9 % (Mah et al., 2011)
+2. **Nøyaktighet i tennisserve** — Søvnrestriksjon reduserte servenøyaktigheten med 53 % (Reyner &amp; Horne, 2013)
+3. **Metaanalyse av reaksjonstid** — Selv én natt med dårlig søvn reduserer reaksjonstiden med 300 % (Lim &amp; Dinges, 2010)
 
 ---
 
-## Self-Assessment: Your Sleep Reality
+## Selvvurdering: Din søvnvirkelighet
 
-Rate yourself honestly (1-5):
+Vurder deg selv ærlig (1-5):
 
-| Question | Score |
+| Spørsmål | Poengsum |
 |----------|-------|
-| I get the same amount of sleep most nights | /5 |
-| I fall asleep within 15-20 minutes | /5 |
-| I rarely wake during the night | /5 |
-| I wake feeling refreshed | /5 |
-| I maintain energy throughout the day | /5 |
+| Jeg får like mye søvn de fleste netter | /5 |
+| Jeg sovner i løpet av 15-20 minutter | /5 |
+| Jeg våkner sjelden om natten | /5 |
+| Jeg våkner og føler meg uthvilt | /5 |
+| Jeg opprettholder energien gjennom hele dagen | /5 |
 
-**Scoring:**
-- **20-25:** Excellent sleep habits
-- **15-19:** Good, but room for improvement
-- **10-14:** Sleep is likely affecting your performance
-- **Below 10:** Sleep improvement should be a priority
-
----
-
-## In This Module
-
-### [Competition Sleep Protocols](/no/education/sleep/competition)
-- The week before competition
-- Travel and time zone management
-- Power napping protocols
-- Emergency "I couldn't sleep" strategies
-
-### [Sleep Hygiene for Athletes](/no/education/sleep/habits)
-- The 10 sleep fundamentals
-- Evening routine templates
-- The 30-day sleep challenge
-- Troubleshooting common issues
+**Poengsum:**
+- **20–25:** Utmerkede søvnvaner
+- **15–19:** Bra, men rom for forbedring
+- **10–14:** Søvn påvirker sannsynligvis prestasjonene dine
+- **Under 10:** Søvnforbedring bør prioriteres
 
 ---
 
-## Quick Win: Tonight
+## I denne modulen
 
-If you do nothing else, implement these two changes tonight:
+### [Søvnprotokoller for konkurranser](/no/utdanning/søvn/konkurranse)
+- Uken før konkurransen
+- Reise- og tidssonehåndtering
+- Protokoller for powernapping
+- Nødstrategier for «jeg fikk ikke sove»
 
-1. **Set a consistent wake time** — Same time tomorrow as today, within 30 minutes
-2. **No screens 30 minutes before bed** — Read, stretch, or prepare for tomorrow instead
-
-These two changes alone can improve sleep quality within days.
+### [Søvnhygiene for idrettsutøvere](/no/utdanning/søvn/vaner)
+- De 10 grunnprinsippene for søvn
+- Maler for kveldsrutiner
+- 30-dagers søvnutfordring
+- Feilsøking av vanlige problemer
 
 ---
 
-## Related Factors
+## Rask seier: I kveld
 
-Sleep connects to everything else in your performance:
+Hvis du ikke gjør noe annet, implementer disse to endringene i kveld:
 
-- [Tension Management](/no/education/tension/) — PMR and relaxation techniques aid sleep
-- [Nutrition](/no/education/nutrition/) — Meal timing and blood sugar affect sleep quality
-- [Mental Game](/no/education/mental-game/) — Sleep supports cognitive function and emotional control
-- [Self-Awareness](/no/education/self-awareness/) — Recognizing when fatigue is affecting your game
+1. **Angi en konsistent oppvåkningstid** – Samme tid i morgen som i dag, innen 30 minutter
+2. **Ingen skjermer 30 minutter før leggetid** — Les, strekk deg eller forbered deg til morgendagen i stedet
+
+Disse to endringene alene kan forbedre søvnkvaliteten i løpet av få dager.
+
+---
+
+## Relaterte faktorer
+
+Søvn er knyttet til alt annet i fremføringen din:
+
+- [Spenningsmestring](/no/utdanning/spenning/) — PMR og avslapningsteknikker hjelper søvnen
+- [Ernæring](/no/utdanning/ernæring/) — Måltidspunkt og blodsukker påvirker søvnkvaliteten
+- [Mentalt spill](/no/utdanning/mentalt-spill/) — Søvn støtter kognitiv funksjon og emosjonell kontroll
+- [Selvinnsikt](/no/utdanning/selvinnsikt/) — Å gjenkjenne når tretthet påvirker spillet ditt
 

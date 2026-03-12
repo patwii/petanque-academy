@@ -1,56 +1,56 @@
-# Team Agreement Template
+# Plantilla de acuerdo de equipo
 
-A framework for establishing clear communication, roles, and conflict resolution within your team.
+Un marco para establecer una comunicación clara, roles y resolución de conflictos dentro de su equipo.
 
-::: tip Why a Team Agreement?
-**Great teams don't hope for chemistry—they build it.** A clear agreement prevents misunderstandings and creates a foundation for honest communication.
+::: tip ¿Por qué un acuerdo de equipo?
+**Los grandes equipos no esperan que haya química: la construyen.** Un acuerdo claro evita malentendidos y crea una base para una comunicación honesta.
 :::
 
-## Team Information
+## Información del equipo
 
-**Team name:** ________
-**Members:**
+**Nombre del equipo:** ________
+**Miembros:**
 1. ________ (Role: ________)
 2. ________ (Role: ________)
 3. ________ (Role: ________)
 
-**Agreement date:** ________
-**Review date:** ________ (recommend every 3-6 months)
+**Fecha del acuerdo:** ________
+**Fecha de revisión:** ________ (se recomienda cada 3-6 meses)
 
 ---
 
-## 1. Roles & Responsibilities
+## 1. Funciones y responsabilidades
 
-### Playing Roles
+### Interpretando roles
 
-| Position | Primary Player | Backup | Strengths |
+| Posición | Jugador principal | Respaldo | Fortalezas |
 |----------|---------------|--------|-----------|
-| **Pointer** | | | |
-| **Middle** | | | |
-| **Shooter** | | | |
+| **Puntero** |
+| **Medio** |
+| **Tirador** |
 
-### Off-Field Roles
+### Roles fuera del campo
 
-| Role | Person | Responsibilities |
+| Role | Persona | Responsabilidades |
 |------|--------|------------------|
-| **Captain** (decisions) | | Final call on tactics |
-| **Organizer** (logistics) | | Bookings, schedule, communication |
-| **Motivator** (energy) | | Keep spirits up, positive reinforcement |
+| **Capitán** (decisiones) | Última llamada sobre tácticas |
+| **Organizador** (logística) | Reservas, horarios, comunicación |
+| **Motivador** (energía) | Mantener el ánimo en alto, refuerzo positivo |
 
 ---
 
-## 2. Communication Agreements
+## 2. Acuerdos de comunicación
 
-### During Matches
+### Durante los partidos
 
-**Before each end:**
-- [ ] Brief terrain discussion
-- [ ] Agree on strategy
-- [ ] Confirm who plays first
+**Antes de cada final:**
+- [ ] Breve discusión del terreno
+- [ ] Acordar la estrategia
+- [ ] Confirma quién juega primero
 
-**Hand signals we use:**
+**Señales de mano que usamos:**
 
-| Signal | Meaning |
+| Señal | Significado |
 |--------|---------|
 | | Point close |
 | | Point far |
@@ -58,168 +58,168 @@ A framework for establishing clear communication, roles, and conflict resolution
 | | Wait/discuss |
 | | Your choice |
 
-**After mistakes:**
-- [ ] No blame language ("why did you...")
-- [ ] Supportive response ("unlucky, next one")
-- [ ] Quick reset, move forward
+**Después de los errores:**
+- [ ] Sin lenguaje de culpa (&quot;¿Por qué hiciste...?&quot;)
+- [ ] Respuesta de apoyo (&quot;mala suerte, el siguiente&quot;)
+- [ ] Reinicio rápido, avanza
 
-**We agree NOT to:**
-- [ ] Criticize during play
-- [ ] Show negative body language
-- [ ] Discuss other options after a throw
-- [ ] Blame teammates for losses
-
----
-
-## 3. Decision Making
-
-### Tactical Decisions
-
-**Who decides shot selection?**
-- [ ] Player throwing decides
-- [ ] Captain suggests, player decides
-- [ ] Team discusses briefly
-
-**When we disagree:**
-1. Each person states view briefly (10 sec)
-2. Captain makes final call
-3. Everyone commits 100%
-4. Review after match, not during
-
-### Substitution Decisions
-
-**How we decide who plays:**
-
-**Criteria:**
-- [ ] Form/recent performance
-- [ ] Terrain suitability
-- [ ] Physical condition
-- [ ] Rotation fairness
+**Aceptamos NO:**
+- [ ] Criticar durante el juego
+- [ ] Mostrar lenguaje corporal negativo
+- [ ] Discutir otras opciones después de un lanzamiento
+- [ ] Culpar a los compañeros de equipo por las derrotas
 
 ---
 
-## 4. Training Commitment
+## 3. Toma de decisiones
 
-**Regular training:**
-- Frequency: ________ times per week
-- Duration: ________ hours
-- Location: ________
+### Decisiones tácticas
 
-**Attendance expectations:**
-- [ ] Communicate absences 24h in advance
-- [ ] Miss max _____ sessions per month
-- [ ] Arrive on time / _____ min early
+**¿Quién decide la selección de disparos?**
+- [ ] El jugador que lanza decide
+- [ ] El capitán sugiere, el jugador decide
+- [ ] El equipo discute brevemente
 
-**What we practice:**
-- [ ] Individual skills
-- [ ] Team tactics
-- [ ] Pressure situations
-- [ ] Competition simulation
+**Cuando no estamos de acuerdo:**
+1. Cada persona expresa su opinión brevemente (10 segundos)
+2. El capitán toma la decisión final
+3. Todos se comprometen al 100%
+4. Revisión después del partido, no durante
+
+### Decisiones de sustitución
+
+**Cómo decidimos quién juega:**
+
+**Criterios:**
+- [ ] Forma/rendimiento reciente
+- [ ] Adecuación del terreno
+- [ ] condición física
+- [ ] Equidad en la rotación
 
 ---
 
-## 5. Competition Commitments
+## 4. Compromiso de formación
 
-**Tournaments we commit to:**
+**Entrenamiento regular:**
+- Frecuencia: ________ veces por semana
+- Duración: ________ horas
+- Ubicación: ________
+
+**Expectativas de asistencia:**
+- [ ] Comunicar ausencias con 24h de antelación
+- [ ] Pierdo un máximo de _____ sesiones por mes
+- [ ] Llegar a tiempo / _____ min antes
+
+**Lo que practicamos:**
+- [ ] Habilidades individuales
+- [ ] Tácticas de equipo
+- [ ] Situaciones de presión
+- [ ] Simulación de competición
+
+---
+
+## 5. Compromisos de competencia
+
+**Torneos a los que nos comprometemos:**
 1. ________
 2. ________
 3. ________
 
-**Pre-competition:**
-- [ ] Confirm availability 1 week before
-- [ ] Arrive _____ min before first match
-- [ ] Warm up together
+**Pre-competición:**
+- [ ] Confirmar disponibilidad 1 semana antes
+- [ ] Llegar _____ min antes del primer partido
+- [ ] Calentamos juntos
 
-**Post-competition:**
-- [ ] Brief debrief (win or lose)
-- [ ] Celebrate efforts
-- [ ] Save detailed analysis for training
-
----
-
-## 6. Conflict Resolution
-
-### When Tensions Arise
-
-**Step 1: Cool down**
-- Don't address conflict during/immediately after match
-- Wait minimum 24 hours if emotions high
-
-**Step 2: Direct conversation**
-- Person with issue approaches the other directly
-- Use "I" statements ("I felt..." not "You always...")
-- Listen without defending
-
-**Step 3: Mediation (if needed)**
-- Third team member facilitates
-- Each person shares perspective
-- Find solution together
-
-**Step 4: Team meeting (if unresolved)**
-- All members present
-- Structured discussion
-- Agree on path forward
-
-### We Commit To:
-- [ ] Address issues, not let them fester
-- [ ] Assume good intentions
-- [ ] Prioritize team over ego
-- [ ] Keep disagreements private (not to others)
+**Post-competición:**
+- [ ] Breve informe (gane o pierda)
+- [ ] Celebrar los esfuerzos
+- [ ] Guardar análisis detallado para entrenamiento
 
 ---
 
-## 7. Feedback Culture
+## 6. Resolución de conflictos
 
-**How we give feedback:**
-- [ ] Specific and actionable
-- [ ] Balance positive and developmental
-- [ ] In private (not in front of others)
-- [ ] Regular (not just when problems)
+### Cuando surgen tensiones
 
-**Feedback schedule:**
-- [ ] Brief check-in after each tournament
-- [ ] Deeper feedback session every _____ weeks
-- [ ] Annual team review
+**Paso 1: Enfriamiento**
+- No aborde el conflicto durante o inmediatamente después del partido
+- Espere un mínimo de 24 horas si las emociones son fuertes.
 
----
+**Paso 2: Conversación directa**
+- La persona con el problema se acerca directamente a la otra.
+- Utilice declaraciones en primera persona (&quot;Yo sentí...&quot; no &quot;Tú siempre...&quot;)
+- Escuchar sin defender
 
-## 8. Fun & Connection
+**Paso 3: Mediación (si es necesario)**
+- El tercer miembro del equipo facilita
+- Cada persona comparte su perspectiva
+- Encuentren una solución juntos
 
-**We agree to:**
-- [ ] Celebrate wins together
-- [ ] Support each other in losses
-- [ ] Social activity every _____ months
-- [ ] Remember why we play: ________
+**Paso 4: Reunión de equipo (si no se resuelve)**
+- Todos los miembros presentes
+- Discusión estructurada
+- Acordar el camino a seguir
 
----
-
-## Signatures
-
-By signing, we commit to this agreement and to revisiting it when needed.
-
-**Name:** ________ **Signature:** ________ **Date:** ________
-
-**Name:** ________ **Signature:** ________ **Date:** ________
-
-**Name:** ________ **Signature:** ________ **Date:** ________
+### Nos comprometemos a:
+- [ ] Abordar los problemas, no dejar que se agraven
+- [ ] Suponga que hay buenas intenciones
+- [ ] Priorizar al equipo sobre el ego
+- [ ] Mantenga los desacuerdos en privado (no ante los demás)
 
 ---
 
-## Review Notes
+## 7. Cultura de retroalimentación
 
-**Review date:** ________
+**Cómo damos retroalimentación:**
+- [ ] Específico y procesable
+- [ ] Equilibrio positivo y desarrollo
+- [ ] En privado (no delante de otros)
+- [ ] Regular (no solo cuando hay problemas)
 
-**What's working:**
-
-**What needs adjustment:**
-
-**Updated agreements:**
+**Programa de retroalimentación:**
+- [ ] Breve registro después de cada torneo
+- [ ] Sesión de retroalimentación más profunda cada _____ semanas
+- [ ] Revisión anual del equipo
 
 ---
 
-## Related Resources
+## 8. Diversión y conexión
 
-- [Team Dynamics Education](/es/education/team-dynamics/) — Build stronger team bonds
-- [Peer Feedback Template](/es/guides/templates/peer-feedback) — Structured feedback tools
-- [Training Session Guide](/es/guides/training-session/) — Practice together effectively
+**Aceptamos:**
+- [ ] Celebremos las victorias juntos
+- [ ] Apoyarnos mutuamente en las pérdidas
+- [ ] Actividad social cada _____ meses
+- [ ] Recuerda por qué jugamos: ________
+
+---
+
+## Firmas
+
+Al firmar, nos comprometemos a respetar este acuerdo y a revisarlo cuando sea necesario.
+
+**Nombre:** ________ **Firma:** ________ **Fecha:** ________
+
+**Nombre:** ________ **Firma:** ________ **Fecha:** ________
+
+**Nombre:** ________ **Firma:** ________ **Fecha:** ________
+
+---
+
+## Notas de revisión
+
+**Fecha de revisión:** ________
+
+**Qué está funcionando:**
+
+**Qué necesita ajuste:**
+
+**Acuerdos actualizados:**
+
+---
+
+## Recursos relacionados
+
+- [Educación en dinámica de equipo](/es/educacion/dinamica-de-equipo/) — Fortalezca los vínculos de equipo
+- [Plantilla de retroalimentación entre pares](/es/guides/templates/peer-feedback) — Herramientas de retroalimentación estructurada
+- [Guía de la sesión de capacitación](/es/guides/training-session/) — Practiquen juntos de manera efectiva
 

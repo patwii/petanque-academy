@@ -3,154 +3,154 @@ title: Building Pre-Shot Routines
 description: Develop a consistent pre-shot routine that anchors your focus, manages pressure, and creates the conditions for peak performance in pétanque.
 ---
 
-# Building Pre-Shot Routines
+# Bygga rutiner före tagning
 
-> "The difference between a good throw and a great throw often happens before the boule leaves your hand."
+> &quot;Skillnaden mellan ett bra kast och ett fantastiskt kast sker ofta innan klotet lämnar din hand.&quot;
 
-A well-designed pre-shot routine is your anchor in the storm of competition — a reliable sequence that prepares your mind and body for optimal performance.
+En väl utformad träningsrutin före träningen är ditt ankare i tävlingsstormen – en pålitlig sekvens som förbereder ditt sinne och din kropp för optimal prestation.
 
-::: tip Your Competitive Advantage
-**A consistent routine creates consistent results.** It's the one thing you can control completely, regardless of pressure or circumstances.
+::: tip Din konkurrensfördel
+**En konsekvent rutin skapar konsekventa resultat.** Det är det enda du kan kontrollera helt och hållet, oavsett press eller omständigheter.
 :::
 
 ---
 
-## Why Pre-Shot Routines Matter
+## Varför rutiner före skotttagning är viktiga
 
-Elite athletes across all sports use pre-shot routines. In pétanque, where each throw is discrete and pressure can build between shots, routines serve multiple purposes:
+Elitidrottare inom alla sporter använder rutiner före skottet. I boule, där varje kast är diskret och tryck kan byggas upp mellan slagen, tjänar rutinerna flera syften:
 
-| Purpose | How It Helps |
+| Ändamål | Hur det hjälper |
 |---------|--------------|
-| **Consistency** | Same preparation → more consistent execution |
-| **Focus** | Constructive task instead of worrying |
-| **Transition** | Shift from thinking to doing |
-| **Pressure management** | Familiar actions calm nervous system |
-| **Reset** | Clears previous shot from mind |
+| **Konsistens** | Samma förberedelse → mer konsekvent utförande |
+| **Fokus** | Konstruktiv uppgift istället för oro |
+| **Övergång** | Skift från tänkande till handling |
+| **Tryckhantering** | Välbekanta handlingar lugnar nervsystemet |
+| **Återställa** | Tar bort föregående skott från minnet |
 
 ---
 
-## Anatomy of an Effective Routine
+## Anatomin av en effektiv rutin
 
 ```mermaid
 flowchart LR
-    A[Phase 1<br/>ASSESS<br/>5-10 sec] --> B[Phase 2<br/>PREPARE<br/>5-10 sec]
-    B --> C[Phase 3<br/>EXECUTE<br/>3-5 sec]
+    A[Fas 1 <br/> BEDÖM <br/> 5–10 sekunder] --> B[Fas 2 <br/> FÖRBEREDA <br/> 5–10 sekunder]
+    B --> C[Fas 3 <br/> UTFÖRA <br/> 3–5 sekunder]
 
     style A fill:#2196F3,color:#fff
     style B fill:#FF9800,color:#fff
     style C fill:#4CAF50,color:#fff
 ```
 
-### Phase 1: Assessment (5-10 seconds)
-- Read the terrain
-- Visualize the intended result
-- Choose your throw type
-- Commit to the decision
+### Fas 1: Bedömning (5–10 sekunder)
+- Läs terrängen
+- Visualisera det avsedda resultatet
+- Välj din kasttyp
+- Håll fast vid beslutet
 
-### Phase 2: Preparation (5-10 seconds)
-- Take your position
-- Find your grip
-- Settle your breathing
-- Feel the weight of the boule
+### Fas 2: Förberedelse (5–10 sekunder)
+- Ta din position
+- Hitta ditt grepp
+- Få lugn i din andning
+- Känn boulens tyngd
 
-### Phase 3: Execution (3-5 seconds)
-- Final focus on target
-- Trust your body
-- Release without thought
-- Follow through naturally
+### Fas 3: Utförande (3–5 sekunder)
+- Slutfokus på målet
+- Lita på din kropp
+- Släpp lös utan tanke
+- Följ upp naturligt
 
-## Building Your Personal Routine
+## Bygga din personliga rutin
 
-### Step 1: Observe Your Current Patterns
+### Steg 1: Observera dina nuvarande mönster
 
-Before creating a new routine, notice what you already do:
-- What do you do before successful throws?
-- What changes when you're under pressure?
-- What feels natural to you?
+Innan du skapar en ny rutin, lägg märke till vad du redan gör:
+- Vad gör man innan man lyckar kastar?
+- Vad förändras när man är under press?
+- Vad känns naturligt för dig?
 
-### Step 2: Design Your Sequence
+### Steg 2: Designa din sekvens
 
-Create a routine that includes:
+Skapa en rutin som inkluderar:
 
-**Physical elements:**
-- How you approach the circle
-- How you pick up and hold the boule
-- Your stance and positioning
-- A specific breathing pattern
+**Fysiska element:**
+- Hur du närmar dig cirkeln
+- Hur du plockar upp och håller klotet
+- Din hållning och positionering
+- Ett specifikt andningsmönster
 
-**Mental elements:**
-- A visualization of the result
-- A focus word or phrase
-- A commitment point (the moment you decide "this is the throw")
+**Mentala element:**
+- En visualisering av resultatet
+- Ett fokusord eller en fokusfras
+- En bindningspunkt (det ögonblick du bestämmer dig för att &quot;detta är kastet&quot;)
 
-### Step 3: Keep It Simple
+### Steg 3: Håll det enkelt
 
-Your routine should be:
-- **Short enough** to maintain under pressure (15-25 seconds total)
-- **Simple enough** to remember when stressed
-- **Flexible enough** to adapt to different situations
+Din rutin bör vara:
+- **Tillräckligt kort** för att bibehålla trycket (totalt 15–25 sekunder)
+- **Tillräckligt enkelt** att komma ihåg när man är stressad
+- **Flexibel nog** för att anpassa sig till olika situationer
 
-## Example Routines
+## Exempelrutiner
 
-### The Pointer's Routine
-1. Stand behind the circle, assess the terrain
-2. Visualize the boule's path and landing spot
-3. Step into the circle, find your stance
-4. Three slow breaths while feeling the boule
-5. Eyes on the target, release
+### Pekarens rutin
+1. Stå bakom cirkeln och bedöm terrängen
+2. Visualisera boulens bana och landningsplats
+3. Gå in i cirkeln, hitta din ställning
+4. Tre långsamma andetag medan du känner på boule
+5. Ögonen på målet, släpp
 
-### The Shooter's Routine
-1. Identify the target boule, choose the angle
-2. Visualize the impact and result
-3. Enter the circle with purpose
-4. One deep breath, feel the weight
-5. Lock eyes on target, execute
+### Skyttens rutin
+1. Identifiera målklotet, välj vinkel
+2. Visualisera effekten och resultatet
+3. Gå in i cirkeln med ett syfte
+4. Ett djupt andetag, känn tyngden
+5. Håll blicken fäst vid målet, utför
 
-## Common Mistakes to Avoid
+## Vanliga misstag att undvika
 
-### Too Long
-If your routine takes more than 30 seconds, you're overthinking. Long routines give anxiety more time to build.
+### För lång
+Om din rutin tar mer än 30 sekunder övertänker du. Långa rutiner ger ångesten mer tid att byggas upp.
 
-### Too Rigid
-If any interruption destroys your routine, it's too fragile. Build in flexibility — if something breaks your concentration, have a reset trigger.
+### För stel
+Om något avbrott förstör din rutin är den för skör. Bygg in flexibilitet – om något bryter din koncentration, ha en återställningsfunktion.
 
-### Skipping Under Pressure
-The routine matters most when pressure is highest. If you abandon it when stressed, you lose its protective benefits.
+### Hoppa över under press
+Rutinen är viktigast när pressen är som högst. Om du överger den när du är stressad förlorar du dess skyddande fördelar.
 
-### Focusing on Mechanics
-Your routine should end with focus on the result, not on technique. "Hit the target" not "keep your elbow straight."
+### Fokus på mekanik
+Din rutin bör avslutas med fokus på resultatet, inte på tekniken. &quot;Träffa målet&quot; inte &quot;håll armbågen rak&quot;.
 
-## Practicing Your Routine
+## Öva din rutin
 
-### In Training
-- Use your full routine for every throw, even casual ones
-- Time yourself to ensure consistency
-- Practice with distractions to build resilience
+### I utbildning
+- Använd din fulla rutin för varje kast, även tillfälliga
+- Ta tid på dig själv för att säkerställa konsekvens
+- Öva med distraktioner för att bygga motståndskraft
 
-### Building Automaticity
-The goal is for your routine to become automatic — something you do without thinking. This takes repetition:
-- 100+ throws with the same routine
-- Consistent use across different situations
-- Gradual exposure to pressure while maintaining the routine
+### Byggnadsautomatik
+Målet är att din rutin ska bli automatisk – något du gör utan att tänka. Detta kräver upprepning:
+- 100+ kast med samma rutin
+- Konsekvent användning i olika situationer
+- Gradvis exponering för tryck samtidigt som rutinen bibehålls
 
-## Adapting to Competition
+## Anpassning till konkurrens
 
-In matches, your routine may need slight adjustments:
+I matcher kan din rutin behöva små justeringar:
 
-- **Time pressure**: Have a shortened version ready
-- **Weather conditions**: Adjust physical elements as needed
-- **High pressure moments**: Slow down slightly, don't speed up
+- **Tidspress**: Ha en förkortad version redo
+- **Väderförhållanden**: Justera fysiska element efter behov
+- **Högtrycksögonblick**: Sakta ner något, öka inte farten
 
-## The Reset Routine
+## Återställningsrutinen
 
-Equally important is what you do after a throw:
+Lika viktigt är vad du gör efter ett kast:
 
-1. **Accept the result** — good or bad, it's done
-2. **Physical reset** — step back, shake out tension
-3. **Mental reset** — clear the throw from your mind
-4. **Prepare for next** — shift focus to what's coming
+1. **Acceptera resultatet** — bra eller dåligt, det är klart
+2. **Fysisk återställning** — ta ett steg tillbaka, skaka ut spänningar
+3. **Mental återställning** — rensa kastet från ditt sinne
+4. **Förbered dig för nästa** — flytta fokus till vad som komma skall
 
 ---
 
-*Related: [Pre-Shot Routine Guide](/sv/education/mental-game/mental-strength/pre-shot-routine) | [Handling Pressure](/sv/education/mental-game/mental-strength/handling-pressure) | [Mindfulness Techniques](/sv/education/mental-game/mindfulness/techniques)*
+| *Relaterat: [Guide till rutiner före skott](/sv/utbildning/mentalt spel/mental styrka/rutin-före-skott) | [Hantera press](/sv/utbildning/mentalt-spel/mental-styrka/hantera-press) | [Mindfulnesstekniker](/sv/utbildning/mentalt spel/mindfulness/tekniker)* |
 

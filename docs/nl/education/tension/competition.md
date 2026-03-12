@@ -3,240 +3,240 @@ title: Managing Tension in Competition
 description: Pre-match preparation, during-match protocols, and emergency recovery techniques for competition tension.
 ---
 
-# Managing Tension in Competition
+# Het beheersen van spanning in een competitieve omgeving.
 
-Competition creates tension. This page provides protocols for managing tension before, during, and after high-pressure situations.
+Concurrentie creëert spanning. Deze pagina biedt protocollen voor het beheersen van spanning vóór, tijdens en na stressvolle situaties.
 
 ---
 
-## Pre-Match Preparation
+## Voorbereiding op de wedstrijd
 
-### The Night Before
+### De avond ervoor
 
-Tension often begins before you arrive at the terrain:
+De spanning begint vaak al voordat je het terrein bereikt:
 
-| Time | Action |
+| Tijd | Actie |
 |------|--------|
-| **Evening** | Light meal, familiar routine |
-| **Before bed** | Brief PMR or relaxation (10 min) |
-| **If anxious** | Write concerns on paper (brain dump) |
-| **Sleep environment** | Cool, dark, quiet |
+| **Avond** | Lichte maaltijd, vertrouwde routine |
+| **Voor het slapengaan** | Korte PMR- of ontspanningsoefening (10 min) |
+| **Als u angstig bent** | Schrijf je zorgen op papier (brain dump). |
+| **Slaapomgeving** | Koel, donker, stil |
 
-### Morning of Competition
+### Ochtend van de wedstrijd
 
-| Time Before Match | Action |
+| Tijd vóór de wedstrijd | Actie |
 |-------------------|--------|
-| **Wake** | Normal time, don't oversleep |
-| **First hour** | Normal routine, avoid checking phone obsessively |
-| **Breakfast** | Familiar foods, adequate but not heavy |
-| **Pre-departure** | Brief PMR or abbreviated relaxation |
+| **Wakker worden** | Houd je aan de normale tijd, verslaap je niet. |
+| **Eerste uur** | Normale routine, vermijd dwangmatig je telefoon te controleren. |
+| **Ontbijt** | Bekende gerechten, voldoende maar niet te zwaar. |
+| **Voor vertrek** | Korte PMR of verkorte ontspanning |
 
-### Arrival at Venue
+### Aankomst op de locatie
 
-**The 20-Minute Protocol:**
+**Het 20-minutenprotocol:**
 
-1. **Minutes 1-5:** Arrive, assess environment, locate facilities
-2. **Minutes 6-10:** Light movement, walk around, gentle stretching
-3. **Minutes 11-15:** Find quiet spot, breathing exercises
-4. **Minutes 16-20:** Warm-up throws, gradually increasing focus
+1. **Minuten 1-5:** Aankomst, omgeving beoordelen, faciliteiten lokaliseren
+2. **Minuten 6-10:** Lichte beweging, rondlopen, rustige rek- en strekoefeningen
+3. **Minuten 11-15:** Zoek een rustige plek, doe ademhalingsoefeningen
+4. **Minuten 16-20:** Opwarmworpen, waarbij de focus geleidelijk wordt opgevoerd
 
 ---
 
-## During Match Protocols
+## Tijdens wedstrijdprotocollen
 
-### Between Points
+### Tussen punten
 
-**The 30-Second Reset:**
+**De reset van 30 seconden:**
 
-1. **Step away** from the action (physically if possible)
-2. **Shoulder drop** — Quick tension release
-3. **One deep breath** — Full exhale emphasis
-4. **Refocus** — "What's next?" not "What happened?"
+1. **Neem afstand** van de actie (zo mogelijk fysiek).
+2. **Schouder laten zakken** — Snelle spanningsontspanning
+3. **Eén diepe ademhaling** — Volledige uitademing met nadruk
+4. **Heroriënteer je** — &quot;Wat is de volgende stap?&quot; in plaats van &quot;Wat is er gebeurd?&quot;
 
-### Between Ends
+### Tussen de uiteinden
 
-**The 60-Second Protocol:**
+**Het 60-secondenprotocol:**
 
-Use breaks between ends to reset completely:
+Gebruik spaties tussen de uiteinden om volledig te resetten:
 
-1. **Physical reset** (20 sec)
-   - Walk to your area
-   - Shake out hands
-   - Roll shoulders
+1. **Fysieke reset** (20 sec)
+   - Loop naar uw gebied
+   - Schud je handen uit
+   - Rol je schouders
 
-2. **Mental reset** (20 sec)
-   - Leave the last end behind
-   - Focus on "new game starts now"
+2. **Mentale reset** (20 sec)
+   - Laat het laatste einde achter.
+   - Focus op &quot;het nieuwe spel begint nu&quot;.
 
-3. **Preparation** (20 sec)
-   - Consider position for next end
-   - Visualize your first throw
+3. **Voorbereiding** (20 sec)
+   - Overweeg de positie voor het volgende einde.
+   - Stel je eerste worp voor.
 
-### Before Crucial Throws
+### Voor cruciale worpen
 
-When the stakes are high:
+Wanneer er veel op het spel staat:
 
-1. **Acknowledge** the pressure (don't pretend it's not there)
-2. **Body scan** — Find and release tension
-3. **Grip check** — Tense-release-optimal
-4. **Breath** — Full cycle, slow exhale
-5. **Routine** — Execute your standard pre-shot routine
-6. **Cue word** — Your personal trigger for "release"
+1. **Erken** de druk (doe niet alsof die er niet is)
+2. **Lichaamsscan** — Spanning opsporen en loslaten
+3. **Gripcontrole** — Optimaal voor spanningsontspanning
+4. **Ademhaling** — Volledige cyclus, langzame uitademing
+5. **Routine** — Voer je standaard voorbereidingsroutine uit.
+6. **Trefwoord** — Jouw persoonlijke trigger voor &quot;ontspanning&quot;
 
-::: tip Trust Your Routine
-Under pressure, your routine is your anchor. Don't change it—rely on it.
+::: tip Vertrouw op je routine
+Onder druk is je routine je houvast. Verander er niets aan, maar vertrouw erop.
 :::
 
 ---
 
-## Recognizing Arousal Levels
+## Het herkennen van opwindingsniveaus
 
-### Signs You're Over-Aroused
+### Tekenen dat je overmatig opgewonden bent
 
-| Physical | Mental |
+| Fysiek | Mentaal |
 |----------|--------|
-| Tight grip | Racing thoughts |
-| Raised shoulders | Focus on outcome |
-| Shallow breathing | Negative self-talk |
-| Rushed movements | Worry about mistakes |
-| Restless, fidgety | Difficulty deciding |
+| Stevige greep | Razende gedachten |
+| Opgetrokken schouders | Focus op het resultaat |
+| Oppervlakkige ademhaling | Negatieve zelfpraat |
+| Gehaaste bewegingen | Zorgen maken over fouten |
+| Rusteloos, onrustig | Moeite met beslissen |
 
-**Action:** Use calming techniques (4-7-8 breathing, shoulder drops)
+**Actie:** Gebruik kalmerende technieken (4-7-8 ademhaling, schouders laten zakken)
 
-### Signs You're Under-Aroused
+### Tekenen dat je onvoldoende opgewonden bent
 
-| Physical | Mental |
+| Fysiek | Mentaal |
 |----------|--------|
-| Sluggish movement | Difficulty focusing |
-| Low energy | Going through motions |
-| Careless setup | Not engaged |
-| Loose attention | Mind wandering |
+| Trage beweging | Moeite met concentreren |
+| Laag energieverbruik | De handelingen uitvoeren |
+| Slordige installatie | Niet betrokken |
+| Verlies van aandacht | Gedachten dwalen af |
 
-**Action:** Use activation techniques (quick movements, energizing self-talk, physical shake-out)
+**Actie:** Gebruik activeringstechnieken (snelle bewegingen, stimulerende zelfspraak, fysieke ontspanningsoefeningen)
 
 ---
 
-## Emergency Protocols
+## Noodprotocollen
 
-### "I'm Too Tense"
+### &quot;Ik ben te gespannen&quot;
 
-When tension is affecting your performance:
+Wanneer spanning je prestaties beïnvloedt:
 
-**The 60-Second Emergency Reset:**
+**De noodreset van 60 seconden:**
 
-1. **Step away** from immediate situation
-2. **Ground yourself** — Feel feet on ground
-3. **Forceful exhale** — Push air out completely
-4. **Shoulder drop** — Exaggerated raise and drop
-5. **Shake hands** — Loose, 10 seconds
-6. **Slow breath** — 4-7-8 pattern once
-7. **Return** with single focus word
+1. **Neem afstand** van de directe situatie.
+2. **Aard jezelf** — Voel je voeten op de grond
+3. **Krachtig uitademen** — Duw de lucht volledig naar buiten.
+4. **Schouder laten zakken** — Overdreven heffen en laten zakken van de schouders
+5. **Handen schudden** — Losjes, 10 seconden
+6. **Langzame ademhaling** — 4-7-8 patroon één keer
+7. **Terugkeer** met één focuswoord
 
-### "I Can't Stop Thinking About Mistakes"
+### &quot;Ik kan maar niet ophouden met denken aan fouten&quot;
 
-Post-mistake mental spiral:
+Mentale neerwaartse spiraal na een fout:
 
-1. **Acknowledge:** "That happened"
-2. **Accept:** "It's done, can't change it"
-3. **Analyze briefly:** "What's the lesson?" (3 seconds max)
-4. **Act:** "What's my next action?"
+1. **Bevestig:** &quot;Dat is gebeurd&quot;
+2. **Accepteren:** &quot;Het is gedaan, ik kan het niet meer veranderen&quot;
+3. **Korte analyse:** &quot;Wat is de les?&quot; (max. 3 seconden)
+4. **Actie:** &quot;Wat is mijn volgende actie?&quot;
 
-::: warning Don't Suppress
-Trying to "not think about it" increases thoughts. Acknowledge, then redirect.
+::: warning Niet onderdrukken
+Proberen er &quot;niet aan te denken&quot; vergroot juist de gedachten. Erken het, en stuur het vervolgens bij.
 :::
 
-### "I'm Choking"
+### &quot;Ik stik&quot;
 
-When performance has clearly degraded:
+Wanneer de prestaties duidelijk zijn verslechterd:
 
-1. **Call a timeout** if available (water, bathroom)
-2. **Physical first** — Walk, breathe, move
-3. **Slow everything down** — Deliberately move at 70% speed
-4. **Simplify** — Don't try to be brilliant, just execute basics
-5. **One throw at a time** — Forget the score, focus on this single action
-
----
-
-## Score-Specific Tension
-
-### When Winning
-
-Tension can increase when protecting a lead:
-
-- **Risk:** Becoming conservative, tight, "not to lose" mindset
-- **Strategy:** Keep playing your game, don't change what's working
-- **Self-talk:** "Execute the process" not "Protect the lead"
-
-### When Losing
-
-Desperation creates different tension:
-
-- **Risk:** Forcing, taking low-percentage shots, rushing
-- **Strategy:** Accept the deficit, focus on winning THIS point
-- **Self-talk:** "One point at a time" not "I need to catch up"
-
-### Close Games
-
-Maximum tension situations:
-
-- **Risk:** Over-thinking every decision, paralysis
-- **Strategy:** Trust your training, commit fully to choices
-- **Self-talk:** "I've prepared for this" not "This is so important"
+1. **Neem een pauze** indien mogelijk (water, toilet).
+2. **Eerst fysiek** — Lopen, ademen, bewegen
+3. **Doe alles langzamer** — Beweeg bewust op 70% snelheid.
+4. **Vereenvoudig** — Probeer niet briljant te zijn, voer gewoon de basisprincipes uit.
+5. **Eén worp tegelijk** — Vergeet de score, concentreer je op deze ene actie.
 
 ---
 
-## Post-Match Tension Management
+## Scorespecifieke spanning
 
-Win or lose, process the match properly:
+### Bij het winnen
 
-### Immediately After
+De spanning kan toenemen bij het beschermen van een draad:
 
-1. **Hydrate** — Physical reset
-2. **Brief acknowledgment** — Win: appreciate, Loss: accept
-3. **Avoid analysis** — Too soon for objective review
+- **Risico:** Een conservatieve, terughoudende en &quot;niet verliezen&quot;-mentaliteit ontwikkelen.
+- **Strategie:** Blijf je spel spelen, verander niets aan wat werkt.
+- **Zelfspraak:** &quot;Voer het proces uit&quot; in plaats van &quot;Bescherm de lead&quot;
 
-### 30-60 Minutes After
+### Bij verlies
 
-1. **Light movement** — Walk, stretch
-2. **Social connection** — Talk about something other than the match
-3. **Eat** — Restore energy
+Wanhoop creëert een andere vorm van spanning:
 
-### Later That Day
+- **Risico:** Geforceerd spelen, schoten met een lage slagingskans nemen, overhaast te werk gaan
+- **Strategie:** Accepteer de achterstand en concentreer je op het winnen van DIT punt.
+- **Zelfspraak:** &quot;Eén punt tegelijk&quot; in plaats van &quot;Ik moet een inhaalslag maken&quot;
 
-1. **Brief review** — What went well? What to improve?
-2. **Write it down** — Capture insights
-3. **Let it go** — It's done
+### Spannende wedstrijden
 
----
+Situaties met maximale spanning:
 
-## Building Competition Resilience
-
-Tension management improves with practice:
-
-### Training Simulation
-
-- Practice under artificial pressure
-- Create consequences in training
-- Simulate competition scenarios
-
-### Gradual Exposure
-
-- Start with low-stakes competitions
-- Build up to higher pressure
-- Learn your patterns in real situations
-
-### Post-Competition Learning
-
-- Review what triggered tension
-- Note what helped manage it
-- Refine your protocols
+- **Risico:** Te veel nadenken over elke beslissing, besluiteloosheid
+- **Strategie:** Vertrouw op je training en zet je volledig in voor je keuzes.
+- **Zelfspraak:** &quot;Ik heb me hierop voorbereid&quot; in plaats van &quot;Dit is zo belangrijk&quot;
 
 ---
 
-## Related Content
+## Omgaan met spanning na de wedstrijd
 
-- [Understanding Tension](/nl/education/tension/) — The science of tension
-- [Tension Release Techniques](/nl/education/tension/techniques) — PMR and breathing
-- [Mental Strength](/nl/education/mental-game/mental-strength/) — Handling pressure
-- [Pre-Shot Routine](/nl/education/mental-game/mental-strength/pre-shot-routine) — Consistent execution
+Win of verlies, verwerk de wedstrijd op de juiste manier:
+
+### Onmiddellijk daarna
+
+1. **Hydrateren** — Fysieke reset
+2. **Korte dankbetuiging** — Winst: waarderen, Verlies: accepteren
+3. **Vermijd analyse** — Het is nog te vroeg voor een objectieve beoordeling.
+
+### 30-60 minuten daarna
+
+1. **Lichte beweging** — Wandelen, rekken
+2. **Sociale verbinding** — Praat over iets anders dan de wedstrijd.
+3. **Eten** — Herstel je energieniveau
+
+### Later die dag
+
+1. **Korte terugblik** — Wat ging goed? Wat kan er verbeterd worden?
+2. **Schrijf het op** — Leg inzichten vast
+3. **Laat het los** — Het is voorbij
+
+---
+
+## Het opbouwen van concurrentiebestendigheid
+
+Het beheersen van spanning verbetert met oefening:
+
+### Trainingssimulatie
+
+- Oefenen onder kunstmatige druk
+- Creëer consequenties in de training.
+- Simuleer wedstrijdscenario&#39;s
+
+### Geleidelijke blootstelling
+
+- Begin met wedstrijden met een lage inzet.
+- De druk geleidelijk opvoeren
+- Leer je patronen herkennen in echte situaties.
+
+### Leren na de wedstrijd
+
+- Ga na wat de spanning heeft veroorzaakt.
+- Noteer wat je geholpen heeft om het onder controle te krijgen.
+- Verfijn uw protocollen
+
+---
+
+## Gerelateerde inhoud
+
+- [Spanning begrijpen](/en/education/tension/) — De wetenschap van spanning
+- [Technieken voor spanningsontspanning](/en/education/tension/techiques) — PMR en ademhaling
+- [Mentale kracht](/en/education/mental-game/mental-strength/) — Omgaan met druk
+- [Voorbereidende training](/en/education/mental-game/mental-strength/pre-shot-routine) — Consistente uitvoering
 

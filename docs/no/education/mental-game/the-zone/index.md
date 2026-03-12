@@ -115,8 +115,8 @@ Løsningen er ikke å tenke *mindre* – det er å tenke på de **riktige tingen
 
 Lær hvordan du mestrer sonen:
 
-- **[Teknisk vs. flyttrening](/no/education/mental-game/the-zone/teknisk-vs. flyt)** - Forstå når man skal fokusere på teknikk og når man skal gi slipp
-- **[Å gå inn i sonen](/no/education/mental-game/the-zone/å-gå-inn-i-sonen)** - Praktiske teknikker for å få tilgang til flyttilstand
+- **[Teknisk vs. flyttrening](/no/utdanning/mentalt-spill/sonen/teknisk-vs. flyt)** - Forstå når man skal fokusere på teknikk og når man skal gi slipp
+- **[Å gå inn i sonen](/no/utdanning/mentalt spill/sonen/å gå inn i sonen)** - Praktiske teknikker for å få tilgang til flyttilstand
 
 ## Sammendrag: Sonereglene
 

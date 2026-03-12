@@ -3,189 +3,189 @@ title: Pressure Management in Pétanque
 description: Master the art of performing under pressure. Learn practical techniques to stay calm, focused, and effective when the stakes are highest.
 ---
 
-# Pressure Management in Pétanque
+# Trykstyring i Petanque
 
-> "Elite players don't eliminate pressure; they learn to perform with it, sometimes even because of it."
+> &quot;Elitespillere eliminerer ikke pres; de lærer at præstere med det, nogle gange endda på grund af det.&quot;
 
-Pressure is inevitable in competitive pétanque. The question isn't whether you'll feel it — you will. The question is how you'll respond.
+Pres er uundgåeligt i konkurrencepetanque. Spørgsmålet er ikke, om du vil mærke det – du vil. Spørgsmålet er, hvordan du vil reagere.
 
-::: tip The Pressure Truth
-**Pressure isn't the problem — your response to it is.** Learn to use pressure as fuel, not as a brake.
+::: tip Sandheden om presset
+**Tryk er ikke problemet – det er din reaktion på det.** Lær at bruge tryk som brændstof, ikke som en bremse.
 :::
 
 ---
 
-## Understanding Pressure
+## Forståelse af pres
 
-Pressure is your body's response to perceived high stakes. When you face a crucial shot, your nervous system activates:
+Pres er din krops reaktion på opfattede høje indsatser. Når du står over for et afgørende skud, aktiveres dit nervesystem:
 
 ```mermaid
 flowchart TD
-    A[High Stakes Moment] --> B[Fight-or-Flight Response]
-    B --> C[Heart Rate ↑]
-    B --> D[Shallow Breathing]
-    B --> E[Muscle Tension]
-    B --> F[Narrowed Focus]
+    A[Højindsatsøjeblik] --> B[Kamp-eller-flugt-respons]
+    B --> C[Puls ↑]
+    B --> D[Overfladisk vejrtrækning]
+    B --> E[Muskelspændinger]
+    B --> F[Indsnævret fokus]
 
     C --> G{Your Response}
     D --> G
     E --> G
     F --> G
 
-    G -->|Threat Mode| H[Performance ↓]
-    G -->|Challenge Mode| I[Performance ↑]
+    G -->|Threat Mode| H[Ydeevne ↓]
+    G -->|Challenge Mode| I[Ydeevne ↑]
 
     style A fill:#f44336,color:#fff
     style H fill:#f44336,color:#fff
     style I fill:#4CAF50,color:#fff
 ```
 
-This is the fight-or-flight response — useful for escaping predators, less useful for throwing a boule with precision.
+Dette er kamp-eller-flugt-responsen – nyttig til at undslippe rovdyr, mindre nyttig til at kaste en kugle med præcision.
 
 ---
 
-## The Pressure Paradox
+## Trykparadokset
 
-::: warning The Trap
-The harder you try to eliminate pressure, the stronger it becomes. Telling yourself "don't be nervous" only amplifies the nervousness.
+::: warning Fælden
+Jo hårdere du prøver at eliminere presset, jo stærkere bliver det. At sige til dig selv &quot;du skal ikke være nervøs&quot; forstærker kun nervøsiteten.
 :::
 
-The solution isn't to fight pressure but to change your relationship with it.
+Løsningen er ikke at bekæmpe presset, men at ændre dit forhold til det.
 
-## Reframing Pressure
+## Omformningstryk
 
-### From Threat to Challenge
+### Fra trussel til udfordring
 
-Your brain interprets pressure situations in one of two ways:
-- **Threat**: "This could go wrong, I might fail"
-- **Challenge**: "This is an opportunity to show what I can do"
+Din hjerne fortolker pressede situationer på en af to måder:
+- **Trussel**: &quot;Dette kan gå galt, jeg fejler måske&quot;
+- **Udfordring**: &quot;Dette er en mulighed for at vise, hvad jeg kan&quot;
 
-Both interpretations produce arousal, but challenge states lead to better performance. The physical sensations are similar — it's the meaning you assign that differs.
+Begge fortolkninger skaber ophidselse, men udfordrende tilstande fører til bedre præstation. De fysiske fornemmelser er ens – det er den betydning, du tildeler, der er forskellig.
 
-### Practical Reframes
+### Praktiske omformuleringer
 
-| Pressure Thought | Reframe |
+| Tryktanke | Omformulering |
 |-----------------|---------|
-| "I can't miss this" | "I get to take this shot" |
-| "Everyone is watching" | "I'm ready for this moment" |
-| "This is too important" | "This is what I train for" |
-| "I'm so nervous" | "I'm excited and ready" |
+| &quot;Jeg kan ikke gå glip af dette&quot; | &quot;Jeg må tage dette skud&quot; |
+| &quot;Alle ser på&quot; | &quot;Jeg er klar til dette øjeblik&quot; |
+| &quot;Dette er for vigtigt&quot; | &quot;Det er det, jeg træner til&quot; |
+| &quot;Jeg er så nervøs&quot; | &quot;Jeg er spændt og klar&quot; |
 
-## Physical Techniques
+## Fysiske teknikker
 
-### Breathing Control
+### Åndedrætskontrol
 
-The fastest way to calm your nervous system:
+Den hurtigste måde at berolige dit nervesystem på:
 
-**Box Breathing:**
-1. Inhale for 4 counts
-2. Hold for 4 counts
-3. Exhale for 4 counts
-4. Hold for 4 counts
-5. Repeat 2-3 times
+**Box-åndedræt:**
+1. Inhalér i 4 tællinger
+2. Hold i 4 tællinger
+3. Udånd i 4 tællinger
+4. Hold i 4 tællinger
+5. Gentag 2-3 gange
 
-**Extended Exhale:**
-- Inhale for 4 counts
-- Exhale for 8 counts
-- The longer exhale activates the parasympathetic nervous system
+**Udvidet udånding:**
+- Inhalér i 4 tællinger
+- Udånd i 8 tællinger
+- Den længere udånding aktiverer det parasympatiske nervesystem
 
-### Progressive Relaxation
+### Progressiv afslapning
 
-Between throws:
-1. Clench your fists tight for 3 seconds
-2. Release and feel the relaxation
-3. Roll your shoulders up, hold, release
-4. Shake out your hands
+Mellem kastene:
+1. Knæk dine næver hårdt i 3 sekunder
+2. Slip fri og mærk afslapningen
+3. Rul skuldrene op, hold, slip
+4. Ryst dine hænder
 
-### Grounding
+### Jordforbindelse
 
-When pressure feels overwhelming:
-- Feel your feet on the ground
-- Notice the weight of the boule in your hand
-- Look at specific details in your environment
-- Name 5 things you can see
+Når presset føles overvældende:
+- Føl dine fødder på jorden
+- Læg mærke til kuglens vægt i din hånd
+- Se på specifikke detaljer i dine omgivelser
+- Nævn 5 ting du kan se
 
-## Mental Techniques
+## Mentale teknikker
 
-### Narrow Your Focus
+### Indsnævr dit fokus
 
-Pressure often comes from thinking too far ahead. Bring your attention to:
-- This throw only
-- This moment only
-- The process, not the outcome
+Presset kommer ofte af at tænke for langt frem. Henvis din opmærksomhed til:
+- Kun dette kast
+- Kun dette øjeblik
+- Processen, ikke resultatet
 
-### Use Cue Words
+### Brug stikord
 
-Single words that anchor your focus:
-- "Smooth"
-- "Trust"
-- "Now"
-- "Breathe"
+Enkeltord, der forankrer dit fokus:
+- &quot;Glat&quot;
+- &quot;Tillid&quot;
+- &quot;Nu&quot;
+- &quot;Ånde&quot;
 
-### Visualization
+### Visualisering
 
-Before high-pressure shots:
-1. Close your eyes briefly
-2. See the boule traveling to its target
-3. Feel the successful throw in your body
-4. Open your eyes and execute
+Før højtryksindsprøjtninger:
+1. Luk øjnene kort
+2. Se kuglen bevæge sig mod sit mål
+3. Mærk det succesfulde kast i din krop
+4. Åbn dine øjne og udfør
 
-## Building Pressure Tolerance
+## Bygningstryktolerance
 
-### Pressure Training
+### Tryktræning
 
-You can't learn to handle pressure without experiencing it. Create pressure in practice:
+Du kan ikke lære at håndtere pres uden at opleve det. Skab pres i praksis:
 
-- **Consequence drills**: Miss and you do push-ups
-- **Competition simulation**: Practice with something at stake
-- **Audience practice**: Invite people to watch your training
-- **Fatigue training**: Practice when tired
+- **Konsekvensøvelser**: Du laver armbøjninger, og så bommer du på dem.
+- **Konkurrencesimulering**: Øvelse med noget på spil
+- **Publikumsøvelse**: Inviter folk til at se din træning
+- **Træthedstræning**: Træn når du er træt
 
-### Exposure Ladder
+### Eksponeringsstige
 
-Gradually increase pressure exposure:
-1. Practice alone with no stakes
-2. Practice with a training partner watching
-3. Practice with small consequences
-4. Friendly matches
-5. Club competitions
-6. Regional tournaments
-7. National events
+Øg gradvist trykeksponeringen:
+1. Øv alene uden indsatser
+2. Øv med en træningspartner, der ser på
+3. Øvelse med små konsekvenser
+4. Venskabskampe
+5. Klubkonkurrencer
+6. Regionale turneringer
+7. Nationale begivenheder
 
-## In-Match Strategies
+## Strategier i kampene
 
-### Before the Match
-- Arrive early, familiarize yourself with the terrain
-- Complete your warm-up routine
-- Use positive self-talk
-- Visualize successful performance
+### Før kampen
+- Kom tidligt, og gør dig bekendt med terrænet
+- Færdiggør din opvarmningsrutine
+- Brug positiv selvsnak
+- Visualiser succesfuld præstation
 
-### During Pressure Moments
-1. Recognize the pressure ("I'm feeling the pressure")
-2. Accept it ("This is normal, it means I care")
-3. Breathe (2-3 controlled breaths)
-4. Refocus (return to your pre-shot routine)
-5. Execute (trust your training)
+### Under trykmomenter
+1. Anerkend presset (&quot;Jeg føler presset&quot;)
+2. Accepter det (&quot;Dette er normalt, det betyder, at jeg holder af det&quot;)
+3. Træk vejret (2-3 kontrollerede vejrtrækninger)
+4. Fokusér igen (vend tilbage til din rutine før optagelserne)
+5. Udfør (stol på din træning)
 
-### After Mistakes
-- Take a physical step back
-- One deep breath
-- Let go of the result
-- Focus on the next opportunity
+### Efter fejl
+- Tag et fysisk skridt tilbage
+- En dyb indånding
+- Slip resultatet
+- Fokuser på den næste mulighed
 
-## The Pressure Advantage
+## Fordelen ved tryk
 
-With practice, pressure becomes fuel rather than friction. Elite performers often describe their best performances as happening under the highest pressure — not despite it, but because of it.
+Med øvelse bliver pres til brændstof snarere end friktion. Eliteudøvere beskriver ofte deres bedste præstationer som værende under det højeste pres – ikke på trods af det, men på grund af det.
 
-The arousal that pressure creates can enhance:
-- Focus and concentration
-- Physical readiness
-- Memory and recall
-- Reaction time
+Den ophidselse, som trykket skaber, kan forstærke:
+- Fokus og koncentration
+- Fysisk parathed
+- Hukommelse og genkaldelse
+- Reaktionstid
 
-The key is channeling this energy productively rather than letting it overwhelm you.
+Nøglen er at kanalisere denne energi produktivt i stedet for at lade den overvælde dig.
 
 ---
 
-*Related: [Handling Pressure](/da/education/mental-game/mental-strength/handling-pressure) | [Pre-Shot Routine](/da/education/mental-game/mental-strength/pre-shot-routine) | [The Zone](/da/education/mental-game/the-zone/)*
+| *Relateret: [Håndtering af pres](/da/uddannelse/mentalt-spil/mental-styrke/håndtering-af-pres) | [Rutine før skud](/da/uddannelse/mentalt-spil/mental-styrke/rutine-før-skud) | [Zonen](/da/uddannelse/mentalt-spil/zonen/)* |
 

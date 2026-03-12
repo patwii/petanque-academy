@@ -115,8 +115,8 @@ Lösningen är inte att tänka *mindre* - det är att tänka på **rätt saker**
 
 Lär dig hur du bemästrar zonen:
 
-- **[Teknisk vs Flow-träning](/sv/education/mental-game/the-zone/teknisk-vs-flow)** - Förstå när man ska fokusera på teknik och när man ska släppa taget
-- **[Att komma in i zonen](/sv/education/mental-game/the-zone/att komma in i zonen)** - Praktiska tekniker för att komma åt flödestillstånd
+- **[Teknisk vs Flow-träning](/sv/utbildning/mentalt-spel/zonen/teknisk-vs-flow)** - Förstå när man ska fokusera på teknik och när man ska släppa taget
+- **[Att komma in i zonen](/sv/utbildning/mentalt-spel/zonen/att komma in i zonen)** - Praktiska tekniker för att nå flödestillstånd
 
 ## Sammanfattning: Zonreglerna
 

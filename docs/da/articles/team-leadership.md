@@ -3,280 +3,280 @@ title: Leadership in Pétanque
 description: Develop leadership skills that elevate your team's performance. Learn how to lead effectively whether you're the captain or a supporting player.
 ---
 
-# Leadership in Pétanque
+# Lederskab i petanque
 
-> "Leadership isn't just about being the captain — it's about bringing out the best in your team."
+> &quot;Ledelse handler ikke bare om at være anfører – det handler om at få det bedste frem i dit hold.&quot;
 
-Every player can lead in different ways. It's about influence, support, and modeling excellence.
+Enhver spiller kan lede på forskellige måder. Det handler om indflydelse, støtte og at være et forbillede for fremragende spillere.
 
-::: tip Everyone Can Lead
-**You don't need a title to be a leader.** Leadership is behavior, not position.
+::: tip Alle kan lede
+**Du behøver ikke en titel for at være leder.** Lederskab er adfærd, ikke position.
 :::
 
 ---
 
-## What Is Pétanque Leadership?
+## Hvad er petanque-ledelse?
 
 ```mermaid
 flowchart LR
-    A[Effective Leadership] --> B[Good Decisions]
-    A --> C[Team Support]
-    A --> D[Focus & Energy]
-    A --> E[Model Behavior]
-    A --> F[Take Responsibility]
+    A[Effektiv Ledelse] --> B[Gode beslutninger]
+    A --> C[Teamsupport]
+    A --> D[Fokus og energi]
+    A --> E[Modeladfærd]
+    A --> F[Tag ansvar]
 
     style A fill:#FF9800,color:#fff
 ```
 
 ---
 
-## Types of Leadership
+## Typer af lederskab
 
-| Type | Focus | How It Looks |
+| Type | Fokus | Hvordan det ser ud |
 |------|-------|--------------|
-| **Positional** | Authority | Captain makes final decisions, sets culture |
-| **Performance** | Excellence | Consistent skill, handling pressure well |
-| **Emotional** | Energy | Staying positive, supporting others |
-| **Tactical** | Strategy | Reading the game, offering insights |
+| **Positionel** | Myndighed | Kaptajnen træffer de endelige beslutninger og sætter kulturen |
+| **Præstation** | Ekspertise | Konsekvent færdighed, god håndtering af pres |
+| **Følelsesmæssig** | Energi | At forblive positiv, at støtte andre |
+| **Taktisk** | Strategi | Læser spillet og giver indsigt |
 
-### Positional Leadership
+### Positionsbaseret lederskab
 
-The designated captain or team leader:
-- Makes final strategic decisions
-- Represents the team officially
-- Manages team dynamics
-- Sets the tone and culture
+Den udpegede kaptajn eller holdleder:
+- Træffer endelige strategiske beslutninger
+- Repræsenterer officielt holdet
+- Styrer teamdynamikken
+- Sætter tonen og kulturen
 
-### Performance Leadership
+### Præstationsledelse
 
-Leading through excellence:
-- Demonstrating skill and consistency
-- Showing how to handle pressure
-- Setting standards through action
-- Inspiring through performance
+Ledelse gennem ekspertise:
+- Demonstration af dygtighed og konsistens
+- Viser hvordan man håndterer pres
+- Sætter standarder gennem handling
+- Inspirerende gennem performance
 
-### Emotional Leadership
+### Følelsesmæssigt lederskab
 
-::: info Often Undervalued
-**Emotional leadership is critical** — the player who stays positive when down 2-10 can turn the entire match around.
+::: info Ofte undervurderet
+**Følelsesmæssigt lederskab er afgørende** — den spiller, der forbliver positiv, når han er bagud 2-10, kan vende hele kampen.
 :::
 
-Managing team energy and morale:
-- Staying positive under pressure
-- Supporting struggling teammates
-- Celebrating successes
-- Maintaining perspective
+Håndtering af teamets energi og moral:
+- At forblive positiv under pres
+- Støtte til holdkammerater, der kæmper
+- Fejring af succeser
+- At bevare perspektivet
 
-### Tactical Leadership
+### Taktisk lederskab
 
-Contributing strategic thinking:
-- Reading the game well
-- Offering valuable insights
-- Seeing patterns others miss
-- Thinking ahead
+Bidragende strategisk tænkning:
+- Læser spillet godt
+- Tilbyder værdifuld indsigt
+- At se mønstre, som andre overser
+- Tænker fremad
 
-## The Effective Leader
+## Den effektive leder
 
-### In Practice
+### I praksis
 
-- Arrives prepared and focused
-- Works hard and encourages others
-- Provides constructive feedback
-- Creates a positive training environment
+- Ankommer forberedt og fokuseret
+- Arbejder hårdt og opmuntrer andre
+- Giver konstruktiv feedback
+- Skaber et positivt træningsmiljø
 
-### Before Competition
+### Før konkurrencen
 
-- Ensures team is prepared
-- Sets clear expectations
-- Manages pre-match nerves
-- Creates focus and confidence
+- Sørger for, at holdet er forberedt
+- Sætter klare forventninger
+- Håndterer nerverne før kampen
+- Skaber fokus og selvtillid
 
-### During Competition
+### Under konkurrencen
 
-- Makes clear, timely decisions
-- Supports teammates visibly
-- Stays calm under pressure
-- Adapts strategy as needed
+- Træffer klare, rettidige beslutninger
+- Støtter synligt holdkammerater
+- Forbliver rolig under pres
+- Tilpasser strategien efter behov
 
-### After Competition
+### Efter konkurrencen
 
-- Handles wins with grace
-- Handles losses with perspective
-- Leads constructive debriefs
-- Maintains team relationships
+- Håndterer sejre med ynde
+- Håndterer tab med perspektiv
+- Leder konstruktive debriefinger
+- Vedligeholder teamrelationer
 
-## Leadership Challenges
+## Lederskabsudfordringer
 
-### Making Tough Decisions
+### At træffe svære beslutninger
 
-Sometimes you must:
-- Choose between options with no clear answer
-- Disagree with teammates
-- Take responsibility for outcomes
-- Act decisively despite uncertainty
+Nogle gange skal du:
+- Vælg mellem muligheder uden et klart svar
+- Uenig med holdkammeraterne
+- Tag ansvar for resultater
+- Handl beslutsomt trods usikkerhed
 
-**Approach:**
-- Gather input quickly
-- Make the decision
-- Commit fully
-- Learn from results
+**Nærme sig:**
+- Indsaml input hurtigt
+- Træf beslutningen
+- Forpligt dig fuldt ud
+- Lær af resultaterne
 
-### Managing Conflict
+### Håndtering af konflikter
 
-Team friction is inevitable:
-- Different opinions on strategy
-- Frustration after mistakes
-- Personality clashes
-- Unequal commitment
+Holdkonflikter er uundgåelige:
+- Forskellige meninger om strategi
+- Frustration efter fejltagelser
+- Personlighedskonflikter
+- Ulige engagement
 
-**Approach:**
-- Address issues early
-- Listen to all perspectives
-- Focus on solutions
-- Maintain respect
+**Nærme sig:**
+- Håndter problemer tidligt
+- Lyt til alle perspektiver
+- Fokus på løsninger
+- Bevar respekten
 
-### Supporting Struggling Players
+### Støtte til spillere, der kæmper
 
-When a teammate is underperforming:
-- Don't add pressure
-- Offer specific, positive support
-- Adjust strategy if needed
-- Maintain confidence in them
+Når en holdkammerat præsterer dårligt:
+- Tilføj ikke pres
+- Tilbyd specifik, positiv støtte
+- Justér strategien om nødvendigt
+- Bevar tilliden til dem
 
-### Handling Your Own Struggles
+### Håndtering af dine egne kampe
 
-Leaders struggle too:
-- Acknowledge it (to yourself)
-- Don't let it affect your leadership
-- Lean on teammates
-- Model resilience
+Ledere kæmper også:
+- Anerkend det (over for dig selv)
+- Lad det ikke påvirke dit lederskab
+- Stol på holdkammeraterne
+- Modellér modstandsdygtighed
 
-## Leadership Styles
+## Lederskabsstile
 
-### The Commander
+### Kommandøren
 
-- Direct and decisive
-- Clear expectations
-- Takes charge in crisis
-- Risk: Can be overbearing
+- Direkte og afgørende
+- Klare forventninger
+- Tager ansvar i krise
+- Risiko: Kan være overvældende
 
-### The Coach
+### Træneren
 
-- Develops others
-- Asks questions
-- Builds capability
-- Risk: Can be slow in crisis
+- Udvikler andre
+- Stiller spørgsmål
+- Opbygger kapacitet
+- Risiko: Kan være langsom i krise
 
-### The Collaborator
+### Samarbejdspartneren
 
-- Seeks input
-- Builds consensus
-- Values all voices
-- Risk: Can be indecisive
+- Søger input
+- Skaber konsensus
+- Værdsætter alle stemmer
+- Risiko: Kan være ubeslutsom
 
-### The Supporter
+### Tilhængeren
 
-- Focuses on relationships
-- Creates safety
-- Encourages and affirms
-- Risk: Can avoid hard truths
+- Fokuserer på relationer
+- Skaber tryghed
+- Opmuntrer og bekræfter
+- Risiko: Kan undgå hårde sandheder
 
-**Best leaders adapt their style to the situation.**
+**De bedste ledere tilpasser deres stil til situationen.**
 
-## Developing Leadership Skills
+## Udvikling af lederevner
 
-### Self-Awareness
+### Selvbevidsthed
 
-Know your:
-- Natural leadership style
-- Strengths and weaknesses
-- Impact on others
-- Triggers and reactions
+Kend din:
+- Naturlig lederstil
+- Styrker og svagheder
+- Indvirkning på andre
+- Udløsere og reaktioner
 
-### Emotional Intelligence
+### Følelsesmæssig intelligens
 
-Develop ability to:
-- Recognize emotions (yours and others')
-- Manage your responses
-- Empathize with teammates
-- Navigate social dynamics
+Udvikle evnen til at:
+- Genkende følelser (dine og andres)
+- Administrer dine svar
+- Vis empati med holdkammerater
+- Naviger i sociale dynamikker
 
-### Communication Skills
+### Kommunikationsevner
 
-Practice:
-- Clear, concise messaging
-- Active listening
-- Giving constructive feedback
-- Difficult conversations
+Praksis:
+- Klar og præcis besked
+- Aktiv lytning
+- Giver konstruktiv feedback
+- Vanskelige samtaler
 
-### Decision-Making
+### Beslutningstagning
 
-Improve through:
-- Analyzing past decisions
-- Seeking feedback
-- Learning from mistakes
-- Practicing under pressure
+Forbedres gennem:
+- Analyse af tidligere beslutninger
+- Søger feedback
+- Læring af fejl
+- Øvelse under pres
 
-## Leading Without the Title
+## Leder uden titel
 
-You don't need to be captain to lead:
+Du behøver ikke at være kaptajn for at lede:
 
-### Lead by Example
-- Show up prepared
-- Give full effort
-- Handle adversity well
-- Support teammates
+### Gå foran med et godt eksempel
+- Mød op forberedt
+- Giv fuld indsats
+- Håndter modgang godt
+- Støt holdkammerater
 
-### Lead Through Support
-- Encourage others
-- Offer help
-- Celebrate teammates' success
-- Be reliable
+### Lede gennem støtte
+- Opmuntr andre
+- Tilbyd hjælp
+- Fejr holdkammeraternes succes
+- Vær pålidelig
 
-### Lead Through Contribution
-- Share observations
-- Offer ideas respectfully
-- Take initiative
-- Fill gaps
+### Lede gennem bidrag
+- Del observationer
+- Kom med idéer på en respektfuld måde
+- Tag initiativ
+- Udfyld huller
 
-## The Leadership Mindset
+## Lederskabstankegangen
 
-### Responsibility Over Blame
+### Ansvar frem for skyld
 
-Leaders take responsibility:
-- "We didn't execute well" not "They missed"
-- "I should have communicated better" not "They didn't listen"
+Ledere tager ansvar:
+- &quot;Vi klarede os ikke godt&quot;, ikke &quot;De missede&quot;.
+- &quot;Jeg burde have kommunikeret bedre&quot; ikke &quot;De lyttede ikke&quot;
 
-### Team Over Self
+### Hold frem for sig selv
 
-Leaders prioritize team success:
-- Celebrate team achievements
-- Share credit generously
-- Take blame personally
-- Put team needs first
+Ledere prioriterer teamets succes:
+- Fejr holdets præstationer
+- Del æren generøst
+- Tag skylden personligt
+- Sæt teamets behov først
 
-### Growth Over Comfort
+### Vækst frem for komfort
 
-Leaders embrace challenge:
-- Seek difficult situations
-- Learn from failures
-- Push for improvement
-- Model continuous growth
+Ledere tager udfordringerne op:
+- Opsøg vanskelige situationer
+- Lær af fiaskoer
+- Pres på forbedringer
+- Modellér kontinuerlig vækst
 
-## When Leadership Fails
+## Når lederskab fejler
 
-Even good leaders fail sometimes:
-- Wrong decisions happen
-- Teams lose despite good leadership
-- Relationships strain
+Selv gode ledere fejler nogle gange:
+- Forkerte beslutninger sker
+- Hold taber trods god ledelse
+- Forholdsbelastning
 
-**Recovery:**
-1. Acknowledge what happened
-2. Take appropriate responsibility
-3. Learn the lessons
-4. Move forward with humility
+**Gendannelse:**
+1. Anerkend hvad der skete
+2. Tag passende ansvar
+3. Lær lektierne
+4. Gå fremad med ydmyghed
 
 ---
 
-*Related: [Team Dynamics](/da/education/team-dynamics/) | [Communication](/da/education/team-dynamics/communication) | [Building Team Chemistry](/da/articles/team-chemistry)*
+| *Relateret: [Teamdynamik](/da/uddannelse/teamdynamik/) | [Kommunikation](/da/uddannelse/teamdynamik/kommunikation) | [Opbygning af teamkemi](/da/artikler/teamkemi)* |
 

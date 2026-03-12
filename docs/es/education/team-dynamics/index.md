@@ -182,7 +182,7 @@ Los grandes equipos desarrollan compartido:
 
 ## En esta sección
 
-- **[Comunicación en equipo](/es/education/team-dynamics/comunicacion)** - Guía detallada para comunicarse eficazmente
+- **[Comunicación en equipo](/es/educacion/dinamica-de-equipo/comunicacion)** - Guía detallada para comunicarse eficazmente
 
 ## Conclusión clave
 

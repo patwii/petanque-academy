@@ -3,31 +3,31 @@ title: "Developing Self-Awareness: The Foundation of Improvement"
 description: How accurate self-perception enables targeted development and prevents blind spots from limiting your pétanque performance.
 ---
 
-# Developing Self-Awareness: The Foundation of Improvement
+# Zelfbewustzijn ontwikkelen: de basis voor verbetering
 
-> "You can't improve what you don't accurately perceive."
+> &quot;Je kunt iets niet verbeteren als je het niet nauwkeurig waarneemt.&quot;
 
-Self-awareness—knowing your actual strengths and weaknesses—is the foundation of effective development.
+Zelfbewustzijn – het kennen van je werkelijke sterke en zwakke punten – is de basis van effectieve ontwikkeling.
 
-::: danger The Uncomfortable Truth
-**Most players are working on the wrong things** because they don't see themselves clearly.
+::: danger De ongemakkelijke waarheid
+**De meeste spelers werken aan de verkeerde dingen** omdat ze zichzelf niet helder zien.
 :::
 
 ---
 
-## The Self-Awareness Paradox
+## De paradox van zelfbewustzijn
 
 ```mermaid
 flowchart TD
-    A[The Self-Awareness Paradox] --> B[Dunning-Kruger Effect]
-    A --> C[Expert Blind Spots]
-    A --> D[Emotional Interference]
+    A[De paradox van zelfbewustzijn] --> B[Dunning-Kruger-effect]
+    A --> C[Blinde vlekken van experts]
+    A --> D[Emotionele interferentie]
 
-    B --> E[Low skill = overestimate ability]
-    C --> F[Even skilled players misjudge]
-    D --> G[We want to believe we're better]
+    B --> E[Weinig vaardigheid = overschatting van het vermogen]
+    C --> F[Zelfs ervaren spelers maken inschattingsfouten.]
+    D --> G[We willen graag geloven dat we beter zijn.]
 
-    E --> H[Working on Wrong Things]
+    E --> H[Aan de verkeerde dingen werken]
     F --> H
     G --> H
 
@@ -37,151 +37,151 @@ flowchart TD
 
 ---
 
-## Why Pétanque Players Struggle
+## Waarom pétanque-spelers het moeilijk hebben
 
-Pétanque makes self-assessment particularly difficult:
+Bij pétanque is zelfevaluatie bijzonder lastig:
 
-| Challenge | Why It's Hard |
+| Uitdaging | Waarom het moeilijk is |
 |-----------|--------------|
-| **Result Variance** | Good decisions can produce bad outcomes (and vice versa) |
-| **Comparison Bias** | We remember best performances, explain away worst |
-| **Identity Protection** | Admitting weakness feels threatening |
+| **Resultaatvariantie** | Goede beslissingen kunnen tot slechte gevolgen leiden (en omgekeerd). |
+| **Vergelijkingsbias** | We herinneren ons de beste prestaties, maar praten de slechtste weg. |
+| **Bescherming van de identiteit** | Het toegeven van zwakte voelt bedreigend. |
 
-::: warning Memory Is Not Data
-**We construct narratives that protect our self-image.** Objective tracking is essential.
+::: warning Geheugen is geen data.
+**We construeren verhalen die ons zelfbeeld beschermen.** Objectieve monitoring is essentieel.
 :::
 
 ---
 
-## The Components of Self-Awareness
+## De componenten van zelfbewustzijn
 
-True self-awareness requires insight into multiple domains:
+Echt zelfbewustzijn vereist inzicht in meerdere domeinen:
 
-| Domain | Key Questions |
+| Domein | Kernvragen |
 |--------|---------------|
-| **Technical** | Which throws are actually reliable? Which are inconsistent? |
-| **Mental** | How do I respond to pressure? What triggers my inner critic? |
-| **Physical** | When is my energy highest? How does fatigue affect me? |
-| **Tactical** | Do I over-attack? Under-attack? How do I read situations? |
-| **Emotional** | What frustrates me? When do I play tight? |
-| **Interpersonal** | How do teammates perceive my communication? |
+| **Technische gegevens** | Welke worpen zijn daadwerkelijk betrouwbaar? Welke zijn inconsistent? |
+| **Mentaal** | Hoe ga ik om met druk? Wat triggert mijn innerlijke criticus? |
+| **Fysiek** | Wanneer heb ik de meeste energie? Welke invloed heeft vermoeidheid op mij? |
+| **Tactisch** | Val ik te veel aan? Of juist te weinig? Hoe interpreteer ik situaties? |
+| **Emotioneel** | Wat frustreert me? Wanneer speel ik gespannen? |
+| **Interpersoonlijke** | Hoe ervaren mijn teamgenoten mijn communicatie? |
 
-## External Feedback: The Mirror You Need
+## Externe feedback: de spiegel die je nodig hebt
 
-You cannot see your own blind spots. You need external perspectives.
+Je kunt je eigen blinde vlekken niet zien. Je hebt externe perspectieven nodig.
 
-### Structured Feedback Methods
+### Gestructureerde feedbackmethoden
 
-**Video Analysis**
-- Record matches and practice
-- Watch with specific focus areas
-- Notice patterns you miss in the moment
+**Videoanalyse**
+- Neem wedstrijden op en train mee
+- Kijk met aandacht voor specifieke aandachtspunten.
+- Merk patronen op die je op dat moment over het hoofd ziet.
 
-**Peer Assessment**
-- Ask trusted teammates for honest feedback
-- Use the [Assessment Tool](/nl/assessment/) for peer validation
-- Compare your self-rating with their rating
+**Peerbeoordeling**
+- Vraag betrouwbare teamgenoten om eerlijke feedback.
+- Gebruik de [Beoordelingstool](/en/assessment/) voor collegiale validatie.
+- Vergelijk je eigen beoordeling met hun beoordeling.
 
-**Coach Observation**
-- Fresh eyes see what familiar eyes miss
-- Request specific feedback, not general impressions
-- Track feedback themes over time
+**Observatie door de coach**
+- Een frisse blik ziet wat een vertrouwde blik over het hoofd ziet.
+- Vraag om specifieke feedback, niet om algemene indrukken.
+- Volg de feedbackthema&#39;s in de loop van de tijd.
 
-### The Feedback Gap
+### De feedbackkloof
 
-When your self-assessment differs significantly from external feedback, pay attention:
+Als uw zelfbeoordeling aanzienlijk afwijkt van de feedback van buitenaf, let dan goed op:
 
-| Gap Type | Meaning | Action |
+| Spleettype | Betekenis | Actie |
 |----------|---------|--------|
-| You rate higher | Possible blind spot | Investigate with video/data |
-| You rate lower | Possible confidence issue | Focus on evidence of competence |
-| Consistent gap | Systematic perception error | Recalibrate your mental model |
+| Je scoort hoger. | Mogelijke blinde vlek | Onderzoek uitvoeren met video/data |
+| Je scoort lager. | Mogelijk vertrouwensprobleem | Focus op bewijs van competentie |
+| Aanhoudende kloof | Systematische waarnemingsfout | Herijk je mentale model. |
 
-## Building Self-Awareness Habits
+## Gewoonten ontwikkelen die zelfbewustzijn bevorderen
 
-### Daily Reflection (5 minutes)
+### Dagelijkse reflectie (5 minuten)
 
-After each session, ask yourself:
+Stel jezelf na elke sessie de volgende vraag:
 
-1. **What went well?** (Be specific)
-2. **What didn't go well?** (Be honest)
-3. **What would I do differently?** (Be constructive)
-4. **What surprised me?** (Be curious)
+1. **Wat ging er goed?** (Wees specifiek)
+2. **Wat ging er mis?** (Wees eerlijk)
+3. **Wat zou ik anders doen?** (Wees constructief)
+4. **Wat verraste me?** (Wees nieuwsgierig!)
 
-### Weekly Review (15 minutes)
+### Wekelijkse evaluatie (15 minuten)
 
-Look for patterns:
+Zoek naar patronen:
 
-- Which situations consistently challenge me?
-- Where am I improving?
-- What feedback have I received?
-- What am I avoiding looking at?
+- Welke situaties vormen voor mij steeds weer een uitdaging?
+- Op welke gebieden ben ik aan het verbeteren?
+- Welke feedback heb ik ontvangen?
+- Wat probeer ik te vermijden om te bekijken?
 
-### Monthly Assessment
+### Maandelijkse beoordeling
 
-Use the [Player Assessment](/nl/assessment/) tool:
+Gebruik de [Spelersbeoordeling](/en/assessment/) tool:
 
-- Rate yourself on all 8 factors
-- Request peer validation
-- Compare to previous month
-- Identify largest gaps
+- Beoordeel jezelf op alle 8 factoren.
+- Verzoek om peervalidatie
+- Vergelijk met de vorige maand
+- Identificeer de grootste hiaten
 
-## The Data Advantage
+## Het data-voordeel
 
-Subjective perception is unreliable. Data provides objectivity:
+Subjectieve waarneming is onbetrouwbaar. Data bieden objectiviteit:
 
-### What to Track
+### Wat te volgen
 
-**Performance Data**
-- Success rates by throw type
-- Performance under pressure vs. no pressure
-- First set vs. later sets
-- With different partners
+**Prestatiegegevens**
+- Succespercentages per worptype
+- Prestaties onder druk versus prestaties zonder druk
+- Eerste set versus latere sets
+- Met verschillende partners
 
-**Process Data**
-- Sleep quality before matches
-- Pre-match routine compliance
-- Mental state during key moments
-- Recovery time after mistakes
+**Gegevens verwerken**
+- Slaapkwaliteit vóór wedstrijden
+- Naleving van de routine voorafgaand aan de wedstrijd
+- Mentale toestand tijdens cruciale momenten
+- Hersteltijd na fouten
 
-### How to Use Data
+### Hoe gebruik je data?
 
-1. **Identify patterns** — What correlates with good/poor performance?
-2. **Challenge assumptions** — Does data match your beliefs?
-3. **Guide training** — Focus on actual weaknesses, not perceived ones
-4. **Track progress** — Improvement is often invisible without measurement
+1. **Patronen herkennen** — Wat hangt samen met goede/slechte prestaties?
+2. **Daag je aannames uit** — Komen de gegevens overeen met je overtuigingen?
+3. **Training voor begeleiders** — Focus op daadwerkelijke zwakheden, niet op vermeende zwakheden.
+4. **Volg de voortgang** — Verbeteringen zijn vaak onzichtbaar zonder meting.
 
-## Common Self-Awareness Blocks
+## Veelvoorkomende belemmeringen voor zelfbewustzijn
 
-::: warning Watch For These
-- **Defensiveness** when receiving feedback
-- **Explaining away** poor performances
-- **Seeking confirmation** rather than truth
-- **Avoiding measurement** of weak areas
-- **Blaming external factors** consistently
+::: warning Let op deze dingen.
+- **Defensieve houding** bij het ontvangen van feedback
+- **Slechte prestaties goedpraten**
+- **Op zoek naar bevestiging** in plaats van de waarheid
+- **Het meten van zwakke plekken vermijden**
+- **Externe factoren consequent de schuld geven**
 :::
 
-## The Growth Mindset Connection
+## De connectie met de groeimindset
 
-Self-awareness requires accepting that:
+Zelfbewustzijn vereist acceptatie van het volgende:
 
-- Current ability is not fixed
-- Weakness is information, not identity
-- Feedback is a gift, not an attack
-- Improvement requires honest assessment
+- De huidige vaardigheid is niet vaststaand.
+- Zwakte is informatie, niet identiteit.
+- Feedback is een geschenk, geen aanval.
+- Verbetering vereist een eerlijke beoordeling.
 
-## Action Steps
+## Actiestappen
 
-1. **Today:** Complete the [Self-Assessment](/nl/assessment/)
-2. **This week:** Request peer feedback from 2 trusted teammates
-3. **Ongoing:** Establish daily reflection habit
-4. **Monthly:** Track progress with repeated assessments
+1. **Vandaag:** Vul de [zelfevaluatie](/en/assessment/) in.
+2. **Deze week:** Vraag feedback aan 2 vertrouwde teamgenoten.
+3. **Doorlopend:** Ontwikkel een dagelijkse reflectiegewoonte
+4. **Maandelijks:** Volg de voortgang met herhaalde evaluaties.
 
 ---
 
-## Related Content
+## Gerelateerde inhoud
 
-- [Self-Awareness Module](/nl/education/self-awareness/) — Complete education
-- [Player Assessment](/nl/assessment/) — Evaluate your 8 factors
-- [The Inner Critic](/nl/articles/inner-critic) — Managing self-judgment
+- [Zelfbewustzijnsmodule](/en/education/self-awareness/) — Volledige educatie
+- [Spelersbeoordeling](/en/assessment/) — Evalueer je 8 factoren
+- [De innerlijke criticus](/en/articles/inner-critic) — Zelfoordeel beheersen
 

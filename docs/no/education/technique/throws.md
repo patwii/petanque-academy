@@ -169,8 +169,8 @@ Fokuser på:
 
 ::: info Neste trinn
 Når du har en solid teknikk, kommer den virkelige veksten fra:
-- **[Sonen](/no/education/mental-game/the-zone/)** - Konsekvent tilgang til flyttilstander
-- **[Opplæringsmetoder](/no/education/technique/training/)** - Hvordan øve effektivt
-- **[Mental styrke](/no/education/mental-game/mental-strength/)** - Prestere under press
+- **[Sonen](/no/utdanning/mentalt-spill/sonen/)** - Konsekvent tilgang til flyttilstander
+- **[Opplæringsmetoder](/no/utdanning/teknikk/opplæring/)** - Hvordan øve effektivt
+- **[Mental styrke](/no/utdanning/mentalt-spill/mental-styrke/)** - Prestere under press
 :::
 
