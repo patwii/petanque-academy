@@ -22,3 +22,5 @@ features:
     details: Kombination von mentalem Training, Taktik, Teamarbeit und Ernährung für Spitzenleistung.
 ---
 
+
+<AssessmentForm />

@@ -1,156 +1,209 @@
-# Education
+# Elite Player Development
 
-Welcome to the Pétanque Academy Education program. This is where elite players learn to master the mental game.
+Welcome to the Pétanque Academy Education program — the complete player development system based on 8 performance factors.
 
 ::: tip Core Principle
-At the elite level, **mental training becomes more important than technical training**. The ratio inverts as you develop: beginners need 90% technical work, experts need 80% mental work.
+At the elite level, **mental training becomes more important than technical training**. Notice that Technique has the lowest weight — not because it doesn't matter, but because at the elite level, everyone has good technique. The differentiators are mental.
 :::
 
-## Why Mental Training Matters
+---
 
-At the elite level, technical skill is just the starting point. Research shows that mental attitude can be as important as physical skill in precision sports like pétanque. The difference between good players and great players is often in their minds.
+## The 8-Factor Performance Model
 
-> "Sport is 100% mental. The mind is the driving force behind all physical abilities."
+Our curriculum is structured around 8 key factors, weighted by their impact on elite performance:
 
-## Your Learning Journey
+| Factor | Weight | Description |
+|--------|--------|-------------|
+| 🧠 [**Mental Game**](/en/education/mental-game/) | **600** | Thought patterns, focus, flow states, self-talk |
+| 🔥 [**Motivation**](/en/education/motivation/) | **500** | Drive, purpose, goal orientation, persistence |
+| 😴 [**Sleep & Recovery**](/en/education/sleep/) | **400** | Sleep quality, recovery, pre-competition rest |
+| 🪞 [**Self-Awareness**](/en/education/self-awareness/) | **400** | Accurate self-perception, blind spot recognition |
+| 🥗 [**Nutrition**](/en/education/nutrition/) | **300** | Blood sugar stability, hydration, competition fuel |
+| 🤝 [**Team Dynamics**](/en/education/team-dynamics/) | **300** | Communication, trust, role clarity |
+| 💆 [**Tension Management**](/en/education/tension/) | **300** | Physical tension, relaxation, breath control |
+| 🎯 [**Technique**](/en/education/technique/) | **100** | Physical mechanics, throw repertoire |
 
-Here's the recommended path through our education program:
+**Total: 2,900 points**
+
+---
+
+## Why These Weights?
+
+The weights reflect **impact at the elite level**:
 
 ```mermaid
-graph TD
-    A[Start: Understanding Flow] --> B[The Zone]
-    B --> C[Mindfulness Practice]
-    C --> D[Goal Setting]
-    D --> E[Mental Strength]
-    E --> F[Team Dynamics]
+graph LR
+    subgraph "High Impact (1500)"
+        A[🧠 Mental Game<br/>600]
+        B[🔥 Motivation<br/>500]
+        C[😴 Sleep<br/>400]
+    end
 
-    B --> G[Tactics]
-    G --> H[Training Methods]
+    subgraph "Medium Impact (1000)"
+        D[🪞 Self-Awareness<br/>400]
+        E[🥗 Nutrition<br/>300]
+        F[🤝 Team Dynamics<br/>300]
+    end
 
-    C --> I[Nutrition]
+    subgraph "Foundation (400)"
+        G[💆 Tension<br/>300]
+        H[🎯 Technique<br/>100]
+    end
 
-    style A fill:#e1f5ff
-    style B fill:#fff4e1
-    style C fill:#fff4e1
-    style D fill:#e8f5e9
-    style E fill:#e8f5e9
-    style F fill:#e8f5e9
-    style G fill:#f3e5f5
-    style H fill:#f3e5f5
-    style I fill:#fce4ec
+    style A fill:#4CAF50,color:#fff
+    style B fill:#4CAF50,color:#fff
+    style C fill:#4CAF50,color:#fff
 ```
 
-**Recommended sequence:**
-1. **Foundation:** Start with The Zone and Mindfulness
-2. **Structure:** Add Goal Setting and Training Methods
-3. **Competition:** Build Mental Strength and Tactics
-4. **Team Play:** Master Team Dynamics
-5. **Optimization:** Fine-tune with Nutrition
+> "At the regional championship, technique separates the top 50%. At the national championship, everyone in the room has elite technique. What separates them is everything else."
 
-## Our Learning Paths
+---
 
-### 🎯 [The Zone (Flow State)](/en/education/the-zone/)
-Learn what "the zone" really is and how to access it. Understand the science behind flow states and discover practical techniques to perform at your best when it matters most.
+## Explore Each Factor
 
-### 🧘 [Mindfulness](/en/education/mindfulness/)
-Master the art of being present. Learn scientifically-proven techniques to calm your mind, improve focus, and recover quickly from mistakes.
+### 🧠 Mental Game (600 points)
 
-### 📊 [Goal Setting](/en/education/goals/)
-Create a roadmap for your development. Learn the SMART framework adapted for pétanque and build a training plan that actually works.
+**The most impactful factor for elite performance.**
 
-### 💪 [Mental Strength](/en/education/mental-strength/)
-Build the mental toughness needed for competition. Learn to handle pressure, overcome anxiety, and develop routines that trigger peak performance.
+Your ability to manage thoughts, maintain focus, and access flow states.
 
-### 🤝 [Team Dynamics](/en/education/team-player/)
-Become the teammate everyone wants to play with. Learn about communication, trust, and how to contribute to a winning team culture.
+- [The Zone](/en/education/mental-game/the-zone/) — Understanding and accessing flow states
+- [Mental Strength](/en/education/mental-game/mental-strength/) — Handling pressure, pre-shot routines
+- [Mindfulness](/en/education/mental-game/mindfulness/) — Present-moment focus, recovery from mistakes
 
-### ♟️ [Tactics](/en/education/tactics/)
-Think strategically about every situation. Learn probability-based decision making and when to take risks.
+### 🔥 Motivation (500 points)
 
-### 🏋️ [Training Methods](/en/education/training/)
-Train smarter, not just harder. Learn how to structure your practice for maximum improvement.
+**What drives you to improve day after day, year after year.**
 
-### 🥗 [Nutrition](/en/education/nutrition/)
-Fuel your brain for precision performance. Learn how to maintain stable energy and focus throughout competition.
+- [Goal Setting](/en/education/motivation/) — SMART goals, process vs outcome focus
+- [Psychology of Motivation](/en/education/motivation/motivation) — Intrinsic vs extrinsic, Self-Determination Theory
+- [Maintaining Motivation](/en/education/motivation/maintaining) — Burnout prevention, plateau navigation
+
+### 😴 Sleep & Recovery (400 points)
+
+**Often overlooked, massively impactful.**
+
+Sleep quality directly affects reaction time, decision-making, and emotional regulation.
+
+- [Sleep Science for Athletes](/en/education/sleep/) — Why sleep matters for precision sports
+- [Building Sleep Habits](/en/education/sleep/habits) — Practical sleep hygiene
+- [Sleep & Competition](/en/education/sleep/competition) — Pre-event protocols, travel management
+
+### 🪞 Self-Awareness (400 points)
+
+**You can't improve what you can't see.**
+
+Accurate self-perception enables targeted improvement.
+
+- [The Self-Awareness Advantage](/en/education/self-awareness/) — Why self-knowledge matters
+- [Getting Feedback](/en/education/self-awareness/feedback) — External perspectives
+- [Video Analysis](/en/education/self-awareness/video) — Using video for self-discovery
+
+### 🥗 Nutrition (300 points)
+
+**Stable energy = stable performance.**
+
+Your brain is a precision instrument — fuel it accordingly.
+
+- [Fueling Performance](/en/education/nutrition/) — Blood sugar, hydration, competition nutrition
+
+### 🤝 Team Dynamics (300 points)
+
+**The best teams aren't always the most skilled.**
+
+Communication and trust often outweigh individual talent.
+
+- [Being a Great Teammate](/en/education/team-dynamics/) — Team culture and support
+- [Team Communication](/en/education/team-dynamics/communication) — Clear, positive communication
+
+### 💆 Tension Management (300 points)
+
+**Tension is precision's enemy.**
+
+You cannot be both tense and accurate.
+
+- [Understanding Tension](/en/education/tension/) — Physical vs mental tension
+- [Release Techniques](/en/education/tension/techniques) — PMR, breathing, quick resets
+- [Competition Management](/en/education/tension/competition) — Pre-match, during-match protocols
+
+### 🎯 Technique (100 points)
+
+**The foundation — necessary but not sufficient.**
+
+At elite level, technique is a given. The differentiators are above.
+
+- [Technique Overview](/en/education/technique/) — Physical mechanics
+- [Training Methods](/en/education/technique/training/) — Deliberate practice
+- [Tactics](/en/education/technique/tactics/) — Strategic decision-making
 
 
-## The Journey from Technique to Flow
+---
 
-As you develop as a player, your training ratio inverts - mental training becomes more important, not less:
+## The Development Journey
 
-| Level | Ratio (Tech:Mental) | Primary Objective |
-|-------|---------------------|-------------------|
-| **Beginner** | 90 : 10 | Build the Machine |
-| **Intermediate** | 70 : 30 | Stabilize the Skill |
-| **Advanced** | 50 : 50 | Trust the Machine |
-| **Expert** | 20 : 80 | Freedom of Performance |
+As you develop as a player, your training ratio inverts:
+
+| Level | Ratio (Tech:Mental) | Focus |
+|-------|---------------------|-------|
+| **Beginner** | 90 : 10 | Build the machine |
+| **Intermediate** | 70 : 30 | Stabilize the skill |
+| **Advanced** | 50 : 50 | Trust the machine |
+| **Expert** | 20 : 80 | Freedom of performance |
 
 You cannot train a Beginner like an Expert (they lack the neural pathways), and you cannot train an Expert like a Beginner (high technical volume causes over-thinking).
 
-## Quick Reference: Key Principles from Each Section
+---
 
-| Section | Core Principle | Key Takeaway |
-|---------|---------------|--------------|
-| **The Zone** | Switch from analytical to automatic mode | *"There are no techniques that always produce a perfect boule. But there is a mental state where perfect boules become natural."* |
-| **Mindfulness** | Choose where to put your attention | *"Mindfulness isn't about emptying your mind. It's about choosing where to put your attention."* |
-| **Goal Setting** | Focus on what you control | *"A goal without a plan is just a wish."* |
-| **Mental Strength** | Perform well despite nerves | *"Mental strength isn't about eliminating nerves or never making mistakes. It's about performing well despite them."* |
-| **Team Dynamics** | Trust and communication win games | *"The best teams aren't always the most skilled - they're the ones who play best together."* |
-| **Tactics** | Decision-making beats technique | *"At elite level, the difference is rarely technique - it's decision-making."* |
-| **Training** | Quality over quantity | *"Train smarter, not just harder."* |
-| **Nutrition** | Stable energy = stable performance | *"Your brain is a precision instrument. Fuel it accordingly."* |
-
-## All Key Rules & Takeaways
+## Quick Reference: Core Principles
 
 ::: details Click to expand: Complete list of principles
-This is your quick reference guide. Bookmark this section and return to it regularly.
 
-### The Zone Rules
+### Mental Game Rules
 1. **The Switch Rule:** Analyze before the circle, execute in the circle, observe after
-2. **The Inversion Rule:** As skill increases, mental training becomes more important than technical training
-3. **The Trust Rule:** Your conscious mind plans, your subconscious executes
-
-### Mindfulness Rules
-1. **The Awareness Rule:** Observe without judgment
-2. **The SOAS Rule:** Stop, Observe, Accept, Slip (let go)
+2. **The Trust Rule:** Your conscious mind plans, your subconscious executes
 3. **The Present Rule:** You can only control this moment, this throw
 
-### Goal Setting Rules
-1. **The Control Rule:** Focus on process goals (what you control) over outcome goals
+### Motivation Rules
+1. **The Control Rule:** Focus on process goals over outcome goals
 2. **The SMART Rule:** Goals must be Specific, Measurable, Achievable, Relevant, Time-bound
-3. **The Breakdown Rule:** Large goals need quarterly, monthly, and weekly milestones
+3. **The Intrinsic Rule:** Internal motivation outlasts external rewards
 
-### Mental Strength Rules
-1. **The Routine Rule:** Consistent pre-shot routines trigger peak performance
-2. **The Reset Rule:** Develop a 10-second reset routine after mistakes
-3. **The Confidence Loop:** Better preparation → More confidence → Better performance
+### Sleep Rules
+1. **The Consistency Rule:** Same wake time every day, even weekends
+2. **The Buffer Rule:** Wind down routine 60+ minutes before bed
+3. **The Competition Rule:** Extra sleep the week before, not just the night before
 
-### Tactical Rules
-1. **The Probability Rule:** Choose throws where success probability justifies the risk
-2. **The Jack Control Rule:** The team that controls jack position has the advantage
-3. **The Distance Rule:** Short distance favors shooting, long distance favors pointing
-4. **The Style Rule:** Force the game into your team's strongest style
-5. **The Boule Management Rule:** Sometimes conceding 1 point is better than risking 3
-
-### Team Dynamics Rules
-1. **The Communication Rule:** Clear, positive communication builds trust
-2. **The Support Rule:** How you respond to teammates' mistakes matters more than your skill
-3. **The Role Rule:** Know your role and execute it fully
-
-### Training Rules
-1. **The Specificity Rule:** Train what you want to improve
-2. **The Variation Rule:** Random practice beats blocked practice for competition transfer
-3. **The Recovery Rule:** Rest is when adaptation happens
+### Self-Awareness Rules
+1. **The Feedback Rule:** Actively seek external perspectives
+2. **The Video Rule:** What you feel ≠ what's real — record and review
+3. **The Blind Spot Rule:** Low self-awareness affects all other assessments
 
 ### Nutrition Rules
 1. **The Stability Rule:** Avoid blood sugar spikes and crashes
 2. **The Hydration Rule:** Even 2% dehydration impairs performance
 3. **The Timing Rule:** Eat 2-3 hours before competition
+
+### Team Dynamics Rules
+1. **The Communication Rule:** Clear, positive communication builds trust
+2. **The Support Rule:** How you respond to mistakes matters more than skill
+3. **The Role Rule:** Know your role and execute it fully
+
+### Tension Rules
+1. **The Release Rule:** You cannot be both tense and precise
+2. **The Yerkes-Dodson Rule:** Find your optimal arousal zone
+3. **The Reset Rule:** 10-second reset before every throw
+
+### Technique Rules
+1. **The Specificity Rule:** Train what you want to improve
+2. **The Variation Rule:** Random practice beats blocked practice
+3. **The Recovery Rule:** Rest is when adaptation happens
 :::
+
+---
 
 ## Start Your Journey
 
 ::: tip Recommended Starting Point
-Begin with [The Zone](/en/education/the-zone/) to understand the foundation of elite performance, then explore [Mindfulness](/en/education/mindfulness/) for practical techniques you can use immediately.
+Begin with [Mental Game](/en/education/mental-game/) to understand the foundation of elite performance. Then explore [Sleep](/en/education/sleep/) — it's often the highest-ROI improvement for developing players.
 :::
 

@@ -1,156 +1,209 @@
-# Undervisning
+# Elite Player Development
 
-Velkommen til Pétanque Academys uddannelsesprogram. Det er her, elitespillere lærer at mestre det mentale spil.
+Welcome to the Pétanque Academy Education program — the complete player development system based on 8 performance factors.
 
-::: tip Kerneprincip
-På eliteniveau bliver **mental træning vigtigere end teknisk træning**. Forholdet vender om, efterhånden som du udvikler dig: begyndere har brug for 90% teknisk arbejde, eksperter har brug for 80% mentalt arbejde.
+::: tip Core Principle
+At the elite level, **mental training becomes more important than technical training**. Notice that Technique has the lowest weight — not because it doesn't matter, but because at the elite level, everyone has good technique. The differentiators are mental.
 :::
 
-## Hvorfor mental træning er vigtig
+---
 
-På eliteniveau er tekniske færdigheder kun udgangspunktet. Forskning viser, at mental indstilling kan være lige så vigtig som fysisk færdighed i præcisionssportsgrene som petanque. Forskellen mellem gode spillere og store spillere ligger ofte i deres sind.
+## The 8-Factor Performance Model
 
-> &quot;Sport er 100% mentalt. Sindet er drivkraften bag alle fysiske evner.&quot;
+Our curriculum is structured around 8 key factors, weighted by their impact on elite performance:
 
-## Din læringsrejse
+| Factor | Weight | Description |
+|--------|--------|-------------|
+| 🧠 [**Mental Game**](/da/education/mental-game/) | **600** | Thought patterns, focus, flow states, self-talk |
+| 🔥 [**Motivation**](/da/education/motivation/) | **500** | Drive, purpose, goal orientation, persistence |
+| 😴 [**Sleep & Recovery**](/da/education/sleep/) | **400** | Sleep quality, recovery, pre-competition rest |
+| 🪞 [**Self-Awareness**](/da/education/self-awareness/) | **400** | Accurate self-perception, blind spot recognition |
+| 🥗 [**Nutrition**](/da/education/nutrition/) | **300** | Blood sugar stability, hydration, competition fuel |
+| 🤝 [**Team Dynamics**](/da/education/team-dynamics/) | **300** | Communication, trust, role clarity |
+| 💆 [**Tension Management**](/da/education/tension/) | **300** | Physical tension, relaxation, breath control |
+| 🎯 [**Technique**](/da/education/technique/) | **100** | Physical mechanics, throw repertoire |
 
-Her er den anbefalede vej gennem vores uddannelsesprogram:
+**Total: 2,900 points**
+
+---
+
+## Why These Weights?
+
+The weights reflect **impact at the elite level**:
 
 ```mermaid
-graph TD
-    A[Start: Forståelse af flow] --> B[Zonen]
-    B --> C[Mindfulness-praksis]
-    C --> D[Målsætning]
-    D --> E[Mental styrke]
-    E --> F[Teamdynamik]
+graph LR
+    subgraph "High Impact (1500)"
+        A[🧠 Mental Game<br/>600]
+        B[🔥 Motivation<br/>500]
+        C[😴 Sleep<br/>400]
+    end
 
-    B --> G[Taktik]
-    G --> H[Træningsmetoder]
+    subgraph "Medium Impact (1000)"
+        D[🪞 Self-Awareness<br/>400]
+        E[🥗 Nutrition<br/>300]
+        F[🤝 Team Dynamics<br/>300]
+    end
 
-    C --> I[Ernæring]
+    subgraph "Foundation (400)"
+        G[💆 Tension<br/>300]
+        H[🎯 Technique<br/>100]
+    end
 
-    style A fill:#e1f5ff
-    style B fill:#fff4e1
-    style C fill:#fff4e1
-    style D fill:#e8f5e9
-    style E fill:#e8f5e9
-    style F fill:#e8f5e9
-    style G fill:#f3e5f5
-    style H fill:#f3e5f5
-    style I fill:#fce4ec
+    style A fill:#4CAF50,color:#fff
+    style B fill:#4CAF50,color:#fff
+    style C fill:#4CAF50,color:#fff
 ```
 
-**Anbefalet rækkefølge:**
-1. **Grundlag:** Start med Zonen og Mindfulness
-2. **Struktur:** Tilføj målsætning og træningsmetoder
-3. **Konkurrence:** Opbyg mental styrke og taktik
-4. **Holdspil:** Mestre holddynamik
-5. **Optimering:** Finjustering med ernæring
+> "At the regional championship, technique separates the top 50%. At the national championship, everyone in the room has elite technique. What separates them is everything else."
 
-## Vores læringsstier
+---
 
-### 🎯 [Zonen (Flowtilstand)](/da/uddannelse/zonen/)
-Lær, hvad &quot;zonen&quot; egentlig er, og hvordan du får adgang til den. Forstå videnskaben bag flowtilstande, og opdag praktiske teknikker til at præstere bedst muligt, når det gælder mest.
+## Explore Each Factor
 
-### 🧘 [Mindfulness](/da/uddannelse/mindfulness/)
-Mestre kunsten at være til stede. Lær videnskabeligt dokumenterede teknikker til at berolige dit sind, forbedre fokus og komme dig hurtigt over fejl.
+### 🧠 Mental Game (600 points)
 
-### 📊 [Målsætning](/da/uddannelse/mål/)
-Lav en køreplan for din udvikling. Lær SMART-rammeværket tilpasset til petanque, og lav en træningsplan, der rent faktisk virker.
+**The most impactful factor for elite performance.**
 
-### 💪 [Mental styrke](/da/uddannelse/mental-styrke/)
-Opbyg den mentale styrke, der er nødvendig for konkurrence. Lær at håndtere pres, overvinde angst og udvikle rutiner, der udløser toppræstation.
+Your ability to manage thoughts, maintain focus, and access flow states.
 
-### 🤝 [Holddynamik](/da/uddannelse/holdspiller/)
-Bliv den holdkammerat, som alle vil spille med. Lær om kommunikation, tillid og hvordan du bidrager til en vindende holdkultur.
+- [The Zone](/da/education/mental-game/the-zone/) — Understanding and accessing flow states
+- [Mental Strength](/da/education/mental-game/mental-strength/) — Handling pressure, pre-shot routines
+- [Mindfulness](/da/education/mental-game/mindfulness/) — Present-moment focus, recovery from mistakes
 
-### ♟️ [Taktik](/da/uddannelse/taktik/)
-Tænk strategisk om enhver situation. Lær sandsynlighedsbaseret beslutningstagning og hvornår du skal tage risici.
+### 🔥 Motivation (500 points)
 
-### 🏋️ [Træningsmetoder](/da/uddannelse/træning/)
-Træn smartere, ikke bare hårdere. Lær hvordan du strukturerer din træning for maksimal forbedring.
+**What drives you to improve day after day, year after year.**
 
-### 🥗 [Ernæring](/da/uddannelse/ernæring/)
-Giv din hjerne brændstof til præcisionspræstationer. Lær hvordan du opretholder stabil energi og fokus under hele konkurrencen.
+- [Goal Setting](/da/education/motivation/) — SMART goals, process vs outcome focus
+- [Psychology of Motivation](/da/education/motivation/motivation) — Intrinsic vs extrinsic, Self-Determination Theory
+- [Maintaining Motivation](/da/education/motivation/maintaining) — Burnout prevention, plateau navigation
+
+### 😴 Sleep & Recovery (400 points)
+
+**Often overlooked, massively impactful.**
+
+Sleep quality directly affects reaction time, decision-making, and emotional regulation.
+
+- [Sleep Science for Athletes](/da/education/sleep/) — Why sleep matters for precision sports
+- [Building Sleep Habits](/da/education/sleep/habits) — Practical sleep hygiene
+- [Sleep & Competition](/da/education/sleep/competition) — Pre-event protocols, travel management
+
+### 🪞 Self-Awareness (400 points)
+
+**You can't improve what you can't see.**
+
+Accurate self-perception enables targeted improvement.
+
+- [The Self-Awareness Advantage](/da/education/self-awareness/) — Why self-knowledge matters
+- [Getting Feedback](/da/education/self-awareness/feedback) — External perspectives
+- [Video Analysis](/da/education/self-awareness/video) — Using video for self-discovery
+
+### 🥗 Nutrition (300 points)
+
+**Stable energy = stable performance.**
+
+Your brain is a precision instrument — fuel it accordingly.
+
+- [Fueling Performance](/da/education/nutrition/) — Blood sugar, hydration, competition nutrition
+
+### 🤝 Team Dynamics (300 points)
+
+**The best teams aren't always the most skilled.**
+
+Communication and trust often outweigh individual talent.
+
+- [Being a Great Teammate](/da/education/team-dynamics/) — Team culture and support
+- [Team Communication](/da/education/team-dynamics/communication) — Clear, positive communication
+
+### 💆 Tension Management (300 points)
+
+**Tension is precision's enemy.**
+
+You cannot be both tense and accurate.
+
+- [Understanding Tension](/da/education/tension/) — Physical vs mental tension
+- [Release Techniques](/da/education/tension/techniques) — PMR, breathing, quick resets
+- [Competition Management](/da/education/tension/competition) — Pre-match, during-match protocols
+
+### 🎯 Technique (100 points)
+
+**The foundation — necessary but not sufficient.**
+
+At elite level, technique is a given. The differentiators are above.
+
+- [Technique Overview](/da/education/technique/) — Physical mechanics
+- [Training Methods](/da/education/technique/training/) — Deliberate practice
+- [Tactics](/da/education/technique/tactics/) — Strategic decision-making
 
 
-## Rejsen fra teknik til flow
+---
 
-Efterhånden som du udvikler dig som spiller, vendes dit træningsforhold - mental træning bliver vigtigere, ikke mindre:
+## The Development Journey
 
-| Niveau | Forhold (Teknologi:Mental) | Primært mål |
-|-------|---------------------|-------------------|
-| **Nybegynder** | 90 : 10 | Byg maskinen |
-| **Mellemniveau** | 70:30 | Stabiliser færdigheden |
-| **Fremskreden** | 50:50 | Stol på maskinen |
-| **Ekspert** | 20:80 | Frihed til at præstere |
+As you develop as a player, your training ratio inverts:
 
-Du kan ikke træne en begynder som en ekspert (de mangler neurale baner), og du kan ikke træne en ekspert som en begynder (høj teknisk volumen forårsager overtænkning).
+| Level | Ratio (Tech:Mental) | Focus |
+|-------|---------------------|-------|
+| **Beginner** | 90 : 10 | Build the machine |
+| **Intermediate** | 70 : 30 | Stabilize the skill |
+| **Advanced** | 50 : 50 | Trust the machine |
+| **Expert** | 20 : 80 | Freedom of performance |
 
-## Hurtig reference: Nøgleprincipper fra hvert afsnit
+You cannot train a Beginner like an Expert (they lack the neural pathways), and you cannot train an Expert like a Beginner (high technical volume causes over-thinking).
 
-| Afsnit | Kerneprincip | Vigtig konklusion |
-|---------|---------------|--------------|
-| **Zonen** | Skift fra analytisk til automatisk tilstand | *&quot;Der findes ingen teknikker, der altid producerer en perfekt kugle. Men der er en mental tilstand, hvor perfekte kugler bliver naturlige.&quot;* |
-| **Mindfulness** | Vælg hvor du vil rette din opmærksomhed | *&quot;Mindfulness handler ikke om at tømme sit sind. Det handler om at vælge, hvor man vil rette sin opmærksomhed hen.&quot;* |
-| **Målsætning** | Fokuser på det, du kontrollerer | *&quot;Et mål uden en plan er blot et ønske.&quot;* |
-| **Mental styrke** | Gør det godt trods nerverne | *&quot;Mental styrke handler ikke om at eliminere nerver eller aldrig at lave fejl. Det handler om at præstere godt på trods af dem.&quot;* |
-| **Teamdynamik** | Tillid og kommunikation vinder kampe | *&quot;De bedste hold er ikke altid de dygtigste - det er dem, der spiller bedst sammen.&quot;* |
-| **Taktik** | Beslutningstagningsteknik | *&quot;På eliteniveau er forskellen sjældent teknikken - det er beslutningstagningen.&quot;* |
-| **Uddannelse** | Kvalitet frem for kvantitet | *&quot;Træn smartere, ikke bare hårdere.&quot;* |
-| **Ernæring** | Stabil energi = stabil ydeevne | *&quot;Din hjerne er et præcisionsinstrument. Giv den brændstof i overensstemmelse hermed.&quot;* |
+---
 
-## Alle vigtige regler og konklusioner
+## Quick Reference: Core Principles
 
-::: details Klik for at udvide: Komplet liste over principper
-Dette er din hurtige referenceguide. Gem dette afsnit som bogmærke, og vend tilbage til det regelmæssigt.
+::: details Click to expand: Complete list of principles
 
-### Zonereglerne
-1. **Switch-reglen:** Analysér før cirklen, udfør i cirklen, observér bagefter
-2. **Inversionsreglen:** Efterhånden som færdighederne øges, bliver mental træning vigtigere end teknisk træning
-3. **Tillidsreglen:** Din bevidsthed planlægger, din underbevidsthed udfører
+### Mental Game Rules
+1. **The Switch Rule:** Analyze before the circle, execute in the circle, observe after
+2. **The Trust Rule:** Your conscious mind plans, your subconscious executes
+3. **The Present Rule:** You can only control this moment, this throw
 
-### Mindfulness-regler
-1. **Bevidsthedsreglen:** Observer uden at dømme
-2. **SOAS-reglen:** Stop, observer, accepter, slip (giv slip)
-3. **Den nuværende regel:** Du kan kun kontrollere dette øjeblik, dette kast
+### Motivation Rules
+1. **The Control Rule:** Focus on process goals over outcome goals
+2. **The SMART Rule:** Goals must be Specific, Measurable, Achievable, Relevant, Time-bound
+3. **The Intrinsic Rule:** Internal motivation outlasts external rewards
 
-### Regler for målsætning
-1. **Kontrolreglen:** Fokuser på procesmål (hvad du kontrollerer) frem for resultatmål
-2. **SMART-reglen:** Mål skal være specifikke, målbare, opnåelige, relevante og tidsbestemte
-3. **Opdelingsreglen:** Store mål kræver kvartalsvise, månedlige og ugentlige milepæle
+### Sleep Rules
+1. **The Consistency Rule:** Same wake time every day, even weekends
+2. **The Buffer Rule:** Wind down routine 60+ minutes before bed
+3. **The Competition Rule:** Extra sleep the week before, not just the night before
 
-### Regler for mental styrke
-1. **Rutinereglen:** Konsekvente rutiner før indsprøjtning udløser toppræstation
-2. **Nulstillingsreglen:** Udvikl en 10-sekunders nulstillingsrutine efter fejl
-3. **Tillidsløkken:** Bedre forberedelse → Mere selvtillid → Bedre præstation
+### Self-Awareness Rules
+1. **The Feedback Rule:** Actively seek external perspectives
+2. **The Video Rule:** What you feel ≠ what's real — record and review
+3. **The Blind Spot Rule:** Low self-awareness affects all other assessments
 
-### Taktiske regler
-1. **Sandsynlighedsreglen:** Vælg kast, hvor sandsynligheden for succes retfærdiggør risikoen
-2. **Reglen om knægtkontrol:** Holdet, der kontrollerer knægtpositionen, har fordelen
-3. **Afstandsreglen:** Kort afstand favoriserer skud, lang afstand favoriserer pegning
-4. **Stilreglen:** Tving spillet ind i dit holds stærkeste stil
-5. **Boule-styringsreglen:** Nogle gange er det bedre at give 1 point end at risikere 3
+### Nutrition Rules
+1. **The Stability Rule:** Avoid blood sugar spikes and crashes
+2. **The Hydration Rule:** Even 2% dehydration impairs performance
+3. **The Timing Rule:** Eat 2-3 hours before competition
 
-### Regler for holddynamik
-1. **Kommunikationsreglen:** Klar, positiv kommunikation opbygger tillid
-2. **Støttereglen:** Hvordan du reagerer på holdkammeraters fejltagelser er vigtigere end dine evner
-3. **Rollereglen:** Kend din rolle og udfør den fuldt ud
+### Team Dynamics Rules
+1. **The Communication Rule:** Clear, positive communication builds trust
+2. **The Support Rule:** How you respond to mistakes matters more than skill
+3. **The Role Rule:** Know your role and execute it fully
 
-### Træningsregler
-1. **Specificitetsreglen:** Træn det, du vil forbedre
-2. **Variationsreglen:** Tilfældig træning slår blokeret træning ved konkurrenceoverførsel
-3. **Restitutionsreglen:** Hvile er, når tilpasning sker
+### Tension Rules
+1. **The Release Rule:** You cannot be both tense and precise
+2. **The Yerkes-Dodson Rule:** Find your optimal arousal zone
+3. **The Reset Rule:** 10-second reset before every throw
 
-### Ernæringsregler
-1. **Stabilitetsreglen:** Undgå blodsukkerstigninger og styrt
-2. **Hydreringsreglen:** Selv 2% dehydrering forringer præstationen
-3. **Timingreglen:** Spis 2-3 timer før konkurrencen
+### Technique Rules
+1. **The Specificity Rule:** Train what you want to improve
+2. **The Variation Rule:** Random practice beats blocked practice
+3. **The Recovery Rule:** Rest is when adaptation happens
 :::
 
-## Start din rejse
+---
 
-::: tip Anbefalet udgangspunkt
-Start med [Zonen](/da/uddannelse/zonen/) for at forstå grundlaget for elitepræstation, og udforsk derefter [Mindfulness](/da/uddannelse/mindfulness/) for praktiske teknikker, du kan bruge med det samme.
+## Start Your Journey
+
+::: tip Recommended Starting Point
+Begin with [Mental Game](/da/education/mental-game/) to understand the foundation of elite performance. Then explore [Sleep](/da/education/sleep/) — it's often the highest-ROI improvement for developing players.
 :::
 

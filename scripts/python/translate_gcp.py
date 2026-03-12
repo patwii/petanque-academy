@@ -64,63 +64,103 @@ def get_cache_key(text, target_language):
 
 FILES = [
     # Main pages
+    'index.md',
+    'about.md',
     'ambition.md',
-    'food.md',
-    'news/index.md',
-    'workshop.md',
-    'case-studies.md',
-    'testimonials.md',
-    'technical/index.md',
-    'technical/throws.md',
-    # Mental Journey section (beginner guide)
-    'mental-journey/index.md',
-    'mental-journey/materials.md',
-    'mental-journey/session-guide.md',
+    'assessment/index.md',
+
+    # Articles section
+    'articles/index.md',
+    'articles/competition-prep.md',
+    'articles/elite-goal-setting.md',
+    'articles/flow-state-science.md',
+    'articles/inner-critic.md',
+    'articles/mental-resilience.md',
+    'articles/mental-training-mistakes.md',
+    'articles/mental-vs-technical.md',
+    'articles/mindfulness-competition.md',
+    'articles/nutrition-competition.md',
+    'articles/practice-structure.md',
+    'articles/pre-shot-routines.md',
+    'articles/pressure-management.md',
+    'articles/self-awareness-development.md',
+    'articles/sleep-performance.md',
+    'articles/team-chemistry.md',
+    'articles/team-communication.md',
+    'articles/team-leadership.md',
+    'articles/tension-precision.md',
+
     # Education main
     'education/index.md',
-    # Goals section
-    'education/goals/index.md',
-    'education/goals/smart-goals.md',
-    'education/goals/planning.md',
-    # Team player section
-    'education/team-player/index.md',
-    'education/team-player/communication.md',
-    # Tactics section
-    'education/tactics/index.md',
-    'education/tactics/probability.md',
-    # Training section
-    'education/training/index.md',
-    'education/training/drills.md',
-    # Mindfulness section
-    'education/mindfulness/index.md',
-    'education/mindfulness/techniques.md',
-    'education/mindfulness/daily-practice.md',
-    # Mental strength section
-    'education/mental-strength/index.md',
-    'education/mental-strength/handling-pressure.md',
-    'education/mental-strength/pre-shot-routine.md',
+
+    # Mental Game section
+    'education/mental-game/index.md',
+    'education/mental-game/mental-strength/index.md',
+    'education/mental-game/mental-strength/handling-pressure.md',
+    'education/mental-game/mental-strength/pre-shot-routine.md',
+    'education/mental-game/mindfulness/index.md',
+    'education/mental-game/mindfulness/techniques.md',
+    'education/mental-game/mindfulness/daily-practice.md',
+    'education/mental-game/the-zone/index.md',
+    'education/mental-game/the-zone/entering-the-zone.md',
+    'education/mental-game/the-zone/technical-vs-flow.md',
+
+    # Motivation section
+    'education/motivation/index.md',
+    'education/motivation/maintaining.md',
+    'education/motivation/motivation.md',
+    'education/motivation/planning.md',
+    'education/motivation/smart-goals.md',
+
+    # Sleep section
+    'education/sleep/index.md',
+    'education/sleep/competition.md',
+    'education/sleep/habits.md',
+
+    # Self-Awareness section
+    'education/self-awareness/index.md',
+    'education/self-awareness/feedback.md',
+    'education/self-awareness/video.md',
+
     # Nutrition section
     'education/nutrition/index.md',
-    # The Zone section
-    'education/the-zone/index.md',
-    'education/the-zone/entering-the-zone.md',
-    'education/the-zone/technical-vs-flow.md',
-    # Blog/Articles section
-    'blog/index.md',
-    'blog/mental-vs-technical.md',
-    'blog/inner-critic.md',
-    'blog/pre-shot-routines.md',
-    'blog/pressure-management.md',
-    'blog/flow-state-science.md',
-    'blog/mindfulness-competition.md',
-    'blog/elite-goal-setting.md',
-    'blog/mental-resilience.md',
-    'blog/team-communication.md',
-    'blog/team-chemistry.md',
-    'blog/team-leadership.md',
-    'blog/mental-training-mistakes.md',
-    'blog/practice-structure.md',
-    'blog/competition-prep.md',
+
+    # Team Dynamics section
+    'education/team-dynamics/index.md',
+    'education/team-dynamics/communication.md',
+
+    # Tension section
+    'education/tension/index.md',
+    'education/tension/competition.md',
+    'education/tension/techniques.md',
+
+    # Technique section
+    'education/technique/index.md',
+    'education/technique/throws.md',
+    'education/technique/tactics/index.md',
+    'education/technique/tactics/probability.md',
+    'education/technique/training/index.md',
+    'education/technique/training/drills.md',
+
+    # Guides section
+    'guides/index.md',
+    'guides/mental-journey/index.md',
+    'guides/mental-journey/materials.md',
+    'guides/mental-journey/session-guide.md',
+    'guides/workshop/index.md',
+    'guides/training-camp/index.md',
+    'guides/training-session/index.md',
+
+    # Templates section
+    'guides/templates/index.md',
+    'guides/templates/diary-template.md',
+    'guides/templates/goal-template.md',
+    'guides/templates/nutrition-planner.md',
+    'guides/templates/peer-feedback.md',
+    'guides/templates/pre-competition-checklist.md',
+    'guides/templates/sleep-tracker.md',
+    'guides/templates/team-agreement.md',
+    'guides/templates/tension-quick-card.md',
 ]
 
 LANGUAGES = {

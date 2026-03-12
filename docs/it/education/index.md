@@ -1,156 +1,209 @@
-# Istruzione
+# Elite Player Development
 
-Benvenuti al programma educativo della Pétanque Academy. È qui che i giocatori d&#39;élite imparano a padroneggiare il gioco mentale.
+Welcome to the Pétanque Academy Education program — the complete player development system based on 8 performance factors.
 
-::: tip Principio fondamentale
-A livello d&#39;élite, l&#39;allenamento mentale diventa più importante di quello tecnico. Il rapporto si inverte man mano che si progredisce: i principianti necessitano del 90% di lavoro tecnico, gli esperti dell&#39;80% di lavoro mentale.
+::: tip Core Principle
+At the elite level, **mental training becomes more important than technical training**. Notice that Technique has the lowest weight — not because it doesn't matter, but because at the elite level, everyone has good technique. The differentiators are mental.
 :::
 
-## Perché l&#39;allenamento mentale è importante
+---
 
-A livello d&#39;élite, l&#39;abilità tecnica è solo il punto di partenza. La ricerca dimostra che l&#39;atteggiamento mentale può essere importante quanto l&#39;abilità fisica negli sport di precisione come la pétanque. La differenza tra buoni giocatori e grandi giocatori risiede spesso nella loro mente.
+## The 8-Factor Performance Model
 
-> &quot;Lo sport è al 100% mentale. La mente è la forza trainante di tutte le capacità fisiche.&quot;
+Our curriculum is structured around 8 key factors, weighted by their impact on elite performance:
 
-## Il tuo percorso di apprendimento
+| Factor | Weight | Description |
+|--------|--------|-------------|
+| 🧠 [**Mental Game**](/it/education/mental-game/) | **600** | Thought patterns, focus, flow states, self-talk |
+| 🔥 [**Motivation**](/it/education/motivation/) | **500** | Drive, purpose, goal orientation, persistence |
+| 😴 [**Sleep & Recovery**](/it/education/sleep/) | **400** | Sleep quality, recovery, pre-competition rest |
+| 🪞 [**Self-Awareness**](/it/education/self-awareness/) | **400** | Accurate self-perception, blind spot recognition |
+| 🥗 [**Nutrition**](/it/education/nutrition/) | **300** | Blood sugar stability, hydration, competition fuel |
+| 🤝 [**Team Dynamics**](/it/education/team-dynamics/) | **300** | Communication, trust, role clarity |
+| 💆 [**Tension Management**](/it/education/tension/) | **300** | Physical tension, relaxation, breath control |
+| 🎯 [**Technique**](/it/education/technique/) | **100** | Physical mechanics, throw repertoire |
 
-Ecco il percorso consigliato attraverso il nostro programma formativo:
+**Total: 2,900 points**
+
+---
+
+## Why These Weights?
+
+The weights reflect **impact at the elite level**:
 
 ```mermaid
-graph TD
-    A[Inizio: Comprensione del flusso] --> B[La zona]
-    B --> C[Pratica di consapevolezza]
-    C --> D[Definizione degli obiettivi]
-    D --> E[Forza mentale]
-    E --> F[Dinamiche di squadra]
+graph LR
+    subgraph "High Impact (1500)"
+        A[🧠 Mental Game<br/>600]
+        B[🔥 Motivation<br/>500]
+        C[😴 Sleep<br/>400]
+    end
 
-    B --> G[Tattiche]
-    G --> H[Metodi di allenamento]
+    subgraph "Medium Impact (1000)"
+        D[🪞 Self-Awareness<br/>400]
+        E[🥗 Nutrition<br/>300]
+        F[🤝 Team Dynamics<br/>300]
+    end
 
-    C --> I[Nutrizione]
+    subgraph "Foundation (400)"
+        G[💆 Tension<br/>300]
+        H[🎯 Technique<br/>100]
+    end
 
-    style A fill:#e1f5ff
-    style B fill:#fff4e1
-    style C fill:#fff4e1
-    style D fill:#e8f5e9
-    style E fill:#e8f5e9
-    style F fill:#e8f5e9
-    style G fill:#f3e5f5
-    style H fill:#f3e5f5
-    style I fill:#fce4ec
+    style A fill:#4CAF50,color:#fff
+    style B fill:#4CAF50,color:#fff
+    style C fill:#4CAF50,color:#fff
 ```
 
-**Sequenza consigliata:**
-1. **Fondamenti:** Inizia con la Zona e la Mindfulness
-2. **Struttura:** Aggiungi definizione degli obiettivi e metodi di formazione
-3. **Competizione:** Sviluppa la forza mentale e le tattiche
-4. **Gioco di squadra:** Padroneggia le dinamiche di squadra
-5. **Ottimizzazione:** Ottimizza con la nutrizione
+> "At the regional championship, technique separates the top 50%. At the national championship, everyone in the room has elite technique. What separates them is everything else."
 
-## I nostri percorsi di apprendimento
+---
 
-### 🎯 [La Zona (Stato di Flusso)](/it/educazione/la-zona/)
-Scopri cos&#39;è veramente la &quot;zona&quot; e come accedervi. Comprendi la scienza alla base degli stati di flusso e scopri tecniche pratiche per dare il massimo quando serve di più.
+## Explore Each Factor
 
-### 🧘 [Mindfulness](/it/educazione/mindfulness/)
-Padroneggia l&#39;arte di essere presente. Impara tecniche scientificamente provate per calmare la mente, migliorare la concentrazione e riprenderti rapidamente dagli errori.
+### 🧠 Mental Game (600 points)
 
-### 📊 [Fissazione degli obiettivi](/it/istruzione/obiettivi/)
-Crea una tabella di marcia per il tuo sviluppo. Impara il framework SMART adattato alla pétanque e costruisci un piano di allenamento che funzioni davvero.
+**The most impactful factor for elite performance.**
 
-### 💪 [Forza mentale](/it/educazione/forza-mentale/)
-Sviluppa la forza mentale necessaria per la competizione. Impara a gestire la pressione, a superare l&#39;ansia e a sviluppare routine che favoriscano le massime prestazioni.
+Your ability to manage thoughts, maintain focus, and access flow states.
 
-### 🤝 [Dinamiche di squadra](/it/education/team-player/)
-Diventa il compagno di squadra con cui tutti vogliono giocare. Impara a comunicare, a fidarti e a contribuire a creare una cultura di squadra vincente.
+- [The Zone](/it/education/mental-game/the-zone/) — Understanding and accessing flow states
+- [Mental Strength](/it/education/mental-game/mental-strength/) — Handling pressure, pre-shot routines
+- [Mindfulness](/it/education/mental-game/mindfulness/) — Present-moment focus, recovery from mistakes
 
-### ♟️ [Tattiche](/it/educazione/tattiche/)
-Pensa in modo strategico a ogni situazione. Impara a prendere decisioni basate sulle probabilità e a capire quando correre dei rischi.
+### 🔥 Motivation (500 points)
 
-### 🏋️ [Metodi di allenamento](/it/educazione/formazione/)
-Allenati in modo più intelligente, non solo più duramente. Impara a strutturare la tua pratica per ottenere il massimo miglioramento.
+**What drives you to improve day after day, year after year.**
 
-### 🥗 [Nutrizione](/it/educazione/nutrizione/)
-Alimenta il tuo cervello per prestazioni di precisione. Impara a mantenere energia e concentrazione stabili durante la gara.
+- [Goal Setting](/it/education/motivation/) — SMART goals, process vs outcome focus
+- [Psychology of Motivation](/it/education/motivation/motivation) — Intrinsic vs extrinsic, Self-Determination Theory
+- [Maintaining Motivation](/it/education/motivation/maintaining) — Burnout prevention, plateau navigation
+
+### 😴 Sleep & Recovery (400 points)
+
+**Often overlooked, massively impactful.**
+
+Sleep quality directly affects reaction time, decision-making, and emotional regulation.
+
+- [Sleep Science for Athletes](/it/education/sleep/) — Why sleep matters for precision sports
+- [Building Sleep Habits](/it/education/sleep/habits) — Practical sleep hygiene
+- [Sleep & Competition](/it/education/sleep/competition) — Pre-event protocols, travel management
+
+### 🪞 Self-Awareness (400 points)
+
+**You can't improve what you can't see.**
+
+Accurate self-perception enables targeted improvement.
+
+- [The Self-Awareness Advantage](/it/education/self-awareness/) — Why self-knowledge matters
+- [Getting Feedback](/it/education/self-awareness/feedback) — External perspectives
+- [Video Analysis](/it/education/self-awareness/video) — Using video for self-discovery
+
+### 🥗 Nutrition (300 points)
+
+**Stable energy = stable performance.**
+
+Your brain is a precision instrument — fuel it accordingly.
+
+- [Fueling Performance](/it/education/nutrition/) — Blood sugar, hydration, competition nutrition
+
+### 🤝 Team Dynamics (300 points)
+
+**The best teams aren't always the most skilled.**
+
+Communication and trust often outweigh individual talent.
+
+- [Being a Great Teammate](/it/education/team-dynamics/) — Team culture and support
+- [Team Communication](/it/education/team-dynamics/communication) — Clear, positive communication
+
+### 💆 Tension Management (300 points)
+
+**Tension is precision's enemy.**
+
+You cannot be both tense and accurate.
+
+- [Understanding Tension](/it/education/tension/) — Physical vs mental tension
+- [Release Techniques](/it/education/tension/techniques) — PMR, breathing, quick resets
+- [Competition Management](/it/education/tension/competition) — Pre-match, during-match protocols
+
+### 🎯 Technique (100 points)
+
+**The foundation — necessary but not sufficient.**
+
+At elite level, technique is a given. The differentiators are above.
+
+- [Technique Overview](/it/education/technique/) — Physical mechanics
+- [Training Methods](/it/education/technique/training/) — Deliberate practice
+- [Tactics](/it/education/technique/tactics/) — Strategic decision-making
 
 
-## Il viaggio dalla tecnica al flusso
+---
 
-Man mano che cresci come giocatore, il tuo rapporto di allenamento si inverte: l&#39;allenamento mentale diventa più importante, non meno:
+## The Development Journey
 
-| Livello | Rapporto (Tecnologia:Mentale) | Obiettivo primario |
-|-------|---------------------|-------------------|
-| **Principiante** | 90:10 | Costruisci la macchina |
-| **Intermedio** | 70:30 | Stabilizzare l&#39;abilità |
-| **Avanzato** | 50:50 | Fidati della macchina |
-| **Esperto** | 20:80 | Libertà di esecuzione |
+As you develop as a player, your training ratio inverts:
 
-Non puoi addestrare un principiante come un esperto (mancano i percorsi neurali) e non puoi addestrare un esperto come un principiante (un volume tecnico elevato porta a pensare troppo).
+| Level | Ratio (Tech:Mental) | Focus |
+|-------|---------------------|-------|
+| **Beginner** | 90 : 10 | Build the machine |
+| **Intermediate** | 70 : 30 | Stabilize the skill |
+| **Advanced** | 50 : 50 | Trust the machine |
+| **Expert** | 20 : 80 | Freedom of performance |
 
-## Riferimento rapido: principi chiave di ogni sezione
+You cannot train a Beginner like an Expert (they lack the neural pathways), and you cannot train an Expert like a Beginner (high technical volume causes over-thinking).
 
-| Sezione | Principio fondamentale | Conclusione chiave |
-|---------|---------------|--------------|
-| **La Zona** | Passa dalla modalità analitica a quella automatica | *&quot;Non esistono tecniche che producano sempre una boccia perfetta. Ma esiste uno stato mentale in cui le bocce perfette diventano naturali.&quot;* |
-| **Consapevolezza** | Scegli dove porre la tua attenzione | *&quot;La consapevolezza non consiste nello svuotare la mente. Si tratta di scegliere dove concentrare la propria attenzione.&quot;* |
-| **Definizione degli obiettivi** | Concentrati su ciò che controlli | *&quot;Un obiettivo senza un piano è solo un desiderio.&quot;* |
-| **Forza mentale** | Renditi bene nonostante i nervi | *&quot;La forza mentale non consiste nell&#39;eliminare la tensione o nel non commettere mai errori. Si tratta di ottenere buoni risultati nonostante gli errori.&quot;* |
-| **Dinamiche di squadra** | La fiducia e la comunicazione vincono le partite | *&quot;Le squadre migliori non sono sempre quelle più abili: sono quelle che giocano meglio insieme.&quot;* |
-| **Tattiche** | Il processo decisionale supera la tecnica | *&quot;A livello d&#39;élite, la differenza raramente è nella tecnica, ma nel processo decisionale.&quot;* |
-| **Formazione** | Qualità prima della quantità | *&quot;Allenati in modo più intelligente, non solo più duramente.&quot;* |
-| **Nutrizione** | Energia stabile = prestazioni stabili | *&quot;Il tuo cervello è uno strumento di precisione. Alimentalo di conseguenza.&quot;* |
+---
 
-## Tutte le regole chiave e i punti chiave da ricordare
+## Quick Reference: Core Principles
 
-::: details Clicca per espandere: Elenco completo dei principi
-Questa è la tua guida di riferimento rapido. Aggiungi questa sezione ai preferiti e consultala regolarmente.
+::: details Click to expand: Complete list of principles
 
-### Le regole della zona
-1. **La regola dello scambio:** Analizza prima del cerchio, esegui nel cerchio, osserva dopo
-2. **La regola dell&#39;inversione:** Man mano che l&#39;abilità aumenta, l&#39;allenamento mentale diventa più importante dell&#39;allenamento tecnico
-3. **La regola della fiducia:** La tua mente cosciente pianifica, il tuo subconscio esegue
+### Mental Game Rules
+1. **The Switch Rule:** Analyze before the circle, execute in the circle, observe after
+2. **The Trust Rule:** Your conscious mind plans, your subconscious executes
+3. **The Present Rule:** You can only control this moment, this throw
 
-### Regole di consapevolezza
-1. **La regola della consapevolezza:** Osservare senza giudizio
-2. **La regola SOAS:** Fermati, Osserva, Accetta, Scivola (lascia andare)
-3. **La regola del presente:** Puoi controllare solo questo momento, questo lancio
+### Motivation Rules
+1. **The Control Rule:** Focus on process goals over outcome goals
+2. **The SMART Rule:** Goals must be Specific, Measurable, Achievable, Relevant, Time-bound
+3. **The Intrinsic Rule:** Internal motivation outlasts external rewards
 
-### Regole per la definizione degli obiettivi
-1. **La regola del controllo:** Concentrati sugli obiettivi di processo (ciò che controlli) piuttosto che sugli obiettivi di risultato
-2. **La regola SMART:** Gli obiettivi devono essere specifici, misurabili, raggiungibili, pertinenti e vincolati al tempo
-3. **La regola di ripartizione:** Gli obiettivi di grandi dimensioni necessitano di traguardi trimestrali, mensili e settimanali
+### Sleep Rules
+1. **The Consistency Rule:** Same wake time every day, even weekends
+2. **The Buffer Rule:** Wind down routine 60+ minutes before bed
+3. **The Competition Rule:** Extra sleep the week before, not just the night before
 
-### Regole di forza mentale
-1. **La regola della routine:** Le routine pre-tiro coerenti innescano prestazioni di picco
-2. **La regola del reset:** Sviluppa una routine di reset di 10 secondi dopo gli errori
-3. **Il ciclo della fiducia:** Migliore preparazione → Più fiducia → Migliori prestazioni
+### Self-Awareness Rules
+1. **The Feedback Rule:** Actively seek external perspectives
+2. **The Video Rule:** What you feel ≠ what's real — record and review
+3. **The Blind Spot Rule:** Low self-awareness affects all other assessments
 
-### Regole tattiche
-1. **La regola della probabilità:** Scegli i lanci in cui la probabilità di successo giustifica il rischio
-2. **Regola del controllo del jack:** La squadra che controlla la posizione del jack ha il vantaggio
-3. **La regola della distanza:** La distanza corta favorisce il tiro, la distanza lunga favorisce il puntamento
-4. **La regola dello stile:** Forza il gioco nello stile più forte della tua squadra
-5. **La regola della gestione delle bocce:** A volte concedere 1 punto è meglio che rischiarne 3
+### Nutrition Rules
+1. **The Stability Rule:** Avoid blood sugar spikes and crashes
+2. **The Hydration Rule:** Even 2% dehydration impairs performance
+3. **The Timing Rule:** Eat 2-3 hours before competition
 
-### Regole delle dinamiche di squadra
-1. **La regola della comunicazione:** Una comunicazione chiara e positiva crea fiducia
-2. **La regola del supporto:** Il modo in cui rispondi agli errori dei compagni di squadra è più importante della tua abilità
-3. **La regola del ruolo:** Conosci il tuo ruolo ed eseguilo pienamente
+### Team Dynamics Rules
+1. **The Communication Rule:** Clear, positive communication builds trust
+2. **The Support Rule:** How you respond to mistakes matters more than skill
+3. **The Role Rule:** Know your role and execute it fully
 
-### Regole di allenamento
-1. **La regola della specificità:** Allena ciò che vuoi migliorare
-2. **Regola della variazione:** La pratica casuale batte la pratica bloccata per il trasferimento della competizione
-3. **La regola del recupero:** Il riposo è il momento in cui avviene l&#39;adattamento
+### Tension Rules
+1. **The Release Rule:** You cannot be both tense and precise
+2. **The Yerkes-Dodson Rule:** Find your optimal arousal zone
+3. **The Reset Rule:** 10-second reset before every throw
 
-### Regole nutrizionali
-1. **La regola della stabilità:** evitare picchi e crolli della glicemia
-2. **La regola dell&#39;idratazione:** Anche una disidratazione del 2% compromette le prestazioni
-3. **Regola del tempismo:** Mangiare 2-3 ore prima della gara
+### Technique Rules
+1. **The Specificity Rule:** Train what you want to improve
+2. **The Variation Rule:** Random practice beats blocked practice
+3. **The Recovery Rule:** Rest is when adaptation happens
 :::
 
-## Inizia il tuo viaggio
+---
 
-::: tip Punto di partenza consigliato
-Inizia con [The Zone](/it/education/the-zone/) per comprendere le basi delle prestazioni d&#39;élite, quindi esplora [Mindfulness](/it/education/mindfulness/) per tecniche pratiche che puoi utilizzare immediatamente.
+## Start Your Journey
+
+::: tip Recommended Starting Point
+Begin with [Mental Game](/it/education/mental-game/) to understand the foundation of elite performance. Then explore [Sleep](/it/education/sleep/) — it's often the highest-ROI improvement for developing players.
 :::
 

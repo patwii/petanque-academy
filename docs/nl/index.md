@@ -22,3 +22,5 @@ features:
     details: Combinatie van mentale training, tactiek, teamwork en voeding voor topprestaties.
 ---
 
+
+<AssessmentForm />

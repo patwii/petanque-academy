@@ -1,154 +1,154 @@
-# Om Pétanque-akademiet
+# About Pétanque Academy
 
 
-## En lidenskap for petanque
+## A Passion for Pétanque
 
-Velkommen til Pétanque Academy, hvor en dyptliggende lidenskap for petanque har vært en drivkraft i over 45 år. Min reise med denne sporten har vært preget av dedikasjon, dyktighet og kontinuerlig entusiasme.
+Welcome to Pétanque Academy, where a deep-seated passion for pétanque has been a driving force for over 45 years. My journey with this sport has been one of dedication, skill, and continuous enthusiasm.
 
-Pétanque er ikke bare et spill; det er en måte å knytte bånd, legge strategier og nyte naturen på, og jeg har vært så heldig å få oppleve dets mange fasetter i nesten et halvt århundre. Enten det er den presise plasseringen av en boule eller kameratskapet i terrenget, er min forpliktelse til pétanque fortsatt like sterk som alltid.
+Pétanque isn't just a game; it's a way to connect, strategize, and enjoy the outdoors, and I've been fortunate to experience its many facets for nearly half a century. Whether it's the precise placement of a boule or the camaraderie on the terrain, my commitment to pétanque remains as strong as ever.
 
 ![Patrik Wiik with friends](/img.png)
 
-*Det er virkelig det som gjør petanque så spesielt å dele denne lidenskapen med venner. De utallige timene man bruker på terrenget, fylt med latter, vennskapelig konkurranse og delte historier, bygger bånd som varer livet ut.*
+*Sharing this passion with friends is truly what makes pétanque so special. The countless hours spent on the terrain, filled with laughter, friendly competition, and shared stories, build bonds that last a lifetime.*
 
 ---
 
-## Mitt oppdrag
+## My Mission
 
-Pétanque Academys oppgave er å hjelpe elitespillere med å frigjøre sitt fulle potensial ved å ta tak i det mentale spillet – det ofte oversette aspektet som skiller gode spillere fra store spillere.
+The mission of Pétanque Academy is to help elite players unlock their full potential by addressing the mental game - the often-overlooked aspect that separates good players from great ones.
 
-Gjennom denne nettsiden deler jeg:
-- **Mentale spillrammeverk** utviklet fra flere tiår med erfaring
-- **Praktiske verktøy og maler** for målsetting og opplæring
-- **Workshop-metodologier** for å bygge psykologisk trygghet
-- **Evidensbaserte tilnærminger** til ytelse under press
+Through this site, I share:
+- **Mental game frameworks** developed from decades of experience
+- **Practical tools and templates** for goal setting and training
+- **Workshop methodologies** for building psychological safety
+- **Evidence-based approaches** to performance under pressure
 
-Dette handler ikke om teknisk coaching – det handler om å skape det mentale grunnlaget som lar dine tekniske ferdigheter skinne når det gjelder som mest.
-
----
-
-## Hvorfor jeg opprettet denne nettsiden
-
-Etter over 45 år i petanque har jeg sett utallige talentfulle spillere slite ikke med teknikk, men med:
-- **Indre kritiker** som ødelegger selvtilliten etter feil
-- **Press** som gjør at de spiller annerledes i konkurranser
-- **Mangel på struktur** i mental trening
-- **Isolasjon** i utviklingsreisen sin
-
-Dette nettstedet eksisterer for å endre på det. Alt innhold her er utformet for å være umiddelbart praktisk – maler du kan kopiere, rammeverk du kan bruke i dag og verktøy som fungerer i reell konkurranse.
+This isn't about technical coaching - it's about creating the mental foundation that allows your technical skills to shine when it matters most.
 
 ---
 
+## Why I Created This Site
 
-## Ta kontakt
+After 45+ years in pétanque, I've seen countless talented players struggle not with technique, but with:
+- **Inner critic** that destroys confidence after mistakes
+- **Pressure** that makes them play differently in competition
+- **Lack of structure** in mental training
+- **Isolation** in their development journey
 
-Jeg vil gjerne høre fra deg! Enten du har spørsmål, ønsker å dele erfaringene dine, eller er interessert i workshops og opplæring, er det bare å ta kontakt.
+This site exists to change that. Every piece of content here is designed to be immediately practical - templates you can copy, frameworks you can apply today, and tools that work in real competition.
 
-### Kontaktinformasjon
+---
 
-**E-post:** [patrik.wiik@gmail.com](mailto:patrik.wiik@gmail.com)
+
+## Get in Touch
+
+I'd love to hear from you! Whether you have questions, want to share your experience, or are interested in workshops and training, feel free to reach out.
+
+### Contact Information
+
+**Email:** [patrik.wiik@gmail.com](mailto:patrik.wiik@gmail.com)
 
 **Facebook:** [facebook.com/patrik.wiik](https://www.facebook.com/patrik.wiik)
 
 ---
 
-## Hjelp meg å forbedre dette nettstedet
+## Help Me Improve This Site
 
-Din tilbakemelding er uvurderlig! Denne nettsiden er i stadig utvikling basert på hva elitespillere faktisk trenger.
+Your feedback is invaluable! This site is constantly evolving based on what elite players actually need.
 
-### Jeg vil gjerne høre fra deg om:
+### I'd Love to Hear From You About:
 
-::: tip Hva ville hjelpe deg mest?
-- **Hvilket innhold ønsker du å se mer av?**
-  - Flere mentale spillteknikker?
-  - Flere praktiske maler?
-  - Casestudier fra elitespillere?
+::: tip What Would Help You Most?
+- **What content would you like to see more of?**
+  - More mental game techniques?
+  - More practical templates?
+  - Case studies from elite players?
 
-- **Hva mangler på nettstedet?**
-  - Temaer som ikke er dekket?
-  – Verktøy du skulle ønske fantes?
-  – Ressurser du ikke finner?
+- **What's missing from the site?**
+  - Topics not covered?
+  - Tools you wish existed?
+  - Resources you can't find?
 
-- **Hva fungerer bra?**
-  – Hvilke sider har vært mest nyttige?
-  – Hvilke verktøy har du egentlig brukt?
-  – Hva gjorde den største forskjellen for deg?
+- **What's working well?**
+  - Which pages have been most helpful?
+  - Which tools have you actually used?
+  - What made the biggest difference for you?
 
-- **Hvordan kan jeg gjøre det bedre?**
-  - Forbedringer i navigasjonen?
-  - Organisering av innhold?
-  – Flere eksempler?
-  - Ulike formater?
+- **How can I make it better?**
+  - Navigation improvements?
+  - Content organization?
+  - More examples?
+  - Different formats?
 :::
 
-### Send meg din tilbakemelding
+### Send Me Your Feedback
 
-**Send dine tanker til:** [patrik.wiik@gmail.com](mailto:patrik.wiik@gmail.com)
+**Email your thoughts to:** [patrik.wiik@gmail.com](mailto:patrik.wiik@gmail.com)
 
-**Forslag til emnelinjer:**
-– «Tilbakemelding fra nettstedet: [Emnet ditt]»
-– «Innholdsforespørsel: [Hva du trenger]»
-– «Suksesshistorie: [Hvordan den hjalp]»
-– «Forslag: [Din idé]»
+**Subject line suggestions:**
+- "Site Feedback: [Your Topic]"
+- "Content Request: [What You Need]"
+- "Success Story: [How It Helped]"
+- "Suggestion: [Your Idea]"
 
-**Hva som skal inkluderes:**
-- Ditt nåværende nivå/erfaring
-- Hva du jobber med
-- Spesifikke tilbakemeldinger eller forespørsler
-- Eventuelle suksesshistorier med bruk av innholdet
+**What to include:**
+- Your current level/experience
+- What you're working on
+- Specific feedback or requests
+- Any success stories using the content
 
 ---
 
-## Hva andre sier
+## What Others Are Saying
 
-::: details Tilbakemeldinger fra elitespillere
-*«Det mentale spillinnholdet har fullstendig endret hvordan jeg nærmer meg konkurranse. Bare Inner Coach-rammeverket var verdt å finne dette nettstedet.»*
-— Regionsmester, Frankrike
+::: details Feedback from Elite Players
+*"The mental game content has completely changed how I approach competition. The Inner Coach framework alone was worth finding this site."*  
+— Regional Champion, France
 
-*«Endelig er det ingen som forstår teknikken som er problemet. Workshop-metodikken ga klubben vår en helt ny måte å trene på.»*
-— Landslagsspiller, Sverige
+*"Finally, someone who understands that technique isn't the problem. The workshop methodology gave our club a whole new way to train."*  
+— National Team Player, Sweden
 
-*«Målmalen og dagbokmalen var akkurat det jeg trengte. Enkle, praktiske og faktisk brukbare.»*
-— Turneringsspiller, Spania
+*"The goal template and diary template are exactly what I needed. Simple, practical, and actually usable."*  
+— Tournament Player, Spain
 :::
 
 ---
 
-## Om innholdet
+## About the Content
 
-Alt innhold på dette nettstedet er:
-- **Gratis og tilgjengelig** - Ingen betalingsmurer, intet skjult innhold
-- **Praktisk og handlingsrettet** - Maler du kan bruke i dag
-- **Evidensbasert** - Bygget på psykologisk forskning og over 45 års erfaring
-- **Oppdateres kontinuerlig** - Nytt innhold lagt til basert på tilbakemeldingene dine
-
----
-
-## Personvern og informasjonskapsler
-
-Dette nettstedet bruker Google AdSense for å støtte driften. Ved å bruke dette nettstedet godtar du Googles bruk av informasjonskapsler for personlig tilpasning av annonser og analyse.
-
-**Vi respekterer personvernet ditt:**
-- Ingen personopplysninger samles inn utover standard analysemetoder
-- Ingen e-postlister eller spam
-– Kontaktinformasjonen brukes kun til å svare på meldingene dine
+All content on this site is:
+- **Free and accessible** - No paywalls, no hidden content
+- **Practical and actionable** - Templates you can use today
+- **Evidence-based** - Built on psychology research and 45+ years of experience
+- **Continuously updated** - New content added based on your feedback
 
 ---
 
-## Koble til og del
+## Privacy & Cookies
 
-Hvis du synes dette innholdet er verdifullt:
-- **Del det** med treningspartnerne dine
-- **Anbefal det** til klubben din
-- **Lenke til den** fra dine egne ressurser
-- **Gi tilbakemelding** for å forbedre det
+This site uses Google AdSense to help support its operation. By using this site, you agree to Google's use of cookies for ad personalization and analytics.
 
-Sammen kan vi heve det mentale petanque-spillet over hele verden.
+**We respect your privacy:**
+- No personal data is collected beyond standard analytics
+- No email lists or spam
+- Contact information is only used to respond to your messages
+
+---
+
+## Connect & Share
+
+If you find this content valuable:
+- **Share it** with your training partners
+- **Recommend it** to your club
+- **Link to it** from your own resources
+- **Give feedback** to help it improve
+
+Together, we can elevate the mental game of pétanque worldwide.
 
 ---
 
 
-**Takk for at du er en del av Pétanque Academy!**
+**Thank you for being part of Pétanque Academy!**
 
 *— Patrik Wiik*
 

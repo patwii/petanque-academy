@@ -22,3 +22,5 @@ features:
     details: Combinando allenamento mentale, tattica, lavoro di squadra e nutrizione per prestazioni ottimali.
 ---
 
+
+<AssessmentForm />

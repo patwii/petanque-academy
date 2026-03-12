@@ -22,3 +22,5 @@ features:
     details: Kombinerar mental träning, taktik, lagarbete och kost för topprestationer.
 ---
 
+
+<AssessmentForm />

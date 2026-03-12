@@ -1,87 +1,127 @@
-# Ambición
+# Ambition
 
+Our mission is to help elite players take the next step in their development.
 
-Nuestra misión es ayudar a los jugadores de élite a dar el siguiente paso en su desarrollo.
-
-::: tip Nuestra visión
-**Transforma a jugadores de élite de técnicamente competentes a mentalmente imparables.** Te ayudamos a acceder al estado de flujo donde las bolas perfectas se convierten en una expresión natural de tu maestría.
+::: tip Our Vision
+**Transform elite players from technically proficient to mentally unstoppable.** We use a data-driven approach to identify your highest-impact improvement areas.
 :::
 
-## Más allá de la técnica
+## The 8-Factor Performance Model
 
-El entrenamiento tradicional se centra principalmente en los aspectos técnicos: el agarre, la postura y la liberación. Si bien estos fundamentos son importantes, los jugadores de élite ya los dominan.
-
-```mermaid
-graph LR
-    A[Entrenamiento tradicional] --> B[Enfoque técnico]
-    B --> C[Meseta]
-
-    D[Pétanque Academy] --> E[Enfoque del estado de flujo]
-    E --> F[Rendimiento de siguiente nivel]
-
-    style A fill:#f5f5f5
-    style C fill:#ffebee
-    style D fill:#e8f5e9
-    style F fill:#e8f5e9
-```
-
-::: info El avance
-**El siguiente nivel no se trata de perfeccionar la técnica: se trata de entrar en el estado de flujo.**
-
-Ayudamos a los jugadores a pasar de una perspectiva de entrenamiento técnico a una perspectiva de **flujo (en la zona)**, donde las bolas perfectas se convierten en una expresión natural de su dominio en lugar de un esfuerzo consciente.
-:::
-
-## El viaje
+Research and experience show that elite pétanque performance depends on **8 interconnected factors**. Most players over-invest in technique while neglecting the factors that actually separate good from great.
 
 ```mermaid
 graph TD
-    A[Jugador de élite] --> B[Dominio técnico]
-    B --> C{What's Next?}
+    subgraph "High Impact (1500 points)"
+        A[🧠 Mental Game<br/>600 pts]
+        B[🔥 Motivation<br/>500 pts]
+        C[😴 Sleep<br/>400 pts]
+    end
 
-    C --> D[Juego mental]
-    C --> E[Estado de flujo]
-    C --> F[Nutrición]
-    C --> G[Consciencia]
+    subgraph "Medium Impact (1000 points)"
+        D[🪞 Self-Awareness<br/>400 pts]
+        E[🥗 Nutrition<br/>300 pts]
+        F[🤝 Team Dynamics<br/>300 pts]
+    end
 
-    D --> H[Máximo rendimiento]
-    E --> H
-    F --> H
-    G --> H
+    subgraph "Foundation (400 points)"
+        G[💆 Tension Management<br/>300 pts]
+        H[🎯 Technique<br/>100 pts]
+    end
 
-    style A fill:#e3f2fd
-    style B fill:#e8f5e9
-    style H fill:#fff4e1
+    A --> I[Peak Performance]
+    B --> I
+    C --> I
+    D --> I
+    E --> I
+    F --> I
+    G --> I
+    H --> I
+
+    style A fill:#9C27B0,color:#fff
+    style B fill:#FF5722,color:#fff
+    style C fill:#3F51B5,color:#fff
+    style I fill:#4CAF50,color:#fff
 ```
 
-## Lo que ofrecemos
+### Why Technique Has the Lowest Weight
 
-| Ofrenda | Descripción | Impacto |
-|----------|-------------|--------|
-| **Talleres** | Grupos pequeños de jugadores de élite (6-8) | Aprendizaje y apoyo profundo entre pares |
-| **Educación** | Aspectos mentales del máximo rendimiento | Técnicas prácticas que puedes utilizar de inmediato |
-| **Comunidad** | Jugadores con ideas afines que superan los límites | Responsabilidad y crecimiento compartido |
-| **Enfoque holístico** | Nutrición, mentalidad y entrenamiento mental | Optimización completa del rendimiento |
+::: warning The Uncomfortable Truth
+**Technique accounts for only 100 of 2,900 total points** in our model.
 
-::: tip Por qué funciona
-Los jugadores de élite ya tienen la base técnica. Lo que distingue a los buenos de los excelentes es la capacidad de alcanzar su máximo rendimiento bajo presión. En eso nos centramos.
+This isn't because technique doesn't matter—it's because elite players have already developed adequate technique. The marginal improvement from perfecting your release is tiny compared to optimizing your sleep, managing tension, or strengthening your mental game.
 :::
 
-## Nuestro enfoque
+## The ROI Principle
 
-### 1. Entrenamiento en estado de flujo
-Aprenda a entrar en “la zona” de manera consistente, no por accidente.
+Not all improvements are equal. We use **Return on Investment (ROI)** calculations to identify where your training time will have the biggest impact.
 
-### 2. Fuerza mental
-Desarrollar rutinas, atención plena y gestión de la presión.
+| Your Level | Factor Weight | ROI Potential |
+|------------|---------------|---------------|
+| Low skill in high-weight area | High (e.g., 600) | **Maximum** |
+| High skill in high-weight area | High (e.g., 600) | Low (diminishing returns) |
+| Low skill in low-weight area | Low (e.g., 100) | Moderate |
+| High skill in low-weight area | Low (e.g., 100) | **Minimal** |
 
-### 3. Nutrición inteligente
-Alimenta tu cerebro para tener una concentración estable y manos firmes.
+**Example:** Improving your sleep from 30% to 60% (high-weight factor, low current skill) will likely have more impact than improving technique from 75% to 85% (low-weight factor, already high skill).
 
-### 4. Aprendizaje entre pares
-Comparte experiencias con otros jugadores de élite en un entorno seguro y de apoyo.
+## The 8 Factors Explained
 
-::: info ¿Listo para dar el siguiente paso?
-Explora nuestra sección de [Educación](/es/educacion/) o conoce nuestros [Talleres](/es/taller).
+| Factor | Weight | What It Covers |
+|--------|--------|----------------|
+| 🧠 **Mental Game** | 600 | Thought patterns, focus, confidence, flow state access |
+| 🔥 **Motivation** | 500 | Drive, purpose, goal orientation, persistence |
+| 😴 **Sleep & Recovery** | 400 | Quality rest, pre-competition protocols, energy management |
+| 🪞 **Self-Awareness** | 400 | Accurate self-perception, blind spot recognition, feedback use |
+| 🥗 **Nutrition** | 300 | Blood sugar stability, hydration, competition fueling |
+| 🤝 **Team Dynamics** | 300 | Communication, trust, role clarity, team contribution |
+| 💆 **Tension Management** | 300 | Physical relaxation, breath control, optimal arousal |
+| 🎯 **Technique** | 100 | Physical mechanics, throw repertoire, consistency |
+
+## Discover Your Path
+
+We've built a **free assessment tool** that analyzes your current levels across all 8 factors and calculates your personalized improvement priorities.
+
+::: info Take the Assessment
+**[→ Start Your Player Development Assessment](/es/assessment/)**
+
+In 5 minutes, you'll receive:
+- Your radar chart across all 8 factors
+- ROI-ranked recommendations for what to work on
+- Links to specific educational content for your top priorities
+- Option to get peer feedback from teammates
+:::
+
+## What We Offer
+
+| Offering | Description | Link |
+|----------|-------------|------|
+| **Assessment Tool** | Identify your highest-ROI improvement areas | [Take Assessment](/es/assessment/) |
+| **Education Modules** | Deep content on all 8 factors | [Browse Education](/es/education/) |
+| **Workshops** | 3-4 hour sessions for groups of 6-8 players | [Workshop Guide](/es/guides/workshop/) |
+| **Training Camps** | Weekend intensives mixing theory and practice | [Camp Guide](/es/guides/training-camp/) |
+
+## Our Approach
+
+### 1. Assess First
+Start with honest self-evaluation. Get peer feedback to identify blind spots.
+
+### 2. Prioritize by ROI
+Focus on high-weight factors where you have room to grow—not what feels comfortable.
+
+### 3. Learn the Science
+Understand *why* something works, not just *what* to do.
+
+### 4. Practice Deliberately
+Apply techniques in training before competition. Build habits, not just knowledge.
+
+### 5. Reassess Regularly
+Track your progress. Your priorities will shift as you improve.
+
+::: tip Ready to Take the Next Step?
+**[→ Start with the Assessment](/es/assessment/)** — It's free and takes 5 minutes.
+
+Or explore our [Education](/es/education/) section to dive into any of the 8 factors.
 :::
 
 

@@ -83,53 +83,139 @@ export default withMermaid(defineConfig({
       themeConfig: {
         nav: [
           { text: 'Home', link: '/en/' },
+          { text: '🎯 Assessment', link: '/en/assessment/' },
           { text: 'Ambition', link: '/en/ambition' },
-          { text: 'News', link: '/en/news/' },
           {
-            text: 'Education',
+            text: 'Learn',
             items: [
-              { text: 'Overview', link: '/en/education/' },
-              { text: 'The Zone', link: '/en/education/the-zone/' },
-              { text: 'Mindfulness', link: '/en/education/mindfulness/' },
-              { text: 'Goal Setting', link: '/en/education/goals/' },
-              { text: 'Mental Strength', link: '/en/education/mental-strength/' },
-              { text: 'Team Dynamics', link: '/en/education/team-player/' },
-              { text: 'Tactics', link: '/en/education/tactics/' },
-              { text: 'Training Methods', link: '/en/education/training/' },
-              { text: 'Nutrition', link: '/en/education/nutrition/' }
-            ]
-          },
-          {
-            text: 'Tools',
-            items: [
+              { text: '📚 Education Hub', link: '/en/education/' },
               {
-                text: 'Guides',
+                text: '🧠 Mental Game (600p)',
                 items: [
-                  { text: 'Mental Journey (Beginners)', link: '/en/mental-journey/' },
-                  { text: 'Workshop (Advanced)', link: '/en/workshop' },
-                  { text: 'Training Camp', link: '/en/training-camp' },
-                  { text: 'Training Session', link: '/en/training-session' }
+                  { text: 'Overview', link: '/en/education/mental-game/' },
+                  { text: 'The Zone', link: '/en/education/mental-game/the-zone/' },
+                  { text: 'Mental Strength', link: '/en/education/mental-game/mental-strength/' },
+                  { text: 'Mindfulness', link: '/en/education/mental-game/mindfulness/' }
                 ]
               },
               {
-                text: 'Templates',
+                text: '🔥 Motivation (500p)',
                 items: [
-                  { text: 'Goal Template', link: '/en/goal-template' },
-                  { text: 'Diary Template', link: '/en/diary-template' }
+                  { text: 'Goals & Motivation', link: '/en/education/motivation/' }
+                ]
+              },
+              {
+                text: '😴 Sleep (400p)',
+                items: [
+                  { text: 'Sleep & Recovery', link: '/en/education/sleep/' }
+                ]
+              },
+              {
+                text: '🪞 Self-Awareness (400p)',
+                items: [
+                  { text: 'Self-Awareness', link: '/en/education/self-awareness/' }
+                ]
+              },
+              {
+                text: '🥗 Nutrition (300p)',
+                items: [
+                  { text: 'Fueling Performance', link: '/en/education/nutrition/' }
+                ]
+              },
+              {
+                text: '🤝 Team Dynamics (300p)',
+                items: [
+                  { text: 'Team Player', link: '/en/education/team-dynamics/' }
+                ]
+              },
+              {
+                text: '💆 Tension (300p)',
+                items: [
+                  { text: 'Tension Management', link: '/en/education/tension/' }
+                ]
+              },
+              {
+                text: '🎯 Technique (100p)',
+                items: [
+                  { text: 'Technical Advice', link: '/en/education/technique/' },
+                  { text: 'Training Methods', link: '/en/education/technique/training/' },
+                  { text: 'Tactics', link: '/en/education/technique/tactics/' }
                 ]
               }
             ]
           },
           {
-            text: 'Resources',
+            text: 'Guides',
             items: [
-              { text: 'Articles', link: '/en/blog/' },
-              { text: 'Case Studies', link: '/en/case-studies' },
-              { text: 'Testimonials', link: '/en/testimonials' }
+              { text: '📋 All Guides', link: '/en/guides/' },
+              { text: '🌱 Mental Journey (Beginners)', link: '/en/guides/mental-journey/' },
+              { text: '🎯 Workshop', link: '/en/guides/workshop/' },
+              { text: '🏕️ Training Camp', link: '/en/guides/training-camp/' },
+              { text: '🔄 Training Session', link: '/en/guides/training-session/' },
+              {
+                text: '📄 Templates',
+                items: [
+                  { text: 'Sleep Tracker', link: '/en/guides/templates/sleep-tracker' },
+                  { text: 'Pre-Competition Checklist', link: '/en/guides/templates/pre-competition-checklist' },
+                  { text: 'Peer Feedback', link: '/en/guides/templates/peer-feedback' },
+                  { text: 'Team Agreement', link: '/en/guides/templates/team-agreement' },
+                  { text: 'Tension Release Card', link: '/en/guides/templates/tension-quick-card' },
+                  { text: 'Nutrition Planner', link: '/en/guides/templates/nutrition-planner' },
+                  { text: 'Goal Template', link: '/en/guides/templates/goal-template' },
+                  { text: 'Diary Template', link: '/en/guides/templates/diary-template' }
+                ]
+              }
             ]
           },
-          { text: 'Technical Advice', link: '/en/technical/' },
-          { text: 'Food', link: '/en/food' },
+          {
+            text: 'Articles',
+            items: [
+              { text: '📝 All Articles', link: '/en/articles/' },
+              {
+                text: '🧠 Mental Game',
+                items: [
+                  { text: 'Flow State Science', link: '/en/articles/flow-state-science' },
+                  { text: 'Inner Critic', link: '/en/articles/inner-critic' },
+                  { text: 'Pre-Shot Routines', link: '/en/articles/pre-shot-routines' },
+                  { text: 'Pressure Management', link: '/en/articles/pressure-management' },
+                  { text: 'Mindfulness in Competition', link: '/en/articles/mindfulness-competition' }
+                ]
+              },
+              {
+                text: '🔥 Motivation & Resilience',
+                items: [
+                  { text: 'Elite Goal Setting', link: '/en/articles/elite-goal-setting' },
+                  { text: 'Mental Resilience', link: '/en/articles/mental-resilience' },
+                  { text: 'Mental vs Technical', link: '/en/articles/mental-vs-technical' }
+                ]
+              },
+              {
+                text: '🤝 Team Dynamics',
+                items: [
+                  { text: 'Team Communication', link: '/en/articles/team-communication' },
+                  { text: 'Team Chemistry', link: '/en/articles/team-chemistry' },
+                  { text: 'Team Leadership', link: '/en/articles/team-leadership' }
+                ]
+              },
+              {
+                text: '⚡ Performance Factors',
+                items: [
+                  { text: 'Sleep & Performance', link: '/en/articles/sleep-performance' },
+                  { text: 'Nutrition for Competition', link: '/en/articles/nutrition-competition' },
+                  { text: 'Self-Awareness', link: '/en/articles/self-awareness-development' },
+                  { text: 'Tension & Precision', link: '/en/articles/tension-precision' }
+                ]
+              },
+              {
+                text: '🎯 Training',
+                items: [
+                  { text: 'Mental Training Mistakes', link: '/en/articles/mental-training-mistakes' },
+                  { text: 'Practice Structure', link: '/en/articles/practice-structure' },
+                  { text: 'Competition Prep', link: '/en/articles/competition-prep' }
+                ]
+              }
+            ]
+          },
           { text: 'About', link: '/en/about' }
         ]
       }
@@ -141,53 +227,139 @@ export default withMermaid(defineConfig({
       themeConfig: {
         nav: [
           { text: 'Hjem', link: '/da/' },
+          { text: '🎯 Vurdering', link: '/da/assessment/' },
           { text: 'Ambition', link: '/da/ambition' },
-          { text: 'Nyheder', link: '/da/news/' },
           {
-            text: 'Uddannelse',
+            text: 'Lær',
             items: [
-              { text: 'Oversigt', link: '/da/education/' },
-              { text: 'Zonen', link: '/da/education/the-zone/' },
-              { text: 'Mindfulness', link: '/da/education/mindfulness/' },
-              { text: 'Målsætning', link: '/da/education/goals/' },
-              { text: 'Mental Styrke', link: '/da/education/mental-strength/' },
-              { text: 'Teamdynamik', link: '/da/education/team-player/' },
-              { text: 'Taktik', link: '/da/education/tactics/' },
-              { text: 'Træningsmetoder', link: '/da/education/training/' },
-              { text: 'Ernæring', link: '/da/education/nutrition/' }
-            ]
-          },
-          {
-            text: 'Værktøjer',
-            items: [
+              { text: '📚 Uddannelseshub', link: '/da/education/' },
               {
-                text: 'Guider',
+                text: '🧠 Mentalt Spil (600p)',
                 items: [
-                  { text: 'Mental Rejse (Begyndere)', link: '/da/mental-journey/' },
-                  { text: 'Workshop (Avanceret)', link: '/da/workshop' },
-                  { text: 'Træningslejr', link: '/da/training-camp' },
-                  { text: 'Træningssession', link: '/da/training-session' }
+                  { text: 'Oversigt', link: '/da/education/mental-game/' },
+                  { text: 'Zonen', link: '/da/education/mental-game/the-zone/' },
+                  { text: 'Mental Styrke', link: '/da/education/mental-game/mental-strength/' },
+                  { text: 'Mindfulness', link: '/da/education/mental-game/mindfulness/' }
                 ]
               },
               {
-                text: 'Skabeloner',
+                text: '🔥 Motivation (500p)',
                 items: [
-                  { text: 'Målskabelon', link: '/da/goal-template' },
-                  { text: 'Dagbogsskabelon', link: '/da/diary-template' }
+                  { text: 'Mål & Motivation', link: '/da/education/motivation/' }
+                ]
+              },
+              {
+                text: '😴 Søvn (400p)',
+                items: [
+                  { text: 'Søvn & Restitution', link: '/da/education/sleep/' }
+                ]
+              },
+              {
+                text: '🪞 Selvbevidsthed (400p)',
+                items: [
+                  { text: 'Selvbevidsthed', link: '/da/education/self-awareness/' }
+                ]
+              },
+              {
+                text: '🥗 Ernæring (300p)',
+                items: [
+                  { text: 'Præstationsernæring', link: '/da/education/nutrition/' }
+                ]
+              },
+              {
+                text: '🤝 Teamdynamik (300p)',
+                items: [
+                  { text: 'Holdspiller', link: '/da/education/team-dynamics/' }
+                ]
+              },
+              {
+                text: '💆 Spænding (300p)',
+                items: [
+                  { text: 'Spændingshåndtering', link: '/da/education/tension/' }
+                ]
+              },
+              {
+                text: '🎯 Teknik (100p)',
+                items: [
+                  { text: 'Teknisk Rådgivning', link: '/da/education/technique/' },
+                  { text: 'Træningsmetoder', link: '/da/education/technique/training/' },
+                  { text: 'Taktik', link: '/da/education/technique/tactics/' }
                 ]
               }
             ]
           },
           {
-            text: 'Ressourcer',
+            text: 'Guider',
             items: [
-              { text: 'Artikler', link: '/da/blog/' },
-              { text: 'Casestudier', link: '/da/case-studies' },
-              { text: 'Udtalelser', link: '/da/testimonials' }
+              { text: '📋 Alle Guider', link: '/da/guides/' },
+              { text: '🌱 Mental Rejse (Begyndere)', link: '/da/guides/mental-journey/' },
+              { text: '🎯 Workshop', link: '/da/guides/workshop/' },
+              { text: '🏕️ Træningslejr', link: '/da/guides/training-camp/' },
+              { text: '🔄 Træningssession', link: '/da/guides/training-session/' },
+              {
+                text: '📄 Skabeloner',
+                items: [
+                  { text: 'Søvnsporing', link: '/da/guides/templates/sleep-tracker' },
+                  { text: 'Før-konkurrence Tjekliste', link: '/da/guides/templates/pre-competition-checklist' },
+                  { text: 'Peer Feedback', link: '/da/guides/templates/peer-feedback' },
+                  { text: 'Holdaftale', link: '/da/guides/templates/team-agreement' },
+                  { text: 'Spændingskort', link: '/da/guides/templates/tension-quick-card' },
+                  { text: 'Ernæringsplanlægger', link: '/da/guides/templates/nutrition-planner' },
+                  { text: 'Målskabelon', link: '/da/guides/templates/goal-template' },
+                  { text: 'Dagbogsskabelon', link: '/da/guides/templates/diary-template' }
+                ]
+              }
             ]
           },
-          { text: 'Teknisk Rådgivning', link: '/da/technical/' },
-          { text: 'Mad', link: '/da/food' },
+          {
+            text: 'Artikler',
+            items: [
+              { text: '📝 Alle Artikler', link: '/da/articles/' },
+              {
+                text: '🧠 Mentalt Spil',
+                items: [
+                  { text: 'Flow-tilstandens Videnskab', link: '/da/articles/flow-state-science' },
+                  { text: 'Den Indre Kritiker', link: '/da/articles/inner-critic' },
+                  { text: 'Pre-Shot Rutiner', link: '/da/articles/pre-shot-routines' },
+                  { text: 'Pressehåndtering', link: '/da/articles/pressure-management' },
+                  { text: 'Mindfulness i Konkurrence', link: '/da/articles/mindfulness-competition' }
+                ]
+              },
+              {
+                text: '🔥 Motivation & Robusthed',
+                items: [
+                  { text: 'Elite Målsætning', link: '/da/articles/elite-goal-setting' },
+                  { text: 'Mental Robusthed', link: '/da/articles/mental-resilience' },
+                  { text: 'Mental vs Teknisk', link: '/da/articles/mental-vs-technical' }
+                ]
+              },
+              {
+                text: '🤝 Teamdynamik',
+                items: [
+                  { text: 'Teamkommunikation', link: '/da/articles/team-communication' },
+                  { text: 'Teamkemi', link: '/da/articles/team-chemistry' },
+                  { text: 'Teamledelse', link: '/da/articles/team-leadership' }
+                ]
+              },
+              {
+                text: '⚡ Præstationsfaktorer',
+                items: [
+                  { text: 'Søvn & Præstation', link: '/da/articles/sleep-performance' },
+                  { text: 'Ernæring til Konkurrence', link: '/da/articles/nutrition-competition' },
+                  { text: 'Selvbevidsthed', link: '/da/articles/self-awareness-development' },
+                  { text: 'Spænding & Præcision', link: '/da/articles/tension-precision' }
+                ]
+              },
+              {
+                text: '🎯 Træning',
+                items: [
+                  { text: 'Mentale Træningsfejl', link: '/da/articles/mental-training-mistakes' },
+                  { text: 'Træningsstruktur', link: '/da/articles/practice-structure' },
+                  { text: 'Konkurrenceforberedelse', link: '/da/articles/competition-prep' }
+                ]
+              }
+            ]
+          },
           { text: 'Om', link: '/da/about' }
         ]
       }
@@ -199,53 +371,139 @@ export default withMermaid(defineConfig({
       themeConfig: {
         nav: [
           { text: 'Startseite', link: '/de/' },
+          { text: '🎯 Bewertung', link: '/de/assessment/' },
           { text: 'Ambition', link: '/de/ambition' },
-          { text: 'Neuigkeiten', link: '/de/news/' },
           {
-            text: 'Bildung',
+            text: 'Lernen',
             items: [
-              { text: 'Übersicht', link: '/de/education/' },
-              { text: 'Die Zone', link: '/de/education/the-zone/' },
-              { text: 'Achtsamkeit', link: '/de/education/mindfulness/' },
-              { text: 'Zielsetzung', link: '/de/education/goals/' },
-              { text: 'Mentale Stärke', link: '/de/education/mental-strength/' },
-              { text: 'Teamdynamik', link: '/de/education/team-player/' },
-              { text: 'Taktik', link: '/de/education/tactics/' },
-              { text: 'Trainingsmethoden', link: '/de/education/training/' },
-              { text: 'Ernährung', link: '/de/education/nutrition/' }
-            ]
-          },
-          {
-            text: 'Werkzeuge',
-            items: [
+              { text: '📚 Bildungszentrum', link: '/de/education/' },
               {
-                text: 'Anleitungen',
+                text: '🧠 Mentales Spiel (600p)',
                 items: [
-                  { text: 'Mentale Reise (Anfänger)', link: '/de/mental-journey/' },
-                  { text: 'Workshop (Fortgeschritten)', link: '/de/workshop' },
-                  { text: 'Trainingslager', link: '/de/training-camp' },
-                  { text: 'Trainingseinheit', link: '/de/training-session' }
+                  { text: 'Übersicht', link: '/de/education/mental-game/' },
+                  { text: 'Die Zone', link: '/de/education/mental-game/the-zone/' },
+                  { text: 'Mentale Stärke', link: '/de/education/mental-game/mental-strength/' },
+                  { text: 'Achtsamkeit', link: '/de/education/mental-game/mindfulness/' }
                 ]
               },
               {
-                text: 'Vorlagen',
+                text: '🔥 Motivation (500p)',
                 items: [
-                  { text: 'Zielvorlage', link: '/de/goal-template' },
-                  { text: 'Tagebuchvorlage', link: '/de/diary-template' }
+                  { text: 'Ziele & Motivation', link: '/de/education/motivation/' }
+                ]
+              },
+              {
+                text: '😴 Schlaf (400p)',
+                items: [
+                  { text: 'Schlaf & Erholung', link: '/de/education/sleep/' }
+                ]
+              },
+              {
+                text: '🪞 Selbstwahrnehmung (400p)',
+                items: [
+                  { text: 'Selbstwahrnehmung', link: '/de/education/self-awareness/' }
+                ]
+              },
+              {
+                text: '🥗 Ernährung (300p)',
+                items: [
+                  { text: 'Leistungsernährung', link: '/de/education/nutrition/' }
+                ]
+              },
+              {
+                text: '🤝 Teamdynamik (300p)',
+                items: [
+                  { text: 'Teamspieler', link: '/de/education/team-dynamics/' }
+                ]
+              },
+              {
+                text: '💆 Spannung (300p)',
+                items: [
+                  { text: 'Spannungsmanagement', link: '/de/education/tension/' }
+                ]
+              },
+              {
+                text: '🎯 Technik (100p)',
+                items: [
+                  { text: 'Technische Beratung', link: '/de/education/technique/' },
+                  { text: 'Trainingsmethoden', link: '/de/education/technique/training/' },
+                  { text: 'Taktik', link: '/de/education/technique/tactics/' }
                 ]
               }
             ]
           },
           {
-            text: 'Ressourcen',
+            text: 'Anleitungen',
             items: [
-              { text: 'Artikel', link: '/de/blog/' },
-              { text: 'Fallstudien', link: '/de/case-studies' },
-              { text: 'Erfahrungsberichte', link: '/de/testimonials' }
+              { text: '📋 Alle Anleitungen', link: '/de/guides/' },
+              { text: '🌱 Mentale Reise (Anfänger)', link: '/de/guides/mental-journey/' },
+              { text: '🎯 Workshop', link: '/de/guides/workshop/' },
+              { text: '🏕️ Trainingslager', link: '/de/guides/training-camp/' },
+              { text: '🔄 Trainingseinheit', link: '/de/guides/training-session/' },
+              {
+                text: '📄 Vorlagen',
+                items: [
+                  { text: 'Schlaf-Tracker', link: '/de/guides/templates/sleep-tracker' },
+                  { text: 'Vor-Wettkampf Checkliste', link: '/de/guides/templates/pre-competition-checklist' },
+                  { text: 'Peer-Feedback', link: '/de/guides/templates/peer-feedback' },
+                  { text: 'Team-Vereinbarung', link: '/de/guides/templates/team-agreement' },
+                  { text: 'Spannungskarte', link: '/de/guides/templates/tension-quick-card' },
+                  { text: 'Ernährungsplaner', link: '/de/guides/templates/nutrition-planner' },
+                  { text: 'Zielvorlage', link: '/de/guides/templates/goal-template' },
+                  { text: 'Tagebuchvorlage', link: '/de/guides/templates/diary-template' }
+                ]
+              }
             ]
           },
-          { text: 'Technische Beratung', link: '/de/technical/' },
-          { text: 'Ernährung', link: '/de/food' },
+          {
+            text: 'Artikel',
+            items: [
+              { text: '📝 Alle Artikel', link: '/de/articles/' },
+              {
+                text: '🧠 Mentales Spiel',
+                items: [
+                  { text: 'Flow-Zustand Wissenschaft', link: '/de/articles/flow-state-science' },
+                  { text: 'Der Innere Kritiker', link: '/de/articles/inner-critic' },
+                  { text: 'Pre-Shot Routinen', link: '/de/articles/pre-shot-routines' },
+                  { text: 'Druckbewältigung', link: '/de/articles/pressure-management' },
+                  { text: 'Achtsamkeit im Wettkampf', link: '/de/articles/mindfulness-competition' }
+                ]
+              },
+              {
+                text: '🔥 Motivation & Belastbarkeit',
+                items: [
+                  { text: 'Elite Zielsetzung', link: '/de/articles/elite-goal-setting' },
+                  { text: 'Mentale Belastbarkeit', link: '/de/articles/mental-resilience' },
+                  { text: 'Mental vs Technisch', link: '/de/articles/mental-vs-technical' }
+                ]
+              },
+              {
+                text: '🤝 Teamdynamik',
+                items: [
+                  { text: 'Teamkommunikation', link: '/de/articles/team-communication' },
+                  { text: 'Teamchemie', link: '/de/articles/team-chemistry' },
+                  { text: 'Teamführung', link: '/de/articles/team-leadership' }
+                ]
+              },
+              {
+                text: '⚡ Leistungsfaktoren',
+                items: [
+                  { text: 'Schlaf & Leistung', link: '/de/articles/sleep-performance' },
+                  { text: 'Ernährung für Wettkampf', link: '/de/articles/nutrition-competition' },
+                  { text: 'Selbstwahrnehmung', link: '/de/articles/self-awareness-development' },
+                  { text: 'Spannung & Präzision', link: '/de/articles/tension-precision' }
+                ]
+              },
+              {
+                text: '🎯 Training',
+                items: [
+                  { text: 'Mentale Trainingsfehler', link: '/de/articles/mental-training-mistakes' },
+                  { text: 'Trainingsstruktur', link: '/de/articles/practice-structure' },
+                  { text: 'Wettkampfvorbereitung', link: '/de/articles/competition-prep' }
+                ]
+              }
+            ]
+          },
           { text: 'Über', link: '/de/about' }
         ]
       }
@@ -257,53 +515,139 @@ export default withMermaid(defineConfig({
       themeConfig: {
         nav: [
           { text: 'Inicio', link: '/es/' },
+          { text: '🎯 Evaluación', link: '/es/assessment/' },
           { text: 'Ambición', link: '/es/ambition' },
-          { text: 'Noticias', link: '/es/news/' },
           {
-            text: 'Educación',
+            text: 'Aprender',
             items: [
-              { text: 'Resumen', link: '/es/education/' },
-              { text: 'La Zona', link: '/es/education/the-zone/' },
-              { text: 'Mindfulness', link: '/es/education/mindfulness/' },
-              { text: 'Establecimiento de Metas', link: '/es/education/goals/' },
-              { text: 'Fortaleza Mental', link: '/es/education/mental-strength/' },
-              { text: 'Dinámica de Equipo', link: '/es/education/team-player/' },
-              { text: 'Táctica', link: '/es/education/tactics/' },
-              { text: 'Métodos de Entrenamiento', link: '/es/education/training/' },
-              { text: 'Nutrición', link: '/es/education/nutrition/' }
-            ]
-          },
-          {
-            text: 'Herramientas',
-            items: [
+              { text: '📚 Centro Educativo', link: '/es/education/' },
               {
-                text: 'Guías',
+                text: '🧠 Juego Mental (600p)',
                 items: [
-                  { text: 'Viaje Mental (Principiantes)', link: '/es/mental-journey/' },
-                  { text: 'Taller (Avanzado)', link: '/es/workshop' },
-                  { text: 'Campamento de Entrenamiento', link: '/es/training-camp' },
-                  { text: 'Sesión de Entrenamiento', link: '/es/training-session' }
+                  { text: 'Resumen', link: '/es/education/mental-game/' },
+                  { text: 'La Zona', link: '/es/education/mental-game/the-zone/' },
+                  { text: 'Fortaleza Mental', link: '/es/education/mental-game/mental-strength/' },
+                  { text: 'Mindfulness', link: '/es/education/mental-game/mindfulness/' }
                 ]
               },
               {
-                text: 'Plantillas',
+                text: '🔥 Motivación (500p)',
                 items: [
-                  { text: 'Plantilla de Objetivos', link: '/es/goal-template' },
-                  { text: 'Plantilla de Diario', link: '/es/diary-template' }
+                  { text: 'Metas & Motivación', link: '/es/education/motivation/' }
+                ]
+              },
+              {
+                text: '😴 Sueño (400p)',
+                items: [
+                  { text: 'Sueño & Recuperación', link: '/es/education/sleep/' }
+                ]
+              },
+              {
+                text: '🪞 Autoconciencia (400p)',
+                items: [
+                  { text: 'Autoconciencia', link: '/es/education/self-awareness/' }
+                ]
+              },
+              {
+                text: '🥗 Nutrición (300p)',
+                items: [
+                  { text: 'Nutrición para Rendimiento', link: '/es/education/nutrition/' }
+                ]
+              },
+              {
+                text: '🤝 Dinámica de Equipo (300p)',
+                items: [
+                  { text: 'Jugador de Equipo', link: '/es/education/team-dynamics/' }
+                ]
+              },
+              {
+                text: '💆 Tensión (300p)',
+                items: [
+                  { text: 'Gestión de Tensión', link: '/es/education/tension/' }
+                ]
+              },
+              {
+                text: '🎯 Técnica (100p)',
+                items: [
+                  { text: 'Consejo Técnico', link: '/es/education/technique/' },
+                  { text: 'Métodos de Entrenamiento', link: '/es/education/technique/training/' },
+                  { text: 'Táctica', link: '/es/education/technique/tactics/' }
                 ]
               }
             ]
           },
           {
-            text: 'Recursos',
+            text: 'Guías',
             items: [
-              { text: 'Artículos', link: '/es/blog/' },
-              { text: 'Casos de Estudio', link: '/es/case-studies' },
-              { text: 'Testimonios', link: '/es/testimonials' }
+              { text: '📋 Todas las Guías', link: '/es/guides/' },
+              { text: '🌱 Viaje Mental (Principiantes)', link: '/es/guides/mental-journey/' },
+              { text: '🎯 Taller', link: '/es/guides/workshop/' },
+              { text: '🏕️ Campamento', link: '/es/guides/training-camp/' },
+              { text: '🔄 Sesión de Entrenamiento', link: '/es/guides/training-session/' },
+              {
+                text: '📄 Plantillas',
+                items: [
+                  { text: 'Registro de Sueño', link: '/es/guides/templates/sleep-tracker' },
+                  { text: 'Lista Pre-Competición', link: '/es/guides/templates/pre-competition-checklist' },
+                  { text: 'Retroalimentación', link: '/es/guides/templates/peer-feedback' },
+                  { text: 'Acuerdo de Equipo', link: '/es/guides/templates/team-agreement' },
+                  { text: 'Tarjeta de Tensión', link: '/es/guides/templates/tension-quick-card' },
+                  { text: 'Planificador Nutrición', link: '/es/guides/templates/nutrition-planner' },
+                  { text: 'Plantilla de Objetivos', link: '/es/guides/templates/goal-template' },
+                  { text: 'Plantilla de Diario', link: '/es/guides/templates/diary-template' }
+                ]
+              }
             ]
           },
-          { text: 'Consejo Técnico', link: '/es/technical/' },
-          { text: 'Comida', link: '/es/food' },
+          {
+            text: 'Artículos',
+            items: [
+              { text: '📝 Todos los Artículos', link: '/es/articles/' },
+              {
+                text: '🧠 Juego Mental',
+                items: [
+                  { text: 'Ciencia del Estado Flow', link: '/es/articles/flow-state-science' },
+                  { text: 'El Crítico Interior', link: '/es/articles/inner-critic' },
+                  { text: 'Rutinas Pre-Tiro', link: '/es/articles/pre-shot-routines' },
+                  { text: 'Gestión de Presión', link: '/es/articles/pressure-management' },
+                  { text: 'Mindfulness en Competición', link: '/es/articles/mindfulness-competition' }
+                ]
+              },
+              {
+                text: '🔥 Motivación & Resiliencia',
+                items: [
+                  { text: 'Establecimiento de Metas Elite', link: '/es/articles/elite-goal-setting' },
+                  { text: 'Resiliencia Mental', link: '/es/articles/mental-resilience' },
+                  { text: 'Mental vs Técnico', link: '/es/articles/mental-vs-technical' }
+                ]
+              },
+              {
+                text: '🤝 Dinámica de Equipo',
+                items: [
+                  { text: 'Comunicación de Equipo', link: '/es/articles/team-communication' },
+                  { text: 'Química de Equipo', link: '/es/articles/team-chemistry' },
+                  { text: 'Liderazgo de Equipo', link: '/es/articles/team-leadership' }
+                ]
+              },
+              {
+                text: '⚡ Factores de Rendimiento',
+                items: [
+                  { text: 'Sueño & Rendimiento', link: '/es/articles/sleep-performance' },
+                  { text: 'Nutrición para Competición', link: '/es/articles/nutrition-competition' },
+                  { text: 'Autoconciencia', link: '/es/articles/self-awareness-development' },
+                  { text: 'Tensión & Precisión', link: '/es/articles/tension-precision' }
+                ]
+              },
+              {
+                text: '🎯 Entrenamiento',
+                items: [
+                  { text: 'Errores de Entrenamiento Mental', link: '/es/articles/mental-training-mistakes' },
+                  { text: 'Estructura de Práctica', link: '/es/articles/practice-structure' },
+                  { text: 'Preparación para Competición', link: '/es/articles/competition-prep' }
+                ]
+              }
+            ]
+          },
           { text: 'Acerca de', link: '/es/about' }
         ]
       }
@@ -315,53 +659,139 @@ export default withMermaid(defineConfig({
       themeConfig: {
         nav: [
           { text: 'Accueil', link: '/fr/' },
+          { text: '🎯 Évaluation', link: '/fr/assessment/' },
           { text: 'Ambition', link: '/fr/ambition' },
-          { text: 'Actualités', link: '/fr/news/' },
           {
-            text: 'Éducation',
+            text: 'Apprendre',
             items: [
-              { text: 'Aperçu', link: '/fr/education/' },
-              { text: 'La Zone', link: '/fr/education/the-zone/' },
-              { text: 'Pleine Conscience', link: '/fr/education/mindfulness/' },
-              { text: 'Définition d\'Objectifs', link: '/fr/education/goals/' },
-              { text: 'Force Mentale', link: '/fr/education/mental-strength/' },
-              { text: 'Dynamique d\'Équipe', link: '/fr/education/team-player/' },
-              { text: 'Tactique', link: '/fr/education/tactics/' },
-              { text: 'Méthodes d\'Entraînement', link: '/fr/education/training/' },
-              { text: 'Nutrition', link: '/fr/education/nutrition/' }
-            ]
-          },
-          {
-            text: 'Outils',
-            items: [
+              { text: '📚 Centre Éducatif', link: '/fr/education/' },
               {
-                text: 'Guides',
+                text: '🧠 Jeu Mental (600p)',
                 items: [
-                  { text: 'Parcours Mental (Débutants)', link: '/fr/mental-journey/' },
-                  { text: 'Atelier (Avancé)', link: '/fr/workshop' },
-                  { text: 'Stage d\'Entraînement', link: '/fr/training-camp' },
-                  { text: 'Séance d\'Entraînement', link: '/fr/training-session' }
+                  { text: 'Aperçu', link: '/fr/education/mental-game/' },
+                  { text: 'La Zone', link: '/fr/education/mental-game/the-zone/' },
+                  { text: 'Force Mentale', link: '/fr/education/mental-game/mental-strength/' },
+                  { text: 'Pleine Conscience', link: '/fr/education/mental-game/mindfulness/' }
                 ]
               },
               {
-                text: 'Modèles',
+                text: '🔥 Motivation (500p)',
                 items: [
-                  { text: 'Modèle d\'Objectifs', link: '/fr/goal-template' },
-                  { text: 'Modèle de Journal', link: '/fr/diary-template' }
+                  { text: 'Objectifs & Motivation', link: '/fr/education/motivation/' }
+                ]
+              },
+              {
+                text: '😴 Sommeil (400p)',
+                items: [
+                  { text: 'Sommeil & Récupération', link: '/fr/education/sleep/' }
+                ]
+              },
+              {
+                text: '🪞 Conscience de Soi (400p)',
+                items: [
+                  { text: 'Conscience de Soi', link: '/fr/education/self-awareness/' }
+                ]
+              },
+              {
+                text: '🥗 Nutrition (300p)',
+                items: [
+                  { text: 'Nutrition Performance', link: '/fr/education/nutrition/' }
+                ]
+              },
+              {
+                text: '🤝 Dynamique d\'Équipe (300p)',
+                items: [
+                  { text: 'Joueur d\'Équipe', link: '/fr/education/team-dynamics/' }
+                ]
+              },
+              {
+                text: '💆 Tension (300p)',
+                items: [
+                  { text: 'Gestion de la Tension', link: '/fr/education/tension/' }
+                ]
+              },
+              {
+                text: '🎯 Technique (100p)',
+                items: [
+                  { text: 'Conseils Techniques', link: '/fr/education/technique/' },
+                  { text: 'Méthodes d\'Entraînement', link: '/fr/education/technique/training/' },
+                  { text: 'Tactique', link: '/fr/education/technique/tactics/' }
                 ]
               }
             ]
           },
           {
-            text: 'Ressources',
+            text: 'Guides',
             items: [
-              { text: 'Articles', link: '/fr/blog/' },
-              { text: 'Études de Cas', link: '/fr/case-studies' },
-              { text: 'Témoignages', link: '/fr/testimonials' }
+              { text: '📋 Tous les Guides', link: '/fr/guides/' },
+              { text: '🌱 Parcours Mental (Débutants)', link: '/fr/guides/mental-journey/' },
+              { text: '🎯 Atelier', link: '/fr/guides/workshop/' },
+              { text: '🏕️ Stage', link: '/fr/guides/training-camp/' },
+              { text: '🔄 Séance d\'Entraînement', link: '/fr/guides/training-session/' },
+              {
+                text: '📄 Modèles',
+                items: [
+                  { text: 'Suivi du Sommeil', link: '/fr/guides/templates/sleep-tracker' },
+                  { text: 'Liste Pré-Compétition', link: '/fr/guides/templates/pre-competition-checklist' },
+                  { text: 'Feedback entre Pairs', link: '/fr/guides/templates/peer-feedback' },
+                  { text: 'Accord d\'Équipe', link: '/fr/guides/templates/team-agreement' },
+                  { text: 'Carte de Tension', link: '/fr/guides/templates/tension-quick-card' },
+                  { text: 'Planificateur Nutrition', link: '/fr/guides/templates/nutrition-planner' },
+                  { text: 'Modèle d\'Objectifs', link: '/fr/guides/templates/goal-template' },
+                  { text: 'Modèle de Journal', link: '/fr/guides/templates/diary-template' }
+                ]
+              }
             ]
           },
-          { text: 'Conseils Techniques', link: '/fr/technical/' },
-          { text: 'Alimentation', link: '/fr/food' },
+          {
+            text: 'Articles',
+            items: [
+              { text: '📝 Tous les Articles', link: '/fr/articles/' },
+              {
+                text: '🧠 Jeu Mental',
+                items: [
+                  { text: 'Science de l\'État Flow', link: '/fr/articles/flow-state-science' },
+                  { text: 'Le Critique Intérieur', link: '/fr/articles/inner-critic' },
+                  { text: 'Routines Pré-Tir', link: '/fr/articles/pre-shot-routines' },
+                  { text: 'Gestion de la Pression', link: '/fr/articles/pressure-management' },
+                  { text: 'Pleine Conscience en Compétition', link: '/fr/articles/mindfulness-competition' }
+                ]
+              },
+              {
+                text: '🔥 Motivation & Résilience',
+                items: [
+                  { text: 'Définition d\'Objectifs Elite', link: '/fr/articles/elite-goal-setting' },
+                  { text: 'Résilience Mentale', link: '/fr/articles/mental-resilience' },
+                  { text: 'Mental vs Technique', link: '/fr/articles/mental-vs-technical' }
+                ]
+              },
+              {
+                text: '🤝 Dynamique d\'Équipe',
+                items: [
+                  { text: 'Communication d\'Équipe', link: '/fr/articles/team-communication' },
+                  { text: 'Chimie d\'Équipe', link: '/fr/articles/team-chemistry' },
+                  { text: 'Leadership d\'Équipe', link: '/fr/articles/team-leadership' }
+                ]
+              },
+              {
+                text: '⚡ Facteurs de Performance',
+                items: [
+                  { text: 'Sommeil & Performance', link: '/fr/articles/sleep-performance' },
+                  { text: 'Nutrition pour Compétition', link: '/fr/articles/nutrition-competition' },
+                  { text: 'Conscience de Soi', link: '/fr/articles/self-awareness-development' },
+                  { text: 'Tension & Précision', link: '/fr/articles/tension-precision' }
+                ]
+              },
+              {
+                text: '🎯 Entraînement',
+                items: [
+                  { text: 'Erreurs d\'Entraînement Mental', link: '/fr/articles/mental-training-mistakes' },
+                  { text: 'Structure de Pratique', link: '/fr/articles/practice-structure' },
+                  { text: 'Préparation Compétition', link: '/fr/articles/competition-prep' }
+                ]
+              }
+            ]
+          },
           { text: 'À propos', link: '/fr/about' }
         ]
       }
@@ -373,53 +803,139 @@ export default withMermaid(defineConfig({
       themeConfig: {
         nav: [
           { text: 'Home', link: '/it/' },
+          { text: '🎯 Valutazione', link: '/it/assessment/' },
           { text: 'Ambizione', link: '/it/ambition' },
-          { text: 'Notizie', link: '/it/news/' },
           {
-            text: 'Educazione',
+            text: 'Imparare',
             items: [
-              { text: 'Panoramica', link: '/it/education/' },
-              { text: 'La Zona', link: '/it/education/the-zone/' },
-              { text: 'Mindfulness', link: '/it/education/mindfulness/' },
-              { text: 'Definizione degli Obiettivi', link: '/it/education/goals/' },
-              { text: 'Forza Mentale', link: '/it/education/mental-strength/' },
-              { text: 'Dinamiche di Squadra', link: '/it/education/team-player/' },
-              { text: 'Tattica', link: '/it/education/tactics/' },
-              { text: 'Metodi di Allenamento', link: '/it/education/training/' },
-              { text: 'Nutrizione', link: '/it/education/nutrition/' }
-            ]
-          },
-          {
-            text: 'Strumenti',
-            items: [
+              { text: '📚 Centro Educativo', link: '/it/education/' },
               {
-                text: 'Guide',
+                text: '🧠 Gioco Mentale (600p)',
                 items: [
-                  { text: 'Percorso Mentale (Principianti)', link: '/it/mental-journey/' },
-                  { text: 'Workshop (Avanzato)', link: '/it/workshop' },
-                  { text: 'Campo di Allenamento', link: '/it/training-camp' },
-                  { text: 'Sessione di Allenamento', link: '/it/training-session' }
+                  { text: 'Panoramica', link: '/it/education/mental-game/' },
+                  { text: 'La Zona', link: '/it/education/mental-game/the-zone/' },
+                  { text: 'Forza Mentale', link: '/it/education/mental-game/mental-strength/' },
+                  { text: 'Mindfulness', link: '/it/education/mental-game/mindfulness/' }
                 ]
               },
               {
-                text: 'Modelli',
+                text: '🔥 Motivazione (500p)',
                 items: [
-                  { text: 'Modello di Obiettivi', link: '/it/goal-template' },
-                  { text: 'Modello di Diario', link: '/it/diary-template' }
+                  { text: 'Obiettivi & Motivazione', link: '/it/education/motivation/' }
+                ]
+              },
+              {
+                text: '😴 Sonno (400p)',
+                items: [
+                  { text: 'Sonno & Recupero', link: '/it/education/sleep/' }
+                ]
+              },
+              {
+                text: '🪞 Autoconsapevolezza (400p)',
+                items: [
+                  { text: 'Autoconsapevolezza', link: '/it/education/self-awareness/' }
+                ]
+              },
+              {
+                text: '🥗 Nutrizione (300p)',
+                items: [
+                  { text: 'Nutrizione per la Performance', link: '/it/education/nutrition/' }
+                ]
+              },
+              {
+                text: '🤝 Dinamiche di Squadra (300p)',
+                items: [
+                  { text: 'Giocatore di Squadra', link: '/it/education/team-dynamics/' }
+                ]
+              },
+              {
+                text: '💆 Tensione (300p)',
+                items: [
+                  { text: 'Gestione della Tensione', link: '/it/education/tension/' }
+                ]
+              },
+              {
+                text: '🎯 Tecnica (100p)',
+                items: [
+                  { text: 'Consigli Tecnici', link: '/it/education/technique/' },
+                  { text: 'Metodi di Allenamento', link: '/it/education/technique/training/' },
+                  { text: 'Tattica', link: '/it/education/technique/tactics/' }
                 ]
               }
             ]
           },
           {
-            text: 'Risorse',
+            text: 'Guide',
             items: [
-              { text: 'Articoli', link: '/it/blog/' },
-              { text: 'Casi di Studio', link: '/it/case-studies' },
-              { text: 'Testimonianze', link: '/it/testimonials' }
+              { text: '📋 Tutte le Guide', link: '/it/guides/' },
+              { text: '🌱 Percorso Mentale (Principianti)', link: '/it/guides/mental-journey/' },
+              { text: '🎯 Workshop', link: '/it/guides/workshop/' },
+              { text: '🏕️ Campo di Allenamento', link: '/it/guides/training-camp/' },
+              { text: '🔄 Sessione di Allenamento', link: '/it/guides/training-session/' },
+              {
+                text: '📄 Modelli',
+                items: [
+                  { text: 'Monitoraggio Sonno', link: '/it/guides/templates/sleep-tracker' },
+                  { text: 'Checklist Pre-Gara', link: '/it/guides/templates/pre-competition-checklist' },
+                  { text: 'Feedback tra Pari', link: '/it/guides/templates/peer-feedback' },
+                  { text: 'Accordo di Squadra', link: '/it/guides/templates/team-agreement' },
+                  { text: 'Scheda Tensione', link: '/it/guides/templates/tension-quick-card' },
+                  { text: 'Pianificatore Nutrizione', link: '/it/guides/templates/nutrition-planner' },
+                  { text: 'Modello di Obiettivi', link: '/it/guides/templates/goal-template' },
+                  { text: 'Modello di Diario', link: '/it/guides/templates/diary-template' }
+                ]
+              }
             ]
           },
-          { text: 'Consigli Tecnici', link: '/it/technical/' },
-          { text: 'Cibo', link: '/it/food' },
+          {
+            text: 'Articoli',
+            items: [
+              { text: '📝 Tutti gli Articoli', link: '/it/articles/' },
+              {
+                text: '🧠 Gioco Mentale',
+                items: [
+                  { text: 'Scienza dello Stato Flow', link: '/it/articles/flow-state-science' },
+                  { text: 'Il Critico Interiore', link: '/it/articles/inner-critic' },
+                  { text: 'Routine Pre-Tiro', link: '/it/articles/pre-shot-routines' },
+                  { text: 'Gestione della Pressione', link: '/it/articles/pressure-management' },
+                  { text: 'Mindfulness in Gara', link: '/it/articles/mindfulness-competition' }
+                ]
+              },
+              {
+                text: '🔥 Motivazione & Resilienza',
+                items: [
+                  { text: 'Definizione Obiettivi Elite', link: '/it/articles/elite-goal-setting' },
+                  { text: 'Resilienza Mentale', link: '/it/articles/mental-resilience' },
+                  { text: 'Mentale vs Tecnico', link: '/it/articles/mental-vs-technical' }
+                ]
+              },
+              {
+                text: '🤝 Dinamiche di Squadra',
+                items: [
+                  { text: 'Comunicazione di Squadra', link: '/it/articles/team-communication' },
+                  { text: 'Chimica di Squadra', link: '/it/articles/team-chemistry' },
+                  { text: 'Leadership di Squadra', link: '/it/articles/team-leadership' }
+                ]
+              },
+              {
+                text: '⚡ Fattori di Performance',
+                items: [
+                  { text: 'Sonno & Performance', link: '/it/articles/sleep-performance' },
+                  { text: 'Nutrizione per Gara', link: '/it/articles/nutrition-competition' },
+                  { text: 'Autoconsapevolezza', link: '/it/articles/self-awareness-development' },
+                  { text: 'Tensione & Precisione', link: '/it/articles/tension-precision' }
+                ]
+              },
+              {
+                text: '🎯 Allenamento',
+                items: [
+                  { text: 'Errori Allenamento Mentale', link: '/it/articles/mental-training-mistakes' },
+                  { text: 'Struttura della Pratica', link: '/it/articles/practice-structure' },
+                  { text: 'Preparazione alla Gara', link: '/it/articles/competition-prep' }
+                ]
+              }
+            ]
+          },
           { text: 'Chi siamo', link: '/it/about' }
         ]
       }
@@ -431,53 +947,139 @@ export default withMermaid(defineConfig({
       themeConfig: {
         nav: [
           { text: 'Home', link: '/nl/' },
+          { text: '🎯 Beoordeling', link: '/nl/assessment/' },
           { text: 'Ambitie', link: '/nl/ambition' },
-          { text: 'Nieuws', link: '/nl/news/' },
           {
-            text: 'Educatie',
+            text: 'Leren',
             items: [
-              { text: 'Overzicht', link: '/nl/education/' },
-              { text: 'De Zone', link: '/nl/education/the-zone/' },
-              { text: 'Mindfulness', link: '/nl/education/mindfulness/' },
-              { text: 'Doelen Stellen', link: '/nl/education/goals/' },
-              { text: 'Mentale Kracht', link: '/nl/education/mental-strength/' },
-              { text: 'Teamdynamiek', link: '/nl/education/team-player/' },
-              { text: 'Tactiek', link: '/nl/education/tactics/' },
-              { text: 'Trainingsmethoden', link: '/nl/education/training/' },
-              { text: 'Voeding', link: '/nl/education/nutrition/' }
-            ]
-          },
-          {
-            text: 'Hulpmiddelen',
-            items: [
+              { text: '📚 Educatief Centrum', link: '/nl/education/' },
               {
-                text: 'Gidsen',
+                text: '🧠 Mentaal Spel (600p)',
                 items: [
-                  { text: 'Mentale Reis (Beginners)', link: '/nl/mental-journey/' },
-                  { text: 'Workshop (Gevorderd)', link: '/nl/workshop' },
-                  { text: 'Trainingskamp', link: '/nl/training-camp' },
-                  { text: 'Trainingssessie', link: '/nl/training-session' }
+                  { text: 'Overzicht', link: '/nl/education/mental-game/' },
+                  { text: 'De Zone', link: '/nl/education/mental-game/the-zone/' },
+                  { text: 'Mentale Kracht', link: '/nl/education/mental-game/mental-strength/' },
+                  { text: 'Mindfulness', link: '/nl/education/mental-game/mindfulness/' }
                 ]
               },
               {
-                text: 'Sjablonen',
+                text: '🔥 Motivatie (500p)',
                 items: [
-                  { text: 'Doelsjabloon', link: '/nl/goal-template' },
-                  { text: 'Dagboeksjabloon', link: '/nl/diary-template' }
+                  { text: 'Doelen & Motivatie', link: '/nl/education/motivation/' }
+                ]
+              },
+              {
+                text: '😴 Slaap (400p)',
+                items: [
+                  { text: 'Slaap & Herstel', link: '/nl/education/sleep/' }
+                ]
+              },
+              {
+                text: '🪞 Zelfbewustzijn (400p)',
+                items: [
+                  { text: 'Zelfbewustzijn', link: '/nl/education/self-awareness/' }
+                ]
+              },
+              {
+                text: '🥗 Voeding (300p)',
+                items: [
+                  { text: 'Prestatievoeding', link: '/nl/education/nutrition/' }
+                ]
+              },
+              {
+                text: '🤝 Teamdynamiek (300p)',
+                items: [
+                  { text: 'Teamspeler', link: '/nl/education/team-dynamics/' }
+                ]
+              },
+              {
+                text: '💆 Spanning (300p)',
+                items: [
+                  { text: 'Spanningsbeheer', link: '/nl/education/tension/' }
+                ]
+              },
+              {
+                text: '🎯 Techniek (100p)',
+                items: [
+                  { text: 'Technisch Advies', link: '/nl/education/technique/' },
+                  { text: 'Trainingsmethoden', link: '/nl/education/technique/training/' },
+                  { text: 'Tactiek', link: '/nl/education/technique/tactics/' }
                 ]
               }
             ]
           },
           {
-            text: 'Bronnen',
+            text: 'Gidsen',
             items: [
-              { text: 'Artikelen', link: '/nl/blog/' },
-              { text: 'Casestudies', link: '/nl/case-studies' },
-              { text: 'Getuigenissen', link: '/nl/testimonials' }
+              { text: '📋 Alle Gidsen', link: '/nl/guides/' },
+              { text: '🌱 Mentale Reis (Beginners)', link: '/nl/guides/mental-journey/' },
+              { text: '🎯 Workshop', link: '/nl/guides/workshop/' },
+              { text: '🏕️ Trainingskamp', link: '/nl/guides/training-camp/' },
+              { text: '🔄 Trainingssessie', link: '/nl/guides/training-session/' },
+              {
+                text: '📄 Sjablonen',
+                items: [
+                  { text: 'Slaaptracker', link: '/nl/guides/templates/sleep-tracker' },
+                  { text: 'Pre-Wedstrijd Checklist', link: '/nl/guides/templates/pre-competition-checklist' },
+                  { text: 'Peer Feedback', link: '/nl/guides/templates/peer-feedback' },
+                  { text: 'Teamovereenkomst', link: '/nl/guides/templates/team-agreement' },
+                  { text: 'Spanningskaart', link: '/nl/guides/templates/tension-quick-card' },
+                  { text: 'Voedingsplanner', link: '/nl/guides/templates/nutrition-planner' },
+                  { text: 'Doelsjabloon', link: '/nl/guides/templates/goal-template' },
+                  { text: 'Dagboeksjabloon', link: '/nl/guides/templates/diary-template' }
+                ]
+              }
             ]
           },
-          { text: 'Technisch Advies', link: '/nl/technical/' },
-          { text: 'Voeding', link: '/nl/food' },
+          {
+            text: 'Artikelen',
+            items: [
+              { text: '📝 Alle Artikelen', link: '/nl/articles/' },
+              {
+                text: '🧠 Mentaal Spel',
+                items: [
+                  { text: 'Flow State Wetenschap', link: '/nl/articles/flow-state-science' },
+                  { text: 'De Innerlijke Criticus', link: '/nl/articles/inner-critic' },
+                  { text: 'Pre-Shot Routines', link: '/nl/articles/pre-shot-routines' },
+                  { text: 'Drukbeheer', link: '/nl/articles/pressure-management' },
+                  { text: 'Mindfulness in Wedstrijd', link: '/nl/articles/mindfulness-competition' }
+                ]
+              },
+              {
+                text: '🔥 Motivatie & Veerkracht',
+                items: [
+                  { text: 'Elite Doelen Stellen', link: '/nl/articles/elite-goal-setting' },
+                  { text: 'Mentale Veerkracht', link: '/nl/articles/mental-resilience' },
+                  { text: 'Mentaal vs Technisch', link: '/nl/articles/mental-vs-technical' }
+                ]
+              },
+              {
+                text: '🤝 Teamdynamiek',
+                items: [
+                  { text: 'Teamcommunicatie', link: '/nl/articles/team-communication' },
+                  { text: 'Teamchemie', link: '/nl/articles/team-chemistry' },
+                  { text: 'Teamleiderschap', link: '/nl/articles/team-leadership' }
+                ]
+              },
+              {
+                text: '⚡ Prestatiefactoren',
+                items: [
+                  { text: 'Slaap & Prestatie', link: '/nl/articles/sleep-performance' },
+                  { text: 'Voeding voor Wedstrijd', link: '/nl/articles/nutrition-competition' },
+                  { text: 'Zelfbewustzijn', link: '/nl/articles/self-awareness-development' },
+                  { text: 'Spanning & Precisie', link: '/nl/articles/tension-precision' }
+                ]
+              },
+              {
+                text: '🎯 Training',
+                items: [
+                  { text: 'Mentale Trainingsfouten', link: '/nl/articles/mental-training-mistakes' },
+                  { text: 'Trainingsstructuur', link: '/nl/articles/practice-structure' },
+                  { text: 'Wedstrijdvoorbereiding', link: '/nl/articles/competition-prep' }
+                ]
+              }
+            ]
+          },
           { text: 'Over', link: '/nl/about' }
         ]
       }
@@ -489,53 +1091,139 @@ export default withMermaid(defineConfig({
       themeConfig: {
         nav: [
           { text: 'Hjem', link: '/no/' },
+          { text: '🎯 Vurdering', link: '/no/assessment/' },
           { text: 'Ambisjon', link: '/no/ambition' },
-          { text: 'Nyheter', link: '/no/news/' },
           {
-            text: 'Utdanning',
+            text: 'Lære',
             items: [
-              { text: 'Oversikt', link: '/no/education/' },
-              { text: 'Sonen', link: '/no/education/the-zone/' },
-              { text: 'Mindfulness', link: '/no/education/mindfulness/' },
-              { text: 'Målsetting', link: '/no/education/goals/' },
-              { text: 'Mental Styrke', link: '/no/education/mental-strength/' },
-              { text: 'Teamdynamikk', link: '/no/education/team-player/' },
-              { text: 'Taktikk', link: '/no/education/tactics/' },
-              { text: 'Treningsmetoder', link: '/no/education/training/' },
-              { text: 'Ernæring', link: '/no/education/nutrition/' }
-            ]
-          },
-          {
-            text: 'Verktøy',
-            items: [
+              { text: '📚 Utdanningssenter', link: '/no/education/' },
               {
-                text: 'Guider',
+                text: '🧠 Mentalt Spill (600p)',
                 items: [
-                  { text: 'Mental Reise (Nybegynnere)', link: '/no/mental-journey/' },
-                  { text: 'Workshop (Avansert)', link: '/no/workshop' },
-                  { text: 'Treningsleir', link: '/no/training-camp' },
-                  { text: 'Treningsøkt', link: '/no/training-session' }
+                  { text: 'Oversikt', link: '/no/education/mental-game/' },
+                  { text: 'Sonen', link: '/no/education/mental-game/the-zone/' },
+                  { text: 'Mental Styrke', link: '/no/education/mental-game/mental-strength/' },
+                  { text: 'Mindfulness', link: '/no/education/mental-game/mindfulness/' }
                 ]
               },
               {
-                text: 'Maler',
+                text: '🔥 Motivasjon (500p)',
                 items: [
-                  { text: 'Målmal', link: '/no/goal-template' },
-                  { text: 'Dagbokmal', link: '/no/diary-template' }
+                  { text: 'Mål & Motivasjon', link: '/no/education/motivation/' }
+                ]
+              },
+              {
+                text: '😴 Søvn (400p)',
+                items: [
+                  { text: 'Søvn & Restitusjon', link: '/no/education/sleep/' }
+                ]
+              },
+              {
+                text: '🪞 Selvbevissthet (400p)',
+                items: [
+                  { text: 'Selvbevissthet', link: '/no/education/self-awareness/' }
+                ]
+              },
+              {
+                text: '🥗 Ernæring (300p)',
+                items: [
+                  { text: 'Prestasjonsernæring', link: '/no/education/nutrition/' }
+                ]
+              },
+              {
+                text: '🤝 Teamdynamikk (300p)',
+                items: [
+                  { text: 'Lagspiller', link: '/no/education/team-dynamics/' }
+                ]
+              },
+              {
+                text: '💆 Spenning (300p)',
+                items: [
+                  { text: 'Spenningshåndtering', link: '/no/education/tension/' }
+                ]
+              },
+              {
+                text: '🎯 Teknikk (100p)',
+                items: [
+                  { text: 'Teknisk Råd', link: '/no/education/technique/' },
+                  { text: 'Treningsmetoder', link: '/no/education/technique/training/' },
+                  { text: 'Taktikk', link: '/no/education/technique/tactics/' }
                 ]
               }
             ]
           },
           {
-            text: 'Ressurser',
+            text: 'Guider',
             items: [
-              { text: 'Artikler', link: '/no/blog/' },
-              { text: 'Casestudier', link: '/no/case-studies' },
-              { text: 'Attester', link: '/no/testimonials' }
+              { text: '📋 Alle Guider', link: '/no/guides/' },
+              { text: '🌱 Mental Reise (Nybegynnere)', link: '/no/guides/mental-journey/' },
+              { text: '🎯 Workshop', link: '/no/guides/workshop/' },
+              { text: '🏕️ Treningsleir', link: '/no/guides/training-camp/' },
+              { text: '🔄 Treningsøkt', link: '/no/guides/training-session/' },
+              {
+                text: '📄 Maler',
+                items: [
+                  { text: 'Søvnsporing', link: '/no/guides/templates/sleep-tracker' },
+                  { text: 'Før-konkurranse Sjekkliste', link: '/no/guides/templates/pre-competition-checklist' },
+                  { text: 'Tilbakemelding', link: '/no/guides/templates/peer-feedback' },
+                  { text: 'Lagavtale', link: '/no/guides/templates/team-agreement' },
+                  { text: 'Spenningskort', link: '/no/guides/templates/tension-quick-card' },
+                  { text: 'Ernæringsplanlegger', link: '/no/guides/templates/nutrition-planner' },
+                  { text: 'Målmal', link: '/no/guides/templates/goal-template' },
+                  { text: 'Dagbokmal', link: '/no/guides/templates/diary-template' }
+                ]
+              }
             ]
           },
-          { text: 'Teknisk Råd', link: '/no/technical/' },
-          { text: 'Mat', link: '/no/food' },
+          {
+            text: 'Artikler',
+            items: [
+              { text: '📝 Alle Artikler', link: '/no/articles/' },
+              {
+                text: '🧠 Mentalt Spill',
+                items: [
+                  { text: 'Flow-tilstandens Vitenskap', link: '/no/articles/flow-state-science' },
+                  { text: 'Den Indre Kritikeren', link: '/no/articles/inner-critic' },
+                  { text: 'Pre-Shot Rutiner', link: '/no/articles/pre-shot-routines' },
+                  { text: 'Presshåndtering', link: '/no/articles/pressure-management' },
+                  { text: 'Mindfulness i Konkurranse', link: '/no/articles/mindfulness-competition' }
+                ]
+              },
+              {
+                text: '🔥 Motivasjon & Utholdenhet',
+                items: [
+                  { text: 'Elite Målsetting', link: '/no/articles/elite-goal-setting' },
+                  { text: 'Mental Utholdenhet', link: '/no/articles/mental-resilience' },
+                  { text: 'Mentalt vs Teknisk', link: '/no/articles/mental-vs-technical' }
+                ]
+              },
+              {
+                text: '🤝 Teamdynamikk',
+                items: [
+                  { text: 'Lagkommunikasjon', link: '/no/articles/team-communication' },
+                  { text: 'Lagkjemi', link: '/no/articles/team-chemistry' },
+                  { text: 'Laglederskap', link: '/no/articles/team-leadership' }
+                ]
+              },
+              {
+                text: '⚡ Prestasjonsfaktorer',
+                items: [
+                  { text: 'Søvn & Prestasjon', link: '/no/articles/sleep-performance' },
+                  { text: 'Ernæring for Konkurranse', link: '/no/articles/nutrition-competition' },
+                  { text: 'Selvbevissthet', link: '/no/articles/self-awareness-development' },
+                  { text: 'Spenning & Presisjon', link: '/no/articles/tension-precision' }
+                ]
+              },
+              {
+                text: '🎯 Trening',
+                items: [
+                  { text: 'Mentale Treningsfeil', link: '/no/articles/mental-training-mistakes' },
+                  { text: 'Treningsstruktur', link: '/no/articles/practice-structure' },
+                  { text: 'Konkurranseforberedelse', link: '/no/articles/competition-prep' }
+                ]
+              }
+            ]
+          },
           { text: 'Om', link: '/no/about' }
         ]
       }
@@ -547,53 +1235,139 @@ export default withMermaid(defineConfig({
       themeConfig: {
         nav: [
           { text: 'Início', link: '/pt/' },
+          { text: '🎯 Avaliação', link: '/pt/assessment/' },
           { text: 'Ambição', link: '/pt/ambition' },
-          { text: 'Notícias', link: '/pt/news/' },
           {
-            text: 'Educação',
+            text: 'Aprender',
             items: [
-              { text: 'Visão Geral', link: '/pt/education/' },
-              { text: 'A Zona', link: '/pt/education/the-zone/' },
-              { text: 'Mindfulness', link: '/pt/education/mindfulness/' },
-              { text: 'Definição de Metas', link: '/pt/education/goals/' },
-              { text: 'Força Mental', link: '/pt/education/mental-strength/' },
-              { text: 'Dinâmica de Equipe', link: '/pt/education/team-player/' },
-              { text: 'Tática', link: '/pt/education/tactics/' },
-              { text: 'Métodos de Treinamento', link: '/pt/education/training/' },
-              { text: 'Nutrição', link: '/pt/education/nutrition/' }
-            ]
-          },
-          {
-            text: 'Ferramentas',
-            items: [
+              { text: '📚 Centro Educacional', link: '/pt/education/' },
               {
-                text: 'Guias',
+                text: '🧠 Jogo Mental (600p)',
                 items: [
-                  { text: 'Jornada Mental (Iniciantes)', link: '/pt/mental-journey/' },
-                  { text: 'Workshop (Avançado)', link: '/pt/workshop' },
-                  { text: 'Campo de Treinamento', link: '/pt/training-camp' },
-                  { text: 'Sessão de Treinamento', link: '/pt/training-session' }
+                  { text: 'Visão Geral', link: '/pt/education/mental-game/' },
+                  { text: 'A Zona', link: '/pt/education/mental-game/the-zone/' },
+                  { text: 'Força Mental', link: '/pt/education/mental-game/mental-strength/' },
+                  { text: 'Mindfulness', link: '/pt/education/mental-game/mindfulness/' }
                 ]
               },
               {
-                text: 'Modelos',
+                text: '🔥 Motivação (500p)',
                 items: [
-                  { text: 'Modelo de Objetivos', link: '/pt/goal-template' },
-                  { text: 'Modelo de Diário', link: '/pt/diary-template' }
+                  { text: 'Metas & Motivação', link: '/pt/education/motivation/' }
+                ]
+              },
+              {
+                text: '😴 Sono (400p)',
+                items: [
+                  { text: 'Sono & Recuperação', link: '/pt/education/sleep/' }
+                ]
+              },
+              {
+                text: '🪞 Autoconsciência (400p)',
+                items: [
+                  { text: 'Autoconsciência', link: '/pt/education/self-awareness/' }
+                ]
+              },
+              {
+                text: '🥗 Nutrição (300p)',
+                items: [
+                  { text: 'Nutrição de Performance', link: '/pt/education/nutrition/' }
+                ]
+              },
+              {
+                text: '🤝 Dinâmica de Equipe (300p)',
+                items: [
+                  { text: 'Jogador de Equipe', link: '/pt/education/team-dynamics/' }
+                ]
+              },
+              {
+                text: '💆 Tensão (300p)',
+                items: [
+                  { text: 'Gestão de Tensão', link: '/pt/education/tension/' }
+                ]
+              },
+              {
+                text: '🎯 Técnica (100p)',
+                items: [
+                  { text: 'Conselho Técnico', link: '/pt/education/technique/' },
+                  { text: 'Métodos de Treinamento', link: '/pt/education/technique/training/' },
+                  { text: 'Tática', link: '/pt/education/technique/tactics/' }
                 ]
               }
             ]
           },
           {
-            text: 'Recursos',
+            text: 'Guias',
             items: [
-              { text: 'Artigos', link: '/pt/blog/' },
-              { text: 'Estudos de Caso', link: '/pt/case-studies' },
-              { text: 'Depoimentos', link: '/pt/testimonials' }
+              { text: '📋 Todos os Guias', link: '/pt/guides/' },
+              { text: '🌱 Jornada Mental (Iniciantes)', link: '/pt/guides/mental-journey/' },
+              { text: '🎯 Workshop', link: '/pt/guides/workshop/' },
+              { text: '🏕️ Campo de Treinamento', link: '/pt/guides/training-camp/' },
+              { text: '🔄 Sessão de Treinamento', link: '/pt/guides/training-session/' },
+              {
+                text: '📄 Modelos',
+                items: [
+                  { text: 'Rastreador de Sono', link: '/pt/guides/templates/sleep-tracker' },
+                  { text: 'Checklist Pré-Competição', link: '/pt/guides/templates/pre-competition-checklist' },
+                  { text: 'Feedback entre Pares', link: '/pt/guides/templates/peer-feedback' },
+                  { text: 'Acordo de Equipe', link: '/pt/guides/templates/team-agreement' },
+                  { text: 'Cartão de Tensão', link: '/pt/guides/templates/tension-quick-card' },
+                  { text: 'Planejador de Nutrição', link: '/pt/guides/templates/nutrition-planner' },
+                  { text: 'Modelo de Objetivos', link: '/pt/guides/templates/goal-template' },
+                  { text: 'Modelo de Diário', link: '/pt/guides/templates/diary-template' }
+                ]
+              }
             ]
           },
-          { text: 'Conselho Técnico', link: '/pt/technical/' },
-          { text: 'Comida', link: '/pt/food' },
+          {
+            text: 'Artigos',
+            items: [
+              { text: '📝 Todos os Artigos', link: '/pt/articles/' },
+              {
+                text: '🧠 Jogo Mental',
+                items: [
+                  { text: 'Ciência do Estado Flow', link: '/pt/articles/flow-state-science' },
+                  { text: 'O Crítico Interior', link: '/pt/articles/inner-critic' },
+                  { text: 'Rotinas Pré-Tiro', link: '/pt/articles/pre-shot-routines' },
+                  { text: 'Gestão de Pressão', link: '/pt/articles/pressure-management' },
+                  { text: 'Mindfulness em Competição', link: '/pt/articles/mindfulness-competition' }
+                ]
+              },
+              {
+                text: '🔥 Motivação & Resiliência',
+                items: [
+                  { text: 'Definição de Metas Elite', link: '/pt/articles/elite-goal-setting' },
+                  { text: 'Resiliência Mental', link: '/pt/articles/mental-resilience' },
+                  { text: 'Mental vs Técnico', link: '/pt/articles/mental-vs-technical' }
+                ]
+              },
+              {
+                text: '🤝 Dinâmica de Equipe',
+                items: [
+                  { text: 'Comunicação de Equipe', link: '/pt/articles/team-communication' },
+                  { text: 'Química de Equipe', link: '/pt/articles/team-chemistry' },
+                  { text: 'Liderança de Equipe', link: '/pt/articles/team-leadership' }
+                ]
+              },
+              {
+                text: '⚡ Fatores de Performance',
+                items: [
+                  { text: 'Sono & Performance', link: '/pt/articles/sleep-performance' },
+                  { text: 'Nutrição para Competição', link: '/pt/articles/nutrition-competition' },
+                  { text: 'Autoconsciência', link: '/pt/articles/self-awareness-development' },
+                  { text: 'Tensão & Precisão', link: '/pt/articles/tension-precision' }
+                ]
+              },
+              {
+                text: '🎯 Treinamento',
+                items: [
+                  { text: 'Erros de Treino Mental', link: '/pt/articles/mental-training-mistakes' },
+                  { text: 'Estrutura de Prática', link: '/pt/articles/practice-structure' },
+                  { text: 'Preparação para Competição', link: '/pt/articles/competition-prep' }
+                ]
+              }
+            ]
+          },
           { text: 'Sobre', link: '/pt/about' }
         ]
       }
@@ -605,53 +1379,139 @@ export default withMermaid(defineConfig({
       themeConfig: {
         nav: [
           { text: 'Hem', link: '/sv/' },
+          { text: '🎯 Utvärdering', link: '/sv/assessment/' },
           { text: 'Ambition', link: '/sv/ambition' },
-          { text: 'Nyheter', link: '/sv/news/' },
           {
-            text: 'Utbildning',
+            text: 'Lär dig',
             items: [
-              { text: 'Översikt', link: '/sv/education/' },
-              { text: 'Zonen', link: '/sv/education/the-zone/' },
-              { text: 'Mindfulness', link: '/sv/education/mindfulness/' },
-              { text: 'Målsättning', link: '/sv/education/goals/' },
-              { text: 'Mental Styrka', link: '/sv/education/mental-strength/' },
-              { text: 'Teamdynamik', link: '/sv/education/team-player/' },
-              { text: 'Taktik', link: '/sv/education/tactics/' },
-              { text: 'Träningsmetoder', link: '/sv/education/training/' },
-              { text: 'Näring', link: '/sv/education/nutrition/' }
-            ]
-          },
-          {
-            text: 'Verktyg',
-            items: [
+              { text: '📚 Utbildningscenter', link: '/sv/education/' },
               {
-                text: 'Guider',
+                text: '🧠 Mentalt Spel (600p)',
                 items: [
-                  { text: 'Mental Resa (Nybörjare)', link: '/sv/mental-journey/' },
-                  { text: 'Workshop (Avancerad)', link: '/sv/workshop' },
-                  { text: 'Träningsläger', link: '/sv/training-camp' },
-                  { text: 'Träningspass', link: '/sv/training-session' }
+                  { text: 'Översikt', link: '/sv/education/mental-game/' },
+                  { text: 'Zonen', link: '/sv/education/mental-game/the-zone/' },
+                  { text: 'Mental Styrka', link: '/sv/education/mental-game/mental-strength/' },
+                  { text: 'Mindfulness', link: '/sv/education/mental-game/mindfulness/' }
                 ]
               },
               {
-                text: 'Mallar',
+                text: '🔥 Motivation (500p)',
                 items: [
-                  { text: 'Målmall', link: '/sv/goal-template' },
-                  { text: 'Dagboksmall', link: '/sv/diary-template' }
+                  { text: 'Mål & Motivation', link: '/sv/education/motivation/' }
+                ]
+              },
+              {
+                text: '😴 Sömn (400p)',
+                items: [
+                  { text: 'Sömn & Återhämtning', link: '/sv/education/sleep/' }
+                ]
+              },
+              {
+                text: '🪞 Självkännedom (400p)',
+                items: [
+                  { text: 'Självkännedom', link: '/sv/education/self-awareness/' }
+                ]
+              },
+              {
+                text: '🥗 Näring (300p)',
+                items: [
+                  { text: 'Prestationsnäring', link: '/sv/education/nutrition/' }
+                ]
+              },
+              {
+                text: '🤝 Teamdynamik (300p)',
+                items: [
+                  { text: 'Lagspelare', link: '/sv/education/team-dynamics/' }
+                ]
+              },
+              {
+                text: '💆 Spänning (300p)',
+                items: [
+                  { text: 'Spänningshantering', link: '/sv/education/tension/' }
+                ]
+              },
+              {
+                text: '🎯 Teknik (100p)',
+                items: [
+                  { text: 'Teknisk Rådgivning', link: '/sv/education/technique/' },
+                  { text: 'Träningsmetoder', link: '/sv/education/technique/training/' },
+                  { text: 'Taktik', link: '/sv/education/technique/tactics/' }
                 ]
               }
             ]
           },
           {
-            text: 'Resurser',
+            text: 'Guider',
             items: [
-              { text: 'Artiklar', link: '/sv/blog/' },
-              { text: 'Fallstudier', link: '/sv/case-studies' },
-              { text: 'Omdömen', link: '/sv/testimonials' }
+              { text: '📋 Alla Guider', link: '/sv/guides/' },
+              { text: '🌱 Mental Resa (Nybörjare)', link: '/sv/guides/mental-journey/' },
+              { text: '🎯 Workshop', link: '/sv/guides/workshop/' },
+              { text: '🏕️ Träningsläger', link: '/sv/guides/training-camp/' },
+              { text: '🔄 Träningspass', link: '/sv/guides/training-session/' },
+              {
+                text: '📄 Mallar',
+                items: [
+                  { text: 'Sömnspårning', link: '/sv/guides/templates/sleep-tracker' },
+                  { text: 'Checklista Före Tävling', link: '/sv/guides/templates/pre-competition-checklist' },
+                  { text: 'Feedback från Lagkamrater', link: '/sv/guides/templates/peer-feedback' },
+                  { text: 'Lagöverenskommelse', link: '/sv/guides/templates/team-agreement' },
+                  { text: 'Spänningskort', link: '/sv/guides/templates/tension-quick-card' },
+                  { text: 'Näringsplanerare', link: '/sv/guides/templates/nutrition-planner' },
+                  { text: 'Målmall', link: '/sv/guides/templates/goal-template' },
+                  { text: 'Dagboksmall', link: '/sv/guides/templates/diary-template' }
+                ]
+              }
             ]
           },
-          { text: 'Teknisk Rådgivning', link: '/sv/technical/' },
-          { text: 'Mat', link: '/sv/food' },
+          {
+            text: 'Artiklar',
+            items: [
+              { text: '📝 Alla Artiklar', link: '/sv/articles/' },
+              {
+                text: '🧠 Mentalt Spel',
+                items: [
+                  { text: 'Flow-tillståndets Vetenskap', link: '/sv/articles/flow-state-science' },
+                  { text: 'Den Inre Kritikern', link: '/sv/articles/inner-critic' },
+                  { text: 'Pre-Shot Rutiner', link: '/sv/articles/pre-shot-routines' },
+                  { text: 'Presshantering', link: '/sv/articles/pressure-management' },
+                  { text: 'Mindfulness i Tävling', link: '/sv/articles/mindfulness-competition' }
+                ]
+              },
+              {
+                text: '🔥 Motivation & Uthållighet',
+                items: [
+                  { text: 'Elite Målsättning', link: '/sv/articles/elite-goal-setting' },
+                  { text: 'Mental Uthållighet', link: '/sv/articles/mental-resilience' },
+                  { text: 'Mentalt vs Tekniskt', link: '/sv/articles/mental-vs-technical' }
+                ]
+              },
+              {
+                text: '🤝 Teamdynamik',
+                items: [
+                  { text: 'Lagkommunikation', link: '/sv/articles/team-communication' },
+                  { text: 'Lagkemi', link: '/sv/articles/team-chemistry' },
+                  { text: 'Lagledarskap', link: '/sv/articles/team-leadership' }
+                ]
+              },
+              {
+                text: '⚡ Prestationsfaktorer',
+                items: [
+                  { text: 'Sömn & Prestation', link: '/sv/articles/sleep-performance' },
+                  { text: 'Näring för Tävling', link: '/sv/articles/nutrition-competition' },
+                  { text: 'Självkännedom', link: '/sv/articles/self-awareness-development' },
+                  { text: 'Spänning & Precision', link: '/sv/articles/tension-precision' }
+                ]
+              },
+              {
+                text: '🎯 Träning',
+                items: [
+                  { text: 'Mentala Träningsmisstag', link: '/sv/articles/mental-training-mistakes' },
+                  { text: 'Träningsstruktur', link: '/sv/articles/practice-structure' },
+                  { text: 'Tävlingsförberedelse', link: '/sv/articles/competition-prep' }
+                ]
+              }
+            ]
+          },
           { text: 'Om', link: '/sv/about' }
         ]
       }
@@ -735,372 +1595,456 @@ function getSidebar() {
     '/en/education/': getEducationSidebar('en', {
       education: 'Education',
       overview: 'Overview',
-      theZone: 'The Zone',
       introduction: 'Introduction',
+      // Mental Game
+      mentalGame: 'Mental Game',
+      theZone: 'The Zone',
       technicalVsFlow: 'Technical vs Flow Training',
       enteringZone: 'Entering the Zone',
-      mindfulness: 'Mindfulness',
-      techniques: 'Techniques',
-      dailyPractice: 'Daily Practice',
-      goalSetting: 'Goal Setting',
-      smartGoals: 'SMART Goals',
-      planning: 'Planning Your Development',
       mentalStrength: 'Mental Strength',
       handlingPressure: 'Handling Pressure',
       preShotRoutine: 'Pre-Shot Routine',
+      mindfulness: 'Mindfulness',
+      techniques: 'Techniques',
+      dailyPractice: 'Daily Practice',
+      // Motivation
+      motivation: 'Motivation',
+      smartGoals: 'SMART Goals',
+      planning: 'Planning Your Development',
+      // Sleep
+      sleep: 'Sleep & Recovery',
+      // Self-Awareness
+      selfAwareness: 'Self-Awareness',
+      // Nutrition
+      nutrition: 'Nutrition',
+      fuelingPerformance: 'Fueling Performance',
+      // Team Dynamics
       teamDynamics: 'Team Dynamics',
       communication: 'Communication',
-      tactics: 'Tactics',
-      probability: 'Probability-Based Decisions',
+      // Tension
+      tension: 'Tension Management',
+      // Technique
+      technique: 'Technique',
+      paletteOfThrows: 'Palette of Throws',
       trainingMethods: 'Training Methods',
       trainingDrills: 'Training Drills',
-      nutrition: 'Nutrition',
-      fuelingPerformance: 'Fueling Performance'
+      tactics: 'Tactics',
+      probability: 'Probability-Based Decisions'
     }),
-    '/en/technical/': getTechnicalSidebar('en', {
-      technicalAdvice: 'Technical Advice',
+    '/en/guides/': getGuidesSidebar('en', {
+      guides: 'Guides & Tools',
       overview: 'Overview',
-      paletteOfThrows: 'Palette of Throws'
-    }),
-    '/en/mental-journey/': getMentalJourneySidebar('en', {
-      mentalJourney: 'Mental Journey for Beginners',
-      overview: 'Getting Started',
+      mentalJourney: 'Mental Journey (Beginners)',
       sessionGuide: 'Session Guide (2-3h)',
       materials: 'Downloadable Materials',
-      relatedResources: 'Related Resources',
-      workshop: 'Workshop (Advanced)',
+      workshop: 'Workshop',
       trainingCamp: 'Training Camp',
-      trainingSession: 'Training Session'
+      trainingSession: 'Training Session',
+      templates: 'Templates',
+      goalTemplate: 'Goal Template',
+      diaryTemplate: 'Diary Template',
+      sleepTracker: 'Sleep Tracker',
+      preCompetition: 'Pre-Competition Checklist',
+      peerFeedback: 'Peer Feedback',
+      teamAgreement: 'Team Agreement',
+      tensionQuickCard: 'Tension Release Card',
+      nutritionPlanner: 'Nutrition Planner'
     }),
-    '/en/workshop': getWorkshopSidebar('en', {
-      workshop: 'Workshop (Advanced)',
+    '/en/articles/': getArticlesSidebar('en', {
+      resources: 'Resources',
       overview: 'Overview',
-      quickLinks: 'Quick Navigation',
-      forParticipants: 'For Participants',
-      forFacilitators: 'For Facilitators',
-      relatedResources: 'Related Resources',
-      mentalJourney: 'Mental Journey (Beginners)',
-      trainingCamp: 'Training Camp',
-      trainingSession: 'Training Session'
-    }),
-    '/en/training-camp': getTrainingCampSidebar('en', {
-      trainingCamp: 'Training Camp',
-      overview: 'Overview',
-      quickLinks: 'Quick Navigation',
-      forParticipants: 'For Participants',
-      forOrganizers: 'For Organizers',
-      relatedResources: 'Related Resources',
-      mentalJourney: 'Mental Journey (Beginners)',
-      workshop: 'Workshop (Advanced)',
-      trainingSession: 'Training Session'
-    }),
-    '/en/blog/': getBlogSidebar('en', {
       blog: 'Articles',
       allArticles: 'All Articles',
       mentalGame: 'Mental Game',
       performance: 'Performance Psychology',
       teamDynamics: 'Team Dynamics',
-      training: 'Training & Development'
+      training: 'Training & Development',
+      caseStudies: 'Case Studies',
+      testimonials: 'Testimonials'
     }),
 
     // Danish
     '/da/education/': getEducationSidebar('da', {
       education: 'Uddannelse',
       overview: 'Oversigt',
-      theZone: 'Zonen',
       introduction: 'Introduktion',
+      mentalGame: 'Mentalt Spil',
+      theZone: 'Zonen',
       technicalVsFlow: 'Teknisk vs Flow Træning',
       enteringZone: 'Komme ind i Zonen',
-      mindfulness: 'Mindfulness',
-      techniques: 'Teknikker',
-      dailyPractice: 'Daglig Praksis',
-      goalSetting: 'Målsætning',
-      smartGoals: 'SMART Mål',
-      planning: 'Planlægning af Din Udvikling',
       mentalStrength: 'Mental Styrke',
       handlingPressure: 'Håndtering af Pres',
       preShotRoutine: 'Før-Kast Rutine',
+      mindfulness: 'Mindfulness',
+      techniques: 'Teknikker',
+      dailyPractice: 'Daglig Praksis',
+      motivation: 'Motivation',
+      smartGoals: 'SMART Mål',
+      planning: 'Planlægning af Din Udvikling',
+      sleep: 'Søvn & Restitution',
+      selfAwareness: 'Selvbevidsthed',
+      nutrition: 'Ernæring',
+      fuelingPerformance: 'Brændstof til Præstation',
       teamDynamics: 'Teamdynamik',
       communication: 'Kommunikation',
-      tactics: 'Taktik',
-      probability: 'Sandsynlighedsbaserede Beslutninger',
+      tension: 'Spændingshåndtering',
+      technique: 'Teknik',
+      paletteOfThrows: 'Palet af Kast',
       trainingMethods: 'Træningsmetoder',
       trainingDrills: 'Træningsøvelser',
-      nutrition: 'Ernæring',
-      fuelingPerformance: 'Brændstof til Præstation'
+      tactics: 'Taktik',
+      probability: 'Sandsynlighedsbaserede Beslutninger'
     }),
-    '/da/technical/': getTechnicalSidebar('da', {
-      technicalAdvice: 'Teknisk Rådgivning',
+    '/da/guides/': getGuidesSidebar('da', {
+      guides: 'Guider & Værktøjer',
       overview: 'Oversigt',
-      paletteOfThrows: 'Palet af Kast'
+      mentalJourney: 'Mental Rejse (Begyndere)',
+      sessionGuide: 'Sessionsguide (2-3t)',
+      materials: 'Downloadbare Materialer',
+      workshop: 'Workshop',
+      trainingCamp: 'Træningslejr',
+      trainingSession: 'Træningssession',
+      templates: 'Skabeloner',
+      goalTemplate: 'Målskabelon',
+      diaryTemplate: 'Dagbogskabelon',
+      sleepTracker: 'Søvnsporing',
+      preCompetition: 'Før-konkurrence Tjekliste',
+      peerFeedback: 'Peer Feedback',
+      teamAgreement: 'Holdaftale',
+      tensionQuickCard: 'Spændingskort',
+      nutritionPlanner: 'Ernæringsplanlægger'
     }),
-    '/da/blog/': getBlogSidebar('da', {
+    '/da/articles/': getArticlesSidebar('da', {
+      resources: 'Ressourcer',
+      overview: 'Oversigt',
       blog: 'Artikler',
       allArticles: 'Alle Artikler',
       mentalGame: 'Mentalt Spil',
       performance: 'Præstationspsykologi',
       teamDynamics: 'Teamdynamik',
-      training: 'Træning & Udvikling'
-    }),
-    '/da/mental-journey/': getMentalJourneySidebar('da', {
-      mentalJourney: 'Mental Rejse for Begyndere',
-      overview: 'Kom i Gang',
-      sessionGuide: 'Sessionsguide (2-3t)',
-      materials: 'Downloadbare Materialer',
-      relatedResources: 'Relaterede Ressourcer',
-      workshop: 'Workshop (Avanceret)',
-      trainingCamp: 'Træningslejr',
-      trainingSession: 'Træningssession'
+      training: 'Træning & Udvikling',
+      caseStudies: 'Casestudier',
+      testimonials: 'Udtalelser'
     }),
 
     // German
     '/de/education/': getEducationSidebar('de', {
       education: 'Bildung',
       overview: 'Übersicht',
-      theZone: 'Die Zone',
       introduction: 'Einführung',
+      mentalGame: 'Mentales Spiel',
+      theZone: 'Die Zone',
       technicalVsFlow: 'Technisches vs Flow-Training',
       enteringZone: 'In die Zone Eintreten',
-      mindfulness: 'Achtsamkeit',
-      techniques: 'Techniken',
-      dailyPractice: 'Tägliche Praxis',
-      goalSetting: 'Zielsetzung',
-      smartGoals: 'SMART Ziele',
-      planning: 'Planung Ihrer Entwicklung',
       mentalStrength: 'Mentale Stärke',
       handlingPressure: 'Umgang mit Druck',
       preShotRoutine: 'Vor-Wurf-Routine',
+      mindfulness: 'Achtsamkeit',
+      techniques: 'Techniken',
+      dailyPractice: 'Tägliche Praxis',
+      motivation: 'Motivation',
+      smartGoals: 'SMART Ziele',
+      planning: 'Planung Ihrer Entwicklung',
+      sleep: 'Schlaf & Erholung',
+      selfAwareness: 'Selbstwahrnehmung',
+      nutrition: 'Ernährung',
+      fuelingPerformance: 'Leistung Tanken',
       teamDynamics: 'Teamdynamik',
       communication: 'Kommunikation',
-      tactics: 'Taktik',
-      probability: 'Wahrscheinlichkeitsbasierte Entscheidungen',
+      tension: 'Spannungsmanagement',
+      technique: 'Technik',
+      paletteOfThrows: 'Palette der Würfe',
       trainingMethods: 'Trainingsmethoden',
       trainingDrills: 'Trainingsübungen',
-      nutrition: 'Ernährung',
-      fuelingPerformance: 'Leistung Tanken'
+      tactics: 'Taktik',
+      probability: 'Wahrscheinlichkeitsbasierte Entscheidungen'
     }),
-    '/de/technical/': getTechnicalSidebar('de', {
-      technicalAdvice: 'Technische Beratung',
+    '/de/guides/': getGuidesSidebar('de', {
+      guides: 'Anleitungen & Werkzeuge',
       overview: 'Übersicht',
-      paletteOfThrows: 'Palette der Würfe'
+      mentalJourney: 'Mentale Reise (Anfänger)',
+      sessionGuide: 'Sitzungsanleitung (2-3h)',
+      materials: 'Herunterladbare Materialien',
+      workshop: 'Workshop',
+      trainingCamp: 'Trainingslager',
+      trainingSession: 'Trainingseinheit',
+      templates: 'Vorlagen',
+      goalTemplate: 'Zielvorlage',
+      diaryTemplate: 'Tagebuchvorlage',
+      sleepTracker: 'Schlaf-Tracker',
+      preCompetition: 'Vor-Wettkampf Checkliste',
+      peerFeedback: 'Peer-Feedback',
+      teamAgreement: 'Team-Vereinbarung',
+      tensionQuickCard: 'Spannungskarte',
+      nutritionPlanner: 'Ernährungsplaner'
     }),
-    '/de/blog/': getBlogSidebar('de', {
+    '/de/articles/': getArticlesSidebar('de', {
+      resources: 'Ressourcen',
+      overview: 'Übersicht',
       blog: 'Artikel',
       allArticles: 'Alle Artikel',
       mentalGame: 'Mentales Spiel',
       performance: 'Leistungspsychologie',
       teamDynamics: 'Teamdynamik',
-      training: 'Training & Entwicklung'
-    }),
-    '/de/mental-journey/': getMentalJourneySidebar('de', {
-      mentalJourney: 'Mentale Reise für Anfänger',
-      overview: 'Erste Schritte',
-      sessionGuide: 'Sitzungsanleitung (2-3h)',
-      materials: 'Herunterladbare Materialien',
-      relatedResources: 'Verwandte Ressourcen',
-      workshop: 'Workshop (Fortgeschritten)',
-      trainingCamp: 'Trainingslager',
-      trainingSession: 'Trainingseinheit'
+      training: 'Training & Entwicklung',
+      caseStudies: 'Fallstudien',
+      testimonials: 'Erfahrungsberichte'
     }),
 
     // Spanish
     '/es/education/': getEducationSidebar('es', {
       education: 'Educación',
       overview: 'Resumen',
-      theZone: 'La Zona',
       introduction: 'Introducción',
+      mentalGame: 'Juego Mental',
+      theZone: 'La Zona',
       technicalVsFlow: 'Entrenamiento Técnico vs Flow',
       enteringZone: 'Entrando en la Zona',
-      mindfulness: 'Atención Plena',
-      techniques: 'Técnicas',
-      dailyPractice: 'Práctica Diaria',
-      goalSetting: 'Establecimiento de Objetivos',
-      smartGoals: 'Objetivos SMART',
-      planning: 'Planificación de Tu Desarrollo',
       mentalStrength: 'Fuerza Mental',
       handlingPressure: 'Manejo de la Presión',
       preShotRoutine: 'Rutina Pre-Lanzamiento',
+      mindfulness: 'Atención Plena',
+      techniques: 'Técnicas',
+      dailyPractice: 'Práctica Diaria',
+      motivation: 'Motivación',
+      smartGoals: 'Objetivos SMART',
+      planning: 'Planificación de Tu Desarrollo',
+      sleep: 'Sueño y Recuperación',
+      selfAwareness: 'Autoconocimiento',
+      nutrition: 'Nutrición',
+      fuelingPerformance: 'Alimentando el Rendimiento',
       teamDynamics: 'Dinámica de Equipo',
       communication: 'Comunicación',
-      tactics: 'Táctica',
-      probability: 'Decisiones Basadas en Probabilidad',
+      tension: 'Gestión de la Tensión',
+      technique: 'Técnica',
+      paletteOfThrows: 'Paleta de Lanzamientos',
       trainingMethods: 'Métodos de Entrenamiento',
       trainingDrills: 'Ejercicios de Entrenamiento',
-      nutrition: 'Nutrición',
-      fuelingPerformance: 'Alimentando el Rendimiento'
+      tactics: 'Táctica',
+      probability: 'Decisiones Basadas en Probabilidad'
     }),
-    '/es/technical/': getTechnicalSidebar('es', {
-      technicalAdvice: 'Consejo Técnico',
+    '/es/guides/': getGuidesSidebar('es', {
+      guides: 'Guías y Herramientas',
       overview: 'Resumen',
-      paletteOfThrows: 'Paleta de Lanzamientos'
+      mentalJourney: 'Viaje Mental (Principiantes)',
+      sessionGuide: 'Guía de Sesión (2-3h)',
+      materials: 'Materiales Descargables',
+      workshop: 'Taller',
+      trainingCamp: 'Campamento de Entrenamiento',
+      trainingSession: 'Sesión de Entrenamiento',
+      templates: 'Plantillas',
+      goalTemplate: 'Plantilla de Objetivos',
+      diaryTemplate: 'Plantilla de Diario',
+      sleepTracker: 'Registro de Sueño',
+      preCompetition: 'Lista Pre-Competición',
+      peerFeedback: 'Retroalimentación entre Pares',
+      teamAgreement: 'Acuerdo de Equipo',
+      tensionQuickCard: 'Tarjeta de Tensión',
+      nutritionPlanner: 'Planificador de Nutrición'
     }),
-    '/es/blog/': getBlogSidebar('es', {
+    '/es/articles/': getArticlesSidebar('es', {
+      resources: 'Recursos',
+      overview: 'Resumen',
       blog: 'Artículos',
       allArticles: 'Todos los Artículos',
       mentalGame: 'Juego Mental',
       performance: 'Psicología del Rendimiento',
       teamDynamics: 'Dinámica de Equipo',
-      training: 'Entrenamiento y Desarrollo'
-    }),
-    '/es/mental-journey/': getMentalJourneySidebar('es', {
-      mentalJourney: 'Viaje Mental para Principiantes',
-      overview: 'Primeros Pasos',
-      sessionGuide: 'Guía de Sesión (2-3h)',
-      materials: 'Materiales Descargables',
-      relatedResources: 'Recursos Relacionados',
-      workshop: 'Taller (Avanzado)',
-      trainingCamp: 'Campamento de Entrenamiento',
-      trainingSession: 'Sesión de Entrenamiento'
+      training: 'Entrenamiento y Desarrollo',
+      caseStudies: 'Casos de Estudio',
+      testimonials: 'Testimonios'
     }),
 
     // French
     '/fr/education/': getEducationSidebar('fr', {
       education: 'Éducation',
       overview: 'Aperçu',
-      theZone: 'La Zone',
       introduction: 'Introduction',
+      mentalGame: 'Jeu Mental',
+      theZone: 'La Zone',
       technicalVsFlow: 'Entraînement Technique vs Flow',
       enteringZone: 'Entrer dans la Zone',
-      mindfulness: 'Pleine Conscience',
-      techniques: 'Techniques',
-      dailyPractice: 'Pratique Quotidienne',
-      goalSetting: 'Définition des Objectifs',
-      smartGoals: 'Objectifs SMART',
-      planning: 'Planification de Votre Développement',
       mentalStrength: 'Force Mentale',
       handlingPressure: 'Gérer la Pression',
       preShotRoutine: 'Routine Pré-Lancer',
+      mindfulness: 'Pleine Conscience',
+      techniques: 'Techniques',
+      dailyPractice: 'Pratique Quotidienne',
+      motivation: 'Motivation',
+      smartGoals: 'Objectifs SMART',
+      planning: 'Planification de Votre Développement',
+      sleep: 'Sommeil et Récupération',
+      selfAwareness: 'Conscience de Soi',
+      nutrition: 'Nutrition',
+      fuelingPerformance: 'Alimenter la Performance',
       teamDynamics: 'Dynamique d\'Équipe',
       communication: 'Communication',
-      tactics: 'Tactique',
-      probability: 'Décisions Basées sur la Probabilité',
+      tension: 'Gestion de la Tension',
+      technique: 'Technique',
+      paletteOfThrows: 'Palette des Lancers',
       trainingMethods: 'Méthodes d\'Entraînement',
       trainingDrills: 'Exercices d\'Entraînement',
-      nutrition: 'Nutrition',
-      fuelingPerformance: 'Alimenter la Performance'
+      tactics: 'Tactique',
+      probability: 'Décisions Basées sur la Probabilité'
     }),
-    '/fr/technical/': getTechnicalSidebar('fr', {
-      technicalAdvice: 'Conseils Techniques',
+    '/fr/guides/': getGuidesSidebar('fr', {
+      guides: 'Guides et Outils',
       overview: 'Aperçu',
-      paletteOfThrows: 'Palette des Lancers'
+      mentalJourney: 'Parcours Mental (Débutants)',
+      sessionGuide: 'Guide de Session (2-3h)',
+      materials: 'Matériaux Téléchargeables',
+      workshop: 'Atelier',
+      trainingCamp: 'Stage d\'Entraînement',
+      trainingSession: 'Séance d\'Entraînement',
+      templates: 'Modèles',
+      goalTemplate: 'Modèle d\'Objectifs',
+      diaryTemplate: 'Modèle de Journal',
+      sleepTracker: 'Suivi du Sommeil',
+      preCompetition: 'Liste Pré-Compétition',
+      peerFeedback: 'Feedback entre Pairs',
+      teamAgreement: 'Accord d\'Équipe',
+      tensionQuickCard: 'Carte de Tension',
+      nutritionPlanner: 'Planificateur Nutrition'
     }),
-    '/fr/blog/': getBlogSidebar('fr', {
+    '/fr/articles/': getArticlesSidebar('fr', {
+      resources: 'Ressources',
+      overview: 'Aperçu',
       blog: 'Articles',
       allArticles: 'Tous les Articles',
       mentalGame: 'Jeu Mental',
       performance: 'Psychologie de la Performance',
       teamDynamics: 'Dynamique d\'Équipe',
-      training: 'Entraînement et Développement'
-    }),
-    '/fr/mental-journey/': getMentalJourneySidebar('fr', {
-      mentalJourney: 'Parcours Mental pour Débutants',
-      overview: 'Premiers Pas',
-      sessionGuide: 'Guide de Session (2-3h)',
-      materials: 'Matériaux Téléchargeables',
-      relatedResources: 'Ressources Connexes',
-      workshop: 'Atelier (Avancé)',
-      trainingCamp: 'Stage d\'Entraînement',
-      trainingSession: 'Séance d\'Entraînement'
+      training: 'Entraînement et Développement',
+      caseStudies: 'Études de Cas',
+      testimonials: 'Témoignages'
     }),
 
     // Italian
     '/it/education/': getEducationSidebar('it', {
       education: 'Educazione',
       overview: 'Panoramica',
-      theZone: 'La Zona',
       introduction: 'Introduzione',
+      mentalGame: 'Gioco Mentale',
+      theZone: 'La Zona',
       technicalVsFlow: 'Allenamento Tecnico vs Flow',
       enteringZone: 'Entrare nella Zona',
-      mindfulness: 'Consapevolezza',
-      techniques: 'Tecniche',
-      dailyPractice: 'Pratica Quotidiana',
-      goalSetting: 'Definizione degli Obiettivi',
-      smartGoals: 'Obiettivi SMART',
-      planning: 'Pianificazione del Tuo Sviluppo',
       mentalStrength: 'Forza Mentale',
       handlingPressure: 'Gestione della Pressione',
       preShotRoutine: 'Routine Pre-Lancio',
+      mindfulness: 'Consapevolezza',
+      techniques: 'Tecniche',
+      dailyPractice: 'Pratica Quotidiana',
+      motivation: 'Motivazione',
+      smartGoals: 'Obiettivi SMART',
+      planning: 'Pianificazione del Tuo Sviluppo',
+      sleep: 'Sonno e Recupero',
+      selfAwareness: 'Autoconsapevolezza',
+      nutrition: 'Nutrizione',
+      fuelingPerformance: 'Alimentare la Performance',
       teamDynamics: 'Dinamiche di Squadra',
       communication: 'Comunicazione',
-      tactics: 'Tattica',
-      probability: 'Decisioni Basate sulla Probabilità',
+      tension: 'Gestione della Tensione',
+      technique: 'Tecnica',
+      paletteOfThrows: 'Tavolozza dei Lanci',
       trainingMethods: 'Metodi di Allenamento',
       trainingDrills: 'Esercizi di Allenamento',
-      nutrition: 'Nutrizione',
-      fuelingPerformance: 'Alimentare la Performance'
+      tactics: 'Tattica',
+      probability: 'Decisioni Basate sulla Probabilità'
     }),
-    '/it/technical/': getTechnicalSidebar('it', {
-      technicalAdvice: 'Consigli Tecnici',
+    '/it/guides/': getGuidesSidebar('it', {
+      guides: 'Guide e Strumenti',
       overview: 'Panoramica',
-      paletteOfThrows: 'Tavolozza dei Lanci'
+      mentalJourney: 'Percorso Mentale (Principianti)',
+      sessionGuide: 'Guida alla Sessione (2-3h)',
+      materials: 'Materiali Scaricabili',
+      workshop: 'Workshop',
+      trainingCamp: 'Campo di Allenamento',
+      trainingSession: 'Sessione di Allenamento',
+      templates: 'Modelli',
+      goalTemplate: 'Modello Obiettivi',
+      diaryTemplate: 'Modello Diario',
+      sleepTracker: 'Monitoraggio Sonno',
+      preCompetition: 'Checklist Pre-Gara',
+      peerFeedback: 'Feedback tra Pari',
+      teamAgreement: 'Accordo di Squadra',
+      tensionQuickCard: 'Scheda Tensione',
+      nutritionPlanner: 'Pianificatore Nutrizione'
     }),
-    '/it/blog/': getBlogSidebar('it', {
+    '/it/articles/': getArticlesSidebar('it', {
+      resources: 'Risorse',
+      overview: 'Panoramica',
       blog: 'Articoli',
       allArticles: 'Tutti gli Articoli',
       mentalGame: 'Gioco Mentale',
       performance: 'Psicologia della Prestazione',
       teamDynamics: 'Dinamiche di Squadra',
-      training: 'Allenamento e Sviluppo'
-    }),
-    '/it/mental-journey/': getMentalJourneySidebar('it', {
-      mentalJourney: 'Percorso Mentale per Principianti',
-      overview: 'Primi Passi',
-      sessionGuide: 'Guida alla Sessione (2-3h)',
-      materials: 'Materiali Scaricabili',
-      relatedResources: 'Risorse Correlate',
-      workshop: 'Workshop (Avanzato)',
-      trainingCamp: 'Campo di Allenamento',
-      trainingSession: 'Sessione di Allenamento'
+      training: 'Allenamento e Sviluppo',
+      caseStudies: 'Casi Studio',
+      testimonials: 'Testimonianze'
     }),
 
     // Dutch
     '/nl/education/': getEducationSidebar('nl', {
       education: 'Educatie',
       overview: 'Overzicht',
-      theZone: 'De Zone',
       introduction: 'Introductie',
+      mentalGame: 'Mentaal Spel',
+      theZone: 'De Zone',
       technicalVsFlow: 'Technische vs Flow Training',
       enteringZone: 'De Zone Betreden',
-      mindfulness: 'Mindfulness',
-      techniques: 'Technieken',
-      dailyPractice: 'Dagelijkse Praktijk',
-      goalSetting: 'Doelen Stellen',
-      smartGoals: 'SMART Doelen',
-      planning: 'Planning van Je Ontwikkeling',
       mentalStrength: 'Mentale Kracht',
       handlingPressure: 'Omgaan met Druk',
       preShotRoutine: 'Pre-Worp Routine',
+      mindfulness: 'Mindfulness',
+      techniques: 'Technieken',
+      dailyPractice: 'Dagelijkse Praktijk',
+      motivation: 'Motivatie',
+      smartGoals: 'SMART Doelen',
+      planning: 'Planning van Je Ontwikkeling',
+      sleep: 'Slaap & Herstel',
+      selfAwareness: 'Zelfbewustzijn',
+      nutrition: 'Voeding',
+      fuelingPerformance: 'Prestaties Voeden',
       teamDynamics: 'Teamdynamiek',
       communication: 'Communicatie',
-      tactics: 'Tactiek',
-      probability: 'Waarschijnlijkheidsgebaseerde Beslissingen',
+      tension: 'Spanningsbeheer',
+      technique: 'Techniek',
+      paletteOfThrows: 'Palet van Worpen',
       trainingMethods: 'Trainingsmethoden',
       trainingDrills: 'Trainingsoefeningen',
-      nutrition: 'Voeding',
-      fuelingPerformance: 'Prestaties Voeden'
+      tactics: 'Tactiek',
+      probability: 'Waarschijnlijkheidsgebaseerde Beslissingen'
     }),
-    '/nl/technical/': getTechnicalSidebar('nl', {
-      technicalAdvice: 'Technisch Advies',
+    '/nl/guides/': getGuidesSidebar('nl', {
+      guides: 'Gidsen & Hulpmiddelen',
       overview: 'Overzicht',
-      paletteOfThrows: 'Palet van Worpen'
+      mentalJourney: 'Mentale Reis (Beginners)',
+      sessionGuide: 'Sessiegids (2-3u)',
+      materials: 'Downloadbare Materialen',
+      workshop: 'Workshop',
+      trainingCamp: 'Trainingskamp',
+      trainingSession: 'Trainingssessie',
+      templates: 'Sjablonen',
+      goalTemplate: 'Doelsjabloon',
+      diaryTemplate: 'Dagboeksjabloon',
+      sleepTracker: 'Slaaptracker',
+      preCompetition: 'Pre-Wedstrijd Checklist',
+      peerFeedback: 'Peer Feedback',
+      teamAgreement: 'Teamovereenkomst',
+      tensionQuickCard: 'Spanningskaart',
+      nutritionPlanner: 'Voedingsplanner'
     }),
-    '/nl/blog/': getBlogSidebar('nl', {
+    '/nl/articles/': getArticlesSidebar('nl', {
+      resources: 'Bronnen',
+      overview: 'Overzicht',
       blog: 'Artikelen',
       allArticles: 'Alle Artikelen',
       mentalGame: 'Mentaal Spel',
       performance: 'Prestatiepsychologie',
       teamDynamics: 'Teamdynamiek',
-      training: 'Training & Ontwikkeling'
-    }),
-    '/nl/mental-journey/': getMentalJourneySidebar('nl', {
-      mentalJourney: 'Mentale Reis voor Beginners',
-      overview: 'Aan de Slag',
-      sessionGuide: 'Sessiegids (2-3u)',
-      materials: 'Downloadbare Materialen',
-      relatedResources: 'Gerelateerde Bronnen',
-      workshop: 'Workshop (Gevorderd)',
-      trainingCamp: 'Trainingskamp',
-      trainingSession: 'Trainingssessie'
+      training: 'Training & Ontwikkeling',
+      caseStudies: 'Casestudies',
+      testimonials: 'Getuigenissen'
     }),
 
     // Norwegian
@@ -1129,28 +2073,36 @@ function getSidebar() {
       nutrition: 'Ernæring',
       fuelingPerformance: 'Drivstoff for Prestasjon'
     }),
-    '/no/technical/': getTechnicalSidebar('no', {
-      technicalAdvice: 'Teknisk Råd',
+    '/no/guides/': getGuidesSidebar('no', {
+      guides: 'Guider & Verktøy',
       overview: 'Oversikt',
-      paletteOfThrows: 'Palett av Kast'
+      mentalJourney: 'Mental Reise (Nybegynnere)',
+      sessionGuide: 'Sesjonsguide (2-3t)',
+      materials: 'Nedlastbare Materialer',
+      workshop: 'Workshop',
+      trainingCamp: 'Treningsleir',
+      trainingSession: 'Treningsøkt',
+      templates: 'Maler',
+      goalTemplate: 'Målmal',
+      diaryTemplate: 'Dagbokmal',
+      sleepTracker: 'Søvnsporing',
+      preCompetition: 'Før-konkurranse Sjekkliste',
+      peerFeedback: 'Tilbakemelding fra Medspillere',
+      teamAgreement: 'Lagavtale',
+      tensionQuickCard: 'Spenningskort',
+      nutritionPlanner: 'Ernæringsplanlegger'
     }),
-    '/no/blog/': getBlogSidebar('no', {
+    '/no/articles/': getArticlesSidebar('no', {
+      resources: 'Ressurser',
+      overview: 'Oversikt',
       blog: 'Artikler',
       allArticles: 'Alle Artikler',
       mentalGame: 'Mentalt Spill',
       performance: 'Prestasjonspsykologi',
       teamDynamics: 'Teamdynamikk',
-      training: 'Trening & Utvikling'
-    }),
-    '/no/mental-journey/': getMentalJourneySidebar('no', {
-      mentalJourney: 'Mental Reise for Nybegynnere',
-      overview: 'Kom i Gang',
-      sessionGuide: 'Sesjonsguide (2-3t)',
-      materials: 'Nedlastbare Materialer',
-      relatedResources: 'Relaterte Ressurser',
-      workshop: 'Workshop (Avansert)',
-      trainingCamp: 'Treningsleir',
-      trainingSession: 'Treningsøkt'
+      training: 'Trening & Utvikling',
+      caseStudies: 'Casestudier',
+      testimonials: 'Attester'
     }),
 
     // Portuguese
@@ -1179,28 +2131,36 @@ function getSidebar() {
       nutrition: 'Nutrição',
       fuelingPerformance: 'Alimentando o Desempenho'
     }),
-    '/pt/technical/': getTechnicalSidebar('pt', {
-      technicalAdvice: 'Conselho Técnico',
+    '/pt/guides/': getGuidesSidebar('pt', {
+      guides: 'Guias e Ferramentas',
       overview: 'Visão Geral',
-      paletteOfThrows: 'Paleta de Lançamentos'
+      mentalJourney: 'Jornada Mental (Iniciantes)',
+      sessionGuide: 'Guia de Sessão (2-3h)',
+      materials: 'Materiais para Download',
+      workshop: 'Workshop',
+      trainingCamp: 'Campo de Treinamento',
+      trainingSession: 'Sessão de Treinamento',
+      templates: 'Modelos',
+      goalTemplate: 'Modelo de Objetivos',
+      diaryTemplate: 'Modelo de Diário',
+      sleepTracker: 'Rastreador de Sono',
+      preCompetition: 'Checklist Pré-Competição',
+      peerFeedback: 'Feedback entre Pares',
+      teamAgreement: 'Acordo de Equipe',
+      tensionQuickCard: 'Cartão de Tensão',
+      nutritionPlanner: 'Planejador de Nutrição'
     }),
-    '/pt/blog/': getBlogSidebar('pt', {
+    '/pt/articles/': getArticlesSidebar('pt', {
+      resources: 'Recursos',
+      overview: 'Visão Geral',
       blog: 'Artigos',
       allArticles: 'Todos os Artigos',
       mentalGame: 'Jogo Mental',
       performance: 'Psicologia do Desempenho',
       teamDynamics: 'Dinâmica de Equipe',
-      training: 'Treinamento e Desenvolvimento'
-    }),
-    '/pt/mental-journey/': getMentalJourneySidebar('pt', {
-      mentalJourney: 'Jornada Mental para Iniciantes',
-      overview: 'Primeiros Passos',
-      sessionGuide: 'Guia de Sessão (2-3h)',
-      materials: 'Materiais para Download',
-      relatedResources: 'Recursos Relacionados',
-      workshop: 'Workshop (Avançado)',
-      trainingCamp: 'Campo de Treinamento',
-      trainingSession: 'Sessão de Treinamento'
+      training: 'Treinamento e Desenvolvimento',
+      caseStudies: 'Estudos de Caso',
+      testimonials: 'Depoimentos'
     }),
 
     // Swedish
@@ -1229,28 +2189,36 @@ function getSidebar() {
       nutrition: 'Näring',
       fuelingPerformance: 'Bränsle för Prestanda'
     }),
-    '/sv/technical/': getTechnicalSidebar('sv', {
-      technicalAdvice: 'Teknisk Rådgivning',
+    '/sv/guides/': getGuidesSidebar('sv', {
+      guides: 'Guider & Verktyg',
       overview: 'Översikt',
-      paletteOfThrows: 'Palett av Kast'
+      mentalJourney: 'Mental Resa (Nybörjare)',
+      sessionGuide: 'Sessionsguide (2-3h)',
+      materials: 'Nedladdningsbara Material',
+      workshop: 'Workshop',
+      trainingCamp: 'Träningsläger',
+      trainingSession: 'Träningspass',
+      templates: 'Mallar',
+      goalTemplate: 'Målmall',
+      diaryTemplate: 'Dagboksmall',
+      sleepTracker: 'Sömnspårning',
+      preCompetition: 'Checklista Före Tävling',
+      peerFeedback: 'Feedback från Lagkamrater',
+      teamAgreement: 'Lagöverenskommelse',
+      tensionQuickCard: 'Spänningskort',
+      nutritionPlanner: 'Näringsplanerare'
     }),
-    '/sv/blog/': getBlogSidebar('sv', {
+    '/sv/articles/': getArticlesSidebar('sv', {
+      resources: 'Resurser',
+      overview: 'Översikt',
       blog: 'Artiklar',
       allArticles: 'Alla Artiklar',
       mentalGame: 'Mentalt Spel',
       performance: 'Prestationspsykologi',
       teamDynamics: 'Teamdynamik',
-      training: 'Träning & Utveckling'
-    }),
-    '/sv/mental-journey/': getMentalJourneySidebar('sv', {
-      mentalJourney: 'Mental Resa för Nybörjare',
-      overview: 'Kom Igång',
-      sessionGuide: 'Sessionsguide (2-3h)',
-      materials: 'Nedladdningsbara Material',
-      relatedResources: 'Relaterade Resurser',
-      workshop: 'Workshop (Avancerad)',
-      trainingCamp: 'Träningsläger',
-      trainingSession: 'Träningspass'
+      training: 'Träning & Utveckling',
+      caseStudies: 'Fallstudier',
+      testimonials: 'Omdömen'
     })
   }
 }
@@ -1263,83 +2231,123 @@ function getEducationSidebar(lang: string, labels: any) {
         { text: labels.overview, link: `/${lang}/education/` }
       ]
     },
+    // 🧠 MENTAL GAME (600p)
     {
-      text: labels.theZone,
+      text: `🧠 ${labels.mentalGame || 'Mental Game'}`,
       collapsed: false,
       items: [
-        { text: labels.introduction, link: `/${lang}/education/the-zone/` },
-        { text: labels.technicalVsFlow, link: `/${lang}/education/the-zone/technical-vs-flow` },
-        { text: labels.enteringZone, link: `/${lang}/education/the-zone/entering-the-zone` }
+        { text: labels.overview, link: `/${lang}/education/mental-game/` },
+        {
+          text: labels.theZone,
+          collapsed: true,
+          items: [
+            { text: labels.introduction, link: `/${lang}/education/mental-game/the-zone/` },
+            { text: labels.technicalVsFlow, link: `/${lang}/education/mental-game/the-zone/technical-vs-flow` },
+            { text: labels.enteringZone, link: `/${lang}/education/mental-game/the-zone/entering-the-zone` }
+          ]
+        },
+        {
+          text: labels.mentalStrength,
+          collapsed: true,
+          items: [
+            { text: labels.introduction, link: `/${lang}/education/mental-game/mental-strength/` },
+            { text: labels.handlingPressure, link: `/${lang}/education/mental-game/mental-strength/handling-pressure` },
+            { text: labels.preShotRoutine, link: `/${lang}/education/mental-game/mental-strength/pre-shot-routine` }
+          ]
+        },
+        {
+          text: labels.mindfulness,
+          collapsed: true,
+          items: [
+            { text: labels.introduction, link: `/${lang}/education/mental-game/mindfulness/` },
+            { text: labels.techniques, link: `/${lang}/education/mental-game/mindfulness/techniques` },
+            { text: labels.dailyPractice, link: `/${lang}/education/mental-game/mindfulness/daily-practice` }
+          ]
+        }
       ]
     },
+    // 🔥 MOTIVATION (500p)
     {
-      text: labels.mindfulness,
+      text: `🔥 ${labels.motivation || 'Motivation'}`,
       collapsed: false,
       items: [
-        { text: labels.introduction, link: `/${lang}/education/mindfulness/` },
-        { text: labels.techniques, link: `/${lang}/education/mindfulness/techniques` },
-        { text: labels.dailyPractice, link: `/${lang}/education/mindfulness/daily-practice` }
+        { text: labels.introduction, link: `/${lang}/education/motivation/` },
+        { text: labels.psychologyOfMotivation || 'Psychology of Motivation', link: `/${lang}/education/motivation/motivation` },
+        { text: labels.smartGoals, link: `/${lang}/education/motivation/smart-goals` },
+        { text: labels.planning, link: `/${lang}/education/motivation/planning` },
+        { text: labels.maintainingMotivation || 'Maintaining Motivation', link: `/${lang}/education/motivation/maintaining` }
       ]
     },
+    // 😴 SLEEP (400p)
     {
-      text: labels.goalSetting,
+      text: `😴 ${labels.sleep || 'Sleep'}`,
       collapsed: false,
       items: [
-        { text: labels.introduction, link: `/${lang}/education/goals/` },
-        { text: labels.smartGoals, link: `/${lang}/education/goals/smart-goals` },
-        { text: labels.planning, link: `/${lang}/education/goals/planning` }
+        { text: labels.introduction, link: `/${lang}/education/sleep/` },
+        { text: labels.sleepHabits || 'Sleep Habits', link: `/${lang}/education/sleep/habits` },
+        { text: labels.sleepCompetition || 'Sleep & Competition', link: `/${lang}/education/sleep/competition` }
       ]
     },
+    // 🪞 SELF-AWARENESS (400p)
     {
-      text: labels.mentalStrength,
+      text: `🪞 ${labels.selfAwareness || 'Self-Awareness'}`,
       collapsed: false,
       items: [
-        { text: labels.introduction, link: `/${lang}/education/mental-strength/` },
-        { text: labels.handlingPressure, link: `/${lang}/education/mental-strength/handling-pressure` },
-        { text: labels.preShotRoutine, link: `/${lang}/education/mental-strength/pre-shot-routine` }
+        { text: labels.introduction, link: `/${lang}/education/self-awareness/` },
+        { text: labels.gettingFeedback || 'Getting Feedback', link: `/${lang}/education/self-awareness/feedback` },
+        { text: labels.videoAnalysis || 'Video Analysis', link: `/${lang}/education/self-awareness/video` }
       ]
     },
+    // 🥗 NUTRITION (300p)
     {
-      text: labels.teamDynamics,
-      collapsed: false,
-      items: [
-        { text: labels.introduction, link: `/${lang}/education/team-player/` },
-        { text: labels.communication, link: `/${lang}/education/team-player/communication` }
-      ]
-    },
-    {
-      text: labels.tactics,
-      collapsed: false,
-      items: [
-        { text: labels.introduction, link: `/${lang}/education/tactics/` },
-        { text: labels.probability, link: `/${lang}/education/tactics/probability` }
-      ]
-    },
-    {
-      text: labels.trainingMethods,
-      collapsed: false,
-      items: [
-        { text: labels.introduction, link: `/${lang}/education/training/` },
-        { text: labels.trainingDrills, link: `/${lang}/education/training/drills` }
-      ]
-    },
-    {
-      text: labels.nutrition,
+      text: `🥗 ${labels.nutrition}`,
       collapsed: false,
       items: [
         { text: labels.fuelingPerformance, link: `/${lang}/education/nutrition/` }
       ]
-    }
-  ]
-}
-
-function getTechnicalSidebar(lang: string, labels: any) {
-  return [
+    },
+    // 🤝 TEAM DYNAMICS (300p)
     {
-      text: labels.technicalAdvice,
+      text: `🤝 ${labels.teamDynamics}`,
+      collapsed: false,
       items: [
-        { text: labels.overview, link: `/${lang}/technical/` },
-        { text: labels.paletteOfThrows, link: `/${lang}/technical/throws` }
+        { text: labels.introduction, link: `/${lang}/education/team-dynamics/` },
+        { text: labels.communication, link: `/${lang}/education/team-dynamics/communication` }
+      ]
+    },
+    // 💆 TENSION (300p)
+    {
+      text: `💆 ${labels.tension || 'Tension'}`,
+      collapsed: false,
+      items: [
+        { text: labels.introduction, link: `/${lang}/education/tension/` },
+        { text: labels.tensionTechniques || 'Release Techniques', link: `/${lang}/education/tension/techniques` },
+        { text: labels.tensionCompetition || 'Competition Management', link: `/${lang}/education/tension/competition` }
+      ]
+    },
+    // 🎯 TECHNIQUE (100p)
+    {
+      text: `🎯 ${labels.technique || 'Technique'}`,
+      collapsed: false,
+      items: [
+        { text: labels.overview, link: `/${lang}/education/technique/` },
+        { text: labels.paletteOfThrows || 'Palette of Throws', link: `/${lang}/education/technique/throws` },
+        {
+          text: labels.trainingMethods,
+          collapsed: true,
+          items: [
+            { text: labels.introduction, link: `/${lang}/education/technique/training/` },
+            { text: labels.trainingDrills, link: `/${lang}/education/technique/training/drills` }
+          ]
+        },
+        {
+          text: labels.tactics,
+          collapsed: true,
+          items: [
+            { text: labels.introduction, link: `/${lang}/education/technique/tactics/` },
+            { text: labels.probability, link: `/${lang}/education/technique/tactics/probability` }
+          ]
+        }
       ]
     }
   ]
@@ -1423,50 +2431,114 @@ function getTrainingCampSidebar(lang: string, labels: any) {
   ]
 }
 
+// Note: getBlogSidebar is deprecated, use getArticlesSidebar instead
 function getBlogSidebar(lang: string, labels: any) {
+  return getArticlesSidebar(lang, labels)
+}
+
+function getGuidesSidebar(lang: string, labels: any) {
   return [
     {
-      text: labels.blog,
+      text: labels.guides,
       items: [
-        { text: labels.allArticles, link: `/${lang}/blog/` }
+        { text: labels.overview, link: `/${lang}/guides/` }
+      ]
+    },
+    {
+      text: labels.mentalJourney,
+      collapsed: false,
+      items: [
+        { text: labels.overview, link: `/${lang}/guides/mental-journey/` },
+        { text: labels.sessionGuide, link: `/${lang}/guides/mental-journey/session-guide` },
+        { text: labels.materials, link: `/${lang}/guides/mental-journey/materials` }
+      ]
+    },
+    {
+      text: labels.workshop,
+      collapsed: true,
+      items: [
+        { text: labels.overview, link: `/${lang}/guides/workshop/` }
+      ]
+    },
+    {
+      text: labels.trainingCamp,
+      collapsed: true,
+      items: [
+        { text: labels.overview, link: `/${lang}/guides/training-camp/` }
+      ]
+    },
+    {
+      text: labels.trainingSession,
+      collapsed: true,
+      items: [
+        { text: labels.overview, link: `/${lang}/guides/training-session/` }
+      ]
+    },
+    {
+      text: labels.templates,
+      collapsed: true,
+      items: [
+        { text: labels.sleepTracker, link: `/${lang}/guides/templates/sleep-tracker` },
+        { text: labels.preCompetition, link: `/${lang}/guides/templates/pre-competition-checklist` },
+        { text: labels.peerFeedback, link: `/${lang}/guides/templates/peer-feedback` },
+        { text: labels.teamAgreement, link: `/${lang}/guides/templates/team-agreement` },
+        { text: labels.tensionQuickCard, link: `/${lang}/guides/templates/tension-quick-card` },
+        { text: labels.nutritionPlanner, link: `/${lang}/guides/templates/nutrition-planner` },
+        { text: labels.goalTemplate, link: `/${lang}/guides/templates/goal-template` },
+        { text: labels.diaryTemplate, link: `/${lang}/guides/templates/diary-template` }
+      ]
+    }
+  ]
+}
+
+function getArticlesSidebar(lang: string, labels: any) {
+  return [
+    {
+      text: labels.resources,
+      items: [
+        { text: labels.allArticles, link: `/${lang}/articles/` }
       ]
     },
     {
       text: labels.mentalGame,
       collapsed: false,
       items: [
-        { text: 'Why Elite Players Need Mental Training', link: `/${lang}/blog/mental-vs-technical` },
-        { text: 'Understanding the Inner Critic', link: `/${lang}/blog/inner-critic` },
-        { text: 'Building Pre-Shot Routines', link: `/${lang}/blog/pre-shot-routines` },
-        { text: 'Pressure Management', link: `/${lang}/blog/pressure-management` }
+        { text: 'Flow State Science', link: `/${lang}/articles/flow-state-science` },
+        { text: 'Inner Critic', link: `/${lang}/articles/inner-critic` },
+        { text: 'Pre-Shot Routines', link: `/${lang}/articles/pre-shot-routines` },
+        { text: 'Pressure Management', link: `/${lang}/articles/pressure-management` },
+        { text: 'Mindfulness in Competition', link: `/${lang}/articles/mindfulness-competition` }
       ]
     },
     {
       text: labels.performance,
-      collapsed: false,
+      collapsed: true,
       items: [
-        { text: 'The Science Behind Flow States', link: `/${lang}/blog/flow-state-science` },
-        { text: 'Mindfulness in Competition', link: `/${lang}/blog/mindfulness-competition` },
-        { text: 'Goal Setting for Elite Athletes', link: `/${lang}/blog/elite-goal-setting` },
-        { text: 'Mental Resilience', link: `/${lang}/blog/mental-resilience` }
+        { text: 'Elite Goal Setting', link: `/${lang}/articles/elite-goal-setting` },
+        { text: 'Mental Resilience', link: `/${lang}/articles/mental-resilience` },
+        { text: 'Mental vs Technical', link: `/${lang}/articles/mental-vs-technical` }
       ]
     },
     {
       text: labels.teamDynamics,
       collapsed: true,
       items: [
-        { text: 'Communication Under Pressure', link: `/${lang}/blog/team-communication` },
-        { text: 'Building Team Chemistry', link: `/${lang}/blog/team-chemistry` },
-        { text: 'Leadership in Pétanque', link: `/${lang}/blog/team-leadership` }
+        { text: 'Team Communication', link: `/${lang}/articles/team-communication` },
+        { text: 'Team Chemistry', link: `/${lang}/articles/team-chemistry` },
+        { text: 'Team Leadership', link: `/${lang}/articles/team-leadership` }
       ]
     },
     {
       text: labels.training,
       collapsed: true,
       items: [
-        { text: '5 Mental Training Mistakes', link: `/${lang}/blog/mental-training-mistakes` },
-        { text: 'Structuring Your Practice', link: `/${lang}/blog/practice-structure` },
-        { text: 'Competition Preparation', link: `/${lang}/blog/competition-prep` }
+        { text: 'Mental Training Mistakes', link: `/${lang}/articles/mental-training-mistakes` },
+        { text: 'Practice Structure', link: `/${lang}/articles/practice-structure` },
+        { text: 'Competition Prep', link: `/${lang}/articles/competition-prep` },
+        { text: 'Sleep & Performance', link: `/${lang}/articles/sleep-performance` },
+        { text: 'Nutrition for Competition', link: `/${lang}/articles/nutrition-competition` },
+        { text: 'Self-Awareness', link: `/${lang}/articles/self-awareness-development` },
+        { text: 'Tension & Precision', link: `/${lang}/articles/tension-precision` }
       ]
     }
   ]

@@ -14,11 +14,13 @@ hero:
       link: /en/education/
 
 features:
-  - title: The Zone
-    details: Move beyond technical training to a flow perspective where perfect boules become natural.
-  - title: Workshops
-    details: Small groups of 6-8 elite players sharing experiences and inner thoughts.
-  - title: Holistic Approach
-    details: Combining mental training, tactics, teamwork, and nutrition for peak performance.
+  - title: 🧠 8-Factor Model
+    details: A comprehensive player development system based on 8 weighted performance factors.
+  - title: 🎯 Personal ROI
+    details: Discover which factor gives YOU the best return on investment for improvement.
+  - title: 📚 Complete Education
+    details: In-depth modules on mental game, motivation, sleep, self-awareness, nutrition, team dynamics, tension, and technique.
 ---
+
+<AssessmentForm />
 
