@@ -193,5 +193,5 @@ Der Spieler, der bei jedem Wurf voll konzentriert ist, während die anderen in G
 
 ---
 
-| *Verwandt: [Einführung in die Achtsamkeit](/en/education/mental-game/mindfulness/) | [Achtsamkeitstechniken](/en/education/mental-game/mindfulness/techniques) | [Tägliche Übung](/en/education/mental-game/mindfulness/daily-practice)* |
+| *Verwandt: [Einführung in die Achtsamkeit](/de/education/mental-game/mindfulness/) | [Achtsamkeitstechniken](/de/education/mental-game/mindfulness/techniques) | [Tägliche Übung](/de/education/mental-game/mindfulness/daily-practice)* |
 

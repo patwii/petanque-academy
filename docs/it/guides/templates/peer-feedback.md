@@ -15,7 +15,7 @@ Modelli strutturati per richiedere e fornire feedback sinceri ai colleghi.
 **Come:** Condividi questo modulo o usa la valutazione digitale
 
 ::: info Opzione digitale
-Utilizza lo [Strumento di valutazione del giocatore](/en/assessment/) con la funzione &quot;Ottieni feedback dai colleghi&quot; per il confronto automatico e il rilevamento dei punti ciechi.
+Utilizza lo [Strumento di valutazione del giocatore](/it/assessment/) con la funzione &quot;Ottieni feedback dai colleghi&quot; per il confronto automatico e il rilevamento dei punti ciechi.
 :::
 
 ---
@@ -180,8 +180,8 @@ Ciascun giocatore dichiara:
 
 ## Risorse correlate
 
-- [🎯 Strumento di valutazione](/en/assessment/) — Autovalutazione e valutazione tra pari in formato digitale
-- [Educazione all&#39;autoconsapevolezza](/en/education/self-awareness/) — Comprendere i punti ciechi
+- [🎯 Strumento di valutazione](/it/assessment/) — Autovalutazione e valutazione tra pari in formato digitale
+- [Educazione all&#39;autoconsapevolezza](/it/education/self-awareness/) — Comprendere i punti ciechi
 - [Modello di accordo di squadra](/it/guide/templates/team-agreement) — Sviluppa la comunicazione di squadra
 - [Diario di allenamento](/it/guide/templates/diary-template) — Tieni traccia dei tuoi sviluppi
 

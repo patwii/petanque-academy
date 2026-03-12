@@ -224,5 +224,5 @@ Chemie is niet statisch — het vereist onderhoud:
 
 ---
 
-| *Gerelateerd: [Teamdynamiek](/en/education/team-dynamics/) | [Communicatie](/en/education/team-dynamics/communication) | [Leiderschap in pétanque](/en/articles/team-leadership)* |
+| *Gerelateerd: [Teamdynamiek](/nl/education/team-dynamics/) | [Communicatie](/nl/education/team-dynamics/communication) | [Leiderschap in pétanque](/nl/articles/team-leadership)* |
 

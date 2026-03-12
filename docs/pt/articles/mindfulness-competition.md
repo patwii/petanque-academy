@@ -193,5 +193,5 @@ O jogador que está totalmente presente em cada lance, enquanto os outros estão
 
 ---
 
-| *Relacionado: [Introdução à Atenção Plena](/en/education/mental-game/mindfulness/) | [Técnicas de Mindfulness](/en/education/mental-game/mindfulness/techniques) | [Prática Diária](/en/education/mental-game/mindfulness/daily-practice)* |
+| *Relacionado: [Introdução à Atenção Plena](/pt/education/mental-game/mindfulness/) | [Técnicas de Mindfulness](/pt/education/mental-game/mindfulness/techniques) | [Prática Diária](/pt/education/mental-game/mindfulness/daily-practice)* |
 

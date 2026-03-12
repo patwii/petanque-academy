@@ -200,5 +200,5 @@ Net als bij elke andere vaardigheid, verbetert het bereiken van een flow-ervarin
 
 ---
 
-| *Gerelateerd: [De Zone](/en/education/mental-game/the-zone/) | [De Zone Betreden](/en/education/mental-game/the-zone/entering-the-zone) | [Mindfulnesstechnieken](/en/education/mental-game/mindfulness/techniques)* |
+| *Gerelateerd: [De Zone](/nl/education/mental-game/the-zone/) | [De Zone Betreden](/nl/education/mental-game/the-zone/entering-the-zone) | [Mindfulnesstechnieken](/nl/education/mental-game/mindfulness/techniques)* |
 

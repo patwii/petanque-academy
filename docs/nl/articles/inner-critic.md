@@ -136,5 +136,5 @@ De innerlijke criticus zal altijd deel van je blijven uitmaken. Maar met oefenin
 
 ---
 
-| *Gerelateerd: [Omgaan met druk](/en/education/mental-game/mental-strength/handling-pressure) | [Voorbereidingsroutine](/en/education/mental-game/mental-strength/pre-shot-routine) | [Mindfulnesstechnieken](/en/education/mental-game/mindfulness/techniques)* |
+| *Gerelateerd: [Omgaan met druk](/nl/education/mental-game/mental-strength/handling-pressure) | [Voorbereidingsroutine](/nl/education/mental-game/mental-strength/pre-shot-routine) | [Mindfulnesstechnieken](/nl/education/mental-game/mindfulness/techniques)* |
 

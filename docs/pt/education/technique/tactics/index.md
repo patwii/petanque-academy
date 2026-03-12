@@ -255,7 +255,7 @@ No nível de elite, o estudo do adversário é fundamental. Conheça seus oponen
 
 ## Nesta seção
 
-- **[Decisões Baseadas em Probabilidade](/en/education/technique/tactics/probability)** - Usando a matemática para fazer escolhas melhores
+- **[Decisões Baseadas em Probabilidade](/pt/education/technique/tactics/probability)** - Usando a matemática para fazer escolhas melhores
 
 ## Resumo: Todas as Regras Táticas
 

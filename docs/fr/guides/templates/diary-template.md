@@ -468,11 +468,11 @@ Examinez votre journal chaque semaine pour repérer :
 
 ## Ressources connexes
 
-- [Modèle de définition d&#39;objectifs](/en/guides/templates/goal-template) - Définissez et suivez vos objectifs d&#39;amélioration
-- [Atelier](/en/guides/workshop/) - Séances de groupe sur le mental et la réflexion
-- [Séance de formation](/en/guides/training-session/) - Pratique structurée avec des pairs
-- [Force mentale](/en/education/mental-game/mental-strength/) - Développer sa résilience mentale
-- [Pleine conscience](/en/education/mental-game/mindfulness/) - Développer la conscience et la concentration
+- [Modèle de définition d&#39;objectifs](/fr/guides/templates/goal-template) - Définissez et suivez vos objectifs d&#39;amélioration
+- [Atelier](/fr/guides/workshop/) - Séances de groupe sur le mental et la réflexion
+- [Séance de formation](/fr/guides/training-session/) - Pratique structurée avec des pairs
+- [Force mentale](/fr/education/mental-game/mental-strength/) - Développer sa résilience mentale
+- [Pleine conscience](/fr/education/mental-game/mindfulness/) - Développer la conscience et la concentration
 
 ---
 

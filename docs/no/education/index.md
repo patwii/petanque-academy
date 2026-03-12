@@ -21,7 +21,7 @@ Læreplanen vår er strukturert rundt 8 nøkkelfaktorer, vektet etter deres innv
 | 🥗 [**Ernæring**](/no/utdanning/ernæring/) | **300** | Blodsukkerstabilitet, hydrering, drivstoff til konkurranser |
 | 🤝 [**Teamdynamikk**](/no/utdanning/teamdynamikk/) | **300** | Kommunikasjon, tillit, rolleklarhet |
 | 💆 [**Spenningsmestring**](/no/utdanning/spenning/) | **300** | Fysisk spenning, avslapning, pustekontroll |
-| 🎯 [**Teknikk**](/en/education/technique/) | **100** | Fysisk mekanikk, kasterepertoar |
+| 🎯 [**Teknikk**](/no/education/technique/) | **100** | Fysisk mekanikk, kasterepertoar |
 
 **Totalt: 2900 poeng**
 

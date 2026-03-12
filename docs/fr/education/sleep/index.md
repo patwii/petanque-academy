@@ -160,13 +160,13 @@ L&#39;idée des « 8 heures pour tout le monde » est un mythe. Les besoins indi
 
 ## Dans ce module
 
-### [Protocoles de sommeil en compétition](/en/education/sleep/competition)
+### [Protocoles de sommeil en compétition](/fr/education/sleep/competition)
 - La semaine précédant la compétition
 - Gestion des voyages et des fuseaux horaires
 - Protocoles de sieste rapide
 - Stratégies d&#39;urgence « Je n&#39;arrivais pas à dormir »
 
-### [Hygiène du sommeil pour les athlètes](/en/education/sleep/habits)
+### [Hygiène du sommeil pour les athlètes](/fr/education/sleep/habits)
 - Les 10 principes fondamentaux du sommeil
 - Modèles de routine du soir
 - Le défi du sommeil sur 30 jours
@@ -190,7 +190,7 @@ Ces deux changements à eux seuls peuvent améliorer la qualité du sommeil en q
 Le sommeil est lié à tout le reste de votre performance :
 
 - Gestion de la tension : les techniques de relaxation et de relaxation musculaire progressive favorisent le sommeil.
-- [Nutrition](/en/education/nutrition/) — Le moment des repas et la glycémie influencent la qualité du sommeil
-- [Mental Game](/en/education/mental-game/) — Le sommeil favorise les fonctions cognitives et le contrôle émotionnel
+- [Nutrition](/fr/education/nutrition/) — Le moment des repas et la glycémie influencent la qualité du sommeil
+- [Mental Game](/fr/education/mental-game/) — Le sommeil favorise les fonctions cognitives et le contrôle émotionnel
 - Conscience de soi — Reconnaître quand la fatigue affecte votre jeu
 

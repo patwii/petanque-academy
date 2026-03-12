@@ -99,12 +99,12 @@ Après avoir terminé votre évaluation :
 
 ## Apprenez-en davantage sur chaque facteur
 
-- [🧠 Jeu mental](/en/education/mental-game/) — États de flow, force mentale, pleine conscience
-- [🔥 Motivation](/en/education/motivation/) — Fixation d&#39;objectifs, psychologie, motivation à long terme
-- [😴 Sommeil et récupération](/en/education/sleep/) — Science du sommeil, habitudes, protocoles de compétition
-- [🪞 Conscience de soi](/en/education/self-awareness/) — Retour d&#39;information, analyse vidéo, angles morts
-- [🥗 Nutrition](/en/education/nutrition/) — Glycémie, hydratation, énergie pour la compétition
-- [🤝 Dynamique d&#39;équipe](/en/education/team-dynamics/) — Communication, confiance, culture d&#39;équipe
-- [💆 Gestion de la tension](/en/education/tension/) — Techniques de relaxation, respiration, protocoles
-- [🎯 Technique](/en/education/technique/) — Méthodes d&#39;entraînement, tactiques, exercices
+- [🧠 Jeu mental](/fr/education/mental-game/) — États de flow, force mentale, pleine conscience
+- [🔥 Motivation](/fr/education/motivation/) — Fixation d&#39;objectifs, psychologie, motivation à long terme
+- [😴 Sommeil et récupération](/fr/education/sleep/) — Science du sommeil, habitudes, protocoles de compétition
+- [🪞 Conscience de soi](/fr/education/self-awareness/) — Retour d&#39;information, analyse vidéo, angles morts
+- [🥗 Nutrition](/fr/education/nutrition/) — Glycémie, hydratation, énergie pour la compétition
+- [🤝 Dynamique d&#39;équipe](/fr/education/team-dynamics/) — Communication, confiance, culture d&#39;équipe
+- [💆 Gestion de la tension](/fr/education/tension/) — Techniques de relaxation, respiration, protocoles
+- [🎯 Technique](/fr/education/technique/) — Méthodes d&#39;entraînement, tactiques, exercices
 

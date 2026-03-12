@@ -165,7 +165,7 @@ Plane, was und wann du isst, um an Wettkampftagen optimale Leistungen zu erbring
 
 ## Verwandte Ressourcen
 
-- [Ernährungsbildung](/en/education/nutrition/) — Vollständiger Ernährungsleitfaden
-- [Checkliste vor dem Wettkampf](/en/guides/templates/pre-competition-checklist) — Vollständiger Vorbereitungsleitfaden
-- [Schlaftracker](/en/guides/templates/sleep-tracker) — Erholung optimieren
+- [Ernährungsbildung](/de/education/nutrition/) — Vollständiger Ernährungsleitfaden
+- [Checkliste vor dem Wettkampf](/de/guides/templates/pre-competition-checklist) — Vollständiger Vorbereitungsleitfaden
+- [Schlaftracker](/de/guides/templates/sleep-tracker) — Erholung optimieren
 

@@ -15,7 +15,7 @@ Gestructureerde sjablonen voor het vragen en geven van eerlijke feedback aan tea
 **Hoe te gebruiken:** Deel dit formulier of gebruik de digitale beoordeling.
 
 ::: info Digitale optie
-Gebruik de [Spelersbeoordelingstool](/en/assessment/) met de functie &quot;Feedback van collega&#39;s verkrijgen&quot; voor automatische vergelijking en het opsporen van blinde vlekken.
+Gebruik de [Spelersbeoordelingstool](/nl/assessment/) met de functie &quot;Feedback van collega&#39;s verkrijgen&quot; voor automatische vergelijking en het opsporen van blinde vlekken.
 :::
 
 ---
@@ -180,8 +180,8 @@ Elke speler verklaart:
 
 ## Gerelateerde bronnen
 
-- [🎯 Beoordelingstool](/en/assessment/) — Digitale zelf- en peerbeoordeling
-- [Zelfbewustzijnsonderwijs](/en/education/self-awareness/) — Blinde vlekken begrijpen
-- [Teamovereenkomstsjabloon](/en/guides/templates/team-agreement) — Bouw teamcommunicatie op
-- [Trainingsdagboek](/en/guides/templates/diary-template) — Houd je ontwikkeling bij
+- [🎯 Beoordelingstool](/nl/assessment/) — Digitale zelf- en peerbeoordeling
+- [Zelfbewustzijnsonderwijs](/nl/education/self-awareness/) — Blinde vlekken begrijpen
+- [Teamovereenkomstsjabloon](/nl/guides/templates/team-agreement) — Bouw teamcommunicatie op
+- [Trainingsdagboek](/nl/guides/templates/diary-template) — Houd je ontwikkeling bij
 

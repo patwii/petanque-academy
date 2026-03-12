@@ -302,10 +302,10 @@ Jedes Ziel sollte mit Ihrer tieferen Motivation verbunden sein:
 
 ## Verwandte Ressourcen
 
-- [Workshop](/en/guides/workshop/) - Gruppensitzungen zu Zielsetzung und mentalem Training
-- [Trainingssitzung](/en/guides/training-session/) – Üben mit Accountability-Partnern
+- [Workshop](/de/guides/workshop/) - Gruppensitzungen zu Zielsetzung und mentalem Training
+- [Trainingssitzung](/de/guides/training-session/) – Üben mit Accountability-Partnern
 - Mentale Stärke – Die richtige Einstellung für die Zielerreichung entwickeln
-- [Trainingstagebuch-Vorlage](/en/guides/templates/diary-template) - Tägliche Trainingsdokumentation
+- [Trainingstagebuch-Vorlage](/de/guides/templates/diary-template) - Tägliche Trainingsdokumentation
 
 ---
 

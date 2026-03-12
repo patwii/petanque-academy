@@ -468,11 +468,11 @@ Revise seu diário semanalmente para identificar:
 
 ## Recursos relacionados
 
-- [Modelo para definição de metas](/en/guides/templates/goal-template) - Defina e acompanhe suas metas de melhoria
-- [Workshop](/en/guides/workshop/) - Sessões em grupo sobre jogo mental e reflexão
-- [Sessão de Treinamento](/en/guides/training-session/) - Prática estruturada com colegas
-- [Força Mental](/en/education/mental-game/mental-strength/) - Desenvolva a resiliência mental
-- [Mindfulness](/en/education/mental-game/mindfulness/) - Desenvolver a consciência e o foco
+- [Modelo para definição de metas](/pt/guides/templates/goal-template) - Defina e acompanhe suas metas de melhoria
+- [Workshop](/pt/guides/workshop/) - Sessões em grupo sobre jogo mental e reflexão
+- [Sessão de Treinamento](/pt/guides/training-session/) - Prática estruturada com colegas
+- [Força Mental](/pt/education/mental-game/mental-strength/) - Desenvolva a resiliência mental
+- [Mindfulness](/pt/education/mental-game/mindfulness/) - Desenvolver a consciência e o foco
 
 ---
 

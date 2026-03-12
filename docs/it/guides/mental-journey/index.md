@@ -94,7 +94,7 @@ graph TD
 **Settimana 4: Integrazione**
 1. Utilizza la tua routine nella pratica
 2. Tieni traccia delle prestazioni mentali in [Modello di diario](/it/guide/templates/diary-template)
-3. Stabilisci obiettivi di gioco mentale utilizzando [Modello di obiettivo](/en/guides/templates/goal-template)
+3. Stabilisci obiettivi di gioco mentale utilizzando [Modello di obiettivo](/it/guides/templates/goal-template)
 
 ### Opzione 2: Workshop di gruppo (per coach)
 

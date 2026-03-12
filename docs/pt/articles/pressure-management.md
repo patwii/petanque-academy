@@ -187,5 +187,5 @@ O segredo é canalizar essa energia de forma produtiva, em vez de deixar que ela
 
 ---
 
-| *Relacionado: [Lidando com a Pressão](/en/education/mental-game/mental-strength/handling-pressure) | [Rotina Pré-Arremesso](/en/education/mental-game/mental-strength/pre-shot-routine) | [A Zona](/en/education/mental-game/the-zone/)* |
+| *Relacionado: [Lidando com a Pressão](/pt/education/mental-game/mental-strength/handling-pressure) | [Rotina Pré-Arremesso](/pt/education/mental-game/mental-strength/pre-shot-routine) | [A Zona](/pt/education/mental-game/the-zone/)* |
 

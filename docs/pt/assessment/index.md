@@ -99,12 +99,12 @@ Após concluir sua avaliação:
 
 ## Saiba mais sobre cada fator
 
-- [🧠 Jogo Mental](/en/education/mental-game/) — Estados de fluxo, força mental, atenção plena
-- [🔥 Motivação](/en/education/motivation/) — Definição de metas, psicologia, motivação a longo prazo
-- [😴 Sono e Recuperação](/en/education/sleep/) — Ciência do sono, hábitos, protocolos de competição
-- [🪞 Autoconhecimento](/en/education/self-awareness/) — Feedback, análise de vídeo, pontos cegos
-- [🥗 Nutrição](/en/education/nutrition/) — Açúcar no sangue, hidratação, combustível para competição
-- [🤝 Dinâmica de Equipe](/en/education/team-dynamics/) — Comunicação, confiança, cultura de equipe
-- [💆 Gestão da Tensão](/en/education/tension/) — Técnicas de relaxamento, respiração, protocolos
-- [🎯 Técnica](/en/education/technique/) — Métodos de treinamento, táticas, exercícios
+- [🧠 Jogo Mental](/pt/education/mental-game/) — Estados de fluxo, força mental, atenção plena
+- [🔥 Motivação](/pt/education/motivation/) — Definição de metas, psicologia, motivação a longo prazo
+- [😴 Sono e Recuperação](/pt/education/sleep/) — Ciência do sono, hábitos, protocolos de competição
+- [🪞 Autoconhecimento](/pt/education/self-awareness/) — Feedback, análise de vídeo, pontos cegos
+- [🥗 Nutrição](/pt/education/nutrition/) — Açúcar no sangue, hidratação, combustível para competição
+- [🤝 Dinâmica de Equipe](/pt/education/team-dynamics/) — Comunicação, confiança, cultura de equipe
+- [💆 Gestão da Tensão](/pt/education/tension/) — Técnicas de relaxamento, respiração, protocolos
+- [🎯 Técnica](/pt/education/technique/) — Métodos de treinamento, táticas, exercícios
 

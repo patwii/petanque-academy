@@ -185,5 +185,5 @@ Mentales Spiel ist trainierbar. Man muss es nur richtig trainieren.
 
 ---
 
-| *Verwandt: [Mentale Stärke](/en/education/mental-game/mental-strength/) | [Trainingsmethoden](/en/education/technique/training/) | [Achtsamkeit](/en/education/mental-game/mindfulness/)* |
+| *Verwandt: [Mentale Stärke](/de/education/mental-game/mental-strength/) | [Trainingsmethoden](/de/education/technique/training/) | [Achtsamkeit](/de/education/mental-game/mindfulness/)* |
 

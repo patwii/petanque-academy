@@ -191,8 +191,8 @@ Articles indispensables pour dormir loin de chez soi :
 
 ## Contenu associé
 
-- [Sciences du sommeil](/en/education/sleep/) — Comprendre pourquoi le sommeil est important
-- [Hygiène du sommeil](/en/education/sleep/habits) — Habitudes quotidiennes pour mieux dormir
+- [Sciences du sommeil](/fr/education/sleep/) — Comprendre pourquoi le sommeil est important
+- [Hygiène du sommeil](/fr/education/sleep/habits) — Habitudes quotidiennes pour mieux dormir
 - Gestion de la tension — Techniques de relaxation pour le sommeil
-- [Force mentale](/en/education/mental-game/mental-strength/) — Gérer l&#39;anxiété pré-compétitive
+- [Force mentale](/fr/education/mental-game/mental-strength/) — Gérer l&#39;anxiété pré-compétitive
 

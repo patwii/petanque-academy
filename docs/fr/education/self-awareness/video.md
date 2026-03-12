@@ -246,8 +246,8 @@ Comparer les séquences :
 
 ## Contenu associé
 
-- [L&#39;avantage de la conscience de soi](/en/education/self-awareness/) — Pourquoi la connaissance de soi est importante
-- [Obtenir des commentaires](/en/education/self-awareness/feedback) — Perspectives externes
-- [Fondements de la technique](/en/education/technique/) — À quoi ressemble une bonne technique
-- [Méthodes de formation](/en/education/technique/training/) — Comment mettre en pratique ce que l&#39;on apprend
+- [L&#39;avantage de la conscience de soi](/fr/education/self-awareness/) — Pourquoi la connaissance de soi est importante
+- [Obtenir des commentaires](/fr/education/self-awareness/feedback) — Perspectives externes
+- [Fondements de la technique](/fr/education/technique/) — À quoi ressemble une bonne technique
+- [Méthodes de formation](/fr/education/technique/training/) — Comment mettre en pratique ce que l&#39;on apprend
 

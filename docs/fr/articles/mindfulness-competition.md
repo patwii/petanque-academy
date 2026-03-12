@@ -193,5 +193,5 @@ Le joueur qui est pleinement présent à chaque lancer, tandis que les autres so
 
 ---
 
-| *À consulter également : [Introduction à la pleine conscience](/en/education/mental-game/mindfulness/) | [Techniques de pleine conscience](/en/education/mental-game/mindfulness/techniques) | [Pratique quotidienne](/en/education/mental-game/mindfulness/daily-practice)* |
+| *À consulter également : [Introduction à la pleine conscience](/fr/education/mental-game/mindfulness/) | [Techniques de pleine conscience](/fr/education/mental-game/mindfulness/techniques) | [Pratique quotidienne](/fr/education/mental-game/mindfulness/daily-practice)* |
 

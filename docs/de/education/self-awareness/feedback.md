@@ -76,7 +76,7 @@ Externe Expertise bietet eine Perspektive, die man selbst nicht erzeugen kann:
 
 ### 5. Videoanalyse
 
-Der objektivste Spiegel, der zur Verfügung steht. Ausführliche Protokolle finden Sie unter [Videoanalyse](/en/education/self-awareness/video).
+Der objektivste Spiegel, der zur Verfügung steht. Ausführliche Protokolle finden Sie unter [Videoanalyse](/de/education/self-awareness/video).
 
 ---
 
@@ -220,8 +220,8 @@ Das Durchbrechen dieser Muster erfordert bewusste Anstrengung – doch der Lohn 
 
 ## Verwandte Inhalte
 
-- [Der Vorteil der Selbstwahrnehmung](/en/education/self-awareness/) — Warum Selbsterkenntnis wichtig ist
-- [Videoanalyse](/en/education/self-awareness/video) — Objektive Selbstbeobachtung
-- [Teamdynamik](/en/education/team-dynamics/) — Kommunikation mit Teammitgliedern
+- [Der Vorteil der Selbstwahrnehmung](/de/education/self-awareness/) — Warum Selbsterkenntnis wichtig ist
+- [Videoanalyse](/de/education/self-awareness/video) — Objektive Selbstbeobachtung
+- [Teamdynamik](/de/education/team-dynamics/) — Kommunikation mit Teammitgliedern
 - Mentale Stärke – Umgang mit schwierigen Wahrheiten
 

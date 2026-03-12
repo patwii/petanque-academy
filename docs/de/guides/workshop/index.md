@@ -11,7 +11,7 @@ Dieser Workshop ist ein fortgeschrittenes, 3- bis 4-stündiges Theorieseminar f�
 :::
 
 **Unterschiede zur Anfängersitzung:**
-- **Anfänger (2-3 Std.):** Einführung in die Konzepte des mentalen Trainings → [Siehe Mental Journey Guide](/en/guides/mental-journey/session-guide)
+- **Anfänger (2-3 Std.):** Einführung in die Konzepte des mentalen Trainings → [Siehe Mental Journey Guide](/de/guides/mental-journey/session-guide)
 - **Fortgeschritten (3-4 Std.):** Tiefgehende psychologische Arbeit mit Übungen zur Verletzlichkeit (diese Seite)
 
 ## Schnellzugriff
@@ -21,7 +21,7 @@ Dieser Workshop ist ein fortgeschrittenes, 3- bis 4-stündiges Theorieseminar f�
 | **Für Teilnehmer** | Was Sie erwartet und wie Sie sich vorbereiten können | [Abschnitt anzeigen](#for-participants) |
 | **Für Moderatoren** | Vollständiger Sitzungsleitfaden und Übungen | [Abschnitt anzeigen](#for-facilitators) |
 | **Sitzungsmaterialien** | Übungen und Arbeitsblätter | [Materialien ansehen](#facilitator-materials) |
-| **Verwandte Leitfäden** | Andere Trainingsformate | [Mentale Reise](/en/guides/mental-journey/) • [Trainingslager](/en/guides/training-camp/) |
+| **Verwandte Leitfäden** | Andere Trainingsformate | [Mentale Reise](/de/guides/mental-journey/) • [Trainingslager](/de/guides/training-camp/) |
 
 ---
 

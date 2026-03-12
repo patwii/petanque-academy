@@ -17,9 +17,9 @@ Egal ob Sie als Spieler Ihr mentales Spiel verbessern möchten oder als Trainer 
 | Ressource | Zweck | Zugang |
 |----------|---------|--------|
 | **Erste Schritte** | Einführung in die Konzepte des mentalen Spiels | [Weiterlesen](#warum-mentales-training-wichtig-ist) |
-| **Sitzungsleitfaden** | Vollständiger Leitfaden für 2-3-stündige Workshops für Kursleiter | [Anleitung ansehen](/en/guides/mental-journey/session-guide) |
-| **Materialien** | Teilnehmerleitfäden, Folien und Arbeitsblätter | [Materialien ansehen](/en/guides/mental-journey/materials) |
-| **Verwandte Leitfäden** | Erweiterte Formate | [Workshop](/en/guides/workshop/) • [Trainingslager](/en/guides/training-camp/) |
+| **Sitzungsleitfaden** | Vollständiger Leitfaden für 2-3-stündige Workshops für Kursleiter | [Anleitung ansehen](/de/guides/mental-journey/session-guide) |
+| **Materialien** | Teilnehmerleitfäden, Folien und Arbeitsblätter | [Materialien ansehen](/de/guides/mental-journey/materials) |
+| **Verwandte Leitfäden** | Erweiterte Formate | [Workshop](/de/guides/workshop/) • [Trainingslager](/de/guides/training-camp/) |
 
 ## Warum mentales Training wichtig ist
 
@@ -77,30 +77,30 @@ graph TD
 ### Option 1: Selbststudium (Für Spieler)
 
 **Woche 1: Die Grundlagen verstehen**
-1. Lesen Sie das Modul [The Zone](/en/education/mental-game/the-zone/).
+1. Lesen Sie das Modul [The Zone](/de/education/mental-game/the-zone/).
 2. Probieren Sie die 3-Atemzug-Reset-Technik.
 3. Achten Sie darauf, wann Sie sich im „technischen Modus“ und wann im „Flow-Modus“ befinden.
 
 **Woche 2: Sensibilisierung**
-1. Lesen Sie das Modul [Mentale Stärke](/en/education/mental-game/mental-strength/).
+1. Lesen Sie das Modul [Mentale Stärke](/de/education/mental-game/mental-strength/).
 2. Identifiziere deine inneren Kritikermuster
 3. Üben Sie neutrale Beobachtung nach Fehlern
 
 **Woche 3: Struktur schaffen**
-1. Lesen Sie das Modul [Achtsamkeit](/en/education/mental-game/mindfulness/).
+1. Lesen Sie das Modul [Achtsamkeit](/de/education/mental-game/mindfulness/).
 2. Beginnen Sie mit einer täglichen 5-minütigen Übungsphase.
 3. Entwickle eine einfache Vorbereitungsroutine.
 
 **Woche 4: Integration**
 1. Setzen Sie Ihre Routine in der Praxis ein.
-2. Verfolgen Sie Ihre mentale Leistungsfähigkeit in der [Tagebuchvorlage](/en/guides/templates/diary-template)
-3. Setzen Sie sich mentale Spielziele mithilfe der [Zielvorlage](/en/guides/templates/goal-template)
+2. Verfolgen Sie Ihre mentale Leistungsfähigkeit in der [Tagebuchvorlage](/de/guides/templates/diary-template)
+3. Setzen Sie sich mentale Spielziele mithilfe der [Zielvorlage](/de/guides/templates/goal-template)
 
 ### Option 2: Gruppenworkshop (Für Coaches)
 
 **Führen Sie eine 2-3-stündige Sitzung durch:**
 
-Nutzen Sie unseren umfassenden [Sitzungsleitfaden](/en/guides/mental-journey/session-guide), der Folgendes beinhaltet:
+Nutzen Sie unseren umfassenden [Sitzungsleitfaden](/de/guides/mental-journey/session-guide), der Folgendes beinhaltet:
 - Vollständige Sitzungsstruktur
 - Diskussionsanregungen
 - Gruppenübungen
@@ -165,21 +165,21 @@ Mentales Training ersetzt nicht das technische Training. Aber es hilft Ihnen, Ih
 ## Verfügbare Ressourcen
 
 ### Für Spieler
-- [Bildungsmodule](/en/education/) - 8 umfassende Leitfäden
-- [Zielvorlage](/en/guides/templates/goal-template) - Strukturieren Sie Ihre Entwicklung
-- [Tagebuchvorlage](/en/guides/templates/diary-template) - Verfolge deinen Fortschritt
-- [Fallstudien](/en/articles/case-studies) - Beispiele aus der Praxis
+- [Bildungsmodule](/de/education/) - 8 umfassende Leitfäden
+- [Zielvorlage](/de/guides/templates/goal-template) - Strukturieren Sie Ihre Entwicklung
+- [Tagebuchvorlage](/de/guides/templates/diary-template) - Verfolge deinen Fortschritt
+- [Fallstudien](/de/articles/case-studies) - Beispiele aus der Praxis
 
 ### Für Trainer/Guides
-- [Sitzungsleitfaden](/en/guides/mental-journey/session-guide) - Kompletter 2-3-stündiger Workshop
-- [Moderationsmaterialien](/en/guides/mental-journey/materials) - Digitale Leitfäden &amp; Folien
-- [Workshop-Leitfaden](/en/guides/workshop/) - Fortgeschrittenes 3-4-Stunden-Format
-- [Trainingslager-Leitfaden](/en/guides/training-camp/) - Wochenendprogramm
+- [Sitzungsleitfaden](/de/guides/mental-journey/session-guide) - Kompletter 2-3-stündiger Workshop
+- [Moderationsmaterialien](/de/guides/mental-journey/materials) - Digitale Leitfäden &amp; Folien
+- [Workshop-Leitfaden](/de/guides/workshop/) - Fortgeschrittenes 3-4-Stunden-Format
+- [Trainingslager-Leitfaden](/de/guides/training-camp/) - Wochenendprogramm
 
 ## Nächste Schritte
 
 ### Für Einzelspieler
-1. **Beginnen Sie mit Bewusstsein** - Lesen Sie [The Zone](/en/education/mental-game/the-zone/)
+1. **Beginnen Sie mit Bewusstsein** - Lesen Sie [The Zone](/de/education/mental-game/the-zone/)
 2. **Probieren Sie eine Technik aus:** – Nutzen Sie diese Woche die 3-Atemzug-Technik.
 3. **Verfolgen Sie Ihre Erfahrungen** – Beobachten Sie die Änderungen
 4. **Schrittweise aufbauen** – Jede Woche eine neue Fähigkeit hinzufügen
@@ -195,17 +195,17 @@ Mentales Training ersetzt nicht das technische Training. Aber es hilft Ihnen, Ih
 
 **Haben Sie Fragen zum Einstieg?**
 - E-Mail: [patrik.wiik@gmail.com](mailto:patrik.wiik@gmail.com)
-- Beispiele finden Sie in den [Fallstudien](/en/articles/case-studies).
+- Beispiele finden Sie in den [Fallstudien](/de/articles/case-studies).
 - Beteilige dich an Diskussionen in deinem Club.
 
 
 ---
 
 ::: tip Bereit zum Start?
-**Spieler:** Beginnen Sie mit dem Modul [The Zone](/en/education/mental-game/the-zone/).
+**Spieler:** Beginnen Sie mit dem Modul [The Zone](/de/education/mental-game/the-zone/).
 
-**Coaches:** Gehen Sie zu [Sitzungsleitfaden](/en/guides/mental-journey/session-guide)
+**Coaches:** Gehen Sie zu [Sitzungsleitfaden](/de/guides/mental-journey/session-guide)
 
-**Materialien herunterladen:** Besuchen Sie [Facilitator Materials](/en/guides/mental-journey/materials)
+**Materialien herunterladen:** Besuchen Sie [Facilitator Materials](/de/guides/mental-journey/materials)
 :::
 

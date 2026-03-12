@@ -219,7 +219,7 @@ Ao assinar, comprometemo-nos com este acordo e com a sua revisão sempre que nec
 
 ## Recursos relacionados
 
-- [Educação em Dinâmica de Equipe](/en/education/team-dynamics/) — Fortaleça os laços da sua equipe
-- [Modelo de Feedback entre Pares](/en/guides/templates/peer-feedback) — Ferramentas de feedback estruturado
-- [Guia da Sessão de Treinamento](/en/guides/training-session/) — Pratiquem juntos de forma eficaz
+- [Educação em Dinâmica de Equipe](/pt/education/team-dynamics/) — Fortaleça os laços da sua equipe
+- [Modelo de Feedback entre Pares](/pt/guides/templates/peer-feedback) — Ferramentas de feedback estruturado
+- [Guia da Sessão de Treinamento](/pt/guides/training-session/) — Pratiquem juntos de forma eficaz
 

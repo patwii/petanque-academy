@@ -14,13 +14,13 @@ Ons curriculum is opgebouwd rond 8 kernfactoren, gewogen naar hun impact op topp
 
 | Factor | Gewicht | Beschrijving |
 |--------|--------|-------------|
-| 🧠 [**Mentale Spel**](/en/education/mental-game/) | **600** | Denkpatronen, focus, flow-toestanden, zelfspraak |
-| 🔥 [**Motivatie**](/en/education/motivation/) | **500** | Gedrevenheid, doelgerichtheid, doorzettingsvermogen |
-| 😴 [**Slaap &amp; Herstel**](/en/education/sleep/) | **400** | Slaapkwaliteit, herstel, rust vóór de wedstrijd |
-| 🪞 [**Zelfbewustzijn**](/en/education/self-awareness/) | **400** | Nauwkeurige zelfperceptie, herkenning van blinde vlekken |
-| 🥗 [**Voeding**](/en/education/nutrition/) | **300** | Bloedsuikerstabiliteit, hydratatie, brandstof voor de wedstrijd |
-| 🤝 [**Teamdynamiek**](/en/education/team-dynamics/) | **300** | Communicatie, vertrouwen, duidelijkheid over rollen |
-| 💆 [**Spanningsmanagement**](/en/education/tension/) | **300** | Fysieke spanning, ontspanning, ademhalingsoefeningen |
+| 🧠 [**Mentale Spel**](/nl/education/mental-game/) | **600** | Denkpatronen, focus, flow-toestanden, zelfspraak |
+| 🔥 [**Motivatie**](/nl/education/motivation/) | **500** | Gedrevenheid, doelgerichtheid, doorzettingsvermogen |
+| 😴 [**Slaap &amp; Herstel**](/nl/education/sleep/) | **400** | Slaapkwaliteit, herstel, rust vóór de wedstrijd |
+| 🪞 [**Zelfbewustzijn**](/nl/education/self-awareness/) | **400** | Nauwkeurige zelfperceptie, herkenning van blinde vlekken |
+| 🥗 [**Voeding**](/nl/education/nutrition/) | **300** | Bloedsuikerstabiliteit, hydratatie, brandstof voor de wedstrijd |
+| 🤝 [**Teamdynamiek**](/nl/education/team-dynamics/) | **300** | Communicatie, vertrouwen, duidelijkheid over rollen |
+| 💆 [**Spanningsmanagement**](/nl/education/tension/) | **300** | Fysieke spanning, ontspanning, ademhalingsoefeningen |
 | 🎯 [**Techniek**](/nl/onderwijs/techniek/) | **100** | Fysieke mechanica, werprepertoire |
 
 **Totaal: 2.900 punten**
@@ -67,17 +67,17 @@ graph LR
 
 Je vermogen om je gedachten te beheersen, je concentratie te behouden en in een flow-toestand te komen.
 
-- [De Zone](/en/education/mental-game/the-zone/) — Flow-toestanden begrijpen en bereiken
-- [Mentale kracht](/en/education/mental-game/mental-strength/) — Omgaan met druk, voorbereiding op een schot
-- [Mindfulness](/en/education/mental-game/mindfulness/) — Focus op het huidige moment, herstel van fouten
+- [De Zone](/nl/education/mental-game/the-zone/) — Flow-toestanden begrijpen en bereiken
+- [Mentale kracht](/nl/education/mental-game/mental-strength/) — Omgaan met druk, voorbereiding op een schot
+- [Mindfulness](/nl/education/mental-game/mindfulness/) — Focus op het huidige moment, herstel van fouten
 
 ### 🔥 Motivatie (500 punten)
 
 **Wat motiveert jou om elke dag, elk jaar beter te worden?**
 
-- [Doelstellingen formuleren](/en/education/motivation/) — SMART-doelen, focus op proces versus resultaat
-- [Psychologie van motivatie](/en/education/motivation/motivation) — Intrinsieke versus extrinsieke motivatie, Zelfdeterminatietheorie
-- [Motivatie behouden](/en/education/motivation/maintaining) — Burnoutpreventie, plateaubeheersing
+- [Doelstellingen formuleren](/nl/education/motivation/) — SMART-doelen, focus op proces versus resultaat
+- [Psychologie van motivatie](/nl/education/motivation/motivation) — Intrinsieke versus extrinsieke motivatie, Zelfdeterminatietheorie
+- [Motivatie behouden](/nl/education/motivation/maintaining) — Burnoutpreventie, plateaubeheersing
 
 ### 😴 Slaap &amp; Herstel (400 punten)
 
@@ -85,9 +85,9 @@ Je vermogen om je gedachten te beheersen, je concentratie te behouden en in een 
 
 Slaapkwaliteit heeft een directe invloed op reactietijd, besluitvorming en emotionele regulatie.
 
-- [Slaapwetenschap voor atleten](/en/education/sleep/) — Waarom slaap belangrijk is voor precisiesporten
-- [Slaapgewoonten ontwikkelen](/en/education/sleep/habits) — Praktische slaaphygiëne
-- [Slaap &amp; Competitie](/en/education/sleep/competition) — Protocollen voorafgaand aan het evenement, reismanagement
+- [Slaapwetenschap voor atleten](/nl/education/sleep/) — Waarom slaap belangrijk is voor precisiesporten
+- [Slaapgewoonten ontwikkelen](/nl/education/sleep/habits) — Praktische slaaphygiëne
+- [Slaap &amp; Competitie](/nl/education/sleep/competition) — Protocollen voorafgaand aan het evenement, reismanagement
 
 ### 🪞 Zelfbewustzijn (400 punten)
 
@@ -95,9 +95,9 @@ Slaapkwaliteit heeft een directe invloed op reactietijd, besluitvorming en emoti
 
 Een accurate zelfperceptie maakt gerichte verbetering mogelijk.
 
-- [Het voordeel van zelfbewustzijn](/en/education/self-awareness/) — Waarom zelfkennis belangrijk is
-- [Feedback krijgen](/en/education/self-awareness/feedback) — Externe perspectieven
-- [Videoanalyse](/en/education/self-awareness/video) — Video gebruiken voor zelfontdekking
+- [Het voordeel van zelfbewustzijn](/nl/education/self-awareness/) — Waarom zelfkennis belangrijk is
+- [Feedback krijgen](/nl/education/self-awareness/feedback) — Externe perspectieven
+- [Videoanalyse](/nl/education/self-awareness/video) — Video gebruiken voor zelfontdekking
 
 ### 🥗 Voeding (300 punten)
 
@@ -105,7 +105,7 @@ Een accurate zelfperceptie maakt gerichte verbetering mogelijk.
 
 Je hersenen zijn een precisie-instrument – geef ze de juiste voeding.
 
-- [Voeding voor optimale prestaties](/en/education/nutrition/) — Bloedsuiker, hydratatie, wedstrijdvoeding
+- [Voeding voor optimale prestaties](/nl/education/nutrition/) — Bloedsuiker, hydratatie, wedstrijdvoeding
 
 ### 🤝 Teamdynamiek (300 punten)
 
@@ -113,8 +113,8 @@ Je hersenen zijn een precisie-instrument – geef ze de juiste voeding.
 
 Communicatie en vertrouwen wegen vaak zwaarder dan individueel talent.
 
-- [Een geweldige teamgenoot zijn](/en/education/team-dynamics/) — Teamcultuur en ondersteuning
-- [Teamcommunicatie](/en/education/team-dynamics/communication) — Duidelijke, positieve communicatie
+- [Een geweldige teamgenoot zijn](/nl/education/team-dynamics/) — Teamcultuur en ondersteuning
+- [Teamcommunicatie](/nl/education/team-dynamics/communication) — Duidelijke, positieve communicatie
 
 ### 💆 Spanningsmanagement (300 punten)
 
@@ -122,9 +122,9 @@ Communicatie en vertrouwen wegen vaak zwaarder dan individueel talent.
 
 Je kunt niet tegelijkertijd gespannen en nauwkeurig zijn.
 
-- [Spanning begrijpen](/en/education/tension/) — Fysieke versus mentale spanning
-- [Ontspanningstechnieken](/en/education/tension/techiques) — PMR, ademhaling, snelle resets
-- [Wedstrijdmanagement](/en/education/tension/competition) — Protocollen voor en tijdens de wedstrijd
+- [Spanning begrijpen](/nl/education/tension/) — Fysieke versus mentale spanning
+- [Ontspanningstechnieken](/nl/education/tension/techiques) — PMR, ademhaling, snelle resets
+- [Wedstrijdmanagement](/nl/education/tension/competition) — Protocollen voor en tijdens de wedstrijd
 
 ### 🎯 Techniek (100 punten)
 
@@ -132,9 +132,9 @@ Je kunt niet tegelijkertijd gespannen en nauwkeurig zijn.
 
 Op topniveau is techniek een vanzelfsprekendheid. De onderscheidende kenmerken staan hierboven beschreven.
 
-- [Techniekoverzicht](/en/education/technique/) — Fysische mechanica
-- [Trainingsmethoden](/en/education/technique/training/) — Doelgerichte oefening
-- [Tactiek](/en/education/technique/tactics/) — Strategische besluitvorming
+- [Techniekoverzicht](/nl/education/technique/) — Fysische mechanica
+- [Trainingsmethoden](/nl/education/technique/training/) — Doelgerichte oefening
+- [Tactiek](/nl/education/technique/tactics/) — Strategische besluitvorming
 
 
 ---
@@ -204,6 +204,6 @@ Je kunt een beginner niet trainen zoals een expert (beginners missen de benodigd
 ## Begin je reis
 
 ::: tip Aanbevolen startpunt
-Begin met [Mentale Spel](/en/education/mental-game/) om de basis van topprestaties te begrijpen. Verken vervolgens [Slaap](/en/education/sleep/) — dit is vaak de verbetering met het hoogste rendement voor spelers in ontwikkeling.
+Begin met [Mentale Spel](/nl/education/mental-game/) om de basis van topprestaties te begrijpen. Verken vervolgens [Slaap](/nl/education/sleep/) — dit is vaak de verbetering met het hoogste rendement voor spelers in ontwikkeling.
 :::
 

@@ -196,5 +196,5 @@ Monitora il tuo sonno per soli 3 giorni. Probabilmente scoprirai uno schema che 
 
 - [Educazione al sonno e al recupero](/it/education/sleep/) — La scienza dietro il sonno
 - [Lista di controllo per la competizione](/it/guide/templates/pre-competition-checklist) — Guida completa alla preparazione
-- [Diario di allenamento](/en/guides/templates/diary-template) — Tieni traccia di tutti gli aspetti dell&#39;allenamento
+- [Diario di allenamento](/it/guides/templates/diary-template) — Tieni traccia di tutti gli aspetti dell&#39;allenamento
 

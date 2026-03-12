@@ -302,10 +302,10 @@ Cada objetivo deve estar ligado à sua motivação mais profunda:
 
 ## Recursos relacionados
 
-- [Workshop](/en/guides/workshop/) - Sessões em grupo sobre definição de metas e jogo mental
-- [Sessão de Treinamento](/en/guides/training-session/) - Pratique com parceiros de responsabilização
-- [Força Mental](/en/education/mental-game/mental-strength/) - Desenvolva a mentalidade necessária para alcançar seus objetivos.
-- [Modelo de Diário de Treinamento](/en/guides/templates/diary-template) - Acompanhamento diário da prática
+- [Workshop](/pt/guides/workshop/) - Sessões em grupo sobre definição de metas e jogo mental
+- [Sessão de Treinamento](/pt/guides/training-session/) - Pratique com parceiros de responsabilização
+- [Força Mental](/pt/education/mental-game/mental-strength/) - Desenvolva a mentalidade necessária para alcançar seus objetivos.
+- [Modelo de Diário de Treinamento](/pt/guides/templates/diary-template) - Acompanhamento diário da prática
 
 ---
 

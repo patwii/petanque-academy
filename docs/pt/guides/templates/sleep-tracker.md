@@ -194,7 +194,7 @@ Monitore seu sono por apenas 3 dias. É provável que você descubra um padrão 
 
 ## Recursos relacionados
 
-- [Educação sobre Sono e Recuperação](/en/education/sleep/) — A ciência por trás do sono
-- [Lista de verificação para competição](/en/guides/templates/pre-competition-checklist) — Guia completo de preparação
-- [Diário de Treinamento](/en/guides/templates/diary-template) — Registre todos os aspectos do treinamento
+- [Educação sobre Sono e Recuperação](/pt/education/sleep/) — A ciência por trás do sono
+- [Lista de verificação para competição](/pt/guides/templates/pre-competition-checklist) — Guia completo de preparação
+- [Diário de Treinamento](/pt/guides/templates/diary-template) — Registre todos os aspectos do treinamento
 

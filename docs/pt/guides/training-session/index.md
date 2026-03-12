@@ -17,7 +17,7 @@ Este guia mostra como criar um grupo de treino regular de 4 jogadores que compet
 | **Estrutura da Sessão** | Formatos de 2 e 4 horas | [Ver seção](#session-structure) |
 | **Protocolo de Inicialização** | Como iniciar cada sessão | [Ver seção](#startup-protocol-15-min) |
 | **Guia de Reflexão** | Processo de debriefing pós-sessão | [Ver seção](#reflection-protocol-15-30-min) |
-| **Guias relacionados** | Outros formatos de treinamento | [Jornada Mental](/en/guides/mental-journey/) • [Workshop](/en/guides/workshop/) • [Campo de Treinamento](/en/guides/training-camp/) |
+| **Guias relacionados** | Outros formatos de treinamento | [Jornada Mental](/pt/guides/mental-journey/) • [Workshop](/pt/guides/workshop/) • [Campo de Treinamento](/pt/guides/training-camp/) |
 
 ```mermaid
 graph LR

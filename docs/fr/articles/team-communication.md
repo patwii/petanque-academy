@@ -223,5 +223,5 @@ Les mots ne sont pas toujours nécessaires. Le lien, lui, l&#39;est.
 
 ---
 
-| *À consulter également : [Dynamique d&#39;équipe](/en/education/team-dynamics/) | [Communication](/en/education/team-dynamics/communication) | [Gérer la pression](/en/education/mental-game/mental-strength/handling-pressure)* |
+| *À consulter également : [Dynamique d&#39;équipe](/fr/education/team-dynamics/) | [Communication](/fr/education/team-dynamics/communication) | [Gérer la pression](/fr/education/mental-game/mental-strength/handling-pressure)* |
 

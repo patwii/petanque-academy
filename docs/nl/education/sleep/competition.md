@@ -191,8 +191,8 @@ Essentiële spullen voor een overnachting buitenshuis:
 
 ## Gerelateerde inhoud
 
-- [Slaapwetenschap](/en/education/sleep/) — Begrijpen waarom slaap belangrijk is
-- [Slaaphygiëne](/en/education/sleep/habits) — Dagelijkse gewoonten voor een betere nachtrust
-- [Spanningsmanagement](/en/education/tension/) — Ontspanningstechnieken voor een goede nachtrust
-- [Mentale kracht](/en/education/mental-game/mental-strength/) — Omgaan met angst voor de wedstrijd
+- [Slaapwetenschap](/nl/education/sleep/) — Begrijpen waarom slaap belangrijk is
+- [Slaaphygiëne](/nl/education/sleep/habits) — Dagelijkse gewoonten voor een betere nachtrust
+- [Spanningsmanagement](/nl/education/tension/) — Ontspanningstechnieken voor een goede nachtrust
+- [Mentale kracht](/nl/education/mental-game/mental-strength/) — Omgaan met angst voor de wedstrijd
 

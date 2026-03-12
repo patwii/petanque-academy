@@ -11,7 +11,7 @@ Des modèles pratiques pour vous accompagner dans votre développement.
 
 ### Priorité 1 : Les plus demandés
 
-#### 😴 [Suivi du sommeil](/en/guides/templates/sleep-tracker)
+#### 😴 [Suivi du sommeil](/fr/guides/templates/sleep-tracker)
 
 Suivez vos cycles de sommeil et établissez une corrélation avec vos performances.
 
@@ -24,11 +24,11 @@ Suivez vos cycles de sommeil et établissez une corrélation avec vos performanc
 
 **Idéal pour :** Optimiser la récupération, la préparation à la compétition, identifier les cycles de sommeil
 
-[Voir le suivi du sommeil →](/en/guides/templates/sleep-tracker)
+[Voir le suivi du sommeil →](/fr/guides/templates/sleep-tracker)
 
 ---
 
-#### ✅ [Liste de vérification pré-compétition](/en/guides/templates/pre-competition-checklist)
+#### ✅ [Liste de vérification pré-compétition](/fr/guides/templates/pre-competition-checklist)
 
 Guide de préparation complet pour la veille et le jour de la compétition.
 
@@ -41,13 +41,13 @@ Guide de préparation complet pour la veille et le jour de la compétition.
 
 **Idéal pour :** la préparation aux tournois, l&#39;élimination du stress d&#39;avant-match, la mise en place de routines régulières
 
-[Voir la liste de vérification pré-compétition →](/en/guides/templates/pre-competition-checklist)
+[Voir la liste de vérification pré-compétition →](/fr/guides/templates/pre-competition-checklist)
 
 ---
 
 ### Priorité 2 : Développement de l&#39;équipe
 
-#### 🎯 [Modèle de retour d&#39;information entre pairs](/en/guides/templates/peer-feedback)
+#### 🎯 [Modèle de retour d&#39;information entre pairs](/fr/guides/templates/peer-feedback)
 
 Modèles structurés pour demander et donner des commentaires honnêtes.
 
@@ -59,11 +59,11 @@ Modèles structurés pour demander et donner des commentaires honnêtes.
 
 **Idéal pour :** Identifier les angles morts, améliorer l’équipe, mener des entretiens de développement francs et constructifs
 
-[Voir le modèle d&#39;évaluation par les pairs →](/en/guides/templates/peer-feedback)
+[Voir le modèle d&#39;évaluation par les pairs →](/fr/guides/templates/peer-feedback)
 
 ---
 
-#### 🤝 [Modèle d&#39;accord d&#39;équipe](/en/guides/templates/team-agreement)
+#### 🤝 [Modèle d&#39;accord d&#39;équipe](/fr/guides/templates/team-agreement)
 
 Cadre pour les rôles, la communication et la résolution des conflits.
 
@@ -77,13 +77,13 @@ Cadre pour les rôles, la communication et la résolution des conflits.
 
 **Idéal pour :** les nouvelles équipes, améliorer la cohésion d&#39;équipe, prévenir les conflits
 
-[Voir le modèle d&#39;accord d&#39;équipe →](/en/guides/templates/team-agreement)
+[Voir le modèle d&#39;accord d&#39;équipe →](/fr/guides/templates/team-agreement)
 
 ---
 
 ### Priorité 3 : Guide de référence rapide
 
-#### 💆 [Carte rapide de relâchement des tensions](/en/guides/templates/tension-quick-card)
+#### 💆 [Carte rapide de relâchement des tensions](/fr/guides/templates/tension-quick-card)
 
 Fiche de poche imprimable pour les techniques de gestion du stress en compétition.
 
@@ -96,11 +96,11 @@ Fiche de poche imprimable pour les techniques de gestion du stress en compétiti
 
 **Idéal pour :** Consultation rapide pendant la compétition, transport en poche ou dans un sac
 
-[Voir la fiche rapide sur la tension →](/en/guides/templates/tension-quick-card)
+[Voir la fiche rapide sur la tension →](/fr/guides/templates/tension-quick-card)
 
 ---
 
-#### 🍎 [Planificateur de nutrition pour la compétition](/en/guides/templates/nutrition-planner)
+#### 🍎 [Planificateur de nutrition pour la compétition](/fr/guides/templates/nutrition-planner)
 
 Planifiez quoi et quand manger pour une performance optimale les jours de compétition.
 
@@ -113,13 +113,13 @@ Planifiez quoi et quand manger pour une performance optimale les jours de compé
 
 **Idéal pour :** la préparation aux compétitions, la prévention des hypoglycémies, et une énergie stable
 
-[Voir le planificateur nutritionnel →](/en/guides/templates/nutrition-planner)
+[Voir le planificateur nutritionnel →](/fr/guides/templates/nutrition-planner)
 
 ---
 
 ### Modèles de fondation
 
-#### 📋 [Modèle d&#39;objectif](/en/guides/templates/goal-template)
+#### 📋 [Modèle d&#39;objectif](/fr/guides/templates/goal-template)
 
 Fiche de travail structurée pour fixer des objectifs efficaces en pétanque.
 
@@ -131,11 +131,11 @@ Fiche de travail structurée pour fixer des objectifs efficaces en pétanque.
 
 **Idéal pour :** la planification de la saison, la préparation aux tournois et l&#39;atteinte des objectifs de développement des compétences
 
-[Voir le modèle d&#39;objectif →](/en/guides/templates/goal-template)
+[Voir le modèle d&#39;objectif →](/fr/guides/templates/goal-template)
 
 ---
 
-#### 📓 [Modèle de journal](/en/guides/templates/diary-template)
+#### 📓 [Modèle de journal](/fr/guides/templates/diary-template)
 
 Carnet d&#39;entraînement et de compétition pour suivre votre parcours.
 
@@ -148,7 +148,7 @@ Carnet d&#39;entraînement et de compétition pour suivre votre parcours.
 
 **Idéal pour :** l&#39;entraînement régulier, l&#39;analyse de la compétition et le développement à long terme
 
-[Voir le modèle de journal →](/en/guides/templates/diary-template)
+[Voir le modèle de journal →](/fr/guides/templates/diary-template)
 
 ---
 
@@ -165,9 +165,9 @@ Les deux options sont valables. Certains joueurs préfèrent le papier pour le c
 
 ## Ressources connexes
 
-- [Éducation sur le sommeil et la récupération](/en/education/sleep/) — La science du sommeil
-- [Conscience de soi](/en/education/self-awareness/) — Comprendre les angles morts
+- [Éducation sur le sommeil et la récupération](/fr/education/sleep/) — La science du sommeil
+- [Conscience de soi](/fr/education/self-awareness/) — Comprendre les angles morts
 - Dynamique d&#39;équipe (/en/education/team-dynamics/) — Renforcer les liens au sein de l&#39;équipe
-- [Guide de fixation d&#39;objectifs](/en/education/motivation/) — Découvrez la théorie qui sous-tend les objectifs efficaces
-- [Méthodes de formation](/en/education/technique/training/) — Comment structurer votre pratique
+- [Guide de fixation d&#39;objectifs](/fr/education/motivation/) — Découvrez la théorie qui sous-tend les objectifs efficaces
+- [Méthodes de formation](/fr/education/technique/training/) — Comment structurer votre pratique
 

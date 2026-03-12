@@ -17,7 +17,7 @@ Ce guide explique comment créer un groupe d&#39;entraînement régulier de 4 jo
 | **Structure de la session** | Formats de 2 heures et de 4 heures | [Voir la section](#structure-session) |
 | **Protocole de démarrage** | Comment commencer chaque session | [Voir la section](#startup-protocol-15-min) |
 | **Guide de réflexion** | Processus de débriefing post-session | [Voir la section](#reflection-protocol-15-30-min) |
-| **Guides associés** | Autres formats de formation | [Voyage mental](/en/guides/mental-journey/) • [Atelier](/en/guides/workshop/) • [Camp de formation](/en/guides/training-camp/) |
+| **Guides associés** | Autres formats de formation | [Voyage mental](/fr/guides/mental-journey/) • [Atelier](/fr/guides/workshop/) • [Camp de formation](/fr/guides/training-camp/) |
 
 ```mermaid
 graph LR

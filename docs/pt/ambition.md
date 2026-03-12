@@ -83,7 +83,7 @@ Nem todas as melhorias são iguais. Usamos cálculos de **Retorno sobre o Invest
 Criamos uma **ferramenta de avaliação gratuita** que analisa seus níveis atuais em todos os 8 fatores e calcula suas prioridades de melhoria personalizadas.
 
 ::: info Faça a avaliação
-**[→ Inicie sua Avaliação de Desenvolvimento de Jogador](/en/assessment/)**
+**[→ Inicie sua Avaliação de Desenvolvimento de Jogador](/pt/assessment/)**
 
 Em 5 minutos, você receberá:
 - Seu gráfico de radar considerando todos os 8 fatores.
@@ -96,10 +96,10 @@ Em 5 minutos, você receberá:
 
 | Oferta | Descrição | Link |
 |----------|-------------|------|
-| **Ferramenta de Avaliação** | Identifique suas áreas de melhoria com maior retorno sobre o investimento. | [Fazer avaliação](/en/assessment/) |
-| **Módulos de Educação** | Conteúdo aprofundado sobre todos os 8 fatores. | [Navegar na área da Educação](/en/education/) |
-| **Oficinas** | Sessões de 3 a 4 horas para grupos de 6 a 8 jogadores. | [Guia do Workshop](/en/guides/workshop/) |
-| **Campos de Treinamento** | Cursos intensivos de fim de semana que combinam teoria e prática. | [Guia do Acampamento](/en/guides/training-camp/) |
+| **Ferramenta de Avaliação** | Identifique suas áreas de melhoria com maior retorno sobre o investimento. | [Fazer avaliação](/pt/assessment/) |
+| **Módulos de Educação** | Conteúdo aprofundado sobre todos os 8 fatores. | [Navegar na área da Educação](/pt/education/) |
+| **Oficinas** | Sessões de 3 a 4 horas para grupos de 6 a 8 jogadores. | [Guia do Workshop](/pt/guides/workshop/) |
+| **Campos de Treinamento** | Cursos intensivos de fim de semana que combinam teoria e prática. | [Guia do Acampamento](/pt/guides/training-camp/) |
 
 ## Nossa abordagem
 
@@ -119,9 +119,9 @@ Aplique as técnicas nos treinos antes da competição. Construa hábitos, não 
 Acompanhe seu progresso. Suas prioridades mudarão à medida que você melhorar.
 
 ::: tip Pronto para dar o próximo passo?
-**[→ Comece com a Avaliação](/en/assessment/)** — É grátis e leva 5 minutos.
+**[→ Comece com a Avaliação](/pt/assessment/)** — É grátis e leva 5 minutos.
 
-Ou explore nossa seção [Educação](/en/education/) para se aprofundar em qualquer um dos 8 fatores.
+Ou explore nossa seção [Educação](/pt/education/) para se aprofundar em qualquer um dos 8 fatores.
 :::
 
 

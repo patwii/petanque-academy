@@ -15,7 +15,7 @@ Nous avons tous des angles morts. Les recherches montrent que la précision de l
 **Comment :** Partagez ce formulaire ou utilisez l’évaluation numérique
 
 ::: info Option numérique
-Utilisez l&#39;[Outil d&#39;évaluation des joueurs](/en/assessment/) avec la fonction « Obtenir des commentaires des pairs » pour une comparaison automatique et une détection des angles morts.
+Utilisez l&#39;[Outil d&#39;évaluation des joueurs](/fr/assessment/) avec la fonction « Obtenir des commentaires des pairs » pour une comparaison automatique et une détection des angles morts.
 :::
 
 ---
@@ -180,8 +180,8 @@ Chaque joueur déclare :
 
 ## Ressources connexes
 
-- [🎯 Outil d&#39;évaluation](/en/assessment/) — Auto-évaluation numérique et évaluation par les pairs
-- [Éducation à la conscience de soi](/en/education/self-awareness/) — Comprendre les angles morts
-- [Modèle d&#39;accord d&#39;équipe](/en/guides/templates/team-agreement) — Améliorer la communication d&#39;équipe
-- [Journal de formation](/en/guides/templates/diary-template) — Suivez votre développement
+- [🎯 Outil d&#39;évaluation](/fr/assessment/) — Auto-évaluation numérique et évaluation par les pairs
+- [Éducation à la conscience de soi](/fr/education/self-awareness/) — Comprendre les angles morts
+- [Modèle d&#39;accord d&#39;équipe](/fr/guides/templates/team-agreement) — Améliorer la communication d&#39;équipe
+- [Journal de formation](/fr/guides/templates/diary-template) — Suivez votre développement
 

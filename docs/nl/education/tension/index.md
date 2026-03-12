@@ -196,13 +196,13 @@ De beste spelers doen dit automatisch. Je kunt jezelf trainen om hetzelfde te do
 
 ## In deze module
 
-### [Technieken voor het loslaten van spanning](/en/education/tension/techniques)
+### [Technieken voor het loslaten van spanning](/nl/education/tension/techniques)
 - Progressieve spierontspanning (PMR)
 - Snelontgrendelingstechnieken voor wedstrijden
 - Ademhalingsprotocollen
 - Spanning resetten vóór de worp
 
-### [Spanning beheersen in een competitie](/en/education/tension/competition)
+### [Spanning beheersen in een competitie](/nl/education/tension/competition)
 - Voorbereiding voorafgaand aan de wedstrijd
 - Protocollen tijdens de wedstrijd
 - Noodherstel vanwege &quot;te gespannen&quot; situatie
@@ -225,8 +225,8 @@ Dit duurt slechts 10 seconden en kan je volgende worp direct verbeteren.
 
 ## Gerelateerde factoren
 
-- [Mentale kracht](/en/education/mental-game/mental-strength/) — Omgaan met druk
-- [Slaap en herstel](/en/education/sleep/) — Rust vermindert de basisspanning
-- [Mindfulness](/en/education/mental-game/mindfulness/) — Bewustzijn van het huidige moment
-- [De Zone](/en/education/mental-game/the-zone/) — Optimale prestatietoestand
+- [Mentale kracht](/nl/education/mental-game/mental-strength/) — Omgaan met druk
+- [Slaap en herstel](/nl/education/sleep/) — Rust vermindert de basisspanning
+- [Mindfulness](/nl/education/mental-game/mindfulness/) — Bewustzijn van het huidige moment
+- [De Zone](/nl/education/mental-game/the-zone/) — Optimale prestatietoestand
 

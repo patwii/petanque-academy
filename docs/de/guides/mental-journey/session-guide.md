@@ -16,7 +16,7 @@ Dieser Leitfaden hilft Ihnen bei der Durchführung einer 2- bis 3-stündigen Ein
 |---------|---------|--------|
 | **Für Teilnehmer** | Was Sie von der Sitzung erwarten können | [Abschnitt anzeigen](#for-participants) |
 | **Für Moderatoren** | Vollständiger Sitzungsplan und Zeitplan | [Abschnitt anzeigen](#for-facilitators) |
-| **Sitzungsmaterialien** | Leitfäden, Folien und Arbeitsblätter | [Materialien ansehen](/en/guides/mental-journey/materials) |
+| **Sitzungsmaterialien** | Leitfäden, Folien und Arbeitsblätter | [Materialien ansehen](/de/guides/mental-journey/materials) |
 | **Checkliste zur Vorbereitung** | Was Sie vor der Sitzung vorbereiten sollten | [Checkliste ansehen](#preparation-1-week-before) |
 
 ---
@@ -109,7 +109,7 @@ Sie erhalten:
 **1 Woche vorher:**
 - [ ] Zimmer für 2-3 Stunden buchen
 - [ ] Laden Sie 6-12 Teilnehmer ein
-- [ ] Materialseiten als Lesezeichen speichern (siehe [Materialien](/en/guides/mental-journey/materials))
+- [ ] Materialseiten als Lesezeichen speichern (siehe [Materialien](/de/guides/mental-journey/materials))
 - [ ] Lesen Sie diese Anleitung sorgfältig durch.
 - [ ] Bereiten Sie ein Flipchart oder eine Whiteboard-Tafel vor.
 
@@ -360,7 +360,7 @@ Nennen Sie Beispiele.
 **Ressourcen:**
 - Zusammenfassungsblatt aushändigen
 - Webseite teilen: carreau.app
-- Empfohlenes Einstiegsmodul: [The Zone](/en/education/mental-game/the-zone/)
+- Empfohlenes Einstiegsmodul: [The Zone](/de/education/mental-game/the-zone/)
 
 **Abschlussrunde:**
 „Ein Wort, das beschreibt, wie du dich gerade fühlst.“
@@ -419,10 +419,10 @@ Nennen Sie Beispiele.
 
 ## Materialien
 
-- [Teilnehmerleitfaden](/en/guides/mental-journey/materials#participant-guide)
-- [Folien für den Moderator](/en/guides/mental-journey/materials#facilitator-slides)
-- [Zusammenfassungsblatt](/en/guides/mental-journey/materials#summary-sheet)
-- [Übungsblätter](/en/guides/mental-journey/materials#exercise-worksheets)
+- [Teilnehmerleitfaden](/de/guides/mental-journey/materials#participant-guide)
+- [Folien für den Moderator](/de/guides/mental-journey/materials#facilitator-slides)
+- [Zusammenfassungsblatt](/de/guides/mental-journey/materials#summary-sheet)
+- [Übungsblätter](/de/guides/mental-journey/materials#exercise-worksheets)
 
 ---
 

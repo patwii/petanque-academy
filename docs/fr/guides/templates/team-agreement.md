@@ -219,7 +219,7 @@ En signant, nous nous engageons à respecter cet accord et à le réexaminer en 
 
 ## Ressources connexes
 
-- [Formation à la dynamique d&#39;équipe](/en/education/team-dynamics/) — Renforcez les liens au sein de votre équipe
-- [Modèle d&#39;évaluation par les pairs](/en/guides/templates/peer-feedback) — Outils de rétroaction structurée
+- [Formation à la dynamique d&#39;équipe](/fr/education/team-dynamics/) — Renforcez les liens au sein de votre équipe
+- [Modèle d&#39;évaluation par les pairs](/fr/guides/templates/peer-feedback) — Outils de rétroaction structurée
 - Guide de la séance de formation : Pratiquer ensemble efficacement
 

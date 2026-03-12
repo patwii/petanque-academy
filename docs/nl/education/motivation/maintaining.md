@@ -260,8 +260,8 @@ Onderzoek naar aanhoudende sportmotivatie toont aan:
 
 ## Gerelateerde inhoud
 
-- [Psychologie van motivatie](/en/education/motivation/motivation) — Inzicht in motivatietypen
-- [Doelstellingen formuleren](/en/education/motivation/) — Effectieve doelen creëren
-- [Slaap &amp; Herstel](/en/education/sleep/) — Lichamelijk herstel
-- [Mindfulness](/en/education/mental-game/mindfulness/) — Hulpmiddelen voor mentaal herstel
+- [Psychologie van motivatie](/nl/education/motivation/motivation) — Inzicht in motivatietypen
+- [Doelstellingen formuleren](/nl/education/motivation/) — Effectieve doelen creëren
+- [Slaap &amp; Herstel](/nl/education/sleep/) — Lichamelijk herstel
+- [Mindfulness](/nl/education/mental-game/mindfulness/) — Hulpmiddelen voor mentaal herstel
 

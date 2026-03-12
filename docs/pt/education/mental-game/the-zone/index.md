@@ -115,8 +115,8 @@ A solução não é pensar *menos*, mas sim pensar nas **coisas certas** no **mo
 
 Aprenda a dominar o estado de fluxo:
 
-- **[Treinamento Técnico vs. Treinamento de Fluxo](/en/education/mental-game/the-zone/technical-vs-flow)** - Entendendo quando focar na técnica e quando relaxar
-- **[Entrando na Zona](/en/education/mental-game/the-zone/entering-the-zone)** - Técnicas práticas para acessar o estado de fluxo
+- **[Treinamento Técnico vs. Treinamento de Fluxo](/pt/education/mental-game/the-zone/technical-vs-flow)** - Entendendo quando focar na técnica e quando relaxar
+- **[Entrando na Zona](/pt/education/mental-game/the-zone/entering-the-zone)** - Técnicas práticas para acessar o estado de fluxo
 
 ## Resumo: As Regras da Zona
 

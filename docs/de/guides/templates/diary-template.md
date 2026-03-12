@@ -468,11 +468,11 @@ Nutzen Sie diese Anregungen, um Ihre Tagebucheinträge zu vertiefen:
 
 ## Verwandte Ressourcen
 
-- [Vorlage zur Zielsetzung](/en/guides/templates/goal-template) – Setzen und verfolgen Sie Ihre Verbesserungsziele
-- [Workshop](/en/guides/workshop/) – Gruppensitzungen zu mentalem Training und Reflexion
-- [Training Session](/en/guides/training-session/) - Strukturiertes Üben mit Kollegen
+- [Vorlage zur Zielsetzung](/de/guides/templates/goal-template) – Setzen und verfolgen Sie Ihre Verbesserungsziele
+- [Workshop](/de/guides/workshop/) – Gruppensitzungen zu mentalem Training und Reflexion
+- [Training Session](/de/guides/training-session/) - Strukturiertes Üben mit Kollegen
 - Mentale Stärke – Mentale Widerstandsfähigkeit aufbauen
-- [Achtsamkeit](/en/education/mental-game/mindfulness/) – Bewusstsein und Konzentration entwickeln
+- [Achtsamkeit](/de/education/mental-game/mindfulness/) – Bewusstsein und Konzentration entwickeln
 
 ---
 

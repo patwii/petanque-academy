@@ -200,5 +200,5 @@ Comme toute compétence, l&#39;accès à l&#39;état de flow s&#39;améliore ave
 
 ---
 
-| *À lire aussi : [The Zone](/en/education/mental-game/the-zone/) | [Entrer dans la zone](/en/education/mental-game/the-zone/entering-the-zone) | [Techniques de pleine conscience](/en/education/mental-game/mindfulness/techniques)* |
+| *À lire aussi : [The Zone](/fr/education/mental-game/the-zone/) | [Entrer dans la zone](/fr/education/mental-game/the-zone/entering-the-zone) | [Techniques de pleine conscience](/fr/education/mental-game/mindfulness/techniques)* |
 

@@ -196,13 +196,13 @@ Os melhores jogadores fazem isso automaticamente. Você pode treinar para fazer 
 
 ## Neste módulo
 
-### [Técnicas de Liberação de Tensão](/en/education/tension/techniques)
+### [Técnicas de Liberação de Tensão](/pt/education/tension/techniques)
 - Relaxamento Muscular Progressivo (RMP)
 - Técnicas de liberação rápida para competição
 - Protocolos de respiração
 - Reajuste de tensão pré-arremesso
 
-### [Gerenciando a tensão na competição](/en/education/tension/competition)
+### [Gerenciando a tensão na competição](/pt/education/tension/competition)
 - Preparação pré-jogo
 - Protocolos durante a partida
 - recuperação de emergência &quot;muito tensa&quot;
@@ -225,8 +225,8 @@ Isso leva 10 segundos e pode melhorar imediatamente seu próximo arremesso.
 
 ## Fatores relacionados
 
-- [Força Mental](/en/education/mental-game/mental-strength/) — Lidar com a pressão
-- [Sono e Recuperação](/en/education/sleep/) — O repouso reduz a tensão basal
-- [Mindfulness](/en/education/mental-game/mindfulness/) — Consciência do momento presente
-- [A Zona](/en/education/mental-game/the-zone/) — Estado de desempenho ideal
+- [Força Mental](/pt/education/mental-game/mental-strength/) — Lidar com a pressão
+- [Sono e Recuperação](/pt/education/sleep/) — O repouso reduz a tensão basal
+- [Mindfulness](/pt/education/mental-game/mindfulness/) — Consciência do momento presente
+- [A Zona](/pt/education/mental-game/the-zone/) — Estado de desempenho ideal
 

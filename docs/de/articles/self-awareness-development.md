@@ -79,7 +79,7 @@ Man kann seine eigenen blinden Flecken nicht erkennen. Man braucht Außenperspek
 
 **Peer-Bewertung**
 - Bitten Sie vertrauenswürdige Teammitglieder um ehrliches Feedback.
-- Nutzen Sie das [Bewertungsinstrument](/en/assessment/) zur Peer-Validierung.
+- Nutzen Sie das [Bewertungsinstrument](/de/assessment/) zur Peer-Validierung.
 - Vergleichen Sie Ihre Selbsteinschätzung mit deren Bewertung.
 
 **Trainerbeobachtung**
@@ -119,7 +119,7 @@ Achten Sie auf Muster:
 
 ### Monatliche Bewertung
 
-Nutzen Sie das [Spielerbewertungstool](/en/assessment/):
+Nutzen Sie das [Spielerbewertungstool](/de/assessment/):
 
 - Bewerten Sie sich selbst anhand aller 8 Faktoren
 - Peer-Validierung anfordern
@@ -172,7 +172,7 @@ Selbsterkenntnis erfordert die Akzeptanz folgender Tatsachen:
 
 ## Handlungsschritte
 
-1. **Heute:** Füllen Sie die [Selbstbewertung](/en/assessment/) aus.
+1. **Heute:** Füllen Sie die [Selbstbewertung](/de/assessment/) aus.
 2. **Diese Woche:** Bitten Sie zwei vertraute Teammitglieder um Feedback.
 3. **Laufend:** Etablieren Sie eine tägliche Reflexionsgewohnheit.
 4. **Monatlich:** Fortschritte durch wiederholte Beurteilungen verfolgen
@@ -181,7 +181,7 @@ Selbsterkenntnis erfordert die Akzeptanz folgender Tatsachen:
 
 ## Verwandte Inhalte
 
-- [Modul zur Selbstwahrnehmung](/en/education/self-awareness/) — Vollständige Bildung
-- [Spielerbewertung](/en/assessment/) — Bewerten Sie Ihre 8 Faktoren
-- [Der innere Kritiker](/en/articles/inner-critic) — Umgang mit Selbstverurteilung
+- [Modul zur Selbstwahrnehmung](/de/education/self-awareness/) — Vollständige Bildung
+- [Spielerbewertung](/de/assessment/) — Bewerten Sie Ihre 8 Faktoren
+- [Der innere Kritiker](/de/articles/inner-critic) — Umgang mit Selbstverurteilung
 

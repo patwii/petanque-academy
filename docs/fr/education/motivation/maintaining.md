@@ -260,8 +260,8 @@ Les recherches sur la motivation sportive durable montrent :
 
 ## Contenu associé
 
-- [Psychologie de la motivation](/en/education/motivation/motivation) — Comprendre les types de motivation
-- [Fixation d&#39;objectifs](/en/education/motivation/) — Créer des objectifs efficaces
-- [Sommeil et récupération](/en/education/sleep/) — Récupération physique
-- [Pleine conscience](/en/education/mental-game/mindfulness/) — Outils de récupération mentale
+- [Psychologie de la motivation](/fr/education/motivation/motivation) — Comprendre les types de motivation
+- [Fixation d&#39;objectifs](/fr/education/motivation/) — Créer des objectifs efficaces
+- [Sommeil et récupération](/fr/education/sleep/) — Récupération physique
+- [Pleine conscience](/fr/education/mental-game/mindfulness/) — Outils de récupération mentale
 

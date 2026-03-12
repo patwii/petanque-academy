@@ -130,8 +130,8 @@ Ces techniques sont plus efficaces lorsqu&#39;elles sont pratiquées régulière
 
 ## Ressources connexes
 
-- [Techniques de relâchement des tensions](/en/education/tension/techniques) — Guide technique complet
+- [Techniques de relâchement des tensions](/fr/education/tension/techniques) — Guide technique complet
 - Comprendre la tension — La science derrière la tension
-- [Gestion de la tension compétitive](/en/education/tension/competition) — Protocoles de jour de match
-- [Routine d&#39;avant-tir](/en/education/mental-game/mental-strength/pre-shot-routine) — Intégration complète de la routine
+- [Gestion de la tension compétitive](/fr/education/tension/competition) — Protocoles de jour de match
+- [Routine d&#39;avant-tir](/fr/education/mental-game/mental-strength/pre-shot-routine) — Intégration complète de la routine
 

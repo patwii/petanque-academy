@@ -207,7 +207,7 @@ AFTER MISTAKES
 
 ## Risorse correlate
 
-- [Monitoraggio del sonno](/en/guides/templates/sleep-tracker) — Ottimizza il sonno pre-gara
+- [Monitoraggio del sonno](/it/guides/templates/sleep-tracker) — Ottimizza il sonno pre-gara
 - [Guida nutrizionale](/it/educazione/nutrizione/) — Strategie di alimentazione per la competizione
 - [Forza mentale](/it/educazione/gioco-mentale/forza-mentale/) — Gestione della pressione
 - [Gestione della tensione](/it/educazione/tensione/) — Rimani rilassato sotto pressione

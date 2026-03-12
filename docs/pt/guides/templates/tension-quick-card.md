@@ -130,8 +130,8 @@ Essas técnicas funcionam melhor quando praticadas regularmente. Não as tente p
 
 ## Recursos relacionados
 
-- [Técnicas de Liberação de Tensão](/en/education/tension/techniques) — Guia completo de técnicas
-- [Entendendo a Tensão](/en/education/tension/) — A ciência por trás da tensão
-- [Gestão da Tensão em Competições](/en/education/tension/competition) — Protocolos para o dia da partida
-- [Rotina Pré-Arremesso](/en/education/mental-game/mental-strength/pre-shot-routine) — Integração completa da rotina
+- [Técnicas de Liberação de Tensão](/pt/education/tension/techniques) — Guia completo de técnicas
+- [Entendendo a Tensão](/pt/education/tension/) — A ciência por trás da tensão
+- [Gestão da Tensão em Competições](/pt/education/tension/competition) — Protocolos para o dia da partida
+- [Rotina Pré-Arremesso](/pt/education/mental-game/mental-strength/pre-shot-routine) — Integração completa da rotina
 

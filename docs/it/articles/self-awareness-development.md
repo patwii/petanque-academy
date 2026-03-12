@@ -79,7 +79,7 @@ Non puoi vedere i tuoi punti ciechi. Hai bisogno di prospettive esterne.
 
 **Valutazione tra pari**
 - Chiedi un feedback onesto ai tuoi compagni di squadra di fiducia
-- Utilizzare lo [Strumento di valutazione](/en/assessment/) per la convalida tra pari
+- Utilizzare lo [Strumento di valutazione](/it/assessment/) per la convalida tra pari
 - Confronta la tua autovalutazione con la loro valutazione
 
 **Osservazione dell&#39;allenatore**
@@ -119,7 +119,7 @@ Cercare schemi:
 
 ### Valutazione mensile
 
-Utilizza lo strumento [Valutazione del giocatore](/en/assessment/):
+Utilizza lo strumento [Valutazione del giocatore](/it/assessment/):
 
 - Valuta te stesso su tutti gli 8 fattori
 - Richiedi la convalida peer

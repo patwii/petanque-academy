@@ -83,7 +83,7 @@ Niet alle verbeteringen zijn gelijkwaardig. We gebruiken **ROI (Return on Invest
 We hebben een **gratis beoordelingstool** ontwikkeld die uw huidige niveau op alle 8 factoren analyseert en uw persoonlijke verbeterpunten berekent.
 
 ::: info Doe de toets
-**[→ Start je spelersontwikkelingsbeoordeling](/en/assessment/)**
+**[→ Start je spelersontwikkelingsbeoordeling](/nl/assessment/)**
 
 Binnen 5 minuten ontvangt u:
 - Uw radardiagram over alle 8 factoren
@@ -96,10 +96,10 @@ Binnen 5 minuten ontvangt u:
 
 | aanbod | Beschrijving | Link |
 |----------|-------------|------|
-| **Beoordelingsinstrument** | Identificeer de verbeterpunten met het hoogste rendement op uw investering (ROI). | [Doe de toets](/en/assessment/) |
-| **Onderwijsmodules** | Uitgebreide inhoud over alle 8 factoren | [Bekijk Onderwijs](/en/education/) |
-| **Workshops** | Sessies van 3-4 uur voor groepen van 6-8 spelers. | [Workshophandleiding](/en/guides/workshop/) |
-| **Trainingskampen** | Weekendcursussen waarin theorie en praktijk worden gecombineerd | [Kampgids](/en/guides/training-camp/) |
+| **Beoordelingsinstrument** | Identificeer de verbeterpunten met het hoogste rendement op uw investering (ROI). | [Doe de toets](/nl/assessment/) |
+| **Onderwijsmodules** | Uitgebreide inhoud over alle 8 factoren | [Bekijk Onderwijs](/nl/education/) |
+| **Workshops** | Sessies van 3-4 uur voor groepen van 6-8 spelers. | [Workshophandleiding](/nl/guides/workshop/) |
+| **Trainingskampen** | Weekendcursussen waarin theorie en praktijk worden gecombineerd | [Kampgids](/nl/guides/training-camp/) |
 
 ## Onze aanpak
 
@@ -119,9 +119,9 @@ Pas technieken toe tijdens de training vóór de wedstrijd. Bouw gewoontes op, n
 Houd je voortgang bij. Je prioriteiten zullen veranderen naarmate je beter wordt.
 
 ::: tip Klaar voor de volgende stap?
-**[→ Begin met de beoordeling](/en/assessment/)** — Het is gratis en duurt 5 minuten.
+**[→ Begin met de beoordeling](/nl/assessment/)** — Het is gratis en duurt 5 minuten.
 
-Of verken onze [Onderwijs](/en/education/) sectie om dieper in te gaan op een van de 8 factoren.
+Of verken onze [Onderwijs](/nl/education/) sectie om dieper in te gaan op een van de 8 factoren.
 :::
 
 

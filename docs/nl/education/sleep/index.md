@@ -160,13 +160,13 @@ Geef jezelf een eerlijke beoordeling (1-5):
 
 ## In deze module
 
-### [Slaapprotocollen voor wedstrijden](/en/education/sleep/competition)
+### [Slaapprotocollen voor wedstrijden](/nl/education/sleep/competition)
 - De week voor de wedstrijd
 - Reis- en tijdzonebeheer
 - Protocollen voor een powernap
 - Noodstrategieën voor &quot;Ik kon niet slapen&quot;
 
-### [Slaaphygiëne voor atleten](/en/education/sleep/habits)
+### [Slaaphygiëne voor atleten](/nl/education/sleep/habits)
 - De 10 basisprincipes van slaap
 - Sjablonen voor avondroutines
 - De 30-daagse slaapuitdaging
@@ -189,8 +189,8 @@ Deze twee veranderingen alleen al kunnen de slaapkwaliteit binnen enkele dagen v
 
 Slaap is verbonden met al het andere dat je prestaties beïnvloedt:
 
-- [Spanningsmanagement](/en/education/tension/) — PMR- en ontspanningstechnieken bevorderen de slaap
-- [Voeding](/en/education/nutrition/) — Maaltijdtiming en bloedsuikerspiegel beïnvloeden de slaapkwaliteit
-- [Mentale Spel](/en/education/mental-game/) — Slaap ondersteunt cognitieve functies en emotionele controle
-- [Zelfbewustzijn](/en/education/self-awareness/) — Herkennen wanneer vermoeidheid je spel beïnvloedt
+- [Spanningsmanagement](/nl/education/tension/) — PMR- en ontspanningstechnieken bevorderen de slaap
+- [Voeding](/nl/education/nutrition/) — Maaltijdtiming en bloedsuikerspiegel beïnvloeden de slaapkwaliteit
+- [Mentale Spel](/nl/education/mental-game/) — Slaap ondersteunt cognitieve functies en emotionele controle
+- [Zelfbewustzijn](/nl/education/self-awareness/) — Herkennen wanneer vermoeidheid je spel beïnvloedt
 

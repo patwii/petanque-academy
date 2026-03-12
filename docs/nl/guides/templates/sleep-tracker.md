@@ -194,7 +194,7 @@ Houd je slaap gedurende slechts 3 dagen bij. Je zult waarschijnlijk een patroon 
 
 ## Gerelateerde bronnen
 
-- [Slaap &amp; Herstel Educatie](/en/education/sleep/) — De wetenschap achter slaap
-- [Wedstrijdchecklist](/en/guides/templates/pre-competition-checklist) — Volledige voorbereidingsgids
-- [Trainingsdagboek](/en/guides/templates/diary-template) — Houd alle aspecten van de training bij
+- [Slaap &amp; Herstel Educatie](/nl/education/sleep/) — De wetenschap achter slaap
+- [Wedstrijdchecklist](/nl/guides/templates/pre-competition-checklist) — Volledige voorbereidingsgids
+- [Trainingsdagboek](/nl/guides/templates/diary-template) — Houd alle aspecten van de training bij
 

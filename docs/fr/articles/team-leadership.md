@@ -278,5 +278,5 @@ Même les bons dirigeants échouent parfois :
 
 ---
 
-| *À consulter également : [Dynamique d&#39;équipe](/en/education/team-dynamics/) | [Communication](/en/education/team-dynamics/communication) | [Créer une bonne chimie d&#39;équipe](/en/articles/team-chemistry)* |
+| *À consulter également : [Dynamique d&#39;équipe](/fr/education/team-dynamics/) | [Communication](/fr/education/team-dynamics/communication) | [Créer une bonne chimie d&#39;équipe](/fr/articles/team-chemistry)* |
 

@@ -278,5 +278,5 @@ Du hast dich gut vorbereitet. Vertraue jetzt darauf und tritt an.
 
 ---
 
-| *Verwandt: [Trainingsmethoden](/en/education/technique/training/) | [Umgang mit Druck](/en/education/mental-game/mental-strength/handling-pressure) | [Vorbereitungsroutine vor dem Wurf](/en/education/mental-game/mental-strength/pre-shot-routine)* |
+| *Verwandt: [Trainingsmethoden](/de/education/technique/training/) | [Umgang mit Druck](/de/education/mental-game/mental-strength/handling-pressure) | [Vorbereitungsroutine vor dem Wurf](/de/education/mental-game/mental-strength/pre-shot-routine)* |
 

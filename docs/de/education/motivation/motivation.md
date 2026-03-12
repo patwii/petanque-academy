@@ -205,8 +205,8 @@ Bewerten Sie jede Aussage (1 = Überhaupt nicht, 5 = Vollkommen):
 
 ## Verwandte Inhalte
 
-- [Zielsetzung](/en/education/motivation/) — Effektive Ziele setzen
+- [Zielsetzung](/de/education/motivation/) — Effektive Ziele setzen
 - Motivation aufrechterhalten – Langfristige Nachhaltigkeit
-- [Die Zone](/en/education/mental-game/the-zone/) — Intrinsische Motivation und Flow
-- [Teamdynamik](/en/education/team-dynamics/) — Verwandtschaft im Teamkontext
+- [Die Zone](/de/education/mental-game/the-zone/) — Intrinsische Motivation und Flow
+- [Teamdynamik](/de/education/team-dynamics/) — Verwandtschaft im Teamkontext
 

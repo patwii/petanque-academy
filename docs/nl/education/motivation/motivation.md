@@ -205,8 +205,8 @@ Beoordeel elke stelling (1 = Helemaal niet, 5 = Volledig):
 
 ## Gerelateerde inhoud
 
-- [Doelstellingen formuleren](/en/education/motivation/) — Effectieve doelen stellen
-- [Motivatie behouden](/en/education/motivation/maintaining) — Duurzaamheid op lange termijn
-- [De Zone](/en/education/mental-game/the-zone/) — Intrinsieke motivatie en flow
-- [Teamdynamiek](/en/education/team-dynamics/) — Verbondenheid in een teamcontext
+- [Doelstellingen formuleren](/nl/education/motivation/) — Effectieve doelen stellen
+- [Motivatie behouden](/nl/education/motivation/maintaining) — Duurzaamheid op lange termijn
+- [De Zone](/nl/education/mental-game/the-zone/) — Intrinsieke motivatie en flow
+- [Teamdynamiek](/nl/education/team-dynamics/) — Verbondenheid in een teamcontext
 

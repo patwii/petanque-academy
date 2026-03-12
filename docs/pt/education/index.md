@@ -14,13 +14,13 @@ Nosso currículo é estruturado em torno de 8 fatores-chave, ponderados pelo seu
 
 | Fator | Peso | Descrição |
 |--------|--------|-------------|
-| 🧠 [**Jogo Mental**](/en/education/mental-game/) | **600** | Padrões de pensamento, foco, estados de fluxo, diálogo interno |
-| 🔥 [**Motivação**](/en/education/motivation/) | **500** | Motivação, propósito, orientação para objetivos, persistência |
-| 😴 [**Sono e Recuperação**](/en/education/sleep/) | **400** | Qualidade do sono, recuperação, descanso pré-competição |
-| 🪞 [**Autoconhecimento**](/en/education/self-awareness/) | **400** | Autopercepção precisa, reconhecimento de pontos cegos |
-| 🥗 [**Nutrição**](/en/education/nutrition/) | **300** | Estabilidade do açúcar no sangue, hidratação, combustível para competição |
-| 🤝 [**Dinâmica de Equipe**](/en/education/team-dynamics/) | **300** | Comunicação, confiança, clareza de papéis |
-| 💆 [**Gestão da Tensão**](/en/education/tension/) | **300** | Tensão física, relaxamento, controle da respiração |
+| 🧠 [**Jogo Mental**](/pt/education/mental-game/) | **600** | Padrões de pensamento, foco, estados de fluxo, diálogo interno |
+| 🔥 [**Motivação**](/pt/education/motivation/) | **500** | Motivação, propósito, orientação para objetivos, persistência |
+| 😴 [**Sono e Recuperação**](/pt/education/sleep/) | **400** | Qualidade do sono, recuperação, descanso pré-competição |
+| 🪞 [**Autoconhecimento**](/pt/education/self-awareness/) | **400** | Autopercepção precisa, reconhecimento de pontos cegos |
+| 🥗 [**Nutrição**](/pt/education/nutrition/) | **300** | Estabilidade do açúcar no sangue, hidratação, combustível para competição |
+| 🤝 [**Dinâmica de Equipe**](/pt/education/team-dynamics/) | **300** | Comunicação, confiança, clareza de papéis |
+| 💆 [**Gestão da Tensão**](/pt/education/tension/) | **300** | Tensão física, relaxamento, controle da respiração |
 | 🎯 [**Técnica**](/pt/educação/técnica/) | **100** | Mecânica física, repertório de arremessos |
 
 **Total: 2.900 pontos**
@@ -67,17 +67,17 @@ graph LR
 
 Sua capacidade de gerenciar pensamentos, manter o foco e acessar estados de fluxo.
 
-- [A Zona](/en/education/mental-game/the-zone/) — Compreendendo e acessando estados de fluxo
-- [Força Mental](/en/education/mental-game/mental-strength/) — Lidar com a pressão, rotinas pré-arremesso
-- [Mindfulness](/en/education/mental-game/mindfulness/) — Foco no momento presente, recuperação de erros
+- [A Zona](/pt/education/mental-game/the-zone/) — Compreendendo e acessando estados de fluxo
+- [Força Mental](/pt/education/mental-game/mental-strength/) — Lidar com a pressão, rotinas pré-arremesso
+- [Mindfulness](/pt/education/mental-game/mindfulness/) — Foco no momento presente, recuperação de erros
 
 ### 🔥 Motivação (500 pontos)
 
 **O que te motiva a melhorar dia após dia, ano após ano?**
 
-- [Definição de Metas](/en/education/motivation/) — Metas SMART, foco no processo versus foco no resultado
-- [Psicologia da Motivação](/en/education/motivation/motivation) — Motivação intrínseca versus extrínseca, Teoria da Autodeterminação
-- [Manter a Motivação](/en/education/motivation/maintaining) — Prevenção da síndrome de burnout, superação de platôs
+- [Definição de Metas](/pt/education/motivation/) — Metas SMART, foco no processo versus foco no resultado
+- [Psicologia da Motivação](/pt/education/motivation/motivation) — Motivação intrínseca versus extrínseca, Teoria da Autodeterminação
+- [Manter a Motivação](/pt/education/motivation/maintaining) — Prevenção da síndrome de burnout, superação de platôs
 
 ### 😴 Sono e Recuperação (400 pontos)
 
@@ -85,9 +85,9 @@ Sua capacidade de gerenciar pensamentos, manter o foco e acessar estados de flux
 
 A qualidade do sono afeta diretamente o tempo de reação, a tomada de decisões e a regulação emocional.
 
-- [Ciência do Sono para Atletas](/en/education/sleep/) — Por que o sono é importante para esportes de precisão
-- [Criando Hábitos de Sono](/en/education/sleep/habits) — Higiene do sono prática
-- [Sono e Competição](/en/education/sleep/competition) — Protocolos pré-evento, gestão de viagens
+- [Ciência do Sono para Atletas](/pt/education/sleep/) — Por que o sono é importante para esportes de precisão
+- [Criando Hábitos de Sono](/pt/education/sleep/habits) — Higiene do sono prática
+- [Sono e Competição](/pt/education/sleep/competition) — Protocolos pré-evento, gestão de viagens
 
 ### 🪞 Autoconhecimento (400 pontos)
 
@@ -95,9 +95,9 @@ A qualidade do sono afeta diretamente o tempo de reação, a tomada de decisões
 
 Uma autopercepção precisa possibilita melhorias direcionadas.
 
-- [A Vantagem da Autoconsciência](/en/education/self-awareness/) — Por que o autoconhecimento é importante
-- [Obtendo Feedback](/en/education/self-awareness/feedback) — Perspectivas externas
-- [Análise de Vídeo](/en/education/self-awareness/video) — Usando vídeos para autodescoberta
+- [A Vantagem da Autoconsciência](/pt/education/self-awareness/) — Por que o autoconhecimento é importante
+- [Obtendo Feedback](/pt/education/self-awareness/feedback) — Perspectivas externas
+- [Análise de Vídeo](/pt/education/self-awareness/video) — Usando vídeos para autodescoberta
 
 ### 🥗 Nutrição (300 pontos)
 
@@ -105,7 +105,7 @@ Uma autopercepção precisa possibilita melhorias direcionadas.
 
 Seu cérebro é um instrumento de precisão — alimente-o adequadamente.
 
-- [Aprimorando o Desempenho](/en/education/nutrition/) — Açúcar no sangue, hidratação, nutrição para competição
+- [Aprimorando o Desempenho](/pt/education/nutrition/) — Açúcar no sangue, hidratação, nutrição para competição
 
 ### 🤝 Dinâmica de Equipe (300 pontos)
 
@@ -113,7 +113,7 @@ Seu cérebro é um instrumento de precisão — alimente-o adequadamente.
 
 A comunicação e a confiança muitas vezes superam o talento individual.
 
-- [Como ser um ótimo colega de equipe](/en/education/team-dynamics/) — Cultura e apoio à equipe
+- [Como ser um ótimo colega de equipe](/pt/education/team-dynamics/) — Cultura e apoio à equipe
 - Comunicação em equipe — Comunicação clara e positiva
 
 ### 💆 Gestão da Tensão (300 pontos)
@@ -122,9 +122,9 @@ A comunicação e a confiança muitas vezes superam o talento individual.
 
 Não é possível ser tenso e preciso ao mesmo tempo.
 
-- [Entendendo a Tensão](/en/education/tension/) — Tensão física versus tensão mental
-- [Técnicas de Liberação](/en/education/tension/techniques) — Liberação Miofascial Progressiva (PMR), respiração, reinicializações rápidas
-- [Gestão da Competição](/en/education/tension/competition) — Protocolos pré-jogo e durante o jogo
+- [Entendendo a Tensão](/pt/education/tension/) — Tensão física versus tensão mental
+- [Técnicas de Liberação](/pt/education/tension/techniques) — Liberação Miofascial Progressiva (PMR), respiração, reinicializações rápidas
+- [Gestão da Competição](/pt/education/tension/competition) — Protocolos pré-jogo e durante o jogo
 
 ### 🎯 Técnica (100 pontos)
 
@@ -132,9 +132,9 @@ Não é possível ser tenso e preciso ao mesmo tempo.
 
 No nível de elite, a técnica é um pré-requisito. Os diferenciais estão acima.
 
-- [Visão geral da técnica](/en/education/technique/) — Mecânica física
-- [Métodos de treinamento](/en/education/technique/training/) — Prática deliberada
-- [Táticas](/en/education/technique/tactics/) — Tomada de decisão estratégica
+- [Visão geral da técnica](/pt/education/technique/) — Mecânica física
+- [Métodos de treinamento](/pt/education/technique/training/) — Prática deliberada
+- [Táticas](/pt/education/technique/tactics/) — Tomada de decisão estratégica
 
 
 ---
@@ -204,6 +204,6 @@ Não é possível treinar um iniciante como um especialista (eles não possuem a
 ## Comece sua jornada
 
 ::: tip Ponto de partida recomendado
-Comece com o [Jogo Mental](/en/education/mental-game/) para entender a base do desempenho de elite. Em seguida, explore o [Sono](/en/education/sleep/) — geralmente é a melhoria com maior retorno sobre o investimento para jogadores em desenvolvimento.
+Comece com o [Jogo Mental](/pt/education/mental-game/) para entender a base do desempenho de elite. Em seguida, explore o [Sono](/pt/education/sleep/) — geralmente é a melhoria com maior retorno sobre o investimento para jogadores em desenvolvimento.
 :::
 

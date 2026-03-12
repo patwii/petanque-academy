@@ -205,8 +205,8 @@ La théorie de l&#39;autodétermination (SDT) décrit la motivation comme un spe
 
 ## Contenu associé
 
-- [Fixation d&#39;objectifs](/en/education/motivation/) — Fixer des objectifs efficaces
+- [Fixation d&#39;objectifs](/fr/education/motivation/) — Fixer des objectifs efficaces
 - Maintenir sa motivation — Durabilité à long terme
-- [La Zone](/en/education/mental-game/the-zone/) — Motivation intrinsèque et état de flow
-- [Dynamique d&#39;équipe](/en/education/team-dynamics/) — Liens d&#39;appartenance dans le contexte d&#39;une équipe
+- [La Zone](/fr/education/mental-game/the-zone/) — Motivation intrinsèque et état de flow
+- [Dynamique d&#39;équipe](/fr/education/team-dynamics/) — Liens d&#39;appartenance dans le contexte d&#39;une équipe
 

@@ -261,7 +261,7 @@ Forschungsergebnisse zur anhaltenden sportlichen Motivation zeigen:
 ## Verwandte Inhalte
 
 - Motivationspsychologie – Motivationstypen verstehen
-- [Zielsetzung](/en/education/motivation/) — Effektive Ziele erstellen
-- [Schlaf &amp; Erholung](/en/education/sleep/) — Körperliche Erholung
-- [Achtsamkeit](/en/education/mental-game/mindfulness/) — Werkzeuge zur mentalen Erholung
+- [Zielsetzung](/de/education/motivation/) — Effektive Ziele erstellen
+- [Schlaf &amp; Erholung](/de/education/sleep/) — Körperliche Erholung
+- [Achtsamkeit](/de/education/mental-game/mindfulness/) — Werkzeuge zur mentalen Erholung
 

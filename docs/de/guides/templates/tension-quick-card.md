@@ -130,8 +130,8 @@ Diese Techniken sind am effektivsten, wenn sie regelmäßig geübt werden. Wende
 
 ## Verwandte Ressourcen
 
-- [Spannungslösungstechniken](/en/education/tension/techniques) — Vollständige Technikanleitung
-- [Spannung verstehen](/en/education/tension/) — Die Wissenschaft hinter der Spannung
-- [Bewältigung von Wettkampfspannungen](/en/education/tension/competition) — Spieltagsprotokolle
-- [Vorbereitungsroutine](/en/education/mental-game/mental-strength/pre-shot-routine) — Vollständige Integration der Routine
+- [Spannungslösungstechniken](/de/education/tension/techniques) — Vollständige Technikanleitung
+- [Spannung verstehen](/de/education/tension/) — Die Wissenschaft hinter der Spannung
+- [Bewältigung von Wettkampfspannungen](/de/education/tension/competition) — Spieltagsprotokolle
+- [Vorbereitungsroutine](/de/education/mental-game/mental-strength/pre-shot-routine) — Vollständige Integration der Routine
 

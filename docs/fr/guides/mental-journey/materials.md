@@ -228,13 +228,13 @@ _________________________________________________
 **Website:** carreau.app
 
 **Recommended Starting Point:**
-- [The Zone](/en/education/mental-game/the-zone/) - Deep dive into flow states
-- [Mental Strength](/en/education/mental-game/mental-strength/) - Building resilience
-- [Mindfulness](/en/education/mental-game/mindfulness/) - Daily practice guide
+- [The Zone](/fr/education/mental-game/the-zone/) - Deep dive into flow states
+- [Mental Strength](/fr/education/mental-game/mental-strength/) - Building resilience
+- [Mindfulness](/fr/education/mental-game/mindfulness/) - Daily practice guide
 
 **Tools:**
-- [Goal Template](/en/guides/templates/goal-template) - Structure your development
-- [Diary Template](/en/guides/templates/diary-template) - Track your progress
+- [Goal Template](/fr/guides/templates/goal-template) - Structure your development
+- [Diary Template](/fr/guides/templates/diary-template) - Track your progress
 
 ### Questions?
 
@@ -631,9 +631,9 @@ Document d&#39;une page à remettre aux participants.
 **Email:** patrik.wiik@gmail.com
 
 **Next Steps:**
-1. Read [The Zone](/en/education/mental-game/the-zone/)
-2. Use [Goal Template](/en/guides/templates/goal-template)
-3. Track progress in [Diary](/en/guides/templates/diary-template)
+1. Read [The Zone](/fr/education/mental-game/the-zone/)
+2. Use [Goal Template](/fr/guides/templates/goal-template)
+3. Track progress in [Diary](/fr/guides/templates/diary-template)
 ```
 
 </details>
@@ -654,7 +654,7 @@ Fiches de travail interactives pour les activités en séance. Les participants 
 ### Feuille de travail 4 : Plan d&#39;action
 
 ::: tip Feuilles de travail numériques
-Encouragez les participants à utiliser le [Modèle d&#39;objectif](/en/guides/templates/goal-template) et le [Modèle de journal](/en/guides/templates/diary-template) pour une pratique continue.
+Encouragez les participants à utiliser le [Modèle d&#39;objectif](/fr/guides/templates/goal-template) et le [Modèle de journal](/fr/guides/templates/diary-template) pour une pratique continue.
 :::
 
 
@@ -714,8 +714,8 @@ Pour les sessions à distance ou hybrides :
 
 **Des questions sur les matériaux ?**
 - Courriel : patrik.wiik@gmail.com
-- Consultez le [Guide de la séance](/en/guides/mental-journey/session-guide)
-- Consultez le [Guide d&#39;atelier](/en/guides/workshop/) pour les formats avancés
+- Consultez le [Guide de la séance](/fr/guides/mental-journey/session-guide)
+- Consultez le [Guide d&#39;atelier](/fr/guides/workshop/) pour les formats avancés
 
 
 ---

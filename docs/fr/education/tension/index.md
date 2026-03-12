@@ -196,13 +196,13 @@ Les meilleurs joueurs le font automatiquement. Vous pouvez vous entraîner à fa
 
 ## Dans ce module
 
-### [Techniques de relâchement des tensions](/en/education/tension/techniques)
+### [Techniques de relâchement des tensions](/fr/education/tension/techniques)
 - Relaxation musculaire progressive (RMP)
 - Techniques de dégagement rapide pour la compétition
 - Protocoles respiratoires
 - Réinitialisation de la tension avant le lancer
 
-### [Gérer la tension en compétition](/en/education/tension/competition)
+### [Gérer la tension en compétition](/fr/education/tension/competition)
 - Préparation d&#39;avant-match
 - Protocoles pendant le match
 - Récupération d&#39;urgence « trop tendue »
@@ -226,7 +226,7 @@ Cela prend 10 secondes et peut immédiatement améliorer votre prochain lancer.
 ## Facteurs associés
 
 - Force mentale — Gérer la pression
-- [Sommeil et récupération](/en/education/sleep/) — Le repos réduit la tension de base
-- [Pleine conscience](/en/education/mental-game/mindfulness/) — Conscience du moment présent
-- [La Zone](/en/education/mental-game/the-zone/) — État de performance optimale
+- [Sommeil et récupération](/fr/education/sleep/) — Le repos réduit la tension de base
+- [Pleine conscience](/fr/education/mental-game/mindfulness/) — Conscience du moment présent
+- [La Zone](/fr/education/mental-game/the-zone/) — État de performance optimale
 

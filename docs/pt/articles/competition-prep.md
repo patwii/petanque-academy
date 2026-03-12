@@ -278,5 +278,5 @@ Você se preparou bem. Agora confie nisso e compita.
 
 ---
 
-| *Relacionado: [Métodos de Treinamento](/en/education/technique/training/) | [Lidando com a Pressão](/en/education/mental-game/mental-strength/handling-pressure) | [Rotina Pré-Arremesso](/en/education/mental-game/mental-strength/pre-shot-routine)* |
+| *Relacionado: [Métodos de Treinamento](/pt/education/technique/training/) | [Lidando com a Pressão](/pt/education/mental-game/mental-strength/handling-pressure) | [Rotina Pré-Arremesso](/pt/education/mental-game/mental-strength/pre-shot-routine)* |
 

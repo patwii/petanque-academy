@@ -246,8 +246,8 @@ Vergelijk de beelden:
 
 ## Gerelateerde inhoud
 
-- [Het voordeel van zelfbewustzijn](/en/education/self-awareness/) — Waarom zelfkennis belangrijk is
-- [Feedback krijgen](/en/education/self-awareness/feedback) — Externe perspectieven
-- [Technische basisprincipes](/en/education/technique/) — Hoe een goede techniek eruitziet
-- [Trainingsmethoden](/en/education/technique/training/) — Hoe je in de praktijk brengt wat je leert
+- [Het voordeel van zelfbewustzijn](/nl/education/self-awareness/) — Waarom zelfkennis belangrijk is
+- [Feedback krijgen](/nl/education/self-awareness/feedback) — Externe perspectieven
+- [Technische basisprincipes](/nl/education/technique/) — Hoe een goede techniek eruitziet
+- [Trainingsmethoden](/nl/education/technique/training/) — Hoe je in de praktijk brengt wat je leert
 

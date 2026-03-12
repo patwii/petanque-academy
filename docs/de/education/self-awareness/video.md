@@ -246,8 +246,8 @@ Vergleichen Sie das Filmmaterial:
 
 ## Verwandte Inhalte
 
-- [Der Vorteil der Selbstwahrnehmung](/en/education/self-awareness/) — Warum Selbsterkenntnis wichtig ist
-- [Feedback einholen](/en/education/self-awareness/feedback) — Externe Perspektiven
-- [Technikgrundlagen](/en/education/technique/) — So sieht eine gute Technik aus
-- [Trainingsmethoden](/en/education/technique/training/) — Wie man das Gelernte in die Praxis umsetzt
+- [Der Vorteil der Selbstwahrnehmung](/de/education/self-awareness/) — Warum Selbsterkenntnis wichtig ist
+- [Feedback einholen](/de/education/self-awareness/feedback) — Externe Perspektiven
+- [Technikgrundlagen](/de/education/technique/) — So sieht eine gute Technik aus
+- [Trainingsmethoden](/de/education/technique/training/) — Wie man das Gelernte in die Praxis umsetzt
 

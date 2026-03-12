@@ -50,7 +50,7 @@ Ein reales Ergebnis sieht folgendermaßen aus:
 - „Ich möchte eine rollende Aufnahme, die auf diesem Terrain eine Linkskurve beschreibt.“
 - &quot;Ich möchte einen sanften Rückstoß, der die Zielkugel kaum berührt.&quot;
 
-**Erkunden Sie zunächst die [Wurfpalette](/en/education/technique/throws)**, um zu verstehen, was möglich ist. Entscheiden Sie dann, welchen Wurf Sie in Ihr Repertoire aufnehmen möchten. Erst dann sollten Sie daran arbeiten, wie sich Arm, Handgelenk und Körper bewegen müssen, um dieses Ergebnis zu erzielen.
+**Erkunden Sie zunächst die [Wurfpalette](/de/education/technique/throws)**, um zu verstehen, was möglich ist. Entscheiden Sie dann, welchen Wurf Sie in Ihr Repertoire aufnehmen möchten. Erst dann sollten Sie daran arbeiten, wie sich Arm, Handgelenk und Körper bewegen müssen, um dieses Ergebnis zu erzielen.
 
 ## Der richtige Weg, um an der Technik zu arbeiten
 
@@ -64,7 +64,7 @@ Wir sagen nicht, dass du nie an deinem Arm, Handgelenk, deiner Bewegungsausführ
 
 So funktioniert es:
 
-1. **Erkunden Sie die [Wurfpalette](/en/education/technique/throws)** — Finden Sie heraus, welchen Wurf oder welche Technik Sie Ihrem Repertoire hinzufügen möchten.
+1. **Erkunden Sie die [Wurfpalette](/de/education/technique/throws)** — Finden Sie heraus, welchen Wurf oder welche Technik Sie Ihrem Repertoire hinzufügen möchten.
 2. **Visualisieren Sie das Ergebnis** — Was soll die Boulekugel machen? Welche Flugbahn, Landung, Rotation und welches Verhalten benötigen Sie?
 3. **Dann arbeiten Sie an der Ausführung** – Jetzt können Sie sich auf Arm-, Handgelenk- und Körperhaltung sowie die Freigabe konzentrieren, um dieses spezifische Ergebnis zu erzielen.
 
@@ -119,14 +119,14 @@ Viele erfahrene Spieler verbringen Jahre damit, ihre bereits vorhandene Technik 
 ### Der Weg nach vorn
 
 **Für bessere Aufnahmen (neue Funktionen):**
-- Entdecke die [Palette der Würfe](/en/education/technique/throws)
+- Entdecke die [Palette der Würfe](/de/education/technique/throws)
 - Wähle einen bestimmten neuen Wurf aus, den du entwickeln möchtest
 - Üben Sie die technische Ausführung
 
 **Für mehr Schüsse (Konstanz unter Druck):**
-- Arbeit an [Mentaler Stärke](/en/education/mental-game/mental-strength/)
-- Lerne, auf [The Zone](/en/education/mental-game/the-zone/) zuzugreifen
-- Entwickle [Pre-Shot-Routinen](/en/education/mental-game/mental-strength/pre-shot-routine)
+- Arbeit an [Mentaler Stärke](/de/education/mental-game/mental-strength/)
+- Lerne, auf [The Zone](/de/education/mental-game/the-zone/) zuzugreifen
+- Entwickle [Pre-Shot-Routinen](/de/education/mental-game/mental-strength/pre-shot-routine)
 
 ## Unsere Sichtweise
 
@@ -159,13 +159,13 @@ Wenn Sie einen technischen Schwerpunkt haben und Ihr Repertoire erweitern möcht
 
 ## Themen
 
-### [Palette of Throws](/en/education/technique/throws)
+### [Palette of Throws](/de/education/technique/throws)
 Welche Wurftechniken gibt es alle? Ein umfassender Überblick über die technischen Möglichkeiten beim Pétanque.
 
 ::: tip Nach der Technik – was kommt als Nächstes?
 Sobald man über eine solide Technik verfügt, kommt das eigentliche Wachstum von Folgendem:
-- **[The Zone](/en/education/mental-game/the-zone/)** – Erreichen von Flow-Zuständen
-- **[Mentale Stärke](/en/education/mental-game/mental-strength/)** – Umgang mit Druck
-- **[Trainingsmethoden](/en/education/technique/training/)** – Wie man effektiv übt
+- **[The Zone](/de/education/mental-game/the-zone/)** – Erreichen von Flow-Zuständen
+- **[Mentale Stärke](/de/education/mental-game/mental-strength/)** – Umgang mit Druck
+- **[Trainingsmethoden](/de/education/technique/training/)** – Wie man effektiv übt
 :::
 

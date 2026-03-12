@@ -222,8 +222,8 @@ Devriez-vous suivre votre sommeil ? Réfléchissez :
 
 ## Contenu associé
 
-- [Sciences du sommeil](/en/education/sleep/) — Comprendre pourquoi le sommeil est important
-- [Protocoles de compétition](/en/education/sleep/competition) — Dormir autour des tournois
+- [Sciences du sommeil](/fr/education/sleep/) — Comprendre pourquoi le sommeil est important
+- [Protocoles de compétition](/fr/education/sleep/competition) — Dormir autour des tournois
 - Gestion de la tension — PMR et relaxation pour le sommeil
-- [Pleine conscience](/en/education/mental-game/mindfulness/) — Techniques de respiration
+- [Pleine conscience](/fr/education/mental-game/mindfulness/) — Techniques de respiration
 

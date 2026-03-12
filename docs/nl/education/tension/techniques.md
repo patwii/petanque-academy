@@ -230,8 +230,8 @@ Oefen het mentaal uitspreken van dit woord terwijl je de spanning loslaat. Uitei
 
 ## Gerelateerde inhoud
 
-- [Spanning begrijpen](/en/education/tension/) — De wetenschap van spanning
-- [Competitie-spanningsmanagement](/en/education/tension/competition) — Wedstrijdprotocollen
-- [Mindfulness](/en/education/mental-game/mindfulness/) — Bewustzijn van het huidige moment
-- [Voorbereidende training](/en/education/mental-game/mental-strength/pre-shot-routine) — Volledige routine-integratie
+- [Spanning begrijpen](/nl/education/tension/) — De wetenschap van spanning
+- [Competitie-spanningsmanagement](/nl/education/tension/competition) — Wedstrijdprotocollen
+- [Mindfulness](/nl/education/mental-game/mindfulness/) — Bewustzijn van het huidige moment
+- [Voorbereidende training](/nl/education/mental-game/mental-strength/pre-shot-routine) — Volledige routine-integratie
 

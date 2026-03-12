@@ -141,10 +141,10 @@ Notez vos réponses. Vous y reviendrez lorsque votre motivation faiblira.
 
 ## Dans cette section
 
-- **[Psychologie de la motivation](/en/education/motivation/motivation)** — Motivation intrinsèque vs extrinsèque, Théorie de l&#39;autodétermination
-- **[Objectifs SMART en détail](/en/education/motivation/smart-goals)** — Analyse approfondie de la création d&#39;objectifs efficaces
-- **[Créer votre plan d&#39;entraînement](/en/education/motivation/planning)** — Transformer les objectifs en actions
-- **[Maintenir sa motivation](/en/education/motivation/maintaining)** — Durabilité à long terme, prévention du burn-out
+- **[Psychologie de la motivation](/fr/education/motivation/motivation)** — Motivation intrinsèque vs extrinsèque, Théorie de l&#39;autodétermination
+- **[Objectifs SMART en détail](/fr/education/motivation/smart-goals)** — Analyse approfondie de la création d&#39;objectifs efficaces
+- **[Créer votre plan d&#39;entraînement](/fr/education/motivation/planning)** — Transformer les objectifs en actions
+- **[Maintenir sa motivation](/fr/education/motivation/maintaining)** — Durabilité à long terme, prévention du burn-out
 
 ## Résumé : Règles de fixation d&#39;objectifs
 

@@ -226,5 +226,5 @@ Resiliência não é uma característica que você tem ou não tem — é uma ha
 
 ---
 
-| *Relacionado: [Força Mental](/en/education/mental-game/mental-strength/) | [Lidando com a Pressão](/en/education/mental-game/mental-strength/handling-pressure) | [A Zona](/en/education/mental-game/the-zone/)* |
+| *Relacionado: [Força Mental](/pt/education/mental-game/mental-strength/) | [Lidando com a Pressão](/pt/education/mental-game/mental-strength/handling-pressure) | [A Zona](/pt/education/mental-game/the-zone/)* |
 

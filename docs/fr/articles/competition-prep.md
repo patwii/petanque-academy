@@ -278,5 +278,5 @@ Tu t&#39;es bien préparé. Maintenant, fais-toi confiance et lance-toi dans la 
 
 ---
 
-| *En lien avec : [Méthodes de formation](/en/education/technique/training/) | [Gérer la pression](/en/education/mental-game/mental-strength/handling-pressure) | [Routine d&#39;avant-tir](/en/education/mental-game/mental-strength/pre-shot-routine)* |
+| *En lien avec : [Méthodes de formation](/fr/education/technique/training/) | [Gérer la pression](/fr/education/mental-game/mental-strength/handling-pressure) | [Routine d&#39;avant-tir](/fr/education/mental-game/mental-strength/pre-shot-routine)* |
 

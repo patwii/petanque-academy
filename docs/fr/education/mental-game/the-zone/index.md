@@ -115,8 +115,8 @@ La solution n&#39;est pas de réfléchir *moins*, mais de réfléchir aux **bonn
 
 Apprenez à maîtriser la zone :
 
-- **[Entraînement technique vs entraînement fluide](/en/education/mental-game/the-zone/technical-vs-flow)** - Comprendre quand se concentrer sur la technique et quand lâcher prise
-- **[Entrer dans la zone](/en/education/mental-game/the-zone/entering-the-zone)** - Techniques pratiques pour accéder à l&#39;état de flow
+- **[Entraînement technique vs entraînement fluide](/fr/education/mental-game/the-zone/technical-vs-flow)** - Comprendre quand se concentrer sur la technique et quand lâcher prise
+- **[Entrer dans la zone](/fr/education/mental-game/the-zone/entering-the-zone)** - Techniques pratiques pour accéder à l&#39;état de flow
 
 ## Résumé : Les règles de la zone
 

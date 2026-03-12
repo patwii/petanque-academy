@@ -185,13 +185,13 @@ Geef jezelf een eerlijke beoordeling (1 = Nooit, 5 = Altijd):
 
 ## In deze module
 
-### [Feedback ontvangen en gebruiken](/en/education/self-awareness/feedback)
+### [Feedback ontvangen en gebruiken](/nl/education/self-awareness/feedback)
 - Bronnen van objectieve feedback
 - Hoe vraag je effectief om feedback?
 - Feedback ontvangen zonder in de verdediging te schieten.
 - Feedback omzetten in actie.
 
-### [Videoanalyse voor zelfontdekking](/en/education/self-awareness/video)
+### [Videoanalyse voor zelfontdekking](/nl/education/self-awareness/video)
 - Wat je moet opnemen en wanneer.
 - Waarop te letten in je videomateriaal
 - Zelfperceptie vergelijken met videorealiteit
@@ -213,8 +213,8 @@ Schrijf je antwoorden op. Vergelijk ze na verloop van tijd. Er zullen patronen z
 
 ## Gerelateerde factoren
 
-- [Mentale Spel](/en/education/mental-game/) — Zelfbewustzijn ondersteunt mentale training
-- [Teamdynamiek](/en/education/team-dynamics/) — Begrijp hoe anderen jou zien.
-- [Motivatie](/en/education/motivation/) — Ken je echte drijfveren
-- [Techniek](/en/education/technique/) — Videoanalyse onthult technische waarheid
+- [Mentale Spel](/nl/education/mental-game/) — Zelfbewustzijn ondersteunt mentale training
+- [Teamdynamiek](/nl/education/team-dynamics/) — Begrijp hoe anderen jou zien.
+- [Motivatie](/nl/education/motivation/) — Ken je echte drijfveren
+- [Techniek](/nl/education/technique/) — Videoanalyse onthult technische waarheid
 

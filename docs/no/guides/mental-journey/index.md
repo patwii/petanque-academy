@@ -195,7 +195,7 @@ Mental trening erstatter ikke teknisk øvelse. Men det hjelper deg å bruke tekn
 
 **Spørsmål om å komme i gang?**
 - E-post: [patrik.wiik@gmail.com](mailto:patrik.wiik@gmail.com)
-- Se [Case-studier](/en/articles/case-studies) for eksempler
+- Se [Case-studier](/no/articles/case-studies) for eksempler
 - Bli med i diskusjonene i klubben din
 
 

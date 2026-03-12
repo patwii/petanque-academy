@@ -14,13 +14,13 @@ Unser Lehrplan basiert auf 8 Schlüsselfaktoren, die nach ihrem Einfluss auf Spi
 
 | Faktor | Gewicht | Beschreibung |
 |--------|--------|-------------|
-| 🧠 [**Mentales Spiel**](/en/education/mental-game/) | **600** | Denkmuster, Konzentration, Flow-Zustände, Selbstgespräch |
-| 🔥 [**Motivation**](/en/education/motivation/) | **500** | Antrieb, Zielstrebigkeit, Zielorientierung, Beharrlichkeit |
-| 😴 [**Schlaf &amp; Erholung**](/en/education/sleep/) | **400** | Schlafqualität, Erholung, Ruhe vor dem Wettkampf |
-| 🪞 [**Selbstwahrnehmung**](/en/education/self-awareness/) | **400** | Genaue Selbstwahrnehmung, Erkennung blinder Flecken |
-| 🥗 [**Ernährung**](/en/education/nutrition/) | **300** | Blutzuckerstabilität, Flüssigkeitszufuhr, Wettkampf-Energie |
-| 🤝 [**Teamdynamik**](/en/education/team-dynamics/) | **300** | Kommunikation, Vertrauen, Rollenklarheit |
-| 💆 [**Spannungsmanagement**](/en/education/tension/) | **300** | Körperliche Anspannung, Entspannung, Atemkontrolle |
+| 🧠 [**Mentales Spiel**](/de/education/mental-game/) | **600** | Denkmuster, Konzentration, Flow-Zustände, Selbstgespräch |
+| 🔥 [**Motivation**](/de/education/motivation/) | **500** | Antrieb, Zielstrebigkeit, Zielorientierung, Beharrlichkeit |
+| 😴 [**Schlaf &amp; Erholung**](/de/education/sleep/) | **400** | Schlafqualität, Erholung, Ruhe vor dem Wettkampf |
+| 🪞 [**Selbstwahrnehmung**](/de/education/self-awareness/) | **400** | Genaue Selbstwahrnehmung, Erkennung blinder Flecken |
+| 🥗 [**Ernährung**](/de/education/nutrition/) | **300** | Blutzuckerstabilität, Flüssigkeitszufuhr, Wettkampf-Energie |
+| 🤝 [**Teamdynamik**](/de/education/team-dynamics/) | **300** | Kommunikation, Vertrauen, Rollenklarheit |
+| 💆 [**Spannungsmanagement**](/de/education/tension/) | **300** | Körperliche Anspannung, Entspannung, Atemkontrolle |
 | 🎯 [**Technik**](/de/bildung/technik/) | **100** | Physikalische Mechanik, Wurfrepertoire |
 
 **Gesamt: 2.900 Punkte**
@@ -67,15 +67,15 @@ graph LR
 
 Ihre Fähigkeit, Gedanken zu steuern, den Fokus zu behalten und Flow-Zustände zu erreichen.
 
-- [The Zone](/en/education/mental-game/the-zone/) — Flow-Zustände verstehen und erreichen
+- [The Zone](/de/education/mental-game/the-zone/) — Flow-Zustände verstehen und erreichen
 - Mentale Stärke – Umgang mit Druck, Vorbereitungsroutinen vor dem Wurf
-- [Achtsamkeit](/en/education/mental-game/mindfulness/) — Konzentration auf den gegenwärtigen Moment, Erholung von Fehlern
+- [Achtsamkeit](/de/education/mental-game/mindfulness/) — Konzentration auf den gegenwärtigen Moment, Erholung von Fehlern
 
 ### 🔥 Motivation (500 Punkte)
 
 **Was treibt Sie an, sich Tag für Tag, Jahr für Jahr zu verbessern?**
 
-- [Zielsetzung](/en/education/motivation/) — SMART-Ziele, Prozess- vs. Ergebnisorientierung
+- [Zielsetzung](/de/education/motivation/) — SMART-Ziele, Prozess- vs. Ergebnisorientierung
 - Motivationspsychologie – Intrinsische vs. extrinsische Motivation, Selbstbestimmungstheorie
 - Motivation aufrechterhalten – Burnout-Prävention, Plateau-Bewältigung
 
@@ -85,9 +85,9 @@ Ihre Fähigkeit, Gedanken zu steuern, den Fokus zu behalten und Flow-Zustände z
 
 Die Schlafqualität beeinflusst direkt Reaktionszeit, Entscheidungsfindung und Emotionsregulation.
 
-- [Schlafwissenschaft für Sportler](/en/education/sleep/) — Warum Schlaf für Präzisionssportarten so wichtig ist
-- [Schlafgewohnheiten entwickeln](/en/education/sleep/habits) — Praktische Schlafhygiene
-- [Schlaf &amp; Wettkampf](/en/education/sleep/competition) — Vorveranstaltungsprotokolle, Reisemanagement
+- [Schlafwissenschaft für Sportler](/de/education/sleep/) — Warum Schlaf für Präzisionssportarten so wichtig ist
+- [Schlafgewohnheiten entwickeln](/de/education/sleep/habits) — Praktische Schlafhygiene
+- [Schlaf &amp; Wettkampf](/de/education/sleep/competition) — Vorveranstaltungsprotokolle, Reisemanagement
 
 ### 🪞 Selbstwahrnehmung (400 Punkte)
 
@@ -95,9 +95,9 @@ Was man nicht sieht, kann man nicht verbessern.
 
 Eine präzise Selbstwahrnehmung ermöglicht gezielte Verbesserungen.
 
-- [Der Vorteil der Selbstwahrnehmung](/en/education/self-awareness/) — Warum Selbsterkenntnis wichtig ist
-- [Feedback einholen](/en/education/self-awareness/feedback) — Externe Perspektiven
-- [Videoanalyse](/en/education/self-awareness/video) — Video zur Selbsterkenntnis nutzen
+- [Der Vorteil der Selbstwahrnehmung](/de/education/self-awareness/) — Warum Selbsterkenntnis wichtig ist
+- [Feedback einholen](/de/education/self-awareness/feedback) — Externe Perspektiven
+- [Videoanalyse](/de/education/self-awareness/video) — Video zur Selbsterkenntnis nutzen
 
 ### 🥗 Nährwerte (300 Punkte)
 
@@ -105,7 +105,7 @@ Eine präzise Selbstwahrnehmung ermöglicht gezielte Verbesserungen.
 
 Dein Gehirn ist ein Präzisionsinstrument – sorge dafür, dass es die nötige Energie erhält.
 
-- [Leistungssteigerung durch Energiezufuhr](/en/education/nutrition/) — Blutzucker, Flüssigkeitszufuhr, Wettkampfernährung
+- [Leistungssteigerung durch Energiezufuhr](/de/education/nutrition/) — Blutzucker, Flüssigkeitszufuhr, Wettkampfernährung
 
 ### 🤝 Teamdynamik (300 Punkte)
 
@@ -113,8 +113,8 @@ Dein Gehirn ist ein Präzisionsinstrument – sorge dafür, dass es die nötige 
 
 Kommunikation und Vertrauen sind oft wichtiger als individuelles Talent.
 
-- [Ein großartiger Teamplayer sein](/en/education/team-dynamics/) — Teamkultur und Unterstützung
-- [Teamkommunikation](/en/education/team-dynamics/communication) — Klare, positive Kommunikation
+- [Ein großartiger Teamplayer sein](/de/education/team-dynamics/) — Teamkultur und Unterstützung
+- [Teamkommunikation](/de/education/team-dynamics/communication) — Klare, positive Kommunikation
 
 ### 💆 Spannungsmanagement (300 Punkte)
 
@@ -122,9 +122,9 @@ Kommunikation und Vertrauen sind oft wichtiger als individuelles Talent.
 
 Man kann nicht gleichzeitig angespannt und präzise sein.
 
-- [Spannung verstehen](/en/education/tension/) — Körperliche vs. mentale Spannung
-- [Entspannungstechniken](/en/education/tension/techniques) — PMR, Atmung, schnelle Resets
-- [Wettkampfmanagement](/en/education/tension/competition) — Protokolle vor und während des Spiels
+- [Spannung verstehen](/de/education/tension/) — Körperliche vs. mentale Spannung
+- [Entspannungstechniken](/de/education/tension/techniques) — PMR, Atmung, schnelle Resets
+- [Wettkampfmanagement](/de/education/tension/competition) — Protokolle vor und während des Spiels
 
 ### 🎯 Technik (100 Punkte)
 
@@ -132,9 +132,9 @@ Man kann nicht gleichzeitig angespannt und präzise sein.
 
 Auf Spitzenniveau ist Technik selbstverständlich. Die Unterscheidungsmerkmale liegen weiter oben.
 
-- [Technikübersicht](/en/education/technique/) — Physikalische Mechanik
-- [Trainingsmethoden](/en/education/technique/training/) — Gezieltes Üben
-- [Taktiken](/en/education/technique/tactics/) — Strategische Entscheidungsfindung
+- [Technikübersicht](/de/education/technique/) — Physikalische Mechanik
+- [Trainingsmethoden](/de/education/technique/training/) — Gezieltes Üben
+- [Taktiken](/de/education/technique/tactics/) — Strategische Entscheidungsfindung
 
 
 ---
@@ -204,6 +204,6 @@ Man kann einen Anfänger nicht wie einen Experten ausbilden (ihm fehlen die neur
 ## Beginne deine Reise
 
 ::: tip Empfohlener Ausgangspunkt
-Beginnen Sie mit [Mental Game](/en/education/mental-game/), um die Grundlagen für Höchstleistungen zu verstehen. Anschließend sollten Sie sich mit [Sleep](/en/education/sleep/) beschäftigen – dies ist oft die wirkungsvollste Maßnahme zur Verbesserung der Leistungsfähigkeit von Nachwuchsspielern.
+Beginnen Sie mit [Mental Game](/de/education/mental-game/), um die Grundlagen für Höchstleistungen zu verstehen. Anschließend sollten Sie sich mit [Sleep](/de/education/sleep/) beschäftigen – dies ist oft die wirkungsvollste Maßnahme zur Verbesserung der Leistungsfähigkeit von Nachwuchsspielern.
 :::
 

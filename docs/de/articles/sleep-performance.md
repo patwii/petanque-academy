@@ -196,7 +196,7 @@ Was gemessen wird, wird auch gesteuert:
 
 ## Verwandte Inhalte
 
-- [Schlaf- und Erholungsmodul](/en/education/sleep/) — Umfassende Schlafaufklärung
-- [Schlafgewohnheiten](/en/education/sleep/habits) — Nachhaltige Routinen entwickeln
-- [Wettkampfschlaf](/en/education/sleep/competition) — Veranstaltungsspezifische Protokolle
+- [Schlaf- und Erholungsmodul](/de/education/sleep/) — Umfassende Schlafaufklärung
+- [Schlafgewohnheiten](/de/education/sleep/habits) — Nachhaltige Routinen entwickeln
+- [Wettkampfschlaf](/de/education/sleep/competition) — Veranstaltungsspezifische Protokolle
 

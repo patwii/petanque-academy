@@ -219,7 +219,7 @@ Door te tekenen, verbinden we ons aan deze overeenkomst en aan het herzien ervan
 
 ## Gerelateerde bronnen
 
-- [Team Dynamics Education](/en/education/team-dynamics/) — Bouw sterkere teambanden op
-- [Sjabloon voor collegiale feedback](/en/guides/templates/peer-feedback) — Gestructureerde feedbacktools
-- [Handleiding voor de trainingssessie](/en/guides/training-session/) — Oefen samen effectief
+- [Team Dynamics Education](/nl/education/team-dynamics/) — Bouw sterkere teambanden op
+- [Sjabloon voor collegiale feedback](/nl/guides/templates/peer-feedback) — Gestructureerde feedbacktools
+- [Handleiding voor de trainingssessie](/nl/guides/training-session/) — Oefen samen effectief
 

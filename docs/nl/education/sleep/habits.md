@@ -222,8 +222,8 @@ Zou je je slaap moeten bijhouden? Overweeg het volgende:
 
 ## Gerelateerde inhoud
 
-- [Slaapwetenschap](/en/education/sleep/) — Begrijpen waarom slaap belangrijk is
-- [Wedstrijdprotocollen](/en/education/sleep/competition) — Slaap rondom toernooien
-- [Spanningsmanagement](/en/education/tension/) — PMR en ontspanning voor een goede nachtrust
-- [Mindfulness](/en/education/mental-game/mindfulness/) — Ademhalingstechnieken
+- [Slaapwetenschap](/nl/education/sleep/) — Begrijpen waarom slaap belangrijk is
+- [Wedstrijdprotocollen](/nl/education/sleep/competition) — Slaap rondom toernooien
+- [Spanningsmanagement](/nl/education/tension/) — PMR en ontspanning voor een goede nachtrust
+- [Mindfulness](/nl/education/mental-game/mindfulness/) — Ademhalingstechnieken
 

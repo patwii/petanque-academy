@@ -207,8 +207,8 @@ AFTER MISTAKES
 
 ## Recursos relacionados
 
-- [Rastreador de Sono](/en/guides/templates/sleep-tracker) — Otimize o sono antes da competição
-- [Guia de Nutrição](/en/education/nutrition/) — Estratégias para impulsionar a competição
-- [Força Mental](/en/education/mental-game/mental-strength/) — Gestão da pressão
-- [Gestão da Tensão](/en/education/tension/) — Mantenha a calma sob pressão
+- [Rastreador de Sono](/pt/guides/templates/sleep-tracker) — Otimize o sono antes da competição
+- [Guia de Nutrição](/pt/education/nutrition/) — Estratégias para impulsionar a competição
+- [Força Mental](/pt/education/mental-game/mental-strength/) — Gestão da pressão
+- [Gestão da Tensão](/pt/education/tension/) — Mantenha a calma sob pressão
 

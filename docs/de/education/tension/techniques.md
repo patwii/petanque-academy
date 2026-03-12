@@ -230,8 +230,8 @@ Wähle ein einzelnes Wort, das deinem Körper das Signal zum Loslassen gibt:
 
 ## Verwandte Inhalte
 
-- [Spannung verstehen](/en/education/tension/) — Die Wissenschaft der Spannung
-- [Bewältigung von Wettkampfspannungen](/en/education/tension/competition) — Spieltagsprotokolle
-- [Achtsamkeit](/en/education/mental-game/mindfulness/) — Bewusstsein für den gegenwärtigen Moment
-- [Vorbereitungsroutine](/en/education/mental-game/mental-strength/pre-shot-routine) — Vollständige Integration der Routine
+- [Spannung verstehen](/de/education/tension/) — Die Wissenschaft der Spannung
+- [Bewältigung von Wettkampfspannungen](/de/education/tension/competition) — Spieltagsprotokolle
+- [Achtsamkeit](/de/education/mental-game/mindfulness/) — Bewusstsein für den gegenwärtigen Moment
+- [Vorbereitungsroutine](/de/education/mental-game/mental-strength/pre-shot-routine) — Vollständige Integration der Routine
 

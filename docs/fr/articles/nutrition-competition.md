@@ -216,6 +216,6 @@ exigences relatives aux changements liés à la chaleur :
 ## Contenu associé
 
 - Module de nutrition — Formation complète en nutrition
-- [Nutrition de compétition](/en/education/nutrition/competition) — Protocoles détaillés
-- [Sommeil pour la performance](/en/articles/sleep-performance) — Optimisation de la récupération
+- [Nutrition de compétition](/fr/education/nutrition/competition) — Protocoles détaillés
+- [Sommeil pour la performance](/fr/articles/sleep-performance) — Optimisation de la récupération
 

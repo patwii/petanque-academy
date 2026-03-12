@@ -104,6 +104,11 @@ function save() {
   setTimeout(() => { saved.value = false; }, 2000);
 }
 
+function loadFromHistory(loadedAssessment: Assessment) {
+  assessment.value = { ...loadedAssessment };
+  showResults.value = false;
+}
+
 function getLevelLabel(value: number): string {
   if (value < 20) return labels.value.levelBeginner;
   if (value < 40) return labels.value.levelDeveloping;
@@ -141,12 +146,13 @@ function submitPeerReview() {
   showComparison.value = true;
 }
 
-// Check for peer mode or results mode on mount
+// Check for peer mode, results mode, or view mode on mount
 function checkPeerMode() {
   if (typeof window !== 'undefined') {
     const params = new URLSearchParams(window.location.search);
     const peerData = params.get('peer');
     const resultsData = params.get('results');
+    const viewData = params.get('view');
 
     // Results mode - viewing comparison sent back from peer
     if (resultsData) {
@@ -167,6 +173,16 @@ function checkPeerMode() {
         receivedFeedbackSaved.value = true;
       } catch (e) {
         console.error('Invalid results data:', e);
+      }
+    }
+    // View mode - viewing a shared historical assessment
+    else if (viewData) {
+      try {
+        const decoded = JSON.parse(atob(viewData));
+        assessment.value = decoded.assessment;
+        showResults.value = true;
+      } catch (e) {
+        console.error('Invalid view data:', e);
       }
     }
     // Peer mode - rating someone else
@@ -295,6 +311,12 @@ onMounted(() => {
           {{ labels.resetButton }}
         </button>
       </div>
+
+      <!-- History View - Always visible on form page -->
+      <HistoryView :key="historyKey" @load-assessment="loadFromHistory" />
+
+      <!-- Feedback Library - Always visible on form page -->
+      <FeedbackLibrary :key="historyKey" />
     </div>
 
     <!-- Results -->

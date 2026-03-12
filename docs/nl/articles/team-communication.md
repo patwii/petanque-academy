@@ -223,5 +223,5 @@ Woorden zijn niet altijd nodig. Verbinding wel.
 
 ---
 
-| *Gerelateerd: [Teamdynamiek](/en/education/team-dynamics/) | [Communicatie](/en/education/team-dynamics/communication) | [Omgaan met druk](/en/education/mental-game/mental-strength/handling-pressure)* |
+| *Gerelateerd: [Teamdynamiek](/nl/education/team-dynamics/) | [Communicatie](/nl/education/team-dynamics/communication) | [Omgaan met druk](/nl/education/mental-game/mental-strength/handling-pressure)* |
 

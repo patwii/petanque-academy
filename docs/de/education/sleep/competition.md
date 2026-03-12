@@ -193,6 +193,6 @@ Unverzichtbare Dinge für eine Übernachtung außerhalb des Hauses:
 
 - Schlafwissenschaft – Warum Schlaf so wichtig ist
 - Schlafhygiene – Tägliche Gewohnheiten für besseren Schlaf
-- [Spannungsmanagement](/en/education/tension/) — Entspannungstechniken für besseren Schlaf
+- [Spannungsmanagement](/de/education/tension/) — Entspannungstechniken für besseren Schlaf
 - Mentale Stärke – Umgang mit Wettkampfangst
 

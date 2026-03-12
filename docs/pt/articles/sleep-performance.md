@@ -196,7 +196,7 @@ O que é medido é gerenciado:
 
 ## Conteúdo relacionado
 
-- [Módulo de Sono e Recuperação](/en/education/sleep/) — Educação completa sobre o sono
-- [Hábitos de Sono](/en/education/sleep/habits) — Construindo rotinas sustentáveis
-- [Sono de Competição](/en/education/sleep/competition) — Protocolos específicos para cada evento
+- [Módulo de Sono e Recuperação](/pt/education/sleep/) — Educação completa sobre o sono
+- [Hábitos de Sono](/pt/education/sleep/habits) — Construindo rotinas sustentáveis
+- [Sono de Competição](/pt/education/sleep/competition) — Protocolos específicos para cada evento
 

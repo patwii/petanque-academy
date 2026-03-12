@@ -156,7 +156,7 @@ Aber mentale Spielentwicklung? Genau da sind noch enorme Fortschritte möglich.
 - Identifizierung von Durchflusszustandsauslösern
 - Arbeit zwischen innerem Coach und innerem Kritiker
 
-Spezifische Techniken finden Sie in unserem Abschnitt [Bildung](/en/education/).
+Spezifische Techniken finden Sie in unserem Abschnitt [Bildung](/de/education/).
 
 ## Die unbequeme Wahrheit
 
@@ -195,9 +195,9 @@ Schiene:
 ### 4. Nutzen Sie die Schulungsmodule
 
 Beginnen Sie mit:
-1. [Die Zone](/en/education/mental-game/the-zone/) – Flow-Zustände verstehen
+1. [Die Zone](/de/education/mental-game/the-zone/) – Flow-Zustände verstehen
 2. Mentale Stärke – Druckfähigkeiten entwickeln
-3. [Achtsamkeit](/en/education/mental-game/mindfulness/) – Entwickle die Konzentration auf den gegenwärtigen Moment
+3. [Achtsamkeit](/de/education/mental-game/mindfulness/) – Entwickle die Konzentration auf den gegenwärtigen Moment
 
 ## Abschluss
 
@@ -212,9 +212,9 @@ Die Spieler, die diesen Wandel vollziehen – die das mentale Training als ihren
 
 ## Verwandte Ressourcen
 
-- [Die Zone: Den Flow-Zustand verstehen](/en/education/mental-game/the-zone/)
-- [Fallstudien: Spitzenspieler in Aktion](/en/articles/case-studies)
-- [Zielvorlage](/en/guides/templates/goal-template) - Plane deine mentale Spielentwicklung
+- [Die Zone: Den Flow-Zustand verstehen](/de/education/mental-game/the-zone/)
+- [Fallstudien: Spitzenspieler in Aktion](/de/articles/case-studies)
+- [Zielvorlage](/de/guides/templates/goal-template) - Plane deine mentale Spielentwicklung
 
 **Fragen oder Anmerkungen?** E-Mail an [patrik.wiik@gmail.com](mailto:patrik.wiik@gmail.com)
 

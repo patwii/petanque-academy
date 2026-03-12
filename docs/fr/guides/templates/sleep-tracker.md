@@ -194,7 +194,7 @@ Analysez votre sommeil pendant seulement 3 jours. Vous découvrirez probablement
 
 ## Ressources connexes
 
-- [Éducation sur le sommeil et la récupération](/en/education/sleep/) — La science du sommeil
-- [Liste de vérification pour la compétition](/en/guides/templates/pre-competition-checklist) — Guide de préparation complet
-- [Journal d&#39;entraînement](/en/guides/templates/diary-template) — Suivez tous les aspects de votre entraînement
+- [Éducation sur le sommeil et la récupération](/fr/education/sleep/) — La science du sommeil
+- [Liste de vérification pour la compétition](/fr/guides/templates/pre-competition-checklist) — Guide de préparation complet
+- [Journal d&#39;entraînement](/fr/guides/templates/diary-template) — Suivez tous les aspects de votre entraînement
 

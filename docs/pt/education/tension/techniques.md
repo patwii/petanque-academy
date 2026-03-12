@@ -230,8 +230,8 @@ Pratique dizer essa palavra mentalmente enquanto libera a tensão. Com o tempo, 
 
 ## Conteúdo relacionado
 
-- [Entendendo a Tensão](/en/education/tension/) — A ciência da tensão
-- [Gestão da Tensão em Competições](/en/education/tension/competition) — Protocolos para o dia da partida
-- [Mindfulness](/en/education/mental-game/mindfulness/) — Consciência do momento presente
-- [Rotina Pré-Arremesso](/en/education/mental-game/mental-strength/pre-shot-routine) — Integração completa da rotina
+- [Entendendo a Tensão](/pt/education/tension/) — A ciência da tensão
+- [Gestão da Tensão em Competições](/pt/education/tension/competition) — Protocolos para o dia da partida
+- [Mindfulness](/pt/education/mental-game/mindfulness/) — Consciência do momento presente
+- [Rotina Pré-Arremesso](/pt/education/mental-game/mental-strength/pre-shot-routine) — Integração completa da rotina
 

@@ -194,7 +194,7 @@ Dokumentieren Sie Ihren Schlaf nur drei Tage lang. Wahrscheinlich entdecken Sie 
 
 ## Verwandte Ressourcen
 
-- [Schlaf- und Erholungsaufklärung](/en/education/sleep/) — Die Wissenschaft hinter dem Schlaf
-- [Checkliste für den Wettkampf](/en/guides/templates/pre-competition-checklist) — Vollständiger Vorbereitungsleitfaden
-- [Trainingstagebuch](/en/guides/templates/diary-template) — Alle Aspekte des Trainings erfassen
+- [Schlaf- und Erholungsaufklärung](/de/education/sleep/) — Die Wissenschaft hinter dem Schlaf
+- [Checkliste für den Wettkampf](/de/guides/templates/pre-competition-checklist) — Vollständiger Vorbereitungsleitfaden
+- [Trainingstagebuch](/de/guides/templates/diary-template) — Alle Aspekte des Trainings erfassen
 

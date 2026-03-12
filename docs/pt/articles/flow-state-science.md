@@ -200,5 +200,5 @@ Assim como qualquer habilidade, alcançar o estado de fluxo melhora com a práti
 
 ---
 
-| *Relacionado: [A Zona](/en/education/mental-game/the-zone/) | [Entrando na Zona](/en/education/mental-game/the-zone/entering-the-zone) | [Técnicas de Mindfulness](/en/education/mental-game/mindfulness/techniques)* |
+| *Relacionado: [A Zona](/pt/education/mental-game/the-zone/) | [Entrando na Zona](/pt/education/mental-game/the-zone/entering-the-zone) | [Técnicas de Mindfulness](/pt/education/mental-game/mindfulness/techniques)* |
 

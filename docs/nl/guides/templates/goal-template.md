@@ -302,10 +302,10 @@ Elk doel moet aansluiten op je diepere motivatie:
 
 ## Gerelateerde bronnen
 
-- [Workshop](/en/guides/workshop/) - Groepssessies over het stellen van doelen en mentale training
-- [Trainingssessie](/en/guides/training-session/) - Oefenen met verantwoordingspartners
-- [Mentale kracht](/en/education/mental-game/mental-strength/) - Ontwikkel de juiste mindset voor het behalen van je doelen
-- [Trainingsdagboeksjabloon](/en/guides/templates/diary-template) - Dagelijkse oefening bijhouden
+- [Workshop](/nl/guides/workshop/) - Groepssessies over het stellen van doelen en mentale training
+- [Trainingssessie](/nl/guides/training-session/) - Oefenen met verantwoordingspartners
+- [Mentale kracht](/nl/education/mental-game/mental-strength/) - Ontwikkel de juiste mindset voor het behalen van je doelen
+- [Trainingsdagboeksjabloon](/nl/guides/templates/diary-template) - Dagelijkse oefening bijhouden
 
 ---
 

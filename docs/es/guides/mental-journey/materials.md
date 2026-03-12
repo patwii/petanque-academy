@@ -228,13 +228,13 @@ _________________________________________________
 **Website:** carreau.app
 
 **Recommended Starting Point:**
-- [The Zone](/en/education/mental-game/the-zone/) - Deep dive into flow states
-- [Mental Strength](/en/education/mental-game/mental-strength/) - Building resilience
-- [Mindfulness](/en/education/mental-game/mindfulness/) - Daily practice guide
+- [The Zone](/es/education/mental-game/the-zone/) - Deep dive into flow states
+- [Mental Strength](/es/education/mental-game/mental-strength/) - Building resilience
+- [Mindfulness](/es/education/mental-game/mindfulness/) - Daily practice guide
 
 **Tools:**
-- [Goal Template](/en/guides/templates/goal-template) - Structure your development
-- [Diary Template](/en/guides/templates/diary-template) - Track your progress
+- [Goal Template](/es/guides/templates/goal-template) - Structure your development
+- [Diary Template](/es/guides/templates/diary-template) - Track your progress
 
 ### Questions?
 
@@ -631,9 +631,9 @@ Una página para que los participantes la conserven.
 **Email:** patrik.wiik@gmail.com
 
 **Next Steps:**
-1. Read [The Zone](/en/education/mental-game/the-zone/)
-2. Use [Goal Template](/en/guides/templates/goal-template)
-3. Track progress in [Diary](/en/guides/templates/diary-template)
+1. Read [The Zone](/es/education/mental-game/the-zone/)
+2. Use [Goal Template](/es/guides/templates/goal-template)
+3. Track progress in [Diary](/es/guides/templates/diary-template)
 ```
 
 </details>

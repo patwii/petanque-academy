@@ -136,5 +136,5 @@ Der innere Kritiker wird immer ein Teil von dir sein. Doch mit Übung wird seine
 
 ---
 
-| *Verwandtes Thema: [Umgang mit Druck](/en/education/mental-game/mental-strength/handling-pressure) | [Vorbereitungsroutine vor dem Wurf](/en/education/mental-game/mental-strength/pre-shot-routine) | [Achtsamkeitstechniken](/en/education/mental-game/mindfulness/techniques)* |
+| *Verwandtes Thema: [Umgang mit Druck](/de/education/mental-game/mental-strength/handling-pressure) | [Vorbereitungsroutine vor dem Wurf](/de/education/mental-game/mental-strength/pre-shot-routine) | [Achtsamkeitstechniken](/de/education/mental-game/mindfulness/techniques)* |
 

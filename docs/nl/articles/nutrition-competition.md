@@ -215,7 +215,7 @@ Bij warm weer gelden andere eisen:
 
 ## Gerelateerde inhoud
 
-- [Voedingsmodule](/en/education/nutrition/) — Complete voedingseducatie
-- [Voeding voor wedstrijden](/en/education/nutrition/competition) — Gedetailleerde protocollen
-- [Slaap voor betere prestaties](/en/articles/sleep-performance) — Hersteloptimalisatie
+- [Voedingsmodule](/nl/education/nutrition/) — Complete voedingseducatie
+- [Voeding voor wedstrijden](/nl/education/nutrition/competition) — Gedetailleerde protocollen
+- [Slaap voor betere prestaties](/nl/articles/sleep-performance) — Hersteloptimalisatie
 

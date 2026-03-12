@@ -215,7 +215,7 @@ Anforderungen an die Änderung der Wetterbedingungen bei heißem Wetter:
 
 ## Verwandte Inhalte
 
-- [Ernährungsmodul](/en/education/nutrition/) — Umfassende Ernährungsbildung
-- [Wettkampfernährung](/en/education/nutrition/competition) — Detaillierte Protokolle
-- [Schlaf für mehr Leistung](/en/articles/sleep-performance) — Optimierung der Erholung
+- [Ernährungsmodul](/de/education/nutrition/) — Umfassende Ernährungsbildung
+- [Wettkampfernährung](/de/education/nutrition/competition) — Detaillierte Protokolle
+- [Schlaf für mehr Leistung](/de/articles/sleep-performance) — Optimierung der Erholung
 

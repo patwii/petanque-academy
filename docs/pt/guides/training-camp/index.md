@@ -21,7 +21,7 @@ Um acampamento de treinamento completo de fim de semana (sexta a domingo) para 1
 | **Para Participantes** | Programação do fim de semana e o que levar. | [Ver seção](#for-participants) |
 | **Para organizadores** | Guia completo de planejamento e facilitação | [Ver seção](#for-organizers) |
 | **Horários Diários** | Cronograma e atividades detalhadas | [Sexta-feira](#sexta-à-noite-fundamentos-do-jogo-mental-3-4-horas) • [Sábado](#sábado-prática-aplicação-dia-inteiro) • [Domingo](#domingo-integração-da-competição-dia-inteiro) |
-| **Guias relacionados** | Outros formatos de treinamento | [Jornada Mental](/en/guides/mental-journey/) • [Oficina](/en/guides/workshop/) |
+| **Guias relacionados** | Outros formatos de treinamento | [Jornada Mental](/pt/guides/mental-journey/) • [Oficina](/pt/guides/workshop/) |
 
 ---
 

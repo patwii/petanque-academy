@@ -226,5 +226,5 @@ La résilience n&#39;est pas une qualité innée, c&#39;est une compétence qui 
 
 ---
 
-| *En lien avec : [Force mentale](/en/education/mental-game/mental-strength/) | [Gérer la pression](/en/education/mental-game/mental-strength/handling-pressure) | [La Zone](/en/education/mental-game/the-zone/)* |
+| *En lien avec : [Force mentale](/fr/education/mental-game/mental-strength/) | [Gérer la pression](/fr/education/mental-game/mental-strength/handling-pressure) | [La Zone](/fr/education/mental-game/the-zone/)* |
 

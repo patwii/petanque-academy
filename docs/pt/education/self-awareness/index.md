@@ -185,13 +185,13 @@ Seja honesto consigo mesmo(a) ao se avaliar (1 = Nunca, 5 = Sempre):
 
 ## Neste módulo
 
-### [Obtendo e Utilizando Feedback](/en/education/self-awareness/feedback)
+### [Obtendo e Utilizando Feedback](/pt/education/self-awareness/feedback)
 - Fontes de feedback objetivo
 - Como pedir feedback de forma eficaz
 - Receber feedback sem se colocar na defensiva.
 - Transformar feedback em ação.
 
-### [Análise de vídeo para autodescoberta](/en/education/self-awareness/video)
+### [Análise de vídeo para autodescoberta](/pt/education/self-awareness/video)
 - O que gravar e quando
 - O que procurar em suas filmagens
 - Comparando a autopercepção com a realidade em vídeo
@@ -213,8 +213,8 @@ Anote suas respostas. Compare-as ao longo do tempo. Padrões irão surgir.
 
 ## Fatores relacionados
 
-- [Jogo Mental](/en/education/mental-game/) — A autoconsciência apoia o treinamento mental
+- [Jogo Mental](/pt/education/mental-game/) — A autoconsciência apoia o treinamento mental
 - Dinâmica de Equipe — Entenda como os outros te percebem.
-- [Motivação](/en/education/motivation/) — Conheça seus verdadeiros motivadores
-- [Técnica](/en/education/technique/) — Análise de vídeo revela verdade técnica
+- [Motivação](/pt/education/motivation/) — Conheça seus verdadeiros motivadores
+- [Técnica](/pt/education/technique/) — Análise de vídeo revela verdade técnica
 

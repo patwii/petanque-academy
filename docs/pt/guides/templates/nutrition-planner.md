@@ -165,7 +165,7 @@ Planeje o que e quando comer para obter o melhor desempenho nos dias de competi�
 
 ## Recursos relacionados
 
-- [Educação Nutricional](/en/education/nutrition/) — Guia completo de nutrição
-- [Lista de verificação pré-competição](/en/guides/templates/pre-competition-checklist) — Guia completo de preparação
-- [Rastreador de Sono](/en/guides/templates/sleep-tracker) — Otimize a recuperação
+- [Educação Nutricional](/pt/education/nutrition/) — Guia completo de nutrição
+- [Lista de verificação pré-competição](/pt/guides/templates/pre-competition-checklist) — Guia completo de preparação
+- [Rastreador de Sono](/pt/guides/templates/sleep-tracker) — Otimize a recuperação
 

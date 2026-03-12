@@ -11,7 +11,7 @@ Modelos práticos para apoiar sua jornada de desenvolvimento.
 
 ### Prioridade 1: Mais Solicitado
 
-#### 😴 [Rastreador de Sono](/en/guides/templates/sleep-tracker)
+#### 😴 [Rastreador de Sono](/pt/guides/templates/sleep-tracker)
 
 Monitore seus padrões de sono e correlacione-os com seu desempenho.
 
@@ -24,11 +24,11 @@ Monitore seus padrões de sono e correlacione-os com seu desempenho.
 
 **Ideal para:** Otimizar a recuperação, preparação pré-competição, identificar padrões de sono.
 
-[Ver rastreador de sono →](/en/guides/templates/sleep-tracker)
+[Ver rastreador de sono →](/pt/guides/templates/sleep-tracker)
 
 ---
 
-#### ✅ [Lista de verificação pré-competição](/en/guides/templates/pre-competition-checklist)
+#### ✅ [Lista de verificação pré-competição](/pt/guides/templates/pre-competition-checklist)
 
 Guia completo de preparação para o dia anterior e o dia da competição.
 
@@ -41,13 +41,13 @@ Guia completo de preparação para o dia anterior e o dia da competição.
 
 **Ideal para:** Preparação para torneios, eliminação do estresse pré-jogo, desenvolvimento de rotinas consistentes
 
-[Ver lista de verificação pré-competição →](/en/guides/templates/pre-competition-checklist)
+[Ver lista de verificação pré-competição →](/pt/guides/templates/pre-competition-checklist)
 
 ---
 
 ### Prioridade 2: Desenvolvimento da Equipe
 
-#### 🎯 [Modelo de Feedback de Colegas](/en/guides/templates/peer-feedback)
+#### 🎯 [Modelo de Feedback de Colegas](/pt/guides/templates/peer-feedback)
 
 Modelos estruturados para solicitar e fornecer feedback honesto.
 
@@ -59,11 +59,11 @@ Modelos estruturados para solicitar e fornecer feedback honesto.
 
 **Ideal para:** Identificar pontos cegos, aprimorar a equipe e promover conversas honestas sobre desenvolvimento.
 
-[Ver modelo de feedback de colegas →](/en/guides/templates/peer-feedback)
+[Ver modelo de feedback de colegas →](/pt/guides/templates/peer-feedback)
 
 ---
 
-#### 🤝 [Modelo de Acordo de Equipe](/en/guides/templates/team-agreement)
+#### 🤝 [Modelo de Acordo de Equipe](/pt/guides/templates/team-agreement)
 
 Estrutura para funções, comunicação e resolução de conflitos.
 
@@ -77,13 +77,13 @@ Estrutura para funções, comunicação e resolução de conflitos.
 
 **Ideal para:** Equipes novas, aprimoramento da sinergia da equipe, prevenção de conflitos
 
-[Ver modelo de acordo de equipe →](/en/guides/templates/team-agreement)
+[Ver modelo de acordo de equipe →](/pt/guides/templates/team-agreement)
 
 ---
 
 ### Prioridade 3: Referência rápida
 
-#### 💆 [Cartão Rápido para Liberação de Tensão](/en/guides/templates/tension-quick-card)
+#### 💆 [Cartão Rápido para Liberação de Tensão](/pt/guides/templates/tension-quick-card)
 
 Cartão de bolso imprimível com técnicas de alívio de tensão durante a competição.
 
@@ -96,11 +96,11 @@ Cartão de bolso imprimível com técnicas de alívio de tensão durante a compe
 
 **Ideal para:** Consulta rápida durante a competição, transporte no bolso/bolsa
 
-[Ver Guia Rápido de Tensão →](/en/guides/templates/tension-quick-card)
+[Ver Guia Rápido de Tensão →](/pt/guides/templates/tension-quick-card)
 
 ---
 
-#### 🍎 [Planejador de Nutrição para Competição](/en/guides/templates/nutrition-planner)
+#### 🍎 [Planejador de Nutrição para Competição](/pt/guides/templates/nutrition-planner)
 
 Planeje o que e quando comer para obter o melhor desempenho nos dias de competição.
 
@@ -113,13 +113,13 @@ Planeje o que e quando comer para obter o melhor desempenho nos dias de competi�
 
 **Ideal para:** Preparação para competições, evitar quedas de açúcar no sangue, energia estável
 
-[Ver Planejador Nutricional →](/en/guides/templates/nutrition-planner)
+[Ver Planejador Nutricional →](/pt/guides/templates/nutrition-planner)
 
 ---
 
 ### Modelos básicos
 
-#### 📋 [Modelo de Meta](/en/guides/templates/goal-template)
+#### 📋 [Modelo de Meta](/pt/guides/templates/goal-template)
 
 Planilha estruturada para definir metas eficazes na petanca.
 
@@ -131,11 +131,11 @@ Planilha estruturada para definir metas eficazes na petanca.
 
 **Ideal para:** Planejamento de temporada, preparação para torneios, objetivos de desenvolvimento de habilidades
 
-[Ver modelo de meta →](/en/guides/templates/goal-template)
+[Ver modelo de meta →](/pt/guides/templates/goal-template)
 
 ---
 
-#### 📓 [Modelo de Diário](/en/guides/templates/diary-template)
+#### 📓 [Modelo de Diário](/pt/guides/templates/diary-template)
 
 Diário de treinos e competições para acompanhar sua jornada.
 
@@ -148,7 +148,7 @@ Diário de treinos e competições para acompanhar sua jornada.
 
 **Ideal para:** Treinamento regular, análise da competição, desenvolvimento a longo prazo
 
-[Ver modelo de diário →](/en/guides/templates/diary-template)
+[Ver modelo de diário →](/pt/guides/templates/diary-template)
 
 ---
 
@@ -165,9 +165,9 @@ Ambas as opções funcionam. Alguns jogadores preferem o papel pela experiência
 
 ## Recursos relacionados
 
-- [Educação sobre Sono e Recuperação](/en/education/sleep/) — A ciência por trás do sono
+- [Educação sobre Sono e Recuperação](/pt/education/sleep/) — A ciência por trás do sono
 - Autoconhecimento — Compreendendo os pontos cegos
 - Dinâmica de Equipe — Fortaleça os laços da sua equipe
-- [Guia para definição de metas](/en/education/motivation/) — Aprenda a teoria por trás de metas eficazes
-- [Métodos de Treinamento](/en/education/technique/training/) — Como estruturar sua prática
+- [Guia para definição de metas](/pt/education/motivation/) — Aprenda a teoria por trás de metas eficazes
+- [Métodos de Treinamento](/pt/education/technique/training/) — Como estruturar sua prática
 

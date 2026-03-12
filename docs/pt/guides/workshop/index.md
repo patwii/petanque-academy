@@ -11,7 +11,7 @@ Este workshop é uma sessão teórica avançada de 3 a 4 horas para 6 a 8 jogado
 :::
 
 **Diferença em relação à Sessão para Iniciantes:**
-- **Iniciante (2-3h):** Introdução aos conceitos de jogos mentais → [Consulte o Guia da Jornada Mental](/en/guides/mental-journey/session-guide)
+- **Iniciante (2-3h):** Introdução aos conceitos de jogos mentais → [Consulte o Guia da Jornada Mental](/pt/guides/mental-journey/session-guide)
 - **Avançado (3-4 horas):** Trabalho psicológico profundo com exercícios de vulnerabilidade (esta página)
 
 ## Acesso rápido
@@ -21,7 +21,7 @@ Este workshop é uma sessão teórica avançada de 3 a 4 horas para 6 a 8 jogado
 | **Para Participantes** | O que esperar e como se preparar | [Ver seção](#for-participants) |
 | **Para Facilitadores** | Guia completo da sessão e exercícios | [Ver seção](#para-facilitadores) |
 | **Materiais da Sessão** | Exercícios e fichas de trabalho | [Ver Materiais](#facilitator-materials) |
-| **Guias relacionados** | Outros formatos de treinamento | [Jornada Mental](/en/guides/mental-journey/) • [Campo de Treinamento](/en/guides/training-camp/) |
+| **Guias relacionados** | Outros formatos de treinamento | [Jornada Mental](/pt/guides/mental-journey/) • [Campo de Treinamento](/pt/guides/training-camp/) |
 
 ---
 

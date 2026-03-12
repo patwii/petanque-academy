@@ -203,5 +203,5 @@ Trouvez le juste milieu où les objectifs sont stimulants sans être insurmontab
 
 ---
 
-| *À lire aussi : [Introduction à la fixation d’objectifs](/en/education/motivation/) | [Objectifs SMART](/en/education/motivation/smart-goals) | [Planifier votre développement](/en/education/motivation/planning)* |
+| *À lire aussi : [Introduction à la fixation d’objectifs](/fr/education/motivation/) | [Objectifs SMART](/fr/education/motivation/smart-goals) | [Planifier votre développement](/fr/education/motivation/planning)* |
 

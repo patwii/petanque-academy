@@ -79,7 +79,7 @@ Je kunt je eigen blinde vlekken niet zien. Je hebt externe perspectieven nodig.
 
 **Peerbeoordeling**
 - Vraag betrouwbare teamgenoten om eerlijke feedback.
-- Gebruik de [Beoordelingstool](/en/assessment/) voor collegiale validatie.
+- Gebruik de [Beoordelingstool](/nl/assessment/) voor collegiale validatie.
 - Vergelijk je eigen beoordeling met hun beoordeling.
 
 **Observatie door de coach**
@@ -119,7 +119,7 @@ Zoek naar patronen:
 
 ### Maandelijkse beoordeling
 
-Gebruik de [Spelersbeoordeling](/en/assessment/) tool:
+Gebruik de [Spelersbeoordeling](/nl/assessment/) tool:
 
 - Beoordeel jezelf op alle 8 factoren.
 - Verzoek om peervalidatie
@@ -172,7 +172,7 @@ Zelfbewustzijn vereist acceptatie van het volgende:
 
 ## Actiestappen
 
-1. **Vandaag:** Vul de [zelfevaluatie](/en/assessment/) in.
+1. **Vandaag:** Vul de [zelfevaluatie](/nl/assessment/) in.
 2. **Deze week:** Vraag feedback aan 2 vertrouwde teamgenoten.
 3. **Doorlopend:** Ontwikkel een dagelijkse reflectiegewoonte
 4. **Maandelijks:** Volg de voortgang met herhaalde evaluaties.
@@ -181,7 +181,7 @@ Zelfbewustzijn vereist acceptatie van het volgende:
 
 ## Gerelateerde inhoud
 
-- [Zelfbewustzijnsmodule](/en/education/self-awareness/) — Volledige educatie
-- [Spelersbeoordeling](/en/assessment/) — Evalueer je 8 factoren
-- [De innerlijke criticus](/en/articles/inner-critic) — Zelfoordeel beheersen
+- [Zelfbewustzijnsmodule](/nl/education/self-awareness/) — Volledige educatie
+- [Spelersbeoordeling](/nl/assessment/) — Evalueer je 8 factoren
+- [De innerlijke criticus](/nl/articles/inner-critic) — Zelfoordeel beheersen
 

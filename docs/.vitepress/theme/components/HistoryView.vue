@@ -1,14 +1,18 @@
 <script setup lang="ts">
 import { ref, computed, onMounted } from 'vue';
 import { useData } from 'vitepress';
-import { 
-  StoredAssessment, 
-  getAssessmentHistory, 
+import {
+  StoredAssessment,
+  getAssessmentHistory,
   calculateOverallScore,
   FACTOR_EMOJIS,
   Assessment
 } from '../assessment';
 import { getLabels } from '../assessment/i18n';
+
+const emit = defineEmits<{
+  (e: 'load-assessment', assessment: Assessment): void
+}>();
 
 const { lang } = useData();
 const labels = computed(() => getLabels(lang.value));
@@ -16,11 +20,80 @@ const labels = computed(() => getLabels(lang.value));
 const history = ref<StoredAssessment[]>([]);
 const showAll = ref(false);
 const selectedItems = ref<string[]>([]);
+const copiedId = ref<string | null>(null);
 
 // Load history on mount
 onMounted(() => {
   history.value = getAssessmentHistory();
 });
+
+// Load a historical assessment into the form
+function loadAssessment(item: StoredAssessment) {
+  emit('load-assessment', item.assessment);
+}
+
+// Generate share URL for a specific assessment (view only)
+function getShareUrl(item: StoredAssessment): string {
+  if (typeof window === 'undefined') return '';
+  const data = {
+    assessment: item.assessment,
+    date: item.date
+  };
+  const encoded = btoa(JSON.stringify(data));
+  return `${window.location.origin}/${lang.value}/assessment/?view=${encoded}`;
+}
+
+// Generate peer feedback request URL for a specific assessment
+function getPeerFeedbackUrl(item: StoredAssessment, playerName: string): string {
+  if (typeof window === 'undefined') return '';
+  const data = {
+    assessment: item.assessment,
+    name: playerName || 'Anonymous',
+    date: item.date
+  };
+  const encoded = btoa(JSON.stringify(data));
+  return `${window.location.origin}/${lang.value}/assessment/?peer=${encoded}`;
+}
+
+// Copy share link
+async function copyShareLink(item: StoredAssessment) {
+  try {
+    await navigator.clipboard.writeText(getShareUrl(item));
+    copiedId.value = item.id;
+    setTimeout(() => { copiedId.value = null; }, 2000);
+  } catch (e) {
+    console.error('Failed to copy:', e);
+  }
+}
+
+// Request feedback state
+const requestingFeedbackId = ref<string | null>(null);
+const feedbackPlayerName = ref('');
+const feedbackLinkCopied = ref<string | null>(null);
+
+function startRequestFeedback(item: StoredAssessment) {
+  requestingFeedbackId.value = item.id;
+  feedbackPlayerName.value = '';
+}
+
+function cancelRequestFeedback() {
+  requestingFeedbackId.value = null;
+  feedbackPlayerName.value = '';
+}
+
+async function copyFeedbackLink(item: StoredAssessment) {
+  try {
+    const url = getPeerFeedbackUrl(item, feedbackPlayerName.value);
+    await navigator.clipboard.writeText(url);
+    feedbackLinkCopied.value = item.id;
+    setTimeout(() => {
+      feedbackLinkCopied.value = null;
+      requestingFeedbackId.value = null;
+    }, 2000);
+  } catch (e) {
+    console.error('Failed to copy:', e);
+  }
+}
 
 // Displayed items (limited or all)
 const displayedHistory = computed(() => {
@@ -119,18 +192,72 @@ const chartPath = computed(() => {
 
     <!-- History List -->
     <div class="history-list">
-      <div 
-        v-for="(item, index) in displayedHistory" 
+      <div
+        v-for="(item, index) in displayedHistory"
         :key="item.id"
-        class="history-item"
+        class="history-item-wrapper"
       >
-        <div class="history-date">{{ formatDate(item.date) }}</div>
-        <div class="history-score">{{ calculateOverallScore(item.assessment) }}%</div>
-        <div 
-          class="history-change"
-          :class="getChangeClass(getScoreChange(item, index))"
-        >
-          {{ getChangeText(getScoreChange(item, index)) }}
+        <div class="history-item">
+          <div class="history-main">
+            <div class="history-date">{{ formatDate(item.date) }}</div>
+            <div class="history-score">{{ calculateOverallScore(item.assessment) }}%</div>
+            <div
+              class="history-change"
+              :class="getChangeClass(getScoreChange(item, index))"
+            >
+              {{ getChangeText(getScoreChange(item, index)) }}
+            </div>
+          </div>
+          <div class="history-actions-row">
+            <button
+              class="btn-icon"
+              @click="loadAssessment(item)"
+              :title="labels.loadAssessment || 'Load'"
+            >
+              📋
+            </button>
+            <button
+              class="btn-icon"
+              @click="copyShareLink(item)"
+              :title="labels.shareAssessment || 'Share'"
+            >
+              {{ copiedId === item.id ? '✓' : '🔗' }}
+            </button>
+            <button
+              class="btn-icon"
+              @click="startRequestFeedback(item)"
+              :title="labels.requestFeedback || 'Request Feedback'"
+            >
+              👥
+            </button>
+          </div>
+        </div>
+
+        <!-- Feedback Request Form (inline) -->
+        <div class="feedback-request-form" v-if="requestingFeedbackId === item.id">
+          <div class="feedback-form-content">
+            <input
+              type="text"
+              v-model="feedbackPlayerName"
+              :placeholder="labels.yourName || 'Your name (optional)'"
+              class="feedback-name-input"
+            />
+            <div class="feedback-form-buttons">
+              <button
+                class="btn-small btn-primary"
+                @click="copyFeedbackLink(item)"
+              >
+                {{ feedbackLinkCopied === item.id ? '✓ ' + (labels.linkCopied || 'Copied!') : '📋 ' + (labels.copyFeedbackLink || 'Copy Link') }}
+              </button>
+              <button
+                class="btn-small btn-secondary"
+                @click="cancelRequestFeedback"
+              >
+                {{ labels.cancel || 'Cancel' }}
+              </button>
+            </div>
+          </div>
+          <p class="feedback-hint">{{ labels.feedbackHint || 'Share this link with a teammate to get their assessment of you' }}</p>
         </div>
       </div>
     </div>

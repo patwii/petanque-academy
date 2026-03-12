@@ -278,5 +278,5 @@ Até mesmo os bons líderes falham às vezes:
 
 ---
 
-| *Relacionado: [Dinâmica de Equipe](/en/education/team-dynamics/) | [Comunicação](/en/education/team-dynamics/communication) | [Construindo Química de Equipe](/en/articles/team-chemistry)* |
+| *Relacionado: [Dinâmica de Equipe](/pt/education/team-dynamics/) | [Comunicação](/pt/education/team-dynamics/communication) | [Construindo Química de Equipe](/pt/articles/team-chemistry)* |
 

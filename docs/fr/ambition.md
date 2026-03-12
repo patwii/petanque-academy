@@ -83,7 +83,7 @@ Toutes les améliorations ne se valent pas. Nous utilisons le calcul du **retour
 Nous avons créé un **outil d&#39;évaluation gratuit** qui analyse vos niveaux actuels sur l&#39;ensemble des 8 facteurs et calcule vos priorités d&#39;amélioration personnalisées.
 
 ::: info Passez l&#39;évaluation
-**[→ Commencez votre évaluation du développement des joueurs](/en/assessment/)**
+**[→ Commencez votre évaluation du développement des joueurs](/fr/assessment/)**
 
 Dans 5 minutes, vous recevrez :
 - Votre graphique radar couvrant l&#39;ensemble des 8 facteurs
@@ -96,10 +96,10 @@ Dans 5 minutes, vous recevrez :
 
 | Offre | Description | Lien |
 |----------|-------------|------|
-| **Outil d&#39;évaluation** | Identifiez vos axes d&#39;amélioration présentant le meilleur retour sur investissement. | [Passer l&#39;évaluation](/en/assessment/) |
-| **Modules de formation** | Contenu approfondi sur les 8 facteurs | [Parcourir la section Éducation](/en/education/) |
-| **Ateliers** | Séances de 3 à 4 heures pour des groupes de 6 à 8 joueurs | [Guide d&#39;atelier](/en/guides/workshop/) |
-| **Camps d&#39;entraînement** | Stages intensifs de week-end alliant théorie et pratique | [Guide du camp](/en/guides/training-camp/) |
+| **Outil d&#39;évaluation** | Identifiez vos axes d&#39;amélioration présentant le meilleur retour sur investissement. | [Passer l&#39;évaluation](/fr/assessment/) |
+| **Modules de formation** | Contenu approfondi sur les 8 facteurs | [Parcourir la section Éducation](/fr/education/) |
+| **Ateliers** | Séances de 3 à 4 heures pour des groupes de 6 à 8 joueurs | [Guide d&#39;atelier](/fr/guides/workshop/) |
+| **Camps d&#39;entraînement** | Stages intensifs de week-end alliant théorie et pratique | [Guide du camp](/fr/guides/training-camp/) |
 
 ## Notre approche
 
@@ -119,9 +119,9 @@ Mettez en pratique les techniques d&#39;entraînement avant la compétition. Dé
 Suivez vos progrès. Vos priorités évolueront au fur et à mesure de votre amélioration.
 
 ::: tip Prêt à passer à l&#39;étape suivante ?
-**[→ Commencez par l&#39;évaluation](/en/assessment/)** — C&#39;est gratuit et cela prend 5 minutes.
+**[→ Commencez par l&#39;évaluation](/fr/assessment/)** — C&#39;est gratuit et cela prend 5 minutes.
 
-Ou explorez notre section [Éducation](/en/education/) pour approfondir chacun des 8 facteurs.
+Ou explorez notre section [Éducation](/fr/education/) pour approfondir chacun des 8 facteurs.
 :::
 
 

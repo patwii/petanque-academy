@@ -191,8 +191,8 @@ Itens essenciais para dormir fora de casa:
 
 ## Conteúdo relacionado
 
-- [Ciência do Sono](/en/education/sleep/) — Entendendo por que o sono é importante
-- [Higiene do Sono](/en/education/sleep/habits) — Hábitos diários para um sono melhor
-- [Gestão da Tensão](/en/education/tension/) — Técnicas de relaxamento para dormir
-- [Força Mental](/en/education/mental-game/mental-strength/) — Lidando com a ansiedade pré-competição
+- [Ciência do Sono](/pt/education/sleep/) — Entendendo por que o sono é importante
+- [Higiene do Sono](/pt/education/sleep/habits) — Hábitos diários para um sono melhor
+- [Gestão da Tensão](/pt/education/tension/) — Técnicas de relaxamento para dormir
+- [Força Mental](/pt/education/mental-game/mental-strength/) — Lidando com a ansiedade pré-competição
 

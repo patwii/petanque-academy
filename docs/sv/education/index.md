@@ -21,7 +21,7 @@ Vår läroplan är uppbyggd kring 8 nyckelfaktorer, viktade efter deras inverkan
 | 🥗 [**Näring**](/sv/utbildning/näring/) | **300** | Blodsockerstabilitet, hydrering, bränsle för tävlingar |
 | 🤝 [**Teamdynamik**](/sv/utbildning/teamdynamik/) | **300** | Kommunikation, förtroende, tydlig roll |
 | 💆 [**Spänningshantering**](/sv/utbildning/spänning/) | **300** | Fysisk spänning, avslappning, andningskontroll |
-| 🎯 [**Teknik**](/en/education/technique/) | **100** | Fysisk mekanik, kastarpertoar |
+| 🎯 [**Teknik**](/sv/education/technique/) | **100** | Fysisk mekanik, kastarpertoar |
 
 **Totalt: 2 900 poäng**
 

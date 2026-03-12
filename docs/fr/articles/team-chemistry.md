@@ -224,5 +224,5 @@ La chimie n&#39;est pas statique — elle nécessite un entretien :
 
 ---
 
-| *À consulter également : [Dynamique d&#39;équipe](/en/education/team-dynamics/) | [Communication](/en/education/team-dynamics/communication) | [Leadership en pétanque](/en/articles/team-leadership)* |
+| *À consulter également : [Dynamique d&#39;équipe](/fr/education/team-dynamics/) | [Communication](/fr/education/team-dynamics/communication) | [Leadership en pétanque](/fr/articles/team-leadership)* |
 

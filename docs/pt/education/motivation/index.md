@@ -141,10 +141,10 @@ Anote suas respostas. Volte a elas quando a motivação diminuir.
 
 ## Nesta seção
 
-- **[Psicologia da Motivação](/en/education/motivation/motivation)** — Motivação intrínseca versus extrínseca, Teoria da Autodeterminação
-- **[Metas SMART em Detalhe](/en/education/motivation/smart-goals)** — Uma análise aprofundada da criação de metas eficazes
-- **[Criando seu Plano de Treinamento](/en/education/motivation/planning)** — Transforme metas em ação
-- **[Manter a Motivação](/en/education/motivation/maintaining)** — Sustentabilidade a longo prazo, prevenção da síndrome de burnout
+- **[Psicologia da Motivação](/pt/education/motivation/motivation)** — Motivação intrínseca versus extrínseca, Teoria da Autodeterminação
+- **[Metas SMART em Detalhe](/pt/education/motivation/smart-goals)** — Uma análise aprofundada da criação de metas eficazes
+- **[Criando seu Plano de Treinamento](/pt/education/motivation/planning)** — Transforme metas em ação
+- **[Manter a Motivação](/pt/education/motivation/maintaining)** — Sustentabilidade a longo prazo, prevenção da síndrome de burnout
 
 ## Resumo: Regras para definição de metas
 

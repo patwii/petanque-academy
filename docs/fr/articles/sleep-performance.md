@@ -197,6 +197,6 @@ Ce qui se mesure se gère :
 ## Contenu associé
 
 - Module Sommeil et Récupération — Formation complète sur le sommeil
-- [Habitudes de sommeil](/en/education/sleep/habits) — Établir des routines durables
-- [Sommeil en compétition](/en/education/sleep/competition) — Protocoles spécifiques à l&#39;événement
+- [Habitudes de sommeil](/fr/education/sleep/habits) — Établir des routines durables
+- [Sommeil en compétition](/fr/education/sleep/competition) — Protocoles spécifiques à l&#39;événement
 

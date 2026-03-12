@@ -75,6 +75,12 @@ export interface AssessmentLabels {
   historyNoChange: string;
   clearHistory: string;
   clearHistoryConfirm: string;
+  loadAssessment: string;
+  shareAssessment: string;
+  requestFeedback: string;
+  copyFeedbackLink: string;
+  cancel: string;
+  feedbackHint: string;
 
   // Feedback Library
   libraryTitle: string;
@@ -160,6 +166,12 @@ export const assessmentI18n: Record<string, AssessmentLabels> = {
     historyNoChange: 'no change',
     clearHistory: 'Clear All History',
     clearHistoryConfirm: 'Are you sure? This cannot be undone.',
+    loadAssessment: 'Load this assessment',
+    shareAssessment: 'Share this assessment',
+    requestFeedback: 'Request peer feedback',
+    copyFeedbackLink: 'Copy Feedback Link',
+    cancel: 'Cancel',
+    feedbackHint: 'Share this link with a teammate to get their assessment of you',
 
     libraryTitle: 'Feedback Library',
     myProgress: 'My Progress',
@@ -242,6 +254,12 @@ export const assessmentI18n: Record<string, AssessmentLabels> = {
     historyNoChange: 'oförändrat',
     clearHistory: 'Rensa All Historik',
     clearHistoryConfirm: 'Är du säker? Detta kan inte ångras.',
+    loadAssessment: 'Ladda denna utvärdering',
+    shareAssessment: 'Dela denna utvärdering',
+    requestFeedback: 'Be om feedback',
+    copyFeedbackLink: 'Kopiera Feedbacklänk',
+    cancel: 'Avbryt',
+    feedbackHint: 'Dela länken med en lagkamrat för att få deras bedömning av dig',
 
     libraryTitle: 'Feedbackbibliotek',
     myProgress: 'Min Progress',

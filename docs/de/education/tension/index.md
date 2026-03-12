@@ -196,13 +196,13 @@ Die besten Spieler machen das automatisch. Durch Wiederholung kannst du dir das 
 
 ## In diesem Modul
 
-### [Techniken zur Spannungsentspannung](/en/education/tension/techniques)
+### [Techniken zur Spannungsentspannung](/de/education/tension/techniques)
 - Progressive Muskelentspannung (PMR)
 - Schnellverschlusstechniken für den Wettkampf
 - Atemprotokolle
 - Vorwurfspannung zurücksetzen
 
-### [Umgang mit Spannungen im Wettbewerb](/en/education/tension/competition)
+### [Umgang mit Spannungen im Wettbewerb](/de/education/tension/competition)
 - Vorbereitung vor dem Spiel
 - Protokolle während des Spiels
 - Notfallwiederherstellung aufgrund zu starker Anspannung
@@ -226,7 +226,7 @@ Das dauert 10 Sekunden und kann Ihren nächsten Wurf sofort verbessern.
 ## Verwandte Faktoren
 
 - Mentale Stärke – Umgang mit Druck
-- [Schlaf &amp; Erholung](/en/education/sleep/) — Ruhe reduziert die Grundspannung
-- [Achtsamkeit](/en/education/mental-game/mindfulness/) — Bewusstsein für den gegenwärtigen Moment
-- [Die Zone](/en/education/mental-game/the-zone/) — Optimaler Leistungszustand
+- [Schlaf &amp; Erholung](/de/education/sleep/) — Ruhe reduziert die Grundspannung
+- [Achtsamkeit](/de/education/mental-game/mindfulness/) — Bewusstsein für den gegenwärtigen Moment
+- [Die Zone](/de/education/mental-game/the-zone/) — Optimaler Leistungszustand
 

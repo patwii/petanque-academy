@@ -165,7 +165,7 @@ Plan van tevoren wat en wanneer je eet voor optimale prestaties op wedstrijddage
 
 ## Gerelateerde bronnen
 
-- [Voedingsvoorlichting](/en/education/nutrition/) — Volledige voedingsgids
-- [Checklist voor de wedstrijd](/en/guides/templates/pre-competition-checklist) — Complete voorbereidingsgids
-- [Slaaptracker](/en/guides/templates/sleep-tracker) — Optimaliseer herstel
+- [Voedingsvoorlichting](/nl/education/nutrition/) — Volledige voedingsgids
+- [Checklist voor de wedstrijd](/nl/guides/templates/pre-competition-checklist) — Complete voorbereidingsgids
+- [Slaaptracker](/nl/guides/templates/sleep-tracker) — Optimaliseer herstel
 

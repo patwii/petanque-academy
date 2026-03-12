@@ -14,13 +14,13 @@ Notre programme d&#39;études est structuré autour de 8 facteurs clés, pondér
 
 | Facteur | Poids | Description |
 |--------|--------|-------------|
-| 🧠 [**Jeu mental**](/en/education/mental-game/) | **600** | Schémas de pensée, concentration, états de flow, dialogue intérieur |
-| 🔥 [**Motivation**](/en/education/motivation/) | **500** | Motivation, détermination, orientation vers les objectifs, persévérance |
-| 😴 [**Sommeil et récupération**](/en/education/sleep/) | **400** | Qualité du sommeil, récupération, repos avant la compétition |
-| 🪞 [**Conscience de soi**](/en/education/self-awareness/) | **400** | Perception précise de soi, reconnaissance des angles morts |
-| 🥗 [**Nutrition**](/en/education/nutrition/) | **300** | Stabilité de la glycémie, hydratation, alimentation pour la compétition |
-| 🤝 [**Dynamique d&#39;équipe**](/en/education/team-dynamics/) | **300** | Communication, confiance, clarté des rôles |
-| 💆 [**Gestion de la tension**](/en/education/tension/) | **300** | Tension physique, relaxation, contrôle de la respiration |
+| 🧠 [**Jeu mental**](/fr/education/mental-game/) | **600** | Schémas de pensée, concentration, états de flow, dialogue intérieur |
+| 🔥 [**Motivation**](/fr/education/motivation/) | **500** | Motivation, détermination, orientation vers les objectifs, persévérance |
+| 😴 [**Sommeil et récupération**](/fr/education/sleep/) | **400** | Qualité du sommeil, récupération, repos avant la compétition |
+| 🪞 [**Conscience de soi**](/fr/education/self-awareness/) | **400** | Perception précise de soi, reconnaissance des angles morts |
+| 🥗 [**Nutrition**](/fr/education/nutrition/) | **300** | Stabilité de la glycémie, hydratation, alimentation pour la compétition |
+| 🤝 [**Dynamique d&#39;équipe**](/fr/education/team-dynamics/) | **300** | Communication, confiance, clarté des rôles |
+| 💆 [**Gestion de la tension**](/fr/education/tension/) | **300** | Tension physique, relaxation, contrôle de la respiration |
 | 🎯 [**Technique**](/fr/education/technique/) | **100** | Mécanique physique, répertoire de lancers |
 
 **Total : 2 900 points**
@@ -67,16 +67,16 @@ graph LR
 
 Votre capacité à gérer vos pensées, à maintenir votre concentration et à accéder à des états de flow.
 
-- [La Zone](/en/education/mental-game/the-zone/) — Comprendre et accéder aux états de flow
-- [Force mentale](/en/education/mental-game/mental-strength/) — Gérer la pression, routines d&#39;avant-tir
-- [Pleine conscience](/en/education/mental-game/mindfulness/) — Se concentrer sur le moment présent, se remettre de ses erreurs
+- [La Zone](/fr/education/mental-game/the-zone/) — Comprendre et accéder aux états de flow
+- [Force mentale](/fr/education/mental-game/mental-strength/) — Gérer la pression, routines d&#39;avant-tir
+- [Pleine conscience](/fr/education/mental-game/mindfulness/) — Se concentrer sur le moment présent, se remettre de ses erreurs
 
 ### 🔥 Motivation (500 points)
 
 **Qu&#39;est-ce qui vous pousse à vous améliorer jour après jour, année après année ?**
 
-- [Fixation d&#39;objectifs](/en/education/motivation/) — Objectifs SMART, priorité au processus plutôt qu&#39;au résultat
-- [Psychologie de la motivation](/en/education/motivation/motivation) — Motivation intrinsèque vs extrinsèque, Théorie de l&#39;autodétermination
+- [Fixation d&#39;objectifs](/fr/education/motivation/) — Objectifs SMART, priorité au processus plutôt qu&#39;au résultat
+- [Psychologie de la motivation](/fr/education/motivation/motivation) — Motivation intrinsèque vs extrinsèque, Théorie de l&#39;autodétermination
 - Maintenir sa motivation — Prévention du burn-out, gestion des plateaux
 
 ### 😴 Sommeil et récupération (400 points)
@@ -85,9 +85,9 @@ Votre capacité à gérer vos pensées, à maintenir votre concentration et à a
 
 La qualité du sommeil influe directement sur le temps de réaction, la prise de décision et la régulation émotionnelle.
 
-- [La science du sommeil pour les athlètes](/en/education/sleep/) — Pourquoi le sommeil est important pour les sports de précision
-- [Instaurer de bonnes habitudes de sommeil](/en/education/sleep/habits) — Conseils pratiques d&#39;hygiène du sommeil
-- [Sommeil et compétition](/en/education/sleep/competition) — Protocoles pré-événementiels, gestion des déplacements
+- [La science du sommeil pour les athlètes](/fr/education/sleep/) — Pourquoi le sommeil est important pour les sports de précision
+- [Instaurer de bonnes habitudes de sommeil](/fr/education/sleep/habits) — Conseils pratiques d&#39;hygiène du sommeil
+- [Sommeil et compétition](/fr/education/sleep/competition) — Protocoles pré-événementiels, gestion des déplacements
 
 ### 🪞 Conscience de soi (400 points)
 
@@ -95,9 +95,9 @@ La qualité du sommeil influe directement sur le temps de réaction, la prise de
 
 Une perception précise de soi-même permet une amélioration ciblée.
 
-- [L&#39;avantage de la conscience de soi](/en/education/self-awareness/) — Pourquoi la connaissance de soi est importante
-- [Obtenir des commentaires](/en/education/self-awareness/feedback) — Perspectives externes
-- [Analyse vidéo](/en/education/self-awareness/video) — Utiliser la vidéo pour la découverte de soi
+- [L&#39;avantage de la conscience de soi](/fr/education/self-awareness/) — Pourquoi la connaissance de soi est importante
+- [Obtenir des commentaires](/fr/education/self-awareness/feedback) — Perspectives externes
+- [Analyse vidéo](/fr/education/self-awareness/video) — Utiliser la vidéo pour la découverte de soi
 
 ### 🥗 Nutrition (300 points)
 
@@ -105,7 +105,7 @@ Une perception précise de soi-même permet une amélioration ciblée.
 
 Votre cerveau est un instrument de précision — alimentez-le en conséquence.
 
-- [Optimisation des performances](/en/education/nutrition/) — Glycémie, hydratation, nutrition de compétition
+- [Optimisation des performances](/fr/education/nutrition/) — Glycémie, hydratation, nutrition de compétition
 
 ### 🤝 Dynamique d&#39;équipe (300 points)
 
@@ -113,7 +113,7 @@ Votre cerveau est un instrument de précision — alimentez-le en conséquence.
 
 La communication et la confiance l&#39;emportent souvent sur le talent individuel.
 
-- [Être un bon coéquipier](/en/education/team-dynamics/) — Culture et soutien d&#39;équipe
+- [Être un bon coéquipier](/fr/education/team-dynamics/) — Culture et soutien d&#39;équipe
 - Communication d&#39;équipe — Communication claire et positive
 
 ### 💆 Gestion du stress (300 points)
@@ -123,8 +123,8 @@ La communication et la confiance l&#39;emportent souvent sur le talent individue
 On ne peut pas être à la fois tendu et précis.
 
 - Comprendre la tension — Tension physique vs tension mentale
-- [Techniques de relâchement](/en/education/tension/techniques) — PMR, respiration, réinitialisations rapides
-- [Gestion de la compétition](/en/education/tension/competition) — Protocoles d&#39;avant-match et de pendant le match
+- [Techniques de relâchement](/fr/education/tension/techniques) — PMR, respiration, réinitialisations rapides
+- [Gestion de la compétition](/fr/education/tension/competition) — Protocoles d&#39;avant-match et de pendant le match
 
 ### 🎯 Technique (100 points)
 
@@ -132,9 +132,9 @@ On ne peut pas être à la fois tendu et précis.
 
 Au plus haut niveau, la technique est acquise. Les éléments différenciateurs sont détaillés ci-dessus.
 
-- [Aperçu technique](/en/education/technique/) — Mécanique physique
-- [Méthodes de formation](/en/education/technique/training/) — Pratique délibérée
-- [Tactiques](/en/education/technique/tactics/) — Prise de décision stratégique
+- [Aperçu technique](/fr/education/technique/) — Mécanique physique
+- [Méthodes de formation](/fr/education/technique/training/) — Pratique délibérée
+- [Tactiques](/fr/education/technique/tactics/) — Prise de décision stratégique
 
 
 ---
@@ -204,6 +204,6 @@ On ne peut pas former un débutant comme un expert (il lui manque les connexions
 ## Commencez votre voyage
 
 ::: tip Point de départ recommandé
-Commencez par le [Mental Game](/en/education/mental-game/) pour comprendre les fondements de la performance de haut niveau. Ensuite, explorez le [Sleep](/en/education/sleep/) : c’est souvent l’amélioration la plus rentable pour les joueurs en développement.
+Commencez par le [Mental Game](/fr/education/mental-game/) pour comprendre les fondements de la performance de haut niveau. Ensuite, explorez le [Sleep](/fr/education/sleep/) : c’est souvent l’amélioration la plus rentable pour les joueurs en développement.
 :::
 

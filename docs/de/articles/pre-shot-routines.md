@@ -152,5 +152,5 @@ Genauso wichtig ist, was Sie nach einem Wurf tun:
 
 ---
 
-| *Verwandt: [Leitfaden zur Vorbereitung auf die Spritze](/en/education/mental-game/mental-strength/pre-shot-routine) | [Umgang mit Druck](/en/education/mental-game/mental-strength/handling-pressure) | [Achtsamkeitstechniken](/en/education/mental-game/mindfulness/techniques)* |
+| *Verwandt: [Leitfaden zur Vorbereitung auf die Spritze](/de/education/mental-game/mental-strength/pre-shot-routine) | [Umgang mit Druck](/de/education/mental-game/mental-strength/handling-pressure) | [Achtsamkeitstechniken](/de/education/mental-game/mindfulness/techniques)* |
 

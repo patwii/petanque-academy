@@ -219,7 +219,7 @@ Mit unserer Unterschrift verpflichten wir uns zu dieser Vereinbarung und dazu, s
 
 ## Verwandte Ressourcen
 
-- [Team Dynamics Education](/en/education/team-dynamics/) — Stärkere Teambindungen aufbauen
-- [Vorlage für Peer-Feedback](/en/guides/templates/peer-feedback) — Strukturierte Feedback-Tools
-- [Leitfaden für Trainingssitzungen](/en/guides/training-session/) — Gemeinsam effektiv üben
+- [Team Dynamics Education](/de/education/team-dynamics/) — Stärkere Teambindungen aufbauen
+- [Vorlage für Peer-Feedback](/de/guides/templates/peer-feedback) — Strukturierte Feedback-Tools
+- [Leitfaden für Trainingssitzungen](/de/guides/training-session/) — Gemeinsam effektiv üben
 

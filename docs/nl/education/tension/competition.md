@@ -235,8 +235,8 @@ Het beheersen van spanning verbetert met oefening:
 
 ## Gerelateerde inhoud
 
-- [Spanning begrijpen](/en/education/tension/) — De wetenschap van spanning
-- [Technieken voor spanningsontspanning](/en/education/tension/techiques) — PMR en ademhaling
-- [Mentale kracht](/en/education/mental-game/mental-strength/) — Omgaan met druk
-- [Voorbereidende training](/en/education/mental-game/mental-strength/pre-shot-routine) — Consistente uitvoering
+- [Spanning begrijpen](/nl/education/tension/) — De wetenschap van spanning
+- [Technieken voor spanningsontspanning](/nl/education/tension/techiques) — PMR en ademhaling
+- [Mentale kracht](/nl/education/mental-game/mental-strength/) — Omgaan met druk
+- [Voorbereidende training](/nl/education/mental-game/mental-strength/pre-shot-routine) — Consistente uitvoering
 

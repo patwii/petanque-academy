@@ -185,13 +185,13 @@ Bewerten Sie sich selbst ehrlich (1 = Nie, 5 = Immer):
 
 ## In diesem Modul
 
-### [Feedback erhalten und nutzen](/en/education/self-awareness/feedback)
+### [Feedback erhalten und nutzen](/de/education/self-awareness/feedback)
 - Quellen für objektives Feedback
 - Wie man effektiv um Feedback bittet
 - Feedback ohne Abwehrhaltung annehmen
 - Feedback in die Tat umsetzen
 
-### [Videoanalyse zur Selbsterkenntnis](/en/education/self-awareness/video)
+### [Videoanalyse zur Selbsterkenntnis](/de/education/self-awareness/video)
 - Was und wann aufgezeichnet werden soll
 - Worauf Sie in Ihrem Filmmaterial achten sollten
 - Vergleich der Selbstwahrnehmung mit der Videorealität
@@ -213,8 +213,8 @@ Notieren Sie Ihre Antworten. Vergleichen Sie sie im Laufe der Zeit. Es werden si
 
 ## Verwandte Faktoren
 
-- [Mentales Spiel](/en/education/mental-game/) — Selbstwahrnehmung unterstützt mentales Training
-- [Teamdynamik](/en/education/team-dynamics/) — Verstehe, wie andere dich wahrnehmen
-- [Motivation](/en/education/motivation/) — Kenne deine wahren Antriebe
-- [Technik](/en/education/technique/) — Videoanalyse enthüllt technische Wahrheit
+- [Mentales Spiel](/de/education/mental-game/) — Selbstwahrnehmung unterstützt mentales Training
+- [Teamdynamik](/de/education/team-dynamics/) — Verstehe, wie andere dich wahrnehmen
+- [Motivation](/de/education/motivation/) — Kenne deine wahren Antriebe
+- [Technik](/de/education/technique/) — Videoanalyse enthüllt technische Wahrheit
 

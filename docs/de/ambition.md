@@ -83,7 +83,7 @@ Nicht alle Verbesserungen sind gleichwertig. Wir verwenden **ROI-Berechnungen**,
 Wir haben ein **kostenloses Bewertungstool** entwickelt, das Ihre aktuellen Werte in allen 8 Faktoren analysiert und Ihre individuellen Verbesserungsprioritäten berechnet.
 
 ::: info Nehmen Sie an der Bewertung teil
-**[→ Starten Sie Ihre Spielerentwicklungsbeurteilung](/en/assessment/)**
+**[→ Starten Sie Ihre Spielerentwicklungsbeurteilung](/de/assessment/)**
 
 In 5 Minuten erhalten Sie:
 - Ihr Radardiagramm über alle 8 Faktoren
@@ -96,10 +96,10 @@ In 5 Minuten erhalten Sie:
 
 | Angebot | Beschreibung | Link |
 |----------|-------------|------|
-| **Bewertungsinstrument** | Identifizieren Sie Ihre Bereiche mit dem höchsten ROI. | [Test absolvieren](/en/assessment/) |
-| **Schulungsmodule** | Tiefgehende Inhalte zu allen 8 Faktoren | [Bildung durchsuchen](/en/education/) |
-| **Workshops** | 3-4-stündige Trainingseinheiten für Gruppen von 6-8 Spielern | [Workshop-Leitfaden](/en/guides/workshop/) |
-| **Trainingslager** | Wochenend-Intensivkurse, die Theorie und Praxis verbinden | [Camp Guide](/en/guides/training-camp/) |
+| **Bewertungsinstrument** | Identifizieren Sie Ihre Bereiche mit dem höchsten ROI. | [Test absolvieren](/de/assessment/) |
+| **Schulungsmodule** | Tiefgehende Inhalte zu allen 8 Faktoren | [Bildung durchsuchen](/de/education/) |
+| **Workshops** | 3-4-stündige Trainingseinheiten für Gruppen von 6-8 Spielern | [Workshop-Leitfaden](/de/guides/workshop/) |
+| **Trainingslager** | Wochenend-Intensivkurse, die Theorie und Praxis verbinden | [Camp Guide](/de/guides/training-camp/) |
 
 ## Unser Ansatz
 
@@ -119,9 +119,9 @@ Wende die Techniken im Training vor dem Wettkampf an. Entwickle Gewohnheiten, ni
 Verfolge deinen Fortschritt. Deine Prioritäten werden sich mit deinen Fortschritten verändern.
 
 ::: tip Bereit für den nächsten Schritt?
-**[→ Beginnen Sie mit der Selbsteinschätzung](/en/assessment/)** — Sie ist kostenlos und dauert 5 Minuten.
+**[→ Beginnen Sie mit der Selbsteinschätzung](/de/assessment/)** — Sie ist kostenlos und dauert 5 Minuten.
 
-Oder erkunden Sie unseren Abschnitt [Bildung](/en/education/), um tiefer in einen der 8 Faktoren einzutauchen.
+Oder erkunden Sie unseren Abschnitt [Bildung](/de/education/), um tiefer in einen der 8 Faktoren einzutauchen.
 :::
 
 

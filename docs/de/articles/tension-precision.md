@@ -230,7 +230,7 @@ Spieler, die das Spannungsmanagement beherrschen:
 
 ## Verwandte Inhalte
 
-- [Modul Spannungsmanagement](/en/education/tension/) — Vollständige Ausbildung
-- [Körperliche Vorbereitung](/en/education/tension/physical) — Körperliche Bereitschaft
-- [Druckmanagement](/en/articles/pressure-management) — Mentale Aspekte
+- [Modul Spannungsmanagement](/de/education/tension/) — Vollständige Ausbildung
+- [Körperliche Vorbereitung](/de/education/tension/physical) — Körperliche Bereitschaft
+- [Druckmanagement](/de/articles/pressure-management) — Mentale Aspekte
 

@@ -99,12 +99,12 @@ Nach Abschluss Ihrer Bewertung:
 
 ## Erfahren Sie mehr über die einzelnen Faktoren.
 
-- [🧠 Mentales Spiel](/en/education/mental-game/) — Flow-Zustände, mentale Stärke, Achtsamkeit
-- [🔥 Motivation](/en/education/motivation/) — Zielsetzung, Psychologie, langfristiger Antrieb
-- [😴 Schlaf &amp; Erholung](/en/education/sleep/) — Schlafwissenschaft, Gewohnheiten, Wettkampfprotokolle
-- [🪞 Selbstwahrnehmung](/en/education/self-awareness/) — Feedback, Videoanalyse, blinde Flecken
-- [🥗 Ernährung](/en/education/nutrition/) — Blutzucker, Flüssigkeitszufuhr, Wettkampf-Energie
-- [🤝 Teamdynamik](/en/education/team-dynamics/) — Kommunikation, Vertrauen, Teamkultur
-- [💆 Spannungsmanagement](/en/education/tension/) — Entspannungstechniken, Atmung, Protokolle
-- [🎯 Technik](/en/education/technique/) — Trainingsmethoden, Taktiken, Übungen
+- [🧠 Mentales Spiel](/de/education/mental-game/) — Flow-Zustände, mentale Stärke, Achtsamkeit
+- [🔥 Motivation](/de/education/motivation/) — Zielsetzung, Psychologie, langfristiger Antrieb
+- [😴 Schlaf &amp; Erholung](/de/education/sleep/) — Schlafwissenschaft, Gewohnheiten, Wettkampfprotokolle
+- [🪞 Selbstwahrnehmung](/de/education/self-awareness/) — Feedback, Videoanalyse, blinde Flecken
+- [🥗 Ernährung](/de/education/nutrition/) — Blutzucker, Flüssigkeitszufuhr, Wettkampf-Energie
+- [🤝 Teamdynamik](/de/education/team-dynamics/) — Kommunikation, Vertrauen, Teamkultur
+- [💆 Spannungsmanagement](/de/education/tension/) — Entspannungstechniken, Atmung, Protokolle
+- [🎯 Technik](/de/education/technique/) — Trainingsmethoden, Taktiken, Übungen
 

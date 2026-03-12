@@ -207,8 +207,8 @@ AFTER MISTAKES
 
 ## Ressources connexes
 
-- [Suivi du sommeil](/en/guides/templates/sleep-tracker) — Optimisez votre sommeil avant la compétition
-- [Guide nutritionnel](/en/education/nutrition/) — Stratégies d&#39;alimentation pour la compétition
-- [Force mentale](/en/education/mental-game/mental-strength/) — Gestion de la pression
+- [Suivi du sommeil](/fr/guides/templates/sleep-tracker) — Optimisez votre sommeil avant la compétition
+- [Guide nutritionnel](/fr/education/nutrition/) — Stratégies d&#39;alimentation pour la compétition
+- [Force mentale](/fr/education/mental-game/mental-strength/) — Gestion de la pression
 - Gestion du stress — Restez détendu sous pression
 

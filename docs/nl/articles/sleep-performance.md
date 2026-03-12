@@ -196,7 +196,7 @@ Wat gemeten wordt, kan beheerd worden:
 
 ## Gerelateerde inhoud
 
-- [Slaap- en herstelmodule](/en/education/sleep/) — Complete slaapeducatie
-- [Slaapgewoonten](/en/education/sleep/habits) — Duurzame routines opbouwen
-- [Wedstrijdslaap](/en/education/sleep/competition) — Evenementspecifieke protocollen
+- [Slaap- en herstelmodule](/nl/education/sleep/) — Complete slaapeducatie
+- [Slaapgewoonten](/nl/education/sleep/habits) — Duurzame routines opbouwen
+- [Wedstrijdslaap](/nl/education/sleep/competition) — Evenementspecifieke protocollen
 

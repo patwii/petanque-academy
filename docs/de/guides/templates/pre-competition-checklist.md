@@ -207,8 +207,8 @@ AFTER MISTAKES
 
 ## Verwandte Ressourcen
 
-- [Schlaftracker](/en/guides/templates/sleep-tracker) — Optimieren Sie Ihren Schlaf vor dem Wettkampf
-- [Ernährungsleitfaden](/en/education/nutrition/) — Strategien zur Leistungssteigerung im Wettkampf
+- [Schlaftracker](/de/guides/templates/sleep-tracker) — Optimieren Sie Ihren Schlaf vor dem Wettkampf
+- [Ernährungsleitfaden](/de/education/nutrition/) — Strategien zur Leistungssteigerung im Wettkampf
 - Mentale Stärke – Druckmanagement
-- [Spannungsmanagement](/en/education/tension/) — Gelassen bleiben unter Druck
+- [Spannungsmanagement](/de/education/tension/) — Gelassen bleiben unter Druck
 

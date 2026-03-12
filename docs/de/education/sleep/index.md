@@ -160,13 +160,13 @@ Bewerten Sie sich selbst ehrlich (1-5):
 
 ## In diesem Modul
 
-### [Schlafprotokolle für Wettkämpfe](/en/education/sleep/competition)
+### [Schlafprotokolle für Wettkämpfe](/de/education/sleep/competition)
 - Die Woche vor dem Wettkampf
 - Reise- und Zeitzonenmanagement
 - Protokolle für kurze Nickerchen
 - Notfallstrategien für „Ich konnte nicht schlafen“
 
-### [Schlafhygiene für Sportler](/en/education/sleep/habits)
+### [Schlafhygiene für Sportler](/de/education/sleep/habits)
 - Die 10 Grundregeln für einen erholsamen Schlaf
 - Vorlagen für die Abendroutine
 - Die 30-Tage-Schlaf-Challenge
@@ -189,8 +189,8 @@ Allein diese beiden Änderungen können die Schlafqualität innerhalb weniger Ta
 
 Schlaf steht in engem Zusammenhang mit allen anderen Aspekten Ihrer Leistungsfähigkeit:
 
-- [Spannungsmanagement](/en/education/tension/) — PMR- und Entspannungstechniken fördern den Schlaf
-- [Ernährung](/en/education/nutrition/) — Mahlzeitenzeiten und Blutzucker beeinflussen die Schlafqualität
-- [Mentales Spiel](/en/education/mental-game/) — Schlaf unterstützt die kognitive Funktion und die emotionale Kontrolle
+- [Spannungsmanagement](/de/education/tension/) — PMR- und Entspannungstechniken fördern den Schlaf
+- [Ernährung](/de/education/nutrition/) — Mahlzeitenzeiten und Blutzucker beeinflussen die Schlafqualität
+- [Mentales Spiel](/de/education/mental-game/) — Schlaf unterstützt die kognitive Funktion und die emotionale Kontrolle
 - Selbstwahrnehmung – Erkennen, wann Müdigkeit das Spiel beeinträchtigt
 

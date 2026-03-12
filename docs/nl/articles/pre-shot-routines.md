@@ -152,5 +152,5 @@ Net zo belangrijk is wat je doet na een worp:
 
 ---
 
-| *Gerelateerd: [Handleiding voor de voorbereiding op een schot](/en/education/mental-game/mental-strength/pre-shot-routine) | [Omgaan met druk](/en/education/mental-game/mental-strength/handling-pressure) | [Mindfulnesstechnieken](/en/education/mental-game/mindfulness/techniques)* |
+| *Gerelateerd: [Handleiding voor de voorbereiding op een schot](/nl/education/mental-game/mental-strength/pre-shot-routine) | [Omgaan met druk](/nl/education/mental-game/mental-strength/handling-pressure) | [Mindfulnesstechnieken](/nl/education/mental-game/mindfulness/techniques)* |
 

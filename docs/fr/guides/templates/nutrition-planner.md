@@ -165,7 +165,7 @@ Planifiez quoi et quand manger pour une performance optimale les jours de compé
 
 ## Ressources connexes
 
-- [Éducation nutritionnelle](/en/education/nutrition/) — Guide nutritionnel complet
-- [Liste de vérification pré-compétition](/en/guides/templates/pre-competition-checklist) — Guide de préparation complet
-- [Suivi du sommeil](/en/guides/templates/sleep-tracker) — Optimiser la récupération
+- [Éducation nutritionnelle](/fr/education/nutrition/) — Guide nutritionnel complet
+- [Liste de vérification pré-compétition](/fr/guides/templates/pre-competition-checklist) — Guide de préparation complet
+- [Suivi du sommeil](/fr/guides/templates/sleep-tracker) — Optimiser la récupération
 

@@ -11,7 +11,7 @@ Praktische Vorlagen zur Unterstützung Ihres Entwicklungsweges.
 
 ### Priorität 1: Am häufigsten angefragt
 
-#### 😴 [Schlaftracker](/en/guides/templates/sleep-tracker)
+#### 😴 [Schlaftracker](/de/guides/templates/sleep-tracker)
 
 Verfolge deine Schlafmuster und setze sie in Zusammenhang mit deiner Leistungsfähigkeit.
 
@@ -24,11 +24,11 @@ Verfolge deine Schlafmuster und setze sie in Zusammenhang mit deiner Leistungsf�
 
 **Ideal für:** Optimierung der Regeneration, Wettkampfvorbereitung, Ermittlung von Schlafmustern
 
-[Schlaftracker anzeigen →](/en/guides/templates/sleep-tracker)
+[Schlaftracker anzeigen →](/de/guides/templates/sleep-tracker)
 
 ---
 
-#### ✅ [Checkliste vor dem Wettbewerb](/en/guides/templates/pre-competition-checklist)
+#### ✅ [Checkliste vor dem Wettbewerb](/de/guides/templates/pre-competition-checklist)
 
 Vollständiger Vorbereitungsleitfaden für den Tag vor und den Tag des Wettkampfs.
 
@@ -41,13 +41,13 @@ Vollständiger Vorbereitungsleitfaden für den Tag vor und den Tag des Wettkampf
 
 **Ideal für:** Turniervorbereitung, Abbau von Stress vor dem Spiel, Aufbau beständiger Routinen
 
-[Checkliste vor dem Wettbewerb ansehen →](/en/guides/templates/pre-competition-checklist)
+[Checkliste vor dem Wettbewerb ansehen →](/de/guides/templates/pre-competition-checklist)
 
 ---
 
 ### Priorität 2: Teamentwicklung
 
-#### 🎯 [Vorlage für Peer-Feedback](/en/guides/templates/peer-feedback)
+#### 🎯 [Vorlage für Peer-Feedback](/de/guides/templates/peer-feedback)
 
 Strukturierte Vorlagen zum Anfordern und Geben von ehrlichem Feedback.
 
@@ -59,11 +59,11 @@ Strukturierte Vorlagen zum Anfordern und Geben von ehrlichem Feedback.
 
 **Ideal für:** Aufdecken von blinden Flecken, Teamentwicklung, offene Entwicklungsgespräche
 
-[Vorlage für Peer-Feedback ansehen →](/en/guides/templates/peer-feedback)
+[Vorlage für Peer-Feedback ansehen →](/de/guides/templates/peer-feedback)
 
 ---
 
-#### 🤝 [Vorlage für eine Teamvereinbarung](/en/guides/templates/team-agreement)
+#### 🤝 [Vorlage für eine Teamvereinbarung](/de/guides/templates/team-agreement)
 
 Rahmenkonzept für Rollen, Kommunikation und Konfliktlösung.
 
@@ -77,13 +77,13 @@ Rahmenkonzept für Rollen, Kommunikation und Konfliktlösung.
 
 **Ideal für:** Neue Teams, Verbesserung der Teamchemie, Vermeidung von Konflikten
 
-[Vorlage für Teamvereinbarung ansehen →](/en/guides/templates/team-agreement)
+[Vorlage für Teamvereinbarung ansehen →](/de/guides/templates/team-agreement)
 
 ---
 
 ### Priorität 3: Kurzübersicht
 
-#### 💆 [Spannungslösungs-Schnellkarte](/en/guides/templates/tension-quick-card)
+#### 💆 [Spannungslösungs-Schnellkarte](/de/guides/templates/tension-quick-card)
 
 Ausdruckbare Taschenkarte mit Entspannungstechniken für Wettkämpfe.
 
@@ -96,11 +96,11 @@ Ausdruckbare Taschenkarte mit Entspannungstechniken für Wettkämpfe.
 
 **Ideal für:** Schnelles Nachschlagen im Wettkampf, Tragen in der Tasche/im Rucksack
 
-[Spannungs-Schnellkarte ansehen →](/en/guides/templates/tension-quick-card)
+[Spannungs-Schnellkarte ansehen →](/de/guides/templates/tension-quick-card)
 
 ---
 
-#### 🍎 [Wettkampf-Ernährungsplaner](/en/guides/templates/nutrition-planner)
+#### 🍎 [Wettkampf-Ernährungsplaner](/de/guides/templates/nutrition-planner)
 
 Plane, was und wann du isst, um an Wettkampftagen optimale Leistungen zu erbringen.
 
@@ -113,13 +113,13 @@ Plane, was und wann du isst, um an Wettkampftagen optimale Leistungen zu erbring
 
 **Ideal für:** Wettkampfvorbereitung, Vermeidung von Blutzuckerschwankungen, stabile Energieversorgung
 
-[Ernährungsplaner ansehen →](/en/guides/templates/nutrition-planner)
+[Ernährungsplaner ansehen →](/de/guides/templates/nutrition-planner)
 
 ---
 
 ### Fundamentvorlagen
 
-#### 📋 [Zielvorlage](/en/guides/templates/goal-template)
+#### 📋 [Zielvorlage](/de/guides/templates/goal-template)
 
 Strukturiertes Arbeitsblatt zur Festlegung effektiver Pétanque-Ziele.
 
@@ -131,11 +131,11 @@ Strukturiertes Arbeitsblatt zur Festlegung effektiver Pétanque-Ziele.
 
 **Ideal für:** Saisonplanung, Turniervorbereitung, Ziele zur Weiterentwicklung der Fähigkeiten
 
-[Zielvorlage ansehen →](/en/guides/templates/goal-template)
+[Zielvorlage ansehen →](/de/guides/templates/goal-template)
 
 ---
 
-#### 📓 [Tagebuchvorlage](/en/guides/templates/diary-template)
+#### 📓 [Tagebuchvorlage](/de/guides/templates/diary-template)
 
 Trainings- und Wettkampftagebuch zur Dokumentation deiner Fortschritte.
 
@@ -148,7 +148,7 @@ Trainings- und Wettkampftagebuch zur Dokumentation deiner Fortschritte.
 
 **Ideal für:** Regelmäßiges Training, Wettkampfanalyse, langfristige Entwicklung
 
-[Tagebuchvorlage ansehen →](/en/guides/templates/diary-template)
+[Tagebuchvorlage ansehen →](/de/guides/templates/diary-template)
 
 ---
 
@@ -165,9 +165,9 @@ Beides funktioniert. Manche Spieler bevorzugen Papier wegen des haptischen Erleb
 
 ## Verwandte Ressourcen
 
-- [Schlaf- und Erholungsaufklärung](/en/education/sleep/) — Die Wissenschaft hinter dem Schlaf
+- [Schlaf- und Erholungsaufklärung](/de/education/sleep/) — Die Wissenschaft hinter dem Schlaf
 - Selbstwahrnehmung – Blinde Flecken erkennen
-- [Teamdynamik](/en/education/team-dynamics/) — Stärkere Teambindungen aufbauen
-- [Leitfaden zur Zielsetzung](/en/education/motivation/) — Lernen Sie die Theorie hinter effektiven Zielen kennen
-- [Trainingsmethoden](/en/education/technique/training/) — Wie Sie Ihre Praxis strukturieren
+- [Teamdynamik](/de/education/team-dynamics/) — Stärkere Teambindungen aufbauen
+- [Leitfaden zur Zielsetzung](/de/education/motivation/) — Lernen Sie die Theorie hinter effektiven Zielen kennen
+- [Trainingsmethoden](/de/education/technique/training/) — Wie Sie Ihre Praxis strukturieren
 

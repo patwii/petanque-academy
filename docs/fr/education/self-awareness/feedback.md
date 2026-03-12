@@ -76,7 +76,7 @@ L&#39;expertise externe apporte une perspective que vous ne pouvez pas générer
 
 ### 5. Analyse vidéo
 
-Le miroir le plus objectif qui soit. Consultez la [Analyse vidéo](/en/education/self-awareness/video) pour connaître les protocoles détaillés.
+Le miroir le plus objectif qui soit. Consultez la [Analyse vidéo](/fr/education/self-awareness/video) pour connaître les protocoles détaillés.
 
 ---
 
@@ -220,8 +220,8 @@ Rompre ces schémas exige un effort conscient, mais la récompense est une amél
 
 ## Contenu associé
 
-- [L&#39;avantage de la conscience de soi](/en/education/self-awareness/) — Pourquoi la connaissance de soi est importante
-- [Analyse vidéo](/en/education/self-awareness/video) — Auto-observation objective
-- [Dynamique d&#39;équipe](/en/education/team-dynamics/) — Communication avec les coéquipiers
-- [Force mentale](/en/education/mental-game/mental-strength/) — Faire face aux vérités difficiles
+- [L&#39;avantage de la conscience de soi](/fr/education/self-awareness/) — Pourquoi la connaissance de soi est importante
+- [Analyse vidéo](/fr/education/self-awareness/video) — Auto-observation objective
+- [Dynamique d&#39;équipe](/fr/education/team-dynamics/) — Communication avec les coéquipiers
+- [Force mentale](/fr/education/mental-game/mental-strength/) — Faire face aux vérités difficiles
 

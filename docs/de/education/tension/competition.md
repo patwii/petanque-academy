@@ -235,8 +235,8 @@ Spannungsmanagement verbessert sich mit der Übung:
 
 ## Verwandte Inhalte
 
-- [Spannung verstehen](/en/education/tension/) — Die Wissenschaft der Spannung
-- [Techniken zur Spannungsentspannung](/en/education/tension/techniques) — PMR und Atmung
+- [Spannung verstehen](/de/education/tension/) — Die Wissenschaft der Spannung
+- [Techniken zur Spannungsentspannung](/de/education/tension/techniques) — PMR und Atmung
 - Mentale Stärke – Umgang mit Druck
-- [Vorbereitungsroutine vor dem Wurf](/en/education/mental-game/mental-strength/pre-shot-routine) — Konsequente Ausführung
+- [Vorbereitungsroutine vor dem Wurf](/de/education/mental-game/mental-strength/pre-shot-routine) — Konsequente Ausführung
 

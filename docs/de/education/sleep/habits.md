@@ -223,7 +223,7 @@ Sollten Sie Ihren Schlaf tracken? Beachten Sie Folgendes:
 ## Verwandte Inhalte
 
 - Schlafwissenschaft – Warum Schlaf so wichtig ist
-- [Wettkampfprotokolle](/en/education/sleep/competition) — Schlafen rund um Turniere
-- [Spannungsmanagement](/en/education/tension/) — PMR und Entspannung für besseren Schlaf
-- [Achtsamkeit](/en/education/mental-game/mindfulness/) — Atemtechniken
+- [Wettkampfprotokolle](/de/education/sleep/competition) — Schlafen rund um Turniere
+- [Spannungsmanagement](/de/education/tension/) — PMR und Entspannung für besseren Schlaf
+- [Achtsamkeit](/de/education/mental-game/mindfulness/) — Atemtechniken
 

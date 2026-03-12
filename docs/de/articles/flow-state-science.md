@@ -200,5 +200,5 @@ Wie jede FÃ¤higkeit verbessert sich auch das Erreichen des Flow-Zustands durch Ã
 
 ---
 
-| *Verwandt: [Die Zone](/en/education/mental-game/the-zone/) | [In die Zone eintreten](/en/education/mental-game/the-zone/entering-the-zone) | [Achtsamkeitstechniken](/en/education/mental-game/mindfulness/techniques)* |
+| *Verwandt: [Die Zone](/de/education/mental-game/the-zone/) | [In die Zone eintreten](/de/education/mental-game/the-zone/entering-the-zone) | [Achtsamkeitstechniken](/de/education/mental-game/mindfulness/techniques)* |
 

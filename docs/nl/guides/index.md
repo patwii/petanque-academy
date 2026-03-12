@@ -25,7 +25,7 @@ graph LR
 
 ## Gidsformaten
 
-### 🌱 [Mentale Reis](/en/guides/mental-journey/)
+### 🌱 [Mentale Reis](/nl/guides/mental-journey/)
 **Voor beginners** — Introductie van 2-3 uur
 
 Perfect voor spelers die nog niet bekend zijn met mentale training. Een laagdrempelige introductie tot de kernconcepten met praktische oefeningen.
@@ -33,11 +33,11 @@ Perfect voor spelers die nog niet bekend zijn met mentale training. Een laagdrem
 - Duur: 2-3 uur
 - Groepsgrootte: 4-12 spelers
 - Materialen: Aangeleverd
-- [Bekijk de gids →](/en/guides/mental-journey/)
+- [Bekijk de gids →](/nl/guides/mental-journey/)
 
 ---
 
-### 🎯 [Workshop](/en/guides/workshop/)
+### 🎯 [Workshop](/nl/guides/workshop/)
 **Voor gevorderden** — 3-4 uur durende diepgaande training
 
 Gestructureerde workshopvorm voor clubs en teams die zich serieuzer willen verdiepen in mentale training.
@@ -45,11 +45,11 @@ Gestructureerde workshopvorm voor clubs en teams die zich serieuzer willen verdi
 - Duur: 3-4 uur
 - Groepsgrootte: 6-8 spelers
 - Inclusief: Coördinatorhandleiding + downloadbaar materiaal
-- [Bekijk de handleiding →](/en/guides/workshop/)
+- [Bekijk de handleiding →](/nl/guides/workshop/)
 
 ---
 
-### 🏕️ [Trainingskamp](/en/guides/training-camp/)
+### 🏕️ [Trainingskamp](/nl/guides/training-camp/)
 **Voor toegewijde teams** — Intensief weekendprogramma
 
 Een compleet weekendprogramma met een mix van theorie, praktijk en competitie. Ideaal voor teams die zich voorbereiden op belangrijke toernooien.
@@ -57,11 +57,11 @@ Een compleet weekendprogramma met een mix van theorie, praktijk en competitie. I
 - Duur: 2-3 dagen
 - Groepsgrootte: 10-20 spelers
 - Inclusief: Volledig programma + organisatiemateriaal
-- [Bekijk de handleiding →](/en/guides/training-camp/)
+- [Bekijk de handleiding →](/nl/guides/training-camp/)
 
 ---
 
-### 🔄 [Trainingssessie](/en/guides/training-session/)
+### 🔄 [Trainingssessie](/nl/guides/training-session/)
 **Voor regelmatige oefening** — gestructureerde sessies van 2-4 uur
 
 Een raamwerk voor regelmatige trainingssessies waarin mentale vaardigheden worden gecombineerd met technische oefeningen.
@@ -69,7 +69,7 @@ Een raamwerk voor regelmatige trainingssessies waarin mentale vaardigheden worde
 - Duur: 2-4 uur
 - Groepsgrootte: 4 spelers (één team)
 - Focus: Competitiesimulatie met reflectie
-- [Bekijk de handleiding →](/en/guides/training-session/)
+- [Bekijk de handleiding →](/nl/guides/training-session/)
 
 ---
 
@@ -77,10 +77,10 @@ Een raamwerk voor regelmatige trainingssessies waarin mentale vaardigheden worde
 
 Downloadbare sjablonen ter ondersteuning van uw ontwikkeling:
 
-### 📋 [Doelsjabloon](/en/guides/templates/goal-template)
+### 📋 [Doelsjabloon](/nl/guides/templates/goal-template)
 Gestructureerd werkblad voor het vaststellen en bijhouden van je pétanque-doelen met behulp van het SMART-raamwerk.
 
-### 📓 [Dagboeksjabloon](/en/guides/templates/diary-template)
+### 📓 [Dagboeksjabloon](/nl/guides/templates/diary-template)
 Sjabloon voor een trainings- en wedstrijddagboek om de voortgang, inzichten en verbeterpunten bij te houden.
 
 ---
@@ -100,7 +100,7 @@ Elke handleiding bevat materiaal voor zowel deelnemers als begeleiders/organisat
 
 ## Gerelateerde bronnen
 
-- [🎯 Beoordeling](/en/assessment/) — Evalueer je 8 factoren en bepaal je prioriteiten
-- [📚 Educatiecentrum](/en/education/) — Een diepgaande analyse van de 8 prestatiefactoren
-- [📝 Artikelen](/en/articles/) — Onderzoek en inzichten
+- [🎯 Beoordeling](/nl/assessment/) — Evalueer je 8 factoren en bepaal je prioriteiten
+- [📚 Educatiecentrum](/nl/education/) — Een diepgaande analyse van de 8 prestatiefactoren
+- [📝 Artikelen](/nl/articles/) — Onderzoek en inzichten
 

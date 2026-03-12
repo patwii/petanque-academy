@@ -302,10 +302,10 @@ Chaque objectif doit être lié à votre motivation profonde :
 
 ## Ressources connexes
 
-- [Atelier](/en/guides/workshop/) - Séances de groupe sur la fixation d&#39;objectifs et la préparation mentale
-- [Séance de formation](/en/guides/training-session/) - Pratique avec des partenaires de responsabilisation
-- [Force mentale](/en/education/mental-game/mental-strength/) - Développer l&#39;état d&#39;esprit nécessaire à la réalisation de ses objectifs
-- [Modèle de journal d&#39;entraînement](/en/guides/templates/diary-template) - Suivi quotidien de la pratique
+- [Atelier](/fr/guides/workshop/) - Séances de groupe sur la fixation d&#39;objectifs et la préparation mentale
+- [Séance de formation](/fr/guides/training-session/) - Pratique avec des partenaires de responsabilisation
+- [Force mentale](/fr/education/mental-game/mental-strength/) - Développer l&#39;état d&#39;esprit nécessaire à la réalisation de ses objectifs
+- [Modèle de journal d&#39;entraînement](/fr/guides/templates/diary-template) - Suivi quotidien de la pratique
 
 ---
 

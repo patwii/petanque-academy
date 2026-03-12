@@ -164,8 +164,8 @@ graph LR
 
 ## Dans cette section
 
-- **[Techniques](/en/education/mental-game/mindfulness/techniques)** - Exercices pratiques que vous pouvez utiliser
-- **[Pratique quotidienne](/en/education/mental-game/mindfulness/daily-practice)** - Intégrer la pleine conscience dans votre vie
+- **[Techniques](/fr/education/mental-game/mindfulness/techniques)** - Exercices pratiques que vous pouvez utiliser
+- **[Pratique quotidienne](/fr/education/mental-game/mindfulness/daily-practice)** - Intégrer la pleine conscience dans votre vie
 
 ## Résumé : Règles de la pleine conscience
 

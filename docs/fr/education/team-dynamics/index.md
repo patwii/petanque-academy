@@ -182,7 +182,7 @@ Les grandes équipes développent des compétences partagées :
 
 ## Dans cette section
 
-- **[Communication d&#39;équipe](/en/education/team-dynamics/communication)** - Guide détaillé pour communiquer efficacement
+- **[Communication d&#39;équipe](/fr/education/team-dynamics/communication)** - Guide détaillé pour communiquer efficacement
 
 ## Points clés à retenir
 

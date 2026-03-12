@@ -185,5 +185,5 @@ Mentale vaardigheden zijn trainbaar. Train ze op de juiste manier.
 
 ---
 
-| *Gerelateerd: [Mentale kracht](/en/education/mental-game/mental-strength/) | [Trainingsmethoden](/en/education/technique/training/) | [Mindfulness](/en/education/mental-game/mindfulness/)* |
+| *Gerelateerd: [Mentale kracht](/nl/education/mental-game/mental-strength/) | [Trainingsmethoden](/nl/education/technique/training/) | [Mindfulness](/nl/education/mental-game/mindfulness/)* |
 

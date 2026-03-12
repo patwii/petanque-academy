@@ -141,10 +141,10 @@ Notieren Sie Ihre Antworten. Kehren Sie darauf zurück, wenn Ihre Motivation nac
 
 ## In diesem Abschnitt
 
-- **[Psychologie der Motivation](/en/education/motivation/motivation)** — Intrinsische vs. extrinsische Motivation, Selbstbestimmungstheorie
-- **[SMART Goals im Detail](/en/education/motivation/smart-goals)** — Ein detaillierter Einblick in die Erstellung effektiver Ziele
-- **[Erstellung deines Trainingsplans](/en/education/motivation/planning)** — Ziele in die Tat umsetzen
-- **[Motivation aufrechterhalten](/en/education/motivation/maintaining)** — Langfristige Nachhaltigkeit, Burnout-Prävention
+- **[Psychologie der Motivation](/de/education/motivation/motivation)** — Intrinsische vs. extrinsische Motivation, Selbstbestimmungstheorie
+- **[SMART Goals im Detail](/de/education/motivation/smart-goals)** — Ein detaillierter Einblick in die Erstellung effektiver Ziele
+- **[Erstellung deines Trainingsplans](/de/education/motivation/planning)** — Ziele in die Tat umsetzen
+- **[Motivation aufrechterhalten](/de/education/motivation/maintaining)** — Langfristige Nachhaltigkeit, Burnout-Prävention
 
 ## Zusammenfassung: Regeln zur Zielsetzung
 

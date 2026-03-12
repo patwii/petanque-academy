@@ -165,7 +165,7 @@ Pianifica cosa e quando mangiare per ottenere prestazioni ottimali nei giorni di
 
 ## Risorse correlate
 
-- [Educazione nutrizionale](/en/education/nutrition/) — Guida nutrizionale completa
+- [Educazione nutrizionale](/it/education/nutrition/) — Guida nutrizionale completa
 - [Checklist pre-gara](/it/guide/templates/pre-competition-checklist) — Guida completa alla preparazione
-- [Monitoraggio del sonno](/en/guides/templates/sleep-tracker) — Ottimizza il recupero
+- [Monitoraggio del sonno](/it/guides/templates/sleep-tracker) — Ottimizza il recupero
 

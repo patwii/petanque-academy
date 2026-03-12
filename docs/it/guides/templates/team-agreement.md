@@ -219,7 +219,7 @@ Con la firma, ci impegniamo a rispettare il presente accordo e a rivederlo qualo
 
 ## Risorse correlate
 
-- [Formazione sulle dinamiche di gruppo](/en/education/team-dynamics/) — Rafforzare i legami di squadra
-- [Modello di feedback tra pari](/en/guides/templates/peer-feedback) — Strumenti di feedback strutturato
-- [Guida alla sessione di formazione](/en/guides/training-session/) — Esercitarsi insieme in modo efficace
+- [Formazione sulle dinamiche di gruppo](/it/education/team-dynamics/) — Rafforzare i legami di squadra
+- [Modello di feedback tra pari](/it/guides/templates/peer-feedback) — Strumenti di feedback strutturato
+- [Guida alla sessione di formazione](/it/guides/training-session/) — Esercitarsi insieme in modo efficace
 

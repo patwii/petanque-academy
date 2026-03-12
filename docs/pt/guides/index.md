@@ -25,7 +25,7 @@ graph LR
 
 ## Formatos de guia
 
-### 🌱 [Jornada Mental](/en/guides/mental-journey/)
+### 🌱 [Jornada Mental](/pt/guides/mental-journey/)
 **Para Iniciantes** — Introdução de 2 a 3 horas
 
 Ideal para jogadores iniciantes no treinamento mental. Uma introdução suave aos conceitos básicos com exercícios práticos.
@@ -33,11 +33,11 @@ Ideal para jogadores iniciantes no treinamento mental. Uma introdução suave ao
 - Duração: 2 a 3 horas
 - Tamanho do grupo: 4 a 12 jogadores
 - Materiais: Fornecidos
-- [Ver guia →](/en/guides/mental-journey/)
+- [Ver guia →](/pt/guides/mental-journey/)
 
 ---
 
-### 🎯 [Workshop](/en/guides/workshop/)
+### 🎯 [Workshop](/pt/guides/workshop/)
 **Para nível intermediário** — Imersão de 3 a 4 horas
 
 Formato de workshop estruturado para clubes e equipes que desejam explorar o treinamento mental de forma mais aprofundada.
@@ -45,11 +45,11 @@ Formato de workshop estruturado para clubes e equipes que desejam explorar o tre
 - Duração: 3-4 horas
 - Tamanho do grupo: 6-8 jogadores
 - Inclui: Guia do coordenador + materiais para download
-- [Ver guia →](/en/guides/workshop/)
+- [Ver guia →](/pt/guides/workshop/)
 
 ---
 
-### 🏕️ [Campo de Treinamento](/en/guides/training-camp/)
+### 🏕️ [Campo de Treinamento](/pt/guides/training-camp/)
 **Para Equipes Comprometidas** — Curso intensivo de fim de semana
 
 Programa completo de fim de semana que combina teoria, prática e competição. Ideal para equipes que se preparam para torneios importantes.
@@ -57,11 +57,11 @@ Programa completo de fim de semana que combina teoria, prática e competição. 
 - Duração: 2 a 3 dias
 - Tamanho do grupo: 10-20 jogadores
 - Inclui: Programa completo + materiais de organização
-- [Ver guia →](/en/guides/training-camp/)
+- [Ver guia →](/pt/guides/training-camp/)
 
 ---
 
-### 🔄 [Sessão de Treinamento](/en/guides/training-session/)
+### 🔄 [Sessão de Treinamento](/pt/guides/training-session/)
 **Para prática regular** — sessões estruturadas de 2 a 4 horas
 
 Estrutura para sessões de treinamento regulares que incorporam habilidades mentais juntamente com a prática técnica.
@@ -69,7 +69,7 @@ Estrutura para sessões de treinamento regulares que incorporam habilidades ment
 - Duração: 2 a 4 horas
 - Tamanho do grupo: 4 jogadores (uma equipe)
 - Foco: Simulação de competição com reflexão
-- [Ver guia →](/en/guides/training-session/)
+- [Ver guia →](/pt/guides/training-session/)
 
 ---
 
@@ -77,10 +77,10 @@ Estrutura para sessões de treinamento regulares que incorporam habilidades ment
 
 Modelos para download que auxiliarão no seu desenvolvimento:
 
-### 📋 [Modelo de Meta](/en/guides/templates/goal-template)
+### 📋 [Modelo de Meta](/pt/guides/templates/goal-template)
 Planilha estruturada para definir e acompanhar suas metas na petanca usando a metodologia SMART.
 
-### 📓 [Modelo de Diário](/en/guides/templates/diary-template)
+### 📓 [Modelo de Diário](/pt/guides/templates/diary-template)
 Modelo de diário de treinos e competições para acompanhar o progresso, as percepções e as áreas de melhoria.
 
 ---
@@ -100,7 +100,7 @@ Cada guia inclui materiais tanto para participantes quanto para facilitadores/or
 
 ## Recursos relacionados
 
-- [🎯 Avaliação](/en/assessment/) — Avalie seus 8 fatores e encontre prioridades
-- [📚 Centro de Educação](/en/education/) — Análise detalhada dos 8 fatores de desempenho
-- [📝 Artigos](/en/articles/) — Pesquisa e insights
+- [🎯 Avaliação](/pt/assessment/) — Avalie seus 8 fatores e encontre prioridades
+- [📚 Centro de Educação](/pt/education/) — Análise detalhada dos 8 fatores de desempenho
+- [📝 Artigos](/pt/articles/) — Pesquisa e insights
 

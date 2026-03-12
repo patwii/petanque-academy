@@ -17,7 +17,7 @@ Deze handleiding laat zien hoe je een vaste trainingsgroep van 4 spelers kunt op
 | **Sessie-opzet** | Formaten van 2 uur en 4 uur | [Sectie bekijken](#session-structure) |
 | **Opstartprotocol** | Hoe begin je elke sessie? | [Sectie bekijken](#startup-protocol-15-min) |
 | **Reflectiegids** | Nabesprekingsproces na de sessie | [Bekijk sectie](#reflectieprotocol-15-30-min) |
-| **Gerelateerde handleidingen** | Andere trainingsvormen | [Mentale Reis](/en/guides/mental-journey/) • [Workshop](/en/guides/workshop/) • [Trainingskamp](/en/guides/training-camp/) |
+| **Gerelateerde handleidingen** | Andere trainingsvormen | [Mentale Reis](/nl/guides/mental-journey/) • [Workshop](/nl/guides/workshop/) • [Trainingskamp](/nl/guides/training-camp/) |
 
 ```mermaid
 graph LR

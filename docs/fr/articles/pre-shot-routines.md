@@ -152,5 +152,5 @@ Ce que vous faites après un lancer est tout aussi important :
 
 ---
 
-| *À consulter également : [Guide de la routine d’avant-tir](/en/education/mental-game/mental-strength/pre-shot-routine) | [Gérer la pression](/en/education/mental-game/mental-strength/handling-pressure) | [Techniques de pleine conscience](/en/education/mental-game/mindfulness/techniques)* |
+| *À consulter également : [Guide de la routine d’avant-tir](/fr/education/mental-game/mental-strength/pre-shot-routine) | [Gérer la pression](/fr/education/mental-game/mental-strength/handling-pressure) | [Techniques de pleine conscience](/fr/education/mental-game/mindfulness/techniques)* |
 

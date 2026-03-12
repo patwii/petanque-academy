@@ -187,5 +187,5 @@ Entscheidend ist, diese Energie produktiv zu kanalisieren, anstatt sich von ihr 
 
 ---
 
-| *Verwandtes Thema: [Umgang mit Druck](/en/education/mental-game/mental-strength/handling-pressure) | [Vorbereitungsroutine vor dem Wurf](/en/education/mental-game/mental-strength/pre-shot-routine) | [Die Zone](/en/education/mental-game/the-zone/)* |
+| *Verwandtes Thema: [Umgang mit Druck](/de/education/mental-game/mental-strength/handling-pressure) | [Vorbereitungsroutine vor dem Wurf](/de/education/mental-game/mental-strength/pre-shot-routine) | [Die Zone](/de/education/mental-game/the-zone/)* |
 

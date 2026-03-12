@@ -76,7 +76,7 @@ A experiência externa proporciona uma perspectiva que você não consegue gerar
 
 ### 5. Análise de vídeo
 
-O espelho mais objetivo disponível. Consulte a [Análise em Vídeo](/en/education/self-awareness/video) para obter protocolos detalhados.
+O espelho mais objetivo disponível. Consulte a [Análise em Vídeo](/pt/education/self-awareness/video) para obter protocolos detalhados.
 
 ---
 
@@ -220,8 +220,8 @@ Quebrar esses padrões exige esforço consciente, mas a recompensa é uma melhor
 
 ## Conteúdo relacionado
 
-- [A Vantagem da Autoconsciência](/en/education/self-awareness/) — Por que o autoconhecimento é importante
-- [Análise de vídeo](/en/education/self-awareness/video) — Auto-observação objetiva
+- [A Vantagem da Autoconsciência](/pt/education/self-awareness/) — Por que o autoconhecimento é importante
+- [Análise de vídeo](/pt/education/self-awareness/video) — Auto-observação objetiva
 - Dinâmica de Equipe — Comunicação com os colegas de equipe
-- [Força Mental](/en/education/mental-game/mental-strength/) — Lidando com verdades difíceis
+- [Força Mental](/pt/education/mental-game/mental-strength/) — Lidando com verdades difíceis
 

@@ -15,7 +15,7 @@ Wir alle haben blinde Flecken. Studien zeigen, dass sich die Genauigkeit der Sel
 **So geht&#39;s:** Teilen Sie dieses Formular oder nutzen Sie die digitale Bewertung.
 
 ::: info Digitale Option
-Nutzen Sie das [Spielerbewertungstool](/en/assessment/) mit der Funktion &quot;Feedback von Gleichaltrigen erhalten&quot; für automatische Vergleiche und die Erkennung von blinden Flecken.
+Nutzen Sie das [Spielerbewertungstool](/de/assessment/) mit der Funktion &quot;Feedback von Gleichaltrigen erhalten&quot; für automatische Vergleiche und die Erkennung von blinden Flecken.
 :::
 
 ---
@@ -180,8 +180,8 @@ Nach reiflicher Überlegung denke ich:
 
 ## Verwandte Ressourcen
 
-- [🎯 Bewertungsinstrument](/en/assessment/) — Digitale Selbst- und Fremdbewertung
-- [Selbstwahrnehmungstraining](/en/education/self-awareness/) — Blinde Flecken erkennen
-- [Vorlage für eine Teamvereinbarung](/en/guides/templates/team-agreement) — Teamkommunikation aufbauen
-- [Trainingstagebuch](/en/guides/templates/diary-template) — Verfolge deine Entwicklung
+- [🎯 Bewertungsinstrument](/de/assessment/) — Digitale Selbst- und Fremdbewertung
+- [Selbstwahrnehmungstraining](/de/education/self-awareness/) — Blinde Flecken erkennen
+- [Vorlage für eine Teamvereinbarung](/de/guides/templates/team-agreement) — Teamkommunikation aufbauen
+- [Trainingstagebuch](/de/guides/templates/diary-template) — Verfolge deine Entwicklung
 

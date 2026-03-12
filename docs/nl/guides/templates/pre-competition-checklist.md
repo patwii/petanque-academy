@@ -207,8 +207,8 @@ AFTER MISTAKES
 
 ## Gerelateerde bronnen
 
-- [Slaaptracker](/en/guides/templates/sleep-tracker) — Optimaliseer je slaap vóór de wedstrijd
-- [Voedingsgids](/en/education/nutrition/) — Voedingsstrategieën voor wedstrijden
-- [Mentale kracht](/en/education/mental-game/mental-strength/) — Drukbeheer
-- [Spanningsmanagement](/en/education/tension/) — Blijf ontspannen onder druk
+- [Slaaptracker](/nl/guides/templates/sleep-tracker) — Optimaliseer je slaap vóór de wedstrijd
+- [Voedingsgids](/nl/education/nutrition/) — Voedingsstrategieën voor wedstrijden
+- [Mentale kracht](/nl/education/mental-game/mental-strength/) — Drukbeheer
+- [Spanningsmanagement](/nl/education/tension/) — Blijf ontspannen onder druk
 

@@ -235,8 +235,8 @@ O gerenciamento da tensão melhora com a prática:
 
 ## Conteúdo relacionado
 
-- [Entendendo a Tensão](/en/education/tension/) — A ciência da tensão
-- [Técnicas de Liberação de Tensão](/en/education/tension/techniques) — Relaxamento Muscular Progressivo e respiração
-- [Força Mental](/en/education/mental-game/mental-strength/) — Lidar com a pressão
-- [Rotina Pré-Arremesso](/en/education/mental-game/mental-strength/pre-shot-routine) — Execução consistente
+- [Entendendo a Tensão](/pt/education/tension/) — A ciência da tensão
+- [Técnicas de Liberação de Tensão](/pt/education/tension/techniques) — Relaxamento Muscular Progressivo e respiração
+- [Força Mental](/pt/education/mental-game/mental-strength/) — Lidar com a pressão
+- [Rotina Pré-Arremesso](/pt/education/mental-game/mental-strength/pre-shot-routine) — Execução consistente
 

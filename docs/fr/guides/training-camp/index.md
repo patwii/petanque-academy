@@ -21,7 +21,7 @@ La théorie sans pratique n&#39;est que de l&#39;information. La pratique sans t
 | **Pour les participants** | Programme du week-end et ce qu&#39;il faut apporter | [Voir la section](#pour-participants) |
 | **À l&#39;attention des organisateurs** | Guide complet de planification et d&#39;animation | [Voir la section](#pour-organisateurs) |
 | **Horaires quotidiens** | Horaire et activités détaillés | [Vendredi](#friday-evening-mental-game-foundation-3-4-hours) • [Samedi](#saturday-practice-application-full-day) • [Dimanche](#sunday-competition-integration-full-day) |
-| **Guides associés** | Autres formats de formation | [Voyage mental](/en/guides/mental-journey/) • [Atelier](/en/guides/workshop/) |
+| **Guides associés** | Autres formats de formation | [Voyage mental](/fr/guides/mental-journey/) • [Atelier](/fr/guides/workshop/) |
 
 ---
 

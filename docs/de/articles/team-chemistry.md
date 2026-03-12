@@ -224,5 +224,5 @@ Chemie ist nicht statisch – sie benötigt Pflege:
 
 ---
 
-| *Verwandt: [Teamdynamik](/en/education/team-dynamics/) | [Kommunikation](/en/education/team-dynamics/communication) | [Führung im Pétanque](/en/articles/team-leadership)* |
+| *Verwandt: [Teamdynamik](/de/education/team-dynamics/) | [Kommunikation](/de/education/team-dynamics/communication) | [Führung im Pétanque](/de/articles/team-leadership)* |
 

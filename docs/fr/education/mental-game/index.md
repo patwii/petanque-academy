@@ -34,26 +34,26 @@ graph TD
 
 ## Les trois piliers
 
-### 🎯 [La Zone](/en/education/mental-game/the-zone/)
+### 🎯 [La Zone](/fr/education/mental-game/the-zone/)
 Accédez à l&#39;état de flow où la performance semble naturelle. Découvrez ce qui déclenche cet état et comment l&#39;atteindre de façon constante.
 
-- [Introduction à The Zone](/en/education/mental-game/the-zone/)
-- [Entraînement technique vs entraînement en situation de flow](/en/education/mental-game/the-zone/technical-vs-flow)
-- [Entrer dans la zone](/en/education/mental-game/the-zone/entering-the-zone)
+- [Introduction à The Zone](/fr/education/mental-game/the-zone/)
+- [Entraînement technique vs entraînement en situation de flow](/fr/education/mental-game/the-zone/technical-vs-flow)
+- [Entrer dans la zone](/fr/education/mental-game/the-zone/entering-the-zone)
 
-### 💪 [Force mentale](/en/education/mental-game/mental-strength/)
+### 💪 [Force mentale](/fr/education/mental-game/mental-strength/)
 Développez votre résilience psychologique pour performer sous pression. Cultivez votre confiance en vous, apprenez à gérer les échecs et gardez votre sang-froid.
 
-- [Développer sa force mentale](/en/education/mental-game/mental-strength/)
-- [Gérer la pression](/en/education/mental-game/mental-strength/handling-pressure)
-- [Routine d&#39;avant-tir](/en/education/mental-game/mental-strength/pre-shot-routine)
+- [Développer sa force mentale](/fr/education/mental-game/mental-strength/)
+- [Gérer la pression](/fr/education/mental-game/mental-strength/handling-pressure)
+- [Routine d&#39;avant-tir](/fr/education/mental-game/mental-strength/pre-shot-routine)
 
-### 🧘 [Pleine conscience](/en/education/mental-game/mindfulness/)
+### 🧘 [Pleine conscience](/fr/education/mental-game/mindfulness/)
 Développez votre conscience du moment présent pour rester concentré et vous remettre rapidement de vos erreurs.
 
-- [Introduction à la pleine conscience](/en/education/mental-game/mindfulness/)
-- [Techniques de pleine conscience](/en/education/mental-game/mindfulness/techniques)
-- [Pratique quotidienne](/en/education/mental-game/mindfulness/daily-practice)
+- [Introduction à la pleine conscience](/fr/education/mental-game/mindfulness/)
+- [Techniques de pleine conscience](/fr/education/mental-game/mindfulness/techniques)
+- [Pratique quotidienne](/fr/education/mental-game/mindfulness/daily-practice)
 
 ## Pourquoi le mental est si important
 
@@ -69,15 +69,15 @@ La plupart des joueurs consacrent 90 % de leur temps à la technique et 10 % au 
 
 ## Par où commencer ?
 
-**Vous débutez dans l&#39;entraînement mental ?** Commencez par [The Zone](/en/education/mental-game/the-zone/) pour comprendre ce que signifie une performance optimale.
+**Vous débutez dans l&#39;entraînement mental ?** Commencez par [The Zone](/fr/education/mental-game/the-zone/) pour comprendre ce que signifie une performance optimale.
 
-**Vous avez du mal à gérer la pression ?** Consultez [Mental Strength](/en/education/mental-game/mental-strength/) pour des techniques pratiques.
+**Vous avez du mal à gérer la pression ?** Consultez [Mental Strength](/fr/education/mental-game/mental-strength/) pour des techniques pratiques.
 
-**Votre esprit vagabonde pendant les matchs ?** La [pleine conscience](/en/education/mental-game/mindfulness/) vous aidera à rester présent.
+**Votre esprit vagabonde pendant les matchs ?** La [pleine conscience](/fr/education/mental-game/mindfulness/) vous aidera à rester présent.
 
 ## Ressources connexes
 
-- [Conscience de soi](/en/education/self-awareness/) — Apprenez à vous connaître pour progresser plus vite.
+- [Conscience de soi](/fr/education/self-awareness/) — Apprenez à vous connaître pour progresser plus vite.
 - Gestion de la tension — La relaxation physique favorise la clarté mentale
-- [Outil d&#39;évaluation](/en/education/) — Évaluez votre préparation mentale et obtenez des recommandations personnalisées
+- [Outil d&#39;évaluation](/fr/education/) — Évaluez votre préparation mentale et obtenez des recommandations personnalisées
 

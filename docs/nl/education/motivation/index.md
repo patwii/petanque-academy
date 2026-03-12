@@ -141,10 +141,10 @@ Schrijf je antwoorden op. Kijk er nog eens naar terug als je motivatie afneemt.
 
 ## In deze sectie
 
-- **[Psychologie van motivatie](/en/education/motivation/motivation)** — Intrinsieke versus extrinsieke motivatie, Zelfdeterminatietheorie
-- **[SMART-doelen in detail](/en/education/motivation/smart-goals)** — Een diepgaande analyse van het formuleren van effectieve doelen
-- **[Je trainingsplan opstellen](/en/education/motivation/planning)** — Zet doelen om in actie
-- **[Motivatie behouden](/en/education/motivation/maintaining)** — Duurzaamheid op lange termijn, preventie van burn-out
+- **[Psychologie van motivatie](/nl/education/motivation/motivation)** — Intrinsieke versus extrinsieke motivatie, Zelfdeterminatietheorie
+- **[SMART-doelen in detail](/nl/education/motivation/smart-goals)** — Een diepgaande analyse van het formuleren van effectieve doelen
+- **[Je trainingsplan opstellen](/nl/education/motivation/planning)** — Zet doelen om in actie
+- **[Motivatie behouden](/nl/education/motivation/maintaining)** — Duurzaamheid op lange termijn, preventie van burn-out
 
 ## Samenvatting: Regels voor het stellen van doelen
 

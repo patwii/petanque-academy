@@ -187,5 +187,5 @@ De kunst is om deze energie productief te kanaliseren in plaats van je erdoor te
 
 ---
 
-| *Gerelateerd: [Omgaan met druk](/en/education/mental-game/mental-strength/handling-pressure) | [Voorbereidingsroutine](/en/education/mental-game/mental-strength/pre-shot-routine) | [De Zone](/en/education/mental-game/the-zone/)* |
+| *Gerelateerd: [Omgaan met druk](/nl/education/mental-game/mental-strength/handling-pressure) | [Voorbereidingsroutine](/nl/education/mental-game/mental-strength/pre-shot-routine) | [De Zone](/nl/education/mental-game/the-zone/)* |
 

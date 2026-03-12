@@ -17,9 +17,9 @@ Seja você um jogador buscando aprimorar seu jogo mental ou um treinador querend
 | Recurso | Propósito | Acesso |
 |----------|---------|--------|
 | **Começando** | Introdução aos conceitos de jogos mentais | [Leia abaixo](#porque-o-treinamento-mental-é-importante) |
-| **Guia da Sessão** | Guia completo para facilitadores de workshops de 2 a 3 horas. | [Ver guia](/en/guides/mental-journey/session-guide) |
-| **Materiais** | Guias para participantes, slides e folhas de exercícios. | [Ver Materiais](/en/guides/mental-journey/materials) |
-| **Guias relacionados** | Formatos avançados | [Workshop](/en/guides/workshop/) • [Campo de Treinamento](/en/guides/training-camp/) |
+| **Guia da Sessão** | Guia completo para facilitadores de workshops de 2 a 3 horas. | [Ver guia](/pt/guides/mental-journey/session-guide) |
+| **Materiais** | Guias para participantes, slides e folhas de exercícios. | [Ver Materiais](/pt/guides/mental-journey/materials) |
+| **Guias relacionados** | Formatos avançados | [Workshop](/pt/guides/workshop/) • [Campo de Treinamento](/pt/guides/training-camp/) |
 
 ## Por que o treinamento mental é importante
 
@@ -77,30 +77,30 @@ graph TD
 ### Opção 1: Estudo individual (para jogadores)
 
 **Semana 1: Entendendo o básico**
-1. Leia o módulo [The Zone](/en/education/mental-game/the-zone/)
+1. Leia o módulo [The Zone](/pt/education/mental-game/the-zone/)
 2. Experimente a técnica de reinicialização de 3 respirações.
 3. Preste atenção quando você estiver no &quot;modo técnico&quot; em vez do &quot;modo fluxo&quot;.
 
 **Semana 2: Desenvolvendo a Conscientização**
-1. Leia o módulo [Força Mental](/en/education/mental-game/mental-strength/)
+1. Leia o módulo [Força Mental](/pt/education/mental-game/mental-strength/)
 2. Identifique seus padrões de autocrítica.
 3. Pratique a observação neutra após cometer erros.
 
 **Semana 3: Criando Estrutura**
-1. Leia o módulo [Mindfulness](/en/education/mental-game/mindfulness/)
+1. Leia o módulo [Mindfulness](/pt/education/mental-game/mindfulness/)
 2. Comece com uma prática diária de 5 minutos.
 3. Desenvolva uma rotina simples antes da foto.
 
 **Semana 4: Integração**
 1. Use sua rotina na prática.
-2. Acompanhe o desempenho mental no [Modelo de Diário](/en/guides/templates/diary-template)
-3. Defina metas de jogo mental usando o [Modelo de Meta](/en/guides/templates/goal-template)
+2. Acompanhe o desempenho mental no [Modelo de Diário](/pt/guides/templates/diary-template)
+3. Defina metas de jogo mental usando o [Modelo de Meta](/pt/guides/templates/goal-template)
 
 ### Opção 2: Workshop em grupo (para treinadores)
 
 **Realizar uma sessão de 2 a 3 horas:**
 
-Utilize nosso [Guia de Sessão](/en/guides/mental-journey/session-guide) completo, que inclui:
+Utilize nosso [Guia de Sessão](/pt/guides/mental-journey/session-guide) completo, que inclui:
 - Estrutura completa da sessão
 - Sugestões para discussão
 - Exercícios em grupo
@@ -165,21 +165,21 @@ O treinamento mental não substitui a prática técnica. Mas ajuda você a acess
 ## Recursos disponíveis
 
 ### Para jogadores
-- [Módulos de Educação](/en/education/) - 8 guias abrangentes
-- [Modelo de Meta](/en/guides/templates/goal-template) - Estruture seu desenvolvimento
-- [Modelo de Diário](/en/guides/templates/diary-template) - Acompanhe seu progresso
-- [Estudos de Caso](/en/articles/case-studies) - Exemplos reais
+- [Módulos de Educação](/pt/education/) - 8 guias abrangentes
+- [Modelo de Meta](/pt/guides/templates/goal-template) - Estruture seu desenvolvimento
+- [Modelo de Diário](/pt/guides/templates/diary-template) - Acompanhe seu progresso
+- [Estudos de Caso](/pt/articles/case-studies) - Exemplos reais
 
 ### Para treinadores/guias
-- [Guia da Sessão](/en/guides/mental-journey/session-guide) - Workshop completo de 2 a 3 horas
-- [Materiais para o Facilitador](/en/guides/mental-journey/materials) - Guias e slides digitais
-- [Guia do Workshop](/en/guides/workshop/) - Formato avançado de 3 a 4 horas
-- [Guia do Campo de Treinamento](/en/guides/training-camp/) - Programa de fim de semana
+- [Guia da Sessão](/pt/guides/mental-journey/session-guide) - Workshop completo de 2 a 3 horas
+- [Materiais para o Facilitador](/pt/guides/mental-journey/materials) - Guias e slides digitais
+- [Guia do Workshop](/pt/guides/workshop/) - Formato avançado de 3 a 4 horas
+- [Guia do Campo de Treinamento](/pt/guides/training-camp/) - Programa de fim de semana
 
 ## Próximos passos
 
 ### Para jogadores individuais
-1. **Comece com a consciência** - Leia [O Jogo da Zona](/en/education/mental-game/the-zone/)
+1. **Comece com a consciência** - Leia [O Jogo da Zona](/pt/education/mental-game/the-zone/)
 2. **Experimente uma técnica** - Use o reset de 3 respirações esta semana.
 3. **Acompanhe sua experiência** - Observe as mudanças
 4. **Aumente gradualmente** - Adicione uma nova habilidade por semana
@@ -195,17 +195,17 @@ O treinamento mental não substitui a prática técnica. Mas ajuda você a acess
 
 **Dúvidas sobre como começar?**
 - E-mail: [patrik.wiik@gmail.com](mailto:patrik.wiik@gmail.com)
-- Consulte os [Estudos de Caso](/en/articles/case-studies) para ver exemplos.
+- Consulte os [Estudos de Caso](/pt/articles/case-studies) para ver exemplos.
 - Participe das discussões em seu clube.
 
 
 ---
 
 ::: tip Pronto para começar?
-**Jogadores:** Comecem com o módulo [The Zone](/en/education/mental-game/the-zone/)
+**Jogadores:** Comecem com o módulo [The Zone](/pt/education/mental-game/the-zone/)
 
-**Treinadores:** Acessem o [Guia da Sessão](/en/guides/mental-journey/session-guide)
+**Treinadores:** Acessem o [Guia da Sessão](/pt/guides/mental-journey/session-guide)
 
-**Baixe os materiais:** Visite [Materiais do facilitador](/en/guides/mental-journey/materials)
+**Baixe os materiais:** Visite [Materiais do facilitador](/pt/guides/mental-journey/materials)
 :::
 

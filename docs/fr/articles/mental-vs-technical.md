@@ -156,7 +156,7 @@ Mais le développement mental dans le jeu ? C&#39;est là que des progrès consi
 - identification du déclencheur d&#39;état de flux
 - Travail sur le coach intérieur contre le critique intérieur
 
-Consultez notre section [Éducation](/en/education/) pour des techniques spécifiques.
+Consultez notre section [Éducation](/fr/education/) pour des techniques spécifiques.
 
 ## La vérité qui dérange
 
@@ -195,9 +195,9 @@ Piste:
 ### 4. Utilisez les modules de formation
 
 Commencez par :
-1. [The Zone](/en/education/mental-game/the-zone/) - Comprendre les états de flow
-2. [Force mentale](/en/education/mental-game/mental-strength/) - Développer ses compétences en gestion du stress
-3. [Pleine conscience](/en/education/mental-game/mindfulness/) - Développer la concentration sur le moment présent
+1. [The Zone](/fr/education/mental-game/the-zone/) - Comprendre les états de flow
+2. [Force mentale](/fr/education/mental-game/mental-strength/) - Développer ses compétences en gestion du stress
+3. [Pleine conscience](/fr/education/mental-game/mindfulness/) - Développer la concentration sur le moment présent
 
 ## Conclusion
 
@@ -212,9 +212,9 @@ Les joueurs qui opèrent ce changement — qui font de l&#39;entraînement menta
 
 ## Ressources connexes
 
-- [La Zone : Comprendre l&#39;état de flow](/en/education/mental-game/the-zone/)
-- [Études de cas : Les joueurs d&#39;élite en action](/en/articles/case-studies)
-- [Modèle d&#39;objectif](/en/guides/templates/goal-template) - Planifiez votre développement mental
+- [La Zone : Comprendre l&#39;état de flow](/fr/education/mental-game/the-zone/)
+- [Études de cas : Les joueurs d&#39;élite en action](/fr/articles/case-studies)
+- [Modèle d&#39;objectif](/fr/guides/templates/goal-template) - Planifiez votre développement mental
 
 **Des questions ou des commentaires ?** Envoyez un courriel à [patrik.wiik@gmail.com](mailto:patrik.wiik@gmail.com)
 

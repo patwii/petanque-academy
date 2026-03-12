@@ -76,7 +76,7 @@ Externe expertise biedt een perspectief dat u zelf niet kunt genereren:
 
 ### 5. Videoanalyse
 
-De meest objectieve spiegel die er is. Zie [Videoanalyse](/en/education/self-awareness/video) voor gedetailleerde protocollen.
+De meest objectieve spiegel die er is. Zie [Videoanalyse](/nl/education/self-awareness/video) voor gedetailleerde protocollen.
 
 ---
 
@@ -220,8 +220,8 @@ Het doorbreken van deze patronen vereist bewuste inspanning, maar de beloning is
 
 ## Gerelateerde inhoud
 
-- [Het voordeel van zelfbewustzijn](/en/education/self-awareness/) — Waarom zelfkennis belangrijk is
-- [Videoanalyse](/en/education/self-awareness/video) — Objectieve zelfobservatie
-- [Teamdynamiek](/en/education/team-dynamics/) — Communicatie met teamgenoten
-- [Mentale kracht](/en/education/mental-game/mental-strength/) — Omgaan met moeilijke waarheden
+- [Het voordeel van zelfbewustzijn](/nl/education/self-awareness/) — Waarom zelfkennis belangrijk is
+- [Videoanalyse](/nl/education/self-awareness/video) — Objectieve zelfobservatie
+- [Teamdynamiek](/nl/education/team-dynamics/) — Communicatie met teamgenoten
+- [Mentale kracht](/nl/education/mental-game/mental-strength/) — Omgaan met moeilijke waarheden
 

@@ -260,8 +260,8 @@ Pesquisas sobre motivação atlética sustentada mostram:
 
 ## Conteúdo relacionado
 
-- [Psicologia da Motivação](/en/education/motivation/motivation) — Compreendendo os tipos de motivação
-- [Definição de Metas](/en/education/motivation/) — Criando metas eficazes
-- [Sono e Recuperação](/en/education/sleep/) — Recuperação física
-- [Mindfulness](/en/education/mental-game/mindfulness/) — Ferramentas para recuperação mental
+- [Psicologia da Motivação](/pt/education/motivation/motivation) — Compreendendo os tipos de motivação
+- [Definição de Metas](/pt/education/motivation/) — Criando metas eficazes
+- [Sono e Recuperação](/pt/education/sleep/) — Recuperação física
+- [Mindfulness](/pt/education/mental-game/mindfulness/) — Ferramentas para recuperação mental
 

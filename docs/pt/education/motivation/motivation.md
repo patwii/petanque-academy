@@ -205,8 +205,8 @@ Avalie cada afirmação (1 = De forma alguma, 5 = Completamente):
 
 ## Conteúdo relacionado
 
-- [Definição de Metas](/en/education/motivation/) — Definindo metas eficazes
-- [Manter a Motivação](/en/education/motivation/maintaining) — Sustentabilidade a longo prazo
-- [A Zona](/en/education/mental-game/the-zone/) — Motivação intrínseca e estado de fluxo
+- [Definição de Metas](/pt/education/motivation/) — Definindo metas eficazes
+- [Manter a Motivação](/pt/education/motivation/maintaining) — Sustentabilidade a longo prazo
+- [A Zona](/pt/education/mental-game/the-zone/) — Motivação intrínseca e estado de fluxo
 - Dinâmica de Equipe — Relacionamento no contexto de equipe
 

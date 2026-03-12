@@ -153,8 +153,8 @@ graph LR
 
 ## In deze sectie
 
-- **[Omgaan met druk](/en/education/mental-game/mental-strength/handling-pressure)** - Technieken voor situaties met hoge inzet
-- **[Voorbereidingsroutine](/en/education/mental-game/mental-strength/pre-shot-routine)** - Je prestatietrigger opbouwen
+- **[Omgaan met druk](/nl/education/mental-game/mental-strength/handling-pressure)** - Technieken voor situaties met hoge inzet
+- **[Voorbereidingsroutine](/nl/education/mental-game/mental-strength/pre-shot-routine)** - Je prestatietrigger opbouwen
 
 ## Samenvatting: Regels voor mentale kracht
 

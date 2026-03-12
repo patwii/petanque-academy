@@ -21,7 +21,7 @@ Een uitgebreid trainingsweekend (vrijdag-zondag) voor 10-20 spelers, waarin ment
 | **Voor deelnemers** | Programma voor het weekend en wat je mee moet nemen | [Sectie bekijken](#voor-deelnemers) |
 | **Voor organisatoren** | Complete plannings- en begeleidingshandleiding | [Sectie bekijken](#voor-organisatoren) |
 | **Dagelijkse schema&#39;s** | Gedetailleerde planning en activiteiten | [Vrijdag](#vrijdagavond-mentale-spel-basis-3-4-uur) • [Zaterdag](#zaterdag-oefening-toepassing-hele-dag) • [Zondag](#zondag-competitie-integratie-hele-dag) |
-| **Gerelateerde handleidingen** | Andere trainingsvormen | [Mentale Reis](/en/guides/mental-journey/) • [Workshop](/en/guides/workshop/) |
+| **Gerelateerde handleidingen** | Andere trainingsvormen | [Mentale Reis](/nl/guides/mental-journey/) • [Workshop](/nl/guides/workshop/) |
 
 ---
 

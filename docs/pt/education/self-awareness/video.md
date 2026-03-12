@@ -246,8 +246,8 @@ Comparar imagens:
 
 ## Conteúdo relacionado
 
-- [A Vantagem da Autoconsciência](/en/education/self-awareness/) — Por que o autoconhecimento é importante
-- [Obtendo Feedback](/en/education/self-awareness/feedback) — Perspectivas externas
-- [Fundamentos da Técnica](/en/education/technique/) — Como é uma boa técnica
-- [Métodos de Treinamento](/en/education/technique/training/) — Como praticar o que você aprende
+- [A Vantagem da Autoconsciência](/pt/education/self-awareness/) — Por que o autoconhecimento é importante
+- [Obtendo Feedback](/pt/education/self-awareness/feedback) — Perspectivas externas
+- [Fundamentos da Técnica](/pt/education/technique/) — Como é uma boa técnica
+- [Métodos de Treinamento](/pt/education/technique/training/) — Como praticar o que você aprende
 

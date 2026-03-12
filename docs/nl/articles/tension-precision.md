@@ -230,7 +230,7 @@ Spelers die de kunst van het omgaan met spanning beheersen:
 
 ## Gerelateerde inhoud
 
-- [Module Spanningsmanagement](/en/education/tension/) — Complete education
-- [Fysieke voorbereiding](/en/education/tension/physical) — Lichaamsgereedheid
-- [Drukmanagement](/en/articles/pressure-management) — Mentale aspecten
+- [Module Spanningsmanagement](/nl/education/tension/) — Complete education
+- [Fysieke voorbereiding](/nl/education/tension/physical) — Lichaamsgereedheid
+- [Drukmanagement](/nl/articles/pressure-management) — Mentale aspecten
 

@@ -231,7 +231,7 @@ Entraînez-vous à prononcer ce mot mentalement tout en relâchant vos tensions.
 ## Contenu associé
 
 - Comprendre la tension — La science de la tension
-- [Gestion de la tension compétitive](/en/education/tension/competition) — Protocoles de jour de match
-- [Pleine conscience](/en/education/mental-game/mindfulness/) — Conscience du moment présent
-- [Routine d&#39;avant-tir](/en/education/mental-game/mental-strength/pre-shot-routine) — Intégration complète de la routine
+- [Gestion de la tension compétitive](/fr/education/tension/competition) — Protocoles de jour de match
+- [Pleine conscience](/fr/education/mental-game/mindfulness/) — Conscience du moment présent
+- [Routine d&#39;avant-tir](/fr/education/mental-game/mental-strength/pre-shot-routine) — Intégration complète de la routine
 

@@ -25,7 +25,7 @@ graph LR
 
 ## Formats de guide
 
-### 🌱 [Voyage mental](/en/guides/mental-journey/)
+### 🌱 [Voyage mental](/fr/guides/mental-journey/)
 **Pour débutants** — Introduction de 2 à 3 heures
 
 Idéal pour les joueurs qui débutent en préparation mentale. Une introduction en douceur aux concepts fondamentaux, agrémentée d&#39;exercices pratiques.
@@ -33,11 +33,11 @@ Idéal pour les joueurs qui débutent en préparation mentale. Une introduction 
 - Durée : 2 à 3 heures
 - Taille du groupe : 4 à 12 joueurs
 - Matériaux : Fournis
-- [Voir le guide →](/en/guides/mental-journey/)
+- [Voir le guide →](/fr/guides/mental-journey/)
 
 ---
 
-### 🎯 [Atelier](/en/guides/workshop/)
+### 🎯 [Atelier](/fr/guides/workshop/)
 **Niveau intermédiaire** — Exploration approfondie de 3 à 4 heures
 
 Atelier structuré pour les clubs et les équipes souhaitant approfondir leur entraînement mental.
@@ -45,11 +45,11 @@ Atelier structuré pour les clubs et les équipes souhaitant approfondir leur en
 - Durée : 3 à 4 heures
 - Taille du groupe : 6 à 8 joueurs
 - Comprend : Guide du coordinateur + documents téléchargeables
-- [Voir le guide →](/en/guides/workshop/)
+- [Voir le guide →](/fr/guides/workshop/)
 
 ---
 
-### 🏕️ [Camp d&#39;entraînement](/en/guides/training-camp/)
+### 🏕️ [Camp d&#39;entraînement](/fr/guides/training-camp/)
 **Pour les équipes motivées** — Stage intensif de fin de semaine
 
 Programme complet de week-end alliant théorie, pratique et compétition. Idéal pour les équipes se préparant à des tournois importants.
@@ -57,11 +57,11 @@ Programme complet de week-end alliant théorie, pratique et compétition. Idéal
 - Durée : 2 à 3 jours
 - Taille du groupe : 10 à 20 joueurs
 - Comprend : Programme complet + matériel d&#39;organisation
-- [Voir le guide →](/en/guides/training-camp/)
+- [Voir le guide →](/fr/guides/training-camp/)
 
 ---
 
-### 🔄 [Séance de formation](/en/guides/training-session/)
+### 🔄 [Séance de formation](/fr/guides/training-session/)
 **Pour une pratique régulière** — séances structurées de 2 à 4 heures
 
 Cadre pour des séances d&#39;entraînement régulières intégrant les compétences mentales à la pratique technique.
@@ -69,7 +69,7 @@ Cadre pour des séances d&#39;entraînement régulières intégrant les compéte
 - Durée : 2 à 4 heures
 - Taille du groupe : 4 joueurs (une équipe)
 - Objectif : Simulation de compétition avec réflexion
-- [Voir le guide →](/en/guides/training-session/)
+- [Voir le guide →](/fr/guides/training-session/)
 
 ---
 
@@ -77,10 +77,10 @@ Cadre pour des séances d&#39;entraînement régulières intégrant les compéte
 
 Modèles téléchargeables pour faciliter votre développement :
 
-### 📋 [Modèle d&#39;objectif](/en/guides/templates/goal-template)
+### 📋 [Modèle d&#39;objectif](/fr/guides/templates/goal-template)
 Fiche de travail structurée pour définir et suivre vos objectifs de pétanque à l&#39;aide de la méthode SMART.
 
-### 📓 [Modèle de journal](/en/guides/templates/diary-template)
+### 📓 [Modèle de journal](/fr/guides/templates/diary-template)
 Modèle de journal d&#39;entraînement et de compétition pour suivre les progrès, les enseignements tirés et les axes d&#39;amélioration.
 
 ---
@@ -100,7 +100,7 @@ Chaque guide contient des ressources pour les participants ET les animateurs/org
 
 ## Ressources connexes
 
-- [🎯 Évaluation](/en/assessment/) — Évaluez vos 8 facteurs et identifiez vos priorités
-- [📚 Centre d&#39;éducation](/en/education/) — Analyse approfondie des 8 facteurs de performance
-- [📝 Articles](/en/articles/) — Recherches et analyses
+- [🎯 Évaluation](/fr/assessment/) — Évaluez vos 8 facteurs et identifiez vos priorités
+- [📚 Centre d&#39;éducation](/fr/education/) — Analyse approfondie des 8 facteurs de performance
+- [📝 Articles](/fr/articles/) — Recherches et analyses
 

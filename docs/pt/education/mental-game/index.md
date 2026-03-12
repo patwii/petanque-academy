@@ -34,26 +34,26 @@ graph TD
 
 ## Os Três Pilares
 
-### 🎯 [A Zona](/en/education/mental-game/the-zone/)
+### 🎯 [A Zona](/pt/education/mental-game/the-zone/)
 Acesse o estado de fluxo, onde o desempenho parece natural e sem esforço. Aprenda o que desencadeia o fluxo e como atingi-lo consistentemente.
 
-- [Introdução ao Jogo da Zona](/en/education/mental-game/the-zone/)
-- [Treinamento Técnico vs. Treinamento de Fluxo](/en/education/mental-game/the-zone/technical-vs-flow)
-- [Entrando na Zona](/en/education/mental-game/the-zone/entering-the-zone)
+- [Introdução ao Jogo da Zona](/pt/education/mental-game/the-zone/)
+- [Treinamento Técnico vs. Treinamento de Fluxo](/pt/education/mental-game/the-zone/technical-vs-flow)
+- [Entrando na Zona](/pt/education/mental-game/the-zone/entering-the-zone)
 
-### 💪 [Força Mental](/en/education/mental-game/mental-strength/)
+### 💪 [Força Mental](/pt/education/mental-game/mental-strength/)
 Desenvolva a resiliência psicológica necessária para ter um bom desempenho sob pressão. Cultive a autoconfiança, aprenda a lidar com contratempos e mantenha a compostura.
 
-- [Desenvolvendo Força Mental](/en/education/mental-game/mental-strength/)
-- [Lidando com a Pressão](/en/education/mental-game/mental-strength/handling-pressure)
-- [Rotina Pré-Arremesso](/en/education/mental-game/mental-strength/pre-shot-routine)
+- [Desenvolvendo Força Mental](/pt/education/mental-game/mental-strength/)
+- [Lidando com a Pressão](/pt/education/mental-game/mental-strength/handling-pressure)
+- [Rotina Pré-Arremesso](/pt/education/mental-game/mental-strength/pre-shot-routine)
 
-### 🧘 [Mindfulness](/en/education/mental-game/mindfulness/)
+### 🧘 [Mindfulness](/pt/education/mental-game/mindfulness/)
 Desenvolva a consciência do momento presente para manter o foco e se recuperar rapidamente de erros.
 
-- [Introdução à Atenção Plena](/en/education/mental-game/mindfulness/)
-- [Técnicas de Mindfulness](/en/education/mental-game/mindfulness/techniques)
-- [Prática Diária](/en/education/mental-game/mindfulness/daily-practice)
+- [Introdução à Atenção Plena](/pt/education/mental-game/mindfulness/)
+- [Técnicas de Mindfulness](/pt/education/mental-game/mindfulness/techniques)
+- [Prática Diária](/pt/education/mental-game/mindfulness/daily-practice)
 
 ## Por que o jogo mental é tão importante
 
@@ -69,15 +69,15 @@ A maioria dos jogadores dedica 90% do seu tempo à técnica e 10% às habilidade
 
 ## Por onde começar?
 
-**Novo no treinamento mental?** Comece com [The Zone](/en/education/mental-game/the-zone/) para entender o que é a sensação de desempenho máximo.
+**Novo no treinamento mental?** Comece com [The Zone](/pt/education/mental-game/the-zone/) para entender o que é a sensação de desempenho máximo.
 
-**Está com dificuldades sob pressão?** Acesse [Força Mental](/en/education/mental-game/mental-strength/) para técnicas práticas.
+**Está com dificuldades sob pressão?** Acesse [Força Mental](/pt/education/mental-game/mental-strength/) para técnicas práticas.
 
-**Sua mente divaga durante as partidas?** [Atenção plena](/en/education/mental-game/mindfulness/) ajudará você a se manter presente.
+**Sua mente divaga durante as partidas?** [Atenção plena](/pt/education/mental-game/mindfulness/) ajudará você a se manter presente.
 
 ## Recursos relacionados
 
 - Autoconhecimento — Conheça a si mesmo para melhorar mais rapidamente
-- [Gestão da Tensão](/en/education/tension/) — O relaxamento físico possibilita clareza mental
-- [Ferramenta de Avaliação](/en/education/) — Avalie seu desempenho mental e receba recomendações personalizadas
+- [Gestão da Tensão](/pt/education/tension/) — O relaxamento físico possibilita clareza mental
+- [Ferramenta de Avaliação](/pt/education/) — Avalie seu desempenho mental e receba recomendações personalizadas
 

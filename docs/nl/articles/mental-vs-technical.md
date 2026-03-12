@@ -156,7 +156,7 @@ Maar mentale ontwikkeling? Daar valt nog enorm veel te verbeteren.
 - Identificatie van triggers voor stroomtoestanden
 - Innerlijke coach versus innerlijke criticus
 
-Zie onze [Onderwijs](/en/education/) sectie voor specifieke technieken.
+Zie onze [Onderwijs](/nl/education/) sectie voor specifieke technieken.
 
 ## De ongemakkelijke waarheid
 
@@ -195,9 +195,9 @@ Spoor:
 ### 4. Gebruik de educatieve modules
 
 Begin met:
-1. [De Zone](/en/education/mental-game/the-zone/) - Flow-toestanden begrijpen
-2. [Mentale kracht](/en/education/mental-game/mental-strength/) - Ontwikkel vaardigheden om onder druk te presteren
-3. [Mindfulness](/en/education/mental-game/mindfulness/) - Ontwikkel focus op het huidige moment
+1. [De Zone](/nl/education/mental-game/the-zone/) - Flow-toestanden begrijpen
+2. [Mentale kracht](/nl/education/mental-game/mental-strength/) - Ontwikkel vaardigheden om onder druk te presteren
+3. [Mindfulness](/nl/education/mental-game/mindfulness/) - Ontwikkel focus op het huidige moment
 
 ## Conclusie
 
@@ -212,9 +212,9 @@ De spelers die deze omschakeling maken – die mentale training als hun belangri
 
 ## Gerelateerde bronnen
 
-- [De Zone: Het begrijpen van de flowtoestand](/en/education/mental-game/the-zone/)
-- [Casestudies: Topspelers in actie](/en/articles/case-studies)
-- [Doelsjabloon](/en/guides/templates/goal-template) - Plan je mentale spelontwikkeling
+- [De Zone: Het begrijpen van de flowtoestand](/nl/education/mental-game/the-zone/)
+- [Casestudies: Topspelers in actie](/nl/articles/case-studies)
+- [Doelsjabloon](/nl/guides/templates/goal-template) - Plan je mentale spelontwikkeling
 
 **Vragen of opmerkingen?** Stuur een e-mail naar [patrik.wiik@gmail.com](mailto:patrik.wiik@gmail.com)
 

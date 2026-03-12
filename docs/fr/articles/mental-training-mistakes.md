@@ -185,5 +185,5 @@ Le mental, ça se travaille. Il faut bien le travailler.
 
 ---
 
-| *En lien avec : [Force mentale](/en/education/mental-game/mental-strength/) | [Méthodes de formation](/en/education/technique/training/) | [Pleine conscience](/en/education/mental-game/mindfulness/)* |
+| *En lien avec : [Force mentale](/fr/education/mental-game/mental-strength/) | [Méthodes de formation](/fr/education/technique/training/) | [Pleine conscience](/fr/education/mental-game/mindfulness/)* |
 

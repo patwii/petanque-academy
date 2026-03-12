@@ -215,7 +215,7 @@ Requisitos para mudanças em clima quente:
 
 ## Conteúdo relacionado
 
-- [Módulo de Nutrição](/en/education/nutrition/) — Educação nutricional completa
+- [Módulo de Nutrição](/pt/education/nutrition/) — Educação nutricional completa
 - Nutrição para Competição — Protocolos detalhados
-- [Durma para melhorar o desempenho](/en/articles/sleep-performance) — Otimização da recuperação
+- [Durma para melhorar o desempenho](/pt/articles/sleep-performance) — Otimização da recuperação
 

@@ -17,7 +17,7 @@ Dieser Leitfaden zeigt, wie man eine regelmäßige Trainingsgruppe von 4 Spieler
 | **Sitzungsstruktur** | 2-Stunden- und 4-Stunden-Formate | [Abschnitt anzeigen](#session-structure) |
 | **Startprotokoll** | Wie man jede Sitzung beginnt | [Abschnitt anzeigen](#startup-protocol-15-min) |
 | **Reflexionsleitfaden** | Nachbesprechungsprozess nach der Sitzung | [Abschnitt anzeigen](#reflection-protocol-15-30-min) |
-| **Verwandte Leitfäden** | Andere Trainingsformate | [Mentale Reise](/en/guides/mental-journey/) • [Workshop](/en/guides/workshop/) • [Trainingslager](/en/guides/training-camp/) |
+| **Verwandte Leitfäden** | Andere Trainingsformate | [Mentale Reise](/de/guides/mental-journey/) • [Workshop](/de/guides/workshop/) • [Trainingslager](/de/guides/training-camp/) |
 
 ```mermaid
 graph LR

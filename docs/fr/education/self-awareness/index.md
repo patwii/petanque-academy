@@ -185,13 +185,13 @@ Ce n&#39;est PAS la même chose.
 
 ## Dans ce module
 
-### [Obtenir et utiliser le feedback](/en/education/self-awareness/feedback)
+### [Obtenir et utiliser le feedback](/fr/education/self-awareness/feedback)
 - Sources de retour d&#39;information objectif
 - Comment demander efficacement des retours d&#39;information
 - Recevoir des commentaires sans se mettre sur la défensive
 - Transformer les commentaires en actions
 
-### [Analyse vidéo pour la découverte de soi](/en/education/self-awareness/video)
+### [Analyse vidéo pour la découverte de soi](/fr/education/self-awareness/video)
 - Que faut-il enregistrer et quand ?
 - Que rechercher dans vos séquences ?
 - Comparaison de la perception de soi à la réalité vidéo
@@ -213,8 +213,8 @@ Notez vos réponses. Comparez-les au fil du temps. Des tendances se dégageront.
 
 ## Facteurs associés
 
-- [Jeu mental](/en/education/mental-game/) — La conscience de soi favorise l&#39;entraînement mental
+- [Jeu mental](/fr/education/mental-game/) — La conscience de soi favorise l&#39;entraînement mental
 - Dynamique d&#39;équipe : Comprendre comment les autres vous perçoivent
-- [Motivation](/en/education/motivation/) — Connaissez vos véritables motivations
-- [Technique](/en/education/technique/) — L&#39;analyse vidéo révèle la vérité technique
+- [Motivation](/fr/education/motivation/) — Connaissez vos véritables motivations
+- [Technique](/fr/education/technique/) — L&#39;analyse vidéo révèle la vérité technique
 

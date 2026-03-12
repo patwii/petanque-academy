@@ -230,7 +230,7 @@ Jogadores que dominam o gerenciamento da tensão:
 
 ## Conteúdo relacionado
 
-- [Módulo de Gestão da Tensão](/en/education/tension/) — Educação completa
-- [Preparação Física](/en/education/tension/physical) — Prontidão física
-- [Gestão da Pressão](/en/articles/pressure-management) — Aspectos Mentais
+- [Módulo de Gestão da Tensão](/pt/education/tension/) — Educação completa
+- [Preparação Física](/pt/education/tension/physical) — Prontidão física
+- [Gestão da Pressão](/pt/articles/pressure-management) — Aspectos Mentais
 

@@ -34,26 +34,26 @@ graph TD
 
 ## De drie pijlers
 
-### 🎯 [De Zone](/en/education/mental-game/the-zone/)
+### 🎯 [De Zone](/nl/education/mental-game/the-zone/)
 Bereik de flowtoestand waarin presteren moeiteloos aanvoelt. Leer wat flow triggert en hoe je er consistent in terechtkomt.
 
-- [Inleiding tot De Zone](/en/education/mental-game/the-zone/)
-- [Technische training versus flowtraining](/en/education/mental-game/the-zone/technical-vs-flow)
-- [De Zone Betreden](/en/education/mental-game/the-zone/entering-the-zone)
+- [Inleiding tot De Zone](/nl/education/mental-game/the-zone/)
+- [Technische training versus flowtraining](/nl/education/mental-game/the-zone/technical-vs-flow)
+- [De Zone Betreden](/nl/education/mental-game/the-zone/entering-the-zone)
 
-### 💪 [Mentale Kracht](/en/education/mental-game/mental-strength/)
+### 💪 [Mentale Kracht](/nl/education/mental-game/mental-strength/)
 Ontwikkel psychologische veerkracht om onder druk te presteren. Bouw zelfvertrouwen op, leer omgaan met tegenslagen en bewaar je kalmte.
 
-- [Mentale kracht opbouwen](/en/education/mental-game/mental-strength/)
-- [Omgaan met druk](/en/education/mental-game/mental-strength/handling-pressure)
-- [Voorbereidingsroutine](/en/education/mental-game/mental-strength/pre-shot-routine)
+- [Mentale kracht opbouwen](/nl/education/mental-game/mental-strength/)
+- [Omgaan met druk](/nl/education/mental-game/mental-strength/handling-pressure)
+- [Voorbereidingsroutine](/nl/education/mental-game/mental-strength/pre-shot-routine)
 
-### 🧘 [Mindfulness](/en/education/mental-game/mindfulness/)
+### 🧘 [Mindfulness](/nl/education/mental-game/mindfulness/)
 Ontwikkel bewustzijn van het huidige moment om gefocust te blijven en snel te herstellen van fouten.
 
-- [Inleiding tot Mindfulness](/en/education/mental-game/mindfulness/)
-- [Mindfulnesstechnieken](/en/education/mental-game/mindfulness/techniques)
-- [Dagelijkse oefening](/en/education/mental-game/mindfulness/daily-practice)
+- [Inleiding tot Mindfulness](/nl/education/mental-game/mindfulness/)
+- [Mindfulnesstechnieken](/nl/education/mental-game/mindfulness/techniques)
+- [Dagelijkse oefening](/nl/education/mental-game/mindfulness/daily-practice)
 
 ## Waarom mentale kracht het belangrijkst is
 
@@ -69,15 +69,15 @@ De meeste spelers besteden 90% van hun tijd aan techniek en 10% aan mentale vaar
 
 ## Waar te beginnen?
 
-**Nieuw in mentale training?** Begin met [The Zone](/en/education/mental-game/the-zone/) om te begrijpen hoe topprestaties aanvoelen.
+**Nieuw in mentale training?** Begin met [The Zone](/nl/education/mental-game/the-zone/) om te begrijpen hoe topprestaties aanvoelen.
 
-**Heb je moeite met druk?** Ga naar [Mentale Kracht](/en/education/mental-game/mental-strength/) voor praktische technieken.
+**Heb je moeite met druk?** Ga naar [Mentale Kracht](/nl/education/mental-game/mental-strength/) voor praktische technieken.
 
-**Dwalen je gedachten af tijdens wedstrijden?** [Mindfulness](/en/education/mental-game/mindfulness/) helpt je om in het moment te blijven.
+**Dwalen je gedachten af tijdens wedstrijden?** [Mindfulness](/nl/education/mental-game/mindfulness/) helpt je om in het moment te blijven.
 
 ## Gerelateerde bronnen
 
-- [Zelfbewustzijn](/en/education/self-awareness/) — Ken jezelf om sneller vooruit te komen
-- [Spanningsmanagement](/en/education/tension/) — Lichamelijke ontspanning bevordert mentale helderheid
-- [Beoordelingstool](/en/education/) — Evalueer je mentale spel en ontvang persoonlijke aanbevelingen
+- [Zelfbewustzijn](/nl/education/self-awareness/) — Ken jezelf om sneller vooruit te komen
+- [Spanningsmanagement](/nl/education/tension/) — Lichamelijke ontspanning bevordert mentale helderheid
+- [Beoordelingstool](/nl/education/) — Evalueer je mentale spel en ontvang persoonlijke aanbevelingen
 

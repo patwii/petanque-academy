@@ -160,13 +160,13 @@ Dê uma autoavaliação honesta (de 1 a 5):
 
 ## Neste módulo
 
-### [Protocolos de sono para competição](/en/education/sleep/competition)
+### [Protocolos de sono para competição](/pt/education/sleep/competition)
 - Na semana anterior à competição
 - Gestão de viagens e fusos horários
 - protocolos de cochilos revigorantes
 - Estratégias de emergência para &quot;Não consegui dormir&quot;
 
-### [Higiene do Sono para Atletas](/en/education/sleep/habits)
+### [Higiene do Sono para Atletas](/pt/education/sleep/habits)
 - Os 10 fundamentos do sono
 - Modelos de rotina noturna
 - O desafio de 30 dias para dormir bem
@@ -189,8 +189,8 @@ Somente essas duas mudanças podem melhorar a qualidade do sono em poucos dias.
 
 O sono está interligado a todos os outros aspetos do seu desempenho:
 
-- [Gestão da Tensão](/en/education/tension/) — Técnicas de relaxamento e de liberação miofascial para auxiliar o sono
+- [Gestão da Tensão](/pt/education/tension/) — Técnicas de relaxamento e de liberação miofascial para auxiliar o sono
 - Nutrição — O horário das refeições e o nível de açúcar no sangue afetam a qualidade do sono.
-- [Jogo Mental](/en/education/mental-game/) — O sono favorece a função cognitiva e o controle emocional
+- [Jogo Mental](/pt/education/mental-game/) — O sono favorece a função cognitiva e o controle emocional
 - Autoconsciência — Reconhecer quando a fadiga está afetando seu jogo
 

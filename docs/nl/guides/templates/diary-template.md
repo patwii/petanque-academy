@@ -468,11 +468,11 @@ Bekijk je agenda wekelijks om het volgende te signaleren:
 
 ## Gerelateerde bronnen
 
-- [Sjabloon voor het stellen van doelen](/en/guides/templates/goal-template) - Stel je verbeteringsdoelen vast en houd je voortgang bij
-- [Workshop](/en/guides/workshop/) - Groepssessies over mentale training en reflectie.
-- [Trainingssessie](/en/guides/training-session/) - Gestructureerde oefening met leeftijdsgenoten
-- [Mentale kracht](/en/education/mental-game/mental-strength/) - Bouw mentale veerkracht op
-- [Mindfulness](/en/education/mental-game/mindfulness/) - Ontwikkel bewustzijn en focus
+- [Sjabloon voor het stellen van doelen](/nl/guides/templates/goal-template) - Stel je verbeteringsdoelen vast en houd je voortgang bij
+- [Workshop](/nl/guides/workshop/) - Groepssessies over mentale training en reflectie.
+- [Trainingssessie](/nl/guides/training-session/) - Gestructureerde oefening met leeftijdsgenoten
+- [Mentale kracht](/nl/education/mental-game/mental-strength/) - Bouw mentale veerkracht op
+- [Mindfulness](/nl/education/mental-game/mindfulness/) - Ontwikkel bewustzijn en focus
 
 ---
 

@@ -222,8 +222,8 @@ Você deve monitorar seu sono? Considere:
 
 ## Conteúdo relacionado
 
-- [Ciência do Sono](/en/education/sleep/) — Entendendo por que o sono é importante
-- [Protocolos de Competição](/en/education/sleep/competition) — Dormir em torno de torneios
-- [Gestão da Tensão](/en/education/tension/) — Relaxamento Muscular Progressivo e Relaxamento para Dormir
-- [Mindfulness](/en/education/mental-game/mindfulness/) — Técnicas de respiração
+- [Ciência do Sono](/pt/education/sleep/) — Entendendo por que o sono é importante
+- [Protocolos de Competição](/pt/education/sleep/competition) — Dormir em torno de torneios
+- [Gestão da Tensão](/pt/education/tension/) — Relaxamento Muscular Progressivo e Relaxamento para Dormir
+- [Mindfulness](/pt/education/mental-game/mindfulness/) — Técnicas de respiração
 

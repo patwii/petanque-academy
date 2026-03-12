@@ -11,7 +11,7 @@ Cet atelier est une session théorique avancée de 3 à 4 heures destinée à 6 
 :::
 
 **Différence par rapport à la séance pour débutants :**
-- **Débutant (2-3 h) :** Introduction aux concepts du jeu mental → [Voir le guide du parcours mental](/en/guides/mental-journey/session-guide)
+- **Débutant (2-3 h) :** Introduction aux concepts du jeu mental → [Voir le guide du parcours mental](/fr/guides/mental-journey/session-guide)
 - **Niveau avancé (3-4 h) :** Travail psychologique approfondi avec exercices de vulnérabilité (cette page)
 
 ## Accès rapide
@@ -21,7 +21,7 @@ Cet atelier est une session théorique avancée de 3 à 4 heures destinée à 6 
 | **Pour les participants** | À quoi s&#39;attendre et comment se préparer | [Voir la section](#pour-participants) |
 | **À l&#39;attention des animateurs** | Guide complet de la séance et exercices | [Voir la section](#pour-animateurs) |
 | **Matériel de la session** | Exercices et feuilles de travail | [Voir les ressources](#facilitator-materials) |
-| **Guides associés** | Autres formats de formation | [Voyage mental](/en/guides/mental-journey/) • [Camp d&#39;entraînement](/en/guides/training-camp/) |
+| **Guides associés** | Autres formats de formation | [Voyage mental](/fr/guides/mental-journey/) • [Camp d&#39;entraînement](/fr/guides/training-camp/) |
 
 ---
 

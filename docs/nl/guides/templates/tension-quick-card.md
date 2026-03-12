@@ -130,8 +130,8 @@ Deze technieken werken het beste als je ze regelmatig oefent. Probeer ze niet vo
 
 ## Gerelateerde bronnen
 
-- [Technieken voor het loslaten van spanning](/en/education/tension/techiques) — Complete handleiding voor technieken
-- [Spanning begrijpen](/en/education/tension/) — De wetenschap achter spanning
-- [Competitie-spanningsmanagement](/en/education/tension/competition) — Wedstrijdprotocollen
-- [Voorbereidende training](/en/education/mental-game/mental-strength/pre-shot-routine) — Volledige routine-integratie
+- [Technieken voor het loslaten van spanning](/nl/education/tension/techiques) — Complete handleiding voor technieken
+- [Spanning begrijpen](/nl/education/tension/) — De wetenschap achter spanning
+- [Competitie-spanningsmanagement](/nl/education/tension/competition) — Wedstrijdprotocollen
+- [Voorbereidende training](/nl/education/mental-game/mental-strength/pre-shot-routine) — Volledige routine-integratie
 

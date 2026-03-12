@@ -99,12 +99,12 @@ Na het voltooien van uw beoordeling:
 
 ## Leer meer over elke factor.
 
-- [🧠 Mentale Spel](/en/education/mental-game/) — Flow-toestanden, mentale kracht, mindfulness
-- [🔥 Motivatie](/en/education/motivation/) — Doelstellingen formuleren, psychologie, langetermijnmotivatie
-- [😴 Slaap &amp; Herstel](/en/education/sleep/) — Slaapwetenschap, gewoonten, wedstrijdprotocollen
-- [🪞 Zelfbewustzijn](/en/education/self-awareness/) — Feedback, videoanalyse, blinde vlekken
-- [🥗 Voeding](/en/education/nutrition/) — Bloedsuiker, hydratatie, brandstof voor de wedstrijd
-- [🤝 Teamdynamiek](/en/education/team-dynamics/) — Communicatie, vertrouwen, teamcultuur
-- [💆 Spanningsmanagement](/en/education/tension/) — Ontspanningstechnieken, ademhalingsoefeningen, protocollen
-- [🎯 Techniek](/en/education/technique/) — Trainingsmethoden, tactieken, oefeningen
+- [🧠 Mentale Spel](/nl/education/mental-game/) — Flow-toestanden, mentale kracht, mindfulness
+- [🔥 Motivatie](/nl/education/motivation/) — Doelstellingen formuleren, psychologie, langetermijnmotivatie
+- [😴 Slaap &amp; Herstel](/nl/education/sleep/) — Slaapwetenschap, gewoonten, wedstrijdprotocollen
+- [🪞 Zelfbewustzijn](/nl/education/self-awareness/) — Feedback, videoanalyse, blinde vlekken
+- [🥗 Voeding](/nl/education/nutrition/) — Bloedsuiker, hydratatie, brandstof voor de wedstrijd
+- [🤝 Teamdynamiek](/nl/education/team-dynamics/) — Communicatie, vertrouwen, teamcultuur
+- [💆 Spanningsmanagement](/nl/education/tension/) — Ontspanningstechnieken, ademhalingsoefeningen, protocollen
+- [🎯 Techniek](/nl/education/technique/) — Trainingsmethoden, tactieken, oefeningen
 

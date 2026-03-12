@@ -130,8 +130,8 @@ Queste tecniche funzionano al meglio se praticate regolarmente. Non provatele pe
 
 ## Risorse correlate
 
-- [Tecniche di rilascio della tensione](/en/education/tension/techniques) — Guida completa alle tecniche
-- [Comprendere la tensione](/en/education/tension/) — La scienza alla base della tensione
+- [Tecniche di rilascio della tensione](/it/education/tension/techniques) — Guida completa alle tecniche
+- [Comprendere la tensione](/it/education/tension/) — La scienza alla base della tensione
 - [Gestione della tensione in gara](/it/istruzione/tensione/competizione) — Protocolli per il giorno della partita
 - [Routine pre-tiro](/it/educazione/gioco-mentale/forza-mentale/routine-pre-tiro) — Integrazione completa della routine
 

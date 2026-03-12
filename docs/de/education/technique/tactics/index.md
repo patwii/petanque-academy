@@ -255,7 +255,7 @@ Auf Spitzenniveau ist Scouting entscheidend. Kenne deine Gegner, bevor du spiels
 
 ## In diesem Abschnitt
 
-- **[Wahrscheinlichkeitsbasierte Entscheidungen](/en/education/technique/tactics/probability)** – Mathematik nutzen, um bessere Entscheidungen zu treffen
+- **[Wahrscheinlichkeitsbasierte Entscheidungen](/de/education/technique/tactics/probability)** – Mathematik nutzen, um bessere Entscheidungen zu treffen
 
 ## Zusammenfassung: Alle taktischen Regeln
 

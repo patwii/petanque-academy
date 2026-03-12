@@ -187,5 +187,5 @@ L&#39;essentiel est de canaliser cette énergie de manière productive plutôt q
 
 ---
 
-| *À lire aussi : [Gérer la pression](/en/education/mental-game/mental-strength/handling-pressure) | [Routine d&#39;avant-tir](/en/education/mental-game/mental-strength/pre-shot-routine) | [La Zone](/en/education/mental-game/the-zone/)* |
+| *À lire aussi : [Gérer la pression](/fr/education/mental-game/mental-strength/handling-pressure) | [Routine d&#39;avant-tir](/fr/education/mental-game/mental-strength/pre-shot-routine) | [La Zone](/fr/education/mental-game/the-zone/)* |
 

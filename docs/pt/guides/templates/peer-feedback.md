@@ -15,7 +15,7 @@ Modelos estruturados para solicitar e fornecer feedback honesto aos colegas de e
 **Como:** Compartilhe este formulário ou utilize a avaliação digital.
 
 ::: info Opção Digital
-Use a [Ferramenta de Avaliação do Jogador](/en/assessment/) com o recurso &quot;Obter Feedback de Colegas&quot; para comparação automática e detecção de pontos cegos.
+Use a [Ferramenta de Avaliação do Jogador](/pt/assessment/) com o recurso &quot;Obter Feedback de Colegas&quot; para comparação automática e detecção de pontos cegos.
 :::
 
 ---
@@ -180,8 +180,8 @@ Cada jogador declara:
 
 ## Recursos relacionados
 
-- [🎯 Ferramenta de Avaliação](/en/assessment/) — Autoavaliação digital + avaliação por pares
-- [Educação para a Autoconsciência](/en/education/self-awareness/) — Compreendendo os pontos cegos
-- [Modelo de Acordo de Equipe](/en/guides/templates/team-agreement) — Construindo a comunicação da equipe
-- [Diário de Treinamento](/en/guides/templates/diary-template) — Acompanhe seu desenvolvimento
+- [🎯 Ferramenta de Avaliação](/pt/assessment/) — Autoavaliação digital + avaliação por pares
+- [Educação para a Autoconsciência](/pt/education/self-awareness/) — Compreendendo os pontos cegos
+- [Modelo de Acordo de Equipe](/pt/guides/templates/team-agreement) — Construindo a comunicação da equipe
+- [Diário de Treinamento](/pt/guides/templates/diary-template) — Acompanhe seu desenvolvimento
 

@@ -79,7 +79,7 @@ Você não consegue enxergar seus próprios pontos cegos. Você precisa de persp
 
 **Avaliação por Pares**
 - Peça feedback honesto a colegas de equipe de confiança.
-- Utilize a [Ferramenta de Avaliação](/en/assessment/) para validação por pares.
+- Utilize a [Ferramenta de Avaliação](/pt/assessment/) para validação por pares.
 - Compare sua autoavaliação com a avaliação deles.
 
 **Observação do treinador**
@@ -119,7 +119,7 @@ Procure por padrões:
 
 ### Avaliação Mensal
 
-Utilize a ferramenta [Avaliação do Jogador](/en/assessment/):
+Utilize a ferramenta [Avaliação do Jogador](/pt/assessment/):
 
 - Avalie-se em todos os 8 fatores.
 - Solicitar validação por pares
@@ -172,7 +172,7 @@ A autoconsciência exige aceitar que:
 
 ## Passos a seguir
 
-1. **Hoje:** Conclua a [Autoavaliação](/en/assessment/)
+1. **Hoje:** Conclua a [Autoavaliação](/pt/assessment/)
 2. **Esta semana:** Solicite feedback de dois colegas de equipe de confiança.
 3. **Em andamento:** Estabelecer o hábito da reflexão diária
 4. **Mensalmente:** Acompanhe o progresso com avaliações repetidas.
@@ -181,7 +181,7 @@ A autoconsciência exige aceitar que:
 
 ## Conteúdo relacionado
 
-- [Módulo de Autoconhecimento](/en/education/self-awareness/) — Educação completa
-- [Avaliação do Jogador](/en/assessment/) — Avalie seus 8 fatores
-- [O Crítico Interior](/en/articles/inner-critic) — Gerenciando o autojulgamento
+- [Módulo de Autoconhecimento](/pt/education/self-awareness/) — Educação completa
+- [Avaliação do Jogador](/pt/assessment/) — Avalie seus 8 fatores
+- [O Crítico Interior](/pt/articles/inner-critic) — Gerenciando o autojulgamento
 

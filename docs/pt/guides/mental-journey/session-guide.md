@@ -16,7 +16,7 @@ Este guia ajuda você a conduzir uma sessão introdutória de 2 a 3 horas sobre 
 |---------|---------|--------|
 | **Para Participantes** | O que esperar da sessão | [Ver seção](#for-participants) |
 | **Para Facilitadores** | Plano de sessão completo e duração | [Ver seção](#para-facilitadores) |
-| **Materiais da Sessão** | Guias, slides e folhas de exercícios | [Ver Materiais](/en/guides/mental-journey/materials) |
+| **Materiais da Sessão** | Guias, slides e folhas de exercícios | [Ver Materiais](/pt/guides/mental-journey/materials) |
 | **Lista de verificação de preparação** | O que preparar antes da sessão | [Ver lista de verificação](#preparação-1-semana-antes) |
 
 ---
@@ -109,7 +109,7 @@ Você receberá:
 **1 semana antes:**
 - [ ] Reserve um quarto por 2 a 3 horas.
 - [ ] Convide de 6 a 12 participantes.
-- [ ] Adicione as páginas de materiais aos seus favoritos (consulte [Materiais](/en/guides/mental-journey/materials))
+- [ ] Adicione as páginas de materiais aos seus favoritos (consulte [Materiais](/pt/guides/mental-journey/materials))
 - [ ] Analise este guia cuidadosamente.
 - [ ] Prepare um flip chart ou um quadro branco.
 
@@ -360,7 +360,7 @@ Compartilhe exemplos.
 **Recursos:**
 - Distribua a folha de resumo.
 - Compartilhe o site: carreau.app
-- Módulo inicial recomendado: [The Zone](/en/education/mental-game/the-zone/)
+- Módulo inicial recomendado: [The Zone](/pt/education/mental-game/the-zone/)
 
 **Círculo de Encerramento:**
 &quot;Uma palavra para descrever como você está se sentindo agora.&quot;
@@ -419,10 +419,10 @@ Compartilhe exemplos.
 
 ## Materiais
 
-- [Guia do Participante](/en/guides/mental-journey/materials#participant-guide)
-- [Slides do Facilitador](/en/guides/mental-journey/materials#facilitator-slides)
-- [Folha Resumo](/en/guides/mental-journey/materials#summary-sheet)
-- [Folhas de exercícios](/en/guides/mental-journey/materials#exercise-worksheets)
+- [Guia do Participante](/pt/guides/mental-journey/materials#participant-guide)
+- [Slides do Facilitador](/pt/guides/mental-journey/materials#facilitator-slides)
+- [Folha Resumo](/pt/guides/mental-journey/materials#summary-sheet)
+- [Folhas de exercícios](/pt/guides/mental-journey/materials#exercise-worksheets)
 
 ---
 

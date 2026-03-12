@@ -21,7 +21,7 @@ Theorie ohne Praxis ist bloß Information. Praxis ohne Theorie ist bloß Wiederh
 | **Für Teilnehmer** | Wochenendprogramm und was Sie mitbringen sollten | [Abschnitt anzeigen](#for-participants) |
 | **Für Organisatoren** | Vollständiger Planungs- und Moderationsleitfaden | [Abschnitt anzeigen](#for-organizers) |
 | **Tagesablauf** | Detaillierter Zeitplan und Aktivitäten | [Freitag](#freitagabend-mentales-spiel-fundamentaltraining-3-4-stunden) • [Samstag](#samstag-praxis-anwendung-ganztags) • [Sonntag](#sonntag-wettbewerbsintegration-ganztags) |
-| **Verwandte Leitfäden** | Andere Trainingsformate | [Mentale Reise](/en/guides/mental-journey/) • [Workshop](/en/guides/workshop/) |
+| **Verwandte Leitfäden** | Andere Trainingsformate | [Mentale Reise](/de/guides/mental-journey/) • [Workshop](/de/guides/workshop/) |
 
 ---
 

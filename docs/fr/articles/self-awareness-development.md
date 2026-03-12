@@ -79,7 +79,7 @@ Vous ne pouvez pas voir vos propres angles morts. Vous avez besoin de points de 
 
 **Évaluation par les pairs**
 - Demandez un avis honnête à vos coéquipiers de confiance.
-- Utilisez l&#39;[outil d&#39;évaluation](/en/assessment/) pour la validation par les pairs
+- Utilisez l&#39;[outil d&#39;évaluation](/fr/assessment/) pour la validation par les pairs
 - Comparez votre auto-évaluation avec leur évaluation
 
 **Observation de l&#39;entraîneur**
@@ -119,7 +119,7 @@ Recherchez des schémas :
 
 ### Évaluation mensuelle
 
-Utilisez l&#39;outil [Évaluation du joueur](/en/assessment/) :
+Utilisez l&#39;outil [Évaluation du joueur](/fr/assessment/) :
 
 - Évaluez-vous sur chacun des 8 facteurs
 - Demande de validation par les pairs
@@ -172,7 +172,7 @@ La conscience de soi exige d&#39;accepter que :
 
 ## Étapes à suivre
 
-1. **Aujourd&#39;hui :** Complétez l&#39;[auto-évaluation](/en/assessment/)
+1. **Aujourd&#39;hui :** Complétez l&#39;[auto-évaluation](/fr/assessment/)
 2. **Cette semaine :** Demandez l’avis de deux collègues de confiance.
 3. **En cours :** Instaurer une habitude de réflexion quotidienne
 4. **Mensuel :** Suivre les progrès grâce à des évaluations répétées
@@ -182,6 +182,6 @@ La conscience de soi exige d&#39;accepter que :
 ## Contenu associé
 
 - Module de sensibilisation à soi-même — Formation complète
-- [Évaluation du joueur](/en/assessment/) — Évaluez vos 8 facteurs
-- [Le critique intérieur](/en/articles/inner-critic) — Gérer son propre jugement
+- [Évaluation du joueur](/fr/assessment/) — Évaluez vos 8 facteurs
+- [Le critique intérieur](/fr/articles/inner-critic) — Gérer son propre jugement
 

@@ -50,7 +50,7 @@ Um resultado real se parece com isto:
 - &quot;Quero uma tomada rolando que faça uma curva para a esquerda nesse tipo de terreno.&quot;
 - &quot;Quero um golpe devant suave que mal toque na bola alvo.&quot;
 
-**Primeiro, explore a [Paleta de Arremessos](/en/education/technique/throws)** para entender o que é possível. Depois, decida qual arremesso específico você deseja adicionar ao seu repertório. Só então você deve começar a trabalhar em como seu braço, pulso e corpo precisam se mover para criar esse resultado.
+**Primeiro, explore a [Paleta de Arremessos](/pt/education/technique/throws)** para entender o que é possível. Depois, decida qual arremesso específico você deseja adicionar ao seu repertório. Só então você deve começar a trabalhar em como seu braço, pulso e corpo precisam se mover para criar esse resultado.
 
 ## A maneira correta de trabalhar a técnica
 
@@ -64,7 +64,7 @@ Não estamos dizendo que você nunca deve trabalhar o braço, o pulso, a libera�
 
 Eis o processo:
 
-1. **Explore a [Paleta de Arremessos](/en/education/technique/throws)** — Identifique qual arremesso ou técnica você deseja adicionar ao seu repertório.
+1. **Explore a [Paleta de Arremessos](/pt/education/technique/throws)** — Identifique qual arremesso ou técnica você deseja adicionar ao seu repertório.
 2. **Visualize o resultado** — O que a bola deve fazer? Qual trajetória, aterrissagem, rotação e comportamento você precisa?
 3. **Em seguida, trabalhe na execução** — Agora você pode se concentrar na posição do braço, do pulso e do corpo, e na liberação para alcançar esse resultado específico.
 
@@ -119,14 +119,14 @@ Muitos jogadores experientes passam anos aprimorando a técnica que já possuem,
 ### O Caminho a Seguir
 
 **Para fotos melhores (novos recursos):**
-- Explore a [Paleta de Arremessos](/en/education/technique/throws)
+- Explore a [Paleta de Arremessos](/pt/education/technique/throws)
 - Escolha um novo arremesso específico para desenvolver.
 - Pratique a execução técnica.
 
 **Para mais chutes (consistência sob pressão):**
-- Trabalhe na [Força Mental](/en/education/mental-game/mental-strength/)
-- Aprenda a acessar [O Estado de Fluxo](/en/education/mental-game/the-zone/)
-- Desenvolva [Rotinas Pré-Arremesso](/en/education/mental-game/mental-strength/pre-shot-routine)
+- Trabalhe na [Força Mental](/pt/education/mental-game/mental-strength/)
+- Aprenda a acessar [O Estado de Fluxo](/pt/education/mental-game/the-zone/)
+- Desenvolva [Rotinas Pré-Arremesso](/pt/education/mental-game/mental-strength/pre-shot-routine)
 
 ## Nossa Perspectiva
 
@@ -159,13 +159,13 @@ Se você tem um foco técnico e deseja expandir seu repertório, esta seção de
 
 ## Tópicos
 
-### [Paleta de Arremessos](/en/education/technique/throws)
+### [Paleta de Arremessos](/pt/education/technique/throws)
 Quais são todos os tipos de arremesso que existem? Uma visão geral abrangente das possibilidades técnicas na petanca.
 
 ::: tip Depois da técnica, o que vem a seguir?
 Depois de dominar a técnica, o verdadeiro crescimento vem de:
 - **A Zona** - Acessando estados de fluxo
-- **[Força Mental](/en/education/mental-game/mental-strength/)** - Lidar com a pressão
-- **[Métodos de Treinamento](/en/education/technique/training/)** - Como praticar com eficácia
+- **[Força Mental](/pt/education/mental-game/mental-strength/)** - Lidar com a pressão
+- **[Métodos de Treinamento](/pt/education/technique/training/)** - Como praticar com eficácia
 :::
 

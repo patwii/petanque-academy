@@ -25,7 +25,7 @@ graph LR
 
 ## Leitfadenformate
 
-### 🌱 [Mentale Reise](/en/guides/mental-journey/)
+### 🌱 [Mentale Reise](/de/guides/mental-journey/)
 **Für Anfänger** – 2-3-stündige Einführung
 
 Ideal für Spieler, die neu im Mentaltraining sind. Eine sanfte Einführung in die Kernkonzepte mit praktischen Übungen.
@@ -33,11 +33,11 @@ Ideal für Spieler, die neu im Mentaltraining sind. Eine sanfte Einführung in d
 - Dauer: 2-3 Stunden
 - Gruppengröße: 4-12 Spieler
 - Materialien: Werden bereitgestellt
-- [Anleitung ansehen →](/en/guides/mental-journey/)
+- [Anleitung ansehen →](/de/guides/mental-journey/)
 
 ---
 
-### 🎯 [Workshop](/en/guides/workshop/)
+### 🎯 [Workshop](/de/guides/workshop/)
 **Für Fortgeschrittene** — 3-4 Stunden Tieftauchgang
 
 Strukturiertes Workshop-Format für Vereine und Mannschaften, die sich intensiver mit mentalem Training auseinandersetzen möchten.
@@ -45,11 +45,11 @@ Strukturiertes Workshop-Format für Vereine und Mannschaften, die sich intensive
 - Dauer: 3-4 Stunden
 - Gruppengröße: 6-8 Spieler
 - Beinhaltet: Koordinatorenleitfaden + herunterladbare Materialien
-- [Anleitung ansehen →](/en/guides/workshop/)
+- [Anleitung ansehen →](/de/guides/workshop/)
 
 ---
 
-### 🏕️ [Trainingslager](/en/guides/training-camp/)
+### 🏕️ [Trainingslager](/de/guides/training-camp/)
 **Für engagierte Teams** — Intensivwochenende
 
 Ein komplettes Wochenendprogramm mit Theorie, Praxis und Wettkampf. Ideal für Teams, die sich auf wichtige Turniere vorbereiten.
@@ -57,11 +57,11 @@ Ein komplettes Wochenendprogramm mit Theorie, Praxis und Wettkampf. Ideal für T
 - Dauer: 2-3 Tage
 - Gruppengröße: 10-20 Spieler
 - Beinhaltet: Vollständiges Programm + Organisationsmaterialien
-- [Anleitung ansehen →](/en/guides/training-camp/)
+- [Anleitung ansehen →](/de/guides/training-camp/)
 
 ---
 
-### 🔄 [Training Session](/en/guides/training-session/)
+### 🔄 [Training Session](/de/guides/training-session/)
 **Für regelmäßiges Training** — 2-4 Stunden strukturierte Trainingseinheiten
 
 Rahmenkonzept für regelmäßige Trainingseinheiten, die neben technischen Übungen auch mentale Fähigkeiten einbeziehen.
@@ -69,7 +69,7 @@ Rahmenkonzept für regelmäßige Trainingseinheiten, die neben technischen Übun
 - Dauer: 2-4 Stunden
 - Gruppengröße: 4 Spieler (ein Team)
 - Fokus: Wettbewerbssimulation mit Reflexion
-- [Anleitung ansehen →](/en/guides/training-session/)
+- [Anleitung ansehen →](/de/guides/training-session/)
 
 ---
 
@@ -77,10 +77,10 @@ Rahmenkonzept für regelmäßige Trainingseinheiten, die neben technischen Übun
 
 Herunterladbare Vorlagen zur Unterstützung Ihrer Entwicklung:
 
-### 📋 [Zielvorlage](/en/guides/templates/goal-template)
+### 📋 [Zielvorlage](/de/guides/templates/goal-template)
 Strukturiertes Arbeitsblatt zur Festlegung und Verfolgung Ihrer Pétanque-Ziele mithilfe des SMART-Rahmens.
 
-### 📓 [Tagebuchvorlage](/en/guides/templates/diary-template)
+### 📓 [Tagebuchvorlage](/de/guides/templates/diary-template)
 Vorlage für ein Trainings- und Wettkampftagebuch zur Erfassung von Fortschritten, Erkenntnissen und Verbesserungspotenzialen.
 
 ---
@@ -100,7 +100,7 @@ Jeder Leitfaden enthält Materialien sowohl für Teilnehmende als auch für Mode
 
 ## Verwandte Ressourcen
 
-- [🎯 Selbsteinschätzung](/en/assessment/) — Bewerten Sie Ihre 8 Faktoren und legen Sie Prioritäten fest.
-- [📚 Bildungsportal](/en/education/) — Vertiefende Analyse der 8 Leistungsfaktoren
-- [📝 Artikel](/en/articles/) — Forschung und Erkenntnisse
+- [🎯 Selbsteinschätzung](/de/assessment/) — Bewerten Sie Ihre 8 Faktoren und legen Sie Prioritäten fest.
+- [📚 Bildungsportal](/de/education/) — Vertiefende Analyse der 8 Leistungsfaktoren
+- [📝 Artikel](/de/articles/) — Forschung und Erkenntnisse
 

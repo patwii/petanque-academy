@@ -136,5 +136,5 @@ Votre critique intérieure fera toujours partie de vous. Mais avec la pratique, 
 
 ---
 
-| *À lire aussi : [Gérer la pression](/en/education/mental-game/mental-strength/handling-pressure) | [Routine d&#39;avant-tir](/en/education/mental-game/mental-strength/pre-shot-routine) | [Techniques de pleine conscience](/en/education/mental-game/mindfulness/techniques)* |
+| *À lire aussi : [Gérer la pression](/fr/education/mental-game/mental-strength/handling-pressure) | [Routine d&#39;avant-tir](/fr/education/mental-game/mental-strength/pre-shot-routine) | [Techniques de pleine conscience](/fr/education/mental-game/mindfulness/techniques)* |
 
